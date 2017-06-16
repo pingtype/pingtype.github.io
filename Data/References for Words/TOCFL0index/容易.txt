@@ -1,0 +1,63 @@
+CNLT/12. 王下 2 Kings 列王紀下/CNLT/12. 王下 2 Kings 列王紀下/王下 2 Kings 列王紀下 20.txt
+CNLT/14. 代下 2 Chronicles 歷代志下/CNLT/14. 代下 2 Chronicles 歷代志下/代下 2 Chronicles 歷代志下 32.txt
+CNLT/18. 伯 Job 約伯記/CNLT/18. 伯 Job 約伯記/伯 Job 約伯記 13.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 12.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 26.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 30.txt
+CNLT/23. 賽 Isaiah 以賽亞書/CNLT/23. 賽 Isaiah 以賽亞書/賽 Isaiah 以賽亞書 28.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 11.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 19.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 9.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 10.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 2.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 16.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 18.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 5.txt
+CNLT/44. 徒 Acts 使徒行傳/CNLT/44. 徒 Acts 使徒行傳/徒 Acts 使徒行傳 27.txt
+CNLT/58. 來 Hebrews 希伯來書/CNLT/58. 來 Hebrews 希伯來書/來 Hebrews 希伯來書 5.txt
+CNLT/7. 士 Judges 士師記/CNLT/7. 士 Judges 士師記/士 Judges 士師記 14.txt
+CNLT/7. 士 Judges 士師記/CNLT/7. 士 Judges 士師記/士 Judges 士師記 6.txt
+KHOP/KHOP/It’s My Joy To Love - 我喜悅來愛祢.txt
+KHOP/KHOP/index.html
+KHOP/KHOP/讓我們真認識祢.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Regulations for Evaluation of the Most Advantageous Tender.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Notes to the Design Standards of Urban Roads and Accessory Works.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Public Hazardous Substances & Flammable Pressurized Gases Establishment Standards & Safety Control Regulations.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Standard for Installation of Fire Safety Equipments Based on Use and Occupancy.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Implementation Rules for Bank Internal Audit and Internal Control System.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Implementation Rules for Credit Cooperative�s Internal Control and Internal Audit System.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing the Implementation of Internal Control and Audit System and Business Solicitation System of Insurance Agent Companies and Insurance Broker Companies.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing the Implementation of Internal Control and Audit Systems by Bills Houses.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing the Implementation of Internal Control and Audit Systems by Financial Holding Companies.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules of Act for Establishment and Administration of Science Parks.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Regulations Governing the Use of Commodity Inspection Mark?2002.01.09 promulgated?.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/The Establishment Standards of Construction and Equipment of a Food Factory.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing Telecommunications Numbers.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing the Handling of Mail.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing the Internal Controls and Audit System for Postal Remittances and Savings.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Road Traffic Management and Penalty Act.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/The Administrative Regulations on the Ship Radio Station.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/The Regulations for Administrating Passenger Ship.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations for the Inspection and Examination of Imported Medicaments.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations of Inspection of Imported Foods and Related Products.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Plant Protection and Quarantine Act.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Food Labeling.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Recreational fishery.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations of Import Quarantine Operation for Animal Products Transported by Closed Container.txt
+Joshuaband/Happy Day/Joshuaband/Happy Day/14. 特務聯盟 The League Of Special Agents.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/203040.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Beyond.Beauty.Taiwan.from.Above.2013.BluRay.720p.x264.DTS-HDWinG.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Crouching.Tiger.Hidden.Dragon.2000.BluRay.1080p.x264.DTS-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Eat Drink Man Woman (1994).cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Journey.to.the.West.Demon.Chapter.2017.1080p.WEB-DL.DD5.1.H264-TAiCHi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Jump.Ashin.2011.1080p.BluRay.x264.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Mayday.3DNA.Live.Action.Concert.Movie.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Our.Times.2015.BluRay.1080p.iPad.x264-HDHPad.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Spider.Lilies.2007.DVDRip.XviD-AsiSter.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/The.Sandwich.Man.1983.720p.BluRay.x264-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Au.Revoir.Taipei.2010.cht&amp;eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.1.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.2.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/征婚启事.The.Personals.1998.Blu-ray.cht.srt

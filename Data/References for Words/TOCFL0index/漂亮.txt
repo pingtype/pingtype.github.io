@@ -1,0 +1,46 @@
+CNLT/1. 創 Genesis 創世記/CNLT/1. 創 Genesis 創世記/創 Genesis 創世記 12.txt
+CNLT/1. 創 Genesis 創世記/CNLT/1. 創 Genesis 創世記/創 Genesis 創世記 26.txt
+CNLT/1. 創 Genesis 創世記/CNLT/1. 創 Genesis 創世記/創 Genesis 創世記 37.txt
+CNLT/10. 撒下 2 Samuel 撒母耳記下/CNLT/10. 撒下 2 Samuel 撒母耳記下/撒下 2 Samuel 撒母耳記下 13.txt
+CNLT/17. 斯 Esther 以斯帖記/CNLT/17. 斯 Esther 以斯帖記/斯 Esther 以斯帖記 2.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 4.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 7.txt
+CNLT/21. 傳 Ecclesiastes 傳道書/CNLT/21. 傳 Ecclesiastes 傳道書/傳 Ecclesiastes 傳道書 2.txt
+CNLT/21. 傳 Ecclesiastes 傳道書/CNLT/21. 傳 Ecclesiastes 傳道書/傳 Ecclesiastes 傳道書 9.txt
+CNLT/24. 耶 Jeremiah 耶利米書/CNLT/24. 耶 Jeremiah 耶利米書/耶 Jeremiah 耶利米書 46.txt
+CNLT/26. 結 Ezekiel 以西結書/CNLT/26. 結 Ezekiel 以西結書/結 Ezekiel 以西結書 16.txt
+CNLT/26. 結 Ezekiel 以西結書/CNLT/26. 結 Ezekiel 以西結書/結 Ezekiel 以西結書 23.txt
+CNLT/28. 何 Hosea 何西阿書/CNLT/28. 何 Hosea 何西阿書/何 Hosea 何西阿書 10.txt
+CNLT/38. 亞 Zechariah 撒迦利亞書/CNLT/38. 亞 Zechariah 撒迦利亞書/亞 Zechariah 撒迦利亞書 3.txt
+CNLT/4. 民 Numbers 民數記/CNLT/4. 民 Numbers 民數記/民 Numbers 民數記 24.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 23.txt
+CNLT/54. 提前 1 Timothy 提摩太前書/CNLT/54. 提前 1 Timothy 提摩太前書/提前 1 Timothy 提摩太前書 1.txt
+CNLT/54. 提前 1 Timothy 提摩太前書/CNLT/54. 提前 1 Timothy 提摩太前書/提前 1 Timothy 提摩太前書 6.txt
+CNLT/55. 提後 2 Timothy 提摩太後書/CNLT/55. 提後 2 Timothy 提摩太後書/提後 2 Timothy 提摩太後書 4.txt
+CNLT/66. 啟 Revelation 啟示錄/CNLT/66. 啟 Revelation 啟示錄/啟 Revelation 啟示錄 17.txt
+CNLT/66. 啟 Revelation 啟示錄/CNLT/66. 啟 Revelation 啟示錄/啟 Revelation 啟示錄 21.txt
+CNLT/7. 士 Judges 士師記/CNLT/7. 士 Judges 士師記/士 Judges 士師記 15.txt
+CNLT/9. 撒上 1 Samuel 撒母耳記上/CNLT/9. 撒上 1 Samuel 撒母耳記上/撒上 1 Samuel 撒母耳記上 25.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/203040.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Beyond.Beauty.Taiwan.from.Above.2013.BluRay.720p.x264.DTS-HDWinG.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Crouching.Tiger.Hidden.Dragon.2000.BluRay.1080p.x264.DTS-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Eat Drink Man Woman (1994).cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Empire.of.Silver.2009.CN.DVDRip.XviD-XTM.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Jump.Ashin.2011.1080p.BluRay.x264.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Mayday.3DNA.Live.Action.Concert.Movie.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/One.Day.2011.720p.BluRay.x264-Felony.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Our.Times.2015.BluRay.1080p.iPad.x264-HDHPad.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Spider.Lilies.2007.DVDRip.XviD-AsiSter.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Starry.Starry.Night.2011.BluRay.720p.DTS.x264-CHD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Au.Revoir.Taipei.2010.cht&amp;eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Zone.Pro.Site.2013.BluRay.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[藍色大門].Blue.Gate.Crossing.2002.DVDRip.XviD-iMBT.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.1.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.2.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/热带鱼.Tropical.Fish.1995.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/征婚启事.The.Personals.1998.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/最好的時光 Three Times cht&en.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/最遙遠的距離 The Most Distant Course ssf-tmdc.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/那些年，我們一起追的女孩 You Are the Apple of My Eye (2011) 720p BluRay.cht&eng.srt

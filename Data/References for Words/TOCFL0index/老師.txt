@@ -1,0 +1,61 @@
+CNLT/19. 詩 Psalms 詩篇/CNLT/19. 詩 Psalms 詩篇/詩 Psalms 詩篇 119.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 5.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 10.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 12.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 17.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 19.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 22.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 23.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 26.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 8.txt
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 9.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 10.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 12.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 13.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 14.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 4.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 5.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 9.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 10.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 11.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 12.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 17.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 18.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 19.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 20.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 21.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 22.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 3.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 5.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 6.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 7.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 8.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 9.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 1.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 11.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 13.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 20.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 8.txt
+CNLT/48. 加 Galatians 加拉太書/CNLT/48. 加 Galatians 加拉太書/加 Galatians 加拉太書 6.txt
+TaiwanLawChinese/B/TaiwanLawChinese/B/Family Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Standards for Establishing Children and Youth Welfare Institutes.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Implementing and Rewarding Skill Competitions Council of Labor Affairs, Executive Yuan.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Implementing and Rewarding Skill Competitions.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/203040.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Beyond.Beauty.Taiwan.from.Above.2013.BluRay.720p.x264.DTS-HDWinG.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Eat Drink Man Woman (1994).cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Empire.of.Silver.2009.CN.DVDRip.XviD-XTM.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Jump.Ashin.2011.1080p.BluRay.x264.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/One.Day.2011.720p.BluRay.x264-Felony.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Our.Times.2015.BluRay.1080p.iPad.x264-HDHPad.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Starry.Starry.Night.2011.BluRay.720p.DTS.x264-CHD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/The.Sandwich.Man.1983.720p.BluRay.x264-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Zone.Pro.Site.2013.BluRay.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[藍色大門].Blue.Gate.Crossing.2002.DVDRip.XviD-iMBT.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.1.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/热带鱼.Tropical.Fish.1995.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/征婚启事.The.Personals.1998.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/最遙遠的距離 The Most Distant Course ssf-tmdc.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/那些年，我們一起追的女孩 You Are the Apple of My Eye (2011) 720p BluRay.cht&eng.srt

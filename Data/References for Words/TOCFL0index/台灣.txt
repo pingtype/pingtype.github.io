@@ -1,0 +1,73 @@
+KHOP/KHOP/Consecration Song.txt
+KHOP/KHOP/Zealous Over Zion - 為錫安發熱心.txt
+KHOP/KHOP/index.html
+KHOP/KHOP/悅納的時候.txt
+KHOP/KHOP/台灣興起發光.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Act Governing the Recovery of Damage of Individual Rights during the Period of Martial Law.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Additional Articles of the Constitution of the Republic of China.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Offshore Islands Development Act.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/The Organization Act of the Research, Development and Evaluation Commission, Executive Yuan.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Construction Industry Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Hakka Basic Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Public Assistance Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulations of Coordination & Liaison between Coast Guard Administration, Executive Yuan and Ministry of National Defense.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Taiwan Police College Organization Act.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Compensation Act for Wrongful Trials on Charges of Sedition and Espionage during the Martial Law Period.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/The Implementing Regulation on Air-raid Practice.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations For Management Of Central Government Bonds.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Foreign Currency Bond Brokerage, Proprietary Trading, and Investment by Bills Finance Companies.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Foreign Investments by Insurance Companies.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Investment of Investment-linked Insurance.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Offshore Structured Products.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Securities Investment of Credit Cooperatives.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing The Establishment Criteria and Administration of The Industrial Bank.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations for the Management of the Various Reserves for Compulsory Automobile Liability Insurance.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations on the Handling of Counterfeit, Altered, and Imitation New Taiwan Dollar Notes and Coins by Financial Institutions.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Statute for Managing Deposits and Remittance in Bank of Taiwan�s Overseas Branches during Japanese Colonial Era.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Statute for the Establishment and Administration of the National Financial Stabilization Fund.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/The Regulations Governing Customs Clearance for Goods in Logistics Centers.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Commodity Labeling Act.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Regulations Governing On-the-job Training of Patent Attorney and Patent Agent.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Regulations Governing the Commendation of Excellent Exporters Importers.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Rules of Governing Electric Appliance Contractors.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Statute for Industrial Innovation.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/The Electricity Act.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Trademark Act.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Act for the Development of Tourism.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Administrative Regulation Governing Tariffs of Type I Telecommunications Enterprises.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulation on the Centralized Issuance of Weather Forecasts and Warnings.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing Investment of Postal Savings in Beneficiary Certificates, Listed Securities and Over-the-Counter Securities.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing the Internal Controls and Audit System for Postal Remittances and Savings.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Statute for Encouragement of Private Participation in Transportation Infrastructure Projects.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Telecommunications Universal Service Regulations.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations Governing Accreditation and Outsourced Accreditation Management of Pharmaceutical Testing Institutions.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations Governing Operation of the Communicable Disease.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Food Administration Act.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Fishing Vessels Conducting Saury Fishery in North Pacific Ocean.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Fishing Vessels Conducting Squid Jigging Fishery.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Issuing Distant Water Fisheries Catch Certificates.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Tuna Longline Fishing Vessels Proceeding to the Atlantic Ocean for Fishing Operation.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Tuna Longline Fishing Vessels Proceeding to the Indian Ocean for Fishing Operation.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Regulations for Tuna Longline or Purse Seine Fishing Vessels Proceeding to the Pacific Ocean for Fishing Operation.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Wildlife Conservation Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Implementing and Rewarding Skill Competitions Council of Labor Affairs, Executive Yuan.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Permission and Supervision of Private Employment Services Institution.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations of Application for Occupational Accident Insurance Disability Benefits for Insured Person Diagnosed With Occupational Disease Withdrawn from Labor Insurance.txt
+TaiwanLawChinese/O/TaiwanLawChinese/O/Management Regulations for the Import and Export of Industrial Waste.txt
+TaiwanLawChinese/O/TaiwanLawChinese/O/Standards for Determining Specific Items and Scope of Environmental Impact Assessments for Development Activities.txt
+TaiwanLawChinese/P/TaiwanLawChinese/P/Divestment of Shares in Terrestrial Television Act.txt
+TaiwanLawChinese/P/TaiwanLawChinese/P/Regulations for the Rating of Internet Content.txt
+TaiwanLawChinese/Q/TaiwanLawChinese/Q/Laws and Regulations Regarding Hong Kong & Macao Affairs.txt
+World_EscaperChinese/World_EscaperChinese/台灣日記 中秋人團圓賞月圓.txt
+Joshuaband/恢復榮耀/Joshuaband/恢復榮耀/1. 序曲＋台灣豐收 Harvest In.txt
+Joshuaband/永遠掌權/Joshuaband/永遠掌權/13. 福爾摩沙 R.O.C. Formosa R.O.C..txt
+Joshuaband/為摯愛的土地/Joshuaband/為摯愛的土地/12. 台灣我愛妳 Taiwan I Love You.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/203040.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Beyond.Beauty.Taiwan.from.Above.2013.BluRay.720p.x264.DTS-HDWinG.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Eat Drink Man Woman (1994).cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/The.Sandwich.Man.1983.720p.BluRay.x264-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Zone.Pro.Site.2013.BluRay.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.1.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.2.cht-eng.srt

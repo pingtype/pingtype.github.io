@@ -1,0 +1,474 @@
+KHOP/Agnus Dei - 哈利路亞.txt
+KHOP/All Things New - 一切都更新.txt
+KHOP/Alpha And Omega - 阿拉法俄梅嘎.txt
+KHOP/Amazing Grace - 奇異恩典.txt
+KHOP/Awake O Sleeper - 喚醒沈睡者.txt
+KHOP/Baruch Hashem Adonai - 主的名配得稱頌.txt
+KHOP/Be With You - 永遠敬拜.txt
+KHOP/Beauty- Beauty - 榮美 榮美.txt
+KHOP/Because He Lives - 因祂活著.txt
+KHOP/Because of You - 因為有祢.txt
+KHOP/Better Is One Day.txt
+KHOP/Blessed Be Your Name - 祢名配得稱頌.txt
+KHOP/Cannons.txt
+KHOP/Christ Is Enough - 唯主能滿足我.txt
+KHOP/Confidence In Love - 得著信心在愛裡.txt
+KHOP/Consuming Fire - 祢是烈火.txt
+KHOP/Dance Into The Land - 跳舞進應許地.txt
+KHOP/Deep Cries Out - 更深呼求.txt
+KHOP/Everlasting God - 永活全能真神.txt
+KHOP/Famous.txt
+KHOP/Filled With Glory - 充滿祢榮耀.txt
+KHOP/Fire Fall Down - 聖火降臨.txt
+KHOP/Forever - 直到永遠.txt
+KHOP/Found Faithful - 願能信實.txt
+KHOP/Freedom Reigns - 自由.txt
+KHOP/From The Ends Of The Earth - 從地極到地極.txt
+KHOP/Give Thanks - 獻上感恩.txt
+KHOP/Glory To The Lamb - 榮耀神羔羊.txt
+KHOP/God Is Able - 全能的神.txt
+KHOP/Grace Like Rain.txt
+KHOP/Happy Day.txt
+KHOP/Hark! The Herald Angels Sing.txt
+KHOP/Here I Am To Worship - 在這裡敬拜.txt
+KHOP/Here Is Love - 主的愛.txt
+KHOP/Holy Spirit- Thou Art Welcome - 聖靈 歡迎祢降臨.txt
+KHOP/Hosanna - 和散那.txt
+KHOP/How Great Is Our God - 我神多偉大.txt
+KHOP/How We Need The River - 何等渴慕活水.txt
+KHOP/I Am Free - 我自由.txt
+KHOP/I See Heaven - 看見天堂.txt
+KHOP/I Sing Praises - 我要歌頌祢聖名.txt
+KHOP/I Stand In Awe - 敬畏站立在祢面前.txt
+KHOP/I Surrender - 降服於祢.txt
+KHOP/I Will Exalt.txt
+KHOP/It Is Well - 我心靈得安寧.txt
+KHOP/It’s My Joy To Love - 我喜悅來愛祢.txt
+KHOP/Jesus- Let Me See Your Eyes - 耶穌 願能見祢眼.txt
+KHOP/Jesus.txt
+KHOP/Jurus'Lamatku.txt
+KHOP/Knocking On The Door Of Heaven.txt
+KHOP/Let Your Glory Fall - 願祢的榮耀降臨這地.txt
+KHOP/Let Your Glory Fall - 願祢的榮耀降臨這地（2014 GDOP）.txt
+KHOP/Lily Of The Valley - 谷中的百合.txt
+KHOP/Lord- I Lift Your Name On High - 主 我高舉祢的名.txt
+KHOP/Majesty - 敬拜主.txt
+KHOP/Majesty.txt
+KHOP/Mercy - 憐憫.txt
+KHOP/Mission's Flame - 宣教的火燄.txt
+KHOP/My Glory - 我榮耀.txt
+KHOP/My Redeemer Lives - 我救主活著.txt
+KHOP/My Saviour's Love - 救主的愛.txt
+KHOP/New Doxology - 新三一頌.txt
+KHOP/No One Else - 無人能夠.txt
+KHOP/Nothing Is Impossible - 在祢沒難成的事.txt
+KHOP/O God- You Are My God - 喔 神 祢是我神.txt
+KHOP/One Day - 超乎我所求所想.txt
+KHOP/One Thing Remains - 祢愛不變.txt
+KHOP/One Thing Remains - 因祢的愛（活水）.txt
+KHOP/Revelation Song - 啟示錄之歌.txt
+KHOP/Rising Sun.txt
+KHOP/Sing Your Praise - 高聲讚美.txt
+KHOP/Sing.txt
+KHOP/Stronger - 更堅固.txt
+KHOP/Take Me In - 進入祢至聖所.txt
+KHOP/The Heart Of Worship - 真實的敬拜.txt
+KHOP/The Shout Of El Shaddai.txt
+KHOP/There Is None Like You - 無人能像祢.txt
+KHOP/There Is One Found Worthy - 唯有祢是配得 (Chorus).txt
+KHOP/This Is Amazing Grace - 這是奇妙恩典.txt
+KHOP/This is what you do.txt
+KHOP/To Our God.txt
+KHOP/We Believe - 我相信.txt
+KHOP/What The Lord Has Done In Me - 軟弱的我變剛強.txt
+KHOP/When I Think About The Lord.txt
+KHOP/Where I Belong - 心所屬之處.txt
+KHOP/Worth It All - 唯有祢配得.txt
+KHOP/Worthy Is The Lamb - 神羔羊配得.txt
+KHOP/Worthy Of It All - 祢配得所有.txt
+KHOP/Worthy Of It All - 祢配得所有（IHOP）.txt
+KHOP/You Are Holy - 祢是聖潔.txt
+KHOP/You Are My All In All - 祢是我的一切.txt
+KHOP/You Are My Great Reward - 祢是我的獎賞.txt
+KHOP/You Deserve The Glory - 祢真配得榮耀.txt
+KHOP/You Satisfy My Soul - 主祢滿足我心.txt
+KHOP/You Stand Alone - 無人能比.txt
+KHOP/You’re Worthy Of My Praise - 唯祢配得大讚美.txt
+KHOP/index.html
+KHOP/主 我跟祢走.txt
+KHOP/禧年 - Tahun Yobel.txt
+KHOP/耶穌 萬國的盼望.txt
+KHOP/耶穌 超乎萬名之名.txt
+KHOP/榮耀.txt
+KHOP/聖所.txt
+KHOP/活出愛.txt
+KHOP/來高聲唱.txt
+KHOP/全然為祢.txt
+KHOP/別無他名.txt
+KHOP/因約站立.txt
+KHOP/寶貴十架.txt
+KHOP/復興之火.txt
+KHOP/改變世界.txt
+KHOP/新的親密.txt
+KHOP/深觸我心.txt
+KHOP/湧出活水.txt
+KHOP/滿有能力.txt
+KHOP/無價至寶.txt
+KHOP/生命氣息.txt
+KHOP/震動天地.txt
+KHOP/兒子的旅程 新婦的心.txt
+KHOP/我何等愛祢 阿爸天父（Dalamnya kasihMu）.txt
+KHOP/原住民組曲.txt
+KHOP/宣教的中國.txt
+KHOP/悅納的時候.txt
+KHOP/榮美的救主.txt
+KHOP/榮耀歸我神.txt
+KHOP/永遠的榮耀.txt
+KHOP/盡情的敬拜.txt
+KHOP/進入啓示錄.txt
+KHOP/祢的同在（Hadiratmu Membawa Kesembuhan）.txt
+KHOP/⼀切歌頌讚美 (2014 GDOP).txt
+KHOP/一切歌頌讚美.txt
+KHOP/在呼召我之處.txt
+KHOP/如鷹展翅上騰.txt
+KHOP/萬國列邦敬拜.txt
+KHOP/祢是配得（聖哉 聖哉 全地唱）.txt
+KHOP/別無他名能相比.txt
+KHOP/展開清晨的翅膀.txt
+KHOP/我們成為一家人.txt
+KHOP/我要親身經歷祢.txt
+KHOP/為基督贏得城市.txt
+KHOP/祢神蹟如此真實.txt
+KHOP/讓我們真認識祢.txt
+KHOP/配得敬拜的羔羊.txt
+KHOP/領我到祢寶血裡.txt
+KHOP/主的喜樂是我力量.txt
+KHOP/榮耀之處就有耶穌.txt
+KHOP/神羔羊是萬王之王.txt
+KHOP/祢是我生命的亮光.txt
+KHOP/坐在寶座上聖潔羔羊.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/1. We Will Not Be Shaken   我們必不動搖.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/10. Jesus, We Love You   耶穌我愛你.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/11. No Longer Slaves   不再被奴役.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/2. Ever Be   永遠讚美.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/3. I Will Exalt   我要尊崇.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/4. Love Came Down  愛降臨.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/7. You Make Me Brave  你讓我勇敢.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/8. Hope's Anthem   盼望之歌.txt
+Joshuaband/Bethel 金選中文敬拜專輯1/9. In over my head (Crash Over Me)   沉浸在你愛中.txt
+Joshuaband/Happy Day/11. 你掌權  Our God Reign.txt
+Joshuaband/Happy Day/12. 主的愛  Here Is Love.txt
+Joshuaband/Happy Day/13. 重來的力量  The Power To Start Over.txt
+Joshuaband/Happy Day/14. 特務聯盟 The League Of Special Agents.txt
+Joshuaband/Happy Day/2. Happy Day.txt
+Joshuaband/Happy Day/4. 用我全心  With All My Heart.txt
+Joshuaband/Happy Day/5. 和散那  Hosanna.txt
+Joshuaband/Happy Day/9. 避難所 Hiding Place.txt
+Joshuaband/城牆/10. FOUND IN YOU   在你懷中我安息.txt
+Joshuaband/城牆/13. CLOSE TO YOU   親近你.txt
+Joshuaband/城牆/14. WALLS   城牆.txt
+Joshuaband/城牆/3. YOU STAND   我主站立.txt
+Joshuaband/城牆/4. GRACE THAT WON’T LET GO   恩典與我同行.txt
+Joshuaband/城牆/6. UNDONE (WE CRY OUT)   若沒有你 (我呼求).txt
+Joshuaband/城牆/7. LIVING IN YOUR FREEDOM    活在你自由裡.txt
+Joshuaband/點燃/1. 生命真光   Light of Our Lives.txt
+Joshuaband/點燃/2. 勝過死亡的權勢   Conquer the Power of Death.txt
+Joshuaband/點燃/3. 使我得生命   Alive.txt
+Joshuaband/點燃/4. 基督是我滿足   Christ is Enough.txt
+Joshuaband/主掌權/1. 新三一頌 New Doxology.txt
+Joshuaband/主掌權/11. 香膏的玉瓶 Alabaster Jar.txt
+Joshuaband/主掌權/13. 啟示錄之歌 Revelation Song.txt
+Joshuaband/主掌權/5. 我呼求 We Cry Out.txt
+Joshuaband/主掌權/7. 我宣告你名 When I Speak Your Name.txt
+Joshuaband/主掌權/9. 你是神 You, You Are God.txt
+Joshuaband/愛贏了/10. 耶穌唯有你  Jesus It Is You.txt
+Joshuaband/愛贏了/11. 愛贏了  Let Love Win.txt
+Joshuaband/超自然/1. 何其偉大   How Great Are You.txt
+Joshuaband/超自然/6. 我獻上    Unto You.txt
+Joshuaband/超自然/8. 不停止讚美   Never Stop Praising.txt
+Joshuaband/上帝能夠/11. 你信實保守我 You Are Faithful To Keep Me.txt
+Joshuaband/上帝能夠/2. 勝過這世界 More Than Conqueror.txt
+Joshuaband/上帝能夠/4. 何等偉大的愛 How Great Is Your Love.txt
+Joshuaband/堅強的愛/11. 進城曲 King Is Here (Studio).txt
+Joshuaband/堅強的愛/12. 就是現在 Now (Studio).txt
+Joshuaband/堅強的愛/9. 耶穌基督 In Christ Alone.txt
+Joshuaband/恢復榮耀/1. 序曲＋台灣豐收 Harvest In.txt
+Joshuaband/恢復榮耀/4. 無價至寶 Priceiess.txt
+Joshuaband/恢復榮耀/5. 在呼召我之處  The Piace Of Calling.txt
+Joshuaband/恢復榮耀/8. Shekinah榮耀 Shekinah Glory.txt
+Joshuaband/抓住永恆/10. I’m on Fire.txt
+Joshuaband/抓住永恆/12. 直到永遠   Forever.txt
+Joshuaband/抓住永恆/13. 我的拯救者.txt
+Joshuaband/抓住永恆/3. God is Great.txt
+Joshuaband/抓住永恆/4. 一直到永遠 Here To Eternity.txt
+Joshuaband/抓住永恆/6. 神羔羊配得   Worthy is the Lamb.txt
+Joshuaband/抓住永恆/8. 美麗的夜裡.txt
+Joshuaband/榮美輝煌/1. 復興已點燃了.txt
+Joshuaband/榮美輝煌/12. 重生.txt
+Joshuaband/榮美輝煌/6. 潔淨我.txt
+Joshuaband/榮美輝煌/8. 與耶穌同行   Walking with Jesus.txt
+Joshuaband/永遠掌權/10. 耶穌讓我看見你 耶穌釋放我 無人能夠.txt
+Joshuaband/永遠掌權/13. 福爾摩沙 R.O.C. Formosa R.O.C..txt
+Joshuaband/永遠掌權/3. 都說 Say So.txt
+Joshuaband/永遠掌權/4. 開啟我的雙眼 Open My Eyes.txt
+Joshuaband/禱告的殿/4. 神羔羊配得、榮耀神羔羊 Worthy Is The Lamb of the God  Glory To The Lamb.txt
+Joshuaband/禱告的殿/5. 屈膝在祂座前 Bow Down Before His Throne.txt
+Joshuaband/禱告的殿/6. 祂在乎 Someone Care.txt
+Joshuaband/禱告的殿/7. 神本為大 God iS Great.txt
+Joshuaband/禱告的殿/9. 大能的愛 God’s Mighty Love.txt
+Joshuaband/竭力追求/2. 好土   Have the Glory (I Wanna Be the Good Soil).txt
+Joshuaband/竭力追求/6. 器皿   You Vessel.txt
+Joshuaband/竭力追求/7. 有一個盼望   There Is A hope.txt
+Joshuaband/觸摸到你/1. 居住在我心   Inside of Me.txt
+Joshuaband/觸摸到你/11. 我們歡迎   You Are Welcome.txt
+Joshuaband/觸摸到你/6. 來到十架前   Find Me At The Cross.txt
+Joshuaband/觸摸到你/8. 我救主活著   My Redeemer Lives.txt
+Joshuaband/祂的國度 祂的榮耀/11. 你是配得  You Are Worthy.txt
+Joshuaband/祂的國度 祂的榮耀/2. 超乎我所求所想   One Day.txt
+Joshuaband/祂的國度 祂的榮耀/3. 全心全意   With All of My Heart.txt
+Joshuaband/祂的國度 祂的榮耀/4. 我相信   I’ve Got Faith.txt
+Joshuaband/祂的國度 祂的榮耀/7. 祂的國度   This Kingdom.txt
+Joshuaband/祂的應許 祂的軍隊/3. 我們已被揀選 We’ve Been Chosen.txt
+Joshuaband/祂的應許 祂的軍隊/8. 來宣揚主耶穌的聖名   Come Magnify the Name of Lord.txt
+Joshuaband/祂的應許 祂的軍隊/9. 你真偉大   How Great You Ar.txt
+Joshuaband/亞洲為耶穌/1. 我自由 I Am free.txt
+Joshuaband/亞洲為耶穌/10. 天父的愛  The Father's Love.txt
+Joshuaband/亞洲為耶穌/11. 你是配得  You Are Worthy.txt
+Joshuaband/亞洲為耶穌/13. 幾千公里 Thousands Of Miles (2014年天國文化特會形象主題曲).txt
+Joshuaband/亞洲為耶穌/2. 再做一次 Do It Again.txt
+Joshuaband/亞洲為耶穌/4. 你愛不變  One Thing Remains.txt
+Joshuaband/亞洲為耶穌/8. 超自然能力 Supernatural Power.txt
+Joshuaband/亞洲為耶穌/9. 亞洲為耶穌Asia For JESUS   神的軍隊Army Of God.txt
+Joshuaband/向列國宣告/15. 經歷你的大愛 Experience Your Great Love.txt
+Joshuaband/向列國宣告/4. 和撒那   Hosanna.txt
+Joshuaband/向列國宣告/6. 向列國宣告   We Speak to Nations.txt
+Joshuaband/向列國宣告/9. 幸福頻率   Beatitude Frequency.txt
+Joshuaband/我相信神蹟/10. 你愛真偉大 How Great Is Your Love.txt
+Joshuaband/我相信神蹟/4. 當我來敬拜你 When I Worship You.txt
+Joshuaband/我相信神蹟/5. 最偉大的事 The Greatest Thing.txt
+Joshuaband/我相信神蹟/6. 你神蹟如此真實 Miracles Are Real.txt
+Joshuaband/我相信神蹟/7. 醫治恩流 The River.txt
+Joshuaband/我相信神蹟/8. 聖靈,歡迎你降臨、 你真配得榮耀 Holy Spirit,Thou Art welcome  You deserve the Glory.txt
+Joshuaband/我相信神蹟/9. 我相信神蹟 I believe in Miracles.txt
+Joshuaband/打開眾城門/17. 忍上忍.txt
+Joshuaband/打開眾城門/6. 差我  Send Me.txt
+Joshuaband/打開眾城門/9. 出口.txt
+Joshuaband/榮美的救主/1. 光芒   Shine.txt
+Joshuaband/榮美的救主/10. 榮耀救主   Glorious Redeemer.txt
+Joshuaband/榮美的救主/14. 西北風   Worth Your Life.txt
+Joshuaband/榮美的救主/4. 榮美的救主   Beautiful Savior.txt
+Joshuaband/榮美的救主/6. 十字架上   On The Cross.txt
+Joshuaband/永遠屬於你/11. Great Great God   偉大奇妙神.txt
+Joshuaband/永遠屬於你/12. Victorious   全然得勝.txt
+Joshuaband/永遠屬於你/13. Worship The Great I Am   敬拜全能真神.txt
+Joshuaband/永遠屬於你/2. Be Lifted Higher   被高舉.txt
+Joshuaband/永遠屬於你/3. Every Day I Live   活著屬於你.txt
+Joshuaband/永遠屬於你/7. Sun & Shield   太陽和盾牌.txt
+Joshuaband/永遠屬於你/8. Love has done it   是你的愛.txt
+Joshuaband/永遠屬於你/9. God and King   至高神大君王.txt
+Joshuaband/潮汐．現場/1. For The Cross   你的十架.txt
+Joshuaband/潮汐．現場/10. Ascend   登耶和華的山.txt
+Joshuaband/潮汐．現場/2. Heaven’s Song   天堂之歌.txt
+Joshuaband/潮汐．現場/5. Forever   直到永遠.txt
+Joshuaband/潮汐．現場/9. Be Still   安靜.txt
+Joshuaband/祂使我滿足/11. 我獻上感恩 Give Thanks.txt
+Joshuaband/祂使我滿足/12. 屈膝在你座前 Bow Down Before His Throne.txt
+Joshuaband/祂使我滿足/13. 你的同在 喔主 Your Presence Oh Lord.txt
+Joshuaband/祂使我滿足/3. 耶穌對我真好 He Is So Good To Me.txt
+Joshuaband/祂使我滿足/4. 祂使我滿足 He Is My Satisfaction.txt
+Joshuaband/祂使我滿足/9. 神本為大 God Is Great.txt
+Joshuaband/聽我的呼求/11. 何等愛你 How I Love You.txt
+Joshuaband/聽我的呼求/13. 你所愛的 天父的愛  Your Beloved I ather’s Love.txt
+Joshuaband/聽我的呼求/3. 耶穌對我真好 He Is So Good To Me.txt
+Joshuaband/聽我的呼求/4. 主你聖名配得讚美  The Lord Is Worthy To Be Praised.txt
+Joshuaband/聽我的呼求/6. 祂永遠看顧你 He Always Watches Over You.txt
+Joshuaband/這就是活著/11. Back to Life   生命的源頭.txt
+Joshuaband/這就是活著/7. Energy   能力.txt
+Joshuaband/頌讚歸於你/1. 神正在這裡 God Is With Us Now.txt
+Joshuaband/頌讚歸於你/11. 唯有你榮耀神 Glorify You Alone.txt
+Joshuaband/頌讚歸於你/15. 頌讚歸於你 God Be Praised.txt
+Joshuaband/頌讚歸於你/2. 讚美 Praise Him.txt
+Joshuaband/頌讚歸於你/3. 勝利 Victory.txt
+Joshuaband/頌讚歸於你/6. 主寶血 O The Blood.txt
+Joshuaband/頌讚歸於你/8. 靠著主恩典 By The Grace Of God.txt
+Joshuaband/天國文化復興/11. 一件事 Onething.txt
+Joshuaband/天國文化復興/12. 相信擁抱 Embrace.txt
+Joshuaband/天國文化復興/3. 我呼求生命 I Ask You For Life.txt
+Joshuaband/天國文化復興/7. 神的軍隊 Army of God.txt
+Joshuaband/為了這個世界/1. 向我神 To Our God.txt
+Joshuaband/為了這個世界/10. 這是你所做 This Is What You Do.txt
+Joshuaband/為了這個世界/3. 這是奇妙恩典 This Is Amazing Grace.txt
+Joshuaband/為了這個世界/4. 你得著我 You Have Won Me.txt
+Joshuaband/為了這個世界/5. 就是你 Who You Are.txt
+Joshuaband/為了這個世界/7. 你光中 In Your Light.txt
+Joshuaband/為了這個世界/8. 自由 Freedom.txt
+Joshuaband/為摯愛的土地/10. 為摯愛的土地 For Our Beloved Land.txt
+Joshuaband/為摯愛的土地/6. 從天上垂聽 Hear Us From Heaven.txt
+Joshuaband/為摯愛的土地/9. 我的國家要彰顯你的榮耀 Magnify Your Glory In Our Nation.txt
+Joshuaband/為著你的榮耀/12. 恩典之流 The River of Grace.txt
+Joshuaband/為著你的榮耀/2. 一切都更新 All Things New.txt
+Joshuaband/為著你的榮耀/3. 我要全心稱頌我的主 I Will Bless the Lord.txt
+Joshuaband/為著你的榮耀/6. 純潔的心 A Pure Heart.txt
+Joshuaband/直到世界盡頭/1. 遠超過   Better Than Life.txt
+Joshuaband/直到世界盡頭/14. 永遠尊貴.txt
+Joshuaband/直到世界盡頭/15. 第一步.txt
+Joshuaband/直到世界盡頭/6. 耶穌正在這裡   Jesus is Here Right Now.txt
+Joshuaband/直到世界盡頭/9. 是你.txt
+Joshuaband/主祢是我們的太陽/1. 主祢是我們的太陽   Lord, You Are Our Sun.txt
+Joshuaband/主祢是我們的太陽/10. 永遠與我同在   Always By My Side.txt
+Joshuaband/主祢是我們的太陽/11. 成為祝福   Become a Blessing.txt
+Joshuaband/主祢是我們的太陽/3. 寶血誓約   The Blood Covenant.txt
+Joshuaband/主祢是我們的太陽/9. 我安然居住   Dwelling In Peace.txt
+Joshuaband/雙膝跪下．觸摸天堂/1. 耶穌之名   In Jesus` Name.txt
+Joshuaband/雙膝跪下．觸摸天堂/11. 大步向前吧   Take a Big Step.txt
+Joshuaband/雙膝跪下．觸摸天堂/4. 親愛聖靈   Holy Spirit.txt
+Joshuaband/雙膝跪下．觸摸天堂/6. 你配得全所有 我尊崇你 Worthy of It All   I Exalt Thee.txt
+Joshuaband/雙膝跪下．觸摸天堂/8. 觸摸天堂   Touch the Sky.txt
+StreamOfPraise/A New Creation/Jehovah Shalom.txt
+StreamOfPraise/A New Creation/Jesus, Your Name.txt
+StreamOfPraise/A New Creation/Shout for Joy.txt
+StreamOfPraise/A New Creation/Your Love Is Deep And Wide.txt
+StreamOfPraise/A New You/Into Your Presence.txt
+StreamOfPraise/A New You/Jehovah, You Are My God.txt
+StreamOfPraise/A New You/Love One Another.txt
+StreamOfPraise/All Honor To You/All Honor To You.txt
+StreamOfPraise/All Honor To You/Living Water.txt
+StreamOfPraise/All Honor To You/Once Again.txt
+StreamOfPraise/All Honor To You/Shake the Heaven and Earth.txt
+StreamOfPraise/All Honor To You/You Are Worthy.txt
+StreamOfPraise/Awakening/Abundant Life.txt
+StreamOfPraise/Awakening/Arise and Shine.txt
+StreamOfPraise/Awakening/Arise, and Shine [Reprise].txt
+StreamOfPraise/Awakening/Look Upon Jesus.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/Abiding in You.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/Beatitudes.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/Come and Rule This Land.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/Found in You.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/The Lifter of My Head.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/The Year of Jubilee.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/Transformation.txt
+StreamOfPraise/Believe in Love, You Will See Miracles/You are Worthy [Holy, Holy, All Nations Sing].txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/Cleanse Me, Lord.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/How Could It Be.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/I Am Strengthened in Him.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/Jesus, You Heal.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/The Lord Has Done Great Thing For Us.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/Turn My Life To You.txt
+StreamOfPraise/Do Not Give Up, I Am Strengthened in Him/Your Love Is Deep And Wide.txt
+StreamOfPraise/Fill Our Hearts With Love/How Blessed.txt
+StreamOfPraise/Fill Our Hearts With Love/Look Upon Jesus.txt
+StreamOfPraise/Fill Our Hearts With Love/More Love.txt
+StreamOfPraise/For You Alone/Jehovah Nissi.txt
+StreamOfPraise/For You Alone/Jesus, Jesus.txt
+StreamOfPraise/For You Alone/Lord, I Walk With You.txt
+StreamOfPraise/For You Alone/The Whole Earth Will Sing.txt
+StreamOfPraise/For You Alone/Your Presence.txt
+StreamOfPraise/For You Alone/Your Promise.txt
+StreamOfPraise/G.L.O.W./Holding On To You.txt
+StreamOfPraise/G.L.O.W./Let the World Know.txt
+StreamOfPraise/G.L.O.W./Praise My Lord [Jazz].txt
+StreamOfPraise/G.L.O.W./Praise My Lord.txt
+StreamOfPraise/Glory/From Now till Evermore.txt
+StreamOfPraise/Glory/Hand in Hand.txt
+StreamOfPraise/Glory/I Surrender My All.txt
+StreamOfPraise/Glory/Lord, It's Your Love [Taiwanese].txt
+StreamOfPraise/Glory/Thank You Lord.txt
+StreamOfPraise/How Precious You are to Me/Glorious King.txt
+StreamOfPraise/How Precious You are to Me/How Precious You are To Me.txt
+StreamOfPraise/How Precious You are to Me/Into His Abundance.txt
+StreamOfPraise/How Precious You are to Me/The Joy of the Lord Is My Strength.txt
+StreamOfPraise/How Precious You are to Me/The Purest Worship.txt
+StreamOfPraise/How Precious You are to Me/You Alone Are Worthy.txt
+StreamOfPraise/I Long to See You/I Long to See You.txt
+StreamOfPraise/I Long to See You/Unconditional Love.txt
+StreamOfPraise/I Long to See You/Wings of the Dawn.txt
+StreamOfPraise/I Want to See/Born to Love.txt
+StreamOfPraise/I Want to See/In the Highest.txt
+StreamOfPraise/I Want to See/This Is the Day.txt
+StreamOfPraise/I Want to See/You Will Always Do Great Things.txt
+StreamOfPraise/It's Good To Know You/Precious Cross.txt
+StreamOfPraise/Jehovah's Blessings Abound/The Sacrificial Love.txt
+StreamOfPraise/Just Like Heaven/Hear My Voice.txt
+StreamOfPraise/Just Like Heaven/I Will Always Rejoice.txt
+StreamOfPraise/Just Like Heaven/Just Like Heaven.txt
+StreamOfPraise/Let Praise Arise/Nothing But The Blood.txt
+StreamOfPraise/Let Praise Arise/Who Is Like You.txt
+StreamOfPraise/Little Dream/I Am Strengthened in Him.txt
+StreamOfPraise/Little Dream/Praise My Lord.txt
+StreamOfPraise/Little Dream/The Joy of the Lord Is My Strength.txt
+StreamOfPraise/Love Overflows/Amazing Love.txt
+StreamOfPraise/Love Overflows/Autumn Blessing.txt
+StreamOfPraise/Love Overflows/Worship At Your Throne [Reprise].txt
+StreamOfPraise/Love Overflows/Worship At Your Throne.txt
+StreamOfPraise/Made New/Come to Worship.txt
+StreamOfPraise/Made New/Glory to You.txt
+StreamOfPraise/Made New/Heal Me, Lord.txt
+StreamOfPraise/Made New/I Want to Go to a Place.txt
+StreamOfPraise/Made New/With Our Praises Shake the World.txt
+StreamOfPraise/Made New/Won't Give Up.txt
+StreamOfPraise/Made New/Your Salt and Light.txt
+StreamOfPraise/More Love/Cry Out for the Lord.txt
+StreamOfPraise/More Love/Jehovah Shalom.txt
+StreamOfPraise/More Love/Jesus, Your Name.txt
+StreamOfPraise/More Love/More Love.txt
+StreamOfPraise/More Love/My House Will Praise You.txt
+StreamOfPraise/More Love/You Have Set Me Free.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/Day and Night.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/Great Is Your Love.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/I Have Been Set Free.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/I Will Obey.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/The Grace of Redemption.txt
+StreamOfPraise/Open Heaven – I Live to Worship You/Worthy of Praise.txt
+StreamOfPraise/Praise in the Desert/Change the World.txt
+StreamOfPraise/Praise in the Desert/Come and Worship.txt
+StreamOfPraise/Praise in the Desert/Fountain of Joy.txt
+StreamOfPraise/Praise in the Desert/Light of the World.txt
+StreamOfPraise/Praise in the Desert/Precious Pearl.txt
+StreamOfPraise/Precious Corner/Because of You.txt
+StreamOfPraise/Precious Corner/By The Cross.txt
+StreamOfPraise/Precious Corner/I Choose To Believe.txt
+StreamOfPraise/Precious Corner/You Are the Refuge.txt
+StreamOfPraise/Precious Corner/You Have Made My Life Beautiful.txt
+StreamOfPraise/Precious Cross/Chosen.txt
+StreamOfPraise/Precious Cross/Holy, Holy, Holy.txt
+StreamOfPraise/Precious Cross/In the Cross.txt
+StreamOfPraise/Precious Cross/Precious Cross.txt
+StreamOfPraise/Precious Cross/This Generation.txt
+StreamOfPraise/Precious Cross/We Worship You.txt
+StreamOfPraise/Precious Cross/You Are Holy.txt
+StreamOfPraise/Rainbow/A Brand New Day.txt
+StreamOfPraise/Rainbow/God Is My Victory.txt
+StreamOfPraise/The Covenant Under the Rainbow/I Receive Your Love.txt
+StreamOfPraise/The Covenant Under the Rainbow/It's Jesus.txt
+StreamOfPraise/The Covenant Under the Rainbow/Journey Through the Waves.txt
+StreamOfPraise/The Covenant Under the Rainbow/Praise the Lord.txt
+StreamOfPraise/There Is A God/In The Cross.txt
+StreamOfPraise/There Is A God/Into His Abundance.txt
+StreamOfPraise/There Is A God/My Son, Remember.txt
+StreamOfPraise/There Is A God/Praise Him.txt
+StreamOfPraise/There Is A God/Your Presence.txt
+StreamOfPraise/Twinkle, Twinkle/Come and Bless Our Land.txt
+StreamOfPraise/Twinkle, Twinkle/I Want to See.txt
+StreamOfPraise/Twinkle, Twinkle/Once Upon a Time.txt
+StreamOfPraise/Twinkle, Twinkle/Sing It Louder.txt
+StreamOfPraise/Twinkle, Twinkle/With Our Praises Shake the World.txt
+StreamOfPraise/Unity/A Brand New Day.txt
+StreamOfPraise/Unity/A Joyful Song.txt
+StreamOfPraise/Unity/You're My Fortress.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/A Joyful Song.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/How Could It Be.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/I Have Been Set Free.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/I Received Your Love.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/Joy &amp; Freedom.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/My House Will Praise You.txt
+StreamOfPraise/When I Praise You, I'm Filled with Joy/Shake the Heaven and the Earth.txt
+StreamOfPraise/Wings of the Dawn/In Your Hands.txt
+StreamOfPraise/Wings of the Dawn/Jesus, Name Above All Names.txt
+StreamOfPraise/Wings of the Dawn/Praise Him.txt
+StreamOfPraise/Wings of the Dawn/Wings of the Dawn [POP].txt
+StreamOfPraise/Wings of the Dawn/Wings of the Dawn.txt
+StreamOfPraise/Wonderful Creator/Almighty Living God.txt
+StreamOfPraise/You Are A Faithful God/Jesus, Lord Of All.txt
+StreamOfPraise/You Are A Faithful God/My God, My King.txt
+StreamOfPraise/You Are A Faithful God/Praise The Lord.txt
+StreamOfPraise/You Are A Faithful God/You Are A Faithful God.txt

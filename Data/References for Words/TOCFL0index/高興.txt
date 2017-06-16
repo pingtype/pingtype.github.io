@@ -1,0 +1,71 @@
+CNLT/1. 創 Genesis 創世記/CNLT/1. 創 Genesis 創世記/創 Genesis 創世記 39.txt
+CNLT/1. 創 Genesis 創世記/CNLT/1. 創 Genesis 創世記/創 Genesis 創世記 45.txt
+CNLT/10. 撒下 2 Samuel 撒母耳記下/CNLT/10. 撒下 2 Samuel 撒母耳記下/撒下 2 Samuel 撒母耳記下 19.txt
+CNLT/11. 王上 1 Kings 列王紀上/CNLT/11. 王上 1 Kings 列王紀上/王上 1 Kings 列王紀上 5.txt
+CNLT/14. 代下 2 Chronicles 歷代志下/CNLT/14. 代下 2 Chronicles 歷代志下/代下 2 Chronicles 歷代志下 24.txt
+CNLT/14. 代下 2 Chronicles 歷代志下/CNLT/14. 代下 2 Chronicles 歷代志下/代下 2 Chronicles 歷代志下 30.txt
+CNLT/16. 尼 Nehemiah 尼希米記/CNLT/16. 尼 Nehemiah 尼希米記/尼 Nehemiah 尼希米記 2.txt
+CNLT/19. 詩 Psalms 詩篇/CNLT/19. 詩 Psalms 詩篇/詩 Psalms 詩篇 31.txt
+CNLT/19. 詩 Psalms 詩篇/CNLT/19. 詩 Psalms 詩篇/詩 Psalms 詩篇 32.txt
+CNLT/19. 詩 Psalms 詩篇/CNLT/19. 詩 Psalms 詩篇/詩 Psalms 詩篇 69.txt
+CNLT/2. 出 Exodus 出埃及記/CNLT/2. 出 Exodus 出埃及記/出 Exodus 出埃及記 18.txt
+CNLT/2. 出 Exodus 出埃及記/CNLT/2. 出 Exodus 出埃及記/出 Exodus 出埃及記 4.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 24.txt
+CNLT/20. 箴 Proverbs 箴言/CNLT/20. 箴 Proverbs 箴言/箴 Proverbs 箴言 28.txt
+CNLT/21. 傳 Ecclesiastes 傳道書/CNLT/21. 傳 Ecclesiastes 傳道書/傳 Ecclesiastes 傳道書 9.txt
+CNLT/23. 賽 Isaiah 以賽亞書/CNLT/23. 賽 Isaiah 以賽亞書/賽 Isaiah 以賽亞書 14.txt
+CNLT/23. 賽 Isaiah 以賽亞書/CNLT/23. 賽 Isaiah 以賽亞書/賽 Isaiah 以賽亞書 39.txt
+CNLT/23. 賽 Isaiah 以賽亞書/CNLT/23. 賽 Isaiah 以賽亞書/賽 Isaiah 以賽亞書 60.txt
+CNLT/23. 賽 Isaiah 以賽亞書/CNLT/23. 賽 Isaiah 以賽亞書/賽 Isaiah 以賽亞書 62.txt
+CNLT/24. 耶 Jeremiah 耶利米書/CNLT/24. 耶 Jeremiah 耶利米書/耶 Jeremiah 耶利米書 41.txt
+CNLT/26. 結 Ezekiel 以西結書/CNLT/26. 結 Ezekiel 以西結書/結 Ezekiel 以西結書 35.txt
+CNLT/36. 番 Zephaniah 西番雅書/CNLT/36. 番 Zephaniah 西番雅書/番 Zephaniah 西番雅書 3.txt
+CNLT/38. 亞 Zechariah 撒迦利亞書/CNLT/38. 亞 Zechariah 撒迦利亞書/亞 Zechariah 撒迦利亞書 7.txt
+CNLT/39. 瑪 Malachi 瑪拉基書/CNLT/39. 瑪 Malachi 瑪拉基書/瑪 Malachi 瑪拉基書 1.txt
+CNLT/41. 可 Mark 馬可福音/CNLT/41. 可 Mark 馬可福音/可 Mark 馬可福音 14.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 1.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 13.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 15.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 22.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 23.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 11.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 14.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 16.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 20.txt
+CNLT/43. 約 John 約翰福音/CNLT/43. 約 John 約翰福音/約 John 約翰福音 5.txt
+CNLT/44. 徒 Acts 使徒行傳/CNLT/44. 徒 Acts 使徒行傳/徒 Acts 使徒行傳 12.txt
+CNLT/44. 徒 Acts 使徒行傳/CNLT/44. 徒 Acts 使徒行傳/徒 Acts 使徒行傳 13.txt
+CNLT/44. 徒 Acts 使徒行傳/CNLT/44. 徒 Acts 使徒行傳/徒 Acts 使徒行傳 15.txt
+CNLT/46. 林前 1 Corinthians 哥林多前書/CNLT/46. 林前 1 Corinthians 哥林多前書/林前 1 Corinthians 哥林多前書 11.txt
+CNLT/46. 林前 1 Corinthians 哥林多前書/CNLT/46. 林前 1 Corinthians 哥林多前書/林前 1 Corinthians 哥林多前書 16.txt
+CNLT/47. 林後 2 Corinthians 哥林多後書/CNLT/47. 林後 2 Corinthians 哥林多後書/林後 2 Corinthians 哥林多後書 13.txt
+CNLT/47. 林後 2 Corinthians 哥林多後書/CNLT/47. 林後 2 Corinthians 哥林多後書/林後 2 Corinthians 哥林多後書 7.txt
+CNLT/5. 申 Deuteronomy 申命記/CNLT/5. 申 Deuteronomy 申命記/申 Deuteronomy 申命記 12.txt
+CNLT/50. 腓 Philippians 腓立比書/CNLT/50. 腓 Philippians 腓立比書/腓 Philippians 腓立比書 2.txt
+CNLT/51. 西 Colossians 歌羅西書/CNLT/51. 西 Colossians 歌羅西書/西 Colossians 歌羅西書 2.txt
+CNLT/60. 彼前 1 Peter 彼得前書/CNLT/60. 彼前 1 Peter 彼得前書/彼前 1 Peter 彼得前書 4.txt
+CNLT/64. 約叁 3 John 約翰三書/CNLT/64. 約叁 3 John 約翰三書/約叁 3 John 約翰三書 1.txt
+CNLT/7. 士 Judges 士師記/CNLT/7. 士 Judges 士師記/士 Judges 士師記 18.txt
+CNLT/7. 士 Judges 士師記/CNLT/7. 士 Judges 士師記/士 Judges 士師記 19.txt
+CNLT/9. 撒上 1 Samuel 撒母耳記上/CNLT/9. 撒上 1 Samuel 撒母耳記上/撒上 1 Samuel 撒母耳記上 15.txt
+CNLT/9. 撒上 1 Samuel 撒母耳記上/CNLT/9. 撒上 1 Samuel 撒母耳記上/撒上 1 Samuel 撒母耳記上 18.txt
+CNLT/9. 撒上 1 Samuel 撒母耳記上/CNLT/9. 撒上 1 Samuel 撒母耳記上/撒上 1 Samuel 撒母耳記上 19.txt
+CNLT/9. 撒上 1 Samuel 撒母耳記上/CNLT/9. 撒上 1 Samuel 撒母耳記上/撒上 1 Samuel 撒母耳記上 30.txt
+Joshuaband/向列國宣告/Joshuaband/向列國宣告/16. 大白熊 Pyrenean Mountain Dog.txt
+Joshuaband/打開眾城門/Joshuaband/打開眾城門/2. 被造的意義.txt
+StreamOfPraise/The Covenant Under the Rainbow/StreamOfPraise/The Covenant Under the Rainbow/This Is The Day.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/203040.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Beyond.Beauty.Taiwan.from.Above.2013.BluRay.720p.x264.DTS-HDWinG.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Crouching.Tiger.Hidden.Dragon.2000.BluRay.1080p.x264.DTS-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Eat Drink Man Woman (1994).cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Empire.of.Silver.2009.CN.DVDRip.XviD-XTM.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Jump.Ashin.2011.1080p.BluRay.x264.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/One.Day.2011.720p.BluRay.x264-Felony.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/The.Sandwich.Man.1983.720p.BluRay.x264-WiKi.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Zone.Pro.Site.2013.BluRay.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.1.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/seediq.bale.2.cht-eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/热带鱼.Tropical.Fish.1995.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/征婚启事.The.Personals.1998.Blu-ray.cht.srt

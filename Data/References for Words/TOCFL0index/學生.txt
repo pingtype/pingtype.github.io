@@ -1,0 +1,170 @@
+CNLT/40. 太 Matthew 馬太福音/CNLT/40. 太 Matthew 馬太福音/太 Matthew 馬太福音 10.txt
+CNLT/42. 路 Luke 路加福音/CNLT/42. 路 Luke 路加福音/路 Luke 路加福音 6.txt
+CNLT/44. 徒 Acts 使徒行傳/CNLT/44. 徒 Acts 使徒行傳/徒 Acts 使徒行傳 22.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Constitution of the Republic of China (Taiwan).txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/Offshore Islands Development Act.txt
+TaiwanLawChinese/A/TaiwanLawChinese/A/The Hualien-Taitung Area Development Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Child and Youth Sexual Exploitation Prevention Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Civil Defense Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Civil Servants Election And Recall Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Disaster Prevention and Protection Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Domestic Violence Prevention Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Enforcement Regulations for Draft Exemption, Restriction, Deferred Call & Draft.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Enforcement Rules of the Household Registration Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Enforcement Statute for Substitute Services.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Operational Regulations of the Central Police University.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Organization Act of the Central Police University.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/People with Disabilities Rights Protection Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Police Education Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Police Uniforms Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Presidential and Vice Presidential Election and Recall Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Public Assistance Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulation on Foreign In-service Policemen�s Studying Police Administration in R.O.C.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulations for Exit of Draftees.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulations for Reporting and Assisting Children and Youth in Families at High Risk.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulations for Reporting, Differential Processing and Investigating Cases of Children and Youth Protection.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Regulations of consolidated donation.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Sexual Harassment Prevention Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Standard for Installation of Fire Safety Equipments Based on Use and Occupancy.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/Taiwan Police College Organization Act.txt
+TaiwanLawChinese/D/TaiwanLawChinese/D/The Protection of Children and Youths Welfare and Rights Act.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Act Of Military Service System.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Act of Insurance for Military Personnel.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Act of Marriage for Military Personnel.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Act of Military Education.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Armed Forces Uniforms Act.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Implementation Regulations on Veterans Schooling.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Indemnity Act for Military Personnel.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Navy Uniforms Act.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Organization Regulations of the Chung Cheng Armed Forces Preparatory School.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Organization Regulations of the Fu Hsing Kang College.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Organizational Regulations of the Chinese Naval Academy.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Regulations Governing the Higher Education Subsidies and Awards for ROC Retired Servicemen.txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/The Enforcement Act of Act of Military Service System .txt
+TaiwanLawChinese/F/TaiwanLawChinese/F/Uniforms Act of the Army.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Charges And Fees Act.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Land Tax Reduction and Exemption Regulations.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations Governing Institutions Engaging In Credit Card Business.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Regulations for Allocation of Centrally-Funded Tax Revenues.txt
+TaiwanLawChinese/G/TaiwanLawChinese/G/Value-added and Non-value-added Business Tax Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Accreditation Regulations Governing Teacher Qualifications at Institutions of Higher Education.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act Governing the Commissioning of the Operation of Public Elementary and Junior Secondary Schools to the Private Sector.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act Governing the Retirement, Bereavement Compensation, Discharge with Severance Pay Benefits for the Teaching and Other Staff of School Legal Persons and their Respective Private School(s).txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act for Establishing the National Senior High School Affairs Fund.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act for Establishment and Administration of Science Parks.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act of Governing the Appointment of Educators.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Act of School Fundraising to Support the Education of Financially Disadvantaged Students.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Articles Regarding Screening and Review and Recommendation Admission Regulations for Technically and Artistically Talented Students At Secondary Schools and Above.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Arts Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Compulsory Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Degree Conferral Law.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Early Childhood Education and Care Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Education Act for Indigenous Peoples.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Educational Fundamental Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Act for Non-school-Based Experimental Education across Education Levels below Senior High School.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Act for School-Based Experimental Education.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules Governing of Education Act for Indigenous Peoples.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules for the Gender Equity Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules of Junior College Law.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules of the Special Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Enforcement Rules of the University Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Family Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Gender Equity Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Implementation Regulations Governing Applications for Conversion into a Private School Endowment Corporation.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Implementation Regulations Governing Junior College Evaluation.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Implementation Regulations Governing The Reorganization Of Junior Colleges Into Technical Colleges And The Establishment Of Junior College Divisions By Technical Colleges And Technical Universities.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Implementation Regulations Regarding Distance Learning by Universities.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Implementation Rules for the Statute Governing the Retirement of School Faculty(Amended on June 19, 2003).txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/International Students Undertaking Studies in Taiwan.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Junior College Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Law for the Development of the Cultural and Creative Industries.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Lifelong Learning Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/National Sports Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/National University Endowment Fund Establishment Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Open University Establishment Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Organization Act of the Ministry of Education.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Primary and Junior High School Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Private School Act Enforcement Rules.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Private School Law.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Authorizing the Approval of Senior High School Textbooks Amendments.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing Academic Advancement Incentives for Students with Great Performance in International Mathematics or Science Olympiads and International Science Fairs.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing Establishment of Foreign Curriculum Departments and Classes in Private Senior High Schools and Below.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing Vocational Schools.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing the Assessment and Recognition of Foreign Academic Credentials for Junior Colleges.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing the Establishment of Junior College Evening Divisions.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing the Establishment, Alterations, and Cessation of Operations of Junior Colleges and Institutions of Higher Education and of Their Branch Campuses and Divisions including Skills-based Senior High School Divisions.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Governing the Establishment, Change, and Discontinuation of Private Schools at the Senior High School Level or Below and Their Branch Campuses and Branch Departments.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Regarding Admission to Science Park's Bilingual Departments or Programs within the Elementary and Middle Schools.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Regarding Study and Counseling Assistance for Overseas Chinese Students in Taiwan.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations Regarding the Assessment and Recognition of Foreign Academic Credentials for Institutions of Higher Education.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations for Studying in Taiwan for Children of Outstanding Overseas Scientific and Technological Personnel.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations for the Establishment and Management of Private Elementary Schools, Junior and Senior High Schools, and Affiliated Preschools for International Residents.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Regulations on the Prevention of Sexual Assault, Sexual Harassment, and Sexual Bullying on Campus.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/School Health Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Senior High School Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Sports Industry Development Regulation.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Standards for Establishing Junior Colleges.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Standards for Establishing Vocational Schools.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Standards for Recognition of Equivalent Educational Levels for University Admission.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Student Guidance and Counseling Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Supplementary Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Teacher Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Teachers� Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Technical and Vocational Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/The Act of Education Tuition Benefits for the Survivors of Military and Civil Servants.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/The Act of the Cooperative Education Implementation in Senior High Schools and the Protection of Student Participants� Right.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/The Senior High School Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/The Special Education Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/University Act.txt
+TaiwanLawChinese/H/TaiwanLawChinese/H/Vocational School Law.txt
+TaiwanLawChinese/I/TaiwanLawChinese/I/Organic Statute of Reform Schools.txt
+TaiwanLawChinese/I/TaiwanLawChinese/I/The Act of the Establishment of Juvenile Reformatory Schools and Enforcement of Education.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Administrative Regulations for Operators of Radioactive Material or Equipment Capable of Producing Ionizing Radiation.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Detailed Regulations for Implementation of the Atomic Energy Law.txt
+TaiwanLawChinese/J/TaiwanLawChinese/J/Nuclear Reactor Facilities Regulation Act.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Act for the Development of Tourism.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Regulations Governing Licences and Ratings for Airmen.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/Seafarer's Service Regulations.txt
+TaiwanLawChinese/K/TaiwanLawChinese/K/The Seafarer Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Communicable Disease Control Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Dental Technicians Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Dietitian Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Enforcement Rules of the National Health Insurance Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Enforcement Rules of the Psychologists� Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Hearing Specialists Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Medical Care Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Medical Radiation Technologists Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Medical Technologists Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Mental Health Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Midwifery Personnel Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/National Health Insurance Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Nursing Personnel Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Physical Therapists Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations Governing Immunization Procedure, Review of Children�s Immunization Record, and Catch-up Immunization.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Regulations Governing Subsidies for Injuries, Illnesses or Deaths due to Performing Control Measures against Category V Communicable Diseases.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/Speech Therapists Act.txt
+TaiwanLawChinese/L/TaiwanLawChinese/L/physicians Act.txt
+TaiwanLawChinese/M/TaiwanLawChinese/M/Veterinarian Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Act of Gender Equality in Employment.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Collective Agreement Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Employment Service Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Labor Standards Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Qualifications and Criteria Standards for foreigners undertaking the jobs specified under Article 46.1.1 to 46.1.6 of the Employment Service Act.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Implementing and Rewarding Skill Competitions.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations for Technician Skills Certification Administration and Test Site.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations of the Examination of Injuries and Diseases Resulting from the Performance of Duties by the Insured Persons of the Labor Insurance Program.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations on Technician Skills Certification and Issuance of Certificates.txt
+TaiwanLawChinese/N/TaiwanLawChinese/N/Regulations on the Permission and Administration of the Employment of Foreign Workers.txt
+TaiwanLawChinese/O/TaiwanLawChinese/O/Environmental Education Act.txt
+TaiwanLawChinese/S/TaiwanLawChinese/S/Operation Regulations on the Suspension of Offices and Classes because of Natural Disasters.txt
+TaiwanLawChinese/S/TaiwanLawChinese/S/Police Personnel Management Act.txt
+TaiwanLawChinese/T/TaiwanLawChinese/T/The Compilation and Administration of Education Expenditures Act.txt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/One.Day.2011.720p.BluRay.x264-Felony.cht&eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/Our.Times.2015.BluRay.1080p.iPad.x264-HDHPad.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Au.Revoir.Taipei.2010.cht&amp;eng.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Taipei.Exchanges.2010.DVDRip.XviD.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[zmk.tw]Zone.Pro.Site.2013.BluRay.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/[练习曲].Island.Etude.2006.RETAIL.DVDRip.X264.AC3.iNT-TLF.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/热带鱼.Tropical.Fish.1995.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/征婚启事.The.Personals.1998.Blu-ray.cht.srt
+DoubleSubtitlesTWCHT/DoubleSubtitlesTWCHT/那些年，我們一起追的女孩 You Are the Apple of My Eye (2011) 720p BluRay.cht&eng.srt
