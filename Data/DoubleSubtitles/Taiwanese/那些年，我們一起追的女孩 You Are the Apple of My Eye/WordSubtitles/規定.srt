@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#000000>規</font><font color=#178FD1>定</font>   </font><font color=#000000><font size="44">guī </font></font><font color=#178FD1><font size="52">d</font><font size="48">ì</font><font size="40">n</font><font size="36">g</font></font> <font size="50"><font color=#000000>Regulations</font></font>

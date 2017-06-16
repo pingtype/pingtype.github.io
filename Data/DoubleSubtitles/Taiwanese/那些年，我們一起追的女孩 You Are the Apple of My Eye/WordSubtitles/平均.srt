@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#F82423>平</font><font color=#000000>均</font>   </font><font color=#F82423><font size="36">p</font><font size="40">í</font><font size="48">n</font><font size="52">g </font></font><font color=#000000><font size="44">jūn</font></font> <font size="50"><font color=#000000>average</font></font>

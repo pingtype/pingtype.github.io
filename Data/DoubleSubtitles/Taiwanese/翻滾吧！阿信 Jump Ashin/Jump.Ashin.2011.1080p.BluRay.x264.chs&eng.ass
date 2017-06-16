@@ -1,0 +1,1371 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.68,0:00:20.68,Default,,0000,0000,0000,,{\an5\3c&HFF0000&}3E帝国倾情奉献\N中英字幕合并:算妮狠{\r}
+Dialogue: 0,0:02:00.68,0:02:01.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉{\r}\N{\fnTahoma\fs13\3c&H400000&}Excuse us.{\r}
+Dialogue: 0,0:02:01.52,0:02:02.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}借过{\r}\N{\fnTahoma\fs13\3c&H400000&}Get out of the way{\r}
+Dialogue: 0,0:02:02.72,0:02:03.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin{\r}
+Dialogue: 0,0:02:03.72,0:02:04.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，你有没有怎样？{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, are you alright?{\r}
+Dialogue: 0,0:02:04.64,0:02:05.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么这么严重啦{\r}\N{\fnTahoma\fs13\3c&H400000&}How can itbe so serious?{\r}
+Dialogue: 0,0:02:06.12,0:02:06.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小心点{\r}\N{\fnTahoma\fs13\3c&H400000&}Be careful{\r}
+Dialogue: 0,0:02:06.84,0:02:07.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,0:02:07.88,0:02:10.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉，借过啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Excuse us.{\r}
+Dialogue: 0,0:02:50.92,0:02:53.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}呵！这个猴囝子{\r}\N{\fnTahoma\fs13\3c&H400000&}What? This kid{\r}
+Dialogue: 0,0:02:54.44,0:02:54.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真厉害喔！{\r}\N{\fnTahoma\fs13\3c&H400000&}He is good!{\r}
+Dialogue: 0,0:02:55.24,0:02:56.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好像猴子喔！{\r}\N{\fnTahoma\fs13\3c&H400000&}Like a monkey!{\r}
+Dialogue: 0,0:02:57.28,0:02:57.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}什么好像猴子{\r}\N{\fnTahoma\fs13\3c&H400000&}Nonsense,{\r}
+Dialogue: 0,0:02:58.28,0:02:59.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那可是我孙子勒！{\r}\N{\fnTahoma\fs13\3c&H400000&}He's my grandson.{\r}
+Dialogue: 0,0:03:15.28,0:03:16.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么蹲的啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you know how to squat?{\r}
+Dialogue: 0,0:03:16.76,0:03:17.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}屁股坐下去{\r}\N{\fnTahoma\fs13\3c&H400000&}Lower your butt.{\r}
+Dialogue: 0,0:03:18.56,0:03:19.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再下去{\r}\N{\fnTahoma\fs13\3c&H400000&}Lower.{\r}
+Dialogue: 0,0:03:19.92,0:03:20.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再下去一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Lower, much lower.{\r}
+Dialogue: 0,0:03:21.28,0:03:22.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}手抬高{\r}\N{\fnTahoma\fs13\3c&H400000&}Arms higher.{\r}
+Dialogue: 0,0:05:39.80,0:05:40.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喂{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey!{\r}
+Dialogue: 0,0:05:43.04,0:05:43.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是谁{\r}\N{\fnTahoma\fs13\3c&H400000&}Who are you?{\r}
+Dialogue: 0,0:05:44.60,0:05:45.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你又不是体操队的{\r}\N{\fnTahoma\fs13\3c&H400000&}You're not in the gymnastic team.{\r}
+Dialogue: 0,0:05:45.52,0:05:46.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}进来干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}Why are you here?{\r}
+Dialogue: 0,0:05:46.52,0:05:47.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}出去{\r}\N{\fnTahoma\fs13\3c&H400000&}Get out!{\r}
+Dialogue: 0,0:05:48.44,0:05:49.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走开啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't get in the way.{\r}
+Dialogue: 0,0:06:16.12,0:06:17.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在开始倒立{\r}\N{\fnTahoma\fs13\3c&H400000&}Ready for handstand.{\r}
+Dialogue: 0,0:06:17.72,0:06:18.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}听口令{\r}\N{\fnTahoma\fs13\3c&H400000&}Attention!{\r}
+Dialogue: 0,0:06:18.96,0:06:19.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一拍手{\r}\N{\fnTahoma\fs13\3c&H400000&}One, clap hands.{\r}
+Dialogue: 0,0:06:21.12,0:06:22.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}二把脚踏出来{\r}\N{\fnTahoma\fs13\3c&H400000&}Two, step out your feet.{\r}
+Dialogue: 0,0:06:23.72,0:06:24.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}三手放下去{\r}\N{\fnTahoma\fs13\3c&H400000&}Three, put down your hands.{\r}
+Dialogue: 0,0:06:24.88,0:06:25.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}后脚抬高高{\r}\N{\fnTahoma\fs13\3c&H400000&}Lift your legs high.{\r}
+Dialogue: 0,0:06:28.52,0:06:30.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就像小狗撒尿{\r}\N{\fnTahoma\fs13\3c&H400000&}Just like a puppy peeping.{\r}
+Dialogue: 0,0:06:31.96,0:06:32.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}撑住{\r}\N{\fnTahoma\fs13\3c&H400000&}Hang in there.{\r}
+Dialogue: 0,0:06:37.56,0:06:39.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你已经胖到脚都抬不起来罗{\r}\N{\fnTahoma\fs13\3c&H400000&}You're too fat to lift your leg.{\r}
+Dialogue: 0,0:06:40.44,0:06:41.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抬高{\r}\N{\fnTahoma\fs13\3c&H400000&}Lift your legs.{\r}
+Dialogue: 0,0:06:48.84,0:06:50.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}脚抬起来{\r}\N{\fnTahoma\fs13\3c&H400000&}Lift your legs.{\r}
+Dialogue: 0,0:06:52.00,0:06:54.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你香蕉腰喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Your waist is as weak as a banana.{\r}
+Dialogue: 0,0:07:13.68,0:07:14.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈不是跟你说过{\r}\N{\fnTahoma\fs13\3c&H400000&}What have I told you?{\r}
+Dialogue: 0,0:07:14.88,0:07:17.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}上课要专心要认真听{\r}\N{\fnTahoma\fs13\3c&H400000&}You need to pay attention in school.{\r}
+Dialogue: 0,0:07:17.88,0:07:19.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么偷吃便当啊{\r}\N{\fnTahoma\fs13\3c&H400000&}How could you eat the lunchbox during class?{\r}
+Dialogue: 0,0:07:21.56,0:07:25.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈,  因为你卤的鸡腿实在太香了{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, the braised chicken thigh you made smelled so good.{\r}
+Dialogue: 0,0:07:27.00,0:07:28.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有理由喔{\r}\N{\fnTahoma\fs13\3c&H400000&}What an excuse.{\r}
+Dialogue: 0,0:07:29.64,0:07:30.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要是我鸡腿用炸的{\r}\N{\fnTahoma\fs13\3c&H400000&}If I made fried chicken, then you'd{\r}
+Dialogue: 0,0:07:31.04,0:07:32.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不就上课走到半路就偷吃完了{\r}\N{\fnTahoma\fs13\3c&H400000&}finish iton the way to school.{\r}
+Dialogue: 0,0:07:32.92,0:07:33.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom,{\r}
+Dialogue: 0,0:07:34.04,0:07:36.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我想要练体操好吗{\r}\N{\fnTahoma\fs13\3c&H400000&}can I practice gymnastics?{\r}
+Dialogue: 0,0:07:36.68,0:07:37.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要交钱吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do we need to pay for that?{\r}
+Dialogue: 0,0:07:37.80,0:07:38.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练说不用{\r}\N{\fnTahoma\fs13\3c&H400000&}The coach said no.{\r}
+Dialogue: 0,0:07:39.44,0:07:40.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不用钱就去啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Then go for la.{\r}
+Dialogue: 0,0:07:59.72,0:08:00.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}手伸直{\r}\N{\fnTahoma\fs13\3c&H400000&}Straighten your arm,{\r}
+Dialogue: 0,0:08:00.48,0:08:01.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要撑{\r}\N{\fnTahoma\fs13\3c&H400000&}don't push.{\r}
+Dialogue: 0,0:08:06.72,0:08:07.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很痛{\r}\N{\fnTahoma\fs13\3c&H400000&}It hurts.{\r}
+Dialogue: 0,0:08:11.24,0:08:12.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You may go.{\r}
+Dialogue: 0,0:08:14.92,0:08:16.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}下一位{\r}\N{\fnTahoma\fs13\3c&H400000&}Next.{\r}
+Dialogue: 0,0:08:18.24,0:08:19.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看什么看{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you looking at?{\r}
+Dialogue: 0,0:08:19.60,0:08:20.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}换你啦{\r}\N{\fnTahoma\fs13\3c&H400000&}It's your turn.{\r}
+Dialogue: 0,0:08:22.00,0:08:23.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}伸直伸直{\r}\N{\fnTahoma\fs13\3c&H400000&}Make itstraight.{\r}
+Dialogue: 0,0:08:24.24,0:08:25.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}伸直啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Straight.{\r}
+Dialogue: 0,0:08:26.64,0:08:28.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树，不错喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu, nice.{\r}
+Dialogue: 0,0:08:30.24,0:08:31.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}脚伸直{\r}\N{\fnTahoma\fs13\3c&H400000&}Straighten your legs.{\r}
+Dialogue: 0,0:08:31.12,0:08:31.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}挺胸{\r}\N{\fnTahoma\fs13\3c&H400000&}Thrust out your chest.{\r}
+Dialogue: 0,0:08:31.92,0:08:32.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看前面{\r}\N{\fnTahoma\fs13\3c&H400000&}Look forward.{\r}
+Dialogue: 0,0:08:37.60,0:08:38.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}新来的喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You're the new kid, right?{\r}
+Dialogue: 0,0:08:38.92,0:08:39.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要加油喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You need to work hard.{\r}
+Dialogue: 0,0:08:40.12,0:08:41.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来，脚伸直{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on. Straighten your legs.{\r}
+Dialogue: 0,0:08:44.12,0:08:45.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}挺胸，看前面{\r}\N{\fnTahoma\fs13\3c&H400000&}Thrust out your chest. Look forward.{\r}
+Dialogue: 0,0:08:58.76,0:09:00.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你以为在拿方向盘开车啊{\r}\N{\fnTahoma\fs13\3c&H400000&}This is not a steering wheel.{\r}
+Dialogue: 0,0:09:02.28,0:09:03.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}回去重来{\r}\N{\fnTahoma\fs13\3c&H400000&}Go back and do itagain.{\r}
+Dialogue: 0,0:09:04.84,0:09:05.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是敢不敢跳啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you going to jump or not?{\r}
+Dialogue: 0,0:09:17.00,0:09:18.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天要测验鞍马{\r}\N{\fnTahoma\fs13\3c&H400000&}Today is Pommel Horse skill test.{\r}
+Dialogue: 0,0:09:19.80,0:09:21.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}五圈加下马{\r}\N{\fnTahoma\fs13\3c&H400000&}5 circular motions then dismount.{\r}
+Dialogue: 0,0:09:23.12,0:09:24.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来，谁先来{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on. Who wants to go first?{\r}
+Dialogue: 0,0:09:27.80,0:09:29.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谁先来啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Any one?{\r}
+Dialogue: 0,0:09:30.72,0:09:31.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}伊冠钧{\r}\N{\fnTahoma\fs13\3c&H400000&}Champ Yi,{\r}
+Dialogue: 0,0:09:31.68,0:09:32.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你先来{\r}\N{\fnTahoma\fs13\3c&H400000&}you go first.{\r}
+Dialogue: 0,0:09:53.04,0:09:54.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}预备姿势这么漂亮{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice preparation posture but{\r}
+Dialogue: 0,0:09:55.00,0:09:56.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一个都转不起来喔{\r}\N{\fnTahoma\fs13\3c&H400000&}can't even do one circular motion?{\r}
+Dialogue: 0,0:09:59.64,0:10:01.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就一个一个来嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine, you can do one at a time.{\r}
+Dialogue: 0,0:10:09.92,0:10:11.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}连下马都要分段喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Even dismount is in sections.{\r}
+Dialogue: 0,0:10:11.80,0:10:12.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}回去回去回去{\r}\N{\fnTahoma\fs13\3c&H400000&}You can go back now.{\r}
+Dialogue: 0,0:10:18.84,0:10:19.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}维持好喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Keep itthere.{\r}
+Dialogue: 0,0:10:19.72,0:10:20.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}高度维持好{\r}\N{\fnTahoma\fs13\3c&H400000&}Keep the height.{\r}
+Dialogue: 0,0:10:23.88,0:10:24.83,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}30\NThat's 30{\r}
+Dialogue: 0,0:10:24.92,0:10:25.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}停十秒{\r}\N{\fnTahoma\fs13\3c&H400000&}Hold itthere for 10 sec.{\r}
+Dialogue: 0,0:10:41.32,0:10:42.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu,{\r}
+Dialogue: 0,0:10:42.72,0:10:43.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}比赛就快到了{\r}\N{\fnTahoma\fs13\3c&H400000&}listen, the game is coming,{\r}
+Dialogue: 0,0:10:43.88,0:10:45.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就保持现在的状态{\r}\N{\fnTahoma\fs13\3c&H400000&}and you'll be fine if you keep{\r}
+Dialogue: 0,0:10:45.36,0:10:46.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就没问题了{\r}\N{\fnTahoma\fs13\3c&H400000&}your current condition.{\r}
+Dialogue: 0,0:10:57.64,0:10:58.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啊，来{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin, come here.{\r}
+Dialogue: 0,0:11:02.36,0:11:03.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你的弹跳力很好{\r}\N{\fnTahoma\fs13\3c&H400000&}You have great jumping power.{\r}
+Dialogue: 0,0:11:03.96,0:11:06.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在空中的动作也很漂亮{\r}\N{\fnTahoma\fs13\3c&H400000&}Also have good moves in the air.{\r}
+Dialogue: 0,0:11:06.40,0:11:08.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你为什么就是不会落地呢{\r}\N{\fnTahoma\fs13\3c&H400000&}But, why can't you land?{\r}
+Dialogue: 0,0:11:10.92,0:11:12.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好，加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay, try harder.{\r}
+Dialogue: 0,0:11:19.36,0:11:20.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu, Ashin's movements{\r}
+Dialogue: 0,0:11:20.96,0:11:23.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信的动作越来越像你咧{\r}\N{\fnTahoma\fs13\3c&H400000&}are getting like yours.{\r}
+Dialogue: 0,0:11:39.36,0:11:41.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}大会报告大会报告{\r}\N{\fnTahoma\fs13\3c&H400000&}Attention please,{\r}
+Dialogue: 0,0:11:41.96,0:11:45.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}国小高年级组个人跳马决赛选手{\r}\N{\fnTahoma\fs13\3c&H400000&}Senior Student Group players in Individual Vault Event,{\r}
+Dialogue: 0,0:11:45.32,0:11:46.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在开始报到{\r}\N{\fnTahoma\fs13\3c&H400000&}please do the registry now.{\r}
+Dialogue: 0,0:11:52.36,0:11:53.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}大会报告{\r}\N{\fnTahoma\fs13\3c&H400000&}Attention please,{\r}
+Dialogue: 0,0:11:54.20,0:11:56.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在场地开放跳马项目{\r}\N{\fnTahoma\fs13\3c&H400000&}Three minutes practice time{\r}
+Dialogue: 0,0:11:56.48,0:11:59.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}决赛选手练习三分钟{\r}\N{\fnTahoma\fs13\3c&H400000&}for vault players.{\r}
+Dialogue: 0,0:12:07.80,0:12:08.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么会这样{\r}\N{\fnTahoma\fs13\3c&H400000&}Why It Happened?{\r}
+Dialogue: 0,0:12:08.44,0:12:10.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来来来，我来我来{\r}\N{\fnTahoma\fs13\3c&H400000&}Let me see.{\r}
+Dialogue: 0,0:12:10.40,0:12:11.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么样{\r}\N{\fnTahoma\fs13\3c&H400000&}How do you feel?{\r}
+Dialogue: 0,0:12:11.16,0:12:12.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}脚扭到喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Sprained your ankle?{\r}
+Dialogue: 0,0:12:15.04,0:12:16.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}脚先伸直{\r}\N{\fnTahoma\fs13\3c&H400000&}Straighten your legs first.{\r}
+Dialogue: 0,0:12:29.84,0:12:30.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,0:12:32.04,0:12:33.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}虽然你是个候补选手{\r}\N{\fnTahoma\fs13\3c&H400000&}as you're a substitute,{\r}
+Dialogue: 0,0:12:36.84,0:12:37.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就当这一次啊{\r}\N{\fnTahoma\fs13\3c&H400000&}just think this one{\r}
+Dialogue: 0,0:12:38.16,0:12:39.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是一个练习{\r}\N{\fnTahoma\fs13\3c&H400000&}as a practice.{\r}
+Dialogue: 0,0:12:39.92,0:12:40.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}轻松一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Take iteasy,{\r}
+Dialogue: 0,0:12:41.04,0:12:41.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好不好{\r}\N{\fnTahoma\fs13\3c&H400000&}okay?{\r}
+Dialogue: 0,0:12:42.00,0:12:43.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔！还有{\r}\N{\fnTahoma\fs13\3c&H400000&}And, one more thing{\r}
+Dialogue: 0,0:12:44.96,0:12:46.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}只要你不摔个狗吃屎{\r}\N{\fnTahoma\fs13\3c&H400000&}As long as you don't fall on your face,{\r}
+Dialogue: 0,0:12:47.00,0:12:47.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都行{\r}\N{\fnTahoma\fs13\3c&H400000&}la will be good enough.{\r}
+Dialogue: 0,0:12:49.28,0:12:50.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Go for la.{\r}
+Dialogue: 0,0:12:54.80,0:12:56.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林育信{\r}\N{\fnTahoma\fs13\3c&H400000&}Lin Yu-Shin.{\r}
+Dialogue: 0,0:12:56.92,0:12:57.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有{\r}\N{\fnTahoma\fs13\3c&H400000&}Here.{\r}
+Dialogue: 0,0:13:18.12,0:13:22.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥哥好棒喔！耶{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, you are great!{\r}
+Dialogue: 0,0:13:29.24,0:13:30.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还在玩喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Still playing?{\r}
+Dialogue: 0,0:13:32.40,0:13:33.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Time for dinner.{\r}
+Dialogue: 0,0:13:37.20,0:13:38.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom,{\r}
+Dialogue: 0,0:13:38.24,0:13:39.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么没有来看我比赛{\r}\N{\fnTahoma\fs13\3c&H400000&}why didn't you come to my game?{\r}
+Dialogue: 0,0:13:39.88,0:13:41.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我得到金牌勒{\r}\N{\fnTahoma\fs13\3c&H400000&}See, I won the gold medal!{\r}
+Dialogue: 0,0:13:41.84,0:13:43.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}靠那块金牌就会饱吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Can you feed on the gold medal?{\r}
+Dialogue: 0,0:13:43.44,0:13:44.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Eat your dinner.{\r}
+Dialogue: 0,0:13:52.92,0:13:54.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥,金牌送我{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, give me your gold medal.{\r}
+Dialogue: 0,0:13:55.40,0:13:57.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要金牌不会自己去拿喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Go win your own.{\r}
+Dialogue: 0,0:13:57.24,0:13:59.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈,人家也要像哥哥一样{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, I want to be like brother.{\r}
+Dialogue: 0,0:13:59.24,0:14:01.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}练体操得金牌{\r}\N{\fnTahoma\fs13\3c&H400000&}Be a gymnast and win a gold medal.{\r}
+Dialogue: 0,0:14:02.04,0:14:03.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}什么金牌啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Quit the medal thing.{\r}
+Dialogue: 0,0:14:03.48,0:14:06.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你哥要吃屎你也要跟去吃屎吗{\r}\N{\fnTahoma\fs13\3c&H400000&}If he eats shit then you'll eat, too?{\r}
+Dialogue: 0,0:14:08.08,0:14:09.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊,不要啦{\r}\N{\fnTahoma\fs13\3c&H400000&}No.{\r}
+Dialogue: 0,0:14:09.24,0:14:11.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我要跟哥哥一样啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I wanna be like him{\r}
+Dialogue: 0,0:14:12.44,0:14:13.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还要继续吵吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You want to keep whining?{\r}
+Dialogue: 0,0:14:13.40,0:14:13.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那我要拿藤条了喔！{\r}\N{\fnTahoma\fs13\3c&H400000&}Then I'll get my rattan.{\r}
+Dialogue: 0,0:14:14.00,0:14:15.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要不要{\r}\N{\fnTahoma\fs13\3c&H400000&}No, no, no.{\r}
+Dialogue: 0,0:14:16.28,0:14:17.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}会怕就好{\r}\N{\fnTahoma\fs13\3c&H400000&}Good.{\r}
+Dialogue: 0,0:14:21.28,0:14:22.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}唉哟！妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Yuck! Mom,{\r}
+Dialogue: 0,0:14:22.28,0:14:23.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那是什么{\r}\N{\fnTahoma\fs13\3c&H400000&}what's that?{\r}
+Dialogue: 0,0:14:24.32,0:14:25.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}唉哟什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Yuck?{\r}
+Dialogue: 0,0:14:27.12,0:14:29.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这我炖很久勒{\r}\N{\fnTahoma\fs13\3c&H400000&}I'd braised this for hours.{\r}
+Dialogue: 0,0:14:29.40,0:14:31.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人家说“吃脑补脑”{\r}\N{\fnTahoma\fs13\3c&H400000&}"Eating brain enhances brain."{\r}
+Dialogue: 0,0:14:31.96,0:14:33.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看你吃完会不会变得比较聪明{\r}\N{\fnTahoma\fs13\3c&H400000&}After eating this, maybe you can{\r}
+Dialogue: 0,0:14:33.24,0:14:34.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}比较会念书{\r}\N{\fnTahoma\fs13\3c&H400000&}be smarter and get higher grades.{\r}
+Dialogue: 0,0:14:35.12,0:14:36.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}呃     妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Yuck! Mom,{\r}
+Dialogue: 0,0:14:36.20,0:14:37.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这是什么脑啊{\r}\N{\fnTahoma\fs13\3c&H400000&}whose brain is la?{\r}
+Dialogue: 0,0:14:38.12,0:14:39.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}猪脑啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Pig's brain.{\r}
+Dialogue: 0,0:14:40.12,0:14:42.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我特地叫你阿娇姨帮我留的勒{\r}\N{\fnTahoma\fs13\3c&H400000&}I asked aunt Jiao to save this one for me.{\r}
+Dialogue: 0,0:14:42.96,0:14:44.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一只猪只有一个{\r}\N{\fnTahoma\fs13\3c&H400000&}One pig has only one brain.{\r}
+Dialogue: 0,0:14:44.32,0:14:47.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哈哈哈，吃完猪脑变猪头{\r}\N{\fnTahoma\fs13\3c&H400000&}Ha, you'll become a pig head.{\r}
+Dialogue: 0,0:14:48.16,0:14:49.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要在那边笑{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you laugh at him.{\r}
+Dialogue: 0,0:14:49.28,0:14:50.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你也要吃{\r}\N{\fnTahoma\fs13\3c&H400000&}You have to eat, too.{\r}
+Dialogue: 0,0:14:50.44,0:14:52.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}No{\r}
+Dialogue: 0,0:14:52.56,0:14:53.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊   话不要那么多{\r}\N{\fnTahoma\fs13\3c&H400000&}No? No more moaning.{\r}
+Dialogue: 0,0:14:54.04,0:14:54.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Just eat.{\r}
+Dialogue: 0,0:14:54.56,0:14:55.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}活该{\r}\N{\fnTahoma\fs13\3c&H400000&}You deserve la.{\r}
+Dialogue: 0,0:15:03.52,0:15:04.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林育信{\r}\N{\fnTahoma\fs13\3c&H400000&}Lin Yu-Shin.{\r}
+Dialogue: 0,0:15:05.36,0:15:06.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有{\r}\N{\fnTahoma\fs13\3c&H400000&}Here.{\r}
+Dialogue: 0,0:15:31.40,0:15:32.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,0:15:33.64,0:15:35.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你的直体笠松很直{\r}\N{\fnTahoma\fs13\3c&H400000&}your Kasamatsu Stretch is perfect.{\r}
+Dialogue: 0,0:15:35.68,0:15:36.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}动作也很漂亮{\r}\N{\fnTahoma\fs13\3c&H400000&}Your movements are great.{\r}
+Dialogue: 0,0:15:37.40,0:15:39.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但是落地的时候 不管怎么样你都要站好嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}But you need good landings.{\r}
+Dialogue: 0,0:15:57.36,0:15:58.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu{\r}
+Dialogue: 0,0:15:59.00,0:16:00.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你动作都很好{\r}\N{\fnTahoma\fs13\3c&H400000&}your movements are great.{\r}
+Dialogue: 0,0:16:01.36,0:16:02.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我可不可以拜托你{\r}\N{\fnTahoma\fs13\3c&H400000&}But,{\r}
+Dialogue: 0,0:16:02.68,0:16:03.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}脸不要这么臭{\r}\N{\fnTahoma\fs13\3c&H400000&}please don't wear this long face.{\r}
+Dialogue: 0,0:16:03.44,0:16:04.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好不好{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay?{\r}
+Dialogue: 0,0:16:04.72,0:16:06.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}观众跟裁判没人欠你钱耶{\r}\N{\fnTahoma\fs13\3c&H400000&}No one owes you money.{\r}
+Dialogue: 0,0:16:07.20,0:16:08.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Oh.{\r}
+Dialogue: 0,0:16:32.76,0:16:33.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom,{\r}
+Dialogue: 0,0:16:33.56,0:16:34.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么这么久{\r}\N{\fnTahoma\fs13\3c&H400000&}what took you so long?{\r}
+Dialogue: 0,0:16:34.44,0:16:35.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我肚子很饿勒{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm starving.{\r}
+Dialogue: 0,0:16:44.68,0:16:46.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，你脚怎么了{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, what's wrong with your foot?{\r}
+Dialogue: 0,0:16:48.76,0:16:50.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那你下个月全国赛怎么办{\r}\N{\fnTahoma\fs13\3c&H400000&}What about your national game next month?{\r}
+Dialogue: 0,0:16:51.08,0:16:51.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}比什么赛{\r}\N{\fnTahoma\fs13\3c&H400000&}What game?{\r}
+Dialogue: 0,0:16:55.24,0:16:56.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你也学一下你弟{\r}\N{\fnTahoma\fs13\3c&H400000&}Why can't you be like your little brother?{\r}
+Dialogue: 0,0:16:57.20,0:16:58.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人家读书有在认真读{\r}\N{\fnTahoma\fs13\3c&H400000&}He studies hard and helps me{\r}
+Dialogue: 0,0:16:58.76,0:17:00.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}放学回家又会帮我顾水果摊{\r}\N{\fnTahoma\fs13\3c&H400000&}at the fruit stand after school.{\r}
+Dialogue: 0,0:17:01.08,0:17:01.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那你呢{\r}\N{\fnTahoma\fs13\3c&H400000&}And you?{\r}
+Dialogue: 0,0:17:03.12,0:17:05.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一天到晚就只会练体操练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}All you know is gymnastics.{\r}
+Dialogue: 0,0:17:05.12,0:17:06.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有本事你就不要受伤{\r}\N{\fnTahoma\fs13\3c&H400000&}If you're really good,{\r}
+Dialogue: 0,0:17:06.60,0:17:07.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还要去给医生看{\r}\N{\fnTahoma\fs13\3c&H400000&}you'd better never get hurt.{\r}
+Dialogue: 0,0:17:07.44,0:17:09.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要花多少钱你知道吗{\r}\N{\fnTahoma\fs13\3c&H400000&}The doctor visits are expensive.{\r}
+Dialogue: 0,0:17:10.40,0:17:12.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我以后赚钱还你嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll earn money to pay you back later.{\r}
+Dialogue: 0,0:17:12.40,0:17:14.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我就只想练体操啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I just want to do gymnastics.{\r}
+Dialogue: 0,0:17:14.20,0:17:15.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赚钱还我{\r}\N{\fnTahoma\fs13\3c&H400000&}Pay me back?{\r}
+Dialogue: 0,0:17:15.60,0:17:17.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以后都不知道可不可以养活自己{\r}\N{\fnTahoma\fs13\3c&H400000&}I wonder if you can even feed yourself.{\r}
+Dialogue: 0,0:17:17.72,0:17:19.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还想要赚钱还我{\r}\N{\fnTahoma\fs13\3c&H400000&}Let alone to repay me.{\r}
+Dialogue: 0,0:17:19.48,0:17:20.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你如果继续练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}If you keep doing gymnastics,{\r}
+Dialogue: 0,0:17:20.52,0:17:22.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}搞不好我要养你一辈子{\r}\N{\fnTahoma\fs13\3c&H400000&}I may need to support you forever.{\r}
+Dialogue: 0,0:17:33.44,0:17:34.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}长大了啊{\r}\N{\fnTahoma\fs13\3c&H400000&}A grown-up now.{\r}
+Dialogue: 0,0:17:36.24,0:17:37.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都不知道自己的脚{\r}\N{\fnTahoma\fs13\3c&H400000&}Does he even know if his legs{\r}
+Dialogue: 0,0:17:37.52,0:17:39.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是否有那个能力{\r}\N{\fnTahoma\fs13\3c&H400000&}are capable or not?{\r}
+Dialogue: 0,0:17:44.80,0:17:46.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你真的不要再考虑一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you really sure about this?{\r}
+Dialogue: 0,0:17:48.76,0:17:50.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要再让他继续练了好不好{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't let him do this anymore.{\r}
+Dialogue: 0,0:17:50.24,0:17:51.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}黄教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Please, Coach Huang.{\r}
+Dialogue: 0,0:17:53.32,0:17:54.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他很不容易{\r}\N{\fnTahoma\fs13\3c&H400000&}It took him a lot{\r}
+Dialogue: 0,0:17:54.84,0:17:56.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}才能成为一位体操选手{\r}\N{\fnTahoma\fs13\3c&H400000&}to be a gymnast.{\r}
+Dialogue: 0,0:17:57.16,0:17:58.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}难道你要他就这样放弃{\r}\N{\fnTahoma\fs13\3c&H400000&}You really want him to stop?{\r}
+Dialogue: 0,0:18:01.60,0:18:03.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}体操我是不懂啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't know about gymnastics.{\r}
+Dialogue: 0,0:18:04.44,0:18:05.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我也知道我们阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}But l know Ashin{\r}
+Dialogue: 0,0:18:06.20,0:18:07.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一直都很认真{\r}\N{\fnTahoma\fs13\3c&H400000&}always practices hard.{\r}
+Dialogue: 0,0:18:10.68,0:18:12.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不过黄教练{\r}\N{\fnTahoma\fs13\3c&H400000&}But, Coach Huang{\r}
+Dialogue: 0,0:18:14.60,0:18:16.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你有看过体操选手{\r}\N{\fnTahoma\fs13\3c&H400000&}Have you seen any gymnast{\r}
+Dialogue: 0,0:18:21.12,0:18:22.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是长短腿的吗{\r}\N{\fnTahoma\fs13\3c&H400000&}with uneven leg length?{\r}
+Dialogue: 0,0:18:31.76,0:18:32.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:18:36.36,0:18:37.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你上来一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Come up here.{\r}
+Dialogue: 0,0:18:39.20,0:18:40.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,0:18:46.36,0:18:47.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach.{\r}
+Dialogue: 0,0:18:50.20,0:18:50.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom?{\r}
+Dialogue: 0,0:18:52.20,0:18:53.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么在这里{\r}\N{\fnTahoma\fs13\3c&H400000&}Why are you here?{\r}
+Dialogue: 0,0:18:56.40,0:18:57.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:18:58.28,0:18:59.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}先把东西收一收{\r}\N{\fnTahoma\fs13\3c&H400000&}Pack your things,{\r}
+Dialogue: 0,0:18:59.68,0:19:00.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟你妈回去{\r}\N{\fnTahoma\fs13\3c&H400000&}and go home with your mom.{\r}
+Dialogue: 0,0:19:00.64,0:19:01.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:19:03.84,0:19:04.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach{\r}
+Dialogue: 0,0:19:08.32,0:19:11.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫你东西收一收你是没有听到是吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Go pack your stuff, didn't you hear that?{\r}
+Dialogue: 0,0:19:11.48,0:19:13.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}每天就只想到练体操练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}You care only gymnastics.{\r}
+Dialogue: 0,0:19:13.80,0:19:15.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有想过要帮我做生意吗{\r}\N{\fnTahoma\fs13\3c&H400000&}How about helping the business?{\r}
+Dialogue: 0,0:19:16.40,0:19:17.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom{\r}
+Dialogue: 0,0:19:17.64,0:19:18.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你几岁啊{\r}\N{\fnTahoma\fs13\3c&H400000&}How old are you now?{\r}
+Dialogue: 0,0:19:19.20,0:19:19.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}从现在开始{\r}\N{\fnTahoma\fs13\3c&H400000&}From now on,{\r}
+Dialogue: 0,0:19:19.92,0:19:21.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不准你再练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}no more gymnastics.{\r}
+Dialogue: 0,0:19:21.48,0:19:23.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟我回家学做生意卖水果{\r}\N{\fnTahoma\fs13\3c&H400000&}Stay home and learn the fruit business.{\r}
+Dialogue: 0,0:19:23.88,0:19:25.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}搞不好比练体操还有出息{\r}\N{\fnTahoma\fs13\3c&H400000&}It's a better prospect than gymnastics.{\r}
+Dialogue: 0,0:19:26.40,0:19:27.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈   拜托{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, please{\r}
+Dialogue: 0,0:19:32.52,0:19:33.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach{\r}
+Dialogue: 0,0:19:37.16,0:19:38.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}可是我快要比赛了勒{\r}\N{\fnTahoma\fs13\3c&H400000&}my game is coming.{\r}
+Dialogue: 0,0:19:41.76,0:19:44.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我已经把你从比赛名单中剔除了{\r}\N{\fnTahoma\fs13\3c&H400000&}I've removed you from the list.{\r}
+Dialogue: 0,0:20:16.28,0:20:17.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶   你看{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey, look.{\r}
+Dialogue: 0,0:20:17.44,0:20:18.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这是我{\r}\N{\fnTahoma\fs13\3c&H400000&}This is me.{\r}
+Dialogue: 0,0:20:19.96,0:20:21.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我昨天看到一个马子{\r}\N{\fnTahoma\fs13\3c&H400000&}I saw a chick yesterday.{\r}
+Dialogue: 0,0:20:22.84,0:20:23.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拉一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Pull la.{\r}
+Dialogue: 0,0:20:23.72,0:20:24.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看到她喔{\r}\N{\fnTahoma\fs13\3c&H400000&}I saw her.{\r}
+Dialogue: 0,0:20:25.28,0:20:26.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很漂亮喔{\r}\N{\fnTahoma\fs13\3c&H400000&}She is pretty.{\r}
+Dialogue: 0,0:20:26.44,0:20:27.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你拉一下这边{\r}\N{\fnTahoma\fs13\3c&H400000&}Pull here.{\r}
+Dialogue: 0,0:20:29.32,0:20:29.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对{\r}\N{\fnTahoma\fs13\3c&H400000&}Right{\r}
+Dialogue: 0,0:20:30.32,0:20:31.46,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很漂亮喔{\r}\N{\fnTahoma\fs13\3c&H400000&}See, she's pretty.{\r}
+Dialogue: 0,0:20:31.64,0:20:33.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}What the hell.{\r}
+Dialogue: 0,0:20:42.96,0:20:44.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天要是再给我看到{\r}\N{\fnTahoma\fs13\3c&H400000&}If I see her today,{\r}
+Dialogue: 0,0:20:44.44,0:20:45.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我一定把她变成“面筋”{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll make her melted like cheese.{\r}
+Dialogue: 0,0:20:53.80,0:20:54.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:20:55.48,0:20:57.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不会闪远一点喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't get in the way.{\r}
+Dialogue: 0,0:20:58.76,0:20:59.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不会啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't want to move.{\r}
+Dialogue: 0,0:21:02.64,0:21:03.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你想怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What do you want?{\r}
+Dialogue: 0,0:21:03.68,0:21:04.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看你想怎么样啊{\r}\N{\fnTahoma\fs13\3c&H400000&}It depends on what do you want.{\r}
+Dialogue: 0,0:21:05.44,0:21:06.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我哪知道你想要怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}How would I know what you want?{\r}
+Dialogue: 0,0:21:13.68,0:21:15.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看你想怎么样我就怎么样啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I want what you want.{\r}
+Dialogue: 0,0:21:15.32,0:21:16.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要怎样就过来啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Whatever. Come here if you dare.{\r}
+Dialogue: 0,0:21:16.64,0:21:17.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要在那边啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Stop quacking there.{\r}
+Dialogue: 0,0:21:17.84,0:21:18.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啊！{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine.{\r}
+Dialogue: 0,0:21:18.88,0:21:20.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都不要动啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you move a step.{\r}
+Dialogue: 0,0:21:21.04,0:21:21.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,0:21:23.76,0:21:25.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥小{\r}\N{\fnTahoma\fs13\3c&H400000&}What? {\r}
+Dialogue: 0,0:21:28.04,0:21:29.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你要干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you doing?{\r}
+Dialogue: 0,0:21:29.76,0:21:30.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you doing?{\r}
+Dialogue: 0,0:21:31.32,0:21:32.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要乱来，我的车{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't do la. My car!{\r}
+Dialogue: 0,0:21:48.96,0:21:49.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother.{\r}
+Dialogue: 0,0:21:50.92,0:21:52.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈，我回来啰{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, I'm home.{\r}
+Dialogue: 0,0:22:23.60,0:22:24.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不会自己拿给她哦{\r}\N{\fnTahoma\fs13\3c&H400000&}Why don't you give itto her?{\r}
+Dialogue: 0,0:22:26.08,0:22:27.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是在傻什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be silly.{\r}
+Dialogue: 0,0:22:27.92,0:22:28.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}去啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Go,{\r}
+Dialogue: 0,0:22:29.08,0:22:30.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}don't be so annoying.{\r}
+Dialogue: 0,0:22:33.56,0:22:34.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom.{\r}
+Dialogue: 0,0:22:40.44,0:22:42.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}钱是跟他有仇喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Is money his enemy?{\r}
+Dialogue: 0,0:22:42.56,0:22:43.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}弄成这样{\r}\N{\fnTahoma\fs13\3c&H400000&}Folded like this{\r}
+Dialogue: 0,0:22:50.92,0:22:52.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么少一百{\r}\N{\fnTahoma\fs13\3c&H400000&}How come itis 100 dollar short?{\r}
+Dialogue: 0,0:22:52.48,0:22:53.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你自己问他啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You ask him.{\r}
+Dialogue: 0,0:22:57.60,0:22:58.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother,{\r}
+Dialogue: 0,0:22:58.80,0:23:00.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈说怎么少一百{\r}\N{\fnTahoma\fs13\3c&H400000&}mom said there's 100 missing.{\r}
+Dialogue: 0,0:23:01.72,0:23:03.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}摩托车是吃水的喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you think the motorcycle runs on water?{\r}
+Dialogue: 0,0:23:04.40,0:23:04.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥说{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother said{\r}
+Dialogue: 0,0:23:04.80,0:23:06.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我没有耳聋{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm not deaf.{\r}
+Dialogue: 0,0:23:06.64,0:23:07.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭{\r}\N{\fnTahoma\fs13\3c&H400000&}Time to eat.{\r}
+Dialogue: 0,0:23:09.72,0:23:10.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，妈说{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, mom said{\r}
+Dialogue: 0,0:23:10.68,0:23:11.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}知道啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I know.{\r}
+Dialogue: 0,0:23:28.04,0:23:29.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭配电视就饱了啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Having rice with TV is enough,{\r}
+Dialogue: 0,0:23:29.48,0:23:30.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还需要吃菜吗{\r}\N{\fnTahoma\fs13\3c&H400000&}I guess you don't need any dishes.{\r}
+Dialogue: 0,0:23:57.80,0:23:59.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:23:59.52,0:24:01.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请输入您的CALL机号码{\r}\N{\fnTahoma\fs13\3c&H400000&}Please enter your pager number.{\r}
+Dialogue: 0,0:24:04.44,0:24:05.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:24:05.56,0:24:07.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,0:24:07.52,0:24:08.43,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}168\N168{\r}
+Dialogue: 0,0:24:11.16,0:24:12.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生您好{\r}\N{\fnTahoma\fs13\3c&H400000&}Hi, Mr. Lin.{\r}
+Dialogue: 0,0:24:12.16,0:24:13.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天中午12点10分{\r}\N{\fnTahoma\fs13\3c&H400000&}Today, at 12:10, Pickle said:{\r}
+Dialogue: 0,0:24:14.04,0:24:16.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯留言请您三点前到水闸门{\r}\N{\fnTahoma\fs13\3c&H400000&}Please be at the water gate before 3.{\r}
+Dialogue: 0,0:24:16.84,0:24:18.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对方是眷村帮{\r}\N{\fnTahoma\fs13\3c&H400000&}The opponents are Mainlanders.{\r}
+Dialogue: 0,0:24:18.88,0:24:19.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}另外{\r}\N{\fnTahoma\fs13\3c&H400000&}And{\r}
+Dialogue: 0,0:24:20.44,0:24:22.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他还要请您多带三把扁钻{\r}\N{\fnTahoma\fs13\3c&H400000&}please also bring 3 arrow chisels.{\r}
+Dialogue: 0,0:24:22.56,0:24:23.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,0:24:50.00,0:24:51.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}整天到晚在外面乱晃{\r}\N{\fnTahoma\fs13\3c&H400000&}Fooling around all day.{\r}
+Dialogue: 0,0:24:52.76,0:24:54.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是在做什么大生意{\r}\N{\fnTahoma\fs13\3c&H400000&}Like he is doing some huge business.{\r}
+Dialogue: 0,0:24:54.20,0:24:55.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}家里都待不住{\r}\N{\fnTahoma\fs13\3c&H400000&}Can't even stay home for a minute.{\r}
+Dialogue: 0,0:24:55.88,0:24:57.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有办法就不要回来{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't come home if you're that good!{\r}
+Dialogue: 0,0:25:02.92,0:25:03.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}唉哟{\r}\N{\fnTahoma\fs13\3c&H400000&}Well.{\r}
+Dialogue: 0,0:25:04.52,0:25:05.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就你们四个{\r}\N{\fnTahoma\fs13\3c&H400000&}Only four of you.{\r}
+Dialogue: 0,0:25:05.64,0:25:06.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}找不到人喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Can't find more help?{\r}
+Dialogue: 0,0:25:07.24,0:25:08.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看是要跟谁打啦{\r}\N{\fnTahoma\fs13\3c&H400000&}It depends on whom we are fighting.{\r}
+Dialogue: 0,0:25:08.92,0:25:10.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们很嚣张嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}You guys are very confident.{\r}
+Dialogue: 0,0:25:10.24,0:25:11.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对～{\r}\N{\fnTahoma\fs13\3c&H400000&}Yap{\r}
+Dialogue: 0,0:25:11.92,0:25:13.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在后悔还来得及{\r}\N{\fnTahoma\fs13\3c&H400000&}it's not too late to regret.{\r}
+Dialogue: 0,0:25:13.68,0:25:14.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来～{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,0:25:15.08,0:25:15.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry.{\r}
+Dialogue: 0,0:25:16.12,0:25:16.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是他们{\r}\N{\fnTahoma\fs13\3c&H400000&}It's them!{\r}
+Dialogue: 0,0:25:17.08,0:25:18.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是他们把我打成这样{\r}\N{\fnTahoma\fs13\3c&H400000&}They beat me into this.{\r}
+Dialogue: 0,0:25:18.88,0:25:20.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}说对不起{\r}\N{\fnTahoma\fs13\3c&H400000&}Say you're sorry.{\r}
+Dialogue: 0,0:25:20.16,0:25:22.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你爸我就原谅你们{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll forgive you son of a bitch.{\r}
+Dialogue: 0,0:25:25.68,0:25:28.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}上次没有把他手打断 算他运气好{\r}\N{\fnTahoma\fs13\3c&H400000&}He's lucky that we didn't break his arm last time.{\r}
+Dialogue: 0,0:25:30.72,0:25:32.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这位看起来体格不错喔{\r}\N{\fnTahoma\fs13\3c&H400000&}This one looks well-built.{\r}
+Dialogue: 0,0:25:32.84,0:25:34.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}打下去不知道会不会叫妈妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Wonder if he'll call momma later.{\r}
+Dialogue: 0,0:25:38.64,0:25:39.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}听不懂喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You don't get la?{\r}
+Dialogue: 0,0:25:40.12,0:25:41.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}娃娃哭了{\r}\N{\fnTahoma\fs13\3c&H400000&}Baby calls his momma{\r}
+Dialogue: 0,0:25:41.80,0:25:43.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是要叫妈妈{\r}\N{\fnTahoma\fs13\3c&H400000&}when crying.{\r}
+Dialogue: 0,0:25:44.60,0:25:46.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下谁叫妈还不知道勒{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't know who'll call his mom yet.{\r}
+Dialogue: 0,0:25:50.92,0:25:51.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}警察来了{\r}\N{\fnTahoma\fs13\3c&H400000&}The police are here.{\r}
+Dialogue: 0,0:26:08.64,0:26:09.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要跑{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't let him run away.{\r}
+Dialogue: 0,0:26:21.16,0:26:21.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我来{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll get him.{\r}
+Dialogue: 0,0:26:50.68,0:26:52.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:27:31.08,0:27:32.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是在干嘛啦{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you doing?{\r}
+Dialogue: 0,0:27:37.28,0:27:38.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:27:38.36,0:27:40.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,0:27:40.72,0:27:41.75,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}168\N168{\r}
+Dialogue: 0,0:27:42.36,0:27:43.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生{\r}\N{\fnTahoma\fs13\3c&H400000&}Mr. Lin,{\r}
+Dialogue: 0,0:27:44.80,0:27:46.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}您没事吧{\r}\N{\fnTahoma\fs13\3c&H400000&}are you alright?{\r}
+Dialogue: 0,0:27:46.24,0:27:47.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What{\r}
+Dialogue: 0,0:27:48.24,0:27:48.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我很好啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm fine,{\r}
+Dialogue: 0,0:27:49.00,0:27:50.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Why?{\r}
+Dialogue: 0,0:27:51.20,0:27:52.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有没有留言啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Any message?{\r}
+Dialogue: 0,0:27:53.44,0:27:55.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天下午3:05分{\r}\N{\fnTahoma\fs13\3c&H400000&}3:05 this afternoon, 045 said{\r}
+Dialogue: 0,0:27:55.36,0:27:58.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}045留言请您4点前到撞球间{\r}\N{\fnTahoma\fs13\3c&H400000&}Be at the Billiards House before 4.{\r}
+Dialogue: 0,0:27:58.16,0:27:59.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一定要准时{\r}\N{\fnTahoma\fs13\3c&H400000&}You must be on time.{\r}
+Dialogue: 0,0:27:59.44,0:28:01.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为他们要埋伏{\r}\N{\fnTahoma\fs13\3c&H400000&}'Cause they plan an ambush.{\r}
+Dialogue: 0,0:28:01.80,0:28:02.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Hum.{\r}
+Dialogue: 0,0:28:02.44,0:28:03.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有什么需要为您{\r}\N{\fnTahoma\fs13\3c&H400000&}Anything else I can do for you{\r}
+Dialogue: 0,0:28:08.08,0:28:09.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}感谢您的来电{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you for calling.{\r}
+Dialogue: 0,0:28:11.32,0:28:11.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你知不知道菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you know{\r}
+Dialogue: 0,0:28:12.12,0:28:14.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喜欢什么样类型的女生啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What kind of girl does Pickle like?{\r}
+Dialogue: 0,0:28:16.44,0:28:17.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Me.{\r}
+Dialogue: 0,0:28:17.44,0:28:18.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:28:19.32,0:28:20.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I said me.{\r}
+Dialogue: 0,0:28:20.84,0:28:22.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊不然菜脯喜欢吃什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Well, what does Pickle like to eat?{\r}
+Dialogue: 0,0:28:25.28,0:28:26.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}面筋啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Cheese.{\r}
+Dialogue: 0,0:28:27.72,0:28:28.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Right!{\r}
+Dialogue: 0,0:28:29.08,0:28:30.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}“面筋”，“菜脯”\N鈥淐heese鈥?and 鈥淧ickle{\r}
+Dialogue: 0,0:28:30.44,0:28:32.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}夹起来刚刚好{\r}\N{\fnTahoma\fs13\3c&H400000&}Perfect match.{\r}
+Dialogue: 0,0:28:36.88,0:28:38.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来了来了{\r}\N{\fnTahoma\fs13\3c&H400000&}Here they come.{\r}
+Dialogue: 0,0:28:38.76,0:28:39.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}躲起来{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's hide.{\r}
+Dialogue: 0,0:28:43.28,0:28:44.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}面筋{\r}\N{\fnTahoma\fs13\3c&H400000&}Cheese,{\r}
+Dialogue: 0,0:28:45.24,0:28:46.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}演像一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}play your role.{\r}
+Dialogue: 0,0:28:46.16,0:28:47.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我知道啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I know.{\r}
+Dialogue: 0,0:28:58.88,0:29:01.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}听说眷村仔在水闸门被人家打挂{\r}\N{\fnTahoma\fs13\3c&H400000&}I heard the Mainlanders were battered.{\r}
+Dialogue: 0,0:29:02.04,0:29:03.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}干！一定是阿信他们{\r}\N{\fnTahoma\fs13\3c&H400000&}It must be Ashin and his gang.{\r}
+Dialogue: 0,0:29:03.96,0:29:04.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有够嚣张{\r}\N{\fnTahoma\fs13\3c&H400000&}They are everywhere.{\r}
+Dialogue: 0,0:29:05.12,0:29:05.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看这样啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Well, how about this:{\r}
+Dialogue: 0,0:29:06.00,0:29:07.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}晚上来去找眷村仔乔这件事{\r}\N{\fnTahoma\fs13\3c&H400000&}We go to the Mainlanders tonight,{\r}
+Dialogue: 0,0:29:07.76,0:29:08.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}改天给他们好看{\r}\N{\fnTahoma\fs13\3c&H400000&}Together, we will teach Ashin's some lessons.{\r}
+Dialogue: 0,0:29:09.12,0:29:10.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}水啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Good.{\r}
+Dialogue: 0,0:29:10.20,0:29:11.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小姐，不好意思{\r}\N{\fnTahoma\fs13\3c&H400000&}Miss, Excuse me.{\r}
+Dialogue: 0,0:29:11.48,0:29:12.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}二号桌{\r}\N{\fnTahoma\fs13\3c&H400000&}Table 2.{\r}
+Dialogue: 0,0:29:18.32,0:29:19.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}新来的喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You're new here?{\r}
+Dialogue: 0,0:29:20.00,0:29:21.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}水喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice.{\r}
+Dialogue: 0,0:29:22.52,0:29:23.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把马子喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You're after this chick?{\r}
+Dialogue: 0,0:29:23.88,0:29:24.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's go.{\r}
+Dialogue: 0,0:29:34.36,0:29:35.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}借我一下借我试一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Excuse me.{\r}
+Dialogue: 0,0:29:42.92,0:29:43.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没进去{\r}\N{\fnTahoma\fs13\3c&H400000&}Missed.{\r}
+Dialogue: 0,0:29:46.24,0:29:47.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给你死{\r}\N{\fnTahoma\fs13\3c&H400000&}Kill them.{\r}
+Dialogue: 0,0:29:50.12,0:29:51.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来啊～{\r}\N{\fnTahoma\fs13\3c&H400000&}Cheese,{\r}
+Dialogue: 0,0:30:07.92,0:30:08.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}面筋{\r}\N{\fnTahoma\fs13\3c&H400000&}are you alright?{\r}
+Dialogue: 0,0:30:08.56,0:30:09.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你有没有怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,0:30:09.92,0:30:11.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯，人家好害怕喔{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm so scared.{\r}
+Dialogue: 0,0:30:12.16,0:30:13.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔！你也会怕喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Oh, you are so scared.{\r}
+Dialogue: 0,0:30:13.84,0:30:14.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你给我秀秀{\r}\N{\fnTahoma\fs13\3c&H400000&}I need some consolation.{\r}
+Dialogue: 0,0:30:14.96,0:30:16.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}What the hell.{\r}
+Dialogue: 0,0:30:27.24,0:30:28.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle, hurry up.{\r}
+Dialogue: 0,0:30:29.08,0:30:30.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好，我给你秀秀{\r}\N{\fnTahoma\fs13\3c&H400000&}I give you my consolation.{\r}
+Dialogue: 0,0:30:35.84,0:30:37.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯，快一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle, come on!{\r}
+Dialogue: 0,0:30:38.48,0:30:39.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Coming.{\r}
+Dialogue: 0,0:30:51.24,0:30:52.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不行{\r}\N{\fnTahoma\fs13\3c&H400000&}You can't do that!{\r}
+Dialogue: 0,0:30:55.28,0:30:56.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥款{\r}\N{\fnTahoma\fs13\3c&H400000&}How's that?{\r}
+Dialogue: 0,0:30:59.00,0:31:00.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生您好{\r}\N{\fnTahoma\fs13\3c&H400000&}Hi, Mr. Lin.{\r}
+Dialogue: 0,0:31:00.12,0:31:02.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}937留言请您尽快赶到码头{\r}\N{\fnTahoma\fs13\3c&H400000&}937 said: be at the pier as soon as possible.{\r}
+Dialogue: 0,0:31:04.44,0:31:05.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好累{\r}\N{\fnTahoma\fs13\3c&H400000&}Fuck, So tired.{\r}
+Dialogue: 0,0:31:05.32,0:31:06.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊～{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:31:07.56,0:31:08.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔！抱歉啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry,{\r}
+Dialogue: 0,0:31:08.96,0:31:10.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不是在跟你讲啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I wasn't talking to you.{\r}
+Dialogue: 0,0:31:10.96,0:31:11.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拜拜{\r}\N{\fnTahoma\fs13\3c&H400000&}Bye.{\r}
+Dialogue: 0,0:31:17.12,0:31:18.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,0:31:19.16,0:31:20.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫妈妈啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Time to call momma.{\r}
+Dialogue: 0,0:31:20.32,0:31:26.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}（撞球场，胜二）{\r}\N{\fnTahoma\fs13\3c&H400000&}(Billiards House. Win: 2 times){\r}
+Dialogue: 0,0:31:42.32,0:31:43.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶他是怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What's wrong with him?{\r}
+Dialogue: 0,0:31:43.48,0:31:44.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是你们体操队的{\r}\N{\fnTahoma\fs13\3c&H400000&}He was your teammate, right?{\r}
+Dialogue: 0,0:31:45.04,0:31:46.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么每天都这张臭脸{\r}\N{\fnTahoma\fs13\3c&H400000&}How come he has this long face everyday?{\r}
+Dialogue: 0,0:31:59.32,0:32:00.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶这个圆的啤酒瓶仔{\r}\N{\fnTahoma\fs13\3c&H400000&}The round beer bottle{\r}
+Dialogue: 0,0:32:01.96,0:32:03.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟这四角的绍兴酒瓶{\r}\N{\fnTahoma\fs13\3c&H400000&}and the square ShaoShing bottle{\r}
+Dialogue: 0,0:32:04.48,0:32:06.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哪一个打架起来比较好用{\r}\N{\fnTahoma\fs13\3c&H400000&}which one is better for fighting?{\r}
+Dialogue: 0,0:32:07.52,0:32:08.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不知道{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't know.{\r}
+Dialogue: 0,0:32:08.64,0:32:09.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不会试试看喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Why don't you try la.{\r}
+Dialogue: 0,0:32:13.60,0:32:14.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拿这个{\r}\N{\fnTahoma\fs13\3c&H400000&}Take this one.{\r}
+Dialogue: 0,0:32:15.08,0:32:15.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Excuse me.{\r}
+Dialogue: 0,0:32:20.04,0:32:20.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿娘喂{\r}\N{\fnTahoma\fs13\3c&H400000&}Shit.{\r}
+Dialogue: 0,0:32:20.68,0:32:21.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈咧{\r}\N{\fnTahoma\fs13\3c&H400000&}Holy shit.{\r}
+Dialogue: 0,0:32:21.56,0:32:23.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这不是开玩笑的{\r}\N{\fnTahoma\fs13\3c&H400000&}This isn't funny.{\r}
+Dialogue: 0,0:32:23.64,0:32:25.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫阿嬷都会{\r}\N{\fnTahoma\fs13\3c&H400000&}Whoever get hit by this will call grandma{\r}
+Dialogue: 0,0:32:25.64,0:32:26.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影！{\r}\N{\fnTahoma\fs13\3c&H400000&}What the hell.{\r}
+Dialogue: 0,0:32:27.04,0:32:28.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给它拜一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Pray to la.{\r}
+Dialogue: 0,0:32:30.24,0:32:31.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请它抽烟啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Give ita cigarette.{\r}
+Dialogue: 0,0:32:39.12,0:32:40.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有一块吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you have a dollar?{\r}
+Dialogue: 0,0:32:43.04,0:32:44.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这有{\r}\N{\fnTahoma\fs13\3c&H400000&}Here.{\r}
+Dialogue: 0,0:32:47.96,0:32:49.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生您好{\r}\N{\fnTahoma\fs13\3c&H400000&}Hi, Mr. Lin.{\r}
+Dialogue: 0,0:32:49.32,0:32:50.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes?{\r}
+Dialogue: 0,0:32:51.20,0:32:51.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}742留言{\r}\N{\fnTahoma\fs13\3c&H400000&}742 said:{\r}
+Dialogue: 0,0:32:52.04,0:32:55.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请您半个小时后去钓虾场帮忙{\r}\N{\fnTahoma\fs13\3c&H400000&}He needs help at the shrimp pool 30 minutes later.{\r}
+Dialogue: 0,0:32:55.40,0:32:56.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,0:32:56.56,0:32:57.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，林先生{\r}\N{\fnTahoma\fs13\3c&H400000&}Mr. Lin{\r}
+Dialogue: 0,0:33:00.08,0:33:00.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:33:02.20,0:33:06.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你之前去钓虾场三次都打输了{\r}\N{\fnTahoma\fs13\3c&H400000&}You have lost 3 fights at the shrimp pool{\r}
+Dialogue: 0,0:33:06.20,0:33:07.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你这次要小心喔{\r}\N{\fnTahoma\fs13\3c&H400000&}So, be careful this time.{\r}
+Dialogue: 0,0:33:08.48,0:33:09.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么知道啊{\r}\N{\fnTahoma\fs13\3c&H400000&}How do you know?{\r}
+Dialogue: 0,0:33:10.56,0:33:11.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}呃{\r}\N{\fnTahoma\fs13\3c&H400000&}Well{\r}
+Dialogue: 0,0:33:13.08,0:33:15.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为我有帮你作纪录啊{\r}\N{\fnTahoma\fs13\3c&H400000&}'cause I'm keeping records for you.{\r}
+Dialogue: 0,0:33:15.56,0:33:16.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:33:16.40,0:33:17.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You know{\r}
+Dialogue: 0,0:33:17.56,0:33:20.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为你跟你朋友留言都很{\r}\N{\fnTahoma\fs13\3c&H400000&}The messages between you and your friends{\r}
+Dialogue: 0,0:33:20.44,0:33:21.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}特别{\r}\N{\fnTahoma\fs13\3c&H400000&}are very special.{\r}
+Dialogue: 0,0:33:22.28,0:33:24.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}而且我们公司电脑都有纪录啊{\r}\N{\fnTahoma\fs13\3c&H400000&}They're all in the company computer.{\r}
+Dialogue: 0,0:33:27.40,0:33:28.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔！这样哦{\r}\N{\fnTahoma\fs13\3c&H400000&}I see.{\r}
+Dialogue: 0,0:33:31.48,0:33:34.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你有没有想过{\r}\N{\fnTahoma\fs13\3c&H400000&}Has itever occurred to you that{\r}
+Dialogue: 0,0:33:35.68,0:33:38.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要再过这种打打杀杀的生活啊{\r}\N{\fnTahoma\fs13\3c&H400000&}you should stop this kind of life?{\r}
+Dialogue: 0,0:33:38.96,0:33:40.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有耶{\r}\N{\fnTahoma\fs13\3c&H400000&}Nope.{\r}
+Dialogue: 0,0:33:40.20,0:33:41.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你问这么多干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}Why are you asking?{\r}
+Dialogue: 0,0:33:41.68,0:33:42.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Nothing.{\r}
+Dialogue: 0,0:33:43.24,0:33:45.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我只是想说{\r}\N{\fnTahoma\fs13\3c&H400000&}It seems to me, though,{\r}
+Dialogue: 0,0:33:45.12,0:33:46.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你这样每天不是都过的很紧张吗{\r}\N{\fnTahoma\fs13\3c&H400000&}you life is very tense.{\r}
+Dialogue: 0,0:33:46.64,0:33:47.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}紧张什么{\r}\N{\fnTahoma\fs13\3c&H400000&}What is there to be tense for?{\r}
+Dialogue: 0,0:33:49.48,0:33:50.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，我很好奇勒{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey, I'm curious{\r}
+Dialogue: 0,0:33:50.76,0:33:52.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你这边是电话秘书{\r}\N{\fnTahoma\fs13\3c&H400000&}You work for a pager service{\r}
+Dialogue: 0,0:33:52.48,0:33:54.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还是那个什么张老师啊{\r}\N{\fnTahoma\fs13\3c&H400000&}or a counseling center?{\r}
+Dialogue: 0,0:33:54.32,0:33:55.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Well{\r}
+Dialogue: 0,0:33:55.80,0:33:56.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有啊{\r}\N{\fnTahoma\fs13\3c&H400000&}One more thing:{\r}
+Dialogue: 0,0:33:57.44,0:33:59.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以后不要叫我林先生啦\NDon't call me 鈥淢r. Lin" anymore.{\r}
+Dialogue: 0,0:33:59.32,0:34:00.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫我阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Call me Ashin.{\r}
+Dialogue: 0,0:34:00.52,0:34:01.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:34:01.32,0:34:02.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拜拜{\r}\N{\fnTahoma\fs13\3c&H400000&}Bye.{\r}
+Dialogue: 0,0:34:05.80,0:34:06.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拜拜{\r}\N{\fnTahoma\fs13\3c&H400000&}Bye.{\r}
+Dialogue: 0,0:37:10.32,0:37:11.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu{\r}
+Dialogue: 0,0:37:11.44,0:37:13.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那两碗面端去给那桌的客人{\r}\N{\fnTahoma\fs13\3c&H400000&}These two bowls of noodle are for the quest over there{\r}
+Dialogue: 0,0:37:51.92,0:37:54.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，吃快一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey, eat faster.{\r}
+Dialogue: 0,0:37:58.80,0:38:00.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看啥小{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you looking at?{\r}
+Dialogue: 0,0:38:01.52,0:38:02.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry.{\r}
+Dialogue: 0,0:38:02.36,0:38:02.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老板，抱歉喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry, boss.{\r}
+Dialogue: 0,0:38:03.04,0:38:03.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}马上就好{\r}\N{\fnTahoma\fs13\3c&H400000&}Please wait a second.{\r}
+Dialogue: 0,0:38:04.04,0:38:04.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}小树{\r}\N{\fnTahoma\fs13\3c&H400000&}Shu,{\r}
+Dialogue: 0,0:38:04.88,0:38:05.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那桌客人快要吃完了{\r}\N{\fnTahoma\fs13\3c&H400000&}That table is finishing soon.{\r}
+Dialogue: 0,0:38:05.92,0:38:06.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赶快去收一收{\r}\N{\fnTahoma\fs13\3c&H400000&}Go clean the table.{\r}
+Dialogue: 0,0:38:06.88,0:38:07.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快点{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up.{\r}
+Dialogue: 0,0:38:07.72,0:38:08.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赶快去收一收{\r}\N{\fnTahoma\fs13\3c&H400000&}Clean the table.{\r}
+Dialogue: 0,0:38:08.52,0:38:09.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老板啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey man,{\r}
+Dialogue: 0,0:38:10.44,0:38:11.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哪有人这样做生意的{\r}\N{\fnTahoma\fs13\3c&H400000&}this is not how you do business.{\r}
+Dialogue: 0,0:38:12.04,0:38:13.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}位置这么少，客人要坐哪里{\r}\N{\fnTahoma\fs13\3c&H400000&}With so few seats, where shall we be seated?{\r}
+Dialogue: 0,0:38:14.32,0:38:15.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}面摊可以关一关了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Maybe you should shut the stall down.{\r}
+Dialogue: 0,0:38:16.56,0:38:17.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赶快吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Eat faster.{\r}
+Dialogue: 0,0:38:20.56,0:38:21.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样啊，不爽喔{\r}\N{\fnTahoma\fs13\3c&H400000&}What? Any problem?{\r}
+Dialogue: 0,0:38:29.88,0:38:30.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在是怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}You got something to say!{\r}
+Dialogue: 0,0:38:32.32,0:38:33.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔！抱歉啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Oh, sorry!{\r}
+Dialogue: 0,0:38:34.08,0:38:35.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不小心的啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I didn't mean la.{\r}
+Dialogue: 0,0:38:35.56,0:38:36.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}找死喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you looking for trouble?{\r}
+Dialogue: 0,0:38:37.96,0:38:39.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们如果那么饿{\r}\N{\fnTahoma\fs13\3c&H400000&}If you are that hungry{\r}
+Dialogue: 0,0:38:39.60,0:38:41.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然我“下面”给你们吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}how about I let you swallow my dick?{\r}
+Dialogue: 0,0:38:41.88,0:38:43.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你皮在痒了{\r}\N{\fnTahoma\fs13\3c&H400000&}You asked for this.{\r}
+Dialogue: 0,0:38:45.96,0:38:48.52,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}也许这次就不是不小心的啰{\r}\N{\fnTahoma\fs13\3c&H400000&}Maybe I mean itthis time.{\r}
+Dialogue: 0,0:38:50.48,0:38:51.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}So?{\r}
+Dialogue: 0,0:39:14.72,0:39:15.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}免紧张啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Take iteasy.{\r}
+Dialogue: 0,0:39:21.12,0:39:22.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大，抽烟啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss. Have a cigarette.{\r}
+Dialogue: 0,0:39:34.40,0:39:35.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们两个胆识不错{\r}\N{\fnTahoma\fs13\3c&H400000&}You two really have balls.{\r}
+Dialogue: 0,0:39:36.48,0:39:37.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以后就跟我{\r}\N{\fnTahoma\fs13\3c&H400000&}Come join my gang.{\r}
+Dialogue: 0,0:39:39.36,0:39:40.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥小{\r}\N{\fnTahoma\fs13\3c&H400000&}What the Fuck.{\r}
+Dialogue: 0,0:39:40.76,0:39:42.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你爸我叫木瓜啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I am Papaya.{\r}
+Dialogue: 0,0:39:42.52,0:39:43.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我爸是黑松{\r}\N{\fnTahoma\fs13\3c&H400000&}My dad is Pine,{\r}
+Dialogue: 0,0:39:44.12,0:39:45.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是啥小{\r}\N{\fnTahoma\fs13\3c&H400000&}and who the hell you are?{\r}
+Dialogue: 0,0:39:47.68,0:39:49.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}黑松老大{\r}\N{\fnTahoma\fs13\3c&H400000&}His dad is Pine, the gang boss.{\r}
+Dialogue: 0,0:39:49.44,0:39:50.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对{\r}\N{\fnTahoma\fs13\3c&H400000&}Yeah,{\r}
+Dialogue: 0,0:39:50.80,0:39:51.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是他{\r}\N{\fnTahoma\fs13\3c&H400000&}that's him.{\r}
+Dialogue: 0,0:39:52.64,0:39:55.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟我们比在这边卖水果有前途{\r}\N{\fnTahoma\fs13\3c&H400000&}Follow us get you farther than selling fruits.{\r}
+Dialogue: 0,0:39:57.68,0:39:58.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有没有要买{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you want to buy any fruit?{\r}
+Dialogue: 0,0:39:59.84,0:40:01.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然我要收摊了{\r}\N{\fnTahoma\fs13\3c&H400000&}We're closing.{\r}
+Dialogue: 0,0:40:02.48,0:40:03.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine,{\r}
+Dialogue: 0,0:40:03.72,0:40:04.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等你们收完摊{\r}\N{\fnTahoma\fs13\3c&H400000&}we can solve this{\r}
+Dialogue: 0,0:40:05.88,0:40:07.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一起出来玩啊{\r}\N{\fnTahoma\fs13\3c&H400000&}after you close the shop.{\r}
+Dialogue: 0,0:40:16.84,0:40:17.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}甜的勒{\r}\N{\fnTahoma\fs13\3c&H400000&}These are sweet.{\r}
+Dialogue: 0,0:40:17.76,0:40:19.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}送给你们吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You can have them for free.{\r}
+Dialogue: 0,0:40:20.16,0:40:21.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}甜的喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Sweet papaya.{\r}
+Dialogue: 0,0:40:24.16,0:40:25.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没关系{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't worry.{\r}
+Dialogue: 0,0:40:25.96,0:40:26.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们忙{\r}\N{\fnTahoma\fs13\3c&H400000&}You guys are busy.{\r}
+Dialogue: 0,0:40:27.64,0:40:28.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}总会遇到的{\r}\N{\fnTahoma\fs13\3c&H400000&}We'll definitely be seeing each other again.{\r}
+Dialogue: 0,0:40:34.56,0:40:35.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好吃耶{\r}\N{\fnTahoma\fs13\3c&H400000&}These are good.{\r}
+Dialogue: 0,0:40:41.68,0:40:42.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你来干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}What do you want?{\r}
+Dialogue: 0,0:40:47.16,0:40:49.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啦，有麻烦可以来找我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I see, You can come to me for your trouble.{\r}
+Dialogue: 0,0:40:50.44,0:40:50.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那找你回去{\r}\N{\fnTahoma\fs13\3c&H400000&}I come here to ask you back.{\r}
+Dialogue: 0,0:40:51.04,0:40:52.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么样{\r}\N{\fnTahoma\fs13\3c&H400000&}What do you say?{\r}
+Dialogue: 0,0:40:53.52,0:40:54.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}回去{\r}\N{\fnTahoma\fs13\3c&H400000&}Going back?{\r}
+Dialogue: 0,0:40:55.44,0:40:56.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}练体操喔{\r}\N{\fnTahoma\fs13\3c&H400000&}To the gymnastics team?{\r}
+Dialogue: 0,0:40:59.08,0:41:00.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟你一样{\r}\N{\fnTahoma\fs13\3c&H400000&}And, be like you,{\r}
+Dialogue: 0,0:41:00.72,0:41:02.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}每天躲在体操馆{\r}\N{\fnTahoma\fs13\3c&H400000&}staying in the gym everyday,{\r}
+Dialogue: 0,0:41:02.20,0:41:03.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}过年只休两天{\r}\N{\fnTahoma\fs13\3c&H400000&}With only two days oh' during the Chinese New Year?{\r}
+Dialogue: 0,0:41:04.56,0:41:04.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}算了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}Forget la.{\r}
+Dialogue: 0,0:41:05.08,0:41:06.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}太无聊了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}It's too boring.{\r}
+Dialogue: 0,0:41:07.00,0:41:08.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我现在才知道外面有多好玩{\r}\N{\fnTahoma\fs13\3c&H400000&}Now I know there is so much fun out here.{\r}
+Dialogue: 0,0:41:10.56,0:41:12.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我以前怎么那么乖啊{\r}\N{\fnTahoma\fs13\3c&H400000&}How silly I was back then?{\r}
+Dialogue: 0,0:41:12.76,0:41:14.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}被体操绑得死死的{\r}\N{\fnTahoma\fs13\3c&H400000&}Tied myself to gymnastics.{\r}
+Dialogue: 0,0:41:17.04,0:41:18.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哪像现在{\r}\N{\fnTahoma\fs13\3c&H400000&}See how free I am now?{\r}
+Dialogue: 0,0:41:18.76,0:41:20.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我爱干什么就干什么{\r}\N{\fnTahoma\fs13\3c&H400000&}I can do whatever I want.{\r}
+Dialogue: 0,0:41:20.24,0:41:21.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}多爽啊{\r}\N{\fnTahoma\fs13\3c&H400000&}It is great!{\r}
+Dialogue: 0,0:41:24.24,0:41:25.46,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是吗{\r}\N{\fnTahoma\fs13\3c&H400000&}IS la?{\r}
+Dialogue: 0,0:41:27.76,0:41:30.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}体操选手一辈子只有一次巅峰期{\r}\N{\fnTahoma\fs13\3c&H400000&}A gymnast has only one peak period in his life,{\r}
+Dialogue: 0,0:41:30.92,0:41:32.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你再不回来，就来不及了{\r}\N{\fnTahoma\fs13\3c&H400000&}it'll be too late if you don't come back now.{\r}
+Dialogue: 0,0:41:37.80,0:41:38.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真的假的啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you talking about?{\r}
+Dialogue: 0,0:41:42.04,0:41:43.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你以前不是最看不起我{\r}\N{\fnTahoma\fs13\3c&H400000&}You used to look down on me.{\r}
+Dialogue: 0,0:41:43.76,0:41:44.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在叫我回去{\r}\N{\fnTahoma\fs13\3c&H400000&}But now you're asking me back.{\r}
+Dialogue: 0,0:41:45.24,0:41:46.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}(What me hell){\r}
+Dialogue: 0,0:41:55.24,0:41:56.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我告诉你{\r}\N{\fnTahoma\fs13\3c&H400000&}Listen,{\r}
+Dialogue: 0,0:41:57.72,0:41:59.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}如果我是练体操的料{\r}\N{\fnTahoma\fs13\3c&H400000&}if I am really good at gymnastics,{\r}
+Dialogue: 0,0:42:00.76,0:42:03.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一年前教练就会把我留下来了{\r}\N{\fnTahoma\fs13\3c&H400000&}the coach wouldn't let me go a year ago.{\r}
+Dialogue: 0,0:42:04.52,0:42:05.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要怪别人{\r}\N{\fnTahoma\fs13\3c&H400000&}Stop blaming others.{\r}
+Dialogue: 0,0:42:06.88,0:42:08.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你自己选的{\r}\N{\fnTahoma\fs13\3c&H400000&}This is your choice.{\r}
+Dialogue: 0,0:43:03.16,0:43:04.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:43:04.20,0:43:06.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,0:43:07.32,0:43:08.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我是阿信啦{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Ashin.{\r}
+Dialogue: 0,0:43:09.16,0:43:10.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin?{\r}
+Dialogue: 0,0:43:10.80,0:43:12.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天没有你的留言{\r}\N{\fnTahoma\fs13\3c&H400000&}There's no message for you today.{\r}
+Dialogue: 0,0:43:13.20,0:43:14.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我知道啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I know.{\r}
+Dialogue: 0,0:43:15.64,0:43:16.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我打来{\r}\N{\fnTahoma\fs13\3c&H400000&}I called{\r}
+Dialogue: 0,0:43:16.80,0:43:17.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是想跟你聊天啦{\r}\N{\fnTahoma\fs13\3c&H400000&}to talk to you.{\r}
+Dialogue: 0,0:43:19.28,0:43:20.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很抱歉我们公司有规定{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry, but we're not allowed{\r}
+Dialogue: 0,0:43:20.92,0:43:22.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不能跟客户聊天{\r}\N{\fnTahoma\fs13\3c&H400000&}to chat with clients.{\r}
+Dialogue: 0,0:43:23.16,0:43:24.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我又不是你客户{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm not your client,{\r}
+Dialogue: 0,0:43:24.76,0:43:25.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我是你朋友勒{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm a friend.{\r}
+Dialogue: 0,0:43:27.12,0:43:28.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶我在上班勒{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm at work,{\r}
+Dialogue: 0,0:43:29.04,0:43:30.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要闹啦{\r}\N{\fnTahoma\fs13\3c&H400000&}stop bugging me.{\r}
+Dialogue: 0,0:43:32.20,0:43:33.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我哪有在闹啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I am serious.{\r}
+Dialogue: 0,0:43:35.36,0:43:36.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等你下班啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's meet after you are off the clock{\r}
+Dialogue: 0,0:43:37.36,0:43:38.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么样{\r}\N{\fnTahoma\fs13\3c&H400000&}How does that sound?{\r}
+Dialogue: 0,0:43:40.00,0:43:41.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不行啦{\r}\N{\fnTahoma\fs13\3c&H400000&}No way.{\r}
+Dialogue: 0,0:43:41.88,0:43:42.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么不行{\r}\N{\fnTahoma\fs13\3c&H400000&}Why not?{\r}
+Dialogue: 0,0:43:46.12,0:43:47.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生，您不要这样{\r}\N{\fnTahoma\fs13\3c&H400000&}Mr. Lin, please do not act like this.{\r}
+Dialogue: 0,0:43:47.36,0:43:48.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我在上班{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm at work.{\r}
+Dialogue: 0,0:43:49.24,0:43:50.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Mr. Lin{\r}
+Dialogue: 0,0:43:52.72,0:43:53.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine.{\r}
+Dialogue: 0,0:43:55.40,0:43:56.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那我留言可以吧{\r}\N{\fnTahoma\fs13\3c&H400000&}I want to leave a message, may I?{\r}
+Dialogue: 0,0:43:57.84,0:43:59.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好的，请说{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes, Go ahead.{\r}
+Dialogue: 0,0:44:02.36,0:44:03.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天晚上九点{\r}\N{\fnTahoma\fs13\3c&H400000&}9 o'clock tonight{\r}
+Dialogue: 0,0:44:05.72,0:44:06.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}电影院{\r}\N{\fnTahoma\fs13\3c&H400000&}at the movie theater.{\r}
+Dialogue: 0,0:44:07.32,0:44:08.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不见不散{\r}\N{\fnTahoma\fs13\3c&H400000&}Be there or be square.{\r}
+Dialogue: 0,0:44:09.76,0:44:11.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}您的留言代号是{\r}\N{\fnTahoma\fs13\3c&H400000&}To whom you leave this message?{\r}
+Dialogue: 0,0:44:13.00,0:44:14.71,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}Y-O-U\NY, O, U.{\r}
+Dialogue: 0,0:44:14.80,0:44:15.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}YOU啦{\r}\N{\fnTahoma\fs13\3c&H400000&}YOU.{\r}
+Dialogue: 0,0:44:20.76,0:44:21.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你除了玩跟打架{\r}\N{\fnTahoma\fs13\3c&H400000&}Is there anything meaningful to you{\r}
+Dialogue: 0,0:44:22.40,0:44:24.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有更有意义的事情可以做吗{\r}\N{\fnTahoma\fs13\3c&H400000&}other than fooling around and fight?{\r}
+Dialogue: 0,0:44:29.00,0:44:30.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喂{\r}\N{\fnTahoma\fs13\3c&H400000&}Hello?{\r}
+Dialogue: 0,0:44:35.80,0:44:37.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那你每天在这里接电话{\r}\N{\fnTahoma\fs13\3c&H400000&}So your life is more meaningful{\r}
+Dialogue: 0,0:44:37.40,0:44:38.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就比我有意义啦{\r}\N{\fnTahoma\fs13\3c&H400000&}answering phone calls every day?{\r}
+Dialogue: 0,0:44:44.00,0:44:45.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}感谢您的来电{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you for calling.{\r}
+Dialogue: 0,0:45:09.40,0:45:12.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，你们第一次来喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Is this your first time here?{\r}
+Dialogue: 0,0:45:14.44,0:45:15.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我也第一次来勒{\r}\N{\fnTahoma\fs13\3c&H400000&}It is mine.{\r}
+Dialogue: 0,0:45:15.72,0:45:16.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗨～{\r}\N{\fnTahoma\fs13\3c&H400000&}Hi.{\r}
+Dialogue: 0,0:45:48.44,0:45:49.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坐啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Have a sit.{\r}
+Dialogue: 0,0:45:50.92,0:45:52.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}免紧张啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Take iteasy.{\r}
+Dialogue: 0,0:45:55.16,0:45:57.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我就跟你说宜兰没多大{\r}\N{\fnTahoma\fs13\3c&H400000&}Told you Yilan is a small place,{\r}
+Dialogue: 0,0:45:57.32,0:45:59.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们总会遇到的啦{\r}\N{\fnTahoma\fs13\3c&H400000&}and we'll meet again on way or the other.{\r}
+Dialogue: 0,0:46:03.28,0:46:04.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抽烟啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Have a cigarette.{\r}
+Dialogue: 0,0:46:11.84,0:46:13.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在流行抽这个啦{\r}\N{\fnTahoma\fs13\3c&H400000&}This is what's popular now.{\r}
+Dialogue: 0,0:46:17.44,0:46:18.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:46:19.36,0:46:20.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怕喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You're scared?{\r}
+Dialogue: 0,0:46:29.44,0:46:30.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey.{\r}
+Dialogue: 0,0:46:44.32,0:46:45.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啊，你怎么那么晚才来{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin, you're so late.{\r}
+Dialogue: 0,0:46:46.08,0:46:47.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人家都休息了啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Everyone had left.{\r}
+Dialogue: 0,0:46:47.44,0:46:48.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不好意思啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm sorry.{\r}
+Dialogue: 0,0:46:48.20,0:46:48.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,0:46:49.04,0:46:49.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赶快搬一搬啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Get the cartons and move fast,{\r}
+Dialogue: 0,0:46:50.04,0:46:52.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我要回去睡我的美容觉{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll go back for my beauty sleep.{\r}
+Dialogue: 0,0:47:02.16,0:47:03.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}赶快搬啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up.{\r}
+Dialogue: 0,0:47:25.52,0:47:26.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶等一下啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Wait a second.{\r}
+Dialogue: 0,0:47:30.28,0:47:31.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Wait up{\r}
+Dialogue: 0,0:47:33.88,0:47:34.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle!{\r}
+Dialogue: 0,0:47:36.24,0:47:37.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Wait for me.{\r}
+Dialogue: 0,0:47:56.64,0:47:57.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle!{\r}
+Dialogue: 0,0:48:04.00,0:48:04.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,0:48:06.12,0:48:07.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯，有没有怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle, are you okay?{\r}
+Dialogue: 0,0:48:07.56,0:48:08.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}爽啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Fucking awesome.{\r}
+Dialogue: 0,0:48:11.12,0:48:12.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真的假的啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you serious?{\r}
+Dialogue: 0,0:48:12.12,0:48:13.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Yap{\r}
+Dialogue: 0,0:48:13.96,0:48:17.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，你最近怪怪的{\r}\N{\fnTahoma\fs13\3c&H400000&}You've been acting weird recently.{\r}
+Dialogue: 0,0:48:20.00,0:48:21.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一个礼拜没睡觉喔{\r}\N{\fnTahoma\fs13\3c&H400000&}I haven't slept for a week.{\r}
+Dialogue: 0,0:48:22.00,0:48:22.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:48:24.36,0:48:27.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶晚上陪我去把马子{\r}\N{\fnTahoma\fs13\3c&H400000&}Lets go get some actions tonight.{\r}
+Dialogue: 0,0:48:28.04,0:48:29.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}顺便教我那个{\r}\N{\fnTahoma\fs13\3c&H400000&}And you can teach me{\r}
+Dialogue: 0,0:48:29.40,0:48:30.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}“大车轮”\Nthe 鈥渂ig wheel{\r}
+Dialogue: 0,0:48:38.28,0:48:41.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嘿！菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey, Pickle.{\r}
+Dialogue: 0,0:48:41.40,0:48:42.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嘿！{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey.{\r}
+Dialogue: 0,0:48:46.04,0:48:47.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你也来跳舞喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You come here to dance, too?{\r}
+Dialogue: 0,0:48:48.68,0:48:49.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}打架厉害{\r}\N{\fnTahoma\fs13\3c&H400000&}You may know how to fight,{\r}
+Dialogue: 0,0:48:50.04,0:48:51.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跳舞不一定厉害喔{\r}\N{\fnTahoma\fs13\3c&H400000&}but not necessarily know how to dance.{\r}
+Dialogue: 0,0:49:39.96,0:49:41.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}去啦，输人不输阵{\r}\N{\fnTahoma\fs13\3c&H400000&}It's your turn.{\r}
+Dialogue: 0,0:49:43.20,0:49:45.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈勒，我又不会跳舞{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't know how.{\r}
+Dialogue: 0,0:49:45.44,0:49:46.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就跟体操一样翻来翻去{\r}\N{\fnTahoma\fs13\3c&H400000&}Just as you do gymnastics.{\r}
+Dialogue: 0,0:49:47.12,0:49:47.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}去啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Go.{\r}
+Dialogue: 0,0:50:15.08,0:50:17.64,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他是我兄弟啊{\r}\N{\fnTahoma\fs13\3c&H400000&}He's my buddy.{\r}
+Dialogue: 0,0:50:17.64,0:50:26.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:50:39.24,0:50:40.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这我兄弟啦{\r}\N{\fnTahoma\fs13\3c&H400000&}This is my buddy.{\r}
+Dialogue: 0,0:50:40.64,0:50:41.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}So?{\r}
+Dialogue: 0,0:50:43.28,0:50:44.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要吵{\r}\N{\fnTahoma\fs13\3c&H400000&}Quiet.{\r}
+Dialogue: 0,0:50:45.04,0:50:47.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要吵{\r}\N{\fnTahoma\fs13\3c&H400000&}Quiet.{\r}
+Dialogue: 0,0:50:47.72,0:50:49.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大，让他难看{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss, show him what you got.{\r}
+Dialogue: 0,0:50:49.32,0:50:50.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大，跟他拼了{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss, beat him.{\r}
+Dialogue: 0,0:50:51.52,0:50:52.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,0:50:55.80,0:50:57.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶小心喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Watch out.{\r}
+Dialogue: 0,0:51:17.48,0:51:20.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拜拜{\r}\N{\fnTahoma\fs13\3c&H400000&}Bye.{\r}
+Dialogue: 0,0:52:05.84,0:52:07.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信我一定要让他死{\r}\N{\fnTahoma\fs13\3c&H400000&}I will definitely kill Ashin.{\r}
+Dialogue: 0,0:52:07.84,0:52:08.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss,{\r}
+Dialogue: 0,0:52:08.72,0:52:10.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}其实你跳的不错啊{\r}\N{\fnTahoma\fs13\3c&H400000&}you weren't so bad, actually.{\r}
+Dialogue: 0,0:52:10.64,0:52:11.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}只是那个后空翻{\r}\N{\fnTahoma\fs13\3c&H400000&}You just need to{\r}
+Dialogue: 0,0:52:11.88,0:52:13.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还要再练一下{\r}\N{\fnTahoma\fs13\3c&H400000&}work on that somersault.{\r}
+Dialogue: 0,0:52:14.88,0:52:16.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喝酒啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Shut up and drink.{\r}
+Dialogue: 0,0:52:19.88,0:52:21.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跳到肚子饿啰{\r}\N{\fnTahoma\fs13\3c&H400000&}Got hungry after dancing?{\r}
+Dialogue: 0,0:52:21.68,0:52:22.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来吃面喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You're here for noodles?{\r}
+Dialogue: 0,0:52:23.56,0:52:24.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坐啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Have a seat.{\r}
+Dialogue: 0,0:52:26.36,0:52:27.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Well{\r}
+Dialogue: 0,0:52:29.24,0:52:30.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你那边还有吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you have more?{\r}
+Dialogue: 0,0:52:33.84,0:52:35.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Of course.{\r}
+Dialogue: 0,0:52:35.92,0:52:37.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫多少都算我的{\r}\N{\fnTahoma\fs13\3c&H400000&}Order all you want and it's my treat.{\r}
+Dialogue: 0,0:52:42.36,0:52:43.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要这样啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,0:53:04.24,0:53:04.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然～{\r}\N{\fnTahoma\fs13\3c&H400000&}How about{\r}
+Dialogue: 0,0:53:05.36,0:53:06.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我跟你买{\r}\N{\fnTahoma\fs13\3c&H400000&}I buy from you?{\r}
+Dialogue: 0,0:53:11.84,0:53:12.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要买喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You want to buy from me?{\r}
+Dialogue: 0,0:53:14.68,0:53:15.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不是很厉害{\r}\N{\fnTahoma\fs13\3c&H400000&}I thought you know your ways around.{\r}
+Dialogue: 0,0:53:17.80,0:53:19.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你爸我不爽卖{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't want to sell itto you.{\r}
+Dialogue: 0,0:53:25.88,0:53:26.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,0:53:27.28,0:53:28.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不爽喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you angry?{\r}
+Dialogue: 0,0:53:29.92,0:53:31.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然你去找你朋友阿信啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Why not ask Ashin for help?{\r}
+Dialogue: 0,0:53:36.24,0:53:37.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}木瓜老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Mr. Papaya,{\r}
+Dialogue: 0,0:53:38.64,0:53:39.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对不起啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry{\r}
+Dialogue: 0,0:53:41.68,0:53:43.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信他不是故意的{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin didn't mean to embarrass you.{\r}
+Dialogue: 0,0:53:44.52,0:53:45.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要跟他计较啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Please don't be angry with him.{\r}
+Dialogue: 0,0:53:46.76,0:53:47.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对不起{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry.{\r}
+Dialogue: 0,0:53:58.36,0:53:59.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}叫他来{\r}\N{\fnTahoma\fs13\3c&H400000&}Get him here.{\r}
+Dialogue: 0,0:54:13.44,0:54:14.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:54:14.60,0:54:16.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,0:54:16.96,0:54:18.27,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}168\N168{\r}
+Dialogue: 0,0:54:21.84,0:54:22.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林先生您好{\r}\N{\fnTahoma\fs13\3c&H400000&}Hi, Mr. Lin.{\r}
+Dialogue: 0,0:54:22.84,0:54:23.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}您有一则新留言{\r}\N{\fnTahoma\fs13\3c&H400000&}You have one new message.{\r}
+Dialogue: 0,0:54:23.96,0:54:25.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯约您一起吃宵夜{\r}\N{\fnTahoma\fs13\3c&H400000&}From Pickle: night snack together.{\r}
+Dialogue: 0,0:54:26.84,0:54:27.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,0:54:43.00,0:54:43.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,0:54:44.28,0:54:46.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,0:54:47.64,0:54:48.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}It's me,{\r}
+Dialogue: 0,0:54:48.92,0:54:50.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,0:54:55.64,0:54:56.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还在生气喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you still mad at me?{\r}
+Dialogue: 0,0:54:58.72,0:54:59.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}气那么久喔{\r}\N{\fnTahoma\fs13\3c&H400000&}It's been a while{\r}
+Dialogue: 0,0:55:01.48,0:55:02.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要气了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be mad.{\r}
+Dialogue: 0,0:55:06.56,0:55:07.78,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我没有啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I am not.{\r}
+Dialogue: 0,0:55:09.04,0:55:10.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有{\r}\N{\fnTahoma\fs13\3c&H400000&}No?{\r}
+Dialogue: 0,0:55:11.52,0:55:12.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真的没有{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you sure?{\r}
+Dialogue: 0,0:55:18.64,0:55:20.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天很难得嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}It's kind of rare that{\r}
+Dialogue: 0,0:55:20.48,0:55:22.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是去打架是去吃宵夜啊{\r}\N{\fnTahoma\fs13\3c&H400000&}You're going for snack instead a fight tonight.{\r}
+Dialogue: 0,0:55:23.72,0:55:24.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Yeah.{\r}
+Dialogue: 0,0:55:26.32,0:55:27.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你几点下班{\r}\N{\fnTahoma\fs13\3c&H400000&}When you are off duty?{\r}
+Dialogue: 0,0:55:28.40,0:55:29.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我来接你{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll pick you up and{\r}
+Dialogue: 0,0:55:30.00,0:55:31.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一起吃宵夜啊{\r}\N{\fnTahoma\fs13\3c&H400000&}we can have snack together.{\r}
+Dialogue: 0,0:55:32.76,0:55:33.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很抱歉{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry,{\r}
+Dialogue: 0,0:55:33.60,0:55:34.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们公司有规定{\r}\N{\fnTahoma\fs13\3c&H400000&}We are not allowed{\r}
+Dialogue: 0,0:55:34.76,0:55:35.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔～{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,0:55:37.52,0:55:38.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你很难约耶{\r}\N{\fnTahoma\fs13\3c&H400000&}You're hard to get.{\r}
+Dialogue: 0,0:55:39.64,0:55:40.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}What the hell{\r}
+Dialogue: 0,0:55:42.00,0:55:46.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶，看一下窗外{\r}\N{\fnTahoma\fs13\3c&H400000&}Look out from your window.{\r}
+Dialogue: 0,0:55:50.36,0:55:51.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}看一下看一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Take a look.{\r}
+Dialogue: 0,0:55:53.04,0:55:54.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我在你公司楼下{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm downstairs by your office.{\r}
+Dialogue: 0,0:56:12.04,0:56:13.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶那是谁啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Who is that?{\r}
+Dialogue: 0,0:56:17.96,0:56:19.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我是阿信～{\r}\N{\fnTahoma\fs13\3c&H400000&}I am Ashin.{\r}
+Dialogue: 0,0:56:20.68,0:56:21.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟我约会吧{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's go out together.{\r}
+Dialogue: 0,0:56:23.88,0:56:25.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他是来找谁的啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Who is he looking for?{\r}
+Dialogue: 0,0:57:04.12,0:57:05.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都收摊了{\r}\N{\fnTahoma\fs13\3c&H400000&}Snack my ass,{\r}
+Dialogue: 0,0:57:05.56,0:57:06.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还叫我来吃面{\r}\N{\fnTahoma\fs13\3c&H400000&}the noodle stall is closed?{\r}
+Dialogue: 0,0:57:08.00,0:57:09.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真正有影{\r}\N{\fnTahoma\fs13\3c&H400000&}What the hell.{\r}
+Dialogue: 0,0:57:12.52,0:57:13.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯～{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle?{\r}
+Dialogue: 0,0:57:18.52,0:57:19.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯？{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle?{\r}
+Dialogue: 0,0:57:21.16,0:57:22.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在这边啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Here.{\r}
+Dialogue: 0,0:57:26.72,0:57:28.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}连你也肚子饿了喔{\r}\N{\fnTahoma\fs13\3c&H400000&}So you are hungry, too? Huh?{\r}
+Dialogue: 0,0:58:32.12,0:58:33.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我跟你说过嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}I told you, right?{\r}
+Dialogue: 0,0:58:34.68,0:58:36.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}交朋友不是比较好{\r}\N{\fnTahoma\fs13\3c&H400000&}Isn't it better if we are friends?{\r}
+Dialogue: 0,0:58:47.52,0:58:48.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,0:58:51.96,0:58:53.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,0:58:53.92,0:58:55.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大～{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,0:58:55.68,0:58:56.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么会这样{\r}\N{\fnTahoma\fs13\3c&H400000&}How could this happen?{\r}
+Dialogue: 0,0:58:56.76,0:58:57.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,0:58:58.04,0:58:59.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你有没有怎么样{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you alright?{\r}
+Dialogue: 0,0:58:59.68,0:59:00.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大，怎么办{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,0:59:00.72,0:59:00.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走{\r}\N{\fnTahoma\fs13\3c&H400000&}Go!{\r}
+Dialogue: 0,0:59:01.08,0:59:01.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}该怎么办{\r}\N{\fnTahoma\fs13\3c&H400000&}Do something{\r}
+Dialogue: 0,0:59:01.88,0:59:02.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}惨了{\r}\N{\fnTahoma\fs13\3c&H400000&}Damn{\r}
+Dialogue: 0,0:59:02.24,0:59:03.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走{\r}\N{\fnTahoma\fs13\3c&H400000&}Go!{\r}
+Dialogue: 0,0:59:03.80,0:59:04.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快走{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up!{\r}
+Dialogue: 0,0:59:09.68,0:59:11.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}开门{\r}\N{\fnTahoma\fs13\3c&H400000&}Open the door.{\r}
+Dialogue: 0,0:59:14.12,0:59:14.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}急救箱{\r}\N{\fnTahoma\fs13\3c&H400000&}First aid kit!{\r}
+Dialogue: 0,0:59:14.68,0:59:15.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，你怎么啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, what's wrong?{\r}
+Dialogue: 0,0:59:15.16,0:59:16.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}急救箱啊{\r}\N{\fnTahoma\fs13\3c&H400000&}First aid kit!{\r}
+Dialogue: 0,0:59:18.16,0:59:19.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up!{\r}
+Dialogue: 0,0:59:21.88,0:59:22.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}碘酒{\r}\N{\fnTahoma\fs13\3c&H400000&}Iodine.{\r}
+Dialogue: 0,0:59:25.96,0:59:26.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}绷带{\r}\N{\fnTahoma\fs13\3c&H400000&}Bandage.{\r}
+Dialogue: 0,0:59:27.00,0:59:28.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊是怎么了{\r}\N{\fnTahoma\fs13\3c&H400000&}What's going on?{\r}
+Dialogue: 0,0:59:30.28,0:59:31.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么全身都是血{\r}\N{\fnTahoma\fs13\3c&H400000&}Why are you covered in blood?{\r}
+Dialogue: 0,0:59:33.00,0:59:35.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是发生什么事情你说啊{\r}\N{\fnTahoma\fs13\3c&H400000&}What happened?{\r}
+Dialogue: 0,0:59:36.32,0:59:38.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}到底怎样，你快说啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Tell me! Tell me what happened!{\r}
+Dialogue: 0,0:59:39.92,0:59:40.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要说什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Tell you what?{\r}
+Dialogue: 0,0:59:41.72,0:59:42.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人都死了{\r}\N{\fnTahoma\fs13\3c&H400000&}Someone died!{\r}
+Dialogue: 0,0:59:42.68,0:59:43.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是要说什么{\r}\N{\fnTahoma\fs13\3c&H400000&}What can I say?{\r}
+Dialogue: 0,1:00:03.80,1:00:04.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother,{\r}
+Dialogue: 0,1:00:04.68,1:00:05.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你到底怎么了{\r}\N{\fnTahoma\fs13\3c&H400000&}what happened to you?{\r}
+Dialogue: 0,1:00:09.80,1:00:10.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跑路{\r}\N{\fnTahoma\fs13\3c&H400000&}I have to run away.{\r}
+Dialogue: 0,1:00:12.00,1:00:12.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Why?{\r}
+Dialogue: 0,1:00:22.16,1:00:23.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有时候你不找麻烦{\r}\N{\fnTahoma\fs13\3c&H400000&}Sometimes trouble finds you{\r}
+Dialogue: 0,1:00:25.28,1:00:26.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}麻烦也会找上你{\r}\N{\fnTahoma\fs13\3c&H400000&}even when you're not looking for it.{\r}
+Dialogue: 0,1:00:34.32,1:00:35.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:00:35.84,1:00:36.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这个带着{\r}\N{\fnTahoma\fs13\3c&H400000&}Take this with you.{\r}
+Dialogue: 0,1:00:36.92,1:00:38.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没钱是要怎么跑路{\r}\N{\fnTahoma\fs13\3c&H400000&}You can't run away without money.{\r}
+Dialogue: 0,1:00:38.72,1:00:39.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Wait.{\r}
+Dialogue: 0,1:00:39.32,1:00:40.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来不及了{\r}\N{\fnTahoma\fs13\3c&H400000&}We don't have time.{\r}
+Dialogue: 0,1:00:40.32,1:00:40.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Wait a second.{\r}
+Dialogue: 0,1:00:41.04,1:00:42.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这个玉镯你也带着{\r}\N{\fnTahoma\fs13\3c&H400000&}Take this jade bracelet, too.{\r}
+Dialogue: 0,1:00:46.16,1:00:47.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快走快走{\r}\N{\fnTahoma\fs13\3c&H400000&}Go! Hurry!{\r}
+Dialogue: 0,1:00:47.40,1:00:48.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快走{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up!{\r}
+Dialogue: 0,1:00:48.72,1:00:50.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走远一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Go as far as you can.{\r}
+Dialogue: 0,1:00:50.84,1:00:52.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快走远一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Just go.{\r}
+Dialogue: 0,1:01:20.40,1:01:21.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:01:30.44,1:01:31.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:04:26.44,1:04:27.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对不起{\r}\N{\fnTahoma\fs13\3c&H400000&}I am sorry.{\r}
+Dialogue: 0,1:04:28.92,1:04:30.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:04:31.60,1:04:33.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对不起{\r}\N{\fnTahoma\fs13\3c&H400000&}I am sorry.{\r}
+Dialogue: 0,1:05:01.32,1:05:02.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你哥呢{\r}\N{\fnTahoma\fs13\3c&H400000&}Where's your brother?{\r}
+Dialogue: 0,1:05:02.64,1:05:03.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不知道啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't know.{\r}
+Dialogue: 0,1:05:06.00,1:05:06.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再问你一次{\r}\N{\fnTahoma\fs13\3c&H400000&}Let me ask you again,{\r}
+Dialogue: 0,1:05:06.56,1:05:07.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你哥咧{\r}\N{\fnTahoma\fs13\3c&H400000&}where's your brother?{\r}
+Dialogue: 0,1:05:09.08,1:05:10.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就不知道嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}I said I don't know.{\r}
+Dialogue: 0,1:05:10.64,1:05:11.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有种喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You think you have guts.{\r}
+Dialogue: 0,1:05:12.92,1:05:13.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给我打{\r}\N{\fnTahoma\fs13\3c&H400000&}Beat him.{\r}
+Dialogue: 0,1:05:18.36,1:05:19.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再嚣张嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}How about now?{\r}
+Dialogue: 0,1:05:20.32,1:05:21.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再嚣张啊{\r}\N{\fnTahoma\fs13\3c&H400000&}And now?{\r}
+Dialogue: 0,1:05:26.32,1:05:27.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这是什么{\r}\N{\fnTahoma\fs13\3c&H400000&}What's this?{\r}
+Dialogue: 0,1:05:31.48,1:05:32.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}巧克力喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Chocolate?{\r}
+Dialogue: 0,1:05:33.68,1:05:34.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Give it back to me.{\r}
+Dialogue: 0,1:05:35.08,1:05:35.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不还你啦！怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Hell, no!{\r}
+Dialogue: 0,1:05:36.04,1:05:36.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来拿啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Come get it.{\r}
+Dialogue: 0,1:05:36.68,1:05:37.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还我{\r}\N{\fnTahoma\fs13\3c&H400000&}Give it back to me.{\r}
+Dialogue: 0,1:05:37.52,1:05:39.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样，不还啦！怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What? What are you gonna do?{\r}
+Dialogue: 0,1:05:40.48,1:05:42.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大，你有没有怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss, are you okay?{\r}
+Dialogue: 0,1:05:42.12,1:05:43.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}鼻子流血了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}My nose is bleeding.{\r}
+Dialogue: 0,1:05:50.32,1:05:51.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,1:05:51.36,1:05:53.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,1:05:53.64,1:05:54.91,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}168\N168{\r}
+Dialogue: 0,1:05:55.60,1:05:56.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:05:58.28,1:06:00.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你你还好吗{\r}\N{\fnTahoma\fs13\3c&H400000&}are you okay?{\r}
+Dialogue: 0,1:06:01.56,1:06:04.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给我的留言应该都很吓人吧{\r}\N{\fnTahoma\fs13\3c&H400000&}My messages are frightening, right?{\r}
+Dialogue: 0,1:06:09.24,1:06:09.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes.{\r}
+Dialogue: 0,1:06:10.04,1:06:11.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我只有投一块钱{\r}\N{\fnTahoma\fs13\3c&H400000&}Hurry up, I only put in a dollar.{\r}
+Dialogue: 0,1:06:11.72,1:06:12.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好{\r}\N{\fnTahoma\fs13\3c&H400000&}Okay.{\r}
+Dialogue: 0,1:06:13.28,1:06:15.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}610说他们老大黑松已经对你{\r}\N{\fnTahoma\fs13\3c&H400000&}610 said the big boss Pine ordered{\r}
+Dialogue: 0,1:06:15.28,1:06:16.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}下了追杀令{\r}\N{\fnTahoma\fs13\3c&H400000&}to kill you.{\r}
+Dialogue: 0,1:06:16.40,1:06:17.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你逃不掉的{\r}\N{\fnTahoma\fs13\3c&H400000&}You cannot escape.{\r}
+Dialogue: 0,1:06:18.20,1:06:18.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}下一个{\r}\N{\fnTahoma\fs13\3c&H400000&}Next.{\r}
+Dialogue: 0,1:06:18.72,1:06:21.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}742留言说他有请他大哥帮你乔{\r}\N{\fnTahoma\fs13\3c&H400000&}742 said his boss tried to put in good words for you,{\r}
+Dialogue: 0,1:06:21.40,1:06:23.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但是他大哥也被打了{\r}\N{\fnTahoma\fs13\3c&H400000&}but his boss was also thrashed.{\r}
+Dialogue: 0,1:06:23.24,1:06:25.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在其他人都不敢帮你乔{\r}\N{\fnTahoma\fs13\3c&H400000&}No one dares to say anything anymore.{\r}
+Dialogue: 0,1:06:27.24,1:06:28.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有呢{\r}\N{\fnTahoma\fs13\3c&H400000&}What else?{\r}
+Dialogue: 0,1:06:29.44,1:06:30.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你弟弟小贤留言{\r}\N{\fnTahoma\fs13\3c&H400000&}Your little Brother Xian said{\r}
+Dialogue: 0,1:06:31.08,1:06:32.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}说他不怕麻烦了{\r}\N{\fnTahoma\fs13\3c&H400000&}he is not afraid of trouble now.{\r}
+Dialogue: 0,1:06:32.68,1:06:34.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要你好好照顾自己{\r}\N{\fnTahoma\fs13\3c&H400000&}And you take care of yourself.{\r}
+Dialogue: 0,1:06:46.56,1:06:48.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有其他留言吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Anything else?{\r}
+Dialogue: 0,1:06:49.12,1:06:50.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin{\r}
+Dialogue: 0,1:06:51.72,1:06:53.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}599留言{\r}\N{\fnTahoma\fs13\3c&H400000&}A message from 599,{\r}
+Dialogue: 0,1:06:53.68,1:06:55.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要你有耐心{\r}\N{\fnTahoma\fs13\3c&H400000&}you have to be patient.{\r}
+Dialogue: 0,1:06:55.60,1:06:57.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一定会有出路的{\r}\N{\fnTahoma\fs13\3c&H400000&}There'll be a way out.{\r}
+Dialogue: 0,1:06:58.44,1:06:59.47,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}599\N599?{\r}
+Dialogue: 0,1:07:01.20,1:07:02.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谁啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Who is it?{\r}
+Dialogue: 0,1:07:03.44,1:07:04.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喂～{\r}\N{\fnTahoma\fs13\3c&H400000&}Hello?{\r}
+Dialogue: 0,1:07:31.08,1:07:32.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:07:33.44,1:07:34.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle.{\r}
+Dialogue: 0,1:07:35.80,1:07:37.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}起来啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Time to get up.{\r}
+Dialogue: 0,1:07:38.72,1:07:40.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要吵{\r}\N{\fnTahoma\fs13\3c&H400000&}Leave me alone.{\r}
+Dialogue: 0,1:07:52.52,1:07:53.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不是三天不睡{\r}\N{\fnTahoma\fs13\3c&H400000&}You either stay up for three days{\r}
+Dialogue: 0,1:07:53.36,1:07:54.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是一次睡三天{\r}\N{\fnTahoma\fs13\3c&H400000&}or you sleep for three days.{\r}
+Dialogue: 0,1:07:56.24,1:07:57.46,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是猪喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you a pig?{\r}
+Dialogue: 0,1:08:00.52,1:08:01.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃饭了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}It's time to eat.{\r}
+Dialogue: 0,1:08:15.52,1:08:16.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你去哪里{\r}\N{\fnTahoma\fs13\3c&H400000&}Where did you go?{\r}
+Dialogue: 0,1:08:17.72,1:08:18.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}找工作啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Looking for a job.{\r}
+Dialogue: 0,1:08:19.80,1:08:20.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然吃什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Or how do we feed ourselves?{\r}
+Dialogue: 0,1:08:24.52,1:08:25.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你那边有没有钱{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you have more money?{\r}
+Dialogue: 0,1:08:26.80,1:08:28.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}先借我一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Lend me some.{\r}
+Dialogue: 0,1:08:28.68,1:08:29.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I have nothing.{\r}
+Dialogue: 0,1:08:29.76,1:08:30.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哪来的钱{\r}\N{\fnTahoma\fs13\3c&H400000&}Where do I come up with any money?{\r}
+Dialogue: 0,1:08:34.64,1:08:36.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你买便当还有剩吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Anything left after you bought the lunchbox?{\r}
+Dialogue: 0,1:08:39.12,1:08:40.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}先借我一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Lend me some.{\r}
+Dialogue: 0,1:08:40.80,1:08:41.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I said no.{\r}
+Dialogue: 0,1:08:45.80,1:08:47.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给你去买安喔{\r}\N{\fnTahoma\fs13\3c&H400000&}So you can buy amphetamine?{\r}
+Dialogue: 0,1:08:49.88,1:08:51.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们不是兄弟吗{\r}\N{\fnTahoma\fs13\3c&H400000&}I thought we're buddies.{\r}
+Dialogue: 0,1:08:52.28,1:08:53.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们是兄弟勒{\r}\N{\fnTahoma\fs13\3c&H400000&}We're buddies!{\r}
+Dialogue: 0,1:08:54.64,1:08:55.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你看我这么难过{\r}\N{\fnTahoma\fs13\3c&H400000&}You enjoy seeing me{\r}
+Dialogue: 0,1:08:56.56,1:08:57.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你会爽喔{\r}\N{\fnTahoma\fs13\3c&H400000&}as painful as this?{\r}
+Dialogue: 0,1:08:59.52,1:09:01.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}先借我一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Just lend me some money.{\r}
+Dialogue: 0,1:09:03.56,1:09:04.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃不吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You want this or not?{\r}
+Dialogue: 0,1:09:06.88,1:09:07.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine.{\r}
+Dialogue: 0,1:09:07.84,1:09:09.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不吃是不是{\r}\N{\fnTahoma\fs13\3c&H400000&}You don't want to eat?{\r}
+Dialogue: 0,1:09:10.28,1:09:11.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以后什么都不要吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you eat a damn thing then.{\r}
+Dialogue: 0,1:09:18.84,1:09:20.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你生气了喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you angry?{\r}
+Dialogue: 0,1:09:22.40,1:09:23.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:09:24.40,1:09:25.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:09:26.56,1:09:28.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要生气啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be angry.{\r}
+Dialogue: 0,1:09:32.20,1:09:33.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要生气啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be angry.{\r}
+Dialogue: 0,1:09:37.80,1:09:38.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll eat.{\r}
+Dialogue: 0,1:09:43.52,1:09:44.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要生气啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be angry.{\r}
+Dialogue: 0,1:09:57.96,1:09:59.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们会这样{\r}\N{\fnTahoma\fs13\3c&H400000&}We are here like this{\r}
+Dialogue: 0,1:10:00.28,1:10:01.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还不都是为了你{\r}\N{\fnTahoma\fs13\3c&H400000&}all because of you.{\r}
+Dialogue: 0,1:10:05.24,1:10:07.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们是兄弟勒{\r}\N{\fnTahoma\fs13\3c&H400000&}We're buddies.{\r}
+Dialogue: 0,1:10:10.72,1:10:12.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都不要让我买到{\r}\N{\fnTahoma\fs13\3c&H400000&}Better not let me buy the drug ever.{\r}
+Dialogue: 0,1:10:25.76,1:10:27.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林家祖先{\r}\N{\fnTahoma\fs13\3c&H400000&}The ancestors of the Lin family,{\r}
+Dialogue: 0,1:10:27.92,1:10:29.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要保佑阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}please bless Ashin.{\r}
+Dialogue: 0,1:10:29.88,1:10:33.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在外面要会想{\r}\N{\fnTahoma\fs13\3c&H400000&}Let him know what is right{\r}
+Dialogue: 0,1:10:34.64,1:10:36.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要自己照顾自己{\r}\N{\fnTahoma\fs13\3c&H400000&}and be able to take care of himself.{\r}
+Dialogue: 0,1:10:37.72,1:10:39.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要保佑他平安啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Please bless him to be safe.{\r}
+Dialogue: 0,1:11:00.68,1:11:01.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss,{\r}
+Dialogue: 0,1:11:02.68,1:11:03.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坤大说{\r}\N{\fnTahoma\fs13\3c&H400000&}Master Kun said,{\r}
+Dialogue: 0,1:11:04.28,1:11:07.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这次不管喝多少都算他的{\r}\N{\fnTahoma\fs13\3c&H400000&}whatever we drink today,{\r}
+Dialogue: 0,1:11:07.84,1:11:09.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天他特别招待我们{\r}\N{\fnTahoma\fs13\3c&H400000&}it's on him.{\r}
+Dialogue: 0,1:11:09.96,1:11:11.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}招待{\r}\N{\fnTahoma\fs13\3c&H400000&}It's a special offer.{\r}
+Dialogue: 0,1:11:11.48,1:11:12.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}招待个屁啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Special offer my ass.{\r}
+Dialogue: 0,1:11:12.48,1:11:13.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}招待{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't care.{\r}
+Dialogue: 0,1:11:14.88,1:11:17.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这间店迟早我会把它收起来{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll take over this place sooner or later.{\r}
+Dialogue: 0,1:11:21.52,1:11:22.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是不会叫老板喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you know how to greet us?{\r}
+Dialogue: 0,1:11:26.92,1:11:27.90,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}新来的{\r}\N{\fnTahoma\fs13\3c&H400000&}You're new to here?{\r}
+Dialogue: 0,1:11:28.92,1:11:29.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Hum.{\r}
+Dialogue: 0,1:11:33.44,1:11:34.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谢谢{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you.{\r}
+Dialogue: 0,1:11:45.32,1:11:45.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈咧{\r}\N{\fnTahoma\fs13\3c&H400000&}Shit.{\r}
+Dialogue: 0,1:11:46.04,1:11:47.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}认真一点啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Be serious.{\r}
+Dialogue: 0,1:11:47.36,1:11:48.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥小啦{\r}\N{\fnTahoma\fs13\3c&H400000&}What the fuck.{\r}
+Dialogue: 0,1:11:58.00,1:11:58.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}少爷{\r}\N{\fnTahoma\fs13\3c&H400000&}Waiter.{\r}
+Dialogue: 0,1:12:02.72,1:12:04.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}桌面是不会整理一下喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Come clean the fucking table.{\r}
+Dialogue: 0,1:12:04.88,1:12:05.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你耳聋啰{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you deaf?{\r}
+Dialogue: 0,1:12:07.08,1:12:07.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是想怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What the fuck?{\r}
+Dialogue: 0,1:12:07.92,1:12:08.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉，抱歉{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry, sorry.{\r}
+Dialogue: 0,1:12:08.76,1:12:09.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,1:12:13.96,1:12:16.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}大哥，抱歉{\r}\N{\fnTahoma\fs13\3c&H400000&}Sorry, boss.{\r}
+Dialogue: 0,1:12:18.00,1:12:19.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你别跟他计较{\r}\N{\fnTahoma\fs13\3c&H400000&}Please forgive him.{\r}
+Dialogue: 0,1:12:19.96,1:12:21.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要挺他吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You want to stand up for him?{\r}
+Dialogue: 0,1:12:24.44,1:12:25.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要挺他吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you want to stand up for him?{\r}
+Dialogue: 0,1:12:32.96,1:12:33.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}找死喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Damn! You're dead.{\r}
+Dialogue: 0,1:12:33.56,1:12:34.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss,{\r}
+Dialogue: 0,1:12:34.56,1:12:35.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抱歉啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm sorry.{\r}
+Dialogue: 0,1:12:35.44,1:12:36.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle.{\r}
+Dialogue: 0,1:12:38.60,1:12:39.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle.{\r}
+Dialogue: 0,1:12:42.52,1:12:44.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这样可以吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Is this okay?{\r}
+Dialogue: 0,1:12:45.08,1:12:47.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你头壳坏了{\r}\N{\fnTahoma\fs13\3c&H400000&}You're god damn nuts.{\r}
+Dialogue: 0,1:12:49.00,1:12:50.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不行喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Not enough?{\r}
+Dialogue: 0,1:12:51.72,1:12:52.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这样应该可以了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}How about this?{\r}
+Dialogue: 0,1:12:52.96,1:12:54.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle.{\r}
+Dialogue: 0,1:12:54.64,1:12:56.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在是吵够了没{\r}\N{\fnTahoma\fs13\3c&H400000&}Enough!{\r}
+Dialogue: 0,1:13:00.68,1:13:01.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:13:01.68,1:13:02.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你干什么啦{\r}\N{\fnTahoma\fs13\3c&H400000&}what are you doing?{\r}
+Dialogue: 0,1:13:03.60,1:13:04.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}疯牛{\r}\N{\fnTahoma\fs13\3c&H400000&}Mad Ox.{\r}
+Dialogue: 0,1:13:05.76,1:13:07.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还真爱到处乱玩喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You do like to jab around.{\r}
+Dialogue: 0,1:13:08.76,1:13:10.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}玩到我店里来了{\r}\N{\fnTahoma\fs13\3c&H400000&}Now you're having fun in my place.{\r}
+Dialogue: 0,1:13:11.64,1:13:12.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坤大{\r}\N{\fnTahoma\fs13\3c&H400000&}Master Kun,{\r}
+Dialogue: 0,1:13:12.96,1:13:14.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你店里什么时候玩这么刺激{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't know when your joint{\r}
+Dialogue: 0,1:13:14.40,1:13:15.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我怎么不知道{\r}\N{\fnTahoma\fs13\3c&H400000&}has become such an exciting place.{\r}
+Dialogue: 0,1:13:16.16,1:13:17.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有饭大家吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}There are enough for everyone.{\r}
+Dialogue: 0,1:13:18.72,1:13:19.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你都不怕吃太快{\r}\N{\fnTahoma\fs13\3c&H400000&}But, if you want to grab them all,{\r}
+Dialogue: 0,1:13:19.76,1:13:20.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把碗都给砸了{\r}\N{\fnTahoma\fs13\3c&H400000&}you might break the bowl.{\r}
+Dialogue: 0,1:13:20.88,1:13:22.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}大家都没饭吃喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Nothing will be left in the end.{\r}
+Dialogue: 0,1:13:25.68,1:13:26.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们年轻人就是要吃你{\r}\N{\fnTahoma\fs13\3c&H400000&}We are young and we want to grab.{\r}
+Dialogue: 0,1:13:26.56,1:13:27.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不然你想怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}Any problem?{\r}
+Dialogue: 0,1:13:30.84,1:13:32.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那现在都见血了{\r}\N{\fnTahoma\fs13\3c&H400000&}Now someone has bled.{\r}
+Dialogue: 0,1:13:33.08,1:13:35.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还想怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}What else do you want?{\r}
+Dialogue: 0,1:13:42.16,1:13:44.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坤哥都这样说了{\r}\N{\fnTahoma\fs13\3c&H400000&}Well, since Master Kun said so{\r}
+Dialogue: 0,1:13:54.80,1:13:56.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}带他去看医生{\r}\N{\fnTahoma\fs13\3c&H400000&}Take him to the doctor.{\r}
+Dialogue: 0,1:13:58.16,1:13:59.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坤大，谢谢{\r}\N{\fnTahoma\fs13\3c&H400000&}Master Kun, thank you.{\r}
+Dialogue: 0,1:14:30.88,1:14:31.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给你死{\r}\N{\fnTahoma\fs13\3c&H400000&}You're dead.{\r}
+Dialogue: 0,1:14:39.08,1:14:40.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还跑{\r}\N{\fnTahoma\fs13\3c&H400000&}Now you're running{\r}
+Dialogue: 0,1:14:41.96,1:14:42.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还跑{\r}\N{\fnTahoma\fs13\3c&H400000&}Still running{\r}
+Dialogue: 0,1:14:47.12,1:14:48.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Great{\r}
+Dialogue: 0,1:14:49.60,1:14:50.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还跑{\r}\N{\fnTahoma\fs13\3c&H400000&}Still running{\r}
+Dialogue: 0,1:14:51.92,1:14:55.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跑快一点啊{\r}\N{\fnTahoma\fs13\3c&H400000&}It that your best{\r}
+Dialogue: 0,1:15:03.72,1:15:04.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要去哪里啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Where're you going?{\r}
+Dialogue: 0,1:15:05.68,1:15:07.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你爸送你去啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll take you son of bitch there.{\r}
+Dialogue: 0,1:15:30.20,1:15:31.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把疯牛处理掉{\r}\N{\fnTahoma\fs13\3c&H400000&}If you can get rid of Mad Ox,{\r}
+Dialogue: 0,1:15:31.76,1:15:33.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这一百万就你们的{\r}\N{\fnTahoma\fs13\3c&H400000&}this one million dollars will be yours.{\r}
+Dialogue: 0,1:15:41.96,1:15:43.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谢谢坤大{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you, Master Kun.{\r}
+Dialogue: 0,1:15:48.64,1:15:49.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没有啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Well,{\r}
+Dialogue: 0,1:15:49.56,1:15:50.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}坤大{\r}\N{\fnTahoma\fs13\3c&H400000&}Master Kun,{\r}
+Dialogue: 0,1:15:50.64,1:15:51.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们{\r}\N{\fnTahoma\fs13\3c&H400000&}We{\r}
+Dialogue: 0,1:15:51.56,1:15:52.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没关系{\r}\N{\fnTahoma\fs13\3c&H400000&}it's okay.{\r}
+Dialogue: 0,1:15:53.64,1:15:55.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这件事就当我没提过{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's forget about this.{\r}
+Dialogue: 0,1:15:55.96,1:15:56.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来{\r}\N{\fnTahoma\fs13\3c&H400000&}Cheers.{\r}
+Dialogue: 0,1:16:20.84,1:16:21.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:16:25.64,1:16:26.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}台北我住不惯{\r}\N{\fnTahoma\fs13\3c&H400000&}Taipei is not for me.{\r}
+Dialogue: 0,1:16:27.32,1:16:28.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不会啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I feel different.{\r}
+Dialogue: 0,1:16:29.64,1:16:31.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我感觉很好啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I am very contented here.{\r}
+Dialogue: 0,1:16:33.76,1:16:34.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好在哪里{\r}\N{\fnTahoma\fs13\3c&H400000&}Contented?{\r}
+Dialogue: 0,1:16:38.12,1:16:39.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们来台北是为了什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Why did we come to Taipei?{\r}
+Dialogue: 0,1:16:41.12,1:16:42.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是为了来作别人小弟{\r}\N{\fnTahoma\fs13\3c&H400000&}We didn't come here to be someones thugs.{\r}
+Dialogue: 0,1:16:44.00,1:16:45.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拜托勒{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on,{\r}
+Dialogue: 0,1:16:46.16,1:16:47.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么会{\r}\N{\fnTahoma\fs13\3c&H400000&}what gave you that thought?{\r}
+Dialogue: 0,1:16:48.36,1:16:49.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们是什么{\r}\N{\fnTahoma\fs13\3c&H400000&}What are we?{\r}
+Dialogue: 0,1:16:50.60,1:16:52.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}绍兴酒瓶勒{\r}\N{\fnTahoma\fs13\3c&H400000&}We're ShaoShing bottles.{\r}
+Dialogue: 0,1:17:05.84,1:17:06.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有多强啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You think it's strong?{\r}
+Dialogue: 0,1:17:10.36,1:17:11.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还不是一样会破{\r}\N{\fnTahoma\fs13\3c&H400000&}It can still be shattered.{\r}
+Dialogue: 0,1:17:17.16,1:17:18.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle.{\r}
+Dialogue: 0,1:17:22.64,1:17:23.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟我回宜兰{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's go back to Yilan.{\r}
+Dialogue: 0,1:17:27.16,1:17:28.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}怎么回去{\r}\N{\fnTahoma\fs13\3c&H400000&}How?{\r}
+Dialogue: 0,1:17:30.84,1:17:32.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你以为我没有想过喔{\r}\N{\fnTahoma\fs13\3c&H400000&}You think I never thought about it?{\r}
+Dialogue: 0,1:17:35.60,1:17:36.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们现在回去{\r}\N{\fnTahoma\fs13\3c&H400000&}If we go back now,{\r}
+Dialogue: 0,1:17:40.24,1:17:41.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是被抓去关{\r}\N{\fnTahoma\fs13\3c&H400000&}we'll either end up in prison{\r}
+Dialogue: 0,1:17:41.16,1:17:43.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是被人打死在路边{\r}\N{\fnTahoma\fs13\3c&H400000&}or be beaten to death.{\r}
+Dialogue: 0,1:17:43.92,1:17:44.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那又怎样{\r}\N{\fnTahoma\fs13\3c&H400000&}So?{\r}
+Dialogue: 0,1:17:45.32,1:17:47.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有问题我们可以一起解决啊{\r}\N{\fnTahoma\fs13\3c&H400000&}We can solve problems together.{\r}
+Dialogue: 0,1:17:47.88,1:17:49.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就像以前一样{\r}\N{\fnTahoma\fs13\3c&H400000&}Just as the old days.{\r}
+Dialogue: 0,1:17:53.80,1:17:55.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但人是我杀的{\r}\N{\fnTahoma\fs13\3c&H400000&}It 's me who killed him.{\r}
+Dialogue: 0,1:18:05.44,1:18:06.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以前是我不够强{\r}\N{\fnTahoma\fs13\3c&H400000&}I was not strong enough{\r}
+Dialogue: 0,1:18:08.32,1:18:09.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}所以才会变成这样{\r}\N{\fnTahoma\fs13\3c&H400000&}so we end up like this.{\r}
+Dialogue: 0,1:18:14.68,1:18:16.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我要留在台北{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm staying in Taipei.{\r}
+Dialogue: 0,1:18:21.04,1:18:22.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你看{\r}\N{\fnTahoma\fs13\3c&H400000&}You'll see,{\r}
+Dialogue: 0,1:18:24.80,1:18:25.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我告诉你{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm telling you{\r}
+Dialogue: 0,1:18:30.28,1:18:32.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我马上就会做老大了{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll become a gangster head soon.{\r}
+Dialogue: 0,1:18:33.12,1:18:34.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}以后发生什么事情{\r}\N{\fnTahoma\fs13\3c&H400000&}If anything happens in the future,{\r}
+Dialogue: 0,1:18:34.96,1:18:36.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}换我罩你{\r}\N{\fnTahoma\fs13\3c&H400000&}it'll be my turn to cover you.{\r}
+Dialogue: 0,1:18:37.12,1:18:38.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你罩我{\r}\N{\fnTahoma\fs13\3c&H400000&}You cover me?{\r}
+Dialogue: 0,1:18:39.32,1:18:40.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么罩我{\r}\N{\fnTahoma\fs13\3c&H400000&}How can you cover me?{\r}
+Dialogue: 0,1:18:47.96,1:18:49.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你干嘛这样看我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Why are you looking at me like this?{\r}
+Dialogue: 0,1:18:50.96,1:18:52.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你想要啦我喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you want to kiss me?{\r}
+Dialogue: 0,1:19:01.16,1:19:02.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喝啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Just drink some more.{\r}
+Dialogue: 0,1:19:54.88,1:19:59.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯？菜脯？{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle? Pickle?{\r}
+Dialogue: 0,1:20:16.92,1:20:18.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信诶{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:20:18.88,1:20:20.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我跟你说{\r}\N{\fnTahoma\fs13\3c&H400000&}you see, that night{\r}
+Dialogue: 0,1:20:21.52,1:20:24.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那天晚上为了安非他命{\r}\N{\fnTahoma\fs13\3c&H400000&}I wanted the amphetamine so much,{\r}
+Dialogue: 0,1:20:25.96,1:20:27.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}骗你出来吃面{\r}\N{\fnTahoma\fs13\3c&H400000&}that I lied to get you out{\r}
+Dialogue: 0,1:20:30.00,1:20:31.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}害到你被人家打{\r}\N{\fnTahoma\fs13\3c&H400000&}and you were beaten so badly.{\r}
+Dialogue: 0,1:20:33.08,1:20:34.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我真的很没用{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm such a loser.{\r}
+Dialogue: 0,1:20:42.28,1:20:43.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对不起{\r}\N{\fnTahoma\fs13\3c&H400000&}I am sorry.{\r}
+Dialogue: 0,1:20:44.44,1:20:47.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不配当你的兄弟{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't deserve to be your buddy.{\r}
+Dialogue: 0,1:20:49.96,1:20:54.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就回去宜兰好好练体操啦{\r}\N{\fnTahoma\fs13\3c&H400000&}You shall go back to Yilan and do your gymnastics.{\r}
+Dialogue: 0,1:20:55.96,1:20:58.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这钱跟玉佩{\r}\N{\fnTahoma\fs13\3c&H400000&}The money and the jade pendants{\r}
+Dialogue: 0,1:20:59.44,1:21:00.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}拿给我爸爸{\r}\N{\fnTahoma\fs13\3c&H400000&}are for my dad.{\r}
+Dialogue: 0,1:21:01.88,1:21:05.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}说以后他再也打不到我了{\r}\N{\fnTahoma\fs13\3c&H400000&}Tell him he can't beat me anymore.{\r}
+Dialogue: 0,1:21:05.60,1:21:07.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要好好照顾自己{\r}\N{\fnTahoma\fs13\3c&H400000&}Ask him to take care of himself.{\r}
+Dialogue: 0,1:21:08.44,1:21:09.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要他记得{\r}\N{\fnTahoma\fs13\3c&H400000&}Tell him to remember that{\r}
+Dialogue: 0,1:21:10.56,1:21:14.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他曾经有个老婆和一个儿子{\r}\N{\fnTahoma\fs13\3c&H400000&}he had a wife and a son.{\r}
+Dialogue: 0,1:21:19.32,1:21:20.27,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}P.S.\NP.S.{\r}
+Dialogue: 0,1:21:21.12,1:21:22.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}面筋如果问起我{\r}\N{\fnTahoma\fs13\3c&H400000&}If Cheese asked about me,{\r}
+Dialogue: 0,1:21:24.48,1:21:25.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就跟她说{\r}\N{\fnTahoma\fs13\3c&H400000&}tell her, just as the song says:{\r}
+Dialogue: 0,1:21:27.40,1:21:28.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}“忘了你，忘了我”\N鈥淔orget you, forget me."{\r}
+Dialogue: 0,1:21:30.08,1:21:31.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle,{\r}
+Dialogue: 0,1:23:07.04,1:23:08.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再嚣张啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's play tougher{\r}
+Dialogue: 0,1:23:09.28,1:23:10.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}起来啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Get up!{\r}
+Dialogue: 0,1:23:11.28,1:23:12.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快爬起来啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Get up, you punk.{\r}
+Dialogue: 0,1:23:49.40,1:23:50.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}走{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's go.{\r}
+Dialogue: 0,1:24:26.60,1:24:30.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这样我就可以回宜兰了{\r}\N{\fnTahoma\fs13\3c&H400000&}Now, I can go back to Yilan.{\r}
+Dialogue: 0,1:24:42.56,1:24:44.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信～{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:25:05.32,1:25:06.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯！{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle!{\r}
+Dialogue: 0,1:25:08.76,1:25:10.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯～{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle!{\r}
+Dialogue: 0,1:25:28.40,1:25:30.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你为什么就是不听我的{\r}\N{\fnTahoma\fs13\3c&H400000&}Why didn't you listen to me?{\r}
+Dialogue: 0,1:25:47.44,1:25:49.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不是说你要当老大吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You said you'll become the head.{\r}
+Dialogue: 0,1:25:49.80,1:25:51.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要罩我的吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You said you'll cover me.{\r}
+Dialogue: 0,1:26:02.20,1:26:03.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}菜脯～{\r}\N{\fnTahoma\fs13\3c&H400000&}Pickle{\r}
+Dialogue: 0,1:26:57.48,1:26:58.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有留言吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Any message?{\r}
+Dialogue: 0,1:27:00.36,1:27:01.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很多通留言{\r}\N{\fnTahoma\fs13\3c&H400000&}A lot.{\r}
+Dialogue: 0,1:27:03.48,1:27:05.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是不是都在干礁我{\r}\N{\fnTahoma\fs13\3c&H400000&}All nasty ones?{\r}
+Dialogue: 0,1:27:05.76,1:27:06.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Right.{\r}
+Dialogue: 0,1:27:07.92,1:27:09.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不听了{\r}\N{\fnTahoma\fs13\3c&H400000&}Forget it.{\r}
+Dialogue: 0,1:27:11.44,1:27:12.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你觉得{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you think{\r}
+Dialogue: 0,1:27:14.28,1:27:15.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我应该回去吗{\r}\N{\fnTahoma\fs13\3c&H400000&}I should go back?{\r}
+Dialogue: 0,1:27:21.40,1:27:23.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么那么喜欢待在这里啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Why do you like it here so much?{\r}
+Dialogue: 0,1:27:28.88,1:27:30.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:27:31.00,1:27:33.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要不要干脆回来练体操啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Why don't you just come back to the gymnastic team?{\r}
+Dialogue: 0,1:27:34.96,1:27:36.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看你每次打架{\r}\N{\fnTahoma\fs13\3c&H400000&}You fight{\r}
+Dialogue: 0,1:27:36.44,1:27:38.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都像成龙一样翻来翻去{\r}\N{\fnTahoma\fs13\3c&H400000&}as good as Jackie Chan.{\r}
+Dialogue: 0,1:27:38.88,1:27:40.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很厉害勒{\r}\N{\fnTahoma\fs13\3c&H400000&}That is amazing.{\r}
+Dialogue: 0,1:28:31.52,1:28:32.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你没看到我的棋在这里{\r}\N{\fnTahoma\fs13\3c&H400000&}You didn't see my defense{\r}
+Dialogue: 0,1:28:33.32,1:28:34.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}照吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll take you after all{\r}
+Dialogue: 0,1:28:34.68,1:28:35.82,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}笨象，你这只笨象{\r}\N{\fnTahoma\fs13\3c&H400000&}Dumb Knight, I'm taking you down{\r}
+Dialogue: 0,1:28:35.92,1:28:37.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快点，换你了{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on, your turn{\r}
+Dialogue: 0,1:28:42.28,1:28:42.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss.{\r}
+Dialogue: 0,1:28:43.44,1:28:44.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人来了{\r}\N{\fnTahoma\fs13\3c&H400000&}Here he is.{\r}
+Dialogue: 0,1:28:48.40,1:28:49.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还敢来{\r}\N{\fnTahoma\fs13\3c&H400000&}How dare you to come here?{\r}
+Dialogue: 0,1:28:51.44,1:28:52.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我来{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm here,{\r}
+Dialogue: 0,1:28:53.68,1:28:55.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我来是想解决问题{\r}\N{\fnTahoma\fs13\3c&H400000&}because I want to solve the problem.{\r}
+Dialogue: 0,1:29:05.68,1:29:06.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}过来{\r}\N{\fnTahoma\fs13\3c&H400000&}Come here.{\r}
+Dialogue: 0,1:29:18.36,1:29:19.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}再过来一点{\r}\N{\fnTahoma\fs13\3c&H400000&}Come closer.{\r}
+Dialogue: 0,1:29:40.92,1:29:42.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你真的不怕死{\r}\N{\fnTahoma\fs13\3c&H400000&}You're not afraid of death?{\r}
+Dialogue: 0,1:29:43.84,1:29:44.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss,{\r}
+Dialogue: 0,1:29:45.12,1:29:46.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这小子如果这么有种{\r}\N{\fnTahoma\fs13\3c&H400000&}if he is really not afraid of death,{\r}
+Dialogue: 0,1:29:46.96,1:29:48.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}干脆就完成他的愿望啦{\r}\N{\fnTahoma\fs13\3c&H400000&}we can make his dream come true.{\r}
+Dialogue: 0,1:29:49.12,1:29:50.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那不然剁他的脚啦{\r}\N{\fnTahoma\fs13\3c&H400000&}We can cut oh' his legs.{\r}
+Dialogue: 0,1:29:50.96,1:29:52.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}剁手啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Or the hands.{\r}
+Dialogue: 0,1:29:52.64,1:29:53.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}剁脚剁手{\r}\N{\fnTahoma\fs13\3c&H400000&}Cut off his legs, hands{\r}
+Dialogue: 0,1:29:53.68,1:29:55.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}连他那个也剁掉拿去喂鳄鱼啦{\r}\N{\fnTahoma\fs13\3c&H400000&}and his dick to feed the crocodile.{\r}
+Dialogue: 0,1:30:00.48,1:30:02.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们两个是那边爽什么{\r}\N{\fnTahoma\fs13\3c&H400000&}You guys are really enjoying this, huh?{\r}
+Dialogue: 0,1:30:02.92,1:30:03.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin!{\r}
+Dialogue: 0,1:30:09.00,1:30:09.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还敢来{\r}\N{\fnTahoma\fs13\3c&H400000&}How dare you to come here!{\r}
+Dialogue: 0,1:30:09.84,1:30:10.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}爸～给他死啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Dad, let's take him out.{\r}
+Dialogue: 0,1:30:10.88,1:30:11.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}少爷{\r}\N{\fnTahoma\fs13\3c&H400000&}Master.{\r}
+Dialogue: 0,1:30:11.64,1:30:12.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好了啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Shut up.{\r}
+Dialogue: 0,1:30:21.04,1:30:24.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我知道这个死孩子{\r}\N{\fnTahoma\fs13\3c&H400000&}I know this asshole dealt drugs{\r}
+Dialogue: 0,1:30:24.88,1:30:27.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}偷偷在我背后卖安非他命{\r}\N{\fnTahoma\fs13\3c&H400000&}behind my back.{\r}
+Dialogue: 0,1:30:28.96,1:30:30.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我也知道{\r}\N{\fnTahoma\fs13\3c&H400000&}I also know that{\r}
+Dialogue: 0,1:30:30.84,1:30:34.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我也知道是他先带人打你{\r}\N{\fnTahoma\fs13\3c&H400000&}the whole mess was{\r}
+Dialogue: 0,1:30:35.12,1:30:38.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}才会发生这一堆有的没的事{\r}\N{\fnTahoma\fs13\3c&H400000&}because he beat you in first place.{\r}
+Dialogue: 0,1:30:41.60,1:30:43.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但是不管怎么说{\r}\N{\fnTahoma\fs13\3c&H400000&}Even so, it's the son of mine{\r}
+Dialogue: 0,1:30:46.12,1:30:51.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}今天是我黑松的儿子被打{\r}\N{\fnTahoma\fs13\3c&H400000&}that was beaten.{\r}
+Dialogue: 0,1:30:51.88,1:30:55.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这要是传出去能听吗{\r}\N{\fnTahoma\fs13\3c&H400000&}I can not bear to lose the face.{\r}
+Dialogue: 0,1:31:01.88,1:31:02.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我问你{\r}\N{\fnTahoma\fs13\3c&H400000&}Let me ask you,{\r}
+Dialogue: 0,1:31:04.60,1:31:07.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你明知道我不会放过你{\r}\N{\fnTahoma\fs13\3c&H400000&}why did you come back{\r}
+Dialogue: 0,1:31:08.16,1:31:09.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你怎么还敢回来啊{\r}\N{\fnTahoma\fs13\3c&H400000&}when you knew I won't be easy on you?{\r}
+Dialogue: 0,1:31:13.96,1:31:15.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为我要翻身{\r}\N{\fnTahoma\fs13\3c&H400000&}'Cause I want a new start.{\r}
+Dialogue: 0,1:31:18.56,1:31:20.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我要重新练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}I want to go back to gymnastics.{\r}
+Dialogue: 0,1:31:21.92,1:31:22.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}体操{\r}\N{\fnTahoma\fs13\3c&H400000&}Gymnastics?{\r}
+Dialogue: 0,1:31:23.24,1:31:25.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是说那种翻来翻去的体操吗{\r}\N{\fnTahoma\fs13\3c&H400000&}That jumping and rolling thing?{\r}
+Dialogue: 0,1:31:26.56,1:31:28.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}等一下就没手没脚了{\r}\N{\fnTahoma\fs13\3c&H400000&}You'll lose your hands and legs soon,{\r}
+Dialogue: 0,1:31:28.56,1:31:29.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看你要怎么翻{\r}\N{\fnTahoma\fs13\3c&H400000&}I would love to see you roll{\r}
+Dialogue: 0,1:31:29.76,1:31:30.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}闭嘴啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Shut up.{\r}
+Dialogue: 0,1:31:41.24,1:31:42.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice,{\r}
+Dialogue: 0,1:31:42.96,1:31:44.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}练体操{\r}\N{\fnTahoma\fs13\3c&H400000&}gymnastics.{\r}
+Dialogue: 0,1:31:46.80,1:31:48.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我给你一年的时间{\r}\N{\fnTahoma\fs13\3c&H400000&}I will give you a year.{\r}
+Dialogue: 0,1:31:49.72,1:31:50.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一年内{\r}\N{\fnTahoma\fs13\3c&H400000&}You have to win a gold medal{\r}
+Dialogue: 0,1:31:51.92,1:31:54.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你一定要给我拿到金牌{\r}\N{\fnTahoma\fs13\3c&H400000&}within one year.{\r}
+Dialogue: 0,1:31:55.76,1:31:59.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要不然就不是在这池{\r}\N{\fnTahoma\fs13\3c&H400000&}If not, you won't be bathing in this one{\r}
+Dialogue: 0,1:32:00.88,1:32:02.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}而是在隔壁那池{\r}\N{\fnTahoma\fs13\3c&H400000&}but that one.{\r}
+Dialogue: 0,1:32:13.72,1:32:14.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey,{\r}
+Dialogue: 0,1:32:14.96,1:32:15.94,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}集合{\r}\N{\fnTahoma\fs13\3c&H400000&}assemble here.{\r}
+Dialogue: 0,1:32:27.24,1:32:28.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你们是从小{\r}\N{\fnTahoma\fs13\3c&H400000&}You're hand-picked gymnasts{\r}
+Dialogue: 0,1:32:29.20,1:32:31.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就挑选出来的选手{\r}\N{\fnTahoma\fs13\3c&H400000&}since you were kids.{\r}
+Dialogue: 0,1:32:32.20,1:32:33.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在这个中间{\r}\N{\fnTahoma\fs13\3c&H400000&}Over times,{\r}
+Dialogue: 0,1:32:34.12,1:32:36.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}也有很多人选择离开{\r}\N{\fnTahoma\fs13\3c&H400000&}many chose to leave.{\r}
+Dialogue: 0,1:32:37.76,1:32:39.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}既然你们选择留下{\r}\N{\fnTahoma\fs13\3c&H400000&}For those who chose to stay,{\r}
+Dialogue: 0,1:32:40.80,1:32:43.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就请你们尊重你们自己的选择{\r}\N{\fnTahoma\fs13\3c&H400000&}please respect your own choice,{\r}
+Dialogue: 0,1:32:45.16,1:32:47.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}也尊重这项运动{\r}\N{\fnTahoma\fs13\3c&H400000&}and respect this sport.{\r}
+Dialogue: 0,1:32:54.92,1:32:56.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:33:09.68,1:33:12.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一二{\r}\N{\fnTahoma\fs13\3c&H400000&}One, two.{\r}
+Dialogue: 0,1:33:13.20,1:33:14.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}高一点喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Higher.{\r}
+Dialogue: 0,1:33:14.16,1:33:15.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一{\r}\N{\fnTahoma\fs13\3c&H400000&}One.{\r}
+Dialogue: 0,1:33:16.16,1:33:19.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}顶住{\r}\N{\fnTahoma\fs13\3c&H400000&}Hold it.{\r}
+Dialogue: 0,1:33:22.92,1:33:24.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}二{\r}\N{\fnTahoma\fs13\3c&H400000&}Two.{\r}
+Dialogue: 0,1:33:28.24,1:33:29.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿伯{\r}\N{\fnTahoma\fs13\3c&H400000&}Old man,{\r}
+Dialogue: 0,1:33:29.28,1:33:30.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还可以吧{\r}\N{\fnTahoma\fs13\3c&H400000&}are you okay?{\r}
+Dialogue: 0,1:33:30.76,1:33:31.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}别吵{\r}\N{\fnTahoma\fs13\3c&H400000&}Shut up!{\r}
+Dialogue: 0,1:33:31.28,1:33:37.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}一二三四五六七八九十{\r}\N{\fnTahoma\fs13\3c&H400000&}1,2,3,4,5,6,7,8,9,10.{\r}
+Dialogue: 0,1:33:38.12,1:33:39.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}快{\r}\N{\fnTahoma\fs13\3c&H400000&}Go, sprint!{\r}
+Dialogue: 0,1:33:40.68,1:33:41.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}冲刺冲刺喔{\r}\N{\fnTahoma\fs13\3c&H400000&}I said sprint!{\r}
+Dialogue: 0,1:33:55.88,1:33:57.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}该戒烟了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}Time to quit smoking.{\r}
+Dialogue: 0,1:33:58.28,1:33:59.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看你这个体能啊{\r}\N{\fnTahoma\fs13\3c&H400000&}You're not capable of{\r}
+Dialogue: 0,1:34:00.20,1:34:01.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还不能练单项{\r}\N{\fnTahoma\fs13\3c&H400000&}practicing individual event yet.{\r}
+Dialogue: 0,1:34:02.20,1:34:03.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来来来，起来起来起来{\r}\N{\fnTahoma\fs13\3c&H400000&}Get up from there.{\r}
+Dialogue: 0,1:34:04.40,1:34:05.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}先去给我跑操场{\r}\N{\fnTahoma\fs13\3c&H400000&}Go to run on the field first.{\r}
+Dialogue: 0,1:34:29.68,1:34:30.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}老大{\r}\N{\fnTahoma\fs13\3c&H400000&}Boss,{\r}
+Dialogue: 0,1:34:30.68,1:34:31.74,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我看他差不多了{\r}\N{\fnTahoma\fs13\3c&H400000&}He looks exhausted.{\r}
+Dialogue: 0,1:34:32.92,1:34:34.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来～来～{\r}\N{\fnTahoma\fs13\3c&H400000&}Let' go.{\r}
+Dialogue: 0,1:34:37.08,1:34:38.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:34:40.20,1:34:41.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你爸我这次一定要给你死啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll kill you this time.{\r}
+Dialogue: 0,1:34:46.96,1:34:48.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有胆别跑啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't go! Go to hell!{\r}
+Dialogue: 0,1:34:48.92,1:34:50.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不是很带种{\r}\N{\fnTahoma\fs13\3c&H400000&}Where did you put your balls?{\r}
+Dialogue: 0,1:34:54.04,1:34:55.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有胆别跑啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Why don't you stop and fight?{\r}
+Dialogue: 0,1:34:57.12,1:34:59.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谢谢你愿意原谅阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you for giving Ashin a chance.{\r}
+Dialogue: 0,1:34:59.44,1:35:00.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不要跑那么快啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't run so fast.{\r}
+Dialogue: 0,1:35:01.68,1:35:04.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有一半理由是因为你{\r}\N{\fnTahoma\fs13\3c&H400000&}Half the reason is of you,{\r}
+Dialogue: 0,1:35:04.88,1:35:08.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}另一半是因为他自己{\r}\N{\fnTahoma\fs13\3c&H400000&}the other half is of he himself.{\r}
+Dialogue: 0,1:35:10.00,1:35:12.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这小子个性有够强{\r}\N{\fnTahoma\fs13\3c&H400000&}He is a really stubborn young man.{\r}
+Dialogue: 0,1:35:17.00,1:35:20.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}他的个性跟你年轻的时候很像勒{\r}\N{\fnTahoma\fs13\3c&H400000&}He's quite like the younger you.{\r}
+Dialogue: 0,1:35:21.04,1:35:21.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}像我{\r}\N{\fnTahoma\fs13\3c&H400000&}Me?{\r}
+Dialogue: 0,1:35:22.96,1:35:24.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你也看一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,1:35:24.48,1:35:27.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我的体能比他好太多了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm much stronger than he is.{\r}
+Dialogue: 0,1:35:34.40,1:35:35.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Yeah.{\r}
+Dialogue: 0,1:35:36.24,1:35:38.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那个时候你是队上最强的{\r}\N{\fnTahoma\fs13\3c&H400000&}You were the best among the team.{\r}
+Dialogue: 0,1:35:40.28,1:35:41.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}唉～{\r}\N{\fnTahoma\fs13\3c&H400000&}Alas.{\r}
+Dialogue: 0,1:35:41.76,1:35:43.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}强有什么用{\r}\N{\fnTahoma\fs13\3c&H400000&}Strong? So what?{\r}
+Dialogue: 0,1:35:43.48,1:35:46.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还不是要吃饭拉屎{\r}\N{\fnTahoma\fs13\3c&H400000&}You still need to eat and shit.{\r}
+Dialogue: 0,1:35:52.16,1:35:55.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这小子有心想要练{\r}\N{\fnTahoma\fs13\3c&H400000&}He does want to do gymnastics.{\r}
+Dialogue: 0,1:35:56.16,1:35:57.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你觉得他有希望吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you think he has prospects?{\r}
+Dialogue: 0,1:36:01.84,1:36:05.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}年底有个国际体操邀请赛{\r}\N{\fnTahoma\fs13\3c&H400000&}There is an international game at the end of the year.{\r}
+Dialogue: 0,1:36:05.92,1:36:09.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我也没把握他能不能上场比赛{\r}\N{\fnTahoma\fs13\3c&H400000&}I am not sure if he can make it.{\r}
+Dialogue: 0,1:36:10.28,1:36:11.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是教练勒{\r}\N{\fnTahoma\fs13\3c&H400000&}You're the coach!{\r}
+Dialogue: 0,1:36:11.80,1:36:13.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这种话你也说的出来{\r}\N{\fnTahoma\fs13\3c&H400000&}You shouldn't say this.{\r}
+Dialogue: 0,1:36:13.84,1:36:15.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好好给我操一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Train him seriously.{\r}
+Dialogue: 0,1:36:15.52,1:36:17.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要给我漏气喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you lose my face.{\r}
+Dialogue: 0,1:36:20.04,1:36:21.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是流氓勒{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on, you're a gang master.{\r}
+Dialogue: 0,1:36:21.52,1:36:23.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我哪敢给你漏气喔{\r}\N{\fnTahoma\fs13\3c&H400000&}How would I dare to lose your face?{\r}
+Dialogue: 0,1:36:24.16,1:36:24.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啦好啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine.{\r}
+Dialogue: 0,1:36:25.04,1:36:25.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要说这个啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Quit it.{\r}
+Dialogue: 0,1:36:25.92,1:36:27.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你看{\r}\N{\fnTahoma\fs13\3c&H400000&}Look{\r}
+Dialogue: 0,1:36:42.12,1:36:45.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}从现在我不会再逃避{\r}\N{\fnTahoma\fs13\3c&H400000&}I will not run away anymore{\r}
+Dialogue: 0,1:36:47.04,1:36:50.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}重新的唤起{\r}\N{\fnTahoma\fs13\3c&H400000&}Face the calling{\r}
+Dialogue: 0,1:36:51.04,1:36:56.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}埋藏在我心底的血液{\r}\N{\fnTahoma\fs13\3c&H400000&}the blood running deep within my heart.{\r}
+Dialogue: 0,1:36:58.08,1:36:58.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}沉住气{\r}\N{\fnTahoma\fs13\3c&H400000&}Stay focused.{\r}
+Dialogue: 0,1:36:59.04,1:37:02.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我的，心不再移{\r}\N{\fnTahoma\fs13\3c&H400000&}I will not be astray again.{\r}
+Dialogue: 0,1:37:03.16,1:37:06.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}屏息不放弃{\r}\N{\fnTahoma\fs13\3c&H400000&}Hold my breath, never give up.{\r}
+Dialogue: 0,1:37:07.08,1:37:07.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}慢慢的{\r}\N{\fnTahoma\fs13\3c&H400000&}Slowly,{\r}
+Dialogue: 0,1:37:08.08,1:37:12.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}朝着我的梦前进{\r}\N{\fnTahoma\fs13\3c&H400000&}I walk toward my dream.{\r}
+Dialogue: 0,1:37:14.16,1:37:16.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}忘了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}Forget it.{\r}
+Dialogue: 0,1:37:17.16,1:37:21.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}混乱的事不再提{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't mention the mess.{\r}
+Dialogue: 0,1:37:22.08,1:37:24.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}放了吧{\r}\N{\fnTahoma\fs13\3c&H400000&}Let it go.{\r}
+Dialogue: 0,1:37:25.08,1:37:33.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把心思变唯一{\r}\N{\fnTahoma\fs13\3c&H400000&}Focus on one thing only.{\r}
+Dialogue: 0,1:37:35.20,1:37:40.32,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我会用尽所有力{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll do my best.{\r}
+Dialogue: 0,1:37:40.44,1:37:46.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}奋力的跃起在天际{\r}\N{\fnTahoma\fs13\3c&H400000&}Leap as high as the sky.{\r}
+Dialogue: 0,1:37:46.48,1:37:51.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}迎着光明{\r}\N{\fnTahoma\fs13\3c&H400000&}Toward the brightest.{\r}
+Dialogue: 0,1:37:51.12,1:37:56.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我会更用力呼吸{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll breath harder.{\r}
+Dialogue: 0,1:37:56.44,1:38:02.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}飞到另一个灿烂天空{\r}\N{\fnTahoma\fs13\3c&H400000&}Fly into another brilliant sky.{\r}
+Dialogue: 0,1:38:02.52,1:38:06.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}完美{\r}\N{\fnTahoma\fs13\3c&H400000&}Perfect.{\r}
+Dialogue: 0,1:38:06.48,1:38:12.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}落地{\r}\N{\fnTahoma\fs13\3c&H400000&}Landing.{\r}
+Dialogue: 0,1:38:19.88,1:38:20.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin{\r}
+Dialogue: 0,1:38:23.16,1:38:24.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:38:26.04,1:38:27.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你过来一下{\r}\N{\fnTahoma\fs13\3c&H400000&}Come here.{\r}
+Dialogue: 0,1:38:35.16,1:38:36.14,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach.{\r}
+Dialogue: 0,1:38:37.92,1:38:39.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把手放上来{\r}\N{\fnTahoma\fs13\3c&H400000&}Put your hand here.{\r}
+Dialogue: 0,1:38:45.92,1:38:46.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抚摸它{\r}\N{\fnTahoma\fs13\3c&H400000&}Touch it.{\r}
+Dialogue: 0,1:38:49.16,1:38:51.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把它想像成是一匹真的马{\r}\N{\fnTahoma\fs13\3c&H400000&}Think of it as a real horse.{\r}
+Dialogue: 0,1:38:53.20,1:38:54.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}抚摸它的毛{\r}\N{\fnTahoma\fs13\3c&H400000&}Stroke its hair.{\r}
+Dialogue: 0,1:38:56.68,1:38:58.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟它说话{\r}\N{\fnTahoma\fs13\3c&H400000&}Talk to it:{\r}
+Dialogue: 0,1:38:59.32,1:39:00.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}感谢你{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you.{\r}
+Dialogue: 0,1:39:01.28,1:39:02.42,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为有你{\r}\N{\fnTahoma\fs13\3c&H400000&}We can do this sport{\r}
+Dialogue: 0,1:39:03.16,1:39:05.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我们才能从事这项运动{\r}\N{\fnTahoma\fs13\3c&H400000&}only because of you.{\r}
+Dialogue: 0,1:39:05.36,1:39:06.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach,{\r}
+Dialogue: 0,1:39:07.68,1:39:09.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你在干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}what are you doing?{\r}
+Dialogue: 0,1:39:10.48,1:39:12.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟它说话啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Talking to it.{\r}
+Dialogue: 0,1:39:22.44,1:39:23.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}男子体操啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Man gymnastics events are:{\r}
+Dialogue: 0,1:39:24.36,1:39:25.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}地板、鞍马、吊环{\r}\N{\fnTahoma\fs13\3c&H400000&}Floor Exercise, Pommel Horse, Still Rings{\r}
+Dialogue: 0,1:39:26.24,1:39:27.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跳马、双杠、单杠{\r}\N{\fnTahoma\fs13\3c&H400000&}Vault, Parallel Bars, Horizontal bar{\r}
+Dialogue: 0,1:39:27.64,1:39:28.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这六个项目{\r}\N{\fnTahoma\fs13\3c&H400000&}Six in total.{\r}
+Dialogue: 0,1:39:29.16,1:39:30.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}全都是冰冷的器材{\r}\N{\fnTahoma\fs13\3c&H400000&}They are all performed on cold facilities.{\r}
+Dialogue: 0,1:39:32.20,1:39:33.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}如果你没有热情{\r}\N{\fnTahoma\fs13\3c&H400000&}If you don't learn to feel them,{\r}
+Dialogue: 0,1:39:35.44,1:39:37.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}如果你不跟它建立关系{\r}\N{\fnTahoma\fs13\3c&H400000&}don't build relationships with them,{\r}
+Dialogue: 0,1:39:38.24,1:39:40.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你就永远无法控制你的恐惧{\r}\N{\fnTahoma\fs13\3c&H400000&}you can never overcome your fears to them.{\r}
+Dialogue: 0,1:39:47.60,1:39:49.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}运用你的想像力{\r}\N{\fnTahoma\fs13\3c&H400000&}So, use your imagination.{\r}
+Dialogue: 0,1:39:50.20,1:39:51.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}跟它说话{\r}\N{\fnTahoma\fs13\3c&H400000&}Talk to it.{\r}
+Dialogue: 0,1:39:52.52,1:39:53.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}懂了吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Get it?{\r}
+Dialogue: 0,1:40:00.12,1:40:02.68,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}所以你跟教练两个人{\r}\N{\fnTahoma\fs13\3c&H400000&}So you and the coach have stroked{\r}
+Dialogue: 0,1:40:02.76,1:40:05.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就站在那里摸跳马摸十分钟喔{\r}\N{\fnTahoma\fs13\3c&H400000&}the vault for an entire 10 minutes?{\r}
+Dialogue: 0,1:40:07.44,1:40:08.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Yeah.{\r}
+Dialogue: 0,1:40:08.52,1:40:09.58,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很好笑喔{\r}\N{\fnTahoma\fs13\3c&H400000&}It is funny, isn't it?{\r}
+Dialogue: 0,1:40:10.08,1:40:11.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不会呀{\r}\N{\fnTahoma\fs13\3c&H400000&}No.{\r}
+Dialogue: 0,1:40:11.76,1:40:13.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把跳马当成活的{\r}\N{\fnTahoma\fs13\3c&H400000&}Does it make you feel better{\r}
+Dialogue: 0,1:40:13.40,1:40:15.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有让你感觉比较好吗{\r}\N{\fnTahoma\fs13\3c&H400000&}when thinking it as something alive?{\r}
+Dialogue: 0,1:40:17.20,1:40:18.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好像是有点用啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Kind of.{\r}
+Dialogue: 0,1:40:21.28,1:40:22.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但我觉得最大的问题{\r}\N{\fnTahoma\fs13\3c&H400000&}But my biggest problem{\r}
+Dialogue: 0,1:40:22.96,1:40:24.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还是在我自己身上{\r}\N{\fnTahoma\fs13\3c&H400000&}comes from myself.{\r}
+Dialogue: 0,1:40:27.32,1:40:29.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}如果没办法克服我的左腿{\r}\N{\fnTahoma\fs13\3c&H400000&}If I don't overcome my left leg,{\r}
+Dialogue: 0,1:40:31.16,1:40:32.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很难会有好成绩{\r}\N{\fnTahoma\fs13\3c&H400000&}I can never get a good result.{\r}
+Dialogue: 0,1:40:35.28,1:40:36.34,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:40:37.20,1:40:38.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}What?{\r}
+Dialogue: 0,1:40:39.24,1:40:43.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}其实我很羡慕你是个体操选手{\r}\N{\fnTahoma\fs13\3c&H400000&}Actually, I envy you because you're a gymnast.{\r}
+Dialogue: 0,1:40:47.72,1:40:48.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}是喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Oh yeah?{\r}
+Dialogue: 0,1:40:49.48,1:40:50.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes.{\r}
+Dialogue: 0,1:40:53.28,1:40:55.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我曾经是个游泳选手{\r}\N{\fnTahoma\fs13\3c&H400000&}I was a swimmer.{\r}
+Dialogue: 0,1:40:56.40,1:40:57.46,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈勒{\r}\N{\fnTahoma\fs13\3c&H400000&}Holy crap!{\r}
+Dialogue: 0,1:40:57.64,1:40:59.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}真的假的{\r}\N{\fnTahoma\fs13\3c&H400000&}Really?{\r}
+Dialogue: 0,1:41:00.08,1:41:02.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那你穿泳衣一定很好看哦{\r}\N{\fnTahoma\fs13\3c&H400000&}You must look great in swimming suit.{\r}
+Dialogue: 0,1:41:04.48,1:41:05.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喂{\r}\N{\fnTahoma\fs13\3c&H400000&}Hey,{\r}
+Dialogue: 0,1:41:05.48,1:41:07.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}人家很认真耶{\r}\N{\fnTahoma\fs13\3c&H400000&}I'm serious.{\r}
+Dialogue: 0,1:41:08.40,1:41:09.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好啦好啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Fine.{\r}
+Dialogue: 0,1:41:10.08,1:41:11.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}那你还有在游吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you still swim?{\r}
+Dialogue: 0,1:41:23.28,1:41:24.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不游了{\r}\N{\fnTahoma\fs13\3c&H400000&}Not anymore.{\r}
+Dialogue: 0,1:41:26.52,1:41:27.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么{\r}\N{\fnTahoma\fs13\3c&H400000&}Why?{\r}
+Dialogue: 0,1:41:41.72,1:41:43.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin.{\r}
+Dialogue: 0,1:41:44.80,1:41:46.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要坚持下去{\r}\N{\fnTahoma\fs13\3c&H400000&}You must hang on.{\r}
+Dialogue: 0,1:41:48.12,1:41:50.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不光是为了自己奋斗{\r}\N{\fnTahoma\fs13\3c&H400000&}You fight not only for yourself{\r}
+Dialogue: 0,1:41:50.28,1:41:52.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}也是替那些曾经有梦想的人奋斗{\r}\N{\fnTahoma\fs13\3c&H400000&}but for those who had dreams.{\r}
+Dialogue: 0,1:41:56.88,1:41:58.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}喔～对了{\r}\N{\fnTahoma\fs13\3c&H400000&}One more thing.{\r}
+Dialogue: 0,1:41:58.68,1:42:00.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有一通599的留言{\r}\N{\fnTahoma\fs13\3c&H400000&}You have a message from 599.{\r}
+Dialogue: 0,1:42:01.20,1:42:02.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}她说{\r}\N{\fnTahoma\fs13\3c&H400000&}She said:{\r}
+Dialogue: 0,1:42:03.48,1:42:04.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Go for it!{\r}
+Dialogue: 0,1:42:09.88,1:42:11.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我知道了{\r}\N{\fnTahoma\fs13\3c&H400000&}I got it.{\r}
+Dialogue: 0,1:43:22.48,1:43:23.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother,{\r}
+Dialogue: 0,1:43:25.56,1:43:27.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}爸快要死了{\r}\N{\fnTahoma\fs13\3c&H400000&}dad is dying.{\r}
+Dialogue: 0,1:43:28.44,1:43:31.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈叫我们回去帮他换衣服{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom wants us to go home and change dad's clothes.{\r}
+Dialogue: 0,1:44:11.88,1:44:13.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}爸{\r}\N{\fnTahoma\fs13\3c&H400000&}Dad?{\r}
+Dialogue: 0,1:44:43.88,1:44:45.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，你在干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, what are you doing?{\r}
+Dialogue: 0,1:44:49.40,1:44:50.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿爸有说过{\r}\N{\fnTahoma\fs13\3c&H400000&}Dad said, if you feel like crying{\r}
+Dialogue: 0,1:44:51.72,1:44:53.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}想哭的时候就倒立{\r}\N{\fnTahoma\fs13\3c&H400000&}you can do handstand.{\r}
+Dialogue: 0,1:44:54.48,1:44:57.04,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这样眼泪就不会流下来了{\r}\N{\fnTahoma\fs13\3c&H400000&}So the tears won't fall down.{\r}
+Dialogue: 0,1:46:50.60,1:46:51.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对啊{\r}\N{\fnTahoma\fs13\3c&H400000&}This is it!{\r}
+Dialogue: 0,1:46:53.60,1:46:55.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把不够的补满{\r}\N{\fnTahoma\fs13\3c&H400000&}Add to what is needed.{\r}
+Dialogue: 0,1:46:56.88,1:46:58.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}把不足的长度补齐{\r}\N{\fnTahoma\fs13\3c&H400000&}Fill the short one to the right length.{\r}
+Dialogue: 0,1:47:08.04,1:47:09.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很感谢你{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you for taking care of Ashin{\r}
+Dialogue: 0,1:47:09.48,1:47:11.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信住这边都托你照顾{\r}\N{\fnTahoma\fs13\3c&H400000&}while he's staying here.{\r}
+Dialogue: 0,1:47:12.48,1:47:13.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要这样说{\r}\N{\fnTahoma\fs13\3c&H400000&}Never mind.{\r}
+Dialogue: 0,1:47:13.88,1:47:16.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}事情有解决就好{\r}\N{\fnTahoma\fs13\3c&H400000&}As long as the problems are solved.{\r}
+Dialogue: 0,1:47:19.68,1:47:20.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin{\r}
+Dialogue: 0,1:47:24.72,1:47:25.86,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你来干嘛{\r}\N{\fnTahoma\fs13\3c&H400000&}What are you doing here?{\r}
+Dialogue: 0,1:47:31.00,1:47:33.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么你就是不让我练体操啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Why cant you just let me do gymnastics?{\r}
+Dialogue: 0,1:47:34.20,1:47:35.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你把我害的还不够惨吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You want to see me live in hell again?{\r}
+Dialogue: 0,1:47:36.00,1:47:36.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin{\r}
+Dialogue: 0,1:47:37.12,1:47:38.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}为什么你连让我重新作人的机会{\r}\N{\fnTahoma\fs13\3c&H400000&}Why do you want to deprive me{\r}
+Dialogue: 0,1:47:38.84,1:47:40.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}都不给我{\r}\N{\fnTahoma\fs13\3c&H400000&}of the chance to have a new life?{\r}
+Dialogue: 0,1:47:40.64,1:47:42.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我就一定得回去卖水果{\r}\N{\fnTahoma\fs13\3c&H400000&}You want me to sell fruit again?{\r}
+Dialogue: 0,1:47:43.04,1:47:44.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我的人生是我在过的{\r}\N{\fnTahoma\fs13\3c&H400000&}This is my life,{\r}
+Dialogue: 0,1:47:45.04,1:47:46.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不是你{\r}\N{\fnTahoma\fs13\3c&H400000&}not yours.{\r}
+Dialogue: 0,1:47:47.88,1:47:49.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}林太太{\r}\N{\fnTahoma\fs13\3c&H400000&}Mrs. Lin Mrs. Lin{\r}
+Dialogue: 0,1:47:52.56,1:47:53.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Coach,{\r}
+Dialogue: 0,1:47:53.96,1:47:55.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不管我妈怎么说{\r}\N{\fnTahoma\fs13\3c&H400000&}no matter what my mom said,{\r}
+Dialogue: 0,1:47:55.56,1:47:57.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我这次绝对不会退出体操队{\r}\N{\fnTahoma\fs13\3c&H400000&}I will not leave the team this time.{\r}
+Dialogue: 0,1:48:02.72,1:48:04.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这双鞋你先拿着{\r}\N{\fnTahoma\fs13\3c&H400000&}Hold the shoes first.{\r}
+Dialogue: 0,1:48:09.08,1:48:10.22,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这双鞋的左脚{\r}\N{\fnTahoma\fs13\3c&H400000&}The left one has special pad and sole{\r}
+Dialogue: 0,1:48:11.64,1:48:13.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}有特制加厚的鞋垫与鞋底{\r}\N{\fnTahoma\fs13\3c&H400000&}with just the right thickness.{\r}
+Dialogue: 0,1:48:14.92,1:48:16.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}长度刚好可以让你的两条腿{\r}\N{\fnTahoma\fs13\3c&H400000&}So the lengths of your legs{\r}
+Dialogue: 0,1:48:16.76,1:48:17.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}变得一样长{\r}\N{\fnTahoma\fs13\3c&H400000&}can become even.{\r}
+Dialogue: 0,1:48:18.96,1:48:20.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我想了很久了{\r}\N{\fnTahoma\fs13\3c&H400000&}I thought about this for a long time.{\r}
+Dialogue: 0,1:48:21.08,1:48:23.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这是唯一可以解决你长短腿的办法{\r}\N{\fnTahoma\fs13\3c&H400000&}It's the only solution to your legs.{\r}
+Dialogue: 0,1:48:25.68,1:48:26.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谢谢教练{\r}\N{\fnTahoma\fs13\3c&H400000&}Thank you, coach.{\r}
+Dialogue: 0,1:48:28.92,1:48:29.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不用谢我{\r}\N{\fnTahoma\fs13\3c&H400000&}Not me,{\r}
+Dialogue: 0,1:48:30.08,1:48:30.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要谢啊{\r}\N{\fnTahoma\fs13\3c&H400000&}If there's anyone to thank,{\r}
+Dialogue: 0,1:48:30.96,1:48:32.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}谢你妈{\r}\N{\fnTahoma\fs13\3c&H400000&}it's your mom.{\r}
+Dialogue: 0,1:48:35.00,1:48:37.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你知道你小时候得过小儿麻痹吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you know you had Polio?{\r}
+Dialogue: 0,1:48:39.76,1:48:41.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你妈一直为这件事情很自责{\r}\N{\fnTahoma\fs13\3c&H400000&}She has been blaming herself for it.{\r}
+Dialogue: 0,1:48:41.76,1:48:43.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}她说是她没有把你照顾好{\r}\N{\fnTahoma\fs13\3c&H400000&}She said it's her fault that{\r}
+Dialogue: 0,1:48:44.12,1:48:45.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}所以才让你生病{\r}\N{\fnTahoma\fs13\3c&H400000&}led to your illness.{\r}
+Dialogue: 0,1:48:46.92,1:48:48.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还好她从小{\r}\N{\fnTahoma\fs13\3c&H400000&}Thanks to her massaging your leg everyday{\r}
+Dialogue: 0,1:48:48.16,1:48:50.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就每天帮你按摩你的脚{\r}\N{\fnTahoma\fs13\3c&H400000&}since you were a kid,{\r}
+Dialogue: 0,1:48:51.08,1:48:51.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要不然你的左脚{\r}\N{\fnTahoma\fs13\3c&H400000&}or your left leg would wither{\r}
+Dialogue: 0,1:48:52.04,1:48:53.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}会萎缩的比现在更严重{\r}\N{\fnTahoma\fs13\3c&H400000&}even more seriously than it is now.{\r}
+Dialogue: 0,1:48:54.16,1:48:54.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你懂了吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you get it?{\r}
+Dialogue: 0,1:48:55.04,1:48:56.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要动啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't move.{\r}
+Dialogue: 0,1:48:57.56,1:49:00.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈，为什么你要按哥哥的脚啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, why are you massaging Brother's leg?{\r}
+Dialogue: 0,1:49:00.96,1:49:03.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就是这样经常按经常推{\r}\N{\fnTahoma\fs13\3c&H400000&}The constant massage{\r}
+Dialogue: 0,1:49:03.16,1:49:05.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥哥才会长大啊{\r}\N{\fnTahoma\fs13\3c&H400000&}can make your brother grow up.{\r}
+Dialogue: 0,1:49:37.12,1:49:38.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好吃的来啰{\r}\N{\fnTahoma\fs13\3c&H400000&}Here comes the good one.{\r}
+Dialogue: 0,1:49:43.32,1:49:44.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom,{\r}
+Dialogue: 0,1:49:44.88,1:49:45.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这是什么{\r}\N{\fnTahoma\fs13\3c&H400000&}what's this?{\r}
+Dialogue: 0,1:49:46.28,1:49:47.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃腿补腿啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Eat legs for better legs.{\r}
+Dialogue: 0,1:49:48.04,1:49:49.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你快要比赛了啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Your game is coming.{\r}
+Dialogue: 0,1:49:49.76,1:49:52.06,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃这个田鸡腿比较会跳{\r}\N{\fnTahoma\fs13\3c&H400000&}Frog legs can help you jump higher.{\r}
+Dialogue: 0,1:49:52.28,1:49:53.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom{\r}
+Dialogue: 0,1:49:53.32,1:49:54.30,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不用比赛{\r}\N{\fnTahoma\fs13\3c&H400000&}I am not competing,{\r}
+Dialogue: 0,1:49:54.64,1:49:55.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不用吃{\r}\N{\fnTahoma\fs13\3c&H400000&}so I don't have to eat.{\r}
+Dialogue: 0,1:49:56.20,1:49:57.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你小时候不是最会吵{\r}\N{\fnTahoma\fs13\3c&H400000&}You used to say that{\r}
+Dialogue: 0,1:49:57.68,1:49:58.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吵着要长大{\r}\N{\fnTahoma\fs13\3c&H400000&}you want to be a grown-up.{\r}
+Dialogue: 0,1:49:59.04,1:50:00.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就要吃这个才会长大{\r}\N{\fnTahoma\fs13\3c&H400000&}Eat this so you can be a grown-up.{\r}
+Dialogue: 0,1:50:01.00,1:50:01.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}知道吗{\r}\N{\fnTahoma\fs13\3c&H400000&}See?{\r}
+Dialogue: 0,1:50:01.84,1:50:02.98,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不要吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't want to.{\r}
+Dialogue: 0,1:50:04.60,1:50:07.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}吃啦 赶快吃啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Eat it.{\r}
+Dialogue: 0,1:50:11.04,1:50:12.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要弄你弟弟啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't tease your younger brother.{\r}
+Dialogue: 0,1:50:14.36,1:50:15.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom{\r}
+Dialogue: 0,1:50:16.64,1:50:17.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}没办法啊{\r}\N{\fnTahoma\fs13\3c&H400000&}I can't help you{\r}
+Dialogue: 0,1:50:17.60,1:50:20.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你哥哥都喜欢欺负你{\r}\N{\fnTahoma\fs13\3c&H400000&}Your older brother has been fond of teasing you{\r}
+Dialogue: 0,1:50:42.32,1:50:43.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿爸{\r}\N{\fnTahoma\fs13\3c&H400000&}Dad, please bless me{\r}
+Dialogue: 0,1:50:43.32,1:50:46.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要保佑我这个月考试一百分{\r}\N{\fnTahoma\fs13\3c&H400000&}to get A+ in my test this month,{\r}
+Dialogue: 0,1:50:46.92,1:50:49.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}然后妈妈身体健康{\r}\N{\fnTahoma\fs13\3c&H400000&}and mom to be healthy,{\r}
+Dialogue: 0,1:50:50.00,1:50:53.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还有哥哥拿到跳马金牌{\r}\N{\fnTahoma\fs13\3c&H400000&}and brother to win the Vault Gold Medal.{\r}
+Dialogue: 0,1:50:54.20,1:50:55.83,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不要一次跟你爸求那么多啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't make so many wishes.{\r}
+Dialogue: 0,1:50:55.96,1:50:57.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你要把他累死喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Your dad will be exhausted.{\r}
+Dialogue: 0,1:51:22.44,1:51:24.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这我来就好{\r}\N{\fnTahoma\fs13\3c&H400000&}I'll take care of them.{\r}
+Dialogue: 0,1:51:28.00,1:51:28.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}给他死啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Kill them.{\r}
+Dialogue: 0,1:51:37.32,1:51:39.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}来～冲刺喔冲刺喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on, sprint. Sprint!{\r}
+Dialogue: 0,1:51:42.28,1:51:43.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}冲刺喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Sprint!{\r}
+Dialogue: 0,1:52:30.92,1:52:32.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}水啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice!{\r}
+Dialogue: 0,1:53:38.00,1:53:41.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}各位先生女士{\r}\N{\fnTahoma\fs13\3c&H400000&}Ladies and gentlemen,{\r}
+Dialogue: 0,1:53:41.84,1:53:45.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}欢迎莅临1994年国际体操邀请赛{\r}\N{\fnTahoma\fs13\3c&H400000&}Welcome to 1994 international invitation gymnastics competition.{\r}
+Dialogue: 0,1:54:10.16,1:54:12.54,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}让我们用最热烈的掌声欢迎{\r}\N{\fnTahoma\fs13\3c&H400000&}Let's give our warmest welcome{\r}
+Dialogue: 0,1:54:12.96,1:54:15.91,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}男子组跳马个人总决赛选手进场{\r}\N{\fnTahoma\fs13\3c&H400000&}to the finalists of Vault Event.{\r}
+Dialogue: 0,1:54:16.04,1:54:18.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}妈，这是你第一次来看哥哥比赛{\r}\N{\fnTahoma\fs13\3c&H400000&}Mom, it's your first time to see brother's game.{\r}
+Dialogue: 0,1:54:18.28,1:54:19.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}对啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Yeah.{\r}
+Dialogue: 0,1:54:19.56,1:54:21.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好多人啊{\r}\N{\fnTahoma\fs13\3c&H400000&}There're so many people.{\r}
+Dialogue: 0,1:54:21.56,1:54:22.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你哥在哪{\r}\N{\fnTahoma\fs13\3c&H400000&}Where's your brother?{\r}
+Dialogue: 0,1:54:24.36,1:54:26.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在那边，在那边{\r}\N{\fnTahoma\fs13\3c&H400000&}Over there.{\r}
+Dialogue: 0,1:54:40.40,1:54:41.23,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿爸{\r}\N{\fnTahoma\fs13\3c&H400000&}Dad,{\r}
+Dialogue: 0,1:54:41.36,1:54:42.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信在那里{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin's there.{\r}
+Dialogue: 0,1:54:43.12,1:54:43.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你把我挡住了{\r}\N{\fnTahoma\fs13\3c&H400000&}You're in my way.{\r}
+Dialogue: 0,1:54:43.88,1:54:45.10,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我怎么看{\r}\N{\fnTahoma\fs13\3c&H400000&}I can't see.{\r}
+Dialogue: 0,1:54:46.12,1:54:46.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}在哪{\r}\N{\fnTahoma\fs13\3c&H400000&}Where is he?{\r}
+Dialogue: 0,1:54:46.48,1:54:48.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}第一位登场的选手是{\r}\N{\fnTahoma\fs13\3c&H400000&}Our first contestant is from{\r}
+Dialogue: 0,1:54:48.56,1:54:52.18,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}中华台北何正树{\r}\N{\fnTahoma\fs13\3c&H400000&}Chinese Taipei, Ho Zheng-Shu.{\r}
+Dialogue: 0,1:55:24.00,1:55:25.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}水啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice!{\r}
+Dialogue: 0,1:55:39.96,1:55:41.02,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}水喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Nice!{\r}
+Dialogue: 0,1:55:41.20,1:55:42.18,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}9.5\NYou got 9.5.{\r}
+Dialogue: 0,1:55:43.44,1:55:45.03,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}现在恭喜还太早{\r}\N{\fnTahoma\fs13\3c&H400000&}It's too early to congratulate me.{\r}
+Dialogue: 0,1:55:45.52,1:55:46.66,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还没有跳\NYou haven鈥檛 jumped yet.{\r}
+Dialogue: 0,1:55:49.20,1:55:50.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我又不一定赢得了你{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't think I can get higher point than you.{\r}
+Dialogue: 0,1:55:55.28,1:55:56.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我现在终于知道{\r}\N{\fnTahoma\fs13\3c&H400000&}I finally know that{\r}
+Dialogue: 0,1:55:58.48,1:56:00.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}要嬴别人很容易{\r}\N{\fnTahoma\fs13\3c&H400000&}it's easy to surpass others.{\r}
+Dialogue: 0,1:56:04.44,1:56:06.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}最难的是嬴自己{\r}\N{\fnTahoma\fs13\3c&H400000&}What's difficult is to top oneself.{\r}
+Dialogue: 0,1:56:19.44,1:56:20.99,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}站在选手立场{\r}\N{\fnTahoma\fs13\3c&H400000&}As a contestant,{\r}
+Dialogue: 0,1:56:22.20,1:56:23.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我不希望你嬴{\r}\N{\fnTahoma\fs13\3c&H400000&}I don't want you to win.{\r}
+Dialogue: 0,1:56:26.04,1:56:27.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}但站在朋友立场{\r}\N{\fnTahoma\fs13\3c&H400000&}But as a friend, I hope{\r}
+Dialogue: 0,1:56:29.40,1:56:31.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我希望你嬴{\r}\N{\fnTahoma\fs13\3c&H400000&}you have the best performance.{\r}
+Dialogue: 0,1:56:57.44,1:56:58.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}华生电信您好{\r}\N{\fnTahoma\fs13\3c&H400000&}This is Huasheng Telecom.{\r}
+Dialogue: 0,1:56:58.44,1:57:00.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您的CALL机密码是{\r}\N{\fnTahoma\fs13\3c&H400000&}May I have your pager password?{\r}
+Dialogue: 0,1:57:00.40,1:57:01.31,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}168\N168{\r}
+Dialogue: 0,1:57:03.24,1:57:04.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你是{\r}\N{\fnTahoma\fs13\3c&H400000&}You're not{\r}
+Dialogue: 0,1:57:06.56,1:57:08.43,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}之前那位电话秘书咧{\r}\N{\fnTahoma\fs13\3c&H400000&}What happen to the previous girl?{\r}
+Dialogue: 0,1:57:08.56,1:57:10.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}您说599吗{\r}\N{\fnTahoma\fs13\3c&H400000&}You mean 599?{\r}
+Dialogue: 0,1:57:10.28,1:57:11.26,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}她离职啰{\r}\N{\fnTahoma\fs13\3c&H400000&}She has quit.{\r}
+Dialogue: 0,1:57:12.44,1:57:13.66,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}599\N599{\r}
+Dialogue: 0,1:57:15.28,1:57:17.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您是林先生吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you Mr. Lin?{\r}
+Dialogue: 0,1:57:19.08,1:57:20.11,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我是{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes, I am.{\r}
+Dialogue: 0,1:57:20.72,1:57:22.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}599有留言给您{\r}\N{\fnTahoma\fs13\3c&H400000&}599 left you a message.{\r}
+Dialogue: 0,1:57:22.44,1:57:24.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}请问您要听吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you want to hear it?{\r}
+Dialogue: 0,1:57:25.08,1:57:26.19,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}好{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes.{\r}
+Dialogue: 0,1:57:28.64,1:57:29.70,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin,{\r}
+Dialogue: 0,1:57:33.48,1:57:35.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}很高兴认识你{\r}\N{\fnTahoma\fs13\3c&H400000&}it's nice to know you.{\r}
+Dialogue: 0,1:57:36.48,1:57:37.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}因为你{\r}\N{\fnTahoma\fs13\3c&H400000&}Because of you{\r}
+Dialogue: 0,1:57:38.32,1:57:40.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我才下定决心辞职{\r}\N{\fnTahoma\fs13\3c&H400000&}I made up my mind to quit my job.{\r}
+Dialogue: 0,1:57:46.40,1:57:48.35,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我对你有很深的期待{\r}\N{\fnTahoma\fs13\3c&H400000&}I have great expectation about you.{\r}
+Dialogue: 0,1:57:49.80,1:57:51.79,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你不只是为了自己奋斗{\r}\N{\fnTahoma\fs13\3c&H400000&}You fight not only for yourself,{\r}
+Dialogue: 0,1:57:52.64,1:57:55.39,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}也是替那些曾经有梦想的人奋斗{\r}\N{\fnTahoma\fs13\3c&H400000&}but for those who once had dreams.{\r}
+Dialogue: 0,1:58:02.32,1:58:04.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你还记不记得{\r}\N{\fnTahoma\fs13\3c&H400000&}Do you still remember{\r}
+Dialogue: 0,1:58:05.12,1:58:07.15,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}599曾经留言给你{\r}\N{\fnTahoma\fs13\3c&H400000&}that message from 599?{\r}
+Dialogue: 0,1:58:08.28,1:58:09.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}她说{\r}\N{\fnTahoma\fs13\3c&H400000&}She said:{\r}
+Dialogue: 0,1:58:10.32,1:58:11.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}如果你还有梦{\r}\N{\fnTahoma\fs13\3c&H400000&}If you still have a dream,{\r}
+Dialogue: 0,1:58:12.16,1:58:13.63,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}就该勇敢去追{\r}\N{\fnTahoma\fs13\3c&H400000&}then go for it bravely.{\r}
+Dialogue: 0,1:58:16.56,1:58:17.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}我记得{\r}\N{\fnTahoma\fs13\3c&H400000&}I remember.{\r}
+Dialogue: 0,1:58:18.52,1:58:19.50,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}嗯{\r}\N{\fnTahoma\fs13\3c&H400000&}Yes.{\r}
+Dialogue: 0,1:58:20.16,1:58:22.27,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}599也要勇敢去追梦了{\r}\N{\fnTahoma\fs13\3c&H400000&}599 is going after her dream now.{\r}
+Dialogue: 0,1:59:01.40,1:59:02.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Go for it.{\r}
+Dialogue: 0,1:59:13.84,1:59:19.31,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}接下来登场的是中华台北选手 林育信{\r}\N{\fnTahoma\fs13\3c&H400000&}The next contestant is from Chinese Taipei, Lin Yu-shin.{\r}
+Dialogue: 0,1:59:32.16,1:59:33.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}阿信{\r}\N{\fnTahoma\fs13\3c&H400000&}Ashin!{\r}
+Dialogue: 0,2:00:28.64,2:00:29.38,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥款 {\r}\N{\fnTahoma\fs13\3c&H400000&}What's up?{\r}
+Dialogue: 0,2:02:52.49,2:02:58.00,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}1978 Ashin with his dad and younger brother.{\r}
+Dialogue: 0,2:03:00.44,2:03:04.82,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}1980 Ashin learnt gymnastic leg-lift.{\r}
+Dialogue: 0,2:03:12.98,2:03:17.05,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}1983 Ashin won the first Vault Gold Medal.{\r}
+Dialogue: 0,2:00:32.38,2:00:33.38,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}1987 Ashin became a gangster.{\r}
+Dialogue: 0,2:03:19.59,2:03:25.06,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}1994 Like a black horse, as soon as Ashin returned to gymnastic world,{\r}
+Dialogue: 0,2:03:28.16,2:03:33.11,Default,,0000,0000,0000,,{\fnTahoma\fs13\3c&H400000&}he won the National Golden Medal in Vault and Floor Exercise.{\r}
+Dialogue: 0,2:03:47.38,2:03:48.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啥款{\r}\N{\fnTahoma\fs13\3c&H400000&}How's that?{\r}
+Dialogue: 0,2:03:50.96,2:03:53.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}眼睛不用张那么大{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't be so surprised.{\r}
+Dialogue: 0,2:03:54.76,2:03:56.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}千真万确{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't doubt,{\r}
+Dialogue: 0,2:03:56.56,2:03:58.67,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}这个人就是我{\r}\N{\fnTahoma\fs13\3c&H400000&}that's me.{\r}
+Dialogue: 0,2:04:09.04,2:04:11.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}原来交朋友是这种感觉{\r}\N{\fnTahoma\fs13\3c&H400000&}So that's what friends are like.{\r}
+Dialogue: 0,2:04:17.20,2:04:19.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶那你球棒可以还我吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Can I have my bat back?{\r}
+Dialogue: 0,2:04:29.04,2:04:30.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}诶你要不要跳啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Are you going to jump or not?{\r}
+Dialogue: 0,2:04:30.80,2:04:32.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}站在那边站那么久{\r}\N{\fnTahoma\fs13\3c&H400000&}You've been standing there for so long.{\r}
+Dialogue: 0,2:04:34.60,2:04:35.47,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你练那么久{\r}\N{\fnTahoma\fs13\3c&H400000&}You've practiced for so long.{\r}
+Dialogue: 0,2:04:35.56,2:04:36.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还没准备好喔{\r}\N{\fnTahoma\fs13\3c&H400000&}Aren't you ready for this?{\r}
+Dialogue: 0,2:04:39.76,2:04:40.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}还没～{\r}\N{\fnTahoma\fs13\3c&H400000&}Not yet.{\r}
+Dialogue: 0,2:04:40.96,2:04:43.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}体操选手不是随时都要准备好吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Gymnast should always be ready.{\r}
+Dialogue: 0,2:04:43.72,2:04:45.07,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}不管什么时候都可以上{\r}\N{\fnTahoma\fs13\3c&H400000&}You can do your moves at anytime.{\r}
+Dialogue: 0,2:04:45.20,2:04:46.71,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}你忘记了吗{\r}\N{\fnTahoma\fs13\3c&H400000&}Don't you remember?{\r}
+Dialogue: 0,2:04:49.24,2:04:50.51,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}冲过来{\r}\N{\fnTahoma\fs13\3c&H400000&}Come on.{\r}
+Dialogue: 0,2:04:50.64,2:04:51.62,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Go for this!{\r}
+Dialogue: 0,2:04:55.08,2:04:56.55,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}加油{\r}\N{\fnTahoma\fs13\3c&H400000&}Go!{\r}
+Dialogue: 0,2:05:02.64,2:05:04.59,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}啊{\r}\N{\fnTahoma\fs13\3c&H400000&}Ah!{\r}
+Dialogue: 0,2:05:07.12,2:05:08.87,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，快来救我啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, come to help me!{\r}
+Dialogue: 0,2:05:08.96,2:05:10.75,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥，快来啦{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother, hurry up!{\r}
+Dialogue: 0,2:05:10.84,2:05:11.95,Default,,0000,0000,0000,,{fs17\3c&HFF8000&}哥{\r}\N{\fnTahoma\fs13\3c&H400000&}Brother!{\r}

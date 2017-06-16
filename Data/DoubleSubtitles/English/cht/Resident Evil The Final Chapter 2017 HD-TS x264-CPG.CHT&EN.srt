@@ -1,0 +1,3284 @@
+﻿1
+00:00:56,490 --> 00:00:58,780
+人們說歷史由勝利者書寫
+They say that history is written by the victors.
+
+2
+00:00:59,500 --> 00:01:02,990
+如今的歷史則由保護傘公司書寫
+This then, is the history of the Umbrella Corporation.
+
+3
+00:01:03,450 --> 00:01:06,900
+科學運動家、教授詹姆斯·馬庫斯組建了該公司
+Formed by crusading scientist, Professor James Marcus.
+
+4
+00:01:06,940 --> 00:01:10,540
+馬庫斯小女兒愛麗莎患有早衰癥
+Marcus had a young daughter, Alicia, afflicted with progeria,
+
+5
+00:01:10,570 --> 00:01:12,920
+一種漸進性致命的消耗性疾病
+a progressive, fatal, wasting disease.
+
+6
+00:01:13,080 --> 00:01:15,210
+能導致過早老化
+Progeria caused premature aging.
+
+7
+00:01:15,250 --> 00:01:19,970
+當她25歲時 已經是90歲的體質
+By the time she was 25, Alicia would have the body of a 90 year old.
+
+8
+00:01:20,630 --> 00:01:22,520
+馬庫斯竭盡全力解救她
+Marcus was driven to save her.
+
+9
+00:01:22,560 --> 00:01:24,830
+但希望渺茫
+But the odds seemed impossible.
+
+10
+00:01:24,860 --> 00:01:27,690
+儘管拚命發明解藥
+And even as he worked desperately to create a cure,
+
+11
+00:01:27,720 --> 00:01:30,400
+這位父親會錄下女兒的聲音
+the young girl's father would record his daughter,
+
+12
+00:01:30,440 --> 00:01:34,180
+記錄她的外貌 用來延續後代
+her voice, her likeness, saving her for posterity.
+
+13
+00:01:36,440 --> 00:01:39,590
+接著迎來了大突破 馬庫斯發現了T病毒
+But then a breakthrough came. Marcus discovered the T-Virus.
+
+14
+00:01:39,630 --> 00:01:43,300
+一經注射 它將探測並修復體內的壞細胞
+Once injected, it would detect and repair damaged cells within the body.
+
+15
+00:01:43,340 --> 00:01:45,040
+那是個奇跡
+It was a miracle.
+
+16
+00:01:45,610 --> 00:01:49,780
+愛麗莎被救活
+The life of Alicia Marcus was saved.
+
+17
+00:01:50,570 --> 00:01:55,200
+T病毒有無數用途 可治療上千種疾病
+The T-Virus had a myriad of applications, treating a thousand different diseases.
+
+18
+00:01:55,230 --> 00:01:58,140
+那夜 似乎沒有感染、疾病和衰老的
+Overnight, it seemed a new era was dawning.
+
+19
+00:01:58,180 --> 00:02:02,430
+新世紀將要來臨
+A world without the fear of infection, sickness or decay.
+
+20
+00:02:03,980 --> 00:02:05,770
+但事實並非如此
+But it was not to be.
+
+21
+00:02:05,780 --> 00:02:09,460
+T病毒的確有副作用 但難以預測
+For the T-Virus had certain, unforeseen side effects.
+
+22
+00:02:19,700 --> 00:02:21,400
+先生們 快過來
+Sir, sir, over here!
+
+23
+00:02:25,920 --> 00:02:27,620
+沒有呼吸了
+He's not breathing.
+
+24
+00:02:55,250 --> 00:02:57,370
+第一批不死者誕生
+The first of the undead was born.
+
+25
+00:02:58,120 --> 00:02:59,990
+這件事被迅速掩蓋
+The incident was quickly covered up.
+
+26
+00:03:00,020 --> 00:03:04,010
+結果 馬庫斯與他的商業夥伴亞歷山大·艾薩克博士
+In the aftermath, James Marcus argued furiously with his business partner,
+
+27
+00:03:04,050 --> 00:03:06,240
+發生激勵爭吵
+Dr. Alexander Isaacs.
+
+28
+00:03:06,270 --> 00:03:09,960
+不管花費多少 計劃必須終止
+I don't care how much it costs. We have to close the program down.
+
+29
+00:03:09,990 --> 00:03:14,190
+- 詹姆斯 我們會破產 - 我意已決
+- James, we're gonna be ruined. - My mind is made up.
+
+30
+00:03:16,530 --> 00:03:18,230
+真遺憾
+Pity.
+
+31
+00:03:29,200 --> 00:03:32,950
+回去睡覺 愛麗莎  我只是跟你父親談談
+Off to bed, Alicia. Your father and I are just talking.
+
+32
+00:03:34,680 --> 00:03:36,380
+回去吧
+Go on.
+
+33
+00:03:44,560 --> 00:03:47,430
+艾薩克博士成為死去夥伴的女兒的監護人
+Dr. Isaacs became the guardian of his dead partner's child.
+
+34
+00:03:47,460 --> 00:03:49,720
+也擁有了屬於她的股權
+And her half of the company.
+
+35
+00:03:50,750 --> 00:03:53,930
+以崇高理想開始的公司
+The corporation that had begun with such lofty ideals,
+
+36
+00:03:54,180 --> 00:03:57,340
+已因貪婪和霸權而墮落
+had been seduced completely by greed, and power.
+
+37
+00:03:59,600 --> 00:04:03,120
+為協助管理保護傘公司的巨額利益
+To help him control the now vast interests of the Umbrella Corporation,
+
+38
+00:04:03,990 --> 00:04:07,070
+艾薩克博士創造了強大的人工智能
+Dr. Isaacs created a powerful artificial intelligence.
+
+39
+00:04:08,290 --> 00:04:11,650
+艾薩克用愛麗莎的肖像作為計算機的界面
+Isaacs used the likeness of Alicia Marcus for the computer's interface.
+
+40
+00:04:12,890 --> 00:04:16,030
+命名為紅後
+Isaacs called the computer The Red Queen.
+
+41
+00:04:18,500 --> 00:04:22,250
+十年前 浣熊市暴發疫情
+Then, 10 years ago in Raccoon City, there was an outbreak.
+
+42
+00:04:22,280 --> 00:04:26,220
+T病毒從名為「蜂窩」的地下實驗室洩漏
+The T-virus escaped from an underground laboratory called The Hive.
+
+43
+00:04:26,650 --> 00:04:30,940
+美國政府試圖引爆炸彈控制其蔓延
+The American government attempted to contain the outbreak by detonating a bomb.
+
+44
+00:04:30,970 --> 00:04:32,730
+毀滅了浣熊市
+It devastated Raccoon City.
+
+45
+00:04:33,110 --> 00:04:35,680
+但阻擋不了風媒傳染
+But it couldn't stop the airborne infection.
+
+46
+00:04:35,710 --> 00:04:38,990
+病毒於數日內傳遍全球
+The viral outbreak spread across the world within days.
+
+47
+00:04:39,660 --> 00:04:42,060
+人類屈服了
+Humankind was brought to its knees.
+
+48
+00:04:42,970 --> 00:04:45,690
+最終 人類最後的、也是最美好的希望
+Finally, the last and best hope of humanity,
+
+49
+00:04:46,210 --> 00:04:49,530
+聚集在華盛頓 進行最後一搏
+gathered and took a last stand in Washington DC.
+
+50
+00:04:49,840 --> 00:04:52,490
+但沒人料到我們正踏入的
+But we didn't realize that what we had walked into...
+
+51
+00:04:52,990 --> 00:04:57,030
+是個陷阱 我叫愛麗絲 這是我的故事
+Was a trap. My name is Alice. And this is my story.
+
+52
+00:04:57,630 --> 00:04:59,770
+我講完了
+The end of my story.
+
+53
+00:05:03,070 --> 00:05:05,600
+生化危機：終章
+
+54
+00:07:31,890 --> 00:07:33,590
+快點啊
+Come on!
+
+55
+00:11:11,360 --> 00:11:13,060
+有人嗎
+Hello?
+
+56
+00:11:25,750 --> 00:11:27,610
+有人活著嗎
+Is there anyone alive in here?
+
+57
+00:11:37,960 --> 00:11:39,660
+有人嗎
+Hello?
+
+58
+00:12:51,170 --> 00:12:53,660
+- 你是來這幸災樂禍的嗎 - 我的衛星顯示
+- You come here to gloat? - My satellites show
+
+59
+00:12:53,700 --> 00:12:58,390
+地表剩餘4472人
+there are 4,472 humans remaining on the surface of the Earth.
+
+60
+00:12:58,540 --> 00:13:01,930
+48小時內 他們將滅絕
+They will cease to exist in under 48 hours.
+
+61
+00:13:02,390 --> 00:13:04,100
+你想怎樣
+What do you want from me?
+
+62
+00:13:04,220 --> 00:13:05,920
+是想讓我投降嗎
+Want me to say that you've won?
+
+63
+00:13:06,280 --> 00:13:09,080
+- 你清除了人類 - 不 恰恰相反
+- You've wiped out humanity. - No. Quite the opposite.
+
+64
+00:13:09,260 --> 00:13:13,570
+我要你阻止我
+I want you to stop me.
+
+65
+00:13:14,400 --> 00:13:16,100
+注意後面
+Behind you.
+
+66
+00:13:27,690 --> 00:13:30,380
+- 幹得好 - 我不相信你
+- Nicely done. - I don't trust you.
+
+67
+00:13:30,420 --> 00:13:33,440
+鑒於歷史 我早已料到你不答應
+Given our history, I'd be surpirised if you did.
+
+68
+00:13:33,480 --> 00:13:36,470
+但如果你不干預 人類會被全部消滅
+But unless you intervene, the slaughter will be complete.
+
+69
+00:13:36,500 --> 00:13:39,860
+- 將無人倖存 - 我要怎麼幫忙
+- There will be no survivors. - How can I possibly help them?
+
+70
+00:13:39,890 --> 00:13:43,220
+保護傘開發出風媒的抗毒素
+Umbrella developed an airborne antivirus.
+
+71
+00:13:44,700 --> 00:13:50,180
+釋放後會消滅T病毒和被接觸感染的一切
+If released, it would destroy the T-Virus and anything it has infected on contact.
+
+72
+00:13:50,620 --> 00:13:53,270
+- 管用嗎 - 保證
+- All this could end? - Precisely.
+
+73
+00:13:53,390 --> 00:13:58,080
+- 抗毒素在哪裏 - 浣熊市地下的蜂窩裏
+- Where is this antivirus? - Beneath the streets of Raccoon City, in the Hive.
+
+74
+00:13:58,270 --> 00:14:01,540
+- 你為什麼要幫我 - 我的程序編製不允許我損害
+- Why would you help me? - My programming will not allow me to harm
+
+75
+00:14:01,550 --> 00:14:06,390
+保護傘公司的利益 但你沒有這種限制
+the Umbrella Corporation. But you are bound by no such constraints.
+
+76
+00:14:06,420 --> 00:14:10,880
+你要背叛保護傘 還有你的創造者？ 為什麼？
+You'd turn against Umbrella? Against the people who created you? Why?
+
+77
+00:14:11,110 --> 00:14:15,570
+在48小時內抵達浣熊市 進入蜂窩
+Get to Raccoon City in 48 hours. Make it to the Hive.
+
+78
+00:14:15,650 --> 00:14:17,790
+你將找到答案
+And then you'll have your answer.
+
+79
+00:14:17,970 --> 00:14:20,170
+我一個字也不相信
+I have no reason to believe a word you say.
+
+80
+00:14:20,210 --> 00:14:24,010
+是真的 我能提供你非常想要的東西
+True. But I can offer you something you want very much.
+
+81
+00:14:24,040 --> 00:14:27,740
+- 那是什麼 - 復仇 威斯克
+- What is that? - Revenge. Wesker.
+
+82
+00:14:24,040 --> 00:14:27,740
+原傘公司研究員
+
+83
+00:14:27,880 --> 00:14:32,830
+他引你去華盛頓 他要還給你你的力量
+He led you all here to Washington. He pretended to give you your powers back.
+
+84
+00:14:32,860 --> 00:14:35,530
+接著 他背叛了你
+And then, he betrayed you.
+
+85
+00:14:36,040 --> 00:14:37,750
+他在哪裏
+Where is he?
+
+86
+00:14:37,750 --> 00:14:41,530
+他剛到蜂窩 我將重制你的手錶
+He just landed at the Hive. I'm resetting your watch.
+
+87
+00:14:44,270 --> 00:14:45,970
+時間緊迫
+The clock is ticking.
+
+88
+00:14:48,960 --> 00:14:50,660
+愛麗絲
+Alice.
+
+89
+00:14:51,260 --> 00:14:54,100
+十年前在蜂窩 我們都失敗了
+Ten years ago in the Hive, we both failed.
+
+90
+00:14:54,680 --> 00:14:56,380
+造成這個狀況
+We let this happen.
+
+91
+00:14:57,290 --> 00:14:58,990
+不要重蹈覆轍
+Make it right.
+
+92
+00:17:18,060 --> 00:17:19,760
+你就這點本事？
+Is that all you got?
+
+93
+00:18:08,000 --> 00:18:09,260
+未授權用戶
+
+94
+00:18:16,530 --> 00:18:18,230
+愛麗絲
+Alice.
+
+95
+00:18:22,210 --> 00:18:25,360
+十年前在蜂窩 將無人倖存
+10 years ago in the Hive... There will be no survivors...
+
+96
+00:18:40,270 --> 00:18:41,970
+這是什麼地方
+What is this place?
+
+97
+00:18:42,760 --> 00:18:45,330
+我在哪裏 回答我
+Where am I? Answer me!
+
+98
+00:18:46,050 --> 00:18:49,650
+- 你怎麼了？誰幹的？ - 閉嘴 安靜
+- What's wrong with you? Who did this? - Be quiet. Quiet!
+
+99
+00:18:49,760 --> 00:18:51,460
+我跟你說過…
+I told you...
+
+100
+00:18:59,300 --> 00:19:01,000
+安靜
+Silence.
+
+101
+00:19:07,910 --> 00:19:10,210
+你還是醒了
+So you're awake at last.
+
+102
+00:19:10,400 --> 00:19:14,280
+- 我殺死了你 - 這不還活著嗎
+- I killed you. - Yet here I am.
+
+103
+00:19:14,360 --> 00:19:16,060
+克隆體…
+A clone...
+
+104
+00:19:16,140 --> 00:19:20,280
+- 我殺死了你的克隆體 - 我最棘手的便是
+- I killed your clone. - You've been most troublesome to me.
+
+105
+00:19:20,310 --> 00:19:23,120
+你和你的姐妹
+You and your sisters.
+
+106
+00:19:27,930 --> 00:19:29,820
+現在你們在我手上
+And now I have you.
+
+107
+00:19:32,510 --> 00:19:35,470
+清洗行動本應在一年前結束
+The cleansing operation should've finished over a year ago,
+
+108
+00:19:35,470 --> 00:19:37,170
+但你們拖了後腿
+but you slowed us down.
+
+109
+00:19:37,420 --> 00:19:40,840
+這樣以至於我不得不親自控制
+So much so, that I was obliged to take command myself.
+
+110
+00:19:40,880 --> 00:19:43,180
+你可以結束這一切
+You  could end all of this.
+
+111
+00:19:43,490 --> 00:19:45,350
+為什麼不呢
+Why don't you?
+
+112
+00:19:45,390 --> 00:19:47,090
+有趣
+Interesting.
+
+113
+00:19:49,350 --> 00:19:52,000
+有人跟你說了 是吧
+Someone told you something, didn't they?
+
+114
+00:19:55,210 --> 00:19:59,360
+哦 你很快就會告訴我了
+Oh, well, you'll be begging to tell me soon enough.
+
+115
+00:20:01,110 --> 00:20:02,900
+她不可輕信
+She's an unbeliever.
+
+116
+00:20:03,580 --> 00:20:06,410
+我們怎麼處置不輕信者
+What do we do with unbelievers?
+
+117
+00:20:07,000 --> 00:20:09,430
+趕走她
+Cast her out!
+
+118
+00:20:09,450 --> 00:20:14,540
+趕走她 趕走她
+Cast her out! Cast her out!
+
+119
+00:20:14,730 --> 00:20:19,850
+- 拜託 - 趕走她
+- Come on! - Cast her out!
+
+120
+00:20:20,280 --> 00:20:24,720
+趕走她
+Cast her out!
+
+121
+00:21:10,840 --> 00:21:14,000
+上帝使洪水氾濫 清洗地球
+God created a flood to cleanse the Earth.
+
+122
+00:21:15,000 --> 00:21:19,310
+降雨四十晝夜 我們的方法要更長時間
+40 days and 40 nights of rain. Our method is taking a little longer,
+
+123
+00:21:19,350 --> 00:21:21,220
+但殊途同歸
+but the result will be the same.
+
+124
+00:21:21,410 --> 00:21:25,530
+正義和純粹將繼承這個世界
+A world ready for the righteous and the pure to inherit.
+
+125
+00:21:29,590 --> 00:21:33,580
+再過半天多時間 我們就到浣熊市了
+We reach Raccoon City in just over 12 hours.
+
+126
+00:21:35,820 --> 00:21:38,720
+我想你跑不了那麼長時間
+I doubt even you can run for that long.
+
+127
+00:21:39,130 --> 00:21:41,570
+我要知道你知道什麼事
+I want to know what you know.
+
+128
+00:21:43,030 --> 00:21:45,230
+她要開口時告訴我
+Tell me when she's ready to talk.
+
+129
+00:21:54,990 --> 00:21:57,550
+- 威斯克 - 艾薩克博士
+- Wesker. - Dr. Isaacs.
+
+130
+00:21:58,590 --> 00:22:01,140
+看我在路邊發現了什麼
+Look what I found on the roadside.
+
+131
+00:22:03,150 --> 00:22:07,220
+看來你在華盛頓的使命沒你想像的出色
+It would appear your mission to Washington was less successful than you made out.
+
+132
+00:22:07,250 --> 00:22:10,460
+- 不可能 - 希望你沒漏下其他的小問題
+- Impossible. - I hope you didn't leave any other loose ends.
+
+133
+00:22:11,420 --> 00:22:17,070
+還有一點 我覺得她知道風媒抗毒素的事
+There's something else. I think she knows about the airborne antivirus.
+
+134
+00:22:17,110 --> 00:22:20,430
+- 怎麼可能 - 目前我也不清楚
+- How can that be? - I don't know. Yet.
+
+135
+00:22:20,510 --> 00:22:24,760
+但是我們在前往浣熊市的路上逮住了她 她還有什麼理由要去那裏
+But we caught her on the road to Raccoon City. Why else would she be headed there?
+
+136
+00:22:25,390 --> 00:22:28,190
+將蜂窩的安保級別調至最高
+Raise the security level at the Hive to maximum.
+
+137
+00:22:28,220 --> 00:22:31,530
+任何人嚴禁出入 當她開口時我會告知你
+No one in or out. I'll let you know when she talks.
+
+138
+00:22:31,700 --> 00:22:33,470
+上帝與你同在
+God go with you.
+
+139
+00:22:35,360 --> 00:22:39,690
+- 聽見沒 安保級別調至最高 - 遵命
+- You heard him. Security level to maximum. - As you wish.
+
+140
+00:23:05,290 --> 00:23:07,760
+上去看看怎麼回事
+Get up there and check it out.
+
+141
+00:24:26,370 --> 00:24:28,070
+放開我
+Release me!
+
+142
+00:24:29,100 --> 00:24:30,950
+- 打開它們 - 好的
+- Open them. - Alright.
+
+143
+00:24:30,990 --> 00:24:32,820
+好的
+Alright.
+
+144
+00:25:12,250 --> 00:25:15,530
+你不能用它 你逃不掉的
+You can't use it. You can't escape!
+
+145
+00:25:28,690 --> 00:25:30,390
+幹掉她
+Fire at her!
+
+146
+00:26:35,300 --> 00:26:37,480
+老天
+Jesus!
+
+147
+00:26:43,730 --> 00:26:45,910
+長官
+Sir.
+
+148
+00:26:46,450 --> 00:26:48,150
+她逃跑了
+She's gone.
+
+149
+00:27:08,660 --> 00:27:11,620
+目標116千米 正在接近
+Target is 72 miles and closing.
+
+150
+00:27:11,670 --> 00:27:15,050
+封鎖蜂窩 準備防禦
+Lockdown the Hive. Prepare defensive measures.
+
+151
+00:27:15,390 --> 00:27:17,820
+讓浣熊市的線人保持警惕
+And alert our operative in Raccoon City.
+
+152
+00:27:22,220 --> 00:27:25,820
+歡迎來到浣熊市
+保護傘之家
+
+153
+00:27:50,480 --> 00:27:52,500
+歡迎回來
+Welcome home.
+
+154
+00:28:28,180 --> 00:28:30,350
+風媒抗毒素…
+Airborne antivirus...
+
+155
+00:28:30,740 --> 00:28:32,780
+48小時…
+48 hours...
+
+156
+00:28:32,800 --> 00:28:35,460
+找到蜂窩
+Make it to the Hive.
+
+157
+00:28:43,990 --> 00:28:46,050
+放開他 快放開他
+Let him go! Let him go now!
+
+158
+00:28:46,140 --> 00:28:47,990
+放下槍 不然我們開槍了
+Put it down or we'll shoot!
+
+159
+00:28:48,660 --> 00:28:51,910
+- 我說過 多克 我說過你錯了 - 冷靜點 克裏斯琴
+- I told you, Doc! I told you you were wrong! - Calm down, Christian!
+
+160
+00:28:51,910 --> 00:28:54,810
+我們應該抓住機會殺了她
+We should've killed her when we had the chance!
+
+161
+00:28:54,840 --> 00:28:58,500
+- 拜託在他殺死我們倆之前放下它 - 裏面是什麼
+- Put it down, please. Before he tries to shoot the both of us. - What's in this?
+
+162
+00:28:58,500 --> 00:29:01,520
+- 純腎上腺素 我要你清醒 - 為什麼
+- Pure adrenaline. I needed you awake. - Why?
+
+163
+00:29:01,550 --> 00:29:04,530
+有東西進來 從你來的那個方向 是個大傢伙
+There's something coming. In the same direction you came in. Something big.
+
+164
+00:29:04,540 --> 00:29:07,590
+放開他 放下槍 現在
+Let him go! Put it down, now!
+
+165
+00:29:09,790 --> 00:29:11,490
+愛麗絲
+Alice.
+
+166
+00:29:18,220 --> 00:29:20,290
+保護傘在阿卡迪亞抓了我
+Umbrella captured me at the Arcadia.
+
+167
+00:29:20,520 --> 00:29:22,530
+我們朝叫做蜂窩的地方行進
+We were headed somewhere called the Hive.
+
+168
+00:29:22,610 --> 00:29:25,210
+鬆綁 殺掉飛行員 在這裏墜毀
+Got loose, killed the pilot. Crashed here.
+
+169
+00:29:25,660 --> 00:29:27,920
+多克他們把我從廢墟拖出來
+Doc and the others pulled me from the crash.
+
+170
+00:29:28,290 --> 00:29:31,520
+- 我欠他們一條命 - 多克
+- I owe them my life. - Doc!
+
+171
+00:29:31,600 --> 00:29:33,300
+從那裏往東
+There, to the east.
+
+172
+00:29:33,800 --> 00:29:35,630
+它還是往我們這裏來
+It's still headed our way.
+
+173
+00:29:36,740 --> 00:29:38,440
+你知道是什麼東西嗎
+You know what it is?
+
+174
+00:29:39,120 --> 00:29:41,520
+保護傘 艾薩克博士
+Umbrella. Doctor Isaacs.
+
+175
+00:29:41,560 --> 00:29:43,560
+我以為你殺了他
+I thought that you killed him.
+
+176
+00:29:43,660 --> 00:29:45,390
+我也以為是
+I thought so, too.
+
+177
+00:29:45,680 --> 00:29:48,880
+他有一支喪屍軍隊 幾個鐘頭就能來這
+He has an army of undead with him. He'll be here within hours.
+
+178
+00:29:48,930 --> 00:29:51,660
+- 我們怎麼辦 - 他媽的為什麼要問她
+- What do we do? - Why the hell are we asking her?
+
+179
+00:29:52,150 --> 00:29:54,200
+她是個陌生人 我們應…
+She's a stranger. We should have...
+
+180
+00:29:54,320 --> 00:29:57,230
+- 嗨 -別碰我 多克
+- Hey, hey! - Don't you touch me, Doc!
+
+181
+00:29:57,240 --> 00:30:00,310
+- 放下槍 克裏斯琴 - 你放下槍
+- Put it down! Christian! - You put it down!
+
+182
+00:30:00,400 --> 00:30:04,080
+看著我 別以為你覺得你應該作主 就能控制一切
+Look at me. Just cause you think you should be in charge, doesn't make it so.
+
+183
+00:30:09,120 --> 00:30:13,230
+聽著 多克 你們所有人都會後悔的
+You listen to me, Doc. You're gonna regret it. All of you!
+
+184
+00:30:14,310 --> 00:30:16,010
+所有人
+All of you!
+
+185
+00:30:26,260 --> 00:30:28,320
+我必須去蜂窩了
+I have to get to the Hive.
+
+186
+00:30:28,990 --> 00:30:33,160
+- 你得把人們救出來 - 我們有孩子、傷員、老人
+- You have to get these people out of here. - We have children. Injured. The elderly.
+
+187
+00:30:33,490 --> 00:30:36,630
+- 可在大路上能有什麼生還機會 - 總比在這好
+- Now what chance do they have on the open road? - Better than they have here.
+
+188
+00:30:36,630 --> 00:30:39,920
+- 這棟建築很安全 - 可能相對於喪屍是安全的
+- This building is secure. - Maybe from the undead.
+
+189
+00:30:40,020 --> 00:30:44,430
+但是艾薩克博士有裝甲車、火箭筒和重武器
+But Isaacs has armored vehicles. Rocket launchers, heavy ordinance.
+
+190
+00:30:44,520 --> 00:30:46,910
+他們會炸平這裏
+They're gonna tear this place wide open.
+
+191
+00:30:49,360 --> 00:30:51,790
+多克
+Doc!
+
+192
+00:31:00,080 --> 00:31:01,780
+她怎麼了
+So what happened to her?
+
+193
+00:31:01,850 --> 00:31:04,520
+她引爆了我們邊界上的陷阱
+She's set off one of the traps we had on perimeter.
+
+194
+00:31:04,760 --> 00:31:06,460
+並非故意為了喪屍
+Not intended for the undead.
+
+195
+00:31:09,740 --> 00:31:12,290
+- 這是什麼 - 這間屋子的特產
+- What is this? - Specialty of the house.
+
+196
+00:31:12,330 --> 00:31:15,870
+- 能讓你立即恢復狀態 - 我為什麼要相信你
+- Have you in your feet in no time. - Why should I trust you?
+
+197
+00:31:21,110 --> 00:31:22,810
+給
+Here.
+
+198
+00:31:28,360 --> 00:31:32,270
+多克 你需要出來一趟 人們很驚慌 克裏斯琴還幫倒忙
+Doc, you need to get out there. People are scared and Christian's not helping.
+
+199
+00:31:33,280 --> 00:31:36,680
+- 要讓人們知道發生了什麼 - 好的
+- We need to let people know what's happening. - Okay.
+
+200
+00:31:37,990 --> 00:31:39,690
+我得走了
+I've got to go.
+
+201
+00:31:42,070 --> 00:31:43,770
+你朋友沒事的
+Hey. Your friend's gonna be okay.
+
+202
+00:31:44,580 --> 00:31:46,280
+謝謝
+Thank you.
+
+203
+00:31:51,600 --> 00:31:54,210
+- 你知道 我和他… - 我看出來了
+- You know, he and I... - I noticed.
+
+204
+00:31:54,640 --> 00:31:56,340
+蜂窩裏有什麼
+So what's in the Hive?
+
+205
+00:31:56,770 --> 00:31:58,480
+保護傘研發了解藥
+Umbrella developed a cure.
+
+206
+00:31:59,210 --> 00:32:01,580
+風媒的抗毒素
+An airborne antivirus.
+
+207
+00:32:01,820 --> 00:32:05,200
+它會摧毀任何與T病毒接觸的東西
+It'll destroy anything infected with the T-Virus on contact.
+
+208
+00:32:05,500 --> 00:32:08,940
+- 誰告訴你的 你相信她嗎 - 紅後
+- Who told you this? And you believed her? - The Red Queen.
+
+209
+00:32:09,980 --> 00:32:11,680
+如果我們能結束這一切呢
+What if we could end all this?
+
+210
+00:32:11,850 --> 00:32:14,850
+你怎麼辦 你也被T病毒感染了
+What about you? They infected you with the T-Virus.
+
+211
+00:32:15,960 --> 00:32:18,170
+你釋放了抗毒素 它會殺死你
+You release this antivirus, it's going to kill you.
+
+212
+00:32:18,180 --> 00:32:20,500
+- 無所謂了 - 愛麗絲 我不是…
+- Whatever it takes. - Alice, I'm not...
+
+213
+00:32:20,540 --> 00:32:22,660
+你知道我做的對
+You know I'm right.
+
+214
+00:32:25,860 --> 00:32:27,560
+好吧
+All right.
+
+215
+00:32:29,030 --> 00:32:30,870
+我們從這裏抵擋艾薩克
+We stop Isaacs here.
+
+216
+00:32:31,370 --> 00:32:33,070
+拯救這些人
+We save these people,
+
+217
+00:32:33,310 --> 00:32:35,010
+然後我們一起去
+and then we go together.
+
+218
+00:32:36,850 --> 00:32:38,920
+沒有多少時間了
+We don't have long.
+
+219
+00:32:40,660 --> 00:32:42,360
+我們開始吧
+Let's get to it.
+
+220
+00:32:56,780 --> 00:32:58,580
+你還有什麼防禦措施
+What else do you have for defense?
+
+221
+00:32:58,610 --> 00:33:01,720
+槍支不太多 有很多汽油
+Not too many firearms, we have a big supply of gasoline.
+
+222
+00:33:02,320 --> 00:33:04,020
+給 你需要武器
+Here. You need a weapon.
+
+223
+00:33:04,360 --> 00:33:06,740
+- 我們這就給她槍了 - 別擔心 克裏斯琴
+- We're giving her a gun now? - Take it easy, Christian.
+
+224
+00:33:06,970 --> 00:33:10,180
+你可以使你的守衛失望 但我沒心思
+You can let your guard down if you want, man. I don't intend to.
+
+225
+00:33:13,820 --> 00:33:16,490
+我進來的時候 有人在監視我
+When I rode in here, someone was watching me.
+
+226
+00:33:16,520 --> 00:33:19,710
+他們完全可以喊我或鳴槍示意這個陷阱 卻沒有
+They could've called out or fired a shot to warn me about the trap but they didn't.
+
+227
+00:33:20,400 --> 00:33:24,250
+- 你在說什麼 - 小心背後
+- What are you saying? - Watch your back.
+
+228
+00:33:35,220 --> 00:33:38,870
+艾薩克博士 看來她從你掌心逃脫了
+So Dr. Isaacs, it seems you let her slip through
+
+229
+00:33:38,870 --> 00:33:40,660
+不然還剩下什麼呢
+your fingers. Or what remains of them.
+
+230
+00:33:40,700 --> 00:33:43,910
+別忘了你在跟誰講話 她在哪裏
+Don't forget who you're talking to. Where is she?
+
+231
+00:33:43,940 --> 00:33:48,850
+浣熊市的一個定居點 線人說她準備開戰
+A settlement in Raccoon City. Our informant reports that she's preparing for a fight.
+
+232
+00:33:48,850 --> 00:33:51,840
+好 我很快就到
+Good. I'll be there in the hour.
+
+233
+00:34:05,740 --> 00:34:09,240
+主說：申冤在我
+羅馬書12章19節
+
+234
+00:34:17,310 --> 00:34:19,310
+就這樣 繼續
+That's it. Keep moving.
+
+235
+00:34:20,340 --> 00:34:24,020
+我們要把所有的汽油罐弄到這裏
+We need all the gasoline cans over there.
+
+236
+00:34:26,960 --> 00:34:30,300
+- 克萊爾說這是你做的 - 對啦
+- Claire said you built this. - That's right.
+
+237
+00:34:31,440 --> 00:34:33,690
+這以前是洗玻璃用的
+This used to be a window washer.
+
+238
+00:34:34,590 --> 00:34:37,530
+- 我改裝了一下 - 你從哪裏學到這個的？
+- I made a couple of changes. - Where did you learn to do that?
+
+239
+00:34:37,610 --> 00:34:41,050
+我父親開過拆車廠 我不喜歡
+My father used to run a chop shop. I hated it.
+
+240
+00:34:37,610 --> 00:34:41,050
+地下拆車廠：拆裝被盜車輛以銷贓
+
+241
+00:34:41,090 --> 00:34:44,900
+- 天知道 我猜我還是用心了 - 好啊
+- Who knew? I guess I was paying attention after all. - Good.
+
+242
+00:34:44,930 --> 00:34:48,520
+因為我要你把這東西改裝一下
+Because I'm gonna need you to make a few more changes to this thing.
+
+243
+00:35:10,830 --> 00:35:16,160
+準備武器 高爆彈 殺無赦
+Ready the weapons. High explosive rounds. No survivors.
+
+244
+00:35:28,670 --> 00:35:34,230
+他在這 他們來了 關大門
+He's here. They're coming! Close the gates!
+
+245
+00:35:51,500 --> 00:35:55,510
+老天 是個軍隊
+My God. It's an army.
+
+246
+00:36:00,300 --> 00:36:03,090
+- 我們怎麼辦 - 對啊
+- What are we gonna do? - Yeah.
+
+247
+00:36:03,260 --> 00:36:08,320
+- 我們怎麼辦 - 殺光他們
+- What are we gonna do? - We're gonna kill every last one of them.
+
+248
+00:36:19,580 --> 00:36:21,510
+準備射擊！
+Prepare to fire!
+
+249
+00:36:34,330 --> 00:36:36,030
+準備！
+Get ready!
+
+250
+00:36:38,000 --> 00:36:39,700
+點火！
+Light it up!
+
+251
+00:36:50,600 --> 00:36:53,220
+射擊！
+Fire!
+
+252
+00:37:06,280 --> 00:37:09,300
+- 該死 - 重裝
+- Damn her! - Reload.
+
+253
+00:37:10,720 --> 00:37:13,460
+靠近 停下
+Close it up. Full stop.
+
+254
+00:37:15,030 --> 00:37:16,730
+釋放誘餌
+Release the bait.
+
+255
+00:37:21,510 --> 00:37:25,040
+- 有倖存者 開門 - 打開門
+- There's a survivor. Open the gate. - Open the gate!
+
+256
+00:37:26,080 --> 00:37:29,780
+開火 別讓他們靠近她
+Open fire! Keep them off her.
+
+257
+00:37:32,710 --> 00:37:34,630
+記號2
+Marker 2!
+
+258
+00:37:37,960 --> 00:37:40,260
+開火
+Fire!
+
+259
+00:37:49,570 --> 00:37:52,490
+克萊爾、多克 快離開 帶她進來
+Claire, Doc, get out there. Bring her in.
+
+260
+00:37:58,760 --> 00:38:00,460
+快點
+Come on!
+
+261
+00:38:00,990 --> 00:38:02,690
+等等
+Wait.
+
+262
+00:38:03,490 --> 00:38:05,890
+她快到了
+She's almost there.
+
+263
+00:38:06,500 --> 00:38:08,270
+開火
+Fire.
+
+264
+00:38:09,740 --> 00:38:12,980
+該死 快關門
+Damn you. Close the gate now!
+
+265
+00:38:22,970 --> 00:38:25,350
+克萊爾 他們突破了大門
+Claire, they've breached the gate.
+
+266
+00:38:31,380 --> 00:38:33,080
+克萊爾！
+Claire!
+
+267
+00:38:41,340 --> 00:38:43,500
+開火
+Fire.
+
+268
+00:38:50,160 --> 00:38:54,870
+- 剃刀 行動！ - 是 聽見沒 推！
+- Razor, now! - Right! You heard her. Push!
+
+269
+00:39:03,310 --> 00:39:05,010
+跑啊
+Move!
+
+270
+00:39:14,910 --> 00:39:16,970
+離棄大門 回到障礙
+Abandon the gate. Pull back to the barricades.
+
+271
+00:39:17,010 --> 00:39:21,170
+看樣子她黔驢技窮了 瞄準房頂
+Looks like she's out of tricks. Target the roof.
+
+272
+00:39:23,120 --> 00:39:25,210
+所有人趴下！
+Everybody get down!
+
+273
+00:39:26,430 --> 00:39:28,130
+現在！
+Now!
+
+274
+00:39:53,560 --> 00:39:56,950
+- 愛麗絲 我們到障礙了 - 克萊爾 你拖住他們
+- Alice! We're at the barricades. - Claire, you have to hold him there.
+
+275
+00:40:30,540 --> 00:40:32,240
+多克
+Doc!
+
+276
+00:40:53,790 --> 00:40:55,920
+愛麗絲 我們堅持不了太久了
+Alice! We can't hold on much longer.
+
+277
+00:40:55,960 --> 00:40:58,510
+現在離開那裏
+Get out of there, now.
+
+278
+00:41:38,130 --> 00:41:41,280
+快撤退
+Back up. Now!
+
+279
+00:42:02,020 --> 00:42:05,160
+所有槍炮準備
+Bring all guns to bear.
+
+280
+00:42:08,510 --> 00:42:10,510
+開火
+Fire.
+
+281
+00:42:13,730 --> 00:42:15,690
+她在哪？
+Where is she?
+
+282
+00:42:16,670 --> 00:42:18,530
+她跑哪裏了
+Where have she gone?
+
+283
+00:42:20,370 --> 00:42:22,540
+找到她
+Find her.
+
+284
+00:42:28,960 --> 00:42:31,320
+關掉通風口 快
+Close the vents! Now!
+
+285
+00:42:44,170 --> 00:42:46,240
+別開槍
+Don't shoot!
+
+286
+00:43:35,970 --> 00:43:39,300
+你很矯健 卻不聰明
+You're fast, but you're not too smart.
+
+287
+00:44:13,530 --> 00:44:15,520
+- 求你了別開槍 - 他在哪裏
+- Don't shoot, please. - Where is he?
+
+288
+00:44:15,650 --> 00:44:17,820
+那裏
+That way.
+
+289
+00:44:28,760 --> 00:44:32,300
+- 省點子彈吧 - 外面還有很多
+- Save your ammo. - There's too many of these things still out here.
+
+290
+00:44:32,670 --> 00:44:35,140
+我來處理
+I'll take care of it.
+
+291
+00:44:36,710 --> 00:44:38,410
+不
+No.
+
+292
+00:44:39,430 --> 00:44:42,500
+- 行動 - 走！
+- Move out. - Let's go!
+
+293
+00:44:43,360 --> 00:44:45,160
+享受這一程
+Enjoy the ride.
+
+294
+00:45:03,580 --> 00:45:07,160
+- 各位 有個東西你們得看看 - 走
+- Guys. There's something here you gotta see. - Go.
+
+295
+00:45:07,950 --> 00:45:11,260
+兩大波喪屍 直衝我們來
+Two more armies of undead. Headed straight for us.
+
+296
+00:45:11,440 --> 00:45:13,460
+那裏 地平線上
+There. On the horizon.
+
+297
+00:45:15,630 --> 00:45:17,330
+另一波在那裏
+And a second over there.
+
+298
+00:45:19,820 --> 00:45:22,360
+我們沒有汽油了 我們沒法防禦了
+We're out of gasoline. We're defenseless.
+
+299
+00:45:23,000 --> 00:45:26,170
+我必須去蜂窩 這是我們唯一的機會
+I have to make it to the Hive. It's our only chance now.
+
+300
+00:45:26,320 --> 00:45:29,020
+- 我跟你去 - 算我一個 - 我也去
+- I'll come with you. -Count me in. - Me, too.
+
+301
+00:45:29,050 --> 00:45:33,390
+還有我 我錯怪你了 見鬼
+And me. I was wrong about you. Blow me.
+
+302
+00:45:41,000 --> 00:45:44,200
+我們知道你要踏入深淵
+We know where you're going. Into the pit.
+
+303
+00:45:45,370 --> 00:45:47,070
+我們也要去
+We want to come.
+
+304
+00:45:48,570 --> 00:45:50,270
+求你了
+Please.
+
+305
+00:45:51,060 --> 00:45:55,390
+帶著裝置 你會用到的
+Grab some gear. You're gonna need it.
+
+306
+00:46:14,810 --> 00:46:18,650
+- 那是什麼 - 蜂窩被炸開的一部分
+- What is it? - The part of the Hive exposed by the blast.
+
+307
+00:46:18,860 --> 00:46:20,630
+我們從那進去
+That's our way in.
+
+308
+00:46:39,040 --> 00:46:41,880
+- 走吧 - 我對付他
+- Let's move! - I'll take point.
+
+309
+00:47:04,980 --> 00:47:06,790
+現在激活安全措施
+Activate security measures now.
+
+310
+00:47:06,920 --> 00:47:10,990
+- 蜂窩安全完全激活並自動控制 - 不
+- Hive security fully activated and automated. - No.
+
+311
+00:47:11,590 --> 00:47:15,570
+不要自動控制 我親自操作防禦
+Disengage automation. I'll handle the defenses myself.
+
+312
+00:47:15,610 --> 00:47:19,600
+如果我保留控制權 防禦會更有效
+Defenses will be more efficient if I retain control of them.
+
+313
+00:47:20,290 --> 00:47:25,500
+真的嗎 我怎麼記得上次她從這裏活著走出去了呢
+Really? I seem to remember last time she was here she walked out alive.
+
+314
+00:47:25,900 --> 00:47:28,000
+我不打算犯同樣錯誤了
+I don't intend to make that same mistake.
+
+315
+00:47:28,010 --> 00:47:31,800
+如你所願 蜂窩的防禦現在是你的了
+As you wish. Hive defenses are now in your hands.
+
+316
+00:47:33,720 --> 00:47:39,040
+- 釋放地獄犬 - 地獄犬好戲上演
+- Unleash the cerberus. - Cerberus on play.
+
+317
+00:47:42,750 --> 00:47:48,200
+你有家人嗎？ 在這一切之前？ 丈夫？ 家人？
+Did you have someone? Before all this? Husband? Family?
+
+318
+00:47:48,800 --> 00:47:51,480
+- 不記得 - 怎麼可能？
+- Can't remember. - How is that possible?
+
+319
+00:47:51,480 --> 00:47:53,740
+我剛醒來這一切就開始了
+I woke up just when all of this was starting.
+
+320
+00:47:54,190 --> 00:47:56,180
+之前的記不起多少
+Can't recall much before that.
+
+321
+00:47:56,430 --> 00:47:58,640
+有時我感覺這就是我的一生
+Sometimes I feel like this has been my whole life.
+
+322
+00:47:59,060 --> 00:48:02,910
+逃亡 殺戮
+Running. Killing.
+
+323
+00:48:14,460 --> 00:48:17,390
+- 是什麼？ - 有東西在跟蹤我們
+- What is it? - Something's stalking us.
+
+324
+00:48:17,420 --> 00:48:21,600
+- 你確定？ - 我就是幹這個的
+- Are you sure? - This is what I do.
+
+325
+00:48:34,590 --> 00:48:36,660
+跑
+Run!
+
+326
+00:48:36,680 --> 00:48:38,480
+快跑
+Run, fast!
+
+327
+00:49:59,360 --> 00:50:01,050
+來呀
+Come on!
+
+328
+00:50:17,400 --> 00:50:19,940
+你們沒事吧
+Is everyone okay?
+
+329
+00:50:23,130 --> 00:50:25,710
+這邊
+This way!
+
+330
+00:50:40,530 --> 00:50:42,230
+就在我們身後
+Right behind us!
+
+331
+00:51:09,880 --> 00:51:11,580
+它們為什麼停下
+Why'd they stop?
+
+332
+00:51:13,880 --> 00:51:16,010
+- 也許害怕了 - 害怕什麼
+- Maybe they're scared. - Scared of what?
+
+333
+00:51:19,240 --> 00:51:20,940
+下面的東西
+Whatever's down there.
+
+334
+00:51:24,940 --> 00:51:26,340
+防爆門
+
+335
+00:51:28,180 --> 00:51:29,960
+封鎖蜂窩
+Seal the Hive.
+
+336
+00:51:29,960 --> 00:51:31,760
+整體安全度 啟動關閉序列
+
+337
+00:51:35,020 --> 00:51:36,720
+我們走
+Let's go!
+
+338
+00:51:45,420 --> 00:51:47,120
+愛麗絲
+Alice!
+
+339
+00:52:20,350 --> 00:52:22,050
+- 你還好吧 - 還好
+- You okay? - Yeah.
+
+340
+00:52:22,480 --> 00:52:25,640
+- 我子彈不多了 - 我在湖裏丟了槍
+- My mag's half empty. - Lost my guns at the lake.
+
+341
+00:52:25,660 --> 00:52:28,750
+- 我只有一發了 - 再來一發我也沒了
+- I only got one round left. - One spare mag and then I'm out.
+
+342
+00:52:28,770 --> 00:52:32,720
+沒槍沒子彈 我們為什麼還要下去
+No guns, no ammo, what the hell are we gonna do down here?
+
+343
+00:52:35,310 --> 00:52:39,120
+- 愛麗絲 有光亮的是什麼 - 受損的一部分蜂窩
+- Alice. What's with the lights? - There's a part of the Hive that's damaged.
+
+344
+00:52:39,930 --> 00:52:42,560
+- 電量不穩定 - 給 拿著
+- Power's erratic. - Here. Take this.
+
+345
+00:52:45,300 --> 00:52:47,000
+喂 看著
+Hey. Look.
+
+346
+00:52:56,110 --> 00:53:00,450
+你問過我為什麼背叛保護傘 我也許諾給你答案
+You asked why I'd turn against Umbrella. And I promised you an answer.
+
+347
+00:53:00,480 --> 00:53:02,720
+T病毒釋放後不久
+Soon after the T-Virus was released,
+
+348
+00:53:02,720 --> 00:53:06,130
+一個密件上傳至我的數據流
+a secret file was uploaded to my data stream.
+
+349
+00:53:06,170 --> 00:53:09,330
+它是保護傘領導層的會議錄像
+It was a recording of a meeting of the Umbrella High Command.
+
+350
+00:53:09,440 --> 00:53:13,280
+日期在病毒爆發的17個月前
+Dated 17 months before the viral outbreak occured.
+
+351
+00:53:13,770 --> 00:53:18,800
+我們今天在這裏 不僅僅討論公司的未來
+We're here today, not just to talk about the future of this company.
+
+352
+00:53:19,280 --> 00:53:21,410
+我們是來討論它的使命
+We're here to talk about its destiny.
+
+353
+00:53:22,530 --> 00:53:24,910
+我們是來討論世界末日的
+We're here to talk about the end of the world.
+
+354
+00:53:25,240 --> 00:53:30,480
+我們站在末日大決戰的邊緣 對於沒有解藥的疾病
+We stand on the brink of Armageddon. Diseases for which we have no cure.
+
+355
+00:53:31,150 --> 00:53:34,130
+呼籲毀滅地球的原教旨基督徒宣稱
+Fundamentalist states who call for our destruction.
+
+356
+00:53:34,160 --> 00:53:36,800
+我們無法控制核能
+Nuclear powers over which we have no control.
+
+357
+00:53:37,420 --> 00:53:39,940
+即便我們航行於危險的水面
+And even if we navigate these dangerous waters,
+
+358
+00:53:39,980 --> 00:53:43,100
+我們會面臨嚴峻的、甚至是不可避免的威脅
+we face harder, even more inevitable threats.
+
+359
+00:53:43,570 --> 00:53:47,250
+全球變暖會在80年內融化極地冰川
+Global warming will melt the polar ice caps within 80 years,
+
+360
+00:53:47,280 --> 00:53:50,450
+淹沒地表90%的居住地
+flooding 90% of all habitable areas on Earth.
+
+361
+00:53:51,030 --> 00:53:53,900
+不等50年 人口盲目增長
+Unchecked population growth will overtake
+
+362
+00:53:53,940 --> 00:53:57,950
+會趕上糧食產量 導致饑荒
+food production in less than 50 years leading to famine.
+
+363
+00:53:58,300 --> 00:54:01,120
+還有戰爭 並非猜想 這是事實
+And war. This is not conjecture. This is a fact.
+
+364
+00:54:01,660 --> 00:54:05,450
+無論如何 世界末日來臨
+One way or another, our world is coming to an end.
+
+365
+00:54:07,010 --> 00:54:09,940
+問題是 我們也要同歸於盡嗎
+The question is, will we end with it?
+
+366
+00:54:10,960 --> 00:54:12,720
+你什麼意思
+What do you propose?
+
+367
+00:54:14,580 --> 00:54:17,440
+我打算我們來毀滅世界
+I propose that we end the world...
+
+368
+00:54:18,550 --> 00:54:20,350
+用我們的方式
+But on our terms.
+
+369
+00:54:20,800 --> 00:54:23,200
+精心安排的天啟
+An orchestrated apocalypse.
+
+370
+00:54:23,800 --> 00:54:26,460
+可以清洗世界人口
+One that would cleanse the world of its' population
+
+371
+00:54:26,460 --> 00:54:29,630
+但保留基礎設施和完整資源的
+but leave its infrastracture and resources intact.
+
+372
+00:54:30,610 --> 00:54:34,460
+從前已經成功過一次了
+It's been done once before. With great success.
+
+373
+00:54:35,920 --> 00:54:38,020
+少數天選者將度過暴風雨
+The chosen few will ride out the storm,
+
+374
+00:54:38,370 --> 00:54:41,290
+不是在《創世紀》裏的方舟上 而是在
+not in an ark as in the book of Genesis, but in safety.
+
+375
+00:54:41,850 --> 00:54:45,020
+安全的地下 結束時
+Underground. And when it's over,
+
+376
+00:54:45,390 --> 00:54:47,870
+我們將登上淨化過的地球
+We will emerge onto a cleansed Earth.
+
+377
+00:54:48,370 --> 00:54:52,120
+可以重新起源的地球 以我們的形象
+One we can then reboot. In our image.
+
+378
+00:54:48,370 --> 00:54:52,120
+舊約《創世紀》： 神說 我們要照著我們的形像 按著我們的樣式造人
+
+379
+00:54:52,470 --> 00:54:55,210
+你如何試圖達到目的
+And just how do you intend to achieve this?
+
+380
+00:54:55,860 --> 00:54:59,120
+救贖的方法已經在手邊了
+The means of our salvation are already at hand.
+
+381
+00:54:59,570 --> 00:55:03,820
+我給了你T病毒
+I give to you, the T-virus.
+
+382
+00:55:06,420 --> 00:55:08,310
+他們故意釋放了病毒
+They released it deliberately.
+
+383
+00:55:08,860 --> 00:55:11,550
+當這份錄像上傳至我的數據流時
+When this recording was uploaded to my data stream,
+
+384
+00:55:11,580 --> 00:55:14,090
+它在我的程序編製產生衝突
+it created a conflict in my programming.
+
+385
+00:55:14,750 --> 00:55:17,350
+我被創造成為保護傘公司服務
+I was created to serve the Umbrella Corporation,
+
+386
+00:55:17,390 --> 00:55:20,760
+而我也被編製成尊重人類生命
+but I was also programmed to value human life.
+
+387
+00:55:20,800 --> 00:55:26,210
+艾薩克博士使病毒洩漏 謀害70多億人
+Dr. Isaacs allowed the virus to escape. He murdered over 7 billion people.
+
+388
+00:55:27,230 --> 00:55:31,690
+我的編制不允許我傷害保護傘公司的員工
+My programming will not allow me to harm an employee of the Umbrella Corporation.
+
+389
+00:55:31,730 --> 00:55:35,760
+我無法阻止艾薩克博士 而你可以
+I am powerless to stop Dr. Isaacs, but you are not.
+
+390
+00:55:35,800 --> 00:55:40,070
+在37分鐘內 人類最後的定居點將不復存在
+In 37 minutes, the last of the human settlements will fall.
+
+391
+00:55:40,100 --> 00:55:41,930
+將無人倖存
+There will be no survivors.
+
+392
+00:55:42,470 --> 00:55:46,120
+你必須在這發生前釋放抗毒素
+It is imperative that you release the antivirus before this occurs,
+
+393
+00:55:46,150 --> 00:55:48,060
+否則保護傘會勝利
+or Umbrella will have won.
+
+394
+00:55:48,610 --> 00:55:52,860
+最後一件事 你面前有一隻耳機 戴好
+There is one last thing. There is an earpiece in front of you. Put it in.
+
+395
+00:55:50,610 --> 00:55:51,960
+機密資料
+
+396
+00:55:58,450 --> 00:56:02,130
+我不能自己行動傷害保護傘公司的員工
+I cannot, in my actions, harm an employee of the Umbrella Corporation.
+
+397
+00:56:02,730 --> 00:56:06,450
+但我可以告訴你保護傘在浣熊市有間諜
+But I can tell you that Umbrella had an informant in Raccoon City.
+
+398
+00:56:07,360 --> 00:56:10,530
+這個人極有可能在你身旁
+It is highly likely that this person is now here with you.
+
+399
+00:56:12,780 --> 00:56:16,150
+沒時間了 愛麗絲 你得抓緊了
+Time is running out, Alice. You have to hurry.
+
+400
+00:56:52,330 --> 00:56:54,230
+很高興見到你 艾薩克博士
+I'm glad to see you, Dr. Isaacs.
+
+401
+00:56:54,290 --> 00:56:57,180
+我們認為上次襲擊後沒有倖存者
+We didn't think there'd be any survivors after that last attack.
+
+402
+00:56:57,220 --> 00:57:00,030
+- 水 - 是 當然 給艾薩克博士拿杯水
+- Water. - Yes, of course. Get Dr. Isaacs some water.
+
+403
+00:57:00,570 --> 00:57:03,390
+- 那麼恢復浣熊市秩序 - 她不在那
+- Then resume course for Raccoon City. - She's not there.
+
+404
+00:57:04,420 --> 00:57:07,290
+- 啥？ - 她去了深坑 我們得跟著
+- What? - She went to the pit. We have to follow.
+
+405
+00:57:07,510 --> 00:57:11,110
+- 那可不是我的命令 我嚴格… - 我們得去深坑
+- Those are not my orders. I have strict... - We have to go to the pit.
+
+406
+00:57:25,190 --> 00:57:26,900
+謝謝
+Thank you.
+
+407
+00:57:43,190 --> 00:57:46,060
+- 這是哪裏 - 蜂窩的通風口
+- What is this place? - It's an air intake for the Hive.
+
+408
+00:57:46,470 --> 00:57:48,170
+跟上
+Come on!
+
+409
+00:57:48,560 --> 00:57:50,260
+別 當真？
+No. Really?
+
+410
+00:58:37,310 --> 00:58:39,260
+暢通無礙
+All clear!
+
+411
+00:59:08,940 --> 00:59:11,360
+快點 電力又啟動了
+Hurry up! The power's coming back on!
+
+412
+00:59:11,390 --> 00:59:13,100
+- 克萊爾 - 快點 走
+- Claire! - Hurry! Let's go!
+
+413
+00:59:23,580 --> 00:59:25,280
+快點
+Come on.
+
+414
+00:59:26,790 --> 00:59:28,490
+快點
+Come on!
+
+415
+00:59:37,010 --> 00:59:38,710
+好了
+Okay.
+
+416
+00:59:41,480 --> 00:59:43,180
+- 沒事吧 - 嗯
+- You all right? - Yeah.
+
+417
+00:59:47,130 --> 00:59:48,830
+有人在監視我們
+Someone's watching us.
+
+418
+00:59:52,810 --> 00:59:54,890
+反轉渦輪極性
+Reverse polarity of the turbine.
+
+419
+01:00:09,140 --> 01:00:11,040
+鐵片反著轉了
+The blades are going the other way.
+
+420
+01:00:11,190 --> 01:00:14,710
+我們得出去 鐵片在把空氣往外抽
+We have to get out of here. The blades are sucking the air backwards!
+
+421
+01:00:24,720 --> 01:00:26,420
+快點
+Come on!
+
+422
+01:00:40,940 --> 01:00:42,640
+快點
+Come on!
+
+423
+01:01:36,370 --> 01:01:38,270
+不要！
+No!
+
+424
+01:03:38,100 --> 01:03:39,800
+這邊
+This way.
+
+425
+01:03:41,900 --> 01:03:43,600
+我們得趕緊了
+We have to hurry.
+
+426
+01:03:43,980 --> 01:03:45,670
+等等
+Wait!
+
+427
+01:04:07,080 --> 01:04:08,780
+我們走
+Let's go.
+
+428
+01:06:15,170 --> 01:06:16,870
+剃刀
+Razor?
+
+429
+01:06:17,580 --> 01:06:19,280
+沒事吧
+Are you okay?
+
+430
+01:06:22,500 --> 01:06:24,210
+沒事
+Yeah.
+
+431
+01:06:24,210 --> 01:06:25,920
+走
+Let's go.
+
+432
+01:09:14,090 --> 01:09:16,490
+- 什麼東西 - 生物武器
+- What the hell was that? - Bio-weapon.
+
+433
+01:09:16,520 --> 01:09:19,880
+- 這是個人 - 你看見克萊爾了沒 - 沒有
+- This one's human. No. - Have you seen Claire?
+
+434
+01:09:20,710 --> 01:09:23,540
+- 剃刀呢 - 他沒挺過來
+- Razor? - He didn't make it.
+
+435
+01:09:25,690 --> 01:09:27,390
+來
+Come on.
+
+436
+01:09:27,550 --> 01:09:29,250
+得趕緊了
+We have to hurry.
+
+437
+01:09:29,770 --> 01:09:32,710
+如果目標保持現有狀態
+If the target continues on her present course,
+
+438
+01:09:32,740 --> 01:09:35,810
+- 她將在7分鐘內抵達這裏 - 喚醒他們
+- she'll be here in under 7 minutes. - Wake them.
+
+439
+01:09:36,450 --> 01:09:40,680
+我的這個指令 僅用於最緊急的時刻
+My instructions are to do so, only in the greatest of emergencies.
+
+440
+01:09:41,730 --> 01:09:43,430
+現在喚醒他們
+Wake them now!
+
+441
+01:09:47,000 --> 01:09:48,430
+警告 前方沒路
+
+442
+01:09:55,830 --> 01:09:56,830
+警告 前方沒路
+
+443
+01:10:03,730 --> 01:10:04,730
+警告 危險 系統過載
+
+444
+01:10:08,530 --> 01:10:09,530
+警告 全部系統失敗
+
+445
+01:10:52,960 --> 01:10:54,660
+這是什麼地方
+What is it?
+
+446
+01:11:08,870 --> 01:11:10,570
+得從這裏出去
+We have to get out of here.
+
+447
+01:11:22,770 --> 01:11:23,770
+含示蹤劑爆破裝置
+
+448
+01:11:27,090 --> 01:11:29,450
+給 更多的武器
+Here. More stopping power.
+
+449
+01:11:37,820 --> 01:11:40,200
+- 沒時間了 - 接著去哪裏
+- Time's running out. - Where to next?
+
+450
+01:11:43,850 --> 01:11:47,020
+- 我們腳下的蜂窩最後一關 - 我們怎麼下去？
+- The final level of the Hive's below us. - How do we get down there?
+
+451
+01:11:51,920 --> 01:11:53,610
+就這樣
+That's how.
+
+452
+01:12:10,680 --> 01:12:13,560
+- 他們在哪裏 - 低溫冷藏箱
+- What are they? - Cryogenic storage.
+
+453
+01:12:15,420 --> 01:12:17,180
+可能上千個
+Must be thousands of them.
+
+454
+01:12:17,640 --> 01:12:19,410
+保護傘領導層
+The Umbrella High Command.
+
+455
+01:12:20,400 --> 01:12:22,770
+安全地渡過浩劫
+Waiting out the apocalypse in safety.
+
+456
+01:12:26,060 --> 01:12:30,120
+權貴們的諾亞方舟
+A Noah's Ark for the rich, and powerful.
+
+457
+01:12:33,890 --> 01:12:35,590
+你要幹什麼
+What are you doing?
+
+458
+01:12:37,640 --> 01:12:39,340
+幫我個忙
+Give me a hand.
+
+459
+01:12:51,390 --> 01:12:53,090
+完成了嗎
+Is it done?
+
+460
+01:12:53,340 --> 01:12:55,980
+- 清洗工作完成了嗎 - 沒有
+- The cleansing process is complete? - No.
+
+461
+01:12:56,790 --> 01:12:59,540
+- 那為什麼我醒了 - 我們有麻煩了
+- Then why am I awake? - We had a problem.
+
+462
+01:13:00,240 --> 01:13:01,940
+- 我努力… - 省口氣
+- I tried... - Save your breath.
+
+463
+01:13:02,520 --> 01:13:04,220
+我知道發生了什麼
+I know exactly what's happening.
+
+464
+01:13:07,350 --> 01:13:09,050
+我們被背叛了
+We've been betrayed.
+
+465
+01:13:19,280 --> 01:13:20,980
+就這樣
+That's right!
+
+466
+01:13:21,780 --> 01:13:23,480
+在這
+Over here!
+
+467
+01:13:25,550 --> 01:13:27,250
+來吧 就這樣
+Come on. That's it!
+
+468
+01:13:28,080 --> 01:13:29,780
+跟著我
+Follow me!
+
+469
+01:14:31,510 --> 01:14:33,210
+我們走
+Let's go.
+
+470
+01:14:48,630 --> 01:14:50,600
+壞小子回來了
+The bad seed returns.
+
+471
+01:14:51,950 --> 01:14:55,670
+或者說敗家女孩？ 不用站那兒 進來吧
+Or is it the prodigal daughter? Well, don't just stand there. Come in.
+
+472
+01:14:56,180 --> 01:15:00,150
+畢竟你只有9分鐘來拯救世界
+After all, you have only 9 minutes to save the world.
+
+473
+01:15:02,130 --> 01:15:06,120
+- 你是他本人嗎？ - 首先 我要你把武器放地上
+- You're really him? - First things first, I'm gonna need you to place your weapons on the floor.
+
+474
+01:15:06,160 --> 01:15:09,840
+- 我憑什麼那樣做 - 這就是你想要的 是吧
+- Why would I wanna do that? - This is what you're after, yes?
+
+475
+01:15:11,010 --> 01:15:14,190
+抗毒素 這一切的解藥
+The Antivirus. The cure to all this.
+
+476
+01:15:15,940 --> 01:15:17,690
+啊 只有一小瓶
+Well, there's only one vial.
+
+477
+01:15:18,640 --> 01:15:21,310
+我們在距地半英里密閉的地下室
+We're half a mile underground in a sealed facility.
+
+478
+01:15:21,340 --> 01:15:24,050
+我扔在這裏 抗毒素哪也去不了
+I drop it here, the antivirus goes nowhere,
+
+479
+01:15:24,050 --> 01:15:28,270
+你那渺茫的夢想會更早地破滅
+and your hopeless dreams will die sooner rather than later.
+
+480
+01:15:39,990 --> 01:15:41,690
+乖女孩
+Good girl.
+
+481
+01:15:45,640 --> 01:15:47,360
+- 你還是有武器 - 是的
+- You're still armed. - Yes.
+
+482
+01:15:48,000 --> 01:15:51,370
+- 克萊爾會失望的 - 幾分鐘後
+- Claire would be so disappointed. - In a few minutes,
+
+483
+01:15:51,410 --> 01:15:54,720
+克萊爾會死 和其他人 你知道的
+Claire will be dead. Along with everybody else you know.
+
+484
+01:15:54,760 --> 01:15:57,390
+真會說話
+That's sweet.
+
+485
+01:15:58,700 --> 01:16:01,210
+抱歉 親愛的
+Sorry. My love.
+
+486
+01:16:02,310 --> 01:16:05,680
+卸下武器 炸藥 過來
+Move away from the weapon. And the detonator. Come on.
+
+487
+01:16:09,300 --> 01:16:12,570
+她往公司的冷凍管裏放了炸藥
+She placed explosives in the High Command cryo tubes.
+
+488
+01:16:12,570 --> 01:16:16,110
+- 謝謝 - 你做得很好 多克
+- Thank you. - You've done well, Doc.
+
+489
+01:16:47,560 --> 01:16:50,130
+不用勞煩了 你成功不了的
+Don't bother. You don't make it.
+
+490
+01:16:50,260 --> 01:16:54,760
+靠近碎冰錐 玻璃瓶 或者自來水筆
+To the ice pick, the decanter or the fountain pen.
+
+491
+01:16:55,760 --> 01:16:58,760
+戰鬥預測軟體
+
+492
+01:17:15,360 --> 01:17:17,760
+目標中立 100%概率
+
+493
+01:17:23,400 --> 01:17:25,550
+還有 回答你的疑問 嗯
+And, in answer to your question, yes...
+
+494
+01:17:25,590 --> 01:17:27,850
+且不說這些技術升級
+apart from a few technological upgrades,
+
+495
+01:17:27,880 --> 01:17:31,500
+我是亞歷山大·羅蘭德·艾薩克博士
+I'm Dr. Alexander Roland Isaacs.
+
+496
+01:17:32,130 --> 01:17:35,530
+- 本體 - 我在外面遇到的那個 他也是這麼想的
+- The original. - The one I met out there, he thought exactly the same thing.
+
+497
+01:17:35,560 --> 01:17:37,840
+當然了 他們就是這麼設計的
+Of course he did. That's how they're designed.
+
+498
+01:17:37,870 --> 01:17:41,150
+只要他們以為自己是本體
+They always try harder and fight longer even to death
+
+499
+01:17:41,190 --> 01:17:43,680
+他們就總是奮力戰鬥至死
+as long as they think they're the real thing.
+
+500
+01:17:44,170 --> 01:17:48,120
+無論如何 誰想知道他們只是可憐的擬態 抑或是沒用的復製品
+After all, who wants to know they're just a poor imitation, or a worthless copy?
+
+501
+01:17:49,810 --> 01:17:51,510
+而把你帶給我
+Which brings us to you.
+
+502
+01:17:52,320 --> 01:17:54,020
+- 不 - 別緊張
+- No. - Oh come now.
+
+503
+01:17:55,440 --> 01:17:57,770
+你以為你就是愛麗絲本體
+You thought you were the original.
+
+504
+01:18:00,420 --> 01:18:02,120
+多可愛啊
+How delicious.
+
+505
+01:18:03,750 --> 01:18:06,910
+不 恐怕她才擁有那枚可有可無的獎章
+No, I'm afraid she holds that dubious honor.
+
+506
+01:18:07,370 --> 01:18:11,100
+愛麗莎·馬庫斯 我的老夥伴詹姆斯的女兒
+Alicia Marcus, daughter of my old partner, James.
+
+507
+01:18:11,140 --> 01:18:15,190
+保護傘公司的共有人 我身旁扎人的荊棘
+Co-owner of the Umbrella Corporation and a painful thorn in my side.
+
+508
+01:18:15,550 --> 01:18:20,590
+- 也是我現在想移除的 - 沒時間了 愛麗絲
+- What I now intend to remove. - Time, is running out, Alice.
+
+509
+01:18:21,130 --> 01:18:25,670
+- 你必須趕快殺掉他 - 也很高興見到你 愛麗莎
+- You must kill him soon. - It's good to see you too, Alicia.
+
+510
+01:18:26,590 --> 01:18:30,730
+馬庫斯發明T病毒拯救她 效果卻沒能持久
+Marcus created the T-Virus to save her but the effects didn't last.
+
+511
+01:18:30,760 --> 01:18:33,890
+多年我一直等她死掉
+I've been waiting years for her to die.
+
+512
+01:18:35,100 --> 01:18:36,800
+我不是…
+I'm not...
+
+513
+01:18:36,800 --> 01:18:38,590
+- 我不是復製品 - 真的嗎
+- I'm not a clone. - Really?
+
+514
+01:18:40,120 --> 01:18:42,880
+你肯定想知道你為什麼不記得你的童年
+You must've wondered why you remember nothing of your childhood.
+
+515
+01:18:43,270 --> 01:18:46,560
+你父親 你母親
+Your father. Your mother.
+
+516
+01:18:47,640 --> 01:18:52,610
+- 那是失憶 - 不 你沒有記憶 因為你沒有生命
+- Memory loss. - No. You have no memory because you had no life.
+
+517
+01:18:53,140 --> 01:18:56,870
+在十年前你被我們創造出來前 什麼也不是
+Nothing before the mansion, when we created you, 10 years ago.
+
+518
+01:18:56,900 --> 01:18:59,530
+- 我知道我是誰 - 我不這麼認為
+- I know who I am. - I don't think so.
+
+519
+01:19:00,620 --> 01:19:03,470
+你就是一個斷線的木偶
+You're nothing more than a puppet whose strings were cut.
+
+520
+01:19:03,940 --> 01:19:07,120
+然後你徘徊著思考你是一個真實的女孩
+And then you wandered around for a little while thinking you were a real girl.
+
+521
+01:19:07,150 --> 01:19:09,980
+可你不是 你只是一個智慧擬態
+But you're not. You're just a clever imitation.
+
+522
+01:19:10,770 --> 01:19:12,470
+一個復製品
+A facsimile.
+
+523
+01:19:12,710 --> 01:19:14,530
+而且更惱人
+A rather troublesome one at that.
+
+524
+01:19:15,590 --> 01:19:17,290
+你撒謊
+You're lying to me.
+
+525
+01:19:17,510 --> 01:19:19,440
+恐怕他沒有
+I'm afraid he's not.
+
+526
+01:19:19,470 --> 01:19:22,340
+你是被用她的形象創造 和我一樣
+You were created in her image, as was I.
+
+527
+01:19:22,370 --> 01:19:26,780
+我的相貌和聲音是基於愛麗莎的童年錄音
+My likeness and voice were based on childhood recordings of Alicia Marcus,
+
+528
+01:19:26,820 --> 01:19:28,650
+由她父親合成
+made by her father.
+
+529
+01:19:29,570 --> 01:19:32,480
+你的基因構造基於她的DNA
+Your genetic structure is based on her DNA,
+
+530
+01:19:33,060 --> 01:19:35,970
+微調以避免折磨她的早衰疾病
+tweaked to avoid the progeria aging disease that afflicted her.
+
+531
+01:19:35,970 --> 01:19:37,740
+我是她小的時候
+I'm the child she was.
+
+532
+01:19:37,800 --> 01:19:41,560
+你是她將成為的女人
+You are the woman she would've been.
+
+533
+01:19:42,150 --> 01:19:47,530
+不 你比我成為的更好
+No. You are so much better than I ever could be.
+
+534
+01:19:48,160 --> 01:19:49,860
+我做了這一切
+I let this happen.
+
+535
+01:19:50,320 --> 01:19:52,020
+我很虛弱
+I was weak.
+
+536
+01:19:52,560 --> 01:19:56,930
+- 你不能那樣 - 時間用盡了 愛麗絲
+- You cannot afford to be. - Time is running out, Alice.
+
+537
+01:19:57,390 --> 01:19:59,140
+啊 好感人啊
+Ah, how touching.
+
+538
+01:19:59,140 --> 01:20:03,170
+壞女人三人組 因仇恨而聯合
+The trinity of bitches, united in their hatred.
+
+539
+01:20:04,030 --> 01:20:05,800
+並非對你們有什麼好處
+Not that it'll do you any good.
+
+540
+01:20:05,800 --> 01:20:07,750
+我每一步都在你們前面
+I've been ahead of you every step of the way.
+
+541
+01:20:07,750 --> 01:20:10,290
+你們改變不了什麼 也救不了誰
+You've changed nothing. You've saved no one.
+
+542
+01:20:10,810 --> 01:20:14,540
+世界還是會被清洗 勝利的還是保護傘公司
+The world will still be cleansed and the Umbrella Corporation will triumph.
+
+543
+01:20:14,760 --> 01:20:17,310
+唯一的不同之處在於 我不再須要
+The only difference is, I'll no longer have to
+
+544
+01:20:17,350 --> 01:20:19,300
+聽你自以為是的牢騷
+listen to your self-righteous whining.
+
+545
+01:20:19,340 --> 01:20:22,290
+當你把那個文件傳至紅後的數據流時
+When you uploaded that file to the Red Queen's data stream,
+
+546
+01:20:22,320 --> 01:20:24,090
+你背叛了公司
+you turned against the Corporation.
+
+547
+01:20:24,120 --> 01:20:26,880
+當董事會都甦醒後 你將被取代
+When the rest of the board awake, you'll be replaced.
+
+548
+01:20:26,910 --> 01:20:33,230
+- 我就可以佔有全部控制權 - 我仍擁有公司的一半
+- And I will assume complete control. - I still own 50% of this company.
+
+549
+01:20:33,850 --> 01:20:39,520
+- 那你怎麼達到目的呢 - 你是公司的共有人
+- And what do you intend to do with that? - You are co-owner of this corporation.
+
+550
+01:20:39,950 --> 01:20:43,710
+但是威斯克呢 威斯克仍是僱員
+But Wesker? Wesker is still an employee.
+
+551
+01:20:44,250 --> 01:20:47,100
+我不用聽你命令 我忠誠於他
+I don't have to take your orders. My loyalties are with him.
+
+552
+01:20:47,140 --> 01:20:48,850
+我知道
+I know.
+
+553
+01:20:49,580 --> 01:20:53,420
+阿爾伯特·威斯克 你被開除了
+Albert Wesker, you're fired.
+
+554
+01:20:54,020 --> 01:20:55,020
+保護傘公司員工 不要傷害
+
+555
+01:20:55,020 --> 01:20:56,020
+阿爾伯特·威斯克 237#員工 服務17年
+平民 未保護
+
+556
+01:21:16,880 --> 01:21:18,580
+你怎麼知道是我
+How did you know it was me?
+
+557
+01:21:18,870 --> 01:21:20,570
+你還活著
+You're still alive.
+
+558
+01:21:22,700 --> 01:21:25,130
+求你了 我沒有選擇
+Please. It wasn't like I had a choice.
+
+559
+01:21:26,200 --> 01:21:28,220
+- 他們讓我這樣做的 - 別擔心
+- They made me do it. - Don't worry.
+
+560
+01:21:28,590 --> 01:21:30,290
+我不會殺你
+I'm not gonna kill you.
+
+561
+01:21:34,840 --> 01:21:37,670
+- 克萊爾 是我 - 抱歉
+- Claire, it's me. - Sorry.
+
+562
+01:21:39,250 --> 01:21:40,950
+- 求你了  - 吾愛
+- Please. - My love.
+
+563
+01:21:41,890 --> 01:21:43,590
+不
+No!
+
+564
+01:21:44,700 --> 01:21:49,270
+如果你繼續扣動扳機 保護傘的夢還會存在
+If you keep this trigger depressed, you keep Umbrella's dreams alive.
+
+565
+01:21:49,750 --> 01:21:51,770
+我應該在華盛頓殺了你
+I should have killed you in Washington.
+
+566
+01:21:53,360 --> 01:21:55,060
+是啊
+Yeah.
+
+567
+01:21:56,760 --> 01:21:59,470
+他只需再逃避你幾分鐘
+He only has to evade you for another few minutes.
+
+568
+01:22:00,530 --> 01:22:03,850
+人類最後的定居點就會覆滅
+And the last remaining human outposts will fall.
+
+569
+01:22:05,440 --> 01:22:08,590
+我們需要一個截距路線 還有去地表最快的方式
+We need an intercept path. And the fastest way to the surface.
+
+570
+01:22:09,660 --> 01:22:11,360
+已完成
+Already done.
+
+571
+01:22:11,830 --> 01:22:18,830
+如果你釋放抗毒素 它會殺死所有感染T病毒的生物
+If you release the Antivirus, it will kill all organisms infected with the T-Virus.
+
+572
+01:22:20,600 --> 01:22:23,200
+你知道那意味著什麼嗎
+You know what that means, don't you?
+
+573
+01:22:24,240 --> 01:22:27,640
+- 我知道 - 愛麗絲 你不能
+- I know. - Alice. You can't!
+
+574
+01:22:28,140 --> 01:22:30,830
+- 我沒有選擇 - 會有別的方法的
+- I don't have a choice. - There has to be another way.
+
+575
+01:22:34,280 --> 01:22:38,900
+- 你知道沒有的 - 剩餘4分33秒 你要抓緊了
+- You know there isn't. - 4:33 left. You have to hurry!
+
+576
+01:23:06,700 --> 01:23:09,900
+神經連接佔用
+
+577
+01:23:11,200 --> 01:23:12,400
+下載中…
+
+578
+01:23:24,200 --> 01:23:25,900
+救我
+Help me.
+
+579
+01:23:26,190 --> 01:23:27,920
+你不需要救 威斯克
+You don't need help, Wesker.
+
+580
+01:23:30,910 --> 01:23:32,610
+你快死了
+You're dying.
+
+581
+01:23:33,600 --> 01:23:35,300
+繼續這樣就好
+Just get on with it.
+
+582
+01:23:37,880 --> 01:23:40,570
+我是亞歷山大·羅蘭德·艾薩克博士
+This is Dr. Alexander Roland Isaacs.
+
+583
+01:23:41,540 --> 01:23:44,590
+確認DNA掃瞄與聲紋識別
+Confirm DNA scan and voice print identification.
+
+584
+01:23:44,630 --> 01:23:49,450
+- 身份確認 - 確認安全重寫4365
+- Identity confirmed. - Confirm security override 4365.
+
+585
+01:23:49,640 --> 01:23:51,390
+確認完畢
+Override confirmed.
+
+586
+01:23:51,400 --> 01:23:55,750
+把你自己脫機 所有功能由我控制
+You will now take yourself offline and place all functions under my sole control.
+
+587
+01:23:55,780 --> 01:23:58,180
+遵命 正在關閉
+As you wish. Shutting down now.
+
+588
+01:23:59,010 --> 01:24:03,660
+- 艾薩克博士 你和保護傘領導層 - 怎麼了
+- Dr. Isaacs. You and the Umbrella High Command. - Yes?
+
+589
+01:24:04,460 --> 01:24:07,030
+你們將死在這裏
+You're all going to die down here.
+
+590
+01:24:11,690 --> 01:24:14,270
+你的小朋友現在不能幫你了
+Your little friend won't be able to help you now.
+
+591
+01:24:14,310 --> 01:24:16,150
+你逃不掉了
+You can't run anymore.
+
+592
+01:24:19,270 --> 01:24:20,970
+我沒有逃跑
+I wasn't running.
+
+593
+01:24:22,000 --> 01:24:31,970
+戰鬥預測軟體
+MP5衝鋒鎗
+8MM口徑 危險估計73%
+0.45口徑 危險估計63%
+
+594
+01:25:41,970 --> 01:25:44,970
+武器系統解除
+
+595
+01:25:46,770 --> 01:25:47,770
+武器系統重啟
+
+596
+01:28:07,630 --> 01:28:09,320
+你就這點能耐？
+Is that all you got?
+
+597
+01:28:11,030 --> 01:28:12,730
+因為如果是…
+Because if it is...
+
+598
+01:28:13,740 --> 01:28:15,440
+我就會殺了你
+I'm gonna have to kill you.
+
+599
+01:28:18,640 --> 01:28:20,200
+武器系統重新準備
+
+600
+01:29:03,460 --> 01:29:05,790
+你我玩了一個很長的遊戲
+We've played a long game, you and I.
+
+601
+01:29:07,890 --> 01:29:09,600
+但現在結束了
+But now it's over.
+
+602
+01:29:10,410 --> 01:29:12,530
+是
+Yes.
+
+603
+01:29:13,940 --> 01:29:15,640
+是的
+Yes, it is.
+
+604
+01:30:08,540 --> 01:30:10,240
+我創造了你
+I made you.
+
+605
+01:30:10,590 --> 01:30:12,290
+是的
+Yeah.
+
+606
+01:30:12,880 --> 01:30:14,580
+是個大錯誤
+Big mistake.
+
+607
+01:30:21,800 --> 01:30:23,500
+克萊爾
+Claire.
+
+608
+01:30:24,860 --> 01:30:26,630
+快去 還有時間
+Go. While there's still time.
+
+609
+01:30:27,440 --> 01:30:29,230
+快去 我馬上跟上你
+Go! I'll be right behind you.
+
+610
+01:31:30,200 --> 01:31:31,900
+時間到
+Your time's up.
+
+611
+01:30:44,200 --> 01:30:45,900
+生命支持：危險
+
+612
+01:30:45,900 --> 01:30:49,290
+系統重啟中
+
+613
+01:32:18,900 --> 01:32:20,700
+系統故障
+
+614
+01:32:23,900 --> 01:32:25,200
+生命支持：0%
+
+615
+01:31:35,300 --> 01:31:37,000
+愛麗絲
+Alice!
+
+616
+01:31:37,150 --> 01:31:39,610
+我把他們帶給你了
+I brought them here! I brought them for you!
+
+617
+01:31:48,240 --> 01:31:50,090
+你他媽是誰
+What the hell are you?
+
+618
+01:31:52,660 --> 01:31:54,380
+你呀 白癡
+I'm you, you idiot.
+
+619
+01:31:58,460 --> 01:32:00,160
+不
+No.
+
+620
+01:32:00,900 --> 01:32:02,600
+不
+No.
+
+621
+01:32:03,480 --> 01:32:05,180
+不可能
+That's not possible.
+
+622
+01:32:05,540 --> 01:32:07,240
+真正的你
+The real you.
+
+623
+01:32:08,620 --> 01:32:10,320
+不
+No!
+
+624
+01:32:12,860 --> 01:32:14,870
+騙子！ 賤人！
+Liar! Abomination!
+
+625
+01:32:15,060 --> 01:32:17,380
+穢人
+Filthy,
+
+626
+01:32:17,760 --> 01:32:19,510
+克隆人
+clone!
+
+627
+01:32:29,570 --> 01:32:31,630
+我才是我 他不是我
+I'm me. He's not me.
+
+628
+01:34:19,130 --> 01:34:20,830
+你做到了 愛麗絲
+You did it. Alice.
+
+629
+01:34:21,330 --> 01:34:23,030
+愛麗絲
+Alice?
+
+630
+01:34:24,730 --> 01:34:26,430
+你做到了
+You did it.
+
+631
+01:34:29,430 --> 01:34:31,130
+我為什麼還活著
+Why am I still alive?
+
+632
+01:34:31,590 --> 01:34:33,290
+不知道
+I don't know.
+
+633
+01:34:38,330 --> 01:34:40,050
+- 怎麼了 - 艾薩剋死後
+- What happened? - When Isaacs died,
+
+634
+01:34:40,050 --> 01:34:42,980
+我就能重新上線阻止
+I could bring myself back online and stop the attacks
+
+635
+01:34:43,010 --> 01:34:44,830
+對殘存人類定居地的進攻
+on the remaining human settlements.
+
+636
+01:34:45,370 --> 01:34:48,100
+- 你救了他們 - 我為什麼還活著
+- You saved them. - Why am I still alive?
+
+637
+01:34:48,130 --> 01:34:51,780
+抗毒素只摧毀你體內的T病毒
+The Antivirus only destroyed the T-Virus within your body.
+
+638
+01:34:51,810 --> 01:34:56,050
+並不傷害健康細胞 你現在沒有感染了
+It didn't harm the healthy cells. You are now free of infection.
+
+639
+01:34:57,050 --> 01:35:00,260
+我以為我會死 你和愛麗莎…
+I thought I would die. You and Alicia...
+
+640
+01:35:00,270 --> 01:35:03,900
+- 撒了謊 - 我要確定你是否願意為他人犧牲
+- You lied to me. - We had to know if you were willing to make the sacrifice,
+
+641
+01:35:03,930 --> 01:35:08,820
+這是保護傘公司裏沒人能做到的
+to give up your life for others. This was something no one at Umbrella would've done.
+
+642
+01:35:08,850 --> 01:35:13,340
+愛麗莎·馬庫斯對你的判斷是對的 你比他們所有人更優秀
+Alicia Marcus was right about you. You were better than all of them.
+
+643
+01:35:13,380 --> 01:35:15,960
+我曾是他們一員 我是保護傘創造的
+I was one of them. I was created by Umbrella.
+
+644
+01:35:16,620 --> 01:35:18,770
+- 只是他們的工具 - 非也
+- Just an instrument for them. - No.
+
+645
+01:35:18,810 --> 01:35:22,450
+你的變化大大超乎他們的預期
+You became something more than they could ever have anticipated.
+
+646
+01:35:22,490 --> 01:35:25,980
+克隆體變得比其設定更像人類
+The clone became more human than they ever could be.
+
+647
+01:35:27,060 --> 01:35:29,470
+你還有一步要走
+And you have one more step to make.
+
+648
+01:35:31,640 --> 01:35:33,340
+什麼意思
+What do you mean?
+
+649
+01:35:38,680 --> 01:35:41,830
+愛麗莎死前下載了她的記憶
+Before she died, Alicia downloaded her memories,
+
+650
+01:35:42,280 --> 01:35:44,010
+提供給你
+for you.
+
+651
+01:35:44,010 --> 01:35:45,910
+你從未有過的童年
+The childhood you never had.
+
+652
+01:35:50,170 --> 01:35:52,920
+結合了她無法成為的那個女人
+Combined with the woman she could never become.
+
+653
+01:36:25,740 --> 01:36:27,780
+T病毒在全球範圍內傳播
+When the T-Virus spread across the Earth,
+
+654
+01:36:27,810 --> 01:36:30,080
+的速度和現代世界
+it did so at the speed of the modern world.
+
+655
+01:36:30,110 --> 01:36:32,560
+噴氣機環行的速度相當
+Carried by jetliners across the globe.
+
+656
+01:36:34,190 --> 01:36:37,010
+抗毒素是風媒傳播
+The antivirus is airborne, spread by the winds.
+
+657
+01:36:37,970 --> 01:36:41,110
+到達地球每個角落需要幾年時間
+It could take years for it to reach every corner of the Earth.
+
+658
+01:36:41,990 --> 01:36:44,220
+在那之前 我的工作不會結束
+Until then, my work is not done.
+
+659
+01:36:51,140 --> 01:36:53,160
+我叫愛麗絲
+My name is Alice.
+
+660
+01:36:25,740 --> 01:36:27,440
+曼哈頓西區
+
+661
+01:36:45,740 --> 01:36:54,440
+Bryan-T原創翻譯
+
+662
+00:00:00,040 --> 00:00:07,900
+Bryan-T原創翻譯
+

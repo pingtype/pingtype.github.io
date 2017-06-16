@@ -1,0 +1,5392 @@
+1
+00:01:06,450 --> 00:01:08,250
+<font face="方正黑体_GBK" size="18">绿 巨 人</font>
+
+2
+00:04:20,690 --> 00:04:24,200
+<font face="方正黑体_GBK" size="18">绝没有办法能防御所有的战争生物制剂
+</font><font face="华文中宋" size="14" color="#ffff00">There's simply no way to shield against every weaponized agent.</font>
+
+3
+00:04:21,690 --> 00:04:24,200
+<font face="方正黑体_GBK" size="18">{\an8}1966年 沙漠基地</font>
+
+4
+00:04:24,320 --> 00:04:26,260
+<font face="方正黑体_GBK" size="18">但通过强化人体细胞的反应能力...
+</font><font face="华文中宋" size="14" color="#ffff00">I nstead, I can make super-immune systems...</font>
+
+5
+00:04:26,320 --> 00:04:29,020
+<font face="方正黑体_GBK" size="18">我能制造一个超级免疫系统
+</font><font face="华文中宋" size="14" color="#ffff00">by strengthening the human cellular response.</font>
+
+6
+00:04:29,090 --> 00:04:31,030
+<font face="方正黑体_GBK" size="18">斑纳 我知道你想说明什么
+</font><font face="华文中宋" size="14" color="#ffff00">Banner, I know where you're going.</font>
+
+7
+00:04:31,100 --> 00:04:33,190
+<font face="方正黑体_GBK" size="18">但操纵免疫系统这种事是非常危险和愚蠢的
+</font><font face="华文中宋" size="14" color="#ffff00">But manipulating the immune system is dangerous and stupid.</font>
+
+8
+00:04:33,260 --> 00:04:37,220
+<font face="方正黑体_GBK" size="18">总统的科学顾问已经说的很清楚了...
+</font><font face="华文中宋" size="14" color="#ffff00">Thepresident's science advisors made it absolutely clear--</font>
+
+9
+00:04:37,300 --> 00:04:40,290
+<font face="方正黑体_GBK" size="18">不能拿人来做实验
+</font><font face="华文中宋" size="14" color="#ffff00">no human subjects.</font>
+
+10
+00:05:02,460 --> 00:05:04,450
+<font face="方正黑体_GBK" size="18">大卫 我有个好消息
+</font><font face="华文中宋" size="14" color="#ffff00">David, I have wonderful news.</font>
+
+11
+00:05:07,470 --> 00:05:09,660
+<font face="方正黑体_GBK" size="18">我怀孕了
+</font><font face="华文中宋" size="14" color="#ffff00">I 'm gonna have a baby.</font>
+
+12
+00:06:49,570 --> 00:06:53,370
+<font face="方正黑体_GBK" size="18">是什么呢?布鲁斯 啊 想要那个恐龙吗?
+</font><font face="华文中宋" size="14" color="#ffff00">What's it gonna be? Whoa, look at that, Bruce. Huh? Want a dinosaur?</font>
+
+13
+00:06:53,440 --> 00:06:55,960
+<font face="方正黑体_GBK" size="18">来啊 让他们打一仗 来啊!
+</font><font face="华文中宋" size="14" color="#ffff00">Let's have a little fight.</font>
+
+14
+00:06:56,040 --> 00:06:58,410
+<font face="方正黑体_GBK" size="18">你吓不倒我
+</font><font face="华文中宋" size="14" color="#ffff00">You don'tscare me.</font>
+
+15
+00:07:00,480 --> 00:07:03,710
+<font face="方正黑体_GBK" size="18">那真是个好吃的眼珠 你又大又绿好吓人啊 我要逃了
+</font><font face="华文中宋" size="14" color="#ffff00">That's a delicious eyeball. Ooh, you're big and green and scary. I'm gonna run away.</font>
+
+16
+00:07:30,610 --> 00:07:32,840
+<font face="方正黑体_GBK" size="18">说真的 谈到查理...
+</font><font face="华文中宋" size="14" color="#ffff00">Really, speaking ofCheryl, guess what--</font>
+
+17
+00:07:32,910 --> 00:07:34,900
+<font face="方正黑体_GBK" size="18">布鲁斯 你受伤了
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, you're hurt!</font>
+
+18
+00:07:36,110 --> 00:07:39,170
+<font face="方正黑体_GBK" size="18">杰客用木棒打他 但布鲁斯不还手
+</font><font face="华文中宋" size="14" color="#ffff00">Jack hit him with the stick, but Bruce wouldn't hit him back.</font>
+
+19
+00:07:39,250 --> 00:07:41,810
+<font face="方正黑体_GBK" size="18">他只是站在那里发抖
+</font><font face="华文中宋" size="14" color="#ffff00">He just stood there, shaking.</font>
+
+20
+00:07:41,890 --> 00:07:43,880
+<font face="方正黑体_GBK" size="18">没事了
+</font><font face="华文中宋" size="14" color="#ffff00">It's okay.</font>
+
+21
+00:07:50,930 --> 00:07:52,860
+<font face="方正黑体_GBK" size="18">好奇怪 他一声也不吭
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah, strange he didn't make a peep.</font>
+
+22
+00:07:52,930 --> 00:07:55,400
+<font face="方正黑体_GBK" size="18">要是别的孩子 可能已经哭得满地打滚了
+</font><font face="华文中宋" size="14" color="#ffff00">Any other kid would've wailed his head off.</font>
+
+23
+00:07:55,470 --> 00:07:57,060
+<font face="方正黑体_GBK" size="18">布鲁斯就是这样
+</font><font face="华文中宋" size="14" color="#ffff00">That's Bruce. He's like that.</font>
+
+24
+00:07:57,100 --> 00:07:59,700
+<font face="方正黑体_GBK" size="18">他...感情一向不外露
+</font><font face="华文中宋" size="14" color="#ffff00">He's just so... bottled up.</font>
+
+25
+00:08:03,940 --> 00:08:06,880
+<font face="方正黑体_GBK" size="18">我们在你实验室找到的样本...是人血
+</font><font face="华文中宋" size="14" color="#ffff00">The samples we found in your lab--theywere human blood.</font>
+
+26
+00:08:06,940 --> 00:08:08,880
+<font face="方正黑体_GBK" size="18">你无视我们的约定
+</font><font face="华文中宋" size="14" color="#ffff00">You've ignored protocol.</font>
+
+27
+00:08:08,950 --> 00:08:11,710
+<font face="方正黑体_GBK" size="18">你没权在我实验室里乱翻
+</font><font face="华文中宋" size="14" color="#ffff00">You had no right snooping around in my lab.</font>
+
+28
+00:08:11,780 --> 00:08:13,720
+<font face="方正黑体_GBK" size="18">这是我的事
+</font><font face="华文中宋" size="14" color="#ffff00">That's my business.</font>
+
+29
+00:08:13,780 --> 00:08:17,780
+<font face="方正黑体_GBK" size="18">错了 斑纳 这是政府的事 这项实验你被开除了
+</font><font face="华文中宋" size="14" color="#ffff00">Wrong, Banner. It's government business, and you're offthe project.</font>
+
+30
+00:08:39,910 --> 00:08:42,740
+<font face="方正黑体_GBK" size="18">全体人员注意 紧急程序已经启动
+</font><font face="华文中宋" size="14" color="#ffff00">Attention, all personnel. Fail-safe has been initiated.</font>
+
+31
+00:08:42,780 --> 00:08:45,410
+<font face="方正黑体_GBK" size="18">伽马射线污染会在30分钟后爆发
+</font><font face="华文中宋" size="14" color="#ffff00">Gamma decontamination will occur in 30 minutes!</font>
+
+32
+00:08:45,480 --> 00:08:47,180
+<font face="方正黑体_GBK" size="18">立即撤离
+</font><font face="华文中宋" size="14" color="#ffff00">Evacuate immediately!</font>
+
+33
+00:08:47,250 --> 00:08:49,550
+<font face="方正黑体_GBK" size="18">重复 立即撤离
+</font><font face="华文中宋" size="14" color="#ffff00">I repeat, evacuate immediately!</font>
+
+34
+00:09:08,840 --> 00:09:11,830
+<font face="方正黑体_GBK" size="18">- 伊迪丝?  - 大卫 怎么回事?
+</font><font face="华文中宋" size="14" color="#ffff00">- Edith?   - David, what's going on?</font>
+
+35
+00:09:11,910 --> 00:09:15,070
+<font face="方正黑体_GBK" size="18">- 我有话跟你说 伊迪丝  - 布鲁斯 待在这
+</font><font face="华文中宋" size="14" color="#ffff00">- I gotta talk to  you, Edith.   - Bruce, stay here.</font>
+
+36
+00:09:17,180 --> 00:09:19,170
+<font face="方正黑体_GBK" size="18">你在干什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What are you doing?</font>
+
+37
+00:09:52,320 --> 00:09:54,250
+<font face="方正黑体_GBK" size="18">你在干什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What areyou doing?</font>
+
+38
+00:09:54,320 --> 00:09:57,250
+<font face="方正黑体_GBK" size="18">我告诉你什么应该做!
+</font><font face="华文中宋" size="14" color="#ffff00">I'm trying to tellyou what has to be done!</font>
+
+39
+00:09:57,320 --> 00:09:59,760
+<font face="方正黑体_GBK" size="18">大卫 请停下 不
+</font><font face="华文中宋" size="14" color="#ffff00">David, please stop it! No!</font>
+
+40
+00:10:04,930 --> 00:10:06,860
+<font face="方正黑体_GBK" size="18">- 不要!不要!  - 要!
+</font><font face="华文中宋" size="14" color="#ffff00">- No! No!   - Yes!</font>
+
+41
+00:10:06,930 --> 00:10:09,400
+<font face="方正黑体_GBK" size="18">大卫 不要
+</font><font face="华文中宋" size="14" color="#ffff00">David! No!</font>
+
+42
+00:10:15,970 --> 00:10:18,370
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce.</font>
+
+43
+00:10:18,440 --> 00:10:20,380
+<font face="方正黑体_GBK" size="18">布鲁斯 醒醒 孩子
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, wake up, son.</font>
+
+44
+00:10:20,440 --> 00:10:23,440
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce. Bruce.</font>
+
+45
+00:10:26,750 --> 00:10:29,280
+<font face="方正黑体_GBK" size="18">又是个噩梦?
+</font><font face="华文中宋" size="14" color="#ffff00">Another nightmare?</font>
+
+46
+00:10:29,350 --> 00:10:31,880
+<font face="方正黑体_GBK" size="18">我不知道
+</font><font face="华文中宋" size="14" color="#ffff00">I don't know.</font>
+
+47
+00:10:31,960 --> 00:10:34,120
+<font face="方正黑体_GBK" size="18">我不记得了
+</font><font face="华文中宋" size="14" color="#ffff00">I don't remember.</font>
+
+48
+00:10:35,560 --> 00:10:37,550
+<font face="方正黑体_GBK" size="18">你好 妈妈
+</font><font face="华文中宋" size="14" color="#ffff00">Hi, Mom.</font>
+
+49
+00:10:39,000 --> 00:10:41,930
+<font face="方正黑体_GBK" size="18">你就要上大学了
+</font><font face="华文中宋" size="14" color="#ffff00">Already off to college.</font>
+
+50
+00:10:42,000 --> 00:10:43,930
+<font face="方正黑体_GBK" size="18">会想念你的
+</font><font face="华文中宋" size="14" color="#ffff00">Gonna miss you terribly.</font>
+
+51
+00:10:44,000 --> 00:10:45,940
+<font face="方正黑体_GBK" size="18">我也会想你的
+</font><font face="华文中宋" size="14" color="#ffff00">I'll miss you too.</font>
+
+52
+00:10:46,000 --> 00:10:47,990
+<font face="方正黑体_GBK" size="18">来 过来
+</font><font face="华文中宋" size="14" color="#ffff00">Please, come here.</font>
+
+53
+00:10:49,440 --> 00:10:51,870
+<font face="方正黑体_GBK" size="18">看看你
+</font><font face="华文中宋" size="14" color="#ffff00">Look at  you.</font>
+
+54
+00:10:51,940 --> 00:10:55,070
+<font face="方正黑体_GBK" size="18">马上就要成为一个伟大的科学家
+</font><font face="华文中宋" size="14" color="#ffff00">Soon to be a great scientist.</font>
+
+55
+00:10:55,150 --> 00:10:56,940
+<font face="方正黑体_GBK" size="18">我想是的
+</font><font face="华文中宋" size="14" color="#ffff00">I guess.</font>
+
+56
+00:10:57,010 --> 00:10:58,950
+<font face="方正黑体_GBK" size="18">- 谁知道呢?  - 我知道
+</font><font face="华文中宋" size="14" color="#ffff00">- I mean, who knows?   - I do.</font>
+
+57
+00:10:59,020 --> 00:11:03,280
+<font face="方正黑体_GBK" size="18">你有些地方...非常特别
+</font><font face="华文中宋" size="14" color="#ffff00">There's something inside you... so special.</font>
+
+58
+00:11:04,290 --> 00:11:06,220
+<font face="方正黑体_GBK" size="18">一些很伟大的地方
+</font><font face="华文中宋" size="14" color="#ffff00">Some kind of greatness.</font>
+
+59
+00:11:06,290 --> 00:11:08,420
+<font face="方正黑体_GBK" size="18">我肯定总有一天你会...
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sure somedayyou're gonna...</font>
+
+60
+00:11:08,490 --> 00:11:10,890
+<font face="方正黑体_GBK" size="18">将这些与全世界分享
+</font><font face="华文中宋" size="14" color="#ffff00">share it with the whole world.</font>
+
+61
+00:11:55,800 --> 00:12:01,550
+<font face="方正黑体_GBK" size="18">柏克莱核生化学院</font>
+
+62
+00:12:05,450 --> 00:12:08,710
+<font face="方正黑体_GBK" size="18">但我所关心的是 保安应该...
+</font><font face="华文中宋" size="14" color="#ffff00">But as far as I'm concerned, security oughta be--</font>
+
+63
+00:12:08,790 --> 00:12:10,720
+<font face="方正黑体_GBK" size="18">- 早安  - 早安 克伦斯勒博士
+</font><font face="华文中宋" size="14" color="#ffff00">- Good morning.   - Good morning, Dr. Krenzler.</font>
+
+64
+00:12:10,790 --> 00:12:14,620
+<font face="方正黑体_GBK" size="18">安全措施应该加强 这种地方 再小心也不过分
+</font><font face="华文中宋" size="14" color="#ffff00">Security oughta be beefed up. In a place like this you can't be too careful.</font>
+
+65
+00:12:14,690 --> 00:12:16,960
+<font face="方正黑体_GBK" size="18">布鲁斯 大日子
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce! Big day.</font>
+
+66
+00:12:17,030 --> 00:12:20,020
+<font face="方正黑体_GBK" size="18">- 你睡的好吗?我没睡着  - 我睡得很好
+</font><font face="华文中宋" size="14" color="#ffff00">- Did you sleep? I didn't sleep.   - I slept okay.</font>
+
+67
+00:12:20,100 --> 00:12:22,430
+<font face="方正黑体_GBK" size="18">- 贝蒂在吗?  - 她就在附近
+</font><font face="华文中宋" size="14" color="#ffff00">- Is Betty here?   - She's around.</font>
+
+68
+00:12:22,500 --> 00:12:25,630
+<font face="方正黑体_GBK" size="18">我要说 看你那么时髦的头饰...
+</font><font face="华文中宋" size="14" color="#ffff00">I really gotta say, seeing you in that stylin' head wear--</font>
+
+69
+00:12:25,700 --> 00:12:29,040
+<font face="方正黑体_GBK" size="18">你是在暗指我的头盔吗?
+</font><font face="华文中宋" size="14" color="#ffff00">You're implying something about my helmet?</font>
+
+70
+00:12:29,110 --> 00:12:32,080
+<font face="方正黑体_GBK" size="18">你怎么看都是邋遢的呆子 既使在科学家堆里
+</font><font face="华文中宋" size="14" color="#ffff00">You look like a massive nerd, even around other scientists.</font>
+
+71
+00:12:32,140 --> 00:12:36,340
+<font face="方正黑体_GBK" size="18">我能问一下... 她甩你的时候你也戴着这头盔?
+</font><font face="华文中宋" size="14" color="#ffff00">Can Ijust ask--Were you wearing the helmet while she dumpedyou?</font>
+
+72
+00:12:36,410 --> 00:12:38,850
+<font face="方正黑体_GBK" size="18">这头盔是保护我这颗重要大脑的 哈伯
+</font><font face="华文中宋" size="14" color="#ffff00">See, it protects my very important brain, Harper.</font>
+
+73
+00:12:38,920 --> 00:12:41,040
+<font face="方正黑体_GBK" size="18">来准备标本吧
+</font><font face="华文中宋" size="14" color="#ffff00">Go prep the samples.</font>
+
+74
+00:12:42,090 --> 00:12:45,580
+<font face="方正黑体_GBK" size="18">- 嘿!找到你了  - 贝蒂 嘿!
+</font><font face="华文中宋" size="14" color="#ffff00">- Hey. I found  you.   - Betty, hey.</font>
+
+75
+00:12:48,930 --> 00:12:51,020
+<font face="方正黑体_GBK" size="18">我讨厌他们
+</font><font face="华文中宋" size="14" color="#ffff00">I hate them.</font>
+
+76
+00:12:51,100 --> 00:12:54,130
+<font face="方正黑体_GBK" size="18">- 等等 我才到这里  - 我们该讨厌什么?评论委员会
+</font><font face="华文中宋" size="14" color="#ffff00">- Wait, I just got here.   - Who do we hate? The review board.</font>
+
+77
+00:12:54,130 --> 00:12:56,430
+<font face="方正黑体_GBK" size="18">我们要在星期二作报告的
+</font><font face="华文中宋" size="14" color="#ffff00">We have to make a presentation on Tuesday. Ah.</font>
+
+78
+00:12:56,500 --> 00:12:58,490
+<font face="方正黑体_GBK" size="18">你要跟我一起做
+</font><font face="华文中宋" size="14" color="#ffff00">And you're gonna make it with me.</font>
+
+79
+00:12:58,570 --> 00:13:01,270
+<font face="方正黑体_GBK" size="18">你认为我应该吗?是的
+</font><font face="华文中宋" size="14" color="#ffff00">You think I should? Yeah.</font>
+
+80
+00:13:01,340 --> 00:13:03,200
+<font face="方正黑体_GBK" size="18">这方面你很有研究
+</font><font face="华文中宋" size="14" color="#ffff00">You're great with that stuff.</font>
+
+81
+00:13:03,270 --> 00:13:08,510
+<font face="方正黑体_GBK" size="18">一提起微生物和奈米医学 你就来劲了
+</font><font face="华文中宋" size="14" color="#ffff00">You start talking about microbes and nanomeds, you sound almost... passionate.</font>
+
+82
+00:13:10,650 --> 00:13:13,080
+<font face="方正黑体_GBK" size="18">对不起
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sorry.</font>
+
+83
+00:13:13,150 --> 00:13:15,240
+<font face="方正黑体_GBK" size="18">无理了
+</font><font face="华文中宋" size="14" color="#ffff00">That was rude.</font>
+
+84
+00:13:15,320 --> 00:13:17,750
+<font face="方正黑体_GBK" size="18">我们曾经那么亲密 在一起工作
+</font><font face="华文中宋" size="14" color="#ffff00">Look, nobody expects this to be easy,</font>
+
+85
+00:13:17,820 --> 00:13:21,050
+<font face="方正黑体_GBK" size="18">没有人指望这会简单
+</font><font face="华文中宋" size="14" color="#ffff00">us working together after being... so close.</font>
+
+86
+00:13:21,130 --> 00:13:23,060
+<font face="方正黑体_GBK" size="18">我们曾经亲密过?
+</font><font face="华文中宋" size="14" color="#ffff00">We were close?</font>
+
+87
+00:13:23,130 --> 00:13:25,530
+<font face="方正黑体_GBK" size="18">如果我能更...
+</font><font face="华文中宋" size="14" color="#ffff00">Look, if I could be more...</font>
+
+88
+00:13:27,500 --> 00:13:29,430
+<font face="方正黑体_GBK" size="18">不管怎么说 你知道...
+</font><font face="华文中宋" size="14" color="#ffff00">whatever, you know--</font>
+
+89
+00:13:29,500 --> 00:13:31,700
+<font face="方正黑体_GBK" size="18">- 我...只是...  - 别
+</font><font face="华文中宋" size="14" color="#ffff00">- I'm... just...   - Don't.</font>
+
+90
+00:13:31,770 --> 00:13:34,140
+<font face="方正黑体_GBK" size="18">这不是你的错 真的
+</font><font face="华文中宋" size="14" color="#ffff00">It's not your fault. Really.</font>
+
+91
+00:13:34,200 --> 00:13:37,140
+<font face="方正黑体_GBK" size="18">我对感情上冷淡的男人 有莫名的眷恋...
+</font><font face="华文中宋" size="14" color="#ffff00">You're just a by-product...</font>
+
+92
+00:13:37,210 --> 00:13:39,140
+<font face="方正黑体_GBK" size="18">你只是其中一个牺牲品
+</font><font face="华文中宋" size="14" color="#ffff00">of my inexplicable obsession with emotionally distant men.</font>
+
+93
+00:13:39,210 --> 00:13:41,200
+<font face="方正黑体_GBK" size="18">我会放下我们的过去的
+</font><font face="华文中宋" size="14" color="#ffff00">I'll get over us.</font>
+
+94
+00:13:42,280 --> 00:13:44,210
+<font face="方正黑体_GBK" size="18">希望如此
+</font><font face="华文中宋" size="14" color="#ffff00">Good for you.</font>
+
+95
+00:13:44,280 --> 00:13:47,220
+<font face="方正黑体_GBK" size="18">不管怎么说 这次评审把我搞的很紧张
+</font><font face="华文中宋" size="14" color="#ffff00">Anyway, I'm just really stressed about this review.</font>
+
+96
+00:13:47,280 --> 00:13:49,680
+<font face="方正黑体_GBK" size="18">如果今天不能取得令人注目的成果
+</font><font face="华文中宋" size="14" color="#ffff00">Ifwe don't get impressive results today,</font>
+
+97
+00:13:49,780 --> 00:13:51,480
+<font face="方正黑体_GBK" size="18">星期二就会很难通过
+</font><font face="华文中宋" size="14" color="#ffff00">we're gonna have a really hard sell come Tuesday.</font>
+
+98
+00:13:52,820 --> 00:13:54,810
+<font face="方正黑体_GBK" size="18">好的 那就让我们作出些什么
+</font><font face="华文中宋" size="14" color="#ffff00">Well, then, let's go be impressive.</font>
+
+99
+00:14:38,740 --> 00:14:40,670
+<font face="方正黑体_GBK" size="18">哈伯
+</font><font face="华文中宋" size="14" color="#ffff00">Harper?</font>
+
+100
+00:14:40,740 --> 00:14:43,600
+<font face="方正黑体_GBK" size="18">- 准备好了  - 我们开始吧
+</font><font face="华文中宋" size="14" color="#ffff00">- Readywhen you are.   - Let's hit it.</font>
+
+101
+00:14:48,550 --> 00:14:50,340
+<font face="方正黑体_GBK" size="18">检查通过了吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Are we passing inspection?</font>
+
+102
+00:14:50,410 --> 00:14:52,850
+<font face="方正黑体_GBK" size="18">保险装置显示一切正常
+</font><font face="华文中宋" size="14" color="#ffff00">Safeties all going green.</font>
+
+103
+00:14:52,920 --> 00:14:54,910
+<font face="方正黑体_GBK" size="18">倒数计时开始
+</font><font face="华文中宋" size="14" color="#ffff00">Countdown's started.</font>
+
+104
+00:14:57,790 --> 00:14:59,980
+<font face="方正黑体_GBK" size="18">奈米医疗组织释放
+</font><font face="华文中宋" size="14" color="#ffff00">Nanomeds released.</font>
+
+105
+00:15:02,090 --> 00:15:04,030
+<font face="方正黑体_GBK" size="18">4秒
+</font><font face="华文中宋" size="14" color="#ffff00">Four seconds.</font>
+
+106
+00:15:07,200 --> 00:15:09,890
+<font face="方正黑体_GBK" size="18">好的 奈米医疗组织完全扩散开了
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, nanomeds fully dispersed.</font>
+
+107
+00:15:11,370 --> 00:15:15,240
+<font face="方正黑体_GBK" size="18">我们加上伽马射线试试
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, let's hit Freddie with the gamma radiation.</font>
+
+108
+00:15:28,290 --> 00:15:30,190
+<font face="方正黑体_GBK" size="18">伽马射线释放
+</font><font face="华文中宋" size="14" color="#ffff00">Gamma exposure.</font>
+
+109
+00:15:32,290 --> 00:15:34,020
+<font face="方正黑体_GBK" size="18">奈米医疗组织很活跃
+</font><font face="华文中宋" size="14" color="#ffff00">Nanomeds now active.</font>
+
+110
+00:15:37,290 --> 00:15:40,990
+<font face="方正黑体_GBK" size="18">奈米医疗组织在外层复制细胞了
+</font><font face="华文中宋" size="14" color="#ffff00">Nanomeds replicating cells on border.</font>
+
+111
+00:15:41,060 --> 00:15:43,060
+<font face="方正黑体_GBK" size="18">起作用了
+</font><font face="华文中宋" size="14" color="#ffff00">It's working.</font>
+
+112
+00:15:46,540 --> 00:15:50,440
+<font face="方正黑体_GBK" size="18">细胞复制与分解比率保持在1%
+</font><font face="华文中宋" size="14" color="#ffff00">Cell copyto disassemble ratio holding within one percent.</font>
+
+113
+00:15:57,650 --> 00:16:00,450
+<font face="方正黑体_GBK" size="18">奈米医疗组织不均衡了
+</font><font face="华文中宋" size="14" color="#ffff00">Imbalanced nanomed activity.</font>
+
+114
+00:16:12,660 --> 00:16:15,100
+<font face="方正黑体_GBK" size="18">你打算周一对评审小组说...
+</font><font face="华文中宋" size="14" color="#ffff00">You wanna go to the review board on Monday and tell 'em...</font>
+
+115
+00:16:15,170 --> 00:16:18,260
+<font face="方正黑体_GBK" size="18">我们发明了一种新的爆破青蛙的方法?
+</font><font face="华文中宋" size="14" color="#ffff00">we've developed a brand-new method for exploding frogs?</font>
+
+116
+00:16:18,340 --> 00:16:21,600
+<font face="方正黑体_GBK" size="18">是的 这也许有市场呢
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah, I think maybe there's a market for it.</font>
+
+117
+00:16:21,670 --> 00:16:23,970
+<font face="方正黑体_GBK" size="18">我是说 也许有瘟疫什么的
+</font><font face="华文中宋" size="14" color="#ffff00">I mean, what if there's a plague?</font>
+
+118
+00:16:24,040 --> 00:16:26,740
+<font face="方正黑体_GBK" size="18">你吃什么 贝蒂 一瓶啤酒?
+</font><font face="华文中宋" size="14" color="#ffff00">What have you had, Betty, like, one beer?</font>
+
+119
+00:16:26,810 --> 00:16:29,750
+<font face="方正黑体_GBK" size="18">我只是说...我只是说 你知道
+</font><font face="华文中宋" size="14" color="#ffff00">I'm just sa--I'm just saying, you know,</font>
+
+120
+00:16:29,810 --> 00:16:32,250
+<font face="方正黑体_GBK" size="18">如果青蛙开始从天上掉下来
+</font><font face="华文中宋" size="14" color="#ffff00">frogs start falling from the sky,</font>
+
+121
+00:16:32,320 --> 00:16:34,680
+<font face="方正黑体_GBK" size="18">他们会找谁帮忙?
+</font><font face="华文中宋" size="14" color="#ffff00">who do they come to?</font>
+
+122
+00:16:34,750 --> 00:16:36,690
+<font face="方正黑体_GBK" size="18">我们会举世闻名
+</font><font face="华文中宋" size="14" color="#ffff00">We'd be world-renowned.</font>
+
+123
+00:16:36,750 --> 00:16:38,910
+<font face="方正黑体_GBK" size="18">令双亲感到骄傲
+</font><font face="华文中宋" size="14" color="#ffff00">Make anyparent proud.</font>
+
+124
+00:16:40,120 --> 00:16:42,060
+<font face="方正黑体_GBK" size="18">我打赌他们会
+</font><font face="华文中宋" size="14" color="#ffff00">I bet theywould be.</font>
+
+125
+00:16:42,130 --> 00:16:45,120
+<font face="方正黑体_GBK" size="18">他们还真希望我成为科学家
+</font><font face="华文中宋" size="14" color="#ffff00">They actually did want me to be a scientist.</font>
+
+126
+00:16:46,260 --> 00:16:48,250
+<font face="方正黑体_GBK" size="18">我是说 你的亲生父母
+</font><font face="华文中宋" size="14" color="#ffff00">I mean, your birth parents.</font>
+
+127
+00:16:50,030 --> 00:16:51,970
+<font face="方正黑体_GBK" size="18">我想我们永远不会知道的
+</font><font face="华文中宋" size="14" color="#ffff00">Guess we'll never know.</font>
+
+128
+00:16:55,040 --> 00:16:57,970
+<font face="方正黑体_GBK" size="18">我不明白 你为什么从不试图找到他们
+</font><font face="华文中宋" size="14" color="#ffff00">I don't understand why you don't want to find out about them.</font>
+
+129
+00:16:58,040 --> 00:17:01,480
+<font face="方正黑体_GBK" size="18">他们死了 他们在我有记忆前就死了
+</font><font face="华文中宋" size="14" color="#ffff00">They're dead. They died before I can remember anything.</font>
+
+130
+00:17:01,550 --> 00:17:04,410
+<font face="方正黑体_GBK" size="18">你总提起这些做什么?
+</font><font face="华文中宋" size="14" color="#ffff00">Why do you always come back to this?</font>
+
+131
+00:17:04,480 --> 00:17:06,750
+<font face="方正黑体_GBK" size="18">我也不知道
+</font><font face="华文中宋" size="14" color="#ffff00">Don't know.</font>
+
+132
+00:17:06,820 --> 00:17:10,150
+<font face="方正黑体_GBK" size="18">我总觉着你有什么东西不愿示人
+</font><font face="华文中宋" size="14" color="#ffff00">I guess I figure there's more to you than you like to show.</font>
+
+133
+00:17:11,150 --> 00:17:13,320
+<font face="方正黑体_GBK" size="18">说出来你又不会少什么
+</font><font face="华文中宋" size="14" color="#ffff00">I guess there couldn't be any less.</font>
+
+134
+00:17:14,560 --> 00:17:17,490
+<font face="方正黑体_GBK" size="18">没错 你看 我们说了一圈又绕回来了
+</font><font face="华文中宋" size="14" color="#ffff00">Right. So now we come full circle back to that.</font>
+
+135
+00:17:17,560 --> 00:17:19,550
+<font face="方正黑体_GBK" size="18">干得好 贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">Nice work, Betty.</font>
+
+136
+00:17:32,910 --> 00:17:34,900
+<font face="方正黑体_GBK" size="18">贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">Betty.</font>
+
+137
+00:17:36,050 --> 00:17:37,670
+<font face="方正黑体_GBK" size="18">克兰?
+</font><font face="华文中宋" size="14" color="#ffff00">Glen. Hey.</font>
+
+138
+00:17:39,750 --> 00:17:41,810
+<font face="方正黑体_GBK" size="18">你好
+</font><font face="华文中宋" size="14" color="#ffff00">Hi.</font>
+
+139
+00:17:43,220 --> 00:17:45,310
+<font face="方正黑体_GBK" size="18">你的制服怎么了?
+</font><font face="华文中宋" size="14" color="#ffff00">What happened toyour uniform?</font>
+
+140
+00:17:45,390 --> 00:17:47,650
+<font face="方正黑体_GBK" size="18">哦 我...转业了
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, I, uh--I switched over.</font>
+
+141
+00:17:47,720 --> 00:17:50,160
+<font face="方正黑体_GBK" size="18">我仍然和你父亲一起工作 但...
+</font><font face="华文中宋" size="14" color="#ffff00">I'm still working with your father, but--</font>
+
+142
+00:17:50,230 --> 00:17:53,860
+<font face="方正黑体_GBK" size="18">你知道 军方把所有有意思的项目都转包出去...
+</font><font face="华文中宋" size="14" color="#ffff00">Well, you know, the military's subcontracting out all the most interesting work, and--</font>
+
+143
+00:17:55,400 --> 00:17:57,390
+<font face="方正黑体_GBK" size="18">而且报酬丰厚
+</font><font face="华文中宋" size="14" color="#ffff00">Can't argue with a paycheck.</font>
+
+144
+00:17:57,470 --> 00:18:00,400
+<font face="方正黑体_GBK" size="18">现在基地的所有实验室基本上都归我管了
+</font><font face="华文中宋" size="14" color="#ffff00">I basically run all the labs on the base now.</font>
+
+145
+00:18:00,470 --> 00:18:02,400
+<font face="方正黑体_GBK" size="18">哦
+</font><font face="华文中宋" size="14" color="#ffff00">Oh.</font>
+
+146
+00:18:04,010 --> 00:18:06,240
+<font face="方正黑体_GBK" size="18">嗨 你...
+</font><font face="华文中宋" size="14" color="#ffff00">Hey, you're uh--</font>
+
+147
+00:18:06,310 --> 00:18:08,300
+<font face="方正黑体_GBK" size="18">看起相当不错
+</font><font face="华文中宋" size="14" color="#ffff00">you're looking good.</font>
+
+148
+00:18:14,380 --> 00:18:16,550
+<font face="方正黑体_GBK" size="18">你是遗传学专家
+</font><font face="华文中宋" size="14" color="#ffff00">You're the genetics expert.</font>
+
+149
+00:18:27,900 --> 00:18:30,730
+<font face="方正黑体_GBK" size="18">啊 大学里的美好时光
+</font><font face="华文中宋" size="14" color="#ffff00">Ah, the good old college days.</font>
+
+150
+00:18:32,100 --> 00:18:34,090
+<font face="方正黑体_GBK" size="18">在这里怎么样?
+</font><font face="华文中宋" size="14" color="#ffff00">So, how's business?</font>
+
+151
+00:18:36,110 --> 00:18:38,040
+<font face="方正黑体_GBK" size="18">什么意思?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you want?</font>
+
+152
+00:18:39,680 --> 00:18:42,610
+<font face="方正黑体_GBK" size="18">好吧 我直说
+</font><font face="华文中宋" size="14" color="#ffff00">All right, I'll cut to the chase.</font>
+
+153
+00:18:42,680 --> 00:18:45,610
+<font face="方正黑体_GBK" size="18">我听到一些有意思的传言 是关于你们实验室里研究
+</font><font face="华文中宋" size="14" color="#ffff00">I've been hearing interesting things about what you guys are doing here.</font>
+
+154
+00:18:45,680 --> 00:18:49,620
+<font face="方正黑体_GBK" size="18">你们那台分子设备有不可估量的实用价值
+</font><font face="华文中宋" size="14" color="#ffff00">Your little molecular machines have some incredible implications.</font>
+
+155
+00:18:49,690 --> 00:18:52,620
+<font face="方正黑体_GBK" size="18">来为阿瑟娜工作怎么样?
+</font><font face="华文中宋" size="14" color="#ffff00">Howwould you like to comeworkfor Atheon?</font>
+
+156
+00:18:52,690 --> 00:18:55,620
+<font face="方正黑体_GBK" size="18">可以赚目前十倍的薪水...
+</font><font face="华文中宋" size="14" color="#ffff00">Get paid 1 0 times as much as you earn now...</font>
+
+157
+00:18:55,690 --> 00:18:58,390
+<font face="方正黑体_GBK" size="18">还可以分享专利权
+</font><font face="华文中宋" size="14" color="#ffff00">and own a piece ofthe patents.</font>
+
+158
+00:19:00,230 --> 00:19:02,220
+<font face="方正黑体_GBK" size="18">只要你一句话
+</font><font face="华文中宋" size="14" color="#ffff00">You just have to say the word.</font>
+
+159
+00:19:02,300 --> 00:19:04,290
+<font face="方正黑体_GBK" size="18">两个字...出去
+</font><font face="华文中宋" size="14" color="#ffff00">Two words: the door.</font>
+
+160
+00:19:23,550 --> 00:19:25,490
+<font face="方正黑体_GBK" size="18">将军
+</font><font face="华文中宋" size="14" color="#ffff00">General?</font>
+
+161
+00:19:25,560 --> 00:19:27,680
+<font face="方正黑体_GBK" size="18">进来
+</font><font face="华文中宋" size="14" color="#ffff00">Come in.</font>
+
+162
+00:19:28,830 --> 00:19:31,390
+<font face="方正黑体_GBK" size="18">塔尔博特希望你能看看这个 长官
+</font><font face="华文中宋" size="14" color="#ffff00">Talbot wanted you to see this, sir.</font>
+
+163
+00:19:31,460 --> 00:19:35,490
+<font face="方正黑体_GBK" size="18">是关于阿西娜打算收购 并搬迁到沙漠基地的一家实验室
+</font><font face="华文中宋" size="14" color="#ffff00">It's about a lab Atheon is targeting for acquisition and removal to desert base.</font>
+
+164
+00:19:36,700 --> 00:19:38,860
+<font face="方正黑体_GBK" size="18">为什么不经国安局处理?
+</font><font face="华文中宋" size="14" color="#ffff00">Why isn't it going through N.S.C.?</font>
+
+165
+00:19:40,700 --> 00:19:44,300
+<font face="方正黑体_GBK" size="18">和你的女儿有关 长官
+</font><font face="华文中宋" size="14" color="#ffff00">It, uh, concerns your daughter, sir.</font>
+
+166
+00:19:52,050 --> 00:19:54,480
+<font face="方正黑体_GBK" size="18">对不起
+</font><font face="华文中宋" size="14" color="#ffff00">Hi. Sorry.</font>
+
+167
+00:19:56,220 --> 00:20:00,490
+<font face="方正黑体_GBK" size="18">嗨 贝尼怎么了?他不上夜班了吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Hey, what happened to Benny? Is he not working the night shift anymore?</font>
+
+168
+00:20:00,560 --> 00:20:02,490
+<font face="方正黑体_GBK" size="18">贝尼死了
+</font><font face="华文中宋" size="14" color="#ffff00">Benny's dead.</font>
+
+169
+00:20:02,560 --> 00:20:04,820
+<font face="方正黑体_GBK" size="18">我是新来的
+</font><font face="华文中宋" size="14" color="#ffff00">I'm the new guy.</font>
+
+170
+00:20:04,900 --> 00:20:06,890
+<font face="方正黑体_GBK" size="18">哦
+</font><font face="华文中宋" size="14" color="#ffff00">Oh.</font>
+
+171
+00:20:08,400 --> 00:20:10,560
+<font face="方正黑体_GBK" size="18">- 见到你很高兴  - 我也是
+</font><font face="华文中宋" size="14" color="#ffff00">- Good to meet  you.   - Same.</font>
+
+172
+00:20:34,690 --> 00:20:36,920
+<font face="方正黑体_GBK" size="18">再照一张
+</font><font face="华文中宋" size="14" color="#ffff00">Let's try another.</font>
+
+173
+00:20:36,990 --> 00:20:39,830
+<font face="方正黑体_GBK" size="18">不 待在这
+</font><font face="华文中宋" size="14" color="#ffff00">Mmm, no. Stay here.</font>
+
+174
+00:20:39,900 --> 00:20:42,020
+<font face="方正黑体_GBK" size="18">你看起来无精打采的
+</font><font face="华文中宋" size="14" color="#ffff00">I look tired anyway.</font>
+
+175
+00:20:42,100 --> 00:20:44,290
+<font face="方正黑体_GBK" size="18">但是你看起来气色相当好
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah, but you look great.</font>
+
+176
+00:20:46,940 --> 00:20:48,870
+<font face="方正黑体_GBK" size="18">怎么了?
+</font><font face="华文中宋" size="14" color="#ffff00">What's the matter?</font>
+
+177
+00:20:48,940 --> 00:20:51,530
+<font face="方正黑体_GBK" size="18">那些恶梦
+</font><font face="华文中宋" size="14" color="#ffff00">It's these dreams, Doctor.</font>
+
+178
+00:20:51,610 --> 00:20:54,870
+<font face="方正黑体_GBK" size="18">一直缠绕着我 都是可怕的梦
+</font><font face="华文中宋" size="14" color="#ffff00">I keep having them, and they're terrible.</font>
+
+179
+00:20:56,250 --> 00:20:58,650
+<font face="方正黑体_GBK" size="18">说说你的梦
+</font><font face="华文中宋" size="14" color="#ffff00">Tell me aboutyour dream.</font>
+
+180
+00:21:01,380 --> 00:21:03,750
+<font face="方正黑体_GBK" size="18">从...
+</font><font face="华文中宋" size="14" color="#ffff00">Well, it starts--</font>
+
+181
+00:21:03,820 --> 00:21:07,090
+<font face="方正黑体_GBK" size="18">从记忆开始...我想这是我最早的记忆
+</font><font face="华文中宋" size="14" color="#ffff00">it starts with a memory--I think it's my first memory.</font>
+
+182
+00:21:07,160 --> 00:21:10,150
+<font face="方正黑体_GBK" size="18">我记得的是...
+</font><font face="华文中宋" size="14" color="#ffff00">It's this image I have...</font>
+
+183
+00:21:10,230 --> 00:21:12,990
+<font face="方正黑体_GBK" size="18">那时我只有两岁
+</font><font face="华文中宋" size="14" color="#ffff00">from when I was maybe twoyears old.</font>
+
+184
+00:21:44,760 --> 00:21:47,200
+<font face="方正黑体_GBK" size="18">你觉得这真的是梦吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Do you think it's just a dream?</font>
+
+185
+00:21:47,260 --> 00:21:49,000
+<font face="方正黑体_GBK" size="18">不 我想那是我和父亲
+</font><font face="华文中宋" size="14" color="#ffff00">No, I think it's something that happened</font>
+
+186
+00:21:49,000 --> 00:21:52,660
+<font face="方正黑体_GBK" size="18">生活在沙漠基地时发生的一些事情
+</font><font face="华文中宋" size="14" color="#ffff00">when I was living at a desert base with my father.</font>
+
+187
+00:21:53,670 --> 00:21:55,600
+<font face="方正黑体_GBK" size="18">现在
+</font><font face="华文中宋" size="14" color="#ffff00">Anyhow,</font>
+
+188
+00:21:55,670 --> 00:21:58,110
+<font face="方正黑体_GBK" size="18">梦继续...
+</font><font face="华文中宋" size="14" color="#ffff00">the dream goes on and...</font>
+
+189
+00:21:58,170 --> 00:22:00,040
+<font face="方正黑体_GBK" size="18">突然 我孤单一人
+</font><font face="华文中宋" size="14" color="#ffff00">suddenlyI'm alone.</font>
+
+190
+00:22:35,580 --> 00:22:37,510
+<font face="方正黑体_GBK" size="18">太可怕了
+</font><font face="华文中宋" size="14" color="#ffff00">That's terrible.</font>
+
+191
+00:22:37,580 --> 00:22:39,950
+<font face="方正黑体_GBK" size="18">你知道我永远不会伤害你的
+</font><font face="华文中宋" size="14" color="#ffff00">You know I'd never hurt  you.</font>
+
+192
+00:23:15,550 --> 00:23:17,490
+<font face="方正黑体_GBK" size="18">嗨!
+</font><font face="华文中宋" size="14" color="#ffff00">Hey there.</font>
+
+193
+00:23:17,550 --> 00:23:20,610
+<font face="方正黑体_GBK" size="18">你叫什么名字 小可爱?
+</font><font face="华文中宋" size="14" color="#ffff00">What'syourname, darlin'?</font>
+
+194
+00:23:21,630 --> 00:23:23,560
+<font face="方正黑体_GBK" size="18">你叫什么名字?
+</font><font face="华文中宋" size="14" color="#ffff00">Eh? What's your name?</font>
+
+195
+00:23:24,290 --> 00:23:26,730
+<font face="方正黑体_GBK" size="18">好吧
+</font><font face="华文中宋" size="14" color="#ffff00">Okay.</font>
+
+196
+00:23:26,800 --> 00:23:28,790
+<font face="方正黑体_GBK" size="18">没事了
+</font><font face="华文中宋" size="14" color="#ffff00">It's okay.</font>
+
+197
+00:25:19,410 --> 00:25:21,340
+<font face="方正黑体_GBK" size="18">我要和你谈谈 伊蒂丝
+</font><font face="华文中宋" size="14" color="#ffff00">I gotta talk to  you, Edith.</font>
+
+198
+00:25:21,410 --> 00:25:23,500
+<font face="方正黑体_GBK" size="18">布鲁斯 呆在这别动
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, stay here!</font>
+
+199
+00:26:43,730 --> 00:26:46,720
+<font face="方正黑体_GBK" size="18">"C...T...G...
+</font><font face="华文中宋" size="14" color="#ffff00">"C... T... G...</font>
+
+200
+00:26:46,800 --> 00:26:49,990
+<font face="方正黑体_GBK" size="18">A...G."
+</font><font face="华文中宋" size="14" color="#ffff00">A... G."</font>
+
+201
+00:26:52,240 --> 00:26:54,230
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce.</font>
+
+202
+00:27:00,410 --> 00:27:02,340
+<font face="方正黑体_GBK" size="18">我的布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">My Bruce.</font>
+
+203
+00:27:11,860 --> 00:27:14,260
+<font face="方正黑体_GBK" size="18">早安 克兰来拜访我们了
+</font><font face="华文中宋" size="14" color="#ffff00">Good morning. Glen dropped by.</font>
+
+204
+00:27:14,320 --> 00:27:16,260
+<font face="方正黑体_GBK" size="18">他在这里做什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What's he doing here?</font>
+
+205
+00:27:16,330 --> 00:27:18,090
+<font face="方正黑体_GBK" size="18">克伦斯勒博士
+</font><font face="华文中宋" size="14" color="#ffff00">You know, Dr. Krenzler,</font>
+
+206
+00:27:18,160 --> 00:27:21,130
+<font face="方正黑体_GBK" size="18">你跟我一直没合适机会互相了解
+</font><font face="华文中宋" size="14" color="#ffff00">you and I have never had the chance to get to know each other properly.</font>
+
+207
+00:27:21,200 --> 00:27:25,190
+<font face="方正黑体_GBK" size="18">那是因为我不想了解你 不管合适还是不合适
+</font><font face="华文中宋" size="14" color="#ffff00">Well, that's because I don't want to get to know  you, properly or improperly.</font>
+
+208
+00:27:27,270 --> 00:27:29,200
+<font face="方正黑体_GBK" size="18">出去
+</font><font face="华文中宋" size="14" color="#ffff00">So leave.</font>
+
+209
+00:27:29,270 --> 00:27:31,260
+<font face="方正黑体_GBK" size="18">嘿 别紧张
+</font><font face="华文中宋" size="14" color="#ffff00">Hey, no worries.</font>
+
+210
+00:27:39,450 --> 00:27:41,750
+<font face="方正黑体_GBK" size="18">让我来提醒你一下
+</font><font face="华文中宋" size="14" color="#ffff00">Let me give you a little heads-up.</font>
+
+211
+00:27:42,820 --> 00:27:45,310
+<font face="方正黑体_GBK" size="18">善意的邀请和恶意的抢夺...
+</font><font face="华文中宋" size="14" color="#ffff00">There is a hairsbreadth between friendly offer...</font>
+
+212
+00:27:45,390 --> 00:27:47,320
+<font face="方正黑体_GBK" size="18">往往只有一线之差
+</font><font face="华文中宋" size="14" color="#ffff00">and hostile takeover.</font>
+
+213
+00:27:47,390 --> 00:27:51,330
+<font face="方正黑体_GBK" size="18">我调查过了 你们现在的研究非常有价值
+</font><font face="华文中宋" size="14" color="#ffff00">I've done my homework. The workyou're doing here is dynamite.</font>
+
+214
+00:27:51,390 --> 00:27:53,330
+<font face="方正黑体_GBK" size="18">想想...
+</font><font face="华文中宋" size="14" color="#ffff00">Think: GIs embedded with technology...</font>
+
+215
+00:27:53,400 --> 00:27:56,920
+<font face="方正黑体_GBK" size="18">具备在战场上可以即时自愈能力的士兵...
+</font><font face="华文中宋" size="14" color="#ffff00">that makes them instantlyrepairable on the battlefield...</font>
+
+216
+00:27:57,000 --> 00:27:59,060
+<font face="方正黑体_GBK" size="18">只有我们掌控
+</font><font face="华文中宋" size="14" color="#ffff00">in oursole possession.</font>
+
+217
+00:28:00,140 --> 00:28:02,630
+<font face="方正黑体_GBK" size="18">这可是笔大买卖
+</font><font face="华文中宋" size="14" color="#ffff00">That's a hell of a business.</font>
+
+218
+00:28:02,710 --> 00:28:04,570
+<font face="方正黑体_GBK" size="18">这不是我们做这个的目的
+</font><font face="华文中宋" size="14" color="#ffff00">Well, it's not what we're doing here.</font>
+
+219
+00:28:04,570 --> 00:28:06,570
+<font face="方正黑体_GBK" size="18">我们是为普通人作基础科学研究
+</font><font face="华文中宋" size="14" color="#ffff00">We're doing the basic science for everyone.</font>
+
+220
+00:28:08,850 --> 00:28:11,110
+<font face="方正黑体_GBK" size="18">以后我会写本书...
+</font><font face="华文中宋" size="14" color="#ffff00">You know, someday I'm gonna write a book...</font>
+
+221
+00:28:11,180 --> 00:28:16,170
+<font face="方正黑体_GBK" size="18">我会把它称为"愚蠢的理想和聪明但身无分文的科学家"
+</font><font face="华文中宋" size="14" color="#ffff00">and I'm gonna call it When Stupid Ideals Happen To Smart, Penniless Scientists.</font>
+
+222
+00:28:17,190 --> 00:28:20,310
+<font face="方正黑体_GBK" size="18">那时 布鲁斯 你会知道我的利害的
+</font><font face="华文中宋" size="14" color="#ffff00">I n the meantime, Bruce, you will be hearing from me.</font>
+
+223
+00:28:42,880 --> 00:28:44,870
+<font face="方正黑体_GBK" size="18">关于克兰 我...
+</font><font face="华文中宋" size="14" color="#ffff00">About Glen, I, um--</font>
+
+224
+00:28:44,950 --> 00:28:47,610
+<font face="方正黑体_GBK" size="18">没什么可说的
+</font><font face="华文中宋" size="14" color="#ffff00">There's nothing to talk about.</font>
+
+225
+00:28:49,920 --> 00:28:51,850
+<font face="方正黑体_GBK" size="18">好吧
+</font><font face="华文中宋" size="14" color="#ffff00">Okay.</font>
+
+226
+00:28:51,920 --> 00:28:55,910
+<font face="方正黑体_GBK" size="18">我只是想说 别因为他而担心... 我会处理这件事
+</font><font face="华文中宋" size="14" color="#ffff00">I just wanted to say, don't worry about him--I'll handle it.</font>
+
+227
+00:28:58,330 --> 00:29:00,320
+<font face="方正黑体_GBK" size="18">怎样?
+</font><font face="华文中宋" size="14" color="#ffff00">How?</font>
+
+228
+00:29:01,400 --> 00:29:03,420
+<font face="方正黑体_GBK" size="18">我打电话给我父亲
+</font><font face="华文中宋" size="14" color="#ffff00">I'm gonna call my father,</font>
+
+229
+00:29:04,630 --> 00:29:06,570
+<font face="方正黑体_GBK" size="18">给他施加点压力
+</font><font face="华文中宋" size="14" color="#ffff00">ask him to exertsome pressure.</font>
+
+230
+00:29:06,640 --> 00:29:10,000
+<font face="方正黑体_GBK" size="18">但我听说你和你父亲互相不说话
+</font><font face="华文中宋" size="14" color="#ffff00">Last I heard, you and your father weren't speaking.</font>
+
+231
+00:29:12,080 --> 00:29:14,010
+<font face="方正黑体_GBK" size="18">那么...
+</font><font face="华文中宋" size="14" color="#ffff00">Well...</font>
+
+232
+00:29:14,080 --> 00:29:16,710
+<font face="方正黑体_GBK" size="18">我想现在有话题和他谈了
+</font><font face="华文中宋" size="14" color="#ffff00">I guess now I have something to talkwith him about.</font>
+
+233
+00:29:17,210 --> 00:29:19,150
+<font face="方正黑体_GBK" size="18">电路好像出问题了
+</font><font face="华文中宋" size="14" color="#ffff00">I think this circuit's kinda fried.</font>
+
+234
+00:29:19,220 --> 00:29:22,150
+<font face="方正黑体_GBK" size="18">我也不确定 你能来看看吗?
+</font><font face="华文中宋" size="14" color="#ffff00">I don't know. Maybe you wanna come take a look at it.</font>
+
+235
+00:29:22,220 --> 00:29:24,550
+<font face="方正黑体_GBK" size="18">好的 我就来
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, I'll be right there.</font>
+
+236
+00:29:31,830 --> 00:29:33,990
+<font face="方正黑体_GBK" size="18">啊!
+</font><font face="华文中宋" size="14" color="#ffff00">Aah!</font>
+
+237
+00:29:50,410 --> 00:29:54,370
+<font face="方正黑体_GBK" size="18">伽马值太高了 布鲁斯 停不下来了!
+</font><font face="华文中宋" size="14" color="#ffff00">The gamma's too high! Bruce, I can't stop it!</font>
+
+238
+00:29:56,450 --> 00:29:59,050
+<font face="方正黑体_GBK" size="18">哈伯 快出去!
+</font><font face="华文中宋" size="14" color="#ffff00">Harper, get out!</font>
+
+239
+00:29:59,120 --> 00:30:01,850
+<font face="方正黑体_GBK" size="18">出去!
+</font><font face="华文中宋" size="14" color="#ffff00">Get out!</font>
+
+240
+00:30:27,620 --> 00:30:29,550
+<font face="方正黑体_GBK" size="18">哈伯怎么样了?
+</font><font face="华文中宋" size="14" color="#ffff00">How's Harper?</font>
+
+241
+00:30:29,620 --> 00:30:31,550
+<font face="方正黑体_GBK" size="18">他没事
+</font><font face="华文中宋" size="14" color="#ffff00">He's all right.</font>
+
+242
+00:30:31,620 --> 00:30:33,560
+<font face="方正黑体_GBK" size="18">你救了他
+</font><font face="华文中宋" size="14" color="#ffff00">You saved him.</font>
+
+243
+00:30:33,620 --> 00:30:37,560
+<font face="方正黑体_GBK" size="18">我想他短时间不能回实验室了
+</font><font face="华文中宋" size="14" color="#ffff00">I don't think he's coming back to the lab for a while, though.</font>
+
+244
+00:30:42,870 --> 00:30:45,360
+<font face="方正黑体_GBK" size="18">我怎么也想不通
+</font><font face="华文中宋" size="14" color="#ffff00">I don't understand how this is possible.</font>
+
+245
+00:30:46,470 --> 00:30:48,400
+<font face="方正黑体_GBK" size="18">按理说 你应该死了
+</font><font face="华文中宋" size="14" color="#ffff00">You should be dead.</font>
+
+246
+00:30:50,470 --> 00:30:54,140
+<font face="方正黑体_GBK" size="18">那些奈米医疗组织起作用了
+</font><font face="华文中宋" size="14" color="#ffff00">Theyworked--the nanomeds.</font>
+
+247
+00:30:54,210 --> 00:30:56,140
+<font face="方正黑体_GBK" size="18">我感觉好极了
+</font><font face="华文中宋" size="14" color="#ffff00">I mean, I feel great.</font>
+
+248
+00:30:56,210 --> 00:30:59,670
+<font face="方正黑体_GBK" size="18">我觉得...说不清 它们一定...修复了我的身体
+</font><font face="华文中宋" size="14" color="#ffff00">I feel like--I don't know. They must have, like, fixed me.</font>
+
+249
+00:30:59,750 --> 00:31:03,340
+<font face="方正黑体_GBK" size="18">布鲁斯 它们只会杀死所接触到的一切
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, they've killed everything else that they've come into contact with.</font>
+
+250
+00:31:05,720 --> 00:31:07,660
+<font face="方正黑体_GBK" size="18">你确定医生真的检查过了?
+</font><font face="华文中宋" size="14" color="#ffff00">Are you sure the doctor checked?</font>
+
+251
+00:31:07,720 --> 00:31:09,660
+<font face="方正黑体_GBK" size="18">医生已经给我做了彻底检查
+</font><font face="华文中宋" size="14" color="#ffff00">The doctor gave me the full workup.</font>
+
+252
+00:31:09,730 --> 00:31:11,920
+<font face="方正黑体_GBK" size="18">他还问我怎么会这么好
+</font><font face="华文中宋" size="14" color="#ffff00">He wants to know where he can get what I'm taking.</font>
+
+253
+00:31:11,990 --> 00:31:13,990
+<font face="方正黑体_GBK" size="18">我完全正常
+</font><font face="华文中宋" size="14" color="#ffff00">I'm a hundred percent.</font>
+
+254
+00:31:15,030 --> 00:31:17,020
+<font face="方正黑体_GBK" size="18">甚至...更好
+</font><font face="华文中宋" size="14" color="#ffff00">More.</font>
+
+255
+00:31:17,100 --> 00:31:19,430
+<font face="方正黑体_GBK" size="18">什么意思?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you mean?</font>
+
+256
+00:31:19,500 --> 00:31:21,440
+<font face="方正黑体_GBK" size="18">还记得我受伤的膝盖吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Remember my bad knee?</font>
+
+257
+00:31:21,500 --> 00:31:23,870
+<font face="方正黑体_GBK" size="18">现在它已经完全正常了
+</font><font face="华文中宋" size="14" color="#ffff00">Well, now it's my good knee.</font>
+
+258
+00:31:23,940 --> 00:31:26,470
+<font face="方正黑体_GBK" size="18">布鲁斯 这可不是闹着玩的
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, this isn't funny.</font>
+
+259
+00:31:26,540 --> 00:31:28,530
+<font face="方正黑体_GBK" size="18">我当时一直在看着你
+</font><font face="华文中宋" size="14" color="#ffff00">I was watching  you.</font>
+
+260
+00:31:29,680 --> 00:31:34,140
+<font face="方正黑体_GBK" size="18">你当时就要死了 而我却眼睁睁看着你死
+</font><font face="华文中宋" size="14" color="#ffff00">You were gonna die, and I was gonna have to watch you die.</font>
+
+261
+00:31:34,220 --> 00:31:36,850
+<font face="方正黑体_GBK" size="18">贝蒂...
+</font><font face="华文中宋" size="14" color="#ffff00">Betty...</font>
+
+262
+00:31:36,920 --> 00:31:38,910
+<font face="方正黑体_GBK" size="18">对不起
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sorry.</font>
+
+263
+00:31:40,590 --> 00:31:43,180
+<font face="方正黑体_GBK" size="18">真的
+</font><font face="华文中宋" size="14" color="#ffff00">Really.</font>
+
+264
+00:31:43,260 --> 00:31:45,820
+<font face="方正黑体_GBK" size="18">嘿 我不会爆开的 相信我好吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Hey, I'm not gonna explode. Okay?</font>
+
+265
+00:31:45,900 --> 00:31:48,830
+<font face="方正黑体_GBK" size="18">对
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah.</font>
+
+266
+00:31:48,900 --> 00:31:52,030
+<font face="方正黑体_GBK" size="18">你应该休息休息
+</font><font face="华文中宋" size="14" color="#ffff00">You should get some rest.</font>
+
+267
+00:31:52,100 --> 00:31:54,090
+<font face="方正黑体_GBK" size="18">我真的很好
+</font><font face="华文中宋" size="14" color="#ffff00">And I'm fine. Really.</font>
+
+268
+00:31:55,440 --> 00:31:57,430
+<font face="方正黑体_GBK" size="18">从来没有这么好过
+</font><font face="华文中宋" size="14" color="#ffff00">I've never felt better.</font>
+
+269
+00:33:00,200 --> 00:33:03,040
+<font face="方正黑体_GBK" size="18">你的名字不是克伦斯勒
+</font><font face="华文中宋" size="14" color="#ffff00">Your name is not Krenzler.</font>
+
+270
+00:33:03,110 --> 00:33:05,370
+<font face="方正黑体_GBK" size="18">而是斑纳
+</font><font face="华文中宋" size="14" color="#ffff00">It's Banner.</font>
+
+271
+00:33:08,680 --> 00:33:11,770
+<font face="方正黑体_GBK" size="18">- 什么?  - 你叫斑纳
+</font><font face="华文中宋" size="14" color="#ffff00">- What?   - Your name--it's Banner.</font>
+
+272
+00:33:11,850 --> 00:33:13,840
+<font face="方正黑体_GBK" size="18">布鲁斯.斑纳
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce Banner.</font>
+
+273
+00:33:15,020 --> 00:33:17,210
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce.</font>
+
+274
+00:33:18,820 --> 00:33:21,450
+<font face="方正黑体_GBK" size="18">- 你怎么进来的?  - 我在这里上班
+</font><font face="华文中宋" size="14" color="#ffff00">- How did you get in here?   - I work here now.</font>
+
+275
+00:33:21,520 --> 00:33:24,320
+<font face="方正黑体_GBK" size="18">在实验室 上夜班
+</font><font face="华文中宋" size="14" color="#ffff00">In the labs. The late shift.</font>
+
+276
+00:33:25,490 --> 00:33:28,330
+<font face="方正黑体_GBK" size="18">这样我就能接近你
+</font><font face="华文中宋" size="14" color="#ffff00">It keeps me close to you.</font>
+
+277
+00:33:28,400 --> 00:33:32,730
+<font face="方正黑体_GBK" size="18">你总是和你的朋友萝丝小姐工作到很晚
+</font><font face="华文中宋" size="14" color="#ffff00">You always work so lateyourself with your friend Miss Ross.</font>
+
+278
+00:33:32,800 --> 00:33:36,140
+<font face="方正黑体_GBK" size="18">不 不 请别 让我说完
+</font><font face="华文中宋" size="14" color="#ffff00">No, no. Please. Please. Let me.</font>
+
+279
+00:33:39,710 --> 00:33:41,900
+<font face="方正黑体_GBK" size="18">你还没好
+</font><font face="华文中宋" size="14" color="#ffff00">You're not well.</font>
+
+280
+00:33:41,980 --> 00:33:44,710
+<font face="方正黑体_GBK" size="18">你刚出了可怕的事故
+</font><font face="华文中宋" size="14" color="#ffff00">You've had a terrible accident.</font>
+
+281
+00:33:46,820 --> 00:33:49,810
+<font face="方正黑体_GBK" size="18">你在疑惑为什么你还活着
+</font><font face="华文中宋" size="14" color="#ffff00">You're wondering whyyou're still alive.</font>
+
+282
+00:33:52,020 --> 00:33:55,010
+<font face="方正黑体_GBK" size="18">你在想这肯定有原因
+</font><font face="华文中宋" size="14" color="#ffff00">You're thinking there's something inside.</font>
+
+283
+00:33:56,030 --> 00:33:58,460
+<font face="方正黑体_GBK" size="18">非比寻常...
+</font><font face="华文中宋" size="14" color="#ffff00">Something different...</font>
+
+284
+00:34:00,330 --> 00:34:02,260
+<font face="方正黑体_GBK" size="18">难以解释
+</font><font face="华文中宋" size="14" color="#ffff00">inexplicable.</font>
+
+285
+00:34:03,770 --> 00:34:06,700
+<font face="方正黑体_GBK" size="18">我能帮你搞清楚..
+</font><font face="华文中宋" size="14" color="#ffff00">I can help you understand,</font>
+
+286
+00:34:06,770 --> 00:34:08,760
+<font face="方正黑体_GBK" size="18">如果你能让我...
+</font><font face="华文中宋" size="14" color="#ffff00">If you'll let me.</font>
+
+287
+00:34:10,440 --> 00:34:12,430
+<font face="方正黑体_GBK" size="18">如果你能...
+</font><font face="华文中宋" size="14" color="#ffff00">If you'll...</font>
+
+288
+00:34:13,540 --> 00:34:15,530
+<font face="方正黑体_GBK" size="18">原谅我的话
+</font><font face="华文中宋" size="14" color="#ffff00">forgive me.</font>
+
+289
+00:34:19,350 --> 00:34:24,180
+<font face="方正黑体_GBK" size="18">听着 先生 我肯定没什么需要原谅你的
+</font><font face="华文中宋" size="14" color="#ffff00">Look, mister, I'm sure I have nothing to forgive you for.</font>
+
+290
+00:34:25,690 --> 00:34:27,620
+<font face="方正黑体_GBK" size="18">你还是请回吧
+</font><font face="华文中宋" size="14" color="#ffff00">So perhaps you should leave now.</font>
+
+291
+00:34:27,690 --> 00:34:29,620
+<font face="方正黑体_GBK" size="18">我会好的
+</font><font face="华文中宋" size="14" color="#ffff00">I'll be fine.</font>
+
+292
+00:34:29,690 --> 00:34:31,630
+<font face="方正黑体_GBK" size="18">你一定要知道
+</font><font face="华文中宋" size="14" color="#ffff00">You must know.</font>
+
+293
+00:34:31,690 --> 00:34:33,960
+<font face="方正黑体_GBK" size="18">也许你不愿相信
+</font><font face="华文中宋" size="14" color="#ffff00">You may not want to believe it,</font>
+
+294
+00:34:34,030 --> 00:34:37,690
+<font face="方正黑体_GBK" size="18">但我从你眼里看得出
+</font><font face="华文中宋" size="14" color="#ffff00">but I can see it in your eyes.</font>
+
+295
+00:34:38,900 --> 00:34:41,370
+<font face="方正黑体_GBK" size="18">太像你母亲了
+</font><font face="华文中宋" size="14" color="#ffff00">So much likeyour mother's.</font>
+
+296
+00:34:42,510 --> 00:34:45,240
+<font face="方正黑体_GBK" size="18">这是理所当然的 因为你是我的骨肉
+</font><font face="华文中宋" size="14" color="#ffff00">Of course, you're my flesh and blood.</font>
+
+297
+00:34:45,310 --> 00:34:49,400
+<font face="方正黑体_GBK" size="18">但也还具有其他的东西 不是吗
+</font><font face="华文中宋" size="14" color="#ffff00">But then, you're something else too, aren'tyou?</font>
+
+298
+00:34:49,480 --> 00:34:51,740
+<font face="方正黑体_GBK" size="18">在身体上是我的儿子
+</font><font face="华文中宋" size="14" color="#ffff00">My physical son,</font>
+
+299
+00:34:52,750 --> 00:34:55,410
+<font face="方正黑体_GBK" size="18">在思想上也是
+</font><font face="华文中宋" size="14" color="#ffff00">but the child of my mind too.</font>
+
+300
+00:34:55,480 --> 00:34:57,420
+<font face="方正黑体_GBK" size="18">不
+</font><font face="华文中宋" size="14" color="#ffff00">No.</font>
+
+301
+00:34:57,490 --> 00:34:59,420
+<font face="方正黑体_GBK" size="18">你胡说
+</font><font face="华文中宋" size="14" color="#ffff00">You're lying.</font>
+
+302
+00:34:59,490 --> 00:35:02,390
+<font face="方正黑体_GBK" size="18">我很小的时候 父母就已双亡
+</font><font face="华文中宋" size="14" color="#ffff00">My parents died when I was a small boy.</font>
+
+303
+00:35:02,460 --> 00:35:05,830
+<font face="方正黑体_GBK" size="18">不 这不是真的 那是他们要你相信的
+</font><font face="华文中宋" size="14" color="#ffff00">No, no, that's not true. That's what theywanted you to believe.</font>
+
+304
+00:35:05,900 --> 00:35:09,190
+<font face="方正黑体_GBK" size="18">实验 事故...都是最高机密
+</font><font face="华文中宋" size="14" color="#ffff00">The experiments, the accident--all top secret.</font>
+
+305
+00:35:09,270 --> 00:35:12,330
+<font face="方正黑体_GBK" size="18">他们把我赶走30年
+</font><font face="华文中宋" size="14" color="#ffff00">They put me away for 30 years.</font>
+
+306
+00:35:12,400 --> 00:35:14,870
+<font face="方正黑体_GBK" size="18">30年
+</font><font face="华文中宋" size="14" color="#ffff00">Thirtyyears!</font>
+
+307
+00:35:15,940 --> 00:35:18,070
+<font face="方正黑体_GBK" size="18">远离你
+</font><font face="华文中宋" size="14" color="#ffff00">Away from  you.</font>
+
+308
+00:35:18,140 --> 00:35:20,130
+<font face="方正黑体_GBK" size="18">远离我们的工作
+</font><font face="华文中宋" size="14" color="#ffff00">Away from ourwork.</font>
+
+309
+00:35:21,310 --> 00:35:23,240
+<font face="方正黑体_GBK" size="18">但他们不能永远管制我
+</font><font face="华文中宋" size="14" color="#ffff00">But they couldn't keep me forever.</font>
+
+310
+00:35:23,310 --> 00:35:26,080
+<font face="方正黑体_GBK" size="18">毕竟 我没疯 他们不得不承认这个
+</font><font face="华文中宋" size="14" color="#ffff00">After all, I'm sane. They had to admit it.</font>
+
+311
+00:35:27,650 --> 00:35:30,310
+<font face="方正黑体_GBK" size="18">你知道
+</font><font face="华文中宋" size="14" color="#ffff00">You see,</font>
+
+312
+00:35:30,390 --> 00:35:32,380
+<font face="方正黑体_GBK" size="18">多年来...
+</font><font face="华文中宋" size="14" color="#ffff00">everything...</font>
+
+313
+00:35:32,460 --> 00:35:34,720
+<font face="方正黑体_GBK" size="18">你卓越的头脑一直追寻的...
+</font><font face="华文中宋" size="14" color="#ffff00">your extraordinary mind...</font>
+
+314
+00:35:34,790 --> 00:35:37,780
+<font face="方正黑体_GBK" size="18">所有的东西...
+</font><font face="华文中宋" size="14" color="#ffff00">has been seeking all theseyears...</font>
+
+315
+00:35:37,860 --> 00:35:40,350
+<font face="方正黑体_GBK" size="18">一直在你体内
+</font><font face="华文中宋" size="14" color="#ffff00">it's been inside you.</font>
+
+316
+00:35:41,360 --> 00:35:43,630
+<font face="方正黑体_GBK" size="18">现在 我们要去理解它
+</font><font face="华文中宋" size="14" color="#ffff00">Now we will understand it.</font>
+
+317
+00:35:43,700 --> 00:35:46,130
+<font face="方正黑体_GBK" size="18">我们要驾驭它
+</font><font face="华文中宋" size="14" color="#ffff00">We will harness it.</font>
+
+318
+00:35:48,170 --> 00:35:50,430
+<font face="方正黑体_GBK" size="18">不 别接 一定是萝丝小姐
+</font><font face="华文中宋" size="14" color="#ffff00">No, don't answer it. It's Miss Ross again.</font>
+
+319
+00:35:50,510 --> 00:35:54,940
+<font face="方正黑体_GBK" size="18">你需要知道一些有关她的事情 布鲁斯 一些棘手的事
+</font><font face="华文中宋" size="14" color="#ffff00">There's something you need to know about her, Bruce. Something troublesome.</font>
+
+320
+00:35:55,010 --> 00:35:57,640
+<font face="方正黑体_GBK" size="18">我会保护你免受她的伤害
+</font><font face="华文中宋" size="14" color="#ffff00">Let me protect you from her.</font>
+
+321
+00:35:57,710 --> 00:36:00,270
+<font face="方正黑体_GBK" size="18">不 滚出去!
+</font><font face="华文中宋" size="14" color="#ffff00">No. Get out.</font>
+
+322
+00:36:00,350 --> 00:36:02,720
+<font face="方正黑体_GBK" size="18">- 布鲁斯...  - 滚出去!
+</font><font face="华文中宋" size="14" color="#ffff00">- Bruce...   - Get out!</font>
+
+323
+00:36:02,790 --> 00:36:05,780
+<font face="方正黑体_GBK" size="18">坐下!
+</font><font face="华文中宋" size="14" color="#ffff00">Sit!</font>
+
+324
+00:36:22,240 --> 00:36:25,500
+<font face="方正黑体_GBK" size="18">我们以后得注意点你的脾气
+</font><font face="华文中宋" size="14" color="#ffff00">We're gonna have to watch that temper ofyours.</font>
+
+325
+00:37:04,980 --> 00:37:06,910
+<font face="方正黑体_GBK" size="18">你确定你没事吗?
+</font><font face="华文中宋" size="14" color="#ffff00">You sureyou're okay?</font>
+
+326
+00:37:06,980 --> 00:37:08,970
+<font face="方正黑体_GBK" size="18">没事 只是高兴离开了床
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah,just glad to be out ofbed.</font>
+
+327
+00:37:10,120 --> 00:37:12,710
+<font face="方正黑体_GBK" size="18">从我爸那里接到消息
+</font><font face="华文中宋" size="14" color="#ffff00">Got a message from my father.</font>
+
+328
+00:37:12,790 --> 00:37:14,720
+<font face="方正黑体_GBK" size="18">他要来看我
+</font><font face="华文中宋" size="14" color="#ffff00">He's coming to see me.</font>
+
+329
+00:37:14,790 --> 00:37:16,720
+<font face="方正黑体_GBK" size="18">你父亲?
+</font><font face="华文中宋" size="14" color="#ffff00">Your father? Mmm.</font>
+
+330
+00:37:16,790 --> 00:37:18,490
+<font face="方正黑体_GBK" size="18">什么时候?
+</font><font face="华文中宋" size="14" color="#ffff00">When?</font>
+
+331
+00:37:18,560 --> 00:37:20,550
+<font face="方正黑体_GBK" size="18">一个小时之内降落
+</font><font face="华文中宋" size="14" color="#ffff00">Lands in about an hour.</font>
+
+332
+00:37:21,560 --> 00:37:24,560
+<font face="方正黑体_GBK" size="18">有趣的是 他打了电话给我
+</font><font face="华文中宋" size="14" color="#ffff00">The funnything is, he calledme.</font>
+
+333
+00:37:35,380 --> 00:37:38,540
+<font face="方正黑体_GBK" size="18">- 嗨 爸爸!  - 你好 贝蒂!
+</font><font face="华文中宋" size="14" color="#ffff00">- Hi, Dad.   - Hello, Betty.</font>
+
+334
+00:37:48,220 --> 00:37:50,160
+<font face="方正黑体_GBK" size="18">- 这里 女士  - 谢谢
+</font><font face="华文中宋" size="14" color="#ffff00">- Here, ma'am.   - Thanks.</font>
+
+335
+00:37:50,230 --> 00:37:51,720
+<font face="方正黑体_GBK" size="18">- 别客气 先生  - 谢谢
+</font><font face="华文中宋" size="14" color="#ffff00">- You're welcome. Sir?   - Thank you.</font>
+
+336
+00:37:51,790 --> 00:37:53,090
+<font face="方正黑体_GBK" size="18">别客气
+</font><font face="华文中宋" size="14" color="#ffff00">You're welcome.</font>
+
+337
+00:38:01,640 --> 00:38:05,270
+<font face="方正黑体_GBK" size="18">开门见山
+</font><font face="华文中宋" size="14" color="#ffff00">Look, I 'm gonna get right to it.</font>
+
+338
+00:38:05,340 --> 00:38:07,430
+<font face="方正黑体_GBK" size="18">是关于克兰 是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">It's about Glen, isn't it?</font>
+
+339
+00:38:08,910 --> 00:38:11,850
+<font face="方正黑体_GBK" size="18">他这段时间一直在我的实验室到处刺探
+</font><font face="华文中宋" size="14" color="#ffff00">He's been snooping around my lab.</font>
+
+340
+00:38:11,910 --> 00:38:13,850
+<font face="方正黑体_GBK" size="18">克兰发现了些情况
+</font><font face="华文中宋" size="14" color="#ffff00">Glen noticed some things,</font>
+
+341
+00:38:13,920 --> 00:38:16,780
+<font face="方正黑体_GBK" size="18">要我做些调查
+</font><font face="华文中宋" size="14" color="#ffff00">asked me to make some inquiries.</font>
+
+342
+00:38:18,520 --> 00:38:20,460
+<font face="方正黑体_GBK" size="18">你是来...
+</font><font face="华文中宋" size="14" color="#ffff00">Are you here to...</font>
+
+343
+00:38:20,520 --> 00:38:22,460
+<font face="方正黑体_GBK" size="18">盘问我的?
+</font><font face="华文中宋" size="14" color="#ffff00">question me?</font>
+
+344
+00:38:22,530 --> 00:38:24,020
+<font face="方正黑体_GBK" size="18">不
+</font><font face="华文中宋" size="14" color="#ffff00">No.</font>
+
+345
+00:38:24,090 --> 00:38:26,890
+<font face="方正黑体_GBK" size="18">我们发现些叫人吃惊的事情
+</font><font face="华文中宋" size="14" color="#ffff00">We've turned up some surprising things.</font>
+
+346
+00:38:29,470 --> 00:38:31,760
+<font face="方正黑体_GBK" size="18">和你一起工作的这位 克伦斯勒...
+</font><font face="华文中宋" size="14" color="#ffff00">This Krenzler you workwith--</font>
+
+347
+00:38:31,830 --> 00:38:34,330
+<font face="方正黑体_GBK" size="18">你知道他是谁吗?
+</font><font face="华文中宋" size="14" color="#ffff00">you know who he reallyis?</font>
+
+348
+00:38:36,310 --> 00:38:38,400
+<font face="方正黑体_GBK" size="18">你了解他多少?
+</font><font face="华文中宋" size="14" color="#ffff00">How much do you actually know about him?</font>
+
+349
+00:38:38,470 --> 00:38:41,410
+<font face="方正黑体_GBK" size="18">我觉得问题在于
+</font><font face="华文中宋" size="14" color="#ffff00">I think the question is,</font>
+
+350
+00:38:41,480 --> 00:38:44,240
+<font face="方正黑体_GBK" size="18">你了解他些什么?
+</font><font face="华文中宋" size="14" color="#ffff00">what is it that you know about him?</font>
+
+351
+00:38:46,650 --> 00:38:51,550
+<font face="方正黑体_GBK" size="18">- 现在 我不...  - 不能随便向我泄露 对 对
+</font><font face="华文中宋" size="14" color="#ffff00">- Well, right now, I'm not...   - Not at liberty to disclose it to me. Right. Right.</font>
+
+352
+00:38:52,860 --> 00:38:54,790
+<font face="方正黑体_GBK" size="18">你知道
+</font><font face="华文中宋" size="14" color="#ffff00">You know,</font>
+
+353
+00:38:54,860 --> 00:38:57,790
+<font face="方正黑体_GBK" size="18">我原以为..
+</font><font face="华文中宋" size="14" color="#ffff00">I think I was hoping that...</font>
+
+354
+00:38:57,860 --> 00:39:00,590
+<font face="方正黑体_GBK" size="18">也许这次...
+</font><font face="华文中宋" size="14" color="#ffff00">maybe this time you just...</font>
+
+355
+00:39:00,660 --> 00:39:04,120
+<font face="方正黑体_GBK" size="18">你是真心的来看我
+</font><font face="华文中宋" size="14" color="#ffff00">honestlywanted to see me again.</font>
+
+356
+00:39:04,200 --> 00:39:06,720
+<font face="方正黑体_GBK" size="18">- 你搞错了 贝蒂  - 我搞错了吗?
+</font><font face="华文中宋" size="14" color="#ffff00">- You've got this all wrong, Betty.   - Do I?</font>
+
+357
+00:39:06,800 --> 00:39:10,760
+<font face="方正黑体_GBK" size="18">是的 我真的是想来看你
+</font><font face="华文中宋" size="14" color="#ffff00">Yes. I do want to see  you.</font>
+
+358
+00:39:13,180 --> 00:39:16,170
+<font face="方正黑体_GBK" size="18">我真希望我能相信你
+</font><font face="华文中宋" size="14" color="#ffff00">I reallywish that I could believe  you.</font>
+
+359
+00:40:03,730 --> 00:40:05,720
+<font face="方正黑体_GBK" size="18">多年来...
+</font><font face="华文中宋" size="14" color="#ffff00">Everything...</font>
+
+360
+00:40:05,790 --> 00:40:09,290
+<font face="方正黑体_GBK" size="18">你卓越的头脑一直追寻的...
+</font><font face="华文中宋" size="14" color="#ffff00">your extraordinarymind has been seeking...</font>
+
+361
+00:40:09,370 --> 00:40:11,700
+<font face="方正黑体_GBK" size="18">所有的东西
+</font><font face="华文中宋" size="14" color="#ffff00">all theseyears,</font>
+
+362
+00:40:11,770 --> 00:40:14,500
+<font face="方正黑体_GBK" size="18">一直在你体内
+</font><font face="华文中宋" size="14" color="#ffff00">it's been inside  you.</font>
+
+363
+00:40:33,160 --> 00:40:35,350
+<font face="方正黑体_GBK" size="18">这里是克伦斯勒博士
+</font><font face="华文中宋" size="14" color="#ffff00">Hi, you've called Dr. Krenzler.</font>
+
+364
+00:40:35,420 --> 00:40:38,390
+<font face="方正黑体_GBK" size="18">请留言 我会尽快回覆的
+</font><font face="华文中宋" size="14" color="#ffff00">Please leave a message and I'll call you right back.</font>
+
+365
+00:40:39,800 --> 00:40:43,390
+<font face="方正黑体_GBK" size="18">布鲁斯 嗨!你在吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce, hey. Are you there?</font>
+
+366
+00:40:43,470 --> 00:40:45,900
+<font face="方正黑体_GBK" size="18">我想我搞砸了
+</font><font face="华文中宋" size="14" color="#ffff00">Look, um, I think I screwed up.</font>
+
+367
+00:40:45,970 --> 00:40:50,530
+<font face="方正黑体_GBK" size="18">我父亲...看来他好像对你有些怀疑 我不确定
+</font><font face="华文中宋" size="14" color="#ffff00">My father--It's like he suspects you ofsomething. I don 't know.</font>
+
+368
+00:40:50,610 --> 00:40:53,700
+<font face="方正黑体_GBK" size="18">我就像以往一样很不耐烦
+</font><font face="华文中宋" size="14" color="#ffff00">I was so impatient, like always.</font>
+
+369
+00:40:53,780 --> 00:40:56,710
+<font face="方正黑体_GBK" size="18">没听他说明白 我...
+</font><font face="华文中宋" size="14" color="#ffff00">I didn 't hear him out. I don't know, I--</font>
+
+370
+00:40:56,780 --> 00:41:00,270
+<font face="方正黑体_GBK" size="18">我只是猜测他们对实验室有所企图
+</font><font face="华文中宋" size="14" color="#ffff00">Ijust think that they're planning something with the lab.</font>
+
+371
+00:41:00,350 --> 00:41:02,010
+<font face="方正黑体_GBK" size="18">嗯...
+</font><font face="华文中宋" size="14" color="#ffff00">So, um, uh--</font>
+
+372
+00:41:02,080 --> 00:41:03,950
+<font face="方正黑体_GBK" size="18">打电话给我 好吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Call me. Okay?</font>
+
+373
+00:41:04,020 --> 00:41:05,850
+<font face="方正黑体_GBK" size="18">再见
+</font><font face="华文中宋" size="14" color="#ffff00">Bye.</font>
+
+374
+00:41:05,920 --> 00:41:08,520
+<font face="方正黑体_GBK" size="18">贝蒂?
+</font><font face="华文中宋" size="14" color="#ffff00">Betty?</font>
+
+375
+00:42:46,120 --> 00:42:49,060
+<font face="方正黑体_GBK" size="18">指挥中心!指挥中心!我们在实验室发现415号情况!
+</font><font face="华文中宋" size="14" color="#ffff00">Dispatch! Dispatch! We have a 41 5 at the lab!</font>
+
+376
+00:42:49,120 --> 00:42:51,490
+<font face="方正黑体_GBK" size="18">马上派柏克莱警察局增援!火速增援!
+</font><font face="华文中宋" size="14" color="#ffff00">Send Berkeley P.D. now! Send 'em now!</font>
+
+377
+00:43:18,890 --> 00:43:20,880
+<font face="方正黑体_GBK" size="18">小心
+</font><font face="华文中宋" size="14" color="#ffff00">Watch out!</font>
+
+378
+00:44:25,690 --> 00:44:28,050
+<font face="方正黑体_GBK" size="18">伊迪丝?
+</font><font face="华文中宋" size="14" color="#ffff00">Edith?</font>
+
+379
+00:44:28,120 --> 00:44:30,060
+<font face="方正黑体_GBK" size="18">发生了什么事
+</font><font face="华文中宋" size="14" color="#ffff00">David, what's going on?</font>
+
+380
+00:44:30,130 --> 00:44:33,390
+<font face="方正黑体_GBK" size="18">- 我要和你谈谈 伊迪丝  - 布鲁斯 呆在这里
+</font><font face="华文中宋" size="14" color="#ffff00">- I gotta talk to  you, Edith.   - Bruce, stayhere.</font>
+
+381
+00:45:05,530 --> 00:45:07,690
+<font face="方正黑体_GBK" size="18">我的布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">My Bruce.</font>
+
+382
+00:45:21,880 --> 00:45:23,870
+<font face="方正黑体_GBK" size="18">布鲁斯?
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce?</font>
+
+383
+00:46:00,250 --> 00:46:02,720
+<font face="方正黑体_GBK" size="18">那里发生了爆炸
+</font><font face="华文中宋" size="14" color="#ffff00">There was some sort of explosion.</font>
+
+384
+00:46:02,780 --> 00:46:05,280
+<font face="方正黑体_GBK" size="18">他们不让我们进去
+</font><font face="华文中宋" size="14" color="#ffff00">Theywouldn't let us into the building.</font>
+
+385
+00:46:06,660 --> 00:46:09,120
+<font face="方正黑体_GBK" size="18">我当时很担心你
+</font><font face="华文中宋" size="14" color="#ffff00">I was worried about you.</font>
+
+386
+00:46:09,190 --> 00:46:11,680
+<font face="方正黑体_GBK" size="18">嗯...我没事
+</font><font face="华文中宋" size="14" color="#ffff00">Well, I'm okay.</font>
+
+387
+00:46:13,530 --> 00:46:15,520
+<font face="方正黑体_GBK" size="18">你昨晚怎么了?
+</font><font face="华文中宋" size="14" color="#ffff00">What happened to you last night?</font>
+
+388
+00:46:17,070 --> 00:46:19,530
+<font face="方正黑体_GBK" size="18">我做了个好梦
+</font><font face="华文中宋" size="14" color="#ffff00">I had the most vivid dream.</font>
+
+389
+00:46:20,840 --> 00:46:23,770
+<font face="方正黑体_GBK" size="18">就像刚刚诞生
+</font><font face="华文中宋" size="14" color="#ffff00">Itwas like being born.</font>
+
+390
+00:46:23,840 --> 00:46:26,570
+<font face="方正黑体_GBK" size="18">出来迎接空气 光线射到我脸上
+</font><font face="华文中宋" size="14" color="#ffff00">Coming up for air. Light hitting myface.</font>
+
+391
+00:46:26,640 --> 00:46:28,630
+<font face="方正黑体_GBK" size="18">叫嚷着
+</font><font face="华文中宋" size="14" color="#ffff00">Screaming.</font>
+
+392
+00:46:29,640 --> 00:46:32,080
+<font face="方正黑体_GBK" size="18">我的心跳...
+</font><font face="华文中宋" size="14" color="#ffff00">My heartbeat--</font>
+
+393
+00:46:32,150 --> 00:46:34,670
+<font face="方正黑体_GBK" size="18">就像 砰...
+</font><font face="华文中宋" size="14" color="#ffff00">itwas, like, boom...</font>
+
+394
+00:46:34,750 --> 00:46:36,740
+<font face="方正黑体_GBK" size="18">砰...
+</font><font face="华文中宋" size="14" color="#ffff00">boom...</font>
+
+395
+00:46:39,490 --> 00:46:41,480
+<font face="方正黑体_GBK" size="18">砰
+</font><font face="华文中宋" size="14" color="#ffff00">boom.</font>
+
+396
+00:46:46,760 --> 00:46:48,700
+<font face="方正黑体_GBK" size="18">你当时在实验室吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Were you at the lab?</font>
+
+397
+00:46:48,760 --> 00:46:50,760
+<font face="方正黑体_GBK" size="18">不在
+</font><font face="华文中宋" size="14" color="#ffff00">No.</font>
+
+398
+00:46:52,100 --> 00:46:54,090
+<font face="方正黑体_GBK" size="18">但有个东西...
+</font><font face="华文中宋" size="14" color="#ffff00">But something--</font>
+
+399
+00:46:56,510 --> 00:46:58,440
+<font face="方正黑体_GBK" size="18">还有那个男人
+</font><font face="华文中宋" size="14" color="#ffff00">And there was that man.</font>
+
+400
+00:46:58,510 --> 00:47:00,440
+<font face="方正黑体_GBK" size="18">那个带着狗的人
+</font><font face="华文中宋" size="14" color="#ffff00">The one with the dogs.</font>
+
+401
+00:47:00,510 --> 00:47:02,480
+<font face="方正黑体_GBK" size="18">谁
+</font><font face="华文中宋" size="14" color="#ffff00">Who?</font>
+
+402
+00:47:03,880 --> 00:47:06,580
+<font face="方正黑体_GBK" size="18">那个新来的管理员
+</font><font face="华文中宋" size="14" color="#ffff00">That new janitor.</font>
+
+403
+00:47:06,650 --> 00:47:08,910
+<font face="方正黑体_GBK" size="18">他说他是我父亲
+</font><font face="华文中宋" size="14" color="#ffff00">He said he was my father.</font>
+
+404
+00:47:14,060 --> 00:47:16,220
+<font face="方正黑体_GBK" size="18">我去
+</font><font face="华文中宋" size="14" color="#ffff00">I'll get it.</font>
+
+405
+00:47:26,540 --> 00:47:28,530
+<font face="方正黑体_GBK" size="18">我爸爸
+</font><font face="华文中宋" size="14" color="#ffff00">My father.</font>
+
+406
+00:47:40,250 --> 00:47:42,440
+<font face="方正黑体_GBK" size="18">原来这位就是年轻人布鲁斯...
+</font><font face="华文中宋" size="14" color="#ffff00">So this is the young Bruce Ban--</font>
+
+407
+00:47:44,650 --> 00:47:47,140
+<font face="方正黑体_GBK" size="18">克伦斯勒
+</font><font face="华文中宋" size="14" color="#ffff00">Krenzler.</font>
+
+408
+00:47:48,660 --> 00:47:52,650
+<font face="方正黑体_GBK" size="18">我想你昨晚留了些东西在实验室
+</font><font face="华文中宋" size="14" color="#ffff00">I think you left something in your lab last night.</font>
+
+409
+00:47:55,430 --> 00:47:56,460
+<font face="方正黑体_GBK" size="18">雷切尔
+</font><font face="华文中宋" size="14" color="#ffff00">Mitchell.</font>
+
+410
+00:47:56,530 --> 00:47:59,360
+<font face="方正黑体_GBK" size="18">护送我女儿出去 我待会就出去
+</font><font face="华文中宋" size="14" color="#ffff00">Escort my daughter outside. I'lljoin hershortly.</font>
+
+411
+00:48:01,000 --> 00:48:02,870
+<font face="方正黑体_GBK" size="18">我宁愿留在这里
+</font><font face="华文中宋" size="14" color="#ffff00">I'd rather stay here.</font>
+
+412
+00:48:02,940 --> 00:48:05,430
+<font face="方正黑体_GBK" size="18">马上!贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">Now, Betty.</font>
+
+413
+00:48:06,780 --> 00:48:08,710
+<font face="方正黑体_GBK" size="18">没事的
+</font><font face="华文中宋" size="14" color="#ffff00">It's okay.</font>
+
+414
+00:48:08,780 --> 00:48:10,770
+<font face="方正黑体_GBK" size="18">我会没事的
+</font><font face="华文中宋" size="14" color="#ffff00">I 'll be fine.</font>
+
+415
+00:48:21,790 --> 00:48:24,280
+<font face="方正黑体_GBK" size="18">看住他 我就回来
+</font><font face="华文中宋" size="14" color="#ffff00">Keep him under observation. I 'll be back.</font>
+
+416
+00:48:31,700 --> 00:48:34,730
+<font face="方正黑体_GBK" size="18">- 什么  - 你那位朋友
+</font><font face="华文中宋" size="14" color="#ffff00">- What?   - Your friend in there.</font>
+
+417
+00:48:34,800 --> 00:48:38,530
+<font face="方正黑体_GBK" size="18">他很有可能因为一些大案被抓
+</font><font face="华文中宋" size="14" color="#ffff00">There's a good chance he's caught up in some very bad business.</font>
+
+418
+00:48:38,610 --> 00:48:40,540
+<font face="方正黑体_GBK" size="18">未遂的大案
+</font><font face="华文中宋" size="14" color="#ffff00">Unfinished business.</font>
+
+419
+00:48:40,610 --> 00:48:43,700
+<font face="方正黑体_GBK" size="18">我向你保证 我会彻底查出真相
+</font><font face="华文中宋" size="14" color="#ffff00">And I promise you, I'm gonna get to the bottom ofit.</font>
+
+420
+00:48:43,780 --> 00:48:46,710
+<font face="方正黑体_GBK" size="18">我向你保证 我保证他会被照顾的很好
+</font><font face="华文中宋" size="14" color="#ffff00">You have myword I'll make sure he's cared for.</font>
+
+421
+00:48:46,780 --> 00:48:49,720
+<font face="方正黑体_GBK" size="18">但现在 他要被监禁
+</font><font face="华文中宋" size="14" color="#ffff00">But as of right now, he is incommunicado.</font>
+
+422
+00:48:49,780 --> 00:48:52,220
+<font face="方正黑体_GBK" size="18">至少这几天
+</font><font face="华文中宋" size="14" color="#ffff00">And for the next few days at least,</font>
+
+423
+00:48:52,290 --> 00:48:54,220
+<font face="方正黑体_GBK" size="18">你得远离这里
+</font><font face="华文中宋" size="14" color="#ffff00">you're gonna stay away from here.</font>
+
+424
+00:48:54,290 --> 00:48:56,280
+<font face="方正黑体_GBK" size="18">这是为你好
+</font><font face="华文中宋" size="14" color="#ffff00">Foryour own good.</font>
+
+425
+00:49:04,670 --> 00:49:08,260
+<font face="方正黑体_GBK" size="18">好 这是那值夜班的新人的 是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, and that's for the new guy on the night shift, right?</font>
+
+426
+00:49:08,340 --> 00:49:11,330
+<font face="方正黑体_GBK" size="18">太好了 谢谢 太感激了
+</font><font face="华文中宋" size="14" color="#ffff00">Great. Thank you. I appreciate it.</font>
+
+427
+00:49:28,720 --> 00:49:30,750
+<font face="方正黑体_GBK" size="18">萝丝博士
+</font><font face="华文中宋" size="14" color="#ffff00">Dr. Ross.</font>
+
+428
+00:49:30,830 --> 00:49:33,760
+<font face="方正黑体_GBK" size="18">意料之外
+</font><font face="华文中宋" size="14" color="#ffff00">How unexpected.</font>
+
+429
+00:49:33,830 --> 00:49:35,820
+<font face="方正黑体_GBK" size="18">请进
+</font><font face="华文中宋" size="14" color="#ffff00">Please come in.</font>
+
+430
+00:49:41,200 --> 00:49:44,800
+<font face="方正黑体_GBK" size="18">对不起 我突然来访
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sorry to just show up at your house like this.</font>
+
+431
+00:49:49,840 --> 00:49:52,340
+<font face="方正黑体_GBK" size="18">我想要问你的事...
+</font><font face="华文中宋" size="14" color="#ffff00">I came to ask you something that...</font>
+
+432
+00:49:52,410 --> 00:49:56,150
+<font face="方正黑体_GBK" size="18">是我不该问的
+</font><font face="华文中宋" size="14" color="#ffff00">I really have no business asking.</font>
+
+433
+00:49:57,720 --> 00:50:00,150
+<font face="方正黑体_GBK" size="18">他告诉你了
+</font><font face="华文中宋" size="14" color="#ffff00">He told you?</font>
+
+434
+00:50:00,220 --> 00:50:02,250
+<font face="方正黑体_GBK" size="18">他说你和他谈过
+</font><font face="华文中宋" size="14" color="#ffff00">He said you talked to him.</font>
+
+435
+00:50:04,330 --> 00:50:06,320
+<font face="方正黑体_GBK" size="18">请坐
+</font><font face="华文中宋" size="14" color="#ffff00">Please sit down.</font>
+
+436
+00:50:14,740 --> 00:50:18,540
+<font face="方正黑体_GBK" size="18">布鲁斯昨晚在实验室 他说你也在那里
+</font><font face="华文中宋" size="14" color="#ffff00">Brucewas at the lab last night. He said that you were there too.</font>
+
+437
+00:50:18,610 --> 00:50:21,540
+<font face="方正黑体_GBK" size="18">但是他对细节记不清楚了
+</font><font face="华文中宋" size="14" color="#ffff00">But he can't remember much about it.</font>
+
+438
+00:50:21,610 --> 00:50:23,770
+<font face="方正黑体_GBK" size="18">我想知道发生什么
+</font><font face="华文中宋" size="14" color="#ffff00">I needto findout what happened.</font>
+
+439
+00:50:23,850 --> 00:50:25,780
+<font face="方正黑体_GBK" size="18">你想知道
+</font><font face="华文中宋" size="14" color="#ffff00">So,you want to know, uh,</font>
+
+440
+00:50:25,850 --> 00:50:27,840
+<font face="方正黑体_GBK" size="18">他怎么了...
+</font><font face="华文中宋" size="14" color="#ffff00">what's wrong with him...</font>
+
+441
+00:50:28,850 --> 00:50:30,980
+<font face="方正黑体_GBK" size="18">好治疗他
+</font><font face="华文中宋" size="14" color="#ffff00">so you can fix him?</font>
+
+442
+00:50:31,050 --> 00:50:33,420
+<font face="方正黑体_GBK" size="18">医好他 改变他
+</font><font face="华文中宋" size="14" color="#ffff00">Cure him, change him.</font>
+
+443
+00:50:35,420 --> 00:50:37,860
+<font face="方正黑体_GBK" size="18">我爸爸是军方的
+</font><font face="华文中宋" size="14" color="#ffff00">My father's with the military.</font>
+
+444
+00:50:37,930 --> 00:50:40,860
+<font face="方正黑体_GBK" size="18">他好像认为他威胁国家安全
+</font><font face="华文中宋" size="14" color="#ffff00">He seems to think he's involved in some kind of threat to national security.</font>
+
+445
+00:50:42,930 --> 00:50:46,370
+<font face="方正黑体_GBK" size="18">你父亲 萝丝
+</font><font face="华文中宋" size="14" color="#ffff00">Yourfather. Ross.</font>
+
+446
+00:50:47,400 --> 00:50:51,170
+<font face="方正黑体_GBK" size="18">你会危害到你父亲的
+</font><font face="华文中宋" size="14" color="#ffff00">You broughtyourfather down upon his head?</font>
+
+447
+00:50:51,240 --> 00:50:54,210
+<font face="方正黑体_GBK" size="18">你所知甚少 萝丝小姐
+</font><font face="华文中宋" size="14" color="#ffff00">How little you understand, Miss Ross,</font>
+
+448
+00:50:54,280 --> 00:50:58,180
+<font face="方正黑体_GBK" size="18">你的无知非常危险
+</font><font face="华文中宋" size="14" color="#ffff00">and how dangerous your ignorance has become.</font>
+
+449
+00:50:59,850 --> 00:51:02,150
+<font face="方正黑体_GBK" size="18">- 抱歉 你什么意思  - 不要抱歉
+</font><font face="华文中宋" size="14" color="#ffff00">- I'm sorry.   - Don't be sorry.</font>
+
+450
+00:51:02,220 --> 00:51:04,210
+<font face="方正黑体_GBK" size="18">我的儿子...
+</font><font face="华文中宋" size="14" color="#ffff00">Myson is...</font>
+
+451
+00:51:05,720 --> 00:51:07,650
+<font face="方正黑体_GBK" size="18">与众不同
+</font><font face="华文中宋" size="14" color="#ffff00">unique.</font>
+
+452
+00:51:07,720 --> 00:51:09,660
+<font face="方正黑体_GBK" size="18">这就是为什么你不能和他有关联
+</font><font face="华文中宋" size="14" color="#ffff00">That's why you can't relate to him.</font>
+
+453
+00:51:09,720 --> 00:51:11,320
+<font face="方正黑体_GBK" size="18">而且因为他的与众不同
+</font><font face="华文中宋" size="14" color="#ffff00">Andbecause he is unique,</font>
+
+454
+00:51:11,820 --> 00:51:14,320
+<font face="方正黑体_GBK" size="18">这个世界是不会容忍他的存在的
+</font><font face="华文中宋" size="14" color="#ffff00">the world will not tolerate his existence.</font>
+
+455
+00:51:14,400 --> 00:51:16,390
+<font face="方正黑体_GBK" size="18">他们会吗
+</font><font face="华文中宋" size="14" color="#ffff00">Will they?</font>
+
+456
+00:51:17,470 --> 00:51:19,460
+<font face="方正黑体_GBK" size="18">但你...
+</font><font face="华文中宋" size="14" color="#ffff00">But you--</font>
+
+457
+00:51:21,140 --> 00:51:22,830
+<font face="方正黑体_GBK" size="18">你尝试了
+</font><font face="华文中宋" size="14" color="#ffff00">you try,</font>
+
+458
+00:51:22,900 --> 00:51:24,840
+<font face="方正黑体_GBK" size="18">是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">don't you?</font>
+
+459
+00:51:24,910 --> 00:51:26,900
+<font face="方正黑体_GBK" size="18">对
+</font><font face="华文中宋" size="14" color="#ffff00">Yes.</font>
+
+460
+00:51:32,150 --> 00:51:35,670
+<font face="方正黑体_GBK" size="18">像你这样一个美丽的女人
+</font><font face="华文中宋" size="14" color="#ffff00">And a very beautiful woman like  you,</font>
+
+461
+00:51:35,750 --> 00:51:38,510
+<font face="方正黑体_GBK" size="18">你的慇勤...
+</font><font face="华文中宋" size="14" color="#ffff00">your attentions...</font>
+
+462
+00:51:38,590 --> 00:51:42,250
+<font face="方正黑体_GBK" size="18">不会完全被忽略的
+</font><font face="华文中宋" size="14" color="#ffff00">can't be completely unwanted.</font>
+
+463
+00:51:43,260 --> 00:51:44,750
+<font face="方正黑体_GBK" size="18">对吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Can they?</font>
+
+464
+00:51:46,030 --> 00:51:48,360
+<font face="方正黑体_GBK" size="18">不
+</font><font face="华文中宋" size="14" color="#ffff00">No.</font>
+
+465
+00:51:48,430 --> 00:51:51,870
+<font face="方正黑体_GBK" size="18">不会对着你这样的眼睛
+</font><font face="华文中宋" size="14" color="#ffff00">Not with eyes like yours,</font>
+
+466
+00:51:51,930 --> 00:51:54,870
+<font face="方正黑体_GBK" size="18">这样顾盼流连
+</font><font face="华文中宋" size="14" color="#ffff00">watching expectantly,</font>
+
+467
+00:51:55,870 --> 00:51:57,960
+<font face="方正黑体_GBK" size="18">情深切切
+</font><font face="华文中宋" size="14" color="#ffff00">Iovingly.</font>
+
+468
+00:52:00,540 --> 00:52:03,410
+<font face="方正黑体_GBK" size="18">恐怕我们现在很难帮到他了
+</font><font face="华文中宋" size="14" color="#ffff00">But I'm afraid we're both too late to help him.</font>
+
+469
+00:52:03,480 --> 00:52:05,740
+<font face="方正黑体_GBK" size="18">我无能为力 对他...
+</font><font face="华文中宋" size="14" color="#ffff00">There's nothing I can do for him...</font>
+
+470
+00:52:05,810 --> 00:52:07,910
+<font face="方正黑体_GBK" size="18">或对你
+</font><font face="华文中宋" size="14" color="#ffff00">or for you.</font>
+
+471
+00:52:07,980 --> 00:52:09,970
+<font face="方正黑体_GBK" size="18">另外
+</font><font face="华文中宋" size="14" color="#ffff00">Besides,</font>
+
+472
+00:52:11,290 --> 00:52:13,950
+<font face="方正黑体_GBK" size="18">他已声明 他不想与我有任何关系
+</font><font face="华文中宋" size="14" color="#ffff00">he's made it clear he wants nothing to do with me.</font>
+
+473
+00:52:14,020 --> 00:52:15,960
+<font face="方正黑体_GBK" size="18">这是他的选择
+</font><font face="华文中宋" size="14" color="#ffff00">His choice.</font>
+
+474
+00:52:16,020 --> 00:52:19,820
+<font face="方正黑体_GBK" size="18">如果你能原谅我 萝丝小姐 我还有事要做
+</font><font face="华文中宋" size="14" color="#ffff00">Now, If you'll excuse me, Miss Ross, I have some work to do.</font>
+
+475
+00:52:19,890 --> 00:52:23,160
+<font face="方正黑体_GBK" size="18">别怕那些狗
+</font><font face="华文中宋" size="14" color="#ffff00">And don't worry about the dogs.</font>
+
+476
+00:52:23,230 --> 00:52:25,170
+<font face="方正黑体_GBK" size="18">没事的
+</font><font face="华文中宋" size="14" color="#ffff00">You'll be fine.</font>
+
+477
+00:52:25,230 --> 00:52:27,720
+<font face="方正黑体_GBK" size="18">只要别直视它们的眼睛就行
+</font><font face="华文中宋" size="14" color="#ffff00">Just don't look 'em in the eyes.</font>
+
+478
+00:52:30,240 --> 00:52:32,230
+<font face="方正黑体_GBK" size="18">再见
+</font><font face="华文中宋" size="14" color="#ffff00">Good-bye.</font>
+
+479
+00:52:34,240 --> 00:52:37,680
+<font face="方正黑体_GBK" size="18">他获释了 而一个月后 你的实验室就被毁了
+</font><font face="华文中宋" size="14" color="#ffff00">He gets released, anda month later yourlab is destroyed.</font>
+
+480
+00:52:37,750 --> 00:52:39,680
+<font face="方正黑体_GBK" size="18">太巧合了吧!
+</font><font face="华文中宋" size="14" color="#ffff00">What a coincidence.</font>
+
+481
+00:52:39,750 --> 00:52:42,680
+<font face="方正黑体_GBK" size="18">你不会告诉我他现在在那里 是吗
+</font><font face="华文中宋" size="14" color="#ffff00">So you're not gonna tell me where he is, are ya?</font>
+
+482
+00:52:42,750 --> 00:52:46,020
+<font face="方正黑体_GBK" size="18">我跟你说了多少次了 我想帮你 但我真的不知道
+</font><font face="华文中宋" size="14" color="#ffff00">How many times do I have to tell you? I'd like to help  you, but I just don't know.</font>
+
+483
+00:52:46,090 --> 00:52:48,350
+<font face="方正黑体_GBK" size="18">你知道我的身份 斑纳?
+</font><font face="华文中宋" size="14" color="#ffff00">You know who I am. Right, Banner?</font>
+
+484
+00:52:48,420 --> 00:52:51,290
+<font face="方正黑体_GBK" size="18">- 你是贝蒂的父亲 你是高级将军  - 废话少说
+</font><font face="华文中宋" size="14" color="#ffff00">- Your Betty's father. You're a high-ranking general.   - Let's cut the crap.</font>
+
+485
+00:52:51,360 --> 00:52:55,130
+<font face="方正黑体_GBK" size="18">我就是那个把你父亲关起来的人 像对他一样
+</font><font face="华文中宋" size="14" color="#ffff00">I'm the guywho had your father tossed away, and a lot more like him,</font>
+
+486
+00:52:55,160 --> 00:52:57,460
+<font face="方正黑体_GBK" size="18">如果我觉得有必要 我也会干掉你的?
+</font><font face="华文中宋" size="14" color="#ffff00">and I'll do the same with you if l feel so disposed.</font>
+
+487
+00:52:57,500 --> 00:52:59,000
+<font face="方正黑体_GBK" size="18">你明白?
+</font><font face="华文中宋" size="14" color="#ffff00">You understand?</font>
+
+488
+00:52:59,400 --> 00:53:01,300
+<font face="方正黑体_GBK" size="18">你把他关起来 那你还问我干什么?
+</font><font face="华文中宋" size="14" color="#ffff00">If you had him tossed away, then why are you asking me?</font>
+
+489
+00:53:01,370 --> 00:53:05,470
+<font face="方正黑体_GBK" size="18">我不记得了 过去人们一直对我说我父亲已经死了
+</font><font face="华文中宋" size="14" color="#ffff00">I don't remember. I was always told my fatherwas dead.</font>
+
+490
+00:53:05,540 --> 00:53:07,470
+<font face="方正黑体_GBK" size="18">别和我兜圈
+</font><font face="华文中宋" size="14" color="#ffff00">Don't playwith me!</font>
+
+491
+00:53:07,540 --> 00:53:09,980
+<font face="方正黑体_GBK" size="18">你看到那情景时 你已经四岁了
+</font><font face="华文中宋" size="14" color="#ffff00">You were fouryears old when you saw it.</font>
+
+492
+00:53:10,040 --> 00:53:12,440
+<font face="方正黑体_GBK" size="18">什么时候?我看见什么?
+</font><font face="华文中宋" size="14" color="#ffff00">When I saw what?</font>
+
+493
+00:53:12,510 --> 00:53:16,380
+<font face="方正黑体_GBK" size="18">你当时在场 那样的情景谁会忘得一干二净
+</font><font face="华文中宋" size="14" color="#ffff00">You were right there. How could anyone forget a thing like that?</font>
+
+494
+00:53:17,590 --> 00:53:19,520
+<font face="方正黑体_GBK" size="18">什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What?</font>
+
+495
+00:53:19,590 --> 00:53:22,580
+<font face="方正黑体_GBK" size="18">又是记忆受压抑
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, some more repressed memories.</font>
+
+496
+00:53:25,660 --> 00:53:27,650
+<font face="方正黑体_GBK" size="18">快告诉我
+</font><font face="华文中宋" size="14" color="#ffff00">Just tell me.</font>
+
+497
+00:53:30,470 --> 00:53:32,900
+<font face="方正黑体_GBK" size="18">抱歉 小子
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sorry, son.</font>
+
+498
+00:53:33,970 --> 00:53:37,530
+<font face="方正黑体_GBK" size="18">你比我想像的还要混蛋
+</font><font face="华文中宋" size="14" color="#ffff00">You're an even more screwed-up mess than I thoughtyou'd be.</font>
+
+499
+00:53:38,540 --> 00:53:40,970
+<font face="方正黑体_GBK" size="18">在我们搞清楚一切之前
+</font><font face="华文中宋" size="14" color="#ffff00">Until we get to the bottom ofthis,</font>
+
+500
+00:53:41,040 --> 00:53:44,030
+<font face="方正黑体_GBK" size="18">你的实验室被列为一级军事禁区...
+</font><font face="华文中宋" size="14" color="#ffff00">yourlab has been declared a top-secret militarysite...</font>
+
+501
+00:53:44,080 --> 00:53:47,510
+<font face="方正黑体_GBK" size="18">而且你没有安全许可再进去...
+</font><font face="华文中宋" size="14" color="#ffff00">and you're not gonna get a security clearance to get back into it...</font>
+
+502
+00:53:47,580 --> 00:53:50,520
+<font face="方正黑体_GBK" size="18">或任何一个研究范围超出
+</font><font face="华文中宋" size="14" color="#ffff00">or any other lab that's doing anything more interesting than...</font>
+
+503
+00:53:50,590 --> 00:53:54,080
+<font face="方正黑体_GBK" size="18">下一代草本发胶...的实验室
+</font><font face="华文中宋" size="14" color="#ffff00">... trying to figure out the next generation ofherbal hair gel.</font>
+
+504
+00:53:57,630 --> 00:53:59,790
+<font face="方正黑体_GBK" size="18">还有件事
+</font><font face="华文中宋" size="14" color="#ffff00">One more thing.</font>
+
+505
+00:53:59,860 --> 00:54:01,800
+<font face="方正黑体_GBK" size="18">如果你胆敢...
+</font><font face="华文中宋" size="14" color="#ffff00">If you ever...</font>
+
+506
+00:54:01,860 --> 00:54:06,490
+<font face="方正黑体_GBK" size="18">再次出现在我女儿一千码内的范围内
+</font><font face="华文中宋" size="14" color="#ffff00">come within a thousand yards of my daughter again,</font>
+
+507
+00:54:06,570 --> 00:54:09,800
+<font face="方正黑体_GBK" size="18">我将会给你终生监禁
+</font><font face="华文中宋" size="14" color="#ffff00">I'll put you away for the rest ofyour natural life.</font>
+
+508
+00:54:24,050 --> 00:54:25,990
+<font face="方正黑体_GBK" size="18">狗
+</font><font face="华文中宋" size="14" color="#ffff00">Dogs!</font>
+
+509
+00:54:28,060 --> 00:54:30,990
+<font face="方正黑体_GBK" size="18">去!抓住她
+</font><font face="华文中宋" size="14" color="#ffff00">Go! Go get her!</font>
+
+510
+00:54:31,060 --> 00:54:33,990
+<font face="方正黑体_GBK" size="18">没什么能阻挡你们
+</font><font face="华文中宋" size="14" color="#ffff00">And let nothing stand in yourway!</font>
+
+511
+00:54:34,060 --> 00:54:36,390
+<font face="方正黑体_GBK" size="18">去
+</font><font face="华文中宋" size="14" color="#ffff00">Go!</font>
+
+512
+00:55:40,560 --> 00:55:42,500
+<font face="方正黑体_GBK" size="18">你好?
+</font><font face="华文中宋" size="14" color="#ffff00">Hello?</font>
+
+513
+00:55:42,560 --> 00:55:44,500
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce?</font>
+
+514
+00:55:44,570 --> 00:55:48,560
+<font face="方正黑体_GBK" size="18">他们以为可以将你也关起来 就像他们对付我那样
+</font><font face="华文中宋" size="14" color="#ffff00">So, they think they can just throw you away as they did me.</font>
+
+515
+00:55:56,840 --> 00:55:59,510
+<font face="方正黑体_GBK" size="18">我有什么问题 你对我做了什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What's wrong with me? What did you do to me?</font>
+
+516
+00:55:59,580 --> 00:56:01,520
+<font face="方正黑体_GBK" size="18">我今天有个访客
+</font><font face="华文中宋" size="14" color="#ffff00">I got a visit today.</font>
+
+517
+00:56:01,580 --> 00:56:03,950
+<font face="方正黑体_GBK" size="18">一个非常不受欢迎的访客
+</font><font face="华文中宋" size="14" color="#ffff00">A very unwelcome visit.</font>
+
+518
+00:56:04,020 --> 00:56:06,610
+<font face="方正黑体_GBK" size="18">恐怕我不得不这么做了
+</font><font face="华文中宋" size="14" color="#ffff00">I'm afraid my hand is being forced.</font>
+
+519
+00:56:06,690 --> 00:56:09,890
+<font face="方正黑体_GBK" size="18">你对我做了什么
+</font><font face="华文中宋" size="14" color="#ffff00">What did you do to me?</font>
+
+520
+00:56:09,960 --> 00:56:12,890
+<font face="方正黑体_GBK" size="18">你很想知道 是吗
+</font><font face="华文中宋" size="14" color="#ffff00">You so much want to know, don'tyou?</font>
+
+521
+00:56:12,960 --> 00:56:17,130
+<font face="方正黑体_GBK" size="18">但我想 没有什么解释比..
+</font><font face="华文中宋" size="14" color="#ffff00">But I think no explanation will serve you halfas well..</font>
+
+522
+00:56:17,200 --> 00:56:19,790
+<font face="方正黑体_GBK" size="18">亲身体验更有效
+</font><font face="华文中宋" size="14" color="#ffff00">as the experience.</font>
+
+523
+00:56:19,870 --> 00:56:24,630
+<font face="方正黑体_GBK" size="18">无论如何 我自己也还不太明白
+</font><font face="华文中宋" size="14" color="#ffff00">In any case, I still don't quite understand it myself.</font>
+
+524
+00:56:24,710 --> 00:56:27,640
+<font face="方正黑体_GBK" size="18">如果他们能让我安静地工作...
+</font><font face="华文中宋" size="14" color="#ffff00">Ifthey'd only let me work in peace--</font>
+
+525
+00:56:27,710 --> 00:56:30,870
+<font face="方正黑体_GBK" size="18">当然 我的老上级也不会这么想
+</font><font face="华文中宋" size="14" color="#ffff00">Of course, my betters would have none ofthat.</font>
+
+526
+00:56:30,950 --> 00:56:33,880
+<font face="方正黑体_GBK" size="18">你在自己身上做试验 是不是
+</font><font face="华文中宋" size="14" color="#ffff00">So you experimented onyourself, didn'tyou?</font>
+
+527
+00:56:33,950 --> 00:56:37,540
+<font face="方正黑体_GBK" size="18">再传给我... 到底是什么?
+</font><font face="华文中宋" size="14" color="#ffff00">And passed on to me... what?</font>
+
+528
+00:56:37,620 --> 00:56:40,210
+<font face="方正黑体_GBK" size="18">一种变异 基因变异
+</font><font face="华文中宋" size="14" color="#ffff00">An alteration. Genetic.</font>
+
+529
+00:56:40,290 --> 00:56:44,550
+<font face="方正黑体_GBK" size="18">畸形 我想你也可以这么说
+</font><font face="华文中宋" size="14" color="#ffff00">A deformity. I guess you could call it that.</font>
+
+530
+00:56:44,630 --> 00:56:47,220
+<font face="方正黑体_GBK" size="18">但是那也是种令人惊讶的力量
+</font><font face="华文中宋" size="14" color="#ffff00">But an amazing strength too.</font>
+
+531
+00:56:47,300 --> 00:56:50,260
+<font face="方正黑体_GBK" size="18">现在终于释放出来了 我能够收获了
+</font><font face="华文中宋" size="14" color="#ffff00">And now, finally unleashed, I can harvest it.</font>
+
+532
+00:56:50,330 --> 00:56:52,270
+<font face="方正黑体_GBK" size="18">不
+</font><font face="华文中宋" size="14" color="#ffff00">No.</font>
+
+533
+00:56:52,330 --> 00:56:54,270
+<font face="方正黑体_GBK" size="18">不会让你得逞的
+</font><font face="华文中宋" size="14" color="#ffff00">You'll do no such thing.</font>
+
+534
+00:56:54,340 --> 00:56:56,800
+<font face="方正黑体_GBK" size="18">我会提取这东西 治好我自己
+</font><font face="华文中宋" size="14" color="#ffff00">I will isolate it and treat it myself.</font>
+
+535
+00:56:56,840 --> 00:57:00,270
+<font face="方正黑体_GBK" size="18">我会在它造成真正伤害前把它清除 消灭掉
+</font><font face="华文中宋" size="14" color="#ffff00">I'll remove it and I'll kill it before it does any real harm.</font>
+
+536
+00:57:00,340 --> 00:57:03,210
+<font face="方正黑体_GBK" size="18">我打赌你和贝蒂都热衷于毁灭掉它
+</font><font face="华文中宋" size="14" color="#ffff00">I'll bet you and your Betty would love to destroy it.</font>
+
+537
+00:57:03,280 --> 00:57:06,510
+<font face="方正黑体_GBK" size="18">但是你真的能毁掉你身体的一部分吗
+</font><font face="华文中宋" size="14" color="#ffff00">But would you really destroy part ofyourself?</font>
+
+538
+00:57:07,580 --> 00:57:10,140
+<font face="方正黑体_GBK" size="18">我可不这么认为
+</font><font face="华文中宋" size="14" color="#ffff00">I don't think so.</font>
+
+539
+00:57:10,220 --> 00:57:12,150
+<font face="方正黑体_GBK" size="18">至于贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">And as for Betty,</font>
+
+540
+00:57:12,220 --> 00:57:14,250
+<font face="方正黑体_GBK" size="18">我有几个四条腿的朋友...
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sending her a surprise visit...</font>
+
+541
+00:57:14,320 --> 00:57:16,760
+<font face="方正黑体_GBK" size="18">正赶去访问她
+</font><font face="华文中宋" size="14" color="#ffff00">from some four-legged friends of mine.</font>
+
+542
+00:57:16,820 --> 00:57:21,260
+<font face="方正黑体_GBK" size="18">我已经培养了你的一些基因 布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">You see, I managed to culture some ofyourvery own DNA, Bruce,</font>
+
+543
+00:57:21,330 --> 00:57:24,030
+<font face="方正黑体_GBK" size="18">结果很惊人
+</font><font face="华文中宋" size="14" color="#ffff00">and the results are tremendous.</font>
+
+544
+00:57:24,100 --> 00:57:27,860
+<font face="方正黑体_GBK" size="18">它们相当不稳定 但是力量很强大
+</font><font face="华文中宋" size="14" color="#ffff00">They're unstable, but very powerful.</font>
+
+545
+00:57:29,300 --> 00:57:31,460
+<font face="方正黑体_GBK" size="18">我的基因怎么了
+</font><font face="华文中宋" size="14" color="#ffff00">What about my DNA?</font>
+
+546
+00:57:31,540 --> 00:57:35,640
+<font face="方正黑体_GBK" size="18">我们等等贝蒂的结果就知道了
+</font><font face="华文中宋" size="14" color="#ffff00">Let's just wait and see what Betty makes ofthe results, huh?</font>
+
+547
+00:57:35,710 --> 00:57:37,640
+<font face="方正黑体_GBK" size="18">不 你疯了
+</font><font face="华文中宋" size="14" color="#ffff00">No. You're crazy.</font>
+
+548
+00:57:37,710 --> 00:57:39,700
+<font face="方正黑体_GBK" size="18">我不会让你得逞的
+</font><font face="华文中宋" size="14" color="#ffff00">I won't let you.</font>
+
+549
+00:57:42,720 --> 00:57:45,480
+<font face="方正黑体_GBK" size="18">- 把手拿开  - 这是什么意思...
+</font><font face="华文中宋" size="14" color="#ffff00">- Getyour hands off of me.   - Talbot, what's this--</font>
+
+550
+00:57:45,550 --> 00:57:47,820
+<font face="方正黑体_GBK" size="18">进去 混蛋 我要跟你谈谈
+</font><font face="华文中宋" size="14" color="#ffff00">Inside, asshole. I wanna talk to you.</font>
+
+551
+00:57:47,890 --> 00:57:49,820
+<font face="方正黑体_GBK" size="18">听着 我父亲要暗算贝蒂...
+</font><font face="华文中宋" size="14" color="#ffff00">Listen, myfather's going after Betty--</font>
+
+552
+00:57:49,890 --> 00:57:53,160
+<font face="方正黑体_GBK" size="18">你以为可以在背后暗算我 让萝丝把我调走 哈?
+</font><font face="华文中宋" size="14" color="#ffff00">What makes you think you can go behind my back and get Ross to cut me out, huh?</font>
+
+553
+00:57:53,230 --> 00:57:56,660
+<font face="方正黑体_GBK" size="18">听着!贝蒂有麻烦了
+</font><font face="华文中宋" size="14" color="#ffff00">Listen to me! Betty's in trouble!</font>
+
+554
+00:57:59,970 --> 00:58:01,900
+<font face="方正黑体_GBK" size="18">你这个可怜的傻瓜!
+</font><font face="华文中宋" size="14" color="#ffff00">You pathetic freak.</font>
+
+555
+00:58:01,970 --> 00:58:04,340
+<font face="方正黑体_GBK" size="18">贝蒂有危险了 我发誓 她会死的!
+</font><font face="华文中宋" size="14" color="#ffff00">Betty's in danger. I swear to  you, she'll be killed.</font>
+
+556
+00:58:04,410 --> 00:58:06,340
+<font face="方正黑体_GBK" size="18">明显的是
+</font><font face="华文中宋" size="14" color="#ffff00">I can state the obvious.</font>
+
+557
+00:58:06,410 --> 00:58:09,740
+<font face="方正黑体_GBK" size="18">你已经不在重要的位置上 不能再威胁别人了
+</font><font face="华文中宋" size="14" color="#ffff00">Something tells me you aren't in much ofa position to be making stupid threats to anyone.</font>
+
+558
+00:58:14,680 --> 00:58:16,810
+<font face="方正黑体_GBK" size="18">嗯?
+</font><font face="华文中宋" size="14" color="#ffff00">Talbot. Yeah?</font>
+
+559
+00:58:16,880 --> 00:58:18,820
+<font face="方正黑体_GBK" size="18">你把我惹恼了
+</font><font face="华文中宋" size="14" color="#ffff00">You're making me angry.</font>
+
+560
+00:58:18,890 --> 00:58:21,180
+<font face="方正黑体_GBK" size="18">哦 是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, am I?</font>
+
+561
+00:59:16,910 --> 00:59:19,240
+<font face="方正黑体_GBK" size="18">我看到他了!开火!
+</font><font face="华文中宋" size="14" color="#ffff00">I got him! Open fire!</font>
+
+562
+01:01:09,360 --> 01:01:12,190
+<font face="方正黑体_GBK" size="18">布鲁斯?
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce?</font>
+
+563
+01:06:38,850 --> 01:06:42,150
+<font face="方正黑体_GBK" size="18">他派来的狗 是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">He sent these dogs, didn't he?</font>
+
+564
+01:06:42,220 --> 01:06:44,660
+<font face="方正黑体_GBK" size="18">但我把他们杀了
+</font><font face="华文中宋" size="14" color="#ffff00">But I killed them!</font>
+
+565
+01:07:09,550 --> 01:07:11,610
+<font face="方正黑体_GBK" size="18">天哪!
+</font><font face="华文中宋" size="14" color="#ffff00">My God.</font>
+
+566
+01:07:11,690 --> 01:07:14,350
+<font face="方正黑体_GBK" size="18">一定是因为奈米医疗组织 一定是因为伽马射线
+</font><font face="华文中宋" size="14" color="#ffff00">It must be the nanomeds. It must be the gamma exposure.</font>
+
+567
+01:07:14,420 --> 01:07:17,190
+<font face="方正黑体_GBK" size="18">可我们从没见过这种作用
+</font><font face="华文中宋" size="14" color="#ffff00">Butwe've never seen any effect like this before.</font>
+
+568
+01:07:17,260 --> 01:07:19,190
+<font face="方正黑体_GBK" size="18">不 还有更深层的原因
+</font><font face="华文中宋" size="14" color="#ffff00">No. Deeper.</font>
+
+569
+01:07:19,260 --> 01:07:22,820
+<font face="方正黑体_GBK" size="18">伽马射线不过激发了原来就有的东西
+</font><font face="华文中宋" size="14" color="#ffff00">The gamma just unleashed what was already there.</font>
+
+570
+01:07:22,900 --> 01:07:25,460
+<font face="方正黑体_GBK" size="18">激发了什么?
+</font><font face="华文中宋" size="14" color="#ffff00">Unleashed what?</font>
+
+571
+01:07:25,530 --> 01:07:28,520
+<font face="方正黑体_GBK" size="18">我
+</font><font face="华文中宋" size="14" color="#ffff00">Me.</font>
+
+572
+01:07:28,600 --> 01:07:31,330
+<font face="方正黑体_GBK" size="18">它
+</font><font face="华文中宋" size="14" color="#ffff00">It.</font>
+
+573
+01:07:31,410 --> 01:07:33,970
+<font face="方正黑体_GBK" size="18">没事了
+</font><font face="华文中宋" size="14" color="#ffff00">It's okay.</font>
+
+574
+01:07:34,040 --> 01:07:35,700
+<font face="方正黑体_GBK" size="18">没事了
+</font><font face="华文中宋" size="14" color="#ffff00">Shh. It's okay.</font>
+
+575
+01:07:37,510 --> 01:07:40,170
+<font face="方正黑体_GBK" size="18">那些是什么动物?
+</font><font face="华文中宋" size="14" color="#ffff00">What were those animals?</font>
+
+576
+01:07:40,250 --> 01:07:43,270
+<font face="方正黑体_GBK" size="18">是我父亲派来的
+</font><font face="华文中宋" size="14" color="#ffff00">Myfathersent them.</font>
+
+577
+01:07:43,350 --> 01:07:46,050
+<font face="方正黑体_GBK" size="18">他的确是我父亲
+</font><font face="华文中宋" size="14" color="#ffff00">He is my father.</font>
+
+578
+01:07:46,120 --> 01:07:48,210
+<font face="方正黑体_GBK" size="18">他想让我改变
+</font><font face="华文中宋" size="14" color="#ffff00">He wanted me to change.</font>
+
+579
+01:07:48,290 --> 01:07:51,660
+<font face="方正黑体_GBK" size="18">他想让我变成那个没脑子的怪物
+</font><font face="华文中宋" size="14" color="#ffff00">He wanted me to change into that mindless hulk.</font>
+
+580
+01:07:51,730 --> 01:07:53,850
+<font face="方正黑体_GBK" size="18">但为什么他要这么做?
+</font><font face="华文中宋" size="14" color="#ffff00">Whywould he want that?</font>
+
+581
+01:07:55,260 --> 01:07:57,490
+<font face="方正黑体_GBK" size="18">你还能记起什么?
+</font><font face="华文中宋" size="14" color="#ffff00">Can you remember anything?</font>
+
+582
+01:07:57,560 --> 01:08:00,830
+<font face="方正黑体_GBK" size="18">任何变身之后的事情吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Is there anything from when you were changed?</font>
+
+583
+01:08:03,640 --> 01:08:06,570
+<font face="方正黑体_GBK" size="18">就像一场梦
+</font><font face="华文中宋" size="14" color="#ffff00">It was like a dream.</font>
+
+584
+01:08:06,640 --> 01:08:09,580
+<font face="方正黑体_GBK" size="18">什么梦?
+</font><font face="华文中宋" size="14" color="#ffff00">About what?</font>
+
+585
+01:08:10,910 --> 01:08:12,900
+<font face="方正黑体_GBK" size="18">愤怒
+</font><font face="华文中宋" size="14" color="#ffff00">Rage.</font>
+
+586
+01:08:14,380 --> 01:08:16,370
+<font face="方正黑体_GBK" size="18">力量
+</font><font face="华文中宋" size="14" color="#ffff00">Power.</font>
+
+587
+01:08:17,950 --> 01:08:20,420
+<font face="方正黑体_GBK" size="18">和自由
+</font><font face="华文中宋" size="14" color="#ffff00">And freedom.</font>
+
+588
+01:08:38,270 --> 01:08:41,610
+<font face="方正黑体_GBK" size="18">喂?长官
+</font><font face="华文中宋" size="14" color="#ffff00">Hello? Sir.</font>
+
+589
+01:08:43,010 --> 01:08:45,000
+<font face="方正黑体_GBK" size="18">爸爸
+</font><font face="华文中宋" size="14" color="#ffff00">Hello. Dad?</font>
+
+590
+01:08:45,080 --> 01:08:47,450
+<font face="方正黑体_GBK" size="18">贝蒂!你没事吧?
+</font><font face="华文中宋" size="14" color="#ffff00">Betty! Are you all right?</font>
+
+591
+01:08:49,620 --> 01:08:53,280
+<font face="方正黑体_GBK" size="18">我吓坏了 我需要你的帮助
+</font><font face="华文中宋" size="14" color="#ffff00">I'm scared. I need your help.</font>
+
+592
+01:08:53,350 --> 01:08:55,350
+<font face="方正黑体_GBK" size="18">你在哪里?
+</font><font face="华文中宋" size="14" color="#ffff00">Where are you?</font>
+
+593
+01:09:05,800 --> 01:09:08,100
+<font face="方正黑体_GBK" size="18">你还好吗?
+</font><font face="华文中宋" size="14" color="#ffff00">How are you?</font>
+
+594
+01:09:08,170 --> 01:09:10,830
+<font face="方正黑体_GBK" size="18">还好 我猜
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, I guess.</font>
+
+595
+01:09:14,510 --> 01:09:16,840
+<font face="方正黑体_GBK" size="18">我想...
+</font><font face="华文中宋" size="14" color="#ffff00">I think that somehow...</font>
+
+596
+01:09:16,910 --> 01:09:20,180
+<font face="方正黑体_GBK" size="18">愤怒触发了你身体里的奈米医疗组织
+</font><font face="华文中宋" size="14" color="#ffff00">your anger is triggering the nanomeds.</font>
+
+597
+01:09:20,250 --> 01:09:24,680
+<font face="方正黑体_GBK" size="18">怎么会?我们的设计是对物理伤害起反应
+</font><font face="华文中宋" size="14" color="#ffff00">How could it? We designed them to respond to physical damage.</font>
+
+598
+01:09:24,750 --> 01:09:27,850
+<font face="方正黑体_GBK" size="18">精神伤害有时会转化到物理上
+</font><font face="华文中宋" size="14" color="#ffff00">Emotional damage can manifest physically.</font>
+
+599
+01:09:29,290 --> 01:09:31,450
+<font face="方正黑体_GBK" size="18">比如说?
+</font><font face="华文中宋" size="14" color="#ffff00">Like what?</font>
+
+600
+01:09:34,600 --> 01:09:36,690
+<font face="方正黑体_GBK" size="18">严重的精神创伤
+</font><font face="华文中宋" size="14" color="#ffff00">Serious trauma.</font>
+
+601
+01:09:38,630 --> 01:09:40,660
+<font face="方正黑体_GBK" size="18">压抑的记忆
+</font><font face="华文中宋" size="14" color="#ffff00">Repressed memories.</font>
+
+602
+01:09:46,040 --> 01:09:50,910
+<font face="方正黑体_GBK" size="18">你父亲盘问过我小时候的事...
+</font><font face="华文中宋" size="14" color="#ffff00">Your father grilled me about something that happened to me from early childhood...</font>
+
+603
+01:09:50,980 --> 01:09:53,280
+<font face="方正黑体_GBK" size="18">一些我应该记得的事
+</font><font face="华文中宋" size="14" color="#ffff00">that I'm supposed to remember.</font>
+
+604
+01:09:53,350 --> 01:09:54,840
+<font face="方正黑体_GBK" size="18">是吗?
+</font><font face="华文中宋" size="14" color="#ffff00">He did?</font>
+
+605
+01:09:54,920 --> 01:09:59,910
+<font face="方正黑体_GBK" size="18">听起来挺糟糕的 但...我真的不记得了
+</font><font face="华文中宋" size="14" color="#ffff00">It sounded bad, but... I honestly don't remember.</font>
+
+606
+01:10:03,120 --> 01:10:05,650
+<font face="方正黑体_GBK" size="18">让我担心的...
+</font><font face="华文中宋" size="14" color="#ffff00">The thing that worries me...</font>
+
+607
+01:10:05,730 --> 01:10:07,720
+<font face="方正黑体_GBK" size="18">是...
+</font><font face="华文中宋" size="14" color="#ffff00">is...</font>
+
+608
+01:10:07,800 --> 01:10:09,890
+<font face="方正黑体_GBK" size="18">物理上伤害是有限的
+</font><font face="华文中宋" size="14" color="#ffff00">a physical wound is finite,</font>
+
+609
+01:10:09,960 --> 01:10:11,900
+<font face="方正黑体_GBK" size="18">但是精神上的
+</font><font face="华文中宋" size="14" color="#ffff00">but with emotions,</font>
+
+610
+01:10:11,970 --> 01:10:15,770
+<font face="方正黑体_GBK" size="18">会不会一直持续下去...
+</font><font face="华文中宋" size="14" color="#ffff00">what's to sayit won't just go on and on...</font>
+
+611
+01:10:15,840 --> 01:10:19,360
+<font face="方正黑体_GBK" size="18">产生连锁反应?
+</font><font face="华文中宋" size="14" color="#ffff00">and start a chain reaction?</font>
+
+612
+01:10:21,580 --> 01:10:24,170
+<font face="方正黑体_GBK" size="18">你知道我最害怕的是什么事情吗?
+</font><font face="华文中宋" size="14" color="#ffff00">You know what scares me the most?</font>
+
+613
+01:10:26,110 --> 01:10:28,100
+<font face="方正黑体_GBK" size="18">当那发生时
+</font><font face="华文中宋" size="14" color="#ffff00">When it happens,</font>
+
+614
+01:10:29,250 --> 01:10:31,380
+<font face="方正黑体_GBK" size="18">当那个又来时...
+</font><font face="华文中宋" size="14" color="#ffff00">when it comes over me...</font>
+
+615
+01:10:31,450 --> 01:10:34,440
+<font face="方正黑体_GBK" size="18">当我完全失去了控制时
+</font><font face="华文中宋" size="14" color="#ffff00">and I totally lose control,</font>
+
+616
+01:10:36,290 --> 01:10:38,380
+<font face="方正黑体_GBK" size="18">但我却很喜欢这感觉
+</font><font face="华文中宋" size="14" color="#ffff00">I like it.</font>
+
+617
+01:10:55,510 --> 01:10:58,270
+<font face="方正黑体_GBK" size="18">别担心 我在这儿 抱歉
+</font><font face="华文中宋" size="14" color="#ffff00">It's okay. I got  you. I'm sorry.</font>
+
+618
+01:10:58,350 --> 01:11:02,010
+<font face="方正黑体_GBK" size="18">你会没事的 只是让你睡一会
+</font><font face="华文中宋" size="14" color="#ffff00">You'll be okay. It's just to make you sleep.</font>
+
+619
+01:11:02,080 --> 01:11:03,950
+<font face="方正黑体_GBK" size="18">目标被击倒 目标已无威胁
+</font><font face="华文中宋" size="14" color="#ffff00">Target down. Target secure.</font>
+
+620
+01:11:04,020 --> 01:11:06,850
+<font face="方正黑体_GBK" size="18">我会带你去安全的地方
+</font><font face="华文中宋" size="14" color="#ffff00">I'm going to take you someplace safe.</font>
+
+621
+01:11:06,920 --> 01:11:10,150
+<font face="方正黑体_GBK" size="18">好不好?布鲁斯?
+</font><font face="华文中宋" size="14" color="#ffff00">Okay? Bruce?</font>
+
+622
+01:11:10,220 --> 01:11:12,660
+<font face="方正黑体_GBK" size="18">布鲁斯?
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce?</font>
+
+623
+01:11:12,730 --> 01:11:14,720
+<font face="方正黑体_GBK" size="18">布鲁斯?
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce?</font>
+
+624
+01:13:48,580 --> 01:13:50,850
+<font face="方正黑体_GBK" size="18">好了!
+</font><font face="华文中宋" size="14" color="#ffff00">Clear!</font>
+
+625
+01:14:00,660 --> 01:14:03,390
+<font face="方正黑体_GBK" size="18">- 立正!  - 继续
+</font><font face="华文中宋" size="14" color="#ffff00">- Attention on deck.   - Carry on.</font>
+
+626
+01:14:11,370 --> 01:14:14,270
+<font face="方正黑体_GBK" size="18">我们在这荒漠下
+</font><font face="华文中宋" size="14" color="#ffff00">We're buried out here in the middle ofnowhere.</font>
+
+627
+01:14:14,340 --> 01:14:16,740
+<font face="方正黑体_GBK" size="18">你想让他这样不省人事多久?
+</font><font face="华文中宋" size="14" color="#ffff00">How long are you gonna keep him sedated?</font>
+
+628
+01:14:16,810 --> 01:14:19,070
+<font face="方正黑体_GBK" size="18">他的余生 如果不得不的话
+</font><font face="华文中宋" size="14" color="#ffff00">For the rest of his natural life, if I have to.</font>
+
+629
+01:14:19,150 --> 01:14:22,050
+<font face="方正黑体_GBK" size="18">- 你说过我能相信你  - 我是你的父亲
+</font><font face="华文中宋" size="14" color="#ffff00">- You said I could trust  you.   - I 'm your father.</font>
+
+630
+01:14:22,120 --> 01:14:26,380
+<font face="方正黑体_GBK" size="18">你可以信任我认为正确的事 而不是你认为对的
+</font><font face="华文中宋" size="14" color="#ffff00">You can trust me to do what I think is right, not what you think you want.</font>
+
+631
+01:14:26,450 --> 01:14:30,480
+<font face="方正黑体_GBK" size="18">- 他是个人  - 他也是别的东西
+</font><font face="华文中宋" size="14" color="#ffff00">- He is a human being.   - He is also something else.</font>
+
+632
+01:14:30,560 --> 01:14:34,120
+<font face="方正黑体_GBK" size="18">设想一下他逃出去 在人口密集的地方...
+</font><font face="华文中宋" size="14" color="#ffff00">Suppose he gets out, has one ofhis little mood swings...</font>
+
+633
+01:14:34,190 --> 01:14:35,590
+<font face="方正黑体_GBK" size="18">耍耍脾气
+</font><font face="华文中宋" size="14" color="#ffff00">in a populated area.</font>
+
+634
+01:14:35,630 --> 01:14:40,260
+<font face="方正黑体_GBK" size="18">我知道那种潜在的危险 但我也知道他救了我的命
+</font><font face="华文中宋" size="14" color="#ffff00">Yes, I'm aware of the potential danger. I'm also aware that he saved my life.</font>
+
+635
+01:14:40,330 --> 01:14:43,270
+<font face="方正黑体_GBK" size="18">没错 把你从那些变种的狗那里救出来
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah, from a mutant French poodle.</font>
+
+636
+01:14:43,340 --> 01:14:45,630
+<font face="方正黑体_GBK" size="18">这是我欠他的
+</font><font face="华文中宋" size="14" color="#ffff00">I'm indebted to him for that.</font>
+
+637
+01:14:45,710 --> 01:14:49,230
+<font face="方正黑体_GBK" size="18">但他也让三个人躺在医院里 塔尔伯特几乎不能走路
+</font><font face="华文中宋" size="14" color="#ffff00">He also put three men in a hospital, and Talbot's barelywalking!</font>
+
+638
+01:14:49,310 --> 01:14:51,080
+<font face="方正黑体_GBK" size="18">你究竟想让我做什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you want me to do?</font>
+
+639
+01:14:51,810 --> 01:14:53,580
+<font face="方正黑体_GBK" size="18">我想让你帮帮他
+</font><font face="华文中宋" size="14" color="#ffff00">I want you to help him!</font>
+
+640
+01:14:53,650 --> 01:14:54,980
+<font face="方正黑体_GBK" size="18">为什么他对你有这么大的威胁?
+</font><font face="华文中宋" size="14" color="#ffff00">Why is he such a threat toyou?</font>
+
+641
+01:14:55,050 --> 01:14:57,480
+<font face="方正黑体_GBK" size="18">因为我知道他是从哪里来的
+</font><font face="华文中宋" size="14" color="#ffff00">Because I knowwhat he comes from.</font>
+
+642
+01:14:57,550 --> 01:15:01,780
+<font face="方正黑体_GBK" size="18">他是他父亲的儿子 他的每一部分都像他父亲那样
+</font><font face="华文中宋" size="14" color="#ffff00">He is his father's son, every last molecule ofhim.</font>
+
+643
+01:15:01,860 --> 01:15:04,350
+<font face="方正黑体_GBK" size="18">他说他不认识他的父亲
+</font><font face="华文中宋" size="14" color="#ffff00">Hesays he doesn't know his father,</font>
+
+644
+01:15:04,420 --> 01:15:09,830
+<font face="方正黑体_GBK" size="18">可他偏偏和他父亲工作在同一研究领域
+</font><font face="华文中宋" size="14" color="#ffff00">but he's workin' in the same exact goddamn field his father did.</font>
+
+645
+01:15:09,900 --> 01:15:14,230
+<font face="方正黑体_GBK" size="18">所以 要不是他在撒谎...或者更糟 他...
+</font><font face="华文中宋" size="14" color="#ffff00">So either he's lyin'... or it's somethin' worse, and he's--</font>
+
+646
+01:15:14,300 --> 01:15:16,330
+<font face="方正黑体_GBK" size="18">什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What?</font>
+
+647
+01:15:16,400 --> 01:15:20,200
+<font face="方正黑体_GBK" size="18">命中注定要继承他父亲的事业?
+</font><font face="华文中宋" size="14" color="#ffff00">Predestined to follow in his father's footsteps?</font>
+
+648
+01:15:21,640 --> 01:15:24,540
+<font face="方正黑体_GBK" size="18">我本想说"受诅咒的"
+</font><font face="华文中宋" size="14" color="#ffff00">I was gonna say "damned."</font>
+
+649
+01:15:24,610 --> 01:15:27,140
+<font face="方正黑体_GBK" size="18">当然你会这么想
+</font><font face="华文中宋" size="14" color="#ffff00">Of course you were.</font>
+
+650
+01:15:27,210 --> 01:15:28,650
+<font face="方正黑体_GBK" size="18">但我是个科学家
+</font><font face="华文中宋" size="14" color="#ffff00">But I'm a scientist.</font>
+
+651
+01:15:28,720 --> 01:15:33,210
+<font face="方正黑体_GBK" size="18">作为一个科学家 我相信可以找到解决办法帮助他
+</font><font face="华文中宋" size="14" color="#ffff00">As a scientist, I believe we can figure this out and he can be helped.</font>
+
+652
+01:15:33,290 --> 01:15:36,620
+<font face="方正黑体_GBK" size="18">我知道你会的
+</font><font face="华文中宋" size="14" color="#ffff00">I know you do.</font>
+
+653
+01:15:36,690 --> 01:15:40,130
+<font face="方正黑体_GBK" size="18">不管你知不知道 在不在意
+</font><font face="华文中宋" size="14" color="#ffff00">Look, whether you know or care,</font>
+
+654
+01:15:40,190 --> 01:15:43,820
+<font face="方正黑体_GBK" size="18">我为你做的一切感到自豪
+</font><font face="华文中宋" size="14" color="#ffff00">I've got a lot of pride in what you've done.</font>
+
+655
+01:15:43,900 --> 01:15:46,890
+<font face="方正黑体_GBK" size="18">但这事关重大 不是你能做的
+</font><font face="华文中宋" size="14" color="#ffff00">But this is too big for you.</font>
+
+656
+01:15:46,970 --> 01:15:50,960
+<font face="方正黑体_GBK" size="18">听着 我知道政府以为他们掌握了一件武器
+</font><font face="华文中宋" size="14" color="#ffff00">Look, I know the government thinks they have a weapon on their hands.</font>
+
+657
+01:15:51,040 --> 01:15:53,630
+<font face="方正黑体_GBK" size="18">不然 他早就死掉了
+</font><font face="华文中宋" size="14" color="#ffff00">Otherwise, he'd be dead by now.</font>
+
+658
+01:15:53,710 --> 01:15:56,070
+<font face="方正黑体_GBK" size="18">他们可以任意研究他们想知道的东西
+</font><font face="华文中宋" size="14" color="#ffff00">They can probe andprod all they want,</font>
+
+659
+01:15:56,140 --> 01:15:58,410
+<font face="方正黑体_GBK" size="18">但现在 让我来试着帮助他
+</font><font face="华文中宋" size="14" color="#ffff00">and in the meanwhile, just let me try to help him.</font>
+
+660
+01:15:58,480 --> 01:16:01,880
+<font face="方正黑体_GBK" size="18">没有人比我更了解他
+</font><font face="华文中宋" size="14" color="#ffff00">Nobodyknows him betterthan I do.</font>
+
+661
+01:16:04,680 --> 01:16:07,480
+<font face="方正黑体_GBK" size="18">大卫·斑纳 你对他做了什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What did David Banner do to him?</font>
+
+662
+01:16:11,420 --> 01:16:13,320
+<font face="方正黑体_GBK" size="18">- 掩护左边!  - 左边没危险
+</font><font face="华文中宋" size="14" color="#ffff00">- Cover left!   - Clear left.</font>
+
+663
+01:16:13,390 --> 01:16:15,330
+<font face="方正黑体_GBK" size="18">掩护右边!
+</font><font face="华文中宋" size="14" color="#ffff00">Cover right!</font>
+
+664
+01:18:26,030 --> 01:18:28,930
+<font face="方正黑体_GBK" size="18">发生什么事了?
+</font><font face="华文中宋" size="14" color="#ffff00">What's happening here?</font>
+
+665
+01:18:29,000 --> 01:18:31,490
+<font face="方正黑体_GBK" size="18">我的手
+</font><font face="华文中宋" size="14" color="#ffff00">My hand.</font>
+
+666
+01:18:32,930 --> 01:18:37,200
+<font face="方正黑体_GBK" size="18">我儿子基因的力量...
+</font><font face="华文中宋" size="14" color="#ffff00">Yousee, thestrength ofmyson's DNA...</font>
+
+667
+01:18:37,270 --> 01:18:41,570
+<font face="方正黑体_GBK" size="18">结合奈米医疗组织重建...
+</font><font face="华文中宋" size="14" color="#ffff00">combined with nanomed reconstruction--</font>
+
+668
+01:18:44,080 --> 01:18:48,070
+<font face="方正黑体_GBK" size="18">我能够融合任何东西
+</font><font face="华文中宋" size="14" color="#ffff00">You see, I can partake with the essences of all things.</font>
+
+669
+01:18:49,850 --> 01:18:52,320
+<font face="方正黑体_GBK" size="18">要你把手...
+</font><font face="华文中宋" size="14" color="#ffff00">Gonna have to ask you to...</font>
+
+670
+01:18:52,390 --> 01:18:55,410
+<font face="方正黑体_GBK" size="18">举起来 朋友 好么?
+</font><font face="华文中宋" size="14" color="#ffff00">put your hands up, pal, okay?</font>
+
+671
+01:18:55,490 --> 01:18:58,890
+<font face="方正黑体_GBK" size="18">放松 慢慢来
+</font><font face="华文中宋" size="14" color="#ffff00">Nice and easy.</font>
+
+672
+01:19:03,830 --> 01:19:05,890
+<font face="方正黑体_GBK" size="18">你真的认为...
+</font><font face="华文中宋" size="14" color="#ffff00">Do you really believe...</font>
+
+673
+01:19:05,970 --> 01:19:10,670
+<font face="方正黑体_GBK" size="18">我和你是分开的吗?
+</font><font face="华文中宋" size="14" color="#ffff00">that I am separate from you?</font>
+
+674
+01:19:27,820 --> 01:19:29,810
+<font face="方正黑体_GBK" size="18">我在什么地方?
+</font><font face="华文中宋" size="14" color="#ffff00">Where am I?</font>
+
+675
+01:19:33,730 --> 01:19:35,660
+<font face="方正黑体_GBK" size="18">在家
+</font><font face="华文中宋" size="14" color="#ffff00">You're home.</font>
+
+676
+01:19:48,010 --> 01:19:50,880
+<font face="方正黑体_GBK" size="18">难以相信我们以前住在这里
+</font><font face="华文中宋" size="14" color="#ffff00">It's hard to believe we used to live here.</font>
+
+677
+01:19:53,550 --> 01:19:56,540
+<font face="方正黑体_GBK" size="18">我肯定曾经见过你...或是认识你
+</font><font face="华文中宋" size="14" color="#ffff00">I must have seen you or known  you.</font>
+
+678
+01:19:56,620 --> 01:19:59,450
+<font face="方正黑体_GBK" size="18">只要我能记起来
+</font><font face="华文中宋" size="14" color="#ffff00">If only I could remember.</font>
+
+679
+01:20:33,190 --> 01:20:36,120
+<font face="方正黑体_GBK" size="18">这里以前是我的家 对不对?
+</font><font face="华文中宋" size="14" color="#ffff00">This is my old house, isn't it?</font>
+
+680
+01:21:14,690 --> 01:21:16,820
+<font face="方正黑体_GBK" size="18">走吧
+</font><font face="华文中宋" size="14" color="#ffff00">Let's go.</font>
+
+681
+01:21:18,530 --> 01:21:20,470
+<font face="方正黑体_GBK" size="18">再试试
+</font><font face="华文中宋" size="14" color="#ffff00">Please try.</font>
+
+682
+01:22:14,720 --> 01:22:16,780
+<font face="方正黑体_GBK" size="18">怎么了?
+</font><font face="华文中宋" size="14" color="#ffff00">What is it?</font>
+
+683
+01:22:16,860 --> 01:22:18,790
+<font face="方正黑体_GBK" size="18">没什么
+</font><font face="华文中宋" size="14" color="#ffff00">Nothing.</font>
+
+684
+01:22:18,860 --> 01:22:20,920
+<font face="方正黑体_GBK" size="18">真的?!
+</font><font face="华文中宋" size="14" color="#ffff00">Really?</font>
+
+685
+01:22:23,300 --> 01:22:25,790
+<font face="方正黑体_GBK" size="18">妈的
+</font><font face="华文中宋" size="14" color="#ffff00">Damn it.</font>
+
+686
+01:22:30,440 --> 01:22:34,630
+<font face="方正黑体_GBK" size="18">好吧 贝蒂 你想知道什么?
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, Betty... what do you want to know?</font>
+
+687
+01:22:37,940 --> 01:22:40,640
+<font face="方正黑体_GBK" size="18">那房间里有什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What was in that room?</font>
+
+688
+01:22:51,490 --> 01:22:54,260
+<font face="方正黑体_GBK" size="18">你到底在害怕我会看见什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What are you afraid that I'll see?</font>
+
+689
+01:22:59,500 --> 01:23:03,300
+<font face="方正黑体_GBK" size="18">看 什么也没有
+</font><font face="华文中宋" size="14" color="#ffff00">See? There's nothing.</font>
+
+690
+01:23:03,370 --> 01:23:06,600
+<font face="方正黑体_GBK" size="18">是空的
+</font><font face="华文中宋" size="14" color="#ffff00">It's empty.</font>
+
+691
+01:23:18,480 --> 01:23:21,250
+<font face="方正黑体_GBK" size="18">你什么意思 我无权见他?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you mean, I don't have access to him?</font>
+
+692
+01:23:21,320 --> 01:23:26,730
+<font face="方正黑体_GBK" size="18">国家安全局已经决定把这个威胁的研究交给阿瑟娜
+</font><font face="华文中宋" size="14" color="#ffff00">NSA has decided to turn overstudy ofthe, uh--the threat to Atheon.</font>
+
+693
+01:23:26,790 --> 01:23:29,280
+<font face="方正黑体_GBK" size="18">但你是这个基地的头
+</font><font face="华文中宋" size="14" color="#ffff00">But you're head of the base.</font>
+
+694
+01:23:29,360 --> 01:23:31,830
+<font face="方正黑体_GBK" size="18">我还以为这个基地归你管
+</font><font face="华文中宋" size="14" color="#ffff00">I thought you were in charge.</font>
+
+695
+01:23:31,900 --> 01:23:36,530
+<font face="方正黑体_GBK" size="18">可我不能制定政策 我也得听命于人
+</font><font face="华文中宋" size="14" color="#ffff00">But I don't set policy, and I still take orders.</font>
+
+696
+01:23:38,910 --> 01:23:42,860
+<font face="方正黑体_GBK" size="18">真难以相信塔尔伯特居然这样对我!
+</font><font face="华文中宋" size="14" color="#ffff00">I can't believe Talbot would go around me like this!</font>
+
+697
+01:23:44,280 --> 01:23:47,970
+<font face="方正黑体_GBK" size="18">很多有权力的人都想接手这件事情
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, there's a lot of powerful people that want in on this.</font>
+
+698
+01:23:48,050 --> 01:23:51,350
+<font face="方正黑体_GBK" size="18">他们都想从中牟利
+</font><font face="华文中宋" size="14" color="#ffff00">And moneyto be made--lots ofit.</font>
+
+699
+01:23:56,290 --> 01:23:59,550
+<font face="方正黑体_GBK" size="18">你知道最糟的是什么吗?
+</font><font face="华文中宋" size="14" color="#ffff00">You know the worst part about all this?</font>
+
+700
+01:23:59,630 --> 01:24:02,690
+<font face="方正黑体_GBK" size="18">当把大卫.班纳关起来 把那孩子送走时
+</font><font face="华文中宋" size="14" color="#ffff00">When I had David Bannerlocked up andsent that kid away,</font>
+
+701
+01:24:02,760 --> 01:24:06,930
+<font face="方正黑体_GBK" size="18">我没注意这小子: 我认为他只不过是个无辜的受害者
+</font><font face="华文中宋" size="14" color="#ffff00">I didn't give that boy a second thought: he was just collateral damage.</font>
+
+702
+01:24:07,000 --> 01:24:10,230
+<font face="方正黑体_GBK" size="18">但现在他不再是了 是不是?
+</font><font face="华文中宋" size="14" color="#ffff00">Well, he isn't anymore, is he?</font>
+
+703
+01:24:12,540 --> 01:24:14,470
+<font face="方正黑体_GBK" size="18">我还可以做什么?
+</font><font face="华文中宋" size="14" color="#ffff00">What can I do?</font>
+
+704
+01:24:14,540 --> 01:24:18,030
+<font face="方正黑体_GBK" size="18">你可以回家去
+</font><font face="华文中宋" size="14" color="#ffff00">You can go home now.</font>
+
+705
+01:24:19,980 --> 01:24:23,210
+<font face="方正黑体_GBK" size="18">我也希望你能去和他道别 我已经接到通知...
+</font><font face="华文中宋" size="14" color="#ffff00">I'd tell you to go andsaygood-bye, but I've alreadybeen informed...</font>
+
+706
+01:24:23,280 --> 01:24:27,050
+<font face="方正黑体_GBK" size="18">现在任何接触都是不允许的
+</font><font face="华文中宋" size="14" color="#ffff00">that for now all further contact is out of the question.</font>
+
+707
+01:24:28,420 --> 01:24:29,890
+<font face="方正黑体_GBK" size="18">好吧
+</font><font face="华文中宋" size="14" color="#ffff00">Right.</font>
+
+708
+01:25:08,310 --> 01:25:12,720
+<font face="方正黑体_GBK" size="18">嗨 布鲁斯 感觉如何?伙食合你口味吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Hiya, Bruce. How ya feelin'? Grub okay in here forya?</font>
+
+709
+01:25:12,780 --> 01:25:15,120
+<font face="方正黑体_GBK" size="18">你想怎么样?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you want?</font>
+
+710
+01:25:15,190 --> 01:25:17,550
+<font face="方正黑体_GBK" size="18">嗯 问得好
+</font><font face="华文中宋" size="14" color="#ffff00">That's a good question.</font>
+
+711
+01:25:17,620 --> 01:25:22,390
+<font face="方正黑体_GBK" size="18">嗯 我需要你的细胞做些实验
+</font><font face="华文中宋" size="14" color="#ffff00">See, I need your cells to trigger some chemical distress signals.</font>
+
+712
+01:25:22,460 --> 01:25:26,300
+<font face="方正黑体_GBK" size="18">你能否为我再"绿"一次...
+</font><font face="华文中宋" size="14" color="#ffff00">You know, so you can turn a little green for me again...</font>
+
+713
+01:25:26,370 --> 01:25:29,630
+<font face="方正黑体_GBK" size="18">好让我从真正的"你"身上切些肉
+</font><font face="华文中宋" size="14" color="#ffff00">and I can carve off a piece ofthe real  you,</font>
+
+714
+01:25:29,700 --> 01:25:32,670
+<font face="方正黑体_GBK" size="18">分析一下 搞个专利 再赚个大钱
+</font><font face="华文中宋" size="14" color="#ffff00">analyze it, patent it, make a fortune.</font>
+
+715
+01:25:33,910 --> 01:25:36,500
+<font face="方正黑体_GBK" size="18">你不介意吧?
+</font><font face="华文中宋" size="14" color="#ffff00">Do you mind?</font>
+
+716
+01:25:36,580 --> 01:25:38,810
+<font face="方正黑体_GBK" size="18">我不会让你如愿的
+</font><font face="华文中宋" size="14" color="#ffff00">I'll never let you.</font>
+
+717
+01:25:38,880 --> 01:25:41,440
+<font face="方正黑体_GBK" size="18">我觉得你没别的选择
+</font><font face="华文中宋" size="14" color="#ffff00">I'm not sureyou've got much ofa choice.</font>
+
+718
+01:25:43,980 --> 01:25:46,640
+<font face="方正黑体_GBK" size="18">来吧 布鲁斯 你难道不愤怒吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Come on, Bruce. Aren't you feeling a little angry?</font>
+
+719
+01:25:46,720 --> 01:25:48,480
+<font face="方正黑体_GBK" size="18">毕竟 现在只有我陪你玩了
+</font><font face="华文中宋" size="14" color="#ffff00">After all, you've only got me to playwith now that Betty's dumped you and gone back to Berkeley.</font>
+
+720
+01:25:48,480 --> 01:25:50,180
+<font face="方正黑体_GBK" size="18">贝蒂已经抛弃你返回柏克莱了
+</font><font face="华文中宋" size="14" color="#ffff00">After all, you've only got me to playwith now that Betty's dumped you and gone back to Berkeley.</font>
+
+721
+01:25:50,260 --> 01:25:52,850
+<font face="方正黑体_GBK" size="18">你说谎
+</font><font face="华文中宋" size="14" color="#ffff00">You're lying.</font>
+
+722
+01:25:52,920 --> 01:25:55,320
+<font face="方正黑体_GBK" size="18">你知道 对我来说 这是个双赢的局面
+</font><font face="华文中宋" size="14" color="#ffff00">You know, for me this is a win-win situation.</font>
+
+723
+01:25:55,390 --> 01:25:57,760
+<font face="方正黑体_GBK" size="18">你一变绿 外面那些家伙就会冲进来杀了你...
+</font><font face="华文中宋" size="14" color="#ffff00">You turn green, andall these guys come in and kill you...</font>
+
+724
+01:25:57,830 --> 01:25:59,660
+<font face="方正黑体_GBK" size="18">然后我就可以解剖你
+</font><font face="华文中宋" size="14" color="#ffff00">and I perform the autopsy.</font>
+
+725
+01:25:59,700 --> 01:26:02,860
+<font face="方正黑体_GBK" size="18">假如你不变绿的话...
+</font><font face="华文中宋" size="14" color="#ffff00">You don't...</font>
+
+726
+01:26:02,930 --> 01:26:04,830
+<font face="方正黑体_GBK" size="18">我就拿你擦地...
+</font><font face="华文中宋" size="14" color="#ffff00">and I mop the floor with  you...</font>
+
+727
+01:26:04,870 --> 01:26:07,860
+<font face="方正黑体_GBK" size="18">也许一不小心 弄断你的脖子
+</font><font face="华文中宋" size="14" color="#ffff00">and maybe by accident go too far and breakyour neck.</font>
+
+728
+01:26:07,940 --> 01:26:12,210
+<font face="方正黑体_GBK" size="18">虽然对研究来说可能不太好... 但我个人会很爽
+</font><font face="华文中宋" size="14" color="#ffff00">Bad science, maybe... but personally gratifying.</font>
+
+729
+01:26:14,610 --> 01:26:18,210
+<font face="方正黑体_GBK" size="18">快点嘛 布鲁斯!让我们看看你的能耐
+</font><font face="华文中宋" size="14" color="#ffff00">Come on, Bruce! Let's see what you got.</font>
+
+730
+01:26:18,280 --> 01:26:20,880
+<font face="方正黑体_GBK" size="18">休想
+</font><font face="华文中宋" size="14" color="#ffff00">Never.</font>
+
+731
+01:26:26,560 --> 01:26:28,860
+<font face="方正黑体_GBK" size="18">你的意识想控制自己
+</font><font face="华文中宋" size="14" color="#ffff00">You know, consciously you may control it,</font>
+
+732
+01:26:28,930 --> 01:26:32,560
+<font face="方正黑体_GBK" size="18">但是你的潜意识就是另一回事了
+</font><font face="华文中宋" size="14" color="#ffff00">but subconsciously, I bet that's another story.</font>
+
+733
+01:27:03,200 --> 01:27:06,290
+<font face="方正黑体_GBK" size="18">好吧 开动脑电波吧
+</font><font face="华文中宋" size="14" color="#ffff00">All right, let's jump-start those brain waves.</font>
+
+734
+01:27:17,380 --> 01:27:19,370
+<font face="方正黑体_GBK" size="18">布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">Bruce.</font>
+
+735
+01:27:32,360 --> 01:27:34,850
+<font face="方正黑体_GBK" size="18">亲爱的萝丝小姐
+</font><font face="华文中宋" size="14" color="#ffff00">My dear Miss Ross.</font>
+
+736
+01:27:34,930 --> 01:27:36,790
+<font face="方正黑体_GBK" size="18">欢迎回来
+</font><font face="华文中宋" size="14" color="#ffff00">Welcome back.</font>
+
+737
+01:27:36,860 --> 01:27:39,560
+<font face="方正黑体_GBK" size="18">外面有两个警卫
+</font><font face="华文中宋" size="14" color="#ffff00">There are two guards right outside.</font>
+
+738
+01:27:39,630 --> 01:27:44,760
+<font face="方正黑体_GBK" size="18">别担心 我已经不再生你的气了
+</font><font face="华文中宋" size="14" color="#ffff00">You don't have to worry. I'm not angrywith  you. Not anymore.</font>
+
+739
+01:27:44,840 --> 01:27:47,100
+<font face="方正黑体_GBK" size="18">你想怎样?
+</font><font face="华文中宋" size="14" color="#ffff00">What do you want?</font>
+
+740
+01:27:47,170 --> 01:27:50,400
+<font face="方正黑体_GBK" size="18">我基本上已经完了 我知道
+</font><font face="华文中宋" size="14" color="#ffff00">It's overforme now. I knowthat.</font>
+
+741
+01:27:50,480 --> 01:27:54,070
+<font face="方正黑体_GBK" size="18">布鲁斯也快了
+</font><font face="华文中宋" size="14" color="#ffff00">And soon it'll be over for Bruce.</font>
+
+742
+01:27:54,150 --> 01:27:56,550
+<font face="方正黑体_GBK" size="18">所以我来找你
+</font><font face="华文中宋" size="14" color="#ffff00">That's why I've come to you--</font>
+
+743
+01:27:56,620 --> 01:28:00,920
+<font face="方正黑体_GBK" size="18">问你能否劝说你父亲
+</font><font face="华文中宋" size="14" color="#ffff00">to ask you If you could persuade your father,</font>
+
+744
+01:28:00,990 --> 01:28:03,750
+<font face="方正黑体_GBK" size="18">作为一个人 也作为一个父亲
+</font><font face="华文中宋" size="14" color="#ffff00">as a man, as a father himself,</font>
+
+745
+01:28:03,820 --> 01:28:08,450
+<font face="方正黑体_GBK" size="18">现在如果我能自首 和平地...
+</font><font face="华文中宋" size="14" color="#ffff00">that ifl turn myselfin now, peacefully...</font>
+
+746
+01:28:08,530 --> 01:28:12,050
+<font face="方正黑体_GBK" size="18">在他将我永远地关起来之前
+</font><font face="华文中宋" size="14" color="#ffff00">and before he puts me away forever,</font>
+
+747
+01:28:12,130 --> 01:28:15,000
+<font face="方正黑体_GBK" size="18">能不能让我见我的孩子...
+</font><font face="华文中宋" size="14" color="#ffff00">that he would let me see my son...</font>
+
+748
+01:28:15,070 --> 01:28:17,630
+<font face="方正黑体_GBK" size="18">最后一面
+</font><font face="华文中宋" size="14" color="#ffff00">for one last time.</font>
+
+749
+01:28:17,700 --> 01:28:20,500
+<font face="方正黑体_GBK" size="18">你能帮我这个忙吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Could you do that for me?</font>
+
+750
+01:28:23,010 --> 01:28:25,770
+<font face="方正黑体_GBK" size="18">这件事现在已经不归我父亲管了
+</font><font face="华文中宋" size="14" color="#ffff00">It's out of my father's hands now.</font>
+
+751
+01:28:30,380 --> 01:28:33,720
+<font face="方正黑体_GBK" size="18">我明白 他现在是个傀儡了
+</font><font face="华文中宋" size="14" color="#ffff00">I understand. He's a puppet now.</font>
+
+752
+01:28:35,050 --> 01:28:37,320
+<font face="方正黑体_GBK" size="18">- 我不会怪他  - 你也不应该
+</font><font face="华文中宋" size="14" color="#ffff00">- I don't blame him.   - Youshouldn't.</font>
+
+753
+01:28:37,390 --> 01:28:41,160
+<font face="方正黑体_GBK" size="18">你应该对你儿子做的事情感到愧疚
+</font><font face="华文中宋" size="14" color="#ffff00">You should blameyourself forwhat you've done toyour son.</font>
+
+754
+01:28:41,230 --> 01:28:44,960
+<font face="方正黑体_GBK" size="18">萝丝小姐 我对我儿子做什么了?
+</font><font face="华文中宋" size="14" color="#ffff00">And what have I done to my son, Miss Ross?</font>
+
+755
+01:28:45,030 --> 01:28:50,400
+<font face="方正黑体_GBK" size="18">什么也没做 我只不过尽力想改善我自己
+</font><font face="华文中宋" size="14" color="#ffff00">Nothing. I tried to improve on the limits in myself.</font>
+
+756
+01:28:50,470 --> 01:28:52,770
+<font face="方正黑体_GBK" size="18">我自己 不是他
+</font><font face="华文中宋" size="14" color="#ffff00">Myself!. Not him!</font>
+
+757
+01:28:52,840 --> 01:28:56,470
+<font face="方正黑体_GBK" size="18">你明白吗?改善本质
+</font><font face="华文中宋" size="14" color="#ffff00">Can you understand? To improve on nature.</font>
+
+758
+01:28:56,540 --> 01:28:59,510
+<font face="方正黑体_GBK" size="18">我的自然本质 对自己的认知
+</font><font face="华文中宋" size="14" color="#ffff00">My nature! Knowledge of oneself! It's the only path to the truth...</font>
+
+759
+01:28:59,580 --> 01:29:01,610
+<font face="方正黑体_GBK" size="18">这才是走向真理
+</font><font face="华文中宋" size="14" color="#ffff00">that give men the power to go beyond God's boundaries!</font>
+
+760
+01:29:03,610 --> 01:29:06,610
+<font face="方正黑体_GBK" size="18">给人类突破到神的境界的力量的唯一道路
+</font><font face="华文中宋" size="14" color="#ffff00">that give men the power to go beyond God's boundaries!</font>
+
+761
+01:29:07,620 --> 01:29:12,020
+<font face="方正黑体_GBK" size="18">你知道你极限之外是什么吗?其他人
+</font><font face="华文中宋" size="14" color="#ffff00">You know what's beyond your boundaries? Other people.</font>
+
+762
+01:29:12,090 --> 01:29:15,120
+<font face="方正黑体_GBK" size="18">你留给布鲁斯的只有恐惧
+</font><font face="华文中宋" size="14" color="#ffff00">Allyou've given Bruce is fear.</font>
+
+763
+01:29:17,460 --> 01:29:20,120
+<font face="方正黑体_GBK" size="18">对生活的恐惧
+</font><font face="华文中宋" size="14" color="#ffff00">Fear of life.</font>
+
+764
+01:29:22,300 --> 01:29:24,230
+<font face="方正黑体_GBK" size="18">恐惧
+</font><font face="华文中宋" size="14" color="#ffff00">Fear?</font>
+
+765
+01:29:25,640 --> 01:29:27,660
+<font face="方正黑体_GBK" size="18">也许吧 萝丝小姐
+</font><font face="华文中宋" size="14" color="#ffff00">Perhaps, Miss Ross.</font>
+
+766
+01:29:29,670 --> 01:29:32,140
+<font face="方正黑体_GBK" size="18">还有孤独
+</font><font face="华文中宋" size="14" color="#ffff00">And loneliness too.</font>
+
+767
+01:29:32,210 --> 01:29:36,980
+<font face="方正黑体_GBK" size="18">没错...这些我都能感受到
+</font><font face="华文中宋" size="14" color="#ffff00">Yes... I feel them both.</font>
+
+768
+01:29:40,520 --> 01:29:45,420
+<font face="方正黑体_GBK" size="18">但是 我也曾真正地生活过
+</font><font face="华文中宋" size="14" color="#ffff00">But I have lived... completely once.</font>
+
+769
+01:29:47,730 --> 01:29:50,390
+<font face="方正黑体_GBK" size="18">我也曾深陷爱河
+</font><font face="华文中宋" size="14" color="#ffff00">I was so much in love,</font>
+
+770
+01:29:50,460 --> 01:29:53,430
+<font face="方正黑体_GBK" size="18">而她非常想要个孩子
+</font><font face="华文中宋" size="14" color="#ffff00">andshe so much wanteda baby.</font>
+
+771
+01:29:53,500 --> 01:29:55,430
+<font face="方正黑体_GBK" size="18">我的孩子
+</font><font face="华文中宋" size="14" color="#ffff00">Mybaby.</font>
+
+772
+01:30:03,070 --> 01:30:05,940
+<font face="方正黑体_GBK" size="18">就在她怀孕的时候开始 我感觉到...
+</font><font face="华文中宋" size="14" color="#ffff00">I could tell from the moment she conceived...</font>
+
+773
+01:30:06,010 --> 01:30:09,040
+<font face="方正黑体_GBK" size="18">我给她的不是一个儿子...
+</font><font face="华文中宋" size="14" color="#ffff00">that it wasn't a son I had given her...</font>
+
+774
+01:30:09,110 --> 01:30:11,410
+<font face="方正黑体_GBK" size="18">而是别的东西
+</font><font face="华文中宋" size="14" color="#ffff00">but something else.</font>
+
+775
+01:30:11,480 --> 01:30:13,880
+<font face="方正黑体_GBK" size="18">也许是一个怪物
+</font><font face="华文中宋" size="14" color="#ffff00">A monster, maybe.</font>
+
+776
+01:30:13,950 --> 01:30:16,720
+<font face="方正黑体_GBK" size="18">我那时就应该阻止这一切的发生
+</font><font face="华文中宋" size="14" color="#ffff00">I should have put a stop to it right then,</font>
+
+777
+01:30:16,790 --> 01:30:21,250
+<font face="方正黑体_GBK" size="18">但是我也很好奇 所以这也是我失败的开始
+</font><font face="华文中宋" size="14" color="#ffff00">but I was curious and that was my downfall.</font>
+
+778
+01:30:21,330 --> 01:30:25,320
+<font face="方正黑体_GBK" size="18">我看着这个小生命慢慢的成长
+</font><font face="华文中宋" size="14" color="#ffff00">And as I watched this tiny life unfold,</font>
+
+779
+01:30:25,400 --> 01:30:28,630
+<font face="方正黑体_GBK" size="18">我开始想像以后可能出现的可怕场景
+</font><font face="华文中宋" size="14" color="#ffff00">I began to imagine the horror ofit,</font>
+
+780
+01:30:28,700 --> 01:30:33,000
+<font face="方正黑体_GBK" size="18">好奇心终于被...
+</font><font face="华文中宋" size="14" color="#ffff00">and my curiosity was replaced...</font>
+
+781
+01:30:33,070 --> 01:30:36,100
+<font face="方正黑体_GBK" size="18">同情取代
+</font><font face="华文中宋" size="14" color="#ffff00">with com passion.</font>
+
+782
+01:30:38,510 --> 01:30:41,100
+<font face="方正黑体_GBK" size="18">然而他们剥夺了我治愈他的权力
+</font><font face="华文中宋" size="14" color="#ffff00">But they took away my chance to cure him.</font>
+
+783
+01:30:41,180 --> 01:30:43,480
+<font face="方正黑体_GBK" size="18">你父亲把我赶出来
+</font><font face="华文中宋" size="14" color="#ffff00">Your father threw me out.</font>
+
+784
+01:30:43,550 --> 01:30:47,040
+<font face="方正黑体_GBK" size="18">- 你在做什么?  - 那一天 我还是记忆犹新...
+</font><font face="华文中宋" size="14" color="#ffff00">- What are you doing?   - I remember that dayso well...</font>
+
+785
+01:30:47,120 --> 01:30:49,920
+<font face="方正黑体_GBK" size="18">每一刻 每个感觉...
+</font><font face="华文中宋" size="14" color="#ffff00">every moment, every sensation...</font>
+
+786
+01:30:49,990 --> 01:30:52,250
+<font face="方正黑体_GBK" size="18">走进屋子
+</font><font face="华文中宋" size="14" color="#ffff00">walking into the house,</font>
+
+787
+01:30:52,320 --> 01:30:55,590
+<font face="方正黑体_GBK" size="18">手里握着刀柄的感觉
+</font><font face="华文中宋" size="14" color="#ffff00">the feeling ofthe handle ofthe knife in my hand.</font>
+
+788
+01:30:55,660 --> 01:31:00,600
+<font face="方正黑体_GBK" size="18">我知道我在尽一个父亲的义务 履行一个父亲的仁慈
+</font><font face="华文中宋" size="14" color="#ffff00">I knew I was doing a father's work, fulfilling a father's mercy.</font>
+
+789
+01:31:00,670 --> 01:31:03,790
+<font face="方正黑体_GBK" size="18">大卫 不!不!大卫 住手!
+</font><font face="华文中宋" size="14" color="#ffff00">David, please stop it! No!</font>
+
+790
+01:31:03,870 --> 01:31:06,300
+<font face="方正黑体_GBK" size="18">大卫 听我说!
+</font><font face="华文中宋" size="14" color="#ffff00">David, no! Talk to me! Listen!</font>
+
+791
+01:31:06,370 --> 01:31:09,270
+<font face="方正黑体_GBK" size="18">然而她让我很惊讶
+</font><font face="华文中宋" size="14" color="#ffff00">But then she surprised me.</font>
+
+792
+01:31:09,340 --> 01:31:13,140
+<font face="方正黑体_GBK" size="18">不!不!!
+</font><font face="华文中宋" size="14" color="#ffff00">No! No!</font>
+
+793
+01:31:13,210 --> 01:31:15,240
+<font face="方正黑体_GBK" size="18">大卫!不!
+</font><font face="华文中宋" size="14" color="#ffff00">David, no!</font>
+
+794
+01:31:15,310 --> 01:31:18,480
+<font face="方正黑体_GBK" size="18">好像..
+</font><font face="华文中宋" size="14" color="#ffff00">It was as if..</font>
+
+795
+01:31:18,550 --> 01:31:21,990
+<font face="方正黑体_GBK" size="18">她和那把刀...
+</font><font face="华文中宋" size="14" color="#ffff00">she and the knife...</font>
+
+796
+01:31:22,050 --> 01:31:24,680
+<font face="方正黑体_GBK" size="18">融合了
+</font><font face="华文中宋" size="14" color="#ffff00">merged.</font>
+
+797
+01:31:33,330 --> 01:31:35,530
+<font face="方正黑体_GBK" size="18">不!
+</font><font face="华文中宋" size="14" color="#ffff00">No!</font>
+
+798
+01:31:35,600 --> 01:31:38,330
+<font face="方正黑体_GBK" size="18">你无法想像...
+</font><font face="华文中宋" size="14" color="#ffff00">You cannot imagine...</font>
+
+799
+01:31:38,400 --> 01:31:42,030
+<font face="方正黑体_GBK" size="18">那令人断肠的结局
+</font><font face="华文中宋" size="14" color="#ffff00">the unbearable finality ofit.</font>
+
+800
+01:31:42,110 --> 01:31:45,570
+<font face="方正黑体_GBK" size="18">在那一刻...
+</font><font face="华文中宋" size="14" color="#ffff00">And in that one moment...</font>
+
+801
+01:31:45,640 --> 01:31:49,910
+<font face="方正黑体_GBK" size="18">我毁了我爱的一切...
+</font><font face="华文中宋" size="14" color="#ffff00">I took everything that was dear to me...</font>
+
+802
+01:31:49,980 --> 01:31:54,320
+<font face="方正黑体_GBK" size="18">留下的...
+</font><font face="华文中宋" size="14" color="#ffff00">and transformed it into nothing more...</font>
+
+803
+01:31:54,390 --> 01:31:56,380
+<font face="方正黑体_GBK" size="18">只有回忆
+</font><font face="华文中宋" size="14" color="#ffff00">than a memory.</font>
+
+804
+01:32:11,770 --> 01:32:15,070
+<font face="方正黑体_GBK" size="18">很好 他刚才一定作了恶梦
+</font><font face="华文中宋" size="14" color="#ffff00">Bi ngo! That m ust be some jum bo nightmare he just had.</font>
+
+805
+01:32:19,780 --> 01:32:22,010
+<font face="方正黑体_GBK" size="18">开始 从酵素提取开始
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, do it now. Start the enzyme extraction.</font>
+
+806
+01:32:26,790 --> 01:32:29,080
+<font face="方正黑体_GBK" size="18">长官 钻机穿不破
+</font><font face="华文中宋" size="14" color="#ffff00">Sir, negative on drill penetration.</font>
+
+807
+01:32:29,150 --> 01:32:32,890
+<font face="方正黑体_GBK" size="18">妈的 加大功率 最大转速!加油!伙计!继续!
+</font><font face="华文中宋" size="14" color="#ffff00">Damn it, drill him harder! Give him full RPMs. Come on, Holeman! Come on!</font>
+
+808
+01:32:46,970 --> 01:32:48,710
+<font face="方正黑体_GBK" size="18">要取消操作吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Should I neutralize?</font>
+
+809
+01:32:49,570 --> 01:32:51,410
+<font face="方正黑体_GBK" size="18">不!一堆粘液对我来说没用!继续!
+</font><font face="华文中宋" size="14" color="#ffff00">No! I can't do anything with goop! Come on!</font>
+
+810
+01:33:03,620 --> 01:33:06,750
+<font face="方正黑体_GBK" size="18">好吧 让他睡觉!
+</font><font face="华文中宋" size="14" color="#ffff00">All right, put him to sleep.</font>
+
+811
+01:33:15,700 --> 01:33:17,960
+<font face="方正黑体_GBK" size="18">不起作用!
+</font><font face="华文中宋" size="14" color="#ffff00">It's not stopping him!</font>
+
+812
+01:33:25,080 --> 01:33:27,600
+<font face="方正黑体_GBK" size="18">把防卫队派来
+</font><font face="华文中宋" size="14" color="#ffff00">Ready room, send in our containment team.</font>
+
+813
+01:33:27,680 --> 01:33:30,340
+<font face="方正黑体_GBK" size="18">非致命武器 我重申 只用非致命武器!
+</font><font face="华文中宋" size="14" color="#ffff00">Non-lethals only. I repeat, non-lethals only.</font>
+
+814
+01:33:30,420 --> 01:33:32,680
+<font face="方正黑体_GBK" size="18">我要取他身体的样本!
+</font><font face="华文中宋" size="14" color="#ffff00">I must have a sample ofhim.</font>
+
+815
+01:33:32,750 --> 01:33:34,680
+<font face="方正黑体_GBK" size="18">长官
+</font><font face="华文中宋" size="14" color="#ffff00">Sir!</font>
+
+816
+01:33:36,320 --> 01:33:39,850
+<font face="方正黑体_GBK" size="18">- 天啊  - 用泡沫对付他!
+</font><font face="华文中宋" size="14" color="#ffff00">- Jesus!   - Hit him with the foam.</font>
+
+817
+01:33:39,890 --> 01:33:41,830
+<font face="方正黑体_GBK" size="18">释放抑制泡沫
+</font><font face="华文中宋" size="14" color="#ffff00">Deploycontainment foam.</font>
+
+818
+01:33:42,890 --> 01:33:44,890
+<font face="方正黑体_GBK" size="18">塔尔博特 请讲话
+</font><font face="华文中宋" size="14" color="#ffff00">Talbot, talk to me.</font>
+
+819
+01:33:46,400 --> 01:33:47,630
+<font face="方正黑体_GBK" size="18">停火!
+</font><font face="华文中宋" size="14" color="#ffff00">Cease fire!</font>
+
+820
+01:33:47,800 --> 01:33:49,890
+<font face="方正黑体_GBK" size="18">都在控制中 将军 有需要我会通知你的
+</font><font face="华文中宋" size="14" color="#ffff00">Under control, General. I'll let you know ifwe need  you.</font>
+
+821
+01:33:49,970 --> 01:33:52,600
+<font face="方正黑体_GBK" size="18">不行 马上撤退到这里
+</font><font face="华文中宋" size="14" color="#ffff00">Unacceptable. Unseat your asses down here immediately.</font>
+
+822
+01:33:52,640 --> 01:33:54,760
+<font face="方正黑体_GBK" size="18">我要全体疏散
+</font><font face="华文中宋" size="14" color="#ffff00">I want a full-court evacuation now.</font>
+
+823
+01:33:54,840 --> 01:33:57,240
+<font face="方正黑体_GBK" size="18">- 我要把你们那里关闭  - 封锁
+</font><font face="华文中宋" size="14" color="#ffff00">- I'm shutting you down.   - Lockdown.</font>
+
+824
+01:33:57,310 --> 01:34:00,110
+<font face="方正黑体_GBK" size="18">- 你没听到将军说的话吗?  - 我说封锁
+</font><font face="华文中宋" size="14" color="#ffff00">- Didn't you hear what the general said?   - I said lockdown!</font>
+
+825
+01:34:02,810 --> 01:34:05,310
+<font face="方正黑体_GBK" size="18">让开!让我来取样本!
+</font><font face="华文中宋" size="14" color="#ffff00">Clear! I need a sample ofhim!</font>
+
+826
+01:34:07,290 --> 01:34:10,650
+<font face="方正黑体_GBK" size="18">别紧张 伙计
+</font><font face="华文中宋" size="14" color="#ffff00">Take it easy there, buddy.</font>
+
+827
+01:34:10,720 --> 01:34:14,520
+<font face="方正黑体_GBK" size="18">可能会有点痛 布鲁斯
+</font><font face="华文中宋" size="14" color="#ffff00">This might give you a bit ofa sting here, Bruce.</font>
+
+828
+01:34:26,600 --> 01:34:30,010
+<font face="方正黑体_GBK" size="18">- 撤退!撤退!  - 卸掉子弹!卸掉
+</font><font face="华文中宋" size="14" color="#ffff00">- Fall back! Fall back!   - Clearyourweapon! Clear it!</font>
+
+829
+01:34:30,070 --> 01:34:33,670
+<font face="方正黑体_GBK" size="18">给我M2 再见了 大家伙
+</font><font face="华文中宋" size="14" color="#ffff00">Give me the M2. So long, big boy.</font>
+
+830
+01:34:46,060 --> 01:34:49,190
+<font face="方正黑体_GBK" size="18">马上封锁整个基地
+</font><font face="华文中宋" size="14" color="#ffff00">Lockdown the entire facility immediately.</font>
+
+831
+01:34:53,330 --> 01:34:56,360
+<font face="方正黑体_GBK" size="18">目标仍向蓝区移动
+</font><font face="华文中宋" size="14" color="#ffff00">Target's still moving towards blue level.</font>
+
+832
+01:34:56,430 --> 01:34:59,700
+<font face="方正黑体_GBK" size="18">疏散主厅
+</font><font face="华文中宋" size="14" color="#ffff00">Evacuate the main hall.</font>
+
+833
+01:35:03,980 --> 01:35:07,640
+<font face="方正黑体_GBK" size="18">后备队支援 要重型武器 一级警戒
+</font><font face="华文中宋" size="14" color="#ffff00">Send in backup, heavyweapons. Issue general quarters.</font>
+
+834
+01:35:07,710 --> 01:35:10,410
+<font face="方正黑体_GBK" size="18">在左右设火力点
+</font><font face="华文中宋" size="14" color="#ffff00">Set firing lines left and right!</font>
+
+835
+01:35:10,480 --> 01:35:13,180
+<font face="方正黑体_GBK" size="18">重型武器 快
+</font><font face="华文中宋" size="14" color="#ffff00">Heavyweapons, go, go, go!</font>
+
+836
+01:35:35,010 --> 01:35:37,170
+<font face="方正黑体_GBK" size="18">有危险物泄漏 长官 系统指示危险
+</font><font face="华文中宋" size="14" color="#ffff00">Contamination, sir. System readings are redline.</font>
+
+837
+01:35:37,210 --> 01:35:39,440
+<font face="方正黑体_GBK" size="18">数据在备用能源上
+</font><font face="华文中宋" size="14" color="#ffff00">Data's on backup power supply.</font>
+
+838
+01:35:46,420 --> 01:35:48,580
+<font face="方正黑体_GBK" size="18">小心!
+</font><font face="华文中宋" size="14" color="#ffff00">Incoming!</font>
+
+839
+01:35:55,260 --> 01:35:58,020
+<font face="方正黑体_GBK" size="18">- 切断大厅所有电源  - 长官?
+</font><font face="华文中宋" size="14" color="#ffff00">- Shut down all power to the main hall.   - Sir?</font>
+
+840
+01:35:58,100 --> 01:36:02,760
+<font face="方正黑体_GBK" size="18">给他留出去的路 我们去外面收拾他
+</font><font face="华文中宋" size="14" color="#ffff00">Show him the way out. We'll fight him outside.</font>
+
+841
+01:38:11,330 --> 01:38:14,390
+<font face="方正黑体_GBK" size="18">驾驶员 停下!驾驶员 停下!
+</font><font face="华文中宋" size="14" color="#ffff00">Driver, stop. Driver, stop.</font>
+
+842
+01:38:21,340 --> 01:38:23,860
+<font face="方正黑体_GBK" size="18">左面!左面
+</font><font face="华文中宋" size="14" color="#ffff00">Gunner, traverse left! Traverse left!</font>
+
+843
+01:40:02,610 --> 01:40:06,840
+<font face="方正黑体_GBK" size="18">总统先生 我有些坏消息
+</font><font face="华文中宋" size="14" color="#ffff00">Mr. President, I have some bad news, sir.</font>
+
+844
+01:40:06,910 --> 01:40:08,880
+<font face="方正黑体_GBK" size="18">说吧 将军
+</font><font face="华文中宋" size="14" color="#ffff00">Let's have it, General.</font>
+
+845
+01:40:08,950 --> 01:40:12,140
+<font face="方正黑体_GBK" size="18">我已经向总统作了那个怒汉简报 你要说的是这事吧
+</font><font face="华文中宋" size="14" color="#ffff00">I've briefed the president onAngryMan. I assume that's what this is about.</font>
+
+846
+01:40:12,220 --> 01:40:16,950
+<font face="方正黑体_GBK" size="18">是的 女士 我希望获得国家特许授权
+</font><font face="华文中宋" size="14" color="#ffff00">It is, ma'am. I'm requesting a National Command Authority override.</font>
+
+847
+01:40:17,020 --> 01:40:19,890
+<font face="方正黑体_GBK" size="18">怒汉很危险
+</font><font face="华文中宋" size="14" color="#ffff00">Angry Man is unsecure.</font>
+
+848
+01:40:19,960 --> 01:40:24,330
+<font face="方正黑体_GBK" size="18">我要一切力量听我指挥来阻止他
+</font><font face="华文中宋" size="14" color="#ffff00">I need everything we have at my disposal in order to stop his movement.</font>
+
+849
+01:40:24,400 --> 01:40:27,890
+<font face="方正黑体_GBK" size="18">你考虑了平民伤亡吗 将军?
+</font><font face="华文中宋" size="14" color="#ffff00">You're expecting civilian casualties, General?</font>
+
+850
+01:40:27,970 --> 01:40:30,230
+<font face="方正黑体_GBK" size="18">如果我成功阻止他的话 夫人
+</font><font face="华文中宋" size="14" color="#ffff00">Not ifl can help it, ma'am.</font>
+
+851
+01:40:30,300 --> 01:40:32,570
+<font face="方正黑体_GBK" size="18">放手做吧 随时汇报
+</font><font face="华文中宋" size="14" color="#ffff00">Consider it done. Keep us posted.</font>
+
+852
+01:41:21,150 --> 01:41:23,090
+<font face="方正黑体_GBK" size="18">联络控制中心
+</font><font face="华文中宋" size="14" color="#ffff00">Contact Goodman Control.</font>
+
+853
+01:41:23,150 --> 01:41:25,680
+<font face="方正黑体_GBK" size="18">把资料传给各单位
+</font><font face="华文中宋" size="14" color="#ffff00">Patch data to the assets.</font>
+
+854
+01:41:25,760 --> 01:41:28,520
+<font face="方正黑体_GBK" size="18">联络总部
+</font><font face="华文中宋" size="14" color="#ffff00">Contact H.Q.</font>
+
+855
+01:41:28,590 --> 01:41:32,430
+<font face="方正黑体_GBK" size="18">让他们发布紧急疏散令...
+</font><font face="华文中宋" size="14" color="#ffff00">Have them initiate an immediate evacuation...</font>
+
+856
+01:41:32,500 --> 01:41:37,660
+<font face="方正黑体_GBK" size="18">疏散座标653-216的人员...
+</font><font face="华文中宋" size="14" color="#ffff00">in vicinity ofgrid coordinates 653-216...</font>
+
+857
+01:42:11,800 --> 01:42:13,960
+<font face="方正黑体_GBK" size="18">确认已疏散
+</font><font face="华文中宋" size="14" color="#ffff00">Confirm that the area has been cleared.</font>
+
+858
+01:42:14,040 --> 01:42:16,510
+<font face="方正黑体_GBK" size="18">确认那地区已疏散
+</font><font face="华文中宋" size="14" color="#ffff00">Confirm area cleared.</font>
+
+859
+01:42:16,570 --> 01:42:19,510
+<font face="方正黑体_GBK" size="18">总部确认那地区已疏散 各单位就绪 长官
+</font><font face="华文中宋" size="14" color="#ffff00">H.Q. confirms area cleared. Assets on-line, sir.</font>
+
+860
+01:42:19,580 --> 01:42:21,840
+<font face="方正黑体_GBK" size="18">先生们 该去收拾他了
+</font><font face="华文中宋" size="14" color="#ffff00">Gentlemen, it's time to dig in.</font>
+
+861
+01:42:21,910 --> 01:42:25,400
+<font face="方正黑体_GBK" size="18">我要目标停止活动
+</font><font face="华文中宋" size="14" color="#ffff00">I want this target stopped in his tracks.</font>
+
+862
+01:43:14,970 --> 01:43:16,900
+<font face="方正黑体_GBK" size="18">天啊
+</font><font face="华文中宋" size="14" color="#ffff00">J esus.</font>
+
+863
+01:43:32,080 --> 01:43:35,540
+<font face="方正黑体_GBK" size="18">求救 求救!啊...妈的!
+</font><font face="华文中宋" size="14" color="#ffff00">Mayday! Mayday! Ah, shit!</font>
+
+864
+01:43:41,430 --> 01:43:45,590
+<font face="方正黑体_GBK" size="18">探戈四号坠毁 要求C-SAR支援 越快越好
+</font><font face="华文中宋" size="14" color="#ffff00">Tango Four is down. Have C-SAR respond to our 20 ASAP.</font>
+
+865
+01:43:45,660 --> 01:43:49,860
+<font face="方正黑体_GBK" size="18">我们没事 但 在他把我们撕碎前引开
+</font><font face="华文中宋" size="14" color="#ffff00">We're okay, but, damn it, get him offus before he tears us apart!</font>
+
+866
+01:43:49,930 --> 01:43:52,600
+<font face="方正黑体_GBK" size="18">没法射击 你有角度射击吗?
+</font><font face="华文中宋" size="14" color="#ffff00">I've got no shot. Do you have a clear line offire?</font>
+
+867
+01:43:52,670 --> 01:43:54,870
+<font face="方正黑体_GBK" size="18">小心 探戈斗士
+</font><font face="华文中宋" size="14" color="#ffff00">Watch it, Tango Flight.</font>
+
+868
+01:43:54,940 --> 01:43:57,370
+<font face="方正黑体_GBK" size="18">小心左面 左面!
+</font><font face="华文中宋" size="14" color="#ffff00">Break left! Break left!</font>
+
+869
+01:43:57,440 --> 01:44:00,880
+<font face="方正黑体_GBK" size="18">探戈三号后撤 准备地狱火导弹
+</font><font face="华文中宋" size="14" color="#ffff00">Tango Three, pull back and set up for a Hellfire shot.</font>
+
+870
+01:44:00,950 --> 01:44:03,410
+<font face="方正黑体_GBK" size="18">把他引开之前不要开火
+</font><font face="华文中宋" size="14" color="#ffff00">Holdyour fire till we draw him off.</font>
+
+871
+01:44:03,480 --> 01:44:05,780
+<font face="方正黑体_GBK" size="18">探戈一号就位 炮手待命
+</font><font face="华文中宋" size="14" color="#ffff00">Tango One is hot. Gun wazzed.</font>
+
+872
+01:44:05,850 --> 01:44:08,440
+<font face="方正黑体_GBK" size="18">收到 准备好了 准备射击
+</font><font face="华文中宋" size="14" color="#ffff00">Roger. Going hot. Guns ready.</font>
+
+873
+01:44:12,460 --> 01:44:16,590
+<font face="方正黑体_GBK" size="18">任意开火
+</font><font face="华文中宋" size="14" color="#ffff00">Engage at will.</font>
+
+874
+01:44:35,680 --> 01:44:38,710
+<font face="方正黑体_GBK" size="18">探戈一号 退下!挡住我的射击角度了!
+</font><font face="华文中宋" size="14" color="#ffff00">Tango One, pull back! Clear my line!</font>
+
+875
+01:44:38,780 --> 01:44:41,720
+<font face="方正黑体_GBK" size="18">探戈机队 后撤 他已经被我的地狱火锁定
+</font><font face="华文中宋" size="14" color="#ffff00">Tango Flight, clear back. I've got him painted for Hellfire.</font>
+
+876
+01:44:41,790 --> 01:44:46,310
+<font face="方正黑体_GBK" size="18">知道了 开火吧
+</font><font face="华文中宋" size="14" color="#ffff00">Roger that. Tango One clear. Take the shot.</font>
+
+877
+01:45:04,540 --> 01:45:07,670
+<font face="方正黑体_GBK" size="18">探戈一号 探戈三号 我击中目标了
+</font><font face="华文中宋" size="14" color="#ffff00">Tango One, Tango Three. I have contact.</font>
+
+878
+01:45:07,750 --> 01:45:10,240
+<font face="方正黑体_GBK" size="18">妈的!他抓住了我的导弹!
+</font><font face="华文中宋" size="14" color="#ffff00">Holy shit! He 's got my missile!</font>
+
+879
+01:45:12,150 --> 01:45:14,080
+<font face="方正黑体_GBK" size="18">求救 求救!
+</font><font face="华文中宋" size="14" color="#ffff00">Mayday! Mayday!</font>
+
+880
+01:45:16,620 --> 01:45:20,150
+<font face="方正黑体_GBK" size="18">求救 求救!我们被击中!我们在坠落
+</font><font face="华文中宋" size="14" color="#ffff00">Mayday! Mayday! We're hit! We're goi ng down!</font>
+
+881
+01:45:23,090 --> 01:45:25,430
+<font face="方正黑体_GBK" size="18">清点一下伤亡
+</font><font face="华文中宋" size="14" color="#ffff00">Give me a head count.</font>
+
+882
+01:45:25,500 --> 01:45:28,690
+<font face="方正黑体_GBK" size="18">探戈三号 回报战情
+</font><font face="华文中宋" size="14" color="#ffff00">Tango Three, give me a sit rep.</font>
+
+883
+01:45:28,770 --> 01:45:32,500
+<font face="方正黑体_GBK" size="18">我们的飞机挂了 但我们没事
+</font><font face="华文中宋" size="14" color="#ffff00">Our kite's busted up, but we're okay.</font>
+
+884
+01:45:32,570 --> 01:45:36,100
+<font face="方正黑体_GBK" size="18">探戈斗士 你还能看见目标吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Tango Flight, do you have eyes on the target?</font>
+
+885
+01:45:36,170 --> 01:45:39,270
+<font face="方正黑体_GBK" size="18">我看见他进入了巨石群
+</font><font face="华文中宋" size="14" color="#ffff00">Tango One. I have him in the rocks.</font>
+
+886
+01:45:39,340 --> 01:45:42,470
+<font face="方正黑体_GBK" size="18">集中火力 把那里扫荡成停车场
+</font><font face="华文中宋" size="14" color="#ffff00">Salvo all. Turn it into a parking lot.</font>
+
+887
+01:46:02,770 --> 01:46:05,360
+<font face="方正黑体_GBK" size="18">指挥 您的停车场造好了!
+</font><font face="华文中宋" size="14" color="#ffff00">T-bolt, your parking lot is ready.</font>
+
+888
+01:46:05,440 --> 01:46:08,200
+<font face="方正黑体_GBK" size="18">我们没有弹药和燃油了 回基地
+</font><font face="华文中宋" size="14" color="#ffff00">We 're bingo for fuel and ammo. R. T.B.</font>
+
+889
+01:46:35,170 --> 01:46:37,360
+<font face="方正黑体_GBK" size="18">指挥 这里是指挥中心
+</font><font face="华文中宋" size="14" color="#ffff00">T-bolt, this is Goodman Control.</font>
+
+890
+01:46:37,430 --> 01:46:41,000
+<font face="方正黑体_GBK" size="18">目标未被摧毁 他又在移动了
+</font><font face="华文中宋" size="14" color="#ffff00">Be advised, target not destroyed. He 's on the move again.</font>
+
+891
+01:46:41,070 --> 01:46:43,010
+<font face="方正黑体_GBK" size="18">妈的
+</font><font face="华文中宋" size="14" color="#ffff00">Dam n!</font>
+
+892
+01:46:43,070 --> 01:46:45,510
+<font face="方正黑体_GBK" size="18">我找到他了
+</font><font face="华文中宋" size="14" color="#ffff00">I 've got it.</font>
+
+893
+01:46:45,580 --> 01:46:47,770
+<font face="方正黑体_GBK" size="18">看上去他正在回家的路上
+</font><font face="华文中宋" size="14" color="#ffff00">I t appears he's headi ng home.</font>
+
+894
+01:46:47,850 --> 01:46:49,840
+<font face="方正黑体_GBK" size="18">快速反应队
+</font><font face="华文中宋" size="14" color="#ffff00">Launch fast movers.</font>
+
+895
+01:46:49,910 --> 01:46:53,470
+<font face="方正黑体_GBK" size="18">中途拦截摧毁他
+</font><font face="华文中宋" size="14" color="#ffff00">Have them intercept and engage.</font>
+
+896
+01:46:53,550 --> 01:46:55,750
+<font face="方正黑体_GBK" size="18">喂?
+</font><font face="华文中宋" size="14" color="#ffff00">Hello?</font>
+
+897
+01:46:55,820 --> 01:46:59,450
+<font face="方正黑体_GBK" size="18">贝蒂 布鲁斯逃出来了 他正向你那边去...
+</font><font face="华文中宋" size="14" color="#ffff00">Betty, Bruce got out. He's headed your way...</font>
+
+898
+01:46:59,520 --> 01:47:01,250
+<font face="方正黑体_GBK" size="18">应该是去找你的
+</font><font face="华文中宋" size="14" color="#ffff00">and probably right for  you.</font>
+
+899
+01:47:01,330 --> 01:47:03,620
+<font face="方正黑体_GBK" size="18">你离基地有多远
+</font><font face="华文中宋" size="14" color="#ffff00">How far from the base are you?</font>
+
+900
+01:47:03,690 --> 01:47:06,820
+<font face="方正黑体_GBK" size="18">我已经到了 他们正把他父亲带进来
+</font><font face="华文中宋" size="14" color="#ffff00">I'm already here. They're taking his father in now.</font>
+
+901
+01:47:06,900 --> 01:47:10,310
+<font face="方正黑体_GBK" size="18">全是好消息 待在那里 贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">That's all goodnews. Staythere, Betty.</font>
+
+902
+01:47:10,800 --> 01:47:13,200
+<font face="方正黑体_GBK" size="18">旧金山61英哩 柏克莱65英哩</font>
+
+903
+01:47:24,620 --> 01:47:27,520
+<font face="方正黑体_GBK" size="18">- 传奇一号就位  - 传奇二号到左面
+</font><font face="华文中宋" size="14" color="#ffff00">- Legend One rolling in hot.   - Legend Two breaking offleft.</font>
+
+904
+01:47:27,580 --> 01:47:31,650
+<font face="方正黑体_GBK" size="18">我认为可以绕回去攻击
+</font><font face="华文中宋" size="14" color="#ffff00">I think I can come back around for a gun attack.</font>
+
+905
+01:47:31,720 --> 01:47:35,090
+<font face="方正黑体_GBK" size="18">找到目标 自由开火
+</font><font face="华文中宋" size="14" color="#ffff00">Acquire a clear target. Fire at will.</font>
+
+906
+01:47:39,430 --> 01:47:43,330
+<font face="方正黑体_GBK" size="18">提升高度 民航机接近
+</font><font face="华文中宋" size="14" color="#ffff00">I ncrease altitude. Civilian aircraft in vicinity.</font>
+
+907
+01:47:47,170 --> 01:47:50,700
+<font face="方正黑体_GBK" size="18">拉起来!拉起来!你要撞到桥了
+</font><font face="华文中宋" size="14" color="#ffff00">Pull up! Pull up! You're headed for the bridge!</font>
+
+908
+01:47:50,770 --> 01:47:54,940
+<font face="方正黑体_GBK" size="18">拉不起来!拉不起来!
+</font><font face="华文中宋" size="14" color="#ffff00">I can't pull up! I can't pull up!</font>
+
+909
+01:48:03,020 --> 01:48:06,320
+<font face="方正黑体_GBK" size="18">你抓住他了 把他带去世界之巅吧
+</font><font face="华文中宋" size="14" color="#ffff00">Okay, you've got him now. Take him on a ride to the top of the world.</font>
+
+910
+01:48:06,390 --> 01:48:09,330
+<font face="方正黑体_GBK" size="18">看看他在稀薄的空气里会怎样
+</font><font face="华文中宋" size="14" color="#ffff00">Let's see what the thin air will do forhim.</font>
+
+911
+01:48:09,390 --> 01:48:11,490
+<font face="方正黑体_GBK" size="18">启动后燃系统
+</font><font face="华文中宋" size="14" color="#ffff00">Initiating afterburner.</font>
+
+912
+01:48:29,050 --> 01:48:31,070
+<font face="方正黑体_GBK" size="18">我已经爬升到600
+</font><font face="华文中宋" size="14" color="#ffff00">I'm passing flight level 600.</font>
+
+913
+01:48:31,150 --> 01:48:33,380
+<font face="方正黑体_GBK" size="18">已经超过我的极限了
+</font><font face="华文中宋" size="14" color="#ffff00">This is out of my envelope.</font>
+
+914
+01:48:33,450 --> 01:48:35,480
+<font face="方正黑体_GBK" size="18">坚持住 传奇号
+</font><font face="华文中宋" size="14" color="#ffff00">Hang in there, Legend.</font>
+
+915
+01:48:35,550 --> 01:48:38,990
+<font face="方正黑体_GBK" size="18">我无法保持高度 他在我的整流罩上了
+</font><font face="华文中宋" size="14" color="#ffff00">I can't maintain. He's all over my aerodynamics.</font>
+
+916
+01:48:39,060 --> 01:48:41,220
+<font face="方正黑体_GBK" size="18">他会比你先失去知觉的
+</font><font face="华文中宋" size="14" color="#ffff00">He'll lose consciousness before you.</font>
+
+917
+01:48:44,930 --> 01:48:50,390
+<font face="方正黑体_GBK" size="18">950 我保持不了了 我要回去了
+</font><font face="华文中宋" size="14" color="#ffff00">Nine-fifty. I can't hold it. I'm pulling back!</font>
+
+918
+01:49:36,850 --> 01:49:39,320
+<font face="方正黑体_GBK" size="18">弱小的人类
+</font><font face="华文中宋" size="14" color="#ffff00">Puny human.</font>
+
+919
+01:49:49,490 --> 01:49:51,460
+<font face="方正黑体_GBK" size="18">看到目标 目标在水中 所有单位准备开火
+</font><font face="华文中宋" size="14" color="#ffff00">Contact. He's in the water. All units, weapons hot.</font>
+
+920
+01:49:51,530 --> 01:49:53,890
+<font face="方正黑体_GBK" size="18">这次不能存侥幸心理
+</font><font face="华文中宋" size="14" color="#ffff00">Let's not take any chances.</font>
+
+921
+01:49:53,960 --> 01:49:57,420
+<font face="方正黑体_GBK" size="18">传奇机队开火 摧毁目标
+</font><font face="华文中宋" size="14" color="#ffff00">You are cleared to fire on target, Legend.</font>
+
+922
+01:50:18,360 --> 01:50:20,410
+<font face="方正黑体_GBK" size="18">- 爸爸  - 贝蒂
+</font><font face="华文中宋" size="14" color="#ffff00">- Dad?   - Betty?</font>
+
+923
+01:50:20,490 --> 01:50:22,980
+<font face="方正黑体_GBK" size="18">我们别无选择
+</font><font face="华文中宋" size="14" color="#ffff00">We don't have a choice.</font>
+
+924
+01:50:23,060 --> 01:50:25,360
+<font face="方正黑体_GBK" size="18">我必须毁灭他
+</font><font face="华文中宋" size="14" color="#ffff00">I have to destroy him.</font>
+
+925
+01:50:25,430 --> 01:50:27,090
+<font face="方正黑体_GBK" size="18">但你做不到的
+</font><font face="华文中宋" size="14" color="#ffff00">But you can't.</font>
+
+926
+01:50:27,430 --> 01:50:29,590
+<font face="方正黑体_GBK" size="18">你只会更加激怒他 这会让他变得更加强壮
+</font><font face="华文中宋" size="14" color="#ffff00">You will only fuel his rage, and you will make him stronger.</font>
+
+927
+01:50:29,670 --> 01:50:34,100
+<font face="方正黑体_GBK" size="18">他的目标是你 你知道的
+</font><font face="华文中宋" size="14" color="#ffff00">It's you he's coming for. You know that.</font>
+
+928
+01:50:35,310 --> 01:50:37,770
+<font face="方正黑体_GBK" size="18">那么就让我去见他
+</font><font face="华文中宋" size="14" color="#ffff00">Then let me go to him.</font>
+
+929
+01:50:37,840 --> 01:50:39,830
+<font face="方正黑体_GBK" size="18">求你
+</font><font face="华文中宋" size="14" color="#ffff00">Please.</font>
+
+930
+01:50:41,350 --> 01:50:44,040
+<font face="方正黑体_GBK" size="18">给他一个平静下来的机会
+</font><font face="华文中宋" size="14" color="#ffff00">Just give him a chance to calm down.</font>
+
+931
+01:51:03,100 --> 01:51:08,440
+<font face="方正黑体_GBK" size="18">所有在旧金山附近的飞机注意 这里是指挥
+</font><font face="华文中宋" size="14" color="#ffff00">All aircraft vicinity ofSan Francisco, this is T-bolt on guard.</font>
+
+932
+01:51:08,510 --> 01:51:12,370
+<font face="方正黑体_GBK" size="18">这片空域被划为禁飞区
+</font><font face="华文中宋" size="14" color="#ffff00">This area has been declared restricted airspace.</font>
+
+933
+01:51:12,440 --> 01:51:16,310
+<font face="方正黑体_GBK" size="18">所有的飞机马上离开这个地区
+</font><font face="华文中宋" size="14" color="#ffff00">Allaircraft are ordered to clearthe airspace immediately.</font>
+
+934
+01:51:57,320 --> 01:51:59,950
+<font face="方正黑体_GBK" size="18">收到 武器准备完毕
+</font><font face="华文中宋" size="14" color="#ffff00">Echo, One-niner. Weapons are hot.</font>
+
+935
+01:52:00,020 --> 01:52:02,550
+<font face="方正黑体_GBK" size="18">锁定目标 等待攻击命令
+</font><font face="华文中宋" size="14" color="#ffff00">Target acquired. Waitingyour orders to engage.</font>
+
+936
+01:52:02,630 --> 01:52:05,360
+<font face="方正黑体_GBK" size="18">重复 等待攻击命令
+</font><font face="华文中宋" size="14" color="#ffff00">Repeat, waiting your orders to engage.</font>
+
+937
+01:52:05,430 --> 01:52:08,800
+<font face="方正黑体_GBK" size="18">黄色警戒 停止开火 等候命令
+</font><font face="华文中宋" size="14" color="#ffff00">Com mand code yel low. Hold for authorization.</font>
+
+938
+01:52:18,240 --> 01:52:20,230
+<font face="方正黑体_GBK" size="18">所有单位 停止开火
+</font><font face="华文中宋" size="14" color="#ffff00">All units, hold your fire.</font>
+
+939
+01:52:20,310 --> 01:52:23,710
+<font face="方正黑体_GBK" size="18">这里是指挥 所有单位停止射击
+</font><font face="华文中宋" size="14" color="#ffff00">This is T-bolt to all assets. You have direct orders to holdyourfire.</font>
+
+940
+01:52:23,780 --> 01:52:26,270
+<font face="方正黑体_GBK" size="18">重复一遍 停止射击
+</font><font face="华文中宋" size="14" color="#ffff00">I repeat, holdyour fire.</font>
+
+941
+01:52:26,350 --> 01:52:28,610
+<font face="方正黑体_GBK" size="18">收到
+</font><font face="华文中宋" size="14" color="#ffff00">Echo, One-niner. Roger that.</font>
+
+942
+01:52:42,800 --> 01:52:44,820
+<font face="方正黑体_GBK" size="18">快 快 快 快!
+</font><font face="华文中宋" size="14" color="#ffff00">Go go, go, go, go, go!</font>
+
+943
+01:53:14,730 --> 01:53:17,700
+<font face="方正黑体_GBK" size="18">停止射击 直到我下令
+</font><font face="华文中宋" size="14" color="#ffff00">Holdyourfire until my command!</font>
+
+944
+01:53:20,340 --> 01:53:22,830
+<font face="方正黑体_GBK" size="18">24号汇报 到达指定地点
+</font><font face="华文中宋" size="14" color="#ffff00">Engine 24 to command. We are in position now.</font>
+
+945
+01:54:30,140 --> 01:54:32,840
+<font face="方正黑体_GBK" size="18">你找到我了
+</font><font face="华文中宋" size="14" color="#ffff00">You found me.</font>
+
+946
+01:54:34,140 --> 01:54:37,050
+<font face="方正黑体_GBK" size="18">你并不是那么难找
+</font><font face="华文中宋" size="14" color="#ffff00">You weren't that hard to find.</font>
+
+947
+01:54:38,620 --> 01:54:40,610
+<font face="方正黑体_GBK" size="18">不 我是很难找的
+</font><font face="华文中宋" size="14" color="#ffff00">Yes, I was.</font>
+
+948
+01:55:46,120 --> 01:55:48,050
+<font face="方正黑体_GBK" size="18">跟我走
+</font><font face="华文中宋" size="14" color="#ffff00">Let's take a walk.</font>
+
+949
+01:56:19,820 --> 01:56:23,120
+<font face="方正黑体_GBK" size="18">就这样 先生们 他在基地待着...
+</font><font face="华文中宋" size="14" color="#ffff00">That's the deal, gentlemen. He stays on this base...</font>
+
+950
+01:56:23,190 --> 01:56:27,490
+<font face="方正黑体_GBK" size="18">直到我们从中心那里 收到怎样处理他的命令
+</font><font face="华文中宋" size="14" color="#ffff00">until we get the final word from C-3 on how to dispose of him.</font>
+
+951
+01:56:27,560 --> 01:56:32,490
+<font face="方正黑体_GBK" size="18">现在 如果他不乖乖地坐在椅子上
+</font><font face="华文中宋" size="14" color="#ffff00">In the meantime, ifhe does anything but sit there in that chair,</font>
+
+952
+01:56:32,560 --> 01:56:37,500
+<font face="方正黑体_GBK" size="18">我们一开电流 他马上就会被烧成灰
+</font><font face="华文中宋" size="14" color="#ffff00">we're gonna turn on the juice and he'll be incinerated immediately.</font>
+
+953
+01:56:37,570 --> 01:56:40,000
+<font face="方正黑体_GBK" size="18">我们设置了200码的警戒线 长官
+</font><font face="华文中宋" size="14" color="#ffff00">We've established a 200-yard perimeter, sir.</font>
+
+954
+01:56:40,070 --> 01:56:44,340
+<font face="方正黑体_GBK" size="18">如果我们动用电磁阵 不会造成间接伤害的
+</font><font face="华文中宋" size="14" color="#ffff00">Ifwe deploy the electromagnetic array, there should be no collateral damage.</font>
+
+955
+01:56:44,410 --> 01:56:47,310
+<font face="方正黑体_GBK" size="18">他们来了
+</font><font face="华文中宋" size="14" color="#ffff00">Here theycome!</font>
+
+956
+01:56:53,320 --> 01:56:55,810
+<font face="方正黑体_GBK" size="18">贝蒂 我这么做全是为了你
+</font><font face="华文中宋" size="14" color="#ffff00">I'm doin' this for you, Betty.</font>
+
+957
+01:56:55,890 --> 01:56:59,880
+<font face="方正黑体_GBK" size="18">但是不管怎样 我们必须做最坏的打算
+</font><font face="华文中宋" size="14" color="#ffff00">But one way or another, we're gonna have to prepare for the worst.</font>
+
+958
+01:58:49,100 --> 01:58:51,190
+<font face="方正黑体_GBK" size="18">我早该杀掉你
+</font><font face="华文中宋" size="14" color="#ffff00">I should have killed  you.</font>
+
+959
+01:58:52,370 --> 01:58:54,960
+<font face="方正黑体_GBK" size="18">我也早该杀掉你
+</font><font face="华文中宋" size="14" color="#ffff00">And I should have killed  you.</font>
+
+960
+01:58:56,170 --> 01:58:58,540
+<font face="方正黑体_GBK" size="18">我希望你真的这么作了
+</font><font face="华文中宋" size="14" color="#ffff00">I wish you had.</font>
+
+961
+01:59:03,210 --> 01:59:05,610
+<font face="方正黑体_GBK" size="18">昨晚我看见她了
+</font><font face="华文中宋" size="14" color="#ffff00">Isawherlast night.</font>
+
+962
+01:59:07,780 --> 01:59:10,180
+<font face="方正黑体_GBK" size="18">看见她的脸
+</font><font face="华文中宋" size="14" color="#ffff00">Saw her face.</font>
+
+963
+01:59:10,250 --> 01:59:12,350
+<font face="方正黑体_GBK" size="18">褐色的头发
+</font><font face="华文中宋" size="14" color="#ffff00">Brown hair.</font>
+
+964
+01:59:14,120 --> 01:59:16,650
+<font face="方正黑体_GBK" size="18">褐色的眼睛
+</font><font face="华文中宋" size="14" color="#ffff00">Brown eyes.</font>
+
+965
+01:59:16,730 --> 01:59:19,560
+<font face="方正黑体_GBK" size="18">她对我微笑
+</font><font face="华文中宋" size="14" color="#ffff00">She smiled at me.</font>
+
+966
+01:59:19,630 --> 01:59:23,360
+<font face="方正黑体_GBK" size="18">她俯下身来亲吻我的面颊
+</font><font face="华文中宋" size="14" color="#ffff00">She reached down and kissed my cheek.</font>
+
+967
+01:59:24,700 --> 01:59:28,030
+<font face="方正黑体_GBK" size="18">我仍能记得她身上的味道
+</font><font face="华文中宋" size="14" color="#ffff00">I can almost remember a smell.</font>
+
+968
+01:59:31,170 --> 01:59:34,170
+<font face="方正黑体_GBK" size="18">就像沙漠中的鲜花
+</font><font face="华文中宋" size="14" color="#ffff00">Almost like desert flowers.</font>
+
+969
+01:59:35,650 --> 01:59:37,740
+<font face="方正黑体_GBK" size="18">她最喜欢的香水
+</font><font face="华文中宋" size="14" color="#ffff00">Her favorite perfume.</font>
+
+970
+01:59:40,580 --> 01:59:44,710
+<font face="方正黑体_GBK" size="18">这就是我的母亲 我甚至不知道她的名字
+</font><font face="华文中宋" size="14" color="#ffff00">It's my mother, and I don't even know her name.</font>
+
+971
+01:59:52,700 --> 01:59:56,460
+<font face="方正黑体_GBK" size="18">没关系 儿子 哭出来吧
+</font><font face="华文中宋" size="14" color="#ffff00">It's all right, son. You go ahead and cry.</font>
+
+972
+02:00:03,640 --> 02:00:06,400
+<font face="方正黑体_GBK" size="18">哭出来吧
+</font><font face="华文中宋" size="14" color="#ffff00">Go ahead and cry.</font>
+
+973
+02:00:09,310 --> 02:00:11,870
+<font face="方正黑体_GBK" size="18">哭出来就好了
+</font><font face="华文中宋" size="14" color="#ffff00">Cry. Crying will do you good.</font>
+
+974
+02:00:11,950 --> 02:00:14,710
+<font face="方正黑体_GBK" size="18">不要碰我
+</font><font face="华文中宋" size="14" color="#ffff00">Don't touch me!</font>
+
+975
+02:00:16,120 --> 02:00:18,920
+<font face="方正黑体_GBK" size="18">也许你曾是我的父亲
+</font><font face="华文中宋" size="14" color="#ffff00">Maybe once you were my father,</font>
+
+976
+02:00:18,990 --> 02:00:21,720
+<font face="方正黑体_GBK" size="18">但你现在不是了 以后也永远不会
+</font><font face="华文中宋" size="14" color="#ffff00">butyou're not now and you neverwill be.</font>
+
+977
+02:00:21,790 --> 02:00:25,350
+<font face="方正黑体_GBK" size="18">是这样吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, is that so?</font>
+
+978
+02:00:25,430 --> 02:00:31,090
+<font face="方正黑体_GBK" size="18">我有个消息要告诉你 我不是来这里看你的
+</font><font face="华文中宋" size="14" color="#ffff00">Well, I got news for you. I didn't come here to see you.</font>
+
+979
+02:00:31,170 --> 02:00:34,360
+<font face="方正黑体_GBK" size="18">我来这是看我的儿子
+</font><font face="华文中宋" size="14" color="#ffff00">I came here to see my son.</font>
+
+980
+02:00:35,610 --> 02:00:37,730
+<font face="方正黑体_GBK" size="18">我真正的儿子
+</font><font face="华文中宋" size="14" color="#ffff00">My real son.</font>
+
+981
+02:00:37,810 --> 02:00:40,330
+<font face="方正黑体_GBK" size="18">在你身体中的那个
+</font><font face="华文中宋" size="14" color="#ffff00">The one inside of you.</font>
+
+982
+02:00:40,410 --> 02:00:44,470
+<font face="方正黑体_GBK" size="18">你只是一个空壳
+</font><font face="华文中宋" size="14" color="#ffff00">You're nothing but a superficial shell,</font>
+
+983
+02:00:44,550 --> 02:00:46,710
+<font face="方正黑体_GBK" size="18">有一层薄薄的...
+</font><font face="华文中宋" size="14" color="#ffff00">a husk offlimsy consciousness...</font>
+
+984
+02:00:46,780 --> 02:00:50,690
+<font face="方正黑体_GBK" size="18">随时会被破碎的意识
+</font><font face="华文中宋" size="14" color="#ffff00">readyto be torn off at a moment's notice.</font>
+
+985
+02:00:50,750 --> 02:00:54,120
+<font face="方正黑体_GBK" size="18">你怎么想都可以 我不在乎 快滚吧
+</font><font face="华文中宋" size="14" color="#ffff00">You can thinkwhat you like. I don't care.Just go!</font>
+
+986
+02:00:59,660 --> 02:01:03,120
+<font face="方正黑体_GBK" size="18">不 儿子 听我说 我找到了治愈..
+</font><font face="华文中宋" size="14" color="#ffff00">No, son. Listen to me. I found a cure.</font>
+
+987
+02:01:03,200 --> 02:01:05,570
+<font face="方正黑体_GBK" size="18">...我的方法
+</font><font face="华文中宋" size="14" color="#ffff00">For me.</font>
+
+988
+02:01:05,640 --> 02:01:08,870
+<font face="方正黑体_GBK" size="18">我的细胞也能变化
+</font><font face="华文中宋" size="14" color="#ffff00">My cells can transform too,</font>
+
+989
+02:01:08,940 --> 02:01:11,810
+<font face="方正黑体_GBK" size="18">吸收了大量的能量
+</font><font face="华文中宋" size="14" color="#ffff00">absorb enormous amounts of energy.</font>
+
+990
+02:01:11,880 --> 02:01:14,740
+<font face="方正黑体_GBK" size="18">但不像你的 它们并不稳定
+</font><font face="华文中宋" size="14" color="#ffff00">But, unlike you, they're unstable.</font>
+
+991
+02:01:14,810 --> 02:01:18,110
+<font face="方正黑体_GBK" size="18">儿子 我需要你的力量
+</font><font face="华文中宋" size="14" color="#ffff00">Son, I need your strength.</font>
+
+992
+02:01:18,180 --> 02:01:21,450
+<font face="方正黑体_GBK" size="18">我给了你生命
+</font><font face="华文中宋" size="14" color="#ffff00">I gave you life.</font>
+
+993
+02:01:21,520 --> 02:01:25,390
+<font face="方正黑体_GBK" size="18">现在你必须把它还给我...
+</font><font face="华文中宋" size="14" color="#ffff00">Now you must give it back to me!</font>
+
+994
+02:01:25,460 --> 02:01:30,650
+<font face="方正黑体_GBK" size="18">...唯一的百万年代 更多的光芒 更多的力量
+</font><font face="华文中宋" size="14" color="#ffff00">Only a million times more radiant, more powerful!</font>
+
+995
+02:01:30,730 --> 02:01:34,130
+<font face="方正黑体_GBK" size="18">- 停下  - 停下?停下什么?
+</font><font face="华文中宋" size="14" color="#ffff00">- Stop it.   - Stop? Stop what?</font>
+
+996
+02:01:34,200 --> 02:01:36,960
+<font face="方正黑体_GBK" size="18">停下什么?
+</font><font face="华文中宋" size="14" color="#ffff00">Stop what?</font>
+
+997
+02:01:37,030 --> 02:01:41,330
+<font face="方正黑体_GBK" size="18">像外面那些穿制服的人...
+</font><font face="华文中宋" size="14" color="#ffff00">Think about all those men out there in their uniforms...</font>
+
+998
+02:01:41,400 --> 02:01:44,930
+<font face="方正黑体_GBK" size="18">飞扬跋扈 盲目服从
+</font><font face="华文中宋" size="14" color="#ffff00">barking and swallowing orders,</font>
+
+999
+02:01:45,010 --> 02:01:48,380
+<font face="方正黑体_GBK" size="18">把他们自以为是的管制强加给全世界
+</font><font face="华文中宋" size="14" color="#ffff00">inflicting their petty rule over the entire globe!</font>
+
+1000
+02:01:48,440 --> 02:01:51,710
+<font face="方正黑体_GBK" size="18">想想他们造成的伤害
+</font><font face="华文中宋" size="14" color="#ffff00">Think ofall the harm they've done!</font>
+
+1001
+02:01:51,780 --> 02:01:54,810
+<font face="方正黑体_GBK" size="18">对你!对我!
+</font><font face="华文中宋" size="14" color="#ffff00">Toyou! To me!</font>
+
+1002
+02:01:54,880 --> 02:01:57,110
+<font face="方正黑体_GBK" size="18">对全人类!
+</font><font face="华文中宋" size="14" color="#ffff00">To humanity!</font>
+
+1003
+02:01:57,190 --> 02:02:00,160
+<font face="方正黑体_GBK" size="18">想像一下...我们能够...
+</font><font face="华文中宋" size="14" color="#ffff00">And know this--that we can make them...</font>
+
+1004
+02:02:00,220 --> 02:02:02,850
+<font face="方正黑体_GBK" size="18">在弹指间让他们的国旗 国歌 政府...
+</font><font face="华文中宋" size="14" color="#ffff00">andtheirflags and theiranthems and theirgovernments...</font>
+
+1005
+02:02:02,930 --> 02:02:05,620
+<font face="方正黑体_GBK" size="18">灰飞烟灭!
+</font><font face="华文中宋" size="14" color="#ffff00">disappear in a flash!</font>
+
+1006
+02:02:05,700 --> 02:02:07,790
+<font face="方正黑体_GBK" size="18">你在我体内
+</font><font face="华文中宋" size="14" color="#ffff00">You in me.</font>
+
+1007
+02:02:07,860 --> 02:02:10,160
+<font face="方正黑体_GBK" size="18">我宁愿去死
+</font><font face="华文中宋" size="14" color="#ffff00">I'd rather die.</font>
+
+1008
+02:02:10,230 --> 02:02:14,730
+<font face="方正黑体_GBK" size="18">那是你的回答吗?
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, that'syouranswer?</font>
+
+1009
+02:02:14,800 --> 02:02:19,140
+<font face="方正黑体_GBK" size="18">那么你应该死去...
+</font><font face="华文中宋" size="14" color="#ffff00">Then indeed you shall die... and be reborn...</font>
+
+1010
+02:02:19,210 --> 02:02:22,640
+<font face="方正黑体_GBK" size="18">以一个在虚伪宗教和文明污染人类灵魂前...
+</font><font face="华文中宋" size="14" color="#ffff00">a hero... of the kind that walked the earth...</font>
+
+1011
+02:02:22,710 --> 02:02:29,750
+<font face="方正黑体_GBK" size="18">就横行世界的英雄...的形象再生
+</font><font face="华文中宋" size="14" color="#ffff00">Iong before the pale religions of civilization infected humanity's soul!</font>
+
+1012
+02:02:29,820 --> 02:02:32,950
+<font face="方正黑体_GBK" size="18">滚!
+</font><font face="华文中宋" size="14" color="#ffff00">Go!</font>
+
+1013
+02:02:46,440 --> 02:02:49,370
+<font face="方正黑体_GBK" size="18">不要哭嚎了
+</font><font face="华文中宋" size="14" color="#ffff00">Stopyour bawling,</font>
+
+1014
+02:02:49,440 --> 02:02:52,840
+<font face="方正黑体_GBK" size="18">你这软弱的人类垃圾
+</font><font face="华文中宋" size="14" color="#ffff00">you weak little speck ofhuman trash.</font>
+
+1015
+02:02:59,280 --> 02:03:02,250
+<font face="方正黑体_GBK" size="18">好... 我走!
+</font><font face="华文中宋" size="14" color="#ffff00">All right... I'll go!</font>
+
+1016
+02:03:03,950 --> 02:03:06,620
+<font face="方正黑体_GBK" size="18">- 你看看我是怎么走的  - 通电
+</font><font face="华文中宋" size="14" color="#ffff00">- You justwatch me go!   - Hit it.</font>
+
+1017
+02:03:31,280 --> 02:03:34,370
+<font face="方正黑体_GBK" size="18">再来!
+</font><font face="华文中宋" size="14" color="#ffff00">Hit it again!</font>
+
+1018
+02:03:34,450 --> 02:03:38,250
+<font face="方正黑体_GBK" size="18">不行 长官 没有能源了 有种反电磁场存在
+</font><font face="华文中宋" size="14" color="#ffff00">We can't, sir. There's no power. Some kind of counter-electromagnetic field.</font>
+
+1019
+02:03:42,960 --> 02:03:45,390
+<font face="方正黑体_GBK" size="18">冲进去消灭目标 冲进去!
+</font><font face="华文中宋" size="14" color="#ffff00">Move in andassault the target. Move in!</font>
+
+1020
+02:03:45,460 --> 02:03:48,760
+<font face="方正黑体_GBK" size="18">冲 冲!
+</font><font face="华文中宋" size="14" color="#ffff00">Move, move, move!</font>
+
+1021
+02:04:37,180 --> 02:04:40,710
+<font face="方正黑体_GBK" size="18">长官 我在雷达上找到它们了 梨湖
+</font><font face="华文中宋" size="14" color="#ffff00">Sir, I've located them on radar. Pear Lake.</font>
+
+1022
+02:04:40,780 --> 02:04:43,220
+<font face="方正黑体_GBK" size="18">呼叫部队
+</font><font face="华文中宋" size="14" color="#ffff00">Call up the task force.</font>
+
+1023
+02:04:49,830 --> 02:04:52,190
+<font face="方正黑体_GBK" size="18">这就对了
+</font><font face="华文中宋" size="14" color="#ffff00">Yes!</font>
+
+1024
+02:05:56,690 --> 02:05:59,560
+<font face="方正黑体_GBK" size="18">对了 继续打
+</font><font face="华文中宋" size="14" color="#ffff00">That's right. Keep fighting.</font>
+
+1025
+02:05:59,630 --> 02:06:04,120
+<font face="方正黑体_GBK" size="18">你越打 我就能从你身上吸收的更多
+</font><font face="华文中宋" size="14" color="#ffff00">The more you fight, the more of you I take.</font>
+
+1026
+02:06:11,710 --> 02:06:16,580
+<font face="方正黑体_GBK" size="18">奇怪 我们侦测到异乎寻常的降温
+</font><font face="华文中宋" size="14" color="#ffff00">Strange. We're reading a phenomenal drop in temperatures there.</font>
+
+1027
+02:06:16,650 --> 02:06:19,240
+<font face="方正黑体_GBK" size="18">但同时又有强烈的辐射
+</font><font face="华文中宋" size="14" color="#ffff00">But simultaneous radiological activity.</font>
+
+1028
+02:06:19,320 --> 02:06:22,550
+<font face="方正黑体_GBK" size="18">他们吸取了周围的能量
+</font><font face="华文中宋" size="14" color="#ffff00">They're absorbing all the ambient energy.</font>
+
+1029
+02:06:31,890 --> 02:06:36,090
+<font face="方正黑体_GBK" size="18">睡吧...布鲁斯 永远忘记这一切
+</font><font face="华文中宋" size="14" color="#ffff00">Sleep now, Bruce, and forget forever.</font>
+
+1030
+02:06:36,170 --> 02:06:41,030
+<font face="方正黑体_GBK" size="18">不要再反抗了...把你所有的能量都给我
+</font><font face="华文中宋" size="14" color="#ffff00">Struggle no more... and give me all ofyour power.</font>
+
+1031
+02:06:42,910 --> 02:06:46,900
+<font face="方正黑体_GBK" size="18">你认为你受得了?拿去吧!
+</font><font face="华文中宋" size="14" color="#ffff00">You think you can live with it? Take it!</font>
+
+1032
+02:06:46,980 --> 02:06:50,640
+<font face="方正黑体_GBK" size="18">都拿去吧!
+</font><font face="华文中宋" size="14" color="#ffff00">Take it all!</font>
+
+1033
+02:06:52,350 --> 02:06:55,780
+<font face="方正黑体_GBK" size="18">哦 爽!爽!
+</font><font face="华文中宋" size="14" color="#ffff00">Oh, yes! Yes!</font>
+
+1034
+02:07:09,200 --> 02:07:12,570
+<font face="方正黑体_GBK" size="18">收回去吧
+</font><font face="华文中宋" size="14" color="#ffff00">Take it back!</font>
+
+1035
+02:07:12,640 --> 02:07:16,470
+<font face="方正黑体_GBK" size="18">不要停止!
+</font><font face="华文中宋" size="14" color="#ffff00">It's not stopping!</font>
+
+1036
+02:07:16,540 --> 02:07:18,800
+<font face="方正黑体_GBK" size="18">收回去吧
+</font><font face="华文中宋" size="14" color="#ffff00">Take it back!</font>
+
+1037
+02:07:34,890 --> 02:07:37,690
+<font face="方正黑体_GBK" size="18">先生们...攻击
+</font><font face="华文中宋" size="14" color="#ffff00">Gentlemen... release.</font>
+
+1038
+02:07:46,070 --> 02:07:49,130
+<font face="方正黑体_GBK" size="18">伽马弹已发射
+</font><font face="华文中宋" size="14" color="#ffff00">Gamma charge away.</font>
+
+1039
+02:08:12,260 --> 02:08:13,960
+<font face="方正黑体_GBK" size="18">作个甜蜜的梦吧!
+</font><font face="华文中宋" size="14" color="#ffff00">Sweet dreams.</font>
+
+1040
+02:08:32,500 --> 02:08:36,000
+<font face="方正黑体_GBK" size="18">一年后</font>
+
+1041
+02:09:07,620 --> 02:09:10,520
+<font face="方正黑体_GBK" size="18">- 你好!  - 贝蒂 是你吗?
+</font><font face="华文中宋" size="14" color="#ffff00">- Hello?   - Betty, is that you?</font>
+
+1042
+02:09:10,590 --> 02:09:13,180
+<font face="方正黑体_GBK" size="18">- 你好 爸爸?  - 我很高兴能找到你
+</font><font face="华文中宋" size="14" color="#ffff00">- Hi, Dad.   - I'm glad I caught  you.</font>
+
+1043
+02:09:13,220 --> 02:09:16,250
+<font face="方正黑体_GBK" size="18">- 我也很高兴你能打来  - 谢谢
+</font><font face="华文中宋" size="14" color="#ffff00">- I'm glad you called.   - Thanks.</font>
+
+1044
+02:09:17,890 --> 02:09:21,660
+<font face="方正黑体_GBK" size="18">贝蒂...你和我...
+</font><font face="华文中宋" size="14" color="#ffff00">Look, Betty... you and I--</font>
+
+1045
+02:09:21,730 --> 02:09:26,960
+<font face="方正黑体_GBK" size="18">你和我都知道 布鲁斯不可能在那次爆炸下幸存下来
+</font><font face="华文中宋" size="14" color="#ffff00">well, we both know that Bruce couldn't have survived that blast.</font>
+
+1046
+02:09:27,040 --> 02:09:31,170
+<font face="方正黑体_GBK" size="18">但是...你知道...
+</font><font face="华文中宋" size="14" color="#ffff00">But... well, you know--</font>
+
+1047
+02:09:31,240 --> 02:09:34,230
+<font face="方正黑体_GBK" size="18">- 怎么了?  - 你知道
+</font><font face="华文中宋" size="14" color="#ffff00">- What is it?   - Well, you know.</font>
+
+1048
+02:09:34,310 --> 02:09:37,800
+<font face="方正黑体_GBK" size="18">老样子 我总是有幻觉
+</font><font face="华文中宋" size="14" color="#ffff00">The usual loonies. Seein' things.</font>
+
+1049
+02:09:37,880 --> 02:09:39,850
+<font face="方正黑体_GBK" size="18">只不过现在看到的全是绿的
+</font><font face="华文中宋" size="14" color="#ffff00">Only now everything's green.</font>
+
+1050
+02:09:39,920 --> 02:09:43,510
+<font face="方正黑体_GBK" size="18">对
+</font><font face="华文中宋" size="14" color="#ffff00">Right.</font>
+
+1051
+02:09:43,590 --> 02:09:46,610
+<font face="方正黑体_GBK" size="18">听着...
+</font><font face="华文中宋" size="14" color="#ffff00">Look, uh...</font>
+
+1052
+02:09:46,690 --> 02:09:50,280
+<font face="方正黑体_GBK" size="18">万一他幸存下来...
+</font><font face="华文中宋" size="14" color="#ffff00">ifby some chance he did survive...</font>
+
+1053
+02:09:50,360 --> 02:09:54,990
+<font face="方正黑体_GBK" size="18">他应该会联系你 尝试和你接触
+</font><font face="华文中宋" size="14" color="#ffff00">and he should try to contact you, try to get in touch,</font>
+
+1054
+02:09:55,060 --> 02:09:57,660
+<font face="方正黑体_GBK" size="18">你会告诉我 对吗?
+</font><font face="华文中宋" size="14" color="#ffff00">you'd tell me, wouldn'tyou?</font>
+
+1055
+02:09:58,900 --> 02:10:02,700
+<font face="方正黑体_GBK" size="18">不...我不会
+</font><font face="华文中宋" size="14" color="#ffff00">No... I wouldn't.</font>
+
+1056
+02:10:02,770 --> 02:10:06,400
+<font face="方正黑体_GBK" size="18">但你我都知道 我不可能不这么做的
+</font><font face="华文中宋" size="14" color="#ffff00">But you know as well as I do, I wouldn't have to.</font>
+
+1057
+02:10:06,480 --> 02:10:09,970
+<font face="方正黑体_GBK" size="18">我是说 我的电话被窃听 我的电脑被监控
+</font><font face="华文中宋" size="14" color="#ffff00">I mean, my phones are bugged, my computer's tapped.</font>
+
+1058
+02:10:10,050 --> 02:10:12,280
+<font face="方正黑体_GBK" size="18">我处在监视之下
+</font><font face="华文中宋" size="14" color="#ffff00">I'm under surveillance.</font>
+
+1059
+02:10:14,380 --> 02:10:17,080
+<font face="方正黑体_GBK" size="18">我告诉你
+</font><font face="华文中宋" size="14" color="#ffff00">I'll tell  you, though,</font>
+
+1060
+02:10:17,150 --> 02:10:19,180
+<font face="方正黑体_GBK" size="18">如果他还活着
+</font><font face="华文中宋" size="14" color="#ffff00">that ifhe were alive,</font>
+
+1061
+02:10:19,260 --> 02:10:22,450
+<font face="方正黑体_GBK" size="18">我不希望他来找我...
+</font><font face="华文中宋" size="14" color="#ffff00">I'm the last person I would want him to come to...</font>
+
+1062
+02:10:22,530 --> 02:10:25,960
+<font face="方正黑体_GBK" size="18">因为...虽然我是如此想念他
+</font><font face="华文中宋" size="14" color="#ffff00">because... as much as I miss him,</font>
+
+1063
+02:10:26,030 --> 02:10:30,060
+<font face="方正黑体_GBK" size="18">我...我...我爱他
+</font><font face="华文中宋" size="14" color="#ffff00">I... I... Ioved him.</font>
+
+1064
+02:10:30,130 --> 02:10:33,160
+<font face="方正黑体_GBK" size="18">嗯...
+</font><font face="华文中宋" size="14" color="#ffff00">I, um--</font>
+
+1065
+02:10:33,240 --> 02:10:36,570
+<font face="方正黑体_GBK" size="18">对
+</font><font face="华文中宋" size="14" color="#ffff00">Yeah.</font>
+
+1066
+02:10:36,640 --> 02:10:39,010
+<font face="方正黑体_GBK" size="18">贝蒂 我很抱歉
+</font><font face="华文中宋" size="14" color="#ffff00">I'm sorry, Betty.</font>
+
+1067
+02:10:41,340 --> 02:10:44,010
+<font face="方正黑体_GBK" size="18">我非常抱歉
+</font><font face="华文中宋" size="14" color="#ffff00">I am so sorry.</font>
+
+1068
+02:10:46,280 --> 02:10:48,510
+<font face="方正黑体_GBK" size="18">我知道
+</font><font face="华文中宋" size="14" color="#ffff00">I know you are.</font>
+
+1069
+02:11:21,200 --> 02:11:24,470
+<font face="方正黑体_GBK" size="18">听爸爸的话 按时吃药 好吗?</font>
+
+1070
+02:11:24,890 --> 02:11:26,820
+<font face="方正黑体_GBK" size="18">好
+</font><font face="华文中宋" size="14" color="#ffff00">S'i.</font>
+
+1071
+02:11:39,550 --> 02:11:40,900
+<font face="方正黑体_GBK" size="18">拿走所有的药品</font>
+
+1072
+02:11:42,500 --> 02:11:43,590
+<font face="方正黑体_GBK" size="18">安静!</font>
+
+1073
+02:11:44,930 --> 02:11:45,900
+<font face="方正黑体_GBK" size="18">坐好</font>
+
+1074
+02:11:46,200 --> 02:11:47,220
+<font face="方正黑体_GBK" size="18">闭嘴</font>
+
+1075
+02:11:50,350 --> 02:11:53,700
+<font face="方正黑体_GBK" size="18">住在这里的人需要这些药品</font>
+
+1076
+02:11:54,280 --> 02:11:57,050
+<font face="方正黑体_GBK" size="18">你是什么东西?能决定这些人需要什么?</font>
+
+1077
+02:11:57,750 --> 02:12:00,850
+<font face="方正黑体_GBK" size="18">这些人在帮助我们的敌人</font>
+
+1078
+02:12:02,500 --> 02:12:04,850
+<font face="方正黑体_GBK" size="18">也许你也是</font>
+
+1079
+02:12:05,450 --> 02:12:06,630
+<font face="方正黑体_GBK" size="18">都拿走</font>
+
+1080
+02:12:07,320 --> 02:12:10,120
+<font face="方正黑体_GBK" size="18">这些是政府的财产</font>
+
+1081
+02:12:12,150 --> 02:12:13,880
+<font face="方正黑体_GBK" size="18">你很令我生气</font>
+
+1082
+02:12:15,950 --> 02:12:18,500
+<font face="方正黑体_GBK" size="18">你不会喜欢看见我生气的样子的</font>
+

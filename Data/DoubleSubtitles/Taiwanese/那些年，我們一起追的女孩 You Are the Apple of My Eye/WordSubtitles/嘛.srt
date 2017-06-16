@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <div class="chinese_7">嘛</font>   </font><div class="pinyin_7">ma</font> <font size="50"><font color=#000000>ma</font></font>

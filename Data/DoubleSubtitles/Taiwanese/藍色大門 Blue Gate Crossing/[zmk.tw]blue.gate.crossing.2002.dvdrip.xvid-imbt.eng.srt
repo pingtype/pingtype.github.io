@@ -1,0 +1,2497 @@
+1
+ 0: 0:26, 26 -->  0: 0:28, 17
+I can't see.
+
+2
+ 0: 0:30, 30 -->  0: 0:33, 22
+I really can't see.
+
+3
+ 0: 0:40, 40 -->  0: 0:44, 44
+I still can't see anything.
+
+4
+ 0: 0:44, 44 -->  0: 0:46, 46
+I can't see.
+
+5
+ 0: 0:46, 46 -->  0: 0:48, 48
+You are noisy.
+
+6
+ 0: 0:48, 48 -->  0: 0:50, 50
+I have seen it.
+
+7
+ 0: 0:50, 50 -->  0: 0:52, 52
+What did you see?
+
+8
+ 0: 0:52, 52 -->  0: 0:56, 45
+I see 10 years or 8 years.
+
+9
+ 0: 0:57, 57 -->  0: 1: 0, 60
+I bring my daughter with me.
+
+10
+ 0: 1: 0, 60 -->  0: 1: 4, 64
+She is clever and pretty.
+
+11
+ 0: 1: 4, 64 -->  0: 1: 7, 67
+I see some women drinking tea.
+
+12
+ 0: 1: 7, 67 -->  0: 1:11, 71
+The sun is bright and warm.
+
+13
+ 0: 1:11, 71 -->  0: 1:13, 73
+Later.
+
+14
+ 0: 1:13, 73 -->  0: 1:17, 66
+My husband pushes the door and comes in.
+
+15
+ 0: 1:18, 78 -->  0: 1:20, 69
+He is the kind of.... 
+
+16
+ 0: 1:23, 83 -->  0: 1:25, 85
+He....
+
+17
+ 0: 1:25, 85 -->  0: 1:27, 76
+He is the kind of....
+
+18
+ 0: 1:32, 92 -->  0: 1:36, 85
+What? Which kind?
+
+19
+ 0: 1:41,101 -->  0: 1:43, 92
+He is the kind of....
+
+20
+ 0: 1:47,107 -->  0: 1:50,110
+Why are you talling under the trees in PE class?
+
+21
+ 0: 1:50,110 -->  0: 1:52,101
+Get up and join the class.
+
+22
+ 0: 2:34,154 -->  0: 2:37,157
+Are you mad? Why did you run so many rounds just now?
+
+23
+ 0: 2:37,157 -->  0: 2:39,159
+Don't you want to know who is my husband?
+
+24
+ 0: 2:39,159 -->  0: 2:40,160
+Who?
+
+25
+ 0: 2:40,160 -->  0: 2:44,164
+He took around round beside me just now.
+
+26
+ 0: 2:44,164 -->  0: 2:46,166
+Who?
+
+27
+ 0: 2:46,166 -->  0: 2:50,159
+The most handsome one.
+
+28
+ 0: 2:57,177 -->  0: 3: 0,180
+That one. What?
+
+29
+ 0: 3: 0,180 -->  0: 3: 4,173
+My husband. He is in a colorful shirt.
+
+30
+ 0: 3:10,190 -->  0: 3:14,183
+Zhang Shihao, class 975.
+
+31
+ 0: 4:45,285 -->  0: 4:49,278
+Blue summer love
+
+32
+ 0: 5:37,337 -->  0: 5:39,328
+Let's have a bet.
+
+33
+ 0: 5:41,341 -->  0: 5:43,343
+What?
+
+34
+ 0: 5:43,343 -->  0: 5:46,346
+3 scores ball?
+
+35
+ 0: 5:46,346 -->  0: 5:48,348
+Then 5 scores ball.
+
+36
+ 0: 5:48,348 -->  0: 5:50,339
+You are so boring.
+
+37
+ 0: 5:57,357 -->  0: 5:59,359
+Hey.
+
+38
+ 0: 5:59,359 -->  0: 6: 3,352
+How about we bet which one of us walk dog in the night?
+
+39
+ 0: 6: 5,365 -->  0: 6: 7,367
+Ok. How much?
+
+40
+ 0: 6: 7,367 -->  0: 6: 9,369
+100.
+
+41
+ 0: 6: 9,369 -->  0: 6:13,373
+You are so cheeseparing.
+
+42
+ 0: 6:13,373 -->  0: 6:17,366
+Are you an idiot? Then you do it yourself.
+
+43
+ 0: 6:20,380 -->  0: 6:24,384
+I bet....You pay the class fee for me.
+
+44
+ 0: 6:24,384 -->  0: 6:27,387
+OK. How much is it?
+
+45
+ 0: 6:27,387 -->  0: 6:29,378
+1200.
+
+46
+ 0: 7: 5,425 -->  0: 7: 7,427
+Hey. Let's see it.
+
+47
+ 0: 7: 7,427 -->  0: 7: 9,418
+Someone is walking his dog.
+
+48
+ 0: 7:12,432 -->  0: 7:14,423
+Let's see it.
+
+49
+ 0: 7:29,449 -->  0: 7:31,451
+I got it.
+
+50
+ 0: 7:31,451 -->  0: 7:33,453
+You played basketball again.
+
+51
+ 0: 7:33,453 -->  0: 7:36,445
+I played sometimes.
+
+52
+ 0: 7:55,475 -->  0: 7:57,466
+Hey. What are you doing?
+
+53
+ 0: 8: 0,480 -->  0: 8: 3,483
+I'm reading English.
+
+54
+ 0: 8: 3,483 -->  0: 8: 6,486
+So leat.
+
+55
+ 0: 8: 6,486 -->  0: 8: 8,488
+No.
+
+56
+ 0: 8: 8,488 -->  0: 8:10,479
+No.
+
+57
+ 0: 8:11,491 -->  0: 8:15,495
+I'll be the happiest man in the world.
+
+58
+ 0: 8:15,495 -->  0: 8:18,487
+I am stay with my classmate.
+
+59
+ 0: 8:19,499 -->  0: 8:21,490
+I'll go now.
+
+60
+ 0: 8:23,503 -->  0: 8:25,505
+I'm wearing shoes.
+
+61
+ 0: 8:25,505 -->  0: 8:27,496
+Where are you?
+
+62
+ 0: 8:30,510 -->  0: 8:34,503
+I'll pass the traffic lights.
+
+63
+ 0: 8:35,515 -->  0: 8:37,506
+Be quick.
+
+64
+ 0: 8:38,518 -->  0: 8:42,511
+Please tell me where we will go.
+
+65
+ 0: 8:54,534 -->  0: 8:58,527
+Bring back the milk for me.
+
+66
+ 0: 9: 1,541 -->  0: 9: 5,545
+Hey. It's going dark and you should get up.
+
+67
+ 0: 9: 5,545 -->  0: 9: 9,538
+Hey. Hey. Hey.
+
+68
+ 0: 9:12,552 -->  0: 9:14,543
+You come at last.
+
+69
+ 0: 9:17,557 -->  0: 9:19,559
+It's so late. Where will you go?
+
+70
+ 0: 9:19,559 -->  0: 9:20,560
+Guess.
+
+71
+ 0: 9:20,560 -->  0: 9:22,551
+I guess.
+
+72
+ 0: 9:24,564 -->  0: 9:26,566
+Go to watch Zhang Shihao, OK?
+
+73
+ 0: 9:26,566 -->  0: 9:28,568
+I will not.
+
+74
+ 0: 9:28,568 -->  0: 9:30,570
+Go....Please.
+
+75
+ 0: 9:30,570 -->  0: 9:32,572
+Go....
+
+76
+ 0: 9:32,572 -->  0: 9:34,574
+You beg me.
+
+77
+ 0: 9:34,574 -->  0: 9:37,577
+I beg you.
+
+78
+ 0: 9:37,577 -->  0: 9:39,579
+Do you Beg me?
+
+79
+ 0: 9:39,579 -->  0: 9:40,580
+Go.
+
+80
+ 0: 9:40,580 -->  0: 9:42,582
+Go, Go, quick.
+
+81
+ 0: 9:42,582 -->  0: 9:46,575
+Go. Please go with me.
+
+82
+ 0: 9:55,595 -->  0: 9:59,588
+Zhang Shihao swims everynight.
+
+83
+ 0:10: 0,600 -->  0:10: 2,602
+He is in the swimming team.
+
+84
+ 0:10: 2,602 -->  0:10: 6,606
+I can't see anything.
+
+85
+ 0:10: 6,606 -->  0:10:10,610
+You can listen.
+
+86
+ 0:10:10,610 -->  0:10:13,613
+You really love him.
+
+87
+ 0:10:13,613 -->  0:10:15,604
+Yes.
+
+88
+ 0:10:16,616 -->  0:10:20,620
+But I don't know whether he has girlfriend.
+
+89
+ 0:10:20,620 -->  0:10:22,611
+Of course he has.
+
+90
+ 0:10:23,623 -->  0:10:26,626
+I don't know whether he loves me.
+
+91
+ 0:10:26,626 -->  0:10:28,617
+Of course not.
+
+92
+ 0:10:29,629 -->  0:10:32,632
+You ask for me.
+
+93
+ 0:10:32,632 -->  0:10:33,633
+No.
+
+94
+ 0:10:33,633 -->  0:10:35,635
+No.
+
+95
+ 0:10:35,635 -->  0:10:36,636
+No.
+
+96
+ 0:10:36,636 -->  0:10:40,640
+Please.
+
+97
+ 0:10:40,640 -->  0:10:44,633
+Zhang Shihao, do you have a girlfriend?
+
+98
+ 0:10:45,645 -->  0:10:49,649
+Zhang Shihao, my friend wants to meet you.
+
+99
+ 0:10:49,649 -->  0:10:51,651
+Do you have a girlfriend?
+
+100
+ 0:10:51,651 -->  0:10:55,655
+Zhang Shihao, do you hear me?
+
+101
+ 0:10:55,655 -->  0:10:59,659
+My friend wants to meet you.
+
+102
+ 0:10:59,659 -->  0:11: 3,652
+Zhang Shihao, do you have a friend?
+
+103
+ 0:11: 4,664 -->  0:11: 7,667
+My friend wants to meet you.
+
+104
+ 0:11: 7,667 -->  0:11: 9,658
+Zhang Shihao
+
+105
+ 0:11:10,670 -->  0:11:12,672
+Please don't shouting so loudly.
+
+106
+ 0:11:12,672 -->  0:11:14,674
+If the drillmaster come and find us here.
+
+107
+ 0:11:14,674 -->  0:11:16,665
+I will be punished.
+
+108
+ 0:11:17,677 -->  0:11:19,668
+Hey!
+
+109
+ 0:11:48,708 -->  0:11:50,710
+Did you shout just now?
+
+110
+ 0:11:50,710 -->  0:11:53,713
+My friend wants to meet you.
+
+111
+ 0:11:53,713 -->  0:11:55,704
+Who?
+
+112
+ 0:12:27,747 -->  0:12:30,750
+Who wants to meet me?
+
+113
+ 0:12:30,750 -->  0:12:33,753
+She will know your idea first.
+
+114
+ 0:12:33,753 -->  0:12:34,754
+Who is she?
+
+115
+ 0:12:34,754 -->  0:12:36,756
+She will know your idea first.
+
+116
+ 0:12:36,756 -->  0:12:38,758
+Who is she?
+117
+ 0:12:38,758 -->  0:12:40,760
+What's your idea? 
+
+118
+ 0:12:40,760 -->  0:12:44,753
+I really want to know who she is.
+
+119
+ 0:12:46,766 -->  0:12:48,768
+Who is she?
+
+120
+ 0:12:48,768 -->  0:12:50,759
+Hey.
+
+121
+ 0:13:13,793 -->  0:13:15,784
+Yuezhen, Yuezhen
+
+122
+ 0:13:18,798 -->  0:13:20,800
+Yuezhen!
+
+123
+ 0:13:20,800 -->  0:13:23,803
+Yuezhen£¬please go out.
+
+124
+ 0:13:23,803 -->  0:13:26,795
+Yuezhen£¬go out.
+
+125
+ 0:13:29,809 -->  0:13:33,802
+Lin Yuezhen, Lin Yuezhen
+
+126
+ 0:13:34,814 -->  0:13:37,817
+There isn't a Lin Yuezhen, right?
+
+127
+ 0:13:37,817 -->  0:13:41,810
+You want to meet me.
+
+128
+ 0:13:43,823 -->  0:13:46,826
+Yuezhen, go out.
+
+129
+ 0:13:46,826 -->  0:13:49,818
+Yuezhen, go out.
+
+130
+ 0:13:52,832 -->  0:13:54,823
+Lin Yuezhen
+
+131
+ 0:13:55,835 -->  0:13:57,837
+There isn't a Lin Yuezhen, right?
+
+132
+ 0:13:57,837 -->  0:14: 1,830
+You want to meet me.
+
+133
+ 0:14: 7,847 -->  0:14: 9,849
+Hey!
+
+134
+ 0:14: 9,849 -->  0:14:11,851
+Hey!
+
+135
+ 0:14:11,851 -->  0:14:15,844
+My name is Zhang Shihao. Scorpio. Blood type is O. I am in the swimming team and the guitar college.
+
+136
+ 0:14:40,880 -->  0:14:44,873
+Be quick. 
+
+137
+ 0:14:45,885 -->  0:14:47,876
+Ok.
+
+138
+ 0:14:49,889 -->  0:14:51,880
+Let me see it.
+
+139
+ 0:14:53,893 -->  0:14:55,884
+Ok.
+
+140
+ 0:15:40,940 -->  0:15:44,944
+Zhang Shihao's basketball.
+
+141
+ 0:15:44,944 -->  0:15:46,935
+I picked it up that day.
+
+142
+ 0:15:57,957 -->  0:16: 0,960
+Zhang Shihao's shoes.
+
+143
+ 0:16: 0,960 -->  0:16: 2,962
+His shoes is in a big size.
+
+144
+ 0:16: 2,962 -->  0:16: 4,953
+Size 26.5.
+
+145
+ 0:16:14,974 -->  0:16:17,977
+You have his diary.
+
+146
+ 0:16:17,977 -->  0:16:19,979
+His writting is poor.
+
+147
+ 0:16:19,979 -->  0:16:23,972
+He deceived me to hand in homework and I got it without difficulty.
+
+148
+ 0:16:28,988 -->  0:16:30,990
+What's this?
+
+149
+ 0:16:30,990 -->  0:16:34,983
+It's love heart made by myself.
+
+150
+ 0:16:41,  0 -->  0:16:42,991
+What's this?
+
+151
+ 0:16:44,  3 -->  0:16:45,994
+He drank.
+
+152
+ 0:16:47,  6 -->  0:16:49,  8
+YOu even keep the bottles he drank.
+
+153
+ 0:16:49,  8 -->  0:16:53,  1
+Don't throw it anyway.
+
+154
+ 0:16:57, 16 -->  0:16:59,  7
+His blinkers.
+
+155
+ 0:17:10, 29 -->  0:17:14, 22
+His ball pens.
+
+156
+ 0:17:21, 40 -->  0:17:24, 43
+I have been loving him for a long time.
+
+157
+ 0:17:24, 43 -->  0:17:28, 36
+But I only can take his photo slinkingly.
+158
+ 0:17:29, 48 -->  0:17:33, 41
+Pick up his waster.
+
+159
+ 0:17:34, 53 -->  0:17:38, 46
+Am I very timid?
+
+160
+ 0:17:43, 62 -->  0:17:45, 64
+I'll go home.
+
+161
+ 0:17:45, 64 -->  0:17:47, 55
+No.
+
+162
+ 0:18:39,118 -->  0:18:43,122
+I'll make friend with you.
+
+163
+ 0:18:43,122 -->  0:18:45,113
+Meng Kerou
+
+164
+ 0:19: 4,143 -->  0:19: 6,134
+What?
+
+165
+ 0:19:10,149 -->  0:19:12,140
+Hand it over.
+
+166
+ 0:19:13,152 -->  0:19:15,143
+No.
+
+167
+ 0:19:18,157 -->  0:19:20,148
+Please.
+
+168
+ 0:20:11,210 -->  0:20:13,201
+I won.
+
+169
+ 0:20:19,218 -->  0:20:22,221
+It's for you.
+
+170
+ 0:20:22,221 -->  0:20:26,214
+My present?
+
+171
+ 0:20:32,231 -->  0:20:36,224
+My name is Zhang Shihao. Scorpio. Blood type is O. I am in the swimming team and the guitar college.
+
+172
+ 0:20:51,250 -->  0:20:53,252
+Zhang Shihao, hello.
+
+173
+ 0:20:53,252 -->  0:20:55,254
+I'm your classmate.
+
+174
+ 0:20:55,254 -->  0:20:59,247
+I can't help watching you when in school.
+
+175
+ 0:21: 1,260 -->  0:21: 5,253
+I want to see you everyday in shcool.
+
+176
+ 0:21: 7,266 -->  0:21:11,270
+I think you are a good boy.
+
+177
+ 0:21:11,270 -->  0:21:15,263
+I hesitated for a long time and then wrote to you.
+
+178
+ 0:21:18,277 -->  0:21:20,279
+Education office is reporting.
+
+179
+ 0:21:20,279 -->  0:21:22,281
+Education office is reporting.
+
+180
+ 0:21:22,281 -->  0:21:25,284
+Zhang Shihao, 975 class.
+
+181
+ 0:21:25,284 -->  0:21:29,277
+Meng Kerou, 968 class.
+
+182
+ 0:21:31,290 -->  0:21:35,283
+Please go to the education office quickly.
+
+183
+ 0:22:19,338 -->  0:22:22,341
+I'll wait for your reply.
+
+184
+ 0:22:22,341 -->  0:22:26,334
+Be sure to reply.
+
+185
+ 0:22:30,349 -->  0:22:32,351
+Sorry.
+
+186
+ 0:22:32,351 -->  0:22:35,354
+It's not me. It's Ahmian.
+
+187
+ 0:22:35,354 -->  0:22:39,347
+I didn't write this letter. It's Lin Yuezhen.
+
+188
+ 0:22:42,361 -->  0:22:46,365
+There isn't a Lin Yuezhen, right?
+
+189
+ 0:22:46,365 -->  0:22:50,358
+You want to meet me.
+
+190
+ 0:22:55,374 -->  0:22:59,378
+My name is Zhang Shihao. Scorpio. Blood type is O. I am in the swimming team and the guitar college.
+
+191
+ 0:22:59,378 -->  0:23: 1,369
+I'm pretty good.
+
+192
+ 0:23:38,417 -->  0:23:42,410
+Read this, follow me: housewife.
+
+193
+ 0:23:43,422 -->  0:23:46,425
+Good. Notice this plural form's change.
+
+194
+ 0:23:46,425 -->  0:23:50,418
+fe tuens to ves£¬and knife turns to knives.
+
+195
+ 0:23:51,430 -->  0:23:53,432
+Why do you write letter with my name?
+
+196
+ 0:23:53,432 -->  0:23:57,425
+Good, now read follow me: ambition.
+
+197
+ 0:23:58,437 -->  0:24: 1,440
+Why do you write letter with my name?
+
+198
+ 0:24: 1,440 -->  0:24: 4,443
+Often we remember the ending of a word.
+
+199
+ 0:24: 4,443 -->  0:24: 6,445
+ion is an ending of a noun.
+
+200
+ 0:24: 6,445 -->  0:24:10,449
+Meng Kerou,what are you doing?
+
+201
+ 0:24:10,449 -->  0:24:14,453
+Why do you write letter with my name?
+
+202
+ 0:24:14,453 -->  0:24:18,446
+Pick up the books. What's happen to you?
+
+203
+ 0:25:56,555 -->  0:26: 0,491
+Meng Kerou, do you want to have meal?
+
+204
+ 0:26: 3,562 -->  0:26: 7,555
+Meng Kerou, do you want to have meal?
+
+205
+ 0:26:13,572 -->  0:26:15,563
+Meng Kerou
+
+206
+ 0:26:18,577 -->  0:26:20,579
+20 boiled dumplings,please.
+
+207
+ 0:26:20,579 -->  0:26:22,581
+Ok.
+
+208
+ 0:26:22,581 -->  0:26:26,585
+Our boiled dumplings are big. I think 15 is enough for you.
+
+209
+ 0:26:26,585 -->  0:26:28,587
+Ok.
+
+210
+ 0:26:28,587 -->  0:26:31,590
+Any soup?
+
+211
+ 0:26:31,590 -->  0:26:34,593
+We have many kinds.
+
+212
+ 0:26:34,593 -->  0:26:36,584
+Acid-spicy soup
+
+213
+ 0:26:37,596 -->  0:26:39,598
+I think greengrocery-Tofu soup is ok.
+
+214
+ 0:26:39,598 -->  0:26:41,600
+Boys don't like greengrocery.
+
+215
+ 0:26:41,600 -->  0:26:43,591
+Ok.
+
+216
+ 0:26:44,603 -->  0:26:46,605
+Do you study in the affiliated school
+
+217
+ 0:26:46,605 -->  0:26:47,606
+Yes.
+
+218
+ 0:26:47,606 -->  0:26:49,608
+My daughter is study there too. Her name is Meng Kerou.
+
+219
+ 0:26:49,608 -->  0:26:51,610
+Do you hear about her?
+
+220
+ 0:26:51,610 -->  0:26:54,613
+Yes. Her name is unique. She is quite well-known in our school.
+
+221
+ 0:26:54,613 -->  0:26:57,616
+Her name is not good. She is not mild as a girl should be.
+
+222
+ 0:26:57,616 -->  0:27: 0,552
+Do you find out her name?
+
+223
+ 0:27: 0,552 -->  0:27: 3,622
+No. Her father.
+
+224
+ 0:27: 3,622 -->  0:27: 5,624
+Quite good.
+
+225
+ 0:27: 5,624 -->  0:27: 7,615
+Disgusting.
+
+226
+ 0:27:32,651 -->  0:27:34,642
+What about today's eaxm?
+
+227
+ 0:27:36,655 -->  0:27:38,657
+Which pages will the exam cover? 
+
+228
+ 0:27:38,657 -->  0:27:41,660
+58¡ª67.
+
+229
+ 0:27:41,660 -->  0:27:45,653
+58¡ª67....
+
+230
+ 0:27:48,667 -->  0:27:50,669
+So much.
+
+231
+ 0:27:50,669 -->  0:27:53,672
+The teacher said that this chapter is finished.
+
+232
+ 0:27:53,672 -->  0:27:55,674
+So many words.
+
+233
+ 0:27:55,674 -->  0:27:56,675
+Don't you remember them?
+
+234
+ 0:27:56,675 -->  0:27:58,666
+Many not.
+
+235
+ 0:27:59,678 -->  0:28: 1,669
+How do you pronounce this word?
+
+236
+ 0:28: 3,682 -->  0:28: 7,686
+develop, develop.
+
+237
+ 0:28: 7,686 -->  0:28: 9,688
+What about this?
+
+238
+ 0:28: 9,688 -->  0:28:11,690
+Communication.
+
+239
+ 0:28:11,690 -->  0:28:14,693
+Communication.
+
+240
+ 0:28:14,693 -->  0:28:18,686
+Be quick. The exam is near.
+
+241
+ 0:30:10,809 -->  0:30:14,802
+What do you want to do?
+
+242
+ 0:30:15,814 -->  0:30:17,816
+I am in the swimming team and the guitar college.
+
+243
+ 0:30:17,816 -->  0:30:21,820
+I'm pretty handsome. I'm not bad.
+
+244
+ 0:30:21,820 -->  0:30:25,824
+What do you want to do?
+
+245
+ 0:30:25,824 -->  0:30:27,815
+I'm going after you.
+
+246
+ 0:30:57,856 -->  0:30:59,858
+Ok. Thanks.
+
+247
+ 0:30:59,858 -->  0:31: 1,860
+I will cook for you sometime.
+
+248
+ 0:31: 1,860 -->  0:31: 5,853
+Ok. Thanks. Bye.
+
+249
+ 0:31: 6,865 -->  0:31:10,858
+I'm full and I'll go home. Hey?
+
+250
+ 0:31:21,880 -->  0:31:25,873
+What do you want to do?
+
+251
+ 0:31:32,891 -->  0:31:36,895
+I'm going after you.
+
+252
+ 0:31:36,895 -->  0:31:40,888
+I'm full of troubles.
+
+253
+ 0:31:41,900 -->  0:31:43,891
+Me too.
+
+254
+ 0:31:51,910 -->  0:31:55,903
+The girl of love.
+
+255
+ 0:31:56,915 -->  0:31:59,918
+Come to the center quickly.
+
+256
+ 0:31:59,918 -->  0:32: 2,921
+Come beside me.
+
+257
+ 0:32: 2,921 -->  0:32: 6,914
+I'll take care of you.
+
+258
+ 0:32: 7,926 -->  0:32:10,929
+Then sing the farewell songs.
+
+259
+ 0:32:10,929 -->  0:32:14,922
+We'll never cry again.
+
+260
+ 0:32:23,942 -->  0:32:27,946
+Do you like this music?
+
+261
+ 0:32:27,946 -->  0:32:29,937
+I like it too.
+
+262
+ 0:32:31,950 -->  0:32:33,952
+Do you know what he is singing?
+
+263
+ 0:32:33,952 -->  0:32:35,954
+I understand.
+
+264
+ 0:32:35,954 -->  0:32:37,945
+I understand too.
+
+265
+ 0:33:43, 21 -->  0:33:47, 14
+Is it boring goingout with me?
+
+266
+ 0:33:53, 31 -->  0:33:56, 34
+In fact I'm not so boring usually.
+
+267
+ 0:33:56, 34 -->  0:34: 0, 27
+if you are more more familiar with me, I would be very interesting.
+
+268
+ 0:34: 0,972 -->  0:34: 3, 31
+You konw.
+
+269
+ 0:34: 5, 43 -->  0:34: 6, 44
+Hey.
+
+270
+ 0:34: 6, 44 -->  0:34: 8, 35
+What?
+
+271
+ 0:34:10, 48 -->  0:34:14, 41
+Do you want to kiss me?
+
+272
+ 0:34:15, 53 -->  0:34:17, 44
+So quick.
+
+273
+ 0:34:20, 58 -->  0:34:22, 49
+Here?
+
+274
+ 0:34:24, 62 -->  0:34:27, 65
+Aren't girls shy?
+
+275
+ 0:34:27, 65 -->  0:34:29, 56
+I am, too.
+
+276
+ 0:34:52, 90 -->  0:34:55, 93
+Let's swim.
+
+277
+ 0:34:55, 93 -->  0:34:57, 84
+Ok?
+
+278
+ 0:34:58, 96 -->  0:34:59, 97
+Can you?
+
+279
+ 0:34:59, 97 -->  0:35: 1, 32
+No.
+
+280
+ 0:35: 1, 32 -->  0:35: 3,101
+I'll teach you.
+
+281
+ 0:35: 3,101 -->  0:35: 4,102
+No. Go.
+
+282
+ 0:35: 4,102 -->  0:35: 5,103
+No. Go.
+
+283
+ 0:35: 5,103 -->  0:35: 7,105
+Go.
+
+284
+ 0:35: 7,105 -->  0:35: 9,107
+No.
+
+285
+ 0:35: 9,107 -->  0:35:11, 98
+Quick.
+
+286
+ 0:35:12,110 -->  0:35:14,112
+Quick.
+
+287
+ 0:35:14,112 -->  0:35:16,103
+Quick.
+
+288
+ 0:35:54,152 -->  0:35:56,143
+I'm going ti see Lin Yuezhen.
+
+289
+ 0:37: 7,225 -->  0:37:11,218
+I run to here everyday.
+
+290
+ 0:37:12,230 -->  0:37:16,223
+Drink and then run back.
+
+291
+ 0:37:18,236 -->  0:37:20,227
+Come.
+
+292
+ 0:37:41,259 -->  0:37:45,252
+Teacher, Are we kissing in this way?
+
+293
+ 0:37:47,265 -->  0:37:51,269
+We are dirnking like this. 
+
+294
+ 0:37:51,269 -->  0:37:55,262
+Of course it isn't kissing.
+
+295
+ 0:37:59,277 -->  0:38: 3,270
+DO you wang to kiss me?
+
+296
+ 0:38: 5,283 -->  0:38: 8,286
+You students are still underage.
+
+297
+ 0:38: 8,286 -->  0:38:12,279
+Don't think about these.
+
+298
+ 0:38:15,293 -->  0:38:19,286
+Do you want to kiss me?
+
+299
+ 0:39:45,383 -->  0:39:49,387
+It is not allowed shaking hands in school.
+
+300
+ 0:39:49,387 -->  0:39:53,380
+Zhang Shihao, teacher wants to speak to Meng Kerou solely.
+
+301
+ 0:39:55,393 -->  0:39:57,395
+He's so strange.
+
+302
+ 0:39:57,395 -->  0:40: 1,388
+What's going on?
+
+303
+ 0:40:33,431 -->  0:40:35,433
+Why did you look for me that day?
+
+304
+ 0:40:35,433 -->  0:40:37,435
+Nothing
+
+305
+ 0:40:37,435 -->  0:40:41,439
+I know who wrote "disgusting" on your desk
+
+306
+ 0:40:41,439 -->  0:40:43,430
+Who?
+
+307
+ 0:40:48,446 -->  0:40:50,437
+That one.
+
+308
+ 0:41:26,484 -->  0:41:28,486
+I thought you were gonna beat him.
+
+309
+ 0:41:28,486 -->  0:41:30,477
+Loser.
+
+310
+ 0:41:31,489 -->  0:41:33,491
+Do you know why he wrote that on your desk?
+
+311
+ 0:41:33,491 -->  0:41:35,493
+How can I know.
+
+312
+ 0:41:35,493 -->  0:41:37,495
+Because he likes Zhang Shihao
+
+313
+ 0:41:37,495 -->  0:41:41,499
+Then it should be her wrote that.
+
+314
+ 0:41:41,499 -->  0:41:43,501
+How are you with Zhang Shao?
+
+315
+ 0:41:43,501 -->  0:41:45,503
+We are just friends.
+
+316
+ 0:41:45,503 -->  0:41:47,505
+Then all I heard are only rumors?
+
+317
+ 0:41:47,505 -->  0:41:49,507
+Yeah,all rumors.
+
+318
+ 0:41:49,507 -->  0:41:53,500
+What rumors?
+
+319
+ 0:41:54,512 -->  0:41:56,503
+I've gotta go.
+
+320
+ 0:41:57,515 -->  0:41:59,517
+Bye
+
+321
+ 0:41:59,517 -->  0:42: 2,520
+Bye,ride slowly.
+
+322
+ 0:42: 2,520 -->  0:42: 4,522
+Okay.
+
+323
+ 0:42: 4,522 -->  0:42: 8,515
+Hey,I'm full. I have to go home now.
+
+324
+ 0:43:28,606 -->  0:43:30,597
+Zhang Shihao
+
+325
+ 0:43:40,618 -->  0:43:42,609
+Zhang Shihao
+
+326
+ 0:43:48,626 -->  0:43:52,630
+Zhang Shihao,please don't follow me after school.
+
+327
+ 0:43:52,630 -->  0:43:54,632
+Don't go to Dumpling Shop for dinner.
+
+328
+ 0:43:54,632 -->  0:43:56,634
+and don't come for me anymore.
+
+329
+ 0:43:56,634 -->  0:43:58,625
+Okay?
+
+330
+ 0:44: 4,642 -->  0:44: 6,644
+What do you mean by this?
+
+331
+ 0:44: 6,644 -->  0:44: 9,647
+It's impossible for me to like you.
+
+332
+ 0:44: 9,647 -->  0:44:13,640
+What's wrong with me?
+
+333
+ 0:44:39,677 -->  0:44:41,679
+Why did you want me to kiss you?
+
+334
+ 0:44:41,679 -->  0:44:43,681
+Don't you understand?
+
+335
+ 0:44:43,681 -->  0:44:46,684
+It's just impossible for me to like you.
+
+336
+ 0:44:46,684 -->  0:44:49,687
+Why did you hold my hands?
+
+337
+ 0:44:49,687 -->  0:44:51,689
+Why?
+
+338
+ 0:44:51,689 -->  0:44:53,691
+Why?  Hey?
+
+339
+ 0:44:53,691 -->  0:44:55,682
+No reason.
+
+340
+ 0:44:56,694 -->  0:44:58,696
+How is you and the P.E teacher?
+
+341
+ 0:44:58,696 -->  0:45: 0,630
+We have nothing.
+
+342
+ 0:45: 2,700 -->  0:45: 6,693
+But,but why did you want me to kiss you?
+
+343
+ 0:45: 8,706 -->  0:45:10,697
+Stop bugging me.
+
+344
+ 0:45:14,712 -->  0:45:17,715
+Hey,why?
+
+345
+ 0:45:17,715 -->  0:45:19,706
+Tell me.
+
+346
+ 0:45:23,721 -->  0:45:27,714
+Why?
+
+347
+ 0:45:28,726 -->  0:45:31,729
+Why did you want me to kiss you?
+
+348
+ 0:45:31,729 -->  0:45:33,720
+Tell me.
+
+349
+ 0:45:43,741 -->  0:45:46,744
+Why did you want me to kiss you?
+
+350
+ 0:45:46,744 -->  0:45:49,747
+Why did you want me to kiss you?
+
+351
+ 0:45:49,747 -->  0:45:51,749
+Why did you want me to kiss you?
+
+352
+ 0:45:51,749 -->  0:45:55,753
+Why did you want me to kiss you?
+
+353
+ 0:45:55,753 -->  0:45:58,756
+Tell me a secret.
+
+354
+ 0:45:58,756 -->  0:45:59,757
+What?
+
+355
+ 0:45:59,757 -->  0:46: 3,750
+Tell me a secret.
+
+356
+ 0:46: 5,763 -->  0:46: 7,754
+Come on.
+
+357
+ 0:46: 9,767 -->  0:46:11,769
+Tell me a secret.
+
+358
+ 0:46:11,769 -->  0:46:13,760
+A secret.
+
+359
+ 0:46:16,774 -->  0:46:20,767
+You really wanna know?
+
+360
+ 0:46:22,780 -->  0:46:26,784
+Actually I hate swimming.
+
+361
+ 0:46:26,784 -->  0:46:29,787
+You see my in the swimming pool everyday.
+
+362
+ 0:46:29,787 -->  0:46:32,790
+Actually it's boring alone in there.
+
+363
+ 0:46:32,790 -->  0:46:35,793
+Which sport else is for one man?
+
+364
+ 0:46:35,793 -->  0:46:38,796
+Many.
+
+365
+ 0:46:38,796 -->  0:46:42,789
+But swimming feels cool.
+
+366
+ 0:46:45,803 -->  0:46:48,806
+But,I want to get first place in the game,
+
+367
+ 0:46:48,806 -->  0:46:51,809
+and recommended to college.
+
+368
+ 0:46:51,809 -->  0:46:53,811
+What are you talking about?
+
+369
+ 0:46:53,811 -->  0:46:55,813
+I'm talking about the secret.
+
+370
+ 0:46:55,813 -->  0:46:57,815
+It's a mess.
+
+371
+ 0:46:57,815 -->  0:46:59,817
+not a secret.
+
+372
+ 0:46:59,817 -->  0:47: 0,751
+It's not?
+
+373
+ 0:47: 0,751 -->  0:47: 2,810
+It's not,think of another one.
+
+374
+ 0:47: 7,825 -->  0:47: 9,827
+I'm still a virgin.
+
+375
+ 0:47: 9,827 -->  0:47:11,829
+Many people are still virgin.
+
+376
+ 0:47:11,829 -->  0:47:12,830
+Who?
+
+377
+ 0:47:12,830 -->  0:47:16,823
+Those who say they are,think of another one.
+
+378
+ 0:47:24,842 -->  0:47:26,833
+I have no idea.
+
+379
+ 0:47:27,845 -->  0:47:29,847
+What on earth you want me to say?
+
+380
+ 0:47:29,847 -->  0:47:31,838
+A secret.
+
+381
+ 0:47:32,850 -->  0:47:34,841
+Secret.
+
+382
+ 0:47:35,853 -->  0:47:37,844
+Let me tell you another one.
+
+383
+ 0:47:39,857 -->  0:47:41,859
+I scatter.
+
+384
+ 0:47:41,859 -->  0:47:43,861
+What?
+
+385
+ 0:47:43,861 -->  0:47:45,863
+I scatter when pissing.
+
+386
+ 0:47:45,863 -->  0:47:48,866
+Like a sprinkler.
+
+387
+ 0:47:48,866 -->  0:47:50,868
+Not linear.
+
+388
+ 0:47:50,868 -->  0:47:52,870
+I don't know why.
+
+389
+ 0:47:52,870 -->  0:47:54,872
+Maybe the hole is too big.
+
+390
+ 0:47:54,872 -->  0:47:58,876
+Don't tell anybody.
+
+391
+ 0:47:58,876 -->  0:48: 0,811
+Fair.
+
+392
+ 0:48: 0,811 -->  0:48: 4,872
+I tell you a secret of mine too.
+
+393
+ 0:48: 5,883 -->  0:48: 6,884
+Where are you going?
+
+394
+ 0:48: 6,884 -->  0:48: 8,886
+Don't come here.
+
+395
+ 0:48: 8,886 -->  0:48:10,888
+Don't come here.
+
+396
+ 0:48:10,888 -->  0:48:12,890
+I can only tell you like this.
+
+397
+ 0:48:12,890 -->  0:48:16,883
+Don't come here.
+
+398
+ 0:48:22,900 -->  0:48:24,902
+I think Yuezhen is very nice.
+
+399
+ 0:48:24,902 -->  0:48:26,904
+There is no Yuezhen,isn't it?
+
+400
+ 0:48:26,904 -->  0:48:30,897
+There is,she likes you.
+
+401
+ 0:48:34,912 -->  0:48:36,903
+And?
+
+402
+ 0:48:42,920 -->  0:48:46,924
+I'm very kind to Yuezhen,
+
+403
+ 0:48:46,924 -->  0:48:48,915
+help her a lot.
+
+404
+ 0:48:49,927 -->  0:48:53,931
+Went to swimming pool for you with her.
+
+405
+ 0:48:53,931 -->  0:48:55,933
+Sent letter for her.
+
+406
+ 0:48:55,933 -->  0:48:59,937
+Took the consequences for her.
+
+407
+ 0:48:59,937 -->  0:49: 3,930
+I was always helping her.
+
+408
+ 0:49: 4,942 -->  0:49: 8,935
+Because I really like her.
+
+409
+ 0:49:14,952 -->  0:49:18,956
+So I think,I like girls.
+
+410
+ 0:49:18,956 -->  0:49:22,949
+It's impossible for me to like you.
+
+411
+ 0:49:28,966 -->  0:49:32,959
+You are a really nice person.
+
+412
+ 0:49:33,971 -->  0:49:35,973
+I don't wanna hurt you.
+
+413
+ 0:49:35,973 -->  0:49:37,975
+It's the worst excuse I've ever heard.
+
+414
+ 0:49:37,975 -->  0:49:39,977
+What excuse?
+
+415
+ 0:49:39,977 -->  0:49:41,979
+To refuse someone.
+
+416
+ 0:49:41,979 -->  0:49:43,981
+Next time I meet Yuezhen,
+
+417
+ 0:49:43,981 -->  0:49:45,983
+I'll tell her I'm gay too.
+
+418
+ 0:49:45,983 -->  0:49:46,984
+Belive or not,as you want.
+
+419
+ 0:49:46,984 -->  0:49:48,975
+I don't believe this.
+
+420
+ 0:50: 1,999 -->  0:50: 4,  1
+Why did you still date wih me?
+
+421
+ 0:50: 4,  1 -->  0:50: 6,  3
+Why did you still hold my hand?
+
+422
+ 0:50: 6,  3 -->  0:50: 8,  5
+Why did you still want me to kiss you?
+
+423
+ 0:50: 8,  5 -->  0:50:12,  9
+I always thought if i kissed a boy,
+
+424
+ 0:50:12,  9 -->  0:50:14,  0
+then i wasn't a lesbian.
+
+425
+ 0:50:15, 12 -->  0:50:19, 16
+How about you and the P.E teacher?
+
+426
+ 0:50:19, 16 -->  0:50:21, 18
+He just had bad luck.
+
+427
+ 0:50:21, 18 -->  0:50:25, 11
+I asked him if he want to kiss me too.
+
+428
+ 0:50:29, 26 -->  0:50:31, 17
+Yeah
+
+429
+ 0:50:32, 29 -->  0:50:36, 22
+Maybe,after kissed a boy,
+
+430
+ 0:50:38, 35 -->  0:50:42, 28
+you won't feel you are a lesbian.
+
+431
+ 0:50:47, 44 -->  0:50:51, 37
+Then do you want to kiss me?
+
+432
+ 0:51:30, 87 -->  0:51:34, 80
+Do you have feeling?
+
+433
+ 0:51:40, 97 -->  0:51:44, 90
+Want another kiss?
+
+434
+ 0:51:47,104 -->  0:51:51, 97
+Are you still a lesbian?
+
+435
+ 0:51:54,111 -->  0:51:58,104
+Are we done like this?
+
+436
+ 0:52:12,129 -->  0:52:16,122
+Are we done like this?
+
+437
+ 0:52:18,135 -->  0:52:22,128
+Are we done like this?
+
+438
+ 0:52:24,141 -->  0:52:28,134
+Are we done like this?
+
+439
+ 0:52:50,167 -->  0:52:54,160
+Zhang Shihao...
+
+440
+ 0:52:59,176 -->  0:53: 3,169
+Are you really not dating with Zhang Shihao?
+
+441
+ 0:53: 4,181 -->  0:53: 6,172
+I am not,really.
+
+442
+ 0:53: 7,184 -->  0:53:11,177
+Okay,let me show you one thing.
+
+443
+ 0:53:21,198 -->  0:53:23,200
+What are you doing?
+
+444
+ 0:53:23,200 -->  0:53:27,193
+If keep writing his name using his pen,
+
+445
+ 0:53:28,205 -->  0:53:32,198
+he'll love me until the ink used out
+
+446
+ 0:53:33,210 -->  0:53:35,201
+You are so smart.
+
+447
+ 0:53:36,213 -->  0:53:40,206
+The ink is almost used out.
+
+448
+ 0:53:43,220 -->  0:53:47,213
+You are really not dating with Zhang Shihao?
+
+449
+ 0:53:49,226 -->  0:53:52,229
+I've told you many times.
+
+450
+ 0:53:52,229 -->  0:53:55,232
+Then....introduce me to him.
+
+451
+ 0:53:55,232 -->  0:53:57,234
+No
+
+452
+ 0:53:57,234 -->  0:53:59,236
+You know him.
+
+453
+ 0:53:59,236 -->  0:54: 1,171
+Just introduce me to him,no big deal to you.
+
+454
+ 0:54: 1,171 -->  0:54: 3,240
+No.
+
+455
+ 0:54: 3,240 -->  0:54: 5,242
+Come on.
+
+456
+ 0:54: 5,242 -->  0:54: 6,243
+No.
+
+457
+ 0:54: 6,243 -->  0:54:10,236
+Come on,you know him....
+
+458
+ 0:54:11,248 -->  0:54:13,239
+Okay?
+
+459
+ 0:54:16,253 -->  0:54:19,256
+Will he like me?
+
+460
+ 0:54:19,256 -->  0:54:21,247
+No.
+
+461
+ 0:54:22,259 -->  0:54:24,261
+Really?
+
+462
+ 0:54:24,261 -->  0:54:26,252
+Yeah.
+
+463
+ 0:54:44,281 -->  0:54:46,272
+Zhang Shihao
+
+464
+ 0:54:49,286 -->  0:54:53,290
+Zhang Shihao,this is Lin Yuezhen.
+
+465
+ 0:54:53,290 -->  0:54:57,283
+She wants to date with you.
+
+466
+ 0:55: 2,232 -->  0:55: 4,291
+Come on.
+
+467
+ 0:55:11,308 -->  0:55:14,311
+Okay,my job is done,I've to go.
+
+468
+ 0:55:14,311 -->  0:55:16,313
+Wait,what should I do now?
+
+469
+ 0:55:16,313 -->  0:55:18,315
+What do you want to do?
+
+470
+ 0:55:18,315 -->  0:55:20,306
+What do you mean?
+
+471
+ 0:55:21,318 -->  0:55:23,320
+Okay,I wait for a while.
+
+472
+ 0:55:23,320 -->  0:55:27,313
+I'll call you.
+
+473
+ 0:56:49,406 -->  0:56:51,408
+It's here.
+
+474
+ 0:56:51,408 -->  0:56:53,399
+Bye.
+
+475
+ 0:56:54,411 -->  0:56:57,414
+Zhang Shihao.   Um?
+
+476
+ 0:56:57,414 -->  0:57: 1,351
+Can you date with me?
+
+477
+ 0:57: 1,351 -->  0:57: 3,410
+Sorry.
+
+478
+ 0:57:23,440 -->  0:57:25,431
+Meng Kerou
+
+479
+ 0:57:26,443 -->  0:57:28,434
+Meng Kerou!
+
+480
+ 0:57:30,447 -->  0:57:32,449
+Meng Kerou!
+
+481
+ 0:57:32,449 -->  0:57:34,451
+Who is there?
+
+482
+ 0:57:34,451 -->  0:57:38,444
+Are you looking for Meng Kerou?
+
+483
+ 0:57:40,457 -->  0:57:42,448
+You...
+
+484
+ 0:58: 8,485 -->  0:58:10,476
+Where is Yuezhen?
+
+485
+ 0:58:14,491 -->  0:58:16,493
+Where is Yuezhen?
+
+486
+ 0:58:16,493 -->  0:58:18,495
+She is cute,isn't she?
+
+487
+ 0:58:18,495 -->  0:58:22,488
+What do you mean?
+
+488
+ 0:58:24,501 -->  0:58:26,503
+What do you really mean?
+
+489
+ 0:58:26,503 -->  0:58:28,505
+You walked her home,didn't you?
+
+490
+ 0:58:28,505 -->  0:58:31,508
+What do you really mean?
+
+491
+ 0:58:31,508 -->  0:58:33,510
+What?
+
+492
+ 0:58:33,510 -->  0:58:36,513
+Boys love girls,girls love boys.
+
+493
+ 0:58:36,513 -->  0:58:39,516
+What else meaning?
+
+494
+ 0:58:39,516 -->  0:58:42,519
+What do you mean?
+
+495
+ 0:58:42,519 -->  0:58:46,512
+What do you mean?
+
+496
+ 0:58:56,533 -->  0:58:58,524
+What do you mean?
+
+497
+ 0:59:16,553 -->  0:59:20,546
+What do you really mean?
+
+498
+ 1: 0:20,617 -->  1: 0:24,610
+What do you really mean?
+
+499
+ 1: 0:27,624 -->  1: 0:31,617
+Don't you like Lin Yuezhen?
+
+500
+01:00:34,080 --> 01:00:38,080
+I can't love Lin Yuezhen.
+
+501
+01:00:39,080 --> 01:00:43,080
+I really can't love Lin Yuezhen.
+
+502
+01:00:46,120 --> 01:00:50,080
+I can't love girls.
+
+503
+01:01:01,040 --> 01:01:05,120
+No use. I have kissed.
+
+504
+01:01:09,120 --> 01:01:13,120
+Have you kissed Lin Yuezhen?
+
+505
+01:01:13,120 --> 01:01:15,120
+No.
+
+506
+01:01:16,160 --> 01:01:18,160
+Does Lin Yuezhen know?
+
+507
+01:01:18,160 --> 01:01:20,120
+No.
+
+508
+01:01:21,160 --> 01:01:25,160
+If I were you, I will tell her.
+
+509
+01:01:28,160 --> 01:01:30,160
+Tell her.
+
+510
+01:01:31,160 --> 01:01:35,160
+If I told her,we may not be able to be friends.
+
+511
+01:01:38,160 --> 01:01:42,160
+No everyone in this world is like you.
+
+512
+01:01:44,160 --> 01:01:48,160
+This world is actually not fair.
+
+513
+01:02:01,120 --> 01:02:03,120
+Sorry
+
+514
+01:02:04,000 --> 01:02:07,000
+For what?
+
+515
+01:02:07,000 --> 01:02:11,000
+If you were 17,all you think about is if you can go to college or not.
+
+516
+01:02:14,000 --> 01:02:18,000
+If losing virginity can make it linear when pee
+
+517
+01:02:19,000 --> 01:02:23,000
+What a happy kid you will be
+
+518
+01:04:48,200 --> 01:04:52,200
+Zhang Shihao...
+
+519
+01:05:31,240 --> 01:05:34,240
+That's a very luxury restaurant.
+
+520
+01:05:34,240 --> 01:05:37,240
+I've never been in there.
+
+521
+01:05:37,240 --> 01:05:41,280
+The light is dark,feels so romantic.
+
+522
+01:05:41,280 --> 01:05:43,280
+And there are piano playing.
+
+523
+01:05:43,280 --> 01:05:47,280
+And there's a kind of lavender smell floating in the air.
+
+524
+01:05:47,280 --> 01:05:49,280
+And good waiters there,in black suits,
+
+525
+01:05:49,280 --> 01:05:52,280
+Walking around
+
+526
+01:05:52,280 --> 01:05:54,280
+We were there until 9 o'clock.
+
+527
+01:05:54,280 --> 01:05:56,280
+Yuezhen.
+
+528
+01:05:58,280 --> 01:06:01,200
+Zhang Shao said he want to go to my house.
+
+529
+01:06:01,200 --> 01:06:04,280
+So I took him home.
+
+530
+01:06:04,280 --> 01:06:07,280
+He sat on my bed just after entering.
+
+531
+01:06:07,280 --> 01:06:09,280
+Yuezhen
+
+532
+01:06:09,280 --> 01:06:11,280
+What?
+
+533
+01:06:16,320 --> 01:06:20,280
+My mom came back after.
+
+534
+01:06:21,320 --> 01:06:25,320
+Yuezhen,I....
+
+535
+01:06:28,320 --> 01:06:32,320
+Yuezhen,I....
+
+536
+01:07:34,400 --> 01:07:38,400
+I'm a girl,I should like boys.
+
+537
+01:08:00,360 --> 01:08:04,440
+Hey,don't bother my friends.
+
+538
+01:08:04,440 --> 01:08:06,440
+They are not bad.
+
+539
+01:08:33,480 --> 01:08:37,440
+I don't know your name yet.
+
+540
+01:08:42,480 --> 01:08:44,480
+Then what kind of boys you like?
+
+541
+01:08:44,480 --> 01:08:46,480
+Depends on my feeling.
+
+542
+01:08:46,480 --> 01:08:50,480
+Then how do you feel about me.
+
+543
+01:08:51,480 --> 01:08:53,480
+I...
+
+544
+01:08:58,480 --> 01:09:00,400
+Hey...
+
+545
+01:09:04,520 --> 01:09:06,520
+Hey!Me
+
+546
+01:09:06,520 --> 01:09:10,480
+Um...It's nothing actually.
+
+547
+01:09:11,520 --> 01:09:15,520
+The swimming team will have a game on next Wednesday.
+
+548
+01:09:16,520 --> 01:09:19,520
+I hope you can come to watch it.
+
+549
+01:09:19,520 --> 01:09:22,520
+Um...and
+
+550
+01:09:22,520 --> 01:09:26,520
+and...and I wanna say...
+
+551
+01:09:32,520 --> 01:09:34,560
+What are you doing?
+
+552
+01:09:34,560 --> 01:09:36,560
+Don't cry.
+
+553
+01:09:36,560 --> 01:09:40,560
+How about we going out together,okay?
+
+554
+01:09:40,560 --> 01:09:44,520
+Come on,don't cry.
+
+555
+01:09:45,560 --> 01:09:49,560
+Hey!Go!Hurry!
+
+556
+01:11:11,640 --> 01:11:13,640
+Are you crazy?Come back so late.
+
+557
+01:11:13,640 --> 01:11:17,680
+Can I sleep beside you?
+
+558
+01:11:17,680 --> 01:11:19,680
+What's going on?
+
+559
+01:11:19,680 --> 01:11:21,640
+Nothing.
+
+560
+01:11:22,680 --> 01:11:24,640
+Come on,tell me.
+
+561
+01:11:28,680 --> 01:11:31,680
+When dad passed away,
+
+562
+01:11:31,680 --> 01:11:35,680
+How did you come through?
+
+563
+01:11:35,680 --> 01:11:39,680
+I've said that,you are lovelorn.
+
+564
+01:11:41,680 --> 01:11:45,680
+Is he the boy comes here to have dumpling everyday?
+
+565
+01:11:47,680 --> 01:11:50,720
+It's doesn't metter,everyone has been lovelorn.
+
+566
+01:11:50,720 --> 01:11:54,720
+How did you come through?
+
+567
+01:11:54,720 --> 01:11:58,680
+I don't know,just come through like this.
+
+568
+01:11:59,720 --> 01:12:03,640
+I don't really know.
+
+569
+01:12:05,720 --> 01:12:09,720
+Just come through like this.
+
+570
+01:12:10,720 --> 01:12:14,720
+I wish to see that day soon.
+
+571
+01:13:20,800 --> 01:13:24,800
+Zhang Shihao,come on!
+
+572
+01:13:25,800 --> 01:13:29,800
+Channel 3,Zhang Shihao from the high school attached to normal university.
+
+573
+01:13:33,840 --> 01:13:37,800
+Channel 4, Liu Ziqiang from Dong Shan School.
+
+574
+01:13:53,840 --> 01:13:55,840
+Ready!
+
+575
+01:14:32,880 --> 01:14:34,880
+1,2,3
+
+576
+01:14:44,920 --> 01:14:45,920
+Come on,smile
+A,B
+
+577
+01:14:45,920 --> 01:14:47,920
+C
+
+578
+01:14:48,920 --> 01:14:52,920
+What's so funny?
+
+579
+01:14:55,920 --> 01:14:57,920
+Give us a smile.
+
+580
+01:15:19,960 --> 01:15:23,960
+Why didn't you come?
+
+581
+01:15:24,960 --> 01:15:28,960
+How did you swim?
+
+582
+01:15:29,960 --> 01:15:33,960
+Sucks,but it's good for you to not come.
+
+583
+01:15:40,960 --> 01:15:43,000
+I don't wanna give up.
+
+584
+01:15:43,000 --> 01:15:46,960
+The summer is almost gone,i've done nothing.
+
+585
+01:15:48,000 --> 01:15:52,000
+Yeah,just hanging around
+
+586
+01:15:52,000 --> 01:15:56,000
+and do nothing
+
+587
+01:15:56,000 --> 01:16:00,000
+Haven't won any game,nothing at all.
+
+588
+01:16:09,000 --> 01:16:11,000
+What are you thinking?
+
+589
+01:16:11,000 --> 01:16:15,000
+What are you thinking?
+
+590
+01:16:16,040 --> 01:16:19,040
+But at least it'll leave something.
+
+591
+01:16:19,040 --> 01:16:23,040
+What kind of adult we'll be depends on what it'll leave us.
+
+592
+01:16:23,040 --> 01:16:27,040
+Where did you steal this sentence from?
+
+593
+01:16:37,040 --> 01:16:39,040
+I'm going home.
+
+594
+01:16:41,040 --> 01:16:45,040
+Me too.
+
+595
+01:16:57,080 --> 01:16:59,040
+I win.
+
+596
+01:17:02,000 --> 01:17:04,000
+I win again.
+
+597
+01:17:06,080 --> 01:17:08,080
+Still win.
+
+598
+01:17:08,080 --> 01:17:10,080
+I win.
+
+599
+01:17:10,080 --> 01:17:12,080
+You win.
+
+600
+01:17:14,080 --> 01:17:18,080
+Hey,um...actually...
+
+601
+01:17:20,080 --> 01:17:24,080
+That day on the phone,what I wanted to say is
+
+602
+01:17:25,120 --> 01:17:27,120
+if there was one day...
+
+603
+01:17:27,120 --> 01:17:31,120
+maybe after 1 year,or 3...
+
+604
+01:17:31,120 --> 01:17:34,120
+maybe you become to like boys.
+
+605
+01:17:34,120 --> 01:17:38,120
+You must tell me first
+
+606
+01:17:39,120 --> 01:17:41,120
+What the fuck are you laughing at?
+
+607
+01:17:41,120 --> 01:17:43,120
+I'm serious.
+
+608
+01:18:11,160 --> 01:18:15,160
+Xiao Shi,look,your colored shirt is flying away.
+
+609
+01:18:15,160 --> 01:18:19,160
+I'm thinking,
+after 1 year,3 years,5 years
+
+610
+01:18:20,160 --> 01:18:22,160
+What will we become?
+
+611
+01:18:22,160 --> 01:18:26,160
+You are kind,unclouded and free
+you'll become more handsome.
+
+612
+01:18:27,160 --> 01:18:31,000
+So,I seem to see after many years
+
+613
+01:18:31,000 --> 01:18:33,000
+You are standing at one blue gate...
+
+614
+01:18:33,000 --> 01:18:35,000
+Sunshine of 3PM...
+
+615
+01:18:35,000 --> 01:18:37,000
+You have some pimples
+
+616
+01:18:37,000 --> 01:18:40,000
+You are smiling,I run to you to ask you if you are good.
+
+617
+01:18:40,000 --> 01:18:42,000
+You nod
+
+618
+01:18:43,000 --> 01:18:47,000
+After 3 years,5 years or maybe even longer.
+
+619
+01:18:48,000 --> 01:18:51,000
+What kind of adults will we become?
+
+620
+01:18:51,000 --> 01:18:55,000
+P.E teacher? Or my mom?
+
+621
+01:18:55,000 --> 01:18:59,000
+Though,I can't see myself with eyes closed.
+
+622
+01:19:00,080 --> 01:19:04,160
+I can see you.
+
+623
+01:19:43,080 --> 01:19:47,080
+I'm a girl,I love boys.
+
+624
+01:19:58,080 --> 01:20:02,080
+Zhang Shihao was here.
+

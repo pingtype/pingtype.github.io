@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#F82423>紅</font><font color=#000000>包</font>   </font><font color=#F82423><font size="36">h</font><font size="40">ó</font><font size="48">n</font><font size="52">g </font></font><font color=#000000><font size="44">bāo</font></font> <font size="50"><font color=#000000>red envelope</font></font>

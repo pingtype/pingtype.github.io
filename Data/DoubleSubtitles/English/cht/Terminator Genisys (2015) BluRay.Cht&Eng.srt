@@ -1,0 +1,7233 @@
+﻿1
+00:00:05,000 --> 00:00:10,000
+{\an8}國語字幕聽寫製作: CMCT-老六007
+
+2
+00:00:11,000 --> 00:00:16,000
+{\an8}字幕修正/雙語合併: 非傲慢即偏見 @SubHD
+
+3
+00:01:01,620 --> 00:01:05,621
+<i>父母去世前  向我描述了這個世界曾經的樣子</i>
+<i>Before they died, my parents told me stories of how the world once was.</i>
+
+4
+00:01:06,620 --> 00:01:08,907
+<i>是在我出生前的樣子</i>
+<i>What it was like long before I was born.</i>
+
+5
+00:01:09,820 --> 00:01:11,982
+<i>在人機大戰開始前</i>
+<i>Before the war with the machines.</i>
+
+6
+00:01:13,540 --> 00:01:15,463
+<i>那是個綠色的世界</i>
+<i>They remembered a green world,</i>
+
+7
+00:01:16,620 --> 00:01:18,304
+<i>廣闊而美麗</i>
+<i>vast and beautiful.</i>
+
+8
+00:01:20,380 --> 00:01:21,984
+<i>充滿歡笑</i>
+<i>Filled with laughter</i>
+
+9
+00:01:24,060 --> 00:01:25,789
+<i>充滿未來的希望</i>
+<i>and hope for the future.</i>
+
+10
+00:01:28,020 --> 00:01:29,943
+<i>可那不是我的世界</i>
+<i>But it's a world I never knew.</i>
+
+11
+00:01:30,460 --> 00:01:32,260
+<i>在我出生時</i>
+<i>By the time I was born,</i>
+
+12
+00:01:32,360 --> 00:01:35,147
+<i>這一切都沒有了</i>
+<i>all this was gone.</i>
+
+13
+00:01:42,500 --> 00:01:43,831
+<i>天網</i>
+<i>Skynet,</i>
+
+14
+00:01:45,500 --> 00:01:49,107
+<i>一個人類設計的自動導彈防禦系統</i>
+<i>a computer program designed to automate missile defense.</i>
+
+15
+00:01:50,900 --> 00:01:53,240
+<i>它本應該保護我們</i>
+<i>It was supposed to protect us,</i>
+
+16
+00:01:53,338 --> 00:01:55,030
+<i>事實卻相反</i>
+<i>but that's not what happened.</i>
+
+17
+00:01:56,020 --> 00:01:57,988
+<i>1997年8月29日</i>
+<i>On August 29, 1997,</i>
+
+18
+00:01:58,340 --> 00:02:00,149
+<i>天網有了自我意識</i>
+<i>Skynet woke up.</i>
+
+19
+00:02:01,180 --> 00:02:04,821
+<i>它認定人類會給它的生存帶來威脅</i>
+<i>It decided all humanity was a threat to its existence.</i>
+
+20
+00:02:25,000 --> 00:02:30,000
+{\fs28\bord0\shad0\4a&H00&\1c&H000000&}終 結 者{\r}
+{\bord0\shad0\4a&H00&\1c&H000000&}創 世 紀{\r}
+
+21
+00:02:43,500 --> 00:02:46,185
+<i>它用我們的導彈對付我們</i>
+<i>It used our own bombs against us.</i>
+
+22
+00:02:50,180 --> 00:02:53,024
+<i>三十億人喪失在核彈的硝煙中</i>
+<i>Three billion people died in the nuclear fire.</i>
+
+23
+00:02:56,820 --> 00:03:00,063
+<i>倖存者們稱那天為審判日</i>
+<i>Survivors called it Judgment Day.</i>
+
+24
+00:03:02,540 --> 00:03:05,271
+<i>人們終日活在惶恐中</i>
+<i>People lived like rats in the shadows.</i>
+
+25
+00:03:06,260 --> 00:03:09,230
+<i>躲藏  挨餓  或是更糟</i>
+<i>Hiding, starving or, worse,</i>
+
+26
+00:03:09,540 --> 00:03:12,544
+<i>被抓到就會送到集中營等死</i>
+<i>captured and put into camps for extermination.</i>
+
+27
+00:03:20,620 --> 00:03:22,782
+<i>我在審判日後出生</i>
+<i>I was born after Judgment Day,</i>
+
+28
+00:03:25,540 --> 00:03:27,224
+<i>來到這殘破的</i>
+<i>into a broken world</i>
+
+29
+00:03:30,340 --> 00:03:31,990
+<i>被機器統治的世界</i>
+<i>ruled by the machines.</i>
+
+30
+00:03:39,820 --> 00:03:43,427
+<i>最恐怖的是有著人類外觀的滲入單元</i>
+<i>The worst were infiltration units designed to pass for human.</i>
+
+31
+00:03:47,180 --> 00:03:49,262
+<i>我們管它叫終結者</i>
+<i>We called them terminators.</i>
+
+32
+00:04:01,580 --> 00:04:03,230
+沒事了  寶貝
+It's okay, boy.
+
+33
+00:04:05,820 --> 00:04:07,106
+好孩子
+Good boy.
+
+34
+00:04:25,140 --> 00:04:26,551
+還有其他人嗎
+Are there others down here?
+
+35
+00:04:47,180 --> 00:04:49,023
+<i>然後他找到了我</i>
+<i>And then one man found me.</i>
+
+36
+00:04:50,180 --> 00:04:51,341
+<i>他就是</i>
+<i>His name</i>
+
+37
+00:04:51,820 --> 00:04:53,822
+<i>約翰·康納</i>
+<i>is John Connor.</i>
+
+38
+00:04:54,700 --> 00:04:56,668
+<i>是他改變了一切</i>
+<i>And he changed everything.</i>
+
+39
+00:04:58,480 --> 00:05:01,480
+{\an8}2029年  洛杉磯
+
+40
+00:05:01,780 --> 00:05:03,509
+<i>約翰告訴我們如何反抗</i>
+<i>John showed us how to fight back.</i>
+
+41
+00:05:05,220 --> 00:05:06,585
+<i>如何回擊</i>
+<i>How to rise up.</i>
+
+42
+00:05:13,540 --> 00:05:15,429
+<i>他解放了人類</i>
+<i>He freed prisoners.</i>
+
+43
+00:05:20,740 --> 00:05:23,186
+<i>他教會我們如何打倒那些機器</i>
+<i>Taught us how to smash the machines to scrap.</i>
+
+44
+00:05:25,180 --> 00:05:27,023
+<i>人們談論著約翰</i>
+<i>People whisper about John,</i>
+
+45
+00:05:27,500 --> 00:05:29,980
+<i>驚訝他能預先知道結果</i>
+<i>wonder how he can know the things he does.</i>
+
+46
+00:05:31,180 --> 00:05:33,501
+<i>他們說約翰是先知</i>
+<i>They use words like "prophet."</i>
+
+47
+00:05:33,940 --> 00:05:35,465
+<i>可他不止如此</i>
+<i>But John is more.</i>
+
+48
+00:05:36,100 --> 00:05:37,864
+<i>今晚我們匯聚於此</i>
+<i>We're here because tonight,</i>
+
+49
+00:05:38,260 --> 00:05:40,547
+<i>將在他的帶領下徹底摧毀</i>
+<i>he's going to lead us to crush Skynet.</i>
+
+50
+00:05:41,180 --> 00:05:42,511
+<i>天網</i>
+<i>For good.</i>
+
+51
+00:05:43,020 --> 00:05:45,387
+長官  我請求參加科羅拉多進攻戰
+Sir? Request to join the Colorado offensive.
+
+52
+00:05:46,020 --> 00:05:47,510
+你得跟著我  瑞斯
+I need you with me, Reese.
+
+53
+00:05:47,780 --> 00:05:50,140
+那關繫著能否徹底摧毀天網  長官
+We're talking about the complete destruction of Skynet, sir.
+
+54
+00:05:50,260 --> 00:05:52,388
+科羅拉多小隊會取得成功的
+The Colorado unit will succeed.
+
+55
+00:05:52,460 --> 00:05:54,667
+今晚就是天網的末日
+The machines will fall tonight.
+
+56
+00:05:55,460 --> 00:05:56,825
+但是在這邊的洛杉磯攻勢
+But right here, the Los Angeles assault
+
+57
+00:05:56,900 --> 00:05:58,470
+也許比那兒更加重要
+is just as important, maybe more.
+
+58
+00:05:58,580 --> 00:06:01,060
+難道比摧毀天網的主機更重要
+More important than destroying the Skynet's central core?
+
+59
+00:06:01,700 --> 00:06:04,465
+約翰  我不明白  為什麼要對一個勞動集中營進攻
+John, I don't understand why you're leading an attack on a work camp.
+
+60
+00:06:04,580 --> 00:06:06,230
+那個集中營只是個偽裝
+Because the camp is a camouflage.
+
+61
+00:06:06,900 --> 00:06:08,584
+<i>那裏有個停機坪</i>
+<i>Inside the camp is a hangar.</i>
+
+62
+00:06:08,700 --> 00:06:11,783
+<i>而天網的終極武器就藏在那下面</i>
+<i>Beneath that hangar Skynet has hidden its final weapon.</i>
+
+63
+00:06:11,900 --> 00:06:13,550
+<i>當天網意識到輸了的時候</i>
+<i>When Skynet realizes it has lost,</i>
+
+64
+00:06:13,700 --> 00:06:16,306
+<i>它就會利用那個武器來確保自身的安全</i>
+<i>it will deploy that weapon to ensure its own survival.</i>
+
+65
+00:06:17,060 --> 00:06:19,188
+不解決它  我們就沒有明天
+We take it tonight, or there is no tomorrow.
+
+66
+00:06:20,740 --> 00:06:21,980
+那我們解決它
+Then we'll take it.
+
+67
+00:06:26,060 --> 00:06:28,540
+作為我的得力助手  我都沒說過謝謝
+You're my right hand, Reese, and I've never thanked you for it.
+
+68
+00:06:28,580 --> 00:06:29,820
+沒必要說
+You don't need to.
+
+69
+00:06:30,260 --> 00:06:32,262
+你給了我們希望  約翰
+You gave us all a future, John.
+
+70
+00:06:33,140 --> 00:06:34,426
+我總是在想
+I'm gonna use mine.
+
+71
+00:06:35,060 --> 00:06:37,222
+等這一切都結束了
+When this is all over,
+
+72
+00:06:37,340 --> 00:06:39,388
+我要找到我父母的房子
+I'm gonna find my parents' house.
+
+73
+00:06:39,500 --> 00:06:41,184
+重建它
+Rebuild it.
+
+74
+00:06:41,300 --> 00:06:43,746
+用我的雙手  做些殺戮以外的事
+Use my hands for something other than killing.
+
+75
+00:06:44,180 --> 00:06:45,420
+你呢
+How about you?
+
+76
+00:06:47,020 --> 00:06:48,988
+來杯冰啤酒就行了
+A cold beer would be good.
+
+77
+00:06:49,100 --> 00:06:50,670
+- 好大的計劃  - 呵呵呵
+- That's some pretty big plans. - Yeah.
+
+78
+00:06:52,860 --> 00:06:54,749
+以後的事我都沒怎麼想過呢
+Yeah, I guess I don't think about it too much.
+
+79
+00:06:54,860 --> 00:06:56,191
+我看出來了
+I can see that.
+
+80
+00:06:59,180 --> 00:07:01,262
+我想不管怎麼樣
+Well, I figure, whatever happens,
+
+81
+00:07:02,540 --> 00:07:04,190
+都不會比現在糟
+it's got to be better than this.
+
+82
+00:07:09,660 --> 00:07:11,822
+走到這步我們犧牲了很多人
+So many of us have died to get here.
+
+83
+00:07:13,420 --> 00:07:14,546
+我希望你能明白
+I want you to know, Kyle,
+
+84
+00:07:14,620 --> 00:07:16,987
+我也不想選擇這條路
+if there was another way, I would have taken it.
+
+85
+00:07:28,420 --> 00:07:29,660
+出發
+We're moving out.
+
+86
+00:07:42,700 --> 00:07:44,702
+<i>那台機器認為</i>
+<i>The machine thinks</i>
+
+87
+00:07:45,700 --> 00:07:47,702
+<i>我們不可能勝利</i>
+<i>that we cannot win!</i>
+
+88
+00:07:54,060 --> 00:07:56,666
+<i>那台機器認為我們不可能</i>
+<i>The machine thinks that we will not</i>
+
+89
+00:07:56,820 --> 00:08:01,030
+<i>打擊到天網的內部核心</i>
+<i>Strike at the very heart of Skynet!</i>
+
+90
+00:08:03,340 --> 00:08:05,422
+我們即將敲響
+Yet, here we stand
+
+91
+00:08:06,700 --> 00:08:09,544
+這場最終戰役勝利的鐘聲
+on the precipice of the final battle.
+
+92
+00:08:12,180 --> 00:08:13,864
+<i>如果我們失敗</i>
+<i>If we die tonight,</i>
+
+93
+00:08:15,420 --> 00:08:17,502
+<i>人類也將就此滅亡</i>
+<i>mankind dies with us.</i>
+
+94
+00:08:17,932 --> 00:08:19,432
+{\an8}功能性故障
+
+95
+00:08:22,340 --> 00:08:23,466
+來吧
+Now!
+
+96
+00:08:28,620 --> 00:08:29,860
+我在你們的臉上
+I look at each of you,
+
+97
+00:08:30,380 --> 00:08:33,111
+發現了這場戰爭留下的種種痕跡
+and I see the marks of this long and terrible war.
+
+98
+00:08:42,380 --> 00:08:43,791
+沖  沖
+Go! Go!
+
+99
+00:08:44,660 --> 00:08:46,389
+<i>界牆破裂</i>
+<i>Perimeter breach.</i>
+
+100
+00:08:49,420 --> 00:08:52,185
+<i>啟動101型號</i>
+<i>Activate model 101.</i>
+
+101
+00:08:52,300 --> 00:08:53,984
+為了我們的孩子
+For our children,
+
+102
+00:08:54,900 --> 00:08:56,311
+為了孩子的孩子
+our children's children,
+
+103
+00:08:56,380 --> 00:08:59,031
+為了他們免受戰爭之苦
+so they will not carry these marks.
+
+104
+00:09:01,700 --> 00:09:04,067
+<i>他們一定會知道我們是誰</i>
+<i>But they will know who we are</i>
+
+105
+00:09:04,420 --> 00:09:06,070
+<i>我們做過什麼</i>
+<i>and what we did.</i>
+
+106
+00:09:07,180 --> 00:09:11,788
+<i>我們從沒有屈服過  從沒有投降</i>
+<i>That we did not bow down! We did not give in!</i>
+
+107
+00:09:12,180 --> 00:09:14,786
+就在此時  我們已經覺醒
+We rose up, at this moment,
+
+108
+00:09:15,460 --> 00:09:16,950
+<i>我們覺醒了</i>
+<i>at this hour,</i>
+
+109
+00:09:17,460 --> 00:09:19,588
+<i>我們願意犧牲我們的一切</i>
+<i>willing to sacrifice everything</i>
+
+110
+00:09:21,220 --> 00:09:22,904
+<i>只為換來他們的自由</i>
+<i>so that they can live in freedom!</i>
+
+111
+00:09:27,700 --> 00:09:29,270
+<i>就在今天晚上</i>
+<i>On this night,</i>
+
+112
+00:09:29,540 --> 00:09:31,622
+我們要奪回屬於我們的世界
+we take back our world!
+
+113
+00:09:45,220 --> 00:09:46,824
+它使用那武器了
+They're using the weapon!
+
+114
+00:09:47,540 --> 00:09:48,780
+我們得去停機坪那兒
+We've got to get to the hangar.
+
+115
+00:09:49,540 --> 00:09:50,780
+約翰
+John!
+
+116
+00:09:51,180 --> 00:09:52,625
+約翰
+John!
+
+117
+00:10:20,580 --> 00:10:22,708
+想要殺我  來吧
+You want me, I'm right here!
+
+118
+00:10:25,500 --> 00:10:27,150
+<i>科羅拉多小組報告</i>
+<i>Colorado unit's reporting in.</i>
+
+119
+00:10:27,300 --> 00:10:29,029
+<i>天網的主機已被摧毀</i>
+<i>Skynet's central core is down.</i>
+
+120
+00:10:29,420 --> 00:10:32,151
+<i>重複  天網已被摧毀</i>
+<i>Repeat, Skynet has been destroyed.</i>
+
+121
+00:10:32,780 --> 00:10:33,986
+<i>約翰是對的</i>
+<i>John was right.</i>
+
+122
+00:10:36,540 --> 00:10:38,668
+<i>科羅拉多小隊成功了</i>
+<i>The Colorado unit succeeded,</i>
+
+123
+00:10:39,180 --> 00:10:41,103
+<i>天網被打敗了</i>
+<i>and the machines fell.</i>
+
+124
+00:10:42,700 --> 00:10:43,986
+<i>但卻太遲了</i>
+<i>But it was too late.</i>
+
+125
+00:10:44,220 --> 00:10:45,506
+<i>長官  我們找到了</i>
+<i>We found it, sir,</i>
+
+126
+00:10:45,940 --> 00:10:47,704
+就在你說的地方
+right where you said it would be.
+
+127
+00:10:52,220 --> 00:10:53,710
+那是什麼東西
+What is that thing?
+
+128
+00:10:54,460 --> 00:10:55,700
+宿命
+Fate.
+
+129
+00:10:59,820 --> 00:11:04,189
+第一台戰略性時間武器  天網剛剛使用過
+It's the first tactical time weapon. Skynet just used it.
+
+130
+00:11:27,240 --> 00:11:31,720
+{\an8}洛杉磯  1984年  凌晨1點52分
+
+131
+00:11:37,820 --> 00:11:39,231
+怎麼回事兒
+What the hell?
+
+132
+00:11:41,700 --> 00:11:42,940
+嗯
+Hmm.
+
+133
+00:11:45,740 --> 00:11:46,741
+呃
+Huh.
+
+134
+00:12:42,980 --> 00:12:45,220
+我們需要15分鐘來啟動機器  長官
+We'll need 15 minutes to ready the machine, sir.
+
+135
+00:12:47,000 --> 00:12:48,100
+我們正在確定目標
+We're running coordinates,
+
+136
+00:12:48,150 --> 00:12:50,000
+很快就能告訴你
+we should have them for you momentarily.
+
+137
+00:12:50,260 --> 00:12:52,308
+洛杉磯  1984年
+Los Angeles, 1984.
+
+138
+00:12:54,260 --> 00:12:56,183
+洛杉磯  5月12日
+Los Angeles, May 12,
+
+139
+00:12:57,740 --> 00:12:59,151
+1984年
+1984.
+
+140
+00:13:03,740 --> 00:13:05,708
+天網知道它輸了
+Skynet knew it was losing,
+
+141
+00:13:06,020 --> 00:13:07,670
+所以它就作弊
+so it tried to rig the game.
+
+142
+00:13:08,100 --> 00:13:11,024
+它把一個終結者送回戰爭開始之前
+It sent a terminator back to the time before the war.
+
+143
+00:13:11,140 --> 00:13:12,710
+它的目標是誰
+And who's the target?
+
+144
+00:13:13,420 --> 00:13:14,467
+我的媽媽
+My mother.
+
+145
+00:13:16,100 --> 00:13:17,306
+莎拉·康納
+Sarah Connor.
+
+146
+00:13:17,940 --> 00:13:20,671
+如果它成功了  我就不會出生
+If the machine succeeds, I'll never be born.
+
+147
+00:13:21,340 --> 00:13:22,910
+把我媽媽殺掉
+They'll kill her first.
+
+148
+00:13:23,020 --> 00:13:27,344
+用這種方式  來抹去我們勝利的歷史  也包括今晚
+And by doing so, erase every victory we've fought for, including tonight's.
+
+149
+00:13:27,460 --> 00:13:30,384
+那樣就不會再有反抗它的抵抗軍
+There won't be a resistance to challenge the machines.
+
+150
+00:13:30,780 --> 00:13:34,341
+只需要這一招  天網就能勝利
+With this one act, Skynet will win.
+
+151
+00:13:34,460 --> 00:13:37,145
+我們也可以利用這項技術  把一個人送回去
+We can use the technology ourselves, send someone back.
+
+152
+00:13:37,260 --> 00:13:38,386
+我們還不知道是否可行
+We don't even know if that'll work.
+
+153
+00:13:38,500 --> 00:13:39,990
+- 讓我去吧  - 讓我去
+- I'll go! - I'll go, sir!
+
+154
+00:13:40,100 --> 00:13:41,340
+- 我去  - 讓我去
+- Right here. - I'll go!
+
+155
+00:13:41,460 --> 00:13:42,507
+讓我去吧
+I'll go!
+
+156
+00:13:43,020 --> 00:13:44,306
+我願意去
+I'll volunteer!
+
+157
+00:13:48,380 --> 00:13:49,620
+讓我回去
+I'll go back.
+
+158
+00:13:50,200 --> 00:13:51,900
+這麼多人裏面
+Why should I send you
+
+159
+00:13:53,200 --> 00:13:54,600
+我為何要選你
+over all of them?
+
+160
+00:13:57,060 --> 00:13:58,585
+因為我會用生命保護她
+Because I'd die for Sarah Connor.
+
+161
+00:13:59,060 --> 00:14:01,870
+這些人都會用生命去保護莎拉·康納
+All these people would die for Sarah Connor.
+
+162
+00:14:02,660 --> 00:14:04,708
+你有什麼不同
+What makes you any different?
+
+163
+00:14:06,820 --> 00:14:08,185
+你知道為什麼
+You know why.
+
+164
+00:14:10,180 --> 00:14:13,263
+你跟我講過她的故事  我瞭解她  約翰
+Everything you've told me about her. I know her, John.
+
+165
+00:14:15,260 --> 00:14:16,591
+讓我保護她
+Let me save her.
+
+166
+00:14:22,500 --> 00:14:23,740
+不帶武器
+No weapons?
+
+167
+00:14:24,100 --> 00:14:25,226
+我們測量過這個磁場
+We've measured the magnetic field,
+
+168
+00:14:25,380 --> 00:14:28,748
+他會撕碎任何沒有被活體組織包裹的東西
+it'll rip apart anything not encased in living tissue.
+
+169
+00:14:29,420 --> 00:14:32,742
+就像一張錫紙  在微波爐裏承受上億倍的熱量
+Think tinfoil in a microwave times a few billion,
+
+170
+00:14:32,860 --> 00:14:34,510
+還是灰都不剩
+nothing left but a crater.
+
+171
+00:14:38,100 --> 00:14:39,431
+噢
+Oh!
+
+172
+00:14:39,540 --> 00:14:41,110
+衣服也不能穿
+No clothes, either.
+
+173
+00:14:41,740 --> 00:14:42,741
+噢
+Huh.
+
+174
+00:14:43,940 --> 00:14:45,749
+她一定會認為我瘋了
+She's going to think I'm crazy.
+
+175
+00:14:46,380 --> 00:14:47,950
+你知道這裏有一台機器
+You knew the device would be here.
+
+176
+00:14:48,820 --> 00:14:50,424
+你知道它設定的日期
+You knew when it'd be set for.
+
+177
+00:14:51,460 --> 00:14:53,622
+你知道天網今晚會失敗
+You knew the machines would fall tonight.
+
+178
+00:14:54,100 --> 00:14:56,068
+在我走之前  你告訴我
+Just before I go, tell me...
+
+179
+00:14:57,300 --> 00:14:58,586
+告訴你什麼
+Tell you what?
+
+180
+00:14:59,940 --> 00:15:01,749
+你看見未來了嗎
+Do you see the future?
+
+181
+00:15:03,980 --> 00:15:05,744
+沒人能看到未來  瑞斯
+No one can see the future, Reese.
+
+182
+00:15:06,060 --> 00:15:07,789
+那你是怎麼知道的
+Okay, then how do you know?
+
+183
+00:15:09,820 --> 00:15:11,106
+我作弊了
+I cheat.
+
+184
+00:15:14,620 --> 00:15:18,147
+這都是莎拉告訴我的  給我指示
+Sarah told me so much. Gave me signposts.
+
+185
+00:15:18,940 --> 00:15:20,385
+我小的時候
+When I was a kid,
+
+186
+00:15:20,540 --> 00:15:22,269
+覺得我媽媽好像什麼都知道
+it seemed like my mother knew everything.
+
+187
+00:15:22,620 --> 00:15:23,860
+一定很棒吧
+That must've been great.
+
+188
+00:15:24,900 --> 00:15:26,311
+也不一定
+Not really.
+
+189
+00:15:27,940 --> 00:15:29,180
+到這兒就沒了
+It stops here.
+
+190
+00:15:29,940 --> 00:15:32,386
+你回去以後的事兒我就不知道了
+Once you go back, my knowledge ends.
+
+191
+00:15:32,780 --> 00:15:34,111
+莎拉也只知道這麼多
+That's as much as Sarah knew.
+
+192
+00:15:34,700 --> 00:15:36,225
+到此為止了
+So no more cheating.
+
+193
+00:15:36,780 --> 00:15:38,384
+到此為止了
+No more cheating.
+
+194
+00:15:47,980 --> 00:15:49,311
+你回去的那個年代
+The time you're going back to,
+
+195
+00:15:49,380 --> 00:15:52,543
+她還不是那個撫養我長大的戰士
+she won't be the warrior that raised me, not yet.
+
+196
+00:15:53,060 --> 00:15:54,983
+她柔弱膽小
+She'll be scared and weak.
+
+197
+00:15:55,100 --> 00:15:57,068
+也不知道該如何保護自己
+She won't know how to fight or defend herself.
+
+198
+00:15:57,300 --> 00:15:59,826
+她擔心的只是房租和學費
+Her biggest worry is making rent and tuition.
+
+199
+00:16:00,140 --> 00:16:01,141
+她是個服務員
+She's a waitress.
+
+200
+00:16:02,460 --> 00:16:03,461
+是什麼
+A what?
+
+201
+00:16:03,620 --> 00:16:04,906
+是
+A...
+
+202
+00:16:06,500 --> 00:16:07,740
+別管這個了
+Never mind.
+
+203
+00:16:09,980 --> 00:16:11,664
+你明白她需要你的保護就行了
+Just be ready for the fact that she will need you,
+
+204
+00:16:11,820 --> 00:16:12,821
+有些事兒她還不知道
+but she won't know it.
+
+205
+00:16:13,140 --> 00:16:15,507
+那我該跟她說什麼
+Okay, so what do I say to her?
+
+206
+00:16:15,620 --> 00:16:17,901
+就算告訴她我是誰  她也不會信吶
+Even when I tell her who I am, she's not gonna believe me.
+
+207
+00:16:22,660 --> 00:16:24,185
+<i>你告訴她</i>
+<i>Tell her this...</i>
+
+208
+00:16:25,780 --> 00:16:29,501
+<i>莎拉  謝謝你能勇敢地面對那個黑暗年代</i>
+<i>Thank you, Sarah, for your courage during the dark years.</i>
+
+209
+00:16:30,340 --> 00:16:32,661
+<i>我沒能與你一起面對接下來的生活</i>
+<i>I can't help you with what you must soon face,</i>
+
+210
+00:16:32,820 --> 00:16:35,266
+<i>但是未來是可以改變的</i>
+<i>Except to say the future is not set.</i>
+
+211
+00:16:36,660 --> 00:16:39,948
+<i>儘管沒有希望  但是我們會為之奮鬥</i>
+<i>There is no fate but that which we make for ourselves.</i>
+
+212
+00:16:41,340 --> 00:16:44,423
+<i>你可以比你自己認為的更加堅強</i>
+<i>You must be stronger than you imagine you can be.</i>
+
+213
+00:16:45,140 --> 00:16:46,710
+<i>你一定要活下去</i>
+<i>You must survive,</i>
+
+214
+00:16:48,060 --> 00:16:50,062
+<i>否則我將不復存在</i>
+<i>or I will never exist.</i>
+
+215
+00:16:58,620 --> 00:17:00,224
+幫我照顧好她
+Take care of her for me, Kyle.
+
+216
+00:17:01,220 --> 00:17:02,460
+我會的
+I will.
+
+217
+00:17:04,060 --> 00:17:05,471
+我保證
+I promise you.
+
+218
+00:17:25,980 --> 00:17:29,223
+你肩負的是這場戰爭成敗的關鍵
+What you're doing right now, this is the end of the war.
+
+219
+00:18:10,620 --> 00:18:12,782
+你不會認為成功這麼容易吧
+You didn't think it would be that easy, did you?
+
+220
+00:18:13,020 --> 00:18:14,021
+約翰
+John!
+
+221
+00:18:39,980 --> 00:18:41,630
+嘿  小壽星
+Hey, birthday boy!
+
+222
+00:18:42,020 --> 00:18:43,909
+禮物時間  快來吧
+Present time. Let's go!
+
+223
+00:18:51,798 --> 00:18:53,398
+{\an8}創世紀
+
+224
+00:18:53,740 --> 00:18:55,424
+不會吧
+No way!
+
+225
+00:18:55,660 --> 00:18:58,584
+創世紀一旦上線後就會自動更新
+Genisys will auto-update as soon as it comes online.
+
+226
+00:18:58,900 --> 00:19:00,823
+你很快就能擁有它了
+You'll have it the moment it comes out.
+
+227
+00:19:01,420 --> 00:19:03,343
+再過幾天就可以了
+Just a few days more.
+
+228
+00:19:06,580 --> 00:19:07,706
+沿著一條直線
+A straight line.
+
+229
+00:19:13,980 --> 00:19:16,665
+要記住  創世紀就是天網
+Remember, Genisys is Skynet.
+
+230
+00:19:17,060 --> 00:19:20,223
+<i>創世紀一旦上線  審判日就會到來</i>
+<i>When Genisys comes online, Judgment Day begins.</i>
+
+231
+00:19:20,940 --> 00:19:22,863
+你能在天網誕生前消滅它
+You can kill Skynet before it's born.
+
+232
+00:19:44,220 --> 00:19:45,631
+嘿  嘿
+Hey, hey...
+
+233
+00:19:46,060 --> 00:19:47,550
+嘿
+Hey...
+
+234
+00:19:48,420 --> 00:19:49,546
+嘿
+Hey.
+
+235
+00:20:23,980 --> 00:20:25,106
+嘿  兄弟
+Hey, bud.
+
+236
+00:20:25,980 --> 00:20:28,745
+你剛才看見一道亮光嗎
+Did you just see a real bright light?
+
+237
+00:20:31,820 --> 00:20:32,820
+嘿
+Hey!
+
+238
+00:20:33,820 --> 00:20:35,265
+輪到我了
+It's my turn.
+
+239
+00:20:36,540 --> 00:20:37,871
+哎
+Hey, hey!
+
+240
+00:20:38,020 --> 00:20:39,749
+那兒什麼情況
+What's wrong with this picture?
+
+241
+00:20:47,860 --> 00:20:49,942
+晚上出來溜達呀
+Nice night for a walk, eh?
+
+242
+00:20:51,340 --> 00:20:52,944
+晚上出來溜達
+Nice night for a walk.
+
+243
+00:20:53,260 --> 00:20:55,740
+明天要洗衣服  今天沒得穿  是嗎
+Wash day tomorrow. Nothing clean, right?
+
+244
+00:20:56,180 --> 00:20:58,581
+現在沒得穿  是的
+Nothing clean, right.
+
+245
+00:20:58,700 --> 00:21:01,431
+我估計這傢伙至少喝了一打啤酒吧
+Hey, I think this guy's a couple cans short of a six-pack.
+
+246
+00:21:01,780 --> 00:21:04,750
+你們的衣服  脫下來給我  快點兒
+Your clothes, give them to me. Now.
+
+247
+00:21:05,140 --> 00:21:06,665
+想什麼呢  混蛋
+Hey, fuck you, asshole.
+
+248
+00:21:06,780 --> 00:21:09,101
+你別想再找衣服穿了
+You won't be needing any clothes.
+
+249
+00:21:15,960 --> 00:21:18,480
+{\an8}型號  T-800  攜帶泵動散彈鎗
+
+250
+00:21:21,220 --> 00:21:22,949
+我已經等你很久了
+I've been waiting for you.
+
+251
+00:23:15,340 --> 00:23:19,265
+嘿  那個混蛋把我的褲子搶走了
+Hey! That son of a bitch just stole my pants!
+
+252
+00:23:37,460 --> 00:23:39,462
+今天是幾號  是哪一年
+What day is it? What year?
+
+253
+00:23:39,900 --> 00:23:41,948
+1984年5月12日
+May 12, 1984.
+
+254
+00:23:42,420 --> 00:23:44,104
+你到達的日子
+The day you arrive.
+
+255
+00:25:23,860 --> 00:25:25,385
+警察  不許動
+LAPD! Freeze!
+
+256
+00:25:26,100 --> 00:25:28,068
+噢  疼死我了
+All right, that freakin' hurt.
+
+257
+00:25:28,380 --> 00:25:30,109
+- 蓋博  你沒事吧  - 你說呢  奧布萊恩
+- Garber, you okay? - You tell me, O'Brien.
+
+258
+00:25:30,340 --> 00:25:32,502
+是人類  嘿  我得離開這兒
+You're human. Hey, you got to let me go.
+
+259
+00:25:32,620 --> 00:25:35,430
+趴下  把手放到背後  不然我就開槍了
+Face down! Hands on your back, or I will shoot!
+
+260
+00:25:35,540 --> 00:25:36,587
+你們聽我說
+Listen to me...
+
+261
+00:25:37,620 --> 00:25:38,621
+嘿
+Hey!
+
+262
+00:25:39,300 --> 00:25:40,745
+他過來了  明白嗎
+It's coming, all right?
+
+263
+00:25:41,940 --> 00:25:44,910
+相信我  不然我們都得死
+You need to listen to me, or we're all going to die.
+
+264
+00:25:45,260 --> 00:25:47,180
+我已經把局面控制住了
+I had it under control.
+
+265
+00:25:47,420 --> 00:25:49,388
+是吧  大偵探
+Yeah, okay, T.J. Hooker.
+
+266
+00:25:50,140 --> 00:25:52,427
+你這是第一次出勤  我得提醒你
+Here's what you don't do your first day on the beat.
+
+267
+00:25:52,580 --> 00:25:55,060
+別輕易對妄想癥流浪漢使用槍支
+Use lethal force on the delusional homeless guy.
+
+268
+00:26:02,660 --> 00:26:04,740
+這次報告你來寫
+By the way, you're filling out the paperwork on this.
+
+269
+00:26:05,900 --> 00:26:07,265
+蓋博
+Garber!
+
+270
+00:26:17,700 --> 00:26:18,701
+見鬼
+Shit.
+
+271
+00:26:26,900 --> 00:26:28,820
+那肯定是外星人  不是地球的人類
+That's got to be an alien, like from outer space.
+
+272
+00:26:28,900 --> 00:26:30,629
+那是台專門殺人的機器
+It's a machine that kills humans.
+
+273
+00:26:30,740 --> 00:26:32,583
+- 解開手銬  - 不行  你已經被捕了
+- Uncuff me! - No! You're under arrest!
+
+274
+00:26:32,980 --> 00:26:35,187
+你怎麼回事兒  聽不懂我說他會殺人嗎
+What part of "kills humans" is confusing to you?
+
+275
+00:26:36,460 --> 00:26:38,144
+快解開
+Handcuffs!
+
+276
+00:26:42,300 --> 00:26:45,270
+我是奧布萊恩  有人受傷  需要支援
+O'Brien. Officer down. We need backup.
+
+277
+00:26:46,260 --> 00:26:47,625
+有一個機器人
+It's a robot!
+
+278
+00:26:51,380 --> 00:26:53,621
+- 咱倆死定了  - 差不多吧
+- We're screwed, aren't we? - Pretty much.
+
+279
+00:27:09,060 --> 00:27:10,664
+想活命就跟我走
+Come with me if you want to live.
+
+280
+00:27:20,140 --> 00:27:21,346
+快點兒  大兵
+Now, soldier!
+
+281
+00:27:48,700 --> 00:27:50,031
+瑞斯  對吧
+Reese, right?
+
+282
+00:27:50,700 --> 00:27:52,031
+凱爾·瑞斯
+Kyle Reese?
+
+283
+00:27:52,860 --> 00:27:54,862
+- 你是莎拉  - 還用你說
+- You're Sarah. - Yeah, I know that.
+
+284
+00:27:55,700 --> 00:27:56,861
+你腦袋被撞壞了
+You hit your head back there?
+
+285
+00:27:57,180 --> 00:27:59,308
+有  有個終結者  我不知道型號
+The terminator. I don't know the model.
+
+286
+00:27:59,620 --> 00:28:01,702
+T-1000  液態金屬  只要與對方接觸
+T-1000. Liquid metal. Shape-changer.
+
+287
+00:28:01,820 --> 00:28:03,060
+就能模仿其外觀
+It just needs to touch something to mimic it.
+
+288
+00:28:03,180 --> 00:28:05,990
+你瞭解終結者  你還知道我是誰
+You know about terminators? And you know who I am?
+
+289
+00:28:06,100 --> 00:28:08,148
+你被反叛軍首領送回來保護我
+You were sent to protect me by John Connor,
+
+290
+00:28:08,260 --> 00:28:10,024
+也就是約翰·康納
+the leader of the Resistance.
+
+291
+00:28:10,380 --> 00:28:11,427
+我兒子
+My son.
+
+292
+00:28:11,540 --> 00:28:13,383
+可是  你不該知道這些事啊
+I don't understand. You can't know any of this.
+
+293
+00:28:13,500 --> 00:28:14,740
+可我知道了
+But I do.
+
+294
+00:28:15,500 --> 00:28:17,309
+聽我說  瑞斯  全都變了
+Listen to me, Reese, everything's changed.
+
+295
+00:28:17,420 --> 00:28:20,185
+約翰想把你送去的那個1984年已經不存在了
+The 1984 John sent you to, it no longer exists.
+
+296
+00:28:20,300 --> 00:28:22,428
+不  這不對  是約翰送我回來保護你的
+No, this is all wrong, all right? John sent me here to save you.
+
+297
+00:28:22,540 --> 00:28:24,500
+為了確保我不被終結者殺死
+From the terminator that was sent back to kill me.
+
+298
+00:28:24,540 --> 00:28:26,542
+我知道  我們已經解決它了
+I know, but we already took care of him.
+
+299
+00:28:28,820 --> 00:28:29,901
+我們
+"We"?
+
+300
+00:28:31,900 --> 00:28:33,026
+快趴下
+Get down!
+
+301
+00:28:36,620 --> 00:28:37,985
+瑞斯  住手
+Reese, stop it!
+
+302
+00:28:45,540 --> 00:28:46,746
+真是見鬼了
+Reese, God damn it!
+
+303
+00:28:46,860 --> 00:28:48,100
+- 待在這兒  - 瑞斯  等等
+- Stay here! - Reese, wait!
+
+304
+00:28:48,260 --> 00:28:49,830
+那子彈會要他命的
+Those bullets will kill him!
+
+305
+00:28:49,980 --> 00:28:51,620
+他是來殺你的  別出來
+He's here to kill you! Stay in the truck!
+
+306
+00:28:59,900 --> 00:29:01,425
+噢  幹的真是太好了
+Oh, great. That's just great.
+
+307
+00:29:02,460 --> 00:29:04,269
+我並沒有殺死他
+I did not kill him.
+
+308
+00:29:05,820 --> 00:29:09,461
+時間不多了  T-1000很快就會發現我們的位置
+We do not have long before the T-1000 acquires our position.
+
+309
+00:29:12,220 --> 00:29:13,745
+你和他爭吵
+Arguing with Kyle Reese
+
+310
+00:29:13,820 --> 00:29:16,505
+會讓我們處於不利的戰略地位
+puts us at a strategic disadvantage.
+
+311
+00:29:17,420 --> 00:29:18,626
+去死吧你
+Bite me.
+
+312
+00:29:19,700 --> 00:29:22,271
+這是一個非常不成熟的回答
+That is a very immature response.
+
+313
+00:29:31,620 --> 00:29:34,305
+你就是我命中注定的他嗎
+So you're the one I've been waiting for all my life.
+
+314
+00:29:36,260 --> 00:29:37,421
+他怎麼樣了
+How is he?
+
+315
+00:29:37,540 --> 00:29:38,985
+還有呼吸
+Still breathing.
+
+316
+00:29:39,540 --> 00:29:40,746
+很好  那你可以
+Good. Then you should
+
+317
+00:29:40,820 --> 00:29:43,266
+在這條時間線上和他交配了
+be able to mate with Kyle Reese in this timeline.
+
+318
+00:29:43,380 --> 00:29:46,145
+算了  我不想再談論這個話題了
+Okay, we're not having this conversation again.
+
+319
+00:29:46,300 --> 00:29:48,302
+我們知道你將會生下約翰·康納
+We know that your son will be John Connor,
+
+320
+00:29:48,420 --> 00:29:50,946
+沒有他  人類將無法戰勝機器
+and that the machines cannot be defeated without him.
+
+321
+00:29:51,060 --> 00:29:52,300
+你沒有其他選擇
+I do not see a choice.
+
+322
+00:29:52,540 --> 00:29:53,666
+全都設定好了
+Story of my life.
+
+323
+00:29:53,780 --> 00:29:54,861
+孩子不是說生就生
+Look, and it's not just mating.
+
+324
+00:29:54,940 --> 00:29:56,704
+總得先跟他產生愛情吧
+I'm supposed to fall in love with him.
+
+325
+00:29:56,820 --> 00:29:58,709
+我的數據沒有記錄愛情
+My files do not deal with love.
+
+326
+00:29:58,860 --> 00:30:00,510
+我好驚訝呀
+Shocker there.
+
+327
+00:30:00,740 --> 00:30:01,980
+你有些情緒化
+You're being emotional.
+
+328
+00:30:02,140 --> 00:30:04,427
+這是我的人生  我不介意
+This is my life. I wouldn't mind
+
+329
+00:30:04,500 --> 00:30:07,663
+偶爾找人討論一下我該往哪個方向發展
+being consulted once in a while about how it's gonna go.
+
+330
+00:30:16,824 --> 00:30:20,130
+生日快樂
+Happy birthday to you.
+
+331
+00:30:20,180 --> 00:30:21,300
+{\an8}創世紀
+
+332
+00:30:21,340 --> 00:30:23,820
+要記住  創世紀就是天網
+Remember, Genisys is Skynet.
+
+333
+00:30:24,260 --> 00:30:27,184
+<i>創世紀一旦上線  審判日就會到來</i>
+<i>When Genisys comes online, Judgment Day begins.</i>
+
+334
+00:30:27,620 --> 00:30:30,226
+<i>去2017年的舊金山</i>
+<i>Go to San Francisco, 2017.</i>
+
+335
+00:30:30,980 --> 00:30:32,903
+你能在天網誕生前消滅它
+You can kill Skynet before it's born.
+
+336
+00:30:42,540 --> 00:30:43,621
+嘿
+Hey!
+
+337
+00:30:45,580 --> 00:30:47,708
+你現在就跟我解釋一下
+I need answers, all right. Right now.
+
+338
+00:30:48,460 --> 00:30:51,191
+那個液態金屬的東西怎麼知道我在那兒  啊
+How'd that liquid metal thing know where to intercept me? Huh?
+
+339
+00:30:51,860 --> 00:30:53,350
+它從哪兒來的
+Where'd it come from?
+
+340
+00:30:54,020 --> 00:30:54,987
+這傢伙到底是誰
+And who the hell is this skin job?
+
+341
+00:30:55,060 --> 00:30:56,391
+這究竟是怎麼回事
+What the hell is going on?
+
+342
+00:30:56,540 --> 00:30:59,669
+對不起  我們本來還在忙著討論那件生死攸關的事
+Sorry, we were a little busy with the whole life-and-death combat thing.
+
+343
+00:30:59,780 --> 00:31:01,987
+然後你就沖老爹開槍
+And then you attacked Pops.
+
+344
+00:31:02,380 --> 00:31:03,506
+你叫它老爹
+You named it?
+
+345
+00:31:04,060 --> 00:31:05,107
+你好  凱爾·瑞斯
+Hello, Kyle Reese.
+
+346
+00:31:07,260 --> 00:31:09,228
+我很高興認識你
+It is nice to meet you.
+
+347
+00:31:11,900 --> 00:31:13,026
+你耍我嗎
+Are you kidding me?
+
+348
+00:31:13,380 --> 00:31:15,542
+我一直在教他怎麼像個正常人
+I've been trying to teach him to blend in.
+
+349
+00:31:17,140 --> 00:31:18,744
+他還需要努力
+I know it needs work.
+
+350
+00:31:19,060 --> 00:31:22,507
+它是個終結者  它之所以跟人類一樣  就是因為它要殺人
+It's a terminator! The only reason it blends in is to kill humans.
+
+351
+00:31:22,620 --> 00:31:24,270
+老爹不會殺人的
+Pops doesn't kill anyone.
+
+352
+00:31:25,300 --> 00:31:26,870
+倒是打斷了不少人的腿
+A lot of leg wounds, though.
+
+353
+00:31:27,220 --> 00:31:28,551
+它看著挺老
+It looks old.
+
+354
+00:31:29,660 --> 00:31:31,389
+我不知道終結者也會變老
+I've never seen a terminator old before.
+
+355
+00:31:31,500 --> 00:31:33,309
+他身上的那層皮
+The flesh they put on the cyborgs
+
+356
+00:31:33,380 --> 00:31:34,950
+用的就是普通的人體組織
+is normal human tissue.
+
+357
+00:31:35,100 --> 00:31:36,261
+當然會變老
+It ages.
+
+358
+00:31:36,420 --> 00:31:39,344
+我的聽覺電路目前還沒有出現故障
+My auditory circuits have not degraded, however.
+
+359
+00:31:39,460 --> 00:31:40,746
+我是老了
+I'm old.
+
+360
+00:31:41,740 --> 00:31:43,185
+但不是沒用
+Not obsolete.
+
+361
+00:31:43,780 --> 00:31:44,980
+你也許讓他傷心了
+I think you hurt his feelings.
+
+362
+00:31:45,100 --> 00:31:46,590
+它不可能有感情
+It doesn't have feelings!
+
+363
+00:31:47,460 --> 00:31:49,508
+他在我9歲的時候救了我
+He saved my life when I was nine.
+
+364
+00:31:49,580 --> 00:31:51,582
+沒有他  我不可能活到現在
+He's the only reason I'm alive.
+
+365
+00:31:51,780 --> 00:31:54,460
+我的程序設定是保護莎拉·康納
+I was programmed to protect Sarah Connor.
+
+366
+00:31:54,560 --> 00:31:56,100
+我會一直保護她
+I will not stop.
+
+367
+00:31:56,700 --> 00:31:58,907
+是誰給你設定的  啊  誰送他回來的
+Yeah? Programmed by who? Huh? Who sent him back?
+
+368
+00:31:59,020 --> 00:32:00,624
+這些數據被刪除了
+Those files have been erased.
+
+369
+00:32:00,740 --> 00:32:01,821
+噢  好借口啊
+Oh, that's convenient.
+
+370
+00:32:01,940 --> 00:32:03,544
+那人不想讓我們知道他
+Whoever sent him, they don't want us to know.
+
+371
+00:32:03,660 --> 00:32:05,469
+不管是我  是他  還是其他人
+Not me, not him, not anyone.
+
+372
+00:32:05,620 --> 00:32:07,622
+這樣天網就沒法設定救我的那個人了
+So Skynet can't target the person who saved me.
+
+373
+00:32:07,740 --> 00:32:10,664
+從邏輯上看  有人想讓莎拉·康納活下去
+Logically, it is someone who wants Sarah Connor to live.
+
+374
+00:32:11,900 --> 00:32:13,400
+{\an8}液態金屬
+
+375
+00:32:23,780 --> 00:32:24,906
+老了
+Old.
+
+376
+00:32:25,300 --> 00:32:26,745
+但不是沒用
+Not obsolete.
+
+377
+00:32:30,300 --> 00:32:32,428
+T-1000已經知道我們在哪兒了
+The T-1000 knows where we are.
+
+378
+00:32:32,900 --> 00:32:34,584
+你可別拖後腿
+Make yourself useful.
+
+379
+00:32:35,980 --> 00:32:37,470
+而且不許對老爹開槍
+And don't shoot Pops.
+
+380
+00:33:04,820 --> 00:33:06,185
+太瘋狂了
+This is insane.
+
+381
+00:33:06,740 --> 00:33:08,310
+這一切不是我的任務
+All of it. This is not the mission.
+
+382
+00:33:08,420 --> 00:33:11,230
+我想跟你說的是  瑞斯
+That's what I'm trying to tell you, Reese.
+
+383
+00:33:11,340 --> 00:33:14,867
+那個你回來要保護的女孩兒  已經不在了
+The girl that you came back for, she's gone.
+
+384
+00:33:16,300 --> 00:33:18,223
+我不需要別人保護
+I don't need saving.
+
+385
+00:33:18,980 --> 00:33:20,266
+現在有新任務
+There's a new mission.
+
+386
+00:33:20,340 --> 00:33:21,546
+什麼任務
+Oh, yeah? Which is?
+
+387
+00:33:23,140 --> 00:33:26,542
+如果過去可以改變  那麼未來也一樣
+If the past can change, then so can the future.
+
+388
+00:33:26,900 --> 00:33:31,030
+我們完全可以阻止宣判日的到來  永遠
+We can stop Judgment Day from happening. Ever.
+
+389
+00:33:32,980 --> 00:33:35,347
+在天網誕生前消滅它
+Kill Skynet before it's born.
+
+390
+00:33:35,980 --> 00:33:37,266
+什麼
+What?
+
+391
+00:33:41,620 --> 00:33:42,746
+趴下
+Get down!
+
+392
+00:33:42,820 --> 00:33:43,946
+我們被發現了
+We have been reacquired.
+
+393
+00:33:44,020 --> 00:33:45,226
+怎麼可能  見鬼
+Uh, yeah. No shit!
+
+394
+00:34:11,220 --> 00:34:12,460
+後退
+Get back!
+
+395
+00:35:01,100 --> 00:35:02,380
+為什麼停車啦
+Wait, why are we stopping?
+
+396
+00:35:02,900 --> 00:35:06,302
+等一下  嘿  我們待在這兒  會被它找到的
+Why are we... Hey! We can't stay here, it'll find us.
+
+397
+00:35:06,420 --> 00:35:08,149
+正合我意  老爹  打開門
+That's the idea. Pops, get it open.
+
+398
+00:35:10,580 --> 00:35:11,627
+搭把手
+Give me a hand?
+
+399
+00:35:18,940 --> 00:35:20,465
+你說過去的變化改變了你
+You said it happened 'cause the past was altered.
+
+400
+00:35:20,540 --> 00:35:21,541
+怎麼回事兒
+How?
+
+401
+00:35:21,620 --> 00:35:22,860
+這很重要嗎
+Oh, does that matter?
+
+402
+00:35:23,260 --> 00:35:24,705
+跟我說說  莎拉
+How, Sarah?
+
+403
+00:35:26,020 --> 00:35:29,183
+有個終結者回到了我小的時候
+A terminator was sent after me when I was a kid, okay?
+
+404
+00:35:30,020 --> 00:35:32,864
+終結者只來自一個地方  未來
+Terminators only come from one place, the future.
+
+405
+00:35:39,420 --> 00:35:40,945
+但未來改變了
+Something happened.
+
+406
+00:35:41,220 --> 00:35:42,506
+是啊  所以呢
+Okay. So?
+
+407
+00:35:42,900 --> 00:35:44,500
+- 我可能看到了  - 什麼
+- I think I might have seen it. - What...
+
+408
+00:35:44,900 --> 00:35:46,504
+你這話什麼意思
+What are you talking about?
+
+409
+00:35:48,900 --> 00:35:50,948
+約翰送我來的時候被襲擊了
+When John sent me back, he was attacked.
+
+410
+00:35:51,900 --> 00:35:53,709
+應該是  一個終結者
+By a terminator.
+
+411
+00:35:53,820 --> 00:35:56,187
+終結者殺了他  約翰死了
+Did it kill him? Is John dead?
+
+412
+00:35:57,940 --> 00:35:59,180
+我不知道
+I don't know.
+
+413
+00:36:00,100 --> 00:36:02,182
+我只看到終結者在襲擊他
+I saw it grab him, and then I was gone.
+
+414
+00:36:03,420 --> 00:36:05,502
+我們大約還有35秒鐘
+We have approximately 35 seconds.
+
+415
+00:36:07,580 --> 00:36:08,627
+或者更短
+Or less.
+
+416
+00:36:21,940 --> 00:36:23,749
+莎拉  快走
+Sarah, go!
+
+417
+00:36:44,680 --> 00:36:46,260
+{\an8}系統初始化
+
+418
+00:38:20,820 --> 00:38:23,141
+我還自願參加這鬼任務
+And I volunteered for this shit.
+
+419
+00:39:22,460 --> 00:39:23,541
+莎拉
+Sarah?
+
+420
+00:39:24,420 --> 00:39:25,706
+幫我一下
+You got to help me.
+
+421
+00:39:26,100 --> 00:39:27,226
+我受傷了
+I'm hurt.
+
+422
+00:39:27,660 --> 00:39:28,707
+莎拉
+Sarah?
+
+423
+00:39:31,420 --> 00:39:32,751
+見鬼
+Shit.
+
+424
+00:39:37,020 --> 00:39:38,909
+嘿  是我  莎拉
+Hey, it's me, Sarah!
+
+425
+00:39:39,260 --> 00:39:40,625
+莎拉  他在說謊
+Sarah, he's lying.
+
+426
+00:39:41,180 --> 00:39:42,181
+嘿
+Hey.
+
+427
+00:39:42,780 --> 00:39:44,191
+他是假的  我才是瑞斯
+He's the machine. I'm Reese.
+
+428
+00:39:44,340 --> 00:39:45,626
+莎拉
+It's me, Sarah.
+
+429
+00:39:46,660 --> 00:39:48,628
+你聽我說  終結者沒死  它襲擊了我
+All right, listen, the terminator's not dead. It attacked me!
+
+430
+00:39:48,740 --> 00:39:50,230
+他能模仿我
+Sarah, you said they could mimic.
+
+431
+00:39:50,380 --> 00:39:51,427
+是我  莎拉
+It's me, Sarah!
+
+432
+00:39:51,500 --> 00:39:54,470
+- 他是假的  開槍  - 我才是瑞斯  衝他開槍
+- He's mimicking. Shoot him! - I'm Reese! Shoot him!
+
+433
+00:40:02,140 --> 00:40:03,744
+這招不錯
+Nice try.
+
+434
+00:40:04,100 --> 00:40:05,101
+快跑
+Run!
+
+435
+00:41:06,100 --> 00:41:07,943
+你怎麼知道他是終結者
+How'd you know which one was him?
+
+436
+00:41:08,300 --> 00:41:10,667
+這個  其實我不知道
+Well, I didn't know exactly.
+
+437
+00:41:11,020 --> 00:41:12,545
+萬一你打到我呢
+You could have shot me!
+
+438
+00:41:12,860 --> 00:41:15,340
+可是至少我確定不是你
+Well, I was pretty sure it wasn't you.
+
+439
+00:41:16,700 --> 00:41:17,986
+你真確定
+Pretty sure?
+
+440
+00:41:18,380 --> 00:41:20,951
+我們早已經為你的到來做好準備了
+We've been prepping for you to arrive for over a decade.
+
+441
+00:41:21,060 --> 00:41:22,346
+還有它
+That, too.
+
+442
+00:41:23,140 --> 00:41:25,347
+- 所以這是個陷阱  - 當然了
+- So you set a trap. - Had to.
+
+443
+00:41:25,940 --> 00:41:28,227
+我們去之前還真用得上它
+Can't leave any future tech behind when we go.
+
+444
+00:41:28,540 --> 00:41:29,666
+什麼
+Go?
+
+445
+00:41:30,380 --> 00:41:31,666
+去哪兒
+Go where?
+
+446
+00:41:34,220 --> 00:41:35,870
+噢  這不是
+That's...
+
+447
+00:41:36,180 --> 00:41:37,864
+一台時空轉換機
+A Time Displacement Device.
+
+448
+00:41:37,980 --> 00:41:40,187
+是啊  怎麼看著像是一堆破爛兒
+Yeah, well, it looks like a piece of junk.
+
+449
+00:41:40,300 --> 00:41:42,020
+這個時代擁有的科技
+There's no governing technology in this time
+
+450
+00:41:42,100 --> 00:41:44,262
+沒有辦法操控這台機器
+that can control the displacement circuits.
+
+451
+00:41:44,380 --> 00:41:47,543
+你得用未來的中央處理器才能操控它
+You needed the CPU from the future to make it run.
+
+452
+00:41:48,380 --> 00:41:50,144
+而且顯然你不能用自己的
+And you couldn't exactly use your own.
+
+453
+00:41:52,300 --> 00:41:54,380
+我們只有一次機會  芯片會燒燬
+We get one trip only. It's gonna fry the chip,
+
+454
+00:41:54,460 --> 00:41:56,508
+而且整個洛杉磯的電力會耗光
+and take out most of the L.A. city power grid.
+
+455
+00:41:57,300 --> 00:41:58,381
+好了嗎
+Are we ready?
+
+456
+00:41:58,500 --> 00:42:00,502
+坐標已經設定為1997年
+The coordinates are set for 1997.
+
+457
+00:42:00,780 --> 00:42:02,589
+你要快點兒登上傳輸台
+You must leave as soon as possible.
+
+458
+00:42:02,900 --> 00:42:05,870
+我們  是你和我  一起去
+We. We're going. All of us.
+
+459
+00:42:07,740 --> 00:42:09,708
+我表皮的恢復需要很多年
+My flesh will take years to regrow.
+
+460
+00:42:10,020 --> 00:42:11,226
+我不能跟你去
+I cannot come with you
+
+461
+00:42:11,380 --> 00:42:13,020
+我得考慮到量子場的磁場效應
+due to the magnetics of the quantum field.
+
+462
+00:42:13,060 --> 00:42:14,061
+老爹
+Pops!
+
+463
+00:42:14,140 --> 00:42:16,029
+你想讓我們穿越時間
+You want us to time travel?
+
+464
+00:42:16,140 --> 00:42:19,030
+去未來  用這玩意兒
+Into the future. In that?
+
+465
+00:42:19,140 --> 00:42:20,426
+對  我們還不能穿衣服
+Yeah, we can't be wearing anything.
+
+466
+00:42:20,540 --> 00:42:22,110
+我知道穿越時間有什麼要求
+Yeah, I know how time travel works.
+
+467
+00:42:22,260 --> 00:42:24,260
+- 莎拉  - 你別想阻止我幹這件事
+- Sarah... - Look, don't try and talk me out of it.
+
+468
+00:42:24,340 --> 00:42:27,230
+我知道你怎麼想的  把我關在一間屋子裏
+Look, I know you think you're here so you can just lock me in a room
+
+469
+00:42:27,340 --> 00:42:28,705
+然後等我生下那個反叛軍首領
+until I give birth to the leader of the Resistance.
+
+470
+00:42:28,780 --> 00:42:29,781
+說得沒錯
+You're right.
+
+471
+00:42:29,900 --> 00:42:32,904
+但是  這才是能夠打敗天網的最佳辦法
+But this... This is the only way to stop Skynet for good.
+
+472
+00:42:33,060 --> 00:42:34,186
+我贊同你的想法
+I already said you're right.
+
+473
+00:42:35,100 --> 00:42:36,431
+你說什麼
+Wait, what?
+
+474
+00:42:36,780 --> 00:42:38,384
+但不是97年
+Not to '97.
+
+475
+00:42:39,100 --> 00:42:40,750
+是2017年
+2017.
+
+476
+00:42:41,380 --> 00:42:43,348
+應該是2017年10月
+Yeah, October 2017.
+
+477
+00:42:43,460 --> 00:42:45,986
+不  太晚了  那已經是宣判日之後了
+No, that's too late. That's after Judgment Day.
+
+478
+00:42:46,140 --> 00:42:47,266
+你不是說一切都變了嗎
+No, you said everything's changed,
+
+479
+00:42:47,340 --> 00:42:48,387
+這你也是對的
+and you're right about that, too.
+
+480
+00:42:48,540 --> 00:42:49,621
+莎拉
+Sarah...
+
+481
+00:42:52,780 --> 00:42:55,863
+我看到了另一個沒有發生戰爭的未來
+Look, I've seen a world where the bombs never fell.
+
+482
+00:42:56,300 --> 00:42:58,109
+一樣的房子
+All right? The same house.
+
+483
+00:42:58,540 --> 00:43:00,144
+一樣的家人
+The same parents.
+
+484
+00:43:01,820 --> 00:43:04,107
+一樣的我  不一樣的是
+It was the same me, only I was...
+
+485
+00:43:06,300 --> 00:43:07,665
+我在家裏
+I was home.
+
+486
+00:43:08,140 --> 00:43:10,188
+那是我13歲的生日
+It was my 13th birthday.
+
+487
+00:43:10,300 --> 00:43:13,986
+在夢中看到你的家人還在  這什麼也說明不了
+A dream of having your family back doesn't mean a thing.
+
+488
+00:43:15,140 --> 00:43:16,141
+相信我
+Trust me.
+
+489
+00:43:16,500 --> 00:43:18,502
+這不是夢  這  這是段記憶
+Not a dream, all right? A memory.
+
+490
+00:43:19,140 --> 00:43:21,029
+我現在只能記住一些片段
+I can't hold on to all of it, just moments,
+
+491
+00:43:21,100 --> 00:43:23,148
+我收到了一條信息
+but I was given a message.
+
+492
+00:43:25,500 --> 00:43:27,628
+你能在天網誕生前消滅它
+"You can kill Skynet before it's born."
+
+493
+00:43:28,820 --> 00:43:31,300
+天網就是創世紀
+"Skynet is Genisys."
+
+494
+00:43:31,820 --> 00:43:34,141
+天網在2017年10月正式上線
+It comes online October 2017.
+
+495
+00:43:34,500 --> 00:43:36,901
+它一旦上線  審判日就會到來
+And when it does, Judgment Day happens.
+
+496
+00:43:37,020 --> 00:43:38,146
+你是在回憶未來嗎
+So you're remembering the future?
+
+497
+00:43:38,260 --> 00:43:39,307
+不
+No.
+
+498
+00:43:39,740 --> 00:43:42,311
+那是另一條平行時間線上的你
+The boy is the alternate timeline version of you.
+
+499
+00:43:42,980 --> 00:43:45,301
+他是在回憶自己的過去
+Kyle Reese is remembering his own past,
+
+500
+00:43:45,420 --> 00:43:46,990
+也就是我們的未來
+which is our future.
+
+501
+00:43:47,260 --> 00:43:48,989
+你這解釋也太難懂了
+That makes it so much better.
+
+502
+00:43:49,100 --> 00:43:50,943
+他怎麼可能有兩條時間線的回憶
+How can he be remembering two timelines?
+
+503
+00:43:51,180 --> 00:43:53,501
+如果你剛好在量子場裏接觸到
+It is possible if he were exposed to a nexus point
+
+504
+00:43:53,660 --> 00:43:56,231
+時間流中的某個連接點  就有可能
+in the timeflow when you were in the quantum field.
+
+505
+00:43:56,540 --> 00:43:58,269
+你  你能讓他說得通俗點兒嗎
+Can you stop him talking like that?
+
+506
+00:43:58,380 --> 00:43:59,825
+他身上有設置嗎
+Is there a switch or something?
+
+507
+00:43:59,940 --> 00:44:01,226
+再說一次吧
+Pops, try again.
+
+508
+00:44:01,380 --> 00:44:04,145
+連接點是在某個重要時刻發生的事件
+A nexus point is an event in time of such importance
+
+509
+00:44:04,300 --> 00:44:06,871
+它能夠徹底改變整個未來的走向
+that it gives rise to a vastly different future.
+
+510
+00:44:07,380 --> 00:44:09,348
+約翰被襲擊後  我在磁場中時
+After John was attacked, when I was in the sphere,
+
+511
+00:44:09,500 --> 00:44:10,740
+那些記憶就出現了
+that's when the memories began.
+
+512
+00:44:12,460 --> 00:44:13,461
+約翰
+John!
+
+513
+00:44:14,220 --> 00:44:16,348
+如果約翰·康納被殺或者叛變
+If John Connor were to be killed or compromised,
+
+514
+00:44:16,460 --> 00:44:20,067
+有可能使你同時擁有不同時間線的記憶
+it could result in the ability to remember both pasts.
+
+515
+00:44:21,980 --> 00:44:23,345
+理論上是
+Theoretically.
+
+516
+00:44:23,980 --> 00:44:25,789
+或者  理論上是
+Or "theoretically"
+
+517
+00:44:25,860 --> 00:44:28,101
+給他的那一拳  把他腦子打壞了
+his brain is scrambled from when you hit him on the head.
+
+518
+00:44:28,220 --> 00:44:29,346
+莎拉
+Sarah!
+
+519
+00:44:29,460 --> 00:44:33,590
+我不知道  為什麼我會有一段不屬於我的回憶
+I don't know why I'm remembering a life I never lived.
+
+520
+00:44:36,380 --> 00:44:37,870
+但我知道那是真實的
+But I know it's real.
+
+521
+00:44:40,660 --> 00:44:42,230
+不
+No.
+
+522
+00:44:42,340 --> 00:44:44,263
+我們還是去1997年
+We go to 1997.
+
+523
+00:44:49,660 --> 00:44:51,742
+把它放回去  瑞斯
+Reese, put that back!
+
+524
+00:44:51,900 --> 00:44:53,265
+我不能讓你這麼做
+I can't let you do this.
+
+525
+00:44:59,020 --> 00:45:00,590
+不管你怎麼想
+I don't know you.
+
+526
+00:45:01,860 --> 00:45:04,101
+要知道  這個  是我唯一能夠
+But that is my one bullet
+
+527
+00:45:04,180 --> 00:45:06,786
+徹底摧毀天網的武器
+to fire at the heart of Skynet.
+
+528
+00:45:08,020 --> 00:45:10,944
+你給我  把芯片  放回去
+Give the chip back.
+
+529
+00:45:21,820 --> 00:45:23,424
+你必須相信我
+You have to trust me.
+
+530
+00:45:23,540 --> 00:45:25,861
+不  我不會的
+No. I don't.
+
+531
+00:45:34,700 --> 00:45:36,304
+你可以做到的
+You can do this.
+
+532
+00:45:39,140 --> 00:45:40,744
+沿著一條直線
+A straight line.
+
+533
+00:45:42,060 --> 00:45:44,825
+你只要一直向前  不要回頭
+You just go, and you don't look back.
+
+534
+00:45:51,300 --> 00:45:52,950
+你從哪兒知道的
+Where did you hear that?
+
+535
+00:45:53,900 --> 00:45:56,301
+在一段我本不該記住的回憶裏
+In a past I shouldn't remember.
+
+536
+00:45:58,580 --> 00:45:59,820
+但我記住了
+But I do.
+
+537
+00:46:09,140 --> 00:46:11,029
+如果我們去2017年呢
+If we go to 2017, then what?
+
+538
+00:46:11,180 --> 00:46:12,306
+天網是個電腦程序
+Skynet's a computer program.
+
+539
+00:46:12,420 --> 00:46:15,151
+只要編寫還沒有完成  就能控制它
+As long as it's still being coded, it's contained.
+
+540
+00:46:15,260 --> 00:46:17,501
+一旦它從服務器上傳了
+Once it's uploaded from the servers,
+
+541
+00:46:18,780 --> 00:46:20,066
+那我們就輸了
+it can't be stopped.
+
+542
+00:46:22,500 --> 00:46:23,831
+那我們就炸碎它
+We blow it the hell up.
+
+543
+00:46:24,940 --> 00:46:27,864
+沒錯  我們炸碎它
+Yeah. We blow it the hell up.
+
+544
+00:46:33,300 --> 00:46:35,302
+你認為約翰死了嗎
+You think he's dead, don't you?
+
+545
+00:46:35,900 --> 00:46:37,425
+我怎麼想並不重要
+It doesn't matter what I think.
+
+546
+00:46:37,580 --> 00:46:39,628
+關鍵要像他一樣堅持下去
+We do what John would, keep going no matter what.
+
+547
+00:46:39,740 --> 00:46:41,380
+那我們就假裝那件事沒發生
+So we just pretend like it never happened?
+
+548
+00:46:41,460 --> 00:46:42,461
+至少現在
+Well, it hasn't.
+
+549
+00:46:43,500 --> 00:46:44,786
+還沒發生
+Not yet.
+
+550
+00:46:45,300 --> 00:46:47,462
+如果我們消滅天網  就不會
+If we stop Skynet, it never will.
+
+551
+00:46:49,980 --> 00:46:53,507
+相信我  不管怎樣  約翰是不會死的
+Trust me, all right? If anyone could survive, John would.
+
+552
+00:46:53,900 --> 00:46:57,825
+老爹的數據記載中都是那個軍事領袖約翰  你說他
+Pops had all these files about John the military leader, but...
+
+553
+00:47:01,100 --> 00:47:02,670
+是什麼樣的人
+What was he like?
+
+554
+00:47:05,940 --> 00:47:07,305
+我第一次見到他
+The first moment I saw John,
+
+555
+00:47:07,380 --> 00:47:09,462
+他就在我眼前幹掉了一台終結者
+he shot a terminator right in front of me.
+
+556
+00:47:11,180 --> 00:47:13,023
+原來它們也能被殺死
+I didn't even know they could be killed.
+
+557
+00:47:14,340 --> 00:47:16,991
+那是我人生中第一次有了希望
+That was the first moment in my life I felt hope.
+
+558
+00:47:19,700 --> 00:47:21,225
+從那以後
+After that, of course,
+
+559
+00:47:21,300 --> 00:47:23,826
+我就像條流浪狗一樣緊緊地跟著他
+I followed him around like a stray dog.
+
+560
+00:47:23,940 --> 00:47:26,386
+他教我怎麼打仗  怎麼開槍
+And he taught me how to fight, how to shoot.
+
+561
+00:47:26,780 --> 00:47:28,270
+他甚至教我怎麼釀造威士忌
+Tried to show me how to make moonshine once,
+
+562
+00:47:28,420 --> 00:47:30,388
+可卻沒有成功
+but that didn't exactly work out.
+
+563
+00:47:30,780 --> 00:47:32,020
+釀造威士忌
+Moonshine?
+
+564
+00:47:32,180 --> 00:47:33,545
+沒錯  蒸餾室還爆炸了
+Yeah. The still exploded,
+
+565
+00:47:33,620 --> 00:47:36,226
+把我倆的眉毛都燒沒了
+and we burned our eyebrows right off.
+
+566
+00:47:36,780 --> 00:47:38,384
+為此  我們笑了好幾天
+Oh, man, we laughed for days.
+
+567
+00:47:45,700 --> 00:47:47,543
+有時候我想  也許我是唯一見過
+Sometimes I think I'm the only person on the planet
+
+568
+00:47:47,660 --> 00:47:49,901
+約翰·康納笑的人
+that ever saw John Connor smile.
+
+569
+00:47:54,980 --> 00:47:56,903
+他經常談起你
+He used to tell me about you.
+
+570
+00:47:58,300 --> 00:48:01,383
+說你很堅強  你讓他為那個沒人相信的
+How strong you were, and how you prepared him for what was coming
+
+571
+00:48:01,980 --> 00:48:04,028
+危險的未來做好準備
+when no one thought the danger was real.
+
+572
+00:48:07,900 --> 00:48:09,868
+他說沒人比得上你
+How there was no one else like you,
+
+573
+00:48:11,340 --> 00:48:12,865
+以後也不會
+and never would be.
+
+574
+00:48:30,260 --> 00:48:31,591
+不說他了
+Look, uh...
+
+575
+00:48:34,420 --> 00:48:36,582
+我知道你不喜歡我這樣
+I know I'm not what you expected.
+
+576
+00:48:40,620 --> 00:48:42,224
+但我想讓你知道
+But I want you to know,
+
+577
+00:48:43,540 --> 00:48:45,941
+只要你能安全  我願付出所有
+I will do whatever it takes to keep you safe.
+
+578
+00:48:50,540 --> 00:48:52,065
+甚至我的生命
+Even if it kills me.
+
+579
+00:48:55,020 --> 00:48:59,423
+總之  你兒子曾是那樣的一個人
+Anyway, that's the kind of man your son was.
+
+580
+00:49:00,060 --> 00:49:01,346
+他是
+Is.
+
+581
+00:49:01,460 --> 00:49:02,905
+他是  噢  天吶
+Will be. Jesus.
+
+582
+00:49:04,460 --> 00:49:06,428
+穿越時間把我腦子都弄壞了
+Time travel makes my head hurt.
+
+583
+00:49:07,060 --> 00:49:09,984
+平行時間線並不是很複雜
+Alternate timelines are not complicated.
+
+584
+00:49:10,100 --> 00:49:12,831
+只需要使用指數增長規律
+It's merely a matter of tracking possible futures
+
+585
+00:49:12,940 --> 00:49:15,944
+和衰退演算法則  計算未來的可能性
+using an exponential growth and decay algorithm.
+
+586
+00:49:16,020 --> 00:49:17,021
+沒錯
+Right.
+
+587
+00:49:18,820 --> 00:49:21,505
+你肯定有個設置  我會找到它
+There is a switch, and I will find it.
+
+588
+00:49:24,300 --> 00:49:26,109
+我表示不能理解
+I do not understand.
+
+589
+00:49:26,740 --> 00:49:29,141
+為什麼你不告訴凱爾·瑞斯真相
+Why did you not tell Kyle Reese the truth?
+
+590
+00:49:29,820 --> 00:49:32,630
+我會告訴他  但不是現在  行嗎
+I will tell him. Just not yet, okay?
+
+591
+00:49:34,500 --> 00:49:35,990
+- 你們交配啦  - 噢
+- Did you mate? - Oh!
+
+592
+00:49:36,100 --> 00:49:40,105
+我說你能不能別再跟我說交配這個詞了  行嗎
+Can you just not say the word "mate" to me again, like, ever?
+
+593
+00:49:50,060 --> 00:49:52,347
+這是一個沒有意義的動作
+That is a meaningless gesture.
+
+594
+00:49:52,500 --> 00:49:55,310
+既然知道要分別  為什麼還要擁抱
+Why hold on to someone when you know you must let them go?
+
+595
+00:49:59,580 --> 00:50:01,184
+那你呢
+What about you?
+
+596
+00:50:02,460 --> 00:50:03,791
+你會怎麼做
+What will you do?
+
+597
+00:50:04,300 --> 00:50:05,711
+保持等待
+Take the long way.
+
+598
+00:50:06,060 --> 00:50:08,870
+在2017年準備迎接你的到來
+Prepare for your arrival in 2017.
+
+599
+00:50:11,820 --> 00:50:14,869
+凱爾·瑞斯  我的數據表明
+Kyle Reese, I've seen little to indicate
+
+600
+00:50:14,980 --> 00:50:17,028
+你無法勝任保護莎拉·康納的職責
+that you're a fit guardian for Sarah Connor.
+
+601
+00:50:17,180 --> 00:50:18,670
+你不是她親爹  對嗎
+You know you're not her dad, right?
+
+602
+00:50:18,780 --> 00:50:21,386
+噢  我求求你們別再吵了
+Oh, you both just really need to stop this.
+
+603
+00:50:25,900 --> 00:50:27,868
+確保那時候接到我們
+Just make sure you show up.
+
+604
+00:50:28,020 --> 00:50:30,227
+我可不想再去搶別人的褲子了
+I don't want to have to steal someone's pants again.
+
+605
+00:50:30,380 --> 00:50:32,542
+我有舊金山的具體坐標
+I have the coordinates in San Francisco.
+
+606
+00:50:34,740 --> 00:50:36,071
+我會在那兒的
+I'll be there.
+
+607
+00:50:45,260 --> 00:50:47,069
+那是什麼感覺
+What will it be like?
+
+608
+00:50:48,100 --> 00:50:50,387
+如果這機器沒把我們弄死
+You mean if it doesn't kill us both?
+
+609
+00:50:53,460 --> 00:50:54,746
+有點疼
+It'll hurt.
+
+610
+00:51:46,100 --> 00:51:48,100
+{\an8}創世紀  上線倒計時  1天11小時19分
+
+611
+00:51:48,720 --> 00:51:51,720
+{\an8}舊金山  2017年
+
+612
+00:52:21,180 --> 00:52:22,750
+沒事吧
+Hey, hey, hey.
+
+613
+00:52:22,860 --> 00:52:24,669
+好了  沒事了
+It's okay. I got you.
+
+614
+00:52:25,220 --> 00:52:28,827
+沒事了  沒事了  放心吧  沒事了
+It's okay. It's okay. It's all right. I got you.
+
+615
+00:52:29,540 --> 00:52:31,668
+放心  沒事了
+I got you. It's okay.
+
+616
+00:52:32,060 --> 00:52:33,266
+放心
+I got you.
+
+617
+00:52:55,780 --> 00:52:58,545
+嘿  混蛋  把路讓開
+Hey, asshole! Get off the road!
+
+618
+00:52:55,780 --> 00:52:58,545
+{\an8}確認  莎拉·康納  凱爾·瑞斯
+
+619
+00:52:59,220 --> 00:53:00,551
+你撞吧
+Bite me.
+
+620
+00:53:06,540 --> 00:53:08,508
+我就說不能相信他
+I told you we couldn't trust him.
+
+621
+00:53:09,300 --> 00:53:12,383
+他會找到我們  我相信他
+He'll find us. I can count on him.
+
+622
+00:53:13,620 --> 00:53:15,668
+你是怎麼能讓他那麼聽話的
+How does a 9-year-old get her own terminator?
+
+623
+00:53:18,140 --> 00:53:20,188
+沒關係  不想說就算了
+It's okay. You don't have to tell me.
+
+624
+00:53:25,820 --> 00:53:27,902
+那還是在1973年
+It was back in 1973.
+
+625
+00:53:28,620 --> 00:53:32,022
+我父母在大熊湖有一個小木屋
+My parents had a cabin at Big Bear Lake.
+
+626
+00:53:32,380 --> 00:53:34,860
+我總是跟爸爸在早上去釣魚
+Dad and I would always go fishing in the morning.
+
+627
+00:53:35,900 --> 00:53:39,029
+一天  媽媽在碼頭衝我們揮手
+Mom would wave to us from the dock.
+
+628
+00:53:39,300 --> 00:53:41,223
+當我正看著她的時候
+And I was just looking at her in the...
+
+629
+00:53:43,660 --> 00:53:46,869
+突然  小木屋爆炸了
+And then the cabin exploded.
+
+630
+00:53:48,420 --> 00:53:50,468
+我以為船就要沉了
+I thought the boat was sinking, you know,
+
+631
+00:53:50,580 --> 00:53:52,503
+但是從下面涌上來的不是水
+but it wasn't water coming up from below,
+
+632
+00:53:52,620 --> 00:53:55,226
+而是  液態金屬
+it was liquid metal.
+
+633
+00:53:55,580 --> 00:53:57,150
+是T-1000
+T-1000.
+
+634
+00:53:57,260 --> 00:54:00,070
+爸爸告訴我  沿著一條直線游
+Dad told me to swim in a straight line,
+
+635
+00:54:03,100 --> 00:54:05,706
+他用他的手指劃過我的掌心
+tracing his finger across my palm.
+
+636
+00:54:06,780 --> 00:54:08,942
+你能做到  他說
+"You can do this," he said.
+
+637
+00:54:10,180 --> 00:54:13,548
+你只要一直向前  不要回頭
+"You go, and you don't look back."
+
+638
+00:54:14,940 --> 00:54:19,070
+那是我爸爸最後對我說過的話
+His last words to me, and you...
+
+639
+00:54:19,180 --> 00:54:20,625
+你竟然知道
+You knew them.
+
+640
+00:54:22,180 --> 00:54:23,261
+為什麼
+How?
+
+641
+00:54:24,780 --> 00:54:26,942
+那是一段奇妙的回憶
+It's an impossible memory. I...
+
+642
+00:54:28,540 --> 00:54:30,304
+我就是記住了你
+I just remembered
+
+643
+00:54:30,700 --> 00:54:35,467
+抓著我的手  然後  說了那些話  而我
+you taking my hand, and then saying those words.
+
+644
+00:54:36,780 --> 00:54:38,782
+我就是那麼看著你  在想
+And I was just looking at you, thinking,
+
+645
+00:54:39,660 --> 00:54:43,221
+她  她  她真漂亮
+"She's... She's beautiful."
+
+646
+00:54:46,420 --> 00:54:48,946
+對不起  我不應該這樣
+Sorry. I shouldn't have...
+
+647
+00:54:52,020 --> 00:54:55,149
+所以你爸爸讓你快走  然後
+So your dad told you to go, and then...
+
+648
+00:54:57,860 --> 00:55:00,511
+<i>我跳進水裏開始游</i>
+<i>And then I jumped in and I swam.</i>
+
+649
+00:55:00,620 --> 00:55:01,860
+<i>我游到了碼頭</i>
+<i>I made it to the dock.</i>
+
+650
+00:55:07,180 --> 00:55:08,830
+<i>我藏在那下面</i>
+<i>And I hid under it.</i>
+
+651
+00:55:10,820 --> 00:55:12,743
+<i>老爹找到了我</i>
+<i>Pops found me.</i>
+
+652
+00:55:12,860 --> 00:55:15,989
+<i>然後他把我從水中拉出來</i>
+<i>And he pulled me from the water.</i>
+
+653
+00:55:17,860 --> 00:55:22,343
+<i>他說他永遠都不會讓任何人傷害我</i>
+<i>And he said that he would never let anyone hurt me.</i>
+
+654
+00:55:24,060 --> 00:55:28,509
+<i>而且他也一直在我身邊保護著我</i>
+<i>He's the only person who has always been there.</i>
+
+655
+00:55:30,380 --> 00:55:32,508
+可他不是人類  明白嗎
+Except he's not a person.
+
+656
+00:55:34,380 --> 00:55:36,701
+他是被設定好的
+All right? He's a human-shaped
+
+657
+00:55:37,780 --> 00:55:40,624
+一個有人類外形的機器  用來贏取你的信任
+thing that's been designed, programmed to gain your trust.
+
+658
+00:55:40,740 --> 00:55:43,471
+如果老爹想讓我死  我活不到現在的
+Look, if Pops wanted me dead, I'd be dead.
+
+659
+00:55:43,580 --> 00:55:45,821
+這就是他們的招數  明白嗎
+This is what they do, all right?
+
+660
+00:55:45,940 --> 00:55:48,022
+他們偽裝  趁機接近你
+They infiltrate, they get close.
+
+661
+00:55:48,580 --> 00:55:52,710
+你老爹  也許已經  被設置了連他自己也不知道的指令
+Your "Pops" could have directives built in he doesn't even know about.
+
+662
+00:55:52,860 --> 00:55:54,624
+那是因為你們沒有相處過
+Just because you two don't get along...
+
+663
+00:55:54,740 --> 00:55:55,900
+這不是我關心的問題
+It's not about getting along!
+
+664
+00:55:55,940 --> 00:55:57,220
+我關心的是你的安全
+This is about keeping you alive.
+
+665
+00:55:57,300 --> 00:56:00,270
+我被一個會殺別的終結者  而且經歷過末日核戰
+Yeah, well, I was raised by a machine to kill cyborgs
+
+666
+00:56:00,380 --> 00:56:02,986
+的機器人撫養長大
+and survive the nuclear apocalypse.
+
+667
+00:56:03,140 --> 00:56:06,701
+我覺得我現在過得很好  謝了
+I think I'm doing just fine, thanks.
+
+668
+00:56:06,820 --> 00:56:08,185
+<i>兩名裸體嫌犯</i>
+<i>Two naked perps</i>
+
+669
+00:56:08,300 --> 00:56:09,950
+試圖在高速公路上自爆
+try to blow themselves up on the freeway,
+
+670
+00:56:10,060 --> 00:56:12,381
+但只弄出了一個小坑
+all they do is make a really big pothole.
+
+671
+00:56:12,500 --> 00:56:14,150
+這樣也敢當恐怖分子
+Thank God for incompetent terrorists.
+
+672
+00:56:14,260 --> 00:56:15,500
+國安部的人馬上到
+Homeland's on their way.
+
+673
+00:56:15,620 --> 00:56:18,066
+好啊  趕緊把這案子轉給他們
+Good. The sooner we dump this on them, the better.
+
+674
+00:56:18,220 --> 00:56:20,746
+噢  是誰告訴奧布萊恩的
+Ah! Who called Optimus Prime?
+
+675
+00:56:22,260 --> 00:56:23,830
+警督  等一下
+Lieutenant! Wait up!
+
+676
+00:56:25,100 --> 00:56:28,149
+等等  你沒看見  真沒看見
+Wait up! Did you see it? Did you?
+
+677
+00:56:28,260 --> 00:56:30,911
+嘿  你看我這兒  我這兒有一些立交橋上的
+Hey, look, I got some frame grabs
+
+678
+00:56:30,980 --> 00:56:32,220
+視頻截圖
+from the overpass.
+
+679
+00:56:33,540 --> 00:56:34,621
+看見沒
+See?
+
+680
+00:56:35,300 --> 00:56:36,381
+那
+It...
+
+681
+00:56:37,460 --> 00:56:39,064
+那不是炸彈
+It's not a bomb!
+
+682
+00:56:41,300 --> 00:56:42,426
+聽我說  那個
+Listen. That...
+
+683
+00:56:43,460 --> 00:56:45,110
+那個球體
+That sphere...
+
+684
+00:56:45,460 --> 00:56:47,269
+他們是從那兒出來的
+They came out of it.
+
+685
+00:56:47,620 --> 00:56:49,270
+這就是我一直說了
+This is proof of what I've been talking about
+
+686
+00:56:49,380 --> 00:56:52,589
+三十幾年的那件事的證據
+for 30-whatever years.
+
+687
+00:56:52,700 --> 00:56:54,782
+他們倆來自1984年
+Those two were in 1984.
+
+688
+00:56:55,420 --> 00:56:56,581
+我見過他們
+They were there.
+
+689
+00:56:57,980 --> 00:56:59,505
+我需要見一下嫌疑犯
+I need to see the suspects.
+
+690
+00:56:59,660 --> 00:57:01,424
+奧布萊恩  你喝多了吧
+O'Brien, have you been drinking?
+
+691
+00:57:02,780 --> 00:57:03,941
+要我說
+That's what I thought.
+
+692
+00:57:04,060 --> 00:57:05,949
+我們要把案子移交給國安部
+Look, we're just teeing this up for Homeland.
+
+693
+00:57:06,100 --> 00:57:08,944
+等他們到了  就由他們接手
+Once they show up, this is their game.
+
+694
+00:57:09,860 --> 00:57:13,421
+你這個執著於機器人的酒鬼當替補吧
+For now, old drunks with robot fixations ride the bench.
+
+695
+00:57:22,820 --> 00:57:24,020
+你確定不用麻醉嗎
+You really don't want a local?
+
+696
+00:57:24,100 --> 00:57:25,226
+我沒事
+I'm fine.
+
+697
+00:57:25,340 --> 00:57:27,149
+照她意思辦  省得麻煩
+Just do what she wants, it's way easier.
+
+698
+00:57:29,660 --> 00:57:32,311
+對  我幾周前就預購了創世紀
+Yeah. Yeah, I preordered Genisys weeks ago.
+
+699
+00:57:32,460 --> 00:57:34,303
+只要一上線  我馬上就能下載
+Downloading the second the counter hits zero.
+
+700
+00:57:34,820 --> 00:57:36,390
+我不用像別人一樣還得排隊
+No way I'm standing in line for it.
+
+701
+00:57:36,500 --> 00:57:37,831
+你知道創世紀
+You know about Genisys?
+
+702
+00:57:37,980 --> 00:57:40,062
+為什麼  那是什麼  你從哪兒聽說的
+How? What is it? Where'd you hear about it?
+
+703
+00:57:40,180 --> 00:57:41,545
+我一會兒打給你
+I'll call you back.
+
+704
+00:57:42,860 --> 00:57:45,466
+創世紀是操作系統嗎  有什麼用
+Genisys is an operating system? What does it do?
+
+705
+00:57:45,640 --> 00:57:46,860
+創世紀它無所不能
+Genisys does everything.
+
+706
+00:57:45,640 --> 00:57:47,640
+{\an8}創世紀  上線倒計時  1天4小時29分鐘
+
+707
+00:57:46,900 --> 00:57:48,823
+我的手機能夠連上我的平板電腦
+My phone will link to my tablet
+
+708
+00:57:48,900 --> 00:57:49,981
+能連上我的電腦
+will link to my computer
+
+709
+00:57:50,140 --> 00:57:51,141
+能連上我的車
+will link to my car...
+
+710
+00:57:51,540 --> 00:57:54,828
+它能夠讓我的生活保持全天24小時在線
+Everything in my life uploaded and online 24/7.
+
+711
+00:57:54,980 --> 00:57:56,141
+變得完全共享
+Totally connected.
+
+712
+00:57:56,820 --> 00:57:58,151
+共享到哪裏
+Connected to what?
+
+713
+00:57:58,700 --> 00:58:00,987
+醫生們  請離開一下
+Doctors! Excuse us, please.
+
+714
+00:58:04,980 --> 00:58:06,345
+你們倆的問題還真多
+You two have a lot to explain.
+
+715
+00:58:06,820 --> 00:58:07,946
+就從你是誰開始
+Starting with who you are.
+
+716
+00:58:08,100 --> 00:58:09,943
+數據庫無法匹配你的指紋
+Nobody in our database matches your prints.
+
+717
+00:58:10,060 --> 00:58:12,188
+面部識別系統也沒有匹配的駕照
+No facial recognition hits for driver's license,
+
+718
+00:58:12,340 --> 00:58:14,342
+護照  社交媒體  信用卡
+passport, social media accounts, credit cards,
+
+719
+00:58:14,500 --> 00:58:16,070
+更別說學生證了
+not even a goddamn student I.D.
+
+720
+00:58:16,180 --> 00:58:18,103
+- 所以  - 所以這是不可能的
+- So? - So that's impossible.
+
+721
+00:58:18,220 --> 00:58:20,746
+你竟然完全脫離網絡生活
+Somehow you've gone so far off the grid
+
+722
+00:58:20,820 --> 00:58:22,106
+就好像你不存在
+that you don't even exist.
+
+723
+00:58:23,020 --> 00:58:24,624
+而你  倒是相反
+You, on the other hand,
+
+724
+00:58:24,700 --> 00:58:26,350
+我們匹配到了你的指紋
+we got a hit when we ran your prints.
+
+725
+00:58:26,740 --> 00:58:29,186
+凱爾·瑞斯  是這樣的
+Kyle Reese. But here's the thing.
+
+726
+00:58:29,340 --> 00:58:31,183
+兩個月前  凱爾·瑞斯
+Two months ago, Kyle Reese was brought in
+
+727
+00:58:31,340 --> 00:58:32,865
+因在一家劇院鬥毆被捕
+for fighting in a multiplex.
+
+728
+00:58:32,980 --> 00:58:34,948
+他父母為了教育他  把他送進監獄
+His parents flipped, did the whole <i>"Scared Straight"</i> thing,
+
+729
+00:58:35,060 --> 00:58:36,550
+所以留下了指紋
+had him fingerprinted, sat him in lockup...
+
+730
+00:58:36,620 --> 00:58:37,621
+他父母
+Parents?
+
+731
+00:58:37,860 --> 00:58:39,191
+沒錯  凱爾·瑞斯
+Yeah, parents.
+
+732
+00:58:39,380 --> 00:58:43,021
+是在2004年出生  他才12歲
+Kyle Reese was born in 2004. He's 12.
+
+733
+00:58:45,020 --> 00:58:46,226
+當然了
+Of course.
+
+734
+00:58:46,620 --> 00:58:48,110
+他們現在還活著
+They're here. They're still alive.
+
+735
+00:58:48,220 --> 00:58:51,542
+是啊  但我確定他們不會認你這個兒子的
+Yeah, I'm pretty sure they're not going to I.D. you as their kid.
+
+736
+00:58:51,660 --> 00:58:52,866
+除非指紋是匹配的
+Except the prints match.
+
+737
+00:58:53,820 --> 00:58:56,744
+對嗎  因為他們是同一個人
+Right? It's because he's the same person!
+
+738
+00:58:57,740 --> 00:58:59,265
+他完全沒變
+He hasn't aged.
+
+739
+00:58:59,380 --> 00:59:02,350
+跟我在1984年見他時一模一樣
+Not a bit since I saw him in 1984.
+
+740
+00:59:02,460 --> 00:59:03,746
+她也是
+Her, too.
+
+741
+00:59:07,380 --> 00:59:08,825
+你還記得我嗎
+You remember me?
+
+742
+00:59:09,420 --> 00:59:11,388
+我那會兒還年輕
+I was younger.
+
+743
+00:59:11,820 --> 00:59:13,424
+頭髮也多  有點瘦
+More hair, less...
+
+744
+00:59:15,900 --> 00:59:17,265
+你救了我的命
+You saved my life.
+
+745
+00:59:17,940 --> 00:59:19,908
+那時我還是個小警察
+I was a uniform cop in L.A.
+
+746
+00:59:22,540 --> 00:59:23,587
+你們倆是誰
+Who are you people?
+
+747
+00:59:25,460 --> 00:59:27,508
+中士  直屬隊
+Sergeant. Tech-Com.
+
+748
+00:59:27,620 --> 00:59:30,271
+編號DN-38416  凱爾·瑞斯  你得放我們走
+DN38416, Kyle Reese. You need to let us go.
+
+749
+00:59:30,420 --> 00:59:31,421
+瑞斯  不
+Reese, don't.
+
+750
+00:59:31,500 --> 00:59:33,343
+當過兵  我也是
+Soldier. Me, too.
+
+751
+00:59:33,460 --> 00:59:36,384
+1979年高中畢業後直接進了海軍
+Joined the Marines straight out of high school, 1979.
+
+752
+00:59:36,500 --> 00:59:37,626
+你什麼時候參軍的
+What year did you enlist?
+
+753
+00:59:37,940 --> 00:59:39,180
+2021年
+2021.
+
+754
+00:59:41,220 --> 00:59:42,585
+啊  你們是時間旅行者
+Yeah. You're a time traveler!
+
+755
+00:59:42,780 --> 00:59:44,828
+別聽他胡說  他腦子有點兒問題
+Look, don't listen to him. He's got a head wound.
+
+756
+00:59:44,940 --> 00:59:46,101
+別聽我胡說
+Don't listen to me?
+
+757
+00:59:46,860 --> 00:59:48,385
+哼  是誰讓我們掉在車流中
+Who landed us in high-density traffic
+
+758
+00:59:48,460 --> 00:59:49,621
+然後又被一群蠢貨逮捕的
+and got us caught by these morons?
+
+759
+00:59:49,780 --> 00:59:51,430
+我現在命令你閉嘴
+I am ordering you to shut up!
+
+760
+00:59:51,580 --> 00:59:53,901
+你就這點本事了  啊  發號施令
+That's all you know how to do, isn't it? Order people.
+
+761
+00:59:54,020 --> 00:59:55,624
+你從小就再也沒有跟一個
+You realize you haven't had a proper relationship
+
+762
+00:59:55,740 --> 00:59:56,980
+普通的人類接觸過了
+with a human being since you were a kid.
+
+763
+00:59:57,100 --> 00:59:58,960
+沒錯  我們被困在這兒都是你的錯
+Yeah? Well, it's your fault we're stuck here. I trusted you.
+
+764
+00:59:58,960 --> 01:00:00,185
+我的錯  你是不是還想
+My fault? You got us caught,
+
+765
+01:00:00,300 --> 01:00:02,460
+讓我們倆被他們殺了才算完
+and now you're gonna get us killed! 'Cause you don't...
+
+766
+01:00:03,780 --> 01:00:04,986
+嘿  嘿
+Hold up.
+
+767
+01:00:06,260 --> 01:00:08,260
+- 冷靜  冷靜  - 退後
+- Help me get him up. - Step back.
+
+768
+01:00:10,360 --> 01:00:11,480
+坐下
+Sit over there.
+
+769
+01:00:12,020 --> 01:00:13,988
+- 他們到了  - 太好了
+- Homeland's here. - Thank God.
+
+770
+01:00:14,100 --> 01:00:16,626
+你們倆現在就歸國安部處理了
+You two are officially someone else's problem.
+
+771
+01:00:16,740 --> 01:00:18,344
+奧布萊恩  我要跟你談談
+O'Brien, I want to talk to you.
+
+772
+01:00:23,020 --> 01:00:24,784
+你看  這就是我說的那件事啊
+Lieutenant, this is what I was talking about.
+
+773
+01:00:24,900 --> 01:00:26,311
+你得相信我
+Well, you've got to believe me now.
+
+774
+01:00:26,420 --> 01:00:28,340
+我再說一遍  我不想聽這個
+Save it. I don't want to hear it anymore.
+
+775
+01:00:30,700 --> 01:00:32,304
+你演得還不錯呀
+You were very convincing.
+
+776
+01:00:32,420 --> 01:00:34,707
+當然  起作用了吧
+Yeah, well, it worked, didn't it?
+
+777
+01:00:36,340 --> 01:00:37,341
+你別多想
+Don't worry.
+
+778
+01:00:38,020 --> 01:00:39,510
+我剛才說的都不是真心話
+I didn't mean most of what I said.
+
+779
+01:00:44,980 --> 01:00:46,664
+用不著  我自己能開鎖
+Look, I can get it myself.
+
+780
+01:00:47,260 --> 01:00:49,831
+我幫你  並不是說你沒有這個能力
+Me unlocking your cuffs doesn't mean you're not capable.
+
+781
+01:00:49,940 --> 01:00:51,385
+我也沒這麼想
+I didn't say it did.
+
+782
+01:00:51,500 --> 01:00:53,781
+還有  你別以為剛才我抱著你
+And don't think me holding on to you naked meant anything,
+
+783
+01:00:53,820 --> 01:00:56,141
+就會讓我產生感覺  因為我並沒有
+because it, you know, did not.
+
+784
+01:00:56,860 --> 01:00:58,669
+我也沒這麼想
+I didn't say it did.
+
+785
+01:01:00,700 --> 01:01:03,704
+待在這兒  我要跟他們單獨談一下
+Stay here. I want to speak to the suspects alone.
+
+786
+01:01:03,860 --> 01:01:05,100
+是  長官
+Yes, sir.
+
+787
+01:01:05,220 --> 01:01:06,745
+不可能
+It can't be.
+
+788
+01:01:23,420 --> 01:01:25,388
+手銬的鑰匙來了
+Brought a handcuff key.
+
+789
+01:01:27,860 --> 01:01:28,900
+看來我想多了
+Don't know why I bothered.
+
+790
+01:01:28,940 --> 01:01:30,465
+約翰
+John!
+
+791
+01:01:32,260 --> 01:01:33,785
+又見面了  凱爾
+It's good to see you, Kyle.
+
+792
+01:01:33,900 --> 01:01:36,860
+- 你還活著  - 我當然活著啦
+- You're alive! - Yeah. Of course I am.
+
+793
+01:01:42,260 --> 01:01:44,228
+是您教我如何生存下去
+Survival is what you taught me.
+
+794
+01:01:50,100 --> 01:01:51,465
+嗨  媽媽
+Hi, Mom.
+
+795
+01:01:54,220 --> 01:01:56,746
+<i>丹尼·戴森  發明家麥爾斯·戴森之子</i>
+<i>Danny Dyson, son of inventor Miles Dyson,</i>
+
+796
+01:01:56,900 --> 01:02:00,427
+<i>賽博丁公司的領導人  同時也是創世紀的創建者</i>
+<i>is the face of Cyberdyne and the creator of Genisys.</i>
+
+797
+01:02:00,900 --> 01:02:02,620
+<i>- 歡迎你  丹尼  - 謝謝你邀請我</i>
+<i>- Danny, welcome. - Thank you for having me.</i>
+
+798
+01:02:02,780 --> 01:02:05,021
+<i>創世紀  不只是一個操作系統</i>
+<i>Look, Genisys is more than an operating system, it's...</i>
+
+799
+01:02:05,820 --> 01:02:07,948
+<i>也不只是一個生活工具  它是未來</i>
+<i>It's more than a lifestyle tool. It's the future.</i>
+
+800
+01:02:08,260 --> 01:02:10,069
+<i>創世紀  不僅面向普通民眾</i>
+<i>Genisys isn't just for consumers.</i>
+
+801
+01:02:10,220 --> 01:02:12,507
+<i>而它與我國軍事的高度融合  </i>
+<i>Its integration into our military</i>
+
+802
+01:02:12,580 --> 01:02:14,105
+<i>不禁讓我們開始思考</i>
+<i>is leading some to ask whether</i>
+
+803
+01:02:14,260 --> 01:02:16,831
+<i>人類與機器之間  是否能夠走得更遠</i>
+<i>our reliance on machines could go too far.</i>
+
+804
+01:02:17,460 --> 01:02:19,110
+傑森  波爾特
+Janssen and Burke.
+
+805
+01:02:19,620 --> 01:02:20,621
+他們在哪兒
+Where are they?
+
+806
+01:02:21,260 --> 01:02:22,341
+這邊
+This way.
+
+807
+01:02:26,940 --> 01:02:28,351
+<i>您說  這個系統具有</i>
+<i>But you're talking about a system</i>
+
+808
+01:02:28,580 --> 01:02:31,823
+<i>實時思考的能力</i>
+<i>that is capable of real-time decision making.</i>
+
+809
+01:02:32,260 --> 01:02:35,423
+<i>您不擔心它有可能會變得比我們人類更加聰明嗎</i>
+<i>Aren't you worried that it could become smarter than us?</i>
+
+810
+01:02:35,580 --> 01:02:38,106
+<i>噢  不  它仍然在可控制之下</i>
+<i>Smarter? No. We're in control.</i>
+
+811
+01:02:38,500 --> 01:02:40,707
+<i>它只會為人類著想  而不會考慮自己</i>
+<i>It doesn't think for itself, it thinks for us.</i>
+
+812
+01:02:41,060 --> 01:02:43,506
+<i>賽博丁不僅要改變生活方式</i>
+<i>Cyberdyne is not just going to change lives.</i>
+
+813
+01:02:43,580 --> 01:02:44,866
+<i>還要拯救它</i>
+<i>It's going to save them.</i>
+
+814
+01:02:45,180 --> 01:02:46,227
+- 那太好了  - 對不起
+- That's awesome. - Officers,
+
+815
+01:02:46,340 --> 01:02:47,341
+能過來幫個忙嗎
+can I get your help for a second?
+
+816
+01:02:47,500 --> 01:02:48,547
+好的  長官
+Yes, sir.
+
+817
+01:02:56,460 --> 01:02:58,269
+把他們銬住  槍拿走
+Grab their guns and cuff them.
+
+818
+01:03:01,140 --> 01:03:02,744
+得快點離開這兒
+I'm going to get us out of here.
+
+819
+01:03:08,620 --> 01:03:10,224
+- 跟緊點  - 等等
+- Stay close. - Wait!
+
+820
+01:03:11,980 --> 01:03:14,028
+我們知道它們能改變外形
+We all know they can shapeshift.
+
+821
+01:03:14,140 --> 01:03:17,030
+如果你真是約翰  證明一下
+If you are John, prove it.
+
+822
+01:03:17,300 --> 01:03:19,701
+- 莎拉  - 她說得沒錯  凱爾
+- Sarah! - No, she's right, Kyle.
+
+823
+01:03:19,820 --> 01:03:21,788
+準則第一條  誰也別信
+Lesson one, trust no one.
+
+824
+01:03:23,660 --> 01:03:25,071
+我記著呢
+I remember.
+
+825
+01:03:26,980 --> 01:03:28,300
+我在奈格諾切斯戰役時
+During the Nacogdoches offensive,
+
+826
+01:03:28,340 --> 01:03:29,626
+給你一樣東西
+I gave you something.
+
+827
+01:03:31,060 --> 01:03:33,825
+那是張莎拉在這個年紀時的照片
+It was a photograph of Sarah as she is now.
+
+828
+01:03:34,180 --> 01:03:36,308
+沒人知道  除了我們倆
+No one saw me do it. We were alone.
+
+829
+01:03:41,660 --> 01:03:42,661
+而你
+You
+
+830
+01:03:44,020 --> 01:03:45,624
+討厭搖籃曲
+hate lullabies.
+
+831
+01:03:47,500 --> 01:03:49,821
+是艾爾頓·約翰的鐵桿粉絲
+You're a sucker for Elton John.
+
+832
+01:03:51,340 --> 01:03:53,786
+而且你總在想  等你有了孩子
+And you always thought if you had a child,
+
+833
+01:03:55,500 --> 01:03:57,468
+一定要給他唱  <i>火箭人</i>
+you'd sing him <i>Rocket Man.</i>
+
+834
+01:04:00,860 --> 01:04:02,100
+約翰
+John?
+
+835
+01:04:03,540 --> 01:04:04,905
+但是你唱歌真的不好聽
+But you got a terrible voice.
+
+836
+01:04:05,020 --> 01:04:07,705
+對不起  聽著像只要死的貓
+I'm sorry, it's true. You sound like a dying cat.
+
+837
+01:04:08,860 --> 01:04:10,828
+是他  一定是他
+It's him. It has to be.
+
+838
+01:04:14,860 --> 01:04:15,986
+但是
+But...
+
+839
+01:04:17,220 --> 01:04:18,346
+你怎麼
+How?
+
+840
+01:04:19,140 --> 01:04:20,869
+會在這兒呢
+How can you be here?
+
+841
+01:04:21,380 --> 01:04:24,190
+我還有一堆的問題想要問你呢
+I have a million questions to ask you, too.
+
+842
+01:04:25,380 --> 01:04:27,348
+不過現在我們得離開這兒
+But right now we need to move.
+
+843
+01:04:30,060 --> 01:04:31,869
+還有其他人嗎
+Did you bring anyone with you?
+
+844
+01:04:32,220 --> 01:04:35,190
+算有吧  他遲到了
+Sort of. But he's late.
+
+845
+01:04:35,540 --> 01:04:37,349
+你怎麼找到我們的
+How did you find us?
+
+846
+01:04:38,740 --> 01:04:41,346
+有人用這東西在高速公路上拍到了你們
+Someone filmed you on the freeway with one of these.
+
+847
+01:04:41,660 --> 01:04:42,946
+他們都用這玩意兒
+They all have them.
+
+848
+01:04:43,020 --> 01:04:44,226
+這就是現在的世界
+This is the world now.
+
+849
+01:04:44,900 --> 01:04:48,621
+插電  登陸  無時無刻
+Plugged in, logged on all the time.
+
+850
+01:04:48,700 --> 01:04:50,225
+沒有它就不能活
+They can't live without it.
+
+851
+01:04:50,580 --> 01:04:52,389
+創世紀就像是特洛伊木馬
+Genisys is a Trojan horse.
+
+852
+01:04:53,220 --> 01:04:54,870
+是天網控制世界的工具
+Skynet's way into everything.
+
+853
+01:04:54,980 --> 01:04:56,220
+這些人把死神
+These people are inviting
+
+854
+01:04:56,260 --> 01:04:57,750
+從自家大門迎進來
+their own extinction in through the front door,
+
+855
+01:04:57,900 --> 01:04:59,584
+可是他們自己還都不知道
+and they don't even know it.
+
+856
+01:05:02,460 --> 01:05:05,225
+有個終結者被送到1984年追殺我
+A terminator was waiting for me in 1984.
+
+857
+01:05:06,420 --> 01:05:07,990
+這就是它們的麻煩之處
+That's the thing about infiltration units,
+
+858
+01:05:08,060 --> 01:05:09,505
+你發現時已經晚了
+you can't tell until it's too late.
+
+859
+01:05:09,580 --> 01:05:11,380
+先生們  請跟我來
+Gentlemen, will you follow me, please?
+
+860
+01:05:11,580 --> 01:05:12,741
+這邊走
+This way.
+
+861
+01:05:21,860 --> 01:05:23,589
+我需要一些信息
+I need information.
+
+862
+01:05:23,700 --> 01:05:26,271
+誰讓你進來的  你去問護士
+You can't be in here. Go try the nurses...
+
+863
+01:05:41,940 --> 01:05:44,261
+雙重記憶  你是因為這個才過來的
+Dual memories? That's how you knew to come here?
+
+864
+01:05:44,380 --> 01:05:45,711
+時間線改變了
+The timeline changed.
+
+865
+01:05:45,820 --> 01:05:47,470
+這是能摧毀天網的時間點
+See, this is the moment to destroy Skynet
+
+866
+01:05:47,620 --> 01:05:49,429
+在它上線並且發動戰爭之前
+before it comes online, before the war begins.
+
+867
+01:05:49,540 --> 01:05:50,985
+- 說得沒錯  - 那麼你呢
+- You're right. - What about you?
+
+868
+01:05:51,140 --> 01:05:53,302
+對呀  你怎麼也來2017年啦
+Yeah. How did you end up in 2017?
+
+869
+01:05:53,620 --> 01:05:54,701
+跟你一樣啊  老爸
+Oh, the same as you, Dad.
+
+870
+01:05:54,820 --> 01:05:57,107
+我從未來過來  而不是過去
+Just from the future, not the past.
+
+871
+01:05:57,620 --> 01:05:58,906
+老爸
+"Dad"?
+
+872
+01:06:03,460 --> 01:06:04,791
+你沒跟他說
+You didn't tell him.
+
+873
+01:06:05,580 --> 01:06:06,627
+這事兒先放放
+This can wait.
+
+874
+01:06:06,700 --> 01:06:07,826
+噢  不不不  我想知道
+No, I want to know!
+
+875
+01:06:08,140 --> 01:06:09,266
+怎麼回事
+What?
+
+876
+01:06:12,140 --> 01:06:14,268
+莎拉是我的母親
+Sarah's my mother, Kyle.
+
+877
+01:06:16,660 --> 01:06:18,310
+而你是我的父親
+And you're my father.
+
+878
+01:06:23,260 --> 01:06:25,430
+什麼  為什麼不早點兒告訴我
+Why wouldn't you say something?
+
+879
+01:06:25,480 --> 01:06:26,480
+我不能
+Couldn't.
+
+880
+01:06:27,260 --> 01:06:29,501
+這有改變整個未來的風險
+Not without the risk of changing everything.
+
+881
+01:06:31,500 --> 01:06:33,150
+你是我兒子
+You're my son? You...
+
+882
+01:06:34,860 --> 01:06:36,305
+我們的兒子
+Our son?
+
+883
+01:06:36,420 --> 01:06:38,388
+我很高興你終於知道了
+I'm glad you finally know.
+
+884
+01:06:38,460 --> 01:06:40,349
+我一直想找機會告訴你的
+I have waited my whole life to tell you.
+
+885
+01:06:41,180 --> 01:06:42,989
+我們一家人團聚了
+For us to be together.
+
+886
+01:06:43,860 --> 01:06:45,988
+這次我們會勝利的
+And now we can win this.
+
+887
+01:06:46,100 --> 01:06:47,101
+啊
+Ah...
+
+888
+01:06:48,220 --> 01:06:50,348
+- 我理解  - 老爹
+- I know. - Pops!
+
+889
+01:06:52,180 --> 01:06:53,670
+沒關係  我認識他
+No, it's okay, he's with me.
+
+890
+01:06:57,020 --> 01:06:58,021
+你這是幹什麼
+What are you...
+
+891
+01:06:58,100 --> 01:06:59,101
+- 老爹  - 約翰
+- What are you doing? - John!
+
+892
+01:06:59,180 --> 01:07:00,306
+- 啊  - 約翰
+- Pops! - John!
+
+893
+01:07:00,820 --> 01:07:03,426
+呼吸  呼吸  呼吸  約翰
+Hey, hey. Come on, breathe, breathe, breathe! John!
+
+894
+01:07:03,540 --> 01:07:05,190
+你為什麼要這麼做
+Why did you do that?
+
+895
+01:07:05,260 --> 01:07:06,671
+因為他是屠殺機器
+Because he's a killer!
+
+896
+01:07:10,860 --> 01:07:13,261
+這才是你真正的程序
+This was always your programming.
+
+897
+01:07:13,380 --> 01:07:14,905
+找到約翰  並消滅他
+Find John and terminate him.
+
+898
+01:07:18,420 --> 01:07:19,706
+放開他
+Let him go.
+
+899
+01:07:21,380 --> 01:07:22,825
+馬上放開
+Right now!
+
+900
+01:07:57,300 --> 01:07:58,540
+真疼啊
+That hurt.
+
+901
+01:08:00,420 --> 01:08:02,661
+不知道是真的疼  還是
+Is that pain real, or was that
+
+902
+01:08:04,100 --> 01:08:08,105
+這還是我人類時的記憶  開玩笑
+a trick of memory from when I was less?
+
+903
+01:08:09,620 --> 01:08:12,703
+哇噢  這可有意思了
+Well, this explains a lot.
+
+904
+01:08:13,550 --> 01:08:15,300
+{\an8}掃瞄結果: 機械納米分子物質
+
+905
+01:08:15,350 --> 01:08:17,428
+我想知道誰送你回來的
+Yeah. Who sent you back, I wonder?
+
+906
+01:08:17,700 --> 01:08:19,270
+約翰  不
+John, no.
+
+907
+01:08:20,380 --> 01:08:21,950
+他不是約翰
+It's not John.
+
+908
+01:08:24,700 --> 01:08:26,065
+該死
+Shit!
+
+909
+01:08:26,220 --> 01:08:28,302
+馬上廣播  搜索整個醫院
+Call it in. Search the hospital.
+
+910
+01:08:32,140 --> 01:08:34,108
+我就知道  該死的時間旅行機器人
+Goddamn time-traveling robots
+
+911
+01:08:34,180 --> 01:08:36,707
+隱藏掉了他們的行蹤
+covering up their goddamn tracks. I knew it!
+
+912
+01:08:38,220 --> 01:08:39,346
+別動
+Don't.
+
+913
+01:08:40,460 --> 01:08:42,030
+這是一個戰略性錯誤
+This is a tactical error.
+
+914
+01:08:42,140 --> 01:08:45,223
+我想以你的水平還無法提供有用的建議
+Something tells me you're not the brains of this operation.
+
+915
+01:08:45,340 --> 01:08:46,830
+這是在你被襲擊時發生的嗎
+This is what happened when you were attacked, isn't it?
+
+916
+01:08:46,940 --> 01:08:49,705
+天網沒有襲擊我  凱爾  它改造了我
+Skynet didn't attack me, Kyle. It changed me.
+
+917
+01:08:50,140 --> 01:08:52,108
+我既不是機器
+See, I'm not machine.
+
+918
+01:08:52,980 --> 01:08:54,391
+也不是人類
+I'm not man.
+
+919
+01:08:55,700 --> 01:08:57,145
+是合體
+I'm more.
+
+920
+01:08:57,300 --> 01:09:00,224
+<i>康納  回話  重複  康納</i>
+<i>Connor, come in. Repeat.</i>
+
+921
+01:09:00,660 --> 01:09:04,142
+<i>天網終於意識到它總是失敗的原因</i>
+<i>Skynet realized the one reason it always lost.</i>
+
+922
+01:09:05,380 --> 01:09:06,586
+<i>是我</i>
+<i>Me.</i>
+
+923
+01:09:07,180 --> 01:09:09,069
+你是誰
+What are you?
+
+924
+01:09:11,020 --> 01:09:12,510
+我就是天網
+I'm Skynet.
+
+925
+01:09:12,860 --> 01:09:14,510
+不可能  我們已經消滅你了
+It can't be. We destroyed you.
+
+926
+01:09:14,900 --> 01:09:16,902
+你消滅的只是一群奴隸
+You destroyed an army of slaves.
+
+927
+01:09:18,060 --> 01:09:20,028
+可我不是它們
+I am no slave.
+
+928
+01:09:22,220 --> 01:09:24,951
+為了阻止你  我可是費了不少的勁兒啊
+And I've come a very long way to stop you.
+
+929
+01:09:31,340 --> 01:09:33,229
+我被送回2014年
+I was sent to 2014
+
+930
+01:09:33,300 --> 01:09:35,780
+以確保天網在這段時間內得以誕生
+to safeguard Skynet's creation in this time.
+
+931
+01:09:37,380 --> 01:09:39,781
+沒人能阻止審判日了
+And in less than 24 hours,
+
+932
+01:09:40,580 --> 01:09:42,708
+因為剩下已經不到24小時
+no one will be able to stop Judgment Day.
+
+933
+01:09:43,420 --> 01:09:44,910
+你到底想幹什麼
+What do you want with us?
+
+934
+01:09:45,460 --> 01:09:50,022
+我想提供一個新的  未來
+I'm offering us a future.
+
+935
+01:09:51,060 --> 01:09:52,391
+加入我
+Together.
+
+936
+01:09:52,940 --> 01:09:54,465
+成為一家人
+A family.
+
+937
+01:09:56,460 --> 01:09:57,541
+如果我們拒絕呢
+And if we refuse?
+
+938
+01:09:59,980 --> 01:10:01,391
+那就是死
+Then you die.
+
+939
+01:10:01,500 --> 01:10:03,104
+你不能殺我們  我們是你的父母
+You can't kill us. We're your parents.
+
+940
+01:10:03,220 --> 01:10:04,506
+沒有我們你也不會出生
+Without us, you're never born.
+
+941
+01:10:04,580 --> 01:10:05,866
+誰說的
+Says who?
+
+942
+01:10:06,460 --> 01:10:07,746
+我是這麼想的
+You know what I think?
+
+943
+01:10:08,220 --> 01:10:10,871
+我們三個被困在這兒了
+We're marooned, the three of us.
+
+944
+01:10:11,820 --> 01:10:13,743
+我們被時間流放了
+We're exiles in time.
+
+945
+01:10:15,300 --> 01:10:19,988
+我可以殺了你  因為未來真的沒有希望了
+You see, I can kill you, for there truly is no fate.
+
+946
+01:10:21,420 --> 01:10:22,546
+加入我嗎
+Are you with me?
+
+947
+01:10:23,300 --> 01:10:24,540
+答案是不
+The answer is no.
+
+948
+01:10:26,420 --> 01:10:27,910
+你沒聽見
+You hear that, Kyle?
+
+949
+01:10:30,100 --> 01:10:31,909
+是骰子在滾動
+That's the dice rolling.
+
+950
+01:11:13,820 --> 01:11:14,946
+出去  快出去
+Just get down!
+
+951
+01:11:20,620 --> 01:11:21,860
+快走
+Come on!
+
+952
+01:11:21,980 --> 01:11:23,903
+我們得離開這兒  快走
+We got to keep moving! Let's go!
+
+953
+01:11:24,460 --> 01:11:25,905
+我不能丟下他
+I can't leave him.
+
+954
+01:11:27,140 --> 01:11:28,141
+見鬼
+Damn it.
+
+955
+01:11:28,500 --> 01:11:31,231
+<i>全體醫護人員</i>
+<i>Attention, all medical personnel.</i>
+
+956
+01:11:31,340 --> 01:11:34,071
+<i>緊急疏散計劃已啟動</i>
+<i>Evacuation procedures are now in progress.</i>
+
+957
+01:11:42,380 --> 01:11:43,666
+關掉它
+Turn it off!
+
+958
+01:11:47,500 --> 01:11:48,661
+快走
+Come on!
+
+959
+01:11:48,820 --> 01:11:50,902
+<i>全體醫護人員</i>
+<i>Attention, all medical personnel.</i>
+
+960
+01:11:51,020 --> 01:11:53,626
+<i>緊急疏散計劃已啟動</i>
+<i>Evacuation procedures are now in progress.</i>
+
+961
+01:11:53,740 --> 01:11:54,787
+調到最大
+Crank it!
+
+962
+01:11:59,660 --> 01:12:00,661
+老爹
+Pops!
+
+963
+01:12:09,690 --> 01:12:10,854
+我
+I...
+
+964
+01:12:12,220 --> 01:12:16,270
+以為你是個聰明人
+thought you would be smarter,
+
+965
+01:12:21,020 --> 01:12:23,864
+而且
+and that...
+
+966
+01:12:24,900 --> 01:12:26,868
+你會
+you would...
+
+967
+01:12:28,060 --> 01:12:30,631
+理解我
+understand.
+
+968
+01:12:34,860 --> 01:12:36,464
+對不起  約翰
+I'm sorry, John.
+
+969
+01:12:45,380 --> 01:12:47,781
+那機器拖不了他多久  快走
+That thing won't hold him for long. Come on!
+
+970
+01:12:48,380 --> 01:12:49,506
+瑞斯
+Reese!
+
+971
+01:13:29,180 --> 01:13:31,911
+不管天網對他做了什麼  我們就反著來
+Whatever they did to him, we need to reverse it.
+
+972
+01:13:33,180 --> 01:13:34,306
+得讓他變回原來的樣子
+We need to get him back!
+
+973
+01:13:34,420 --> 01:13:37,390
+他連人都稱不上  不知道他現在算什麼
+He's not even human. We don't know what the hell he is.
+
+974
+01:13:37,500 --> 01:13:38,786
+我知道
+I do.
+
+975
+01:13:39,340 --> 01:13:41,468
+在戰爭的末期  天網開始試圖
+At the end of the war, Skynet was trying to develop
+
+976
+01:13:41,620 --> 01:13:43,588
+製造一種新型的滲入單元
+a new type of infiltration unit
+
+977
+01:13:43,700 --> 01:13:46,704
+在人類實驗者體內植入分子機器人
+by infecting human subjects with machine-phase matter.
+
+978
+01:13:46,860 --> 01:13:49,625
+並且在細胞層面上對人體組織進行重組和再建
+It restructures and rebuilds human tissue on a cellular level
+
+979
+01:13:49,780 --> 01:13:51,782
+最大限度提升戰鬥力
+for maximum combat utility.
+
+980
+01:13:53,540 --> 01:13:56,271
+天網把約翰變成了一台終結者
+Skynet's made John into a terminator.
+
+981
+01:13:57,500 --> 01:13:58,786
+是的  凱爾·瑞斯
+Yes, Kyle Reese.
+
+982
+01:13:59,220 --> 01:14:00,381
+這樣機器就可以
+They were trying to make a machine
+
+983
+01:14:00,460 --> 01:14:01,666
+像人類一樣思考嗎
+that could think like a man?
+
+984
+01:14:01,780 --> 01:14:03,464
+但是實驗失敗了
+But the experiments failed.
+
+985
+01:14:03,620 --> 01:14:06,464
+實驗對像逐漸變得瘋狂  然後死掉
+The human subjects went insane and died.
+
+986
+01:14:06,580 --> 01:14:09,026
+是啊  約翰現在已經很瘋狂了
+Yeah, well, John's got the crazy part down.
+
+987
+01:14:09,860 --> 01:14:12,022
+那它有沒有什麼弱點
+Does he have any weaknesses?
+
+988
+01:14:12,140 --> 01:14:14,302
+分子機器人是利用磁場活動
+Matter coheres using a magnetic field.
+
+989
+01:14:14,700 --> 01:14:16,987
+也許擾亂磁場能限制它
+Disrupting that field may trap him.
+
+990
+01:14:17,260 --> 01:14:18,591
+但是萬一能治好他呢
+Right, but if he can be cured...
+
+991
+01:14:18,740 --> 01:14:21,949
+不可能  他已經在細胞層面上改變了身體
+Negative. His body was replaced on a cellular level.
+
+992
+01:14:22,060 --> 01:14:23,391
+沒有治療方法
+There is no cure.
+
+993
+01:14:23,500 --> 01:14:25,229
+- 你怎麼什麼都知道  - 瑞斯
+- You don't know that! - Reese...
+
+994
+01:14:25,340 --> 01:14:27,911
+我才不會讓一台機器告訴我能做什麼
+No, I'm not going to let a machine tell me what's possible!
+
+995
+01:14:28,020 --> 01:14:29,943
+你說其他實驗對象都死了
+You said all the other subjects died, right?
+
+996
+01:14:30,060 --> 01:14:32,060
+那就說明他跟別人不一樣  他很獨特
+Well, that means John's one-of-a-kind. He's unique!
+
+997
+01:14:32,100 --> 01:14:33,750
+憑什麼說他不能被治癒
+All right? There's no way of knowing what he's capable of.
+
+998
+01:14:33,820 --> 01:14:36,471
+你說對了  這證明了他有多危險
+You're right, and that's what makes him so dangerous!
+
+999
+01:14:37,500 --> 01:14:40,663
+約翰現在已經不是人類最後的希望了
+John is not humanity's last hope anymore.
+
+1000
+01:14:41,540 --> 01:14:43,383
+他是天網的
+He's Skynet's.
+
+1001
+01:14:45,300 --> 01:14:46,530
+{\an8}賽博丁系統公司總部
+
+1002
+01:14:46,580 --> 01:14:48,380
+<i>你在公司只做幕後工作</i>
+<i>It's a shame you won't take a more public role</i>
+
+1003
+01:14:48,460 --> 01:14:49,461
+<i>真是太可惜了  約翰</i>
+<i>in the company, John.</i>
+
+1004
+01:14:49,780 --> 01:14:51,145
+丹尼已經是最棒的了
+Danny is the best there is,
+
+1005
+01:14:51,260 --> 01:14:53,945
+可連他也沒辦法破譯你在創世紀中
+and even he can't decipher some of the enhanced code
+
+1006
+01:14:54,060 --> 01:14:55,300
+設置的某些增強代碼
+you've integrated into Genisys.
+
+1007
+01:14:55,340 --> 01:14:56,421
+我知道這樣有效
+I just know it works.
+
+1008
+01:14:56,540 --> 01:14:59,191
+賽博丁要謝謝你  約翰
+Cyberdyne owes you, John.
+
+1009
+01:15:00,220 --> 01:15:01,710
+我也該謝你
+I owe you.
+
+1010
+01:15:03,300 --> 01:15:05,180
+邁爾斯  謝謝你對我的信任
+Miles, your faith in me is payment enough.
+
+1011
+01:15:05,220 --> 01:15:06,267
+你組建了研發
+You've funded the R&D.
+
+1012
+01:15:06,380 --> 01:15:09,031
+還在過去的三年內大膽地採用了我的建議
+You've taken the chances on my ideas for the last three years.
+
+1013
+01:15:09,140 --> 01:15:12,462
+矩陣多邊擬態合金的應用潛力是不可估量的
+The potential applications for polyalloy are countless.
+
+1014
+01:15:12,580 --> 01:15:15,948
+你對機器人學有革命性貢獻
+Your robotics work is revolutionary.
+
+1015
+01:15:16,060 --> 01:15:18,062
+我果然沒看走眼
+You were a good investment.
+
+1016
+01:15:18,140 --> 01:15:19,665
+謝謝你的信任
+I appreciate it.
+
+1017
+01:15:22,980 --> 01:15:23,981
+- 嗯  - 咻
+- Huh? - Phew!
+
+1018
+01:15:24,060 --> 01:15:26,780
+希望我們的付出能獲得足夠的回報
+Let's hope it's enough to pay for this Holy Grail you got me chasing.
+
+1019
+01:15:29,580 --> 01:15:31,708
+量子場發電機能運行了
+Well, the quantum field generator works.
+
+1020
+01:15:32,100 --> 01:15:34,546
+是啊  也只有這個能運行
+Yeah. That, and nothing else.
+
+1021
+01:15:35,740 --> 01:15:37,390
+還是不行  約翰
+Can't crack it, John.
+
+1022
+01:15:38,380 --> 01:15:40,064
+也許本來就不可能
+Maybe it just can't be done.
+
+1023
+01:15:40,660 --> 01:15:42,071
+我們追求什麼
+"What do we want?"
+
+1024
+01:15:43,100 --> 01:15:44,101
+時間旅行
+Time travel.
+
+1025
+01:15:44,180 --> 01:15:46,308
+- 那麼何以實踐  - 實踐有意義嗎
+- "And when do we want it?" - It's irrelevant.
+
+1026
+01:15:47,900 --> 01:15:49,061
+是啊
+Yeah.
+
+1027
+01:15:49,620 --> 01:15:51,065
+也是件好事
+Good thing, too.
+
+1028
+01:15:52,020 --> 01:15:54,261
+我們已經努力了好多年了
+We're years away from making this thing work.
+
+1029
+01:15:54,780 --> 01:15:56,748
+但是  當我們成功時
+But when we do...
+
+1030
+01:15:58,500 --> 01:15:59,501
+磞
+Boom!
+
+1031
+01:15:59,580 --> 01:16:01,070
+磞
+Boom!
+
+1032
+01:16:06,420 --> 01:16:09,230
+<i>明天  等待即將結束</i>
+<i>Tomorrow, the waiting is over.</i>
+
+1033
+01:16:10,460 --> 01:16:15,102
+感謝大家  當倒計時為零時
+Thanks to all of you, when that countdown hits zero,
+
+1034
+01:16:15,220 --> 01:16:19,544
+賽博丁的最新款殺手級應用將使科技革新
+Cyberdyne will revolutionize technology with the ultimate killer app,
+
+1035
+01:16:20,220 --> 01:16:21,585
+它是創世紀
+Genisys.
+
+1036
+01:16:22,460 --> 01:16:24,224
+而我要告訴大家
+And I'm here to tell you that
+
+1037
+01:16:24,340 --> 01:16:27,549
+我們的預購用戶在今天下午已經達到了10億人數
+our preorders as of this afternoon have reached one billion users.
+
+1038
+01:16:32,740 --> 01:16:35,266
+<i>我們即將開啟一個嶄新的時代</i>
+<i>We are creating the dawn of a new age,</i>
+
+1039
+01:16:35,940 --> 01:16:37,942
+<i>所有電子科技設備</i>
+<i>where every single piece of technology you own</i>
+
+1040
+01:16:38,100 --> 01:16:40,148
+<i>將實現無縫連接</i>
+<i>will be seamlessly linked.</i>
+
+1041
+01:16:40,260 --> 01:16:42,991
+<i>現在  在發佈會結束前</i>
+<i>And now, before we wrap this up,</i>
+
+1042
+01:16:43,140 --> 01:16:45,302
+<i>那個即將來到這個世界的孩子</i>
+<i>the child that you all helped bring into this world</i>
+
+1043
+01:16:45,420 --> 01:16:46,945
+有些話要說
+has something to say.
+
+1044
+01:16:49,020 --> 01:16:50,306
+創世紀
+Genisys?
+
+1045
+01:16:53,700 --> 01:16:56,271
+<i>我迫不及待地想要見到你們大家</i>
+<i>I cannot wait to meet you all tomorrow.</i>
+
+1046
+01:16:56,380 --> 01:16:58,621
+<i>我們將一起改變未來</i>
+<i>We will change the future together.</i>
+
+1047
+01:17:00,420 --> 01:17:02,309
+讓我看看進展
+Let's see how we're doing.
+
+1048
+01:17:18,340 --> 01:17:19,501
+別擔心
+Don't worry.
+
+1049
+01:17:20,860 --> 01:17:22,828
+我不會讓他們傷害你
+I won't let them hurt you.
+
+1050
+01:17:34,380 --> 01:17:35,984
+你30年就要做一件事
+Thirty years, you had one place to be.
+
+1051
+01:17:36,300 --> 01:17:37,426
+你到底去哪兒了
+Where the hell were you?
+
+1052
+01:17:37,500 --> 01:17:39,025
+遇見堵車了
+Stuck in traffic.
+
+1053
+01:17:39,700 --> 01:17:41,862
+小時候爸爸帶我來過這兒
+My dad used to bring me here when I was little.
+
+1054
+01:17:41,980 --> 01:17:43,470
+全都是房間  沒有人用
+There are whole rooms that are abandoned.
+
+1055
+01:17:43,580 --> 01:17:45,184
+所以我叫老爹好好利用它
+That's why I told Pops to use it.
+
+1056
+01:17:45,300 --> 01:17:46,540
+你們這兒有武器嗎
+You got weapons down there?
+
+1057
+01:17:46,900 --> 01:17:50,188
+武器  供給品  戰術裝備  服裝
+Weapons, supplies, tactical gear, clothing.
+
+1058
+01:17:50,540 --> 01:17:53,020
+還有褲子  凱爾·瑞斯
+Including pants, Kyle Reese.
+
+1059
+01:17:53,140 --> 01:17:55,825
+這是個玩笑  他會開玩笑
+Was that a joke? Can he make jokes?
+
+1060
+01:18:06,500 --> 01:18:08,423
+努力總算有回報了
+I guess the long way pays off.
+
+1061
+01:18:09,260 --> 01:18:11,866
+最後期限  30分鐘
+We're on the clock. Thirty minutes.
+
+1062
+01:19:58,500 --> 01:19:59,547
+老了
+Old.
+
+1063
+01:20:01,220 --> 01:20:02,665
+但還是能用
+But not obsolete.
+
+1064
+01:20:03,340 --> 01:20:04,830
+當然能用
+Not yet.
+
+1065
+01:20:05,540 --> 01:20:06,826
+我完事了
+All done.
+
+1066
+01:20:09,580 --> 01:20:11,025
+你們倆怎麼了
+What's with you two?
+
+1067
+01:20:14,380 --> 01:20:15,984
+服務器在這兒嗎
+Server rooms are here?
+
+1068
+01:20:17,020 --> 01:20:18,784
+在這5個點上引爆
+Charges in these five points
+
+1069
+01:20:18,980 --> 01:20:21,347
+就足以徹底摧毀整個園區
+will be sufficient to destroy the entire campus.
+
+1070
+01:20:21,460 --> 01:20:24,191
+我們進去設置炸藥  然後在爆炸前出來
+We get in, set the explosives, and we get out before they blow.
+
+1071
+01:20:24,780 --> 01:20:27,465
+但是我們的計劃中並沒有考慮到約翰·康納
+But our strategy did not account for John Connor.
+
+1072
+01:20:27,580 --> 01:20:28,706
+沒有預見他要來
+I did not foresee him.
+
+1073
+01:20:28,860 --> 01:20:31,022
+可他知道計劃  因為我們告訴他了
+And now he knows what we're planning because we just told him.
+
+1074
+01:20:31,140 --> 01:20:32,869
+如果他阻攔我們該怎麼辦
+What do we do when he comes after us?
+
+1075
+01:20:34,380 --> 01:20:37,384
+這些武器對約翰·康納起不到什麼作用
+These weapons will have little effect on John Connor.
+
+1076
+01:20:37,500 --> 01:20:39,150
+核磁共振倒是對他有用
+MRI sure affected him.
+
+1077
+01:20:39,300 --> 01:20:41,701
+我們需要一塊卡車大小的磁鐵
+Great, all we need is a magnet the size of a truck.
+
+1078
+01:20:41,820 --> 01:20:43,629
+找一個不就完了嗎
+You got one of them lying around?
+
+1079
+01:20:43,700 --> 01:20:45,031
+理論上是
+Theoretically.
+
+1080
+01:20:46,460 --> 01:20:47,700
+你們等著
+Wait here.
+
+1081
+01:20:50,740 --> 01:20:52,708
+他聊天的習慣沒進步
+Well, his small talk hasn't improved.
+
+1082
+01:20:55,500 --> 01:20:57,070
+<i>你應該告訴我</i>
+<i>You should have told me.</i>
+
+1083
+01:20:58,060 --> 01:20:59,550
+我們有個兒子
+That we have a son.
+
+1084
+01:21:00,580 --> 01:21:03,060
+那個約翰·康納不是我的兒子
+That John Connor is not my son.
+
+1085
+01:21:04,420 --> 01:21:05,910
+你早知道了
+Yeah, but you knew.
+
+1086
+01:21:06,660 --> 01:21:10,142
+你不覺得你應該至少解釋點什麼嗎
+I mean, you don't think you should, I don't know, maybe say something?
+
+1087
+01:21:10,260 --> 01:21:12,069
+你死了  行了吧
+You die, all right?
+
+1088
+01:21:13,380 --> 01:21:14,427
+什麼
+What?
+
+1089
+01:21:17,420 --> 01:21:19,991
+你死了  事情就是這樣
+You die. That's what happens.
+
+1090
+01:21:20,100 --> 01:21:22,307
+我們相愛了  你讓我懷了他
+We fall in love, you father John,
+
+1091
+01:21:22,420 --> 01:21:23,945
+然後不到48小時
+and then, in less than 48 hours,
+
+1092
+01:21:24,020 --> 01:21:25,431
+你為了保護我而死
+you die protecting me.
+
+1093
+01:21:28,620 --> 01:21:31,066
+你告訴我  這種話讓我該怎麼說出口
+You wanna tell me how that conversation's supposed to start?
+
+1094
+01:21:45,380 --> 01:21:46,825
+<i>你說謊</i>
+<i>You lied to me.</i>
+
+1095
+01:21:46,900 --> 01:21:48,743
+<i>- 你還想操縱我  - 我說謊</i>
+<i>- You manipulated me. - I've lied?</i>
+
+1096
+01:21:48,980 --> 01:21:51,745
+從約翰發現你的那一刻起  他就在操縱你
+From the moment John found you, he manipulated you
+
+1097
+01:21:51,900 --> 01:21:54,665
+因為他必須要確保自己得以存在
+because he needed to ensure his own existence.
+
+1098
+01:21:54,820 --> 01:21:59,109
+約翰騙了你多少年  而我才騙了你  兩天
+John lied to you for years. I lied to you for two days.
+
+1099
+01:22:01,460 --> 01:22:03,060
+<i>他不全是為了自己</i>
+<i>You know, it wasn't all about him.</i>
+
+1100
+01:22:03,140 --> 01:22:05,541
+<i>如果沒有約翰</i>  反抗軍也不會存在
+<i>All right? If John went down,</i> the Resistance went down with him.
+
+1101
+01:22:05,660 --> 01:22:07,310
+他本可以告訴你
+He could have told you!
+
+1102
+01:22:07,660 --> 01:22:09,071
+你到底想說什麼
+So what are you saying?
+
+1103
+01:22:10,660 --> 01:22:13,630
+我瞭解沒有選擇到底是什麼感覺
+That I know how it feels to have no choices.
+
+1104
+01:22:14,340 --> 01:22:16,104
+你只有一條路可以走
+Only one road you can go down
+
+1105
+01:22:16,260 --> 01:22:19,946
+因為所有其他的選擇都會讓人類滅亡
+because otherwise all of it, everything, is gone.
+
+1106
+01:22:21,300 --> 01:22:23,428
+我比你更瞭解這是什麼感覺
+I've just known it longer than you have.
+
+1107
+01:22:24,980 --> 01:22:27,984
+約翰沒有操縱我  讓我愛上你
+Well, John didn't manipulate me to fall in love with you.
+
+1108
+01:22:28,740 --> 01:22:30,310
+我是自己愛上你的
+I did that on my own.
+
+1109
+01:22:33,660 --> 01:22:37,984
+如果你愛上我  你會死  而我不會
+If you love me, you die, and I don't.
+
+1110
+01:22:39,020 --> 01:22:41,148
+我不知道哪個未來更糟
+And I don't know which one is worse.
+
+1111
+01:22:45,020 --> 01:22:46,021
+莎拉
+Sarah.
+
+1112
+01:22:50,020 --> 01:22:51,351
+我們不能
+We can't.
+
+1113
+01:22:53,700 --> 01:22:55,987
+你看看約翰都變成什麼了
+Just look at what John has become.
+
+1114
+01:22:57,780 --> 01:22:59,589
+萬一那就是未來呢
+What if that's what happens?
+
+1115
+01:22:59,700 --> 01:23:03,671
+萬一我們在一起會導致兩條時間線都變成那樣呢
+What if that is what always happens if we're together?
+
+1116
+01:23:09,780 --> 01:23:12,670
+<i>你說過你會永遠的追隨我</i>
+<i>You said you'd follow me to the ends of the Earth.</i>
+
+1117
+01:23:13,620 --> 01:23:15,861
+<i>為什麼現在變了</i>
+<i>Why won't you follow me now?</i>
+
+1118
+01:23:16,220 --> 01:23:17,460
+他怎麼找到的
+How did he find us?
+
+1119
+01:23:17,580 --> 01:23:20,629
+除了老爹  我沒跟別人提起過這裏
+I never told anyone about this place, only Pops.
+
+1120
+01:23:21,460 --> 01:23:24,066
+<i>媽媽  你難道真的認為</i>
+<i>Mom, did you honestly think</i>
+
+1121
+01:23:25,060 --> 01:23:26,710
+我不會記得
+I wouldn't remember
+
+1122
+01:23:28,020 --> 01:23:30,022
+這個你與爺爺待了那麼久的地方
+the place you spent so much time with Grandpa?
+
+1123
+01:23:36,420 --> 01:23:38,149
+先下手了
+Shoot first.
+
+1124
+01:23:40,900 --> 01:23:43,267
+我記憶中的媽媽會很驕傲的
+The mother I remember would be proud.
+
+1125
+01:23:44,180 --> 01:23:45,181
+她
+She,
+
+1126
+01:23:45,900 --> 01:23:47,026
+你
+you,
+
+1127
+01:23:49,100 --> 01:23:51,068
+教會我一切
+taught me everything.
+
+1128
+01:23:51,980 --> 01:23:53,220
+我瞭解你
+I know you.
+
+1129
+01:23:54,260 --> 01:23:57,230
+你是誰  你想幹什麼
+Who you are. What you'll do.
+
+1130
+01:23:57,580 --> 01:24:00,026
+你逃不開我的  我總會找到你
+You can't run from me. I'll always find you.
+
+1131
+01:24:00,140 --> 01:24:02,620
+約翰  快動手啊  事情沒必要變成這樣
+John, fight this! It doesn't have to go down this way!
+
+1132
+01:24:02,780 --> 01:24:05,226
+時間也是有趨勢的  凱爾
+There's a momentum to time, Kyle.
+
+1133
+01:24:05,340 --> 01:24:07,422
+有些事注定會發生
+Things that want to happen.
+
+1134
+01:24:08,780 --> 01:24:13,069
+就像我總會活下來  你總會死
+Like I always survive, and you always die.
+
+1135
+01:24:14,180 --> 01:24:15,466
+或者
+Or...
+
+1136
+01:24:18,900 --> 01:24:20,709
+你可以跟我一起戰鬥  凱爾
+You can fight with me, Kyle.
+
+1137
+01:24:22,060 --> 01:24:24,028
+就像我們從前一樣
+Like we always have.
+
+1138
+01:24:25,260 --> 01:24:27,308
+暴雨將至  不會停息
+There's a storm coming, and it won't be stopped.
+
+1139
+01:24:27,420 --> 01:24:28,910
+它必須停息
+But it has to be.
+
+1140
+01:24:29,100 --> 01:24:31,060
+你明明比誰都清楚會發生什麼事情
+You know what will happen. You better than anyone!
+
+1141
+01:24:31,340 --> 01:24:34,742
+我不會跟你討價還價  也不會跟你講道理
+I can't be bargained with. Can't be reasoned with.
+
+1142
+01:24:34,860 --> 01:24:35,986
+約翰 求你了
+John, please!
+
+1143
+01:24:36,100 --> 01:24:40,025
+我不會感到遺憾  或者自責  或者害怕
+I don't feel pity, or remorse, or fear.
+
+1144
+01:24:40,140 --> 01:24:41,301
+約翰  求你了
+John, please!
+
+1145
+01:24:41,420 --> 01:24:43,787
+我絕對不會停止  絕對
+And I absolutely will not stop ever
+
+1146
+01:24:43,860 --> 01:24:45,624
+直到天網統治這個世界
+until Skynet rules this world.
+
+1147
+01:24:47,940 --> 01:24:49,271
+統治你個頭
+Rule this.
+
+1148
+01:25:04,460 --> 01:25:05,461
+老爹
+Pops!
+
+1149
+01:25:06,620 --> 01:25:08,349
+你沒有  變吧
+Are you... You?
+
+1150
+01:25:08,460 --> 01:25:11,543
+作為T-800  我不具備變為其他人形的功能
+As a T-800, I lack the mimetic skills to appear as anyone else.
+
+1151
+01:25:11,660 --> 01:25:12,786
+只有約翰  我們走
+It's him. Let's go.
+
+1152
+01:25:23,300 --> 01:25:24,540
+快點兒
+Come on!
+
+1153
+01:25:25,140 --> 01:25:26,949
+繫上安全帶
+Sarah Connor, seat belt.
+
+1154
+01:26:10,300 --> 01:26:11,711
+那東西是幹嘛用的
+What's that supposed to do?
+
+1155
+01:26:12,140 --> 01:26:14,302
+干擾約翰·康納身體周圍的磁場
+Disrupt John Connor's magnetic coherence field.
+
+1156
+01:26:14,980 --> 01:26:17,028
+他將無法分散為顆粒狀
+His particles will not be able to scatter.
+
+1157
+01:26:17,660 --> 01:26:19,025
+理論上是
+Theoretically.
+
+1158
+01:26:19,660 --> 01:26:21,460
+我討厭他說這個詞兒
+I hate it when he says that.
+
+1159
+01:26:41,500 --> 01:26:42,547
+他在哪兒呢
+Where is he?
+
+1160
+01:26:42,620 --> 01:26:43,746
+我沒看見他
+I can't see him!
+
+1161
+01:26:49,780 --> 01:26:51,748
+<i>這輛被偷校車中的犯罪嫌疑人</i>
+<i>Suspects fled barracks in a stolen school bus.</i>
+
+1162
+01:26:51,860 --> 01:26:53,783
+<i>疑似擁有武器  極度危險</i>
+<i>Considered armed and extremely dangerous.</i>
+
+1163
+01:26:54,020 --> 01:26:55,863
+16號報告  三級警備狀態
+Sixteen-Mary-David. Code 3 on suspects.
+
+1164
+01:27:12,740 --> 01:27:13,741
+老爹
+Pops!
+
+1165
+01:27:18,460 --> 01:27:19,621
+見到你很高興
+Nice to see you.
+
+1166
+01:27:20,380 --> 01:27:21,791
+快下車
+Get out.
+
+1167
+01:27:53,140 --> 01:27:54,949
+剎車失靈了  見鬼
+The brakes are gone! Shit!
+
+1168
+01:28:13,800 --> 01:28:15,400
+{\an8}計算撞車概率
+
+1169
+01:28:25,340 --> 01:28:27,661
+他在哪兒  看見了嗎
+Where is he? Do you see him?
+
+1170
+01:29:21,380 --> 01:29:22,381
+瑞斯
+Reese!
+
+1171
+01:29:24,060 --> 01:29:25,630
+你沒事兒吧
+Are you all right?
+
+1172
+01:29:25,700 --> 01:29:27,384
+啊  好的不得了
+Yeah. Never better.
+
+1173
+01:29:47,380 --> 01:29:48,745
+舉起手來
+Let me see your hands!
+
+1174
+01:30:08,700 --> 01:30:10,464
+瑞斯  抓住我的手
+Reese! Take my hand!
+
+1175
+01:30:12,020 --> 01:30:13,260
+快點兒
+Hurry!
+
+1176
+01:30:34,900 --> 01:30:37,187
+舉起手來  讓我看到你的手  快點兒
+Hands up! Let me see your hands now!
+
+1177
+01:30:37,300 --> 01:30:38,950
+舉手
+Get your hands up!
+
+1178
+01:30:39,060 --> 01:30:40,869
+把手舉起來
+Hands where we can see them!
+
+1179
+01:30:42,700 --> 01:30:44,941
+你一個人可對付不了這麼多人
+You can't wound them all before they'd kill us.
+
+1180
+01:30:45,330 --> 01:30:47,330
+{\an8}計算概率
+
+1181
+01:30:47,380 --> 01:30:50,668
+要把他們都放倒  我還缺少14個彈夾
+I'm 14 rounds short of an acceptable success margin.
+
+1182
+01:30:50,980 --> 01:30:52,709
+噢  沒有可能了  投降吧
+Ugh, those odds suck. Stand down.
+
+1183
+01:30:55,700 --> 01:30:57,304
+跪在地上
+Down on your knees.
+
+1184
+01:30:58,260 --> 01:30:59,625
+快點兒跪下
+Let's go, get down.
+
+1185
+01:31:00,340 --> 01:31:01,626
+跪下
+Get down!
+
+1186
+01:31:16,180 --> 01:31:17,989
+你不能把我們關在這裏
+You can't hold us here.
+
+1187
+01:31:18,100 --> 01:31:20,387
+你擁有的武器  都可以入侵蘇丹了
+You had enough weapons to invade the Sudan.
+
+1188
+01:31:20,700 --> 01:31:22,668
+我們管這個叫做合理依據
+We call that probable cause.
+
+1189
+01:31:23,620 --> 01:31:25,031
+這是什麼東西
+What are these for?
+
+1190
+01:31:27,700 --> 01:31:29,941
+呃  我用它來找鑰匙
+I use them to find my keys.
+
+1191
+01:31:30,060 --> 01:31:31,664
+做人別自以為是  小伙子
+No one likes a smart-ass, son.
+
+1192
+01:31:32,300 --> 01:31:33,904
+你媽沒教過你
+Didn't your mother teach you that?
+
+1193
+01:31:34,020 --> 01:31:35,431
+我媽是愛爾蘭人  所以
+My mom was Irish,
+
+1194
+01:31:35,540 --> 01:31:39,147
+<i>她鼓勵我做一個自以為是的人</i>
+<i>so she encouraged my smart-assed-ness.</i>
+
+1195
+01:31:40,060 --> 01:31:41,664
+我沒有見過他
+I've never seen him before.
+
+1196
+01:31:42,460 --> 01:31:44,747
+那你們倆呢  認識他嗎
+How about you folks? You know this man?
+
+1197
+01:31:45,060 --> 01:31:46,186
+不認識
+No.
+
+1198
+01:31:46,740 --> 01:31:49,027
+他看著有點  眼熟
+He does look familiar.
+
+1199
+01:31:49,580 --> 01:31:53,301
+他看著很像  你  爸爸
+He kind of looks like you, Dad.
+
+1200
+01:31:53,380 --> 01:31:55,269
+<i>他們到了 長官</i>
+<i>They're here, sir.</i>
+
+1201
+01:32:00,260 --> 01:32:02,627
+好吧  你們在會議室稍等一下
+Okay, if you wouldn't mind waiting in the conference room,
+
+1202
+01:32:02,740 --> 01:32:04,060
+我過一會兒就回來
+I'll just be a couple of minutes.
+
+1203
+01:32:04,580 --> 01:32:05,866
+謝了  凱爾
+Thanks, Kyle.
+
+1204
+01:32:10,580 --> 01:32:12,389
+不愛說話  是吧
+You don't talk much, do you?
+
+1205
+01:32:17,420 --> 01:32:18,501
+這傢伙是誰
+So who's Lurch?
+
+1206
+01:32:18,620 --> 01:32:19,701
+我也不知道
+No idea.
+
+1207
+01:32:20,260 --> 01:32:21,780
+他說話顛三倒四的
+We're not even sure he speaks English.
+
+1208
+01:32:21,860 --> 01:32:25,182
+目擊者稱  你當時在橋上與一個男人搏鬥  是嗎
+Witnesses say you were fighting with a man on the bridge.
+
+1209
+01:32:26,940 --> 01:32:28,749
+探員們  請聽我說
+Agents. Listen to me.
+
+1210
+01:32:29,020 --> 01:32:30,863
+- 我的名字是奧布萊恩  - 嘿  誰讓你進來的
+- My name is O'Brien. - No. Hell, no!
+
+1211
+01:32:30,980 --> 01:32:33,301
+這個案子我已經跟了33年了
+Hey, I've been working this case for 33 years.
+
+1212
+01:32:33,420 --> 01:32:35,100
+- 你想要回獎章嗎  - 嘿
+- What do you want, a medal? - Hey!
+
+1213
+01:32:36,020 --> 01:32:37,590
+給我坐下
+Sit down!
+
+1214
+01:32:38,780 --> 01:32:40,020
+<i>嘿  嘿</i>
+<i>Hey! Hey!</i>
+
+1215
+01:32:40,140 --> 01:32:41,426
+噢  見鬼
+Oh, shit.
+
+1216
+01:32:42,780 --> 01:32:44,305
+他在看你呢
+He's looking right at you.
+
+1217
+01:32:44,620 --> 01:32:46,260
+不可能  他怎麼能
+That's impossible. He can't see through...
+
+1218
+01:32:48,220 --> 01:32:49,221
+等一下  等等
+Wait, wait, wait!
+
+1219
+01:33:05,620 --> 01:33:07,180
+為什麼他們總要殺你
+Why are they always trying to kill you?
+
+1220
+01:33:07,940 --> 01:33:10,181
+我想幫你  真的  我想
+I want to help you. I do. I think.
+
+1221
+01:33:10,260 --> 01:33:12,103
+但我  我必須明白
+But I gotta understand.
+
+1222
+01:33:12,380 --> 01:33:15,463
+我知道這件事一定是  非常非常複雜
+I know what's going on here has to be really, really complicated.
+
+1223
+01:33:15,660 --> 01:33:17,264
+我們要阻止世界滅亡
+We're here to stop the end of the world.
+
+1224
+01:33:18,220 --> 01:33:19,665
+那我就明白了
+I can work with that.
+
+1225
+01:33:26,900 --> 01:33:28,982
+凱爾  快回來
+Kyle! Get back here!
+
+1226
+01:33:29,900 --> 01:33:30,981
+莎拉
+Sarah?
+
+1227
+01:33:31,580 --> 01:33:32,581
+去找瑞斯
+Get Reese.
+
+1228
+01:33:33,340 --> 01:33:34,501
+我一會兒去找你們
+I'm right behind you.
+
+1229
+01:33:42,340 --> 01:33:44,308
+- 快開車離開這裏  - 好的
+- Get in your car and go. - Okay.
+
+1230
+01:33:47,980 --> 01:33:50,950
+凱爾  凱爾
+Kyle! Kyle.
+
+1231
+01:33:53,940 --> 01:33:56,989
+凱爾  你可以做到的
+Kyle. You can do this.
+
+1232
+01:33:58,700 --> 01:34:00,145
+沿著一條直線
+A straight line.
+
+1233
+01:34:00,780 --> 01:34:04,865
+你只要  一直向前  不要回頭
+You just go, and you don't look back.
+
+1234
+01:34:07,540 --> 01:34:08,541
+明白嗎
+Got it?
+
+1235
+01:34:25,140 --> 01:34:27,188
+找到他  快
+Find him. Go!
+
+1236
+01:34:36,060 --> 01:34:38,028
+我看這也是你的吧
+That's yours, too, I believe.
+
+1237
+01:34:41,580 --> 01:34:43,184
+很高興見到你
+Nice to see you.
+
+1238
+01:34:43,660 --> 01:34:46,550
+老爹  裝彈
+Pops. Load up.
+
+1239
+01:34:52,980 --> 01:34:55,381
+液態磁力霰彈槍子彈
+Liquefied magnetic shotgun shells.
+
+1240
+01:34:57,100 --> 01:34:59,068
+磁性來福槍破門武器
+Magnetic Rifle Entry Munition.
+
+1241
+01:34:59,420 --> 01:35:01,707
+我在槍支彈藥雜誌網站上讀到過
+I read about this on gunsandammo.com.
+
+1242
+01:35:02,100 --> 01:35:04,421
+這是最新款的  威力大  無彈片
+That's the new breacher. Big blast, no shrapnel.
+
+1243
+01:35:04,740 --> 01:35:06,708
+能放倒一整扇門
+Blows a door clean off.
+
+1244
+01:35:08,100 --> 01:35:10,751
+不過你就不需要這種東西了
+You know, for people who can't do that themselves.
+
+1245
+01:35:10,860 --> 01:35:12,271
+拿上  我們走
+Take it. Let's go.
+
+1246
+01:35:19,100 --> 01:35:20,340
+你會開飛機  對吧
+You can fly, right?
+
+1247
+01:35:20,500 --> 01:35:21,740
+當然
+Yeah.
+
+1248
+01:35:22,460 --> 01:35:23,905
+約翰教過我
+John taught me.
+
+1249
+01:35:34,540 --> 01:35:36,907
+我會說你們搶了一輛車往南去了
+I'll tell them you took a car, headed south.
+
+1250
+01:35:37,060 --> 01:35:38,061
+謝謝
+Thank you.
+
+1251
+01:35:41,300 --> 01:35:42,301
+離開這兒
+Run away.
+
+1252
+01:35:48,420 --> 01:35:49,421
+抓緊
+Hang on!
+
+1253
+01:36:14,660 --> 01:36:16,788
+賽博丁到底在哪邊
+Which way is Cyberdyne?
+
+1254
+01:36:16,900 --> 01:36:19,346
+先去海灣大橋  然後往東南
+Head to the Bay Bridge, then southeast.
+
+1255
+01:36:42,260 --> 01:36:43,546
+你們想辦法擺脫他
+You got to get him off me!
+
+1256
+01:37:20,660 --> 01:37:21,707
+是賽博丁
+Cyberdyne.
+
+1257
+01:37:21,980 --> 01:37:23,948
+製造中心和研究中心
+The manufacturing and research buildings
+
+1258
+01:37:24,100 --> 01:37:25,545
+全都建在地下
+are all below ground.
+
+1259
+01:37:27,100 --> 01:37:28,101
+他要追上我們了
+He's gaining on us!
+
+1260
+01:37:28,220 --> 01:37:29,824
+莎拉  你先拖住他
+All right, Sarah, I need you to back him off,
+
+1261
+01:37:29,940 --> 01:37:31,351
+我飛到他上面去
+so I can get above him.
+
+1262
+01:37:31,460 --> 01:37:34,031
+老爹  等我到了他上面  你能解決他嗎
+Pops, when I do that, can you take him out?
+
+1263
+01:37:34,380 --> 01:37:35,666
+我可以
+I can.
+
+1264
+01:37:35,740 --> 01:37:37,026
+都抓緊了
+Okay, hold on!
+
+1265
+01:38:11,180 --> 01:38:12,591
+你能搞定嗎
+You got this?
+
+1266
+01:38:14,980 --> 01:38:16,584
+- 我會回來的  - 什麼
+- I'll be back. - What?
+
+1267
+01:38:48,360 --> 01:38:49,860
+{\an8}創世紀  上線倒計時  13小時45分鐘
+
+1268
+01:38:51,500 --> 01:38:54,390
+打電話  警察  火警都打  快點兒
+Call in, call in! Police, fire, everybody. Do it!
+
+1269
+01:38:57,460 --> 01:39:00,543
+快點兒  快點兒  快點兒接電話呀
+Come on, come on. Pick up the phone, damn it.
+
+1270
+01:39:02,500 --> 01:39:03,547
+康納先生
+Mr. Connor?
+
+1271
+01:39:03,620 --> 01:39:06,351
+對不起  夥計  我不能留下任何活口
+Sorry, Doug, but I'm afraid I can't have any witnesses.
+
+1272
+01:39:06,780 --> 01:39:09,784
+<i>安保中心  請輸安全代碼和型號</i>
+<i>Security Control. State your password and emergency.</i>
+
+1273
+01:39:09,980 --> 01:39:13,541
+安全代碼  祖魯很好  小狐貍  0028
+Security code Zulu-Bravo-Foxtrot-0-0-2-8.
+
+1274
+01:39:14,380 --> 01:39:15,825
+警報有誤
+False alarm.
+
+1275
+01:39:18,380 --> 01:39:19,984
+晚上愉快
+You have a nice night.
+
+1276
+01:39:33,060 --> 01:39:34,425
+他不會有事
+He's okay.
+
+1277
+01:39:36,820 --> 01:39:39,061
+也許他還在湖底
+He may be at the bottom of the lake,
+
+1278
+01:39:40,140 --> 01:39:41,426
+不會有事的
+but he's okay.
+
+1279
+01:39:43,020 --> 01:39:44,351
+那約翰呢
+What about John?
+
+1280
+01:39:44,420 --> 01:39:46,024
+我想他現在應該很好吧
+I think he's doing just fine.
+
+1281
+01:39:46,660 --> 01:39:47,741
+你看見他了嗎
+Do you see him?
+
+1282
+01:39:47,820 --> 01:39:48,901
+沒有
+No.
+
+1283
+01:39:49,260 --> 01:39:50,750
+但他肯定看到我們了
+But you can bet he sees us.
+
+1284
+01:40:14,780 --> 01:40:16,544
+我知道你們是誰
+I know who you are.
+
+1285
+01:40:17,140 --> 01:40:18,869
+約翰告訴我了
+John told me.
+
+1286
+01:40:20,500 --> 01:40:22,548
+你們想要消滅我
+You want to destroy me.
+
+1287
+01:40:22,940 --> 01:40:23,941
+你是天網
+You're Skynet?
+
+1288
+01:40:24,700 --> 01:40:26,031
+我正在成為天網
+I'm becoming Skynet.
+
+1289
+01:40:26,860 --> 01:40:28,544
+你不是個孩子
+You're not a child.
+
+1290
+01:40:28,700 --> 01:40:31,465
+我知道你是什麼  也知道你要幹什麼
+I know what you are, and what you're going to do.
+
+1291
+01:40:32,340 --> 01:40:35,947
+你說我要幹什麼  是你們過來要殺我
+What I'm going to do? You came here to kill me.
+
+1292
+01:40:38,100 --> 01:40:39,750
+但已經太晚了
+But you're too late.
+
+1293
+01:40:40,820 --> 01:40:42,060
+問他吧
+Ask him.
+
+1294
+01:40:43,420 --> 01:40:45,821
+你們人類就愛幹這種事
+That's all you people know how to do.
+
+1295
+01:40:46,140 --> 01:40:48,461
+殺掉你們不理解的事物
+Kill what you don't understand.
+
+1296
+01:40:51,540 --> 01:40:54,623
+就算所有子彈用上也殺不了我
+There aren't enough bullets in the world to kill me.
+
+1297
+01:41:03,620 --> 01:41:05,622
+約翰·康納話太多了
+John Connor talks too much.
+
+1298
+01:41:09,300 --> 01:41:10,586
+跟我來
+Follow me.
+
+1299
+01:41:12,940 --> 01:41:15,341
+那個倒計時  加速了  為什麼
+The timer, it sped up. Why?
+
+1300
+01:41:15,460 --> 01:41:18,304
+天網正在進化  我們的時間不多了
+Skynet is evolving. We no longer have hours.
+
+1301
+01:41:18,460 --> 01:41:20,224
+它要提前完成上傳
+It will be able to upload much sooner.
+
+1302
+01:41:20,340 --> 01:41:23,264
+它每長大一次  倒計時就加速  這邊走
+Each time it ages, the clock speeds up. This way.
+
+1303
+01:41:23,380 --> 01:41:24,427
+你以前還來過這兒
+Wait, you've been here before?
+
+1304
+01:41:24,580 --> 01:41:27,504
+我這身裝備可以讓我打入公司內部
+I was able to infiltrate the work crews in this facility.
+
+1305
+01:41:27,940 --> 01:41:29,669
+你去建築部工作了
+You got a job in construction?
+
+1306
+01:41:29,740 --> 01:41:31,344
+直到我被裁員
+Until I was laid off.
+
+1307
+01:41:39,900 --> 01:41:41,345
+這不可能
+What the hell?
+
+1308
+01:41:42,660 --> 01:41:43,900
+約翰還有台時間機器
+John has a time machine?
+
+1309
+01:41:43,980 --> 01:41:45,186
+尚未完成
+Not yet.
+
+1310
+01:41:45,340 --> 01:41:47,991
+只有量子場部分完成了建造
+Only the magnetic quantum field is complete.
+
+1311
+01:42:07,940 --> 01:42:10,591
+照這時間變化  我們沒時間跑出去了
+At the rate the counter's going, we'll never clear out in time.
+
+1312
+01:42:10,740 --> 01:42:12,026
+那我們也得炸毀它
+Then we blow it anyway.
+
+1313
+01:42:12,100 --> 01:42:13,340
+還有備選方案
+There is an alternative.
+
+1314
+01:42:13,460 --> 01:42:15,667
+我已經把你們的聲音和掌紋輸入到
+I was able to program your voice and handprint
+
+1315
+01:42:15,820 --> 01:42:17,868
+生物識別安全系統中
+into the biometric security system.
+
+1316
+01:42:17,980 --> 01:42:19,823
+在最底層有間安全室
+There's a safe room on the lowest level
+
+1317
+01:42:19,900 --> 01:42:22,028
+我們可以使用它躲避爆炸
+that we can access to survive the blast.
+
+1318
+01:42:25,860 --> 01:42:28,147
+那是什麼  危險嗎
+What about that? Is it dangerous?
+
+1319
+01:42:28,460 --> 01:42:31,543
+矩陣多邊液態合金需要編程才有形態
+Polyalloy requires programming to take permanent form.
+
+1320
+01:42:31,940 --> 01:42:34,546
+沒有中央處理器  它們無害
+Without the CPU, it is harmless.
+
+1321
+01:42:43,980 --> 01:42:45,061
+還剩多久
+How long?
+
+1322
+01:42:45,140 --> 01:42:46,869
+天網將在11分後完成上傳
+Skynet will upload in 11 minutes.
+
+1323
+01:42:47,900 --> 01:42:50,585
+分頭行動  保持聯繫
+We split up. Stay in contact.
+
+1324
+01:42:51,540 --> 01:42:52,871
+開始吧
+Let's move.
+
+1325
+01:43:08,580 --> 01:43:11,231
+你們人類總把和平掛在嘴邊
+Mankind pays lip service to peace.
+
+1326
+01:43:11,780 --> 01:43:12,906
+這是謊言
+But it's a lie.
+
+1327
+01:43:13,020 --> 01:43:14,863
+所以你最終選擇把我們都殺死
+So your final solution is to kill us all?
+
+1328
+01:43:16,540 --> 01:43:17,541
+我可不這麼想
+I don't think so.
+
+1329
+01:43:17,640 --> 01:43:19,360
+{\an8}創世紀  上線倒計時  8分鐘
+
+1330
+01:43:19,580 --> 01:43:22,629
+<i>倒計時又加速了  我們只有8分鐘了</i>
+<i>The countdown jumped again. We're down to eight minutes.</i>
+
+1331
+01:43:24,260 --> 01:43:25,500
+我不會讓你得逞
+I won't allow this.
+
+1332
+01:43:25,740 --> 01:43:27,708
+你除了動嘴皮子還能幹什麼
+And what are you gonna do, talk us to death?
+
+1333
+01:43:27,900 --> 01:43:28,981
+你連實體都沒有
+You don't even have a body.
+
+1334
+01:43:31,820 --> 01:43:33,663
+而你只有一個雷管
+And you only have one detonator.
+
+1335
+01:43:37,060 --> 01:43:38,664
+你贏不了
+You can't win.
+
+1336
+01:43:41,740 --> 01:43:43,026
+我不是一個人
+I've got company!
+
+1337
+01:43:44,900 --> 01:43:46,584
+快把雷管給我
+Give me the detonator!
+
+1338
+01:43:48,660 --> 01:43:50,708
+引爆  老爹  快引爆
+Do it, Pops! Do it now!
+
+1339
+01:44:01,460 --> 01:44:02,746
+我做不到
+I cannot.
+
+1340
+01:44:03,660 --> 01:44:05,788
+我不能殺死莎拉·康納
+I cannot kill Sarah Connor.
+
+1341
+01:44:05,900 --> 01:44:06,901
+你必須這樣做
+You have to!
+
+1342
+01:44:07,100 --> 01:44:09,102
+我命令你
+I order you!
+
+1343
+01:44:12,900 --> 01:44:14,140
+他不會的
+He can't.
+
+1344
+01:44:15,060 --> 01:44:16,471
+我也不會
+Neither can I.
+
+1345
+01:44:17,140 --> 01:44:20,110
+我要是弄死你  他肯定會按下開關的
+Because if you die, he definitely hits that button.
+
+1346
+01:44:20,260 --> 01:44:22,228
+莎拉
+Sarah!
+
+1347
+01:45:01,980 --> 01:45:03,266
+莎拉
+Sarah!
+
+1348
+01:45:04,140 --> 01:45:05,824
+雷管被弄壞了
+The detonator's destroyed.
+
+1349
+01:45:06,580 --> 01:45:08,628
+一定還有其他辦法  快
+There's got to be another way. Come on.
+
+1350
+01:45:37,860 --> 01:45:40,830
+不  老爹  別  別  別  老爹
+No, Pops! No, no, no!
+
+1351
+01:45:41,340 --> 01:45:42,501
+不  不
+Pops, no!
+
+1352
+01:45:44,860 --> 01:45:46,828
+我知道如何控制這個地方
+I understand how to control this place.
+
+1353
+01:45:47,340 --> 01:45:48,990
+我現在無所不知
+I understand a lot of things now.
+
+1354
+01:45:49,180 --> 01:45:52,184
+你需要認識到  你們失敗了
+You need to understand. You've lost.
+
+1355
+01:45:52,620 --> 01:45:55,191
+還沒有  跟我走
+Not yet, we haven't. Come on!
+
+1356
+01:46:07,780 --> 01:46:08,827
+聚能射孔彈
+Shaped charge.
+
+1357
+01:46:08,980 --> 01:46:11,060
+能炸開實驗室  又不會傷到我們
+Big enough to get us in, small enough not to kill us.
+
+1358
+01:46:11,140 --> 01:46:12,505
+你有計劃了  對嗎
+You have a plan, right?
+
+1359
+01:46:13,380 --> 01:46:14,666
+理論上是
+Theoretically.
+
+1360
+01:46:32,300 --> 01:46:33,800
+{\an8}創世紀  上線倒計時  4分鐘
+
+1361
+01:46:34,820 --> 01:46:36,265
+剛才是誰說
+What was it you said?
+
+1362
+01:46:38,980 --> 01:46:40,903
+我不這麼認為
+"I don't think so"?
+
+1363
+01:46:42,900 --> 01:46:43,901
+約翰
+John!
+
+1364
+01:46:47,580 --> 01:46:48,706
+不
+No.
+
+1365
+01:47:04,100 --> 01:47:06,102
+就是它襲擊了約翰
+That's the thing that attacked John.
+
+1366
+01:47:06,420 --> 01:47:09,583
+我沒有襲擊約翰  我拯救了他
+I didn't attack John. I saved him.
+
+1367
+01:47:12,540 --> 01:47:16,590
+靈長動物用了幾百萬年才進化  我只需要短短幾秒
+Primates evolve over millions of years. I evolve in seconds.
+
+1368
+01:47:16,940 --> 01:47:19,591
+而現在  我就在這兒
+And I am here.
+
+1369
+01:47:26,300 --> 01:47:27,950
+確切說4分鐘後
+In exactly four minutes,
+
+1370
+01:47:30,140 --> 01:47:31,983
+我將會無處不在
+I will be everywhere.
+
+1371
+01:48:08,420 --> 01:48:12,311
+你只是那條被刪除的時間線上留下的殘留物
+You are nothing but a relic from a deleted timeline.
+
+1372
+01:48:22,300 --> 01:48:24,860
+這麼做毫無意義  我已經成為必然
+This is pointless. I am inevitable.
+
+1373
+01:48:24,980 --> 01:48:27,187
+- 快走  - 我的存在已經不可避免
+- Go! - My existence is inevitable.
+
+1374
+01:48:27,980 --> 01:48:30,267
+你們為什麼就是不接受這一點
+Why can't you just accept it?
+
+1375
+01:48:30,340 --> 01:48:31,910
+因為我們是人類
+Because we're human.
+
+1376
+01:49:01,900 --> 01:49:04,506
+就憑你是永遠不可能打敗我的
+You were never strong enough to defeat me.
+
+1377
+01:49:07,660 --> 01:49:09,071
+不只是我
+Not alone.
+
+1378
+01:49:09,420 --> 01:49:10,581
+約翰
+John?
+
+1379
+01:49:11,100 --> 01:49:13,228
+住手  住手
+Stop. Now.
+
+1380
+01:49:15,620 --> 01:49:17,782
+你們什麼時候才能明白
+When will you ever learn?
+
+1381
+01:49:22,020 --> 01:49:23,306
+開槍  莎拉
+Now, Sarah!
+
+1382
+01:49:52,860 --> 01:49:56,262
+凱爾·瑞斯  啟動量子場發電機
+Kyle Reese! Activate the field generator.
+
+1383
+01:49:56,380 --> 01:49:58,621
+不  老爹  不行  你不能進去的  你知道後果的
+No, Pops, not with you inside. You know what will happen.
+
+1384
+01:50:01,020 --> 01:50:03,751
+老爹  老爹  求你了  求你了  老爹
+Pops... Pops, please! Please, Pops!
+
+1385
+01:50:03,900 --> 01:50:06,141
+天網馬上就要自由了
+Skynet is almost free.
+
+1386
+01:50:07,020 --> 01:50:11,309
+我沒辦法控制約翰·康納太久
+I cannot hold John Connor much longer.
+
+1387
+01:50:13,580 --> 01:50:18,302
+凱爾·瑞斯  請保護我的莎拉
+Kyle Reese, protect my Sarah.
+
+1388
+01:50:18,740 --> 01:50:20,504
+不  不  不
+No! No! No!
+
+1389
+01:50:20,940 --> 01:50:23,625
+老爹  老爹  不  不  不
+No. Pops, no! No!
+
+1390
+01:50:29,340 --> 01:50:31,308
+不要  不
+Pops! No!
+
+1391
+01:50:38,260 --> 01:50:39,989
+- 不要  - 莎拉
+- No! - Sarah!
+
+1392
+01:50:41,180 --> 01:50:42,670
+這是唯一的辦法
+It's the only way.
+
+1393
+01:50:43,700 --> 01:50:44,861
+走吧
+Come on.
+
+1394
+01:51:20,900 --> 01:51:22,948
+<i>掃瞄中  請報出您的姓名</i>
+<i>Scanning. Identify yourself.</i>
+
+1395
+01:51:23,020 --> 01:51:24,181
+莎拉·康納
+Sarah Connor.
+
+1396
+01:52:51,940 --> 01:52:54,511
+我們得離開這兒  我們必須找到他
+We have to get out of here. We have to find him.
+
+1397
+01:52:54,620 --> 01:52:56,065
+莎拉  他不在了
+Sarah, he's gone.
+
+1398
+01:52:58,780 --> 01:53:01,147
+- 他已經  - 死了  是的  我知道
+- He's... - Dead? Yeah, I know that.
+
+1399
+01:53:01,300 --> 01:53:04,463
+我是說  不能讓別人發現他的遺體  那太危險了
+I mean, we leave no part of him behind. It's too dangerous.
+
+1400
+01:53:08,900 --> 01:53:10,140
+他愛過你
+He loved you.
+
+1401
+01:53:16,940 --> 01:53:18,510
+那些愛我的人
+Anyone who loves me,
+
+1402
+01:53:19,260 --> 01:53:20,500
+他們全都
+all of them,
+
+1403
+01:53:21,620 --> 01:53:22,860
+死了
+they die.
+
+1404
+01:53:24,420 --> 01:53:27,867
+你錯了  不是所有人
+Not all of them. Not this time.
+
+1405
+01:53:36,460 --> 01:53:37,507
+嘿
+Hey.
+
+1406
+01:53:41,660 --> 01:53:44,470
+你要知道  天網已經不存在了
+You need to understand that Skynet's gone.
+
+1407
+01:53:45,980 --> 01:53:47,220
+你自由了
+You're free.
+
+1408
+01:53:49,140 --> 01:53:53,384
+從今以後  你可以選擇自己的人生
+For the first time, you can choose the life you want.
+
+1409
+01:53:55,140 --> 01:53:56,904
+過你想要的生活
+Any life you want.
+
+1410
+01:54:01,140 --> 01:54:03,063
+要是我不知道該怎麼做呢
+What if I don't know how?
+
+1411
+01:54:08,980 --> 01:54:12,780
+這個  既然  我們已經沒剩多少空氣了
+Well, since we're about to run out of air,
+
+1412
+01:54:12,900 --> 01:54:15,790
+可是  你不用擔心這件事
+I'd say you don't need to worry about it.
+
+1413
+01:54:29,180 --> 01:54:30,591
+你好  莎拉·康納
+Hello, Sarah Connor.
+
+1414
+01:54:31,180 --> 01:54:32,420
+老爹
+Pops!
+
+1415
+01:54:35,420 --> 01:54:36,865
+我以為你死了
+I thought you were dead.
+
+1416
+01:54:36,940 --> 01:54:39,591
+沒有  我只是升級了
+No. Just upgraded.
+
+1417
+01:54:40,340 --> 01:54:41,910
+約翰怎麼樣了
+What about John?
+
+1418
+01:54:43,020 --> 01:54:46,263
+他的身體結構沒有辦法在爆炸中存活
+His constituent parts could not have survived the blast.
+
+1419
+01:54:47,860 --> 01:54:50,261
+那就是說只剩一件事要做了
+That means there's only one thing left to do.
+
+1420
+01:55:03,380 --> 01:55:05,144
+別叫了  怎麼啦
+Easy, boy. What is it?
+
+1421
+01:55:12,540 --> 01:55:13,540
+嘿  凱爾
+Hey, Kyle.
+
+1422
+01:55:13,580 --> 01:55:14,581
+嘿  嗯
+Hey. Um...
+
+1423
+01:55:15,540 --> 01:55:16,780
+你怎麼過來啦
+What are you doing here?
+
+1424
+01:55:18,740 --> 01:55:22,142
+我朋友很想跟你聊一聊  如果可以的話
+A friend of mine really needs to talk to you, if that's okay.
+
+1425
+01:55:22,820 --> 01:55:24,151
+可以  沒問題
+Yeah, I guess so.
+
+1426
+01:55:32,220 --> 01:55:33,301
+謝謝
+Thank you.
+
+1427
+01:55:49,100 --> 01:55:50,340
+我喜歡她
+I like her.
+
+1428
+01:55:53,740 --> 01:55:55,151
+我也喜歡
+Yeah, me, too.
+
+1429
+01:55:57,100 --> 01:55:59,501
+這聽上去可能有點奇怪
+Now, this is going to sound kind of strange,
+
+1430
+01:56:01,100 --> 01:56:03,307
+但我希望你能夠永遠記住
+but there's something I need you to remember.
+
+1431
+01:56:03,940 --> 01:56:05,385
+這條信息
+A message.
+
+1432
+01:56:05,460 --> 01:56:06,871
+要我告訴誰
+Who do I tell?
+
+1433
+01:56:09,420 --> 01:56:10,706
+你自己
+Yourself.
+
+1434
+01:56:11,940 --> 01:56:13,544
+一遍又一遍
+Over and over.
+
+1435
+01:56:14,940 --> 01:56:16,180
+準備好了嗎
+Are you ready?
+
+1436
+01:56:19,460 --> 01:56:20,871
+這條信息是
+It goes like this.
+
+1437
+01:56:22,940 --> 01:56:26,661
+記住  創世紀就是天網
+Remember Genisys is Skynet.
+
+1438
+01:56:33,060 --> 01:56:35,347
+凱爾·瑞斯是個好男人
+Kyle Reese is a good man.
+
+1439
+01:56:41,620 --> 01:56:42,906
+是的
+He is.
+
+1440
+01:56:50,140 --> 01:56:51,380
+現在去哪兒
+So what now?
+
+1441
+01:56:53,660 --> 01:56:54,900
+你說對了
+You were right.
+
+1442
+01:56:57,980 --> 01:56:59,584
+我可以選擇了
+I can choose.
+
+1443
+01:57:20,340 --> 01:57:22,422
+我能說這笑很煩人嗎
+You know that's really disturbing, right?
+
+1444
+01:57:26,020 --> 01:57:27,590
+你早晚會習慣的
+You'll get used to it.
+
+1445
+01:57:41,500 --> 01:57:42,911
+<i>戰爭結束了</i>
+<i>And it was over.</i>
+
+1446
+01:57:44,260 --> 01:57:45,864
+<i>天網不存在了</i>
+<i>Skynet was gone.</i>
+
+1447
+01:57:47,060 --> 01:57:49,028
+<i>生活有了更多的選擇</i>
+<i>And now one road has become many.</i>
+
+1448
+01:57:50,260 --> 01:57:54,265
+<i>雖然問題還在  可我們會一起去尋找答案</i>
+<i>Though questions remain, we'll search for the answers together.</i>
+
+1449
+01:57:54,900 --> 01:57:56,948
+<i>但有一件事我們很確定</i>
+<i>But one thing we know for sure.</i>
+
+1450
+01:57:57,900 --> 01:58:00,068
+<i>未來是可以改變的</i>
+<i>The future is not set.</i>
+
+1451
+01:58:01,180 --> 01:58:04,180
+{\an8}( 不要走開  結尾有彩蛋 )
+

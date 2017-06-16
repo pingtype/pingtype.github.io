@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#000000>需</font><font color=#178FD1>要</font>   </font><font color=#000000><font size="44">xū </font></font><font color=#178FD1><font size="52">y</font><font size="44">à</font><font size="36">o</font></font> <font size="50"><font color=#000000>need</font></font>

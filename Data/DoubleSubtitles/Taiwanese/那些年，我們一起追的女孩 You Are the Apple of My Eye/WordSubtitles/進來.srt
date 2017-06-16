@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#178FD1>進</font><font color=#F82423>來</font>   </font><font color=#178FD1><font size="52">j</font><font size="44">ì</font><font size="36">n </font></font><font color=#F82423><font size="36">l</font><font size="44">á</font><font size="52">i</font></font> <font size="50"><font color=#000000>Come in</font></font>

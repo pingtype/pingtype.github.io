@@ -1,0 +1,3430 @@
+1
+00:00:27,460 --> 00:00:32,460
+<font face="方正准圆_GBK" size="72">长城名列人类文明的壮举之一 千年来屹立不倒
+</font><font face="方正准圆_GBK" size="54"><i>THE GREAT WALL HAS STOOD FOR CENTURIES</i> <i>AS ONE OF MANKIND'S MOST ENDURING WONDERS.</i></font>
+
+2
+00:00:45,460 --> 00:00:50,460
+<font face="方正准圆_GBK" size="72">它绵延五千五百英里 历经一千七百多年修建完成
+</font><font face="方正准圆_GBK" size="54"><i>IT SPANS OVER 5500 MILES</i> <i>AND TOOK MORE THAN 1700 YEARS TO BUILD.</i></font>
+
+3
+00:00:55,460 --> 00:01:00,460
+<font face="方正准圆_GBK" size="72">它防御着形形色色的敌人 有真实的故事 也有传说
+</font><font face="方正准圆_GBK" size="54"><i>IT PROTECTED FROM MANY DANGERS. SOME ARE KNOWN. SOME ARE LEGEND.</i></font>
+
+4
+00:01:01,200 --> 00:01:05,000
+<font face="方正准圆_GBK" size="72">这就是其中的一则传说
+</font><font face="方正准圆_GBK" size="54"><i>THIS IS ONE OF THE LEGENDS.</i></font>
+
+5
+00:01:18,000 --> 00:01:20,000
+<font face="方正准圆_GBK" size="72">片名：长城
+</font><font face="方正准圆_GBK" size="54"><i>THE GREAT WALL</i></font>
+
+6
+00:02:02,460 --> 00:02:04,530
+<font face="方正准圆_GBK" size="72">纳吉 把马放开!
+</font><font face="方正准圆_GBK" size="54">Najid, cut the horses loose!</font>
+
+7
+00:02:56,400 --> 00:02:57,960
+<font face="方正准圆_GBK" size="72">我们得掉头回去
+</font><font face="方正准圆_GBK" size="54">We have to turn back.</font>
+
+8
+00:02:58,330 --> 00:03:00,230
+<font face="方正准圆_GBK" size="72">都走了六个月了
+</font><font face="方正准圆_GBK" size="54">We have been riding for six months.</font>
+
+9
+00:03:00,400 --> 00:03:03,500
+<font face="方正准圆_GBK" size="72">我们都死了二十几个人了 还没死光呢
+</font><font face="方正准圆_GBK" size="54">-And we've lost twenty men. -But we survived.</font>
+
+10
+00:03:03,660 --> 00:03:05,600
+<font face="方正准圆_GBK" size="72">对 快死光了!
+</font><font face="方正准圆_GBK" size="54">Yes. By chance.</font>
+
+11
+00:03:06,000 --> 00:03:09,000
+<font face="方正准圆_GBK" size="72">下一个死的就该轮到我们了
+</font><font face="方正准圆_GBK" size="54">Any one of us could have met that same fate.</font>
+
+12
+00:03:09,100 --> 00:03:13,100
+<font face="方正准圆_GBK" size="72">我们几个是最棒的 记住我们来的目的
+</font><font face="方正准圆_GBK" size="54">We were the strongest. Remember why you're here.</font>
+
+13
+00:03:13,260 --> 00:03:17,030
+<font face="方正准圆_GBK" size="72">要照以前 你敢这么说 我早把你给弄死了
+</font><font face="方正准圆_GBK" size="54">In the West, we would be enemies, and I wouldd have to kill you.</font>
+
+14
+00:03:17,500 --> 00:03:19,100
+<font face="方正准圆_GBK" size="72">好在我们的目标一致
+</font><font face="方正准圆_GBK" size="54">At least here we have a common goal.</font>
+
+15
+00:03:19,530 --> 00:03:21,960
+<font face="方正准圆_GBK" size="72">对 黑火药
+</font><font face="方正准圆_GBK" size="54">Oh, yes. This black powder.</font>
+
+16
+00:03:22,730 --> 00:03:27,300
+<font face="方正准圆_GBK" size="72">它能把空气变成火焰 一次就能干掉十几个人
+</font><font face="方正准圆_GBK" size="54">It turns air into fire. And kills a dozen men at one time.</font>
+
+17
+00:03:27,400 --> 00:03:30,900
+<font face="方正准圆_GBK" size="72">这是我梦寐以求的武器 那要只是个传说呢?
+</font><font face="方正准圆_GBK" size="54">-It is a weapon of our dreams. -What if it's just a myth?</font>
+
+18
+00:03:31,660 --> 00:03:33,760
+<font face="方正准圆_GBK" size="72">有人发誓说千真万确
+</font><font face="方正准圆_GBK" size="54">Men have sent word that it's real.</font>
+
+19
+00:03:33,860 --> 00:03:35,060
+<font face="方正准圆_GBK" size="72">那些人都死了
+</font><font face="方正准圆_GBK" size="54">And those men are dead.</font>
+
+20
+00:03:35,400 --> 00:03:36,600
+<font face="方正准圆_GBK" size="72">现在该轮到我们了
+</font><font face="方正准圆_GBK" size="54">And we are next.</font>
+
+21
+00:03:37,130 --> 00:03:38,500
+<font face="方正准圆_GBK" size="72">没有地图
+</font><font face="方正准圆_GBK" size="54">We have no maps,</font>
+
+22
+00:03:38,660 --> 00:03:40,000
+<font face="方正准圆_GBK" size="72">没有药品
+</font><font face="方正准圆_GBK" size="54">no medicines,</font>
+
+23
+00:03:40,130 --> 00:03:41,200
+<font face="方正准圆_GBK" size="72">没有吃的
+</font><font face="方正准圆_GBK" size="54">and no food.</font>
+
+24
+00:03:41,760 --> 00:03:43,000
+<font face="方正准圆_GBK" size="72">不行 谁都不能回去
+</font><font face="方正准圆_GBK" size="54">No one is going back.</font>
+
+25
+00:03:43,860 --> 00:03:46,800
+<font face="方正准圆_GBK" size="72">我们先清点一下剩下的东西
+</font><font face="方正准圆_GBK" size="54">We take inventory of what we have left</font>
+
+26
+00:03:47,160 --> 00:03:49,400
+<font face="方正准圆_GBK" size="72">干完这一票再说
+</font><font face="方正准圆_GBK" size="54">and finish what we started.</font>
+
+27
+00:03:49,500 --> 00:03:51,500
+<font face="方正准圆_GBK" size="72">没啥可用的
+</font><font face="方正准圆_GBK" size="54">There's not much here.</font>
+
+28
+00:03:52,330 --> 00:03:55,560
+<font face="方正准圆_GBK" size="72">月色很好 等马吃饱了我们就走
+</font><font face="方正准圆_GBK" size="54">The moon is strong. When the horse are fresh, we move.</font>
+
+29
+00:03:55,730 --> 00:03:57,630
+<font face="方正准圆_GBK" size="72">去哪儿? 往北
+</font><font face="方正准圆_GBK" size="54">-To where? -North.</font>
+
+30
+00:03:58,160 --> 00:04:01,200
+<font face="方正准圆_GBK" size="72">契丹人如果追上来，就在山里干掉他们
+</font><font face="方正准圆_GBK" size="54">If they keep after us, we'll kill them in the mountains.</font>
+
+31
+00:04:02,100 --> 00:04:02,960
+<font face="方正准圆_GBK" size="72">一块磁石
+</font><font face="方正准圆_GBK" size="54">The magnet.</font>
+
+32
+00:04:05,000 --> 00:04:06,500
+<font face="方正准圆_GBK" size="72">太沉了
+</font><font face="方正准圆_GBK" size="54">Too heavy.</font>
+
+33
+00:04:06,700 --> 00:04:07,300
+<font face="方正准圆_GBK" size="72">留着 没啥用
+</font><font face="方正准圆_GBK" size="54">-Useless. -I'll have it.</font>
+
+34
+00:04:10,060 --> 00:04:10,930
+<font face="方正准圆_GBK" size="72">你自己拿着
+</font><font face="方正准圆_GBK" size="54">It's all yours.</font>
+
+35
+00:04:16,000 --> 00:04:19,800
+<font face="方正准圆_GBK" size="72">哥们 你要背块破石头过沙漠啊?
+</font><font face="方正准圆_GBK" size="54">Amigo, only you would carry a stupid magnet through the desert.</font>
+
+36
+00:04:20,100 --> 00:04:21,560
+<font face="方正准圆_GBK" size="72">我能用它做个指南针
+</font><font face="方正准圆_GBK" size="54">I can use it to make a compass.</font>
+
+37
+00:04:24,100 --> 00:04:26,330
+<font face="方正准圆_GBK" size="72">里泽蒂不行了
+</font><font face="方正准圆_GBK" size="54">Rizzeti won't make it.</font>
+
+38
+00:04:27,000 --> 00:04:29,300
+<font face="方正准圆_GBK" size="72">他伤得很重
+</font><font face="方正准圆_GBK" size="54">The wound is festering.</font>
+
+39
+00:04:29,500 --> 00:04:33,030
+<font face="方正准圆_GBK" size="72">咱们现在等于是在拖着一具尸体在走 我听见了!
+</font><font face="方正准圆_GBK" size="54">-We'll be dragging a corpse. -I heard that.</font>
+
+40
+00:04:34,000 --> 00:04:36,300
+<font face="方正准圆_GBK" size="72">死在哪儿是他的选择
+</font><font face="方正准圆_GBK" size="54">He's earned the right to die where he wants.</font>
+
+41
+00:04:38,160 --> 00:04:39,800
+<font face="方正准圆_GBK" size="72">我也被人扔下过两次
+</font><font face="方正准圆_GBK" size="54">I've been left for dead twice.</font>
+
+42
+00:04:42,000 --> 00:04:43,830
+<font face="方正准圆_GBK" size="72">那些扔下我的人
+</font><font face="方正准圆_GBK" size="54">The people who left me.</font>
+
+43
+00:05:09,800 --> 00:05:11,130
+<font face="方正准圆_GBK" size="72">他们去哪了?
+</font><font face="方正准圆_GBK" size="54">Where are they?</font>
+
+44
+00:05:23,500 --> 00:05:24,900
+<font face="方正准圆_GBK" size="72">是契丹人?
+</font><font face="方正准圆_GBK" size="54">Hill tribes?</font>
+
+45
+00:05:25,530 --> 00:05:26,700
+<font face="方正准圆_GBK" size="72">不是人类
+</font><font face="方正准圆_GBK" size="54">It's no man.</font>
+
+46
+00:05:28,200 --> 00:05:29,730
+<font face="方正准圆_GBK" size="72">那是什么?
+</font><font face="方正准圆_GBK" size="54">Then what is it?</font>
+
+47
+00:05:30,200 --> 00:05:31,700
+<font face="方正准圆_GBK" size="72">不管是什么
+</font><font face="方正准圆_GBK" size="54">Whatever it is...</font>
+
+48
+00:05:33,000 --> 00:05:34,130
+<font face="方正准圆_GBK" size="72">它在捕食
+</font><font face="方正准圆_GBK" size="54">it's hunting.</font>
+
+49
+00:05:44,560 --> 00:05:46,300
+<font face="方正准圆_GBK" size="72">什么东西? 不知道
+</font><font face="方正准圆_GBK" size="54">-What was that? -I don't know.</font>
+
+50
+00:05:47,300 --> 00:05:48,430
+<font face="方正准圆_GBK" size="72">我砍了它的爪子
+</font><font face="方正准圆_GBK" size="54">I took its hand.</font>
+
+51
+00:05:48,730 --> 00:05:49,930
+<font face="方正准圆_GBK" size="72">那……那我们现在……
+</font><font face="方正准圆_GBK" size="54">We need to move.</font>
+
+52
+00:05:50,060 --> 00:05:50,930
+<font face="方正准圆_GBK" size="72">赶紧走
+</font><font face="方正准圆_GBK" size="54">Agreed.</font>
+
+53
+00:05:51,200 --> 00:05:52,360
+<font face="方正准圆_GBK" size="72">得带上这个
+</font><font face="方正准圆_GBK" size="54">I'll take the hands with us.</font>
+
+54
+00:05:52,700 --> 00:05:53,830
+<font face="方正准圆_GBK" size="72">带它干嘛?
+</font><font face="方正准圆_GBK" size="54">What the hell for?</font>
+
+55
+00:05:54,530 --> 00:05:57,030
+<font face="方正准圆_GBK" size="72">得弄清楚它是什么东西
+</font><font face="方正准圆_GBK" size="54">So someone can tell me what I just killed.</font>
+
+56
+00:06:13,400 --> 00:06:15,700
+<font face="方正准圆_GBK" size="72">这帮孙子还真是锲而不舍啊
+</font><font face="方正准圆_GBK" size="54">Persistent bastards, aren't they?</font>
+
+57
+00:06:16,360 --> 00:06:19,300
+<font face="方正准圆_GBK" size="72">我们上山去 居高临下打
+</font><font face="方正准圆_GBK" size="54">We'll take the rise, make a stand there.</font>
+
+58
+00:06:19,930 --> 00:06:23,100
+<font face="方正准圆_GBK" size="72">人要死了还得兜个风
+</font><font face="方正准圆_GBK" size="54">What a long shitting way to go to die.</font>
+
+59
+00:07:10,700 --> 00:07:11,760
+<font face="方正准圆_GBK" size="72">这下完了
+</font><font face="方正准圆_GBK" size="54">Mother of God.</font>
+
+60
+00:07:11,900 --> 00:07:12,860
+<font face="方正准圆_GBK" size="72">放箭!
+</font><font face="方正准圆_GBK" size="54">Fire!</font>
+
+61
+00:07:48,660 --> 00:07:51,430
+<font face="方正准圆_GBK" size="72">这回去也是死
+</font><font face="方正准圆_GBK" size="54">I have no need to go down fighting.</font>
+
+62
+00:07:51,560 --> 00:07:52,930
+<font face="方正准圆_GBK" size="72">没错
+</font><font face="方正准圆_GBK" size="54">Agreed.</font>
+
+63
+00:07:53,960 --> 00:07:56,960
+<font face="方正准圆_GBK" size="72">跟前面的绅士们碰碰运气吧
+</font><font face="方正准圆_GBK" size="54">I say we take our chanches with the gents in front of us.</font>
+
+64
+00:07:57,060 --> 00:07:59,630
+<font face="方正准圆_GBK" size="72">我可很久没有投降过了
+</font><font face="方正准圆_GBK" size="54">I haven't surrendered in a while, eh.</font>
+
+65
+00:08:01,660 --> 00:08:03,730
+<font face="方正准圆_GBK" size="72">那就再来一次
+</font><font face="方正准圆_GBK" size="54">It'll come back to you.</font>
+
+66
+00:08:10,960 --> 00:08:13,330
+<font face="方正准圆_GBK" size="72">只要你听我的 保证平安无事
+</font><font face="方正准圆_GBK" size="54">Follow my lead. We'll be fine.</font>
+
+67
+00:08:13,960 --> 00:08:15,430
+<font face="方正准圆_GBK" size="72">当然得听你的
+</font><font face="方正准圆_GBK" size="54">Of course, my friend.</font>
+
+68
+00:08:15,560 --> 00:08:17,230
+<font face="方正准圆_GBK" size="72">咱们是朋友嘛
+</font><font face="方正准圆_GBK" size="54">Where you go, I follow.</font>
+
+69
+00:08:17,360 --> 00:08:19,360
+<font face="方正准圆_GBK" size="72">都这样了 还能平安无事?
+</font><font face="方正准圆_GBK" size="54">You're doing such a great job already.</font>
+
+70
+00:08:24,260 --> 00:08:25,800
+<font face="方正准圆_GBK" size="72">传鹿军邓将军
+</font><font face="方正准圆_GBK" size="54">All commanders to the great hall!</font>
+
+71
+00:08:26,200 --> 00:08:28,160
+<font face="方正准圆_GBK" size="72">传鹤军林将军
+</font><font face="方正准圆_GBK" size="54">All commanders report to the General!</font>
+
+72
+00:08:28,500 --> 00:08:32,260
+<font face="方正准圆_GBK" size="72">闪开
+</font><font face="方正准圆_GBK" size="54">Make way! Make way!</font>
+
+73
+00:08:38,160 --> 00:08:39,730
+<font face="方正准圆_GBK" size="72">急传鹤军林将军
+</font><font face="方正准圆_GBK" size="54">All commanders to the large hall!</font>
+
+74
+00:08:40,400 --> 00:08:41,560
+<font face="方正准圆_GBK" size="72">闪开
+</font><font face="方正准圆_GBK" size="54">Make way!</font>
+
+75
+00:08:42,500 --> 00:08:44,200
+<font face="方正准圆_GBK" size="72">传鹿军邓将军
+</font><font face="方正准圆_GBK" size="54">Commander Lin is needed immediately!</font>
+
+76
+00:08:44,330 --> 00:08:46,900
+<font face="方正准圆_GBK" size="72">急传鹤军林将军
+</font><font face="方正准圆_GBK" size="54">Calling Commander Lin!</font>
+
+77
+00:08:48,400 --> 00:08:50,200
+<font face="方正准圆_GBK" size="72">邵殿帅急传林将军
+</font><font face="方正准圆_GBK" size="54">Commander Lin is needed immediately!</font>
+
+78
+00:09:00,960 --> 00:09:02,600
+<font face="方正准圆_GBK" size="72">他们对那个感兴趣
+</font><font face="方正准圆_GBK" size="54">They know what it is.</font>
+
+79
+00:09:02,800 --> 00:09:04,200
+<font face="方正准圆_GBK" size="72">而且表情十分凝重
+</font><font face="方正准圆_GBK" size="54">And they don't look so happy to see it.</font>
+
+80
+00:09:04,600 --> 00:09:07,030
+<font face="方正准圆_GBK" size="72">必须得找个机会杀出去
+</font><font face="方正准圆_GBK" size="54">All the more reason to get the hell out of here.</font>
+
+81
+00:09:07,160 --> 00:09:09,130
+<font face="方正准圆_GBK" size="72">我们的武器在桌子上
+</font><font face="方正准圆_GBK" size="54">Our weapons are on that table.</font>
+
+82
+00:09:10,800 --> 00:09:12,200
+<font face="方正准圆_GBK" size="72">你确定你没疯?
+</font><font face="方正准圆_GBK" size="54">Have you lost your mind?</font>
+
+83
+00:09:12,730 --> 00:09:15,160
+<font face="方正准圆_GBK" size="72">我只要拿到了弓箭就能干掉这些士兵
+</font><font face="方正准圆_GBK" size="54">I can take the guards on the perimeter with my bow.</font>
+
+84
+00:09:15,330 --> 00:09:16,930
+<font face="方正准圆_GBK" size="72">你去干掉那几个当官的
+</font><font face="方正准圆_GBK" size="54">You cut the legs out from under the officers.</font>
+
+85
+00:09:17,060 --> 00:09:19,560
+<font face="方正准圆_GBK" size="72">你真具有非凡的想象力
+</font><font face="方正准圆_GBK" size="54">I must confess this is not my favorite plan.</font>
+
+86
+00:09:19,730 --> 00:09:22,100
+<font face="方正准圆_GBK" size="72">这是在哪捡的?
+</font><font face="方正准圆_GBK" size="54">Where was this found?</font>
+
+87
+00:09:24,660 --> 00:09:26,330
+<font face="方正准圆_GBK" size="72">你会说英文?
+</font><font face="方正准圆_GBK" size="54">You speak English.</font>
+
+88
+00:09:26,730 --> 00:09:28,000
+<font face="方正准圆_GBK" size="72">这下热闹了
+</font><font face="方正准圆_GBK" size="54">Fantastic.</font>
+
+89
+00:09:31,260 --> 00:09:33,200
+<font face="方正准圆_GBK" size="72">我问你在哪儿捡的?
+</font><font face="方正准圆_GBK" size="54">Where was this found?</font>
+
+90
+00:09:33,800 --> 00:09:35,530
+<font face="方正准圆_GBK" size="72">不是捡的
+</font><font face="方正准圆_GBK" size="54">It wasn't found.</font>
+
+91
+00:09:36,130 --> 00:09:37,400
+<font face="方正准圆_GBK" size="72">是我砍的
+</font><font face="方正准圆_GBK" size="54">It was taken.</font>
+
+92
+00:09:37,560 --> 00:09:40,030
+<font face="方正准圆_GBK" size="72">之前它杀了我们三个人
+</font><font face="方正准圆_GBK" size="54">That thing killed three men before we took it down.</font>
+
+93
+00:09:40,160 --> 00:09:41,030
+<font face="方正准圆_GBK" size="72">在哪儿?
+</font><font face="方正准圆_GBK" size="54">Where?</font>
+
+94
+00:09:41,930 --> 00:09:44,300
+<font face="方正准圆_GBK" size="72">骑马往北 两天
+</font><font face="方正准圆_GBK" size="54">Two days ride.</font>
+
+95
+00:09:44,360 --> 00:09:46,100
+<font face="方正准圆_GBK" size="72">山里
+</font><font face="方正准圆_GBK" size="54">North, in the mountains.</font>
+
+96
+00:09:46,400 --> 00:09:48,930
+<font face="方正准圆_GBK" size="72">他说在北山 据此两日行程
+</font><font face="方正准圆_GBK" size="54">He says two days ride north, in the mountains.</font>
+
+97
+00:09:49,060 --> 00:09:53,130
+<font face="方正准圆_GBK" size="72">他自称曾斩杀一头饕餮 两日?
+</font><font face="方正准圆_GBK" size="54">-They claim to have killed it. -Two days?</font>
+
+98
+00:09:53,260 --> 00:09:55,530
+<font face="方正准圆_GBK" size="72">比我们预计的时间提前了
+</font><font face="方正准圆_GBK" size="54">Earlier than we expected.</font>
+
+99
+00:09:55,660 --> 00:09:56,360
+<font face="方正准圆_GBK" size="72">王军师
+</font><font face="方正准圆_GBK" size="54">Strategist Wang!</font>
+
+100
+00:09:57,460 --> 00:09:59,500
+<font face="方正准圆_GBK" size="72">殿帅 我在听
+</font><font face="方正准圆_GBK" size="54">I'm listening, General.</font>
+
+101
+00:10:00,730 --> 00:10:01,800
+<font face="方正准圆_GBK" size="72">是他们杀的?
+</font><font face="方正准圆_GBK" size="54">The two of them killed it?</font>
+
+102
+00:10:02,730 --> 00:10:06,300
+<font face="方正准圆_GBK" size="72">你们两个 一起杀的? 那个……我们……
+</font><font face="方正准圆_GBK" size="54">-Two of you, you did this? -Well...</font>
+
+103
+00:10:07,100 --> 00:10:09,930
+<font face="方正准圆_GBK" size="72">是我杀的 你一个人?
+</font><font face="方正准圆_GBK" size="54">-I killed it. -Alone?</font>
+
+104
+00:10:13,400 --> 00:10:16,000
+<font face="方正准圆_GBK" size="72">他说是他一个人杀的 他一个人?
+</font><font face="方正准圆_GBK" size="54">-He claims to have killed it alone. -By himself?</font>
+
+105
+00:10:16,130 --> 00:10:17,200
+<font face="方正准圆_GBK" size="72">怎么可能?
+</font><font face="方正准圆_GBK" size="54">Impossible.</font>
+
+106
+00:10:19,100 --> 00:10:20,900
+<font face="方正准圆_GBK" size="72">你是怎么杀的?
+</font><font face="方正准圆_GBK" size="54">Tell me how.</font>
+
+107
+00:10:21,730 --> 00:10:23,230
+<font face="方正准圆_GBK" size="72">就那么一砍一劈
+</font><font face="方正准圆_GBK" size="54">A swing of the sword.</font>
+
+108
+00:10:23,230 --> 00:10:25,230
+<font face="方正准圆_GBK" size="72">它爪子断了
+</font><font face="方正准圆_GBK" size="54">The hand came away clean.</font>
+
+109
+00:10:25,960 --> 00:10:28,360
+<font face="方正准圆_GBK" size="72">身体向后一倒 掉进山谷里了
+</font><font face="方正准圆_GBK" size="54">The beast fell back into a chasm.</font>
+
+110
+00:10:28,730 --> 00:10:32,230
+<font face="方正准圆_GBK" size="72">你们来这儿干什么? 我们是商人
+</font><font face="方正准圆_GBK" size="54">-Why are you here? -We came to trade.</font>
+
+111
+00:10:32,400 --> 00:10:34,400
+<font face="方正准圆_GBK" size="72">遇上了埋伏
+</font><font face="方正准圆_GBK" size="54">We were ambushed.</font>
+
+112
+00:10:35,600 --> 00:10:36,600
+<font face="方正准圆_GBK" size="72">来人!
+</font><font face="方正准圆_GBK" size="54">Guards!</font>
+
+113
+00:10:48,500 --> 00:10:49,630
+<font face="方正准圆_GBK" size="72">你们是军人
+</font><font face="方正准圆_GBK" size="54">You are soldiers.</font>
+
+114
+00:10:53,130 --> 00:10:54,530
+<font face="方正准圆_GBK" size="72">林将军
+</font><font face="方正准圆_GBK" size="54">Commander Lin.</font>
+
+115
+00:10:55,260 --> 00:10:56,130
+<font face="方正准圆_GBK" size="72">不可
+</font><font face="方正准圆_GBK" size="54">Wait.</font>
+
+116
+00:11:07,860 --> 00:11:10,130
+<font face="方正准圆_GBK" size="72">殿帅 他们谎称是遭遇契丹人伏击的商人
+</font><font face="方正准圆_GBK" size="54">They claim to be traders who were ambushed.</font>
+
+117
+00:11:11,560 --> 00:11:14,030
+<font face="方正准圆_GBK" size="72">这蛮夷真能吹牛
+</font><font face="方正准圆_GBK" size="54">These barbarians are liars.</font>
+
+118
+00:11:14,200 --> 00:11:15,560
+<font face="方正准圆_GBK" size="72">未必
+</font><font face="方正准圆_GBK" size="54">Perhaps not.</font>
+
+119
+00:11:16,400 --> 00:11:18,000
+<font face="方正准圆_GBK" size="72">有饕餮断掌为证
+</font><font face="方正准圆_GBK" size="54">They brought the claw here.</font>
+
+120
+00:11:18,130 --> 00:11:20,600
+<font face="方正准圆_GBK" size="72">刀剑切口一目了然
+</font><font face="方正准圆_GBK" size="54">The wound is fresh.</font>
+
+121
+00:11:20,730 --> 00:11:23,300
+<font face="方正准圆_GBK" size="72">在他们的剑和衣服上都有绿血
+</font><font face="方正准圆_GBK" size="54">There is green blood on his sword.</font>
+
+122
+00:11:23,460 --> 00:11:24,760
+<font face="方正准圆_GBK" size="72">完全有那个可能
+</font><font face="方正准圆_GBK" size="54">Those prove his story.</font>
+
+123
+00:11:29,100 --> 00:11:32,130
+<font face="方正准圆_GBK" size="72">末将以为 无论巧合与否 应立即处死二人
+</font><font face="方正准圆_GBK" size="54">To protect our secret, we must kill them.</font>
+
+124
+00:11:32,460 --> 00:11:35,430
+<font face="方正准圆_GBK" size="72">以防后患 林将军说的是
+</font><font face="方正准圆_GBK" size="54">-Eliminate the possibility of trouble. -I agree.</font>
+
+125
+00:11:35,930 --> 00:11:36,760
+<font face="方正准圆_GBK" size="72">砍了算了
+</font><font face="方正准圆_GBK" size="54">We should kill them!</font>
+
+126
+00:11:39,700 --> 00:11:40,800
+<font face="方正准圆_GBK" size="72">殿帅
+</font><font face="方正准圆_GBK" size="54">General.</font>
+
+127
+00:11:41,160 --> 00:11:44,130
+<font face="方正准圆_GBK" size="72">他们来历尚未查明
+</font><font face="方正准圆_GBK" size="54">Until we find the truth,</font>
+
+128
+00:11:44,260 --> 00:11:47,300
+<font face="方正准圆_GBK" size="72">我看还是多留几天吧 报!
+</font><font face="方正准圆_GBK" size="54">-I advise we keep them alive. -Alert!</font>
+
+129
+00:11:50,530 --> 00:11:52,530
+<font face="方正准圆_GBK" size="72">启禀殿帅大人 烽火台狼烟四起
+</font><font face="方正准圆_GBK" size="54">General, signals from the smoke towers!</font>
+
+130
+00:11:52,760 --> 00:11:53,800
+<font face="方正准圆_GBK" size="72">有敌来犯!
+</font><font face="方正准圆_GBK" size="54">We are under attack!</font>
+
+131
+00:11:53,900 --> 00:11:56,030
+<font face="方正准圆_GBK" size="72">先将俘虏押至北楼
+</font><font face="方正准圆_GBK" size="54">Take them to the stockade.</font>
+
+132
+00:11:56,160 --> 00:12:00,400
+<font face="方正准圆_GBK" size="72">传今全体将士 准备迎战 是 准备迎敌!
+</font><font face="方正准圆_GBK" size="54">-All stations on full alert! -Yes! All stations on full alert!</font>
+
+133
+00:12:21,360 --> 00:12:23,300
+<font face="方正准圆_GBK" size="72">小娘子 你真要处决我们吗?
+</font><font face="方正准圆_GBK" size="54">Are you killing us, Sister?</font>
+
+134
+00:12:23,360 --> 00:12:25,500
+<font face="方正准圆_GBK" size="72">我们两只可怜的迷途羔羊?
+</font><font face="方正准圆_GBK" size="54">Two lost travelers?</font>
+
+135
+00:12:26,330 --> 00:12:28,230
+<font face="方正准圆_GBK" size="72">这到底是怎么回事啊?
+</font><font face="方正准圆_GBK" size="54">What's happening here?</font>
+
+136
+00:12:28,360 --> 00:12:30,160
+<font face="方正准圆_GBK" size="72">你不是保证平安无事的吗?
+</font><font face="方正准圆_GBK" size="54">Is this bitch going to kill us?</font>
+
+137
+00:12:30,330 --> 00:12:31,730
+<font face="方正准圆_GBK" size="72">先别这么紧张
+</font><font face="方正准圆_GBK" size="54">I think she'd like that.</font>
+
+138
+00:12:33,300 --> 00:12:34,930
+<font face="方正准圆_GBK" size="72">真要杀我们啊? 亲
+</font><font face="方正准圆_GBK" size="54">If it is death, my dear,</font>
+
+139
+00:12:35,530 --> 00:12:37,000
+<font face="方正准圆_GBK" size="72">你下得了手吗
+</font><font face="方正准圆_GBK" size="54">we need time to pray.</font>
+
+140
+00:12:37,960 --> 00:12:38,830
+<font face="方正准圆_GBK" size="72">我得跟她套套近乎
+</font><font face="方正准圆_GBK" size="54">I'm trying here.</font>
+
+141
+00:12:40,460 --> 00:12:43,300
+<font face="方正准圆_GBK" size="72">小娘子 我知道你们被围攻了
+</font><font face="方正准圆_GBK" size="54">Sister, I know a siege when I see one.</font>
+
+142
+00:12:43,930 --> 00:12:46,360
+<font face="方正准圆_GBK" size="72">可是你们城墙这么高 不用担心的
+</font><font face="方正准圆_GBK" size="54">What comes at you so hard you need a wall like this?</font>
+
+143
+00:12:46,530 --> 00:12:50,100
+<font face="方正准圆_GBK" size="72">我砍的到底是什么东西? 饕餮
+</font><font face="方正准圆_GBK" size="54">-What the hell did we kill out there? -Tao Tei.</font>
+
+144
+00:12:50,700 --> 00:12:53,060
+<font face="方正准圆_GBK" size="72">你杀了一只饕餮侦察兵
+</font><font face="方正准圆_GBK" size="54">You killed a Tao Tei scout.</font>
+
+145
+00:12:53,300 --> 00:12:54,500
+<font face="方正准圆_GBK" size="72">就凭你一个人
+</font><font face="方正准圆_GBK" size="54">You killed it alone.</font>
+
+146
+00:12:55,360 --> 00:12:57,960
+<font face="方正准圆_GBK" size="72">和我们预想的一样 大战将至
+</font><font face="方正准圆_GBK" size="54">You are correct. We are under siege.</font>
+
+147
+00:12:58,500 --> 00:13:01,200
+<font face="方正准圆_GBK" size="72">只是它们的攻击提前了九天
+</font><font face="方正准圆_GBK" size="54">But we did not expect the attack for another nine days.</font>
+
+148
+00:13:01,360 --> 00:13:02,130
+<font face="方正准圆_GBK" size="72">攻击?
+</font><font face="方正准圆_GBK" size="54">Attack?</font>
+
+149
+00:13:04,160 --> 00:13:05,900
+<font face="方正准圆_GBK" size="72">饕餮到底是什么东西?
+</font><font face="方正准圆_GBK" size="54">-Tao Tei? -What the hell is a Tao Tei?</font>
+
+150
+00:13:06,100 --> 00:13:08,300
+<font face="方正准圆_GBK" size="72">你们的经历很重要
+</font><font face="方正准圆_GBK" size="54">Many things about your story have importance.</font>
+
+151
+00:13:08,730 --> 00:13:10,300
+<font face="方正准圆_GBK" size="72">所以先让你们活着
+</font><font face="方正准圆_GBK" size="54">You are not to die today.</font>
+
+152
+00:13:16,130 --> 00:13:16,760
+<font face="方正准圆_GBK" size="72">快!
+</font><font face="方正准圆_GBK" size="54">Hurry!</font>
+
+153
+00:13:17,500 --> 00:13:20,230
+<font face="方正准圆_GBK" size="72">启禀军师 钥…钥匙找不着了
+</font><font face="方正准圆_GBK" size="54">I'm sorry, sir. I can not find the key.</font>
+
+154
+00:13:20,360 --> 00:13:21,130
+<font face="方正准圆_GBK" size="72">算了!
+</font><font face="方正准圆_GBK" size="54">Forget it!</font>
+
+155
+00:13:21,260 --> 00:13:24,100
+<font face="方正准圆_GBK" size="72">带他们上城 交熊军临时看押
+</font><font face="方正准圆_GBK" size="54">Bring them to the wall. Keep an eye on them!</font>
+
+156
+00:13:31,260 --> 00:13:32,460
+<font face="方正准圆_GBK" size="72">殿帅
+</font><font face="方正准圆_GBK" size="54">General.</font>
+
+157
+00:13:32,600 --> 00:13:34,100
+<font face="方正准圆_GBK" size="72">终于来了
+</font><font face="方正准圆_GBK" size="54">It's finally happening.</font>
+
+158
+00:13:34,860 --> 00:13:36,060
+<font face="方正准圆_GBK" size="72">是啊
+</font><font face="方正准圆_GBK" size="54">Yes.</font>
+
+159
+00:13:37,100 --> 00:13:40,000
+<font face="方正准圆_GBK" size="72">这一仗等了六十年
+</font><font face="方正准圆_GBK" size="54">60 years preparing for this moment.</font>
+
+160
+00:13:53,300 --> 00:13:55,800
+<font face="方正准圆_GBK" size="72">站住!
+</font><font face="方正准圆_GBK" size="54">Stop! Stop!</font>
+
+161
+00:13:59,260 --> 00:14:00,720
+<font face="方正准圆_GBK" size="72">进去!
+</font><font face="方正准圆_GBK" size="54">Go. Go!</font>
+
+162
+00:14:01,930 --> 00:14:02,560
+<font face="方正准圆_GBK" size="72">进去!
+</font><font face="方正准圆_GBK" size="54">Inside!</font>
+
+163
+00:14:40,760 --> 00:14:42,400
+<font face="方正准圆_GBK" size="72">进去!
+</font><font face="方正准圆_GBK" size="54">Stand still!</font>
+
+164
+00:15:07,100 --> 00:15:08,430
+<font face="方正准圆_GBK" size="72">坐下!
+</font><font face="方正准圆_GBK" size="54">Get down! Get down!</font>
+
+165
+00:15:54,900 --> 00:15:57,130
+<font face="方正准圆_GBK" size="72">黑色的应该是步兵
+</font><font face="方正准圆_GBK" size="54">The black are the foot soldiers.</font>
+
+166
+00:15:57,360 --> 00:15:59,800
+<font face="方正准圆_GBK" size="72">红的呢? 红的是弓弩手
+</font><font face="方正准圆_GBK" size="54">-And the red? -Those are the archers.</font>
+
+167
+00:16:16,460 --> 00:16:18,160
+<font face="方正准圆_GBK" size="72">这蓝色的是? 都是女人
+</font><font face="方正准圆_GBK" size="54">-And the blue? -They're all women.</font>
+
+168
+00:16:18,660 --> 00:16:21,760
+<font face="方正准圆_GBK" size="72">女人来搞什么?
+</font><font face="方正准圆_GBK" size="54">What the hell do they do?</font>
+
+169
+00:16:35,930 --> 00:16:37,760
+<font face="方正准圆_GBK" size="72">装备精良
+</font><font face="方正准圆_GBK" size="54">Look at this army.</font>
+
+170
+00:16:38,930 --> 00:16:42,530
+<font face="方正准圆_GBK" size="72">你见过这样的军队吗? 真牛
+</font><font face="方正准圆_GBK" size="54">-Have you ever seen anything like this? -Incredible.</font>
+
+171
+00:16:47,760 --> 00:16:48,600
+<font face="方正准圆_GBK" size="72">接枪
+</font><font face="方正准圆_GBK" size="54">Catch it!</font>
+
+172
+00:17:02,360 --> 00:17:03,880
+<font face="方正准圆_GBK" size="72">他们看起来很紧张
+</font><font face="方正准圆_GBK" size="54">They look nervous.</font>
+
+173
+00:17:05,590 --> 00:17:09,200
+<font face="方正准圆_GBK" size="72">墙这么高 他们到底紧张什么啊?
+</font><font face="方正准圆_GBK" size="54">It's a big wall to be so nervous.</font>
+
+174
+00:17:26,330 --> 00:17:27,930
+<font face="方正准圆_GBK" size="72">怎么听着不对劲儿啊
+</font><font face="方正准圆_GBK" size="54">Do you hear it?</font>
+
+175
+00:17:35,360 --> 00:17:38,360
+<font face="方正准圆_GBK" size="72">远攻! 是 战鼓队传令远攻!
+</font><font face="方正准圆_GBK" size="54">-Long distance weapons! -Yes! Drums signal long distance weapons!</font>
+
+176
+00:17:51,560 --> 00:17:52,560
+<font face="方正准圆_GBK" size="72">扶好!
+</font><font face="方正准圆_GBK" size="54">Grab it!</font>
+
+177
+00:17:56,900 --> 00:17:57,860
+<font face="方正准圆_GBK" size="72">点火!
+</font><font face="方正准圆_GBK" size="54">Light it!</font>
+
+178
+00:18:33,700 --> 00:18:36,430
+<font face="方正准圆_GBK" size="72">对准腋下之目!
+</font><font face="方正准圆_GBK" size="54">Aim for the eyes! Aim for the eyes!</font>
+
+179
+00:18:56,460 --> 00:18:57,930
+<font face="方正准圆_GBK" size="72">飞索攻击!
+</font><font face="方正准圆_GBK" size="54">Crane Corps attack!</font>
+
+180
+00:20:00,800 --> 00:20:03,130
+<font face="方正准圆_GBK" size="72">威廉 你看那儿
+</font><font face="方正准圆_GBK" size="54">William, over there.</font>
+
+181
+00:20:04,700 --> 00:20:06,500
+<font face="方正准圆_GBK" size="72">他怎么没被绑着?
+</font><font face="方正准圆_GBK" size="54">Why isn't he tied up?</font>
+
+182
+00:20:08,260 --> 00:20:09,600
+<font face="方正准圆_GBK" size="72">我们有机会了
+</font><font face="方正准圆_GBK" size="54">There's our escape.</font>
+
+183
+00:20:30,930 --> 00:20:33,730
+<font face="方正准圆_GBK" size="72">殿帅 那应该是兽王 它在指挥
+</font><font face="方正准圆_GBK" size="54">General. There's the queen. She commands them.</font>
+
+184
+00:20:34,160 --> 00:20:35,300
+<font face="方正准圆_GBK" size="72">攻击兽王!
+</font><font face="方正准圆_GBK" size="54">Attack the queen!</font>
+
+185
+00:21:13,160 --> 00:21:15,560
+<font face="方正准圆_GBK" size="72">近战! 是 近战!
+</font><font face="方正准圆_GBK" size="54">-Close combat! -Yes! Close combat!</font>
+
+186
+00:21:15,730 --> 00:21:17,360
+<font face="方正准圆_GBK" size="72">战鼓队传令近战!
+</font><font face="方正准圆_GBK" size="54">Drums signal close combat.</font>
+
+187
+00:21:40,460 --> 00:21:43,300
+<font face="方正准圆_GBK" size="72">我们得离开! 要不然我们就死定了!
+</font><font face="方正准圆_GBK" size="54">We need to move! We need to move or we die!</font>
+
+188
+00:22:01,360 --> 00:22:02,230
+<font face="方正准圆_GBK" size="72">上 上
+</font><font face="方正准圆_GBK" size="54">Go, go!</font>
+
+189
+00:22:03,960 --> 00:22:05,100
+<font face="方正准圆_GBK" size="72">上去打它呀
+</font><font face="方正准圆_GBK" size="54">Go and fight!</font>
+
+190
+00:22:12,530 --> 00:22:13,330
+<font face="方正准圆_GBK" size="72">快帮我解开
+</font><font face="方正准圆_GBK" size="54">Cut me loose!</font>
+
+191
+00:22:17,000 --> 00:22:19,200
+<font face="方正准圆_GBK" size="72">打还是逃? 往哪儿逃啊?
+</font><font face="方正准圆_GBK" size="54">-Fight or run? -Run where?</font>
+
+192
+00:22:25,940 --> 00:22:27,500
+<font face="方正准圆_GBK" size="72">射它们的眼睛
+</font><font face="方正准圆_GBK" size="54">Aim for the eyes!</font>
+
+193
+00:23:06,530 --> 00:23:07,330
+<font face="方正准圆_GBK" size="72">威廉
+</font><font face="方正准圆_GBK" size="54">William!</font>
+
+194
+00:23:33,760 --> 00:23:35,730
+<font face="方正准圆_GBK" size="72">畜生 来啊
+</font><font face="方正准圆_GBK" size="54">Hey! Bitch!</font>
+
+195
+00:23:46,000 --> 00:23:54,230
+<font face="方正准圆_GBK" size="72">威廉 我需要个角度
+</font><font face="方正准圆_GBK" size="54">-William. -I need a shot.</font>
+
+196
+00:24:41,730 --> 00:24:44,100
+<font face="方正准圆_GBK" size="72">什么神造出了这些怪物?
+</font><font face="方正准圆_GBK" size="54">What god made those things?</font>
+
+197
+00:24:45,060 --> 00:24:46,960
+<font face="方正准圆_GBK" size="72">反正不是我们的神
+</font><font face="方正准圆_GBK" size="54">None that we know.</font>
+
+198
+00:25:04,800 --> 00:25:09,300
+<font face="方正准圆_GBK" size="72">他们还会处死我们吗? 那倒省事儿了
+</font><font face="方正准圆_GBK" size="54">-Think they'll hang us now? -I could use the rest.</font>
+
+199
+00:25:34,000 --> 00:25:38,130
+<font face="方正准圆_GBK" size="72">听说今天打得不错 我们殿帅在夸奖你们
+</font><font face="方正准圆_GBK" size="54">-You fought well today. -You've earned General Shao's praise.</font>
+
+200
+00:25:38,600 --> 00:25:40,930
+<font face="方正准圆_GBK" size="72">它们还会回来吗? 会的
+</font><font face="方正准圆_GBK" size="54">-Will they come back? -Yes.</font>
+
+201
+00:25:41,460 --> 00:25:44,160
+<font face="方正准圆_GBK" size="72">我们得随时准备好
+</font><font face="方正准圆_GBK" size="54">All we can do is prepare.</font>
+
+202
+00:25:45,460 --> 00:25:46,500
+<font face="方正准圆_GBK" size="72">带他们回营房
+</font><font face="方正准圆_GBK" size="54">Take them to the barracks.</font>
+
+203
+00:25:46,660 --> 00:25:49,330
+<font face="方正准圆_GBK" size="72">给他们准备一个房间 是!
+</font><font face="方正准圆_GBK" size="54">-They need rest. -Yes!</font>
+
+204
+00:26:17,460 --> 00:26:19,130
+<font face="方正准圆_GBK" size="72">感谢救命之恩
+</font><font face="方正准圆_GBK" size="54">Thank you for saving my life.</font>
+
+205
+00:26:42,730 --> 00:26:44,330
+<font face="方正准圆_GBK" size="72">林将军
+</font><font face="方正准圆_GBK" size="54">Commander Lin.</font>
+
+206
+00:26:45,560 --> 00:26:48,000
+<font face="方正准圆_GBK" size="72">你从小在禁军中长大
+</font><font face="方正准圆_GBK" size="54">You grew up in the Nameless Order.</font>
+
+207
+00:26:48,160 --> 00:26:50,900
+<font face="方正准圆_GBK" size="72">我也教会了你很多东西
+</font><font face="方正准圆_GBK" size="54">I've taught you many things,</font>
+
+208
+00:26:51,160 --> 00:26:53,400
+<font face="方正准圆_GBK" size="72">你也在不断地学习
+</font><font face="方正准圆_GBK" size="54">and you have been learning,</font>
+
+209
+00:26:54,130 --> 00:26:56,630
+<font face="方正准圆_GBK" size="72">但是它们也在学习
+</font><font face="方正准圆_GBK" size="54">but they have been learning also.</font>
+
+210
+00:26:57,200 --> 00:26:59,660
+<font face="方正准圆_GBK" size="72">王军师说过它们在变化
+</font><font face="方正准圆_GBK" size="54">Strategist Wang warned they are evolving.</font>
+
+211
+00:27:00,700 --> 00:27:02,830
+<font face="方正准圆_GBK" size="72">我们没有认真听
+</font><font face="方正准圆_GBK" size="54">No one listened.</font>
+
+212
+00:27:03,700 --> 00:27:05,130
+<font face="方正准圆_GBK" size="72">我们今天面对的对手
+</font><font face="方正准圆_GBK" size="54">The enemies we're facing today</font>
+
+213
+00:27:05,260 --> 00:27:07,800
+<font face="方正准圆_GBK" size="72">己经不是六十年前的敌人了
+</font><font face="方正准圆_GBK" size="54">are more intelligent than 60 years ago.</font>
+
+214
+00:27:10,600 --> 00:27:12,130
+<font face="方正准圆_GBK" size="72">盯紧那两个外邦
+</font><font face="方正准圆_GBK" size="54">Watch the foreigners closely.</font>
+
+215
+00:27:12,300 --> 00:27:13,900
+<font face="方正准圆_GBK" size="72">姑且好生款待
+</font><font face="方正准圆_GBK" size="54">They can never leave.</font>
+
+216
+00:27:14,000 --> 00:27:16,960
+<font face="方正准圆_GBK" size="72">一旦查明实情 立即处死 遵命
+</font><font face="方正准圆_GBK" size="54">-We must protect the secrets of the Wall. -Yes sir!</font>
+
+217
+00:27:18,400 --> 00:27:20,100
+<font face="方正准圆_GBK" size="72">你是谁啊?
+</font><font face="方正准圆_GBK" size="54">Who are you?</font>
+
+218
+00:27:25,660 --> 00:27:26,560
+<font face="方正准圆_GBK" size="72">等一下
+</font><font face="方正准圆_GBK" size="54">Easy.</font>
+
+219
+00:27:30,100 --> 00:27:31,300
+<font face="方正准圆_GBK" size="72">我叫巴拉德
+</font><font face="方正准圆_GBK" size="54">I'm Ballard.</font>
+
+220
+00:27:33,060 --> 00:27:34,200
+<font face="方正准圆_GBK" size="72">我叫威廉
+</font><font face="方正准圆_GBK" size="54">William.</font>
+
+221
+00:27:35,260 --> 00:27:36,760
+<font face="方正准圆_GBK" size="72">这是托瓦尔
+</font><font face="方正准圆_GBK" size="54">This is Tovar.</font>
+
+222
+00:27:37,900 --> 00:27:39,730
+<font face="方正准圆_GBK" size="72">你们来干什么?
+</font><font face="方正准圆_GBK" size="54">What are you doing here?</font>
+
+223
+00:27:40,600 --> 00:27:44,960
+<font face="方正准圆_GBK" size="72">当然为了黑火药 果然如我所料
+</font><font face="方正准圆_GBK" size="54">-We came looking for black powder. -I bet you did.</font>
+
+224
+00:27:45,100 --> 00:27:47,830
+<font face="方正准圆_GBK" size="72">二十五年前 我随一队雇佣兵来到这儿
+</font><font face="方正准圆_GBK" size="54">I came with merceneries for the same thing,</font>
+
+225
+00:27:47,960 --> 00:27:49,630
+<font face="方正准圆_GBK" size="72">也是为了这个
+</font><font face="方正准圆_GBK" size="54">25 years ago.</font>
+
+226
+00:27:50,400 --> 00:27:51,460
+<font face="方正准圆_GBK" size="72">你找到了吗?
+</font><font face="方正准圆_GBK" size="54">And did you find it?</font>
+
+227
+00:27:51,700 --> 00:27:54,830
+<font face="方正准圆_GBK" size="72">找到了和活着带出去可是两回事
+</font><font face="方正准圆_GBK" size="54">Finding it and leaving with it alive are two different things.</font>
+
+228
+00:27:58,300 --> 00:27:59,730
+<font face="方正准圆_GBK" size="72">不过 你们参加了战斗 就等于是先下了步好棋
+</font><font face="方正准圆_GBK" size="54">You saved the west turret. That was extremely diplomatic.</font>
+
+229
+00:28:01,600 --> 00:28:03,800
+<font face="方正准圆_GBK" size="72">杀死怪兽不是下棋
+</font><font face="方正准圆_GBK" size="54">We weren't being diplomatic.</font>
+
+230
+00:28:03,900 --> 00:28:05,730
+<font face="方正准圆_GBK" size="72">是为了保命
+</font><font face="方正准圆_GBK" size="54">We were trying to stay alive.</font>
+
+231
+00:28:08,260 --> 00:28:10,960
+<font face="方正准圆_GBK" size="72">你们闻起来跟牲畜一样臭 多谢
+</font><font face="方正准圆_GBK" size="54">-You smell like animals. -Thank you.</font>
+
+232
+00:28:16,260 --> 00:28:20,530
+<font face="方正准圆_GBK" size="72">洗干净 会给你们饭吃
+</font><font face="方正准圆_GBK" size="54">Clean up and they'll feed you.</font>
+
+233
+00:28:23,460 --> 00:28:24,760
+<font face="方正准圆_GBK" size="72">他知道黑火药在哪儿
+</font><font face="方正准圆_GBK" size="54">He knows where the powder is.</font>
+
+234
+00:28:26,200 --> 00:28:27,930
+<font face="方正准圆_GBK" size="72">那他怎么还在这儿?
+</font><font face="方正准圆_GBK" size="54">Then why is he still here?</font>
+
+235
+00:28:28,760 --> 00:28:30,230
+<font face="方正准圆_GBK" size="72">他需要我们当帮手
+</font><font face="方正准圆_GBK" size="54">He needs help getting out?</font>
+
+236
+00:28:31,260 --> 00:28:31,960
+<font face="方正准圆_GBK" size="72">有可能
+</font><font face="方正准圆_GBK" size="54">Right.</font>
+
+237
+00:28:34,600 --> 00:28:37,930
+<font face="方正准圆_GBK" size="72">拿到火药 就回家
+</font><font face="方正准圆_GBK" size="54">We play our part, take the powder and go home.</font>
+
+238
+00:28:38,900 --> 00:28:41,630
+<font face="方正准圆_GBK" size="72">你好像漏了件大事 什么大事?
+</font><font face="方正准圆_GBK" size="54">-I didn't sign up for this. -Which part?</font>
+
+239
+00:28:43,000 --> 00:28:45,630
+<font face="方正准圆_GBK" size="72">所有事 主要是怪兽
+</font><font face="方正准圆_GBK" size="54">Well... All of it. But mostly the monsters.</font>
+
+240
+00:28:46,730 --> 00:28:47,860
+<font face="方正准圆_GBK" size="72">好多怪兽
+</font><font face="方正准圆_GBK" size="54">There's a lot of them.</font>
+
+241
+00:28:51,260 --> 00:28:53,330
+<font face="方正准圆_GBK" size="72">我们真的很臭
+</font><font face="方正准圆_GBK" size="54">We really do smell.</font>
+
+242
+00:29:25,560 --> 00:29:30,500
+<font face="方正准圆_GBK" size="72">我们邵殿帅感谢你们参加战斗
+</font><font face="方正准圆_GBK" size="54">General Shao welcomes you as honored guests of the Nameless Order,</font>
+
+243
+00:29:30,730 --> 00:29:32,900
+<font face="方正准圆_GBK" size="72">并赞赏你们勇气可嘉
+</font><font face="方正准圆_GBK" size="54">and thanks you for your skill and courage.</font>
+
+244
+00:29:35,160 --> 00:29:38,500
+<font face="方正准圆_GBK" size="72">我们感谢你们的感谢
+</font><font face="方正准圆_GBK" size="54">We are honored to be honored.</font>
+
+245
+00:29:40,760 --> 00:29:42,300
+<font face="方正准圆_GBK" size="72">话都不会说了?
+</font><font face="方正准圆_GBK" size="54">Is that the best you've got?</font>
+
+246
+00:29:46,730 --> 00:29:48,640
+<font face="方正准圆_GBK" size="72">殿帅
+</font><font face="方正准圆_GBK" size="54">General.</font>
+
+247
+00:29:49,930 --> 00:29:51,760
+<font face="方正准圆_GBK" size="72">我们见过他的兵器
+</font><font face="方正准圆_GBK" size="54">I couldn't help wondering,</font>
+
+248
+00:29:51,900 --> 00:29:54,400
+<font face="方正准圆_GBK" size="72">想不通像他这样一位神箭手
+</font><font face="方正准圆_GBK" size="54">why would such an accomplished archer</font>
+
+249
+00:29:54,660 --> 00:29:57,030
+<font face="方正准圆_GBK" size="72">为何会用这样一张破弓?
+</font><font face="方正准圆_GBK" size="54">used such a primitive bow.</font>
+
+250
+00:29:59,360 --> 00:30:02,960
+<font face="方正准圆_GBK" size="72">陈将军认为 你的弓跟你的身手不相配
+</font><font face="方正准圆_GBK" size="54">Commander Chen thinks your bow is not worthy of your skill.</font>
+
+251
+00:30:03,500 --> 00:30:05,860
+<font face="方正准圆_GBK" size="72">告诉他 这张弓无与伦比
+</font><font face="方正准圆_GBK" size="54">Tell him there's no better weapon here.</font>
+
+252
+00:30:06,800 --> 00:30:10,700
+<font face="方正准圆_GBK" size="72">他说 这张弓全城独一无二
+</font><font face="方正准圆_GBK" size="54">He claims his weapon is second to none.</font>
+
+253
+00:30:14,060 --> 00:30:18,130
+<font face="方正准圆_GBK" size="72">请他给我们展示一下 让将士们开开眼
+</font><font face="方正准圆_GBK" size="54">Let him show us. Give him some space!</font>
+
+254
+00:30:24,760 --> 00:30:27,900
+<font face="方正准圆_GBK" size="72">大家想领教一下 在这?
+</font><font face="方正准圆_GBK" size="54">-They wish to see you shoot. -In here?</font>
+
+255
+00:30:28,000 --> 00:30:31,930
+<font face="方正准圆_GBK" size="72">众目睽睽 要是为难 就算了
+</font><font face="方正准圆_GBK" size="54">Unless he's afraid. It's a large audience.</font>
+
+256
+00:30:32,060 --> 00:30:34,500
+<font face="方正准圆_GBK" size="72">什么意思? 他说当着这么多人
+</font><font face="方正准圆_GBK" size="54">-What was that? -He thinks you have fear.</font>
+
+257
+00:30:35,600 --> 00:30:37,330
+<font face="方正准圆_GBK" size="72">你怕出丑
+</font><font face="方正准圆_GBK" size="54">Too many people.</font>
+
+258
+00:30:40,500 --> 00:30:42,430
+<font face="方正准圆_GBK" size="72">你拿一只碗来 真来呀?
+</font><font face="方正准圆_GBK" size="54">-Get one of the cups. -Now?</font>
+
+259
+00:30:42,460 --> 00:30:44,430
+<font face="方正准圆_GBK" size="72">去拿只碗来 我都快饿死了
+</font><font face="方正准圆_GBK" size="54">-Get one of the cups. -I want to eat.</font>
+
+260
+00:30:52,360 --> 00:30:54,830
+<font face="方正准圆_GBK" size="72">照老样子 上次你可演砸了
+</font><font face="方正准圆_GBK" size="54">You remember how to do this? Last Time didn't go so good.</font>
+
+261
+00:30:54,960 --> 00:30:55,800
+<font face="方正准圆_GBK" size="72">那是喝大了
+</font><font face="方正准圆_GBK" size="54">-We were drunk. -How high?</font>
+
+262
+00:30:56,460 --> 00:31:00,600
+<font face="方正准圆_GBK" size="72">多高? 十码吧 向右 六掌
+</font><font face="方正准圆_GBK" size="54">10 yards. Six hands to the right.</font>
+
+263
+00:31:00,760 --> 00:31:03,300
+<font face="方正准圆_GBK" size="72">行不行啊 没事 就这么来
+</font><font face="方正准圆_GBK" size="54">-Turn around. -No. I'll do it this way.</font>
+
+264
+00:31:05,660 --> 00:31:06,030
+<font face="方正准圆_GBK" size="72">一
+</font><font face="方正准圆_GBK" size="54">One.</font>
+
+265
+00:31:07,330 --> 00:31:08,030
+<font face="方正准圆_GBK" size="72">二
+</font><font face="方正准圆_GBK" size="54">Two.</font>
+
+266
+00:31:09,530 --> 00:31:10,500
+<font face="方正准圆_GBK" size="72">三
+</font><font face="方正准圆_GBK" size="54">Three.</font>
+
+267
+00:31:12,260 --> 00:31:13,560
+<font face="方正准圆_GBK" size="72">扔
+</font><font face="方正准圆_GBK" size="54">Pull.</font>
+
+268
+00:31:48,700 --> 00:31:52,300
+<font face="方正准圆_GBK" size="72">臭美够了吧 我可得开吃了
+</font><font face="方正准圆_GBK" size="54">Good luck with that. I want food.</font>
+
+269
+00:31:52,500 --> 00:31:55,430
+<font face="方正准圆_GBK" size="72">谁教你的英语? 巴拉德教我的
+</font><font face="方正准圆_GBK" size="54">-Who taught you English? -Sir Ballard.</font>
+
+270
+00:31:57,060 --> 00:31:58,900
+<font face="方正准圆_GBK" size="72">英文和拉丁文
+</font><font face="方正准圆_GBK" size="54">English and Latin.</font>
+
+271
+00:31:59,730 --> 00:32:02,000
+<font face="方正准圆_GBK" size="72">听说他在这儿已经二十五年了
+</font><font face="方正准圆_GBK" size="54">Heard he's been here for twenty five years.</font>
+
+272
+00:32:02,200 --> 00:32:04,230
+<font face="方正准圆_GBK" size="72">你们一直扣留他
+</font><font face="方正准圆_GBK" size="54">You won't let him leave.</font>
+
+273
+00:32:04,460 --> 00:32:06,030
+<font face="方正准圆_GBK" size="72">他必须留下
+</font><font face="方正准圆_GBK" size="54">He must stay here.</font>
+
+274
+00:32:06,800 --> 00:32:07,830
+<font face="方正准圆_GBK" size="72">那我们昵?
+</font><font face="方正准圆_GBK" size="54">What about us?</font>
+
+275
+00:32:10,900 --> 00:32:14,030
+<font face="方正准圆_GBK" size="72">悠着点吃 一顿都少不了你的
+</font><font face="方正准圆_GBK" size="54">Pace yourself. The meals are regular here.</font>
+
+276
+00:32:14,600 --> 00:32:16,530
+<font face="方正准圆_GBK" size="72">我可没想像你一样待那么久
+</font><font face="方正准圆_GBK" size="54">I hope not to stay that long.</font>
+
+277
+00:32:16,600 --> 00:32:18,130
+<font face="方正准圆_GBK" size="72">这么想就对了
+</font><font face="方正准圆_GBK" size="54">I like your thinking,</font>
+
+278
+00:32:18,300 --> 00:32:21,030
+<font face="方正准圆_GBK" size="72">我劝你还是别让人看出来你想干嘛
+</font><font face="方正准圆_GBK" size="54">but I suggest you keep your plans private.</font>
+
+279
+00:32:21,300 --> 00:32:24,830
+<font face="方正准圆_GBK" size="72">你们不是唯一为了黑火药而来的西方人
+</font><font face="方正准圆_GBK" size="54">You aren't the first Westerners to come here looking for black powder.</font>
+
+280
+00:32:25,860 --> 00:32:29,030
+<font face="方正准圆_GBK" size="72">你们今晚来我房间 商量一下
+</font><font face="方正准圆_GBK" size="54">We'll discuss it tonight. Bring your partner.</font>
+
+281
+00:32:29,500 --> 00:32:32,200
+<font face="方正准圆_GBK" size="72">你在这儿多久了? 一直都在
+</font><font face="方正准圆_GBK" size="54">-How long have you been here? -Always.</font>
+
+282
+00:32:32,500 --> 00:32:35,330
+<font face="方正准圆_GBK" size="72">我不到五岁就来这儿了
+</font><font face="方正准圆_GBK" size="54">I was not five years old when I came here.</font>
+
+283
+00:32:35,530 --> 00:32:37,530
+<font face="方正准圆_GBK" size="72">我从小就没有家人
+</font><font face="方正准圆_GBK" size="54">I have no other family.</font>
+
+284
+00:32:37,660 --> 00:32:38,600
+<font face="方正准圆_GBK" size="72">那咱们是同类人
+</font><font face="方正准圆_GBK" size="54">We're the same.</font>
+
+285
+00:32:39,530 --> 00:32:42,330
+<font face="方正准圆_GBK" size="72">我也是被军队收养的 在我记事之前
+</font><font face="方正准圆_GBK" size="54">I was given to an army before I can remember.</font>
+
+286
+00:32:42,460 --> 00:32:46,760
+<font face="方正准圆_GBK" size="72">当了士兵? 比那还遭 一名打扫
+</font><font face="方正准圆_GBK" size="54">-As a soldier? -Worse. As a gleaner.</font>
+
+287
+00:32:46,900 --> 00:32:49,730
+<font face="方正准圆_GBK" size="72">就是一群孩子 在战斗结束之后
+</font><font face="方正准圆_GBK" size="54">Packs of children, we'd clean the battlefields.</font>
+
+288
+00:32:49,760 --> 00:32:53,330
+<font face="方正准圆_GBK" size="72">负责打扫战场 后来成了待卫
+</font><font face="方正准圆_GBK" size="54">After, when the fighting's over, I became a page.</font>
+
+289
+00:32:53,330 --> 00:32:57,200
+<font face="方正准圆_GBK" size="72">一名长矛兵 为了你的国家吗?
+</font><font face="方正准圆_GBK" size="54">-a pikeman's boy. -For Your country?</font>
+
+290
+00:32:57,360 --> 00:33:00,130
+<font face="方正准圆_GBK" size="72">不 为了填饱肚子
+</font><font face="方正准圆_GBK" size="54">No. I fought for food.</font>
+
+291
+00:33:00,960 --> 00:33:02,600
+<font face="方正准圆_GBK" size="72">为了生存
+</font><font face="方正准圆_GBK" size="54">You fight to eat.</font>
+
+292
+00:33:03,360 --> 00:33:05,230
+<font face="方正准圆_GBK" size="72">也是为了钱而战
+</font><font face="方正准圆_GBK" size="54">You live long enough, you fight for money.</font>
+
+293
+00:33:06,130 --> 00:33:08,600
+<font face="方正准圆_GBK" size="72">你可以为多少国家卖命?
+</font><font face="方正准圆_GBK" size="54">How many flag do you fight for?</font>
+
+294
+00:33:09,800 --> 00:33:11,330
+<font face="方正准圆_GBK" size="72">我不确定
+</font><font face="方正准圆_GBK" size="54">I don't know.</font>
+
+295
+00:33:13,500 --> 00:33:16,000
+<font face="方正准圆_GBK" size="72">我帮哈罗德打丹麦人
+</font><font face="方正准圆_GBK" size="54">I fought for Harold against the Danes.</font>
+
+296
+00:33:16,130 --> 00:33:17,560
+<font face="方正准圆_GBK" size="72">救了公爵的命 他死之前我一直为他打仗
+</font><font face="方正准圆_GBK" size="54">I saved a Duke's life. I fought for him until he died.</font>
+
+297
+00:33:19,730 --> 00:33:22,400
+<font face="方正准圆_GBK" size="72">我帮西班牙人打法兰克人
+</font><font face="方正准圆_GBK" size="54">Fought for Spain against the Franks.</font>
+
+298
+00:33:22,900 --> 00:33:24,630
+<font face="方正准圆_GBK" size="72">又帮法兰克人打布伦人
+</font><font face="方正准圆_GBK" size="54">Fought for Franks against Boulogne.</font>
+
+299
+00:33:24,860 --> 00:33:26,630
+<font face="方正准圆_GBK" size="72">还为教皇打过仗
+</font><font face="方正准圆_GBK" size="54">I fought for the Pope.</font>
+
+300
+00:33:28,500 --> 00:33:30,500
+<font face="方正准圆_GBK" size="72">很多国家
+</font><font face="方正准圆_GBK" size="54">Many flags.</font>
+
+301
+00:33:33,700 --> 00:33:35,760
+<font face="方正准圆_GBK" size="72">我们并不是同类人
+</font><font face="方正准圆_GBK" size="54">We are not the same.</font>
+
+302
+00:33:42,130 --> 00:33:45,960
+<font face="方正准圆_GBK" size="72">来城墙上找我 让你见识一下
+</font><font face="方正准圆_GBK" size="54">Meet me on the Wall. I have something to show you.</font>
+
+303
+00:33:48,600 --> 00:33:51,000
+<font face="方正准圆_GBK" size="72">这个女人你得防着点儿
+</font><font face="方正准圆_GBK" size="54">He should be careful with her.</font>
+
+304
+00:33:51,130 --> 00:33:53,000
+<font face="方正准圆_GBK" size="72">她可不是省油的灯
+</font><font face="方正准圆_GBK" size="54">She's very powerful here.</font>
+
+305
+00:33:53,130 --> 00:33:55,600
+<font face="方正准圆_GBK" size="72">正好 我们也不省油
+</font><font face="方正准圆_GBK" size="54">Then it is a fair contest.</font>
+
+306
+00:34:05,500 --> 00:34:06,460
+<font face="方正准圆_GBK" size="72">上来
+</font><font face="方正准圆_GBK" size="54">Come.</font>
+
+307
+00:34:19,190 --> 00:34:20,530
+<font face="方正准圆_GBK" size="72">敢不敢试试?
+</font><font face="方正准圆_GBK" size="54">You wish to try?</font>
+
+308
+00:34:25,300 --> 00:34:27,190
+<font face="方正准圆_GBK" size="72">男人那么重 拉得上来吗?
+</font><font face="方正准圆_GBK" size="54">Men are too heavy. Do you think we can pull him up?</font>
+
+309
+00:34:29,690 --> 00:34:32,500
+<font face="方正准圆_GBK" size="72">她说男人可以做很好的示范
+</font><font face="方正准圆_GBK" size="54">She says men have so much to teach us.</font>
+
+310
+00:34:39,000 --> 00:34:40,730
+<font face="方正准圆_GBK" size="72">我觉得她说的不是这个意思
+</font><font face="方正准圆_GBK" size="54">I don't think that's what she said.</font>
+
+311
+00:34:41,000 --> 00:34:42,600
+<font face="方正准圆_GBK" size="72">我看出来了
+</font><font face="方正准圆_GBK" size="54">You know what I think?</font>
+
+312
+00:34:43,800 --> 00:34:44,930
+<font face="方正准圆_GBK" size="72">你又怯场了
+</font><font face="方正准圆_GBK" size="54">I think you're afraid.</font>
+
+313
+00:34:47,400 --> 00:34:49,330
+<font face="方正准圆_GBK" size="72">刚才射箭前你也这么说
+</font><font face="方正准圆_GBK" size="54">You said that this morning.</font>
+
+314
+00:34:49,800 --> 00:34:50,690
+<font face="方正准圆_GBK" size="72">我这不是……
+</font><font face="方正准圆_GBK" size="54">And yet,</font>
+
+315
+00:34:53,330 --> 00:34:53,360
+<font face="方正准圆_GBK" size="72">来了吗?
+</font><font face="方正准圆_GBK" size="54">here I am.</font>
+
+316
+00:34:53,500 --> 00:34:54,230
+<font face="方正准圆_GBK" size="72">好啊
+</font><font face="方正准圆_GBK" size="54">Yes.</font>
+
+317
+00:34:55,060 --> 00:34:56,560
+<font face="方正准圆_GBK" size="72">那来吧
+</font><font face="方正准圆_GBK" size="54">Here you are.</font>
+
+318
+00:35:12,060 --> 00:35:15,130
+<font face="方正准圆_GBK" size="72">你是跳…… 还是不跳?
+</font><font face="方正准圆_GBK" size="54">Will you jump? Or not?</font>
+
+319
+00:35:18,400 --> 00:35:23,360
+<font face="方正准圆_GBK" size="72">他们靠的住吗? 这你不用操心
+</font><font face="方正准圆_GBK" size="54">-These men know what they're doing? -Wrong question.</font>
+
+320
+00:35:25,640 --> 00:35:30,680
+<font face="方正准圆_GBK" size="72">你该操心的是 你身上的绳子绑好了没有
+</font><font face="方正准圆_GBK" size="54">Whether or not the cable is attached, that is the question.</font>
+
+321
+00:35:33,660 --> 00:35:34,960
+<font face="方正准圆_GBK" size="72">关键是什么呢?
+</font><font face="方正准圆_GBK" size="54">-And the answer? -Xin ren.</font>
+
+322
+00:35:37,920 --> 00:35:39,060
+<font face="方正准圆_GBK" size="72">信任
+</font><font face="方正准圆_GBK" size="54">Xin ren?</font>
+
+323
+00:35:40,600 --> 00:35:44,100
+<font face="方正准圆_GBK" size="72">信任 彼此之间 相信
+</font><font face="方正准圆_GBK" size="54">Xin ren means trust. To have faith.</font>
+
+324
+00:35:45,100 --> 00:35:50,930
+<font face="方正准圆_GBK" size="72">我们这支军队 不为钱和食物而战
+</font><font face="方正准圆_GBK" size="54">Here, in this army, we fight for more than food or money.</font>
+
+325
+00:35:51,300 --> 00:35:53,600
+<font face="方正准圆_GBK" size="72">我们的牺牲更有意义
+</font><font face="方正准圆_GBK" size="54">We give our lives to something more.</font>
+
+326
+00:35:55,330 --> 00:36:00,160
+<font face="方正准圆_GBK" size="72">我们以信任为旗帜 彼此支持 彼此信任
+</font><font face="方正准圆_GBK" size="54">Xin ren is our flag. Trust in each other.</font>
+
+327
+00:36:00,600 --> 00:36:04,200
+<font face="方正准圆_GBK" size="72">不论何时 不论何地
+</font><font face="方正准圆_GBK" size="54">In all ways, at all times.</font>
+
+328
+00:36:19,600 --> 00:36:21,800
+<font face="方正准圆_GBK" size="72">你说的有道理 但我是不会跳
+</font><font face="方正准圆_GBK" size="54">Well, that's all well and good, but I'm not jumping.</font>
+
+329
+00:36:21,800 --> 00:36:24,800
+<font face="方正准圆_GBK" size="72">我能活到今天 就是因为我只相信自己
+</font><font face="方正准圆_GBK" size="54">A man must learn to trust, before he can be trusted.</font>
+
+330
+00:36:25,600 --> 00:36:28,800
+<font face="方正准圆_GBK" size="72">其实 你信任别人 就是相信自己
+</font><font face="方正准圆_GBK" size="54">A man must learn to trust, before he can be trusted.</font>
+
+331
+00:36:30,360 --> 00:36:33,440
+<font face="方正准圆_GBK" size="72">你说的对
+</font><font face="方正准圆_GBK" size="54">Then you were right.</font>
+
+332
+00:36:33,440 --> 00:36:34,860
+<font face="方正准圆_GBK" size="72">我们并不是同类人
+</font><font face="方正准圆_GBK" size="54">We're not the same.</font>
+
+333
+00:36:41,130 --> 00:36:43,160
+<font face="方正准圆_GBK" size="72">快 下次袭击随时开始!
+</font><font face="方正准圆_GBK" size="54">Stay vigilant! The next attack is coming!</font>
+
+334
+00:36:48,530 --> 00:36:49,760
+<font face="方正准圆_GBK" size="72">天呐
+</font><font face="方正准圆_GBK" size="54">My god!</font>
+
+335
+00:36:51,360 --> 00:36:53,130
+<font face="方正准圆_GBK" size="72">让你们先开开眼
+</font><font face="方正准圆_GBK" size="54">A taste, a glimpse,</font>
+
+336
+00:36:53,260 --> 00:36:54,960
+<font face="方正准圆_GBK" size="72">这点黑火药
+</font><font face="方正准圆_GBK" size="54">a few pilfered grains</font>
+
+337
+00:36:54,960 --> 00:36:56,560
+<font face="方正准圆_GBK" size="72">还是我从王军师那儿偷偷弄来的
+</font><font face="方正准圆_GBK" size="54">from Strategist Wang's supply of black powder.</font>
+
+338
+00:36:56,560 --> 00:36:58,030
+<font face="方正准圆_GBK" size="72">很珍贵</font>
+
+339
+00:36:59,200 --> 00:37:03,560
+<font face="方正准圆_GBK" size="72">王军师这个人 对黑火药可是很有研究
+</font><font face="方正准圆_GBK" size="54">He's mastered the transmutation of these elements.</font>
+
+340
+00:37:03,730 --> 00:37:05,030
+<font face="方正准圆_GBK" size="72">据说有种火药武器
+</font><font face="方正准圆_GBK" size="54">People speak of a weapon.</font>
+
+341
+00:37:05,160 --> 00:37:06,930
+<font face="方正准圆_GBK" size="72">这里的武器五花八门
+</font><font face="方正准圆_GBK" size="54">There are many weapons here.</font>
+
+342
+00:37:07,100 --> 00:37:08,430
+<font face="方正准圆_GBK" size="72">我怎么没见到呀
+</font><font face="方正准圆_GBK" size="54">Why have we not seen them?</font>
+
+343
+00:37:08,530 --> 00:37:11,600
+<font face="方正准圆_GBK" size="72">你没见过的东西多着呢
+</font><font face="方正准圆_GBK" size="54">There are many things you have not seen.</font>
+
+344
+00:37:11,760 --> 00:37:15,230
+<font face="方正准圆_GBK" size="72">你应该祷告 最好别在战斗中用上它
+</font><font face="方正准圆_GBK" size="54">And many things you should pray</font>
+
+345
+00:37:15,330 --> 00:37:17,760
+<font face="方正准圆_GBK" size="72">否则你就玩儿完了
+</font><font face="方正准圆_GBK" size="54">will not be needed before the siege is through.</font>
+
+346
+00:37:20,130 --> 00:37:22,730
+<font face="方正准圆_GBK" size="72">饕餮还会回来的
+</font><font face="方正准圆_GBK" size="54">The Tao Tei will return.</font>
+
+347
+00:37:23,160 --> 00:37:25,330
+<font face="方正准圆_GBK" size="72">当战鼓响起的时候
+</font><font face="方正准圆_GBK" size="54">When the drums call to battle,</font>
+
+348
+00:37:26,260 --> 00:37:29,830
+<font face="方正准圆_GBK" size="72">全体将士上城墙各就各位
+</font><font face="方正准圆_GBK" size="54">the guards leave their post and take their positions on the Wall.</font>
+
+349
+00:37:29,960 --> 00:37:32,530
+<font face="方正准圆_GBK" size="72">那就是我们逃跑的机会
+</font><font face="方正准圆_GBK" size="54">That is our moment.</font>
+
+350
+00:37:33,300 --> 00:37:37,360
+<font face="方正准圆_GBK" size="72">只要他们一打起来…… 我们就开溜
+</font><font face="方正准圆_GBK" size="54">We want to be riding away as the battle rages.</font>
+
+351
+00:37:39,530 --> 00:37:40,830
+<font face="方正准圆_GBK" size="72">那火药仓库的门呢?
+</font><font face="方正准圆_GBK" size="54">And the armory doors?</font>
+
+352
+00:37:41,500 --> 00:37:44,560
+<font face="方正准圆_GBK" size="72">有钥匙吗? 黑火药我这还有
+</font><font face="方正准圆_GBK" size="54">-You have keys? -I have black powder,</font>
+
+353
+00:37:44,730 --> 00:37:46,630
+<font face="方正准圆_GBK" size="72">够炸开好几道门了
+</font><font face="方正准圆_GBK" size="54">enough for several doors.</font>
+
+354
+00:37:47,060 --> 00:37:49,930
+<font face="方正准圆_GBK" size="72">我们互相协作 各取所需 离开这儿
+</font><font face="方正准圆_GBK" size="54">He brings us in. We get us out.</font>
+
+355
+00:37:49,930 --> 00:37:51,530
+<font face="方正准圆_GBK" size="72">王军师有请诸位
+</font><font face="方正准圆_GBK" size="54">Strategist Wang request your presence.</font>
+
+356
+00:37:53,930 --> 00:37:57,700
+<font face="方正准圆_GBK" size="72">你搏斗时 这块石头在哪?
+</font><font face="方正准圆_GBK" size="54">As you fought, where was this stone?</font>
+
+357
+00:37:58,100 --> 00:37:58,900
+<font face="方正准圆_GBK" size="72">在我包里
+</font><font face="方正准圆_GBK" size="54">In my bag.</font>
+
+358
+00:38:02,060 --> 00:38:04,000
+<font face="方正准圆_GBK" size="72">真是无形的力量
+</font><font face="方正准圆_GBK" size="54">Its unseen force is powerfull.</font>
+
+359
+00:38:04,400 --> 00:38:07,360
+<font face="方正准圆_GBK" size="72">看来得好好研究一下这块石头
+</font><font face="方正准圆_GBK" size="54">I believe this strange stone could help us.</font>
+
+360
+00:38:09,160 --> 00:38:11,160
+<font face="方正准圆_GBK" size="72">玄机何在
+</font><font face="方正准圆_GBK" size="54">We try everything.</font>
+
+361
+00:38:12,260 --> 00:38:17,160
+<font face="方正准圆_GBK" size="72">饕餮现在在哪? 钩吾山 准备下一次的攻击
+</font><font face="方正准圆_GBK" size="54">-Where are the Tao Tei now? -The mountains, regrouping.</font>
+
+362
+00:38:18,200 --> 00:38:20,430
+<font face="方正准圆_GBK" size="72">它们从哪来的?
+</font><font face="方正准圆_GBK" size="54">Where do they come from?</font>
+
+363
+00:38:20,860 --> 00:38:23,130
+<font face="方正准圆_GBK" size="72">在大约两千年以前
+</font><font face="方正准圆_GBK" size="54">About 20 centuries ago,</font>
+
+364
+00:38:23,700 --> 00:38:27,960
+<font face="方正准圆_GBK" size="72">有一位皇帝 贪婪无度 令民不聊生
+</font><font face="方正准圆_GBK" size="54">There was an emperor whose greed brought deep suffering to all of China.</font>
+
+365
+00:38:28,100 --> 00:38:31,330
+<font face="方正准圆_GBK" size="72">激怒上苍 天降陨石击中钩吾山
+</font><font face="方正准圆_GBK" size="54">The heaven sent a meteor that struck Gouwu Mountain</font>
+
+366
+00:38:31,460 --> 00:38:34,760
+<font face="方正准圆_GBK" size="72">绿光中释放出饕餮
+</font><font face="方正准圆_GBK" size="54">turning it green and releasing Tao Tei.</font>
+
+367
+00:38:34,930 --> 00:38:38,900
+<font face="方正准圆_GBK" size="72">从此在中国北方的土地上 六十年一个轮回
+</font><font face="方正准圆_GBK" size="54">From that day on, the Tao Tei rise every sixty years,</font>
+
+368
+00:38:39,060 --> 00:38:41,830
+<font face="方正准圆_GBK" size="72">几经饕餮的肆虐
+</font><font face="方正准圆_GBK" size="54">to scourge the north of China.</font>
+
+369
+00:38:41,960 --> 00:38:47,560
+<font face="方正准圆_GBK" size="72">以此告诫世人 贪婪的后果
+</font><font face="方正准圆_GBK" size="54">They come to remind us of what happens when greed is unchecked.</font>
+
+370
+00:38:47,700 --> 00:38:51,230
+<font face="方正准圆_GBK" size="72">饕餮兵兽见人就吃 无论死活
+</font><font face="方正准圆_GBK" size="54">They eat anything, alive or dead,</font>
+
+371
+00:38:51,360 --> 00:38:56,930
+<font face="方正准圆_GBK" size="72">只是为了去填饱兽王的肚皮 饕餮兽王不捕食 全靠兵兽喂养它
+</font><font face="方正准圆_GBK" size="54">and take food to their queen. She depends on her soldiers to feed her.</font>
+
+372
+00:38:57,060 --> 00:39:01,800
+<font face="方正准圆_GBK" size="72">她吃饱了就会大量的繁殖
+</font><font face="方正准圆_GBK" size="54">Only with the food they provide is she able to multiply.</font>
+
+373
+00:39:03,760 --> 00:39:09,130
+<font face="方正准圆_GBK" size="72">离长城八百里外的汴梁 那里有两百万的人口
+</font><font face="方正准圆_GBK" size="54">The capital and its 2 million people, is only 800 li away.</font>
+
+374
+00:39:09,960 --> 00:39:13,000
+<font face="方正准圆_GBK" size="72">如果这两百万人变成它们充足的食物
+</font><font face="方正准圆_GBK" size="54">If the Tao Tei ever had that much nourisment</font>
+
+375
+00:39:13,100 --> 00:39:16,530
+<font face="方正准圆_GBK" size="72">那么天下将永无宁日
+</font><font face="方正准圆_GBK" size="54">no corner of the world would be safe.</font>
+
+376
+00:39:17,000 --> 00:39:21,360
+<font face="方正准圆_GBK" size="72">为什么不去杀了它们? 当然试过 他们去了
+</font><font face="方正准圆_GBK" size="54">-You can't hunt them? -Men try. They disappear.</font>
+
+377
+00:39:21,700 --> 00:39:24,200
+<font face="方正准圆_GBK" size="72">一个也没回来
+</font><font face="方正准圆_GBK" size="54">We never find their bones.</font>
+
+378
+00:39:24,260 --> 00:39:28,800
+<font face="方正准圆_GBK" size="72">邵殿帅紧急巡查西箭楼!
+</font><font face="方正准圆_GBK" size="54">Troops unaccounted for at the West Tower!</font>
+
+379
+00:39:46,260 --> 00:39:48,560
+<font face="方正准圆_GBK" size="72">它们为何丢下尸体?
+</font><font face="方正准圆_GBK" size="54">Why did they leave the bodies?</font>
+
+380
+00:39:50,300 --> 00:39:50,960
+<font face="方正准圆_GBK" size="72">下马!
+</font><font face="方正准圆_GBK" size="54">Dismount!</font>
+
+381
+00:39:53,960 --> 00:39:55,160
+<font face="方正准圆_GBK" size="72">建阵!
+</font><font face="方正准圆_GBK" size="54">Formation!</font>
+
+382
+00:40:23,400 --> 00:40:24,430
+<font face="方正准圆_GBK" size="72">前进!
+</font><font face="方正准圆_GBK" size="54">Advance!</font>
+
+383
+00:41:24,760 --> 00:41:26,260
+<font face="方正准圆_GBK" size="72">停一下
+</font><font face="方正准圆_GBK" size="54">Stop.</font>
+
+384
+00:41:34,430 --> 00:41:35,730
+<font face="方正准圆_GBK" size="72">林将军
+</font><font face="方正准圆_GBK" size="54">Commander Lin.</font>
+
+385
+00:41:37,360 --> 00:41:38,400
+<font face="方正准圆_GBK" size="72">殿帅
+</font><font face="方正准圆_GBK" size="54">General...</font>
+
+386
+00:41:40,230 --> 00:41:42,400
+<font face="方正准圆_GBK" size="72">它们又进步了
+</font><font face="方正准圆_GBK" size="54">They led us into a trap.</font>
+
+387
+00:41:42,830 --> 00:41:45,260
+<font face="方正准圆_GBK" size="72">懂得偷袭我们的要害了
+</font><font face="方正准圆_GBK" size="54">We underestimated their intelligence.</font>
+
+388
+00:41:59,430 --> 00:42:01,430
+<font face="方正准圆_GBK" size="72">禁军……
+</font><font face="方正准圆_GBK" size="54">The Nameless Order...</font>
+
+389
+00:42:03,360 --> 00:42:06,230
+<font face="方正准圆_GBK" size="72">就交给你了 殿帅
+</font><font face="方正准圆_GBK" size="54">-is yours to command. -General...</font>
+
+390
+00:42:07,200 --> 00:42:09,660
+<font face="方正准圆_GBK" size="72">众将军听令……
+</font><font face="方正准圆_GBK" size="54">Commanders, this is my final order...</font>
+
+391
+00:42:12,600 --> 00:42:14,660
+<font face="方正准圆_GBK" size="72">从今天起
+</font><font face="方正准圆_GBK" size="54">from this day forward,</font>
+
+392
+00:42:15,200 --> 00:42:20,200
+<font face="方正准圆_GBK" size="72">林将军就是你们的殿帅
+</font><font face="方正准圆_GBK" size="54">Commander Lin will lead you.</font>
+
+393
+00:42:22,600 --> 00:42:25,930
+<font face="方正准圆_GBK" size="72">禁军全体将士 愿接受林将军的率领
+</font><font face="方正准圆_GBK" size="54">The soldiers of the Nameless Order will stand firm.</font>
+
+394
+00:42:26,300 --> 00:42:29,700
+<font face="方正准圆_GBK" size="72">保家卫国 誓灭饕餮!
+</font><font face="方正准圆_GBK" size="54">The wall must not fall! We will defeat the Tao Tei!</font>
+
+395
+00:42:30,060 --> 00:42:33,730
+<font face="方正准圆_GBK" size="72">请殿帅放心!
+</font><font face="方正准圆_GBK" size="54">-Rest in peace. -Rest in peace!</font>
+
+396
+00:43:18,660 --> 00:43:29,230
+<font face="方正准圆_GBK" size="72">秦时明月汉时关</font>
+
+397
+00:43:31,960 --> 00:43:40,660
+<font face="方正准圆_GBK" size="72">万里长征人未还</font>
+
+398
+00:43:43,230 --> 00:43:50,300
+<font face="方正准圆_GBK" size="72">但使龙城飞将在</font>
+
+399
+00:43:55,560 --> 00:44:09,230
+<font face="方正准圆_GBK" size="72">不教胡马度阴山</font>
+
+400
+00:44:13,360 --> 00:44:15,000
+<font face="方正准圆_GBK" size="72">枢密院特使沈大人
+</font><font face="方正准圆_GBK" size="54">This is envoy Shen from the palace.</font>
+
+401
+00:44:15,100 --> 00:44:18,730
+<font face="方正准圆_GBK" size="72">他特地从汴梁带来史料 协助我们对付饕餮
+</font><font face="方正准圆_GBK" size="54">He has brought important records to help with the coming battle.</font>
+
+402
+00:44:20,500 --> 00:44:25,300
+<font face="方正准圆_GBK" size="72">据九百多年前史料记载 九百年前的史料上写道
+</font><font face="方正准圆_GBK" size="54">-This is a 900 years old batte report. -A 900 years old battle report.</font>
+
+403
+00:44:26,830 --> 00:44:31,500
+<font face="方正准圆_GBK" size="72">当年在寒沙门 有三只饕餮爬上了城楼
+</font><font face="方正准圆_GBK" size="54">At the Hans Gate, three beasts mounted the wall.</font>
+
+404
+00:44:31,630 --> 00:44:35,330
+<font face="方正准圆_GBK" size="72">越过城楼 沿途杀了很多人
+</font><font face="方正准圆_GBK" size="54">They killed many men as they went forward.</font>
+
+405
+00:44:35,500 --> 00:44:39,060
+<font face="方正准圆_GBK" size="72">但是 也许是上天的力量
+</font><font face="方正准圆_GBK" size="54">Then, by the grace of the ancient gods,</font>
+
+406
+00:44:39,260 --> 00:44:40,900
+<font face="方正准圆_GBK" size="72">饕餮突然停了下来
+</font><font face="方正准圆_GBK" size="54">the beasts stopped</font>
+
+407
+00:44:40,900 --> 00:44:47,630
+<font face="方正准圆_GBK" size="72">静止不动了 士兵上前将其斩杀
+</font><font face="方正准圆_GBK" size="54">and sat peacefully, as we slaughtered them.</font>
+
+408
+00:44:47,760 --> 00:44:50,830
+<font face="方正准圆_GBK" size="72">当时现场有一块磁石 跟这一块一样
+</font><font face="方正准圆_GBK" size="54">There was a magnet on site just like this one.</font>
+
+409
+00:44:50,900 --> 00:44:55,130
+<font face="方正准圆_GBK" size="72">当年在寒沙门 也有一块像这样的磁石
+</font><font face="方正准圆_GBK" size="54">At the Hans Gate, was a magnet just like this one.</font>
+
+410
+00:44:55,300 --> 00:44:59,000
+<font face="方正准圆_GBK" size="72">他说是因为你身上的这块磁石
+</font><font face="方正准圆_GBK" size="54">I believe that magnet was the reason the two of you Westerners</font>
+
+411
+00:45:00,480 --> 00:45:02,840
+<font face="方正准圆_GBK" size="72">你才能轻而易举地把那只饕餮杀死了
+</font><font face="方正准圆_GBK" size="54">killed the Tao Tei so easily.</font>
+
+412
+00:45:03,230 --> 00:45:06,830
+<font face="方正准圆_GBK" size="72">他觉得是磁石 让饕餮的耳朵聋了
+</font><font face="方正准圆_GBK" size="54">I believe the magnet makes the Tao Tei deaf.</font>
+
+413
+00:45:07,760 --> 00:45:10,930
+<font face="方正准圆_GBK" size="72">饕餮听不到兽王的指令就静止了
+</font><font face="方正准圆_GBK" size="54">Without instruction, they fall still.</font>
+
+414
+00:45:13,730 --> 00:45:16,360
+<font face="方正准圆_GBK" size="72">此事如何验证? 怎么确定?
+</font><font face="方正准圆_GBK" size="54">-How to prove that? -How can we be sure?</font>
+
+415
+00:45:17,600 --> 00:45:18,560
+<font face="方正准圆_GBK" size="72">试试就行
+</font><font face="方正准圆_GBK" size="54">Why not try it?</font>
+
+416
+00:45:20,700 --> 00:45:21,900
+<font face="方正准圆_GBK" size="72">抓一只饕餮
+</font><font face="方正准圆_GBK" size="54">Capture a Tao Tei. See if it works.</font>
+
+417
+00:45:22,000 --> 00:45:25,900
+<font face="方正准圆_GBK" size="72">测试一下 他说他要尝试一下 就得抓一只 怎么抓?
+</font><font face="方正准圆_GBK" size="54">-He wants to try. He wants to catch one. -How?</font>
+
+418
+00:45:27,060 --> 00:45:28,960
+<font face="方正准圆_GBK" size="72">根本没有那么结实的网
+</font><font face="方正准圆_GBK" size="54">No net is strong enough.</font>
+
+419
+00:45:29,130 --> 00:45:33,500
+<font face="方正准圆_GBK" size="72">直接抓 就像捕鲸一样 你知道我在说什么
+</font><font face="方正准圆_GBK" size="54">Hunt them. Like a whale. You know what that is.</font>
+
+420
+00:45:33,660 --> 00:45:38,300
+<font face="方正准圆_GBK" size="72">那是一种水里的巨兽 可比饕餮大百倍
+</font><font face="方正准圆_GBK" size="54">A water beast. A hundred times the size of a Tao Tei.</font>
+
+421
+00:45:38,400 --> 00:45:45,930
+<font face="方正准圆_GBK" size="72">用带勾的叉勾住它的骨头 用有钩的鱼叉 直接就可以把它抓住
+</font><font face="方正准圆_GBK" size="54">A spear that grabs. Hook the bone.</font>
+
+422
+00:45:47,100 --> 00:45:48,900
+<font face="方正准圆_GBK" size="72">我在西班牙见过
+</font><font face="方正准圆_GBK" size="54">I've seen it done in Spain.</font>
+
+423
+00:45:49,000 --> 00:45:52,900
+<font face="方正准圆_GBK" size="72">他说的也许是个办法
+</font><font face="方正准圆_GBK" size="54">He claims to have seen it done in Spain.</font>
+
+424
+00:45:53,800 --> 00:45:55,900
+<font face="方正准圆_GBK" size="72">你跟着瞎搅合什么?
+</font><font face="方正准圆_GBK" size="54">What the hell are you doing?</font>
+
+425
+00:45:56,000 --> 00:45:57,530
+<font face="方正准圆_GBK" size="72">只要他们打起来我们就得逃
+</font><font face="方正准圆_GBK" size="54">We need to be free when the attack comes.</font>
+
+426
+00:45:57,660 --> 00:45:59,160
+<font face="方正准圆_GBK" size="72">这可是唯一的机会
+</font><font face="方正准圆_GBK" size="54">How many chances do you think we will get?</font>
+
+427
+00:46:01,930 --> 00:46:04,000
+<font face="方正准圆_GBK" size="72">装受伤 玩失踪 做个胆小鬼行吗?
+</font><font face="方正准圆_GBK" size="54">Be injured. Be missing. Be a coward.</font>
+
+428
+00:46:05,530 --> 00:46:07,200
+<font face="方正准圆_GBK" size="72">别再瞎掺和了
+</font><font face="方正准圆_GBK" size="54">Get out of this.</font>
+
+429
+00:46:08,500 --> 00:46:09,800
+<font face="方正准圆_GBK" size="72">我们已经够意思了
+</font><font face="方正准圆_GBK" size="54">We did enough.</font>
+
+430
+00:46:19,860 --> 00:46:23,000
+<font face="方正准圆_GBK" size="72">你们要调稠一点 才能麻醉它
+</font><font face="方正准圆_GBK" size="54">The mixture must be strong to put the creature to sleep.</font>
+
+431
+00:46:28,960 --> 00:46:31,260
+<font face="方正准圆_GBK" size="72">把麻药涂匀了 是!
+</font><font face="方正准圆_GBK" size="54">-Spread it on evenly. -Yes, Commander!</font>
+
+432
+00:47:07,060 --> 00:47:08,260
+<font face="方正准圆_GBK" size="72">楞什么?
+</font><font face="方正准圆_GBK" size="54">Snap out of it!</font>
+
+433
+00:47:26,560 --> 00:47:27,530
+<font face="方正准圆_GBK" size="72">给我滚到伙房去 不要再上来!
+</font><font face="方正准圆_GBK" size="54">Useless idiot! report to the kitchen where you belong!</font>
+
+434
+00:47:27,600 --> 00:47:30,600
+<font face="方正准圆_GBK" size="72">遵命 滚!
+</font><font face="方正准圆_GBK" size="54">-Yes, Commander. -Go!</font>
+
+435
+00:48:02,860 --> 00:48:06,200
+<font face="方正准圆_GBK" size="72">他会来的 什么时候? 等打完仗?
+</font><font face="方正准圆_GBK" size="54">-He'll be here. -When? When it was over?</font>
+
+436
+00:48:06,330 --> 00:48:09,300
+<font face="方正准圆_GBK" size="72">那我们边干边等 边干边等?
+</font><font face="方正准圆_GBK" size="54">-We will start and he will find us. -Start?</font>
+
+437
+00:48:09,500 --> 00:48:12,860
+<font face="方正准圆_GBK" size="72">开弓没有回头箭 我一切都准备好了
+</font><font face="方正准圆_GBK" size="54">We're jumping off a cliff here. I have everything.</font>
+
+438
+00:48:13,360 --> 00:48:14,960
+<font face="方正准圆_GBK" size="72">火药 工具 地图
+</font><font face="方正准圆_GBK" size="54">Powder, tools, maps.</font>
+
+439
+00:48:15,130 --> 00:48:17,230
+<font face="方正准圆_GBK" size="72">都藏好在逃跑的沿途
+</font><font face="方正准圆_GBK" size="54">It's all hidden and arranged along the route.</font>
+
+440
+00:48:17,330 --> 00:48:21,330
+<font face="方正准圆_GBK" size="72">一旦动手 毫无退路
+</font><font face="方正准圆_GBK" size="54">Once we start, there's no going back.</font>
+
+441
+00:49:07,660 --> 00:49:10,700
+<font face="方正准圆_GBK" size="72">敢死队 上 是 敢死队上
+</font><font face="方正准圆_GBK" size="54">-Death Squad ready! -Yes! Death Squad go!</font>
+
+442
+00:49:14,360 --> 00:49:15,400
+<font face="方正准圆_GBK" size="72">大刀准备!
+</font><font face="方正准圆_GBK" size="54">Blades ready!</font>
+
+443
+00:49:21,900 --> 00:49:25,200
+<font face="方正准圆_GBK" size="72">大刀起!
+</font><font face="方正准圆_GBK" size="54">Blades forward!</font>
+
+444
+00:49:25,730 --> 00:49:26,700
+<font face="方正准圆_GBK" size="72">攻击!
+</font><font face="方正准圆_GBK" size="54">-Attack! -Go!</font>
+
+445
+00:49:32,960 --> 00:49:35,960
+<font face="方正准圆_GBK" size="72">左! 右!
+</font><font face="方正准圆_GBK" size="54">Left! Right!</font>
+
+446
+00:50:05,560 --> 00:50:07,330
+<font face="方正准圆_GBK" size="72">我去找他 甭管他了
+</font><font face="方正准圆_GBK" size="54">-I'll find him. -Forget him.</font>
+
+447
+00:50:07,460 --> 00:50:10,160
+<font face="方正准圆_GBK" size="72">他现在一心只想着讨好那个女殿帅
+</font><font face="方正准圆_GBK" size="54">He'd rather die trying to impress the new general</font>
+
+448
+00:50:10,300 --> 00:50:15,000
+<font face="方正准圆_GBK" size="72">你说等拿到火药有了钱 什么妞不能玩啊?
+</font><font face="方正准圆_GBK" size="54">than grab the key to every counting room and brothel in the world.</font>
+
+449
+00:50:15,600 --> 00:50:19,560
+<font face="方正准圆_GBK" size="72">不能再等了 现在就得行动 不能扔下他
+</font><font face="方正准圆_GBK" size="54">Good God, man. The time is now. I can't go without him.</font>
+
+450
+00:50:19,730 --> 00:50:23,700
+<font face="方正准圆_GBK" size="72">少一个人分钱不是更好 我们需要他的弓
+</font><font face="方正准圆_GBK" size="54">-More the spoils for us! -We need his bow!</font>
+
+451
+00:50:28,360 --> 00:50:29,860
+<font face="方正准圆_GBK" size="72">鱼叉箭 放!
+</font><font face="方正准圆_GBK" size="54">Harpoons, Now!</font>
+
+452
+00:50:30,000 --> 00:50:31,300
+<font face="方正准圆_GBK" size="72">是 鱼叉箭放!
+</font><font face="方正准圆_GBK" size="54">Yes! Harpoons, fire!</font>
+
+453
+00:50:35,260 --> 00:50:36,330
+<font face="方正准圆_GBK" size="72">齐放
+</font><font face="方正准圆_GBK" size="54">Fire!</font>
+
+454
+00:51:18,660 --> 00:51:20,660
+<font face="方正准圆_GBK" size="72">最后一根了! 让开!
+</font><font face="方正准圆_GBK" size="54">-Move! -It's the last one!</font>
+
+455
+00:51:46,460 --> 00:51:47,130
+<font face="方正准圆_GBK" size="72">再拉! 停一下! 
+</font><font face="方正准圆_GBK" size="54">-Pull! -No, no, no. Stop!</font>
+
+456
+00:51:48,830 --> 00:51:52,260
+<font face="方正准圆_GBK" size="72">你们拉得太紧 链子会断的
+</font><font face="方正准圆_GBK" size="54">There's too much tension! Chain will break.</font>
+
+457
+00:51:52,430 --> 00:51:55,430
+<font face="方正准圆_GBK" size="72">先松一下 让它先拉
+</font><font face="方正准圆_GBK" size="54">-That way. That way. -Let him run!</font>
+
+458
+00:51:59,230 --> 00:52:03,300
+<font face="方正准圆_GBK" size="72">停 我们得等一会儿 让麻药起作用
+</font><font face="方正准圆_GBK" size="54">Stop! Stop! We need longer for the sleeping potion to work.</font>
+
+459
+00:52:07,830 --> 00:52:08,930
+<font face="方正准圆_GBK" size="72">拉 拉起来
+</font><font face="方正准圆_GBK" size="54">That way. That way.</font>
+
+460
+00:52:10,400 --> 00:52:12,660
+<font face="方正准圆_GBK" size="72">得想办法挡开其他饕餮
+</font><font face="方正准圆_GBK" size="54">We need to isolate it. Sparate it from the others.</font>
+
+461
+00:52:13,560 --> 00:52:16,400
+<font face="方正准圆_GBK" size="72">火球保护! 是 火球保护!
+</font><font face="方正准圆_GBK" size="54">-Ring of Fire! -Yes! Ring of Fire!</font>
+
+462
+00:52:30,900 --> 00:52:36,060
+<font face="方正准圆_GBK" size="72">铁链要断了! 不好啦!
+</font><font face="方正准圆_GBK" size="54">-The chain won't hold much longer! -We're losing him!</font>
+
+463
+00:52:44,460 --> 00:52:47,630
+<font face="方正准圆_GBK" size="72">威廉 等等 响箭! 是 响箭!
+</font><font face="方正准圆_GBK" size="54">-William, wait. Screaming arrows! -Yes! Screaming arrows!</font>
+
+464
+00:52:49,160 --> 00:52:52,460
+<font face="方正准圆_GBK" size="72">中了响箭的饕餮 一跑就会响
+</font><font face="方正准圆_GBK" size="54">These arrows will scream as the Tao Tei run.</font>
+
+465
+00:52:53,760 --> 00:52:55,130
+<font face="方正准圆_GBK" size="72">瞄准声音射箭
+</font><font face="方正准圆_GBK" size="54">Aim for the sound.</font>
+
+466
+00:53:06,760 --> 00:53:10,530
+<font face="方正准圆_GBK" size="72">火球圈内 响箭覆盖!
+</font><font face="方正准圆_GBK" size="54">Aim inside the circle. Blanket the whole area.</font>
+
+467
+00:53:14,800 --> 00:53:15,630
+<font face="方正准圆_GBK" size="72">放!
+</font><font face="方正准圆_GBK" size="54">Fire!</font>
+
+468
+00:53:56,440 --> 00:53:57,540
+<font face="方正准圆_GBK" size="72">收!
+</font><font face="方正准圆_GBK" size="54">Pull!</font>
+
+469
+00:54:19,800 --> 00:54:22,700
+<font face="方正准圆_GBK" size="72">救你一命 是因为我想亲手宰了你
+</font><font face="方正准圆_GBK" size="54">I'm only saving you so I can kill you myself.</font>
+
+470
+00:54:25,060 --> 00:54:26,500
+<font face="方正准圆_GBK" size="72">捡把斧头 盲打
+</font><font face="方正准圆_GBK" size="54">Grab the axe, we're fighting blind.</font>
+
+471
+00:54:36,000 --> 00:54:38,200
+<font face="方正准圆_GBK" size="72">可能现在做不是…… 你少废话
+</font><font face="方正准圆_GBK" size="54">-Not yet! -I know what to do!</font>
+
+472
+00:55:08,230 --> 00:55:11,360
+<font face="方正准圆_GBK" size="72">火焰挡不住它们了 那就永别吧 兄弟
+</font><font face="方正准圆_GBK" size="54">-The fire is not holding them back here. -Die well, brother.</font>
+
+473
+00:55:18,160 --> 00:55:19,860
+<font face="方正准圆_GBK" size="72">你在干嘛? 给她发信号!
+</font><font face="方正准圆_GBK" size="54">-What the hell are you doing? -She's listening.</font>
+
+474
+00:55:23,830 --> 00:55:27,860
+<font face="方正准圆_GBK" size="72">火药箭 霹雳弹准备! 是 火药箭霹雳弹准备!
+</font><font face="方正准圆_GBK" size="54">-Prepare black powder weapon! -Prepare black powder weapon!</font>
+
+475
+00:55:34,360 --> 00:55:35,530
+<font face="方正准圆_GBK" size="72">佩戴火绳
+</font><font face="方正准圆_GBK" size="54">Prepare to light the fuses!</font>
+
+476
+00:55:35,800 --> 00:55:37,300
+<font face="方正准圆_GBK" size="72">是 佩戴火绳!
+</font><font face="方正准圆_GBK" size="54">Yes! Prepare to light the fuses!</font>
+
+477
+00:57:01,860 --> 00:57:04,300
+<font face="方正准圆_GBK" size="72">成功了吗? 是的
+</font><font face="方正准圆_GBK" size="54">-Did it work? -Yes.</font>
+
+478
+00:57:04,700 --> 00:57:06,200
+<font face="方正准圆_GBK" size="72">抓了个活的
+</font><font face="方正准圆_GBK" size="54">The beast was captured.</font>
+
+479
+00:57:07,760 --> 00:57:11,130
+<font face="方正准圆_GBK" size="72">那我朋友呢? 放心 他没事
+</font><font face="方正准圆_GBK" size="54">-My friend... -He was unharmed.</font>
+
+480
+00:57:21,760 --> 00:57:24,330
+<font face="方正准圆_GBK" size="72">你为什么要跳下去?
+</font><font face="方正准圆_GBK" size="54">Why did you go over the Wall?</font>
+
+481
+00:57:29,260 --> 00:57:34,000
+<font face="方正准圆_GBK" size="72">信任 我说的对吗?
+</font><font face="方正准圆_GBK" size="54">Xin ren. Did I say that right?</font>
+
+482
+00:57:37,900 --> 00:57:39,130
+<font face="方正准圆_GBK" size="72">谢谢你
+</font><font face="方正准圆_GBK" size="54">Thank you.</font>
+
+483
+00:57:45,800 --> 00:57:47,460
+<font face="方正准圆_GBK" size="72">我们的黑火药
+</font><font face="方正准圆_GBK" size="54">Black powder.</font>
+
+484
+00:57:49,100 --> 00:57:51,200
+<font face="方正准圆_GBK" size="72">这是一种可怕的武器
+</font><font face="方正准圆_GBK" size="54">It is a terrible weapon.</font>
+
+485
+00:57:52,400 --> 00:57:55,900
+<font face="方正准圆_GBK" size="72">我真希望你 不曾见过
+</font><font face="方正准圆_GBK" size="54">It would be better if you had never see it.</font>
+
+486
+00:58:00,300 --> 00:58:03,400
+<font face="方正准圆_GBK" size="72">我对外面的世界 了解的并不是很多
+</font><font face="方正准圆_GBK" size="54">I know very little of the outside world.</font>
+
+487
+00:58:04,000 --> 00:58:09,030
+<font face="方正准圆_GBK" size="72">在我看来 人类与饕餮的贪婪并无区别
+</font><font face="方正准圆_GBK" size="54">But it seems to me, the greed of men is not that different than the Tao Tei.</font>
+
+488
+00:58:10,030 --> 00:58:11,600
+<font face="方正准圆_GBK" size="72">我说的对吗?
+</font><font face="方正准圆_GBK" size="54">Is that true?</font>
+
+489
+00:58:12,800 --> 00:58:15,500
+<font face="方正准圆_GBK" size="72">弱肉强食
+</font><font face="方正准圆_GBK" size="54">The strong take what they want.</font>
+
+490
+00:58:26,300 --> 00:58:28,930
+<font face="方正准圆_GBK" size="72">忘掉你所看到的一切
+</font><font face="方正准圆_GBK" size="54">Forget what you have seen.</font>
+
+491
+00:59:17,830 --> 00:59:21,060
+<font face="方正准圆_GBK" size="72">好! 即刻押送沐梁
+</font><font face="方正准圆_GBK" size="54">Excellent! Send it to the capital immediately.</font>
+
+492
+00:59:21,230 --> 00:59:23,700
+<font face="方正准圆_GBK" size="72">不可! 需就地研究
+</font><font face="方正准圆_GBK" size="54">No! We need to study it here.</font>
+
+493
+00:59:24,000 --> 00:59:26,560
+<font face="方正准圆_GBK" size="72">饕餮若能活捉 皇上必须先睹
+</font><font face="方正准圆_GBK" size="54">If a Tao Tei is captured alive, it must be sent to the emperor.</font>
+
+494
+00:59:26,830 --> 00:59:30,200
+<font face="方正准圆_GBK" size="72">下官特地为此事而来 这可是皇上的旨意
+</font><font face="方正准圆_GBK" size="54">This is an Imperial Order.</font>
+
+495
+00:59:53,400 --> 00:59:55,260
+<font face="方正准圆_GBK" size="72">你比你想象中的要勇敢得多
+</font><font face="方正准圆_GBK" size="54">You're much braver than they think.</font>
+
+496
+01:00:23,800 --> 01:00:25,400
+<font face="方正准圆_GBK" size="72">没受伤吧?
+</font><font face="方正准圆_GBK" size="54">You're wounded?</font>
+
+497
+01:00:28,230 --> 01:00:29,930
+<font face="方正准圆_GBK" size="72">刚才我在找你
+</font><font face="方正准圆_GBK" size="54">I was looking for you.</font>
+
+498
+01:00:31,060 --> 01:00:32,030
+<font face="方正准圆_GBK" size="72">是想说谢谢你
+</font><font face="方正准圆_GBK" size="54">To say thank you.</font>
+
+499
+01:00:37,700 --> 01:00:43,000
+<font face="方正准圆_GBK" size="72">你感觉很好吧? 想不想唱两句啊?
+</font><font face="方正准圆_GBK" size="54">You feel good, huh? Maybe you sing a little song, eh?</font>
+
+500
+01:00:44,030 --> 01:00:45,800
+<font face="方正准圆_GBK" size="72">要不一块儿唱
+</font><font face="方正准圆_GBK" size="54">I will join you.</font>
+
+501
+01:00:46,230 --> 01:00:49,130
+<font face="方正准圆_GBK" size="72">歌唱一个伟大的英雄拯救了中国人
+</font><font face="方正准圆_GBK" size="54">We can sing together how you saved the gratefull Chinos.</font>
+
+502
+01:00:49,300 --> 01:00:51,530
+<font face="方正准圆_GBK" size="72">干嘛这么说 你目睹了一切
+</font><font face="方正准圆_GBK" size="54">You saw what happened out there, and that's what you say?</font>
+
+503
+01:00:51,760 --> 01:00:52,860
+<font face="方正准圆_GBK" size="72">我看到了黑火药
+</font><font face="方正准圆_GBK" size="54">I see black powder.</font>
+
+504
+01:00:54,400 --> 01:00:58,400
+<font face="方正准圆_GBK" size="72">也看到你忘了朋友 放心吧 黑火药又不会跑……
+</font><font face="方正准圆_GBK" size="54">-I see a man forget his friends. -The black powder's not going anywhere.</font>
+
+505
+01:00:58,560 --> 01:01:00,800
+<font face="方正准圆_GBK" size="72">我看不会跑的是你
+</font><font face="方正准圆_GBK" size="54">What goes nowhere is you.</font>
+
+506
+01:01:04,430 --> 01:01:06,730
+<font face="方正准圆_GBK" size="72">你永远都得不到你想要的
+</font><font face="方正准圆_GBK" size="54">You'll never get what you want from this.</font>
+
+507
+01:01:07,700 --> 01:01:10,130
+<font face="方正准圆_GBK" size="72">你以为他们拿你当英雄吗?
+</font><font face="方正准圆_GBK" size="54">You think they see you as some kind of hero?</font>
+
+508
+01:01:10,500 --> 01:01:14,930
+<font face="方正准圆_GBK" size="72">或是救世主? 你骗得了他们
+</font><font face="方正准圆_GBK" size="54">A man of virtue? Maybe you can fool them,</font>
+
+509
+01:01:15,360 --> 01:01:17,300
+<font face="方正准圆_GBK" size="72">但骗不了我
+</font><font face="方正准圆_GBK" size="54">but I know what you are.</font>
+
+510
+01:01:18,360 --> 01:01:21,000
+<font face="方正准圆_GBK" size="72">你自己心里也清楚
+</font><font face="方正准圆_GBK" size="54">You know what you are.</font>
+
+511
+01:01:21,960 --> 01:01:25,230
+<font face="方正准圆_GBK" size="72">你就是个贼 谎言家
+</font><font face="方正准圆_GBK" size="54">A thief, a liar,</font>
+
+512
+01:01:27,760 --> 01:01:29,130
+<font face="方正准圆_GBK" size="72">是个杀手
+</font><font face="方正准圆_GBK" size="54">and a killer.</font>
+
+513
+01:01:31,460 --> 01:01:34,030
+<font face="方正准圆_GBK" size="72">还想放下屠刀 立地成佛
+</font><font face="方正准圆_GBK" size="54">You can never undo things you've done.</font>
+
+514
+01:01:34,200 --> 01:01:35,930
+<font face="方正准圆_GBK" size="72">狗改不了吃屎
+</font><font face="方正准圆_GBK" size="54">and you will never be anything.</font>
+
+515
+01:01:44,500 --> 01:01:46,260
+<font face="方正准圆_GBK" size="72">这才像是我的哥们儿
+</font><font face="方正准圆_GBK" size="54">Good to see you again, amigo.</font>
+
+516
+01:01:56,760 --> 01:02:00,600
+<font face="方正准圆_GBK" size="72">发现饕餮! 发现饕餮! 发现饕餮!
+</font><font face="方正准圆_GBK" size="54">Tao Tei movement!</font>
+
+517
+01:02:00,700 --> 01:02:03,860
+<font face="方正准圆_GBK" size="72">全体上城!
+</font><font face="方正准圆_GBK" size="54">All troops to the Wall!</font>
+
+518
+01:02:07,300 --> 01:02:08,300
+<font face="方正准圆_GBK" size="72">又没影了?
+</font><font face="方正准圆_GBK" size="54">-Nothing? -No.</font>
+
+519
+01:02:09,160 --> 01:02:11,600
+<font face="方正准圆_GBK" size="72">你肯定他不会出卖我们? 不会的
+</font><font face="方正准圆_GBK" size="54">-How do you know he won't betray us? -I don't.</font>
+
+520
+01:02:11,760 --> 01:02:13,600
+<font face="方正准圆_GBK" size="72">他们会杀了他 不管怎样都会
+</font><font face="方正准圆_GBK" size="54">They'll kill him. They'll kill him no matter what.</font>
+
+521
+01:02:13,700 --> 01:02:15,660
+<font face="方正准圆_GBK" size="72">他们杀他的时候
+</font><font face="方正准圆_GBK" size="54">The time they spend killing him,</font>
+
+522
+01:02:16,630 --> 01:02:18,800
+<font face="方正准圆_GBK" size="72">我们已经带上东西跑远了
+</font><font face="方正准圆_GBK" size="54">is time they are not chasing us.</font>
+
+523
+01:03:00,860 --> 01:03:03,930
+<font face="方正准圆_GBK" size="72">小心点 这可有黑火药
+</font><font face="方正准圆_GBK" size="54">Careful with that. There's powder here.</font>
+
+524
+01:03:16,160 --> 01:03:17,130
+<font face="方正准圆_GBK" size="72">托瓦尔
+</font><font face="方正准圆_GBK" size="54">Tovar.</font>
+
+525
+01:03:48,760 --> 01:03:51,730
+<font face="方正准圆_GBK" size="72">殿帅 打通了! 饕餮已突破长城!
+</font><font face="方正准圆_GBK" size="54">General, it goes all the way through. Tao Tei have breached the wall.</font>
+
+526
+01:03:51,860 --> 01:03:53,400
+<font face="方正准圆_GBK" size="72">它们居然如此狡猾
+</font><font face="方正准圆_GBK" size="54">They're smarter than we thought.</font>
+
+527
+01:03:54,000 --> 01:03:57,130
+<font face="方正准圆_GBK" size="72">传令所有将军 立即来此! 遵命!
+</font><font face="方正准圆_GBK" size="54">-Summon my commanders immediately! -Yes, General!</font>
+
+528
+01:04:17,100 --> 01:04:19,730
+<font face="方正准圆_GBK" size="72">去看看 是不是灭了
+</font><font face="方正准圆_GBK" size="54">Have a look. See if it's gone out.</font>
+
+529
+01:04:20,030 --> 01:04:22,860
+<font face="方正准圆_GBK" size="72">安全吗? 当然了
+</font><font face="方正准圆_GBK" size="54">-Is it safe? -Of course it is.</font>
+
+530
+01:04:51,630 --> 01:04:54,030
+<font face="方正准圆_GBK" size="72">醒醒 开工了
+</font><font face="方正准圆_GBK" size="54">Shake it off, man. To work.</font>
+
+531
+01:04:57,630 --> 01:05:00,000
+<font face="方正准圆_GBK" size="72">安全个屁 差点要了我的命
+</font><font face="方正准圆_GBK" size="54">I thought you said it was safe?</font>
+
+532
+01:05:00,830 --> 01:05:02,460
+<font face="方正准圆_GBK" size="72">结果还是不错的
+</font><font face="方正准圆_GBK" size="54">We're in, didn't we?</font>
+
+533
+01:05:14,230 --> 01:05:17,860
+<font face="方正准圆_GBK" size="72">你来了 终于醒悟了啊?
+</font><font face="方正准圆_GBK" size="54">-You're here. -We've come to our senses, eh?</font>
+
+534
+01:05:18,430 --> 01:05:21,500
+<font face="方正准圆_GBK" size="72">他的计划很周密 逃出去并不难
+</font><font face="方正准圆_GBK" size="54">Ballard has planned well. Getting out is easy.</font>
+
+535
+01:05:21,700 --> 01:05:26,060
+<font face="方正准圆_GBK" size="72">从这走往西二十英里后出长城 只要我们能避开契丹人
+</font><font face="方正准圆_GBK" size="54">There's a gate. 20 miles west. We dodge the hill tribes.</font>
+
+536
+01:05:27,360 --> 01:05:30,660
+<font face="方正准圆_GBK" size="72">那就大功告成了 这里需要我们
+</font><font face="方正准圆_GBK" size="54">-We can make it. -They need us here.</font>
+
+537
+01:05:30,830 --> 01:05:32,630
+<font face="方正准圆_GBK" size="72">需要的人多了
+</font><font face="方正准圆_GBK" size="54">They need more than us.</font>
+
+538
+01:05:33,500 --> 01:05:36,030
+<font face="方正准圆_GBK" size="72">留下来就是死路一条 别犯傻了
+</font><font face="方正准圆_GBK" size="54">-These people are doomed. -Don't be a fool.</font>
+
+539
+01:05:36,160 --> 01:05:37,200
+<font face="方正准圆_GBK" size="72">我过去才是犯傻
+</font><font face="方正准圆_GBK" size="54">I've been a fool.</font>
+
+540
+01:05:37,300 --> 01:05:39,030
+<font face="方正准圆_GBK" size="72">现在不会了
+</font><font face="方正准圆_GBK" size="54">I'm done with it.</font>
+
+541
+01:05:39,300 --> 01:05:40,800
+<font face="方正准圆_GBK" size="72">哥们 求你了
+</font><font face="方正准圆_GBK" size="54">Brother, please.</font>
+
+542
+01:05:42,000 --> 01:05:44,060
+<font face="方正准圆_GBK" size="72">过去的战斗毫无意义
+</font><font face="方正准圆_GBK" size="54">We've been fighting for nothing.</font>
+
+543
+01:05:44,860 --> 01:05:46,260
+<font face="方正准圆_GBK" size="72">只是为了贪婪
+</font><font face="方正准圆_GBK" size="54">For greed.</font>
+
+544
+01:05:46,760 --> 01:05:52,460
+<font face="方正准圆_GBK" size="72">听我说哥们儿 咱们历尽干辛万苦 九死一生
+</font><font face="方正准圆_GBK" size="54">Amigo, after all the blood, the cold, and pain,</font>
+
+545
+01:05:52,660 --> 01:05:56,830
+<font face="方正准圆_GBK" size="72">好不容易有了这黑火药 目的达到了
+</font><font face="方正准圆_GBK" size="54">with this black powder in our saddle bags, we win.</font>
+
+546
+01:05:57,830 --> 01:05:59,230
+<font face="方正准圆_GBK" size="72">跟我们一起走吧
+</font><font face="方正准圆_GBK" size="54">You come with me.</font>
+
+547
+01:06:00,900 --> 01:06:02,230
+<font face="方正准圆_GBK" size="72">我不能那么做
+</font><font face="方正准圆_GBK" size="54">I can't do that now.</font>
+
+548
+01:06:04,300 --> 01:06:08,200
+<font face="方正准圆_GBK" size="72">留下来跟我一起战斗 威廉
+</font><font face="方正准圆_GBK" size="54">-Stay and fight. -William...</font>
+
+549
+01:06:12,460 --> 01:06:15,700
+<font face="方正准圆_GBK" size="72">他死了吗? 没那么容易
+</font><font face="方正准圆_GBK" size="54">-Think he's dead? -It'd take a lot more than that.</font>
+
+550
+01:06:19,700 --> 01:06:24,300
+<font face="方正准圆_GBK" size="72">没想到它们前两次都是佯攻 我们都上当了
+</font><font face="方正准圆_GBK" size="54">All of the attacks have been a diversion, while they dug this tunnel.</font>
+
+551
+01:06:24,460 --> 01:06:26,130
+<font face="方正准圆_GBK" size="72">过了长城
+</font><font face="方正准圆_GBK" size="54">They have breached the wall.</font>
+
+552
+01:06:26,260 --> 01:06:31,030
+<font face="方正准圆_GBK" size="72">汴梁有它们无穷无尽的食物 后果不堪设想
+</font><font face="方正准圆_GBK" size="54">Once they reach the capital, nothing in the world can stop them.</font>
+
+553
+01:06:31,830 --> 01:06:35,500
+<font face="方正准圆_GBK" size="72">我的骑兵就算是快马加鞭 也得两天才能到汴梁
+</font><font face="方正准圆_GBK" size="54">At a full gallop, it's two days to the capital.</font>
+
+554
+01:06:35,830 --> 01:06:39,730
+<font face="方正准圆_GBK" size="72">它们肯定比我们快 现在风很强
+</font><font face="方正准圆_GBK" size="54">-There's no way we can catch them. -The wind is strong now.</font>
+
+555
+01:06:40,360 --> 01:06:45,200
+<font face="方正准圆_GBK" size="72">明天一整天吹北风 我们必须启用新发明
+</font><font face="方正准圆_GBK" size="54">It blows from the north all day tomorrow. We have to use the balloons.</font>
+
+556
+01:06:45,630 --> 01:06:49,300
+<font face="方正准圆_GBK" size="72">到汴梁要多久? 顺风约三个时辰 三个时辰
+</font><font face="方正准圆_GBK" size="54">-If it works, how long to Bianliang? -Six hours if the wind hold.</font>
+
+557
+01:06:49,400 --> 01:06:50,500
+<font face="方正准圆_GBK" size="72">如果能活着的话
+</font><font face="方正准圆_GBK" size="54">If we make it alive.</font>
+
+558
+01:06:51,760 --> 01:06:55,230
+<font face="方正准圆_GBK" size="72">殿帅 这些东西从没试过
+</font><font face="方正准圆_GBK" size="54">General, none of the tests have worked.</font>
+
+559
+01:06:56,860 --> 01:06:57,900
+<font face="方正准圆_GBK" size="72">准备出发!
+</font><font face="方正准圆_GBK" size="54">Get ready!</font>
+
+560
+01:07:08,200 --> 01:07:09,130
+<font face="方正准圆_GBK" size="72">走吧
+</font><font face="方正准圆_GBK" size="54">Come on!</font>
+
+561
+01:07:20,290 --> 01:07:25,470
+<font face="方正准圆_GBK" size="72">都城汴梁
+</font><font face="方正准圆_GBK" size="54">THE CAPITAL BIANLIANG</font>
+
+562
+01:07:59,030 --> 01:08:02,030
+<font face="方正准圆_GBK" size="72">怎么抓的? 启禀皇上……
+</font><font face="方正准圆_GBK" size="54">-How did you capture it? -Your Excellency!</font>
+
+563
+01:08:02,160 --> 01:08:07,700
+<font face="方正准圆_GBK" size="72">皇上 是那块磁石 能制住这畜生
+</font><font face="方正准圆_GBK" size="54">Your Excellency, It's the magnet. It keeps the beast under control.</font>
+
+564
+01:08:07,860 --> 01:08:12,060
+<font face="方正准圆_GBK" size="72">自饕餮成祸以来 此发现最为重大
+</font><font face="方正准圆_GBK" size="54">This is the most important discovery in the history of the Tao Tei.</font>
+
+565
+01:08:12,230 --> 01:08:16,730
+<font face="方正准圆_GBK" size="72">枢密院将立即展开研究 把他拉下来!
+</font><font face="方正准圆_GBK" size="54">-We will investigate immediately. -Bring him here!</font>
+
+566
+01:08:33,890 --> 01:08:36,860
+<font face="方正准圆_GBK" size="72">我试着…… 你还敢狡辩?
+</font><font face="方正准圆_GBK" size="54">-I tried to stop... -You dare to speak to me?</font>
+
+567
+01:08:38,700 --> 01:08:43,460
+<font face="方正准圆_GBK" size="72">这事不是我干的 是啊 你是一个商人
+</font><font face="方正准圆_GBK" size="54">-I didn't do this. -And you came here to trade.</font>
+
+568
+01:08:43,630 --> 01:08:45,600
+<font face="方正准圆_GBK" size="72">你不是为了黑火药而来
+</font><font face="方正准圆_GBK" size="54">And you knew nothing of black powder.</font>
+
+569
+01:08:47,660 --> 01:08:50,230
+<font face="方正准圆_GBK" size="72">你一定觉得我是个傻子是吧
+</font><font face="方正准圆_GBK" size="54">What a fool you must think I am.</font>
+
+570
+01:08:50,360 --> 01:08:53,660
+<font face="方正准圆_GBK" size="72">如果我是同伙 我还会在这吗?
+</font><font face="方正准圆_GBK" size="54">If I was with them, why would I be here? I tried to stop them.</font>
+
+571
+01:08:53,830 --> 01:08:55,060
+<font face="方正准圆_GBK" size="72">骗子!
+</font><font face="方正准圆_GBK" size="54">Liar!</font>
+
+572
+01:08:56,060 --> 01:08:57,700
+<font face="方正准圆_GBK" size="72">你是个骗子
+</font><font face="方正准圆_GBK" size="54">You lie.</font>
+
+573
+01:08:59,300 --> 01:09:04,300
+<font face="方正准圆_GBK" size="72">你心里知道 不是这样的 如果我不是殿帅
+</font><font face="方正准圆_GBK" size="54">-Some part of you knows that's not true. -If I were not the General,</font>
+
+574
+01:09:04,460 --> 01:09:06,530
+<font face="方正准圆_GBK" size="72">我会亲手杀了你
+</font><font face="方正准圆_GBK" size="54">I would kill you myself.</font>
+
+575
+01:09:08,560 --> 01:09:09,760
+<font face="方正准圆_GBK" size="72">殿帅!
+</font><font face="方正准圆_GBK" size="54">General!</font>
+
+576
+01:09:14,060 --> 01:09:17,390
+<font face="方正准圆_GBK" size="72">启禀殿帅…… 大声点!
+</font><font face="方正准圆_GBK" size="54">-General. -Speak up.</font>
+
+577
+01:09:19,230 --> 01:09:23,060
+<font face="方正准圆_GBK" size="72">事发时小人正在翰渊阁 小人亲眼看见他阻拦那两个人
+</font><font face="方正准圆_GBK" size="54">I was there when it happened. I saw him try to stop them.</font>
+
+578
+01:09:32,390 --> 01:09:33,700
+<font face="方正准圆_GBK" size="72">你确定吗?
+</font><font face="方正准圆_GBK" size="54">Are you sure?</font>
+
+579
+01:09:36,960 --> 01:09:39,300
+<font face="方正准圆_GBK" size="72">你敢说半句假话 我先铡了你!
+</font><font face="方正准圆_GBK" size="54">If you're lying, I'll have your head!</font>
+
+580
+01:09:39,830 --> 01:09:43,030
+<font face="方正准圆_GBK" size="72">小人以无影禁军的名誉起誓 所说绝无半句虚言
+</font><font face="方正准圆_GBK" size="54">I swear on my vow to the Nameless Order!</font>
+
+581
+01:09:57,160 --> 01:09:58,060
+<font face="方正准圆_GBK" size="72">严加看管
+</font><font face="方正准圆_GBK" size="54">Lock him up.</font>
+
+582
+01:09:58,200 --> 01:10:00,230
+<font face="方正准圆_GBK" size="72">派骑兵队 把那两个盗贼抓回来!
+</font><font face="方正准圆_GBK" size="54">Send the cavalry. Go after the two that got away.</font>
+
+583
+01:10:00,660 --> 01:10:01,330
+<font face="方正准圆_GBK" size="72">遵命!
+</font><font face="方正准圆_GBK" size="54">Yes, General.</font>
+
+584
+01:10:25,800 --> 01:10:27,760
+<font face="方正准圆_GBK" size="72">往左还是往右?
+</font><font face="方正准圆_GBK" size="54">Which way, left or right?</font>
+
+585
+01:10:28,300 --> 01:10:31,100
+<font face="方正准圆_GBK" size="72">得去高处看一下
+</font><font face="方正准圆_GBK" size="54">Go up and take a look from the high ground.</font>
+
+586
+01:10:46,260 --> 01:10:49,760
+<font face="方正准圆_GBK" size="72">不 混蛋
+</font><font face="方正准圆_GBK" size="54">No! Bastard!</font>
+
+587
+01:11:32,260 --> 01:11:34,300
+<font face="方正准圆_GBK" size="72">把牢方向! 是 把牢方向!
+</font><font face="方正准圆_GBK" size="54">-Keep it steady! -Yes, General!</font>
+
+588
+01:11:34,460 --> 01:11:36,660
+<font face="方正准圆_GBK" size="72">小心火药! 是 小心火药!
+</font><font face="方正准圆_GBK" size="54">-Watch the powder! -Yes, General!</font>
+
+589
+01:12:11,300 --> 01:12:12,700
+<font face="方正准圆_GBK" size="72">出什么事了?
+</font><font face="方正准圆_GBK" size="54">What happened?</font>
+
+590
+01:12:15,730 --> 01:12:18,800
+<font face="方正准圆_GBK" size="72">怎么了军师? 我们失败了
+</font><font face="方正准圆_GBK" size="54">What happened? We have failed.</font>
+
+591
+01:12:18,960 --> 01:12:21,530
+<font face="方正准圆_GBK" size="72">饕餮已经越过长城
+</font><font face="方正准圆_GBK" size="54">The Tao Tei are in the kingdom.</font>
+
+592
+01:12:21,900 --> 01:12:25,430
+<font face="方正准圆_GBK" size="72">你自由了 想要什么都拿上走吧
+</font><font face="方正准圆_GBK" size="54">You are free to leave. Take what you wish and go.</font>
+
+593
+01:12:25,560 --> 01:12:29,000
+<font face="方正准圆_GBK" size="72">这是殿帅最后的命令 她在哪?
+</font><font face="方正准圆_GBK" size="54">-This was the General's final order. -Where is she?</font>
+
+594
+01:12:33,460 --> 01:12:36,160
+<font face="方正准圆_GBK" size="72">她去干什么? 战斗?
+</font><font face="方正准圆_GBK" size="54">To do what? To fight?</font>
+
+595
+01:12:36,300 --> 01:12:38,830
+<font face="方正准圆_GBK" size="72">能赢吗? 只有一种可能
+</font><font face="方正准圆_GBK" size="54">-Is there a chance? -There's only one.</font>
+
+596
+01:12:39,200 --> 01:12:43,700
+<font face="方正准圆_GBK" size="72">杀死兽王 兽王不死 我们都会死
+</font><font face="方正准圆_GBK" size="54">Kill the Queen. Kill the Queen, or we all die.</font>
+
+597
+01:12:45,330 --> 01:12:49,060
+<font face="方正准圆_GBK" size="72">你回家吧 讲出你看到的一切
+</font><font face="方正准圆_GBK" size="54">Leave. Tell the world what you have seen,</font>
+
+598
+01:12:49,160 --> 01:12:51,460
+<font face="方正准圆_GBK" size="72">告诉世人 大难将至
+</font><font face="方正准圆_GBK" size="54">and tell them what is coming.</font>
+
+599
+01:13:14,300 --> 01:13:16,100
+<font face="方正准圆_GBK" size="72">我的弓在哪儿?
+</font><font face="方正准圆_GBK" size="54">I'll need my bow.</font>
+
+600
+01:13:19,700 --> 01:13:22,300
+<font face="方正准圆_GBK" size="72">我要和你们一起参加战斗
+</font><font face="方正准圆_GBK" size="54">If I'm to join you, I'll need my bow.</font>
+
+601
+01:13:28,160 --> 01:13:32,830
+<font face="方正准圆_GBK" size="72">启禀军师! 启禀军师 带上我
+</font><font face="方正准圆_GBK" size="54">Strategist Wang! Please take me with you.</font>
+
+602
+01:13:33,860 --> 01:13:35,800
+<font face="方正准圆_GBK" size="72">他想和我们一起去
+</font><font face="方正准圆_GBK" size="54">He wishes to join us.</font>
+
+603
+01:13:58,000 --> 01:13:59,160
+<font face="方正准圆_GBK" size="72">距离不同
+</font><font face="方正准圆_GBK" size="54">The distance is the key.</font>
+
+604
+01:14:00,200 --> 01:14:03,100
+<font face="方正准圆_GBK" size="72">这畜生的反应也不同
+</font><font face="方正准圆_GBK" size="54">The magnet is only effective when close to the beast.</font>
+
+605
+01:14:03,760 --> 01:14:08,000
+<font face="方正准圆_GBK" size="72">所以…… 磁石的远近
+</font><font face="方正准圆_GBK" size="54">Therefore, the effect weakens as it gets further away.</font>
+
+606
+01:14:08,460 --> 01:14:10,630
+<font face="方正准圆_GBK" size="72">才是研究的重点
+</font><font face="方正准圆_GBK" size="54">You see I have it under complete control.</font>
+
+607
+01:14:14,530 --> 01:14:15,600
+<font face="方正准圆_GBK" size="72">记下了 九尺
+</font><font face="方正准圆_GBK" size="54">Write down nine feet.</font>
+
+608
+01:16:04,700 --> 01:16:08,160
+<font face="方正准圆_GBK" size="72">往后飞 后殿! 是 后殿!
+</font><font face="方正准圆_GBK" size="54">-Steer to the rear of the palace. -Yes! To the rear of the palace!</font>
+
+609
+01:17:08,130 --> 01:17:09,500
+<font face="方正准圆_GBK" size="72">上面
+</font><font face="方正准圆_GBK" size="54">Above you!</font>
+
+610
+01:17:18,160 --> 01:17:20,430
+<font face="方正准圆_GBK" size="72">霹雳弹! 是 霹雳弹!
+</font><font face="方正准圆_GBK" size="54">-Light a grenade! -Yes, sir!</font>
+
+611
+01:17:23,600 --> 01:17:25,230
+<font face="方正准圆_GBK" size="72">快接着
+</font><font face="方正准圆_GBK" size="54">Behind you!</font>
+
+612
+01:17:37,730 --> 01:17:39,430
+<font face="方正准圆_GBK" size="72">我让你回家的
+</font><font face="方正准圆_GBK" size="54">I set you free.</font>
+
+613
+01:17:40,360 --> 01:17:41,800
+<font face="方正准圆_GBK" size="72">可我还是来了
+</font><font face="方正准圆_GBK" size="54">And here I am.</font>
+
+614
+01:17:43,360 --> 01:17:44,630
+<font face="方正准圆_GBK" size="72">兽王在那儿!
+</font><font face="方正准圆_GBK" size="54">There's the queen!</font>
+
+615
+01:17:49,400 --> 01:17:52,000
+<font face="方正准圆_GBK" size="72">它们在进食 不会进攻
+</font><font face="方正准圆_GBK" size="54">They will not attack while the queen is feeding.</font>
+
+616
+01:17:52,160 --> 01:17:55,260
+<font face="方正准圆_GBK" size="72">这是我们的机会 抓紧了!
+</font><font face="方正准圆_GBK" size="54">We have a chance! Hold on!</font>
+
+617
+01:18:09,700 --> 01:18:11,230
+<font face="方正准圆_GBK" size="72">来者何人?
+</font><font face="方正准圆_GBK" size="54">State your purpose!</font>
+
+618
+01:18:26,200 --> 01:18:28,860
+<font face="方正准圆_GBK" size="72">无影禁军殿帅林梅 参见皇上!
+</font><font face="方正准圆_GBK" size="54">General Lin Mae from Nameless Order. At your service!</font>
+
+619
+01:18:37,160 --> 01:18:38,600
+<font face="方正准圆_GBK" size="72">你们怎么回事?
+</font><font face="方正准圆_GBK" size="54">What took you so long?</font>
+
+620
+01:18:39,000 --> 01:18:41,500
+<font face="方正准圆_GBK" size="72">饕餮都冲到朕的门口了!
+</font><font face="方正准圆_GBK" size="54">The Tao Tei overrun the city!</font>
+
+621
+01:18:41,660 --> 01:18:45,260
+<font face="方正准圆_GBK" size="72">朕的几千御林军 还有无数的黎民百姓
+</font><font face="方正准圆_GBK" size="54">Thousands of soldiers and innocent are dead.</font>
+
+622
+01:18:45,360 --> 01:18:47,030
+<font face="方正准圆_GBK" size="72">一眨眼全都没了!
+</font><font face="方正准圆_GBK" size="54">You're too late!</font>
+
+623
+01:18:47,130 --> 01:18:49,330
+<font face="方正准圆_GBK" size="72">被捕获的那个饕餮现在在哪
+</font><font face="方正准圆_GBK" size="54">Where is the captured Tao Tei?</font>
+
+624
+01:18:49,500 --> 01:18:52,030
+<font face="方正准圆_GBK" size="72">关地牢了 要利用它杀死兽王
+</font><font face="方正准圆_GBK" size="54">-In the dungeon! -We need it to kill the queen.</font>
+
+625
+01:18:52,160 --> 01:18:54,200
+<font face="方正准圆_GBK" size="72">兽王死了 信号就断了
+</font><font face="方正准圆_GBK" size="54">Once she is dead, The Tao Tei can not function.</font>
+
+626
+01:18:54,360 --> 01:18:57,030
+<font face="方正准圆_GBK" size="72">成干上万的饕餮就会僵住无用
+</font><font face="方正准圆_GBK" size="54">Without her signal, their whole army will freeze.</font>
+
+627
+01:19:17,160 --> 01:19:18,960
+<font face="方正准圆_GBK" size="72">这有一条地下通道
+</font><font face="方正准圆_GBK" size="54">There is an underground canal here.</font>
+
+628
+01:19:19,130 --> 01:19:20,960
+<font face="方正准圆_GBK" size="72">没有饕餮吗?
+</font><font face="方正准圆_GBK" size="54">Has it been breached?</font>
+
+629
+01:19:21,530 --> 01:19:23,030
+<font face="方正准圆_GBK" size="72">应该都在地上
+</font><font face="方正准圆_GBK" size="54">The Tao Tei should all be above ground.</font>
+
+630
+01:19:23,600 --> 01:19:24,960
+<font face="方正准圆_GBK" size="72">我们捕获的那个呢?
+</font><font face="方正准圆_GBK" size="54">And the one we captured?</font>
+
+631
+01:19:25,330 --> 01:19:26,430
+<font face="方正准圆_GBK" size="72">带上它
+</font><font face="方正准圆_GBK" size="54">We load it up.</font>
+
+632
+01:19:27,530 --> 01:19:31,030
+<font face="方正准圆_GBK" size="72">喂饱了以后 它会回去找兽王
+</font><font face="方正准圆_GBK" size="54">We feed him. And it will return to its queen.</font>
+
+633
+01:19:31,130 --> 01:19:32,100
+<font face="方正准圆_GBK" size="72">好
+</font><font face="方正准圆_GBK" size="54">Good.</font>
+
+634
+01:20:41,060 --> 01:20:42,360
+<font face="方正准圆_GBK" size="72">会留下很酷的伤疤
+</font><font face="方正准圆_GBK" size="54">You'll have one hell of a scar,</font>
+
+635
+01:20:42,730 --> 01:20:45,130
+<font face="方正准圆_GBK" size="72">不过死不了 他说你会活着
+</font><font face="方正准圆_GBK" size="54">-but you'll live. -He says you will live.</font>
+
+636
+01:20:46,200 --> 01:20:47,130
+<font face="方正准圆_GBK" size="72">回头再救他
+</font><font face="方正准圆_GBK" size="54">We'll come back for him.</font>
+
+637
+01:21:06,300 --> 01:21:07,760
+<font face="方正准圆_GBK" size="72">它们攻进来了!
+</font><font face="方正准圆_GBK" size="54">They've broken through!</font>
+
+638
+01:22:29,930 --> 01:22:32,760
+<font face="方正准圆_GBK" size="72">别轻举妄动 威廉
+</font><font face="方正准圆_GBK" size="54">Patience, William.</font>
+
+639
+01:22:49,560 --> 01:22:52,700
+<font face="方正准圆_GBK" size="72">你确定它吃饱了会去找兽王?
+</font><font face="方正准圆_GBK" size="54">And it will go to the Queen when it's done?</font>
+
+640
+01:22:53,100 --> 01:22:54,230
+<font face="方正准圆_GBK" size="72">应该吧
+</font><font face="方正准圆_GBK" size="54">It should.</font>
+
+641
+01:22:56,800 --> 01:22:57,800
+<font face="方正准圆_GBK" size="72">我确定
+</font><font face="方正准圆_GBK" size="54">It will.</font>
+
+642
+01:23:09,730 --> 01:23:10,760
+<font face="方正准圆_GBK" size="72">放它进去啊
+</font><font face="方正准圆_GBK" size="54">Let it in.</font>
+
+643
+01:23:34,700 --> 01:23:36,000
+<font face="方正准圆_GBK" size="72">我能从上面把箭射进去
+</font><font face="方正准圆_GBK" size="54">I can get a shot from above.</font>
+
+644
+01:23:41,660 --> 01:23:44,030
+<font face="方正准圆_GBK" size="72">上去! 我挡住它们
+</font><font face="方正准圆_GBK" size="54">Go! I'll hold them back.</font>
+
+645
+01:24:06,900 --> 01:24:08,560
+<font face="方正准圆_GBK" size="72">等等 它接近兽王了
+</font><font face="方正准圆_GBK" size="54">Wait. Not yet.</font>
+
+646
+01:24:17,130 --> 01:24:17,930
+<font face="方正准圆_GBK" size="72">中
+</font><font face="方正准圆_GBK" size="54">Hit.</font>
+
+647
+01:24:27,130 --> 01:24:31,000
+<font face="方正准圆_GBK" size="72">再上 它们护不住头顶
+</font><font face="方正准圆_GBK" size="54">Go higher. I'll get a better shot.</font>
+
+648
+01:24:43,130 --> 01:24:45,330
+<font face="方正准圆_GBK" size="72">殿帅 全靠你们了!
+</font><font face="方正准圆_GBK" size="54">General! It's up to you now!</font>
+
+649
+01:25:38,100 --> 01:25:41,530
+<font face="方正准圆_GBK" size="72">只剩一件火药武器了 把火药枪给我
+</font><font face="方正准圆_GBK" size="54">We have one black powder weapon left. Give me the spear.</font>
+
+650
+01:25:43,660 --> 01:25:45,130
+<font face="方正准圆_GBK" size="72">我苦练一生 只为此战
+</font><font face="方正准圆_GBK" size="54">I've trained for this my whole life.</font>
+
+651
+01:25:47,160 --> 01:25:48,530
+<font face="方正准圆_GBK" size="72">信任
+</font><font face="方正准圆_GBK" size="54">Trust.</font>
+
+652
+01:25:52,330 --> 01:25:53,400
+<font face="方正准圆_GBK" size="72">我们相互信任
+</font><font face="方正准圆_GBK" size="54">I'll get you the shot.</font>
+
+653
+01:26:39,330 --> 01:26:40,730
+<font face="方正准圆_GBK" size="72">抓紧我!
+</font><font face="方正准圆_GBK" size="54">I've got you.</font>
+
+654
+01:27:58,460 --> 01:28:00,630
+<font face="方正准圆_GBK" size="72">没有我的日子如何啊?
+</font><font face="方正准圆_GBK" size="54">So, how's life without me?</font>
+
+655
+01:28:01,860 --> 01:28:03,360
+<font face="方正准圆_GBK" size="72">有点无聊
+</font><font face="方正准圆_GBK" size="54">A little slow.</font>
+
+656
+01:28:06,260 --> 01:28:09,800
+<font face="方正准圆_GBK" size="72">听说你是大英雄了 那必须的
+</font><font face="方正准圆_GBK" size="54">-You're a hero after all. -Oh, it looks that way.</font>
+
+657
+01:28:09,930 --> 01:28:12,300
+<font face="方正准圆_GBK" size="72">瞧你得意那样儿
+</font><font face="方正准圆_GBK" size="54">You seem pleased with yourself..</font>
+
+658
+01:28:12,400 --> 01:28:14,930
+<font face="方正准圆_GBK" size="72">拯救世界的大英雄有什么奖励?
+</font><font face="方正准圆_GBK" size="54">And what are they giving you for all your troubles?</font>
+
+659
+01:28:15,100 --> 01:28:16,300
+<font face="方正准圆_GBK" size="72">一袋金子?
+</font><font face="方正准圆_GBK" size="54">A bag of gold?</font>
+
+660
+01:28:16,730 --> 01:28:19,030
+<font face="方正准圆_GBK" size="72">还是在长城上为你嘉喜庆典?
+</font><font face="方正准圆_GBK" size="54">A victory parade along the top of the Wall?</font>
+
+661
+01:28:19,330 --> 01:28:21,500
+<font face="方正准圆_GBK" size="72">黑火药我随便拿
+</font><font face="方正准圆_GBK" size="54">All the black powder I can carry.</font>
+
+662
+01:28:21,960 --> 01:28:24,830
+<font face="方正准圆_GBK" size="72">还有骑兵护送 保护我回家
+</font><font face="方正准圆_GBK" size="54">And a cavalry escort to get me home safely.</font>
+
+663
+01:28:25,730 --> 01:28:29,000
+<font face="方正准圆_GBK" size="72">那恭喜你了 谢谢
+</font><font face="方正准圆_GBK" size="54">-Well, congratulations. -Thank you.</font>
+
+664
+01:28:29,160 --> 01:28:30,300
+<font face="方正准圆_GBK" size="72">所以你就
+</font><font face="方正准圆_GBK" size="54">So what is this?</font>
+
+665
+01:28:30,860 --> 01:28:34,100
+<font face="方正准圆_GBK" size="72">跟我在这显摆? 那当然啦
+</font><font face="方正准圆_GBK" size="54">-You're here to rub my nose in it? -Well, would you blame me?</font>
+
+666
+01:28:34,260 --> 01:28:36,400
+<font face="方正准圆_GBK" size="72">上次你扔下我一个人等死
+</font><font face="方正准圆_GBK" size="54">The last time I saw you, you left me for dead.</font>
+
+667
+01:28:36,530 --> 01:28:38,560
+<font face="方正准圆_GBK" size="72">再上一次 我还救了你一命呢
+</font><font face="方正准圆_GBK" size="54">And the time before, I saved your life.</font>
+
+668
+01:28:38,700 --> 01:28:40,430
+<font face="方正准圆_GBK" size="72">倒也是
+</font><font face="方正准圆_GBK" size="54">True.</font>
+
+669
+01:28:42,000 --> 01:28:44,730
+<font face="方正准圆_GBK" size="72">其实皇上给了我两个选择
+</font><font face="方正准圆_GBK" size="54">You know, the Emperor gave me a choice.</font>
+
+670
+01:28:44,860 --> 01:28:49,700
+<font face="方正准圆_GBK" size="72">带走黑火药…… 或者带走你
+</font><font face="方正准圆_GBK" size="54">I could take the black powder or I could take you.</font>
+
+671
+01:28:51,300 --> 01:28:53,360
+<font face="方正准圆_GBK" size="72">那你可干万别选我
+</font><font face="方正准圆_GBK" size="54">Please tell me you chose the powder.</font>
+
+672
+01:29:00,500 --> 01:29:02,330
+<font face="方正准圆_GBK" size="72">你让我很失望啊
+</font><font face="方正准圆_GBK" size="54">I don't even know you anymore.</font>
+
+673
+01:29:04,960 --> 01:29:06,600
+<font face="方正准圆_GBK" size="72">马已备好 日落前我们就可以出发
+</font><font face="方正准圆_GBK" size="54">The horses are saddled and waiting. Best we ride before nightfall.</font>
+
+674
+01:29:14,460 --> 01:29:15,960
+<font face="方正准圆_GBK" size="72">我先回避下
+</font><font face="方正准圆_GBK" size="54">I'll be inside.</font>
+
+675
+01:29:16,160 --> 01:29:18,000
+<font face="方正准圆_GBK" size="72">走时还得选我啊
+</font><font face="方正准圆_GBK" size="54">Don't leave without me.</font>
+
+676
+01:29:28,600 --> 01:29:30,030
+<font face="方正准圆_GBK" size="72">我是来道别的
+</font><font face="方正准圆_GBK" size="54">I came to say goodbye.</font>
+
+677
+01:29:32,360 --> 01:29:35,700
+<font face="方正准圆_GBK" size="72">听说你荣升骠骑大将军了
+</font><font face="方正准圆_GBK" size="54">I understand congratulations are in order.</font>
+
+678
+01:29:35,800 --> 01:29:38,030
+<font face="方正准圆_GBK" size="72">我真的很为你感到高兴
+</font><font face="方正准圆_GBK" size="54">General of the northwest territory.</font>
+
+679
+01:29:38,200 --> 01:29:40,030
+<font face="方正准圆_GBK" size="72">应该祝贺你
+</font><font face="方正准圆_GBK" size="54">Quite an honor.</font>
+
+680
+01:29:42,330 --> 01:29:44,200
+<font face="方正准圆_GBK" size="72">看来你已经选择好了
+</font><font face="方正准圆_GBK" size="54">Seems you've made your choice.</font>
+
+681
+01:29:44,560 --> 01:29:48,900
+<font face="方正准圆_GBK" size="72">他啊? 说实话 我真的想用这小子换黑火药来着
+</font><font face="方正准圆_GBK" size="54">Oh, him? Believe me, I'm already think about trading him back for the powder.</font>
+
+682
+01:29:49,100 --> 01:29:50,600
+<font face="方正准圆_GBK" size="72">我可听着呢
+</font><font face="方正准圆_GBK" size="54">I heard that.</font>
+
+683
+01:29:56,500 --> 01:29:59,760
+<font face="方正准圆_GBK" size="72">也许 我们都说得不对
+</font><font face="方正准圆_GBK" size="54">Perhaps we were both wrong.</font>
+
+684
+01:30:00,160 --> 01:30:03,000
+<font face="方正准圆_GBK" size="72">其实我们就是一类人
+</font><font face="方正准圆_GBK" size="54">We are more similar than I thought.</font>
+
+685
+01:30:08,500 --> 01:30:10,360
+<font face="方正准圆_GBK" size="72">谢谢大将军
+</font><font face="方正准圆_GBK" size="54">Thank you General.</font>
+
+686
+01:30:36,100 --> 01:30:38,300
+<font face="方正准圆_GBK" size="72">你考虑好了 不想留下来陪她?
+</font><font face="方正准圆_GBK" size="54">-Are you sure you don't want to go back? -Of course I do.</font>
+
+687
+01:30:40,900 --> 01:30:43,200
+<font face="方正准圆_GBK" size="72">可我怕你一个人回不了家
+</font><font face="方正准圆_GBK" size="54">I just don't trust you to make it out of here alone.</font>
+

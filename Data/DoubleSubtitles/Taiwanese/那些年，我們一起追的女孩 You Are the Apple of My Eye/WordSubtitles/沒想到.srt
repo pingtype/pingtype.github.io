@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#F82423>沒</font><font color=#000000>想</font><font color=#000000>到</font>   </font><font color=#F82423><font size="36">m</font><font size="44">é</font><font size="52">i </font></font><font color=#000000><font size="44">xiǎng </font></font><font color=#000000><font size="44">dào</font></font> <font size="50"><font color=#000000>did not expect</font></font>

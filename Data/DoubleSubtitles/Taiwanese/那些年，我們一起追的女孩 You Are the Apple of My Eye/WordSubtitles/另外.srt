@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#178FD1>另</font><font color=#178FD1>外</font>   </font><font color=#178FD1><font size="52">l</font><font size="48">ì</font><font size="40">n</font><font size="36">g </font></font><font color=#178FD1><font size="52">w</font><font size="44">à</font><font size="36">i</font></font> <font size="50"><font color=#000000>In addition</font></font>

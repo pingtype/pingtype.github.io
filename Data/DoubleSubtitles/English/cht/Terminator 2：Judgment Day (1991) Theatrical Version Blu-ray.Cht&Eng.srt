@@ -1,0 +1,5159 @@
+﻿1
+00:00:01,000 --> 00:00:11,000
+《終結者2: 審判日》 137分鐘  劇場公映版
+Terminator 2: Judgment Day (1991)
+Theatrical Version
+2 hr 17 min (137 min)
+
+2
+00:00:14,000 --> 00:00:19,000
+卡 洛 克 影 業
+
+3
+00:00:21,750 --> 00:00:25,400
+馬 裏 奧 · 凱 薩
+出 品
+
+4
+00:00:29,480 --> 00:00:33,150
+西 太 平 洋
+制 片
+
+5
+00:00:34,360 --> 00:00:38,100
+亮 光 風 暴 娛 樂
+聯 合 制 片
+
+6
+00:00:39,550 --> 00:00:43,250
+詹 姆 斯 · 卡 梅 隆
+電 影 作 品
+
+7
+00:01:02,650 --> 00:01:07,100
+洛杉磯  西元2029年
+
+8
+00:01:18,480 --> 00:01:24,361
+<i>30億人死於1997年8月29日</i>
+<i>Three billion human lives ended on August 29, 1997.</i>
+
+9
+00:01:24,444 --> 00:01:26,571
+<i>這場核戰的倖存者</i>
+<i>The survivors of the nuclear fire...</i>
+
+10
+00:01:26,655 --> 00:01:29,366
+<i>稱這天為"審判日"</i>
+<i>called the war "Judgment Day."</i>
+
+11
+00:01:29,449 --> 00:01:32,535
+<i>他們雖然活著  卻得面對新惡夢</i>
+<i>They lived only to face a new nightmare...</i>
+
+12
+00:01:32,619 --> 00:01:34,663
+<i>打一場跟機器人的戰爭</i>
+<i>the war against the machines.</i>
+
+13
+00:02:52,824 --> 00:02:56,578
+<i>電腦機器人的主宰者  天網</i>
+<i>The computer which controlled the machines, Skynet...</i>
+
+14
+00:02:56,661 --> 00:02:59,664
+<i>派了兩名終結者回到過去</i>
+<i>sent two Terminators back through time.</i>
+
+15
+00:02:59,748 --> 00:03:03,793
+<i>它們的任務是消滅反抗軍的領袖</i>
+<i>Their mission: to destroy the leader of the human resistance.</i>
+
+16
+00:03:03,877 --> 00:03:06,713
+<i>約翰·康納  我的兒子</i>
+<i>John Connor, my son.</i>
+
+17
+00:03:10,759 --> 00:03:15,013
+<i>1984年  第一個終結者想殺死我</i>
+<i>The first Terminator was programmed to strike at me in the year 1984...</i>
+
+18
+00:03:15,096 --> 00:03:17,432
+<i>那是在約翰出生之前</i>
+<i>before John was born.</i>
+
+19
+00:03:17,515 --> 00:03:19,351
+<i>但它失敗了</i>
+<i>It failed.</i>
+
+20
+00:03:19,434 --> 00:03:22,270
+<i>第二個則是試圖</i>
+<i>The second was set to strike at John himself...</i>
+
+21
+00:03:22,354 --> 00:03:24,814
+<i>殺害童年的約翰</i>
+<i>when he was still a child.</i>
+
+22
+00:03:28,068 --> 00:03:32,238
+<i>同上次一樣  反抗軍也派了一位勇士</i>
+<i>As before, the resistance was able to send a lone warrior...</i>
+
+23
+00:03:32,322 --> 00:03:34,616
+<i>來保衛約翰</i>
+<i>a protector for John.</i>
+
+24
+00:03:34,699 --> 00:03:38,400
+<i>問題是誰能先找到約翰</i>
+<i>It was just a question of which one of them would reach him first.</i>
+
+25
+00:03:41,000 --> 00:03:44,800
+阿 諾 · 施 瓦 辛 格
+
+26
+00:03:45,800 --> 00:03:50,800
+終 結 者 2
+審 判 日
+
+27
+00:03:51,500 --> 00:03:54,600
+琳 達 · 漢 密 爾 頓
+
+28
+00:03:55,200 --> 00:03:58,200
+羅 伯 特 · 帕 特 裏 克
+
+29
+00:03:58,900 --> 00:04:01,900
+喬 · 莫 頓
+
+30
+00:04:08,240 --> 00:04:11,360
+阿 爾 · 伯 恩
+埃 帕 莎 · 默 克 森
+
+31
+00:04:11,860 --> 00:04:14,960
+丹 尼 · 庫 克 塞
+卡 斯 圖 羅 · 格 雷 拉
+
+32
+00:04:18,460 --> 00:04:21,800
+特 別 介 紹
+愛 德 華 · 福 隆
+
+33
+00:04:30,800 --> 00:04:33,800
+選 角
+瑪 利 · 費 恩
+
+34
+00:04:34,380 --> 00:04:37,500
+服 裝 設 計
+瑪 莉 妮 · 斯 圖 爾 特
+
+35
+00:04:38,100 --> 00:04:41,180
+配 樂
+布 拉 德 · 費 德 爾
+
+36
+00:04:46,550 --> 00:04:49,640
+工 業 光 魔
+視 覺 特 效 總 監
+丹 尼 斯 · 穆 倫
+
+37
+00:04:50,240 --> 00:04:53,360
+特 效 化 妝 及 終 結 者 視 效
+制 作 總 監
+斯 坦 · 溫 斯 頓
+
+38
+00:04:59,600 --> 00:05:03,050
+剪 輯
+康 拉 德 · 巴 夫
+馬 克 · 高 德 布 拉 特
+理 查 德 · A · 哈 裏 斯
+
+39
+00:05:03,700 --> 00:05:06,700
+藝 術 指 導
+約 瑟 夫 · 奈 米 克 三 世
+
+40
+00:05:07,180 --> 00:05:10,240
+攝 影 指 導
+亞 當 · 格 林 伯 格
+
+41
+00:05:19,080 --> 00:05:22,080
+聯 合 制 片
+B · J · 若克
+絲 黛 芬 妮 · 奧 斯 汀
+
+42
+00:05:22,680 --> 00:05:25,700
+執 行 制 片
+蓋 爾 · 安 妮 · 赫 德
+以 及
+馬 裏 奧 · 凱 薩
+
+43
+00:05:26,400 --> 00:05:29,400
+編 劇
+詹 姆 斯 · 卡 梅 隆
+威 廉 · 威 捨 爾
+
+44
+00:05:29,960 --> 00:05:33,480
+制 片 及 導 演
+詹 姆 斯 · 卡 梅 隆
+
+45
+00:07:47,800 --> 00:07:49,460
+"體格符合"
+
+46
+00:07:52,874 --> 00:07:56,252
+我需要你的衣服  靴子  機車
+I need your clothes, your boots and your motorcycle.
+
+47
+00:08:04,761 --> 00:08:07,221
+你忘記說"請"字了
+You forgot to say please.
+
+48
+00:08:23,571 --> 00:08:25,281
+救我呀
+Get him off me!
+
+49
+00:08:46,135 --> 00:08:47,387
+把刀子拔出來
+Pull it out!
+
+50
+00:08:47,498 --> 00:08:48,500
+快拔出來
+Pull it out!
+
+51
+00:09:08,282 --> 00:09:09,800
+拿去
+Take it.
+
+52
+00:09:35,935 --> 00:09:38,563
+你不能這樣一走了之
+Can't let you take the man's wheels, son.
+
+53
+00:09:38,646 --> 00:09:42,150
+把機車留下  不然要你好看
+Now, get off before I put you down.
+
+54
+00:09:51,033 --> 00:09:53,453
+這才像話  混蛋
+That's it, goddamn it.
+
+55
+00:10:53,763 --> 00:10:56,265
+六號報告
+R-31 David, Sherman Code 6...
+
+56
+00:10:56,349 --> 00:11:01,062
+六街橋與聖塔菲之間有電流乾擾
+at the Sixth Street Bridge and Santa Fe on electrical disturbance.
+
+57
+00:11:01,145 --> 00:11:03,397
+<i>10-4  R-31  D</i>
+<i>Ten-four, R-31 David.</i>
+
+58
+00:12:12,450 --> 00:12:15,450
+"查詢: 約翰·康納"
+
+59
+00:12:21,500 --> 00:12:23,600
+"白種男性  10歲"
+
+60
+00:12:24,400 --> 00:12:25,900
+"前科: 非法入侵  偷竊"
+
+61
+00:12:26,100 --> 00:12:28,500
+"母親: 莎拉康納  父親: 不詳"
+
+62
+00:12:29,100 --> 00:12:31,400
+"法定監護人: 柏陶德夫婦"
+
+63
+00:12:40,453 --> 00:12:43,247
+約翰  快進去把你的房間弄乾淨
+John, get in there and clean up that pigsty of yours.
+
+64
+00:12:54,800 --> 00:12:57,219
+她真是惹人煩  不是嗎?
+Your foster parents are kind of dicks, huh?
+
+65
+00:12:57,303 --> 00:13:00,389
+我真受夠了那可惡的小鬼
+I swear, I have had it with that goddamn kid.
+
+66
+00:13:00,473 --> 00:13:03,100
+- 他甚至不肯回我的話  - 你擋住電視了
+- He won't even answer me anymore. - Honey, move.
+
+67
+00:13:03,184 --> 00:13:06,103
+你得幫我管教他
+Would you get off your butt and help me?
+
+68
+00:13:06,187 --> 00:13:09,023
+- 陶德  - 什麼事?
+- Todd! - What?
+
+69
+00:13:09,106 --> 00:13:12,443
+他有一個月沒整理房間了
+He hasn't cleaned that room of his in a month.
+
+70
+00:13:12,526 --> 00:13:15,696
+原來是急事  我這就去說說他吧
+Oh, it's an emergency. Hang on. I'll get right on it.
+
+71
+00:13:22,745 --> 00:13:24,622
+- 走吧  - 約翰
+- Come on. - John.
+
+72
+00:13:25,456 --> 00:13:28,751
+進去  照你媽的話做
+Get your ass inside. Do what your mother tells you.
+
+73
+00:13:29,752 --> 00:13:32,713
+她不是我媽  陶德
+She's not my mother, Todd.
+
+74
+00:13:38,510 --> 00:13:40,490
+"州立精神病院"
+
+75
+00:13:58,906 --> 00:14:00,908
+<i>下一位病人非常有趣</i>
+<i>This next patient is interesting.</i>
+
+76
+00:14:00,992 --> 00:14:03,452
+我觀察這病例數年了
+I've been following the case for years.
+
+77
+00:14:03,536 --> 00:14:05,621
+女性  29歲
+A 29-year-old female...
+
+78
+00:14:07,957 --> 00:14:10,626
+診斷結果是精神不正常
+diagnosed as acute schizo-affective disorder.
+
+79
+00:14:10,710 --> 00:14:13,963
+她有一般的癥狀: 沮喪  焦慮  暴力傾向
+The usual indicators: depression, anxiety, violent acting out...
+
+80
+00:14:14,046 --> 00:14:15,756
+迫害妄想癥
+delusions of persecution.
+
+81
+00:14:22,179 --> 00:14:25,558
+<i>但她的心態卻非常獨特</i>
+<i>The delusional architecture is fairly unique.</i>
+
+82
+00:14:25,641 --> 00:14:28,477
+她相信一種叫終結者的機器
+She believes that a machine called the Terminator...
+
+83
+00:14:28,561 --> 00:14:30,250
+這玩意兒的外形和人類相同
+which looks human, of course,
+
+84
+00:14:30,300 --> 00:14:32,550
+它是乘時光倒流機回來殺她的
+was sent back through time to kill her.
+
+85
+00:14:32,600 --> 00:14:34,025
+蠻有獨創性的
+That's original.
+
+86
+00:14:34,108 --> 00:14:37,361
+她孩子的父親也是乘倒流機
+And also that the father of her child...
+
+87
+00:14:37,445 --> 00:14:40,698
+回到今日來保衛她的一位戰士
+was a soldier sent back to protect her.
+
+88
+00:14:40,781 --> 00:14:42,700
+他也是從未來回來的
+He was from the future too.
+
+89
+00:14:42,783 --> 00:14:47,413
+我沒記錯的話  是2029年
+The year 2029, if I remember correctly.
+
+90
+00:14:47,496 --> 00:14:49,749
+我們到了
+And here we are.
+
+91
+00:14:50,499 --> 00:14:51,625
+<i>早安  莎拉</i>
+<i>Morning, Sarah.</i>
+
+92
+00:14:55,963 --> 00:14:58,360
+早安  索大夫
+Good morning, Dr. Silberman.
+
+93
+00:14:58,500 --> 00:15:00,000
+你的膝蓋還好嗎?
+How's the knee?
+
+94
+00:15:01,761 --> 00:15:03,679
+<i>很好  莎拉</i>
+<i>Fine, Sarah.</i>
+
+95
+00:15:04,805 --> 00:15:07,058
+數周前她奪走我的筆
+She stabbed me in the kneecap...
+
+96
+00:15:07,141 --> 00:15:10,360
+攻擊了我的膝蓋骨
+with my pen a few weeks ago.
+
+97
+00:15:10,770 --> 00:15:12,271
+她曾多次意圖脫逃
+Repeated escape attempts.
+
+98
+00:15:22,573 --> 00:15:24,784
+咱們繼續參觀
+Let's move on, shall we?
+
+99
+00:15:24,867 --> 00:15:28,204
+我不喜歡病人把房間搞亂
+I don't like to see the patients disrupting their rooms like this.
+
+100
+00:15:28,287 --> 00:15:29,900
+要確定她有服用鎮定劑
+See she takes her Thorazine.
+
+101
+00:15:30,000 --> 00:15:31,800
+沒問題  索大夫  我會搞定她的
+Sure, Dr. Silberman. I'll take care of it.
+
+102
+00:15:55,080 --> 00:15:57,180
+你是約翰·康納的法定監護人?
+Are you the legal guardian of John Connor?
+
+103
+00:15:57,380 --> 00:16:00,680
+是的  警員  他又惹禍了?
+That's right, Officer. What's he done now?
+
+104
+00:16:00,935 --> 00:16:02,480
+我可以和他談談嗎?
+Could I speak with him, please?
+
+105
+00:16:02,580 --> 00:16:03,896
+他若在家  當然可以
+You could if he were here.
+
+106
+00:16:03,980 --> 00:16:05,380
+但今早他騎車出去了
+He took off on his bike this morning.
+
+107
+00:16:05,480 --> 00:16:06,780
+不知跑哪兒去了
+He could be anywhere.
+
+108
+00:16:06,941 --> 00:16:09,235
+你有約翰的照片嗎?
+Do you have a photograph of John?
+
+109
+00:16:09,318 --> 00:16:10,570
+有  等一下
+Yeah. Hold on.
+
+110
+00:16:13,114 --> 00:16:15,380
+能告訴我這是怎麼回事嗎?
+Gonna tell me what this is about?
+
+111
+00:16:15,825 --> 00:16:18,280
+我只想問他一些問題
+I just need to ask him a few questions.
+
+112
+00:16:19,680 --> 00:16:21,480
+他長得真俊俏
+He's a good-looking boy.
+
+113
+00:16:21,580 --> 00:16:23,380
+我留著照片你不介意吧?
+Do you mind if I keep this picture?
+
+114
+00:16:23,430 --> 00:16:24,480
+不  當然不會
+No, go on.
+
+115
+00:16:24,580 --> 00:16:26,880
+今早也有個人來找他
+There was a guy here this morning looking for him too.
+
+116
+00:16:26,980 --> 00:16:28,780
+對  騎機車的大個子
+Yeah, a big guy on a bike.
+
+117
+00:16:28,880 --> 00:16:31,580
+他跟這件事有關嗎?
+Has that got something to do with this?
+
+118
+00:16:33,380 --> 00:16:34,580
+沒有
+No.
+
+119
+00:16:35,094 --> 00:16:37,280
+不用管他
+I wouldn't worry about him.
+
+120
+00:16:38,264 --> 00:16:40,680
+多謝你們的合作
+Thanks for your cooperation.
+
+121
+00:16:42,101 --> 00:16:45,104
+請插入金融卡
+Please insert your stolen card now.
+
+122
+00:16:52,361 --> 00:16:54,113
+密碼是
+PIN number.
+
+123
+00:16:55,323 --> 00:16:56,907
+快點  搞太久了
+Hurry up. This is taking too long.
+
+124
+00:16:56,991 --> 00:16:58,492
+加油
+Go, baby.
+
+125
+00:16:59,880 --> 00:17:01,080
+好
+All right.
+
+126
+00:17:01,180 --> 00:17:05,333
+- 密碼  9003  - 你這是跟誰學的?
+- PIN number 9003. - Where'd you learn this stuff from?
+
+127
+00:17:05,416 --> 00:17:07,918
+我媽  我親生母親
+From my mom. My real mom, I mean.
+
+128
+00:17:08,002 --> 00:17:12,256
+提三百元
+Withdraw 300 bucks.
+
+129
+00:17:12,340 --> 00:17:15,092
+來吧  寶貝
+Come on, baby. Come on!
+
+130
+00:17:15,176 --> 00:17:17,428
+- 好  - 成功了
+- Yes! - Hey, it worked.
+
+131
+00:17:17,511 --> 00:17:21,182
+好  賺到了  走
+All right. Easy money. Come on!
+
+132
+00:17:23,684 --> 00:17:25,811
+輕而易舉
+Yes! Piece of cake.
+
+133
+00:17:31,067 --> 00:17:34,195
+- 她就是你媽?  - 是的
+- Is that her? - Yes.
+
+134
+00:17:34,278 --> 00:17:36,113
+她似乎很酷嘛
+She's pretty cool, huh?
+
+135
+00:17:36,197 --> 00:17:38,449
+不  她是個神精病
+No, she's a complete psycho.
+
+136
+00:17:38,532 --> 00:17:41,920
+所以才被人關在精神病院
+That's why she's at Pescadero. It's a mental institute.
+
+137
+00:17:42,480 --> 00:17:44,480
+她企圖炸毀一間電腦工廠
+She tried to blow up a computer factory,
+
+138
+00:17:44,580 --> 00:17:46,080
+結果遭擊傷被捕
+but got shot and arrested.
+
+139
+00:17:46,160 --> 00:17:48,209
+真糟
+No shit.
+
+140
+00:17:48,918 --> 00:17:51,295
+她是徹底的失敗者
+She's a total loser.
+
+141
+00:17:51,379 --> 00:17:54,131
+走  咱們去花點錢
+Come on. Let's go spend some money.
+
+142
+00:18:09,047 --> 00:18:13,009
+<i>我的眼睛</i>
+<i>It's like a giant strobe light...</i>
+
+143
+00:18:13,092 --> 00:18:15,428
+<i>感到一陣灼熱感</i>
+<i>burning right through my eyes.</i>
+
+144
+00:18:19,432 --> 00:18:21,935
+<i>但我似乎仍能看見</i>
+<i>Somehow I can still see.</i>
+
+145
+00:18:27,816 --> 00:18:29,734
+<i>老天</i>
+<i>Oh, God.</i>
+
+146
+00:18:33,071 --> 00:18:36,533
+<i>你們知道我的夢境每晚都一樣</i>
+<i>We know the dream's the same every night.</i>
+
+147
+00:18:36,616 --> 00:18:40,036
+<i>- 何必要...  - 請繼續</i>
+<i>- Why do I have to... - Please continue.</i>
+
+148
+00:18:43,706 --> 00:18:46,459
+<i>孩子們像紙一樣的燃燒</i>
+<i>Children look like burnt paper.</i>
+
+149
+00:18:48,086 --> 00:18:50,213
+<i>一片漆黑</i>
+<i>Black.</i>
+
+150
+00:18:50,296 --> 00:18:52,215
+<i>無人倖免</i>
+<i>Not moving.</i>
+
+151
+00:18:54,050 --> 00:18:56,469
+<i>一切東西都被燒得面目全非</i>
+<i>And then the blast wave hits them.</i>
+
+152
+00:19:05,770 --> 00:19:08,481
+<i>像樹葉般四處散落</i>
+<i>And they fly apart like leaves.</i>
+
+153
+00:19:10,233 --> 00:19:13,611
+<i>你的夢把世界末日</i>
+<i>Dreams of cataclysm, the end of the world...</i>
+
+154
+00:19:13,695 --> 00:19:15,613
+<i>描述地很好</i>
+<i>are very common.</i>
+
+155
+00:19:17,323 --> 00:19:21,578
+<i>這不是夢  這場核戰是真的</i>
+<i>It's not a dream, you moron. It's real.</i>
+
+156
+00:19:21,661 --> 00:19:25,582
+<i>- 我知道這一切將要發生  - 你的夢很有真實感</i>
+<i>- I know the date it happens. - I'm sure it feels real to you.</i>
+
+157
+00:19:25,665 --> 00:19:28,167
+<i>1997年8月29日那天</i>
+<i>On August 29, 1997...</i>
+
+158
+00:19:28,251 --> 00:19:31,754
+<i>你也會有完全一樣的感受</i>
+<i>it's gonna feel pretty fuckin' real to you too!</i>
+
+159
+00:19:31,838 --> 00:19:35,508
+<i>沒有擦幾萬層防曬油的人都會很慘的</i>
+<i>Anybody not wearing two-million sunblock is gonna have a real bad day.</i>
+
+160
+00:19:35,592 --> 00:19:37,510
+<i>- 懂嗎?  - 別激動</i>
+<i>- Get it? - Stop.</i>
+
+161
+00:19:37,594 --> 00:19:40,471
+<i>你們無能為力</i>
+<i>God, you think you're safe and alive.</i>
+
+162
+00:19:40,555 --> 00:19:42,849
+<i>你們都會死掉</i>
+<i>You're already dead. Everybody!</i>
+
+163
+00:19:42,932 --> 00:19:45,435
+<i>聽好  你們都會死掉</i>
+<i>Him. You. You're dead already.</i>
+
+164
+00:19:45,518 --> 00:19:48,396
+<i>這兒的一切將消失無蹤</i>
+<i>This whole place, everything you see is gone!</i>
+
+165
+00:19:48,479 --> 00:19:52,567
+<i>做夢的人是你們  我保證  你們若再不清醒</i>
+<i>You're the one living in the dream, 'cause I know it happens!</i>
+
+166
+00:19:52,650 --> 00:19:54,611
+<i>就"美夢"成真了</i>
+<i>It happens!</i>
+
+167
+00:20:05,580 --> 00:20:08,583
+我現在好多了
+I feel much better now.
+
+168
+00:20:08,666 --> 00:20:10,543
+清醒了
+Clearer.
+
+169
+00:20:10,627 --> 00:20:13,421
+沒錯  你最近的態度
+Yes, your attitude has been...
+
+170
+00:20:13,504 --> 00:20:15,798
+的確改善不少
+much improved lately.
+
+171
+00:20:25,141 --> 00:20:27,644
+你說我的生活應該有個目標
+It's helped me to have a goal...
+
+172
+00:20:27,727 --> 00:20:30,897
+找件我很希望做的事
+something to look forward to.
+
+173
+00:20:30,980 --> 00:20:32,148
+什麼事?
+What is that?
+
+174
+00:20:32,231 --> 00:20:34,567
+你說過
+Well, you said...
+
+175
+00:20:34,651 --> 00:20:38,488
+我的病情若有改善
+that if I showed improvement after six months...
+
+176
+00:20:38,571 --> 00:20:41,240
+你會送我到管理較松的醫院
+you would transfer me to the minimum security wing...
+
+177
+00:20:41,324 --> 00:20:44,077
+而且可以讓我會客
+and I could have visitors.
+
+178
+00:20:45,703 --> 00:20:49,749
+現在已經過去六個月了
+Well, it's been six months and...
+
+179
+00:20:50,875 --> 00:20:53,169
+我很想見見我兒子
+I was looking forward to seeing my son.
+
+180
+00:20:54,212 --> 00:20:55,672
+我明白了
+I see.
+
+181
+00:20:58,925 --> 00:21:03,096
+咱們再談談你提到的終結者機器
+Let's go back to what you were saying about those Terminator machines.
+
+182
+00:21:04,263 --> 00:21:07,642
+你現在認為它們不存在了?
+Now you think they don't exist?
+
+183
+00:21:07,725 --> 00:21:11,854
+它們不存在  我現在知道了
+They don't exist. I know that now.
+
+184
+00:21:11,938 --> 00:21:15,108
+你反覆提及砸爛過一個終結者
+But you've told me on many occasions about how you crushed one...
+
+185
+00:21:15,191 --> 00:21:17,276
+那又怎麼解釋
+in a hydraulic press.
+
+186
+00:21:18,653 --> 00:21:21,781
+我若做過這事  應該會有證據留下
+If I had, there would have been some evidence.
+
+187
+00:21:21,864 --> 00:21:24,283
+他們應該會在那工廠找到殘骸
+They would have found something at the factory.
+
+188
+00:21:24,367 --> 00:21:26,452
+我懂了
+I see.
+
+189
+00:21:26,536 --> 00:21:29,956
+<i>你不認為電腦公司掩飾了一切?</i>
+<i>So you don't believe anymore that the company covered it up?</i>
+
+190
+00:21:32,250 --> 00:21:35,128
+<i>不  它們為何要如此?</i>
+<i>No. Why would they?</i>
+
+191
+00:21:35,336 --> 00:21:38,464
+- 換個位置  - 好
+- Let's try a new position right there. - Okay.
+
+192
+00:21:39,037 --> 00:21:43,015
+所有感應系統運作正常
+
+193
+00:21:43,077 --> 00:21:45,073
+對  這是新的零件
+
+194
+00:21:46,094 --> 00:21:48,067
+線路有點故障
+
+195
+00:21:48,391 --> 00:21:49,892
+戴森先生
+Mr. Dyson?
+
+196
+00:21:51,769 --> 00:21:54,397
+材料小組準備要...
+The materials team is running another...
+
+197
+00:21:54,480 --> 00:21:56,149
+- 戴森先生  - 怎麼啦?
+- Mr. Dyson. - Yes?
+
+198
+00:21:56,232 --> 00:21:59,193
+材料小組下午要做實驗
+The materials team is running another series this afternoon.
+
+199
+00:21:59,277 --> 00:22:02,238
+你得簽字同意
+You have to sign for the... it.
+
+200
+00:22:02,321 --> 00:22:05,158
+- 把"它"拿出來  - 好的  我懂了
+- You have to sign it out. - Okay. I'll get it.
+
+201
+00:22:06,988 --> 00:22:08,019
+戴森先生
+Listen, Mr. Dyson,
+
+202
+00:22:08,119 --> 00:22:09,388
+我知道我剛進公司
+I know I haven't been here long,
+
+203
+00:22:09,388 --> 00:22:11,168
+但你是否可以告訴我...
+but I was wondering if you know...
+
+204
+00:22:11,228 --> 00:22:12,623
+告訴你什麼?
+Know what?
+
+205
+00:22:12,707 --> 00:22:15,338
+你知不知道"它"是哪兒來的?
+If you know where "it" came from.
+
+206
+00:22:15,388 --> 00:22:17,188
+我也問過這個問題  
+I asked them the same question once.
+
+207
+00:22:17,188 --> 00:22:18,788
+他們的回答是
+You know what they told me?
+
+208
+00:22:18,788 --> 00:22:20,688
+"別問"
+Don't ask.
+
+209
+00:22:26,688 --> 00:22:27,588
+你好  戴森先生
+Good morning, Mr. Dyson.
+
+210
+00:22:27,638 --> 00:22:29,638
+- 還好嗎?  - 還好
+- How's it going? - Okay.
+
+211
+00:22:29,932 --> 00:22:32,852
+插入鑰匙  左向  三
+Insert key. Left on three.
+
+212
+00:22:32,935 --> 00:22:35,271
+二  一  轉
+Two, one, turn.
+
+213
+00:22:38,357 --> 00:22:40,088
+- 你老婆孩子還好吧  - 很好  謝謝
+- How are the wife and kids? - Great. Thanks.
+
+214
+00:22:40,088 --> 00:22:40,888
+好了
+Here you go.
+
+215
+00:23:08,805 --> 00:23:11,849
+你覺得如何  大夫?
+So what do you think, Doctor?
+
+216
+00:23:12,725 --> 00:23:14,685
+我有進步  是吧?
+Haven't I shown improvement?
+
+217
+00:23:15,937 --> 00:23:18,731
+莎拉  問題是
+Well, Sarah, here's the problem.
+
+218
+00:23:19,816 --> 00:23:22,235
+我知道你有多聰明
+I know how smart you are.
+
+219
+00:23:22,318 --> 00:23:24,362
+你是挑我愛聽的講
+You're just telling me what I want to hear.
+
+220
+00:23:25,404 --> 00:23:28,449
+我認為你根本言不由衷
+I don't think you really believe what you're telling me today.
+
+221
+00:23:28,533 --> 00:23:32,453
+你想調到管理寬鬆的醫院  只是想逃
+If I put you in minimum security, you'll just try to escape again.
+
+222
+00:23:37,291 --> 00:23:39,585
+你得讓我看看我兒子
+You have to let me see my son.
+
+223
+00:23:40,837 --> 00:23:42,421
+求求你
+Please.
+
+224
+00:23:44,076 --> 00:23:45,066
+求求你
+Please.
+
+225
+00:23:46,384 --> 00:23:49,595
+他有生命危險  他需要我幫助
+He's in great danger. He's naked without me.
+
+226
+00:23:51,013 --> 00:23:52,473
+讓我打個電話也行
+If I could make a phone call...
+
+227
+00:23:52,557 --> 00:23:55,017
+不行  一會兒也不行
+I'm afraid not. Not for a while.
+
+228
+00:23:57,228 --> 00:23:59,689
+我別無選擇
+I don't see any choice but to recommend to the review board...
+
+229
+00:23:59,772 --> 00:24:02,358
+只好再關你半年
+that you stay here for another six months.
+
+230
+00:24:05,528 --> 00:24:08,823
+我要殺了你  混蛋
+I'll kill you, you son of a bitch!
+
+231
+00:24:09,866 --> 00:24:13,068
+- 你這禽獸  - 抓住她
+- You son of a bitch! - Get her off!
+
+232
+00:24:13,327 --> 00:24:16,088
+給她打鎮靜劑
+Ten CCs of sodium amobarbital, stat!
+
+233
+00:24:17,088 --> 00:24:18,388
+你們這些混蛋
+You don't know what you're doing!
+
+234
+00:24:18,488 --> 00:24:20,088
+快拿藥來
+Get some restraints in here now!
+
+235
+00:24:22,128 --> 00:24:25,715
+死到臨頭了還不覺悟
+You don't know what you're doing!
+
+236
+00:24:29,552 --> 00:24:31,846
+<i>真是個模範公民</i>
+<i>Model citizen.</i>
+
+237
+00:24:53,068 --> 00:24:54,368
+"目標確認"
+
+238
+00:25:10,885 --> 00:25:13,596
+你剛好錯過  15分鐘前他們剛走
+You just missed him. He was here 15 minutes ago.
+
+239
+00:25:13,679 --> 00:25:16,848
+- 他們好像要去加利瑞購物中心  - 對
+- He was going to the galleria. - Yeah.
+
+240
+00:25:16,933 --> 00:25:18,488
+加利瑞?
+The galleria?
+
+241
+00:26:03,938 --> 00:26:07,149
+- 我去換些銅板  馬上回來  - 好
+- I'm gonna get some quarters. I'll be back, all right? - Cool.
+
+242
+00:26:22,038 --> 00:26:24,948
+- 噢  不  - 小姑娘  你們認識約翰·康納嗎?
+- Oh, no! - Girls, do you know John Connor?
+
+243
+00:26:25,068 --> 00:26:26,068
+不認識
+No.
+
+244
+00:26:28,629 --> 00:26:31,382
+嘿  你認識這個孩子嗎?
+Hey, do you know this kid?
+
+245
+00:26:31,465 --> 00:26:33,634
+不  我不認識他
+Nah, I don't know him.
+
+246
+00:26:38,973 --> 00:26:41,350
+- 約翰  - 現在不行
+- John. - Not now.
+
+247
+00:26:41,434 --> 00:26:44,687
+有個條子在找你  快瞧
+There's this cop scoping for you. Check it out.
+
+248
+00:26:47,231 --> 00:26:49,150
+- 他就在那邊  - 快溜
+- He's right over there. - Split, man.
+
+249
+00:26:49,233 --> 00:26:51,694
+- 快走  - 好
+- Just go. - Yeah.
+
+250
+00:26:56,407 --> 00:26:57,658
+你在找的人好像往那兒...
+I saw that kid...
+
+251
+00:27:13,007 --> 00:27:14,925
+嘿  你不能跑到這裏來
+Hey! You're not supposed to be in here!
+
+252
+00:27:40,659 --> 00:27:41,588
+趴下
+Get down.
+
+253
+00:28:52,648 --> 00:28:54,817
+先生  你沒事吧?
+Mister, are you all right?
+
+254
+00:28:55,985 --> 00:28:57,153
+你沒事吧?
+You all right?
+
+255
+00:29:12,459 --> 00:29:13,669
+快啊
+Come on!
+
+256
+00:29:53,542 --> 00:29:55,002
+該死
+Goddamn!
+
+257
+00:34:34,114 --> 00:34:36,825
+靠到路邊  停車
+Okay, time-out. Stop the bike.
+
+258
+00:34:36,909 --> 00:34:39,495
+停下來
+Time-out. Come on, stop the bike.
+
+259
+00:34:52,591 --> 00:34:55,302
+天啊  別會錯意了
+Holy shit. Now, don't take this the wrong way.
+
+260
+00:34:55,385 --> 00:34:57,763
+- 你是終結者  對吧?  - 對
+- You are a Terminator, right? - Yes.
+
+261
+00:34:57,846 --> 00:35:00,788
+生化機械  模型101
+Cyberdyne Systems, Model 101.
+
+262
+00:35:00,888 --> 00:35:02,068
+不可能吧
+No.
+
+263
+00:35:12,277 --> 00:35:14,196
+好傢伙
+Holy shit.
+
+264
+00:35:15,697 --> 00:35:18,283
+你真像真的人
+You're really real.
+
+265
+00:35:18,367 --> 00:35:20,327
+我是說
+I mean...
+
+266
+00:35:22,829 --> 00:35:25,791
+你骨子裏是機器人  對吧?
+You're like a machine underneath, right?
+
+267
+00:35:25,874 --> 00:35:27,376
+可外表是人形
+But alive outside?
+
+268
+00:35:27,459 --> 00:35:29,378
+內部是機械骨架
+I'm a cybernetic organism.
+
+269
+00:35:29,461 --> 00:35:32,172
+外部是真皮
+Living tissue over metal endoskeleton.
+
+270
+00:35:46,979 --> 00:35:49,147
+真帥
+This is intense.
+
+271
+00:35:49,231 --> 00:35:52,025
+約翰  清醒一下
+Get a grip, John. Okay.
+
+272
+00:35:54,611 --> 00:35:56,738
+你不是來殺我的
+You're not here to kill me.
+
+273
+00:35:56,822 --> 00:36:00,784
+這一點我知道  那你到底要怎樣?
+I figured that part out for myself. So what's the deal?
+
+274
+00:36:00,867 --> 00:36:02,948
+我的任務是要保護你
+My mission is to protect you.
+
+275
+00:36:03,768 --> 00:36:06,588
+是嗎?  誰派你來的?
+Yeah? Who sent you?
+
+276
+00:36:07,499 --> 00:36:09,626
+是你  35年後的你
+You did. Thirty-five years from now...
+
+277
+00:36:09,710 --> 00:36:13,714
+派我來保護現在的你
+you reprogrammed me to be your protector here in this time.
+
+278
+00:36:13,797 --> 00:36:16,550
+真深奧
+Oh, this is deep.
+
+279
+00:36:18,719 --> 00:36:21,418
+那傢伙跟你一樣是終結者?
+So this other guy, he's a Terminator like you, right?
+
+280
+00:36:21,518 --> 00:36:25,678
+跟我不同  它是T-1000  是更先進的模型
+Not like me. A T-1000, advanced prototype.
+
+281
+00:36:27,118 --> 00:36:28,937
+你是說它比你更先進?
+Your mean more advanced than you are?
+
+282
+00:36:29,021 --> 00:36:33,525
+- 對  它是特種合金製造  - 那是什麼意思?
+- Yes. A mimetic poly-alloy. - What the hell does that mean?
+
+283
+00:36:33,609 --> 00:36:37,863
+- 液態金屬  - 我們去哪兒?
+- Liquid metal. - Where are we going?
+
+284
+00:36:37,946 --> 00:36:41,283
+你得立刻離開這座城市  這樣才能逃避它的追殺
+We have to get out of the city immediately and avoid the authorities.
+
+285
+00:36:41,366 --> 00:36:44,458
+我想回家去  收拾些東西再走
+I gotta stop by my house. I wanna pick up some stuff.
+
+286
+00:36:44,558 --> 00:36:48,957
+否決  T-1000它一定會在那等你的
+Negative. The T-1000 would definitely try to reacquire you there.
+
+287
+00:36:49,041 --> 00:36:51,794
+- 你確定?  - 我確定
+- You sure? - I would.
+
+288
+00:37:02,387 --> 00:37:05,098
+陶德和吉納會有危險
+Look, Todd and Janelle are dicks...
+
+289
+00:37:07,351 --> 00:37:08,811
+我至少得警告他們
+but I gotta warn 'em.
+
+290
+00:37:08,894 --> 00:37:11,271
+可惡  你有銅板嗎?
+Shit. You got a quarter?
+
+291
+00:37:20,030 --> 00:37:23,033
+- 喂  <i>- 吉納  是我</i>
+- Hello. <i>- Janelle, it's me.</i>
+
+292
+00:37:23,117 --> 00:37:25,494
+- 約翰?  <i>- 一切都好嗎?</i>
+- John? <i>- Is everything all right?</i>
+
+293
+00:37:25,577 --> 00:37:27,996
+- 你們都沒事吧?  <i>- 當然  甜心  一切都很好</i>
+- Are you guys okay? <i>- Sure, honey, everything's okay.</i>
+
+294
+00:37:28,080 --> 00:37:31,166
+- 你沒事吧?  <i>- 我很好</i>
+- Are you all right? <i>- Yeah, I'm fine.</i>
+
+295
+00:37:31,250 --> 00:37:34,837
+約翰  天晚了  我很擔心你
+John, it's late. I was beginning to worry about you.
+
+296
+00:37:34,920 --> 00:37:37,631
+你趕快回來  我們一起吃晚餐
+If you hurry home, we can sit down and have dinner together.
+
+297
+00:37:37,714 --> 00:37:39,258
+我正在煮牛肉呢
+I'm making beef stew.
+
+298
+00:37:39,341 --> 00:37:41,598
+不對勁  她對我從沒這麼好過
+Somethings wrong. She's never this nice.
+
+299
+00:37:41,678 --> 00:37:44,138
+約翰  你在哪兒?
+John? Where are you?
+
+300
+00:37:44,221 --> 00:37:47,099
+那隻狗在鬼叫什麼勁?
+What the hell is the goddamn dog barking at?
+
+301
+00:37:47,182 --> 00:37:50,435
+閉嘴  你這一文不值的廢物
+Hey, shut up, you worthless piece of shit!
+
+302
+00:37:50,519 --> 00:37:51,979
+狗在吠叫
+The dog's really barking.
+
+303
+00:37:52,062 --> 00:37:54,438
+叫那小鬼把那雜種狗丟掉
+You were gonna tell the kid to get rid of that mutt.
+
+304
+00:37:58,193 --> 00:38:00,946
+約翰  天晚了  別害我擔心
+John, it's late. Please don't make me worry.
+
+305
+00:38:01,029 --> 00:38:02,739
+他已經在那裏了嗎?
+Could he already be there?
+
+306
+00:38:03,866 --> 00:38:05,159
+甜心  你沒事吧
+Honey, are you okay?
+
+307
+00:38:05,242 --> 00:38:09,246
+- 我在這兒  我沒事  <i>- 真的嗎?</i>
+- I'm right here. I'm fine. <i>- Are you sure you're all right?</i>
+
+308
+00:38:09,329 --> 00:38:12,418
+- 狗叫什麼名字?  - 麥克斯
+- What's the dog's name? - Max.
+
+309
+00:38:12,749 --> 00:38:15,085
+吉納  伍飛怎麼了?
+Hey, Janelle. What's wrong with Wolfie?
+
+310
+00:38:15,169 --> 00:38:17,754
+我聽見它在叫  它沒事吧?
+I can hear him barking. Is he okay?
+
+311
+00:38:17,838 --> 00:38:21,558
+伍飛很好  甜心  它很好
+Wolfie's fine, honey. Wolfie's just fine.
+
+312
+00:38:21,798 --> 00:38:23,118
+你在哪兒?
+Where are you?
+
+313
+00:38:25,018 --> 00:38:26,618
+你的養父母都死了
+Your foster parents are dead.
+
+314
+00:39:04,009 --> 00:39:06,011
+說清楚點
+I need a minute here.
+
+315
+00:39:06,094 --> 00:39:10,432
+你說這機器能模仿一切事物?
+You're telling me that this thing can imitate anything it touches?
+
+316
+00:39:10,515 --> 00:39:13,435
+只要它能接觸到的都行
+Anything it samples by physical contact.
+
+317
+00:39:13,518 --> 00:39:14,937
+厲害
+Get real.
+
+318
+00:39:15,020 --> 00:39:18,774
+那它也能變成一包香煙?
+It could disguise itself as a pack of cigarettes?
+
+319
+00:39:18,857 --> 00:39:20,818
+不行  只能變成類似它大小的物體
+No, only an object of equal size.
+
+320
+00:39:20,858 --> 00:39:23,438
+那為何不變成顆炸彈來殺我?
+Why not just become a bomb or something to get me?
+
+321
+00:39:23,538 --> 00:39:25,530
+它無法變成很複雜的機器
+It can't form complex machines.
+
+322
+00:39:25,598 --> 00:39:27,798
+像槍枝  炸藥  化學品等
+Guns and explosives have chemicals, moving parts.
+
+323
+00:39:27,848 --> 00:39:31,411
+但它可以變出一個固態金屬形狀
+It doesn't work that way. But it can form solid metal shapes.
+
+324
+00:39:31,495 --> 00:39:34,539
+- 像是什麼?  - 像刀  能刺的武器
+- Like what? - Knives and stabbing weapons.
+
+325
+00:39:35,332 --> 00:39:38,294
+這些是電視監視器照的
+These were taken by a video surveillance camera...
+
+326
+00:39:38,377 --> 00:39:41,881
+1984年  在西城警局
+at the West Highland Police Station in 1984.
+
+327
+00:39:42,672 --> 00:39:44,856
+那晚他殺了17名警察
+He killed 17 police officers that night.
+
+328
+00:39:47,093 --> 00:39:49,137
+都是有家室的人
+Men with families...
+
+329
+00:39:50,722 --> 00:39:52,140
+有子女
+children.
+
+330
+00:39:53,766 --> 00:39:56,144
+這是今天在一個購物中心照的
+These were taken at a mall in Reseda...
+
+331
+00:39:56,227 --> 00:39:58,438
+就在今天
+today.
+
+332
+00:39:59,606 --> 00:40:02,817
+康納小姐  我們知道你認得此人
+Miss Connor, we know you know who this guy is.
+
+333
+00:40:06,237 --> 00:40:09,991
+我還要告訴你  令郎也失蹤了
+I just sat here and told you that your son is missing...
+
+334
+00:40:10,074 --> 00:40:12,911
+他的養父母雙雙遇害
+that the foster parents have been murdered.
+
+335
+00:40:12,976 --> 00:40:15,036
+我們知道此人涉有重嫌
+We know this guy's involved.
+
+336
+00:40:15,788 --> 00:40:19,125
+此事你一點也不關心?  你關心嗎?
+Doesn't that mean anything to you? Don't you care?
+
+337
+00:40:24,005 --> 00:40:27,496
+我們是在浪費時間  咱們走
+We're wasting our time. Let's go.
+
+338
+00:40:27,756 --> 00:40:29,856
+抱歉各位
+Sorry, guys.
+
+339
+00:40:30,386 --> 00:40:34,682
+她越來越與現實生活脫節了
+She's grown more disconnected from reality as time goes on.
+
+340
+00:40:34,766 --> 00:40:36,976
+恐怕她幫不了你們的忙
+I'm afraid she can't help us now.
+
+341
+00:40:37,060 --> 00:40:40,271
+也許等她神智清醒時就可以了  我會通知你們的
+If she clears at all and can give us anything, I'll call you.
+
+342
+00:40:40,355 --> 00:40:41,981
+好吧
+Sure.
+
+343
+00:40:42,065 --> 00:40:45,072
+道格  請帶她回房去
+Douglas, take her back to her room, please.
+
+344
+00:40:45,136 --> 00:40:46,277
+是
+Yes, sir.
+
+345
+00:40:47,820 --> 00:40:49,948
+我們走
+Come on, sweetheart. Let's go.
+
+346
+00:40:50,156 --> 00:40:52,075
+好長一段時間
+You see...
+
+347
+00:40:52,158 --> 00:40:55,370
+我們曾在尼加拉瓜或其他的地方待過
+we spent a lot of time in Nicaragua and places like that.
+
+348
+00:40:56,621 --> 00:41:00,959
+她有陣子跟退役的綠色貝雷帽士兵混
+For a while there, she was with this crazy ex-Green Beret guy...
+
+349
+00:41:01,042 --> 00:41:02,418
+弄了不少槍
+running guns.
+
+350
+00:41:02,502 --> 00:41:05,421
+然後又找了些人
+Then there were some other guys.
+
+351
+00:41:05,505 --> 00:41:07,507
+她向任何可以學習的人吸取經驗
+She'd shack up with anybody she could learn from...
+
+352
+00:41:07,590 --> 00:41:10,843
+以便將我造就成偉大的軍事領袖
+so she could teach me how to be this great military leader.
+
+353
+00:41:12,595 --> 00:41:14,597
+後來她被捕了
+Then she gets busted.
+
+354
+00:41:14,681 --> 00:41:18,309
+我媽瘋狂的舉動把我也弄糊塗了
+It's like, "Sorry, kid, your mom's a psycho. Didn't you know?"
+
+355
+00:41:20,520 --> 00:41:24,440
+好像她教我相信的一切是狗屎
+Like everything I've been brought up to believe is all made-up bullshit.
+
+356
+00:41:24,496 --> 00:41:26,496
+我痛恨這一點
+I hated her for that.
+
+357
+00:41:30,530 --> 00:41:33,074
+但她說的一切都是真的
+But everything she said was true.
+
+358
+00:41:34,367 --> 00:41:36,327
+她知道的
+She knew...
+
+359
+00:41:38,496 --> 00:41:40,582
+但沒人肯相信她
+and nobody believed her...
+
+360
+00:41:42,333 --> 00:41:44,252
+連我在內
+not even me.
+
+361
+00:41:46,212 --> 00:41:48,089
+我們得把她弄出醫院
+Listen. We gotta get her out of there.
+
+362
+00:41:48,172 --> 00:41:51,551
+否決  T-1000精明狡猾
+Negative. The T-1000's highest probability for success now...
+
+363
+00:41:51,634 --> 00:41:54,679
+現在可能已經變成莎拉·康納  等你去自投羅網
+will be to copy Sarah Connor and wait for you to make contact with her.
+
+364
+00:41:54,762 --> 00:41:56,848
+那她會怎樣?
+Great. What happens to her?
+
+365
+00:41:56,931 --> 00:41:59,809
+模仿的對象必須消滅
+Typically, the subject being copied is terminated.
+
+366
+00:41:59,892 --> 00:42:03,146
+糟了  你怎麼不早說?  我們得馬上走
+Shit! Why didn't you tell me? We gotta go right now!
+
+367
+00:42:03,229 --> 00:42:05,315
+否決  這不是我任務的重點
+Negative. It's not a mission priority.
+
+368
+00:42:05,398 --> 00:42:07,567
+但這是我的重點
+Fuck you! She's a priority to me!
+
+369
+00:42:09,402 --> 00:42:13,406
+混蛋  你是怎麼回事?  救命
+Goddamn it! What's your problem? Help!
+
+370
+00:42:13,489 --> 00:42:15,283
+這對我們的任務毫無用處
+This does not help our mission.
+
+371
+00:42:15,366 --> 00:42:17,827
+救命  把這瘋子趕走
+Get this psycho off of me! Help!
+
+372
+00:42:17,910 --> 00:42:20,955
+救命  救命呀  他要綁架我  把這瘋子趕走
+I'm being kidnapped! Get this psycho off of me!
+
+373
+00:42:21,039 --> 00:42:22,081
+放手
+Let me go!
+
+374
+00:42:26,628 --> 00:42:28,421
+你為何那樣做?
+Why did you do that?
+
+375
+00:42:28,504 --> 00:42:30,423
+因為你命令我"放手"
+Because you told me to.
+
+376
+00:42:33,259 --> 00:42:34,677
+什麼?
+What?
+
+377
+00:42:39,724 --> 00:42:41,684
+你得照我的話去做  對吧?
+You have to do what I say?
+
+378
+00:42:41,768 --> 00:42:43,978
+那是我任務的一個最高原則
+That's one of my mission parameters.
+
+379
+00:42:45,271 --> 00:42:48,596
+證明呀  用一隻腳站立
+Prove it. Stand on one foot.
+
+380
+00:42:51,277 --> 00:42:52,320
+好
+Yes!
+
+381
+00:42:54,530 --> 00:42:58,117
+真酷  只聽我命令的終結者
+Cool. My own Terminator. Wow.
+
+382
+00:42:59,619 --> 00:43:00,870
+你沒事吧  孩子?
+You okay, kid?
+
+383
+00:43:00,953 --> 00:43:02,330
+滾開  別煩我
+Take a hike, bozo.
+
+384
+00:43:02,413 --> 00:43:04,999
+我們別插手啦
+Let's get outta here, man.
+
+385
+00:43:05,083 --> 00:43:07,036
+去你的  混球
+Fuck you, you little dipshit!
+
+386
+00:43:07,752 --> 00:43:09,170
+混球?
+Dipshit?
+
+387
+00:43:11,339 --> 00:43:13,466
+把腳放下
+Put your leg down.
+
+388
+00:43:13,549 --> 00:43:18,388
+- 你敢叫<i>我</i>混球  - 只是想幫忙
+- Did you call <i>moi</i> a dipshit? - Just trying to help this punk.
+
+389
+00:43:18,471 --> 00:43:20,807
+給這小子點顏色瞧瞧
+Grab this guy.
+
+390
+00:43:22,446 --> 00:43:23,646
+放開我
+Get him off of me!
+
+391
+00:43:23,696 --> 00:43:25,770
+現在誰是混球?
+Now who's the dipshit...
+
+392
+00:43:25,853 --> 00:43:27,647
+- 你個草包  - 放手
+- you jock douche bag? - Get off!
+
+393
+00:43:34,937 --> 00:43:35,936
+不
+No.
+
+394
+00:43:36,739 --> 00:43:39,200
+把槍放下  快
+Put the gun down now!
+
+395
+00:43:39,283 --> 00:43:42,495
+- 離開這兒  - 兄弟  咱們快走
+- Get outta here! - Come on. Let's split!
+
+396
+00:43:49,460 --> 00:43:51,379
+天呀  你會把那人給殺了
+You were gonna kill that guy!
+
+397
+00:43:51,462 --> 00:43:53,631
+當然  我是終結者
+Of course. I'm a Terminator.
+
+398
+00:43:55,842 --> 00:43:58,469
+仔細聽我說  好嗎?
+Listen to me very carefully, okay?
+
+399
+00:43:58,553 --> 00:44:01,889
+你現在不再是終結者  好嗎?
+You're not a Terminator anymore, all right?
+
+400
+00:44:01,973 --> 00:44:04,392
+聽懂了嗎?
+You got that?
+
+401
+00:44:04,475 --> 00:44:06,728
+你就是不能隨便到處殺人
+You just can't go around killing people.
+
+402
+00:44:06,811 --> 00:44:07,854
+為什麼?
+Why?
+
+403
+00:44:08,855 --> 00:44:10,982
+什麼意思?  反正就是不行
+What do you mean, why? 'Cause you can't.
+
+404
+00:44:11,036 --> 00:44:11,976
+為什麼?
+Why?
+
+405
+00:44:12,066 --> 00:44:15,036
+因為你就是不能  好嗎?  這件事你得信任我
+Because you just can't, okay? Trust me on this.
+
+406
+00:44:20,908 --> 00:44:24,370
+我要去救我媽
+Look. I'm gonna go get my mom.
+
+407
+00:44:24,454 --> 00:44:27,290
+我命令你要協助我
+I order you to help me.
+
+408
+00:46:54,854 --> 00:46:57,273
+莎拉·康納在這裏嗎?
+You have a Sarah Connor here?
+
+409
+00:46:57,356 --> 00:46:59,025
+你來遲了  是嗎?
+You're runnin' kind of late.
+
+410
+00:46:59,108 --> 00:47:01,485
+他們已經來了一個多小時
+They've been in there for an hour.
+
+411
+00:47:01,569 --> 00:47:03,988
+等一下  我替你通知
+Hold on a second. I'll buzz you in.
+
+412
+00:47:05,823 --> 00:47:09,702
+你的朋友來了
+Oh, here come your friends now.
+
+413
+00:48:11,430 --> 00:48:14,850
+- 葛蘭  要咖啡嗎?  - 不  謝了
+- Gwen, you want some coffee? - No, thanks.
+
+414
+00:48:14,934 --> 00:48:17,979
+- 來杯啤酒吧?  - 真愛說笑
+- How 'bout a beer? - Yeah, right.
+
+415
+00:48:41,794 --> 00:48:45,216
+- 我中獎了  - 那可真棒
+- Hey, I got a full house. - That's good, Louis.
+
+416
+00:48:45,326 --> 00:48:47,425
+我走運了
+Must be my lucky day.
+
+417
+00:51:10,276 --> 00:51:12,736
+你說得沒錯
+You're right about number 24.
+
+418
+00:51:12,820 --> 00:51:15,823
+給24號病房增加藥劑量吧
+Increase the medication to 250 milligrams.
+
+419
+00:51:15,906 --> 00:51:18,216
+- 還用同一種藥嗎?  - 對
+- Same kind? - Mm-hmm.
+
+420
+00:51:33,507 --> 00:51:35,926
+你
+You!
+
+421
+00:51:38,429 --> 00:51:40,347
+你弄斷我的手臂了
+You broke my arm.
+
+422
+00:51:40,431 --> 00:51:43,225
+人體內有215塊骨頭
+There are 215 bones in the human body.
+
+423
+00:51:43,309 --> 00:51:45,895
+不過是斷一根而已  不准動
+That's one. Now, don't move.
+
+424
+00:51:47,020 --> 00:51:50,993
+"排水管洗潔劑  有毒"
+
+425
+00:51:51,856 --> 00:51:53,396
+你想幹什麼?
+What are you going to do?
+
+426
+00:51:57,072 --> 00:51:59,158
+我們停下來幹什麼?
+Why do we stop now?
+
+427
+00:52:00,451 --> 00:52:04,246
+你得保證絕不殺人  好嗎?
+You gotta promise me you're not gonna kill anyone, right?
+
+428
+00:52:04,330 --> 00:52:06,916
+- 好  - 你發誓
+- Right. - Swear?
+
+429
+00:52:06,999 --> 00:52:08,500
+什麼?
+What?
+
+430
+00:52:08,584 --> 00:52:11,670
+舉手說  "我絕不殺人"
+Just put up your hand and say, "I swear I won't kill anyone."
+
+431
+00:52:12,796 --> 00:52:15,591
+我發誓我不殺任何人
+I swear I will not kill anyone.
+
+432
+00:52:15,976 --> 00:52:17,216
+好  咱們走
+All right. Let's go.
+
+433
+00:52:23,849 --> 00:52:25,851
+會客時間是十點到四點
+Visiting hours is 10:00 to 4:00...
+
+434
+00:52:25,935 --> 00:52:28,187
+週一到週五
+Monday through Friday.
+
+435
+00:52:31,899 --> 00:52:33,108
+你在幹什麼?
+What are you doing?
+
+436
+00:52:33,192 --> 00:52:35,819
+王八蛋  你開槍打我
+You son of a bitch! You shot me!
+
+437
+00:52:37,613 --> 00:52:38,906
+瘋子
+Crazy bastard!
+
+438
+00:52:43,202 --> 00:52:45,496
+別再開槍了  別殺我
+Don't shoot me again. Don't kill me.
+
+439
+00:52:48,996 --> 00:52:50,596
+他死不了的
+He'll live.
+
+440
+00:53:05,474 --> 00:53:06,996
+婊子養的
+Son of a bitch!
+
+441
+00:53:09,103 --> 00:53:10,396
+大家別激動
+Let's try to remain calm.
+
+442
+00:53:10,479 --> 00:53:12,398
+開門  否則他死定了
+Open it, or he'll be dead before he hits the floor.
+
+443
+00:53:12,481 --> 00:53:14,525
+你逃不了的  放開他
+There's no way, Connor. Let him go.
+
+444
+00:53:14,608 --> 00:53:17,152
+- 把門打開  - 否則會怎樣?
+- Open the door. - It ain't gonna happen.
+
+445
+00:53:17,236 --> 00:53:19,071
+別緊張
+Take it easy, Sarah.
+
+446
+00:53:19,154 --> 00:53:22,283
+行不通的  我知道你不是殺手
+It won't work. You're no killer. I don't believe you can do it.
+
+447
+00:53:22,366 --> 00:53:25,327
+反正你們都得死  索大夫  你知道我很認真
+You're already dead. Everybody dies. You know I believe it.
+
+448
+00:53:25,411 --> 00:53:27,454
+別跟我耍花招
+So don't fuck with me!
+
+449
+00:53:27,538 --> 00:53:28,496
+開門
+Open the door!
+
+450
+00:53:28,596 --> 00:53:29,896
+快開門
+Open the door!
+
+451
+00:53:36,088 --> 00:53:37,496
+退後
+Back off!
+
+452
+00:53:37,798 --> 00:53:38,856
+退回去
+Get back!
+
+453
+00:53:38,976 --> 00:53:40,976
+我會讓他死翹翹  我保證
+I'll pump him full of this shit. I swear!
+
+454
+00:53:40,996 --> 00:53:42,296
+退後
+Back!
+
+455
+00:53:42,594 --> 00:53:44,496
+別動
+Don't move!
+
+456
+00:53:45,806 --> 00:53:46,974
+丟掉木棍
+Drop the shit!
+
+457
+00:53:47,057 --> 00:53:48,934
+照做
+Do it!
+
+458
+00:53:49,018 --> 00:53:50,936
+讓開
+Get in the office.
+
+459
+00:53:51,020 --> 00:53:53,063
+趴在地上  臉朝下  你過來
+On the floor, face down. Not you!
+
+460
+00:53:53,147 --> 00:53:54,815
+把門打開
+Open the door.
+
+461
+00:53:57,676 --> 00:54:00,856
+趴下  拉好門  面對牆壁
+On the floor. Hold it open. Face the wall!
+
+462
+00:54:17,129 --> 00:54:18,964
+抓住她
+Get her!
+
+463
+00:54:46,658 --> 00:54:49,661
+快打開
+Hurry up! Open the door! The door's locked!
+
+464
+00:54:50,746 --> 00:54:52,623
+快
+Let's go! Open it!
+
+465
+00:54:55,084 --> 00:54:57,044
+- 鎖被弄壞了  - 想辦法打開
+- She broke it off. - Open it!
+
+466
+00:55:02,466 --> 00:55:04,802
+往那邊  快追
+Let's go around! Come on! Move it!
+
+467
+00:55:29,976 --> 00:55:30,978
+不
+No.
+
+468
+00:55:31,756 --> 00:55:32,956
+不
+No.
+
+469
+00:55:36,959 --> 00:55:38,043
+媽  等等
+Mom, wait!
+
+470
+00:55:44,883 --> 00:55:45,884
+休想逃走
+Come back here!
+
+471
+00:55:46,960 --> 00:55:47,973
+不
+No.
+
+472
+00:55:50,514 --> 00:55:52,141
+- 救她呀  - 你別來
+- Help her! - Wait here.
+
+473
+00:55:52,224 --> 00:55:54,810
+- 快幫忙  - 他會把我們都殺死的
+- Hurry up! - He'll kill us all!
+
+474
+00:55:56,103 --> 00:55:57,354
+拉住她
+Hold her.
+
+475
+00:55:58,897 --> 00:56:00,065
+他會殺死我們的
+He'll kill us all!
+
+476
+00:56:22,254 --> 00:56:24,590
+媽  你沒事吧  媽
+Mom, are you okay? Mom!
+
+477
+00:56:29,052 --> 00:56:31,472
+想活命就跟我走
+Come with me if you want to live.
+
+478
+00:56:31,555 --> 00:56:34,099
+不要緊  媽  他是來幫忙的
+It's okay, Mom. He's here to help.
+
+479
+00:56:58,790 --> 00:56:59,833
+快走
+Go.
+
+480
+00:57:32,199 --> 00:57:34,701
+它是什麼東西?  這到底是怎麼回事?
+What the fuck is it? What the fuck is going on?
+
+481
+00:57:49,496 --> 00:57:50,496
+趴下
+Get down.
+
+482
+00:58:08,396 --> 00:58:09,296
+媽
+Mon.
+
+483
+00:58:27,296 --> 00:58:28,839
+下車
+Out of the car!
+
+484
+00:58:30,215 --> 00:58:31,383
+立刻下車
+Right now!
+
+485
+00:58:55,866 --> 00:58:56,908
+走
+Go!
+
+486
+00:59:08,170 --> 00:59:09,379
+子彈沒了
+I'm out.
+
+487
+00:59:16,178 --> 00:59:18,096
+- 快點  - 給
+- Come on. - Here.
+
+488
+00:59:20,599 --> 00:59:22,726
+裝彈
+Reload.
+
+489
+00:59:31,652 --> 00:59:33,612
+最後一個
+Last one!
+
+490
+00:59:40,827 --> 00:59:42,096
+抓牢
+Hang on.
+
+491
+01:00:08,796 --> 01:00:09,896
+好了
+Ready!
+
+492
+01:00:15,946 --> 01:00:16,896
+約翰
+John.
+
+493
+01:00:24,136 --> 01:00:25,856
+你來開
+You, drive.
+
+494
+01:01:19,009 --> 01:01:21,219
+甩掉他了  後面沒人
+He's not back there. There's nobody behind us.
+
+495
+01:01:21,303 --> 01:01:23,296
+- 你沒事吧?  - 沒事
+- Are you all right? - Yeah.
+
+496
+01:01:25,696 --> 01:01:27,216
+你看的到路?
+Can you see anything?
+
+497
+01:01:27,996 --> 01:01:29,396
+我看的一清二楚
+I see everything.
+
+498
+01:01:29,946 --> 01:01:32,036
+"路況能見度提升"
+
+499
+01:01:32,272 --> 01:01:33,696
+酷
+Cool.
+
+500
+01:01:37,486 --> 01:01:39,096
+過來
+Come here.
+
+501
+01:01:45,160 --> 01:01:46,912
+我說過我沒事
+I said I was okay.
+
+502
+01:01:47,704 --> 01:01:50,874
+約翰  你來找我真是愚蠢
+John, it was stupid of you to go there.
+
+503
+01:01:51,750 --> 01:01:54,085
+你該有自知之明的
+You have to be smarter than that.
+
+504
+01:01:54,169 --> 01:01:55,796
+你差點連命都送掉
+You were almost killed.
+
+505
+01:01:56,896 --> 01:01:58,896
+你到底在想什麼?
+What were you thinking?
+
+506
+01:01:59,591 --> 01:02:02,276
+你不該冒險  為我也不行
+You cannot risk yourself, even for me.
+
+507
+01:02:02,296 --> 01:02:05,472
+你的命太重要了
+Do you understand? You're too important.
+
+508
+01:02:05,555 --> 01:02:08,225
+你懂嗎?
+Do you understand?
+
+509
+01:02:11,102 --> 01:02:12,229
+可是...
+But...
+
+510
+01:02:14,105 --> 01:02:17,609
+我必須把你從那兒就出來  對不起
+I had to get you out of that place. I'm sorry.
+
+511
+01:02:18,860 --> 01:02:21,238
+我不需要你協助  我自有辦法
+I didn't need your help. I can take care of myself.
+
+512
+01:02:28,453 --> 01:02:30,080
+你的眼睛怎麼了?
+What's wrong with your eyes?
+
+513
+01:02:32,040 --> 01:02:33,458
+沒什麼
+Nothing.
+
+514
+01:02:43,385 --> 01:02:45,846
+你又是什麼來頭?
+So, what's your story?
+
+515
+01:02:56,398 --> 01:02:57,482
+你沒事?
+You okay?
+
+516
+01:02:57,566 --> 01:02:58,984
+很好
+Fine.
+
+517
+01:03:00,819 --> 01:03:04,155
+這機車真不錯
+Say, that's a nice bike.
+
+518
+01:03:26,636 --> 01:03:28,346
+輕點行嗎?  老粗
+Watch it, lug nuts.
+
+519
+01:03:35,854 --> 01:03:39,274
+你知道自己在幹什麼嗎?
+Listen, do you know what you're doing?
+
+520
+01:03:39,357 --> 01:03:42,152
+我對人體構造非常瞭解
+I have detailed files on human anatomy.
+
+521
+01:03:43,069 --> 01:03:45,030
+我想也是
+I bet.
+
+522
+01:03:45,113 --> 01:03:48,116
+那使你更容易殺人  是吧?
+Makes you a more efficient killer, right?
+
+523
+01:03:48,199 --> 01:03:49,326
+沒錯
+Correct.
+
+524
+01:03:55,373 --> 01:03:57,375
+你被擊中時會痛嗎?
+Does it hurt when you get shot?
+
+525
+01:03:58,418 --> 01:04:01,880
+我感到受損  亦可稱為"疼痛"
+I sense injuries. The data could be called "pain."
+
+526
+01:04:04,215 --> 01:04:06,134
+約翰  幫我調整燈光
+John, help me with the light.
+
+527
+01:04:06,217 --> 01:04:08,511
+- 會痊瘉嗎?  - 會的
+- Will these heal up? - Yes.
+
+528
+01:04:08,595 --> 01:04:12,496
+那就好  你若不像人  對我們就沒用
+Good. If you can't pass for human, you're not much good to us.
+
+529
+01:04:12,891 --> 01:04:15,602
+你能活多久?
+How long do you live? I mean, last. Whatever.
+
+530
+01:04:15,685 --> 01:04:18,980
+我的電池可維持120年
+A hundred and twenty years with my existing power cell.
+
+531
+01:04:19,064 --> 01:04:21,983
+你能學習你電腦中還未輸入過的事嗎?
+Can you learn stuff that you haven't been programmed with...
+
+532
+01:04:22,067 --> 01:04:23,485
+使你能夠
+so you can be...
+
+533
+01:04:24,736 --> 01:04:27,447
+更像人類?
+you know, more human...
+
+534
+01:04:27,530 --> 01:04:29,976
+這樣你才不會像個傻蛋
+and not such a dork all the time?
+
+535
+01:04:31,640 --> 01:04:35,186
+我的中央處理器是神經元處理器  也是學習型電腦
+My CPU is a neural net processor, a learning computer.
+
+536
+01:04:35,269 --> 01:04:39,325
+我們外出時天網會將開關設置為"只可讀取"
+But Skynet presets the switch to read-only when we're sent out alone.
+
+537
+01:04:39,800 --> 01:04:41,000
+酷
+Cool.
+
+538
+01:05:12,784 --> 01:05:14,703
+現在開始學習吧
+Are we learning yet?
+
+539
+01:05:27,132 --> 01:05:30,093
+我們得盡量遠離這座城市
+We have to get as far away from the city as possible.
+
+540
+01:05:33,805 --> 01:05:35,432
+往南走
+Just head south.
+
+541
+01:05:44,191 --> 01:05:45,776
+時速別超過65英里
+Keep it under 65.
+
+542
+01:05:45,859 --> 01:05:48,862
+- 否則會被交警攔下  - 確認
+- We don't want to be pulled over. - Affirmative.
+
+543
+01:05:49,630 --> 01:05:50,930
+不  不不
+No, no, no.
+
+544
+01:05:52,074 --> 01:05:54,576
+你得學人類說話的方式
+You gotta listen to the way people talk.
+
+545
+01:05:54,659 --> 01:05:58,163
+你不能說"確認"那種鳥話
+You don't say "affirmative" or some shit like that.
+
+546
+01:05:58,246 --> 01:06:00,582
+你要說  <i>"沒問題"</i>
+You say, <i>"No problemo."</i>
+
+547
+01:06:00,665 --> 01:06:04,586
+如果有人找碴  你就說  "有種試試看"
+If someone comes off to you with an attitude, you say, "Eat me."
+
+548
+01:06:04,669 --> 01:06:08,965
+如果要解決掉他們  就說<i>"拜拜了  寶貝"</i>
+And if you want to shine them on, it's <i>"Hasta la vista, baby."</i>
+
+549
+01:06:09,530 --> 01:06:11,630
+拜拜了  寶貝
+Hasta la vista, baby.
+
+550
+01:06:12,177 --> 01:06:14,304
+對  或者說  "去死吧  精蟲"
+Yeah, or "Later, dick-wad."
+
+551
+01:06:14,387 --> 01:06:17,432
+有人生氣  你就說  "冷靜點"
+If someone gets upset, you say, "Chill out."
+
+552
+01:06:17,516 --> 01:06:18,892
+或者你也可以自由發揮
+Or you can do combinations.
+
+553
+01:06:19,684 --> 01:06:21,978
+冷靜點  精蟲
+Chill out, dick-wad.
+
+554
+01:06:22,813 --> 01:06:24,815
+對  看  你真的會了
+That's great. See? You're getting it.
+
+555
+01:06:25,124 --> 01:06:26,100
+沒問題
+No problemo.
+
+556
+01:06:41,576 --> 01:06:43,495
+要吃點薯條嗎?
+Want some of my fries?
+
+557
+01:06:53,505 --> 01:06:55,965
+- 你需要幫忙嗎?  - 不用
+- Need any help? - No.
+
+558
+01:06:56,685 --> 01:06:58,505
+- 我殺死你了  - 不  你沒有
+- I got you! - No, you didn't!
+
+559
+01:06:58,605 --> 01:07:00,745
+- 你死了  - 才沒有呢
+- I got you! - No, you didn't!
+
+560
+01:07:05,505 --> 01:07:07,005
+去你的  混球
+I got you!
+
+561
+01:07:07,477 --> 01:07:10,480
+我們撐不過去  對吧
+We're not gonna make it, are we?
+
+562
+01:07:12,524 --> 01:07:13,733
+我是指人類
+People, I mean.
+
+563
+01:07:16,903 --> 01:07:18,985
+你們天性便有自我毀滅傾向
+It's in your nature to destroy yourselves.
+
+564
+01:07:19,823 --> 01:07:22,742
+對  真無聊  是吧?
+Yeah. Major drag, huh?
+
+565
+01:07:22,826 --> 01:07:26,079
+快住手  要不掐斷你們脖子
+Break it up before I wring both of your necks.
+
+566
+01:07:27,872 --> 01:07:30,959
+我要知道"天網"系統的起源
+I need to know how Skynet gets built.
+
+567
+01:07:31,042 --> 01:07:32,293
+是誰研究出來的?
+Who's responsible?
+
+568
+01:07:32,377 --> 01:07:35,922
+直接負責的人是莫斯·戴森
+The man most directly responsible is Miles Bennett Dyson.
+
+569
+01:07:36,005 --> 01:07:37,715
+誰呀?
+Who is that?
+
+570
+01:07:37,799 --> 01:07:41,719
+塞柏電腦公司特別企劃室主任
+He's the director of special projects at Cyberdyne Systems Corporation.
+
+571
+01:07:44,514 --> 01:07:46,266
+為何是他?
+Why him?
+
+572
+01:07:46,349 --> 01:07:49,865
+數月內他會研製出新型微電腦
+In a few months, he creates a revolutionary type of microprocessor.
+
+573
+01:07:50,770 --> 01:07:52,405
+然後呢?
+Go on. Then what?
+
+574
+01:07:53,231 --> 01:07:56,151
+三年內塞柏會成為軍方電腦來源
+In three years Cyberdyne will become the largest supplier...
+
+575
+01:07:56,225 --> 01:07:57,985
+負責高階研發
+of military computer systems.
+
+576
+01:07:58,695 --> 01:08:01,614
+所有轟炸機都會裝載塞柏的電腦系統
+All Stealth bombers are upgraded with Cyberdyne computers...
+
+577
+01:08:01,698 --> 01:08:03,158
+成為無人操作機型
+becoming fully unmanned.
+
+578
+01:08:03,241 --> 01:08:06,286
+然後它創造了完美的運作記錄
+Afterwards they fly with a perfect operational record.
+
+579
+01:08:06,369 --> 01:08:08,997
+天網計劃法案正式通過
+The Skynet funding bill is passed.
+
+580
+01:08:09,080 --> 01:08:12,375
+1997年8月4日  電腦系統上線
+The system goes on-line on August 4, 1997.
+
+581
+01:08:12,458 --> 01:08:15,628
+它迅速掌握戰略防衛系統
+Human decisions are removed from strategic defense.
+
+582
+01:08:15,712 --> 01:08:18,423
+天網電腦以極快速度吸取經驗
+Skynet begins to learn at a geometric rate.
+
+583
+01:08:18,506 --> 01:08:23,305
+它產生自我意識  時間為8月29日上午2時14分
+It becomes self-aware at 2:14 a.m. Eastern time, August 29.
+
+584
+01:08:23,887 --> 01:08:26,472
+人類驚慌失措  準備應變
+In a panic, they try to pull the plug.
+
+585
+01:08:27,599 --> 01:08:29,851
+- 但天網卻先發制人  - 是的
+- Skynet fights back. - Yes.
+
+586
+01:08:29,934 --> 01:08:32,687
+它向俄羅斯境內目標發射飛彈
+It launches its missiles against the targets in Russia.
+
+587
+01:08:32,770 --> 01:08:35,815
+為何攻擊俄國?  他們現在不是我們的朋友嗎?
+Why attack Russia? Aren't they our friends now?
+
+588
+01:08:35,899 --> 01:08:40,405
+天網知道俄方反擊便可消滅美國
+Skynet knows the Russian counterattack will eliminate its enemies over here.
+
+589
+01:08:40,505 --> 01:08:41,985
+天啦
+Jesus.
+
+590
+01:08:44,616 --> 01:08:46,865
+你對戴森瞭解多少?
+How much do you know about Dyson?
+
+591
+01:08:48,703 --> 01:08:50,622
+我有他的詳細資料
+I have detailed files.
+
+592
+01:08:51,831 --> 01:08:53,791
+我要知道一切
+I want to know everything.
+
+593
+01:08:55,001 --> 01:08:59,088
+他的長相  住址  一切
+What he looks like, where he lives, everything.
+
+594
+01:09:27,163 --> 01:09:28,936
+在車上等著
+Wait in the car.
+
+595
+01:10:07,328 --> 01:10:09,396
+你真性急  康納
+You're pretty jumpy, Connor.
+
+596
+01:10:10,547 --> 01:10:12,546
+你也是
+You too.
+
+597
+01:10:29,934 --> 01:10:31,686
+約翰
+Hey, big John.
+
+598
+01:10:32,311 --> 01:10:33,437
+你好
+What's up?
+
+599
+01:10:33,536 --> 01:10:34,936
+他是誰?
+Who is this guy?
+
+600
+01:10:35,036 --> 01:10:37,024
+他沒問題  他跟我來的
+He's cool, Enrique. He's with me.
+
+601
+01:10:37,108 --> 01:10:40,277
+他是  包伯叔
+He's... Uncle Bob.
+
+602
+01:10:40,361 --> 01:10:42,571
+包伯叔  這是恩裏克
+Uncle Bob, this is Enrique.
+
+603
+01:10:42,655 --> 01:10:44,407
+包伯叔?
+Uncle Bob, huh?
+
+604
+01:10:45,491 --> 01:10:47,516
+好吧  自己人
+Okay.
+
+605
+01:10:53,736 --> 01:10:54,936
+要喝嗎?
+Drink?
+
+606
+01:11:00,131 --> 01:11:01,549
+包伯叔?
+"Uncle Bob"?
+
+607
+01:11:03,551 --> 01:11:06,345
+你們很有名  都上了電視
+You're pretty famous, all over the goddamn TV.
+
+608
+01:11:06,429 --> 01:11:09,098
+條子就像瘋狗似的
+Pictures of you, John, your big friend here.
+
+609
+01:11:09,181 --> 01:11:11,142
+想揪你們出來呢
+Cops are going nuts looking for you.
+
+610
+01:11:15,062 --> 01:11:19,024
+我需要衣物  食物  和一輛卡車
+I just came for my stuff. I need clothes, food and a truck.
+
+611
+01:11:19,036 --> 01:11:21,336
+要不要我連假牙都一起給你?
+How about the fillings in my teeth?
+
+612
+01:11:21,436 --> 01:11:23,536
+現在就要
+Now, Enrique.
+
+613
+01:11:24,739 --> 01:11:27,216
+你們也去  去拿武器
+You two, you're on weapons detail.
+
+614
+01:11:27,612 --> 01:11:28,701
+走吧
+Come on, let's go.
+
+615
+01:11:49,305 --> 01:11:51,223
+我媽有個特點
+One thing about my mom...
+
+616
+01:11:53,517 --> 01:11:55,478
+她總是未雨綢繆
+she always plans ahead.
+
+617
+01:12:06,136 --> 01:12:07,364
+好極了
+Excellent.
+
+618
+01:12:18,000 --> 01:12:21,670
+這是最好的車  但缺起動馬達
+This is my best truck, but the starter motor's gone.
+
+619
+01:12:21,754 --> 01:12:23,672
+你有時間等它裝好嗎?
+You got time to change it out?
+
+620
+01:12:23,756 --> 01:12:27,092
+- 可以  我要等午夜之後再越過邊境  - 那好
+- Yeah. I'm gonna wait till dark to cross the border. - Okay.
+
+621
+01:12:29,200 --> 01:12:31,500
+我在這種地方長大
+See, I grew up in places like this...
+
+622
+01:12:31,848 --> 01:12:34,180
+我還以為人就是這樣過活
+so I just thought that's how people lived...
+
+623
+01:12:34,225 --> 01:12:36,436
+駕駛著直升機
+riding around in helicopters...
+
+624
+01:12:36,519 --> 01:12:38,605
+學習如何炸東西
+learning how to blow shit up.
+
+625
+01:12:43,480 --> 01:12:45,028
+很適合你
+That's definitely you.
+
+626
+01:12:55,860 --> 01:12:59,260
+與我媽來往的男人都是怪人
+Most of the guys my mom hung around with were geeks...
+
+627
+01:12:59,496 --> 01:13:02,999
+但有個傢伙倒很酷
+but there was this one guy, he was kinda cool.
+
+628
+01:13:03,082 --> 01:13:05,001
+他教我玩這些
+He taught me engines.
+
+629
+01:13:05,084 --> 01:13:07,253
+撐住這兒
+Hold here.
+
+630
+01:13:07,337 --> 01:13:09,756
+後來他們還是分手了
+Mom screwed it up, of course.
+
+631
+01:13:09,839 --> 01:13:12,258
+她總是在談審判日等等之類的話題
+She'd always tell 'em about Judgment Day...
+
+632
+01:13:12,342 --> 01:13:15,136
+也許直到今天
+and me being this world leader.
+
+633
+01:13:15,220 --> 01:13:17,180
+她腦裏仍只想這一件事
+That'd be all she wrote.
+
+634
+01:13:18,515 --> 01:13:19,900
+請把鉗子給我
+Torque wrench, please.
+
+635
+01:13:21,800 --> 01:13:22,800
+拿去
+Here.
+
+636
+01:13:23,186 --> 01:13:26,300
+真希望能見到我生父
+I wish I could've met my real dad.
+
+637
+01:13:26,481 --> 01:13:28,140
+你會的
+You will.
+
+638
+01:13:28,316 --> 01:13:30,485
+對
+Yeah, I guess.
+
+639
+01:13:30,568 --> 01:13:33,900
+那時我已經45歲了
+When I'm, like, 45, I think.
+
+640
+01:13:34,489 --> 01:13:38,201
+我會派他回到1984年
+They sent him back through time to 1984.
+
+641
+01:13:38,284 --> 01:13:39,702
+天啦
+Man.
+
+642
+01:13:41,246 --> 01:13:43,706
+他現在還沒出生呢
+He hasn't even been born yet.
+
+643
+01:13:45,500 --> 01:13:47,418
+真不可思議
+It messes with your head.
+
+644
+01:13:50,171 --> 01:13:53,091
+- 把螺絲帽給我  - 給
+- The other bolt. - Oh. Here.
+
+645
+01:13:59,430 --> 01:14:02,976
+她只和他共處了一個晚上
+Mom and him were only together for one night.
+
+646
+01:14:03,059 --> 01:14:05,520
+我想她仍愛著他
+She still loves him, I guess.
+
+647
+01:14:05,603 --> 01:14:08,481
+有時我看見她在哭
+I see her crying sometimes.
+
+648
+01:14:08,565 --> 01:14:12,569
+當然啦  她完全否認  她說那是有異物吹進眼裏
+She denies it totally, of course, like she got something stuck in her eye.
+
+649
+01:14:17,532 --> 01:14:18,950
+你們為何哭泣?
+Why do you cry?
+
+650
+01:14:20,159 --> 01:14:21,661
+- 你是說人類?  - 對
+- You mean people? - Yeah.
+
+651
+01:14:21,744 --> 01:14:23,121
+我不知道
+I don't know.
+
+652
+01:14:23,204 --> 01:14:25,290
+他們就是會哭
+We just cry...
+
+653
+01:14:25,373 --> 01:14:27,917
+尤其是"傷心"的時候
+you know, when it hurts.
+
+654
+01:14:34,007 --> 01:14:35,758
+是"傷"造成的?
+Pain causes it?
+
+655
+01:14:36,843 --> 01:14:38,970
+不  那不一樣
+No. It's different.
+
+656
+01:14:39,053 --> 01:14:42,348
+雖然你沒事  但傷心時就會哭
+It's when there's nothing wrong with you, but you hurt anyway.
+
+657
+01:14:42,432 --> 01:14:44,017
+- 懂嗎?  - 不懂
+- You get it? - No.
+
+658
+01:14:45,268 --> 01:14:46,978
+那才像話
+All right, my man!
+
+659
+01:14:47,400 --> 01:14:48,500
+沒問題
+No problemo.
+
+660
+01:14:48,813 --> 01:14:50,440
+擊掌慶祝
+Give me five.
+
+661
+01:14:52,483 --> 01:14:54,700
+像這樣撐開手掌  來
+Just put out your hand like this, come on.
+
+662
+01:14:55,945 --> 01:15:00,283
+很好  拍打我的手  該你了  你來擊掌
+All right! Now hit me. Give me five. Do the same thing.
+
+663
+01:15:00,373 --> 01:15:01,349
+很好
+All right!
+
+664
+01:15:04,996 --> 01:15:07,457
+好  很好  來個高的
+Okay, that's good. Up high.
+
+665
+01:15:08,400 --> 01:15:09,400
+低的
+Five low.
+
+666
+01:15:10,260 --> 01:15:11,540
+你慢了
+Too slow.
+
+667
+01:15:14,464 --> 01:15:16,716
+我是在開玩笑  再來一次
+I'm just kidding. One more time.
+
+668
+01:15:16,799 --> 01:15:19,010
+很好  接著來
+Good. Now try it.
+
+669
+01:15:19,093 --> 01:15:21,054
+來  打我一掌
+Now do me. Give me five.
+
+670
+01:15:22,513 --> 01:15:27,060
+<i>看到約翰和機器人在一起  突然真相大白了</i>
+<i>Watching John with the machine, it was suddenly so clear.</i>
+
+671
+01:15:27,143 --> 01:15:30,063
+<i>終結者絕不罷休</i>
+<i>The Terminator would never stop.</i>
+
+672
+01:15:30,146 --> 01:15:34,108
+<i>絕不離開他  它不會傷害他</i>
+<i>It would never leave him, never hurt him...</i>
+
+673
+01:15:34,192 --> 01:15:37,612
+<i>不會向他叫罵  不會酒醉打他</i>
+<i>never shout at him or get drunk and hit him...</i>
+
+674
+01:15:37,695 --> 01:15:40,281
+<i>或是藉口太忙沒空陪他</i>
+<i>or be too busy to spend time with him.</i>
+
+675
+01:15:41,157 --> 01:15:43,242
+<i>它永遠會在他身邊</i>
+<i>It would always be there...</i>
+
+676
+01:15:43,326 --> 01:15:45,995
+<i>它會拚命保衛他</i>
+<i>and it would die to protect him.</i>
+
+677
+01:15:47,413 --> 01:15:50,750
+<i>這些年來  我遇到過許多男人</i>
+<i>Of all the would-be fathers who came and went over the years...</i>
+
+678
+01:15:50,833 --> 01:15:52,877
+<i>這東西  這機器</i>
+<i>this thing, this machine...</i>
+
+679
+01:15:52,960 --> 01:15:55,338
+<i>卻是唯一有資格當他父親的人</i>
+<i>was the only one who measured up.</i>
+
+680
+01:15:56,089 --> 01:15:57,924
+<i>在這瘋狂世界裏</i>
+<i>In an insane world...</i>
+
+681
+01:15:58,007 --> 01:15:59,967
+<i>這是最佳選擇</i>
+<i>it was the sanest choice.</i>
+
+682
+01:17:37,732 --> 01:17:39,692
+我們來玩玩這個
+Hey, let's try this one.
+
+683
+01:17:45,323 --> 01:17:47,492
+來吧
+There we go.
+
+684
+01:19:11,500 --> 01:19:14,000
+"不是命運"
+
+685
+01:19:33,598 --> 01:19:36,100
+她叫你們按原計劃向南走
+She said go south with him like you planned.
+
+686
+01:19:36,183 --> 01:19:38,394
+- 她明天會趕上你們  - 媽
+- She'll meet you tomorrow. - Mom!
+
+687
+01:19:40,187 --> 01:19:41,355
+媽等等
+Mom, wait!
+
+688
+01:19:56,621 --> 01:19:58,080
+"不是命運"
+"No fate."
+
+689
+01:19:59,290 --> 01:20:01,751
+命運是要自己開創的
+No fate but what we make.
+
+690
+01:20:03,878 --> 01:20:05,880
+我的父親告訴她的
+My father told her this.
+
+691
+01:20:08,424 --> 01:20:12,720
+是未來的我讓我父親告訴她的
+I made him memorize it in the future as a message to her.
+
+692
+01:20:14,388 --> 01:20:16,307
+算了
+Never mind.
+
+693
+01:20:16,390 --> 01:20:19,727
+整件事就是這樣
+Okay, the whole thing goes...
+
+694
+01:20:19,810 --> 01:20:22,521
+一切尚未成為定局
+The future's not set.
+
+695
+01:20:22,605 --> 01:20:26,108
+未來仍可以自己去開創
+There's no fate but what we make for ourselves.
+
+696
+01:20:26,192 --> 01:20:29,195
+她想改變未來?
+She intends to change the future.
+
+697
+01:20:29,278 --> 01:20:30,738
+對  我猜也是
+Yeah, I guess.
+
+698
+01:20:32,281 --> 01:20:34,116
+糟了
+Oh, shit!
+
+699
+01:20:34,200 --> 01:20:36,118
+- 戴森  - 對
+- Dyson. - Yeah.
+
+700
+01:20:36,202 --> 01:20:39,705
+一定是的  莫斯·戴森
+Gotta be. Miles Dyson.
+
+701
+01:20:39,789 --> 01:20:41,791
+她想要殺了戴森
+She's gonna blow him away.
+
+702
+01:20:41,874 --> 01:20:43,960
+來  咱們走
+Come on! Let's go!
+
+703
+01:20:44,348 --> 01:20:45,331
+快啊
+Come on!
+
+704
+01:20:56,347 --> 01:20:58,391
+事實上  這樣做非常危險
+This is tactically dangerous.
+
+705
+01:20:58,474 --> 01:20:59,600
+開快點
+Drive faster.
+
+706
+01:20:59,684 --> 01:21:02,186
+T-1000跟我一樣瞭解情況
+The T-1000 has the same files that I do.
+
+707
+01:21:02,269 --> 01:21:05,690
+它知道我知道的一切  它還能預測敵人的行動
+It knows what I know. It might anticipate this move.
+
+708
+01:21:05,773 --> 01:21:07,900
+我不管  咱們得阻止她
+I don't care. We gotta stop her.
+
+709
+01:21:08,359 --> 01:21:10,440
+殺死戴森的確有可能阻止戰爭
+Killing Dyson might prevent the war.
+
+710
+01:21:10,540 --> 01:21:14,300
+我不管  你還沒學通嗎?
+I don't care! Haven't you learned anything yet?
+
+711
+01:21:14,380 --> 01:21:17,100
+你還不明白為何不能亂殺人嗎?
+Haven't you figured out why you can't kill people?
+
+712
+01:21:23,480 --> 01:21:26,107
+丹尼  叫你去睡覺  我說真的
+Danny, I told you to go to bed, I'm not kidding.
+
+713
+01:21:26,207 --> 01:21:28,927
+再玩一會兒就好  媽
+Just a couple of minutes, Mom!
+
+714
+01:21:37,476 --> 01:21:39,812
+丹尼  睡覺時間到了
+Danny, your time is up!
+
+715
+01:21:39,895 --> 01:21:42,815
+快刷牙上床
+Come brush your teeth and get to bed.
+
+716
+01:22:11,473 --> 01:22:12,473
+丹尼
+Danny.
+
+717
+01:22:24,549 --> 01:22:25,613
+爸
+Daddy!
+
+718
+01:22:26,025 --> 01:22:28,527
+這不是遊戲  快逃
+Danny, go! Go!
+
+719
+01:22:30,273 --> 01:22:31,273
+莫斯
+Miles.
+
+720
+01:22:36,493 --> 01:22:38,913
+- 特瑞莎  跑  - 我的天啊
+- Tarissa, run! - Oh, my God!
+
+721
+01:22:46,003 --> 01:22:48,047
+快帶丹尼走  快逃
+Just take Danny and run!
+
+722
+01:22:48,130 --> 01:22:49,381
+快逃
+Run!
+
+723
+01:22:49,465 --> 01:22:51,217
+我的天呀
+Oh, Jesus! Miles!
+
+724
+01:23:10,110 --> 01:23:11,111
+爹地
+Daddy!
+
+725
+01:23:11,273 --> 01:23:12,273
+丹尼
+Danny.
+
+726
+01:23:12,821 --> 01:23:14,281
+誰都不許動
+Nobody fucking move!
+
+727
+01:23:15,115 --> 01:23:16,367
+別傷害我爸
+Don't hurt my daddy!
+
+728
+01:23:16,450 --> 01:23:17,993
+趴到地上
+On the floor, bitch.
+
+729
+01:23:18,077 --> 01:23:19,973
+趴下
+Get down now!
+
+730
+01:23:21,121 --> 01:23:22,206
+讓開
+Get out of the way!
+
+731
+01:23:22,289 --> 01:23:23,749
+別傷害他
+Don't hurt him!
+
+732
+01:23:25,251 --> 01:23:27,253
+讓開  否則我開槍
+Get on the floor now!
+
+733
+01:23:30,297 --> 01:23:32,007
+饒了孩子吧
+Just let the boy go.
+
+734
+01:23:32,091 --> 01:23:33,676
+你閉嘴
+Shut up. Shut up.
+
+735
+01:23:33,759 --> 01:23:35,052
+閉嘴
+Shut up!
+
+736
+01:23:35,135 --> 01:23:37,721
+都是你的錯  混蛋
+It's all your fault, motherfucker.
+
+737
+01:23:37,805 --> 01:23:40,057
+- 都是你的錯  - 什麼?
+- It's all your fault! - What?
+
+738
+01:23:40,140 --> 01:23:42,268
+我不會讓你得逞的
+I'm not gonna let you do it.
+
+739
+01:24:34,278 --> 01:24:36,363
+糟了  太遲了
+Shit! We're too late!
+
+740
+01:24:40,868 --> 01:24:41,994
+看看他們
+Check them.
+
+741
+01:24:45,664 --> 01:24:47,666
+看著我  媽
+Look at me, Mom.
+
+742
+01:24:47,750 --> 01:24:49,960
+你受傷了?
+Are you hurt?
+
+743
+01:24:50,430 --> 01:24:51,409
+看著我
+Look at me.
+
+744
+01:24:53,589 --> 01:24:55,674
+我幾乎
+I almost...
+
+745
+01:24:56,273 --> 01:24:57,473
+我下不了手
+I almost...
+
+746
+01:25:07,311 --> 01:25:09,646
+放心吧
+It'll be okay.
+
+747
+01:25:09,730 --> 01:25:11,690
+一定還有辦法的  真的
+We'll figure something out. Okay?
+
+748
+01:25:13,275 --> 01:25:14,902
+相信我吧
+I promise.
+
+749
+01:25:18,197 --> 01:25:21,158
+你是來阻止我的?
+You came here to stop me.
+
+750
+01:25:22,034 --> 01:25:23,994
+對
+Yeah, I did.
+
+751
+01:25:26,872 --> 01:25:28,874
+我愛你  約翰
+I love you, John.
+
+752
+01:25:30,542 --> 01:25:32,127
+我一直愛著你
+I always have.
+
+753
+01:25:34,046 --> 01:25:35,464
+我知道
+I know.
+
+754
+01:25:42,471 --> 01:25:44,681
+子彈貫穿
+Deep penetration.
+
+755
+01:25:46,266 --> 01:25:48,185
+沒有擊碎骨頭
+No shattered bone.
+
+756
+01:25:48,268 --> 01:25:51,230
+把傷口壓著就能止住血了
+Hold here. The pressure should stop the bleeding.
+
+757
+01:26:01,990 --> 01:26:03,409
+你們是誰?
+Who are you people?
+
+758
+01:26:04,368 --> 01:26:05,786
+告訴他
+Show him.
+
+759
+01:26:08,455 --> 01:26:12,626
+丹尼  你跟我走好嗎?  帶我看看你房間
+Danny, I want you to come with me right now. Show me your room.
+
+760
+01:26:53,125 --> 01:26:54,334
+我的天呀
+Oh, my God.
+
+761
+01:26:54,418 --> 01:26:57,087
+仔細聽我說
+Now listen to me very carefully.
+
+762
+01:27:02,968 --> 01:27:07,097
+<i>戴森聽著終結者的解說</i>
+<i>Dyson listened while the Terminator laid it all down.</i>
+
+763
+01:27:07,181 --> 01:27:11,059
+<i>天網  審判日</i>
+<i>Skynet. Judgment Day.</i>
+
+764
+01:27:11,143 --> 01:27:13,437
+<i>未來的歷史</i>
+<i>The history of things to come.</i>
+
+765
+01:27:14,855 --> 01:27:17,608
+<i>知道自己的研發成果最終將會</i>
+<i>It's not every day that you find out you're responsible...</i>
+
+766
+01:27:17,691 --> 01:27:20,527
+<i>害死三十億人</i>
+<i>for three billion deaths.</i>
+
+767
+01:27:20,611 --> 01:27:22,529
+<i>他的反應還算好</i>
+<i>He took it pretty well.</i>
+
+768
+01:27:24,531 --> 01:27:26,573
+我想我要嘔吐了
+I feel like I'm gonna throw up.
+
+769
+01:27:32,998 --> 01:27:35,125
+你是為了
+You're judging me...
+
+770
+01:27:35,209 --> 01:27:37,693
+我還未做的事懲罰我?
+on things I haven't even done yet.
+
+771
+01:27:41,882 --> 01:27:44,009
+我怎會知道?
+How were we supposed to know?
+
+772
+01:27:46,470 --> 01:27:48,153
+對
+Yeah.
+
+773
+01:27:48,514 --> 01:27:50,333
+沒錯
+Right.
+
+774
+01:27:50,974 --> 01:27:53,101
+你怎會知道?
+How were you supposed to know?
+
+775
+01:27:54,144 --> 01:27:57,856
+氫彈就是你這種人發明的
+Fucking men like you built the hydrogen bomb.
+
+776
+01:27:57,940 --> 01:28:00,526
+也是你這種人
+Men like you...
+
+777
+01:28:00,609 --> 01:28:02,027
+引爆它的
+thought it up.
+
+778
+01:28:05,906 --> 01:28:07,866
+你以為你很有創造力
+You think you're so creative.
+
+779
+01:28:09,284 --> 01:28:12,371
+你根本就不知道創造的意義
+You don't know what it's like to really create something...
+
+780
+01:28:12,454 --> 01:28:14,581
+創造生命
+to create a life...
+
+781
+01:28:14,665 --> 01:28:16,208
+是感覺它在體內成長
+to feel it growing inside you.
+
+782
+01:28:16,291 --> 01:28:19,211
+你只會創造死亡和毀滅
+All you know how to create is death and destruction.
+
+783
+01:28:19,294 --> 01:28:20,963
+媽
+Mom!
+
+784
+01:28:21,046 --> 01:28:24,800
+你得說些有建設性的話  好嗎?
+We need to be a little more constructive here. Okay?
+
+785
+01:28:24,883 --> 01:28:27,333
+我們仍要阻止戰爭的  對吧?
+We still have to stop this from happening, don't we?
+
+786
+01:28:27,453 --> 01:28:29,888
+但我以為
+But I thought...
+
+787
+01:28:29,972 --> 01:28:33,976
+我們是要通過改變現在的事  從而改變未來的事嗎?
+Aren't we changing things right now, changing the way it goes?
+
+788
+01:28:34,059 --> 01:28:35,173
+沒錯
+That's right.
+
+789
+01:28:35,653 --> 01:28:38,513
+本來就快做出超級新電腦
+There's no way I'm going to finish the new processor. Not now.
+
+790
+01:28:38,939 --> 01:28:42,401
+現在一切免談  我不幹了  我明天就辭職
+Forget it. I'm out of it. I'll quit Cyberdyne tomorrow.
+
+791
+01:28:42,484 --> 01:28:44,361
+那還不夠好
+That's not good enough.
+
+792
+01:28:44,444 --> 01:28:46,405
+不能讓別人繼續完成你的工作
+No one must follow your work.
+
+793
+01:28:46,473 --> 01:28:47,973
+好吧
+Right.
+
+794
+01:28:48,407 --> 01:28:52,744
+那得摧毀實驗室的一切裝備
+All right, then we have to destroy all the stuff at the lab...
+
+795
+01:28:52,828 --> 01:28:54,413
+檔案  磁碟機
+the files, the disk drives...
+
+796
+01:28:54,496 --> 01:28:57,124
+所有的一切
+everything here.
+
+797
+01:28:57,207 --> 01:28:59,293
+一切資料
+Everything.
+
+798
+01:28:59,376 --> 01:29:01,295
+我不在乎
+I don't care.
+
+799
+01:29:02,588 --> 01:29:03,589
+晶片
+The chip.
+
+800
+01:29:03,672 --> 01:29:05,757
+- 你們知道晶片嗎?  - 什麼晶片?
+- Do you know about the chip? - What chip?
+
+801
+01:29:05,841 --> 01:29:08,613
+他們把它鎖在金庫裏  是跟你一樣的機器人身上的
+It's at Cyberdyne. It's from the other one like you.
+
+802
+01:29:08,693 --> 01:29:11,054
+第一代終結者的記憶體
+The CPU from the first Terminator.
+
+803
+01:29:11,138 --> 01:29:13,515
+混蛋  我就知道
+Son of a bitch! I knew it!
+
+804
+01:29:13,599 --> 01:29:16,310
+他們不准我們問晶片是哪兒來的
+They told us not to ask where they got it.
+
+805
+01:29:16,393 --> 01:29:18,729
+真聰明的混蛋
+Those lying motherfuckers.
+
+806
+01:29:18,812 --> 01:29:20,606
+它很可怕  但非常先進
+It's scary stuff. Radically advanced.
+
+807
+01:29:20,689 --> 01:29:21,815
+它被砸爛了
+It was smashed.
+
+808
+01:29:21,898 --> 01:29:25,527
+無法運作  但它給了我許多不可思議的靈感
+It didn't work, but it gave us ideas, took us in new directions.
+
+809
+01:29:25,611 --> 01:29:27,613
+前所未有
+Things we would've never...
+
+810
+01:29:29,781 --> 01:29:31,867
+我的工作全是以它為基礎
+All my work was based on it.
+
+811
+01:29:31,950 --> 01:29:33,785
+必須摧毀它
+It must be destroyed.
+
+812
+01:29:36,038 --> 01:29:39,041
+你能帶我們通過警衛嗎?
+Can you get us in? Past security?
+
+813
+01:29:39,124 --> 01:29:41,209
+我想可以  什麼時候去?
+I think so, yeah. When?
+
+814
+01:29:46,131 --> 01:29:47,132
+現在?
+Now?
+
+815
+01:29:51,053 --> 01:29:54,097
+<i>未來對我而言已成為</i>
+<i>The future, always so clear to me...</i>
+
+816
+01:29:54,181 --> 01:29:57,184
+<i>深夜中的一條看不見的公路</i>
+<i>had become like a black highway at night.</i>
+
+817
+01:29:57,267 --> 01:29:59,978
+<i>而人類在未加分隔的領域中</i>
+<i>We were in uncharted territory now...</i>
+
+818
+01:30:00,062 --> 01:30:02,981
+<i>在前進的旅程上不斷創造歷史</i>
+<i>making up history as we went along.</i>
+
+819
+01:30:04,073 --> 01:30:05,373
+"塞柏電腦公司"
+
+820
+01:30:41,311 --> 01:30:43,230
+你是卡爾吧?
+Carl, right?
+
+821
+01:30:44,564 --> 01:30:47,984
+我一些外地朋友
+Friends from out of town. I just thought I'd...
+
+822
+01:30:48,068 --> 01:30:50,153
+我只想帶他們上樓四處瞧瞧
+take 'em upstairs and show 'em around.
+
+823
+01:30:50,213 --> 01:30:53,448
+戴森先生  你也知道規定  帶客人進實驗室時
+Mr. Dyson, you know the rules concerning visitors in the lab.
+
+824
+01:30:53,532 --> 01:30:55,701
+我需要書面許可
+I need written authorization...
+
+825
+01:30:56,743 --> 01:30:58,745
+我堅持
+I insist.
+
+826
+01:30:58,829 --> 01:31:00,580
+你休想妄動
+Don't even think about it.
+
+827
+01:31:11,550 --> 01:31:13,009
+行了
+It's okay.
+
+828
+01:31:14,428 --> 01:31:17,583
+開金庫要兩把鑰匙  而且得同時插入旋轉
+It takes two keys, turned simultaneously, to open the vault.
+
+829
+01:31:17,639 --> 01:31:20,559
+另一支在警衛室裏
+The other one is in a locker at the security station.
+
+830
+01:31:21,893 --> 01:31:23,153
+吉文
+Gibbons?
+
+831
+01:31:26,398 --> 01:31:28,233
+吉文  老兄
+Gibbons! Come on, man!
+
+832
+01:31:28,316 --> 01:31:31,403
+你不能擅離崗位的
+You can't leave the desk like that!
+
+833
+01:31:33,473 --> 01:31:34,473
+吉文
+Gibbons!
+
+834
+01:31:36,241 --> 01:31:37,743
+糟糕
+Oh, shit.
+
+835
+01:31:55,302 --> 01:31:57,304
+我的卡片應該可以開啟它
+My card should access this.
+
+836
+01:32:00,933 --> 01:32:01,833
+什麼?
+What?
+
+837
+01:32:01,975 --> 01:32:04,394
+- 怎麼回事?  - 可惡
+- What is it? - Damn it.
+
+838
+01:32:04,478 --> 01:32:06,438
+警報器已經啟動
+The silent alarm's been tripped.
+
+839
+01:32:12,611 --> 01:32:15,363
+它使所有啟動密碼都失效了
+It's neutralized all the codes in the entire building.
+
+840
+01:32:15,447 --> 01:32:17,365
+現在到處都不通了
+Nothing will open anywhere now.
+
+841
+01:32:18,450 --> 01:32:20,285
+我們得放棄此事
+We have to abort.
+
+842
+01:32:20,458 --> 01:32:21,454
+不
+No.
+
+843
+01:32:23,497 --> 01:32:26,917
+我們幹到底
+We go all the way. Okay?
+
+844
+01:32:29,044 --> 01:32:32,839
+你們在實驗室開始行動  我能打開這個
+You guys get started on the lab. I can open this.
+
+845
+01:32:32,923 --> 01:32:35,383
+- 是大鬧商場的傢伙  - 是那傢伙
+- I think it's that guy from the mall. - It is.
+
+846
+01:32:35,467 --> 01:32:37,385
+對  是他和那女人
+Yeah. It's him and the woman.
+
+847
+01:32:38,970 --> 01:32:42,140
+立即總動員到這裏來
+Just send everything you got in the area right now.
+
+848
+01:32:44,351 --> 01:32:47,813
+我的私人密碼可能還能通
+I have a personal entry code for the lab. It may still work.
+
+849
+01:32:52,317 --> 01:32:53,360
+沒有用
+It's no good.
+
+850
+01:32:53,443 --> 01:32:54,986
+試試我的法子
+Let me try mine.
+
+851
+01:32:59,950 --> 01:33:02,035
+約翰  小心
+John, fire in the hole!
+
+852
+01:33:14,089 --> 01:33:18,885
+且慢  現在不能進去  火焰啟動了"海龍消防系統"
+Wait! You can't go in there. The fire set off the Halon system.
+
+853
+01:33:26,059 --> 01:33:28,520
+等幾分鐘  要讓毒氣消散
+You have to wait until the gas clears.
+
+854
+01:33:31,022 --> 01:33:32,315
+戴防毒面具
+Put this on.
+
+855
+01:33:46,288 --> 01:33:48,790
+來吧  開工了
+All right, let's get to work.
+
+856
+01:34:09,978 --> 01:34:13,273
+<i>所有管區及可以應召的各組注意</i>
+<i>All units in the vicinity and all units able to respond...</i>
+
+857
+01:34:13,356 --> 01:34:18,153
+<i>在克拉馬街2144號塞柏大廈裏</i>
+<i>a 211 in progress, 2144 Kramer Street, the Cyberdyne building.</i>
+
+858
+01:34:18,236 --> 01:34:19,905
+<i>發生犯罪事件</i>
+<i>Suspect one is white female...</i>
+
+859
+01:34:19,988 --> 01:34:23,450
+<i>嫌犯一為白種女性  莎拉·康納</i>
+<i>identified as last name Connor, first name Sarah.</i>
+
+860
+01:34:23,533 --> 01:34:26,453
+<i>昨晚從州立精神病院逃脫</i>
+<i>Escaped last night from Pescadero State Hospital.</i>
+
+861
+01:34:26,536 --> 01:34:28,413
+<i>嫌犯二為白種男性</i>
+<i>Suspect two: White male...</i>
+
+862
+01:34:28,872 --> 01:34:33,376
+<i>因1984年在警局殺害警員而遭通緝</i>
+<i>fitting description of the individual wanted for the murder of police officers in 1984.</i>
+
+863
+01:34:33,460 --> 01:34:35,754
+<i>疑犯攜帶武器  極度危險</i>
+<i>Suspects are armed and considered extreme...</i>
+
+864
+01:35:28,014 --> 01:35:29,014
+好了
+All right.
+
+865
+01:35:29,214 --> 01:35:31,914
+7-2-5-6
+7-2-5-6.
+
+866
+01:35:38,710 --> 01:35:40,044
+賺到了
+Easy money.
+
+867
+01:35:49,137 --> 01:35:51,556
+糟糕  不好了
+Oh, shit. Not good.
+
+868
+01:35:56,644 --> 01:35:58,271
+進展如何?
+How we doing?
+
+869
+01:35:58,354 --> 01:36:00,023
+已經定時
+Primer cord is set.
+
+870
+01:36:00,106 --> 01:36:02,567
+再來一桶  再等兩分鐘
+One more barrel, two more minutes.
+
+871
+01:36:06,446 --> 01:36:09,365
+- 我們如何引爆?  - 遙控引爆
+- How do we set them off? - Remote control.
+
+872
+01:36:09,594 --> 01:36:11,294
+輕而易舉
+Piece of cake.
+
+873
+01:36:11,909 --> 01:36:13,614
+- 有人來了  - 是警察?
+- We got company. - Police?
+
+874
+01:36:13,714 --> 01:36:16,873
+- 有多少人?  - 大概傾巢而出
+- How many? - All of 'em, I think.
+
+875
+01:36:16,956 --> 01:36:18,774
+你們走  我來解決這兒
+Go. I'll finish here.
+
+876
+01:36:20,335 --> 01:36:21,614
+快點
+Come on.
+
+877
+01:36:22,814 --> 01:36:24,614
+我來對付警察
+I'll take care of the police.
+
+878
+01:36:24,814 --> 01:36:26,314
+等一下  你發過誓
+Wait! You swore!
+
+879
+01:36:29,094 --> 01:36:30,494
+相信我
+Trust me.
+
+880
+01:36:43,816 --> 01:36:45,443
+<i>窗台上的人</i>
+<i>You at the window!</i>
+
+881
+01:36:45,526 --> 01:36:48,988
+<i>丟下武器  把雙手放在頭上</i>
+<i>Drop your weapon and place your hands on top of your head!</i>
+
+882
+01:36:50,323 --> 01:36:52,158
+老天
+Holy shit!
+
+883
+01:36:52,241 --> 01:36:53,785
+是機關鎗
+That's a mini-gun!
+
+884
+01:37:16,015 --> 01:37:18,351
+- 快走  - 天啦
+- Come on! - Oh, shit!
+
+885
+01:37:18,434 --> 01:37:19,977
+快走
+Go! Go! Go!
+
+886
+01:37:59,292 --> 01:38:03,278
+"死傷人數: 零"
+
+887
+01:38:07,567 --> 01:38:09,026
+開火
+Fire!
+
+888
+01:38:26,377 --> 01:38:28,004
+同時向左轉
+Same time, to the left.
+
+889
+01:38:28,087 --> 01:38:30,534
+一  二  三  開始
+One, two, three, go.
+
+890
+01:38:42,560 --> 01:38:45,396
+好了  我告訴你怎麼開
+All right. In order to get that out...
+
+891
+01:38:52,195 --> 01:38:54,947
+我們抓住天網的命脈了
+We got Skynet by the balls now.
+
+892
+01:38:55,031 --> 01:38:56,741
+快走吧
+Come on, let's book.
+
+893
+01:38:57,658 --> 01:38:59,577
+停火
+Hold your fire!
+
+894
+01:39:24,769 --> 01:39:27,271
+- 準備好了嗎?  - 好了
+- Ready to rock? - Ready.
+
+895
+01:39:30,024 --> 01:39:31,317
+該走了
+Time to go.
+
+896
+01:39:31,400 --> 01:39:32,860
+馬上
+Now.
+
+897
+01:39:32,944 --> 01:39:36,489
+- 拿著  他們會用催淚瓦斯  - 快走
+- Take this. They'll use gas. - Come on.
+
+898
+01:39:36,572 --> 01:39:39,659
+快去開門  莫斯  把引爆器給我
+Get started on the door. Miles, hand me the detonator.
+
+899
+01:40:03,933 --> 01:40:06,686
+媽
+Mom! Mom!
+
+900
+01:40:51,063 --> 01:40:52,189
+可惡
+Shit!
+
+901
+01:40:53,608 --> 01:40:55,994
+她被困在清潔室了  沒法出來
+She's in the clean room. There's no way outta there.
+
+902
+01:41:06,174 --> 01:41:07,174
+趴下
+Get down!
+
+903
+01:41:14,594 --> 01:41:15,644
+給
+Here.
+
+904
+01:41:41,489 --> 01:41:44,909
+我不知還能抓住這玩意兒多久
+I don't know how much longer I can hold this.
+
+905
+01:41:49,080 --> 01:41:50,581
+是炸彈
+Fall back!
+
+906
+01:41:50,665 --> 01:41:52,249
+大家出去
+Everybody out!
+
+907
+01:41:52,333 --> 01:41:54,251
+炸彈  快跑
+Fall back now! Go! Go! Go!
+
+908
+01:42:29,662 --> 01:42:31,622
+<i>這裏已經演變成戰場</i>
+<i>We got a war zone here!</i>
+
+909
+01:42:58,322 --> 01:42:59,305
+"狀況預測"
+
+910
+01:43:03,529 --> 01:43:05,239
+眼睛閉上
+Shut your eyes.
+
+911
+01:43:11,829 --> 01:43:14,914
+待在這兒  我馬上回來
+Stay here. I'll be back.
+
+912
+01:43:22,840 --> 01:43:25,176
+趴在地上  面朝下
+Get down on the floor! Face down!
+
+913
+01:43:27,887 --> 01:43:29,472
+趴在地上
+On the floor now!
+
+914
+01:43:31,807 --> 01:43:33,309
+行啦  幹掉他
+Okay, drop him!
+
+915
+01:44:53,180 --> 01:44:54,598
+你拿著
+Here, hold this.
+
+916
+01:45:28,007 --> 01:45:29,008
+走
+Go!
+
+917
+01:46:07,963 --> 01:46:08,881
+該死
+Shit!
+
+918
+01:46:22,478 --> 01:46:24,188
+出去
+Get out.
+
+919
+01:46:43,207 --> 01:46:44,500
+聽著
+Listen.
+
+920
+01:46:44,583 --> 01:46:47,294
+不管怎樣你都要躲好
+No matter what happens, stay under these vests.
+
+921
+01:46:47,378 --> 01:46:48,629
+- 懂嗎?  - 懂
+- You got it? - Yeah.
+
+922
+01:46:48,712 --> 01:46:50,172
+好的
+All right.
+
+923
+01:47:04,728 --> 01:47:05,980
+直升機來了
+Chopper's coming in!
+
+924
+01:47:06,063 --> 01:47:07,189
+是它
+It's him.
+
+925
+01:48:04,954 --> 01:48:05,914
+可惡
+Shit!
+
+926
+01:48:08,614 --> 01:48:10,614
+約翰  趴好
+John. Stay down!
+
+927
+01:48:36,294 --> 01:48:37,274
+媽
+Mom.
+
+928
+01:49:25,244 --> 01:49:27,714
+天吶  你沒事吧?
+Goddamn! You all right?
+
+929
+01:49:35,212 --> 01:49:37,212
+媽  快起來  我們得出去
+Come on, Mom, we gotta get out.
+
+930
+01:49:39,550 --> 01:49:41,176
+- 拿著散彈鎗  - 好的
+- Take the shotgun. - Okay.
+
+931
+01:49:44,914 --> 01:49:46,114
+你受傷了嗎?
+Are you hurt?
+
+932
+01:49:56,214 --> 01:49:58,014
+"液化氮"
+
+933
+01:49:59,194 --> 01:50:02,114
+糟糕  加油  媽
+Holy shit. Come on, Mom. Come on!
+
+934
+01:50:02,197 --> 01:50:04,908
+- 我需要你的卡車  - 快
+- We need your truck. - Hurry!
+
+935
+01:50:09,913 --> 01:50:12,416
+- 來  快點  - 上車
+- Come on. Hurry. - Get in.
+
+936
+01:50:15,419 --> 01:50:16,628
+走
+Go!
+
+937
+01:50:22,634 --> 01:50:24,636
+搞什麼
+What the hell...
+
+938
+01:50:30,517 --> 01:50:33,270
+- 血止不住  - 繼續施壓
+- I'm bleeding bad. - Keep pressure on it.
+
+939
+01:50:34,938 --> 01:50:36,607
+這樣很奏效
+Here. This'll work.
+
+940
+01:50:42,196 --> 01:50:43,906
+他越來越近了
+He's gaining.
+
+941
+01:50:46,414 --> 01:50:47,414
+加油
+Step on it!
+
+942
+01:50:47,464 --> 01:50:51,014
+- 這是最高速了  - 我跑的都比它快
+- This is the vehicle's top speed. - I can run faster than this!
+
+943
+01:51:01,840 --> 01:51:03,300
+朝右追來了
+Coming up, to the right.
+
+944
+01:51:05,344 --> 01:51:07,304
+小心
+Watch it! Watch it!
+
+945
+01:51:29,868 --> 01:51:31,995
+- 替我開  - 你上哪兒去?
+- Drive. - Where are you going?
+
+946
+01:51:39,461 --> 01:51:41,380
+走左邊
+Take the off-ramp.
+
+947
+01:51:51,174 --> 01:51:52,174
+可惡
+Shit!
+
+948
+01:51:55,594 --> 01:51:56,594
+抓穩了
+Hold on!
+
+949
+01:52:42,644 --> 01:52:43,994
+別停
+Don't stop!
+
+950
+01:52:51,783 --> 01:52:53,201
+一直走
+Go straight!
+
+951
+01:52:55,829 --> 01:52:58,123
+- 小心  - 閃開
+- Look out! - Duck!
+
+952
+01:53:12,262 --> 01:53:14,222
+快離開這兒
+Get the hell outta here!
+
+953
+01:53:19,728 --> 01:53:22,773
+快離開這兒  快
+Get outta here! Let's go! Come on!
+
+954
+01:54:39,766 --> 01:54:42,227
+<i>拜拜了  寶貝</i>
+<i>Hasta la vista, baby.</i>
+
+955
+01:55:31,818 --> 01:55:33,236
+我們的時間並不多
+We don't have much time.
+
+956
+01:55:55,842 --> 01:55:57,093
+咱們走
+Let's go.
+
+957
+01:55:58,178 --> 01:55:59,971
+快點  我們得離開這兒
+Come on! We gotta get outta here.
+
+958
+01:56:00,055 --> 01:56:02,140
+快點  起來
+Come on! Get up!
+
+959
+01:56:15,737 --> 01:56:17,447
+把散彈鎗給我
+Hand me the shotgun.
+
+960
+01:56:22,285 --> 01:56:24,579
+媽  我扶你走
+Put your weight on me, Mom.
+
+961
+01:56:25,372 --> 01:56:26,454
+快呀
+Hurry!
+
+962
+01:56:30,836 --> 01:56:32,462
+忍著點
+Come on, Mom.
+
+963
+01:56:38,969 --> 01:56:40,303
+快起來
+Get up!
+
+964
+01:56:56,259 --> 01:56:58,219
+走這邊
+This way. Come on.
+
+965
+01:57:07,145 --> 01:57:08,813
+不  等等
+No! Wait!
+
+966
+01:57:09,105 --> 01:57:13,026
+等等  太熱了  回頭
+Wait. No. No. It's too hot. Go back.
+
+967
+01:57:21,360 --> 01:57:23,998
+- 快跑  - 不  我們得一起走
+- Go. Run. - No! We gotta stick together.
+
+968
+01:57:24,081 --> 01:57:26,083
+約翰  快走
+John, you've got to go now.
+
+969
+01:57:26,167 --> 01:57:28,140
+- 約翰  - 快走
+- John! - Go! Now!
+
+970
+01:57:28,190 --> 01:57:29,040
+不
+No!
+
+971
+01:57:47,600 --> 01:57:50,280
+"目標搜尋"
+
+972
+01:58:42,785 --> 01:58:44,578
+爬上去
+Get up the steps.
+
+973
+01:58:46,140 --> 01:58:47,240
+上去
+Go.
+
+974
+01:58:51,961 --> 01:58:53,462
+快
+Get up.
+
+975
+01:58:54,255 --> 01:58:56,423
+抓牢  我扶你  快
+Come on, Mom. I got you.
+
+976
+01:59:30,833 --> 01:59:33,168
+抓住鏈子  抓好
+Grab the chain. Grab it.
+
+977
+01:59:34,545 --> 01:59:37,298
+抓住它  快走
+Grab it. Go. Go!
+
+978
+01:59:47,641 --> 01:59:50,978
+媽  快來啊
+Mom, come on! Mom!
+
+979
+02:00:40,110 --> 02:00:41,904
+把約翰叫來
+Call to John.
+
+980
+02:00:43,133 --> 02:00:44,132
+不
+No!
+
+981
+02:00:44,698 --> 02:00:46,575
+我知道這樣很痛
+I know this hurts.
+
+982
+02:00:48,369 --> 02:00:50,037
+把他叫來
+Call John.
+
+983
+02:01:06,428 --> 02:01:09,098
+快叫約翰過來
+Call to John now.
+
+984
+02:01:11,100 --> 02:01:12,977
+去你的
+Fuck you.
+
+985
+02:03:56,900 --> 02:03:58,900
+"備用能源"
+
+986
+02:04:27,136 --> 02:04:28,112
+約翰
+John.
+
+987
+02:04:29,120 --> 02:04:30,120
+約翰
+John.
+
+988
+02:04:30,507 --> 02:04:31,967
+救命
+Help!
+
+989
+02:04:34,120 --> 02:04:35,120
+約翰
+John.
+
+990
+02:04:39,140 --> 02:04:40,140
+約翰
+John.
+
+991
+02:04:43,120 --> 02:04:44,120
+約翰
+John.
+
+992
+02:04:46,740 --> 02:04:47,740
+約翰
+John.
+
+993
+02:04:49,000 --> 02:04:50,000
+約翰
+John.
+
+994
+02:04:52,613 --> 02:04:54,197
+媽
+Mom.
+
+995
+02:04:59,411 --> 02:05:01,788
+- 救我  - 讓開  約翰
+- Help me. - Get out of the way, John.
+
+996
+02:05:01,830 --> 02:05:02,930
+開槍
+Shoot!
+
+997
+02:05:46,180 --> 02:05:47,180
+媽
+Mom!
+
+998
+02:05:57,640 --> 02:05:58,760
+趴下
+Get down!
+
+999
+02:07:33,375 --> 02:07:35,544
+起來  加油
+Get up. Come on.
+
+1000
+02:07:37,796 --> 02:07:39,280
+天呀
+Holy shit.
+
+1001
+02:07:39,640 --> 02:07:41,640
+我需要療養
+I need a vacation.
+
+1002
+02:07:55,355 --> 02:07:58,150
+它死了嗎?
+Is it dead?
+
+1003
+02:07:58,233 --> 02:07:59,651
+被終結掉了
+Terminated.
+
+1004
+02:08:03,155 --> 02:08:04,823
+這個也丟掉?
+Will this melt in there?
+
+1005
+02:08:07,784 --> 02:08:09,661
+對  丟下去
+Yes. Throw it in.
+
+1006
+02:08:14,080 --> 02:08:15,080
+再見
+Adios.
+
+1007
+02:08:16,752 --> 02:08:18,670
+還有晶片
+And the chip.
+
+1008
+02:08:33,780 --> 02:08:35,240
+結束了
+It's over.
+
+1009
+02:08:37,760 --> 02:08:38,760
+不
+No.
+
+1010
+02:08:42,319 --> 02:08:43,987
+還有一個晶片
+There's one more chip.
+
+1011
+02:08:48,658 --> 02:08:50,911
+它也得摧毀掉
+And it must be destroyed also.
+
+1012
+02:08:56,330 --> 02:08:57,630
+給
+Here.
+
+1013
+02:08:58,043 --> 02:09:02,280
+我不能終結我自己  你得把我放到下面的鋼水裏去
+I cannot self-terminate. You must lower me into the steel.
+
+1014
+02:09:10,240 --> 02:09:11,240
+不
+No.
+
+1015
+02:09:14,559 --> 02:09:17,020
+抱歉  約翰
+I'm sorry, John. I'm sorry.
+
+1016
+02:09:17,103 --> 02:09:19,397
+不  你留在我們身邊不要緊的
+No, it'll be okay. Stay with us.
+
+1017
+02:09:19,481 --> 02:09:21,483
+- 沒關係的  - 我必須離開
+- It'll be okay. - I have to go away.
+
+1018
+02:09:21,566 --> 02:09:24,152
+不  別這樣  請別走
+No, don't do it. Please, don't go.
+
+1019
+02:09:24,180 --> 02:09:25,630
+我必須離開
+I must go away, John.
+
+1020
+02:09:25,680 --> 02:09:26,680
+不
+No!
+
+1021
+02:09:27,405 --> 02:09:28,865
+不  等等
+No, wait.
+
+1022
+02:09:28,949 --> 02:09:31,868
+- 你不必這樣做  - 抱歉
+- You don't have to do this. - I'm sorry.
+
+1023
+02:09:32,786 --> 02:09:35,038
+不  別這樣  別走
+No, don't do it! Don't go!
+
+1024
+02:09:35,121 --> 02:09:37,082
+這一切必須結束
+It has to end here.
+
+1025
+02:09:38,280 --> 02:09:39,780
+我命令你不要走
+I order you not to go!
+
+1026
+02:09:39,980 --> 02:09:41,480
+我命令你不要走
+I order you not to go!
+
+1027
+02:09:41,580 --> 02:09:42,780
+我命令你不要走
+I order you not to go!
+
+1028
+02:09:49,460 --> 02:09:51,760
+我現在知道你們為什麼會哭了
+I know now why you cry.
+
+1029
+02:09:53,974 --> 02:09:56,435
+但那是我永遠做不到的事
+But it's something I can never do.
+
+1030
+02:10:31,060 --> 02:10:32,640
+再見
+Good-bye.
+
+1031
+02:12:12,028 --> 02:12:15,073
+<i>不可知的未來在我們面前展開</i>
+<i>The unknown future rolls toward us.</i>
+
+1032
+02:12:15,156 --> 02:12:19,077
+<i>我頭一次充滿希望的面對它</i>
+<i>I face it for the first time with a sense of hope.</i>
+
+1033
+02:12:19,160 --> 02:12:21,496
+<i>全因為一台機器  一名終結者</i>
+<i>Because if a machine, a Terminator...</i>
+
+1034
+02:12:21,579 --> 02:12:24,916
+<i>它學到了人類生命的價值</i>
+<i>can learn the value of human life...</i>
+
+1035
+02:12:25,000 --> 02:12:26,668
+<i>也許我們也辦的到</i>
+<i>maybe we can too.</i>
+

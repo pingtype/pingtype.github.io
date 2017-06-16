@@ -1,0 +1,5039 @@
+1
+00:02:07,850 --> 00:02:08,960
+<font face="Microsoft Yahei" size="26">他跑不远
+<font size="13">He won't get far.</font></font>
+
+2
+00:02:14,300 --> 00:02:15,170
+<font face="Microsoft Yahei" size="26">救命
+<font size="13">Help.</font></font>
+
+3
+00:04:33,390 --> 00:04:44,070
+<font face="Microsoft Yahei" size="26">虚空异界
+译者:微博@Emtee</font>
+
+4
+00:04:56,740 --> 00:04:58,180
+<font face="Microsoft Yahei" size="26">你还醒着吗
+<font size="13">You still awake?</font></font>
+
+5
+00:05:04,130 --> 00:05:05,890
+<font face="Microsoft Yahei" size="26">高速追击途中
+<font size="13">In the middle of a high speed chase.</font></font>
+
+6
+00:05:05,890 --> 00:05:08,020
+<font face="Microsoft Yahei" size="26">最好是重要的事
+<font size="13">This better be important.</font></font>
+
+7
+00:05:08,760 --> 00:05:11,560
+<font face="Microsoft Yahei" size="26">知道你在外保证我们安全 我就感觉很好
+<font size="13">I just feel so good knowing you're out there keeping us safe.</font></font>
+
+8
+00:05:13,500 --> 00:05:14,960
+<font face="Microsoft Yahei" size="26">你那边怎么样
+<font size="13">And yours on your end?</font></font>
+
+9
+00:05:15,860 --> 00:05:17,900
+<font face="Microsoft Yahei" size="26">州警那说了一堆话
+<font size="13">There's a mess of chatter from state police, but it</font></font>
+
+10
+00:05:17,900 --> 00:05:19,730
+<font face="Microsoft Yahei" size="26">但听上去好像控制住了
+<font size="13">sounds like they got it under control.</font></font>
+
+11
+00:05:20,100 --> 00:05:23,140
+<font face="Microsoft Yahei" size="26">总之 你该起身了 这样你回来时 我们就能看到你
+<font size="13">Anyway, you're about up so we'll see you when you get in.</font></font>
+
+12
+00:05:24,280 --> 00:05:25,070
+<font face="Microsoft Yahei" size="26">好的
+<font size="13">Okay.</font></font>
+
+13
+00:05:27,580 --> 00:05:28,910
+<font face="Microsoft Yahei" size="26">等下
+<font size="13">Hold on.</font></font>
+
+14
+00:05:30,980 --> 00:05:33,200
+<font face="Microsoft Yahei" size="26">我好像看到个..
+<font size="13">Looks like I got some kind of a...</font></font>
+
+15
+00:05:34,750 --> 00:05:36,750
+<font face="Microsoft Yahei" size="26">喝醉的少年
+<font size="13">Drunk teenager.</font></font>
+
+16
+00:05:37,250 --> 00:05:38,460
+<font face="Microsoft Yahei" size="26">说不准
+<font size="13">I don't know.</font></font>
+
+17
+00:05:39,330 --> 00:05:40,170
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey!</font></font>
+
+18
+00:05:41,170 --> 00:05:42,520
+<font face="Microsoft Yahei" size="26">嘿 伙计 一路爬回家
+<font size="13">Hey, buddy, you know it's a little cold to be</font></font>
+
+19
+00:05:42,530 --> 00:05:44,090
+<font face="Microsoft Yahei" size="26">有点冷啊
+<font size="13">crawling all the way home.</font></font>
+
+20
+00:05:48,550 --> 00:05:49,470
+<font face="Microsoft Yahei" size="26">等着
+<font size="13">Stand by.</font></font>
+
+21
+00:06:01,560 --> 00:06:02,940
+<font face="Microsoft Yahei" size="26">闹腾的一晚 是吧
+<font size="13">Big night, huh?</font></font>
+
+22
+00:06:11,790 --> 00:06:13,720
+<font face="Microsoft Yahei" size="26">真见鬼
+<font size="13">Holy shit.</font></font>
+
+23
+00:06:14,820 --> 00:06:16,960
+<font face="Microsoft Yahei" size="26">调度 我要送这家伙去哪
+<font size="13">Dispatch, where am i taking this guy?</font></font>
+
+24
+00:06:16,960 --> 00:06:19,590
+<font face="Microsoft Yahei" size="26">最近的急救机构仍是马什县医院
+<font size="13">Closest emergency services is still marsh county.</font></font>
+
+25
+00:06:19,620 --> 00:06:21,250
+<font face="Microsoft Yahei" size="26">那里火灾后 不知道还剩什么
+<font size="13">Not sure what's left of it after the fire.</font></font>
+
+26
+00:06:21,250 --> 00:06:24,600
+<font face="Microsoft Yahei" size="26">我以为要搬走了 但还在当班名单里
+<font size="13">I think they're moving, but they're still listed on duty.</font></font>
+
+27
+00:06:24,600 --> 00:06:26,800
+<font face="Microsoft Yahei" size="26">好吧 莱克兰呢
+<font size="13">Okay, uh, how about lakeland?</font></font>
+
+28
+00:06:27,170 --> 00:06:29,170
+<font face="Microsoft Yahei" size="26">至少还要20分钟
+<font size="13">It's another twenty minutes atleast.</font></font>
+
+29
+00:06:29,170 --> 00:06:31,070
+<font face="Microsoft Yahei" size="26">你决定吧
+<font size="13">It's your call.</font></font>
+
+30
+00:06:33,070 --> 00:06:37,310
+<font face="Microsoft Yahei" size="26">好吧 你先打个电话 说我在带他过去
+<font size="13">Okay, you call ahead to marsh.Let them know it's me that's bringing him in.</font></font>
+
+31
+00:06:37,310 --> 00:06:39,610
+<font face="Microsoft Yahei" size="26">你先打电话
+<font size="13">You call ahead.</font></font>
+
+32
+00:06:41,600 --> 00:06:43,860
+<font face="Microsoft Yahei" size="26">{\an8}马什县纪念医院</font>
+
+33
+00:06:55,660 --> 00:06:57,200
+<font face="Microsoft Yahei" size="26">有谁能帮忙吗
+<font size="13">Can I get some help here?</font></font>
+
+34
+00:06:57,200 --> 00:06:59,030
+<font face="Microsoft Yahei" size="26">贝弗 前台需要帮忙
+<font size="13">Uh, bev, I need hands up front.</font></font>
+
+35
+00:06:59,030 --> 00:07:00,270
+<font face="Microsoft Yahei" size="26">带担架来
+<font size="13">Bring a stretcher.</font></font>
+
+36
+00:07:00,270 --> 00:07:01,870
+<font face="Microsoft Yahei" size="26">调度没预先打电话来?
+<font size="13">Dispatch not call ahead?</font></font>
+
+37
+00:07:01,870 --> 00:07:02,630
+<font face="Microsoft Yahei" size="26">什么
+<font size="13">What?</font></font>
+
+38
+00:07:02,630 --> 00:07:03,340
+<font face="Microsoft Yahei" size="26">没电话啊
+<font size="13">We didn't get a call.</font></font>
+
+39
+00:07:03,340 --> 00:07:04,140
+<font face="Microsoft Yahei" size="26">贝弗
+<font size="13">Bev!</font></font>
+
+40
+00:07:04,140 --> 00:07:05,910
+<font face="Microsoft Yahei" size="26">你来抬他的脚吧
+<font size="13">Uh, wanna get his feet?</font></font>
+
+41
+00:07:05,910 --> 00:07:07,270
+<font face="Microsoft Yahei" size="26">好的 我来
+<font size="13">Yup, I'll get him.</font></font>
+
+42
+00:07:08,910 --> 00:07:11,350
+<font face="Microsoft Yahei" size="26">- 好了 一 二 三  - 一 二 三
+<font size="13">- Okay. One, two, three. - One, two, three.</font></font>
+
+43
+00:07:13,780 --> 00:07:14,850
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Alright.</font></font>
+
+44
+00:07:16,120 --> 00:07:17,020
+<font face="Microsoft Yahei" size="26">你还好吧
+<font size="13">Are you okay?</font></font>
+
+45
+00:07:17,020 --> 00:07:18,850
+<font face="Microsoft Yahei" size="26">能听到我说话吗
+<font size="13">Can you hear me?</font></font>
+
+46
+00:07:18,850 --> 00:07:20,220
+<font face="Microsoft Yahei" size="26">他怎么了 丹尼
+<font size="13">What's his story, Danny?</font></font>
+
+47
+00:07:20,220 --> 00:07:22,690
+<font face="Microsoft Yahei" size="26">他在流血 贝弗
+<font size="13">Uh, he's bleeding, bev.</font></font>
+
+48
+00:07:23,020 --> 00:07:24,100
+<font face="Microsoft Yahei" size="26">我们会照料你
+<font size="13">We're gonna take care of you.</font></font>
+
+49
+00:07:24,100 --> 00:07:26,190
+<font face="Microsoft Yahei" size="26">贝弗莉 给他上监护器 叫鲍威尔医生来
+<font size="13">Beverly, we gotta get him on a monitor and into Dr. Powell.</font></font>
+
+50
+00:07:26,190 --> 00:07:27,330
+<font face="Microsoft Yahei" size="26">走吧
+<font size="13">Let's go.</font></font>
+
+51
+00:07:37,710 --> 00:07:39,110
+<font face="Microsoft Yahei" size="26">嗨
+<font size="13">Hi.</font></font>
+
+52
+00:07:40,210 --> 00:07:43,710
+<font face="Microsoft Yahei" size="26">播送因技术问题中断后已恢复
+<font size="13">Coming back on the air after an interruption due to technical problems.</font></font>
+
+53
+00:07:43,710 --> 00:07:44,650
+<font face="Microsoft Yahei" size="26">那是什么情况
+<font size="13">What's that about?</font></font>
+
+54
+00:07:44,650 --> 00:07:45,910
+<font face="Microsoft Yahei" size="26">天知道
+<font size="13">Who knows.</font></font>
+
+55
+00:07:45,910 --> 00:07:47,980
+<font face="Microsoft Yahei" size="26">我在这做什么都不被允许
+<font size="13">They won't let me do anything around here.</font></font>
+
+56
+00:07:50,850 --> 00:07:53,290
+<font face="Microsoft Yahei" size="26">这个不错
+<font size="13">Oh, here's a good one.</font></font>
+
+57
+00:07:53,290 --> 00:07:55,160
+<font face="Microsoft Yahei" size="26">去颏套
+<font size="13">De-gloving.</font></font>
+
+58
+00:07:55,660 --> 00:07:57,090
+<font face="Microsoft Yahei" size="26">这有张图
+<font size="13">There's a picture.</font></font>
+
+59
+00:07:57,090 --> 00:07:59,260
+<font face="Microsoft Yahei" size="26">天呐
+<font size="13">Ugh, Jesus.</font></font>
+
+60
+00:07:59,260 --> 00:08:02,430
+<font face="Microsoft Yahei" size="26">统计学上来讲 相比其他地方
+<font size="13">You know, statistically, you're more likely to die</font></font>
+
+61
+00:08:02,430 --> 00:08:05,070
+<font face="Microsoft Yahei" size="26">你更可能死在医院
+<font size="13">in a hospital than anywhere else.</font></font>
+
+62
+00:08:05,800 --> 00:08:06,970
+<font face="Microsoft Yahei" size="26">太好了
+<font size="13">Cool.</font></font>
+
+63
+00:08:06,970 --> 00:08:09,400
+<font face="Microsoft Yahei" size="26">我能给你根导管
+<font size="13">Well, I could give you a catheter.</font></font>
+
+64
+00:08:09,410 --> 00:08:10,440
+<font face="Microsoft Yahei" size="26">会挺有意思
+<font size="13">That could be fun.</font></font>
+
+65
+00:08:10,440 --> 00:08:11,940
+<font face="Microsoft Yahei" size="26">你是护士吗
+<font size="13">Are you even a nurse?</font></font>
+
+66
+00:08:13,410 --> 00:08:16,080
+<font face="Microsoft Yahei" size="26">我在接受培训
+<font size="13">I am in training.</font></font>
+
+67
+00:08:18,030 --> 00:08:18,990
+<font face="Microsoft Yahei" size="26">太好了
+<font size="13">That's so cool.</font></font>
+
+68
+00:08:18,990 --> 00:08:21,280
+<font face="Microsoft Yahei" size="26">我要睡觉了 好吗
+<font size="13">How about I'm just gonna go to sleep, okay?</font></font>
+
+69
+00:08:21,920 --> 00:08:24,280
+<font face="Microsoft Yahei" size="26">反正我要走了
+<font size="13">I should go anyway.</font></font>
+
+70
+00:08:24,290 --> 00:08:25,920
+<font face="Microsoft Yahei" size="26">我想你不需要这东西了
+<font size="13">I guess you won't be needing this.</font></font>
+
+71
+00:08:27,360 --> 00:08:28,760
+<font face="Microsoft Yahei" size="26">晚安
+<font size="13">Goodnight.</font></font>
+
+72
+00:08:38,100 --> 00:08:41,370
+<font face="Microsoft Yahei" size="26">你挺会隆重登场啊 小丹尼
+<font size="13">well, you sure know how to make an entrance, Danny boy.</font></font>
+
+73
+00:08:41,370 --> 00:08:43,140
+<font face="Microsoft Yahei" size="26">是啊
+<font size="13">Yup.</font></font>
+
+74
+00:08:45,010 --> 00:08:46,840
+<font face="Microsoft Yahei" size="26">感觉怎么样 玛吉
+<font size="13">How you feeling, Maggie?</font></font>
+
+75
+00:08:46,840 --> 00:08:49,010
+<font face="Microsoft Yahei" size="26">我一直有些疼
+<font size="13">I've been having some pains.</font></font>
+
+76
+00:08:49,740 --> 00:08:52,850
+<font face="Microsoft Yahei" size="26">鲍威尔医生说孩子可能要出生了
+<font size="13">Dr. Powell says the baby might be on it's way.</font></font>
+
+77
+00:08:52,850 --> 00:08:56,050
+<font face="Microsoft Yahei" size="26">没错 她肯定在里面猛踢
+<font size="13">Yup, she's kicking up a storm in there that's for sure.</font></font>
+
+78
+00:08:57,820 --> 00:08:58,820
+<font face="Microsoft Yahei" size="26">总之
+<font size="13">Anyhow.</font></font>
+
+79
+00:08:58,820 --> 00:09:01,020
+<font face="Microsoft Yahei" size="26">我很高兴医生还在
+<font size="13">I'm just glad the doc stuck around.</font></font>
+
+80
+00:09:01,020 --> 00:09:04,290
+<font face="Microsoft Yahei" size="26">那场火灾对这地方造成了很大损失
+<font size="13">That fire really did a number on this place.</font></font>
+
+81
+00:09:04,290 --> 00:09:07,090
+<font face="Microsoft Yahei" size="26">每次那孩子一躁动
+<font size="13">And I can't afford to be driving her into the city</font></font>
+
+82
+00:09:07,100 --> 00:09:09,420
+<font face="Microsoft Yahei" size="26">就开她去城里 我可吃不消
+<font size="13">every time that kid gets fidgety.</font></font>
+
+83
+00:09:09,420 --> 00:09:10,880
+<font face="Microsoft Yahei" size="26">消停会儿吧 爷爷
+<font size="13">Give it a rest, grandad.</font></font>
+
+84
+00:09:18,010 --> 00:09:18,890
+<font face="Microsoft Yahei" size="26">放开我
+<font size="13">Let go of me!</font></font>
+
+85
+00:09:18,890 --> 00:09:19,840
+<font face="Microsoft Yahei" size="26">- 住手  - 冷静
+<font size="13">- Stop! - Calm down.</font></font>
+
+86
+00:09:19,840 --> 00:09:20,300
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">Calm down.</font></font>
+
+87
+00:09:20,300 --> 00:09:21,050
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">Calm down.</font></font>
+
+88
+00:09:21,510 --> 00:09:22,560
+<font face="Microsoft Yahei" size="26">- 马上好  - 放开我
+<font size="13">- One more second. - Let go of me!</font></font>
+
+89
+00:09:22,560 --> 00:09:23,510
+<font face="Microsoft Yahei" size="26">- 住手  - 马上就好
+<font size="13">- Stop! - Just one more second.</font></font>
+
+90
+00:09:23,510 --> 00:09:26,210
+<font face="Microsoft Yahei" size="26">放松 呼吸
+<font size="13">Easy. Breathe.</font></font>
+
+91
+00:09:27,080 --> 00:09:28,420
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Okay.</font></font>
+
+92
+00:09:28,420 --> 00:09:30,750
+<font face="Microsoft Yahei" size="26">这场面我可不会记着
+<font size="13">I'm not gonna miss this.</font></font>
+
+93
+00:09:30,750 --> 00:09:32,450
+<font face="Microsoft Yahei" size="26">你能搞定他吧 理查德
+<font size="13">You gonna be able to handle him, Richard?</font></font>
+
+94
+00:09:32,450 --> 00:09:34,820
+<font face="Microsoft Yahei" size="26">你这朋友遭受了不小的创伤
+<font size="13">Your friend here's had quite a trauma.</font></font>
+
+95
+00:09:34,820 --> 00:09:36,760
+<font face="Microsoft Yahei" size="26">我们没身份辨识手环了 
+<font size="13">Well, not that we have any ID bracelets left, but for</font></font>
+
+96
+00:09:36,760 --> 00:09:38,190
+<font face="Microsoft Yahei" size="26">但证件表明他叫詹姆斯
+<font size="13">the record his name is James.</font></font>
+
+97
+00:09:38,190 --> 00:09:39,460
+<font face="Microsoft Yahei" size="26">他有多糟
+<font size="13">How bad is he?</font></font>
+
+98
+00:09:39,460 --> 00:09:41,160
+<font face="Microsoft Yahei" size="26">他很不配合
+<font size="13">Well, he's not been very cooperative.</font></font>
+
+99
+00:09:41,160 --> 00:09:43,130
+<font face="Microsoft Yahei" size="26">镇定剂有助于我们查明
+<font size="13">The sedative will help us determine exactly what his</font></font>
+
+100
+00:09:43,130 --> 00:09:48,300
+<font face="Microsoft Yahei" size="26">他到底是什么状况 但我们这里的资源有限
+<font size="13">condition is, but our resources are limited here.</font></font>
+
+101
+00:09:48,300 --> 00:09:50,900
+<font face="Microsoft Yahei" size="26">所有东西都被打包准备搬走了
+<font size="13">Everything's been packed up for the move.</font></font>
+
+102
+00:09:51,940 --> 00:09:54,540
+<font face="Microsoft Yahei" size="26">看来这个詹姆斯对针头并不陌生
+<font size="13">Looks like James here isn't any stranger to needles.</font></font>
+
+103
+00:09:54,540 --> 00:09:56,380
+<font face="Microsoft Yahei" size="26">你在哪发现这家伙的
+<font size="13">Where'd you find this guy?</font></font>
+
+104
+00:09:58,310 --> 00:10:00,880
+<font face="Microsoft Yahei" size="26">他的血他妈流到我身上了
+<font size="13">He fucking bled on me.</font></font>
+
+105
+00:10:03,820 --> 00:10:05,790
+<font face="Microsoft Yahei" size="26">金 我知道被转来
+<font size="13">Kim, I know getting transferred over here</font></font>
+
+106
+00:10:05,790 --> 00:10:07,850
+<font face="Microsoft Yahei" size="26">不是你的首选 但你该
+<font size="13">wasn't your first choice, but you're supposed to be</font></font>
+
+107
+00:10:07,860 --> 00:10:09,520
+<font face="Microsoft Yahei" size="26">把文件装箱
+<font size="13">boxing up files.</font></font>
+
+108
+00:10:09,530 --> 00:10:12,390
+<font face="Microsoft Yahei" size="26">不用 现在有种东西叫电脑
+<font size="13">No, there are things called computers now.</font></font>
+
+109
+00:10:13,500 --> 00:10:17,060
+<font face="Microsoft Yahei" size="26">电脑能把文件放进箱子?
+<font size="13">Can computers put files in boxes?</font></font>
+
+110
+00:10:18,200 --> 00:10:20,100
+<font face="Microsoft Yahei" size="26">谢谢你咯
+<font size="13">Thank you!</font></font>
+
+111
+00:10:23,840 --> 00:10:26,070
+<font face="Microsoft Yahei" size="26">真老派
+<font size="13">So old school.</font></font>
+
+112
+00:10:37,320 --> 00:10:38,450
+<font face="Microsoft Yahei" size="26">要去除血渍
+<font size="13">You might need something a little stronger</font></font>
+
+113
+00:10:38,450 --> 00:10:41,150
+<font face="Microsoft Yahei" size="26">你就得用更强效点的
+<font size="13">if you're gonna get that stain out.</font></font>
+
+114
+00:10:43,930 --> 00:10:45,460
+<font face="Microsoft Yahei" size="26">无所谓了 该死的
+<font size="13">Whatever, fuck.</font></font>
+
+115
+00:10:47,090 --> 00:10:48,860
+<font face="Microsoft Yahei" size="26">我能用洗衣机洗
+<font size="13">I can do my own laundry.</font></font>
+
+116
+00:10:48,860 --> 00:10:51,530
+<font face="Microsoft Yahei" size="26">瞧你那样
+<font size="13">Well! Look at you.</font></font>
+
+117
+00:10:52,830 --> 00:10:56,270
+<font face="Microsoft Yahei" size="26">我给你带了咖啡
+<font size="13">Brought you uh, coffee.</font></font>
+
+118
+00:10:56,940 --> 00:10:58,210
+<font face="Microsoft Yahei" size="26">太好了
+<font size="13">Nice.</font></font>
+
+119
+00:10:58,210 --> 00:10:59,610
+<font face="Microsoft Yahei" size="26">我之前想要来着
+<font size="13">I was looking for that.</font></font>
+
+120
+00:10:59,610 --> 00:11:03,040
+<font face="Microsoft Yahei" size="26">它现在是我的 所以别有任何想法
+<font size="13">It's mine now so don't you get any ideas.</font></font>
+
+121
+00:11:03,050 --> 00:11:04,440
+<font face="Microsoft Yahei" size="26">是啊
+<font size="13">Right.</font></font>
+
+122
+00:11:06,910 --> 00:11:08,850
+<font face="Microsoft Yahei" size="26">你真好
+<font size="13">You're being friendly.</font></font>
+
+123
+00:11:10,320 --> 00:11:12,290
+<font face="Microsoft Yahei" size="26">见到你 我很高兴
+<font size="13">It's good to see you.</font></font>
+
+124
+00:11:17,060 --> 00:11:18,630
+<font face="Microsoft Yahei" size="26">不好意思
+<font size="13">Uh... I'm sorry.</font></font>
+
+125
+00:11:18,630 --> 00:11:19,990
+<font face="Microsoft Yahei" size="26">我打断你们了吗
+<font size="13">Am I interrupting something?</font></font>
+
+126
+00:11:20,000 --> 00:11:21,430
+<font face="Microsoft Yahei" size="26">- 没有  - 没有
+<font size="13">- No, no. - No. No, no, no.</font></font>
+
+127
+00:11:21,430 --> 00:11:24,630
+<font face="Microsoft Yahei" size="26">我正想去确认下贝弗没杀掉我的实习生
+<font size="13">I'm just gonna go make sure bev hasn't murdered my intern.τгаηslаτed ьγ ωeiьо-Eмτee</font></font>
+
+128
+00:11:24,630 --> 00:11:26,400
+<font face="Microsoft Yahei" size="26">回见
+<font size="13">I'll see you.</font></font>
+
+129
+00:11:30,470 --> 00:11:32,470
+<font face="Microsoft Yahei" size="26">我们的来客暂时昏迷着
+<font size="13">Our guest is out for now.</font></font>
+
+130
+00:11:32,470 --> 00:11:35,340
+<font face="Microsoft Yahei" size="26">他伤得不严重 但你要过一段时间
+<font size="13">He's not badly hurt, but it will be a while before</font></font>
+
+131
+00:11:35,340 --> 00:11:36,910
+<font face="Microsoft Yahei" size="26">才能和他谈话
+<font size="13">you can talk to him.</font></font>
+
+132
+00:11:36,910 --> 00:11:38,450
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Fuck.</font></font>
+
+133
+00:11:40,180 --> 00:11:42,250
+<font face="Microsoft Yahei" size="26">你应该温柔对待艾莉森
+<font size="13">You should be gentle with Alison.</font></font>
+
+134
+00:11:42,250 --> 00:11:45,390
+<font face="Microsoft Yahei" size="26">她还要面对所遭遇的事
+<font size="13">She's still coming to terms with what happened.</font></font>
+
+135
+00:11:45,390 --> 00:11:47,150
+<font face="Microsoft Yahei" size="26">没错 好的
+<font size="13">Yeah, okay.</font></font>
+
+136
+00:11:47,160 --> 00:11:50,320
+<font face="Microsoft Yahei" size="26">丹尼尔 你知道没什么比
+<font size="13">As you know Daniel, there's nothing worse than</font></font>
+
+137
+00:11:50,330 --> 00:11:52,890
+<font face="Microsoft Yahei" size="26">失去孩子更糟
+<font size="13">losing a child.</font></font>
+
+138
+00:11:52,900 --> 00:11:57,300
+<font face="Microsoft Yahei" size="26">失去莎拉那会儿 我一团糟
+<font size="13">When we lost Sarah, i was a mess.</font></font>
+
+139
+00:11:57,300 --> 00:11:59,970
+<font face="Microsoft Yahei" size="26">很久才重新振作
+<font size="13">It took a long time to come back from that.</font></font>
+
+140
+00:12:01,500 --> 00:12:03,070
+<font face="Microsoft Yahei" size="26">你一定要往前看
+<font size="13">You just have to keep going.</font></font>
+
+141
+00:12:03,070 --> 00:12:04,300
+<font face="Microsoft Yahei" size="26">没错
+<font size="13">Yeah.</font></font>
+
+142
+00:12:48,220 --> 00:12:49,680
+<font face="Microsoft Yahei" size="26">贝弗莉
+<font size="13">Beverly.</font></font>
+
+143
+00:12:49,690 --> 00:12:51,620
+<font face="Microsoft Yahei" size="26">你还好吗
+<font size="13">Are you okay?</font></font>
+
+144
+00:12:54,690 --> 00:12:56,520
+<font face="Microsoft Yahei" size="26">贝弗莉
+<font size="13">Beverly.</font></font>
+
+145
+00:12:56,530 --> 00:12:58,160
+<font face="Microsoft Yahei" size="26">怎么了
+<font size="13">What?</font></font>
+
+146
+00:12:59,560 --> 00:13:01,390
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Jesus Christ.</font></font>
+
+147
+00:13:07,970 --> 00:13:09,240
+<font face="Microsoft Yahei" size="26">你他妈在干什么 贝弗
+<font size="13">What the fuck are you doing, bev?</font></font>
+
+148
+00:13:09,240 --> 00:13:11,040
+<font face="Microsoft Yahei" size="26">贝弗利
+<font size="13">Beverly?</font></font>
+
+149
+00:13:12,570 --> 00:13:14,370
+<font face="Microsoft Yahei" size="26">这不是我的脸
+<font size="13">This isn't my face.</font></font>
+
+150
+00:13:14,380 --> 00:13:16,080
+<font face="Microsoft Yahei" size="26">什么 贝弗
+<font size="13">What, bev?</font></font>
+
+151
+00:13:17,580 --> 00:13:19,650
+<font face="Microsoft Yahei" size="26">别那么做
+<font size="13">No, no, don't do that.</font></font>
+
+152
+00:13:19,650 --> 00:13:21,250
+<font face="Microsoft Yahei" size="26">贝弗
+<font size="13">Bev!</font></font>
+
+153
+00:13:21,250 --> 00:13:22,380
+<font face="Microsoft Yahei" size="26">放下剪刀
+<font size="13">Put the scissors down.</font></font>
+
+154
+00:13:22,380 --> 00:13:24,050
+<font face="Microsoft Yahei" size="26">看着我
+<font size="13">Look at me!</font></font>
+
+155
+00:13:24,050 --> 00:13:25,550
+<font face="Microsoft Yahei" size="26">贝弗 好了 住手
+<font size="13">Bev, okay, stop!</font></font>
+
+156
+00:13:26,620 --> 00:13:28,620
+<font face="Microsoft Yahei" size="26">这不是我
+<font size="13">It's not me.</font></font>
+
+157
+00:13:30,090 --> 00:13:31,730
+<font face="Microsoft Yahei" size="26">别那么做
+<font size="13">No, no, no, don't do that.</font></font>
+
+158
+00:13:31,730 --> 00:13:33,090
+<font face="Microsoft Yahei" size="26">贝弗
+<font size="13">Bev.</font></font>
+
+159
+00:13:33,100 --> 00:13:35,230
+<font face="Microsoft Yahei" size="26">你能帮帮我吗
+<font size="13">Can you help me?</font></font>
+
+160
+00:13:35,230 --> 00:13:36,700
+<font face="Microsoft Yahei" size="26">贝弗 贝弗 别动
+<font size="13">Bev, bev, stop!</font></font>
+
+161
+00:13:37,470 --> 00:13:38,300
+<font face="Microsoft Yahei" size="26">别
+<font size="13">No, no, no!</font></font>
+
+162
+00:13:38,300 --> 00:13:39,170
+<font face="Microsoft Yahei" size="26">贝弗 别动
+<font size="13">Beverly, stop!</font></font>
+
+163
+00:13:44,740 --> 00:13:46,440
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Oh, fuck.</font></font>
+
+164
+00:13:51,050 --> 00:13:52,350
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel!</font></font>
+
+165
+00:13:53,550 --> 00:13:55,080
+<font face="Microsoft Yahei" size="26">丹尼尔 怎么了
+<font size="13">Daniel, what?</font></font>
+
+166
+00:13:55,680 --> 00:13:57,480
+<font face="Microsoft Yahei" size="26">- 你做了什么 - 这他妈什么情况
+<font size="13">- What did you do? - What the fuck?</font></font>
+
+167
+00:13:57,490 --> 00:13:59,420
+<font face="Microsoft Yahei" size="26">金 金 离开这里
+<font size="13">Kim. Kim, get out of here.</font></font>
+
+168
+00:14:01,120 --> 00:14:02,220
+<font face="Microsoft Yahei" size="26">金 你不必看这个
+<font size="13">Kim, you don't need to see this.</font></font>
+
+169
+00:14:02,220 --> 00:14:04,590
+<font face="Microsoft Yahei" size="26">她杀了他 我..
+<font size="13">She killed him. I, uh...</font></font>
+
+170
+00:14:04,590 --> 00:14:05,560
+<font face="Microsoft Yahei" size="26">她要攻击我
+<font size="13">She came at me.</font></font>
+
+171
+00:14:05,560 --> 00:14:07,030
+<font face="Microsoft Yahei" size="26">她要攻击我 好了
+<font size="13">She came at me. Okay.</font></font>
+
+172
+00:14:07,030 --> 00:14:08,060
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Alright.</font></font>
+
+173
+00:14:08,060 --> 00:14:09,630
+<font face="Microsoft Yahei" size="26">是枪声吗
+<font size="13">Was that a gunshot?</font></font>
+
+174
+00:14:10,770 --> 00:14:12,770
+<font face="Microsoft Yahei" size="26">天呐 出了什么事
+<font size="13">My god, what happened?</font></font>
+
+175
+00:14:12,770 --> 00:14:15,800
+<font face="Microsoft Yahei" size="26">贝弗莉 她攻击了丹尼尔和罗宾逊的孩子
+<font size="13">Beverly, she attacked Daniel and the Robinson kid.</font></font>
+
+176
+00:14:15,800 --> 00:14:17,340
+<font face="Microsoft Yahei" size="26">好了 我得上报这件事 我得... 
+<font size="13">Okay, I gotta call this in. I gotta call- -</font></font>
+
+177
+00:14:17,680 --> 00:14:20,370
+<font face="Microsoft Yahei" size="26">- 冷静下 好吗 冷静 - 我得上报
+<font size="13">- Give yourself a second, okay?Just calm, calm down. - Tell them. I gotta...</font></font>
+
+178
+00:14:20,380 --> 00:14:22,110
+<font face="Microsoft Yahei" size="26">- 让我冷静下  - 你能从
+<font size="13">- Just give me a second. - Can you just call</font></font>
+
+179
+00:14:22,110 --> 00:14:23,440
+<font face="Microsoft Yahei" size="26">- 办公室打吗 - 让我冷静下
+<font size="13">- from the office? - Give me a second.</font></font>
+
+180
+00:15:47,200 --> 00:15:48,360
+<font face="Microsoft Yahei" size="26">你感觉怎么样
+<font size="13">How are you feeling?</font></font>
+
+181
+00:15:48,360 --> 00:15:48,900
+<font face="Microsoft Yahei" size="26">什么
+<font size="13">What?</font></font>
+
+182
+00:15:48,900 --> 00:15:49,660
+<font face="Microsoft Yahei" size="26">我挺好
+<font size="13">I'm fine.</font></font>
+
+183
+00:15:49,660 --> 00:15:50,530
+<font face="Microsoft Yahei" size="26">嘘
+<font size="13">Shh.</font></font>
+
+184
+00:15:50,530 --> 00:15:51,360
+<font face="Microsoft Yahei" size="26">我没事
+<font size="13">I'm okay.</font></font>
+
+185
+00:15:51,360 --> 00:15:52,770
+<font face="Microsoft Yahei" size="26">放松 丹尼尔
+<font size="13">Take it easy, Daniel.</font></font>
+
+186
+00:15:52,770 --> 00:15:54,830
+<font face="Microsoft Yahei" size="26">看来你可能癫痫了
+<font size="13">It looks like you might have had a seizure.</font></font>
+
+187
+00:15:54,840 --> 00:15:56,740
+<font face="Microsoft Yahei" size="26">没有
+<font size="13">No, no, no, no.</font></font>
+
+188
+00:15:56,740 --> 00:15:59,470
+<font face="Microsoft Yahei" size="26">丹尼尔 你要是觉得头晕 就不该站起来
+<font size="13">If you're feeling dizzy, Daniel, you shouldn't try to get up.</font></font>
+
+189
+00:15:59,580 --> 00:16:00,160
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Okay.</font></font>
+
+190
+00:16:00,160 --> 00:16:01,140
+<font face="Microsoft Yahei" size="26">坐下 好吗
+<font size="13">Just sit down, okay?</font></font>
+
+191
+00:16:01,140 --> 00:16:02,440
+<font face="Microsoft Yahei" size="26">来
+<font size="13">Come on.</font></font>
+
+192
+00:16:03,120 --> 00:16:04,040
+<font face="Microsoft Yahei" size="26">我得上报
+<font size="13">I gotta call it in.</font></font>
+
+193
+00:16:04,040 --> 00:16:06,450
+<font face="Microsoft Yahei" size="26">你得放松下
+<font size="13">No, you need to take it easy.</font></font>
+
+194
+00:16:06,450 --> 00:16:08,310
+<font face="Microsoft Yahei" size="26">已经有一名州警到这了
+<font size="13">There's a state trooper already here.</font></font>
+
+195
+00:16:08,320 --> 00:16:09,780
+<font face="Microsoft Yahei" size="26">什么
+<font size="13">What?</font></font>
+
+196
+00:16:10,080 --> 00:16:12,080
+<font face="Microsoft Yahei" size="26">天呐 我昏迷多久了
+<font size="13">Oh god, how long was I out for?</font></font>
+
+197
+00:16:12,100 --> 00:16:14,810
+<font face="Microsoft Yahei" size="26">不久 显然他早就上路了
+<font size="13">Not long.Apparently, he was already on his way.</font></font>
+
+198
+00:16:14,810 --> 00:16:17,260
+<font face="Microsoft Yahei" size="26">跟你带来的那孩子有关 听着 现在不重要了
+<font size="13">Something to do with that kid you brought in.Look, it's not important right now.</font></font>
+
+199
+00:16:17,260 --> 00:16:18,760
+<font face="Microsoft Yahei" size="26">这州警大概会想和你谈谈
+<font size="13">This trooper's probably gonna wanna talk to you.</font></font>
+
+200
+00:16:18,760 --> 00:16:21,230
+<font face="Microsoft Yahei" size="26">我们应该考虑把你转进病房
+<font size="13">We should see about moving you to a room.</font></font>
+
+201
+00:16:21,230 --> 00:16:22,100
+<font face="Microsoft Yahei" size="26">不用
+<font size="13">No, no, no.</font></font>
+
+202
+00:16:22,100 --> 00:16:24,700
+<font face="Microsoft Yahei" size="26">你刚经历了一件极度创伤性事件
+<font size="13">You just experienced an extremely traumatic event.</font></font>
+
+203
+00:16:24,700 --> 00:16:25,230
+<font face="Microsoft Yahei" size="26">行了
+<font size="13">Okay.</font></font>
+
+204
+00:16:25,230 --> 00:16:26,020
+<font face="Microsoft Yahei" size="26">好了 听着
+<font size="13">Okay, look.</font></font>
+
+205
+00:16:26,020 --> 00:16:28,230
+<font face="Microsoft Yahei" size="26">你现在就像你父亲那样固执
+<font size="13">You are stubborn like your father was now.</font></font>
+
+206
+00:16:28,240 --> 00:16:30,000
+<font face="Microsoft Yahei" size="26">你该认真对待这问题
+<font size="13">You should take this very seriously.</font></font>
+
+207
+00:16:30,000 --> 00:16:32,710
+<font face="Microsoft Yahei" size="26">我是很固执
+<font size="13">I- i am, I am.</font></font>
+
+208
+00:16:32,710 --> 00:16:34,110
+<font face="Microsoft Yahei" size="26">我没事
+<font size="13">I'm good.</font></font>
+
+209
+00:16:34,110 --> 00:16:35,480
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Alright.</font></font>
+
+210
+00:16:36,710 --> 00:16:38,510
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel.</font></font>
+
+211
+00:16:43,920 --> 00:16:45,080
+<font face="Microsoft Yahei" size="26">米切尔
+<font size="13">Mitchell.</font></font>
+
+212
+00:16:45,950 --> 00:16:47,220
+<font face="Microsoft Yahei" size="26">你在这啊
+<font size="13">There you are.</font></font>
+
+213
+00:16:47,960 --> 00:16:48,710
+<font face="Microsoft Yahei" size="26">出什么事了
+<font size="13">So what happened?</font></font>
+
+214
+00:16:48,710 --> 00:16:50,590
+<font face="Microsoft Yahei" size="26">听说他俩是一起被你发现的
+<font size="13">They told me you found the two of them together.</font></font>
+
+215
+00:16:51,060 --> 00:16:52,990
+<font face="Microsoft Yahei" size="26">没错
+<font size="13">Uh, yeah.</font></font>
+
+216
+00:16:52,990 --> 00:16:57,700
+<font face="Microsoft Yahei" size="26">我到时 他已经死了 然后她用剪刀
+<font size="13">He was dead when I arrived and she came at me with a</font></font>
+
+217
+00:16:57,700 --> 00:16:59,600
+<font face="Microsoft Yahei" size="26">向我攻击
+<font size="13">pair of scissors.</font></font>
+
+218
+00:17:00,730 --> 00:17:02,030
+<font face="Microsoft Yahei" size="26">你到这怎么这么快
+<font size="13">How did you get here so fast?</font></font>
+
+219
+00:17:02,040 --> 00:17:03,270
+<font face="Microsoft Yahei" size="26">你那个在隔壁病房的人
+<font size="13">Your guy in the other room.</font></font>
+
+220
+00:17:03,850 --> 00:17:04,560
+<font face="Microsoft Yahei" size="26">他怎么了
+<font size="13">What about him?</font></font>
+
+221
+00:17:04,560 --> 00:17:07,710
+<font face="Microsoft Yahei" size="26">这里以北约20英里 有场大血洗
+<font size="13">We got a major bloodbath about twenty miles north of here.</font></font>
+
+222
+00:17:07,710 --> 00:17:10,580
+<font face="Microsoft Yahei" size="26">他把那地方当成屠宰店大杀特杀
+<font size="13">Looks like he tore the place up like a butcher shop.</font></font>
+
+223
+00:17:10,580 --> 00:17:11,980
+<font face="Microsoft Yahei" size="26">是的
+<font size="13">Uh, yeah.</font></font>
+
+224
+00:17:11,980 --> 00:17:14,680
+<font face="Microsoft Yahei" size="26">我们检查了他 他身上大部分血
+<font size="13">We looked him over and most of the blood on his</font></font>
+
+225
+00:17:14,680 --> 00:17:16,220
+<font face="Microsoft Yahei" size="26">不是他的
+<font size="13">body was not his.</font></font>
+
+226
+00:17:16,220 --> 00:17:18,850
+<font face="Microsoft Yahei" size="26">他有很多吸毒前科
+<font size="13">Well he has a long list of drug related priors.</font></font>
+
+227
+00:17:18,850 --> 00:17:21,250
+<font face="Microsoft Yahei" size="26">你们护士应该已有所发现
+<font size="13">So I think he gave your nurse something.</font></font>
+
+228
+00:17:21,260 --> 00:17:24,020
+<font face="Microsoft Yahei" size="26">我暂时把他铐在了床上
+<font size="13">I've got him cuffed to the bed for the time being.</font></font>
+
+229
+00:17:24,030 --> 00:17:25,990
+<font face="Microsoft Yahei" size="26">他已经失去知觉了
+<font size="13">He's been out cold.</font></font>
+
+230
+00:17:25,990 --> 00:17:27,160
+<font face="Microsoft Yahei" size="26">现在我来了
+<font size="13">Well I'm here now.</font></font>
+
+231
+00:17:27,160 --> 00:17:29,130
+<font face="Microsoft Yahei" size="26">我会处理
+<font size="13">I'll sort it out.</font></font>
+
+232
+00:17:29,130 --> 00:17:31,860
+<font face="Microsoft Yahei" size="26">我需要你的枪
+<font size="13">I need to take your firearm.</font></font>
+
+233
+00:17:31,870 --> 00:17:32,420
+<font face="Microsoft Yahei" size="26">好的
+<font size="13">Yeah.</font></font>
+
+234
+00:17:35,040 --> 00:17:38,170
+<font face="Microsoft Yahei" size="26">卡特 你爸是个可靠的警察
+<font size="13">You know, Carter, your dad was a stand up cop.</font></font>
+
+235
+00:17:38,170 --> 00:17:41,710
+<font face="Microsoft Yahei" size="26">我好奇他看到这出闹剧会怎么想
+<font size="13">I wonder what he'd think if he saw this shit show.</font></font>
+
+236
+00:17:43,310 --> 00:17:45,850
+<font face="Microsoft Yahei" size="26">好了 我们得统计所有人
+<font size="13">Okay, we need to make sure everybody's accounted for.</font></font>
+
+237
+00:17:45,850 --> 00:17:47,650
+<font face="Microsoft Yahei" size="26">这里还有谁
+<font size="13">Who else is here?</font></font>
+
+238
+00:17:47,650 --> 00:17:50,180
+<font face="Microsoft Yahei" size="26">鲍威尔医生和金
+<font size="13">Dr. Powell and Kim.</font></font>
+
+239
+00:17:50,180 --> 00:17:52,590
+<font face="Microsoft Yahei" size="26">还有本和玛吉
+<font size="13">Oh, and um, Ben and Maggie.</font></font>
+
+240
+00:17:52,590 --> 00:17:53,890
+<font face="Microsoft Yahei" size="26">她怀孕了
+<font size="13">She's pregnant.</font></font>
+
+241
+00:17:53,890 --> 00:17:55,790
+<font face="Microsoft Yahei" size="26">天呐 真麻烦
+<font size="13">Christ, what a mess.</font></font>
+
+242
+00:17:55,790 --> 00:18:00,590
+<font face="Microsoft Yahei" size="26">嘿 你介意我上报吗
+<font size="13">Hey, uh, do you mind if I call it in?</font></font>
+
+243
+00:18:02,300 --> 00:18:03,900
+<font face="Microsoft Yahei" size="26">不介意
+<font size="13">Alright.</font></font>
+
+244
+00:18:04,730 --> 00:18:06,570
+<font face="Microsoft Yahei" size="26">谢谢
+<font size="13">Thanks.</font></font>
+
+245
+00:18:52,050 --> 00:18:53,150
+<font face="Microsoft Yahei" size="26">里面打不通
+<font size="13">I'm not getting through in here.</font></font>
+
+246
+00:18:53,150 --> 00:18:54,680
+<font face="Microsoft Yahei" size="26">你收到没 米切尔
+<font size="13">Are you copying, Mitchell?</font></font>
+
+247
+00:18:54,680 --> 00:18:55,980
+<font face="Microsoft Yahei" size="26">我去车上试试
+<font size="13">I'm gonna try the car.</font></font>
+
+248
+00:18:57,180 --> 00:18:58,720
+<font face="Microsoft Yahei" size="26">收到
+<font size="13">Copy.</font></font>
+
+249
+00:19:29,150 --> 00:19:31,020
+<font face="Microsoft Yahei" size="26">调度 我是卡特 在马什县
+<font size="13">Dispatch, this is Carter at marsh county.</font></font>
+
+250
+00:19:31,020 --> 00:19:31,950
+<font face="Microsoft Yahei" size="26">收到没
+<font size="13">Do you copy?</font></font>
+
+251
+00:19:39,030 --> 00:19:40,930
+<font face="Microsoft Yahei" size="26">调度 我是卡特 在马什县
+<font size="13">Dispatch, this is Carter at marsh county.</font></font>
+
+252
+00:19:40,930 --> 00:19:43,700
+<font face="Microsoft Yahei" size="26">收到没 我有紧急情况 我需要协助
+<font size="13">Do you copy?I have a code three and I need assist.</font></font>
+
+253
+00:19:52,410 --> 00:19:53,970
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Fuck!</font></font>
+
+254
+00:20:14,030 --> 00:20:15,460
+<font face="Microsoft Yahei" size="26">嗨
+<font size="13">Hi!</font></font>
+
+255
+00:20:25,040 --> 00:20:26,770
+<font face="Microsoft Yahei" size="26">你他妈在干嘛
+<font size="13">What the fuck are you doing?</font></font>
+
+256
+00:20:39,150 --> 00:20:41,050
+<font face="Microsoft Yahei" size="26">见鬼
+<font size="13">Shit, shit!</font></font>
+
+257
+00:21:17,120 --> 00:21:18,090
+<font face="Microsoft Yahei" size="26">救命
+<font size="13">Help me!</font></font>
+
+258
+00:21:18,090 --> 00:21:20,290
+<font face="Microsoft Yahei" size="26">丹尼尔 丹尼尔 丹尼尔
+<font size="13">Daniel, Daniel, Daniel!</font></font>
+
+259
+00:21:31,200 --> 00:21:32,940
+<font face="Microsoft Yahei" size="26">理查德
+<font size="13">Richard!</font></font>
+
+260
+00:21:32,940 --> 00:21:34,810
+<font face="Microsoft Yahei" size="26">他流了很多血
+<font size="13">He's losing a lot of blood.</font></font>
+
+261
+00:21:34,810 --> 00:21:36,210
+<font face="Microsoft Yahei" size="26">按住伤口
+<font size="13">Keep pressure over the wound.</font></font>
+
+262
+00:21:36,210 --> 00:21:37,870
+<font face="Microsoft Yahei" size="26">丹尼尔 没事的 看着我
+<font size="13">Daniel, it's fine. Look at me.</font></font>
+
+263
+00:21:37,870 --> 00:21:41,080
+<font face="Microsoft Yahei" size="26">金 给我拿医药包和8毫克吗啡
+<font size="13">Kim, I need you to bring me a sutra kit and 8mg of morphine.</font></font>
+
+264
+00:21:41,080 --> 00:21:42,250
+<font face="Microsoft Yahei" size="26">睁开眼睛 看着我 听见没
+<font size="13">Keep your eyes on me, you hear me?</font></font>
+
+265
+00:21:42,250 --> 00:21:43,220
+<font face="Microsoft Yahei" size="26">你有没听到我说的
+<font size="13">Did you hear what I said?</font></font>
+
+266
+00:21:43,220 --> 00:21:44,780
+<font face="Microsoft Yahei" size="26">金 你在干嘛
+<font size="13">Kim, what are you doing?</font></font>
+
+267
+00:21:44,790 --> 00:21:46,120
+<font face="Microsoft Yahei" size="26">金 听到我说的没
+<font size="13">Kim, did you hear me?</font></font>
+
+268
+00:21:46,120 --> 00:21:47,990
+<font face="Microsoft Yahei" size="26">天呐 过来
+<font size="13">For fuck's sake, come here.</font></font>
+
+269
+00:21:48,960 --> 00:21:50,160
+<font face="Microsoft Yahei" size="26">你会没事的 丹尼尔 你会没事的
+<font size="13">You'll be alright, Daniel, you'll be alright.</font></font>
+
+270
+00:21:50,160 --> 00:21:52,490
+<font face="Microsoft Yahei" size="26">- 保持呼吸 - 双手放在这里 用力按住
+<font size="13">- Keep breathing. - Put both your hands here. Firm pressure.</font></font>
+
+271
+00:21:52,490 --> 00:21:53,990
+<font face="Microsoft Yahei" size="26">- 好的  - 别收手
+<font size="13">- Okay. - Don't stop.</font></font>
+
+272
+00:21:54,020 --> 00:21:55,730
+<font face="Microsoft Yahei" size="26">让他醒着 看着他
+<font size="13">You keep him awake.Keep your eyes on him.</font></font>
+
+273
+00:21:55,730 --> 00:21:57,330
+<font face="Microsoft Yahei" size="26">- 也让他看着你  - 好样的 丹尼尔
+<font size="13">- Keep his eyes on you. - Good boy, Daniel.</font></font>
+
+274
+00:21:57,330 --> 00:21:59,130
+<font face="Microsoft Yahei" size="26">- 好样的  - 金
+<font size="13">- Good boy. - Kim!</font></font>
+
+275
+00:21:59,130 --> 00:22:00,570
+<font face="Microsoft Yahei" size="26">别让他合眼
+<font size="13">Don't let him close his eyes.</font></font>
+
+276
+00:22:00,570 --> 00:22:04,170
+<font face="Microsoft Yahei" size="26">- 嘿 你得醒着  - 你得醒着 丹尼尔 醒着
+<font size="13">- Hey! Stay awake. - Stay awake, Daniel, stay awake.</font></font>
+
+277
+00:22:04,170 --> 00:22:04,690
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey!</font></font>
+
+278
+00:22:23,590 --> 00:22:25,190
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel.</font></font>
+
+279
+00:22:27,360 --> 00:22:29,030
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel?</font></font>
+
+280
+00:22:31,300 --> 00:22:34,230
+<font face="Microsoft Yahei" size="26">我暂时止住出血了
+<font size="13">I've stopped the bleeding for now.</font></font>
+
+281
+00:22:34,240 --> 00:22:36,040
+<font face="Microsoft Yahei" size="26">谢天谢地
+<font size="13">Oh, thank god.</font></font>
+
+282
+00:22:38,170 --> 00:22:38,940
+<font face="Microsoft Yahei" size="26">我们知道
+<font size="13">We know.</font></font>
+
+283
+00:22:39,520 --> 00:22:40,060
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey.</font></font>
+
+284
+00:22:43,010 --> 00:22:45,850
+<font face="Microsoft Yahei" size="26">好吧 最好别站起来
+<font size="13">Okay, maybe don't try to get up just yet.</font></font>
+
+285
+00:22:47,450 --> 00:22:49,010
+<font face="Microsoft Yahei" size="26">外面出了什么事
+<font size="13">What happened out there?</font></font>
+
+286
+00:22:49,450 --> 00:22:51,280
+<font face="Microsoft Yahei" size="26">让他缓缓
+<font size="13">Just give him a second.</font></font>
+
+287
+00:22:52,350 --> 00:22:55,220
+<font face="Microsoft Yahei" size="26">看来他们包围了这地方
+<font size="13">It looks like they've got the place surrounded.</font></font>
+
+288
+00:22:55,220 --> 00:22:56,620
+<font face="Microsoft Yahei" size="26">他们并不想进来
+<font size="13">They're not trying to get in.</font></font>
+
+289
+00:22:56,620 --> 00:22:57,520
+<font face="Microsoft Yahei" size="26">他们是什么人
+<font size="13">Who are they?</font></font>
+
+290
+00:22:57,530 --> 00:22:58,990
+<font face="Microsoft Yahei" size="26">不知道
+<font size="13">I don't know.</font></font>
+
+291
+00:23:00,260 --> 00:23:02,390
+<font face="Microsoft Yahei" size="26">我打不通电话 你呢
+<font size="13">I wasn't able to get through. You?</font></font>
+
+292
+00:23:02,400 --> 00:23:04,000
+<font face="Microsoft Yahei" size="26">打不通
+<font size="13">No.</font></font>
+
+293
+00:23:04,000 --> 00:23:06,000
+<font face="Microsoft Yahei" size="26">我们该把所有人转移到后面
+<font size="13">We should move everyone back inside.</font></font>
+
+294
+00:23:06,000 --> 00:23:07,050
+<font face="Microsoft Yahei" size="26">谁知道他们想要什么
+<font size="13">Who knows what they want.</font></font>
+
+295
+00:23:07,050 --> 00:23:12,070
+<font face="Microsoft Yahei" size="26">不用 也许我们能给门设障
+<font size="13">No, maybe we can barricade the doors or uh, you know,</font></font>
+
+296
+00:23:12,070 --> 00:23:14,170
+<font face="Microsoft Yahei" size="26">或想其他办法离开
+<font size="13">get out some other way.</font></font>
+
+297
+00:23:16,240 --> 00:23:17,580
+<font face="Microsoft Yahei" size="26">见鬼 我把他忘了
+<font size="13">Shit.I forgot about him.</font></font>
+
+298
+00:23:23,950 --> 00:23:24,920
+<font face="Microsoft Yahei" size="26">做点什么啊
+<font size="13">Do something!</font></font>
+
+299
+00:23:25,890 --> 00:23:27,250
+<font face="Microsoft Yahei" size="26">开枪打它啊
+<font size="13">Fucking shoot it!</font></font>
+
+300
+00:23:28,360 --> 00:23:29,420
+<font face="Microsoft Yahei" size="26">天呐 求你了
+<font size="13">Oh my god, please!</font></font>
+
+301
+00:23:29,420 --> 00:23:30,360
+<font face="Microsoft Yahei" size="26">做点什么啊
+<font size="13">Do something!</font></font>
+
+302
+00:23:33,390 --> 00:23:34,590
+<font face="Microsoft Yahei" size="26">救我
+<font size="13">Help me!</font></font>
+
+303
+00:23:39,900 --> 00:23:41,470
+<font face="Microsoft Yahei" size="26">救我
+<font size="13">Help me!</font></font>
+
+304
+00:23:41,470 --> 00:23:44,240
+<font face="Microsoft Yahei" size="26">天呐 快他妈救我 该死的
+<font size="13">Oh my god, fucking help me, god damnit!</font></font>
+
+305
+00:23:45,340 --> 00:23:48,070
+<font face="Microsoft Yahei" size="26">救我 救我
+<font size="13">Help me, help me!</font></font>
+
+306
+00:24:06,130 --> 00:24:07,150
+<font face="Microsoft Yahei" size="26">那是什么
+<font size="13">What is that?</font></font>
+
+307
+00:24:08,300 --> 00:24:10,400
+<font face="Microsoft Yahei" size="26">我想那是贝弗莉
+<font size="13">I think that was Beverly.</font></font>
+
+308
+00:24:13,300 --> 00:24:16,370
+<font face="Microsoft Yahei" size="26">- 天呐 那是什么情况 - 我们要走了 就现在 快
+<font size="13">- Jesus, what the hell was that? - We're leaving. Now, now, now, now.</font></font>
+
+309
+00:24:18,110 --> 00:24:19,640
+<font face="Microsoft Yahei" size="26">嘿 这不是个好主意 丹尼尔
+<font size="13">Hey, that's not a good idea, Daniel.</font></font>
+
+310
+00:24:19,640 --> 00:24:21,170
+<font face="Microsoft Yahei" size="26">等下
+<font size="13">Wait, wait, wait.</font></font>
+
+311
+00:24:21,180 --> 00:24:23,010
+<font face="Microsoft Yahei" size="26">外面那些该死的疯子怎么办
+<font size="13">What about those fucking lunatics out there?</font></font>
+
+312
+00:24:23,010 --> 00:24:24,480
+<font face="Microsoft Yahei" size="26">相信我 我们还要担心其他东西
+<font size="13">We got other things to worry about, believe me.</font></font>
+
+313
+00:24:24,480 --> 00:24:27,180
+<font face="Microsoft Yahei" size="26">米切尔 米切尔 你和我 去取车 好吗
+<font size="13">Mitchell, Mitchell!You and I, let's go get the cars, okay?</font></font>
+
+314
+00:24:27,180 --> 00:24:28,380
+<font face="Microsoft Yahei" size="26">听明白没
+<font size="13">Are you with me?</font></font>
+
+315
+00:24:30,980 --> 00:24:32,480
+<font face="Microsoft Yahei" size="26">那他妈是什么情况
+<font size="13">What the hell was that?</font></font>
+
+316
+00:24:32,490 --> 00:24:33,490
+<font face="Microsoft Yahei" size="26">注意安全 退后
+<font size="13">Make safe, back up.</font></font>
+
+317
+00:24:33,490 --> 00:24:34,550
+<font face="Microsoft Yahei" size="26">离门远点
+<font size="13">Stay away from the doors!</font></font>
+
+318
+00:24:34,560 --> 00:24:36,190
+<font face="Microsoft Yahei" size="26">- 他有枪  - 退后
+<font size="13">- He's got a gun. - Back, back, back.</font></font>
+
+319
+00:24:36,190 --> 00:24:37,390
+<font face="Microsoft Yahei" size="26">好了 注意安全
+<font size="13">Okay, make safe.</font></font>
+
+320
+00:24:37,390 --> 00:24:37,970
+<font face="Microsoft Yahei" size="26">注意安全
+<font size="13">Make safe.</font></font>
+
+321
+00:24:37,970 --> 00:24:39,590
+<font face="Microsoft Yahei" size="26">好了 放下武器
+<font size="13">Okay, okay, drop it!</font></font>
+
+322
+00:24:43,180 --> 00:24:45,060
+<font face="Microsoft Yahei" size="26">好了 放下武器
+<font size="13">Okay, drop it! Drop it!</font></font>
+
+323
+00:24:45,070 --> 00:24:46,070
+<font face="Microsoft Yahei" size="26">去你妈的
+<font size="13">Fuck you.</font></font>
+
+324
+00:24:46,070 --> 00:24:47,070
+<font face="Microsoft Yahei" size="26">给我退后
+<font size="13">Get the fuck back.</font></font>
+
+325
+00:24:47,070 --> 00:24:47,670
+<font face="Microsoft Yahei" size="26">放下武器
+<font size="13">Okay, put it down.</font></font>
+
+326
+00:24:47,690 --> 00:24:48,610
+<font face="Microsoft Yahei" size="26">保持冷静
+<font size="13">Stay calm, stay calm.</font></font>
+
+327
+00:24:48,610 --> 00:24:51,110
+<font face="Microsoft Yahei" size="26">所有人都保持冷静
+<font size="13">Whoa, everybody, just stay calm!</font></font>
+
+328
+00:24:51,270 --> 00:24:53,240
+<font face="Microsoft Yahei" size="26">离我远点
+<font size="13">Stay the fuck away from me.</font></font>
+
+329
+00:25:00,680 --> 00:25:02,010
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">Calm down!</font></font>
+
+330
+00:25:05,220 --> 00:25:06,720
+<font face="Microsoft Yahei" size="26">好了 放下枪 没事的
+<font size="13">Okay! Put down the gun,it's okay.</font></font>
+
+331
+00:25:06,720 --> 00:25:08,550
+<font face="Microsoft Yahei" size="26">所有人都冷静
+<font size="13">Everybody just calm down.</font></font>
+
+332
+00:25:08,560 --> 00:25:10,060
+<font face="Microsoft Yahei" size="26">- 你说冷静? - 理查德 理查德 理查德
+<font size="13">- Calm down, you said? - Richard, Richard, Richard.</font></font>
+
+333
+00:25:10,060 --> 00:25:11,160
+<font face="Microsoft Yahei" size="26">别
+<font size="13">No, no, no.</font></font>
+
+334
+00:25:11,160 --> 00:25:13,760
+<font face="Microsoft Yahei" size="26">没必要把她牵扯进来
+<font size="13">There's no reason to involve her in this.</font></font>
+
+335
+00:25:13,760 --> 00:25:15,730
+<font face="Microsoft Yahei" size="26">- 理查德 - 这样对你毫无帮助
+<font size="13">- Richard. - It's not gonna help you.</font></font>
+
+336
+00:25:15,730 --> 00:25:18,060
+<font face="Microsoft Yahei" size="26">听着
+<font size="13">Listen.</font></font>
+
+337
+00:25:18,070 --> 00:25:20,500
+<font face="Microsoft Yahei" size="26">把刀给我就没事了
+<font size="13">Just give me the knife and this will all be over.</font></font>
+
+338
+00:25:22,010 --> 00:25:23,100
+<font face="Microsoft Yahei" size="26">这样对你毫无帮助
+<font size="13">It isn't gonna help you.</font></font>
+
+339
+00:25:23,100 --> 00:25:25,670
+<font face="Microsoft Yahei" size="26">理查德 我不知道该他妈怎么办
+<font size="13">Richard, I don't know what to fucking do!</font></font>
+
+340
+00:25:25,670 --> 00:25:27,210
+<font face="Microsoft Yahei" size="26">别担心 玛吉
+<font size="13">Don't worry, Maggie.</font></font>
+
+341
+00:25:27,210 --> 00:25:29,070
+<font face="Microsoft Yahei" size="26">他不会伤害你
+<font size="13">He's not going to hurt you.</font></font>
+
+342
+00:25:29,080 --> 00:25:30,080
+<font face="Microsoft Yahei" size="26">把刀给我吧
+<font size="13">Just let me have it.</font></font>
+
+343
+00:25:32,410 --> 00:25:34,110
+<font face="Microsoft Yahei" size="26">- 不  - 理查德
+<font size="13">- No! - Richard!</font></font>
+
+344
+00:25:34,120 --> 00:25:35,510
+<font face="Microsoft Yahei" size="26">金
+<font size="13">Kim, Kim!</font></font>
+
+345
+00:25:36,350 --> 00:25:37,680
+<font face="Microsoft Yahei" size="26">我扶着他了
+<font size="13">I got him, I got him.</font></font>
+
+346
+00:25:43,360 --> 00:25:44,390
+<font face="Microsoft Yahei" size="26">金
+<font size="13">Kim.</font></font>
+
+347
+00:25:45,730 --> 00:25:47,760
+<font face="Microsoft Yahei" size="26">看着我 看着我
+<font size="13">Look at me, look at me.</font></font>
+
+348
+00:25:47,760 --> 00:25:49,660
+<font face="Microsoft Yahei" size="26">我们不会死在这该死的地方
+<font size="13">We are not gonna die in this fucking place!</font></font>
+
+349
+00:25:49,660 --> 00:25:52,460
+<font face="Microsoft Yahei" size="26">相信我 没人想继续待在这
+<font size="13">Nobody wants to be in here any longer than we have to.Believe me.</font></font>
+
+350
+00:25:52,460 --> 00:25:54,370
+<font face="Microsoft Yahei" size="26">他哪都别想去
+<font size="13">No, he's not going anywhere.</font></font>
+
+351
+00:25:58,430 --> 00:25:59,440
+<font face="Microsoft Yahei" size="26">该死的白痴
+<font size="13">Fucking idiot!</font></font>
+
+352
+00:26:11,550 --> 00:26:12,350
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Alright.</font></font>
+
+353
+00:26:12,350 --> 00:26:13,820
+<font face="Microsoft Yahei" size="26">那他妈是什么
+<font size="13">What the fuck was that?</font></font>
+
+354
+00:26:15,460 --> 00:26:16,560
+<font face="Microsoft Yahei" size="26">亲爱的 你会没事的
+<font size="13">Sweetheart, you're gonna be fine.</font></font>
+
+355
+00:26:16,560 --> 00:26:17,620
+<font face="Microsoft Yahei" size="26">你会没事的
+<font size="13">You're gonna be fine.</font></font>
+
+356
+00:26:18,190 --> 00:26:19,530
+<font face="Microsoft Yahei" size="26">天呐 他好臭
+<font size="13">Fuck's sake, he stinks.</font></font>
+
+357
+00:26:23,800 --> 00:26:25,600
+<font face="Microsoft Yahei" size="26">米切尔
+<font size="13">Mitchell!</font></font>
+
+358
+00:27:03,570 --> 00:27:04,640
+<font face="Microsoft Yahei" size="26">退后
+<font size="13">Stay back!</font></font>
+
+359
+00:28:28,220 --> 00:28:29,590
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Oh, fuck.</font></font>
+
+360
+00:28:40,630 --> 00:28:42,330
+<font face="Microsoft Yahei" size="26">进办公室 快进办公室
+<font size="13">Get in the office. Get in the office now.</font></font>
+
+361
+00:28:42,340 --> 00:28:43,400
+<font face="Microsoft Yahei" size="26">快
+<font size="13">Now, now!</font></font>
+
+362
+00:28:43,400 --> 00:28:44,340
+<font face="Microsoft Yahei" size="26">进办公室
+<font size="13">Get in the office.</font></font>
+
+363
+00:28:44,340 --> 00:28:45,270
+<font face="Microsoft Yahei" size="26">好了 去办公室
+<font size="13">Okay, go to the office!</font></font>
+
+364
+00:28:45,300 --> 00:28:46,300
+<font face="Microsoft Yahei" size="26">那他妈是什么
+<font size="13">What the fuck was that?</font></font>
+
+365
+00:28:46,300 --> 00:28:47,670
+<font face="Microsoft Yahei" size="26">我不想和你争论 快走
+<font size="13">I'm not gonna argue with you. Go, go!</font></font>
+
+366
+00:28:47,680 --> 00:28:49,340
+<font face="Microsoft Yahei" size="26">你得告诉我那里面是什么
+<font size="13">You need to tell me what's in there.</font></font>
+
+367
+00:28:49,340 --> 00:28:50,880
+<font face="Microsoft Yahei" size="26">我不知道那里面是什么
+<font size="13">I don't know what's in there.</font></font>
+
+368
+00:28:50,880 --> 00:28:52,710
+<font face="Microsoft Yahei" size="26">- 求你快走吧  - 把门锁上
+<font size="13">- But please, just go. - Lock the door.</font></font>
+
+369
+00:28:52,710 --> 00:28:53,750
+<font face="Microsoft Yahei" size="26">好吧 等下
+<font size="13">Okay. You hold on.</font></font>
+
+370
+00:28:53,750 --> 00:28:55,550
+<font face="Microsoft Yahei" size="26">- 你们是谁 - 离我他妈的远点
+<font size="13">- Who are you? - Get the fuck away from me.</font></font>
+
+371
+00:28:55,550 --> 00:28:57,280
+<font face="Microsoft Yahei" size="26">别激动
+<font size="13">Whoa, whoa, just slow down.</font></font>
+
+372
+00:28:57,280 --> 00:28:58,220
+<font face="Microsoft Yahei" size="26">你们是谁
+<font size="13">Who are you? Who are you?</font></font>
+
+373
+00:28:58,220 --> 00:29:00,250
+<font face="Microsoft Yahei" size="26">告诉我们这个就好
+<font size="13">Just tell us that.</font></font>
+
+374
+00:29:00,250 --> 00:29:00,860
+<font face="Microsoft Yahei" size="26">我要他
+<font size="13">I want him.</font></font>
+
+375
+00:29:00,860 --> 00:29:01,570
+<font face="Microsoft Yahei" size="26">好吧 听着
+<font size="13">Okay, look.</font></font>
+
+376
+00:29:01,570 --> 00:29:02,610
+<font face="Microsoft Yahei" size="26">- 好吗 - 好的
+<font size="13">- Alright? - Alright.</font></font>
+
+377
+00:29:02,650 --> 00:29:05,200
+<font face="Microsoft Yahei" size="26">我想我们都赞同我们得离开这栋楼 对吗
+<font size="13">I think we all agreed that we need to get the hell out of this building, right?</font></font>
+
+378
+00:29:05,200 --> 00:29:06,830
+<font face="Microsoft Yahei" size="26">这些个人恩怨..
+<font size="13">These personal differences, they're- -</font></font>
+
+379
+00:29:07,530 --> 00:29:08,790
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">oh, Daniel!</font></font>
+
+380
+00:29:09,830 --> 00:29:11,460
+<font face="Microsoft Yahei" size="26">住手
+<font size="13">Stop.</font></font>
+
+381
+00:29:11,730 --> 00:29:14,270
+<font face="Microsoft Yahei" size="26">谁都别想走
+<font size="13">No one is going anywhere.</font></font>
+
+382
+00:29:14,270 --> 00:29:15,730
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Okay, alright.</font></font>
+
+383
+00:29:15,740 --> 00:29:17,270
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Okay.</font></font>
+
+384
+00:29:17,270 --> 00:29:20,010
+<font face="Microsoft Yahei" size="26">我们对这地方一无所知
+<font size="13">We don't know anything about this place.</font></font>
+
+385
+00:29:20,010 --> 00:29:22,870
+<font face="Microsoft Yahei" size="26">你让我们来这 我们就不能相信他们
+<font size="13">If you let us here, we can't trust them.</font></font>
+
+386
+00:29:23,440 --> 00:29:25,010
+<font face="Microsoft Yahei" size="26">你不必这么做
+<font size="13">You don't need to do this.</font></font>
+
+387
+00:29:25,010 --> 00:29:26,580
+<font face="Microsoft Yahei" size="26">住手
+<font size="13">Stop!</font></font>
+
+388
+00:29:26,580 --> 00:29:28,410
+<font face="Microsoft Yahei" size="26">他没法回应你
+<font size="13">He can't answer you.</font></font>
+
+389
+00:29:28,950 --> 00:29:29,760
+<font face="Microsoft Yahei" size="26">肖恩
+<font size="13">Shaun!</font></font>
+
+390
+00:29:32,720 --> 00:29:34,350
+<font face="Microsoft Yahei" size="26">看见没
+<font size="13">See?</font></font>
+
+391
+00:29:34,360 --> 00:29:36,290
+<font face="Microsoft Yahei" size="26">那是他最后信任的一个人干的
+<font size="13">That's what the last people he trusted did.</font></font>
+
+392
+00:29:36,290 --> 00:29:38,390
+<font face="Microsoft Yahei" size="26">你错了 你们能相信我们
+<font size="13">No, you're making a mistake. You can trust us, you can trust us.</font></font>
+
+393
+00:29:38,390 --> 00:29:39,420
+<font face="Microsoft Yahei" size="26">我可不这么认为
+<font size="13">I don't think so.</font></font>
+
+394
+00:29:42,360 --> 00:29:43,860
+<font face="Microsoft Yahei" size="26">等下 别这样
+<font size="13">Wait, wait!Please, please!</font></font>
+
+395
+00:29:44,570 --> 00:29:45,960
+<font face="Microsoft Yahei" size="26">把你的手拿开
+<font size="13">Get your hands off me.</font></font>
+
+396
+00:29:46,830 --> 00:29:47,900
+<font face="Microsoft Yahei" size="26">你没事吧
+<font size="13">Are you okay?</font></font>
+
+397
+00:29:49,270 --> 00:29:50,700
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">You calm down.</font></font>
+
+398
+00:29:50,700 --> 00:29:51,940
+<font face="Microsoft Yahei" size="26">好了 和谐
+<font size="13">Okay, we're good.</font></font>
+
+399
+00:29:55,480 --> 00:29:57,040
+<font face="Microsoft Yahei" size="26">你想再次经历这一切?
+<font size="13">You wanna go through all this again?</font></font>
+
+400
+00:29:57,040 --> 00:29:59,380
+<font face="Microsoft Yahei" size="26">我知道你相信我跟你说我们不知道
+<font size="13">I know you believe me when i tell you we don't know</font></font>
+
+401
+00:29:59,380 --> 00:30:00,710
+<font face="Microsoft Yahei" size="26">这他妈是什么情况
+<font size="13">what the fuck is going on, okay?</font></font>
+
+402
+00:30:00,710 --> 00:30:01,980
+<font face="Microsoft Yahei" size="26">我...
+<font size="13">I...</font></font>
+
+403
+00:30:01,980 --> 00:30:03,450
+<font face="Microsoft Yahei" size="26">她体内有东西长出来
+<font size="13">There were things growing out of her.</font></font>
+
+404
+00:30:03,450 --> 00:30:05,420
+<font face="Microsoft Yahei" size="26">你看见了 你也是
+<font size="13">You saw it, you saw it.</font></font>
+
+405
+00:30:05,420 --> 00:30:06,720
+<font face="Microsoft Yahei" size="26">那是什么
+<font size="13">What was that?</font></font>
+
+406
+00:30:08,290 --> 00:30:11,690
+<font face="Microsoft Yahei" size="26">我们能把这地方剩下的烧了
+<font size="13">We could uh, burn what's left of the place.</font></font>
+
+407
+00:30:11,690 --> 00:30:13,060
+<font face="Microsoft Yahei" size="26">这样干光他们
+<font size="13">Take them all with it.</font></font>
+
+408
+00:30:13,060 --> 00:30:14,060
+<font face="Microsoft Yahei" size="26">好了 听我说
+<font size="13">Okay, listen to me.</font></font>
+
+409
+00:30:14,060 --> 00:30:16,300
+<font face="Microsoft Yahei" size="26">我们对你没做过任何事
+<font size="13">We didn't do anything to you.</font></font>
+
+410
+00:30:16,300 --> 00:30:18,700
+<font face="Microsoft Yahei" size="26">里面有个临产的姑娘
+<font size="13">I have a girl back there who's about to give birth</font></font>
+
+411
+00:30:18,700 --> 00:30:20,600
+<font face="Microsoft Yahei" size="26">我得带她去安全处
+<font size="13">and I need to get her some place safe.</font></font>
+
+412
+00:30:20,600 --> 00:30:21,870
+<font face="Microsoft Yahei" size="26">你他妈在逗我吗
+<font size="13">Are you fucking kidding?</font></font>
+
+413
+00:30:21,870 --> 00:30:23,600
+<font face="Microsoft Yahei" size="26">你看过外面吗 女士
+<font size="13">Have you had a look outside lady?</font></font>
+
+414
+00:30:23,600 --> 00:30:25,500
+<font face="Microsoft Yahei" size="26">无处可走
+<font size="13">There's nowhere to go.</font></font>
+
+415
+00:30:25,510 --> 00:30:27,070
+<font face="Microsoft Yahei" size="26">你能在数英里外听到那些号角声
+<font size="13">You can hear those horns for miles.</font></font>
+
+416
+00:30:27,070 --> 00:30:29,710
+<font face="Microsoft Yahei" size="26">有东西在把他们召唤过来
+<font size="13">There is something calling them all here.</font></font>
+
+417
+00:30:29,710 --> 00:30:31,480
+<font face="Microsoft Yahei" size="26">好吧 那是什么 他们是谁...
+<font size="13">Okay, what is that? Who are they? What just- -</font></font>
+
+418
+00:30:31,480 --> 00:30:33,310
+<font face="Microsoft Yahei" size="26">我他妈怎么知道
+<font size="13">how the fuck should I know?</font></font>
+
+419
+00:30:33,310 --> 00:30:35,950
+<font face="Microsoft Yahei" size="26">- 去问他们  - 好吧 好吧
+<font size="13">- Go ask them! - It's okay, it's okay.</font></font>
+
+420
+00:30:36,720 --> 00:30:39,480
+<font face="Microsoft Yahei" size="26">我只知道那东西已经醒过一次了
+<font size="13">All I know is that that thing woke up once already</font></font>
+
+421
+00:30:39,490 --> 00:30:42,090
+<font face="Microsoft Yahei" size="26">我不希望再有这种事发生
+<font size="13">and I don't wanna be around when it happens again.</font></font>
+
+422
+00:31:01,440 --> 00:31:03,010
+<font face="Microsoft Yahei" size="26">有个问题
+<font size="13">Oh, there's a problem.</font></font>
+
+423
+00:31:03,010 --> 00:31:04,340
+<font face="Microsoft Yahei" size="26">玛吉
+<font size="13">Maggie.</font></font>
+
+424
+00:31:05,680 --> 00:31:07,380
+<font face="Microsoft Yahei" size="26">我不知道该做什么
+<font size="13">I didn't know what to do.</font></font>
+
+425
+00:31:07,850 --> 00:31:08,880
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Okay.</font></font>
+
+426
+00:31:08,880 --> 00:31:10,380
+<font face="Microsoft Yahei" size="26">嘿 亲爱的
+<font size="13">Hey, sweetie.</font></font>
+
+427
+00:31:12,350 --> 00:31:15,550
+<font face="Microsoft Yahei" size="26">我们要走了吗
+<font size="13">Are we leaving?</font></font>
+
+428
+00:31:15,560 --> 00:31:17,890
+<font face="Microsoft Yahei" size="26">还不是现在
+<font size="13">No, not just yet.</font></font>
+
+429
+00:31:27,500 --> 00:31:28,710
+<font face="Microsoft Yahei" size="26">你能把那东西灭掉吗
+<font size="13">Would you put that out?</font></font>
+
+430
+00:31:29,900 --> 00:31:31,400
+<font face="Microsoft Yahei" size="26">艾莉
+<font size="13">Al.</font></font>
+
+431
+00:31:31,410 --> 00:31:33,810
+<font face="Microsoft Yahei" size="26">- 什么 这个? - 是啊
+<font size="13">- What, this? - Yeah.</font></font>
+
+432
+00:31:33,810 --> 00:31:35,470
+<font face="Microsoft Yahei" size="26">把它灭了
+<font size="13">Put it out.</font></font>
+
+433
+00:31:35,480 --> 00:31:39,480
+<font face="Microsoft Yahei" size="26">好了 我想大家都该保持冷静
+<font size="13">Okay.I think we all should just remain calm.</font></font>
+
+434
+00:31:39,480 --> 00:31:40,780
+<font face="Microsoft Yahei" size="26">放屁
+<font size="13">Bullshit.</font></font>
+
+435
+00:31:40,780 --> 00:31:42,910
+<font face="Microsoft Yahei" size="26">我们本该离开这里
+<font size="13">We should've been out of here already.</font></font>
+
+436
+00:31:42,920 --> 00:31:44,580
+<font face="Microsoft Yahei" size="26">你们这些人得醒醒了
+<font size="13">You people need to wake up.</font></font>
+
+437
+00:31:44,590 --> 00:31:46,850
+<font face="Microsoft Yahei" size="26">不然呢
+<font size="13">Or what?</font></font>
+
+438
+00:31:46,850 --> 00:31:50,060
+<font face="Microsoft Yahei" size="26">外面要是有另一个那样的东西
+<font size="13">You think you'll stand a chance if there's another</font></font>
+
+439
+00:31:50,060 --> 00:31:51,790
+<font face="Microsoft Yahei" size="26">你们觉得你们跑得掉?
+<font size="13">one of those things out there?</font></font>
+
+440
+00:31:51,820 --> 00:31:52,530
+<font face="Microsoft Yahei" size="26">- 好吧 - 跑得掉吗
+<font size="13">- Okay. - Will you, huh?</font></font>
+
+441
+00:31:52,530 --> 00:31:55,590
+<font face="Microsoft Yahei" size="26">- 好吧  - 谁能阻止它 爷爷?
+<font size="13">- Okay, okay. - Who's gonna stop it? Grandpa?</font></font>
+
+442
+00:31:55,600 --> 00:31:57,530
+<font face="Microsoft Yahei" size="26">十几岁的浪货?
+<font size="13">The teenage fucking slut?</font></font>
+
+443
+00:31:57,530 --> 00:31:58,930
+<font face="Microsoft Yahei" size="26">来啊
+<font size="13">Oh! Come on now!</font></font>
+
+444
+00:31:59,630 --> 00:32:00,830
+<font face="Microsoft Yahei" size="26">别这样
+<font size="13">Come on.</font></font>
+
+445
+00:32:00,830 --> 00:32:02,000
+<font face="Microsoft Yahei" size="26">我们会死的
+<font size="13">We're gonna die.</font></font>
+
+446
+00:32:02,000 --> 00:32:04,470
+<font face="Microsoft Yahei" size="26">不会 我们不会死
+<font size="13">No, we're not gonna die.</font></font>
+
+447
+00:32:04,500 --> 00:32:05,380
+<font face="Microsoft Yahei" size="26">你们会死
+<font size="13">You're gonna die.</font></font>
+
+448
+00:32:05,380 --> 00:32:06,670
+<font face="Microsoft Yahei" size="26">我不会让这种事发生
+<font size="13">I'm not gonna let that happen.</font></font>
+
+449
+00:32:11,740 --> 00:32:13,450
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Okay.</font></font>
+
+450
+00:32:16,150 --> 00:32:18,120
+<font face="Microsoft Yahei" size="26">我不知道你他妈想干嘛
+<font size="13">I don't know what the fuck you think you're trying to do.</font></font>
+
+451
+00:32:18,120 --> 00:32:20,720
+<font face="Microsoft Yahei" size="26">- 冷静 好吗 - 他在扰乱她 这可不好
+<font size="13">- Okay? Just calm down. - He's upsetting her and that is not good.</font></font>
+
+452
+00:32:20,720 --> 00:32:22,190
+<font face="Microsoft Yahei" size="26">- 我要你保持冷静  - 好的
+<font size="13">- I need you to stay calm. - Okay.</font></font>
+
+453
+00:32:22,190 --> 00:32:24,660
+<font face="Microsoft Yahei" size="26">能告诉我那边什么情况吗
+<font size="13">Can you please tell me what is going on over there?</font></font>
+
+454
+00:32:24,660 --> 00:32:26,830
+<font face="Microsoft Yahei" size="26">她还在宫缩
+<font size="13">Her contractions are still spread out, but she's</font></font>
+
+455
+00:32:26,830 --> 00:32:29,060
+<font face="Microsoft Yahei" size="26">但她腹痛 这不是好征兆
+<font size="13">having abdominal pain which is a bad sign.</font></font>
+
+456
+00:32:29,060 --> 00:32:30,900
+<font face="Microsoft Yahei" size="26">好吧 我不懂这是什么意思
+<font size="13">Okay, I don't know what that means.</font></font>
+
+457
+00:32:30,900 --> 00:32:34,030
+<font face="Microsoft Yahei" size="26">- 这是什么意思 - 意思是我们不能转移她
+<font size="13">- What does that mean? - That means that we can't move her.</font></font>
+
+458
+00:32:34,030 --> 00:32:37,000
+<font face="Microsoft Yahei" size="26">那会让情况恶化
+<font size="13">It can make things much worse.</font></font>
+
+459
+00:32:37,000 --> 00:32:39,100
+<font face="Microsoft Yahei" size="26">此外 在这过程中
+<font size="13">Also the last thing I need is to be performing a</font></font>
+
+460
+00:32:39,110 --> 00:32:41,770
+<font face="Microsoft Yahei" size="26">我要施行剖腹产 但这里没我
+<font size="13">cesarean in the middle of this, but I have nothing</font></font>
+
+461
+00:32:41,780 --> 00:32:44,780
+<font face="Microsoft Yahei" size="26">能用来帮她的 我什么都不做 孩子就会死
+<font size="13">here to help her and if I don't do anything the baby could die.</font></font>
+
+462
+00:32:44,780 --> 00:32:46,880
+<font face="Microsoft Yahei" size="26">我得去药房
+<font size="13">I need to go to the med supply room.</font></font>
+
+463
+00:32:46,880 --> 00:32:48,710
+<font face="Microsoft Yahei" size="26">我要去
+<font size="13">So I'll go.</font></font>
+
+464
+00:32:48,720 --> 00:32:52,180
+<font face="Microsoft Yahei" size="26">一个人? 不行 不可能
+<font size="13">Alone? No, no, no, that's out of the question.</font></font>
+
+465
+00:32:52,190 --> 00:32:53,950
+<font face="Microsoft Yahei" size="26">我可不是在请求
+<font size="13">I'm not asking.</font></font>
+
+466
+00:32:53,950 --> 00:32:56,050
+<font face="Microsoft Yahei" size="26">我们现在得处理这事
+<font size="13">We need to handle this now.</font></font>
+
+467
+00:32:56,060 --> 00:32:56,920
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Alright.</font></font>
+
+468
+00:32:56,920 --> 00:33:00,030
+<font face="Microsoft Yahei" size="26">好了 听着 我们不知道外面有什么
+<font size="13">Okay, look.We have no idea what is out there.</font></font>
+
+469
+00:33:00,030 --> 00:33:01,960
+<font face="Microsoft Yahei" size="26">我们没法保护自己
+<font size="13">We have no way of defending ourselves.</font></font>
+
+470
+00:33:01,960 --> 00:33:04,130
+<font face="Microsoft Yahei" size="26">另外  现在有两个疯子
+<font size="13">Plus these two fucking psychos now think that</font></font>
+
+471
+00:33:04,130 --> 00:33:05,230
+<font face="Microsoft Yahei" size="26">把我们当人质
+<font size="13">we're hostage.</font></font>
+
+472
+00:33:05,230 --> 00:33:07,870
+<font face="Microsoft Yahei" size="26">我要去
+<font size="13">I'm doing this.</font></font>
+
+473
+00:33:07,870 --> 00:33:10,540
+<font face="Microsoft Yahei" size="26">不行...
+<font size="13">You're not. You're not. You're not even...</font></font>
+
+474
+00:33:10,540 --> 00:33:12,940
+<font face="Microsoft Yahei" size="26">如果这是因为我们的孩子 那你得做个
+<font size="13">If this is because of the baby then you need to get</font></font>
+
+475
+00:33:12,940 --> 00:33:14,170
+<font face="Microsoft Yahei" size="26">该死的心理检查
+<font size="13">a fucking mental check.</font></font>
+
+476
+00:33:14,170 --> 00:33:17,810
+<font face="Microsoft Yahei" size="26">天呐 这和我们的事无关
+<font size="13">Jesus Christ, this is not about us.</font></font>
+
+477
+00:33:17,810 --> 00:33:21,180
+<font face="Microsoft Yahei" size="26">那姑娘 她要是遭受胎盘早剥
+<font size="13">That girl, if she suffers an abruption</font></font>
+
+478
+00:33:21,180 --> 00:33:22,850
+<font face="Microsoft Yahei" size="26">她的孩子就会死
+<font size="13">then her baby will die.</font></font>
+
+479
+00:33:22,850 --> 00:33:25,720
+<font face="Microsoft Yahei" size="26">把孩子弄出来 我不用
+<font size="13">If I try to take it out of her, and I don't use</font></font>
+
+480
+00:33:25,720 --> 00:33:28,590
+<font face="Microsoft Yahei" size="26">麻醉剂 她就会休克而死
+<font size="13">anesthetic then she could die of shock.</font></font>
+
+481
+00:33:29,690 --> 00:33:31,560
+<font face="Microsoft Yahei" size="26">丹尼尔 看着我
+<font size="13">Daniel, look at me.</font></font>
+
+482
+00:33:34,890 --> 00:33:37,030
+<font face="Microsoft Yahei" size="26">好吧 该死的
+<font size="13">Okay, fine. Fuck it, fuck it.</font></font>
+
+483
+00:33:39,600 --> 00:33:41,000
+<font face="Microsoft Yahei" size="26">好吧 但你不能一个人去
+<font size="13">Okay, but you're not going alone.</font></font>
+
+484
+00:33:41,000 --> 00:33:43,640
+<font face="Microsoft Yahei" size="26">你得保证 然后等我 好吗 你保证?
+<font size="13">You have to promise and wait for me, okay? You promise?</font></font>
+
+485
+00:33:43,640 --> 00:33:45,940
+<font face="Microsoft Yahei" size="26">- 保证 - 好的
+<font size="13">- Okay. - Alright.</font></font>
+
+486
+00:33:52,510 --> 00:33:54,780
+<font face="Microsoft Yahei" size="26">我能提议吗
+<font size="13">May I approach?</font></font>
+
+487
+00:33:58,020 --> 00:34:01,050
+<font face="Microsoft Yahei" size="26">那姑娘的情况不乐观 孩子也是 
+<font size="13">The girl's not doing well and neither is the baby so</font></font>
+
+488
+00:34:01,050 --> 00:34:05,620
+<font face="Microsoft Yahei" size="26">我们得去弄些东西来帮她
+<font size="13">we need to go and get some things to help her.</font></font>
+
+489
+00:34:06,080 --> 00:34:08,160
+<font face="Microsoft Yahei" size="26">你想要我们干嘛
+<font size="13">What do you want from us?</font></font>
+
+490
+00:34:08,460 --> 00:34:11,330
+<font face="Microsoft Yahei" size="26">我的巡逻车里有霰弹枪
+<font size="13">Well I have a shotgun in my cruiser.</font></font>
+
+491
+00:34:11,530 --> 00:34:12,590
+<font face="Microsoft Yahei" size="26">还有弹药
+<font size="13">I have ammunition.</font></font>
+
+492
+00:34:14,370 --> 00:34:16,440
+<font face="Microsoft Yahei" size="26">我们刚一路血战进来
+<font size="13">We just fought our way in here.</font></font>
+
+493
+00:34:16,640 --> 00:34:19,170
+<font face="Microsoft Yahei" size="26">我不会再出去
+<font size="13">I'm not gonna just stroll back out again.</font></font>
+
+494
+00:34:19,370 --> 00:34:24,080
+<font face="Microsoft Yahei" size="26">好吧 在我看来 我们的处境都一样
+<font size="13">Okay, but as far as I can tell we're all the same boat.</font></font>
+
+495
+00:34:24,280 --> 00:34:26,810
+<font face="Microsoft Yahei" size="26">你的步枪没子弹了
+<font size="13">You've got a rifle without any bullets and a couple</font></font>
+
+496
+00:34:27,010 --> 00:34:29,380
+<font face="Microsoft Yahei" size="26">还两把该死的消防斧
+<font size="13">of fucking fire axes.</font></font>
+
+497
+00:34:29,580 --> 00:34:33,490
+<font face="Microsoft Yahei" size="26">车很近 我们的动作能迅速点
+<font size="13">I just...It's close and we can do it fast.</font></font>
+
+498
+00:34:37,520 --> 00:34:41,590
+<font face="Microsoft Yahei" size="26">好吧 但我们不是为你们冒生命危险
+<font size="13">Alright, but we're not risking our lives for you.</font></font>
+
+499
+00:34:41,800 --> 00:34:45,260
+<font face="Microsoft Yahei" size="26">我们拿到枪 枪就是我们的
+<font size="13">We get that gun, it's ours.</font></font>
+
+500
+00:34:45,470 --> 00:34:47,170
+<font face="Microsoft Yahei" size="26">绝对是
+<font size="13">Oh, absolutley.</font></font>
+
+501
+00:34:47,370 --> 00:34:49,290
+<font face="Microsoft Yahei" size="26">绝对他妈是
+<font size="13">Abso-fucking-lutley.</font></font>
+
+502
+00:34:50,300 --> 00:34:52,170
+<font face="Microsoft Yahei" size="26">好
+<font size="13">Okay.</font></font>
+
+503
+00:35:05,520 --> 00:35:07,820
+<font face="Microsoft Yahei" size="26">你说很近的
+<font size="13">I thought you said it was close.</font></font>
+
+504
+00:35:08,020 --> 00:35:09,690
+<font face="Microsoft Yahei" size="26">什么情况
+<font size="13">What the hell?</font></font>
+
+505
+00:35:10,660 --> 00:35:12,690
+<font face="Microsoft Yahei" size="26">还在外面
+<font size="13">It's still out there.</font></font>
+
+506
+00:35:12,890 --> 00:35:16,430
+<font face="Microsoft Yahei" size="26">是的 但他们在等什么
+<font size="13">Yeah, but what are they waiting for?</font></font>
+
+507
+00:35:16,630 --> 00:35:18,430
+<font face="Microsoft Yahei" size="26">我们速去速回
+<font size="13">Let's just make this quick.</font></font>
+
+508
+00:35:20,030 --> 00:35:22,500
+<font face="Microsoft Yahei" size="26">霰弹枪被锁在前座
+<font size="13">Shotgun's locked on the front seat.</font></font>
+
+509
+00:35:22,700 --> 00:35:24,660
+<font face="Microsoft Yahei" size="26">我得开锁 不过...
+<font size="13">I gotta release it, but...</font></font>
+
+510
+00:35:26,470 --> 00:35:28,710
+<font face="Microsoft Yahei" size="26">弹药在后备箱
+<font size="13">You get all the ammo out of the trunk.</font></font>
+
+511
+00:35:33,310 --> 00:35:35,680
+<font face="Microsoft Yahei" size="26">别耍小聪明
+<font size="13">Don't get any bright ideas.</font></font>
+
+512
+00:35:37,380 --> 00:35:39,450
+<font face="Microsoft Yahei" size="26">嘿 等下
+<font size="13">Hey, hold up.</font></font>
+
+513
+00:35:39,650 --> 00:35:41,320
+<font face="Microsoft Yahei" size="26">该死的
+<font size="13">God damnit.</font></font>
+
+514
+00:35:43,620 --> 00:35:45,420
+<font face="Microsoft Yahei" size="26">他们回不来怎么办
+<font size="13">What if they don't come back?</font></font>
+
+515
+00:35:45,630 --> 00:35:48,190
+<font face="Microsoft Yahei" size="26">丹尼尔有数的
+<font size="13">Daniel knows what he's doing.</font></font>
+
+516
+00:35:49,430 --> 00:35:51,560
+<font face="Microsoft Yahei" size="26">没事的
+<font size="13">It's alright.</font></font>
+
+517
+00:35:51,770 --> 00:35:53,900
+<font face="Microsoft Yahei" size="26">我现在根本不该在这里
+<font size="13">I shouldn't even be here right now.</font></font>
+
+518
+00:35:54,100 --> 00:35:57,170
+<font face="Microsoft Yahei" size="26">我应该在莱克兰给病人翻身
+<font size="13">I should be at lakeland turning over patients.</font></font>
+
+519
+00:35:57,370 --> 00:35:58,800
+<font face="Microsoft Yahei" size="26">这地方真该死
+<font size="13">Fuck this place.</font></font>
+
+520
+00:35:59,010 --> 00:36:01,470
+<font face="Microsoft Yahei" size="26">金 你现在和我们困在一起 所以面对现实吧
+<font size="13">Well, you're stuck with us now, Kim, so deal with it.</font></font>
+
+521
+00:36:04,010 --> 00:36:05,880
+<font face="Microsoft Yahei" size="26">你怎么样了 亲爱的
+<font size="13">How you doing, honey?</font></font>
+
+522
+00:36:06,080 --> 00:36:07,710
+<font face="Microsoft Yahei" size="26">很疼
+<font size="13">It hurts.</font></font>
+
+523
+00:36:09,550 --> 00:36:12,420
+<font face="Microsoft Yahei" size="26">我的孩子会怎么样
+<font size="13">What's gonna happen to my baby?</font></font>
+
+524
+00:36:16,960 --> 00:36:18,620
+<font face="Microsoft Yahei" size="26">听我说
+<font size="13">Listen to me.</font></font>
+
+525
+00:36:18,830 --> 00:36:21,830
+<font face="Microsoft Yahei" size="26">你和你的孩子不会有事
+<font size="13">You and your baby are going to be fine.</font></font>
+
+526
+00:36:22,030 --> 00:36:23,800
+<font face="Microsoft Yahei" size="26">我向你保证
+<font size="13">You have my word.</font></font>
+
+527
+00:37:00,770 --> 00:37:01,770
+<font face="Microsoft Yahei" size="26">见鬼
+<font size="13">Shit.</font></font>
+
+528
+00:37:08,140 --> 00:37:09,370
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Fuck.</font></font>
+
+529
+00:37:09,580 --> 00:37:11,810
+<font face="Microsoft Yahei" size="26">你他妈搞什么呢
+<font size="13">What the fuck are you doing in there?</font></font>
+
+530
+00:37:55,890 --> 00:37:58,020
+<font face="Microsoft Yahei" size="26">你他妈怎么回事
+<font size="13">What the fuck's going on in there?</font></font>
+
+531
+00:37:58,230 --> 00:37:59,660
+<font face="Microsoft Yahei" size="26">见鬼
+<font size="13">Ah, shit.</font></font>
+
+532
+00:37:59,860 --> 00:38:00,860
+<font face="Microsoft Yahei" size="26">好了 时间到了
+<font size="13">K, time's up.</font></font>
+
+533
+00:38:01,060 --> 00:38:02,760
+<font face="Microsoft Yahei" size="26">我们该走了
+<font size="13">That's our cue to leave.</font></font>
+
+534
+00:38:11,170 --> 00:38:12,740
+<font face="Microsoft Yahei" size="26">快点 该死的
+<font size="13">Come on, god damnit!</font></font>
+
+535
+00:38:13,770 --> 00:38:14,910
+<font face="Microsoft Yahei" size="26">天呐
+<font size="13">Fuck's sake!</font></font>
+
+536
+00:38:18,510 --> 00:38:20,050
+<font face="Microsoft Yahei" size="26">快点
+<font size="13">Fucking hurry up!</font></font>
+
+537
+00:38:21,480 --> 00:38:22,480
+<font face="Microsoft Yahei" size="26">小心
+<font size="13">Look out!</font></font>
+
+538
+00:38:27,250 --> 00:38:29,390
+<font face="Microsoft Yahei" size="26">枪我拿
+<font size="13">I'm keeping the fucking gun.</font></font>
+
+539
+00:38:39,870 --> 00:38:41,870
+<font face="Microsoft Yahei" size="26">这地方挡不住任何进犯
+<font size="13">This place isn't gonna keep anything out.</font></font>
+
+540
+00:38:48,070 --> 00:38:48,950
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Oh my god.</font></font>
+
+541
+00:38:48,950 --> 00:38:49,740
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey.</font></font>
+
+542
+00:38:51,840 --> 00:38:52,780
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Fuck.</font></font>
+
+543
+00:38:53,250 --> 00:38:54,370
+<font face="Microsoft Yahei" size="26">出什么事了
+<font size="13">What happened?</font></font>
+
+544
+00:38:54,370 --> 00:38:55,850
+<font face="Microsoft Yahei" size="26">给
+<font size="13">Here, here.</font></font>
+
+545
+00:38:56,050 --> 00:38:59,920
+<font face="Microsoft Yahei" size="26">- 艾莉呢 - 她去给玛吉拿药了
+<font size="13">- Where's Allie? - Well she went to get some medicine for Maggie.</font></font>
+
+546
+00:39:00,120 --> 00:39:01,420
+<font face="Microsoft Yahei" size="26">哪
+<font size="13">Where?</font></font>
+
+547
+00:39:01,620 --> 00:39:02,350
+<font face="Microsoft Yahei" size="26">药房
+<font size="13">The med room.</font></font>
+
+548
+00:39:02,560 --> 00:39:04,460
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Jesus Christ.</font></font>
+
+549
+00:39:04,660 --> 00:39:06,660
+<font face="Microsoft Yahei" size="26">她说这里面没什么好担心的
+<font size="13">She said there wasn't anything to worry about inside.</font></font>
+
+550
+00:39:06,860 --> 00:39:09,030
+<font face="Microsoft Yahei" size="26">你们在不在同一栋楼里啊
+<font size="13">Are you guys in the same fucking building?</font></font>
+
+551
+00:39:10,300 --> 00:39:12,760
+<font face="Microsoft Yahei" size="26">你能在这里看好他们吗
+<font size="13">Would you please wait here, look after them?</font></font>
+
+552
+00:39:12,970 --> 00:39:14,600
+<font face="Microsoft Yahei" size="26">先生 不好意思 你能跟我走吗
+<font size="13">Excuse me, sir, would you mind following me?</font></font>
+
+553
+00:39:14,800 --> 00:39:15,900
+<font face="Microsoft Yahei" size="26">谢谢了
+<font size="13">Thank you.</font></font>
+
+554
+00:39:18,740 --> 00:39:20,370
+<font face="Microsoft Yahei" size="26">那孩子不会有事
+<font size="13">That kid will be fine.</font></font>
+
+555
+00:39:20,570 --> 00:39:22,340
+<font face="Microsoft Yahei" size="26">他经历过更糟的事
+<font size="13">He's been through a lot worse.</font></font>
+
+556
+00:39:22,540 --> 00:39:23,810
+<font face="Microsoft Yahei" size="26">那些人杀了他的家人
+<font size="13">Those people killed his family.</font></font>
+
+557
+00:39:24,010 --> 00:39:26,010
+<font face="Microsoft Yahei" size="26">我勉强才把他救了出来
+<font size="13">I barely got him out of there alive.</font></font>
+
+558
+00:39:26,210 --> 00:39:28,680
+<font face="Microsoft Yahei" size="26">你是什么来头 神秘男子
+<font size="13">Yeah, what about you, man of mystery?</font></font>
+
+559
+00:39:28,880 --> 00:39:30,550
+<font face="Microsoft Yahei" size="26">管好你自己的事
+<font size="13">Mind your own business.</font></font>
+
+560
+00:39:30,750 --> 00:39:34,450
+<font face="Microsoft Yahei" size="26">对了 她一个人走开太傻了
+<font size="13">And by the way, pretty stupid to go running off by herself.</font></font>
+
+561
+00:39:34,450 --> 00:39:36,790
+<font face="Microsoft Yahei" size="26">好吧 我非常肯定你能揍扁我
+<font size="13">Okay, I'm pretty certain you can beat the shit out</font></font>
+
+562
+00:39:36,990 --> 00:39:38,720
+<font face="Microsoft Yahei" size="26">但我认为我才是有权
+<font size="13">of me, but I consider it my special privilege to</font></font>
+
+563
+00:39:38,930 --> 00:39:41,870
+<font face="Microsoft Yahei" size="26">责备我妻子的人 所以请你给我闭嘴
+<font size="13">hate my wife right now so if you could kindly shut the fuck up.</font></font>
+
+564
+00:40:04,220 --> 00:40:05,720
+<font face="Microsoft Yahei" size="26">这是米切尔的枪
+<font size="13">This is Mitchell's gun.</font></font>
+
+565
+00:40:20,330 --> 00:40:21,700
+<font face="Microsoft Yahei" size="26">看
+<font size="13">Look.</font></font>
+
+566
+00:40:47,890 --> 00:40:49,760
+<font face="Microsoft Yahei" size="26">怎么了
+<font size="13">What?</font></font>
+
+567
+00:41:37,880 --> 00:41:39,540
+<font face="Microsoft Yahei" size="26">你好 丹尼尔
+<font size="13">Hello, Daniel.</font></font>
+
+568
+00:41:42,820 --> 00:41:44,680
+<font face="Microsoft Yahei" size="26">这是谁
+<font size="13">Who is this?</font></font>
+
+569
+00:41:44,890 --> 00:41:47,050
+<font face="Microsoft Yahei" size="26">你看到了...
+<font size="13">You saw...</font></font>
+
+570
+00:41:47,250 --> 00:41:48,650
+<font face="Microsoft Yahei" size="26">一些东西
+<font size="13">Something.</font></font>
+
+571
+00:41:48,860 --> 00:41:50,560
+<font face="Microsoft Yahei" size="26">你醒来时 我就感觉到了
+<font size="13">I felt it when you woke up.</font></font>
+
+572
+00:41:52,430 --> 00:41:54,590
+<font face="Microsoft Yahei" size="26">但那是什么呢
+<font size="13">But what was it?</font></font>
+
+573
+00:41:58,200 --> 00:42:00,600
+<font face="Microsoft Yahei" size="26">你愿意的话 我能向你展现更多
+<font size="13">I can show you more if you'd like.</font></font>
+
+574
+00:42:04,740 --> 00:42:06,170
+<font face="Microsoft Yahei" size="26">嗨 理查德
+<font size="13">Hi, Richard.</font></font>
+
+575
+00:42:06,370 --> 00:42:09,810
+<font face="Microsoft Yahei" size="26">我肯定这对你来说很难理解
+<font size="13">I'm sure it's hard for you to understand.</font></font>
+
+576
+00:42:10,010 --> 00:42:17,020
+<font face="Microsoft Yahei" size="26">贝弗莉也是 但我向你保证
+<font size="13">Beverly found it difficult as well, but I assure you</font></font>
+
+577
+00:42:17,220 --> 00:42:19,820
+<font face="Microsoft Yahei" size="26">我的目的有利于他人
+<font size="13">my intentions are altruistic.</font></font>
+
+578
+00:42:26,030 --> 00:42:30,560
+<font face="Microsoft Yahei" size="26">请告诉我你做了什么
+<font size="13">Please tell me what you've done.</font></font>
+
+579
+00:42:33,770 --> 00:42:34,970
+<font face="Microsoft Yahei" size="26">理查德
+<font size="13">Richard.</font></font>
+
+580
+00:42:36,070 --> 00:42:37,900
+<font face="Microsoft Yahei" size="26">理查德 告诉我
+<font size="13">Richard, tell me.</font></font>
+
+581
+00:42:39,940 --> 00:42:41,210
+<font face="Microsoft Yahei" size="26">告诉我
+<font size="13">Tell me!</font></font>
+
+582
+00:42:42,440 --> 00:42:43,980
+<font face="Microsoft Yahei" size="26">你如此努力地追随你父亲的
+<font size="13">You're trying so hard to follow in your father's</font></font>
+
+583
+00:42:44,180 --> 00:42:45,940
+<font face="Microsoft Yahei" size="26">脚步 丹尼尔
+<font size="13">footsteps, Daniel.</font></font>
+
+584
+00:42:49,250 --> 00:42:52,620
+<font face="Microsoft Yahei" size="26">你真想追随他到他的所去之处吗
+<font size="13">Do you really wanna follow him where he's gone?</font></font>
+
+585
+00:42:54,490 --> 00:42:58,090
+<font face="Microsoft Yahei" size="26">我理解失去会让你多么绝望
+<font size="13">I understand how desperate loss can make you.</font></font>
+
+586
+00:42:59,830 --> 00:43:01,290
+<font face="Microsoft Yahei" size="26">你带艾莉森来我这的那晚
+<font size="13">The night you brought Allison to me, the life</font></font>
+
+587
+00:43:01,500 --> 00:43:05,560
+<font face="Microsoft Yahei" size="26">她体内的生命拼命地要出来
+<font size="13">inside her desperately clawing to get out.</font></font>
+
+588
+00:43:06,300 --> 00:43:11,200
+<font face="Microsoft Yahei" size="26">失去女儿改变了我 但我在做
+<font size="13">Losing my daughter changed me, but I'm doing what I</font></font>
+
+589
+00:43:11,400 --> 00:43:13,270
+<font face="Microsoft Yahei" size="26">必须做的 来纠正
+<font size="13">have to to make it right.</font></font>
+
+590
+00:43:14,840 --> 00:43:17,010
+<font face="Microsoft Yahei" size="26">你很快就会明白
+<font size="13">You'll understand soon enough.</font></font>
+
+591
+00:43:18,180 --> 00:43:20,750
+<font face="Microsoft Yahei" size="26">请告诉我艾莉森在哪
+<font size="13">Just please, can you please tell me where Allison is?</font></font>
+
+592
+00:43:20,950 --> 00:43:22,080
+<font face="Microsoft Yahei" size="26">就…
+<font size="13">Just...</font></font>
+
+593
+00:43:24,520 --> 00:43:25,620
+<font face="Microsoft Yahei" size="26">你告诉我 该死的
+<font size="13">You tell me, god damnit.</font></font>
+
+594
+00:43:25,820 --> 00:43:27,750
+<font face="Microsoft Yahei" size="26">告诉我她在哪
+<font size="13">You tell me where she is.</font></font>
+
+595
+00:43:27,950 --> 00:43:29,990
+<font face="Microsoft Yahei" size="26">别担心 丹尼尔
+<font size="13">Don't worry, Daniel.</font></font>
+
+596
+00:43:30,190 --> 00:43:32,790
+<font face="Microsoft Yahei" size="26">我会帮助她
+<font size="13">I'm gonna help her.</font></font>
+
+597
+00:43:32,990 --> 00:43:34,960
+<font face="Microsoft Yahei" size="26">我会帮助你们所有人
+<font size="13">I'm gonna help all of you.</font></font>
+
+598
+00:44:00,350 --> 00:44:01,650
+<font face="Microsoft Yahei" size="26">这太疯狂了 我不知道我在做什么
+<font size="13">This is crazy! I don't know what I'm doing.</font></font>
+
+599
+00:44:01,860 --> 00:44:02,750
+<font face="Microsoft Yahei" size="26">你不能就这么离开我们
+<font size="13">You can't just leave us.</font></font>
+
+600
+00:44:02,960 --> 00:44:06,640
+<font face="Microsoft Yahei" size="26">金 我们别无选择 艾莉森是唯一知道怎么照顾玛吉的人
+<font size="13">Kim, Kim, Kim. We don't have a choice.Allison's the only one who knows how to look after Maggie.</font></font>
+
+601
+00:44:06,640 --> 00:44:07,230
+<font face="Microsoft Yahei" size="26">拜托了 听着
+<font size="13">Please, look.</font></font>
+
+602
+00:44:07,430 --> 00:44:08,630
+<font face="Microsoft Yahei" size="26">就…
+<font size="13">Just...</font></font>
+
+603
+00:44:08,830 --> 00:44:10,310
+<font face="Microsoft Yahei" size="26">这东西在里面似乎还能通信
+<font size="13">These still seem to work inside.</font></font>
+
+604
+00:44:10,310 --> 00:44:11,230
+<font face="Microsoft Yahei" size="26">不要
+<font size="13">No.</font></font>
+
+605
+00:44:11,230 --> 00:44:13,260
+<font face="Microsoft Yahei" size="26">我们保持联系 以防万一
+<font size="13">We'll keep in touch just in case.</font></font>
+
+606
+00:44:13,270 --> 00:44:15,270
+<font face="Microsoft Yahei" size="26">我们不会离开很久 不会走远
+<font size="13">We're not gonna be gone long, we're not going far.</font></font>
+
+607
+00:44:15,270 --> 00:44:17,070
+<font face="Microsoft Yahei" size="26">- 听着  - 好疼
+<font size="13">- Look. - It hurts.</font></font>
+
+608
+00:44:17,070 --> 00:44:18,840
+<font face="Microsoft Yahei" size="26">我好疼
+<font size="13">It hurts so bad.</font></font>
+
+609
+00:44:18,840 --> 00:44:21,510
+<font face="Microsoft Yahei" size="26">我不知道这是什么东西
+<font size="13">I don't know what half this stuff is!</font></font>
+
+610
+00:44:21,510 --> 00:44:23,070
+<font face="Microsoft Yahei" size="26">求你别走
+<font size="13">Please, please don't- -</font></font>
+
+611
+00:44:23,080 --> 00:44:26,610
+<font face="Microsoft Yahei" size="26">请听我说  我们只是到下面去 我们会
+<font size="13">Listen to me, please.We're just gonna down there, I'm gonna bring</font></font>
+
+612
+00:44:26,610 --> 00:44:29,950
+<font face="Microsoft Yahei" size="26">带回艾莉森 我要你坚守到那时候 好吗
+<font size="13">back Allison, and I need you to hold out until then, alright?</font></font>
+
+613
+00:44:29,950 --> 00:44:32,150
+<font face="Microsoft Yahei" size="26">如果出了什么事呢 如果那些人进来呢
+<font size="13">What if something happens? What if those people get in here?</font></font>
+
+614
+00:44:32,150 --> 00:44:34,050
+<font face="Microsoft Yahei" size="26">那我们该怎么办
+<font size="13">What are we supposed to do?</font></font>
+
+615
+00:44:34,050 --> 00:44:36,290
+<font face="Microsoft Yahei" size="26">那些人不会进来
+<font size="13">Those people are not trying to get in here.</font></font>
+
+616
+00:44:36,290 --> 00:44:39,890
+<font face="Microsoft Yahei" size="26">那些人是不想我们出去
+<font size="13">Those people are trying to keep us from getting out.</font></font>
+
+617
+00:44:39,890 --> 00:44:42,630
+<font face="Microsoft Yahei" size="26">好了 我只能做这么多了
+<font size="13">Okay, that's the best that I can do.</font></font>
+
+618
+00:44:42,630 --> 00:44:44,500
+<font face="Microsoft Yahei" size="26">但愿你知道怎么用
+<font size="13">I hope you know how to use it.</font></font>
+
+619
+00:44:45,900 --> 00:44:48,200
+<font face="Microsoft Yahei" size="26">还有...
+<font size="13">And uh...</font></font>
+
+620
+00:44:48,200 --> 00:44:50,470
+<font face="Microsoft Yahei" size="26">这个用来以防万一
+<font size="13">That's there just in case.</font></font>
+
+621
+00:44:50,470 --> 00:44:52,430
+<font face="Microsoft Yahei" size="26">你最好知道你在做什么
+<font size="13">You better know what you're doing.</font></font>
+
+622
+00:44:56,280 --> 00:45:01,510
+<font face="Microsoft Yahei" size="26">- 好了 走吧 - 你以为下去就好了?
+<font size="13">- Okay, let's go. - You think were just gonna go down there and that'll be that?</font></font>
+
+623
+00:45:02,620 --> 00:45:06,320
+<font face="Microsoft Yahei" size="26">你有话就说啊 自以为是的混蛋
+<font size="13">If you have something to say than say it, you smug fuck.</font></font>
+
+624
+00:45:07,150 --> 00:45:09,590
+<font face="Microsoft Yahei" size="26">你知道下面有什么吗
+<font size="13">Do you know what's down there?</font></font>
+
+625
+00:45:09,590 --> 00:45:11,160
+<font face="Microsoft Yahei" size="26">不知道
+<font size="13">Nope.</font></font>
+
+626
+00:45:15,160 --> 00:45:18,030
+<font face="Microsoft Yahei" size="26">但我知道谁或许知道
+<font size="13">But I know someone who might.</font></font>
+
+627
+00:45:20,970 --> 00:45:22,170
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey.</font></font>
+
+628
+00:45:22,170 --> 00:45:23,940
+<font face="Microsoft Yahei" size="26">嘿 冰毒男孩
+<font size="13">Hey, meth boy.</font></font>
+
+629
+00:45:23,940 --> 00:45:24,970
+<font face="Microsoft Yahei" size="26">见鬼
+<font size="13">Oh shit.</font></font>
+
+630
+00:45:24,970 --> 00:45:27,110
+<font face="Microsoft Yahei" size="26">太好了 你还记得我们
+<font size="13">Oh, good, you remember us.</font></font>
+
+631
+00:45:27,110 --> 00:45:27,910
+<font face="Microsoft Yahei" size="26">这不是我的错 好吗
+<font size="13">It's not my fault, okay?</font></font>
+
+632
+00:45:27,910 --> 00:45:28,640
+<font face="Microsoft Yahei" size="26">你们必须相信我
+<font size="13">You gotta believe me.</font></font>
+
+633
+00:45:28,890 --> 00:45:30,010
+<font face="Microsoft Yahei" size="26">我他妈什么都没干
+<font size="13">I didn't fucking do anything.</font></font>
+
+634
+00:45:30,010 --> 00:45:31,640
+<font face="Microsoft Yahei" size="26">- 省省吧  - 请帮帮我
+<font size="13">- Just save it. Save it! - Please help me!</font></font>
+
+635
+00:45:31,650 --> 00:45:33,410
+<font face="Microsoft Yahei" size="26">- 这些家伙会杀了我  - 嘿
+<font size="13">- These guys are gonna kill me! - Hey!</font></font>
+
+636
+00:45:34,050 --> 00:45:36,310
+<font face="Microsoft Yahei" size="26">你要注意听我的问题
+<font size="13">You're gonna wanna pay attention to my questions.</font></font>
+
+637
+00:45:36,320 --> 00:45:38,180
+<font face="Microsoft Yahei" size="26">别这样 等下
+<font size="13">Please. No, wait, wait, wait!</font></font>
+
+638
+00:45:38,180 --> 00:45:39,350
+<font face="Microsoft Yahei" size="26">天呐 别这样
+<font size="13">Oh god, please don't!</font></font>
+
+639
+00:45:39,350 --> 00:45:41,350
+<font face="Microsoft Yahei" size="26">- 好吧 选根手指  - 别这样
+<font size="13">- Alright, pick a finger. - Don't do this.</font></font>
+
+640
+00:45:41,350 --> 00:45:43,520
+<font face="Microsoft Yahei" size="26">不要 你还没提问啊
+<font size="13">No, no, you didn't ask me anything yet!</font></font>
+
+641
+00:45:43,520 --> 00:45:46,240
+<font face="Microsoft Yahei" size="26">我想让你知道我是动真格的
+<font size="13">I wanna make sure you know I'm serious.</font></font>
+
+642
+00:45:46,240 --> 00:45:47,950
+<font face="Microsoft Yahei" size="26">- 我信 - 好了 嘿
+<font size="13">- I fucking believe you. - Okay, okay, hey!</font></font>
+
+643
+00:45:48,660 --> 00:45:50,360
+<font face="Microsoft Yahei" size="26">你知道什么能对我们的安全有帮助吗
+<font size="13">Do you know anything that will help keep us safe?</font></font>
+
+644
+00:45:50,360 --> 00:45:54,030
+<font face="Microsoft Yahei" size="26">什么都行 能帮我们活下来的
+<font size="13">Anything at all?Anything that will help us survive.</font></font>
+
+645
+00:45:54,030 --> 00:45:55,270
+<font face="Microsoft Yahei" size="26">跟那个该死的医生有关
+<font size="13">It's the fucking doctor.</font></font>
+
+646
+00:45:55,270 --> 00:45:56,670
+<font face="Microsoft Yahei" size="26">跟那个该死的医生有关
+<font size="13">It's that fucking doctor.</font></font>
+
+647
+00:45:56,670 --> 00:45:58,540
+<font face="Microsoft Yahei" size="26">好了 我们已经知道了
+<font size="13">Okay, fine, we know that already.</font></font>
+
+648
+00:45:58,540 --> 00:46:00,370
+<font face="Microsoft Yahei" size="26">我们没时间了
+<font size="13">We don't have time for this.</font></font>
+
+649
+00:46:00,370 --> 00:46:01,380
+<font face="Microsoft Yahei" size="26">好了 你知道吗
+<font size="13">Alright, you know what?</font></font>
+
+650
+00:46:01,380 --> 00:46:02,940
+<font face="Microsoft Yahei" size="26">- 下手麻利点 - 别这样 跟他有关
+<font size="13">- Make it clean. - No, no, please. It is him.</font></font>
+
+651
+00:46:02,940 --> 00:46:05,800
+<font face="Microsoft Yahei" size="26">跟他有关 我杀了他  我发誓我帮了你们个大忙
+<font size="13">It's him and I killed him.I swear to god I did you a fucking favor.</font></font>
+
+652
+00:46:05,800 --> 00:46:07,090
+<font face="Microsoft Yahei" size="26">是啊 他死不了
+<font size="13">Yeah, well he's not dead anymore.</font></font>
+
+653
+00:46:07,090 --> 00:46:08,350
+<font face="Microsoft Yahei" size="26">怎么会这样
+<font size="13">How is that possible?</font></font>
+
+654
+00:46:09,420 --> 00:46:10,350
+<font face="Microsoft Yahei" size="26">什么
+<font size="13">What?</font></font>
+
+655
+00:46:10,350 --> 00:46:11,420
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Oh god.</font></font>
+
+656
+00:46:11,850 --> 00:46:13,580
+<font face="Microsoft Yahei" size="26">不要
+<font size="13">Oh, no, no!</font></font>
+
+657
+00:46:16,420 --> 00:46:17,390
+<font face="Microsoft Yahei" size="26">看着我
+<font size="13">Look at me, look at me!</font></font>
+
+658
+00:46:17,390 --> 00:46:19,960
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Oh god!</font></font>
+
+659
+00:46:19,960 --> 00:46:21,160
+<font face="Microsoft Yahei" size="26">闭嘴
+<font size="13">Stop!</font></font>
+
+660
+00:46:21,160 --> 00:46:22,460
+<font face="Microsoft Yahei" size="26">听我说
+<font size="13">Listen to me.</font></font>
+
+661
+00:46:23,400 --> 00:46:25,100
+<font face="Microsoft Yahei" size="26">他怎么会活着 他是什么
+<font size="13">How is he alive? What is he?</font></font>
+
+662
+00:46:25,100 --> 00:46:27,100
+<font face="Microsoft Yahei" size="26">我他妈不知道啊
+<font size="13">I don't fucking know.</font></font>
+
+663
+00:46:27,100 --> 00:46:28,270
+<font face="Microsoft Yahei" size="26">好了 砍掉他的手
+<font size="13">Okay, take his hand off.</font></font>
+
+664
+00:46:28,270 --> 00:46:30,070
+<font face="Microsoft Yahei" size="26">不要 求你了
+<font size="13">No, no, please, please!</font></font>
+
+665
+00:46:30,070 --> 00:46:31,170
+<font face="Microsoft Yahei" size="26">我真的不知道
+<font size="13">I don't know, I'm serious.</font></font>
+
+666
+00:46:31,170 --> 00:46:32,240
+<font face="Microsoft Yahei" size="26">我在路上遇到个女孩
+<font size="13">I met a girl on the road.</font></font>
+
+667
+00:46:32,240 --> 00:46:36,270
+<font face="Microsoft Yahei" size="26">别动手 我在路上遇到个女孩 她跟我说
+<font size="13">Fucking please, please, please.I met a girl on the road and she told me she could</font></font>
+
+668
+00:46:36,280 --> 00:46:39,210
+<font face="Microsoft Yahei" size="26">她能帮我搞到冰毒 所以我跟她去了那个毒品屋
+<font size="13">help me score crystal so i followed her to this fucking pill house.</font></font>
+
+669
+00:46:39,210 --> 00:46:41,040
+<font face="Microsoft Yahei" size="26">其实那不是毒品屋
+<font size="13">Except it wasn't a pill house.</font></font>
+
+670
+00:46:41,040 --> 00:46:41,670
+<font face="Microsoft Yahei" size="26">是什么
+<font size="13">What was it?</font></font>
+
+671
+00:46:41,920 --> 00:46:42,750
+<font face="Microsoft Yahei" size="26">是什么
+<font size="13">What was it?</font></font>
+
+672
+00:46:43,720 --> 00:46:47,120
+<font face="Microsoft Yahei" size="26">是个在荒郊野外的老农房
+<font size="13">It was an old farm house in the middle of nowhere.</font></font>
+
+673
+00:46:47,120 --> 00:46:49,250
+<font face="Microsoft Yahei" size="26">全是这些该死的吸毒者
+<font size="13">All of these fucking junkies.</font></font>
+
+674
+00:46:49,260 --> 00:46:52,290
+<font face="Microsoft Yahei" size="26">那里一塌糊涂 他们似乎杀人杀了有一阵子了
+<font size="13">It was a mess.It looked like they'd been killing people for a while.</font></font>
+
+675
+00:46:53,260 --> 00:46:55,160
+<font face="Microsoft Yahei" size="26">他提供我们毒品
+<font size="13">He gave us drugs.</font></font>
+
+676
+00:46:55,160 --> 00:46:56,690
+<font face="Microsoft Yahei" size="26">他看我们做爱
+<font size="13">He watched us have sex.</font></font>
+
+677
+00:46:56,700 --> 00:46:59,600
+<font face="Microsoft Yahei" size="26">- 他管那地方叫教堂 - 好了 你意思是 理查德
+<font size="13">- And he called the place a church. - Okay, what you're telling me that Richard was some</font></font>
+
+678
+00:46:59,600 --> 00:47:02,070
+<font face="Microsoft Yahei" size="26">是个性魔教主?
+<font size="13">kind of sex fiend, religious thing?</font></font>
+
+679
+00:47:02,070 --> 00:47:03,400
+<font face="Microsoft Yahei" size="26">我爸认识他好多年了 我们都是
+<font size="13">My dad knew him for years, we all did.</font></font>
+
+680
+00:47:03,400 --> 00:47:04,570
+<font face="Microsoft Yahei" size="26">简直胡扯
+<font size="13">That's bullshit.</font></font>
+
+681
+00:47:04,570 --> 00:47:06,170
+<font face="Microsoft Yahei" size="26">他们就穿成这样
+<font size="13">They were dressed just like this.</font></font>
+
+682
+00:47:06,170 --> 00:47:09,340
+<font face="Microsoft Yahei" size="26">有一堆人穿成这样 好吗
+<font size="13">There's a bunch of people dressed like this, okay?</font></font>
+
+683
+00:47:09,340 --> 00:47:12,040
+<font face="Microsoft Yahei" size="26">他们杀人 献祭
+<font size="13">And they did killings and sacrifices</font></font>
+
+684
+00:47:12,050 --> 00:47:14,210
+<font face="Microsoft Yahei" size="26">还让我们看
+<font size="13">and they made us watch.</font></font>
+
+685
+00:47:14,210 --> 00:47:16,650
+<font face="Microsoft Yahei" size="26">你说的是恶魔崇拜?
+<font size="13">You're talking devil worshiping?</font></font>
+
+686
+00:47:16,650 --> 00:47:18,150
+<font face="Microsoft Yahei" size="26">不是
+<font size="13">No.</font></font>
+
+687
+00:47:18,150 --> 00:47:20,520
+<font face="Microsoft Yahei" size="26">我不相信恶魔
+<font size="13">No, I don't believe in the devil.</font></font>
+
+688
+00:47:20,520 --> 00:47:22,090
+<font face="Microsoft Yahei" size="26">但我相信这个
+<font size="13">Okay, but i believe in this.</font></font>
+
+689
+00:47:22,090 --> 00:47:23,760
+<font face="Microsoft Yahei" size="26">他们能改变人
+<font size="13">They made people change.</font></font>
+
+690
+00:47:23,760 --> 00:47:25,390
+<font face="Microsoft Yahei" size="26">我看见了
+<font size="13">I saw it.</font></font>
+
+691
+00:47:25,710 --> 00:47:26,690
+<font face="Microsoft Yahei" size="26">谢谢
+<font size="13">Thank you.</font></font>
+
+692
+00:47:26,690 --> 00:47:28,090
+<font face="Microsoft Yahei" size="26">你跟我们一起去
+<font size="13">You're coming with us.</font></font>
+
+693
+00:47:28,090 --> 00:47:29,430
+<font face="Microsoft Yahei" size="26">没必要谢我们
+<font size="13">There's no reason to thank us.</font></font>
+
+694
+00:47:29,430 --> 00:47:30,460
+<font face="Microsoft Yahei" size="26">什么
+<font size="13">What?</font></font>
+
+695
+00:47:30,460 --> 00:47:33,760
+<font face="Microsoft Yahei" size="26">没错 你知道吗 我们要去地下室拜访你朋友
+<font size="13">Yeah.You know what? We're gonna visit your friend in the basement.</font></font>
+
+696
+00:47:33,760 --> 00:47:34,330
+<font face="Microsoft Yahei" size="26">不要
+<font size="13">No!</font></font>
+
+697
+00:47:35,220 --> 00:47:36,010
+<font face="Microsoft Yahei" size="26">你们疯了吗
+<font size="13">Are you nuts?</font></font>
+
+698
+00:47:36,040 --> 00:47:37,700
+<font face="Microsoft Yahei" size="26">不要 你们看到他能做什么了
+<font size="13">No, you've seen he can do.</font></font>
+
+699
+00:47:37,700 --> 00:47:38,870
+<font face="Microsoft Yahei" size="26">我们离开这里 好吗
+<font size="13">Let's just get out of here, okay?</font></font>
+
+700
+00:47:38,870 --> 00:47:39,740
+<font face="Microsoft Yahei" size="26">让这地方见鬼去吧
+<font size="13">Fuck this place.</font></font>
+
+701
+00:47:39,740 --> 00:47:40,840
+<font face="Microsoft Yahei" size="26">是吗 看下吧
+<font size="13">Yeah? Have a look.</font></font>
+
+702
+00:47:40,840 --> 00:47:42,670
+<font face="Microsoft Yahei" size="26">看吧
+<font size="13">Go on.</font></font>
+
+703
+00:47:42,680 --> 00:47:44,040
+<font face="Microsoft Yahei" size="26">请便吧
+<font size="13">Be my guest.</font></font>
+
+704
+00:47:44,040 --> 00:47:45,910
+<font face="Microsoft Yahei" size="26">不要 这是自杀
+<font size="13">No, this is suicide.</font></font>
+
+705
+00:47:45,910 --> 00:47:50,080
+<font face="Microsoft Yahei" size="26">天呐 不要 你们和他们一样疯狂
+<font size="13">Oh my god.No, you're as crazy as they are.</font></font>
+
+706
+00:47:50,080 --> 00:47:51,780
+<font face="Microsoft Yahei" size="26">或许吧
+<font size="13">Yeah, maybe.</font></font>
+
+707
+00:48:00,410 --> 00:48:02,750
+<font face="Microsoft Yahei" size="26">{\an8}危险 此区域投入使用并不安全 请勿进入</font>
+
+708
+00:48:02,760 --> 00:48:04,800
+<font face="Microsoft Yahei" size="26">这边
+<font size="13">Down here.</font></font>
+
+709
+00:48:06,150 --> 00:48:07,820
+<font face="Microsoft Yahei" size="26"><font size="1">譯禇 覹愽 Emtёё</font></font>
+
+710
+00:48:07,830 --> 00:48:10,500
+<font face="Microsoft Yahei" size="26">这里像是会塌了似的
+<font size="13">Looks like this place is gonna collapse.</font></font>
+
+711
+00:48:14,570 --> 00:48:16,410
+<font face="Microsoft Yahei" size="26">能听到我讲话吗
+<font size="13">Can you hear me okay?</font></font>
+
+712
+00:48:17,980 --> 00:48:19,680
+<font face="Microsoft Yahei" size="26">很清楚
+<font size="13">Loud and clear.</font></font>
+
+713
+00:48:19,680 --> 00:48:22,750
+<font face="Microsoft Yahei" size="26">去地下室的楼梯井在大楼后方
+<font size="13">The stairwell to the basement is at the back of the building.</font></font>
+
+714
+00:48:24,980 --> 00:48:26,620
+<font face="Microsoft Yahei" size="26">收到
+<font size="13">Roger that.</font></font>
+
+715
+00:48:26,940 --> 00:48:27,980
+<font face="Microsoft Yahei" size="26">我知道了
+<font size="13">Got it.</font></font>
+
+716
+00:48:53,340 --> 00:48:54,050
+<font face="Microsoft Yahei" size="26">瞧
+<font size="13">Look.</font></font>
+
+717
+00:48:54,910 --> 00:48:56,180
+<font face="Microsoft Yahei" size="26">有人在这待过
+<font size="13">Someone's been here.</font></font>
+
+718
+00:49:17,700 --> 00:49:18,700
+<font face="Microsoft Yahei" size="26">金
+<font size="13">Kim!</font></font>
+
+719
+00:49:18,700 --> 00:49:22,540
+<font face="Microsoft Yahei" size="26">- 怎么走 - 停尸间的门应该就在你们前方
+<font size="13">- Where are we going? - The door to the morgue should be right there in front of you.</font></font>
+
+720
+00:49:30,180 --> 00:49:33,680
+<font face="Microsoft Yahei" size="26">我没看到门 只有过道
+<font size="13">I don't see any door. Just a bunch of corridors.</font></font>
+
+721
+00:49:33,690 --> 00:49:36,150
+<font face="Microsoft Yahei" size="26">你确定这地方没错?
+<font size="13">You sure this is the right place?</font></font>
+
+722
+00:49:36,160 --> 00:49:37,790
+<font face="Microsoft Yahei" size="26">他走错楼梯了
+<font size="13">He went down the wrong stairs.</font></font>
+
+723
+00:49:37,790 --> 00:49:39,690
+<font face="Microsoft Yahei" size="26">只有一段楼梯
+<font size="13">There's only one set of stairs.</font></font>
+
+724
+00:49:39,690 --> 00:49:41,660
+<font face="Microsoft Yahei" size="26">我知道他们要去哪
+<font size="13">I know where they're going.</font></font>
+
+725
+00:49:42,160 --> 00:49:43,630
+<font face="Microsoft Yahei" size="26">有人吗
+<font size="13">Hello?</font></font>
+
+726
+00:49:44,200 --> 00:49:45,830
+<font face="Microsoft Yahei" size="26">卡特
+<font size="13">Carter!</font></font>
+
+727
+00:49:47,970 --> 00:49:50,700
+<font face="Microsoft Yahei" size="26">最好别把我们带进陷阱
+<font size="13">Better not be leading us into a trap.</font></font>
+
+728
+00:49:55,810 --> 00:49:57,580
+<font face="Microsoft Yahei" size="26">怎么了
+<font size="13">What's going on?</font></font>
+
+729
+00:50:03,680 --> 00:50:05,480
+<font face="Microsoft Yahei" size="26">开什么玩笑
+<font size="13">Oh, you gotta be kidding me.</font></font>
+
+730
+00:50:05,490 --> 00:50:07,920
+<font face="Microsoft Yahei" size="26">你找到了?
+<font size="13">Did you find it?</font></font>
+
+731
+00:50:07,920 --> 00:50:10,890
+<font face="Microsoft Yahei" size="26">是不是有下层地下室...
+<font size="13">Is there some kind of sub-basement or...</font></font>
+
+732
+00:50:10,890 --> 00:50:13,760
+<font face="Microsoft Yahei" size="26">没 你在说什么
+<font size="13">No, no, no, what are you talking about?</font></font>
+
+733
+00:50:13,760 --> 00:50:16,230
+<font face="Microsoft Yahei" size="26">- 有一段下去的楼梯  - 什么
+<font size="13">- A staircase going down. - What?</font></font>
+
+734
+00:50:26,510 --> 00:50:29,810
+<font face="Microsoft Yahei" size="26">卡特 听得到吗
+<font size="13">Carter, can you hear me?</font></font>
+
+735
+00:50:43,120 --> 00:50:44,960
+<font face="Microsoft Yahei" size="26">我们得回去
+<font size="13">We gotta go back.</font></font>
+
+736
+00:50:46,060 --> 00:50:48,530
+<font face="Microsoft Yahei" size="26">我不能叫你跟我下去
+<font size="13">I can't ask you to follow me down here.</font></font>
+
+737
+00:50:48,530 --> 00:50:50,190
+<font face="Microsoft Yahei" size="26">明白吗
+<font size="13">You understand?</font></font>
+
+738
+00:50:51,930 --> 00:50:53,960
+<font face="Microsoft Yahei" size="26">伙计们 怎么了
+<font size="13">Guys, what's happening?</font></font>
+
+739
+00:50:57,900 --> 00:51:00,100
+<font face="Microsoft Yahei" size="26">没怎么 我们...
+<font size="13">Nothing. We're...</font></font>
+
+740
+00:51:00,110 --> 00:51:02,570
+<font face="Microsoft Yahei" size="26">我们要下去
+<font size="13">We're gonna go down the stairs.</font></font>
+
+741
+00:51:07,180 --> 00:51:09,010
+<font face="Microsoft Yahei" size="26">嘿 让他带路
+<font size="13">Hey, leading in with him.</font></font>
+
+742
+00:51:09,020 --> 00:51:11,880
+<font face="Microsoft Yahei" size="26">嘿 你先走
+<font size="13">Hey, you get to go first.</font></font>
+
+743
+00:51:11,880 --> 00:51:13,220
+<font face="Microsoft Yahei" size="26">没错
+<font size="13">Yeah, right.</font></font>
+
+744
+00:51:13,220 --> 00:51:14,820
+<font face="Microsoft Yahei" size="26">这不是请求
+<font size="13">I'm not asking.</font></font>
+
+745
+00:51:16,090 --> 00:51:17,020
+<font face="Microsoft Yahei" size="26">安静
+<font size="13">Be quiet.</font></font>
+
+746
+00:51:44,750 --> 00:51:45,780
+<font face="Microsoft Yahei" size="26">别费心了
+<font size="13">Don't bother.</font></font>
+
+747
+00:51:45,790 --> 00:51:47,850
+<font face="Microsoft Yahei" size="26">你动不了
+<font size="13">You won't be able to move.</font></font>
+
+748
+00:51:52,620 --> 00:51:54,690
+<font face="Microsoft Yahei" size="26">什么 理查德?
+<font size="13">What? Richard?</font></font>
+
+749
+00:51:54,690 --> 00:51:56,660
+<font face="Microsoft Yahei" size="26">耐心点
+<font size="13">Be patient.</font></font>
+
+750
+00:51:56,660 --> 00:51:58,160
+<font face="Microsoft Yahei" size="26">我快准备好了
+<font size="13">I'm almost ready.</font></font>
+
+751
+00:51:58,160 --> 00:52:00,260
+<font face="Microsoft Yahei" size="26">什么情况
+<font size="13">What- what- what is this?</font></font>
+
+752
+00:52:00,270 --> 00:52:03,230
+<font face="Microsoft Yahei" size="26">我看见你死了
+<font size="13">I saw you die.</font></font>
+
+753
+00:52:05,100 --> 00:52:09,010
+<font face="Microsoft Yahei" size="26">我不知道那会是这种感觉
+<font size="13">I had no idea that it would feel like this.</font></font>
+
+754
+00:52:09,010 --> 00:52:12,280
+<font face="Microsoft Yahei" size="26">多年来 我给人做手术
+<font size="13">The years I spent operating on people.</font></font>
+
+755
+00:52:12,280 --> 00:52:15,840
+<font face="Microsoft Yahei" size="26">切开再缝合
+<font size="13">Opening them up and stitching them back together again.</font></font>
+
+756
+00:52:17,320 --> 00:52:21,250
+<font face="Microsoft Yahei" size="26">非常棒 那感觉...
+<font size="13">It's remarkable, the sensation it's...</font></font>
+
+757
+00:52:21,250 --> 00:52:24,790
+<font face="Microsoft Yahei" size="26">并不疼 而更是种解脱
+<font size="13">Not pain, more a sense of release.</font></font>
+
+758
+00:52:24,790 --> 00:52:27,160
+<font face="Microsoft Yahei" size="26">你为什么... 
+<font size="13">Why, why are you- -</font></font>
+
+759
+00:52:27,160 --> 00:52:29,630
+<font face="Microsoft Yahei" size="26">请安静
+<font size="13">be quiet, please.</font></font>
+
+760
+00:52:29,630 --> 00:52:31,400
+<font face="Microsoft Yahei" size="26">这是个未知领域
+<font size="13">This is uncharted territory.</font></font>
+
+761
+00:52:32,800 --> 00:52:37,000
+<font face="Microsoft Yahei" size="26">是个研究自我转变的机会
+<font size="13">The chance to study my own transformation.</font></font>
+
+762
+00:52:37,000 --> 00:52:41,010
+<font face="Microsoft Yahei" size="26">我理解你的迟疑 艾莉森 但
+<font size="13">I understand your hesitation, Allison, but</font></font>
+
+763
+00:52:41,010 --> 00:52:44,880
+<font face="Microsoft Yahei" size="26">我问问你 这些年来 你有没
+<font size="13">let me ask you, all these years, haven't you ever</font></font>
+
+764
+00:52:44,880 --> 00:52:48,810
+<font face="Microsoft Yahei" size="26">想救活一个无法救活的人
+<font size="13">wished to save someone beyond saving?</font></font>
+
+765
+00:52:48,810 --> 00:52:51,150
+<font face="Microsoft Yahei" size="26">无论代价是什么
+<font size="13">No matter what the costs?</font></font>
+
+766
+00:52:52,780 --> 00:52:55,750
+<font face="Microsoft Yahei" size="26">失去莎拉 把我毁了
+<font size="13">Well, losing Sarah destroyed me.</font></font>
+
+767
+00:52:59,020 --> 00:53:01,960
+<font face="Microsoft Yahei" size="26">但也迫使我找到了解决办法
+<font size="13">But it also compelled me to find a solution.</font></font>
+
+768
+00:53:04,100 --> 00:53:10,100
+<font face="Microsoft Yahei" size="26">你有所寻求时 你会对你发现的东西感到惊叹
+<font size="13">You'd be surprised at the things you find when you go looking.</font></font>
+
+769
+00:53:21,110 --> 00:53:23,810
+<font face="Microsoft Yahei" size="26">气味像墓地
+<font size="13">It smells like a grave.</font></font>
+
+770
+00:53:35,430 --> 00:53:38,000
+<font face="Microsoft Yahei" size="26">我以前见过这场景
+<font size="13">I've seen this place before.</font></font>
+
+771
+00:53:38,000 --> 00:53:40,860
+<font face="Microsoft Yahei" size="26">是在我们清理的那栋房子里
+<font size="13">This was all over the house we cleaned out.</font></font>
+
+772
+00:53:40,870 --> 00:53:42,300
+<font face="Microsoft Yahei" size="26">他让我们看东西
+<font size="13">He made us look at things.</font></font>
+
+773
+00:53:42,300 --> 00:53:45,440
+<font face="Microsoft Yahei" size="26">那是我见过的最糟的东西
+<font size="13">The worst things I've ever seen.</font></font>
+
+774
+00:53:45,440 --> 00:53:49,910
+<font face="Microsoft Yahei" size="26">我们在那地方的地下室房间里发现全是尸体
+<font size="13">We found rooms full of bodies in the basement of that place.</font></font>
+
+775
+00:53:49,910 --> 00:53:54,390
+<font face="Microsoft Yahei" size="26">一个人被弄在桌子上 就像在被手术
+<font size="13">They had someone on a table like they were doing surgery down there.</font></font>
+
+776
+00:53:54,390 --> 00:53:55,810
+<font face="Microsoft Yahei" size="26">有一半转变成了那种东西
+<font size="13">Half turned into one of those things.</font></font>
+
+777
+00:53:55,810 --> 00:53:56,480
+<font face="Microsoft Yahei" size="26">不是
+<font size="13">No!</font></font>
+
+778
+00:53:57,080 --> 00:54:00,320
+<font face="Microsoft Yahei" size="26">比那更糟
+<font size="13">No, worse than that.</font></font>
+
+779
+00:54:00,320 --> 00:54:01,570
+<font face="Microsoft Yahei" size="26">就像一场噩梦
+<font size="13">Like a nightmare.</font></font>
+
+780
+00:54:04,760 --> 00:54:06,890
+<font face="Microsoft Yahei" size="26">这不是真的
+<font size="13">It isn't real.</font></font>
+
+781
+00:54:06,890 --> 00:54:08,460
+<font face="Microsoft Yahei" size="26">这不是真的
+<font size="13">It's not real.</font></font>
+
+782
+00:54:17,970 --> 00:54:20,170
+<font face="Microsoft Yahei" size="26">这是个老鼠迷宫
+<font size="13">It's a rat's maze.</font></font>
+
+783
+00:54:23,140 --> 00:54:24,310
+<font face="Microsoft Yahei" size="26">卡特
+<font size="13">Carter!</font></font>
+
+784
+00:54:26,240 --> 00:54:28,510
+<font face="Microsoft Yahei" size="26">他在这吗
+<font size="13">Is he here?</font></font>
+
+785
+00:54:28,510 --> 00:54:29,910
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey!</font></font>
+
+786
+00:54:29,920 --> 00:54:31,380
+<font face="Microsoft Yahei" size="26">在啊
+<font size="13">Yeah.</font></font>
+
+787
+00:54:31,380 --> 00:54:35,150
+<font face="Microsoft Yahei" size="26">他把我带过来...孩子
+<font size="13">He has took me here to... baby.</font></font>
+
+788
+00:54:35,150 --> 00:54:36,090
+<font face="Microsoft Yahei" size="26">我就在这 孩子
+<font size="13">I'm right here, kiddo.</font></font>
+
+789
+00:54:36,090 --> 00:54:38,020
+<font face="Microsoft Yahei" size="26">会好的 没事的 
+<font size="13">It's okay, it's alright.</font></font>
+
+790
+00:54:38,020 --> 00:54:39,960
+<font face="Microsoft Yahei" size="26">你会没事的
+<font size="13">You're gonna be fine.</font></font>
+
+791
+00:54:39,960 --> 00:54:43,030
+<font face="Microsoft Yahei" size="26">你很幸运 你爷爷很关心你
+<font size="13">You're lucky your grandpa cares about you so much.</font></font>
+
+792
+00:54:43,030 --> 00:54:46,200
+<font face="Microsoft Yahei" size="26">我爷爷只会对电视大吼 一直抽烟
+<font size="13">My grandpa just yells at his TV and smokes.</font></font>
+
+793
+00:54:47,530 --> 00:54:51,200
+<font face="Microsoft Yahei" size="26">- 帮帮她 - 见鬼 好的 等下
+<font size="13">- Help her, help her. - Shit, okay, okay! Wait, wait.</font></font>
+
+794
+00:54:51,200 --> 00:54:52,800
+<font face="Microsoft Yahei" size="26">请帮帮她
+<font size="13">Help her, please.</font></font>
+
+795
+00:54:52,810 --> 00:54:54,940
+<font face="Microsoft Yahei" size="26">- 可待因  - 好的
+<font size="13">- The codeine, I think. - Alright.</font></font>
+
+796
+00:54:54,940 --> 00:54:57,370
+<font face="Microsoft Yahei" size="26">好了 玛吉 坚持会儿
+<font size="13">Okay, Maggie, hold still for one second.</font></font>
+
+797
+00:54:57,380 --> 00:54:59,110
+<font face="Microsoft Yahei" size="26">有这个 好了
+<font size="13">I got this. Okay.</font></font>
+
+798
+00:54:59,110 --> 00:55:00,480
+<font face="Microsoft Yahei" size="26">这东西能
+<font size="13">I'm gonna give you something that's really</font></font>
+
+799
+00:55:00,480 --> 00:55:01,910
+<font face="Microsoft Yahei" size="26">帮到你
+<font size="13">gonna help you.</font></font>
+
+800
+00:55:01,910 --> 00:55:03,410
+<font face="Microsoft Yahei" size="26">你就不会疼了
+<font size="13">It's gonna feel really good.</font></font>
+
+801
+00:55:03,420 --> 00:55:04,850
+<font face="Microsoft Yahei" size="26">- 你表现得很棒  - 没事的
+<font size="13">- You're doing real good. - It's alright, it's alright.</font></font>
+
+802
+00:55:04,850 --> 00:55:06,220
+<font face="Microsoft Yahei" size="26">- 好了  - 不疼的
+<font size="13">- Okay. - It's gonna be real painless.</font></font>
+
+803
+00:55:06,220 --> 00:55:07,820
+<font face="Microsoft Yahei" size="26">马上就好了
+<font size="13">It's gonna be okay in a second.</font></font>
+
+804
+00:55:07,820 --> 00:55:09,390
+<font face="Microsoft Yahei" size="26">- 好的  - 马上好
+<font size="13">- Okay, okay. - Just give me a second.</font></font>
+
+805
+00:55:09,390 --> 00:55:10,990
+<font face="Microsoft Yahei" size="26">好了
+<font size="13">Okay, okay.</font></font>
+
+806
+00:55:10,990 --> 00:55:12,790
+<font face="Microsoft Yahei" size="26">好吧 你得抱她依然
+<font size="13">Okay, you gotta hold her still.</font></font>
+
+807
+00:55:12,790 --> 00:55:13,390
+<font face="Microsoft Yahei" size="26">你别让她乱动
+<font size="13">You gotta hold her still.</font></font>
+
+808
+00:55:15,330 --> 00:55:18,000
+<font face="Microsoft Yahei" size="26">我一注射 你就放松 好吗 
+<font size="13">Easy, once I get this in. Okay, ready?</font></font>
+
+809
+00:55:18,000 --> 00:55:19,230
+<font face="Microsoft Yahei" size="26">打针咯
+<font size="13">There you go.</font></font>
+
+810
+00:55:21,070 --> 00:55:23,100
+<font face="Microsoft Yahei" size="26">很好
+<font size="13">Yeah, yeah.</font></font>
+
+811
+00:55:23,100 --> 00:55:24,300
+<font face="Microsoft Yahei" size="26">没事的
+<font size="13">It's okay.</font></font>
+
+812
+00:55:24,300 --> 00:55:27,570
+<font face="Microsoft Yahei" size="26">没问题的
+<font size="13">There's no problem. No problem.</font></font>
+
+813
+00:55:47,860 --> 00:55:51,830
+<font face="Microsoft Yahei" size="26"><font color="#000000">译{}者{}:{}微{}博{}@{}E{}m{}t{}e{}e</font></font>
+
+814
+00:55:56,000 --> 00:55:57,130
+<font face="Microsoft Yahei" size="26">很好
+<font size="13">Great.</font></font>
+
+815
+00:55:57,140 --> 00:55:58,840
+<font face="Microsoft Yahei" size="26">我不会进去的
+<font size="13">I'm not going in there.</font></font>
+
+816
+00:55:58,840 --> 00:56:00,440
+<font face="Microsoft Yahei" size="26">开枪打我吧
+<font size="13">Fucking shoot me.</font></font>
+
+817
+00:56:11,850 --> 00:56:12,950
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey.</font></font>
+
+818
+00:56:16,890 --> 00:56:18,860
+<font face="Microsoft Yahei" size="26">就是这个
+<font size="13">This is it.</font></font>
+
+819
+00:56:18,860 --> 00:56:21,120
+<font face="Microsoft Yahei" size="26">就是什么
+<font size="13">This is what?</font></font>
+
+820
+00:56:21,130 --> 00:56:26,230
+<font face="Microsoft Yahei" size="26">我欣赏你的热忱 但我们得好好想想
+<font size="13">I appreciate your enthusiasm but we need to think this through.</font></font>
+
+821
+00:56:43,550 --> 00:56:45,580
+<font face="Microsoft Yahei" size="26">这是个错误
+<font size="13">This is a mistake.</font></font>
+
+822
+00:56:53,220 --> 00:56:55,130
+<font face="Microsoft Yahei" size="26">过来 小混球
+<font size="13">Come here, you little fuck.</font></font>
+
+823
+00:56:57,660 --> 00:57:01,000
+<font face="Microsoft Yahei" size="26">你知道你死后会去哪吗
+<font size="13">Do you know where you go when you die?</font></font>
+
+824
+00:57:02,070 --> 00:57:03,300
+<font face="Microsoft Yahei" size="26">我知道
+<font size="13">I do.</font></font>
+
+825
+00:57:03,300 --> 00:57:07,270
+<font face="Microsoft Yahei" size="26">你的行程会继续 会重生为别的东西 
+<font size="13">You travel on, reborn into something else, like a</font></font>
+
+826
+00:57:07,270 --> 00:57:09,310
+<font face="Microsoft Yahei" size="26">就像毛毛虫变成蛾
+<font size="13">caterpillar becoming a moth.</font></font>
+
+827
+00:57:09,310 --> 00:57:13,110
+<font face="Microsoft Yahei" size="26">到现在为止 我只能追踪在虫茧里的蛾
+<font size="13">Until now I've only been able to track the moth in its cocoon.</font></font>
+
+828
+00:57:13,110 --> 00:57:15,480
+<font face="Microsoft Yahei" size="26">当然身体必须进行调整
+<font size="13">The body has to adjust, of course.</font></font>
+
+829
+00:57:15,480 --> 00:57:17,680
+<font face="Microsoft Yahei" size="26">以来适应
+<font size="13">It adapts.</font></font>
+
+830
+00:57:17,680 --> 00:57:20,420
+<font face="Microsoft Yahei" size="26">我们生来并不是这种东西
+<font size="13">We weren't built for this kind of thing.</font></font>
+
+831
+00:57:20,420 --> 00:57:26,560
+<font face="Microsoft Yahei" size="26">我承认 早期我犯了错误
+<font size="13">I admit, early on i made mistakes.</font></font>
+
+832
+00:57:26,560 --> 00:57:30,960
+<font face="Microsoft Yahei" size="26">其中有些错误还和我们在这下面
+<font size="13">Some of those earliest mistakes are still down here with us.</font></font>
+
+833
+00:57:32,600 --> 00:57:36,630
+<font face="Microsoft Yahei" size="26">事实上是他们引起了毁掉这家医院的火灾
+<font size="13">In fact, they caused the fire that destroyed this hospital.</font></font>
+
+834
+00:57:36,640 --> 00:57:44,410
+<font face="Microsoft Yahei" size="26">瞧 他们想死 但我不准
+<font size="13">You see, they want to die, but I won't let them.</font></font>
+
+835
+00:57:47,280 --> 00:57:49,050
+<font face="Microsoft Yahei" size="26">别哭泣 艾莉森
+<font size="13">Don't cry, Allison.</font></font>
+
+836
+00:57:49,050 --> 00:57:50,610
+<font face="Microsoft Yahei" size="26">我要帮助你
+<font size="13">I am going to help you.</font></font>
+
+837
+00:57:50,620 --> 00:57:55,520
+<font face="Microsoft Yahei" size="26">这是生死轮回的终结
+<font size="13">This is an end to the cycle of life and death.</font></font>
+
+838
+00:57:55,520 --> 00:57:56,840
+<font face="Microsoft Yahei" size="26">你真的想要这样的世界吗
+<font size="13">Do you really want this world?</font></font>
+
+839
+00:57:56,840 --> 00:57:58,680
+<font face="Microsoft Yahei" size="26">想要这个夺走你儿子的世界? 
+<font size="13">This world that took your son from you?</font></font>
+
+840
+00:57:58,680 --> 00:58:01,850
+<font face="Microsoft Yahei" size="26">你知道那晚你未出生的孩子怎么回事吗
+<font size="13">Do you know what happened that night to your unborn child?</font></font>
+
+841
+00:58:02,190 --> 00:58:04,030
+<font face="Microsoft Yahei" size="26">别这样
+<font size="13">No, please.</font></font>
+
+842
+00:58:04,030 --> 00:58:06,130
+<font face="Microsoft Yahei" size="26">脐带缠在一起了
+<font size="13">Umbilical cord became entangled.</font></font>
+
+843
+00:58:06,130 --> 00:58:09,070
+<font face="Microsoft Yahei" size="26">就这么简单 很奇怪 对吗
+<font size="13">Simple as that. Strange, isn't it?</font></font>
+
+844
+00:58:09,070 --> 00:58:11,670
+<font face="Microsoft Yahei" size="26">你和你孩子之间的生命线
+<font size="13">The very lifeline between you and your child,</font></font>
+
+845
+00:58:11,670 --> 00:58:15,070
+<font face="Microsoft Yahei" size="26">在他挣扎着想出来时 就如套着他颈部的绞索在收紧
+<font size="13">constricting like a noose around his neck as he struggled to get out.</font></font>
+
+846
+00:58:15,070 --> 00:58:20,200
+<font face="Microsoft Yahei" size="26">越收越紧 直到他最终无法挣扎为止
+<font size="13">Tighter and tighter until finally it couldn't struggle anymore.</font></font>
+
+847
+00:58:20,410 --> 00:58:23,050
+<font face="Microsoft Yahei" size="26">大自然的无用之举
+<font size="13">Nature's futility.</font></font>
+
+848
+00:58:23,750 --> 00:58:24,870
+<font face="Microsoft Yahei" size="26">我能制止它
+<font size="13">I can stop it.</font></font>
+
+849
+00:58:26,420 --> 00:58:28,450
+<font face="Microsoft Yahei" size="26">这是真正有意义的第一步
+<font size="13">This is the first real step.</font></font>
+
+850
+00:58:29,990 --> 00:58:32,220
+<font face="Microsoft Yahei" size="26">真正意义上的复活
+<font size="13">The true resurrection.</font></font>
+
+851
+00:58:34,090 --> 00:58:41,300
+<font face="Microsoft Yahei" size="26">我失去了我女儿 她去了阴间 但今晚
+<font size="13">I lost my daughter to the abyss, but tonight, I am</font></font>
+
+852
+00:58:41,300 --> 00:58:43,000
+<font face="Microsoft Yahei" size="26">我要复活她
+<font size="13">calling her back.</font></font>
+
+853
+00:58:43,000 --> 00:58:44,400
+<font face="Microsoft Yahei" size="26">理查德
+<font size="13">Richard.</font></font>
+
+854
+00:58:44,400 --> 00:58:46,340
+<font face="Microsoft Yahei" size="26">别这样
+<font size="13">Please.</font></font>
+
+855
+00:58:46,740 --> 00:58:48,510
+<font face="Microsoft Yahei" size="26">别这么做
+<font size="13">Don't do this.</font></font>
+
+856
+00:58:51,240 --> 00:58:53,320
+<font face="Microsoft Yahei" size="26">但已经完成了
+<font size="13">But it's already done.</font></font>
+
+857
+00:59:06,760 --> 00:59:10,190
+<font face="Microsoft Yahei" size="26">你很漂亮 艾莉森
+<font size="13">You are so beautiful, Allison.</font></font>
+
+858
+00:59:10,200 --> 00:59:14,130
+<font face="Microsoft Yahei" size="26">你会变得非同凡响
+<font size="13">You will become something truly remarkable.</font></font>
+
+859
+00:59:40,120 --> 00:59:42,530
+<font face="Microsoft Yahei" size="26">这是个屠宰场
+<font size="13">This is a slaughter house.</font></font>
+
+860
+00:59:48,570 --> 00:59:50,270
+<font face="Microsoft Yahei" size="26">给我解开手铐
+<font size="13">Get this off of me!</font></font>
+
+861
+00:59:50,270 --> 00:59:52,140
+<font face="Microsoft Yahei" size="26">给我闭嘴
+<font size="13">Shut the fuck up!</font></font>
+
+862
+00:59:53,170 --> 00:59:55,640
+<font face="Microsoft Yahei" size="26">我本该在那栋房子里杀了你
+<font size="13">I should've killed you back at the house.</font></font>
+
+863
+00:59:55,640 --> 00:59:57,710
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">Get a hold of yourself.</font></font>
+
+864
+01:00:05,620 --> 01:00:07,620
+<font face="Microsoft Yahei" size="26">她还好吗
+<font size="13">Is she alright?</font></font>
+
+865
+01:00:07,620 --> 01:00:09,190
+<font face="Microsoft Yahei" size="26">她很热
+<font size="13">She feels hot.</font></font>
+
+866
+01:00:09,190 --> 01:00:10,450
+<font face="Microsoft Yahei" size="26">天啊
+<font size="13">Oh god.</font></font>
+
+867
+01:00:10,460 --> 01:00:13,620
+<font face="Microsoft Yahei" size="26">- 天呐 帮帮忙啊 - 天呐 好的
+<font size="13">- Lord! Do something! - Oh god, okay!</font></font>
+
+868
+01:00:13,630 --> 01:00:14,590
+<font face="Microsoft Yahei" size="26">好吧
+<font size="13">Okay!</font></font>
+
+869
+01:00:18,530 --> 01:00:19,700
+<font face="Microsoft Yahei" size="26">冷静
+<font size="13">Get a hold of yourself.</font></font>
+
+870
+01:00:19,700 --> 01:00:21,260
+<font face="Microsoft Yahei" size="26">去你妈的
+<font size="13">Fuck you.</font></font>
+
+871
+01:00:22,130 --> 01:00:23,830
+<font face="Microsoft Yahei" size="26">看看周围
+<font size="13">Look around us, huh?</font></font>
+
+872
+01:00:23,840 --> 01:00:24,670
+<font face="Microsoft Yahei" size="26">我跟你说了
+<font size="13">I told you.</font></font>
+
+873
+01:00:24,670 --> 01:00:26,340
+<font face="Microsoft Yahei" size="26">这是个错误
+<font size="13">This was a mistake.</font></font>
+
+874
+01:00:26,340 --> 01:00:27,400
+<font face="Microsoft Yahei" size="26">他知道些事
+<font size="13">He knows something.</font></font>
+
+875
+01:00:35,210 --> 01:00:37,250
+<font face="Microsoft Yahei" size="26">我们要你和我们在一起
+<font size="13">We need you with us.</font></font>
+
+876
+01:00:45,260 --> 01:00:46,420
+<font face="Microsoft Yahei" size="26">他在他的脑海里
+<font size="13">He's in his head!</font></font>
+
+877
+01:00:46,430 --> 01:00:47,890
+<font face="Microsoft Yahei" size="26">他在他的脑海里
+<font size="13">He's in his head!</font></font>
+
+878
+01:00:54,370 --> 01:00:55,430
+<font face="Microsoft Yahei" size="26">住手
+<font size="13">Stop it!</font></font>
+
+879
+01:01:19,290 --> 01:01:20,560
+<font face="Microsoft Yahei" size="26">我们是在地狱
+<font size="13">We're in hell.</font></font>
+
+880
+01:01:37,710 --> 01:01:40,310
+<font face="Microsoft Yahei" size="26">别让她乱动
+<font size="13">You've got to hold her still!</font></font>
+
+881
+01:01:40,880 --> 01:01:43,320
+<font face="Microsoft Yahei" size="26">不会有事的
+<font size="13">It's gonna be okay!</font></font>
+
+882
+01:01:49,290 --> 01:01:50,650
+<font face="Microsoft Yahei" size="26">是前门
+<font size="13">That's the front entrance!</font></font>
+
+883
+01:02:05,840 --> 01:02:06,800
+<font face="Microsoft Yahei" size="26">你要去哪
+<font size="13">Where are you going?</font></font>
+
+884
+01:02:06,810 --> 01:02:08,670
+<font face="Microsoft Yahei" size="26">醒醒 该死的
+<font size="13">Wake up, damnit!</font></font>
+
+885
+01:02:20,650 --> 01:02:23,220
+<font face="Microsoft Yahei" size="26">- 我做不到  - 你必须这么做
+<font size="13">- I can't do it! - You have to!</font></font>
+
+886
+01:02:55,650 --> 01:03:00,460
+<font face="Microsoft Yahei" size="26">不要
+<font size="13">No! No! No! No! No!</font></font>
+
+887
+01:03:11,000 --> 01:03:12,470
+<font face="Microsoft Yahei" size="26">做你必须做的
+<font size="13">You do what you have to do!</font></font>
+
+888
+01:03:12,470 --> 01:03:14,970
+<font face="Microsoft Yahei" size="26">我要把那些混蛋赶出去
+<font size="13">I'll keep those bastards out.</font></font>
+
+889
+01:03:14,970 --> 01:03:17,610
+<font face="Microsoft Yahei" size="26">我怕失手害死她
+<font size="13">I can't kill her.</font></font>
+
+890
+01:03:17,610 --> 01:03:19,040
+<font face="Microsoft Yahei" size="26">你必须帮她
+<font size="13">You have to do this.</font></font>
+
+891
+01:03:20,880 --> 01:03:23,810
+<font face="Microsoft Yahei" size="26">你是她唯一的机会
+<font size="13">You are the only chance she has.</font></font>
+
+892
+01:03:23,820 --> 01:03:24,610
+<font face="Microsoft Yahei" size="26">不
+<font size="13">No.</font></font>
+
+893
+01:03:24,620 --> 01:03:25,480
+<font face="Microsoft Yahei" size="26">求你了
+<font size="13">Please!</font></font>
+
+894
+01:03:25,480 --> 01:03:27,380
+<font face="Microsoft Yahei" size="26">对不起 我办不到
+<font size="13">Sorry, I can't.</font></font>
+
+895
+01:03:27,390 --> 01:03:29,350
+<font face="Microsoft Yahei" size="26">求你了
+<font size="13">Please do this!</font></font>
+
+896
+01:03:31,490 --> 01:03:33,620
+<font face="Microsoft Yahei" size="26">天呐
+<font size="13">Oh my god!</font></font>
+
+897
+01:03:38,500 --> 01:03:40,430
+<font face="Microsoft Yahei" size="26">你为什么那么做
+<font size="13">Why did you do that?</font></font>
+
+898
+01:03:46,370 --> 01:03:48,470
+<font face="Microsoft Yahei" size="26">终于是时候了
+<font size="13">It's finally time.</font></font>
+
+899
+01:03:48,470 --> 01:03:50,410
+<font face="Microsoft Yahei" size="26">你怎么能这样
+<font size="13">How could you?</font></font>
+
+900
+01:03:50,940 --> 01:03:53,010
+<font face="Microsoft Yahei" size="26">你的孩子
+<font size="13">Your baby.</font></font>
+
+901
+01:03:53,010 --> 01:03:56,410
+<font face="Microsoft Yahei" size="26">鲍威尔医生是个伟大的人
+<font size="13">Doctor Powell is a great man.</font></font>
+
+902
+01:03:56,950 --> 01:04:00,080
+<font face="Microsoft Yahei" size="26">我很幸运怀着他的孩子
+<font size="13">I'm lucky to carry his child.</font></font>
+
+903
+01:04:01,920 --> 01:04:04,690
+<font face="Microsoft Yahei" size="26">现在其他都无关紧要了
+<font size="13">Nothing else matters now.</font></font>
+
+904
+01:04:16,430 --> 01:04:18,370
+<font face="Microsoft Yahei" size="26">别担心
+<font size="13">Don't worry.</font></font>
+
+905
+01:04:19,440 --> 01:04:21,870
+<font face="Microsoft Yahei" size="26">一切都即将改变
+<font size="13">Everything is about to change.</font></font>
+
+906
+01:04:21,870 --> 01:04:23,910
+<font face="Microsoft Yahei" size="26">给我滚远点
+<font size="13">Get the fuck away from me!</font></font>
+
+907
+01:05:36,520 --> 01:05:38,110
+<font face="Microsoft Yahei" size="26">等着就好
+<font size="13">Just wait.</font></font>
+
+908
+01:05:45,160 --> 01:05:47,120
+<font face="Microsoft Yahei" size="26">等着就好
+<font size="13">Just wait.</font></font>
+
+909
+01:05:50,030 --> 01:05:52,800
+<font face="Microsoft Yahei" size="26">我们该怎么办
+<font size="13">What do we have to do?</font></font>
+
+910
+01:05:55,200 --> 01:05:56,930
+<font face="Microsoft Yahei" size="26">等着就好
+<font size="13">Just wait.</font></font>
+
+911
+01:06:00,840 --> 01:06:02,540
+<font face="Microsoft Yahei" size="26">这是你的错
+<font size="13">This is your fault.</font></font>
+
+912
+01:06:08,680 --> 01:06:10,710
+<font face="Microsoft Yahei" size="26">这是你的错
+<font size="13">This is your fault!</font></font>
+
+913
+01:06:19,190 --> 01:06:20,960
+<font face="Microsoft Yahei" size="26">我当时不在
+<font size="13">I wasn't there.</font></font>
+
+914
+01:06:20,960 --> 01:06:23,890
+<font face="Microsoft Yahei" size="26">你本该保护他们
+<font size="13">You should've protected them!</font></font>
+
+915
+01:06:23,900 --> 01:06:27,100
+<font face="Microsoft Yahei" size="26">母亲要我们留下
+<font size="13">Mother wants us to stay.</font></font>
+
+916
+01:06:29,130 --> 01:06:31,500
+<font face="Microsoft Yahei" size="26">我跟你说了 照顾他们
+<font size="13">I told you, look after them.</font></font>
+
+917
+01:06:31,500 --> 01:06:33,770
+<font face="Microsoft Yahei" size="26">但你留了下来
+<font size="13">But you stayed here.</font></font>
+
+918
+01:06:34,240 --> 01:06:36,970
+<font face="Microsoft Yahei" size="26">你本该保护他们
+<font size="13">You should have protected them!</font></font>
+
+919
+01:06:38,640 --> 01:06:40,940
+<font face="Microsoft Yahei" size="26">留在这 留在这
+<font size="13">Stay here, stay here.</font></font>
+
+920
+01:07:06,040 --> 01:07:07,740
+<font face="Microsoft Yahei" size="26">对不起
+<font size="13">I'm sorry.</font></font>
+
+921
+01:07:13,580 --> 01:07:15,080
+<font face="Microsoft Yahei" size="26">这是什么情况
+<font size="13">What is this?</font></font>
+
+922
+01:07:26,790 --> 01:07:29,190
+<font face="Microsoft Yahei" size="26">卡特 卡特 卡特
+<font size="13">Carter, Carter, Carter!</font></font>
+
+923
+01:07:35,070 --> 01:07:38,170
+<font face="Microsoft Yahei" size="26">卡特 你在哪
+<font size="13">Carter, where are you?</font></font>
+
+924
+01:07:38,770 --> 01:07:43,110
+<font face="Microsoft Yahei" size="26">给我闭嘴
+<font size="13">Shut the fuck up, shut the fuck up, shut the fuck up.</font></font>
+
+925
+01:07:43,110 --> 01:07:44,910
+<font face="Microsoft Yahei" size="26">闭嘴
+<font size="13">Shut up.</font></font>
+
+926
+01:07:53,880 --> 01:07:55,020
+<font face="Microsoft Yahei" size="26">该死
+<font size="13">Fuck!</font></font>
+
+927
+01:08:21,280 --> 01:08:22,950
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel?</font></font>
+
+928
+01:09:06,060 --> 01:09:08,190
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel?</font></font>
+
+929
+01:09:14,800 --> 01:09:16,200
+<font face="Microsoft Yahei" size="26">艾莉森
+<font size="13">Allison.</font></font>
+
+930
+01:09:16,200 --> 01:09:18,330
+<font face="Microsoft Yahei" size="26">你在哪
+<font size="13">Where are you?</font></font>
+
+931
+01:09:18,340 --> 01:09:19,640
+<font face="Microsoft Yahei" size="26">我好害怕
+<font size="13">I'm scared.</font></font>
+
+932
+01:09:19,640 --> 01:09:20,640
+<font face="Microsoft Yahei" size="26">别怕
+<font size="13">No, no, no, no.</font></font>
+
+933
+01:09:20,640 --> 01:09:21,400
+<font face="Microsoft Yahei" size="26">艾莉森 我就在这
+<font size="13">Allison, I'm right here.</font></font>
+
+934
+01:09:21,410 --> 01:09:23,640
+<font face="Microsoft Yahei" size="26">我就在这
+<font size="13">I'm right here. I'm right here.</font></font>
+
+935
+01:09:23,640 --> 01:09:25,340
+<font face="Microsoft Yahei" size="26">看着我 没事了
+<font size="13">Look at me, it's okay.</font></font>
+
+936
+01:09:29,980 --> 01:09:32,320
+<font face="Microsoft Yahei" size="26">我感觉要生了
+<font size="13">Oh, I can feel it coming.</font></font>
+
+937
+01:09:38,860 --> 01:09:40,720
+<font face="Microsoft Yahei" size="26">抓住我的手
+<font size="13">Hold my hand.</font></font>
+
+938
+01:09:42,930 --> 01:09:44,690
+<font face="Microsoft Yahei" size="26">我需要你
+<font size="13">I need you.</font></font>
+
+939
+01:09:45,100 --> 01:09:47,160
+<font face="Microsoft Yahei" size="26">我不会离开
+<font size="13">I'm not gonna leave.</font></font>
+
+940
+01:09:49,900 --> 01:09:51,670
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel.</font></font>
+
+941
+01:09:56,940 --> 01:09:58,840
+<font face="Microsoft Yahei" size="26">我知道你的秘密
+<font size="13">I know your secret.</font></font>
+
+942
+01:10:00,940 --> 01:10:02,850
+<font face="Microsoft Yahei" size="26">我从你脸上看出来了
+<font size="13">I saw it in your face.</font></font>
+
+943
+01:10:04,010 --> 01:10:07,150
+<font face="Microsoft Yahei" size="26">艾莉森失去你孩子的那晚
+<font size="13">The night Allison lost your child.</font></font>
+
+944
+01:10:11,020 --> 01:10:14,260
+<font face="Microsoft Yahei" size="26">我看到了解脱
+<font size="13">I saw relief.</font></font>
+
+945
+01:10:22,130 --> 01:10:24,070
+<font face="Microsoft Yahei" size="26">你做了什么
+<font size="13">What have you done?</font></font>
+
+946
+01:10:24,440 --> 01:10:27,040
+<font face="Microsoft Yahei" size="26">我给了她想要的
+<font size="13">I've given her what she wanted.</font></font>
+
+947
+01:10:28,870 --> 01:10:30,810
+<font face="Microsoft Yahei" size="26">她是个母亲
+<font size="13">She's a mother.</font></font>
+
+948
+01:10:31,440 --> 01:10:33,710
+<font face="Microsoft Yahei" size="26">她不漂亮吗
+<font size="13">Isn't she beautiful?</font></font>
+
+949
+01:10:54,160 --> 01:10:55,430
+<font face="Microsoft Yahei" size="26">丹尼尔
+<font size="13">Daniel.</font></font>
+
+950
+01:10:56,370 --> 01:10:58,400
+<font face="Microsoft Yahei" size="26">留下来
+<font size="13">Stay.</font></font>
+
+951
+01:11:49,220 --> 01:11:51,090
+<font face="Microsoft Yahei" size="26">你看到了吗 丹尼尔
+<font size="13">Do you see, Daniel?</font></font>
+
+952
+01:12:01,060 --> 01:12:03,300
+<font face="Microsoft Yahei" size="26">告诉我你看到的
+<font size="13">Tell me what you see.</font></font>
+
+953
+01:12:05,840 --> 01:12:07,800
+<font face="Microsoft Yahei" size="26">我看到
+<font size="13">I see...</font></font>
+
+954
+01:12:09,440 --> 01:12:14,380
+<font face="Microsoft Yahei" size="26">一个自认为是神的怪物
+<font size="13">A monster that thinks he's god.</font></font>
+
+955
+01:12:16,250 --> 01:12:18,110
+<font face="Microsoft Yahei" size="26">真让我失望
+<font size="13">I'm disappointed.</font></font>
+
+956
+01:12:18,120 --> 01:12:24,090
+<font face="Microsoft Yahei" size="26">我向你展现了一切 你却仍不明白
+<font size="13">Of all the things I've shown you and you still don't understand.</font></font>
+
+957
+01:12:24,090 --> 01:12:24,960
+<font face="Microsoft Yahei" size="26">没错
+<font size="13">No.</font></font>
+
+958
+01:12:27,030 --> 01:12:29,030
+<font face="Microsoft Yahei" size="26">你说得没错 我不明白
+<font size="13">No, you're right, I don't.</font></font>
+
+959
+01:12:29,030 --> 01:12:32,200
+<font face="Microsoft Yahei" size="26">我拒绝让死亡成为终结
+<font size="13">I refuse to let death be the end.</font></font>
+
+960
+01:12:32,200 --> 01:12:34,360
+<font face="Microsoft Yahei" size="26">我违抗神
+<font size="13">I defy god.</font></font>
+
+961
+01:12:34,370 --> 01:12:36,530
+<font face="Microsoft Yahei" size="26">世上有更为古老的存在
+<font size="13">There are things much older.</font></font>
+
+962
+01:12:36,530 --> 01:12:40,600
+<font face="Microsoft Yahei" size="26">比时间还古老 他们祝福了我
+<font size="13">Older than time and they blessed me.</font></font>
+
+963
+01:12:40,610 --> 01:12:43,570
+<font face="Microsoft Yahei" size="26">恭喜
+<font size="13">Well, congratulations.</font></font>
+
+964
+01:12:43,580 --> 01:12:49,350
+<font face="Microsoft Yahei" size="26">我一生都在对抗死亡 但现在我明白了
+<font size="13">I spent my life resisting death, but now I understand.</font></font>
+
+965
+01:12:49,350 --> 01:12:51,910
+<font face="Microsoft Yahei" size="26">我必须接受它
+<font size="13">I must embrace it.</font></font>
+
+966
+01:12:51,920 --> 01:12:54,550
+<font face="Microsoft Yahei" size="26">我将复活我的美丽女儿
+<font size="13">I'll have my beautiful daughter back.</font></font>
+
+967
+01:12:54,550 --> 01:12:57,520
+<font face="Microsoft Yahei" size="26">我只需要最后一样东西
+<font size="13">I just need one final thing.</font></font>
+
+968
+01:13:07,600 --> 01:13:10,470
+<font face="Microsoft Yahei" size="26">来吧 加入我
+<font size="13">Come, join me.</font></font>
+
+969
+01:13:29,320 --> 01:13:34,190
+<font face="Microsoft Yahei" size="26">其他人都聚集于此 来见证我女儿的重生
+<font size="13">The others have all gathered to witness my daughter's rebirth.</font></font>
+
+970
+01:13:35,090 --> 01:13:40,300
+<font face="Microsoft Yahei" size="26">我的信徒们准备好转变了
+<font size="13">My disciples ready for their own transformation.</font></font>
+
+971
+01:13:42,070 --> 01:13:47,100
+<font face="Microsoft Yahei" size="26">你可以亲自体验下 但首先
+<font size="13">You'll experience it yourself, but first,</font></font>
+
+972
+01:13:47,110 --> 01:13:49,440
+<font face="Microsoft Yahei" size="26">你得为我而死...
+<font size="13">you have to die for me...</font></font>
+
+973
+01:13:49,440 --> 01:13:53,380
+<font face="Microsoft Yahei" size="26">就如你之前的父亲和儿子
+<font size="13">Like your father and son before you.</font></font>
+
+974
+01:13:56,110 --> 01:13:58,680
+<font face="Microsoft Yahei" size="26">你做得太棒了 亲爱的
+<font size="13">You've done wonderfully, my dear.</font></font>
+
+975
+01:14:01,690 --> 01:14:04,320
+<font face="Microsoft Yahei" size="26">现在看着吧
+<font size="13">Now watch.</font></font>
+
+976
+01:14:04,320 --> 01:14:07,090
+<font face="Microsoft Yahei" size="26">你将是我的观众
+<font size="13">You will be my audience.</font></font>
+
+977
+01:14:13,100 --> 01:14:18,300
+<font face="Microsoft Yahei" size="26">看着阴间向我敞开吧
+<font size="13">Watch the abyss open itself to me.</font></font>
+
+978
+01:15:09,620 --> 01:15:12,150
+<font face="Microsoft Yahei" size="26">来祝福我的孩子吧
+<font size="13">Come and bless my baby.</font></font>
+
+979
+01:15:26,340 --> 01:15:29,730
+<font face="Microsoft Yahei" size="26">把我的女儿放入这个容器
+<font size="13">Place my daughter into this vessel.</font></font>
+
+980
+01:15:35,610 --> 01:15:37,050
+<font face="Microsoft Yahei" size="26">没错
+<font size="13">Yes.</font></font>
+
+981
+01:15:38,720 --> 01:15:41,180
+<font face="Microsoft Yahei" size="26">把你自己献给她吧
+<font size="13">Give yourself to her.</font></font>
+
+982
+01:15:47,620 --> 01:15:49,530
+<font face="Microsoft Yahei" size="26">让她出来吧
+<font size="13">Let her come to be.</font></font>
+
+983
+01:15:57,430 --> 01:15:59,600
+<font face="Microsoft Yahei" size="26">这就是她
+<font size="13">It's her.</font></font>
+
+984
+01:15:59,600 --> 01:16:01,640
+<font face="Microsoft Yahei" size="26">你看到了吗
+<font size="13">You see?</font></font>
+
+985
+01:16:25,230 --> 01:16:27,130
+<font face="Microsoft Yahei" size="26">嘿
+<font size="13">Hey!</font></font>
+
+986
+01:16:56,560 --> 01:16:58,090
+<font face="Microsoft Yahei" size="26">小心
+<font size="13">Look out!</font></font>
+
+987
+01:17:22,290 --> 01:17:23,350
+<font face="Microsoft Yahei" size="26">动手
+<font size="13">Do it!</font></font>
+
+988
+01:17:24,550 --> 01:17:25,690
+<font face="Microsoft Yahei" size="26">动手
+<font size="13">Do it!</font></font>
+
+989
+01:17:36,600 --> 01:17:37,530
+<font face="Microsoft Yahei" size="26">动手
+<font size="13">Do it!</font></font>
+
+990
+01:17:41,610 --> 01:17:42,910
+<font face="Microsoft Yahei" size="26">动手
+<font size="13">Do it!</font></font>
+
+991
+01:18:19,940 --> 01:18:22,910
+<font face="Microsoft Yahei" size="26">我们都将被拯救
+<font size="13">We will all be saved.</font></font>
+
+992
+01:18:25,720 --> 01:18:28,820
+<font face="Microsoft Yahei" size="26">这由世间一切所导致
+<font size="13">Everything has led to this.</font></font>
+
+993
+01:18:49,810 --> 01:18:52,840
+<font face="Microsoft Yahei" size="26">我能看透我面前的一切
+<font size="13">I can see it all before me.</font></font>
+
+994
+01:18:53,640 --> 01:18:56,580
+<font face="Microsoft Yahei" size="26">无限运转的异界
+<font size="13">The infinite astro workings.</font></font>
+
+995
+01:18:57,850 --> 01:19:00,780
+<font face="Microsoft Yahei" size="26">好美
+<font size="13">It's beautiful.</font></font>
+
+996
+01:19:26,840 --> 01:19:29,480
+<font face="Microsoft Yahei" size="26">别反抗了 丹尼尔
+<font size="13">Don't fight it, Daniel.</font></font>
+
+997
+01:19:33,780 --> 01:19:36,420
+<font face="Microsoft Yahei" size="26">我能把艾莉森给你
+<font size="13">I can give Allison to you.</font></font>
+
+998
+01:19:37,820 --> 01:19:40,620
+<font face="Microsoft Yahei" size="26">她就是你想要的 对吗
+<font size="13">That's what you want, isn't it?</font></font>
+
+999
+01:19:41,560 --> 01:19:43,790
+<font face="Microsoft Yahei" size="26">她在等你
+<font size="13">She's waiting for you.</font></font>
+
+1000
+01:19:44,530 --> 01:19:50,870
+<font face="Microsoft Yahei" size="26">你只要死 你们就能在一起了
+<font size="13">All you have to do is let go and you can be together.</font></font>
+
+1001
+01:19:54,000 --> 01:19:56,470
+<font face="Microsoft Yahei" size="26">真听话
+<font size="13">That's a good boy.</font></font>
+
+1002
+01:19:57,640 --> 01:20:01,440
+<font face="Microsoft Yahei" size="26">这并不是结束
+<font size="13">This isn't the end.</font></font>
+
+1003
+01:20:13,320 --> 01:20:14,490
+<font face="Microsoft Yahei" size="26">是结束
+<font size="13">Yes.</font></font>
+
+1004
+01:20:15,960 --> 01:20:17,360
+<font face="Microsoft Yahei" size="26">结束了
+<font size="13">Yes.</font></font>
+
+1005
+01:20:19,330 --> 01:20:20,830
+<font face="Microsoft Yahei" size="26">结束了
+<font size="13">Yes.</font></font>
+
+1006
+01:22:56,520 --> 01:22:58,050
+<font face="Microsoft Yahei" size="26">结束了吗
+<font size="13">Is it over?</font></font>
+
+1007
+01:22:58,060 --> 01:22:59,220
+<font face="Microsoft Yahei" size="26">结束了吗
+<font size="13">Is it over?</font></font>
+
+1008
+01:24:42,200 --> 01:24:49,160
+<font face="Microsoft Yahei" size="26">译者:微博@Emtee</font>
+
+1009
+01:24:49,150 --> 01:24:54,070
+<font face="Microsoft Yahei" size="26">译者:微博@Emtee</font>
+

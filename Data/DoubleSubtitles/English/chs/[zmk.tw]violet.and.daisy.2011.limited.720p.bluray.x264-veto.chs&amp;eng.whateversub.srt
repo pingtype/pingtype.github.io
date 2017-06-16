@@ -1,0 +1,5307 @@
+1
+00:00:51,410 --> 00:00:53,100
+<font face="方正准圆_GBK" size="48">我们现在怎么办?
+</font><font face="方正准圆_GBK" size="36">What are we gonna do now?</font>
+
+2
+00:00:54,790 --> 00:00:56,370
+<font face="方正准圆_GBK" size="48">我会想出办法的
+</font><font face="方正准圆_GBK" size="36">I'll think of something.</font>
+
+3
+00:00:56,490 --> 00:00:59,190
+<font face="方正准圆_GBK" size="48">冷掉的披萨跟温暖的小狗</font>
+
+4
+00:00:59,360 --> 00:01:01,770
+<font face="方正准圆_GBK" size="48">-在笑什么? -鲁斯没跟你讲吗?
+</font><font face="方正准圆_GBK" size="36">-What's funny? -Russ didn't tell you?</font>
+
+5
+00:01:01,790 --> 00:01:04,440
+<font face="方正准圆_GBK" size="48">他有跟我讲工作的事 但没讲好笑的事
+</font><font face="方正准圆_GBK" size="36">He told me about the job, but he didn't tell me anything funny.</font>
+
+6
+00:01:04,870 --> 00:01:07,370
+<font face="方正准圆_GBK" size="48">-他没跟你讲彼得的事? -没 谁是彼得?
+</font><font face="方正准圆_GBK" size="36">-He didn't tell you about Pete? -No. Who's Pete?</font>
+
+7
+00:01:08,130 --> 00:01:14,000
+<font face="方正准圆_GBK" size="48">有个叫彼得的医生很沮丧
+</font><font face="方正准圆_GBK" size="36">Well, it seems that this physician-type character named Pete was all depressed one day.</font>
+
+8
+00:01:14,020 --> 00:01:17,010
+<font face="方正准圆_GBK" size="48">因为他做了些让他很内疚的事
+</font><font face="方正准圆_GBK" size="36">He felt terrible 'cause he did some stuff he just couldn't get over.</font>
+
+9
+00:01:17,230 --> 00:01:21,280
+<font face="方正准圆_GBK" size="48">-他做了什么? -他睡了五个他的病人
+</font><font face="方正准圆_GBK" size="36">-What did he do? -He slept with five of his patients.</font>
+
+10
+00:01:21,490 --> 00:01:23,450
+<font face="方正准圆_GBK" size="48">但他其实没有那么糟
+</font><font face="方正准圆_GBK" size="36">But Pete wasn't the worst guy in the universe,</font>
+
+11
+00:01:23,830 --> 00:01:27,200
+<font face="方正准圆_GBK" size="48">因为他一直很内疚
+</font><font face="方正准圆_GBK" size="36">because no matter how hard he tried to forget about it, he couldn't.</font>
+
+12
+00:01:27,590 --> 00:01:31,630
+<font face="方正准圆_GBK" size="48">违反职业道德也让他很痛苦
+</font><font face="方正准圆_GBK" size="36">The guilt and sense of unprofessionalism was overwhelming.</font>
+
+13
+00:01:31,850 --> 00:01:33,840
+<font face="方正准圆_GBK" size="48">但他心里一直有个声音
+</font><font face="方正准圆_GBK" size="36">But every once in a while he'd hear a voice inside</font>
+
+14
+00:01:34,060 --> 00:01:36,390
+<font face="方正准圆_GBK" size="48">说着:不要在意
+</font><font face="方正准圆_GBK" size="36">that said, "Pete, don't worry about it.</font>
+
+15
+00:01:36,610 --> 00:01:39,550
+<font face="方正准圆_GBK" size="48">你不是第一个跟病人睡的医生
+</font><font face="方正准圆_GBK" size="36">You weren't the first licensed practitioner to sleep with one of your patients</font>
+
+16
+00:01:39,570 --> 00:01:41,030
+<font face="方正准圆_GBK" size="48">更不会是最后一个
+</font><font face="方正准圆_GBK" size="36">and you won't be the last.</font>
+
+17
+00:01:41,240 --> 00:01:42,950
+<font face="方正准圆_GBK" size="48">更何况你还单身
+</font><font face="方正准圆_GBK" size="36">Besides, you're single.</font>
+
+18
+00:01:43,160 --> 00:01:44,490
+<font face="方正准圆_GBK" size="48">不要在意了
+</font><font face="方正准圆_GBK" size="36">Let it go."</font>
+
+19
+00:01:44,710 --> 00:01:47,950
+<font face="方正准圆_GBK" size="48">不过当他要不自责时
+</font><font face="方正准圆_GBK" size="36">But then, just when he almost over the guilt with it all,</font>
+
+20
+00:01:48,170 --> 00:01:50,760
+<font face="方正准圆_GBK" size="48">另一个声音出现了
+</font><font face="方正准圆_GBK" size="36">another voice would bring him back down to reality.</font>
+
+21
+00:01:51,050 --> 00:01:52,630
+<font face="方正准圆_GBK" size="48">说着:彼得
+</font><font face="方正准圆_GBK" size="36">And say, "Oh Pete,</font>
+
+22
+00:01:52,850 --> 00:01:54,010
+<font face="方正准圆_GBK" size="48">但是
+</font><font face="方正准圆_GBK" size="36">But dude,</font>
+
+23
+00:01:54,220 --> 00:01:55,720
+<font face="方正准圆_GBK" size="48">你是兽医
+</font><font face="方正准圆_GBK" size="36">you're a veterinarian!"</font>
+
+24
+00:03:50,040 --> 00:03:51,200
+<font face="方正准圆_GBK" size="48">小薇!
+</font><font face="方正准圆_GBK" size="36">Vi!</font>
+
+25
+00:03:51,380 --> 00:03:52,530
+<font face="方正准圆_GBK" size="48">该走了!
+</font><font face="方正准圆_GBK" size="36">Let's go!</font>
+
+26
+00:03:54,300 --> 00:03:55,540
+<font face="方正准圆_GBK" size="48">你在干嘛?
+</font><font face="方正准圆_GBK" size="36">Wha-What are you doing?</font>
+
+27
+00:04:13,340 --> 00:04:15,580
+<font face="方正准圆_GBK" size="48">-我不懂 -不懂啥?
+</font><font face="方正准圆_GBK" size="36">-I don't get it. -Don't get what?</font>
+
+28
+00:04:15,800 --> 00:04:19,020
+<font face="方正准圆_GBK" size="48">"寿衣"有什么好笑的?
+</font><font face="方正准圆_GBK" size="36">What's so funny about the vegetarian man? I don't get it.</font>
+
+29
+00:04:19,220 --> 00:04:23,670
+<font face="方正准圆_GBK" size="48">-你是说"兽医"? -对 我不懂
+</font><font face="方正准圆_GBK" size="36">-You mean the veterinarian man? -Yeah, that guy. I don't get it.</font>
+
+30
+00:04:23,690 --> 00:04:25,610
+<font face="方正准圆_GBK" size="48">他跟病人睡
+</font><font face="方正准圆_GBK" size="36">He sleeps with his patients.</font>
+
+31
+00:04:25,820 --> 00:04:30,370
+<font face="方正准圆_GBK" size="48">而他的病人都是狗跟猫之类的
+</font><font face="方正准圆_GBK" size="36">His patients are probably cats and dogs and llamas and stuff.</font>
+
+32
+00:04:30,620 --> 00:04:34,960
+<font face="方正准圆_GBK" size="48">那有什么好笑的?以前我家有狗跟猫
+</font><font face="方正准圆_GBK" size="36">Why is that funny? Back home we had puppy dogs and kitty cats</font>
+
+33
+00:04:35,130 --> 00:04:38,000
+<font face="方正准圆_GBK" size="48">我也常跟它们一起睡我觉得很温馨啊
+</font><font face="方正准圆_GBK" size="36">I used to nap with all the time. I think it's sweet.</font>
+
+34
+00:04:38,890 --> 00:04:40,880
+<font face="方正准圆_GBK" size="48">算了 不要再想了
+</font><font face="方正准圆_GBK" size="36">Actually, don't worry about it, partner.</font>
+
+35
+00:04:41,100 --> 00:04:43,660
+<font face="方正准圆_GBK" size="48">这世界还有很多其它的笑话
+</font><font face="方正准圆_GBK" size="36">There are plenty of other jokes in the universe we can share.</font>
+
+36
+00:04:43,730 --> 00:04:45,530
+<font face="方正准圆_GBK" size="48">让我们开始为今晚做准备
+</font><font face="方正准圆_GBK" size="36">Let's just get ready for tonight.</font>
+
+37
+00:04:45,650 --> 00:04:47,650
+<font face="方正准圆_GBK" size="48">这可是挣来的休假
+</font><font face="方正准圆_GBK" size="36">Some well deserved vacation.</font>
+
+38
+00:04:47,870 --> 00:04:50,780
+<font face="方正准圆_GBK" size="48">-我有一个好笑话 薇莉 -说吧
+</font><font face="方正准圆_GBK" size="36">-I got a good one for you, Violet. -Lay it on me!</font>
+
+39
+00:04:51,040 --> 00:04:52,100
+<font face="方正准圆_GBK" size="48">啊 该死!
+</font><font face="方正准圆_GBK" size="36">Oh, dang!</font>
+
+40
+00:04:52,170 --> 00:04:54,160
+<font face="方正准圆_GBK" size="48">-怎么了? -我忘了
+</font><font face="方正准圆_GBK" size="36">-What? -I think I forgot it.</font>
+
+41
+00:04:55,050 --> 00:04:59,010
+<font face="方正准圆_GBK" size="48">这样想起来的时候 我再洗耳恭听
+</font><font face="方正准圆_GBK" size="36">Well that's the good thing, Daze. I'll be here if it comes back to you</font>
+
+42
+00:05:03,310 --> 00:05:06,180
+<font face="方正准圆_GBK" size="48">10 9 8
+</font><font face="方正准圆_GBK" size="36">Ten, Nine, Eight.</font>
+
+43
+00:05:07,090 --> 00:05:08,050
+<font face="方正准圆_GBK" size="48">7
+</font><font face="方正准圆_GBK" size="36">seven,</font>
+
+44
+00:05:08,430 --> 00:05:09,470
+<font face="方正准圆_GBK" size="48">6
+</font><font face="方正准圆_GBK" size="36">six,</font>
+
+45
+00:05:09,810 --> 00:05:10,510
+<font face="方正准圆_GBK" size="48">5
+</font><font face="方正准圆_GBK" size="36">five,</font>
+
+46
+00:05:10,850 --> 00:05:11,510
+<font face="方正准圆_GBK" size="48">4
+</font><font face="方正准圆_GBK" size="36">four,</font>
+
+47
+00:05:11,890 --> 00:05:12,680
+<font face="方正准圆_GBK" size="48">3
+</font><font face="方正准圆_GBK" size="36">three,</font>
+
+48
+00:05:13,100 --> 00:05:13,840
+<font face="方正准圆_GBK" size="48">2
+</font><font face="方正准圆_GBK" size="36">two,</font>
+
+49
+00:05:14,270 --> 00:05:15,220
+<font face="方正准圆_GBK" size="48">1
+</font><font face="方正准圆_GBK" size="36">one!</font>
+
+50
+00:05:26,360 --> 00:05:27,650
+<font face="方正准圆_GBK" size="48">你怎么了?
+</font><font face="方正准圆_GBK" size="36">What happened over there?</font>
+
+51
+00:05:29,160 --> 00:05:30,110
+<font face="方正准圆_GBK" size="48">那个…
+</font><font face="方正准圆_GBK" size="36">Well...</font>
+
+52
+00:05:31,240 --> 00:05:34,820
+<font face="方正准圆_GBK" size="48">我是在想 现在你18岁了
+</font><font face="方正准圆_GBK" size="36">I was just thinkin' that, since how you're 18 and all,</font>
+
+53
+00:05:34,840 --> 00:05:38,310
+<font face="方正准圆_GBK" size="48">你现在会被当作成人判刑
+</font><font face="方正准圆_GBK" size="36">you can be charged as an adult now, for all felonies.</font>
+
+54
+00:05:38,470 --> 00:05:42,060
+<font face="方正准圆_GBK" size="48">也不能再点儿童餐 坐摩天轮了
+</font><font face="方正准圆_GBK" size="36">Kid's meals, ferris wheels... God knows what else.</font>
+
+55
+00:05:44,150 --> 00:05:45,180
+<font face="方正准圆_GBK" size="48">我知道
+</font><font face="方正准圆_GBK" size="36">I know.</font>
+
+56
+00:05:48,990 --> 00:05:52,280
+<font face="方正准圆_GBK" size="48">这可以让你心情好一点
+</font><font face="方正准圆_GBK" size="36">But hey, this should turn that frown around.</font>
+
+57
+00:05:52,700 --> 00:05:55,070
+<font face="方正准圆_GBK" size="48">我有邀请老板来参加派对
+</font><font face="方正准圆_GBK" size="36">I've invited Boss to our party.</font>
+
+58
+00:06:08,870 --> 00:06:14,540
+<font face="方正准圆_GBK" size="48">亲爱的黛西 很抱歉我没办法去庆祝你的生日 但我祝你有快乐的一天 -切特</font>
+
+59
+00:06:15,880 --> 00:06:18,540
+<font face="方正准圆_GBK" size="48">你这样做实在太贴心了
+</font><font face="方正准圆_GBK" size="36">It was swell of you to invite him.</font>
+
+60
+00:06:57,880 --> 00:06:59,590
+<font face="方正准圆_GBK" size="48">哈罗?嗨 鲁斯
+</font><font face="方正准圆_GBK" size="36">Hello? Oh, hey Russ.</font>
+
+61
+00:06:59,800 --> 00:07:02,240
+<font face="方正准圆_GBK" size="48">鲁斯是打电话来祝我们假期愉快吗?
+</font><font face="方正准圆_GBK" size="36">Is that Russ calling to wish us a happy vacation?</font>
+
+62
+00:07:02,260 --> 00:07:04,760
+<font face="方正准圆_GBK" size="48">如果不是的话 他就打错电话了
+</font><font face="方正准圆_GBK" size="36">Because if he's not, he's got a wrong number.</font>
+
+63
+00:07:04,980 --> 00:07:06,230
+<font face="方正准圆_GBK" size="48">-呃… -该死的
+</font><font face="方正准圆_GBK" size="36">-Uh... -Biatch.</font>
+
+64
+00:07:06,310 --> 00:07:08,900
+<font face="方正准圆_GBK" size="48">我要问一下薇莉
+</font><font face="方正准圆_GBK" size="36">I don't know. I'll have to check with Violet.</font>
+
+65
+00:07:09,110 --> 00:07:10,820
+<font face="方正准圆_GBK" size="48">-小薇? -绝对不要
+</font><font face="方正准圆_GBK" size="36">-Vi? -No fucking way.</font>
+
+66
+00:07:11,030 --> 00:07:13,740
+<font face="方正准圆_GBK" size="48">-薇莉说不要 -薇莉说去你的不要!
+</font><font face="方正准圆_GBK" size="36">-Violet says no. -Violet says fuck no!</font>
+
+67
+00:07:13,950 --> 00:07:16,450
+<font face="方正准圆_GBK" size="48">你说我们还有更多的休假日
+</font><font face="方正准圆_GBK" size="36">I thought you said we had some down time ahead.</font>
+
+68
+00:07:18,340 --> 00:07:21,420
+<font face="方正准圆_GBK" size="48">薇莉说你一定会这样说
+</font><font face="方正准圆_GBK" size="36">No, Violet told me you'd pull something like this.</font>
+
+69
+00:07:21,630 --> 00:07:24,300
+<font face="方正准圆_GBK" size="48">她还说你也一定会这样说
+</font><font face="方正准圆_GBK" size="36">Oh, yep, no kidding. She said you'd do that too.</font>
+
+70
+00:07:24,350 --> 00:07:26,970
+<font face="方正准圆_GBK" size="48">提高工资 又说这次很轻松
+</font><font face="方正准圆_GBK" size="36">Up the money and call it an easy gig.</font>
+
+71
+00:07:27,190 --> 00:07:30,330
+<font face="方正准圆_GBK" size="48">这实在太老套了!你以为我们很笨吗?
+</font><font face="方正准圆_GBK" size="36">That's textbook, Russ! What you think we are, stupid?</font>
+
+72
+00:07:30,860 --> 00:07:32,570
+<font face="方正准圆_GBK" size="48">你也是!
+</font><font face="方正准圆_GBK" size="36">Yeah! Same to you!</font>
+
+73
+00:07:33,370 --> 00:07:36,410
+<font face="方正准圆_GBK" size="48">-真是不敢置信 -看这个 小黛
+</font><font face="方正准圆_GBK" size="36">-Can you believe him? -Lookie here, Daze.</font>
+
+74
+00:07:37,210 --> 00:07:39,170
+<font face="方正准圆_GBK" size="48">"周日芭比"有新的时装系列
+</font><font face="方正准圆_GBK" size="36">Barbie Sunday has a new fashion line.</font>
+
+75
+00:07:39,250 --> 00:07:41,920
+<font face="方正准圆_GBK" size="48">这时装会使你熠熠生辉
+</font><font face="方正准圆_GBK" size="36">"Be your best in my new signature dress.</font>
+
+76
+00:07:42,130 --> 00:07:45,440
+<font face="方正准圆_GBK" size="48">不管是在舞厅或办公室
+</font><font face="方正准圆_GBK" size="36">Let them know you mean business at the disco or in the boardroom,</font>
+
+77
+00:07:45,470 --> 00:07:48,390
+<font face="方正准圆_GBK" size="48">人人都会折服于这精致的作工
+</font><font face="方正准圆_GBK" size="36">with the amazing versatility of the premiere piece,</font>
+
+78
+00:07:48,560 --> 00:07:51,810
+<font face="方正准圆_GBK" size="48">以及极度时髦的设计
+</font><font face="方正准圆_GBK" size="36">in my high-end line, of super stylish couture.</font>
+
+79
+00:07:52,030 --> 00:07:53,790
+<font face="方正准圆_GBK" size="48">你将艳倒群雌!
+</font><font face="方正准圆_GBK" size="36">Who's better than you girl?"</font>
+
+80
+00:07:54,030 --> 00:07:55,870
+<font face="方正准圆_GBK" size="48">太棒了!
+</font><font face="方正准圆_GBK" size="36">Oh man!</font>
+
+81
+00:07:57,080 --> 00:07:59,200
+<font face="方正准圆_GBK" size="48">-这要多少钱? -300元
+</font><font face="方正准圆_GBK" size="36">-How much is it? -Around 300 bucks.</font>
+
+82
+00:07:59,340 --> 00:08:02,950
+<font face="方正准圆_GBK" size="48">-你怎么知道? -因为史黛西有买
+</font><font face="方正准圆_GBK" size="36">-How do you know? -I know because Stacy Culpepper's got one,</font>
+
+83
+00:08:02,970 --> 00:08:05,640
+<font face="方正准圆_GBK" size="48">而每个人都在讨论我们也来买
+</font><font face="方正准圆_GBK" size="36">and everybody was talking about it. Let's get ours.</font>
+
+84
+00:08:05,770 --> 00:08:07,880
+<font face="方正准圆_GBK" size="48">-我们不行 -为什么?
+</font><font face="方正准圆_GBK" size="36">-We can't. -Why not?</font>
+
+85
+00:08:08,060 --> 00:08:10,400
+<font face="方正准圆_GBK" size="48">因为我们把所有的钱都拿去缴房租了
+</font><font face="方正准圆_GBK" size="36">Because we blew the money on rent again.</font>
+
+86
+00:08:11,990 --> 00:08:15,950
+<font face="方正准圆_GBK" size="48">但还是有钱买个一件 然后也许…
+</font><font face="方正准圆_GBK" size="36">Still, we might still have enough for just one dress and then maybe...</font>
+
+87
+00:08:16,160 --> 00:08:17,320
+<font face="方正准圆_GBK" size="48">怎么了?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+88
+00:08:18,420 --> 00:08:19,630
+<font face="方正准圆_GBK" size="48">又花光了!
+</font><font face="方正准圆_GBK" size="36">Again, Vi?</font>
+
+89
+00:08:22,420 --> 00:08:25,040
+<font face="方正准圆_GBK" size="48">在鲁斯把工作给别人之前打给他
+</font><font face="方正准圆_GBK" size="36">Call Russ back before he gives the job away.</font>
+
+90
+00:08:25,050 --> 00:08:26,640
+<font face="方正准圆_GBK" size="48">-我们来做 -但是…
+</font><font face="方正准圆_GBK" size="36">-We gotta. -But...</font>
+
+91
+00:08:26,890 --> 00:08:28,930
+<font face="方正准圆_GBK" size="48">他说是很简单的差事 不是吗?
+</font><font face="方正准圆_GBK" size="36">He said it was an easy gig, right?</font>
+
+92
+00:08:29,150 --> 00:08:31,810
+<font face="方正准圆_GBK" size="48">-对 -还提高工资?
+</font><font face="方正准圆_GBK" size="36">-Yeah. -Upped the money too, didn't he?</font>
+
+93
+00:08:32,320 --> 00:08:33,480
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+94
+00:08:33,950 --> 00:08:36,110
+<font face="方正准圆_GBK" size="48">那还有什么好犹豫的?
+</font><font face="方正准圆_GBK" size="36">Then what are we waiting for?</font>
+
+95
+00:08:38,160 --> 00:08:39,660
+<font face="方正准圆_GBK" size="48">这实在太赞了!
+</font><font face="方正准圆_GBK" size="36">That's the shit!</font>
+
+96
+00:08:39,920 --> 00:08:42,460
+<font face="方正准圆_GBK" size="48">鲁斯是我 黛西
+</font><font face="方正准圆_GBK" size="36">Hey Russ, it's me, Daisy. I know what we said,</font>
+
+97
+00:08:42,670 --> 00:08:47,010
+<font face="方正准圆_GBK" size="48">我们改变心意了
+</font><font face="方正准圆_GBK" size="36">but we've changed our minds and we've, um, reconsidered your offer.</font>
+
+98
+00:08:47,180 --> 00:08:51,150
+<font face="方正准圆_GBK" size="48">我们可以做
+</font><font face="方正准圆_GBK" size="36">And we think that actually it would work out quite well because, um...</font>
+
+99
+00:08:51,360 --> 00:08:54,020
+<font face="方正准圆_GBK" size="48">因为你打电话过来的那天….
+</font><font face="方正准圆_GBK" size="36">See,the day that you talked about, we can work it.</font>
+
+100
+00:08:59,580 --> 00:09:00,920
+<font face="方正准圆_GBK" size="48">深一点 宝贝 再深一点
+</font><font face="方正准圆_GBK" size="36">Mmm... deeper, baby, deeper...</font>
+
+101
+00:09:01,290 --> 00:09:04,080
+<font face="方正准圆_GBK" size="48">真恶心!你不应该觉得很享受的!
+</font><font face="方正准圆_GBK" size="36">Ow, gross! You weren't suppose to like it!</font>
+
+102
+00:09:04,470 --> 00:09:07,180
+<font face="方正准圆_GBK" size="48">享不享受不是重点
+</font><font face="方正准圆_GBK" size="36">"Like" had nothing to do with it, princess.</font>
+
+103
+00:09:07,560 --> 00:09:10,070
+<font face="方正准圆_GBK" size="48">你们听过这家伙了吗?
+</font><font face="方正准圆_GBK" size="36">Now you guys heard about this guy?</font>
+
+104
+00:09:10,600 --> 00:09:14,320
+<font face="方正准圆_GBK" size="48">有人偷了切特的东西
+</font><font face="方正准圆_GBK" size="36">Okay, so basically there was this guy that stole some shit from Chet.</font>
+
+105
+00:09:14,400 --> 00:09:17,520
+<font face="方正准圆_GBK" size="48">-他偷了什么? -一卡车的香水
+</font><font face="方正准圆_GBK" size="36">-What did this guy take from him? -A truck full of cologne.</font>
+
+106
+00:09:17,660 --> 00:09:20,530
+<font face="方正准圆_GBK" size="48">但是卡车上不只有香水
+</font><font face="方正准圆_GBK" size="36">Now, this truck contains somethin' in addition to just cologne.</font>
+
+107
+00:09:20,750 --> 00:09:23,460
+<font face="方正准圆_GBK" size="48">-还有什么? -一大袋的钱
+</font><font face="方正准圆_GBK" size="36">-Somethin' like what? -A bag full of money.</font>
+
+108
+00:09:23,510 --> 00:09:26,170
+<font face="方正准圆_GBK" size="48">奇怪的是 他竟然打电话给我们
+</font><font face="方正准圆_GBK" size="36">The weird part is that the guy called us up</font>
+
+109
+00:09:26,220 --> 00:09:29,380
+<font face="方正准圆_GBK" size="48">而且还有种挑衅我们
+</font><font face="方正准圆_GBK" size="36">and had the stones to taunt us after he did what he did.</font>
+
+110
+00:09:29,390 --> 00:09:31,480
+<font face="方正准圆_GBK" size="48">-真有种 -或是想找死
+</font><font face="方正准圆_GBK" size="36">-Stones... -Or some kind of a death wish.</font>
+
+111
+00:09:31,560 --> 00:09:34,360
+<font face="方正准圆_GBK" size="48">因为他给了我们他的住址
+</font><font face="方正准圆_GBK" size="36">'Cause he all gave us his address.</font>
+
+112
+00:09:34,440 --> 00:09:36,890
+<font face="方正准圆_GBK" size="48">他的名字跟电话
+</font><font face="方正准圆_GBK" size="36">His name and number, was clear as day</font>
+
+113
+00:09:36,950 --> 00:09:38,710
+<font face="方正准圆_GBK" size="48">还一直不断挑衅我们
+</font><font face="方正准圆_GBK" size="36">the whole time he was fuckin' with us.</font>
+
+114
+00:09:39,660 --> 00:09:42,120
+<font face="方正准圆_GBK" size="48">史黛西就住在他家不远处
+</font><font face="方正准圆_GBK" size="36">Culpepper lives about three blocks from this dude.</font>
+
+115
+00:09:42,330 --> 00:09:43,700
+<font face="方正准圆_GBK" size="48">她观察了一下
+</font><font face="方正准圆_GBK" size="36">She's checked him out.</font>
+
+116
+00:09:43,710 --> 00:09:47,080
+<font face="方正准圆_GBK" size="48">说他早上出门 下午才回来
+</font><font face="方正准圆_GBK" size="36">Says he leaves in the morning, comes back in the afternoon.</font>
+
+117
+00:09:47,760 --> 00:09:51,680
+<font face="方正准圆_GBK" size="48">等他回来时 你们就等着他了
+</font><font face="方正准圆_GBK" size="36">When he comes home, you'll be waiting for him.</font>
+
+118
+00:09:51,940 --> 00:09:53,390
+<font face="方正准圆_GBK" size="48">就这样
+</font><font face="方正准圆_GBK" size="36">And that's that.</font>
+
+119
+00:09:53,650 --> 00:09:57,070
+<font face="方正准圆_GBK" size="48">房东会帮我们把门打开
+</font><font face="方正准圆_GBK" size="36">The landlord's on our team, so the door will be open.</font>
+
+120
+00:09:57,280 --> 00:10:00,070
+<font face="方正准圆_GBK" size="48">-最好是 -别担心 一定会开
+</font><font face="方正准圆_GBK" size="36">-Better be. -Relax. The door will be open.</font>
+
+121
+00:10:00,290 --> 00:10:02,250
+<font face="方正准圆_GBK" size="48">而且你们也不用担心引起噪音
+</font><font face="方正准圆_GBK" size="36">And you don't have to worry about the noise either.</font>
+
+122
+00:10:02,420 --> 00:10:04,680
+<font face="方正准圆_GBK" size="48">-为什么? -那栋房子几乎没人住
+</font><font face="方正准圆_GBK" size="36">-Why not? -The building's almost empty.</font>
+
+123
+00:10:04,750 --> 00:10:09,270
+<font face="方正准圆_GBK" size="48">因为要改建还什么之类的
+</font><font face="方正准圆_GBK" size="36">Switching over the condos or some kinda gentrificational kind of shit.</font>
+
+124
+00:10:09,350 --> 00:10:11,510
+<font face="方正准圆_GBK" size="48">你确定他只有一个人?
+</font><font face="方正准圆_GBK" size="36">You sure this guy was working alone, Russ?</font>
+
+125
+00:10:11,520 --> 00:10:14,810
+<font face="方正准圆_GBK" size="48">很确定 房东说他都是一个人
+</font><font face="方正准圆_GBK" size="36">Pretty sure. Landlord said the guy's a loner.</font>
+
+126
+00:10:15,490 --> 00:10:17,020
+<font face="方正准圆_GBK" size="48">明天去做
+</font><font face="方正准圆_GBK" size="36">This happens tomorrow.</font>
+
+127
+00:10:17,530 --> 00:10:20,470
+<font face="方正准圆_GBK" size="48">-你们可以做到吗? -当然可以
+</font><font face="方正准圆_GBK" size="36">-Can you handle it? -'Course we can handle it.</font>
+
+128
+00:10:20,500 --> 00:10:21,950
+<font face="方正准圆_GBK" size="48">配置图?
+</font><font face="方正准圆_GBK" size="36">You got the specs?</font>
+
+129
+00:10:27,510 --> 00:10:28,890
+<font face="方正准圆_GBK" size="48">没问题了吗?
+</font><font face="方正准圆_GBK" size="36">Now we good?</font>
+
+130
+00:10:28,970 --> 00:10:30,930
+<font face="方正准圆_GBK" size="48">没问题了
+</font><font face="方正准圆_GBK" size="36">Yeah, we good.</font>
+
+131
+00:10:31,140 --> 00:10:32,260
+<font face="方正准圆_GBK" size="48">走吧 小黛
+</font><font face="方正准圆_GBK" size="36">Come on, Daze.</font>
+
+132
+00:10:33,310 --> 00:10:36,180
+<font face="方正准圆_GBK" size="48">你们知道周日芭比要推出新洋装吗?
+</font><font face="方正准圆_GBK" size="36">Hey you guys hear about Barbie Sunday's new dress?</font>
+
+133
+00:10:36,400 --> 00:10:38,520
+<font face="方正准圆_GBK" size="48">-知道 -确定一下而已
+</font><font face="方正准圆_GBK" size="36">-Yeah we know. -Just checkin'.</font>
+
+134
+00:10:39,160 --> 00:10:40,110
+<font face="方正准圆_GBK" size="48">小黛!
+</font><font face="方正准圆_GBK" size="36">Daze!</font>
+
+135
+00:10:40,490 --> 00:10:41,450
+<font face="方正准圆_GBK" size="48">啊?
+</font><font face="方正准圆_GBK" size="36">Yeah?</font>
+
+136
+00:10:42,250 --> 00:10:43,360
+<font face="方正准圆_GBK" size="48">生日快乐!
+</font><font face="方正准圆_GBK" size="36">Happy Birthday!</font>
+
+137
+00:10:43,670 --> 00:10:45,000
+<font face="方正准圆_GBK" size="48">谢了 鲁斯
+</font><font face="方正准圆_GBK" size="36">Thanks, Russ.</font>
+
+138
+00:10:45,210 --> 00:10:48,770
+<font face="方正准圆_GBK" size="48">如果多注意一下你的伙伴 你搞不好还可以看到下一个
+</font><font face="方正准圆_GBK" size="36">If you keep an eye on your partner, you might be around see your next one.</font>
+
+139
+00:10:49,390 --> 00:10:50,800
+<font face="方正准圆_GBK" size="48">去死吧!鲁斯!
+</font><font face="方正准圆_GBK" size="36">Fuck off, Russ!</font>
+
+140
+00:10:51,220 --> 00:10:53,160
+<font face="方正准圆_GBK" size="48">问她有关萝丝的事
+</font><font face="方正准圆_GBK" size="36">Ask her about Rose.</font>
+
+141
+00:10:53,230 --> 00:10:55,560
+<font face="方正准圆_GBK" size="48">再说一次:去死吧!鲁斯!
+</font><font face="方正准圆_GBK" size="36">I said fuck off, Russ!</font>
+
+142
+00:10:58,110 --> 00:10:59,350
+<font face="方正准圆_GBK" size="48">谁是萝丝?
+</font><font face="方正准圆_GBK" size="36">Who's Rose?</font>
+
+143
+00:10:59,870 --> 00:11:01,730
+<font face="方正准圆_GBK" size="48">我以前的搭档
+</font><font face="方正准圆_GBK" size="36">My old partner.</font>
+
+144
+00:11:02,000 --> 00:11:04,610
+<font face="方正准圆_GBK" size="48">-我还以为我是你唯一的搭档 -不好意思
+</font><font face="方正准圆_GBK" size="36">-I thought I was your only... -Sorry Daze.</font>
+
+145
+00:11:04,830 --> 00:11:06,290
+<font face="方正准圆_GBK" size="48">那她怎么了?
+</font><font face="方正准圆_GBK" size="36">Well, what happened to her?</font>
+
+146
+00:11:06,300 --> 00:11:08,690
+<font face="方正准圆_GBK" size="48">-死了 -怎么死的?
+</font><font face="方正准圆_GBK" size="36">-She died. -How?</font>
+
+147
+00:11:09,050 --> 00:11:11,290
+<font face="方正准圆_GBK" size="48">-被枪杀 -怎么被枪杀的?
+</font><font face="方正准圆_GBK" size="36">-Got shot. -How?</font>
+
+148
+00:11:11,510 --> 00:11:12,750
+<font face="方正准圆_GBK" size="48">就普通的枪杀
+</font><font face="方正准圆_GBK" size="36">Usual way.</font>
+
+149
+00:11:12,770 --> 00:11:15,180
+<font face="方正准圆_GBK" size="48">有人对准她 扣下板机
+</font><font face="方正准圆_GBK" size="36">Somebody pointed a gun at her and pulled the trigger.</font>
+
+150
+00:11:15,440 --> 00:11:17,730
+<font face="方正准圆_GBK" size="48">-谁? -这很复杂
+</font><font face="方正准圆_GBK" size="36">-Who? -It's complicated.</font>
+
+151
+00:11:17,990 --> 00:11:20,820
+<font face="方正准圆_GBK" size="48">-这样就说得通了 -为什么?
+</font><font face="方正准圆_GBK" size="36">-Well, it all kinda make sense now. -Why?</font>
+
+152
+00:11:21,080 --> 00:11:23,140
+<font face="方正准圆_GBK" size="48">你有时候会在睡梦中说她的名字
+</font><font face="方正准圆_GBK" size="36">You talked about her in your sleep sometimes.</font>
+
+153
+00:11:23,160 --> 00:11:24,220
+<font face="方正准圆_GBK" size="48">我会?
+</font><font face="方正准圆_GBK" size="36">I do?</font>
+
+154
+00:11:24,830 --> 00:11:25,890
+<font face="方正准圆_GBK" size="48">嗯
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+155
+00:11:27,840 --> 00:11:28,890
+<font face="方正准圆_GBK" size="48">睡梦花朵</font>
+
+156
+00:11:29,010 --> 00:11:31,050
+<font face="方正准圆_GBK" size="48">-小薇? -在这
+</font><font face="方正准圆_GBK" size="36">-Vi? -Yeah, man.</font>
+
+157
+00:11:31,260 --> 00:11:33,430
+<font face="方正准圆_GBK" size="48">我等不急拿到衣服了
+</font><font face="方正准圆_GBK" size="36">I can't wait until we get the dresses.</font>
+
+158
+00:11:33,430 --> 00:11:35,490
+<font face="方正准圆_GBK" size="48">拿到后 我们就会有不同以往的新人生
+</font><font face="方正准圆_GBK" size="36">Things are gonna change for us after that.</font>
+
+159
+00:11:35,560 --> 00:11:37,150
+<font face="方正准圆_GBK" size="48">对呀!
+</font><font face="方正准圆_GBK" size="36">Oh, hell yeah!</font>
+
+160
+00:12:10,510 --> 00:12:13,850
+<font face="方正准圆_GBK" size="48">-需要上锁吗? -不 用这个
+</font><font face="方正准圆_GBK" size="36">-Do we need to chain it up? -Nah, this will do.</font>
+
+161
+00:12:27,530 --> 00:12:29,860
+<font face="方正准圆_GBK" size="48">谁碰谁就死</font>
+
+162
+00:13:19,980 --> 00:13:21,600
+<font face="方正准圆_GBK" size="48">-没问题? -没问题
+</font><font face="方正准圆_GBK" size="36">-Cool? -Cool.</font>
+
+163
+00:13:31,460 --> 00:13:34,400
+<font face="方正准圆_GBK" size="48">这是我最后一次跟你讲这件事
+</font><font face="方正准圆_GBK" size="36">This is really the last time, I'm gonna say this to you.</font>
+
+164
+00:13:34,510 --> 00:13:35,690
+<font face="方正准圆_GBK" size="48">以及跟你讲话
+</font><font face="方正准圆_GBK" size="36">Okay? Or anything else.</font>
+
+165
+00:13:35,760 --> 00:13:38,860
+<font face="方正准圆_GBK" size="48">不要再寄任何东西给我我…
+</font><font face="方正准圆_GBK" size="36">I don't want you to send me anything anymore. I don't...</font>
+
+166
+00:13:38,980 --> 00:13:41,390
+<font face="方正准圆_GBK" size="48">我把那些花都丢了
+</font><font face="方正准圆_GBK" size="36">I threw out those flowers.</font>
+
+167
+00:13:41,610 --> 00:13:43,850
+<font face="方正准圆_GBK" size="48">你做什么都无法弥补
+</font><font face="方正准圆_GBK" size="36">You can't fix it.</font>
+
+168
+00:13:44,110 --> 00:13:46,180
+<font face="方正准圆_GBK" size="48">我实在受够你了
+</font><font face="方正准圆_GBK" size="36">And I'm really... done with you.</font>
+
+169
+00:13:46,240 --> 00:13:49,200
+<font face="方正准圆_GBK" size="48">我不想看到你或听见你
+</font><font face="方正准圆_GBK" size="36">I don't want talk to you again. I don't want to hear from you again.</font>
+
+170
+00:13:49,420 --> 00:13:51,790
+<font face="方正准圆_GBK" size="48">只想要你离我远一点
+</font><font face="方正准圆_GBK" size="36">I want you to leave me alone.</font>
+
+171
+00:13:52,000 --> 00:13:54,790
+<font face="方正准圆_GBK" size="48">你不知道怎么弥补
+</font><font face="方正准圆_GBK" size="36">Please, okay? You don't know how to fix this.</font>
+
+172
+00:13:55,010 --> 00:13:56,750
+<font face="方正准圆_GBK" size="48">你无法弥补
+</font><font face="方正准圆_GBK" size="36">You can't fix it.</font>
+
+173
+00:13:56,970 --> 00:13:59,610
+<font face="方正准圆_GBK" size="48">你…毫无头绪
+</font><font face="方正准圆_GBK" size="36">You... have no clue.</font>
+
+174
+00:14:01,940 --> 00:14:03,830
+<font face="方正准圆_GBK" size="48">离我远一点就对了
+</font><font face="方正准圆_GBK" size="36">Just... leave me alone.</font>
+
+175
+00:14:03,900 --> 00:14:06,440
+<font face="方正准圆_GBK" size="48">我再也不想跟你有瓜葛
+</font><font face="方正准圆_GBK" size="36">I don't ever wanna hear from you again.</font>
+
+176
+00:14:21,650 --> 00:14:23,980
+<font face="方正准圆_GBK" size="48">当锁转动的时候叫醒我
+</font><font face="方正准圆_GBK" size="36">Wake me up when the latch turns.</font>
+
+177
+00:14:24,400 --> 00:14:25,690
+<font face="方正准圆_GBK" size="48">但是如果…
+</font><font face="方正准圆_GBK" size="36">But what if...</font>
+
+178
+00:14:25,700 --> 00:14:28,060
+<font face="方正准圆_GBK" size="48">这看就知道不是什么危险份子的住处
+</font><font face="方正准圆_GBK" size="36">This isn't exactly the residence of a renegade, Daze.</font>
+
+179
+00:14:28,080 --> 00:14:28,950
+<font face="方正准圆_GBK" size="48">但是…
+</font><font face="方正准圆_GBK" size="36">But...</font>
+
+180
+00:14:28,980 --> 00:14:32,480
+<font face="方正准圆_GBK" size="48">保持醒着就对了 好让我去梦那件洋装
+</font><font face="方正准圆_GBK" size="36">Just keep a lookout while I go and dream about a dress.</font>
+
+181
+00:16:19,730 --> 00:16:20,910
+<font face="方正准圆_GBK" size="48">他</font>
+
+182
+00:16:28,740 --> 00:16:30,920
+<font face="方正准圆_GBK" size="48">我的天!是这个人吗?
+</font><font face="方正准圆_GBK" size="36">Oh my God! Is that the guy?</font>
+
+183
+00:16:32,370 --> 00:16:34,910
+<font face="方正准圆_GBK" size="48">-这是怎么回事? -不知道
+</font><font face="方正准圆_GBK" size="36">-What's going on? -I don't know.</font>
+
+184
+00:16:35,580 --> 00:16:38,310
+<font face="方正准圆_GBK" size="48">-他怎么不拿走我们的枪? -不知道
+</font><font face="方正准圆_GBK" size="36">-Why didn't he take our guns or nothin'? -I don't know.</font>
+
+185
+00:16:38,590 --> 00:16:41,550
+<font face="方正准圆_GBK" size="48">-我们应该叫醒他 还是直接杀了他? -小黛 我不知道
+</font><font face="方正准圆_GBK" size="36">-Should we wake him up or just pop him? -I don't know Daze.</font>
+
+186
+00:16:51,030 --> 00:16:52,490
+<font face="方正准圆_GBK" size="48">嗨!你们好
+</font><font face="方正准圆_GBK" size="36">Hey, girls.</font>
+
+187
+00:16:55,330 --> 00:16:57,170
+<font face="方正准圆_GBK" size="48">如果你们饿的话 冰箱里有吃的
+</font><font face="方正准圆_GBK" size="36">There's stuff in the kitchen if you're hungry.</font>
+
+188
+00:16:59,340 --> 00:17:02,510
+<font face="方正准圆_GBK" size="48">-你知道我们为何而来吗? -知道 我在等你们
+</font><font face="方正准圆_GBK" size="36">-Do you know why we're here? -Yes, I've been expecting you.</font>
+
+189
+00:17:03,390 --> 00:17:06,430
+<font face="方正准圆_GBK" size="48">我想你有些误解
+</font><font face="方正准圆_GBK" size="36">I think there must be some sort of misunderstanding.</font>
+
+190
+00:17:06,650 --> 00:17:09,310
+<font face="方正准圆_GBK" size="48">我们不是来帮你打扫 整理衣服
+</font><font face="方正准圆_GBK" size="36">We're not here to clean your bathtub, or...</font>
+
+191
+00:17:09,530 --> 00:17:12,400
+<font face="方正准圆_GBK" size="48">或来取悦你的
+</font><font face="方正准圆_GBK" size="36">organize your closets, or make you happy.</font>
+
+192
+00:17:12,580 --> 00:17:13,940
+<font face="方正准圆_GBK" size="48">真的?
+</font><font face="方正准圆_GBK" size="36">Really?</font>
+
+193
+00:17:14,160 --> 00:17:15,450
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+194
+00:17:16,420 --> 00:17:18,120
+<font face="方正准圆_GBK" size="48">我们是来杀你的
+</font><font face="方正准圆_GBK" size="36">We're here to kill you.</font>
+
+195
+00:17:19,090 --> 00:17:21,600
+<font face="方正准圆_GBK" size="48">那我没有误解
+</font><font face="方正准圆_GBK" size="36">Then there's no misunderstanding at all.</font>
+
+196
+00:17:28,230 --> 00:17:30,900
+<font face="方正准圆_GBK" size="48">你介意我跟伙伴讲一下话吗?
+</font><font face="方正准圆_GBK" size="36">Do you mind if I have a word with my partner?</font>
+
+197
+00:17:31,240 --> 00:17:33,470
+<font face="方正准圆_GBK" size="48">等一下小黛 去搜他身
+</font><font face="方正准圆_GBK" size="36">Wait a sec. Search him, Daze.</font>
+
+198
+00:17:56,120 --> 00:17:57,460
+<font face="方正准圆_GBK" size="48">他没问题
+</font><font face="方正准圆_GBK" size="36">He's clean, Vi.</font>
+
+199
+00:17:59,840 --> 00:18:00,790
+<font face="方正准圆_GBK" size="48">过来
+</font><font face="方正准圆_GBK" size="36">Come on then.</font>
+
+200
+00:18:12,780 --> 00:18:15,670
+<font face="方正准圆_GBK" size="48">-这跟我们计划的不一样 -我知道
+</font><font face="方正准圆_GBK" size="36">-This isn't go much like we pictured it, Vi. -Yeah, I know.</font>
+
+201
+00:18:15,740 --> 00:18:17,950
+<font face="方正准圆_GBK" size="48">我以为这只是件普通差事
+</font><font face="方正准圆_GBK" size="36">I just wish it more like a normal job.</font>
+
+202
+00:18:18,120 --> 00:18:19,620
+<font face="方正准圆_GBK" size="48">但现在却变得很奇怪
+</font><font face="方正准圆_GBK" size="36">Now it's weird.</font>
+
+203
+00:18:19,880 --> 00:18:22,080
+<font face="方正准圆_GBK" size="48">我从没跟要下手的对象讲过话
+</font><font face="方正准圆_GBK" size="36">I never really talked to a job before.</font>
+
+204
+00:18:22,090 --> 00:18:24,300
+<font face="方正准圆_GBK" size="48">这也许是个测验
+</font><font face="方正准圆_GBK" size="36">This might be some kind of test.</font>
+
+205
+00:18:24,550 --> 00:18:26,860
+<font face="方正准圆_GBK" size="48">做个职业妇女 每件事都像测试
+</font><font face="方正准圆_GBK" size="36">Everything's a test when you're a career woman.</font>
+
+206
+00:18:26,930 --> 00:18:28,430
+<font face="方正准圆_GBK" size="48">没错
+</font><font face="方正准圆_GBK" size="36">Damn right.</font>
+
+207
+00:18:28,650 --> 00:18:31,730
+<font face="方正准圆_GBK" size="48">而且那些衣服可不是免费的
+</font><font face="方正准圆_GBK" size="36">And those dresses aren't gonna buy themselves.</font>
+
+208
+00:18:33,320 --> 00:18:34,370
+<font face="方正准圆_GBK" size="48">-我想到了! -什么?
+</font><font face="方正准圆_GBK" size="36">-I got it! -What?</font>
+
+209
+00:18:34,400 --> 00:18:36,040
+<font face="方正准圆_GBK" size="48">-我知道该怎么做! -什么?
+</font><font face="方正准圆_GBK" size="36">-I know we could do! -What?</font>
+
+210
+00:18:36,200 --> 00:18:38,920
+<font face="方正准圆_GBK" size="48">我们什么都不要想的一走进去就大扫射
+</font><font face="方正准圆_GBK" size="36">Why don't we just go in there, blasting without thinking about it?</font>
+
+211
+00:18:39,040 --> 00:18:40,780
+<font face="方正准圆_GBK" size="48">这样我们就不会顾虑有的没的
+</font><font face="方正准圆_GBK" size="36">That way, we won't have to think about it.</font>
+
+212
+00:18:40,790 --> 00:18:44,260
+<font face="方正准圆_GBK" size="48">甚至可以闭上眼 因为那么近的距离不会射偏
+</font><font face="方正准圆_GBK" size="36">We don't even have to look either, because we're never gonna miss it that distance.</font>
+
+213
+00:18:44,260 --> 00:18:46,950
+<font face="方正准圆_GBK" size="48">这可是个天大的好点子!
+</font><font face="方正准圆_GBK" size="36">It's a good plan, Daze. A real good one!</font>
+
+214
+00:18:46,970 --> 00:18:48,520
+<font face="方正准圆_GBK" size="48">-真的吗? -真的
+</font><font face="方正准圆_GBK" size="36">-You think so? -Totally.</font>
+
+215
+00:18:48,600 --> 00:18:49,760
+<font face="方正准圆_GBK" size="48">好
+</font><font face="方正准圆_GBK" size="36">Cool.</font>
+
+216
+00:18:49,770 --> 00:18:51,930
+<font face="方正准圆_GBK" size="48">-但是不要瞄得太高 -为什么?
+</font><font face="方正准圆_GBK" size="36">-But don't aim too high. -Why not?</font>
+
+217
+00:18:51,940 --> 00:18:53,440
+<font face="方正准圆_GBK" size="48">这样才不会射到那小鸟
+</font><font face="方正准圆_GBK" size="36">We don't want to hit that little bird.</font>
+
+218
+00:18:53,820 --> 00:18:55,880
+<font face="方正准圆_GBK" size="48">说得对
+</font><font face="方正准圆_GBK" size="36">Oh, yeah. Good thinkin'.</font>
+
+219
+00:18:56,200 --> 00:18:57,560
+<font face="方正准圆_GBK" size="48">准备好了吗?
+</font><font face="方正准圆_GBK" size="36">Okay, ready?</font>
+
+220
+00:18:57,830 --> 00:18:59,990
+<font face="方正准圆_GBK" size="48">-好了 -上吧!
+</font><font face="方正准圆_GBK" size="36">-Ready. -Let's do it!</font>
+
+221
+00:19:18,290 --> 00:19:19,870
+<font face="方正准圆_GBK" size="48">要吃点心吗?
+</font><font face="方正准圆_GBK" size="36">Who wants a snack?</font>
+
+222
+00:19:21,210 --> 00:19:23,250
+<font face="方正准圆_GBK" size="48">但小心烫
+</font><font face="方正准圆_GBK" size="36">Be careful they're hot.</font>
+
+223
+00:19:25,010 --> 00:19:26,930
+<font face="方正准圆_GBK" size="48">呃…不用了
+</font><font face="方正准圆_GBK" size="36">Um... no thank you.</font>
+
+224
+00:19:27,010 --> 00:19:30,200
+<font face="方正准圆_GBK" size="48">-你不喜欢饼干吗? -喜欢 但是…
+</font><font face="方正准圆_GBK" size="36">-Don't you like cookies? -Yeah, but...</font>
+
+225
+00:19:30,350 --> 00:19:32,640
+<font face="方正准圆_GBK" size="48">我现在有点内疚
+</font><font face="方正准圆_GBK" size="36">I feel kind of bad now.</font>
+
+226
+00:19:33,320 --> 00:19:36,730
+<font face="方正准圆_GBK" size="48">-不要太过度反应了 -是燕麦口味吗?
+</font><font face="方正准圆_GBK" size="36">-Don't be ridiculous. -Are those oatmeal?</font>
+
+227
+00:19:42,590 --> 00:19:43,740
+<font face="方正准圆_GBK" size="48">谢谢
+</font><font face="方正准圆_GBK" size="36">Thanks, mister.</font>
+
+228
+00:19:52,690 --> 00:19:54,050
+<font face="方正准圆_GBK" size="48">怎么了?
+</font><font face="方正准圆_GBK" size="36">What's wrong?</font>
+
+229
+00:19:55,150 --> 00:19:57,520
+<font face="方正准圆_GBK" size="48">你有在里面掺了什么吗?
+</font><font face="方正准圆_GBK" size="36">Wait a minute, did you put something in these?</font>
+
+230
+00:19:58,490 --> 00:20:00,190
+<font face="方正准圆_GBK" size="48">不然你表情怎么这样?
+</font><font face="方正准圆_GBK" size="36">Why are you looking at us funny?</font>
+
+231
+00:20:00,210 --> 00:20:02,110
+<font face="方正准圆_GBK" size="48">不不不
+</font><font face="方正准圆_GBK" size="36">No, no, no...</font>
+
+232
+00:20:02,130 --> 00:20:04,990
+<font face="方正准圆_GBK" size="48">只是我没想到来的会是你们这样的人
+</font><font face="方正准圆_GBK" size="36">It's just that you girls aren't what I expected.</font>
+
+233
+00:20:06,550 --> 00:20:08,130
+<font face="方正准圆_GBK" size="48">我们也没想到会有这样的目标
+</font><font face="方正准圆_GBK" size="36">We didn't picture you either.</font>
+
+234
+00:20:09,430 --> 00:20:11,840
+<font face="方正准圆_GBK" size="48">人生就是这样才有趣
+</font><font face="方正准圆_GBK" size="36">Keeps life interesting I guess.</font>
+
+235
+00:20:12,730 --> 00:20:14,440
+<font face="方正准圆_GBK" size="48">你有牛奶吗?
+</font><font face="方正准圆_GBK" size="36">Do you have any milk?</font>
+
+236
+00:20:30,430 --> 00:20:32,550
+<font face="方正准圆_GBK" size="48">插嘴一下
+</font><font face="方正准圆_GBK" size="36">I hate to interrupt or anything, but...</font>
+
+237
+00:20:32,940 --> 00:20:35,150
+<font face="方正准圆_GBK" size="48">你们是不是该重新装上子弹?
+</font><font face="方正准圆_GBK" size="36">don't you think you girls had better reload?</font>
+
+238
+00:20:35,990 --> 00:20:38,350
+<font face="方正准圆_GBK" size="48">你到底是有什么问题?
+</font><font face="方正准圆_GBK" size="36">Excuse me, but what is your deal?</font>
+
+239
+00:20:38,370 --> 00:20:39,710
+<font face="方正准圆_GBK" size="48">我不想谈这个
+</font><font face="方正准圆_GBK" size="36">I'd rather not discuss it.</font>
+
+240
+00:20:39,780 --> 00:20:42,570
+<font face="方正准圆_GBK" size="48">-为什么? -因为这是我的私事
+</font><font face="方正准圆_GBK" size="36">-Why not? -That's my business, that's why not.</font>
+
+241
+00:20:43,630 --> 00:20:44,580
+<font face="方正准圆_GBK" size="48">到底是有什么大不…
+</font><font face="方正准圆_GBK" size="36">What's the big...</font>
+
+242
+00:20:44,920 --> 00:20:46,790
+<font face="方正准圆_GBK" size="48">我还以为他们会派专业的来
+</font><font face="方正准圆_GBK" size="36">I thought for sure they'd send professionals.</font>
+
+243
+00:20:46,820 --> 00:20:47,360
+<font face="方正准圆_GBK" size="48">我们就是!
+</font><font face="方正准圆_GBK" size="36">They did!</font>
+
+244
+00:20:47,380 --> 00:20:49,770
+<font face="方正准圆_GBK" size="48">那又为什么要问这些?
+</font><font face="方正准圆_GBK" size="36">Then why does it matter what I don't want to discuss?</font>
+
+245
+00:20:49,850 --> 00:20:51,790
+<font face="方正准圆_GBK" size="48">如果你是我们的话 你不会在意吗?
+</font><font face="方正准圆_GBK" size="36">Wouldn't you be curious if you were us?</font>
+
+246
+00:20:51,810 --> 00:20:53,850
+<font face="方正准圆_GBK" size="48">如果你要子弹 街角那边有卖
+</font><font face="方正准圆_GBK" size="36">There's a place around the corner if you need more ammo.</font>
+
+247
+00:20:53,940 --> 00:20:57,360
+<font face="方正准圆_GBK" size="48">-我们有子弹 -那就快点下手
+</font><font face="方正准圆_GBK" size="36">-We got ammo. -Then let's get this show on the road.</font>
+
+248
+00:20:58,780 --> 00:21:00,850
+<font face="方正准圆_GBK" size="48">等一下会有人来
+</font><font face="方正准圆_GBK" size="36">Expecting company.</font>
+
+249
+00:21:01,120 --> 00:21:03,220
+<font face="方正准圆_GBK" size="48">-什么人? -我不想说
+</font><font face="方正准圆_GBK" size="36">-What kind of company? -I'd rather not say,</font>
+
+250
+00:21:03,250 --> 00:21:05,990
+<font face="方正准圆_GBK" size="48">但他们来的时候 我们最好不在这里
+</font><font face="方正准圆_GBK" size="36">except to say we probably don't wanna be here when they arrive.</font>
+
+251
+00:21:06,050 --> 00:21:08,890
+<font face="方正准圆_GBK" size="48">-他们?谁是"他们"? -你是来面试我 还是来暗杀我?
+</font><font face="方正准圆_GBK" size="36">-They? Who's "they"? -Is this an interview or a hit?</font>
+
+252
+00:21:08,970 --> 00:21:11,290
+<font face="方正准圆_GBK" size="48">算了算了你还有饼干吗?
+</font><font face="方正准圆_GBK" size="36">Whatever man. You got anymore cookies?</font>
+
+253
+00:21:11,310 --> 00:21:13,370
+<font face="方正准圆_GBK" size="48">也许有吧
+</font><font face="方正准圆_GBK" size="36">Maybe, maybe not.</font>
+
+254
+00:21:14,100 --> 00:21:16,670
+<font face="方正准圆_GBK" size="48">这样吧 如果你杀了我 我就告诉你哪里还有饼干
+</font><font face="方正准圆_GBK" size="36">How about this? If you shoot me, I'll tell you where they are.</font>
+
+255
+00:21:16,860 --> 00:21:19,280
+<font face="方正准圆_GBK" size="48">-而且还会把食谱给你 -死了怎么做这些?
+</font><font face="方正准圆_GBK" size="36">-And I'll throw in the recipe. -How are you gonna do that dead?</font>
+
+256
+00:21:19,320 --> 00:21:22,010
+<font face="方正准圆_GBK" size="48">-杀了我就知道了 -哈哈 好难笑
+</font><font face="方正准圆_GBK" size="36">-Start shooting and find out. -Hardy har har.</font>
+
+257
+00:21:24,170 --> 00:21:26,590
+<font face="方正准圆_GBK" size="48">失陪一下 我要跟同事说个话
+</font><font face="方正准圆_GBK" size="36">Excuse me. I need to confer with my colleague.</font>
+
+258
+00:21:26,670 --> 00:21:28,560
+<font face="方正准圆_GBK" size="48">-还要? -对 还要
+</font><font face="方正准圆_GBK" size="36">-Again? -Yeah, again.</font>
+
+259
+00:21:28,590 --> 00:21:30,110
+<font face="方正准圆_GBK" size="48">不要担心 这次我不会乱跑
+</font><font face="方正准圆_GBK" size="36">Don't worry. I won't move this time.</font>
+
+260
+00:21:30,180 --> 00:21:32,220
+<font face="方正准圆_GBK" size="48">我会坐在这里不动
+</font><font face="方正准圆_GBK" size="36">I'll be right here when you get back.</font>
+
+261
+00:21:33,310 --> 00:21:36,330
+<font face="方正准圆_GBK" size="48">我们还是会杀了他
+</font><font face="方正准圆_GBK" size="36">I know we gotta off this guy, 'cause that's what we gotta do.</font>
+
+262
+00:21:36,340 --> 00:21:39,600
+<font face="方正准圆_GBK" size="48">但我想知道他为什么想死
+</font><font face="方正准圆_GBK" size="36">But I don't wanna do it until I know why he wants us to do it.</font>
+
+263
+00:21:39,660 --> 00:21:43,150
+<font face="方正准圆_GBK" size="48">他一定有什么秘密 但会是什么呢?
+</font><font face="方正准圆_GBK" size="36">I mean, something's wrong here. What is this, Daze?</font>
+
+264
+00:21:45,880 --> 00:21:49,500
+<font face="方正准圆_GBK" size="48">一个人不会去抢劫一卡车的香水跟钱
+</font><font face="方正准圆_GBK" size="36">I mean a guy doesn't just up and hijack a truck chuck full of cash and cologne</font>
+
+265
+00:21:49,760 --> 00:21:52,750
+<font face="方正准圆_GBK" size="48">只为了让自己被杀要死的方法很多
+</font><font face="方正准圆_GBK" size="36">to get himself rubbed out. There are other ways.</font>
+
+266
+00:21:54,640 --> 00:21:58,690
+<font face="方正准圆_GBK" size="48">我很想知道他的故事 但这样会让我们很难下手
+</font><font face="方正准圆_GBK" size="36">I want this guy's story, but getting it would just make our job harder.</font>
+
+267
+00:21:58,900 --> 00:22:00,270
+<font face="方正准圆_GBK" size="48">因为这会让事情改观
+</font><font face="方正准圆_GBK" size="36">I mean it changes everything.</font>
+
+268
+00:22:00,280 --> 00:22:02,880
+<font face="方正准圆_GBK" size="48">所以香肠工厂里养的猪才都没名字
+</font><font face="方正准圆_GBK" size="36">That's why they don't name any of the pigs on a sausage farm.</font>
+
+269
+00:22:03,240 --> 00:22:06,330
+<font face="方正准圆_GBK" size="48">所以我们不应该再继续跟他讲话了
+</font><font face="方正准圆_GBK" size="36">And for that reason, I don't think we should talk to him anymore.</font>
+
+270
+00:22:06,540 --> 00:22:09,250
+<font face="方正准圆_GBK" size="48">这会很难 他很有趣
+</font><font face="方正准圆_GBK" size="36">That's gonna be tough, He's interesting.</font>
+
+271
+00:22:09,670 --> 00:22:11,790
+<font face="方正准圆_GBK" size="48">-这倒是 -而且那些饼干…
+</font><font face="方正准圆_GBK" size="36">-He sure is. -And how about those cookies?</font>
+
+272
+00:22:11,790 --> 00:22:12,800
+<font face="方正准圆_GBK" size="48">我的天!
+</font><font face="方正准圆_GBK" size="36">Oh man!</font>
+
+273
+00:22:13,180 --> 00:22:16,020
+<font face="方正准圆_GBK" size="48">你有吃过那么美味的东西吗?
+</font><font face="方正准圆_GBK" size="36">Have you ever had anything like that in your whole life?</font>
+
+274
+00:22:16,100 --> 00:22:18,300
+<font face="方正准圆_GBK" size="48">如果我们很有钱 而且不用杀他的话
+</font><font face="方正准圆_GBK" size="36">If we were rich, and didn't have to kill him,</font>
+
+275
+00:22:18,320 --> 00:22:21,060
+<font face="方正准圆_GBK" size="48">就可以雇用他 专门为我们做饼干
+</font><font face="方正准圆_GBK" size="36">we could pay him, just to make those cookies for us all the time.</font>
+
+276
+00:22:21,240 --> 00:22:23,730
+<font face="方正准圆_GBK" size="48">而且如果他不只会做饼干呢?
+</font><font face="方正准圆_GBK" size="36">Hell, what if the cookies are just the tip of the iceberg?</font>
+
+277
+00:22:23,790 --> 00:22:25,470
+<font face="方正准圆_GBK" size="48">要是他还会做巧克力蛋糕怎么办?
+</font><font face="方正准圆_GBK" size="36">What if he makes brownies?</font>
+
+278
+00:22:25,540 --> 00:22:28,280
+<font face="方正准圆_GBK" size="48">我们会变得超胖 但会超值得
+</font><font face="方正准圆_GBK" size="36">We'd get so fat, but it'd be so worth it.</font>
+
+279
+00:22:29,170 --> 00:22:31,460
+<font face="方正准圆_GBK" size="48">还是像之前说的那样做好了
+</font><font face="方正准圆_GBK" size="36">Anyway, let's just like we said before.</font>
+
+280
+00:22:31,720 --> 00:22:33,540
+<font face="方正准圆_GBK" size="48">走进去就扫射
+</font><font face="方正准圆_GBK" size="36">We'll just run in there blasting.</font>
+
+281
+00:22:33,560 --> 00:22:35,360
+<font face="方正准圆_GBK" size="48">-你有带弹药吗? -没有
+</font><font face="方正准圆_GBK" size="36">-You bring anymore ammo? -Nope.</font>
+
+282
+00:22:35,730 --> 00:22:37,490
+<font face="方正准圆_GBK" size="48">你刚刚不是说还有?
+</font><font face="方正准圆_GBK" size="36">I thought you said you had some more.</font>
+
+283
+00:22:37,520 --> 00:22:39,790
+<font face="方正准圆_GBK" size="48">我只是想要显得专业 所以才说有
+</font><font face="方正准圆_GBK" size="36">Nah, I just wanted to sound pro and say I did.</font>
+
+284
+00:22:39,820 --> 00:22:41,980
+<font face="方正准圆_GBK" size="48">又不是像要对付 抢了老板夜店的
+</font><font face="方正准圆_GBK" size="36">It's not like we were facing five or six jokers</font>
+
+285
+00:22:41,990 --> 00:22:43,820
+<font face="方正准圆_GBK" size="48">那五六个蠢蛋
+</font><font face="方正准圆_GBK" size="36">who shotgunned one of Chet's nightclubs.</font>
+
+286
+00:22:43,990 --> 00:22:46,910
+<font face="方正准圆_GBK" size="48">而且我想要为洋装省点钱
+</font><font face="方正准圆_GBK" size="36">Besides, I was tryin' to save up for the dresses.</font>
+
+287
+00:22:53,180 --> 00:22:55,170
+<font face="方正准圆_GBK" size="48">从没玩过这个
+</font><font face="方正准圆_GBK" size="36">Never got the hang of these.</font>
+
+288
+00:22:55,890 --> 00:23:00,230
+<font face="方正准圆_GBK" size="48">除非这是你的死前遗愿 否则我不会费心去练这个
+</font><font face="方正准圆_GBK" size="36">Unless it's high on your bucket list I wouldn't sweat it.</font>
+
+289
+00:23:00,440 --> 00:23:02,430
+<font face="方正准圆_GBK" size="48">那地方在哪?
+</font><font face="方正准圆_GBK" size="36">Where's that place again?</font>
+
+290
+00:23:03,160 --> 00:23:03,930
+<font face="方正准圆_GBK" size="48">什么地方?
+</font><font face="方正准圆_GBK" size="36">What place?</font>
+
+291
+00:23:03,950 --> 00:23:06,020
+<font face="方正准圆_GBK" size="48">你说可以买到子弹的地方
+</font><font face="方正准圆_GBK" size="36">The place, where you said we could get the bullets.</font>
+
+292
+00:23:07,830 --> 00:23:09,840
+<font face="方正准圆_GBK" size="48">你不是说还有?
+</font><font face="方正准圆_GBK" size="36">I thought you had some.</font>
+
+293
+00:23:10,170 --> 00:23:11,750
+<font face="方正准圆_GBK" size="48">我搞错了
+</font><font face="方正准圆_GBK" size="36">Well I was mistaken.</font>
+
+294
+00:23:13,090 --> 00:23:15,130
+<font face="方正准圆_GBK" size="48">我有一把不错的菜刀
+</font><font face="方正准圆_GBK" size="36">I've got a pretty good steak knife.</font>
+
+295
+00:23:15,270 --> 00:23:17,330
+<font face="方正准圆_GBK" size="48">只是给个建议
+</font><font face="方正准圆_GBK" size="36">Just trying to help.</font>
+
+296
+00:23:18,100 --> 00:23:20,350
+<font face="方正准圆_GBK" size="48">从大门走出去后 靠右走
+</font><font face="方正准圆_GBK" size="36">You go out the front door, you hook a right,</font>
+
+297
+00:23:20,570 --> 00:23:23,390
+<font face="方正准圆_GBK" size="48">然后走三个街区 就会在你这边
+</font><font face="方正准圆_GBK" size="36">then walk three blocks straight down. It's on this side of the street.</font>
+
+298
+00:23:23,410 --> 00:23:24,610
+<font face="方正准圆_GBK" size="48">很好找的
+</font><font face="方正准圆_GBK" size="36">You can't miss it.</font>
+
+299
+00:23:25,200 --> 00:23:27,570
+<font face="方正准圆_GBK" size="48">-我去 -为什么不是我?
+</font><font face="方正准圆_GBK" size="36">-I'll go Daze. -Why can't I?</font>
+
+300
+00:23:27,580 --> 00:23:29,520
+<font face="方正准圆_GBK" size="48">因为你看起来才12岁 而且我有身份证
+</font><font face="方正准圆_GBK" size="36">Because you look 12, and I've an ID.</font>
+
+301
+00:23:29,540 --> 00:23:31,210
+<font face="方正准圆_GBK" size="48">在这样的地方他们搞不好会检查
+</font><font face="方正准圆_GBK" size="36">They might actually check in this part of town.</font>
+
+302
+00:23:31,260 --> 00:23:34,300
+<font face="方正准圆_GBK" size="48">好好监视他 还有记住我刚才说的
+</font><font face="方正准圆_GBK" size="36">Just keep an eye on him while I'm gone, and remember what I said.</font>
+
+303
+00:23:34,510 --> 00:23:35,670
+<font face="方正准圆_GBK" size="48">没问题
+</font><font face="方正准圆_GBK" size="36">Okay.</font>
+
+304
+00:23:36,220 --> 00:23:38,180
+<font face="方正准圆_GBK" size="48">你们还需要什么吗?
+</font><font face="方正准圆_GBK" size="36">You guys need anything?</font>
+
+305
+00:23:40,730 --> 00:23:42,320
+<font face="方正准圆_GBK" size="48">没有
+</font><font face="方正准圆_GBK" size="36">No, we're good.</font>
+
+306
+00:24:01,190 --> 00:24:04,060
+<font face="方正准圆_GBK" size="48">你们做朋友多久了?
+</font><font face="方正准圆_GBK" size="36">So how long have you two been friends?</font>
+
+307
+00:24:07,040 --> 00:24:10,910
+<font face="方正准圆_GBK" size="48">我不应该再跟你讲话了…
+</font><font face="方正准圆_GBK" size="36">I'm not supposed to really talk to you anymore, so...</font>
+
+308
+00:24:21,940 --> 00:24:23,980
+<font face="方正准圆_GBK" size="48">啊!你有个电话留言
+</font><font face="方正准圆_GBK" size="36">Oh, wait! I think you got a phone message.</font>
+
+309
+00:24:23,990 --> 00:24:26,500
+<font face="方正准圆_GBK" size="48">我只说这句话 现在开始就闭嘴了
+</font><font face="方正准圆_GBK" size="36">But that's all I'm sayin'. Now I'm gonna zip.</font>
+
+310
+00:24:32,550 --> 00:24:34,630
+<font face="方正准圆_GBK" size="48">你有一个留言
+</font><font face="方正准圆_GBK" size="36">You have one new message.</font>
+
+311
+00:24:35,800 --> 00:24:38,750
+<font face="方正准圆_GBK" size="48">这是我最后一次跟你讲这件事
+</font><font face="方正准圆_GBK" size="36">This is really the last time I'm gonna say this to you.</font>
+
+312
+00:24:38,810 --> 00:24:40,090
+<font face="方正准圆_GBK" size="48">以及跟你讲话
+</font><font face="方正准圆_GBK" size="36">Okay? Or anything else.</font>
+
+313
+00:24:40,100 --> 00:24:43,200
+<font face="方正准圆_GBK" size="48">不要再寄任何东西给我我…
+</font><font face="方正准圆_GBK" size="36">I don't want you to send me anything anymore. I don't...</font>
+
+314
+00:24:43,280 --> 00:24:45,970
+<font face="方正准圆_GBK" size="48">我把那些花都丢了
+</font><font face="方正准圆_GBK" size="36">I threw out those flowers.</font>
+
+315
+00:24:45,990 --> 00:24:48,200
+<font face="方正准圆_GBK" size="48">你做什么都无法弥补
+</font><font face="方正准圆_GBK" size="36">You can't fix it.</font>
+
+316
+00:24:48,410 --> 00:24:50,610
+<font face="方正准圆_GBK" size="48">我实在受够你了
+</font><font face="方正准圆_GBK" size="36">And I'm really... done with you.</font>
+
+317
+00:24:50,620 --> 00:24:53,620
+<font face="方正准圆_GBK" size="48">我不想看到你或听见你
+</font><font face="方正准圆_GBK" size="36">I don't want talk to you again. I don't want to hear from you again.</font>
+
+318
+00:24:53,630 --> 00:24:55,870
+<font face="方正准圆_GBK" size="48">只想要你离我远一点
+</font><font face="方正准圆_GBK" size="36">I want you to leave me alone.</font>
+
+319
+00:25:10,500 --> 00:25:13,340
+<font face="方正准圆_GBK" size="48">我和小薇成为朋友很久了
+</font><font face="方正准圆_GBK" size="36">Me and Vi have been friends a pretty long time.</font>
+
+320
+00:25:14,050 --> 00:25:15,500
+<font face="方正准圆_GBK" size="48">大概有三年了
+</font><font face="方正准圆_GBK" size="36">Maybe three years.</font>
+
+321
+00:25:19,930 --> 00:25:21,190
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+322
+00:25:22,100 --> 00:25:25,190
+<font face="方正准圆_GBK" size="48">你问我们做朋友多久了
+</font><font face="方正准圆_GBK" size="36">You asked how long we've been friends a minute ago.</font>
+
+323
+00:25:26,570 --> 00:25:27,830
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Oh yes...</font>
+
+324
+00:25:28,330 --> 00:25:29,580
+<font face="方正准圆_GBK" size="48">没错…
+</font><font face="方正准圆_GBK" size="36">Alright.</font>
+
+325
+00:25:31,620 --> 00:25:34,920
+<font face="方正准圆_GBK" size="48">-我们是在医院认识的 -医院?
+</font><font face="方正准圆_GBK" size="36">-We met in a hospital. -In a hospital?</font>
+
+326
+00:25:36,010 --> 00:25:37,200
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+327
+00:25:37,220 --> 00:25:40,930
+<font face="方正准圆_GBK" size="48">在雷辛顿市的布偶医院 你知道那间吗?
+</font><font face="方正准圆_GBK" size="36">It was that dull hospital over on Lexington. Know it?</font>
+
+328
+00:25:41,730 --> 00:25:42,880
+<font face="方正准圆_GBK" size="48">不
+</font><font face="方正准圆_GBK" size="36">No.</font>
+
+329
+00:25:43,400 --> 00:25:46,220
+<font face="方正准圆_GBK" size="48">我们是医生…外科医生
+</font><font face="方正准圆_GBK" size="36">We were doctors. I mean, surgeons.</font>
+
+330
+00:25:46,650 --> 00:25:49,620
+<font face="方正准圆_GBK" size="48">薇莉一直叫我说外科医生
+</font><font face="方正准圆_GBK" size="36">Violet tells me to say surgeons.</font>
+
+331
+00:25:50,330 --> 00:25:54,080
+<font face="方正准圆_GBK" size="48">而且医院的工作不会让我做恶梦
+</font><font face="方正准圆_GBK" size="36">Working in the hospital never gave me bad dreams, that's for sure.</font>
+
+332
+00:25:56,340 --> 00:25:58,880
+<font face="方正准圆_GBK" size="48">之后我们就成为好朋友了
+</font><font face="方正准圆_GBK" size="36">Anyway, she's my best friend ever.</font>
+
+333
+00:25:59,100 --> 00:26:01,600
+<font face="方正准圆_GBK" size="48">我有时候会担心她就是了
+</font><font face="方正准圆_GBK" size="36">I kinda worry about her sometimes though.</font>
+
+334
+00:26:03,560 --> 00:26:05,980
+<font face="方正准圆_GBK" size="48">有一半的时候 我希望可以更像她
+</font><font face="方正准圆_GBK" size="36">Half the time, I wish I was more like her.</font>
+
+335
+00:26:07,320 --> 00:26:08,580
+<font face="方正准圆_GBK" size="48">但…
+</font><font face="方正准圆_GBK" size="36">And then...</font>
+
+336
+00:26:12,580 --> 00:26:13,740
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+337
+00:26:17,550 --> 00:26:18,830
+<font face="方正准圆_GBK" size="48">不知道
+</font><font face="方正准圆_GBK" size="36">I don't know.</font>
+
+338
+00:26:22,430 --> 00:26:24,040
+<font face="方正准圆_GBK" size="48">她让我想起我的女儿
+</font><font face="方正准圆_GBK" size="36">She reminds me of my daughter.</font>
+
+339
+00:26:26,690 --> 00:26:28,780
+<font face="方正准圆_GBK" size="48">答录机那个就是她?
+</font><font face="方正准圆_GBK" size="36">Is that her on the phone machine?</font>
+
+340
+00:26:30,410 --> 00:26:32,320
+<font face="方正准圆_GBK" size="48">但那不重要
+</font><font face="方正准圆_GBK" size="36">But it's not important.</font>
+
+341
+00:26:34,000 --> 00:26:35,370
+<font face="方正准圆_GBK" size="48">其实是重要…
+</font><font face="方正准圆_GBK" size="36">It is, but...</font>
+
+342
+00:26:36,130 --> 00:26:38,170
+<font face="方正准圆_GBK" size="48">但不要在意这件事
+</font><font face="方正准圆_GBK" size="36">don't let it distract you.</font>
+
+343
+00:26:50,780 --> 00:26:53,070
+<font face="方正准圆_GBK" size="48">-那是什么? -什么是什么?
+</font><font face="方正准圆_GBK" size="36">-What's with that? -What's with what?</font>
+
+344
+00:26:53,250 --> 00:26:55,160
+<font face="方正准圆_GBK" size="48">你们衣服上的数字
+</font><font face="方正准圆_GBK" size="36">The numbers you two wear.</font>
+
+345
+00:26:55,580 --> 00:26:57,250
+<font face="方正准圆_GBK" size="48">-这个? -对
+</font><font face="方正准圆_GBK" size="36">-These? -Yes.</font>
+
+346
+00:26:57,460 --> 00:26:59,020
+<font face="方正准圆_GBK" size="48">那是我们的阶级
+</font><font face="方正准圆_GBK" size="36">Oh, that's our rank.</font>
+
+347
+00:26:59,090 --> 00:27:02,630
+<font face="方正准圆_GBK" size="48">我是杀手9号 薇莉是杀手8号
+</font><font face="方正准圆_GBK" size="36">Officially I'm killer number Nine and Violet's killer number Eight.</font>
+
+348
+00:27:02,850 --> 00:27:04,470
+<font face="方正准圆_GBK" size="48">要怎么升级?
+</font><font face="方正准圆_GBK" size="36">And how do you move up?</font>
+
+349
+00:27:05,230 --> 00:27:08,190
+<font face="方正准圆_GBK" size="48">杀人 小薇说这比在办公室工作好
+</font><font face="方正准圆_GBK" size="36">Makin' hits. Vi says it beats dead entry.</font>
+
+350
+00:27:09,030 --> 00:27:10,570
+<font face="方正准圆_GBK" size="48">谁是杀手一号?
+</font><font face="方正准圆_GBK" size="36">Who's number one?</font>
+
+351
+00:27:10,660 --> 00:27:12,500
+<font face="方正准圆_GBK" size="48">没人看过他
+</font><font face="方正准圆_GBK" size="36">No one's ever seen him.</font>
+
+352
+00:27:13,080 --> 00:27:15,370
+<font face="方正准圆_GBK" size="48">但他曾经只用指甲刀
+</font><font face="方正准圆_GBK" size="36">But he once killed three ninjas...</font>
+
+353
+00:27:16,130 --> 00:27:17,340
+<font face="方正准圆_GBK" size="48">就杀死三个忍者
+</font><font face="方正准圆_GBK" size="36">with a fingernail file.</font>
+
+354
+00:27:17,910 --> 00:27:20,940
+<font face="方正准圆_GBK" size="48">薇莉的长征</font>
+
+355
+00:27:21,600 --> 00:27:22,750
+<font face="方正准圆_GBK" size="48">谁?
+</font><font face="方正准圆_GBK" size="36">Who's this?</font>
+
+356
+00:27:22,770 --> 00:27:26,610
+<font face="方正准圆_GBK" size="48">有间店只离你两个街区远 外表看起来像五金行
+</font><font face="方正准圆_GBK" size="36">There's a place about two blocks up from you. It looks like a hardware store.</font>
+
+357
+00:27:26,730 --> 00:27:30,780
+<font face="方正准圆_GBK" size="48">如果说关门了 那只是骗人的
+</font><font face="方正准圆_GBK" size="36">If it's closed, that's only what the sign says.</font>
+
+358
+00:27:43,600 --> 00:27:45,670
+<font face="方正准圆_GBK" size="48">等等 我想尿尿
+</font><font face="方正准圆_GBK" size="36">Hold on, hold on. I gotta take a piss.</font>
+
+359
+00:27:45,690 --> 00:27:47,100
+<font face="方正准圆_GBK" size="48">不然哩?
+</font><font face="方正准圆_GBK" size="36">What else is it?</font>
+
+360
+00:27:47,320 --> 00:27:50,280
+<font face="方正准圆_GBK" size="48">为什么每次我要尿尿 你就也要尿?
+</font><font face="方正准圆_GBK" size="36">How many time every time I take a piss you gotta take a piss?</font>
+
+361
+00:27:50,280 --> 00:27:51,820
+<font face="方正准圆_GBK" size="48">-哪有每次 -就是每次
+</font><font face="方正准圆_GBK" size="36">-Not every time -You do man. Every single damn-</font>
+
+362
+00:27:51,820 --> 00:27:54,690
+<font face="方正准圆_GBK" size="48">每次我要尿 你就也要尿!
+</font><font face="方正准圆_GBK" size="36">Every single time I gotta take a piss, you gotta take a piss!</font>
+
+363
+00:27:55,080 --> 00:27:58,120
+<font face="方正准圆_GBK" size="48">喂!当站在男人旁边尿尿的时候 你不该往下看!
+</font><font face="方正准圆_GBK" size="36">Hey, you're not supposed to look down when you're peeing next to another man, okay?</font>
+
+364
+00:27:58,340 --> 00:28:00,530
+<font face="方正准圆_GBK" size="48">-我才没看 -你现在就在看!
+</font><font face="方正准圆_GBK" size="36">-I'm not looking. -You're lookin' now, and I saw you look down!</font>
+
+365
+00:28:00,550 --> 00:28:02,870
+<font face="方正准圆_GBK" size="48">-我在看你的脸 -你干嘛看我?
+</font><font face="方正准圆_GBK" size="36">-I'm lookin' at your face. -My man, why are you looking at me all?</font>
+
+366
+00:28:02,890 --> 00:28:05,340
+<font face="方正准圆_GBK" size="48">有时候我真的会怀疑你
+</font><font face="方正准圆_GBK" size="36">Dude, you get me worried about you sometimes.</font>
+
+367
+00:28:05,360 --> 00:28:07,210
+<font face="方正准圆_GBK" size="48">你难道不懂一点尿尿的规矩吗?
+</font><font face="方正准圆_GBK" size="36">Don't you know pee etiquette man?</font>
+
+368
+00:28:10,400 --> 00:28:12,360
+<font face="方正准圆_GBK" size="48">死亡之门 希望她快点
+</font><font face="方正准圆_GBK" size="36">Let's hope she hurries.</font>
+
+369
+00:28:12,700 --> 00:28:14,690
+<font face="方正准圆_GBK" size="48">有什么好急的?还有谁要来?
+</font><font face="方正准圆_GBK" size="36">What's the big deal? Who's comin' over?</font>
+
+370
+00:28:14,700 --> 00:28:16,100
+<font face="方正准圆_GBK" size="48">这不重要
+</font><font face="方正准圆_GBK" size="36">It's not important.</font>
+
+371
+00:28:16,120 --> 00:28:20,050
+<font face="方正准圆_GBK" size="48">我又不是问你把钱藏在哪
+</font><font face="方正准圆_GBK" size="36">It's not like I'm asking you to tell me where you stashed that money or anything.</font>
+
+372
+00:28:22,640 --> 00:28:25,600
+<font face="方正准圆_GBK" size="48">因为我做了一些事 所以等等会有人来
+</font><font face="方正准圆_GBK" size="36">I'm expecting company because of something else I did.</font>
+
+373
+00:28:25,810 --> 00:28:27,800
+<font face="方正准圆_GBK" size="48">做了什么?
+</font><font face="方正准圆_GBK" size="36">What else did you do?</font>
+
+374
+00:28:29,650 --> 00:28:31,560
+<font face="方正准圆_GBK" size="48">我抢劫了某人
+</font><font face="方正准圆_GBK" size="36">I robbed somebody.</font>
+
+375
+00:28:31,780 --> 00:28:34,530
+<font face="方正准圆_GBK" size="48">除了我们老板之外的人?
+</font><font face="方正准圆_GBK" size="36">Somebody else that's not our boss?</font>
+
+376
+00:28:35,660 --> 00:28:36,880
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+377
+00:28:37,000 --> 00:28:38,210
+<font face="方正准圆_GBK" size="48">谁?
+</font><font face="方正准圆_GBK" size="36">Who?</font>
+
+378
+00:28:39,500 --> 00:28:41,640
+<font face="方正准圆_GBK" size="48">-唐尼达夫 -我的天…
+</font><font face="方正准圆_GBK" size="36">-Donnie Daffo. -Oh, my...</font>
+
+379
+00:28:42,840 --> 00:28:45,550
+<font face="方正准圆_GBK" size="48">所以你的很想被杀?
+</font><font face="方正准圆_GBK" size="36">Then you really are serious about getting yourself killed?</font>
+
+380
+00:28:45,890 --> 00:28:48,390
+<font face="方正准圆_GBK" size="48">我想他们也是今天来
+</font><font face="方正准圆_GBK" size="36">I figure it's people who visit me today as well.</font>
+
+381
+00:28:48,560 --> 00:28:52,810
+<font face="方正准圆_GBK" size="48">这世界真小 我跟小薇恨死他们了
+</font><font face="方正准圆_GBK" size="36">Small world, 'cause uh... me and Vi hate those guys' guts.</font>
+
+382
+00:28:53,700 --> 00:28:55,580
+<font face="方正准圆_GBK" size="48">两个月前 薇莉遇到他们
+</font><font face="方正准圆_GBK" size="36">Two months ago Violet ran into them,</font>
+
+383
+00:28:55,790 --> 00:28:57,950
+<font face="方正准圆_GBK" size="48">他们把她锁在垃圾箱
+</font><font face="方正准圆_GBK" size="36">and they locked her in a dumpster.</font>
+
+384
+00:28:58,210 --> 00:29:01,080
+<font face="方正准圆_GBK" size="48">让她变得失魂落魄
+</font><font face="方正准圆_GBK" size="36">It looked like someone had taken the life out of her.</font>
+
+385
+00:29:02,800 --> 00:29:04,580
+<font face="方正准圆_GBK" size="48">他们只有这样?
+</font><font face="方正准圆_GBK" size="36">Is that all they did?</font>
+
+386
+00:29:04,600 --> 00:29:07,680
+<font face="方正准圆_GBK" size="48">锁在垃圾箱?
+</font><font face="方正准圆_GBK" size="36">You mean, lock her in that trash can?</font>
+
+387
+00:29:08,940 --> 00:29:12,150
+<font face="方正准圆_GBK" size="48">她只有说这个
+</font><font face="方正准圆_GBK" size="36">Well, yeah, I mean that's all she told me.</font>
+
+388
+00:29:12,360 --> 00:29:14,400
+<font face="方正准圆_GBK" size="48">不然他们还能做…
+</font><font face="方正准圆_GBK" size="36">What else would they...?</font>
+
+389
+00:29:19,380 --> 00:29:21,460
+<font face="方正准圆_GBK" size="48">鲁斯真是个蠢蛋
+</font><font face="方正准圆_GBK" size="36">Russ is such an ass.</font>
+
+390
+00:29:21,800 --> 00:29:24,090
+<font face="方正准圆_GBK" size="48">还自以为很聪明
+</font><font face="方正准圆_GBK" size="36">Thinks he's smart, but he's not.</font>
+
+391
+00:29:59,880 --> 00:30:02,140
+<font face="方正准圆_GBK" size="48">这次没话要说了?
+</font><font face="方正准圆_GBK" size="36">Nothin' to say this time?</font>
+
+392
+00:30:02,710 --> 00:30:05,380
+<font face="方正准圆_GBK" size="48">也许你还是学到了教训
+</font><font face="方正准圆_GBK" size="36">Maybe you learned your lesson after all.</font>
+
+393
+00:30:06,010 --> 00:30:08,820
+<font face="方正准圆_GBK" size="48">把我的话转告给你老板
+</font><font face="方正准圆_GBK" size="36">Well I got somethin' for you to tell your boss.</font>
+
+394
+00:30:08,930 --> 00:30:11,780
+<font face="方正准圆_GBK" size="48">他一定被现在的经济环境搞到快破产了
+</font><font face="方正准圆_GBK" size="36">In this fuckin' economy that chicken shit must be pretty hard up</font>
+
+395
+00:30:12,110 --> 00:30:16,160
+<font face="方正准圆_GBK" size="48">因为他竟然要派妓女来做男人的工作
+</font><font face="方正准圆_GBK" size="36">to send a little cunt like you, to do a man's job.</font>
+
+396
+00:30:18,410 --> 00:30:19,750
+<font face="方正准圆_GBK" size="48">晚点再操你
+</font><font face="方正准圆_GBK" size="36">Fuck you later!</font>
+
+397
+00:31:28,170 --> 00:31:32,970
+<font face="方正准圆_GBK" size="48">你要寻找的五金行就在这转角</font>
+
+398
+00:31:42,410 --> 00:31:44,910
+<font face="方正准圆_GBK" size="48">-嗨 -我们已经关店了
+</font><font face="方正准圆_GBK" size="36">-Hi. -We're closed. What do you want?</font>
+
+399
+00:31:46,460 --> 00:31:49,350
+<font face="方正准圆_GBK" size="48">-我不知道你在说什么 -你知道
+</font><font face="方正准圆_GBK" size="36">-I don't know what you're talkin' about. -Yeah you do.</font>
+
+400
+00:31:50,770 --> 00:31:52,850
+<font face="方正准圆_GBK" size="48">后面的门
+</font><font face="方正准圆_GBK" size="36">The black door in the back.</font>
+
+401
+00:31:53,230 --> 00:31:54,690
+<font face="方正准圆_GBK" size="48">非常感谢
+</font><font face="方正准圆_GBK" size="36">Much obliged.</font>
+
+402
+00:32:15,730 --> 00:32:17,570
+<font face="方正准圆_GBK" size="48">需要什么?
+</font><font face="方正准圆_GBK" size="36">How can I help you?</font>
+
+403
+00:32:23,710 --> 00:32:25,700
+<font face="方正准圆_GBK" size="48">快点 快点!
+</font><font face="方正准圆_GBK" size="36">Let's go, let's go! Come on.</font>
+
+404
+00:32:25,710 --> 00:32:27,750
+<font face="方正准圆_GBK" size="48">检查一下那个箱子
+</font><font face="方正准圆_GBK" size="36">Move fast. Check out those boxes right there.</font>
+
+405
+00:32:27,800 --> 00:32:29,910
+<font face="方正准圆_GBK" size="48">快!
+</font><font face="方正准圆_GBK" size="36">Let's go, move on.</font>
+
+406
+00:32:40,360 --> 00:32:43,930
+<font face="方正准圆_GBK" size="48">但是 你是寿衣!
+</font><font face="方正准圆_GBK" size="36">"But dude! You're a vegetarian!"</font>
+
+407
+00:32:56,360 --> 00:32:58,210
+<font face="方正准圆_GBK" size="48">-看到了吗? -喔～
+</font><font face="方正准圆_GBK" size="36">-See? -Oh...</font>
+
+408
+00:33:09,340 --> 00:33:10,900
+<font face="方正准圆_GBK" size="48">不!拍一下
+</font><font face="方正准圆_GBK" size="36">Nope! Slap.</font>
+
+409
+00:33:14,430 --> 00:33:17,520
+<font face="方正准圆_GBK" size="48">1 2 3 4 拇指大战开始!
+</font><font face="方正准圆_GBK" size="36">One, two, three, four, I declare a thumb war. Battle!</font>
+
+410
+00:33:22,280 --> 00:33:23,790
+<font face="方正准圆_GBK" size="48">接下来是拍手游戏
+</font><font face="方正准圆_GBK" size="36">Alright, pattycake.</font>
+
+411
+00:33:27,580 --> 00:33:29,750
+<font face="方正准圆_GBK" size="48">-你先! -不
+</font><font face="方正准圆_GBK" size="36">-No, you go first! -No...</font>
+
+412
+00:33:30,090 --> 00:33:32,330
+<font face="方正准圆_GBK" size="48">你先这样 再这样
+</font><font face="方正准圆_GBK" size="36">...you do this, and then this.</font>
+
+413
+00:33:37,860 --> 00:33:39,020
+<font face="方正准圆_GBK" size="48">嗨
+</font><font face="方正准圆_GBK" size="36">Hey!</font>
+
+414
+00:33:39,440 --> 00:33:41,510
+<font face="方正准圆_GBK" size="48">看看这是谁
+</font><font face="方正准圆_GBK" size="36">Look who's here?</font>
+
+415
+00:33:41,530 --> 00:33:43,820
+<font face="方正准圆_GBK" size="48">我们刚刚有看到你朋友
+</font><font face="方正准圆_GBK" size="36">We just saw your stupid little girlfriend.</font>
+
+416
+00:33:44,200 --> 00:33:46,620
+<font face="方正准圆_GBK" size="48">教训了她一下
+</font><font face="方正准圆_GBK" size="36">Had to tell about herself.</font>
+
+417
+00:33:46,790 --> 00:33:48,760
+<font face="方正准圆_GBK" size="48">你真应该看看她的表情
+</font><font face="方正准圆_GBK" size="36">You should see her face.</font>
+
+418
+00:33:48,840 --> 00:33:52,160
+<font face="方正准圆_GBK" size="48">光这个早上我们就要解决几个蠢货
+</font><font face="方正准圆_GBK" size="36">Just this mornin' we had to whack out a couple clowns.</font>
+
+419
+00:33:53,140 --> 00:33:55,600
+<font face="方正准圆_GBK" size="48">而且我们很乐意做
+</font><font face="方正准圆_GBK" size="36">Yeah, we took our time doin' it too.</font>
+
+420
+00:33:55,810 --> 00:33:59,050
+<font face="方正准圆_GBK" size="48">你的朋友看起来比这两个同性恋加起来还恐惧
+</font><font face="方正准圆_GBK" size="36">Your stupid little girlfriend looks scareder than both those faggots put together.</font>
+
+421
+00:34:00,070 --> 00:34:02,360
+<font face="方正准圆_GBK" size="48">即使他们已经怕得要死
+</font><font face="方正准圆_GBK" size="36">Even when things were gettin' ugly for them.</font>
+
+422
+00:34:02,450 --> 00:34:04,560
+<font face="方正准圆_GBK" size="48">站到一旁
+</font><font face="方正准圆_GBK" size="36">Step aside jailbait!</font>
+
+423
+00:34:08,500 --> 00:34:11,620
+<font face="方正准圆_GBK" size="48">要不然我们来看看接下来你会怎样
+</font><font face="方正准圆_GBK" size="36">Or don't... if you wanna be a tough guy and see what happens to you.</font>
+
+424
+00:34:11,840 --> 00:34:14,650
+<font face="方正准圆_GBK" size="48">黛西 照着他们说的做
+</font><font face="方正准圆_GBK" size="36">Do it. Do as they say, Daisy.</font>
+
+425
+00:34:16,390 --> 00:34:18,800
+<font face="方正准圆_GBK" size="48">我想问你们一些事
+</font><font face="方正准圆_GBK" size="36">Can I ask you fellas something?</font>
+
+426
+00:34:22,150 --> 00:34:24,100
+<font face="方正准圆_GBK" size="48">-还是算了 -问啊
+</font><font face="方正准圆_GBK" size="36">-Nah, forget it. -Come on.</font>
+
+427
+00:34:24,660 --> 00:34:26,000
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">Excuse me?</font>
+
+428
+00:34:28,750 --> 00:34:29,710
+<font face="方正准圆_GBK" size="48">拜托
+</font><font face="方正准圆_GBK" size="36">Please.</font>
+
+429
+00:34:30,840 --> 00:34:32,960
+<font face="方正准圆_GBK" size="48">-每个人! -拜托
+</font><font face="方正准圆_GBK" size="36">-Everybody! -Please.</font>
+
+430
+00:34:33,380 --> 00:34:35,050
+<font face="方正准圆_GBK" size="48">非常好
+</font><font face="方正准圆_GBK" size="36">Very good!</font>
+
+431
+00:34:35,260 --> 00:34:37,880
+<font face="方正准圆_GBK" size="48">但你们要先把枪收起来
+</font><font face="方正准圆_GBK" size="36">But I won't get into it until you holster the hardware!</font>
+
+432
+00:34:38,270 --> 00:34:40,380
+<font face="方正准圆_GBK" size="48">-为什么? -这样你们才不会累
+</font><font face="方正准圆_GBK" size="36">-Why would we do that? -So you don't get tired.</font>
+
+433
+00:34:40,440 --> 00:34:43,220
+<font face="方正准圆_GBK" size="48">-你认为我们是白痴吗? -你们当然是白痴
+</font><font face="方正准圆_GBK" size="36">-What do you think we are, stupid? -Off course I think you're stupid.</font>
+
+434
+00:34:43,280 --> 00:34:44,720
+<font face="方正准圆_GBK" size="48">这就是问题
+</font><font face="方正准圆_GBK" size="36">That's the point.</font>
+
+435
+00:34:44,740 --> 00:34:48,030
+<font face="方正准圆_GBK" size="48">因为你们会很难理解接下来我要讲的话
+</font><font face="方正准圆_GBK" size="36">You're gonna have enough trouble keepin' up with what I'm gonna tell you as it is.</font>
+
+436
+00:34:48,040 --> 00:34:52,540
+<font face="方正准圆_GBK" size="48">要是累的话 就会更难理解了
+</font><font face="方正准圆_GBK" size="36">If you're tuckered out too, we'll be wasting everybody's time.</font>
+
+437
+00:34:52,760 --> 00:34:55,360
+<font face="方正准圆_GBK" size="48">你们也不想要浪费时间吧?
+</font><font face="方正准圆_GBK" size="36">You don't want mama's good wisdom going to waste, do you?</font>
+
+438
+00:34:56,010 --> 00:34:59,320
+<font face="方正准圆_GBK" size="48">你们的手已经开始酸了吧?
+</font><font face="方正准圆_GBK" size="36">Heck, I'd be surprised if your arms aren't burnin' already</font>
+
+439
+00:34:59,320 --> 00:35:01,460
+<font face="方正准圆_GBK" size="48">都对准我们那么久了
+</font><font face="方正准圆_GBK" size="36">from keeping us at gun point so long.</font>
+
+440
+00:35:01,520 --> 00:35:05,240
+<font face="方正准圆_GBK" size="48">我们身上又没枪 到底在怕什么?
+</font><font face="方正准圆_GBK" size="36">I mean, it's not like we're packing or anything. What are you afraid of?</font>
+
+441
+00:35:15,430 --> 00:35:17,140
+<font face="方正准圆_GBK" size="48">舒服点了吧?
+</font><font face="方正准圆_GBK" size="36">That better?</font>
+
+442
+00:35:21,820 --> 00:35:24,890
+<font face="方正准圆_GBK" size="48">-我刚刚说到哪? -你要问我们事情
+</font><font face="方正准圆_GBK" size="36">-Alright, where was I? -You were gonna ask us something.</font>
+
+443
+00:35:25,070 --> 00:35:26,960
+<font face="方正准圆_GBK" size="48">对!
+</font><font face="方正准圆_GBK" size="36">Oh, that's right! Thanks!</font>
+
+444
+00:35:27,580 --> 00:35:29,240
+<font face="方正准圆_GBK" size="48">我的问题是…
+</font><font face="方正准圆_GBK" size="36">Okay. So... here it goes.</font>
+
+445
+00:35:29,540 --> 00:35:33,680
+<font face="方正准圆_GBK" size="48">我的朋友体重大概45公斤
+</font><font face="方正准圆_GBK" size="36">My partner weighs in at about 95 pounds, right?</font>
+
+446
+00:35:34,300 --> 00:35:37,890
+<font face="方正准圆_GBK" size="48">而你们一起的话 大概可以推动500公斤
+</font><font face="方正准圆_GBK" size="36">And together you guys are pushing half a ton, give or take, correct?</font>
+
+447
+00:35:40,140 --> 00:35:45,340
+<font face="方正准圆_GBK" size="48">所以当你们把她塞进垃圾箱的时候 应该不会碰到麻烦吧?
+</font><font face="方正准圆_GBK" size="36">So... did you need much help stuffing her in that garbage can?</font>
+
+448
+00:35:49,960 --> 00:35:51,110
+<font face="方正准圆_GBK" size="48">现在…
+</font><font face="方正准圆_GBK" size="36">Now...</font>
+
+449
+00:35:51,830 --> 00:35:55,000
+<font face="方正准圆_GBK" size="48">我通常不跟你们这样的人讲话
+</font><font face="方正准圆_GBK" size="36">I usually don't talk to people like you in the first place,</font>
+
+450
+00:35:55,220 --> 00:35:57,500
+<font face="方正准圆_GBK" size="48">但如果要我讲什么的话
+</font><font face="方正准圆_GBK" size="36">but... if I did that sort of thing,</font>
+
+451
+00:35:57,550 --> 00:36:00,120
+<font face="方正准圆_GBK" size="48">我会说 你们这些小女孩真该有自己的电视节目
+</font><font face="方正准圆_GBK" size="36">I would say that you girls should have your own TV show.</font>
+
+452
+00:36:00,140 --> 00:36:03,610
+<font face="方正准圆_GBK" size="48">而那节目该叫"唐尼与她的女人"
+</font><font face="方正准圆_GBK" size="36">And that you should call that program "The Adventures of Donnie's Bitches".</font>
+
+453
+00:36:03,820 --> 00:36:05,200
+<font face="方正准圆_GBK" size="48">不过就像我刚刚讲的
+</font><font face="方正准圆_GBK" size="36">But like I said at the top,</font>
+
+454
+00:36:05,240 --> 00:36:08,230
+<font face="方正准圆_GBK" size="48">我通常不跟你们这样的人讲话
+</font><font face="方正准圆_GBK" size="36">I usually don't talk to people like you.</font>
+
+455
+00:36:08,450 --> 00:36:11,490
+<font face="方正准圆_GBK" size="48">因为跟你们这样的人讲话 实在没意义
+</font><font face="方正准圆_GBK" size="36">Because talkin' to people like you doesn't make much sense.</font>
+
+456
+00:36:11,880 --> 00:36:15,170
+<font face="方正准圆_GBK" size="48">"这样的人"?
+</font><font face="方正准圆_GBK" size="36">What do you mean, "People like us"?</font>
+
+457
+00:36:15,880 --> 00:36:17,750
+<font face="方正准圆_GBK" size="48">"这样的人"是怎样的人?
+</font><font face="方正准圆_GBK" size="36">What the hell kind of people are we?</font>
+
+458
+00:36:21,730 --> 00:36:22,940
+<font face="方正准圆_GBK" size="48">死人
+</font><font face="方正准圆_GBK" size="36">Dead ones.</font>
+
+459
+00:36:24,190 --> 00:36:25,450
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+460
+00:36:39,350 --> 00:36:43,620
+<font face="方正准圆_GBK" size="48">有找到子弹 但现在又没了
+</font><font face="方正准圆_GBK" size="36">Found some bullets, but now I might be out again.</font>
+
+461
+00:36:45,860 --> 00:36:49,530
+<font face="方正准圆_GBK" size="48">你有没有听到?
+</font><font face="方正准圆_GBK" size="36">I don't know about you partner... I think I'm hearin' somethin'.</font>
+
+462
+00:36:50,120 --> 00:36:51,450
+<font face="方正准圆_GBK" size="48">听到什么?
+</font><font face="方正准圆_GBK" size="36">Something like what?</font>
+
+463
+00:36:54,040 --> 00:36:55,930
+<font face="方正准圆_GBK" size="48">内出血舞曲!
+</font><font face="方正准圆_GBK" size="36">The internal bleeding dance!</font>
+
+464
+00:36:56,800 --> 00:36:59,970
+<font face="方正准圆_GBK" size="48">-我需要帮忙 -我来了!
+</font><font face="方正准圆_GBK" size="36">-I could sure use some help too. -You got it, partner!</font>
+
+465
+00:37:08,320 --> 00:37:11,320
+<font face="方正准圆_GBK" size="48">-我要那个胖的! -每个都嘛很胖!
+</font><font face="方正准圆_GBK" size="36">-Move! I want the fat one! -They're all fat, biatch!</font>
+
+466
+00:37:14,080 --> 00:37:15,240
+<font face="方正准圆_GBK" size="48">先生
+</font><font face="方正准圆_GBK" size="36">Say mister,</font>
+
+467
+00:37:15,250 --> 00:37:17,860
+<font face="方正准圆_GBK" size="48">你知道还可以上哪买子弹吗?
+</font><font face="方正准圆_GBK" size="36">you got any other leads on where I can get some more bullets?</font>
+
+468
+00:37:17,880 --> 00:37:20,370
+<font face="方正准圆_GBK" size="48">说来话长 但那地方变成凶案现场了
+</font><font face="方正准圆_GBK" size="36">That other place got turned into a crime scene. Long story.</font>
+
+469
+00:37:20,390 --> 00:37:22,470
+<font face="方正准圆_GBK" size="48">快想想
+</font><font face="方正准圆_GBK" size="36">Just do some thinkin' on it, okay?</font>
+
+470
+00:37:28,280 --> 00:37:30,500
+<font face="方正准圆_GBK" size="48">还有别人要来?
+</font><font face="方正准圆_GBK" size="36">Are you expectin' anybody else?</font>
+
+471
+00:37:30,780 --> 00:37:32,380
+<font face="方正准圆_GBK" size="48">确定?
+</font><font face="方正准圆_GBK" size="36">Are you sure?</font>
+
+472
+00:37:34,370 --> 00:37:36,240
+<font face="方正准圆_GBK" size="48">也许是唐尼的后援
+</font><font face="方正准圆_GBK" size="36">It might be backup for Donnie's crew.</font>
+
+473
+00:37:36,460 --> 00:37:38,300
+<font face="方正准圆_GBK" size="48">也许他们要来检查 跟我们一样
+</font><font face="方正准圆_GBK" size="36">Maybe they're supposed to call in. You know, like we do.</font>
+
+474
+00:37:38,380 --> 00:37:40,860
+<font face="方正准圆_GBK" size="48">那为什么不直接进来?
+</font><font face="方正准圆_GBK" size="36">Well why didn't they just come right in. Everybody else has?</font>
+
+475
+00:37:41,640 --> 00:37:44,730
+<font face="方正准圆_GBK" size="48">不知道但不管怎样 我现在没子弹了
+</font><font face="方正准圆_GBK" size="36">I don't know. Whoever the hell it is, I'm out of bullets again.</font>
+
+476
+00:37:57,670 --> 00:37:59,110
+<font face="方正准圆_GBK" size="48">我去开门
+</font><font face="方正准圆_GBK" size="36">I'll get it.</font>
+
+477
+00:37:59,130 --> 00:38:01,830
+<font face="方正准圆_GBK" size="48">等等 如果真的是唐尼的人怎么办?
+</font><font face="方正准圆_GBK" size="36">What? Wait but... what if Donnie's other guys?</font>
+
+478
+00:38:01,970 --> 00:38:04,480
+<font face="方正准圆_GBK" size="48">-我有心理准备了 -我还以为你想要我们来动手
+</font><font face="方正准圆_GBK" size="36">-I know what they'll do. -I thought you wanted us to kill you.</font>
+
+479
+00:38:04,520 --> 00:38:05,880
+<font face="方正准圆_GBK" size="48">你在忌妒吗?
+</font><font face="方正准圆_GBK" size="36">You jealous?</font>
+
+480
+00:38:06,400 --> 00:38:09,770
+<font face="方正准圆_GBK" size="48">-一点点 -走逃生梯 我来拖延
+</font><font face="方正准圆_GBK" size="36">-Kinda. -Now take the fire escape. I'll stall.</font>
+
+481
+00:38:09,990 --> 00:38:12,830
+<font face="方正准圆_GBK" size="48">要不然等他们看到这现场 会杀了我们每一个人
+</font><font face="方正准圆_GBK" size="36">Otherwise they're gonna kill us all after they see what happened in here.</font>
+
+482
+00:38:13,450 --> 00:38:14,710
+<font face="方正准圆_GBK" size="48">走!
+</font><font face="方正准圆_GBK" size="36">Go!</font>
+
+483
+00:38:15,250 --> 00:38:18,080
+<font face="方正准圆_GBK" size="48">-跟我们一起走! -不
+</font><font face="方正准圆_GBK" size="36">-Well you should come too! -No. No I shouldn't.</font>
+
+484
+00:38:18,300 --> 00:38:20,910
+<font face="方正准圆_GBK" size="48">这样我才可以帮你们拖延
+</font><font face="方正准圆_GBK" size="36">This way I'll buy you some time. Go!</font>
+
+485
+00:38:21,680 --> 00:38:22,990
+<font face="方正准圆_GBK" size="48">拜托
+</font><font face="方正准圆_GBK" size="36">Please.</font>
+
+486
+00:38:23,680 --> 00:38:25,540
+<font face="方正准圆_GBK" size="48">快走!
+</font><font face="方正准圆_GBK" size="36">Go! Go!</font>
+
+487
+00:38:29,400 --> 00:38:31,940
+<font face="方正准圆_GBK" size="48">你没事吧?我听到些声音
+</font><font face="方正准圆_GBK" size="36">Everything okay in there? I thought I heard something.</font>
+
+488
+00:38:32,280 --> 00:38:34,400
+<font face="方正准圆_GBK" size="48">没事 朵丽斯
+</font><font face="方正准圆_GBK" size="36">It's fine... Dolores.</font>
+
+489
+00:38:35,330 --> 00:38:37,340
+<font face="方正准圆_GBK" size="48">-你好吗? -我真的有听到
+</font><font face="方正准圆_GBK" size="36">-How have you been? -I thought I heard something.</font>
+
+490
+00:38:37,380 --> 00:38:40,770
+<font face="方正准圆_GBK" size="48">我也有听到 很像又是从楼上传来的
+</font><font face="方正准圆_GBK" size="36">You know, I did too. Sounded like it was coming from upstairs again.</font>
+
+491
+00:38:40,800 --> 00:38:42,840
+<font face="方正准圆_GBK" size="48">我很确定是从这里
+</font><font face="方正准圆_GBK" size="36">I was sure it was coming from here.</font>
+
+492
+00:38:43,760 --> 00:38:46,780
+<font face="方正准圆_GBK" size="48">-你有问隔壁吗? -你真的确定没问题?
+</font><font face="方正准圆_GBK" size="36">-Did you try next door? -Are you sure everything's okay in there?</font>
+
+493
+00:38:46,810 --> 00:38:48,050
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yes.</font>
+
+494
+00:38:48,230 --> 00:38:50,570
+<font face="方正准圆_GBK" size="48">我现在有事要忙
+</font><font face="方正准圆_GBK" size="36">I really should go now, Dolores.</font>
+
+495
+00:38:54,160 --> 00:38:55,680
+<font face="方正准圆_GBK" size="48">你多保重
+</font><font face="方正准圆_GBK" size="36">You take care.</font>
+
+496
+00:38:56,000 --> 00:38:57,360
+<font face="方正准圆_GBK" size="48">-但… -朵丽斯
+</font><font face="方正准圆_GBK" size="36">-Well ain't... -Dolores!</font>
+
+497
+00:38:57,750 --> 00:38:58,710
+<font face="方正准圆_GBK" size="48">朵丽斯
+</font><font face="方正准圆_GBK" size="36">Dolores...</font>
+
+498
+00:39:00,630 --> 00:39:01,950
+<font face="方正准圆_GBK" size="48">多保重
+</font><font face="方正准圆_GBK" size="36">Take care.</font>
+
+499
+00:40:00,170 --> 00:40:01,840
+<font face="方正准圆_GBK" size="48">等等 来了!
+</font><font face="方正准圆_GBK" size="36">Okay, you ready? Go!</font>
+
+500
+00:40:09,560 --> 00:40:11,680
+<font face="方正准圆_GBK" size="48">115警局 这是米诺却警官
+</font><font face="方正准圆_GBK" size="36">115th precinct, Officer Minocha speaking.</font>
+
+501
+00:40:11,730 --> 00:40:14,650
+<font face="方正准圆_GBK" size="48">我隔壁的公寓有一些不对劲
+</font><font face="方正准圆_GBK" size="36">There's something wrong in the apartment down the hall from me.</font>
+
+502
+00:40:47,310 --> 00:40:49,890
+<font face="方正准圆_GBK" size="48">我们还是要解决他 你知道吧?
+</font><font face="方正准圆_GBK" size="36">We're gonna have to take care of him too, you know.</font>
+
+503
+00:40:50,060 --> 00:40:51,320
+<font face="方正准圆_GBK" size="48">知道
+</font><font face="方正准圆_GBK" size="36">I know.</font>
+
+504
+00:40:52,060 --> 00:40:54,810
+<font face="方正准圆_GBK" size="48">-我们应该现在下手 -为什么
+</font><font face="方正准圆_GBK" size="36">-I think we should do it now. -Why?</font>
+
+505
+00:40:55,570 --> 00:40:58,240
+<font face="方正准圆_GBK" size="48">他在睡觉 这样比较仁慈
+</font><font face="方正准圆_GBK" size="36">He's sleeping. It'll be merciful.</font>
+
+506
+00:40:59,580 --> 00:41:01,700
+<font face="方正准圆_GBK" size="48">我们不是没子弹?
+</font><font face="方正准圆_GBK" size="36">Ah, I thought we were outta bullets again.</font>
+
+507
+00:41:02,080 --> 00:41:05,600
+<font face="方正准圆_GBK" size="48">是没了 但我还可以再出去买
+</font><font face="方正准圆_GBK" size="36">We are, but I can run out and go get some more somewhere real quick.</font>
+
+508
+00:41:05,680 --> 00:41:08,550
+<font face="方正准圆_GBK" size="48">就算有子弹 我们也不能现在动手
+</font><font face="方正准圆_GBK" size="36">We couldn't even do it now even if we had the bullets.</font>
+
+509
+00:41:08,560 --> 00:41:11,130
+<font face="方正准圆_GBK" size="48">-为什么? -不知道…
+</font><font face="方正准圆_GBK" size="36">-Why not? -I don't know.</font>
+
+510
+00:41:11,140 --> 00:41:13,730
+<font face="方正准圆_GBK" size="48">他说他想看自己是怎么死的
+</font><font face="方正准圆_GBK" size="36">He said, he wanted to see it coming.</font>
+
+511
+00:41:13,940 --> 00:41:15,880
+<font face="方正准圆_GBK" size="48">-什么时候说的? -你不在的时候
+</font><font face="方正准圆_GBK" size="36">-When? -While you're out.</font>
+
+512
+00:41:15,950 --> 00:41:18,660
+<font face="方正准圆_GBK" size="48">-他有说别的事吗? -像什么事?
+</font><font face="方正准圆_GBK" size="36">-Well did he say anything else? -Like what?</font>
+
+513
+00:41:18,910 --> 00:41:21,020
+<font face="方正准圆_GBK" size="48">像为什么他那么想死?
+</font><font face="方正准圆_GBK" size="36">Like, why he wants to check out so bad?</font>
+
+514
+00:41:21,460 --> 00:41:23,900
+<font face="方正准圆_GBK" size="48">-说了一点 -然后?
+</font><font face="方正准圆_GBK" size="36">-A little. -Well?</font>
+
+515
+00:41:25,300 --> 00:41:27,640
+<font face="方正准圆_GBK" size="48">他得了癌症
+</font><font face="方正准圆_GBK" size="36">He's… got bad cancer.</font>
+
+516
+00:41:27,720 --> 00:41:30,680
+<font face="方正准圆_GBK" size="48">我得的是胰脏癌 而且已经扩散了
+</font><font face="方正准圆_GBK" size="36">It's in my pancreas and spreading.</font>
+
+517
+00:41:32,690 --> 00:41:35,680
+<font face="方正准圆_GBK" size="48">要死的话 我不想要慢慢而死
+</font><font face="方正准圆_GBK" size="36">I'm going to die and I'd rather not take the scenic route.</font>
+
+518
+00:41:36,950 --> 00:41:40,990
+<font face="方正准圆_GBK" size="48">我想甚至也没有人爱他 这实在太可怜了
+</font><font face="方正准圆_GBK" size="36">I don't think he has anybody who loves him either, which must be even worse.</font>
+
+519
+00:41:43,690 --> 00:41:45,780
+<font face="方正准圆_GBK" size="48">我们应该去参加他的葬礼
+</font><font face="方正准圆_GBK" size="36">We should think about going to his funeral.</font>
+
+520
+00:41:45,870 --> 00:41:48,130
+<font face="方正准圆_GBK" size="48">因为这样至少还有人去
+</font><font face="方正准圆_GBK" size="36">You know, just so there's someone there.</font>
+
+521
+00:41:50,180 --> 00:41:51,540
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+522
+00:41:51,730 --> 00:41:52,490
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+523
+00:41:52,560 --> 00:41:55,270
+<font face="方正准圆_GBK" size="48">到头来 唐尼还是会派其余的手下
+</font><font face="方正准圆_GBK" size="36">At the end of the day, Donnie'll send the survivin' members</font>
+
+524
+00:41:55,570 --> 00:41:57,230
+<font face="方正准圆_GBK" size="48">来完成这件事
+</font><font face="方正准圆_GBK" size="36">of his squad to finish the job either way.</font>
+
+525
+00:41:57,240 --> 00:42:00,150
+<font face="方正准圆_GBK" size="48">所以如果我们不做 还是会有别人
+</font><font face="方正准圆_GBK" size="36">So if it's not us doin' this, it'll be somebody else.</font>
+
+526
+00:42:00,490 --> 00:42:02,410
+<font face="方正准圆_GBK" size="48">反正他是死定了!
+</font><font face="方正准圆_GBK" size="36">And besides, this guy's dead already!</font>
+
+527
+00:42:02,460 --> 00:42:05,020
+<font face="方正准圆_GBK" size="48">所以由我们下手的话还会比较好
+</font><font face="方正准圆_GBK" size="36">In fact, it's way better if we're the ones to do it.</font>
+
+528
+00:42:05,050 --> 00:42:06,960
+<font face="方正准圆_GBK" size="48">因为不像唐尼那些人
+</font><font face="方正准圆_GBK" size="36">Because unlike Donnie's punks,</font>
+
+529
+00:42:07,170 --> 00:42:10,300
+<font face="方正准圆_GBK" size="48">我们不会折磨他八 九个小时
+</font><font face="方正准圆_GBK" size="36">we're not gonna torture him for eight or nine hours first.</font>
+
+530
+00:42:11,480 --> 00:42:13,560
+<font face="方正准圆_GBK" size="48">你有听到什么吗?
+</font><font face="方正准圆_GBK" size="36">Did you hear somethin'?</font>
+
+531
+00:42:28,470 --> 00:42:32,050
+<font face="方正准圆_GBK" size="48">话说你是怎么了?你看起来一团糟
+</font><font face="方正准圆_GBK" size="36">What happened to you anyway? You look a little mussed up.</font>
+
+532
+00:42:32,270 --> 00:42:33,830
+<font face="方正准圆_GBK" size="48">这徽章又是怎么回事?
+</font><font face="方正准圆_GBK" size="36">What's with the heat shield?</font>
+
+533
+00:42:34,060 --> 00:42:35,400
+<font face="方正准圆_GBK" size="48">-这个? -嗯啊
+</font><font face="方正准圆_GBK" size="36">-This? -Yeah.</font>
+
+534
+00:42:36,190 --> 00:42:37,490
+<font face="方正准圆_GBK" size="48">我被任命为警官
+</font><font face="方正准圆_GBK" size="36">I've been deputized.</font>
+
+535
+00:42:37,510 --> 00:42:39,710
+<font face="方正准圆_GBK" size="48">-我是认真的 小薇 -好吧!
+</font><font face="方正准圆_GBK" size="36">-I'm serious, Vi. -Fine!</font>
+
+536
+00:42:40,620 --> 00:42:43,340
+<font face="方正准圆_GBK" size="48">我买弹药发生了一个小插曲
+</font><font face="方正准圆_GBK" size="36">I had a little incident while I was out getting the bullets.</font>
+
+537
+00:42:43,370 --> 00:42:46,380
+<font face="方正准圆_GBK" size="48">-你想说说吗? -你有兴趣吗?
+</font><font face="方正准圆_GBK" size="36">-Do you wanna talk about it? -Are you interested?</font>
+
+538
+00:42:46,420 --> 00:42:47,690
+<font face="方正准圆_GBK" size="48">一直都有
+</font><font face="方正准圆_GBK" size="36">Always.</font>
+
+539
+00:42:48,720 --> 00:42:50,380
+<font face="方正准圆_GBK" size="48">当我刚拿到子弹
+</font><font face="方正准圆_GBK" size="36">So the second I get the lead,</font>
+
+540
+00:42:50,600 --> 00:42:54,060
+<font face="方正准圆_GBK" size="48">三个抢匪冲了进来
+</font><font face="方正准圆_GBK" size="36">three desperados stormed in and hold up the spot.</font>
+
+541
+00:42:54,230 --> 00:42:58,320
+<font face="方正准圆_GBK" size="48">一开始我打算躲起来 好等这件事结束
+</font><font face="方正准圆_GBK" size="36">First I'm thinking, I'm just gonna lay low in aisle three and let this shit be.</font>
+
+542
+00:42:59,360 --> 00:43:01,320
+<font face="方正准圆_GBK" size="48">然后有人看到我
+</font><font face="方正准圆_GBK" size="36">Then, one of them sees me</font>
+
+543
+00:43:01,530 --> 00:43:04,150
+<font face="方正准圆_GBK" size="48">兴起了也抢劫我的想法
+</font><font face="方正准圆_GBK" size="36">and gets the bright idea that they should rob me too.</font>
+
+544
+00:43:04,370 --> 00:43:07,740
+<font face="方正准圆_GBK" size="48">所以我开始提醒他们
+</font><font face="方正准圆_GBK" size="36">So I proceeded to inform the perp and his pals</font>
+
+545
+00:43:07,960 --> 00:43:10,530
+<font face="方正准圆_GBK" size="48">他们有可能会死得很难看
+</font><font face="方正准圆_GBK" size="36">of the multiple ways in which they might violated their mothers.</font>
+
+546
+00:43:11,010 --> 00:43:13,930
+<font face="方正准圆_GBK" size="48">当他们在思考我哪里来的胆
+</font><font face="方正准圆_GBK" size="36">So while they're trying to figure out where I got the balls,</font>
+
+547
+00:43:14,940 --> 00:43:16,220
+<font face="方正准圆_GBK" size="48">警察来了
+</font><font face="方正准圆_GBK" size="36">the cops show up.</font>
+
+548
+00:43:16,440 --> 00:43:18,520
+<font face="方正准圆_GBK" size="48">是因为这地方有警铃?
+</font><font face="方正准圆_GBK" size="36">Was it because the place had a silent alarm?</font>
+
+549
+00:43:18,690 --> 00:43:19,810
+<font face="方正准圆_GBK" size="48">不
+</font><font face="方正准圆_GBK" size="36">No.</font>
+
+550
+00:43:19,820 --> 00:43:21,980
+<font face="方正准圆_GBK" size="48">是因为警察运气好?
+</font><font face="方正准圆_GBK" size="36">Was it because the cops just got lucky?</font>
+
+551
+00:43:22,030 --> 00:43:23,190
+<font face="方正准圆_GBK" size="48">当然不!
+</font><font face="方正准圆_GBK" size="36">Hell, no!</font>
+
+552
+00:43:23,200 --> 00:43:27,500
+<font face="方正准圆_GBK" size="48">因为那地方就在警局隔壁
+</font><font face="方正准圆_GBK" size="36">This place is a stone's throw from the 115th precinct.</font>
+
+553
+00:43:27,710 --> 00:43:29,950
+<font face="方正准圆_GBK" size="48">想起这件事后
+</font><font face="方正准圆_GBK" size="36">So the minute I remembered that little detail,</font>
+
+554
+00:43:30,130 --> 00:43:32,000
+<font face="方正准圆_GBK" size="48">我开始思考两件事
+</font><font face="方正准圆_GBK" size="36">I'm thinking one of two things:</font>
+
+555
+00:43:32,390 --> 00:43:36,180
+<font face="方正准圆_GBK" size="48">这些强匪要不是白痴 就是疯子
+</font><font face="方正准圆_GBK" size="36">These desperados are either stupid, or crazy as all hell.</font>
+
+556
+00:43:36,230 --> 00:43:39,200
+<font face="方正准圆_GBK" size="48">不管是哪个 他们被逮捕了
+</font><font face="方正准圆_GBK" size="36">Whatever the case, the cops apprehend the whole crew,</font>
+
+557
+00:43:39,280 --> 00:43:42,080
+<font face="方正准圆_GBK" size="48">而一个黑人问我有没有事
+</font><font face="方正准圆_GBK" size="36">and then one of the fuzzy-wuzzies asks me if I'm okay.</font>
+
+558
+00:43:42,160 --> 00:43:43,770
+<font face="方正准圆_GBK" size="48">而我就说:警官
+</font><font face="方正准圆_GBK" size="36">So I said, "Officer,</font>
+
+559
+00:43:43,990 --> 00:43:45,660
+<font face="方正准圆_GBK" size="48">是什么让你觉得我不是抢匪?
+</font><font face="方正准圆_GBK" size="36">how do you know I wasn't in on it?</font>
+
+560
+00:43:45,870 --> 00:43:49,170
+<font face="方正准圆_GBK" size="48">是什么让你觉得一个女人不能抢劫?
+</font><font face="方正准圆_GBK" size="36">What makes you think a girl can't be in on it?"</font>
+
+561
+00:43:49,550 --> 00:43:51,410
+<font face="方正准圆_GBK" size="48">接着我听到…
+</font><font face="方正准圆_GBK" size="36">Next thing I hear is...</font>
+
+562
+00:43:51,430 --> 00:43:52,810
+<font face="方正准圆_GBK" size="48">碰 碰 碰!
+</font><font face="方正准圆_GBK" size="36">The guy behind the register flips and starts shooting at the perps.</font>
+
+563
+00:43:52,850 --> 00:43:56,140
+<font face="方正准圆_GBK" size="48">有人从柜台后跳出来 开始射击那些抢匪
+</font><font face="方正准圆_GBK" size="36">The guy behind the register flips and starts shooting at the perps.</font>
+
+564
+00:43:56,350 --> 00:43:59,390
+<font face="方正准圆_GBK" size="48">原来他有在柜台藏枪 好预防抢匪
+</font><font face="方正准圆_GBK" size="36">It seems he had a gun beneath the counter took the robbery personally.</font>
+
+565
+00:43:59,570 --> 00:44:00,610
+<font face="方正准圆_GBK" size="48">长话短说
+</font><font face="方正准圆_GBK" size="36">Long story short,</font>
+
+566
+00:44:00,820 --> 00:44:03,110
+<font face="方正准圆_GBK" size="48">每个人都吃了一两颗子弹
+</font><font face="方正准圆_GBK" size="36">just about everybody ended up taking a slug or two,</font>
+
+567
+00:44:03,330 --> 00:44:05,540
+<font face="方正准圆_GBK" size="48">除了我
+</font><font face="方正准圆_GBK" size="36">except for yours truly.</font>
+
+568
+00:44:05,710 --> 00:44:08,200
+<font face="方正准圆_GBK" size="48">这就是我如何得到这徽章的
+</font><font face="方正准圆_GBK" size="36">That's how I got this one's shield on me.</font>
+
+569
+00:44:08,460 --> 00:44:12,500
+<font face="方正准圆_GBK" size="48">从一个胖猪上被弹飞 掉到我身上这可是真的
+</font><font face="方正准圆_GBK" size="36">It was blasted off a porker and just landed there. Scout's honor.</font>
+
+570
+00:44:12,890 --> 00:44:15,100
+<font face="方正准圆_GBK" size="48">为了谨慎起见
+</font><font face="方正准圆_GBK" size="36">Anyway, right about then, I thought it may be prudent</font>
+
+571
+00:44:15,310 --> 00:44:17,800
+<font face="方正准圆_GBK" size="48">我就从后门离开了
+</font><font face="方正准圆_GBK" size="36">to exit the premises through the rear.</font>
+
+572
+00:44:18,480 --> 00:44:21,520
+<font face="方正准圆_GBK" size="48">有时候 你就是找不到子弹
+</font><font face="方正准圆_GBK" size="36">Some days, you just can't get a bullet to save your life.</font>
+
+573
+00:44:21,740 --> 00:44:23,730
+<font face="方正准圆_GBK" size="48">这世界有那么多国家…
+</font><font face="方正准圆_GBK" size="36">And here of all places.</font>
+
+574
+00:44:23,740 --> 00:44:26,700
+<font face="方正准圆_GBK" size="48">该死的 这里可是美国耶!
+</font><font face="方正准圆_GBK" size="36">I mean, shit, this is America right?</font>
+
+575
+00:44:26,910 --> 00:44:28,950
+<font face="方正准圆_GBK" size="48">那衣服怎么那么脏?
+</font><font face="方正准圆_GBK" size="36">But, how'd you get so dirty?</font>
+
+576
+00:44:30,210 --> 00:44:33,710
+<font face="方正准圆_GBK" size="48">我在巷子里踩到香蕉皮
+</font><font face="方正准圆_GBK" size="36">I slipped on banana peel in the alleyway comin' back.</font>
+
+577
+00:44:33,890 --> 00:44:36,130
+<font face="方正准圆_GBK" size="48">我们去看那些衣服吧
+</font><font face="方正准圆_GBK" size="36">Let's go see about those dresses.</font>
+
+578
+00:44:49,040 --> 00:44:50,460
+<font face="方正准圆_GBK" size="48">你们时间消磨的怎样?
+</font><font face="方正准圆_GBK" size="36">How are you girls holding up?</font>
+
+579
+00:44:51,340 --> 00:44:52,470
+<font face="方正准圆_GBK" size="48">还可以
+</font><font face="方正准圆_GBK" size="36">Fine.</font>
+
+580
+00:44:52,470 --> 00:44:55,680
+<font face="方正准圆_GBK" size="48">还可以 但我们又没子弹了
+</font><font face="方正准圆_GBK" size="36">Fine. We're out of bullets again though.</font>
+
+581
+00:44:55,890 --> 00:44:58,930
+<font face="方正准圆_GBK" size="48">怎么不用这些人的枪?
+</font><font face="方正准圆_GBK" size="36">Why don't you use one of those guy's guns?</font>
+
+582
+00:44:59,190 --> 00:45:00,850
+<font face="方正准圆_GBK" size="48">他们有很多的样子
+</font><font face="方正准圆_GBK" size="36">They seem to have plenty.</font>
+
+583
+00:45:02,490 --> 00:45:04,850
+<font face="方正准圆_GBK" size="48">我怎么没想到?
+</font><font face="方正准圆_GBK" size="36">Why the hell didn't I think of that?</font>
+
+584
+00:45:26,200 --> 00:45:28,120
+<font face="方正准圆_GBK" size="48">他们有好多喔!小黛!
+</font><font face="方正准圆_GBK" size="36">These guys got everything Daze!</font>
+
+585
+00:45:29,380 --> 00:45:32,840
+<font face="方正准圆_GBK" size="48">甚至还有小到可以放到皮包里的
+</font><font face="方正准圆_GBK" size="36">Even a little Glock for your purse. You know the blue one?</font>
+
+586
+00:45:34,680 --> 00:45:36,790
+<font face="方正准圆_GBK" size="48">这根本就是圣诞节!
+</font><font face="方正准圆_GBK" size="36">It's like Christmas!</font>
+
+587
+00:45:37,560 --> 00:45:39,770
+<font face="方正准圆_GBK" size="48">拿到了 该死的
+</font><font face="方正准圆_GBK" size="36">I got you... Sucker!</font>
+
+588
+00:45:48,790 --> 00:45:50,620
+<font face="方正准圆_GBK" size="48">选一个吧
+</font><font face="方正准圆_GBK" size="36">Take your pick mister.</font>
+
+589
+00:45:52,250 --> 00:45:54,000
+<font face="方正准圆_GBK" size="48">你帮我决定好了
+</font><font face="方正准圆_GBK" size="36">Why don't you decide?</font>
+
+590
+00:45:54,220 --> 00:45:55,960
+<font face="方正准圆_GBK" size="48">我看看…
+</font><font face="方正准圆_GBK" size="36">Okay, let's see...</font>
+
+591
+00:46:00,190 --> 00:46:02,750
+<font face="方正准圆_GBK" size="48">小黛 我要用点38
+</font><font face="方正准圆_GBK" size="36">I'm gonna go with a .38, Daze.</font>
+
+592
+00:46:03,280 --> 00:46:05,360
+<font face="方正准圆_GBK" size="48">你准备好了吗?
+</font><font face="方正准圆_GBK" size="36">Alright, are you ready mister?</font>
+
+593
+00:46:23,650 --> 00:46:24,810
+<font face="方正准圆_GBK" size="48">好了
+</font><font face="方正准圆_GBK" size="36">Sure.</font>
+
+594
+00:46:27,950 --> 00:46:30,520
+<font face="方正准圆_GBK" size="48">要下手了
+</font><font face="方正准圆_GBK" size="36">Okay. Here goes nothin'.</font>
+
+595
+00:46:30,580 --> 00:46:32,330
+<font face="方正准圆_GBK" size="48">哈哈 好难笑
+</font><font face="方正准圆_GBK" size="36">Hardy har har.</font>
+
+596
+00:46:33,920 --> 00:46:35,180
+<font face="方正准圆_GBK" size="48">什么
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+597
+00:46:36,050 --> 00:46:37,920
+<font face="方正准圆_GBK" size="48">你闹够了没?
+</font><font face="方正准圆_GBK" size="36">Are you done yet?</font>
+
+598
+00:46:38,640 --> 00:46:40,200
+<font face="方正准圆_GBK" size="48">说什么啊?
+</font><font face="方正准圆_GBK" size="36">Come again?</font>
+
+599
+00:46:40,390 --> 00:46:42,560
+<font face="方正准圆_GBK" size="48">我说:你闹够了没?
+</font><font face="方正准圆_GBK" size="36">I said, "Are you done yet?"</font>
+
+600
+00:46:42,770 --> 00:46:43,920
+<font face="方正准圆_GBK" size="48">你到底在说什么?
+</font><font face="方正准圆_GBK" size="36">What are you talking about?</font>
+
+601
+00:46:43,940 --> 00:46:46,690
+<font face="方正准圆_GBK" size="48">你不是真的要动手吧?
+</font><font face="方正准圆_GBK" size="36">You weren't seriously gonna do it, were you?</font>
+
+602
+00:46:46,870 --> 00:46:49,030
+<font face="方正准圆_GBK" size="48">我当然要
+</font><font face="方正准圆_GBK" size="36">I most certainly was.</font>
+
+603
+00:46:49,500 --> 00:46:51,310
+<font face="方正准圆_GBK" size="48">用那个?
+</font><font face="方正准圆_GBK" size="36">With that piece?</font>
+
+604
+00:46:51,630 --> 00:46:52,980
+<font face="方正准圆_GBK" size="48">对啊
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+605
+00:46:54,800 --> 00:46:57,340
+<font face="方正准圆_GBK" size="48">-随便你 -为什么不能?
+</font><font face="方正准圆_GBK" size="36">-Suit yourself. -Well why shouldn't I?</font>
+
+606
+00:46:58,260 --> 00:46:59,930
+<font face="方正准圆_GBK" size="48">这样不专业
+</font><font face="方正准圆_GBK" size="36">It's unprofessional.</font>
+
+607
+00:47:00,180 --> 00:47:01,440
+<font face="方正准圆_GBK" size="48">为什么?
+</font><font face="方正准圆_GBK" size="36">How's that?</font>
+
+608
+00:47:03,690 --> 00:47:04,950
+<font face="方正准圆_GBK" size="48">监识科学
+</font><font face="方正准圆_GBK" size="36">Forensics.</font>
+
+609
+00:47:05,030 --> 00:47:06,740
+<font face="方正准圆_GBK" size="48">-监识科学? -对啊
+</font><font face="方正准圆_GBK" size="36">-Forensics? -Yeah.</font>
+
+610
+00:47:06,820 --> 00:47:09,190
+<font face="方正准圆_GBK" size="48">监识科学 弹道学
+</font><font face="方正准圆_GBK" size="36">Forensics. Ballistics.</font>
+
+611
+00:47:09,950 --> 00:47:11,410
+<font face="方正准圆_GBK" size="48">他们可能会把事情搞混
+</font><font face="方正准圆_GBK" size="36">There's a real good chance</font>
+
+612
+00:47:11,620 --> 00:47:14,890
+<font face="方正准圆_GBK" size="48">如果我们用那把枪杀人的话
+</font><font face="方正准圆_GBK" size="36">those dorks would foul everything up for us if we do it like this.</font>
+
+613
+00:47:14,960 --> 00:47:17,080
+<font face="方正准圆_GBK" size="48">唐尼有可能会得到功劳
+</font><font face="方正准圆_GBK" size="36">I mean Donnie's guys can even wind up with the credit</font>
+
+614
+00:47:17,300 --> 00:47:18,700
+<font face="方正准圆_GBK" size="48">因为那是唐尼的枪
+</font><font face="方正准圆_GBK" size="36">if they traced the gun and...</font>
+
+615
+00:47:18,760 --> 00:47:21,370
+<font face="方正准圆_GBK" size="48">然后老板就会拒绝付钱
+</font><font face="方正准圆_GBK" size="36">boss'll try to weasel out of payin' us.</font>
+
+616
+00:47:21,520 --> 00:47:24,940
+<font face="方正准圆_GBK" size="48">最糟的是 这里的尸体可能都会被当成我们杀的
+</font><font face="方正准圆_GBK" size="36">Even worse, we might get blamed for every corpse in here.</font>
+
+617
+00:47:25,150 --> 00:47:28,650
+<font face="方正准圆_GBK" size="48">而老板就会耻笑我们造成那么多不必要的伤亡
+</font><font face="方正准圆_GBK" size="36">And boss'd chaft us to the hilt on account of unnecessary roughness.</font>
+
+618
+00:47:28,830 --> 00:47:32,160
+<font face="方正准圆_GBK" size="48">还挑起了帮派战争
+</font><font face="方正准圆_GBK" size="36">Not to mention the gang war we might've already started.</font>
+
+619
+00:47:32,370 --> 00:47:34,620
+<font face="方正准圆_GBK" size="48">而且我们还不能用他们的子弹
+</font><font face="方正准圆_GBK" size="36">And it's not even like we can switch out the bullets,</font>
+
+620
+00:47:34,800 --> 00:47:38,090
+<font face="方正准圆_GBK" size="48">因为口径跟我们的枪不符
+</font><font face="方正准圆_GBK" size="36">because the calibers won't begin to match the ones on our stylin' rods.</font>
+
+621
+00:47:38,340 --> 00:47:42,870
+<font face="方正准圆_GBK" size="48">所以如果你真的动手的话,
+</font><font face="方正准圆_GBK" size="36">So, like I said, you can do it your way if you want to, but...</font>
+
+622
+00:47:43,480 --> 00:47:46,900
+<font face="方正准圆_GBK" size="48">我们就会看起来不够专业
+</font><font face="方正准圆_GBK" size="36">We risk looking on professional and getting screwed...</font>
+
+623
+00:47:47,110 --> 00:47:48,980
+<font face="方正准圆_GBK" size="48">也失去了那些漂亮衣服
+</font><font face="方正准圆_GBK" size="36">out of a couple of hot dresses.</font>
+
+624
+00:48:21,390 --> 00:48:24,730
+<font face="方正准圆_GBK" size="48">想得很周到 监识科学真的很麻烦
+</font><font face="方正准圆_GBK" size="36">Good thinkin', Daze. Forensics will fuck you.</font>
+
+625
+00:48:25,110 --> 00:48:27,470
+<font face="方正准圆_GBK" size="48">你也可以这样思虑周全的 小薇
+</font><font face="方正准圆_GBK" size="36">You would've thought of it too, Vi.</font>
+
+626
+00:48:27,690 --> 00:48:31,290
+<font face="方正准圆_GBK" size="48">-也许吧 -我需要抽根烟
+</font><font face="方正准圆_GBK" size="36">-Yeah, maybe. -I need a smoke.</font>
+
+627
+00:48:32,080 --> 00:48:33,530
+<font face="方正准圆_GBK" size="48">你抽烟
+</font><font face="方正准圆_GBK" size="36">You do that?</font>
+
+628
+00:48:34,080 --> 00:48:36,040
+<font face="方正准圆_GBK" size="48">你什么时候开始抽烟的?
+</font><font face="方正准圆_GBK" size="36">When did you start doin' that?</font>
+
+629
+00:48:36,290 --> 00:48:37,650
+<font face="方正准圆_GBK" size="48">不知道
+</font><font face="方正准圆_GBK" size="36">I don't know.</font>
+
+630
+00:48:38,470 --> 00:48:40,650
+<font face="方正准圆_GBK" size="48">你从哪里拿来的?
+</font><font face="方正准圆_GBK" size="36">Where did you get those?</font>
+
+631
+00:48:41,220 --> 00:48:42,680
+<font face="方正准圆_GBK" size="48">从那些人身上
+</font><font face="方正准圆_GBK" size="36">Off one of those guys.</font>
+
+632
+00:48:44,230 --> 00:48:46,200
+<font face="方正准圆_GBK" size="48">你在意我抽烟吗?
+</font><font face="方正准圆_GBK" size="36">You mind if I smoke in your place, mister?</font>
+
+633
+00:48:46,230 --> 00:48:47,100
+<font face="方正准圆_GBK" size="48">是
+</font><font face="方正准圆_GBK" size="36">Yeah.</font>
+
+634
+00:48:48,280 --> 00:48:51,540
+<font face="方正准圆_GBK" size="48">-"是 在意"或"是 可以"? -"是 在意"
+</font><font face="方正准圆_GBK" size="36">-Yeah you mind or yeah it's okay? -Yeah, I mind.</font>
+
+635
+00:48:52,540 --> 00:48:55,220
+<font face="方正准圆_GBK" size="48">事实上 还是随便你好了
+</font><font face="方正准圆_GBK" size="36">Actually, do what you like.</font>
+
+636
+00:48:56,500 --> 00:48:58,120
+<font face="方正准圆_GBK" size="48">反正也没什么差别了
+</font><font face="方正准圆_GBK" size="36">It doesn't matter anyway.</font>
+
+637
+00:49:00,630 --> 00:49:02,670
+<font face="方正准圆_GBK" size="48">我会去外面抽
+</font><font face="方正准圆_GBK" size="36">I'll take it out to the stairs.</font>
+
+638
+00:49:03,640 --> 00:49:06,760
+<font face="方正准圆_GBK" size="48">薇莉 记得把你的指纹擦掉
+</font><font face="方正准圆_GBK" size="36">Oh and Violet, you might wanna wipe your prints off those pieces.</font>
+
+639
+00:49:06,810 --> 00:49:08,830
+<font face="方正准圆_GBK" size="48">然后把枪放回他们身上
+</font><font face="方正准圆_GBK" size="36">Put 'em back on the fellas.</font>
+
+640
+00:49:09,780 --> 00:49:12,020
+<font face="方正准圆_GBK" size="48">太棒了 小黛
+</font><font face="方正准圆_GBK" size="36">Sounds good, Daze.</font>
+
+641
+00:49:23,930 --> 00:49:26,070
+<font face="方正准圆_GBK" size="48">过来坐 我想给你看样东西
+</font><font face="方正准圆_GBK" size="36">Come on sit down. I wanna show you something.</font>
+
+642
+00:49:29,860 --> 00:49:33,120
+<font face="方正准圆_GBK" size="48">如果常清理耳朵的话 你就可以变成百万富翁
+</font><font face="方正准圆_GBK" size="36">You know you'd probably a millionaire if you cleaned your ears out more often.</font>
+
+643
+00:49:33,200 --> 00:49:34,380
+<font face="方正准圆_GBK" size="48">最好是
+</font><font face="方正准圆_GBK" size="36">Nuh-uh!</font>
+
+644
+00:49:35,960 --> 00:49:37,140
+<font face="方正准圆_GBK" size="48">给你
+</font><font face="方正准圆_GBK" size="36">Here.</font>
+
+645
+00:49:38,460 --> 00:49:40,500
+<font face="方正准圆_GBK" size="48">你有什么要跟我讲的吗?
+</font><font face="方正准圆_GBK" size="36">Now what were you going to tell me?</font>
+
+646
+00:49:41,300 --> 00:49:42,920
+<font face="方正准圆_GBK" size="48">你有一个秘密…
+</font><font face="方正准圆_GBK" size="36">You had a secret...</font>
+
+647
+00:49:43,140 --> 00:49:44,930
+<font face="方正准圆_GBK" size="48">要跟我讲
+</font><font face="方正准圆_GBK" size="36">you were going to tell me.</font>
+
+648
+00:50:09,820 --> 00:50:11,520
+<font face="方正准圆_GBK" size="48">我想问你
+</font><font face="方正准圆_GBK" size="36">Can I ask you somethin'?</font>
+
+649
+00:50:12,820 --> 00:50:14,990
+<font face="方正准圆_GBK" size="48">为什么她会如此恨你?
+</font><font face="方正准圆_GBK" size="36">Why is she so mad at you?</font>
+
+650
+00:50:15,160 --> 00:50:18,950
+<font face="方正准圆_GBK" size="48">-她是你朋友 你告诉我才对 -我不是说薇莉!
+</font><font face="方正准圆_GBK" size="36">-She's your friend, you tell me. -I'm not talking about Violet!</font>
+
+651
+00:50:24,050 --> 00:50:27,290
+<font face="方正准圆_GBK" size="48">-她责怪我 -为了什么?
+</font><font face="方正准圆_GBK" size="36">-She blames me for something. -For what?</font>
+
+652
+00:50:28,140 --> 00:50:31,160
+<font face="方正准圆_GBK" size="48">-她母亲的死 -你杀了她?
+</font><font face="方正准圆_GBK" size="36">-Her mother's death. -Why, did you kill her?</font>
+
+653
+00:50:32,900 --> 00:50:36,870
+<font face="方正准圆_GBK" size="48">不 她是在离开我后死的
+</font><font face="方正准圆_GBK" size="36">No, no. She died after she left me.</font>
+
+654
+00:50:36,950 --> 00:50:41,070
+<font face="方正准圆_GBK" size="48">-那她为什么离开你? -她不爱我
+</font><font face="方正准圆_GBK" size="36">-Well why did she leave you? -She didn't love me.</font>
+
+655
+00:50:41,250 --> 00:50:44,450
+<font face="方正准圆_GBK" size="48">-为什么她不爱你? -我不知道 黛西
+</font><font face="方正准圆_GBK" size="36">-Why didn't she love you? -I don't know, Daisy.</font>
+
+656
+00:50:44,470 --> 00:50:47,890
+<font face="方正准圆_GBK" size="48">我想人没办法控制这种感情
+</font><font face="方正准圆_GBK" size="36">I don't think people have a lot of control over that sort of thing.</font>
+
+657
+00:50:50,610 --> 00:50:54,190
+<font face="方正准圆_GBK" size="48">我也不是个好丈夫就是了
+</font><font face="方正准圆_GBK" size="36">As a husband I wasn't much a prize anyway.</font>
+
+658
+00:50:54,450 --> 00:50:58,030
+<font face="方正准圆_GBK" size="48">不管怎样 她爱上别人了
+</font><font face="方正准圆_GBK" size="36">Whatever the case, she... fell in love with someone else.</font>
+
+659
+00:50:59,420 --> 00:51:00,670
+<font face="方正准圆_GBK" size="48">谁?
+</font><font face="方正准圆_GBK" size="36">Who?</font>
+
+660
+00:51:02,130 --> 00:51:05,000
+<font face="方正准圆_GBK" size="48">她的同事我不认识他
+</font><font face="方正准圆_GBK" size="36">A man she used to work with. I didn't know him.</font>
+
+661
+00:51:05,430 --> 00:51:07,760
+<font face="方正准圆_GBK" size="48">我只看过他一次
+</font><font face="方正准圆_GBK" size="36">I only saw him once.</font>
+
+662
+00:51:09,140 --> 00:51:10,540
+<font face="方正准圆_GBK" size="48">从远处看到的
+</font><font face="方正准圆_GBK" size="36">From a distance.</font>
+
+663
+00:51:14,950 --> 00:51:16,940
+<font face="方正准圆_GBK" size="48">他们死于一场车祸
+</font><font face="方正准圆_GBK" size="36">They died in a car accident.</font>
+
+664
+00:51:18,960 --> 00:51:21,830
+<font face="方正准圆_GBK" size="48">那为什么你的女儿责怪你?
+</font><font face="方正准圆_GBK" size="36">How does your daughter figure that's your fault?</font>
+
+665
+00:51:23,170 --> 00:51:26,290
+<font face="方正准圆_GBK" size="48">她不知道母亲有外遇
+</font><font face="方正准圆_GBK" size="36">Well, my daughter didn't know about the affair.</font>
+
+666
+00:51:26,680 --> 00:51:29,210
+<font face="方正准圆_GBK" size="48">责怪我是让她母亲离开的原因
+</font><font face="方正准圆_GBK" size="36">She blamed me for the breakup,</font>
+
+667
+00:51:29,230 --> 00:51:32,510
+<font face="方正准圆_GBK" size="48">接着导致车祸
+</font><font face="方正准圆_GBK" size="36">and consequently the... car accident.</font>
+
+668
+00:51:32,730 --> 00:51:35,520
+<font face="方正准圆_GBK" size="48">你没告诉她真相?
+</font><font face="方正准圆_GBK" size="36">Well... did you ever tell her the whole story?</font>
+
+669
+00:51:35,910 --> 00:51:37,640
+<font face="方正准圆_GBK" size="48">-没 -为什么?
+</font><font face="方正准圆_GBK" size="36">-No. -Why not?</font>
+
+670
+00:51:39,710 --> 00:51:43,250
+<font face="方正准圆_GBK" size="48">因为我不想让她对母亲的形象破灭
+</font><font face="方正准圆_GBK" size="36">Because I want her to remember her mother the way she does now.</font>
+
+671
+00:51:43,300 --> 00:51:45,790
+<font face="方正准圆_GBK" size="48">那太蠢了!你真蠢!
+</font><font face="方正准圆_GBK" size="36">That's stupid! You're stupid!</font>
+
+672
+00:51:46,140 --> 00:51:48,220
+<font face="方正准圆_GBK" size="48">-谢了 -她喜欢周日芭比吗?
+</font><font face="方正准圆_GBK" size="36">-Thank you. -Does your daughter like Barbie Sunday?</font>
+
+673
+00:51:48,640 --> 00:51:51,480
+<font face="方正准圆_GBK" size="48">-什么? -你的女儿喜欢歌手周日芭比吗?
+</font><font face="方正准圆_GBK" size="36">-What? -Does your daughter like Barbie Sunday?</font>
+
+674
+00:51:53,150 --> 00:51:54,310
+<font face="方正准圆_GBK" size="48">很喜欢
+</font><font face="方正准圆_GBK" size="36">Very much.</font>
+
+675
+00:51:55,610 --> 00:51:58,180
+<font face="方正准圆_GBK" size="48">至少你做对了件事
+</font><font face="方正准圆_GBK" size="36">Well, at least you did somethin' right.</font>
+
+676
+00:51:59,910 --> 00:52:03,210
+<font face="方正准圆_GBK" size="48">现在我要去找些子弹 把事情做个结束
+</font><font face="方正准圆_GBK" size="36">Now, I'm gonna get some bullets and be done with all this.</font>
+
+677
+00:52:03,460 --> 00:52:04,970
+<font face="方正准圆_GBK" size="48">跟薇莉讲
+</font><font face="方正准圆_GBK" size="36">Tell Violet.</font>
+
+678
+00:52:10,930 --> 00:52:12,930
+<font face="方正准圆_GBK" size="48">光合作用</font>
+
+679
+00:53:13,020 --> 00:53:15,310
+<font face="方正准圆_GBK" size="48">你喜欢我伙伴?
+</font><font face="方正准圆_GBK" size="36">You like my partner, don't you?</font>
+
+680
+00:53:15,570 --> 00:53:18,940
+<font face="方正准圆_GBK" size="48">为什么不呢?她是个好女孩
+</font><font face="方正准圆_GBK" size="36">What's not to like? She's… a sweet girl.</font>
+
+681
+00:53:20,530 --> 00:53:22,800
+<font face="方正准圆_GBK" size="48">你喜欢她胜过我?
+</font><font face="方正准圆_GBK" size="36">Do you like her better than me?</font>
+
+682
+00:53:23,250 --> 00:53:25,440
+<font face="方正准圆_GBK" size="48">我对你又不了解
+</font><font face="方正准圆_GBK" size="36">I don't know you as well.</font>
+
+683
+00:53:25,790 --> 00:53:27,080
+<font face="方正准圆_GBK" size="48">没关系
+</font><font face="方正准圆_GBK" size="36">That's okay.</font>
+
+684
+00:53:27,460 --> 00:53:30,130
+<font face="方正准圆_GBK" size="48">我也喜欢她胜过自己
+</font><font face="方正准圆_GBK" size="36">I'd like her better than me too. She might even</font>
+
+685
+00:53:30,350 --> 00:53:34,290
+<font face="方正准圆_GBK" size="48">她甚至想说不杀了你真是孩子气…
+</font><font face="方正准圆_GBK" size="36">think she can keep you alive for some silly reason. Kids...</font>
+
+686
+00:53:39,320 --> 00:53:42,020
+<font face="方正准圆_GBK" size="48">-我可以问个问题吗? -问吧
+</font><font face="方正准圆_GBK" size="36">-May I ask you a question, Violet? -You may ask.</font>
+
+687
+00:53:42,290 --> 00:53:44,580
+<font face="方正准圆_GBK" size="48">你会不会想念玩偶医院?
+</font><font face="方正准圆_GBK" size="36">Do you ever miss the Doll hospital?</font>
+
+688
+00:53:48,260 --> 00:53:49,620
+<font face="方正准圆_GBK" size="48">还好
+</font><font face="方正准圆_GBK" size="36">Not particularly.</font>
+
+689
+00:53:50,470 --> 00:53:52,930
+<font face="方正准圆_GBK" size="48">我知道你想要说什么
+</font><font face="方正准圆_GBK" size="36">And I think I know what you're driving at, mister.</font>
+
+690
+00:53:53,100 --> 00:53:55,180
+<font face="方正准圆_GBK" size="48">但是这工作从来没让我情绪激动过
+</font><font face="方正准圆_GBK" size="36">But this job never got to me,</font>
+
+691
+00:53:55,350 --> 00:53:57,890
+<font face="方正准圆_GBK" size="48">除了下手时的快感
+</font><font face="方正准圆_GBK" size="36">aside from the sensational rush of the action.</font>
+
+692
+00:53:58,110 --> 00:54:00,820
+<font face="方正准圆_GBK" size="48">-那些人怎么办? -什么人?
+</font><font face="方正准圆_GBK" size="36">-What about those men? -What men?</font>
+
+693
+00:54:01,490 --> 00:54:03,360
+<font face="方正准圆_GBK" size="48">那些被你杀的人
+</font><font face="方正准圆_GBK" size="36">The ones you killed.</font>
+
+694
+00:54:03,370 --> 00:54:06,120
+<font face="方正准圆_GBK" size="48">那真是太刺激了
+</font><font face="方正准圆_GBK" size="36">That, was fucking magical.</font>
+
+695
+00:54:06,340 --> 00:54:07,870
+<font face="方正准圆_GBK" size="48">你有看到吗?
+</font><font face="方正准圆_GBK" size="36">Did you see that?</font>
+
+696
+00:54:08,590 --> 00:54:11,170
+<font face="方正准圆_GBK" size="48">现在说也许太早了
+</font><font face="方正准圆_GBK" size="36">It's a bit early to know, but career-wise...</font>
+
+697
+00:54:11,390 --> 00:54:14,350
+<font face="方正准圆_GBK" size="48">但那也许是我职业生涯的"蒙娜丽莎的微笑"
+</font><font face="方正准圆_GBK" size="36">that little miracle might be my Mona Lisa.</font>
+
+698
+00:54:14,560 --> 00:54:16,180
+<font face="方正准圆_GBK" size="48">甚至是我的"比莉珍"(麦克杰克森的著名歌曲)
+</font><font face="方正准圆_GBK" size="36">If not my Billie Jean.</font>
+
+699
+00:54:17,190 --> 00:54:19,230
+<font face="方正准圆_GBK" size="48">-事实上… -你有家人吗?
+</font><font face="方正准圆_GBK" size="36">-Actually... -Do you have any family?</font>
+
+700
+00:54:19,320 --> 00:54:20,610
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+701
+00:54:20,820 --> 00:54:22,390
+<font face="方正准圆_GBK" size="48">你有家人吗?
+</font><font face="方正准圆_GBK" size="36">Do you have any family?</font>
+
+702
+00:54:25,210 --> 00:54:28,580
+<font face="方正准圆_GBK" size="48">-真是奇怪的问题 -那你有吗?
+</font><font face="方正准圆_GBK" size="36">-What a random question. -Well, do you?</font>
+
+703
+00:54:29,970 --> 00:54:31,630
+<font face="方正准圆_GBK" size="48">黛西就像我的家人
+</font><font face="方正准圆_GBK" size="36">Daisy's like family.</font>
+
+704
+00:54:32,890 --> 00:54:34,850
+<font face="方正准圆_GBK" size="48">你没回答我的问题
+</font><font face="方正准圆_GBK" size="36">You didn't answer the question.</font>
+
+705
+00:54:36,270 --> 00:54:39,610
+<font face="方正准圆_GBK" size="48">我父亲可能还活着为什么要问这些?
+</font><font face="方正准圆_GBK" size="36">I got a father somewhere. What's with the interview?</font>
+
+706
+00:54:39,820 --> 00:54:41,660
+<font face="方正准圆_GBK" size="48">你上次跟他讲话是多久以前的事?
+</font><font face="方正准圆_GBK" size="36">When's the last time you and he spoke?</font>
+
+707
+00:54:41,740 --> 00:54:44,800
+<font face="方正准圆_GBK" size="48">-关你什么事? -所以很久
+</font><font face="方正准圆_GBK" size="36">-What do you care? -That long huh?</font>
+
+708
+00:54:50,880 --> 00:54:54,420
+<font face="方正准圆_GBK" size="48">-你会担心接下来会怎样吗? -担心被枪杀?
+</font><font face="方正准圆_GBK" size="36">-Are you afraid of what's next? -Me getting shot?</font>
+
+709
+00:54:54,600 --> 00:54:56,360
+<font face="方正准圆_GBK" size="48">我是说死了后
+</font><font face="方正准圆_GBK" size="36">I mean after that.</font>
+
+710
+00:54:56,690 --> 00:54:58,820
+<font face="方正准圆_GBK" size="48">我有想过
+</font><font face="方正准圆_GBK" size="36">I've thought about it.</font>
+
+711
+00:54:58,980 --> 00:55:00,140
+<font face="方正准圆_GBK" size="48">然后?
+</font><font face="方正准圆_GBK" size="36">And?</font>
+
+712
+00:55:01,780 --> 00:55:04,690
+<font face="方正准圆_GBK" size="48">没得出什么结论
+</font><font face="方正准圆_GBK" size="36">I haven't come up with anything conclusive.</font>
+
+713
+00:55:06,460 --> 00:55:09,420
+<font face="方正准圆_GBK" size="48">虽然我不是这方面的专家 但我有个理论
+</font><font face="方正准圆_GBK" size="36">I'm not an expert or anything, but I have a theory.</font>
+
+714
+00:55:09,670 --> 00:55:10,930
+<font face="方正准圆_GBK" size="48">嗯?
+</font><font face="方正准圆_GBK" size="36">Yeah?</font>
+
+715
+00:55:12,130 --> 00:55:13,470
+<font face="方正准圆_GBK" size="48">我想…
+</font><font face="方正准圆_GBK" size="36">I figure...</font>
+
+716
+00:55:14,470 --> 00:55:18,090
+<font face="方正准圆_GBK" size="48">我想天堂是…
+</font><font face="方正准圆_GBK" size="36">I figure heaven... is probably a place where...</font>
+
+717
+00:55:19,400 --> 00:55:22,890
+<font face="方正准圆_GBK" size="48">那里没有人会在你的外表
+</font><font face="方正准圆_GBK" size="36">nobody cares how big or small you are, or what you look like.</font>
+
+718
+00:55:23,820 --> 00:55:26,490
+<font face="方正准圆_GBK" size="48">甚至可能没有身体
+</font><font face="方正准圆_GBK" size="36">People probably don't even have bodies.</font>
+
+719
+00:55:27,920 --> 00:55:31,880
+<font face="方正准圆_GBK" size="48">他们可能只是虚无飘缈的灵魂
+</font><font face="方正准圆_GBK" size="36">They're just maybe like... essences or something.</font>
+
+720
+00:55:32,130 --> 00:55:35,450
+<font face="方正准圆_GBK" size="48">不过如果他们真的有身体的话 那一定全身赤裸
+</font><font face="方正准圆_GBK" size="36">But if they do have bodies, everyone's gotta be naked for sure,</font>
+
+721
+00:55:35,470 --> 00:55:38,920
+<font face="方正准圆_GBK" size="48">因为我们就是这样来到这世界的
+</font><font face="方正准圆_GBK" size="36">'cause that's we all showed up here in the first place, right?</font>
+
+722
+00:55:38,940 --> 00:55:42,110
+<font face="方正准圆_GBK" size="48">而且如果你会背痛
+</font><font face="方正准圆_GBK" size="36">And also, if you have a back problem,</font>
+
+723
+00:55:42,280 --> 00:55:45,110
+<font face="方正准圆_GBK" size="48">或膝盖疼 或缺乏自信心
+</font><font face="方正准圆_GBK" size="36">or bad knees or self-esteem issues,</font>
+
+724
+00:55:45,330 --> 00:55:48,070
+<font face="方正准圆_GBK" size="48">这些都不会再困扰你了
+</font><font face="方正准圆_GBK" size="36">that stuff wouldn't bother you anymore up there.</font>
+
+725
+00:55:49,330 --> 00:55:51,500
+<font face="方正准圆_GBK" size="48">而且东西都是免费的
+</font><font face="方正准圆_GBK" size="36">And everything's free too.</font>
+
+726
+00:55:51,760 --> 00:55:53,500
+<font face="方正准圆_GBK" size="48">要不然至少会很便宜
+</font><font face="方正准圆_GBK" size="36">Or at least whole sale.</font>
+
+727
+00:55:54,300 --> 00:55:57,420
+<font face="方正准圆_GBK" size="48">如果有动物的话就更好了
+</font><font face="方正准圆_GBK" size="36">I don't know if there are animals, but that would be cool.</font>
+
+728
+00:56:00,940 --> 00:56:02,100
+<font face="方正准圆_GBK" size="48">对了
+</font><font face="方正准圆_GBK" size="36">Oh yeah,</font>
+
+729
+00:56:02,280 --> 00:56:05,940
+<font face="方正准圆_GBK" size="48">当你第一次经过天国之门的时候
+</font><font face="方正准圆_GBK" size="36">and when you walkin' in through the gates for the very first time.</font>
+
+730
+00:56:06,160 --> 00:56:09,750
+<font face="方正准圆_GBK" size="48">他们还会一边播放路易斯阿姆斯壮的那首歌
+</font><font face="方正准圆_GBK" size="36">They're probably playin' that Louis Armstrong song.</font>
+
+731
+00:56:09,920 --> 00:56:11,830
+<font face="方正准圆_GBK" size="48">或类似的歌
+</font><font face="方正准圆_GBK" size="36">Somethin' nice like that.</font>
+
+732
+00:56:14,840 --> 00:56:16,970
+<font face="方正准圆_GBK" size="48">这些想法有些来自我认识的一个女生
+</font><font face="方正准圆_GBK" size="36">Part of it came from this girl I knew.</font>
+
+733
+00:56:17,220 --> 00:56:18,480
+<font face="方正准圆_GBK" size="48">她已经死了
+</font><font face="方正准圆_GBK" size="36">She died.</font>
+
+734
+00:56:19,270 --> 00:56:21,510
+<font face="方正准圆_GBK" size="48">很复杂的故事
+</font><font face="方正准圆_GBK" size="36">It's a long story.</font>
+
+735
+00:56:21,530 --> 00:56:24,620
+<font face="方正准圆_GBK" size="48">是她认为每个人都会赤裸
+</font><font face="方正准圆_GBK" size="36">Anyway, she thought everybody would be naked. That part was her idea.</font>
+
+736
+00:56:26,200 --> 00:56:28,890
+<font face="方正准圆_GBK" size="48">-她怎么死的? -我不想讲
+</font><font face="方正准圆_GBK" size="36">-How did she die? -I don't wanna talk about it!</font>
+
+737
+00:56:29,330 --> 00:56:31,950
+<font face="方正准圆_GBK" size="48">我想 但是…
+</font><font face="方正准圆_GBK" size="36">I mean, I do but...</font>
+
+738
+00:56:32,210 --> 00:56:34,710
+<font face="方正准圆_GBK" size="48">每次都让我讲不下去
+</font><font face="方正准圆_GBK" size="36">when I try it never works.</font>
+
+739
+00:56:35,430 --> 00:56:37,310
+<font face="方正准圆_GBK" size="48">也许改天吧
+</font><font face="方正准圆_GBK" size="36">Maybe someday.</font>
+
+740
+00:56:50,370 --> 00:56:51,410
+<font face="方正准圆_GBK" size="48">哇
+</font><font face="方正准圆_GBK" size="36">Wow!</font>
+
+741
+00:56:52,130 --> 00:56:53,620
+<font face="方正准圆_GBK" size="48">坐起来
+</font><font face="方正准圆_GBK" size="36">Sit up.</font>
+
+742
+00:57:03,610 --> 00:57:05,470
+<font face="方正准圆_GBK" size="48">谁想要吃点心?
+</font><font face="方正准圆_GBK" size="36">Who wants some snack?</font>
+
+743
+00:57:05,570 --> 00:57:07,110
+<font face="方正准圆_GBK" size="48">你知道吗?
+</font><font face="方正准圆_GBK" size="36">You know what?</font>
+
+744
+00:57:07,740 --> 00:57:08,760
+<font face="方正准圆_GBK" size="48">哇
+</font><font face="方正准圆_GBK" size="36">Wow!</font>
+
+745
+00:57:09,370 --> 00:57:10,650
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+746
+00:57:10,880 --> 00:57:12,870
+<font face="方正准圆_GBK" size="48">这里的弹孔太少了
+</font><font face="方正准圆_GBK" size="36">I don't think there are enough holes here,</font>
+
+747
+00:57:13,090 --> 00:57:15,830
+<font face="方正准圆_GBK" size="48">我跟黛西扫射的不只这些才对
+</font><font face="方正准圆_GBK" size="36">from that first time me and Daisy came out blastin'.</font>
+
+748
+00:57:16,050 --> 00:57:17,290
+<font face="方正准圆_GBK" size="48">这重要吗?
+</font><font face="方正准圆_GBK" size="36">Is that important?</font>
+
+749
+00:57:17,470 --> 00:57:18,630
+<font face="方正准圆_GBK" size="48">有可能
+</font><font face="方正准圆_GBK" size="36">Could be.</font>
+
+750
+00:57:18,640 --> 00:57:22,600
+<font face="方正准圆_GBK" size="48">她可能没有尽到她的义务
+</font><font face="方正准圆_GBK" size="36">In any case I have a feeling that my partner's not exactly holdin' up her end.</font>
+
+751
+00:57:23,030 --> 00:57:24,610
+<font face="方正准圆_GBK" size="48">我从没…
+</font><font face="方正准圆_GBK" size="36">I've never...</font>
+
+752
+00:57:24,860 --> 00:57:26,570
+<font face="方正准圆_GBK" size="48">真的…
+</font><font face="方正准圆_GBK" size="36">actually...</font>
+
+753
+00:57:26,820 --> 00:57:29,240
+<font face="方正准圆_GBK" size="48">真的杀过任何人
+</font><font face="方正准圆_GBK" size="36">really ever killed anybody.</font>
+
+754
+00:57:29,450 --> 00:57:31,290
+<font face="方正准圆_GBK" size="48">我一直用空包弹
+</font><font face="方正准圆_GBK" size="36">I've been using blanks.</font>
+
+755
+00:57:34,170 --> 00:57:36,960
+<font face="方正准圆_GBK" size="48">然后确保我的子弹跟薇莉的不会混在一起
+</font><font face="方正准圆_GBK" size="36">I just make sure me and Violet don't share ammunition.</font>
+
+756
+00:57:39,640 --> 00:57:43,060
+<font face="方正准圆_GBK" size="48">因为她是如此的投入工作
+</font><font face="方正准圆_GBK" size="36">Like I said, she's so fierce and thorough on the job.</font>
+
+757
+00:57:43,150 --> 00:57:45,870
+<font face="方正准圆_GBK" size="48">就算我拿的是水枪也没差
+</font><font face="方正准圆_GBK" size="36">I could pack a squirt gun. It just wouldn't matter.</font>
+
+758
+00:57:47,280 --> 00:57:49,450
+<font face="方正准圆_GBK" size="48">"没有尽到义务"是指什么?
+</font><font face="方正准圆_GBK" size="36">How do you mean, "holding up her end?"</font>
+
+759
+00:57:50,290 --> 00:57:53,160
+<font face="方正准圆_GBK" size="48">也许我是唯一有在杀人的
+</font><font face="方正准圆_GBK" size="36">I mean that I might be the only one takin' out the trash.</font>
+
+760
+00:57:53,380 --> 00:57:57,660
+<font face="方正准圆_GBK" size="48">-也许她一直都用空包弹 -那又怎样?
+</font><font face="方正准圆_GBK" size="36">-Means it looks like she's been packin' blanks. -So what?</font>
+
+761
+00:57:57,890 --> 00:58:00,480
+<font face="方正准圆_GBK" size="48">-又怎样? -对 那又怎样?
+</font><font face="方正准圆_GBK" size="36">-So what?! -Yeah, so what?</font>
+
+762
+00:58:00,520 --> 00:58:03,720
+<font face="方正准圆_GBK" size="48">就算她没杀到人 她跟在你身边也有好处
+</font><font face="方正准圆_GBK" size="36">Even if she isn't taking people out, isn't it better that she's with you?</font>
+
+763
+00:58:04,360 --> 00:58:06,850
+<font face="方正准圆_GBK" size="48">让对手必须要瞄准两个而不是一个
+</font><font face="方正准圆_GBK" size="36">Do you think your opponent's having two targets instead of one</font>
+
+764
+00:58:07,070 --> 00:58:09,240
+<font face="方正准圆_GBK" size="48">也许你因此而逃过几劫
+</font><font face="方正准圆_GBK" size="36">might've saved your behind a time or two?</font>
+
+765
+00:58:09,450 --> 00:58:12,870
+<font face="方正准圆_GBK" size="48">她也是冒着生命危险
+</font><font face="方正准圆_GBK" size="36">Do you understand, she's risking her life as well?</font>
+
+766
+00:58:13,210 --> 00:58:18,170
+<font face="方正准圆_GBK" size="48">她的友谊也可以让你不致丧失人性
+</font><font face="方正准圆_GBK" size="36">Do you think your friendship might've helped keep you sane...</font>
+
+767
+00:58:18,390 --> 00:58:22,430
+<font face="方正准圆_GBK" size="48">-当你做着这样的工作 -这是诚信问题
+</font><font face="方正准圆_GBK" size="36">-as you wander through this life of yours? -There is still the principle.</font>
+
+768
+00:58:24,230 --> 00:58:26,320
+<font face="方正准圆_GBK" size="48">她的行为在这行业是不能被接受的
+</font><font face="方正准圆_GBK" size="36">We have rules and what she may have been doin'</font>
+
+769
+00:58:26,530 --> 00:58:29,440
+<font face="方正准圆_GBK" size="48">不管你怎么轻描淡写
+</font><font face="方正准圆_GBK" size="36">is a big no-no, no matter how you slice it.</font>
+
+770
+00:58:29,660 --> 00:58:33,410
+<font face="方正准圆_GBK" size="48">今天也许只是偷用空包弹 明天就会偷带窃听器
+</font><font face="方正准圆_GBK" size="36">'Cause one day you're packin' blanks and the next you're wearin' a wire.</font>
+
+771
+00:58:35,460 --> 00:58:37,630
+<font face="方正准圆_GBK" size="48">那你要怎样?
+</font><font face="方正准圆_GBK" size="36">So what are you going to do about it?</font>
+
+772
+00:58:40,850 --> 00:58:44,310
+<font face="方正准圆_GBK" size="48">如果这是真的 我就必须杀了她
+</font><font face="方正准圆_GBK" size="36">I'm gonna have to take her out, if my suspicion is true.</font>
+
+773
+00:58:47,490 --> 00:58:50,110
+<font face="方正准圆_GBK" size="48">我还以为她是你的朋友
+</font><font face="方正准圆_GBK" size="36">I thought Daisy was your friend.</font>
+
+774
+00:58:50,700 --> 00:58:52,560
+<font face="方正准圆_GBK" size="48">我没说我不会伤心
+</font><font face="方正准圆_GBK" size="36">I'm not sayin' I'm gonna like it.</font>
+
+775
+00:58:52,580 --> 00:58:54,970
+<font face="方正准圆_GBK" size="48">你不是说她甚至是家人?
+</font><font face="方正准圆_GBK" size="36">I thought you said she was like family?</font>
+
+776
+00:58:55,000 --> 00:58:56,060
+<font face="方正准圆_GBK" size="48">她是
+</font><font face="方正准圆_GBK" size="36">She is.</font>
+
+777
+00:58:56,130 --> 00:58:58,870
+<font face="方正准圆_GBK" size="48">不过她也是职业妇女 她会理解的
+</font><font face="方正准圆_GBK" size="36">But she's a business woman too, so she'll understand.</font>
+
+778
+00:58:59,050 --> 00:59:01,220
+<font face="方正准圆_GBK" size="48">反正我也一直相信她会早死
+</font><font face="方正准圆_GBK" size="36">I always figured she'd check out first anyway.</font>
+
+779
+00:59:01,220 --> 00:59:02,480
+<font face="方正准圆_GBK" size="48">为什么?
+</font><font face="方正准圆_GBK" size="36">Why?</font>
+
+780
+00:59:02,480 --> 00:59:04,490
+<font face="方正准圆_GBK" size="48">因为好人通常都会早死
+</font><font face="方正准圆_GBK" size="36">'Cause that's how it usually goes for the good ones.</font>
+
+781
+00:59:06,610 --> 00:59:08,220
+<font face="方正准圆_GBK" size="48">你有吹风机吗?
+</font><font face="方正准圆_GBK" size="36">You got a hair dryer?</font>
+
+782
+00:59:11,360 --> 00:59:13,360
+<font face="方正准圆_GBK" size="48">萝丝归来</font>
+
+783
+00:59:41,970 --> 00:59:43,590
+<font face="方正准圆_GBK" size="48">42号
+</font><font face="方正准圆_GBK" size="36">Unit 42, come in.</font>
+
+784
+00:59:47,020 --> 00:59:50,110
+<font face="方正准圆_GBK" size="48">42号 回答
+</font><font face="方正准圆_GBK" size="36">Unit 42, respond to dispatch.</font>
+
+785
+01:01:23,340 --> 01:01:24,760
+<font face="方正准圆_GBK" size="48">你来晚了
+</font><font face="方正准圆_GBK" size="36">You just missed her.</font>
+
+786
+01:01:25,010 --> 01:01:27,300
+<font face="方正准圆_GBK" size="48">-小黛? -她才刚离开
+</font><font face="方正准圆_GBK" size="36">-Daze? -She just left.</font>
+
+787
+01:01:27,430 --> 01:01:28,590
+<font face="方正准圆_GBK" size="48">谁?
+</font><font face="方正准圆_GBK" size="36">Who?</font>
+
+788
+01:01:29,190 --> 01:01:30,270
+<font face="方正准圆_GBK" size="48">萝丝
+</font><font face="方正准圆_GBK" size="36">Rose.</font>
+
+789
+01:01:31,480 --> 01:01:33,820
+<font face="方正准圆_GBK" size="48">-她活着? -我不知道
+</font><font face="方正准圆_GBK" size="36">-Was she alive? -I don't know.</font>
+
+790
+01:01:33,910 --> 01:01:36,070
+<font face="方正准圆_GBK" size="48">但她问到你
+</font><font face="方正准圆_GBK" size="36">But she asked about you.</font>
+
+791
+01:01:36,790 --> 01:01:38,300
+<font face="方正准圆_GBK" size="48">她说了什么?
+</font><font face="方正准圆_GBK" size="36">What did she say?</font>
+
+792
+01:01:38,370 --> 01:01:41,120
+<font face="方正准圆_GBK" size="48">她说:我在找你的伙伴
+</font><font face="方正准圆_GBK" size="36">She said: "I'm looking for your partner."</font>
+
+793
+01:01:41,300 --> 01:01:43,210
+<font face="方正准圆_GBK" size="48">一字不差
+</font><font face="方正准圆_GBK" size="36">Those were her exact words.</font>
+
+794
+01:01:43,430 --> 01:01:46,070
+<font face="方正准圆_GBK" size="48">-只有这样? -不
+</font><font face="方正准圆_GBK" size="36">-Is that all she said? -No.</font>
+
+795
+01:01:46,430 --> 01:01:51,270
+<font face="方正准圆_GBK" size="48">还说 萝丝死了 薇莉也是
+</font><font face="方正准圆_GBK" size="36">She said that roses were dead, and violets were too.</font>
+
+796
+01:01:52,360 --> 01:01:54,650
+<font face="方正准圆_GBK" size="48">然后她就离开了
+</font><font face="方正准圆_GBK" size="36">She's split after that and that was the end of it.</font>
+
+797
+01:01:55,370 --> 01:01:57,460
+<font face="方正准圆_GBK" size="48">你在这里多久了?
+</font><font face="方正准圆_GBK" size="36">How long have you been here?</font>
+
+798
+01:01:57,540 --> 01:01:59,830
+<font face="方正准圆_GBK" size="48">她比我想像的还高
+</font><font face="方正准圆_GBK" size="36">She's taller than I thought.</font>
+
+799
+01:02:00,080 --> 01:02:02,500
+<font face="方正准圆_GBK" size="48">小黛 你在这里多久了?
+</font><font face="方正准圆_GBK" size="36">How long have you been here, Daze?</font>
+
+800
+01:02:03,720 --> 01:02:05,810
+<font face="方正准圆_GBK" size="48">我不确定
+</font><font face="方正准圆_GBK" size="36">I can't really tell.</font>
+
+801
+01:02:05,930 --> 01:02:08,640
+<font face="方正准圆_GBK" size="48">因为时间产生了扭曲
+</font><font face="方正准圆_GBK" size="36">Time is bent up now, so I don't know.</font>
+
+802
+01:02:08,850 --> 01:02:10,890
+<font face="方正准圆_GBK" size="48">让我一直错过班机
+</font><font face="方正准圆_GBK" size="36">I keep missing my flights.</font>
+
+803
+01:02:12,820 --> 01:02:14,070
+<font face="方正准圆_GBK" size="48">那是什么?
+</font><font face="方正准圆_GBK" size="36">What's that?</font>
+
+804
+01:02:15,450 --> 01:02:16,710
+<font face="方正准圆_GBK" size="48">那个?
+</font><font face="方正准圆_GBK" size="36">Oh, that?</font>
+
+805
+01:02:17,950 --> 01:02:19,790
+<font face="方正准圆_GBK" size="48">那是那个男人的
+</font><font face="方正准圆_GBK" size="36">That's his. The guy's.</font>
+
+806
+01:02:22,550 --> 01:02:24,180
+<font face="方正准圆_GBK" size="48">萝丝回来了
+</font><font face="方正准圆_GBK" size="36">Rose is back.</font>
+
+807
+01:02:30,060 --> 01:02:32,070
+<font face="方正准圆_GBK" size="48">九除一</font>
+
+808
+01:02:34,990 --> 01:02:36,070
+<font face="方正准圆_GBK" size="48">嗨 九号
+</font><font face="方正准圆_GBK" size="36">Hello, Number 9.</font>
+
+809
+01:02:39,120 --> 01:02:40,280
+<font face="方正准圆_GBK" size="48">天
+</font><font face="方正准圆_GBK" size="36">Oh my!</font>
+
+810
+01:02:41,000 --> 01:02:42,260
+<font face="方正准圆_GBK" size="48">你就是?
+</font><font face="方正准圆_GBK" size="36">Are you...?</font>
+
+811
+01:02:47,680 --> 01:02:48,740
+<font face="方正准圆_GBK" size="48">哇
+</font><font face="方正准圆_GBK" size="36">Wow!</font>
+
+812
+01:02:48,810 --> 01:02:52,930
+<font face="方正准圆_GBK" size="48">-我一直以为你是… -是什么?
+</font><font face="方正准圆_GBK" size="36">-I always figured you were... -You always figured I was what?</font>
+
+813
+01:02:54,570 --> 01:02:55,760
+<font face="方正准圆_GBK" size="48">虚构的
+</font><font face="方正准圆_GBK" size="36">Imaginary.</font>
+
+814
+01:02:56,410 --> 01:02:57,850
+<font face="方正准圆_GBK" size="48">或男的
+</font><font face="方正准圆_GBK" size="36">Or a boy.</font>
+
+815
+01:02:58,330 --> 01:03:00,560
+<font face="方正准圆_GBK" size="48">知道我今天都在做什么吗?
+</font><font face="方正准圆_GBK" size="36">Do you know what I've been doing today?</font>
+
+816
+01:03:00,710 --> 01:03:03,200
+<font face="方正准圆_GBK" size="48">一直监视你们
+</font><font face="方正准圆_GBK" size="36">I've been watching you and your partner.</font>
+
+817
+01:03:03,590 --> 01:03:04,830
+<font face="方正准圆_GBK" size="48">你有听到什么吗?
+</font><font face="方正准圆_GBK" size="36">Did you hear somethin'?</font>
+
+818
+01:03:09,600 --> 01:03:11,890
+<font face="方正准圆_GBK" size="48">你的朋友行事太疯狂了
+</font><font face="方正准圆_GBK" size="36">That partner of yours is clean out of her mind.</font>
+
+819
+01:03:12,150 --> 01:03:14,890
+<font face="方正准圆_GBK" size="48">她会给我们带来麻烦
+</font><font face="方正准圆_GBK" size="36">And she's gonna put us all in a real bad spot.</font>
+
+820
+01:03:15,110 --> 01:03:17,020
+<font face="方正准圆_GBK" size="48">我们不能允许她这样
+</font><font face="方正准圆_GBK" size="36">And we can't let that happen.</font>
+
+821
+01:03:17,240 --> 01:03:19,400
+<font face="方正准圆_GBK" size="48">我不能允许她这样
+</font><font face="方正准圆_GBK" size="36">I can't let that happen.</font>
+
+822
+01:03:19,620 --> 01:03:22,460
+<font face="方正准圆_GBK" size="48">我不会允许她这样
+</font><font face="方正准圆_GBK" size="36">I won't let that happen.</font>
+
+823
+01:03:23,630 --> 01:03:27,670
+<font face="方正准圆_GBK" size="48">你知道她的大屠杀会造成什么麻烦吗?
+</font><font face="方正准圆_GBK" size="36">Do you even know what grief her little slaughter is gonna cost us?</font>
+
+824
+01:03:28,970 --> 01:03:30,800
+<font face="方正准圆_GBK" size="48">我告诉你
+</font><font face="方正准圆_GBK" size="36">Well, I'll tell you.</font>
+
+825
+01:03:31,020 --> 01:03:34,140
+<font face="方正准圆_GBK" size="48">两个被她杀的人已经订婚了
+</font><font face="方正准圆_GBK" size="36">Two of the idiots that she ventilated were engaged.</font>
+
+826
+01:03:34,770 --> 01:03:36,770
+<font face="方正准圆_GBK" size="48">他们娶的人是谁知道吗?
+</font><font face="方正准圆_GBK" size="36">Do you know who they were gonna marry?</font>
+
+827
+01:03:37,950 --> 01:03:40,460
+<font face="方正准圆_GBK" size="48">警察局长的继女
+</font><font face="方正准圆_GBK" size="36">The Police Chief's stepdaughters.</font>
+
+828
+01:03:40,540 --> 01:03:43,800
+<font face="方正准圆_GBK" size="48">所以当他们查出真相后
+</font><font face="方正准圆_GBK" size="36">And you can bet the house that once they sort out all these rubbish</font>
+
+829
+01:03:43,830 --> 01:03:45,870
+<font face="方正准圆_GBK" size="48">老板就有麻烦了
+</font><font face="方正准圆_GBK" size="36">Boss is gonna be held accountable.</font>
+
+830
+01:03:46,090 --> 01:03:50,960
+<font face="方正准圆_GBK" size="48">接下来就会战火四起
+</font><font face="方正准圆_GBK" size="36">Next to that, a garden variety gang war would be a Sunday stroll.</font>
+
+831
+01:03:52,020 --> 01:03:56,060
+<font face="方正准圆_GBK" size="48">-楼下有个死人 -他看到了我
+</font><font face="方正准圆_GBK" size="36">-There was a dead guy at the bottom of the steps. -He saw me!</font>
+
+832
+01:04:03,250 --> 01:04:05,510
+<font face="方正准圆_GBK" size="48">我可以问个问题吗?
+</font><font face="方正准圆_GBK" size="36">Can I ask you a question, ma'am?</font>
+
+833
+01:04:07,210 --> 01:04:09,400
+<font face="方正准圆_GBK" size="48">你都自己一个人吗?
+</font><font face="方正准圆_GBK" size="36">Do you always work by yourself?</font>
+
+834
+01:04:09,850 --> 01:04:11,140
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">Yes.</font>
+
+835
+01:04:12,480 --> 01:04:13,860
+<font face="方正准圆_GBK" size="48">会孤独吗?
+</font><font face="方正准圆_GBK" size="36">Is it lonely?</font>
+
+836
+01:04:14,730 --> 01:04:16,760
+<font face="方正准圆_GBK" size="48">问这干嘛?
+</font><font face="方正准圆_GBK" size="36">What's that to you?</font>
+
+837
+01:04:17,360 --> 01:04:18,970
+<font face="方正准圆_GBK" size="48">好奇而已
+</font><font face="方正准圆_GBK" size="36">Just wondering.</font>
+
+838
+01:04:18,990 --> 01:04:23,020
+<font face="方正准圆_GBK" size="48">那就回到正事 不然我上芭蕾舞课要迟到了
+</font><font face="方正准圆_GBK" size="36">Well then, let's get back to business, 'cause I'm late for my ballet class.</font>
+
+839
+01:04:23,040 --> 01:04:26,400
+<font face="方正准圆_GBK" size="48">完成任务 要不后果自负
+</font><font face="方正准圆_GBK" size="36">Finish the job or face the consequences.</font>
+
+840
+01:04:26,420 --> 01:04:28,480
+<font face="方正准圆_GBK" size="48">清楚了吗?
+</font><font face="方正准圆_GBK" size="36">Am I clear?</font>
+
+841
+01:04:29,130 --> 01:04:30,390
+<font face="方正准圆_GBK" size="48">嗯…
+</font><font face="方正准圆_GBK" size="36">Well...</font>
+
+842
+01:04:32,470 --> 01:04:34,760
+<font face="方正准圆_GBK" size="48">一号 我跟你讲
+</font><font face="方正准圆_GBK" size="36">I got news for you, Number One.</font>
+
+843
+01:04:35,690 --> 01:04:38,780
+<font face="方正准圆_GBK" size="48">我能理解你为什么如此生气
+</font><font face="方正准圆_GBK" size="36">Given the situation, I see why you're T.O.'d and all.</font>
+
+844
+01:04:38,990 --> 01:04:41,250
+<font face="方正准圆_GBK" size="48">但覆水难收
+</font><font face="方正准圆_GBK" size="36">But, what's done is done.</font>
+
+845
+01:04:41,330 --> 01:04:43,060
+<font face="方正准圆_GBK" size="48">而且我很重视我伙伴
+</font><font face="方正准圆_GBK" size="36">And my partner comes first.</font>
+
+846
+01:04:43,080 --> 01:04:45,240
+<font face="方正准圆_GBK" size="48">-你要说什么? -我要说的是
+</font><font face="方正准圆_GBK" size="36">-What's that supposed to mean? -It means...</font>
+
+847
+01:04:45,460 --> 01:04:48,020
+<font face="方正准圆_GBK" size="48">如果你想要杀她 或是插手我们的任务
+</font><font face="方正准圆_GBK" size="36">that if you try to take her out or get into the middle of our job,</font>
+
+848
+01:04:48,090 --> 01:04:50,580
+<font face="方正准圆_GBK" size="48">你就要麻烦大了
+</font><font face="方正准圆_GBK" size="36">you're in for a world of hurt!</font>
+
+849
+01:04:50,800 --> 01:04:53,550
+<font face="方正准圆_GBK" size="48">我知道你很行 但我们也是专家
+</font><font face="方正准圆_GBK" size="36">I know what you're capable of, but we're pros too.</font>
+
+850
+01:04:53,890 --> 01:04:55,650
+<font face="方正准圆_GBK" size="48">而且我们现在会有所戒备
+</font><font face="方正准圆_GBK" size="36">We also know that you're comin' now.</font>
+
+851
+01:04:55,730 --> 01:04:58,850
+<font face="方正准圆_GBK" size="48">你知道我在你这年纪的时候想做什么吗?
+</font><font face="方正准圆_GBK" size="36">Do you know what I wanted to be when I was your age?</font>
+
+852
+01:05:03,160 --> 01:05:04,490
+<font face="方正准圆_GBK" size="48">我也不知道
+</font><font face="方正准圆_GBK" size="36">I don't either.</font>
+
+853
+01:05:05,870 --> 01:05:07,540
+<font face="方正准圆_GBK" size="48">我欣赏你
+</font><font face="方正准圆_GBK" size="36">I like you kid.</font>
+
+854
+01:05:07,880 --> 01:05:10,590
+<font face="方正准圆_GBK" size="48">即使你知道自己是在虚张声势
+</font><font face="方正准圆_GBK" size="36">You're in over your head and you're scared,</font>
+
+855
+01:05:10,800 --> 01:05:13,970
+<font face="方正准圆_GBK" size="48">而且吓得要死 但你还是能直视死亡而不颤抖
+</font><font face="方正准圆_GBK" size="36">yet you look death in the eye without blinking.</font>
+
+856
+01:05:14,390 --> 01:05:18,180
+<font face="方正准圆_GBK" size="48">非常值得尊敬 但这却救不了你
+</font><font face="方正准圆_GBK" size="36">It's admirable, but it won't save you.</font>
+
+857
+01:05:19,190 --> 01:05:21,310
+<font face="方正准圆_GBK" size="48">也救不了你的朋友
+</font><font face="方正准圆_GBK" size="36">It won't save your partner</font>
+
+858
+01:05:22,240 --> 01:05:25,110
+<font face="方正准圆_GBK" size="48">或你的新朋友
+</font><font face="方正准圆_GBK" size="36">and it won't save your new pal.</font>
+
+859
+01:05:25,330 --> 01:05:28,830
+<font face="方正准圆_GBK" size="48">完成任务 要不后果自负
+</font><font face="方正准圆_GBK" size="36">Finish the job or face the consequences.</font>
+
+860
+01:05:30,510 --> 01:05:32,000
+<font face="方正准圆_GBK" size="48">你有一小时
+</font><font face="方正准圆_GBK" size="36">You've got an hour.</font>
+
+861
+01:05:33,430 --> 01:05:36,430
+<font face="方正准圆_GBK" size="48">很抱歉我之前说的那些话
+</font><font face="方正准圆_GBK" size="36">Sorry about that stuff I said before.</font>
+
+862
+01:05:38,820 --> 01:05:39,970
+<font face="方正准圆_GBK" size="48">哪些话?
+</font><font face="方正准圆_GBK" size="36">What stuff?</font>
+
+863
+01:05:40,780 --> 01:05:43,520
+<font face="方正准圆_GBK" size="48">我说你很笨之类的
+</font><font face="方正准圆_GBK" size="36">When I called you stupid and stuff.</font>
+
+864
+01:05:44,660 --> 01:05:45,740
+<font face="方正准圆_GBK" size="48">那没什么
+</font><font face="方正准圆_GBK" size="36">That's okay.</font>
+
+865
+01:05:47,500 --> 01:05:49,460
+<font face="方正准圆_GBK" size="48">你有找到子弹吗?
+</font><font face="方正准圆_GBK" size="36">Did you find anymore bullets laying around?</font>
+
+866
+01:05:54,770 --> 01:05:55,920
+<font face="方正准圆_GBK" size="48">嗨
+</font><font face="方正准圆_GBK" size="36">Hey.</font>
+
+867
+01:05:56,520 --> 01:05:58,350
+<font face="方正准圆_GBK" size="48">想知道件事吗?
+</font><font face="方正准圆_GBK" size="36">Wanna hear somethin'?</font>
+
+868
+01:06:01,780 --> 01:06:03,990
+<font face="方正准圆_GBK" size="48">你的女儿不恨你
+</font><font face="方正准圆_GBK" size="36">Your daughter doesn't hate you.</font>
+
+869
+01:06:04,990 --> 01:06:06,580
+<font face="方正准圆_GBK" size="48">你怎么知道?
+</font><font face="方正准圆_GBK" size="36">How do you know?</font>
+
+870
+01:06:09,130 --> 01:06:10,280
+<font face="方正准圆_GBK" size="48">我知道
+</font><font face="方正准圆_GBK" size="36">I know.</font>
+
+871
+01:06:14,300 --> 01:06:15,820
+<font face="方正准圆_GBK" size="48">是怎么知道的?
+</font><font face="方正准圆_GBK" size="36">Well how could you?</font>
+
+872
+01:06:17,140 --> 01:06:18,930
+<font face="方正准圆_GBK" size="48">你从没见过她
+</font><font face="方正准圆_GBK" size="36">You've never even met her.</font>
+
+873
+01:06:20,820 --> 01:06:22,070
+<font face="方正准圆_GBK" size="48">那不重要
+</font><font face="方正准圆_GBK" size="36">Doesn't matter.</font>
+
+874
+01:06:25,030 --> 01:06:27,490
+<font face="方正准圆_GBK" size="48">我就是知道她不恨你
+</font><font face="方正准圆_GBK" size="36">I still know she doesn't hate you.</font>
+
+875
+01:06:28,960 --> 01:06:30,120
+<font face="方正准圆_GBK" size="48">为什么?
+</font><font face="方正准圆_GBK" size="36">How?</font>
+
+876
+01:06:32,420 --> 01:06:34,260
+<font face="方正准圆_GBK" size="48">我也是个女儿
+</font><font face="方正准圆_GBK" size="36">I'm a daughter too.</font>
+
+877
+01:06:48,960 --> 01:06:50,110
+<font face="方正准圆_GBK" size="48">小薇
+</font><font face="方正准圆_GBK" size="36">Vi?</font>
+
+878
+01:06:50,130 --> 01:06:51,280
+<font face="方正准圆_GBK" size="48">她离开了
+</font><font face="方正准圆_GBK" size="36">She left.</font>
+
+879
+01:06:52,130 --> 01:06:53,210
+<font face="方正准圆_GBK" size="48">去哪?
+</font><font face="方正准圆_GBK" size="36">Where'd she go?</font>
+
+880
+01:06:54,260 --> 01:06:55,840
+<font face="方正准圆_GBK" size="48">去找子弹
+</font><font face="方正准圆_GBK" size="36">To get more bullets.</font>
+
+881
+01:07:07,620 --> 01:07:09,580
+<font face="方正准圆_GBK" size="48">记住我的话
+</font><font face="方正准圆_GBK" size="36">Listen carefully, Daisy.</font>
+
+882
+01:07:10,830 --> 01:07:12,200
+<font face="方正准圆_GBK" size="48">当她回来后
+</font><font face="方正准圆_GBK" size="36">When she comes back,</font>
+
+883
+01:07:13,590 --> 01:07:16,430
+<font face="方正准圆_GBK" size="48">你必须是杀了我的那个人
+</font><font face="方正准圆_GBK" size="36">I need for you to be the one to put me down.</font>
+
+884
+01:07:18,180 --> 01:07:19,680
+<font face="方正准圆_GBK" size="48">这非常重要
+</font><font face="方正准圆_GBK" size="36">It's very important.</font>
+
+885
+01:07:22,570 --> 01:07:23,720
+<font face="方正准圆_GBK" size="48">为什么是我?
+</font><font face="方正准圆_GBK" size="36">Why me?</font>
+
+886
+01:07:29,000 --> 01:07:31,080
+<font face="方正准圆_GBK" size="48">因为你跟我是朋友
+</font><font face="方正准圆_GBK" size="36">'Cause you and me are friends, right?</font>
+
+887
+01:07:35,220 --> 01:07:38,010
+<font face="方正准圆_GBK" size="48">-是没错 但… -你能答应我吗?
+</font><font face="方正准圆_GBK" size="36">-I guess, but... -Will you promise me that?</font>
+
+888
+01:07:41,690 --> 01:07:44,600
+<font face="方正准圆_GBK" size="48">-我不能 -我要你答应我
+</font><font face="方正准圆_GBK" size="36">-I can't. -I need you to promise me.</font>
+
+889
+01:07:46,320 --> 01:07:48,610
+<font face="方正准圆_GBK" size="48">-但我不能 -我真的要你来动手
+</font><font face="方正准圆_GBK" size="36">-But I can't. -I need you to do this for me.</font>
+
+890
+01:07:48,620 --> 01:07:50,030
+<font face="方正准圆_GBK" size="48">-我不能 -我真的要你来动手
+</font><font face="方正准圆_GBK" size="36">-I can't. -I need you to do this for me!</font>
+
+891
+01:07:50,040 --> 01:07:52,450
+<font face="方正准圆_GBK" size="48">-不!我不行! -不要反对我!艾波!
+</font><font face="方正准圆_GBK" size="36">-No, I can't! -Don't argue with me, April!</font>
+
+892
+01:07:52,790 --> 01:07:55,040
+<font face="方正准圆_GBK" size="48">-我是黛西 -反正不要反对我!
+</font><font face="方正准圆_GBK" size="36">-But I'm Daisy. -Just don't argue with me girl!</font>
+
+893
+01:08:06,360 --> 01:08:07,870
+<font face="方正准圆_GBK" size="48">答应我
+</font><font face="方正准圆_GBK" size="36">You promise me.</font>
+
+894
+01:08:10,040 --> 01:08:11,300
+<font face="方正准圆_GBK" size="48">说
+</font><font face="方正准圆_GBK" size="36">Say it.</font>
+
+895
+01:08:14,420 --> 01:08:16,960
+<font face="方正准圆_GBK" size="48">-我答应 -你答应了?
+</font><font face="方正准圆_GBK" size="36">-I promise. -You promise?</font>
+
+896
+01:08:18,760 --> 01:08:20,880
+<font face="方正准圆_GBK" size="48">我说了不是吗?
+</font><font face="方正准圆_GBK" size="36">I said I would, didn't I?</font>
+
+897
+01:08:32,750 --> 01:08:34,740
+<font face="方正准圆_GBK" size="48">我有东西给你看
+</font><font face="方正准圆_GBK" size="36">I have something to show you.</font>
+
+898
+01:08:43,270 --> 01:08:48,020
+<font face="方正准圆_GBK" size="48">我想给我女儿 但她扔回来给我
+</font><font face="方正准圆_GBK" size="36">I tried to give it to my daughter, but she... threw it back at me.</font>
+
+899
+01:08:49,830 --> 01:08:51,910
+<font face="方正准圆_GBK" size="48">你的尺寸应该跟她差不多
+</font><font face="方正准圆_GBK" size="36">I think you're about her size.</font>
+
+900
+01:08:52,790 --> 01:08:54,780
+<font face="方正准圆_GBK" size="48">你可以穿看看吗?
+</font><font face="方正准圆_GBK" size="36">Could you try it on?</font>
+
+901
+01:09:03,150 --> 01:09:04,960
+<font face="方正准圆_GBK" size="48">我会在隔壁房间等
+</font><font face="方正准圆_GBK" size="36">I'll wait in the other room.</font>
+
+902
+01:09:08,970 --> 01:09:10,970
+<font face="方正准圆_GBK" size="48">永生不朽</font>
+
+903
+01:09:32,200 --> 01:09:33,900
+<font face="方正准圆_GBK" size="48">拿到子弹了
+</font><font face="方正准圆_GBK" size="36">Got the bullets.</font>
+
+904
+01:09:33,920 --> 01:09:36,580
+<font face="方正准圆_GBK" size="48">找了一堆地方才终于…
+</font><font face="方正准圆_GBK" size="36">You'd be surprised how many places I...</font>
+
+905
+01:09:37,250 --> 01:09:38,790
+<font face="方正准圆_GBK" size="48">发生什么事了?
+</font><font face="方正准圆_GBK" size="36">What's goin' on?</font>
+
+906
+01:09:40,140 --> 01:09:41,600
+<font face="方正准圆_GBK" size="48">我看起来怎样?
+</font><font face="方正准圆_GBK" size="36">How do I look?</font>
+
+907
+01:09:44,020 --> 01:09:46,800
+<font face="方正准圆_GBK" size="48">还可以从哪里拿的?
+</font><font face="方正准圆_GBK" size="36">Okay. Where did you get it?</font>
+
+908
+01:09:47,190 --> 01:09:48,860
+<font face="方正准圆_GBK" size="48">他给我的
+</font><font face="方正准圆_GBK" size="36">He gave it to me.</font>
+
+909
+01:09:52,790 --> 01:09:54,040
+<font face="方正准圆_GBK" size="48">为什么?
+</font><font face="方正准圆_GBK" size="36">What for?</font>
+
+910
+01:09:56,170 --> 01:09:57,950
+<font face="方正准圆_GBK" size="48">我不知道
+</font><font face="方正准圆_GBK" size="36">I don't know, Vi.</font>
+
+911
+01:10:03,470 --> 01:10:05,090
+<font face="方正准圆_GBK" size="48">我要跟你讲下话
+</font><font face="方正准圆_GBK" size="36">Can I talk to you a minute?</font>
+
+912
+01:10:10,870 --> 01:10:12,070
+<font face="方正准圆_GBK" size="48">你是疯了吗?
+</font><font face="方正准圆_GBK" size="36">Have you lost your mind?</font>
+
+913
+01:10:12,080 --> 01:10:13,830
+<font face="方正准圆_GBK" size="48">-你有什么问题? -你就是我的问题
+</font><font face="方正准圆_GBK" size="36">-What's your problem? -You're my problem!</font>
+
+914
+01:10:13,830 --> 01:10:16,020
+<font face="方正准圆_GBK" size="48">我会借给你的 如果是因为这样的话
+</font><font face="方正准圆_GBK" size="36">I'll let you borrow it some time if that's what this is about.</font>
+
+915
+01:10:16,040 --> 01:10:17,900
+<font face="方正准圆_GBK" size="48">不是衣服的问题!
+</font><font face="方正准圆_GBK" size="36">No, it's not about a fucking dress!</font>
+
+916
+01:10:17,920 --> 01:10:19,960
+<font face="方正准圆_GBK" size="48">-最好是 -就是这样!
+</font><font face="方正准圆_GBK" size="36">-Yeah, right. -That's exactly right!</font>
+
+917
+01:10:20,050 --> 01:10:23,190
+<font face="方正准圆_GBK" size="48">你不能控制我我们不认识别人
+</font><font face="方正准圆_GBK" size="36">You don't run me, Violet! We don't know anybody,</font>
+
+918
+01:10:23,260 --> 01:10:26,100
+<font face="方正准圆_GBK" size="48">或参与任何社交活动
+</font><font face="方正准圆_GBK" size="36">or get involved in stuff or anything like that.</font>
+
+919
+01:10:26,270 --> 01:10:28,910
+<font face="方正准圆_GBK" size="48">我没有参加过毕业舞会 你却有
+</font><font face="方正准圆_GBK" size="36">I never went to a prom. You did, but I didn't.</font>
+
+920
+01:10:29,070 --> 01:10:30,850
+<font face="方正准圆_GBK" size="48">-没去过才好 -为什么?
+</font><font face="方正准圆_GBK" size="36">-Be glad you didn't! -Why?</font>
+
+921
+01:10:30,860 --> 01:10:32,720
+<font face="方正准圆_GBK" size="48">-因为他们会取笑你! -你怎么知道?
+</font><font face="方正准圆_GBK" size="36">-Because they would laugh at you! -How do you know?</font>
+
+922
+01:10:32,740 --> 01:10:35,160
+<font face="方正准圆_GBK" size="48">因为奇怪的人就是会被取笑
+</font><font face="方正准圆_GBK" size="36">Because that's what they do if you're different.</font>
+
+923
+01:10:35,370 --> 01:10:38,910
+<font face="方正准圆_GBK" size="48">不是每个人都会这样的 再说就算被取笑又怎样
+</font><font face="方正准圆_GBK" size="36">Everybody isn't like that, Vi. And so what if they laugh?</font>
+
+924
+01:10:39,260 --> 01:10:40,790
+<font face="方正准圆_GBK" size="48">-又怎样! -不要以为你比我懂
+</font><font face="方正准圆_GBK" size="36">-So what? -Don't tell me what I know.</font>
+
+925
+01:10:40,800 --> 01:10:42,440
+<font face="方正准圆_GBK" size="48">你没尝过我经历过什么
+</font><font face="方正准圆_GBK" size="36">You haven't been through things like me.</font>
+
+926
+01:10:42,470 --> 01:10:45,010
+<font face="方正准圆_GBK" size="48">如果那会让我怕人的话 我很庆幸我没经历过
+</font><font face="方正准圆_GBK" size="36">And I hope I never do if it makes me so scared.</font>
+
+927
+01:10:45,060 --> 01:10:47,680
+<font face="方正准圆_GBK" size="48">-我才没怕人! -你有
+</font><font face="方正准圆_GBK" size="36">-I'm not scared! -Yes you are, Violet.</font>
+
+928
+01:10:49,110 --> 01:10:51,500
+<font face="方正准圆_GBK" size="48">你不相信任何人或任何事
+</font><font face="方正准圆_GBK" size="36">You don't trust anyone, or anything.</font>
+
+929
+01:10:52,490 --> 01:10:54,030
+<font face="方正准圆_GBK" size="48">从不
+</font><font face="方正准圆_GBK" size="36">You never did.</font>
+
+930
+01:10:54,120 --> 01:10:55,760
+<font face="方正准圆_GBK" size="48">我曾经相信你!
+</font><font face="方正准圆_GBK" size="36">I trusted you!</font>
+
+931
+01:10:57,080 --> 01:10:58,340
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+932
+01:10:58,960 --> 01:11:01,170
+<font face="方正准圆_GBK" size="48">我说 我曾经相信过你!
+</font><font face="方正准圆_GBK" size="36">I said I trusted you!</font>
+
+933
+01:11:04,680 --> 01:11:06,270
+<font face="方正准圆_GBK" size="48">什么时候不信的?
+</font><font face="方正准圆_GBK" size="36">When did you stop?</font>
+
+934
+01:11:06,350 --> 01:11:09,350
+<font face="方正准圆_GBK" size="48">当我看到你穿上这件衣服的时候!
+</font><font face="方正准圆_GBK" size="36">The second I saw that goddamn dress on your back!</font>
+
+935
+01:11:11,400 --> 01:11:12,960
+<font face="方正准圆_GBK" size="48">这样太完美了
+</font><font face="方正准圆_GBK" size="36">Well that's just perfect then.</font>
+
+936
+01:11:13,120 --> 01:11:14,270
+<font face="方正准圆_GBK" size="48">为什么?
+</font><font face="方正准圆_GBK" size="36">Why?</font>
+
+937
+01:11:19,750 --> 01:11:22,120
+<font face="方正准圆_GBK" size="48">因为你终于什么都没有了
+</font><font face="方正准圆_GBK" size="36">Because now you don't have anything at all.</font>
+
+938
+01:11:25,180 --> 01:11:27,180
+<font face="方正准圆_GBK" size="48">-你到底想说什么? -我刚刚不是说了
+</font><font face="方正准圆_GBK" size="36">-So what are you trying to say? -I just said it.</font>
+
+939
+01:11:27,270 --> 01:11:28,780
+<font face="方正准圆_GBK" size="48">有种就再说一次
+</font><font face="方正准圆_GBK" size="36">Say it again, if you have the guts.</font>
+
+940
+01:11:28,860 --> 01:11:30,980
+<font face="方正准圆_GBK" size="48">-不要! -我要揍死你!
+</font><font face="方正准圆_GBK" size="36">-You heard me! -I'm gonna kick your ass!</font>
+
+941
+01:11:44,550 --> 01:11:47,560
+<font face="方正准圆_GBK" size="48">住手!你会弄破我的新衣服!
+</font><font face="方正准圆_GBK" size="36">Cut it out bitch! You're gonna mess up my new dress.</font>
+
+942
+01:12:07,470 --> 01:12:09,720
+<font face="方正准圆_GBK" size="48">我的房东刚经过
+</font><font face="方正准圆_GBK" size="36">My landlady was coming up the street.</font>
+
+943
+01:12:09,900 --> 01:12:11,150
+<font face="方正准圆_GBK" size="48">我只是…
+</font><font face="方正准圆_GBK" size="36">I was just...</font>
+
+944
+01:12:11,480 --> 01:12:13,400
+<font face="方正准圆_GBK" size="48">想吓她一下
+</font><font face="方正准圆_GBK" size="36">just messin' with her.</font>
+
+945
+01:12:15,700 --> 01:12:17,520
+<font face="方正准圆_GBK" size="48">从没开过枪
+</font><font face="方正准圆_GBK" size="36">Never shot a gun before.</font>
+
+946
+01:12:17,540 --> 01:12:18,740
+<font face="方正准圆_GBK" size="48">感觉怎样?
+</font><font face="方正准圆_GBK" size="36">How was it?</font>
+
+947
+01:12:18,740 --> 01:12:20,300
+<font face="方正准圆_GBK" size="48">你现在想要新鞋?
+</font><font face="方正准圆_GBK" size="36">What are you, angling for some new shoes now?</font>
+
+948
+01:12:20,350 --> 01:12:21,860
+<font face="方正准圆_GBK" size="48">-住口! -你才住口!
+</font><font face="方正准圆_GBK" size="36">-Shut up about it! -You shut up about it!</font>
+
+949
+01:12:21,880 --> 01:12:23,370
+<font face="方正准圆_GBK" size="48">-来啊! -我刚刚不是就做了!
+</font><font face="方正准圆_GBK" size="36">-Make me! -I just did!</font>
+
+950
+01:12:23,380 --> 01:12:25,370
+<font face="方正准圆_GBK" size="48">-才这种程度? -薇莉
+</font><font face="方正准圆_GBK" size="36">-Oh, is that what you call it? -Violet!</font>
+
+951
+01:12:25,390 --> 01:12:26,540
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+952
+01:12:27,180 --> 01:12:31,140
+<font face="方正准圆_GBK" size="48">差点忘了 我也有东西要给你
+</font><font face="方正准圆_GBK" size="36">I almost forgot. I got something for you too.</font>
+
+953
+01:12:32,480 --> 01:12:33,640
+<font face="方正准圆_GBK" size="48">真的?
+</font><font face="方正准圆_GBK" size="36">Really?</font>
+
+954
+01:12:54,280 --> 01:12:57,920
+<font face="方正准圆_GBK" size="48">-为什么要给我这个? -因为你看世界的眼光很奇特
+</font><font face="方正准圆_GBK" size="36">-Why are you giving this to me? -You have a unique world view.</font>
+
+955
+01:12:58,370 --> 01:13:01,780
+<font face="方正准圆_GBK" size="48">现在你可以跟人分享了
+</font><font face="方正准圆_GBK" size="36">Now you can share with others... in a new way.</font>
+
+956
+01:13:03,500 --> 01:13:05,140
+<font face="方正准圆_GBK" size="48">谢谢
+</font><font face="方正准圆_GBK" size="36">Thanks a lot, mister.</font>
+
+957
+01:13:08,640 --> 01:13:10,450
+<font face="方正准圆_GBK" size="48">我需要警察
+</font><font face="方正准圆_GBK" size="36">I need the police.</font>
+
+958
+01:13:12,060 --> 01:13:13,680
+<font face="方正准圆_GBK" size="48">是的 哪就是我的住址
+</font><font face="方正准圆_GBK" size="36">Yes, that's my address.</font>
+
+959
+01:13:14,530 --> 01:13:16,090
+<font face="方正准圆_GBK" size="48">你在做什么?
+</font><font face="方正准圆_GBK" size="36">What are you doin'?</font>
+
+960
+01:13:16,740 --> 01:13:18,360
+<font face="方正准圆_GBK" size="48">他在写信
+</font><font face="方正准圆_GBK" size="36">He's writing a letter.</font>
+
+961
+01:13:19,160 --> 01:13:20,320
+<font face="方正准圆_GBK" size="48">给水?
+</font><font face="方正准圆_GBK" size="36">To who?</font>
+
+962
+01:13:20,460 --> 01:13:21,820
+<font face="方正准圆_GBK" size="48">给"谁"
+</font><font face="方正准圆_GBK" size="36">To whom?</font>
+
+963
+01:13:22,170 --> 01:13:23,320
+<font face="方正准圆_GBK" size="48">给谁?
+</font><font face="方正准圆_GBK" size="36">His daughter.</font>
+
+964
+01:13:23,460 --> 01:13:24,920
+<font face="方正准圆_GBK" size="48">他的女儿
+</font><font face="方正准圆_GBK" size="36">His daughter.</font>
+
+965
+01:13:33,900 --> 01:13:35,060
+<font face="方正准圆_GBK" size="48">我来好了
+</font><font face="方正准圆_GBK" size="36">I'll do it.</font>
+
+966
+01:13:36,360 --> 01:13:37,520
+<font face="方正准圆_GBK" size="48">什么?
+</font><font face="方正准圆_GBK" size="36">What?</font>
+
+967
+01:13:37,700 --> 01:13:39,740
+<font face="方正准圆_GBK" size="48">我帮你写
+</font><font face="方正准圆_GBK" size="36">I'll write it for you.</font>
+
+968
+01:13:41,580 --> 01:13:42,740
+<font face="方正准圆_GBK" size="48">好啊
+</font><font face="方正准圆_GBK" size="36">Alright.</font>
+
+969
+01:13:44,380 --> 01:13:45,540
+<font face="方正准圆_GBK" size="48">谢谢
+</font><font face="方正准圆_GBK" size="36">Thank you.</font>
+
+970
+01:14:00,200 --> 01:14:01,540
+<font face="方正准圆_GBK" size="48">我写到哪?
+</font><font face="方正准圆_GBK" size="36">So where was I?</font>
+
+971
+01:14:03,130 --> 01:14:04,330
+<font face="方正准圆_GBK" size="48">亲爱的艾波
+</font><font face="方正准圆_GBK" size="36">"Dear April..."</font>
+
+972
+01:14:06,170 --> 01:14:07,420
+<font face="方正准圆_GBK" size="48">就这样?
+</font><font face="方正准圆_GBK" size="36">That's it?</font>
+
+973
+01:14:07,640 --> 01:14:09,050
+<font face="方正准圆_GBK" size="48">对
+</font><font face="方正准圆_GBK" size="36">So far, yeah.</font>
+
+974
+01:14:11,940 --> 01:14:13,090
+<font face="方正准圆_GBK" size="48">"亲爱的艾波"
+</font><font face="方正准圆_GBK" size="36">"Dear April,</font>
+
+975
+01:14:17,320 --> 01:14:19,490
+<font face="方正准圆_GBK" size="48">我不知道你会不会读到这封信
+</font><font face="方正准圆_GBK" size="36">I don't know if you'll ever read this,</font>
+
+976
+01:14:22,040 --> 01:14:23,370
+<font face="方正准圆_GBK" size="48">但我希望你会
+</font><font face="方正准圆_GBK" size="36">but I hope you do.</font>
+
+977
+01:14:25,460 --> 01:14:26,800
+<font face="方正准圆_GBK" size="48">不管怎样…
+</font><font face="方正准圆_GBK" size="36">In any case...</font>
+
+978
+01:14:28,720 --> 01:14:30,710
+<font face="方正准圆_GBK" size="48">我们还是对话到了
+</font><font face="方正准圆_GBK" size="36">It's time we finally talk.</font>
+
+979
+01:14:32,140 --> 01:14:34,600
+<font face="方正准圆_GBK" size="48">好好照顾你自己
+</font><font face="方正准圆_GBK" size="36">Please, take care of yourself.</font>
+
+980
+01:14:37,320 --> 01:14:40,660
+<font face="方正准圆_GBK" size="48">我设法汇了些钱到你的帐户
+</font><font face="方正准圆_GBK" size="36">I managed to put some money in your bank accounts.</font>
+
+981
+01:14:41,330 --> 01:14:44,270
+<font face="方正准圆_GBK" size="48">请用这些钱继续求学
+</font><font face="方正准圆_GBK" size="36">Please use it to continue your education.</font>
+
+982
+01:14:44,920 --> 01:14:47,290
+<font face="方正准圆_GBK" size="48">你的母亲也会这样希望的
+</font><font face="方正准圆_GBK" size="36">Your mother would've wanted that too.</font>
+
+983
+01:14:48,470 --> 01:14:51,590
+<font face="方正准圆_GBK" size="48">不要太在意浴室里的那些尸体
+</font><font face="方正准圆_GBK" size="36">Don't worry about the dead men in the bathtub.</font>
+
+984
+01:14:54,730 --> 01:14:57,350
+<font face="方正准圆_GBK" size="48">那不是表面上看来的那样
+</font><font face="方正准圆_GBK" size="36">It's not what it looks like.</font>
+
+985
+01:14:58,950 --> 01:15:01,610
+<font face="方正准圆_GBK" size="48">但我现在没时间解释
+</font><font face="方正准圆_GBK" size="36">And a long story to tell right now.</font>
+
+986
+01:15:05,420 --> 01:15:06,630
+<font face="方正准圆_GBK" size="48">有时候
+</font><font face="方正准圆_GBK" size="36">Sometimes,</font>
+
+987
+01:15:07,420 --> 01:15:09,120
+<font face="方正准圆_GBK" size="48">不知怎么的
+</font><font face="方正准圆_GBK" size="36">for no particular reason,</font>
+
+988
+01:15:09,640 --> 01:15:11,170
+<font face="方正准圆_GBK" size="48">我就会想起你
+</font><font face="方正准圆_GBK" size="36">I think of you</font>
+
+989
+01:15:12,640 --> 01:15:13,880
+<font face="方正准圆_GBK" size="48">然后微笑
+</font><font face="方正准圆_GBK" size="36">and smile.</font>
+
+990
+01:15:16,520 --> 01:15:18,690
+<font face="方正准圆_GBK" size="48">特别是那天
+</font><font face="方正准圆_GBK" size="36">Seriously about that day, that...</font>
+
+991
+01:15:19,910 --> 01:15:22,240
+<font face="方正准圆_GBK" size="48">我们开车去购物中心
+</font><font face="方正准圆_GBK" size="36">we drove out to the mall,</font>
+
+992
+01:15:22,410 --> 01:15:23,900
+<font face="方正准圆_GBK" size="48">去庆祝你的生日
+</font><font face="方正准圆_GBK" size="36">for your birthday.</font>
+
+993
+01:15:26,130 --> 01:15:27,710
+<font face="方正准圆_GBK" size="48">你的母亲因为感冒了
+</font><font face="方正准圆_GBK" size="36">Your mom had the flu,</font>
+
+994
+01:15:28,670 --> 01:15:30,920
+<font face="方正准圆_GBK" size="48">所以叫我们自己去
+</font><font face="方正准圆_GBK" size="36">and she said to go on without her.</font>
+
+995
+01:15:35,230 --> 01:15:37,600
+<font face="方正准圆_GBK" size="48">我记得你不小心走开
+</font><font face="方正准圆_GBK" size="36">I remember you wandered off.</font>
+
+996
+01:15:37,820 --> 01:15:39,190
+<font face="方正准圆_GBK" size="48">然后迷路了
+</font><font face="方正准圆_GBK" size="36">Got lost.</font>
+
+997
+01:15:42,790 --> 01:15:44,400
+<font face="方正准圆_GBK" size="48">过了两个小时
+</font><font face="方正准圆_GBK" size="36">And two hours later,</font>
+
+998
+01:15:45,790 --> 01:15:47,580
+<font face="方正准圆_GBK" size="48">我才找到你
+</font><font face="方正准圆_GBK" size="36">we finally found each other.</font>
+
+999
+01:15:49,590 --> 01:15:51,330
+<font face="方正准圆_GBK" size="48">我们拥抱
+</font><font face="方正准圆_GBK" size="36">We hugged...</font>
+
+1000
+01:15:52,890 --> 01:15:54,750
+<font face="方正准圆_GBK" size="48">你迟迟不肯放开
+</font><font face="方正准圆_GBK" size="36">You didn't wanna let go.</font>
+
+1001
+01:15:59,950 --> 01:16:01,610
+<font face="方正准圆_GBK" size="48">接着我们去吃了冰淇淋
+</font><font face="方正准圆_GBK" size="36">Then we went for ice cream,</font>
+
+1002
+01:16:03,290 --> 01:16:06,030
+<font face="方正准圆_GBK" size="48">我们一直聊个不停 直到回家为止
+</font><font face="方正准圆_GBK" size="36">and we talked... all the way home.</font>
+
+1003
+01:16:10,800 --> 01:16:13,970
+<font face="方正准圆_GBK" size="48">那是我最快乐的一天
+</font><font face="方正准圆_GBK" size="36">I think that was the happiest day I've had.</font>
+
+1004
+01:16:19,070 --> 01:16:22,730
+<font face="方正准圆_GBK" size="48">我知道我不是世界上最好的父亲
+</font><font face="方正准圆_GBK" size="36">I know I probably wasn't the best father in the world,</font>
+
+1005
+01:16:26,920 --> 01:16:28,880
+<font face="方正准圆_GBK" size="48">但我非常尽力的做到最好
+</font><font face="方正准圆_GBK" size="36">but I tried the best I could.</font>
+
+1006
+01:16:35,770 --> 01:16:36,850
+<font face="方正准圆_GBK" size="48">不管怎样…
+</font><font face="方正准圆_GBK" size="36">Anyway...</font>
+
+1007
+01:16:39,150 --> 01:16:41,990
+<font face="方正准圆_GBK" size="48">我毫无保留的爱你
+</font><font face="方正准圆_GBK" size="36">I've loved you all that I possibly can.</font>
+
+1008
+01:16:43,700 --> 01:16:45,360
+<font face="方正准圆_GBK" size="48">爱你的父亲上
+</font><font face="方正准圆_GBK" size="36">Love, Dad."</font>
+
+1009
+01:16:45,500 --> 01:16:46,780
+<font face="方正准圆_GBK" size="48">备注
+</font><font face="方正准圆_GBK" size="36">"PS:</font>
+
+1010
+01:16:48,460 --> 01:16:50,970
+<font face="方正准圆_GBK" size="48">这不是我的笔迹
+</font><font face="方正准圆_GBK" size="36">This isn't in my handwriting,</font>
+
+1011
+01:16:53,340 --> 01:16:55,510
+<font face="方正准圆_GBK" size="48">因为我的朋友
+</font><font face="方正准圆_GBK" size="36">because friend of mine</font>
+
+1012
+01:16:56,270 --> 01:16:58,010
+<font face="方正准圆_GBK" size="48">说要帮我写
+</font><font face="方正准圆_GBK" size="36">wrote it out for me."</font>
+
+1013
+01:17:00,230 --> 01:17:02,550
+<font face="方正准圆_GBK" size="48">如果你们走之前把信放在这
+</font><font face="方正准圆_GBK" size="36">If you just leave that in the...</font>
+
+1014
+01:17:02,580 --> 01:17:06,150
+<font face="方正准圆_GBK" size="48">她就会拿到了
+</font><font face="方正准圆_GBK" size="36">apartment when you go, it's sure to get to her.</font>
+
+1015
+01:17:08,460 --> 01:17:10,700
+<font face="方正准圆_GBK" size="48">幸好你们有来
+</font><font face="方正准圆_GBK" size="36">Glad you girls came by.</font>
+
+1016
+01:17:12,220 --> 01:17:14,550
+<font face="方正准圆_GBK" size="48">不然我就不会写下这封信了
+</font><font face="方正准圆_GBK" size="36">I wouldn't have written that otherwise.</font>
+
+1017
+01:17:46,660 --> 01:17:47,820
+<font face="方正准圆_GBK" size="48">小黛
+</font><font face="方正准圆_GBK" size="36">Daze...</font>
+
+1018
+01:17:51,800 --> 01:17:53,860
+<font face="方正准圆_GBK" size="48">我们必须走了
+</font><font face="方正准圆_GBK" size="36">We gotta go now, Daze.</font>
+
+1019
+01:18:00,520 --> 01:18:03,140
+<font face="方正准圆_GBK" size="48">我甚至没叫过他的名字
+</font><font face="方正准圆_GBK" size="36">He never even said his name, Vi.</font>
+
+1020
+01:18:06,530 --> 01:18:07,890
+<font face="方正准圆_GBK" size="48">走吧
+</font><font face="方正准圆_GBK" size="36">Come on.</font>
+
+1021
+01:18:41,060 --> 01:18:42,670
+<font face="方正准圆_GBK" size="48">脚踏车不见了
+</font><font face="方正准圆_GBK" size="36">The bike is gone.</font>
+
+1022
+01:18:43,940 --> 01:18:45,100
+<font face="方正准圆_GBK" size="48">我知道
+</font><font face="方正准圆_GBK" size="36">I know.</font>
+
+1023
+01:19:06,130 --> 01:19:08,140
+<font face="方正准圆_GBK" size="48">周日芭比新衣服发售中!</font>
+
+1024
+01:19:24,400 --> 01:19:26,760
+<font face="方正准圆_GBK" size="48">-我们终于买到了 -对啊
+</font><font face="方正准圆_GBK" size="36">-Well, we got 'em. -Yep.</font>
+
+1025
+01:19:27,240 --> 01:19:30,450
+<font face="方正准圆_GBK" size="48">-你穿起来很漂亮 -你也是
+</font><font face="方正准圆_GBK" size="36">-Yours looked awesome on you. -Yeah, so did yours.</font>
+
+1026
+01:19:35,000 --> 01:19:39,300
+<font face="方正准圆_GBK" size="48">在那天之后…我们就没有好好说过话
+</font><font face="方正准圆_GBK" size="36">Hey, I know we never really talked about stuff... since that day.</font>
+
+1027
+01:19:39,510 --> 01:19:40,850
+<font face="方正准圆_GBK" size="48">我们之间没问题吧?
+</font><font face="方正准圆_GBK" size="36">Are we cool?</font>
+
+1028
+01:19:42,440 --> 01:19:44,090
+<font face="方正准圆_GBK" size="48">当然
+</font><font face="方正准圆_GBK" size="36">Yeah. Of course.</font>
+
+1029
+01:19:45,650 --> 01:19:47,110
+<font face="方正准圆_GBK" size="48">很好
+</font><font face="方正准圆_GBK" size="36">Righteous.</font>
+
+1030
+01:19:50,490 --> 01:19:52,580
+<font face="方正准圆_GBK" size="48">你会饿吗?
+</font><font face="方正准圆_GBK" size="36">Hey, you hungry or anything?</font>
+
+1031
+01:19:53,210 --> 01:19:55,750
+<font face="方正准圆_GBK" size="48">不会我想要散个步
+</font><font face="方正准圆_GBK" size="36">Not really. I'm just gonna take a walk.</font>
+
+1032
+01:19:55,960 --> 01:19:57,750
+<font face="方正准圆_GBK" size="48">我也不饿
+</font><font face="方正准圆_GBK" size="36">Yeah, screw food.</font>
+
+1033
+01:19:57,970 --> 01:20:00,780
+<font face="方正准圆_GBK" size="48">其实我很想睡
+</font><font face="方正准圆_GBK" size="36">I could use a nap if you wanna know the truth.</font>
+
+1034
+01:20:00,890 --> 01:20:02,980
+<font face="方正准圆_GBK" size="48">要我帮你把东西拿回家吗?
+</font><font face="方正准圆_GBK" size="36">You want me to take your bag home?</font>
+
+1035
+01:20:03,060 --> 01:20:04,220
+<font face="方正准圆_GBK" size="48">不用
+</font><font face="方正准圆_GBK" size="36">No.</font>
+
+1036
+01:20:07,950 --> 01:20:10,030
+<font face="方正准圆_GBK" size="48">最好不是鲁斯
+</font><font face="方正准圆_GBK" size="36">This better not be Russ.</font>
+
+1037
+01:20:12,500 --> 01:20:14,130
+<font face="方正准圆_GBK" size="48">是我爸
+</font><font face="方正准圆_GBK" size="36">It's my dad.</font>
+
+1038
+01:20:14,540 --> 01:20:15,620
+<font face="方正准圆_GBK" size="48">真的?
+</font><font face="方正准圆_GBK" size="36">Really?</font>
+
+1039
+01:20:15,620 --> 01:20:19,490
+<font face="方正准圆_GBK" size="48">本来是想打电话叫披萨 最后却打给他
+</font><font face="方正准圆_GBK" size="36">I tried to get the pizza place, but I... I pressed his number instead.</font>
+
+1040
+01:20:21,510 --> 01:20:23,000
+<font face="方正准圆_GBK" size="48">一言难尽
+</font><font face="方正准圆_GBK" size="36">Long story.</font>
+
+1041
+01:20:23,100 --> 01:20:24,990
+<font face="方正准圆_GBK" size="48">等一下
+</font><font face="方正准圆_GBK" size="36">Hang on a sec, Phil.</font>
+
+1042
+01:20:37,300 --> 01:20:38,730
+<font face="方正准圆_GBK" size="48">再见
+</font><font face="方正准圆_GBK" size="36">See you, Daze!</font>
+
+1043
+01:20:48,320 --> 01:20:49,480
+<font face="方正准圆_GBK" size="48">老爸
+</font><font face="方正准圆_GBK" size="36">Hey dad.</font>
+
+1044
+01:20:58,690 --> 01:21:00,700
+<font face="方正准圆_GBK" size="48">最后一件事</font>
+
+1045
+01:21:11,030 --> 01:21:12,190
+<font face="方正准圆_GBK" size="48">艾波?
+</font><font face="方正准圆_GBK" size="36">April?</font>
+
+1046
+01:21:17,130 --> 01:21:18,740
+<font face="方正准圆_GBK" size="48">你是艾波吗?
+</font><font face="方正准圆_GBK" size="36">Are you... uhm, April?</font>
+
+1047
+01:21:36,500 --> 01:21:37,760
+<font face="方正准圆_GBK" size="48">嗨
+</font><font face="方正准圆_GBK" size="36">Hi.</font>
+
+1048
+01:21:38,170 --> 01:21:39,430
+<font face="方正准圆_GBK" size="48">嗨
+</font><font face="方正准圆_GBK" size="36">Hi.</font>
+
+1049
+01:21:40,380 --> 01:21:42,590
+<font face="方正准圆_GBK" size="48">我是你父亲的朋友
+</font><font face="方正准圆_GBK" size="36">I was a friend of your father's.</font>
+
+1050
+01:21:44,310 --> 01:21:46,470
+<font face="方正准圆_GBK" size="48">我想让你知道…
+</font><font face="方正准圆_GBK" size="36">I just wanted to let you know that...</font>
+
+1051
+01:21:47,350 --> 01:21:49,590
+<font face="方正准圆_GBK" size="48">我是他的朋友 而且…
+</font><font face="方正准圆_GBK" size="36">I was a friend of his and...</font>
+
+1052
+01:21:49,900 --> 01:21:52,470
+<font face="方正准圆_GBK" size="48">他很喜欢说起你的事
+</font><font face="方正准圆_GBK" size="36">that he talked about you a lot.</font>
+
+1053
+01:21:56,960 --> 01:21:59,500
+<font face="方正准圆_GBK" size="48">他想要我给你个东西
+</font><font face="方正准圆_GBK" size="36">He wanted me to give something to you too.</font>
+
+1054
+01:22:01,840 --> 01:22:03,400
+<font face="方正准圆_GBK" size="48">这是什么?
+</font><font face="方正准圆_GBK" size="36">What is it?</font>
+
+1055
+01:22:03,600 --> 01:22:05,880
+<font face="方正准圆_GBK" size="48">是最新的周日芭比衣服
+</font><font face="方正准圆_GBK" size="36">It's the new Barbie Sunday dress.</font>
+
+1056
+01:22:06,430 --> 01:22:08,400
+<font face="方正准圆_GBK" size="48">-真的? -真的
+</font><font face="方正准圆_GBK" size="36">-For real? -Yeah.</font>
+
+1057
+01:22:09,020 --> 01:22:10,930
+<font face="方正准圆_GBK" size="48">尺寸应该没问题
+</font><font face="方正准圆_GBK" size="36">I think it should fit.</font>
+
+1058
+01:22:12,360 --> 01:22:14,660
+<font face="方正准圆_GBK" size="48">里面还有别的东西
+</font><font face="方正准圆_GBK" size="36">There's something else in there too.</font>
+
+1059
+01:22:16,790 --> 01:22:18,050
+<font face="方正准圆_GBK" size="48">谢了
+</font><font face="方正准圆_GBK" size="36">Thanks.</font>
+
+1060
+01:22:18,290 --> 01:22:19,680
+<font face="方正准圆_GBK" size="48">不客气
+</font><font face="方正准圆_GBK" size="36">You're welcome.</font>
+
+1061
+01:22:22,050 --> 01:22:24,460
+<font face="方正准圆_GBK" size="48">你父亲是个很好的人
+</font><font face="方正准圆_GBK" size="36">Your father was a good guy, April.</font>
+
+1062
+01:22:25,810 --> 01:22:29,850
+<font face="方正准圆_GBK" size="48">他有说起 你们在大卖场迷路 然后吃冰淇淋的故事
+</font><font face="方正准圆_GBK" size="36">He told me how you two got lost in the mall one day and then had ice cream.</font>
+
+1063
+01:22:35,990 --> 01:22:37,250
+<font face="方正准圆_GBK" size="48">那个…
+</font><font face="方正准圆_GBK" size="36">Well...</font>
+
+1064
+01:22:38,120 --> 01:22:39,380
+<font face="方正准圆_GBK" size="48">再见了
+</font><font face="方正准圆_GBK" size="36">See ya.</font>
+

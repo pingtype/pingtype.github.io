@@ -1,0 +1,3220 @@
+1
+00:00:00,220 --> 00:00:49,230
+<font face="汉仪楷体简" size="28"><b>鄭重聲明:本作品之片源、字幕均來自互聯網，版權歸原電影公司所有。任何組織和個人不得公開傳播或用于任何商業盈利用途，否則一切后果由該組織或個人承擔！本站和制作者不承擔任何法律及連帶責任！請自覺于下載后24小時內刪除。如果喜歡本片，請購買正版！</b></font>
+
+2
+00:00:25,010 --> 00:00:32,920
+<font face="汉仪楷体简" size="28"><b>翻譯  pelf 卜卜 CC 夏目 Alison UE</b></font>
+
+3
+00:00:26,020 --> 00:00:32,950
+<font face="汉仪楷体简" size="28"><b>校對  P.E. 圣殿騎士球球</b></font>
+
+4
+00:00:28,200 --> 00:00:32,920
+<font face="汉仪楷体简" size="28"><b>特效 壓制  解藥上神</b></font>
+
+5
+00:00:33,860 --> 00:00:41,990
+<font face="汉仪楷体简" size="28"><b><font color="#e17a12">m 10.375 -172.875 b 3.375 -220.375 33.375 -275 172.875 -257.875 b 147.125 -237.5 136.625 -212.5 113.75 -192.25 b 89.625 -182.875 56.25 -170.375 13.75 -172.875 m -110.375 140 b -360.375 -4.75 -110.375 -267.25 147.125 -127.5 b 147.125 -127.5 103.375 -90 103.375 -90 b -97.125 -185.375 -239.625 15 -70 97.875 b -70 97.875 -110.375 140 -110.375 140 m -70 97.875 b 83.375 160.375 239.625 10.375 103.375 -90 b 103.375 -90 147.125 -127.5 147.125 -127.5 b 339.625 15 116.625 235.375 -110.375 140 b -110.375 140 -70 97.875 -70 97.875</font></b></font>
+
+6
+00:00:33,860 --> 00:00:41,990
+<font face="汉仪楷体简" size="28"><b><font color="#e17a12"><font size="35">Orange字幕組</font></font></b></font>
+
+7
+00:00:33,860 --> 00:00:41,990
+<font face="汉仪楷体简" size="28"><b><font color="#e17a12"><font size="28"><b>歡迎關注我們的微博</b></font></font></b></font>
+
+8
+00:00:49,160 --> 00:01:01,350
+<font face="汉仪楷体简" size="28"><b>幾個世紀來 圣殿騎士團一直在</b></font>
+
+9
+00:00:50,970 --> 00:01:03,060
+<font face="汉仪楷体简" size="28"><b>尋找著神秘的伊甸蘋果</b></font>
+
+10
+00:00:53,850 --> 00:01:05,940
+<font face="汉仪楷体简" size="28"><b>他們堅信里面不僅包含人類第一次反抗的根源</b></font>
+
+11
+00:00:55,860 --> 00:01:07,210
+<font face="汉仪楷体简" size="28"><b>還有自由意志的關鍵</b></font>
+
+12
+00:00:58,470 --> 00:01:10,290
+<font face="汉仪楷体简" size="28"><b>如果他們找到遺物并解開其中的秘密</b></font>
+
+13
+00:01:00,750 --> 00:01:12,370
+<font face="汉仪楷体简" size="28"><b>他們就擁有了控制所有自由意志的能力</b></font>
+
+14
+00:01:04,500 --> 00:01:14,980
+<font face="汉仪楷体简" size="28"><b>只有刺客兄弟會在阻止他們</b></font>
+
+15
+00:01:19,000 --> 00:01:20,070
+<font face="汉仪楷体简" size="28"><b>安達盧西亞 西班牙
+1942年</b></font>
+
+16
+00:01:55,150 --> 00:01:58,740
+<font face="汉仪楷体简" size="28"><b>宗教裁判所還是決定將西班牙交給圣殿騎士
+The Inquisition has finally delivered Spain to the Templars.</b></font>
+
+17
+00:01:59,610 --> 00:02:03,950
+<font face="汉仪楷体简" size="28"><b>蘇丹穆罕默德和他的軍隊仍堅守在格拉納達城內
+Sultan Muhammad and his people still hold out in Granada.</b></font>
+
+18
+00:02:04,280 --> 00:02:06,410
+<font face="汉仪楷体简" size="28"><b>但如果他兒子 那個王子 被抓了的話
+But if his son, the prince, is captured,</b></font>
+
+19
+00:02:07,410 --> 00:02:09,500
+<font face="汉仪楷体简" size="28"><b>他將開城投降 并獻上伊甸蘋果
+he will surrender the city and the Apple of Eden.</b></font>
+
+20
+00:02:10,960 --> 00:02:12,670
+<font face="汉仪楷体简" size="28"><b>你 阿圭拉 德 納爾哈
+Do you, Aguilar de Nerha,</b></font>
+
+21
+00:02:13,790 --> 00:02:16,590
+<font face="汉仪楷体简" size="28"><b>能宣誓信仰我們的信條 為自由而戰嗎
+swear to honor our order in the fight for freedom?</b></font>
+
+22
+00:02:17,510 --> 00:02:20,090
+<font face="汉仪楷体简" size="28"><b>為守護人類抵抗圣殿騎士的暴政
+To defend mankind against Templars' tyranny,</b></font>
+
+23
+00:02:21,050 --> 00:02:22,890
+<font face="汉仪楷体简" size="28"><b>守衛自由意志
+and preserve free will?</b></font>
+
+24
+00:02:23,300 --> 00:02:25,060
+<font face="汉仪楷体简" size="28"><b>我發誓
+I swear.</b></font>
+
+25
+00:02:25,140 --> 00:02:27,390
+<font face="汉仪楷体简" size="28"><b>如果蘋果落入他們手中
+If the Apple falls into their hands,</b></font>
+
+26
+00:02:27,810 --> 00:02:30,350
+<font face="汉仪楷体简" size="28"><b>圣殿騎士將摧毀擋在他們路上的一切
+the Templars will destroy everything that stands in their way.</b></font>
+
+27
+00:02:30,390 --> 00:02:33,610
+<font face="汉仪楷体简" size="28"><b>抗議 異議 還有為自己著想的權利
+Protest, dissent, our right to think for ourselves.</b></font>
+
+28
+00:02:33,980 --> 00:02:36,070
+<font face="汉仪楷体简" size="28"><b>向我宣誓你會不惜自己
+Swear to me that you will sacrifice your life</b></font>
+
+29
+00:02:36,480 --> 00:02:39,490
+<font face="汉仪楷体简" size="28"><b>和這里所有人的性命去守護它
+and lives of everyone here to keep it from them.</b></font>
+
+30
+00:02:40,110 --> 00:02:41,820
+<font face="汉仪楷体简" size="28"><b>遵命 導師
+Yes, Mentor.</b></font>
+
+31
+00:02:50,370 --> 00:02:52,080
+<font face="汉仪楷体简" size="28"><b>我們的生死無關緊要
+Our lives are nothing.</b></font>
+
+32
+00:02:53,420 --> 00:02:55,090
+<font face="汉仪楷体简" size="28"><b>蘋果才是重中之重
+The Appleis everything.</b></font>
+
+33
+00:02:56,170 --> 00:02:58,760
+<font face="汉仪楷体简" size="28"><b>雄鷹的靈魂 將守望未來
+The spirit of the Eagle, will watch over the future.</b></font>
+
+34
+00:03:19,360 --> 00:03:23,070
+<font face="汉仪楷体简" size="28"><b>當其他人盲目的追尋真相和真實的時候
+Where other men blindly follow the truth,</b></font>
+
+35
+00:03:23,740 --> 00:03:26,490
+<font face="汉仪楷体简" size="28"><b>記住 萬物皆虛
+remember, nothing is true.</b></font>
+
+36
+00:03:27,030 --> 00:03:31,710
+<font face="汉仪楷体简" size="28"><b>當其他人受到法律和道德的束縛的時候
+Where other men are limited by morality or law,</b></font>
+
+37
+00:03:32,080 --> 00:03:35,500
+<font face="汉仪楷体简" size="28"><b>記住 萬事皆允
+remember, everything is permitted.</b></font>
+
+38
+00:03:38,840 --> 00:03:44,380
+<font face="汉仪楷体简" size="28"><b>我們行走于黑暗 追尋于光明
+We work in the darkness to serve the light.</b></font>
+
+39
+00:03:45,180 --> 00:03:47,600
+<font face="汉仪楷体简" size="28"><b>我們是刺客
+We are Assassins.</b></font>
+
+40
+00:04:04,870 --> 00:04:08,590
+<font face="汉仪楷体简" size="28"><b><font color="#def704"><font size="10">刺客信條</font></font></b></font>
+
+41
+00:04:45,100 --> 00:04:46,840
+<font face="汉仪楷体简" size="28"><b>加利福尼亞半島
+墨西哥 1986</b></font>
+
+42
+00:05:25,610 --> 00:05:27,280
+<font face="汉仪楷体简" size="28"><b>該死
+Shit.</b></font>
+
+43
+00:06:22,790 --> 00:06:24,460
+<font face="汉仪楷体简" size="28"><b>媽媽
+Mom?</b></font>
+
+44
+00:07:10,220 --> 00:07:11,930
+<font face="汉仪楷体简" size="28"><b>爸爸
+Dad?</b></font>
+
+45
+00:07:12,180 --> 00:07:14,430
+<font face="汉仪楷体简" size="28"><b>你的血不止屬于自己 卡爾
+Your blood is not your own, Cal.</b></font>
+
+46
+00:07:17,680 --> 00:07:19,390
+<font face="汉仪楷体简" size="28"><b>他們發現我們了
+They've found us.</b></font>
+
+47
+00:07:36,370 --> 00:07:38,080
+<font face="汉仪楷体简" size="28"><b>隱姓埋名 活在暗處
+Live in the shadows.</b></font>
+
+48
+00:07:43,790 --> 00:07:45,580
+<font face="汉仪楷体简" size="28"><b>快跑
+Go! Go now!</b></font>
+
+49
+00:08:33,800 --> 00:08:34,870
+<font face="汉仪楷体简" size="28"><b>30年后</b></font>
+
+50
+00:08:38,420 --> 00:08:40,420
+<font face="汉仪楷体简" size="28"><b>亨茨維爾監獄
+德克薩斯州 美國</b></font>
+
+51
+00:09:34,070 --> 00:09:35,740
+<font face="汉仪楷体简" size="28"><b>你來這是為了拯救我的靈魂吧
+You're here to save my soul.</b></font>
+
+52
+00:09:38,160 --> 00:09:39,820
+<font face="汉仪楷体简" size="28"><b>差不多吧
+Something like that.</b></font>
+
+53
+00:09:42,200 --> 00:09:43,990
+<font face="汉仪楷体简" size="28"><b>我
+I...</b></font>
+
+54
+00:09:45,040 --> 00:09:46,750
+<font face="汉仪楷体简" size="28"><b>我知道今天是你生日
+I understand it is your birthday.</b></font>
+
+55
+00:09:47,830 --> 00:09:49,500
+<font face="汉仪楷体简" size="28"><b>是啊
+Yeah.</b></font>
+
+56
+00:09:49,790 --> 00:09:51,500
+<font face="汉仪楷体简" size="28"><b>派對這就要開始了
+The party is just getting started.</b></font>
+
+57
+00:09:55,960 --> 00:09:58,630
+<font face="汉仪楷体简" size="28"><b>坐下 你把我弄緊張了
+Sit down. You're making me nervous.</b></font>
+
+58
+00:10:14,730 --> 00:10:16,440
+<font face="汉仪楷体简" size="28"><b>主啊
+Lord,</b></font>
+
+59
+00:10:16,740 --> 00:10:18,450
+<font face="汉仪楷体简" size="28"><b>洗去我的罪惡
+wash away my sin,</b></font>
+
+60
+00:10:19,360 --> 00:10:21,070
+<font face="汉仪楷体简" size="28"><b>讓我再次
+and I'll be clean...</b></font>
+
+61
+00:10:22,700 --> 00:10:24,410
+<font face="汉仪楷体简" size="28"><b>變得干凈
+Once again.</b></font>
+
+62
+00:10:30,750 --> 00:10:32,580
+<font face="汉仪楷体简" size="28"><b>你不怎么相信圣經 是吧
+You're not much for the Bible, are you?</b></font>
+
+63
+00:11:04,070 --> 00:11:06,030
+<font face="汉仪楷体简" size="28"><b>特告知 卡勒姆 林奇
+Be it known that Callum Lynch</b></font>
+
+64
+00:11:06,790 --> 00:11:09,160
+<font face="汉仪楷体简" size="28"><b>被認定一級謀殺罪
+has been found guilty of capital murder</b></font>
+
+65
+00:11:10,040 --> 00:11:15,130
+<font face="汉仪楷体简" size="28"><b>被判今日執行死刑 2016年10月21日
+and sentenced to die on this day, October 21st 2016.</b></font>
+
+66
+00:11:15,920 --> 00:11:18,090
+<font face="汉仪楷体简" size="28"><b>犯人有臨終遺言嗎
+Does the prisoner wish to make a final statement?</b></font>
+
+67
+00:11:18,800 --> 00:11:20,800
+<font face="汉仪楷体简" size="28"><b>告訴我爸 我在地獄等他
+Tell my father that I'll see him in hell.</b></font>
+
+68
+00:13:01,860 --> 00:13:04,190
+<font face="汉仪楷体简" size="28"><b>我是索菲亞 里金博士
+My name is Dr. Sophia Rikkin.</b></font>
+
+69
+00:13:05,610 --> 00:13:08,020
+<font face="汉仪楷体简" size="28"><b>昨晚6點
+At six pm yesterday evening,</b></font>
+
+70
+00:13:08,020 --> 00:13:11,280
+<font face="汉仪楷体简" size="28"><b>你被處決并宣告死亡
+you were executed and pronounced dead.</b></font>
+
+71
+00:13:12,330 --> 00:13:16,370
+<font face="汉仪楷体简" size="28"><b>現在 所有認識你的人都認為
+And so far, as anyone in the world knows or cares,</b></font>
+
+72
+00:13:17,170 --> 00:13:19,040
+<font face="汉仪楷体简" size="28"><b>你已經離世
+you no longer exist.</b></font>
+
+73
+00:13:28,470 --> 00:13:30,600
+<font face="汉仪楷体简" size="28"><b>你最好還是坐下
+It's better you to sit.</b></font>
+
+74
+00:13:33,270 --> 00:13:33,890
+<font face="汉仪楷体简" size="28"><b>我的眼睛
+My eyes...</b></font>
+
+75
+00:13:33,930 --> 00:13:37,640
+<font face="汉仪楷体简" size="28"><b>你現在感覺到的不舒服是正常的
+What are you feeling right now is normal and uncomfortable.</b></font>
+
+76
+00:13:39,560 --> 00:13:41,230
+<font face="汉仪楷体简" size="28"><b>卡爾
+Cal.</b></font>
+
+77
+00:13:42,230 --> 00:13:43,940
+<font face="汉仪楷体简" size="28"><b>我是來幫你的
+I'm here to help you.</b></font>
+
+78
+00:13:44,820 --> 00:13:46,530
+<font face="汉仪楷体简" size="28"><b>而你也要幫我
+And you're here to help me.</b></font>
+
+79
+00:14:00,500 --> 00:14:02,210
+<font face="汉仪楷体简" size="28"><b>讓他走
+Let him go.</b></font>
+
+80
+00:14:35,990 --> 00:14:37,700
+<font face="汉仪楷体简" size="28"><b>別碰他
+Don't touch him.</b></font>
+
+81
+00:15:34,760 --> 00:15:36,430
+<font face="汉仪楷体简" size="28"><b>繼續呀 跳吧
+Go ahead. Do it.</b></font>
+
+82
+00:15:39,850 --> 00:15:41,560
+<font face="汉仪楷体简" size="28"><b>跳啊
+Jump.</b></font>
+
+83
+00:15:45,110 --> 00:15:46,770
+<font face="汉仪楷体简" size="28"><b>在這里你不再是個囚犯 卡爾
+You're not a prisoner here, Cal.</b></font>
+
+84
+00:15:48,780 --> 00:15:50,490
+<font face="汉仪楷体简" size="28"><b>我是來保護你的
+I'm here to protect you.</b></font>
+
+85
+00:15:50,690 --> 00:15:52,900
+<font face="汉仪楷体简" size="28"><b>如果你聽我的 一切才能行得通
+If you listen to me, everything is going to make sense.</b></font>
+
+86
+00:15:53,490 --> 00:15:55,200
+<font face="汉仪楷体简" size="28"><b>你需要相信我
+And you need to trust me.</b></font>
+
+87
+00:15:56,120 --> 00:15:57,830
+<font face="汉仪楷体简" size="28"><b>我在哪
+Where am I?</b></font>
+
+88
+00:15:57,830 --> 00:16:02,080
+<font face="汉仪楷体简" size="28"><b>你在馬德里的阿布斯泰戈基金會康復區內
+You're in a rehabilitation wing of Abstergo Foundation in Madrid,</b></font>
+
+89
+00:16:02,750 --> 00:16:06,630
+<font face="汉仪楷体简" size="28"><b>一個致力于完善人類的私人組織
+a private organization dedicated to the perfection of human kind.</b></font>
+
+90
+00:16:08,500 --> 00:16:12,550
+<font face="汉仪楷体简" size="28"><b>有了你的幫助 我們能夠開辟一條消除暴力的新道路
+With your help, we can pioneer new ways to eradicate violence.</b></font>
+
+91
+00:16:33,860 --> 00:16:35,530
+<font face="汉仪楷体简" size="28"><b>我能搞定
+I had this.</b></font>
+
+92
+00:16:35,780 --> 00:16:37,240
+<font face="汉仪楷体简" size="28"><b>你父親想讓他入伙
+Your father wants him in.</b></font>
+
+93
+00:16:37,320 --> 00:16:38,280
+<font face="汉仪楷体简" size="28"><b>他是我的病人
+He's my patient.</b></font>
+
+94
+00:16:38,780 --> 00:16:40,490
+<font face="汉仪楷体简" size="28"><b>這是我的項目
+This is my program.</b></font>
+
+95
+00:16:42,910 --> 00:16:44,620
+<font face="汉仪楷体简" size="28"><b>準備好阿尼姆斯
+Prepare the Animus.</b></font>
+
+96
+00:16:55,880 --> 00:16:57,880
+<font face="汉仪楷体简" size="28"><b>袖劍準備好了嗎
+Are the blades prepared?</b></font>
+
+97
+00:16:57,890 --> 00:16:58,680
+<font face="汉仪楷体简" size="28"><b>在這呢
+Right here.</b></font>
+
+98
+00:16:59,300 --> 00:17:00,930
+<font face="汉仪楷体简" size="28"><b>查到出處了沒
+And we confirmed their provenance?</b></font>
+
+99
+00:17:00,970 --> 00:17:02,100
+<font face="汉仪楷体简" size="28"><b>它們屬于阿圭拉
+They belong to Aguilar.</b></font>
+
+100
+00:17:02,100 --> 00:17:03,810
+<font face="汉仪楷体简" size="28"><b>我們在他的埋葬處找到的
+We recovered them from his burial site.</b></font>
+
+101
+00:17:04,060 --> 00:17:05,730
+<font face="汉仪楷体简" size="28"><b>這什么玩意
+What are these?</b></font>
+
+102
+00:17:05,940 --> 00:17:10,860
+<font face="汉仪楷体简" size="28"><b>執行最后準備 回溯到 1492年的安達盧西亞
+Assume final preparations. Our regression, Andalusia, 1492.</b></font>
+
+103
+00:17:11,530 --> 00:17:13,240
+<font face="汉仪楷体简" size="28"><b>全部都要記錄
+Record everything.</b></font>
+
+104
+00:17:18,070 --> 00:17:19,780
+<font face="汉仪楷体简" size="28"><b>機械手臂準備完畢
+Arms ready.</b></font>
+
+105
+00:17:31,090 --> 00:17:32,800
+<font face="汉仪楷体简" size="28"><b>這是干什么
+What is this?</b></font>
+
+106
+00:17:32,800 --> 00:17:35,090
+<font face="汉仪楷体简" size="28"><b>抱歉 卡爾 這不是我做事的風格
+I'm sorry, Cal, this is not the way I like to do things.</b></font>
+
+107
+00:17:35,130 --> 00:17:36,840
+<font face="汉仪楷体简" size="28"><b>那就別這么做
+Then don't do it.</b></font>
+
+108
+00:17:38,010 --> 00:17:39,720
+<font face="汉仪楷体简" size="28"><b>硬脊膜外麻醉注射
+Insert epidural.</b></font>
+
+109
+00:17:49,980 --> 00:17:52,070
+<font face="汉仪楷体简" size="28"><b>你到底想要什么
+What do you want from me?</b></font>
+
+110
+00:17:52,150 --> 00:17:53,070
+<font face="汉仪楷体简" size="28"><b>你的過去
+Your past.</b></font>
+
+111
+00:17:54,030 --> 00:17:55,860
+<font face="汉仪楷体简" size="28"><b>聽仔細了 卡爾
+Listen to me carefully, Cal.</b></font>
+
+112
+00:17:57,030 --> 00:17:58,950
+<font face="汉仪楷体简" size="28"><b>你即將進入阿尼姆斯
+You're about to enter the Animus.</b></font>
+
+113
+00:17:59,360 --> 00:18:01,910
+<font face="汉仪楷体简" size="28"><b>你所要看到的 聽到的 感受到的
+What you are about to see, hear and feel,</b></font>
+
+114
+00:18:02,330 --> 00:18:05,290
+<font face="汉仪楷体简" size="28"><b>都來自一個已經去世了五百年的人
+are the memories of someone who has been dead for 500 years.</b></font>
+
+115
+00:18:05,580 --> 00:18:07,290
+<font face="汉仪楷体简" size="28"><b>等一下
+Wait a minute.</b></font>
+
+116
+00:18:08,370 --> 00:18:11,080
+<font face="汉仪楷体简" size="28"><b>你無法改變過去 卡爾
+You can't change what happens, Cal.</b></font>
+
+117
+00:18:12,540 --> 00:18:14,250
+<font face="汉仪楷体简" size="28"><b>進行掃描
+Engage scanner.</b></font>
+
+118
+00:18:20,970 --> 00:18:22,640
+<font face="汉仪楷体简" size="28"><b>狀況怎樣
+Status?</b></font>
+
+119
+00:18:22,760 --> 00:18:25,930
+<font face="汉仪楷体简" size="28"><b>掃描DNA鏈 搜索時間范圍
+Scanning DNA chains. Searching for time frame.</b></font>
+
+120
+00:18:42,160 --> 00:18:44,200
+<font face="汉仪楷体简" size="28"><b>初始記憶已匹配鎖定
+First memory match locked.</b></font>
+
+121
+00:18:45,200 --> 00:18:46,910
+<font face="汉仪楷体简" size="28"><b>DNA配對完成
+DNA match identified.</b></font>
+
+122
+00:18:52,330 --> 00:18:54,040
+<font face="汉仪楷体简" size="28"><b>堅持住 卡爾
+Stay with it, Cal.</b></font>
+
+123
+00:18:59,970 --> 00:19:01,720
+<font face="汉仪楷体简" size="28"><b>嘗試同步
+Attempt synchronization.</b></font>
+
+124
+00:19:19,570 --> 00:19:21,280
+<font face="汉仪楷体简" size="28"><b>找到了 找到阿圭拉了
+We found him. We found Aguilar.</b></font>
+
+125
+00:19:27,910 --> 00:19:29,580
+<font face="汉仪楷体简" size="28"><b>同步成功
+Synchronization achieved.</b></font>
+
+126
+00:19:32,040 --> 00:19:33,750
+<font face="汉仪楷体简" size="28"><b>準備
+There.</b></font>
+
+127
+00:19:37,300 --> 00:19:38,960
+<font face="汉仪楷体简" size="28"><b>開始回溯
+Commence regression.</b></font>
+
+128
+00:20:53,210 --> 00:20:54,920
+<font face="汉仪楷体简" size="28"><b>我們的目標是那個男孩
+Our mission is the boy.</b></font>
+
+129
+00:21:20,150 --> 00:21:21,860
+<font face="汉仪楷体简" size="28"><b>是王子
+It's the prince.</b></font>
+
+130
+00:21:38,630 --> 00:21:40,630
+<font face="汉仪楷体简" size="28"><b>是誰庇護了他
+Which household harbored the boy?</b></font>
+
+131
+00:21:46,470 --> 00:21:48,180
+<font face="汉仪楷体简" size="28"><b>只有我
+Only me.</b></font>
+
+132
+00:21:57,810 --> 00:21:59,860
+<font face="汉仪楷体简" size="28"><b>沒有別人知道這件事了 沒了
+Nobody else knew. Nobody.</b></font>
+
+133
+00:22:02,900 --> 00:22:04,780
+<font face="汉仪楷体简" size="28"><b>把他的家人絞死 讓他看著
+Hang his family and make him watch.</b></font>
+
+134
+00:22:08,110 --> 00:22:09,820
+<font face="汉仪楷体简" size="28"><b>把村子燒光
+Burn the whole village.</b></font>
+
+135
+00:22:30,720 --> 00:22:34,890
+<font face="汉仪楷体简" size="28"><b>有格拉納達的王子作我們的俘虜
+With the prince of Granada as captive, his father, Sultan,</b></font>
+
+136
+00:22:35,390 --> 00:22:37,770
+<font face="汉仪楷体简" size="28"><b>他父親蘇丹就會帶著反抗的城市投降
+will surrender his rebellious city,</b></font>
+
+137
+00:22:37,810 --> 00:22:40,310
+<font face="汉仪楷体简" size="28"><b>交出最后一塊異教徒的避難所
+the last safe haven for the infidels.</b></font>
+
+138
+00:22:41,810 --> 00:22:45,530
+<font face="汉仪楷体简" size="28"><b>上帝會懲罰他們的異端邪說
+God will punish his people's heresy.</b></font>
+
+139
+00:22:46,110 --> 00:22:51,320
+<font face="汉仪楷体简" size="28"><b>只有圣殿騎士會最終統治西班牙
+Finally Spain will be under one Templar rule.</b></font>
+
+140
+00:23:15,180 --> 00:23:17,060
+<font face="汉仪楷体简" size="28"><b>呆在記憶里 卡爾
+Stay with the memory, Cal.</b></font>
+
+141
+00:24:03,150 --> 00:24:06,570
+<font face="汉仪楷体简" size="28"><b>阿圭拉 保護那個男孩
+Aguilar! The boy, Aguilar! The boy!</b></font>
+
+142
+00:26:23,580 --> 00:26:25,580
+<font face="汉仪楷体简" size="28"><b>阿圭拉 那個男孩
+Aguilar, the boy!</b></font>
+
+143
+00:26:41,470 --> 00:26:43,180
+<font face="汉仪楷体简" size="28"><b>拉出來
+Pull him!</b></font>
+
+144
+00:27:02,700 --> 00:27:04,370
+<font face="汉仪楷体简" size="28"><b>開始復原
+Commence rehabilitation.</b></font>
+
+145
+00:27:04,620 --> 00:27:07,370
+<font face="汉仪楷体简" size="28"><b>進行系統校驗 記錄他的情況
+Run a system's check, and log his condition.</b></font>
+
+146
+00:27:09,210 --> 00:27:10,870
+<font face="汉仪楷体简" size="28"><b>你做得很好 卡爾
+You did well, Cal.</b></font>
+
+147
+00:27:29,980 --> 00:27:32,270
+<font face="汉仪楷体简" size="28"><b>回看過去 世界歷史
+Looking back it's clear that a history</b></font>
+
+148
+00:27:32,350 --> 00:27:34,610
+<font face="汉仪楷体简" size="28"><b>顯然就是一部暴力史
+of the world is history a violence.</b></font>
+
+149
+00:27:36,110 --> 00:27:39,820
+<font face="汉仪楷体简" size="28"><b>去年反社會行為對經濟的影響
+Last year the economic impact of antisocial behavior</b></font>
+
+150
+00:27:39,860 --> 00:27:42,030
+<font face="汉仪楷体简" size="28"><b>達到了9萬億美元
+was 9 trillion dollars.</b></font>
+
+151
+00:27:44,370 --> 00:27:48,410
+<font face="汉仪楷体简" size="28"><b>我們認為 人們現今都壓抑著暴力行為
+We believe that man today experiences</b></font>
+
+152
+00:27:48,500 --> 00:27:53,630
+<font face="汉仪楷体简" size="28"><b>又難以找到合適的宣泄方式
+a measure of aggression which he finds no acceptable outlets.</b></font>
+
+153
+00:27:54,750 --> 00:28:00,050
+<font face="汉仪楷体简" size="28"><b>現在想象一下 如果這些損失都能被用到別的地方
+Now imagine if all these costs could be channeled elsewhere...</b></font>
+
+154
+00:28:00,130 --> 00:28:02,220
+<font face="汉仪楷体简" size="28"><b>回溯進行的好嗎
+So the regression went well?</b></font>
+
+155
+00:28:02,840 --> 00:28:04,550
+<font face="汉仪楷体简" size="28"><b>林奇是我們的實驗者
+Lynch is the one.</b></font>
+
+156
+00:28:05,100 --> 00:28:06,850
+<font face="汉仪楷体简" size="28"><b>作為阿圭拉的直系后裔
+Direct descendent of Aguilar.</b></font>
+
+157
+00:28:07,720 --> 00:28:10,310
+<font face="汉仪楷体简" size="28"><b>那里發生的一切都是那么的清晰 這還是第一次
+Everything was clear in there, for the first time.</b></font>
+
+158
+00:28:11,440 --> 00:28:15,770
+<font face="汉仪楷体简" size="28"><b>我們一直夢想什么 是一個更加和平安寧的世界
+What do we all dream of? A more peaceful world.</b></font>
+
+159
+00:28:15,810 --> 00:28:17,770
+<font face="汉仪楷体简" size="28"><b>我又盜用我的話
+I see you stole my lines again.</b></font>
+
+160
+00:28:17,860 --> 00:28:19,650
+<font face="汉仪楷体简" size="28"><b>誰讓你講的那么好
+I only steal from the best.</b></font>
+
+161
+00:28:21,110 --> 00:28:22,820
+<font face="汉仪楷体简" size="28"><b>伊甸碎片呢
+And the artifact?</b></font>
+
+162
+00:28:23,030 --> 00:28:25,700
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果已經觸之可及了
+The Apple. It's within our grasp.</b></font>
+
+163
+00:28:26,660 --> 00:28:29,040
+<font face="汉仪楷体简" size="28"><b>里面究竟發生了什么 你為什么要拉他
+What happened in there? Why did you pull him?</b></font>
+
+164
+00:28:29,370 --> 00:28:32,290
+<font face="汉仪楷体简" size="28"><b>我必須這樣做 我們需要保證他的健康與安全
+I had to. We have to keep him healthy.</b></font>
+
+165
+00:28:33,000 --> 00:28:36,920
+<font face="汉仪楷体简" size="28"><b>讓他有自信 我相信他不會讓我們失望的
+Earn his confidence. And I know he'll lead us to it.</b></font>
+
+166
+00:28:37,340 --> 00:28:38,130
+<font face="汉仪楷体简" size="28"><b>推他下去
+Push him.</b></font>
+
+167
+00:28:38,210 --> 00:28:41,130
+<font face="汉仪楷体简" size="28"><b>阿尼姆斯不是這么用的
+That's not how the Animus works.</b></font>
+
+168
+00:28:52,060 --> 00:28:53,770
+<font face="汉仪楷体简" size="28"><b>好了
+Here you go.</b></font>
+
+169
+00:28:55,400 --> 00:28:57,110
+<font face="汉仪楷体简" size="28"><b>謝謝
+Thank you.</b></font>
+
+170
+00:28:58,730 --> 00:29:01,690
+<font face="汉仪楷体简" size="28"><b>1917年 盧瑟福分裂了原子
+1917 Rutherford splits the atom.</b></font>
+
+171
+00:29:02,780 --> 00:29:06,160
+<font face="汉仪楷体简" size="28"><b>1953年 沃森和克里克發現雙了螺旋結構
+1953 Watson and Crick find a double helix.</b></font>
+
+172
+00:29:07,320 --> 00:29:10,950
+<font face="汉仪楷体简" size="28"><b>2016年
+2016 my daughter</b></font>
+
+173
+00:29:11,910 --> 00:29:13,830
+<font face="汉仪楷体简" size="28"><b>我的女兒發現了治療暴力的方法
+finds the cure for violence.</b></font>
+
+174
+00:29:21,760 --> 00:29:24,010
+<font face="汉仪楷体简" size="28"><b>你總是比我做得更好
+You've always been brighter than me.</b></font>
+
+175
+00:29:27,720 --> 00:29:29,390
+<font face="汉仪楷体简" size="28"><b>我要遲到了
+I'm late.</b></font>
+
+176
+00:29:29,760 --> 00:29:32,720
+<font face="汉仪楷体简" size="28"><b>我要去向長老們匯報情況
+I have to report to the Elders.</b></font>
+
+177
+00:29:54,790 --> 00:29:58,540
+<font face="汉仪楷体简" size="28"><b>1492年 弗朗西斯科 里齊的作品 大審判
+Francisco Rizi's Grand Inquisition. 1492.</b></font>
+
+178
+00:29:59,710 --> 00:30:01,420
+<font face="汉仪楷体简" size="28"><b>戰爭 宗教迫害
+War, religious prosecution,</b></font>
+
+179
+00:30:01,420 --> 00:30:04,880
+<font face="汉仪楷体简" size="28"><b>神父托克馬達或是圣殿騎士中的一個人
+and the closest that Father Torquemada or any of our Order</b></font>
+
+180
+00:30:04,880 --> 00:30:06,760
+<font face="汉仪楷体简" size="28"><b>也在此時發現了伊甸蘋果
+came to a finding the Apple of Eden.</b></font>
+
+181
+00:30:08,720 --> 00:30:10,350
+<font face="汉仪楷体简" size="28"><b>你好嗎 我的朋友
+How are you, my friend?</b></font>
+
+182
+00:30:10,430 --> 00:30:10,850
+<font face="汉仪楷体简" size="28"><b>很好
+Well.</b></font>
+
+183
+00:30:12,600 --> 00:30:13,810
+<font face="汉仪楷体简" size="28"><b>閣下
+Your Excellency.</b></font>
+
+184
+00:30:13,850 --> 00:30:16,180
+<font face="汉仪楷体简" size="28"><b>下周長老院會面之時
+Next week when the Elders meet,</b></font>
+
+185
+00:30:16,390 --> 00:30:19,310
+<font face="汉仪楷体简" size="28"><b>我們應投票決定是否暫停阿布斯泰戈項目
+we shall vote to discontinue your Abstergo project.</b></font>
+
+186
+00:30:20,900 --> 00:30:23,320
+<font face="汉仪楷体简" size="28"><b>我們認為每年授予你的三十億美元
+We feel that giving you 3 billion annually,</b></font>
+
+187
+00:30:23,320 --> 00:30:25,610
+<font face="汉仪楷体简" size="28"><b>用在別處是個更好的選擇
+could be better spent elsewhere.</b></font>
+
+188
+00:30:25,740 --> 00:30:27,950
+<font face="汉仪楷体简" size="28"><b>三十億完全沒辦法和我的
+Three billion is nothing compared to...</b></font>
+
+189
+00:30:27,990 --> 00:30:28,740
+<font face="汉仪楷体简" size="28"><b>我們已經贏了
+We've won.</b></font>
+
+190
+00:30:29,570 --> 00:30:32,030
+<font face="汉仪楷体简" size="28"><b>人們已經不再關心他們的公民自由了
+People are no longer care about their civil liberties,</b></font>
+
+191
+00:30:32,030 --> 00:30:33,740
+<font face="汉仪楷体简" size="28"><b>他們關心的是生活水平
+they care about their standard of life.</b></font>
+
+192
+00:30:34,620 --> 00:30:37,710
+<font face="汉仪楷体简" size="28"><b>現代世界已經容不下自由這種概念了
+The modern world has outgrown notions like freedom.</b></font>
+
+193
+00:30:39,000 --> 00:30:40,710
+<font face="汉仪楷体简" size="28"><b>他們愿意跟隨我們
+They are content to follow.</b></font>
+
+194
+00:30:41,080 --> 00:30:45,380
+<font face="汉仪楷体简" size="28"><b>威脅仍會停留 自由也會存在
+The threat remains while free will exists.</b></font>
+
+195
+00:30:46,550 --> 00:30:48,800
+<font face="汉仪楷体简" size="28"><b>我們已經在宗教 政治和現在的消費主義上
+For centuries we try with religion,</b></font>
+
+196
+00:30:48,800 --> 00:30:50,930
+<font face="汉仪楷体简" size="28"><b>投入了幾個世紀的時間
+with politics and now consumerism</b></font>
+
+197
+00:30:51,050 --> 00:30:52,760
+<font face="汉仪楷体简" size="28"><b>就為了消除異教思想
+to eliminate dissent.</b></font>
+
+198
+00:30:53,470 --> 00:30:55,970
+<font face="汉仪楷体简" size="28"><b>難道我們現在不應該給科學讓路了嗎
+Isn't it the time we gave a science a try?</b></font>
+
+199
+00:30:56,600 --> 00:30:59,140
+<font face="汉仪楷体简" size="28"><b>我的女兒對此了解的比我們都要深刻
+My daughter is closer than we've ever been.</b></font>
+
+200
+00:30:59,440 --> 00:31:01,150
+<font face="汉仪楷体简" size="28"><b>你美麗漂亮的女兒還好嗎
+How is your beautiful daughter?</b></font>
+
+201
+00:31:03,230 --> 00:31:05,610
+<font face="汉仪楷体简" size="28"><b>她正在追蹤蘋果的守護者
+She has traced protectors of the Apple.</b></font>
+
+202
+00:31:08,030 --> 00:31:09,740
+<font face="汉仪楷体简" size="28"><b>在哪
+Where?</b></font>
+
+203
+00:31:10,110 --> 00:31:13,160
+<font face="汉仪楷体简" size="28"><b>1492年的安達盧西亞
+Andalucia, 1492.</b></font>
+
+204
+00:31:13,740 --> 00:31:14,580
+<font face="汉仪楷体简" size="28"><b>后裔呢
+The descendents?</b></font>
+
+205
+00:31:14,620 --> 00:31:16,450
+<font face="汉仪楷体简" size="28"><b>幾乎所有的后人都死了
+All the blood lines have died out.</b></font>
+
+206
+00:31:17,500 --> 00:31:19,160
+<font face="汉仪楷体简" size="28"><b>但還剩一個
+But one.</b></font>
+
+207
+00:31:20,040 --> 00:31:24,290
+<font face="汉仪楷体简" size="28"><b>我們在五百年前找到了他 在刺客兄弟會
+We've traced his back 500 years, to the Assassin's Brotherhood.</b></font>
+
+208
+00:32:38,120 --> 00:32:41,160
+<font face="汉仪楷体简" size="28"><b>通常錯覺就是我們通常說的出血效應
+Hallucinations are what we call the "Bleeding effect."</b></font>
+
+209
+00:32:42,250 --> 00:32:44,040
+<font face="汉仪楷体简" size="28"><b>試想你的回溯
+Images of your regression,</b></font>
+
+210
+00:32:44,960 --> 00:32:47,710
+<font face="汉仪楷体简" size="28"><b>可以感受到你現在的視角
+laying themselves over your present day field of vision.</b></font>
+
+211
+00:32:52,220 --> 00:32:55,760
+<font face="汉仪楷体简" size="28"><b>如果你允許的話 我可以教你怎樣控制他們
+If you allow me, I can teach you how to control them.</b></font>
+
+212
+00:32:57,890 --> 00:32:59,890
+<font face="汉仪楷体简" size="28"><b>退后 我能解決的
+Stand down. I have this.</b></font>
+
+213
+00:33:01,090 --> 00:33:02,350
+<font face="汉仪楷体简" size="28"><b>聽她的
+Let it be.</b></font>
+
+214
+00:33:02,390 --> 00:33:05,470
+<font face="汉仪楷体简" size="28"><b>那是什么 那個機器
+What is it? The machine?</b></font>
+
+215
+00:33:06,390 --> 00:33:08,060
+<font face="汉仪楷体简" size="28"><b>這是基因記憶
+It's genetic memory.</b></font>
+
+216
+00:33:09,390 --> 00:33:11,100
+<font face="汉仪楷体简" size="28"><b>通過阿尼姆斯
+By using the Animus,</b></font>
+
+217
+00:33:11,100 --> 00:33:14,690
+<font face="汉仪楷体简" size="28"><b>可以重現我們祖先的生活
+we can relive lives of those who made us who we are.</b></font>
+
+218
+00:33:27,700 --> 00:33:31,290
+<font face="汉仪楷体简" size="28"><b>我在那里看到的 感覺很真實
+What I saw in there, it felt real.</b></font>
+
+219
+00:33:32,080 --> 00:33:33,790
+<font face="汉仪楷体简" size="28"><b>就是真的
+It was.</b></font>
+
+220
+00:33:35,710 --> 00:33:36,500
+<font face="汉仪楷体简" size="28"><b>某種程度來說
+In a way.</b></font>
+
+221
+00:33:36,590 --> 00:33:38,420
+<font face="汉仪楷体简" size="28"><b>別跟我扯淡
+Don't mess with me!</b></font>
+
+222
+00:33:39,510 --> 00:33:41,260
+<font face="汉仪楷体简" size="28"><b>我現在感覺自己不一樣了
+I feel different now.</b></font>
+
+223
+00:33:43,850 --> 00:33:45,220
+<font face="汉仪楷体简" size="28"><b>為什么這么激動
+Why the aggression?</b></font>
+
+224
+00:33:45,310 --> 00:33:47,180
+<font face="汉仪楷体简" size="28"><b>我性格就這樣
+I'm an aggressive person.</b></font>
+
+225
+00:33:49,060 --> 00:33:50,770
+<font face="汉仪楷体简" size="28"><b>這個監獄是干什么的
+What kind of prison is this?</b></font>
+
+226
+00:33:51,520 --> 00:33:53,230
+<font face="汉仪楷体简" size="28"><b>這里不是監獄 卡爾
+It's not a prison, Cal.</b></font>
+
+227
+00:33:53,610 --> 00:33:55,820
+<font face="汉仪楷体简" size="28"><b>你配合
+You'll learn more if you cooperate.</b></font>
+
+228
+00:33:56,860 --> 00:33:58,570
+<font face="汉仪楷体简" size="28"><b>放開我
+Let me go.</b></font>
+
+229
+00:34:10,410 --> 00:34:12,120
+<font face="汉仪楷体简" size="28"><b>我餓了
+I'm hungry.</b></font>
+
+230
+00:34:14,130 --> 00:34:15,840
+<font face="汉仪楷体简" size="28"><b>跟我來
+Come with me.</b></font>
+
+231
+00:34:41,710 --> 00:34:43,710
+<font face="汉仪楷体简" size="28"><b>林奇
+1979-現今</b></font>
+
+232
+00:34:44,490 --> 00:34:46,200
+<font face="汉仪楷体简" size="28"><b>這是什么
+What is this?</b></font>
+
+233
+00:34:46,740 --> 00:34:48,830
+<font face="汉仪楷体简" size="28"><b>我對你了如指掌 卡爾
+I know everything about you, Cal.</b></font>
+
+234
+00:34:46,770 --> 00:34:47,740
+<font face="汉仪楷体简" size="28"><b>卡勒姆 林奇引起的恐慌在滋長</b></font>
+
+235
+00:34:48,480 --> 00:34:49,250
+<font face="汉仪楷体简" size="28"><b>你認識這名少年嗎？</b></font>
+
+236
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>黑幫</b></font>
+
+237
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>林奇將死</b></font>
+
+238
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>法官宣判皮條客</b></font>
+
+239
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>殺手有罪</b></font>
+
+240
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>侵入</b></font>
+
+241
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>當地</b></font>
+
+242
+00:34:48,910 --> 00:34:49,550
+<font face="汉仪楷体简" size="28"><b>警局</b></font>
+
+243
+00:34:51,870 --> 00:34:55,330
+<font face="汉仪楷体简" size="28"><b>你的醫療記錄 心理檔案
+Your medical data, your psychological profile,</b></font>
+
+244
+00:34:56,170 --> 00:34:58,250
+<font face="汉仪楷体简" size="28"><b>以及你的MAO-A基因突變
+the mutations in your MAO-A gene.</b></font>
+
+245
+00:34:59,960 --> 00:35:01,670
+<font face="汉仪楷体简" size="28"><b>我知道你寄養家庭的事情
+I know about the foster homes.</b></font>
+
+246
+00:35:01,720 --> 00:35:03,430
+<font face="汉仪楷体简" size="28"><b>還有你在少管所的事情
+The juvenile homes.</b></font>
+
+247
+00:35:04,890 --> 00:35:08,050
+<font face="汉仪楷体简" size="28"><b>你就是遺傳型犯罪活生生的例子
+You are a living proof of the link between heredity and crime.</b></font>
+
+248
+00:35:08,100 --> 00:35:09,810
+<font face="汉仪楷体简" size="28"><b>你怎么找到的我
+How did you find me?</b></font>
+
+249
+00:35:10,140 --> 00:35:11,850
+<font face="汉仪楷体简" size="28"><b>我們發現了阿圭拉
+We found Aguilar.</b></font>
+
+250
+00:35:12,680 --> 00:35:15,600
+<font face="汉仪楷体简" size="28"><b>當你被捕的時候 你的DNA和他的匹配
+When you were arrested, your DNA matched his.</b></font>
+
+251
+00:35:15,270 --> 00:35:16,010
+<font face="汉仪楷体简" size="28"><b>阿基拉爾 狄 尼赫拉
+1455-1526</b></font>
+
+252
+00:35:17,940 --> 00:35:20,860
+<font face="汉仪楷体简" size="28"><b>- 阿圭拉是誰 - 你的祖先
+- Who is Aguilar? - Your ancestor.</b></font>
+
+253
+00:35:22,070 --> 00:35:23,780
+<font face="汉仪楷体简" size="28"><b>他的家族曾經是刺客
+His family were Assassins.</b></font>
+
+254
+00:35:23,950 --> 00:35:25,820
+<font face="汉仪楷体简" size="28"><b>他們被圣殿騎士 托爾克馬達
+They were burnt at the stake by the Templars,</b></font>
+
+255
+00:35:25,820 --> 00:35:28,780
+<font face="汉仪楷体简" size="28"><b>和你看到的暗黑騎士奧赫達燒死在了火刑柱上
+Torquemada and the black knight you saw, Ojeda.</b></font>
+
+256
+00:35:30,370 --> 00:35:32,580
+<font face="汉仪楷体简" size="28"><b>阿圭拉接過了刺客教團的使命
+Aguilar took up the Assassins' cause.</b></font>
+
+257
+00:35:37,460 --> 00:35:39,170
+<font face="汉仪楷体简" size="28"><b>你經常出去嗎
+Do you go out much?</b></font>
+
+258
+00:35:39,710 --> 00:35:41,380
+<font face="汉仪楷体简" size="28"><b>比你多
+More than you.</b></font>
+
+259
+00:35:43,970 --> 00:35:47,680
+<font face="汉仪楷体简" size="28"><b>那這里的其他人呢 也都是小白鼠嗎
+And the others in here? Are they the lab rats too?</b></font>
+
+260
+00:35:47,680 --> 00:35:50,760
+<font face="汉仪楷体简" size="28"><b>他們是刺客 像他們祖先一樣的殺人犯
+They are Assassins, murderers like their ancestors.</b></font>
+
+261
+00:35:51,770 --> 00:35:53,480
+<font face="汉仪楷体简" size="28"><b>像你一樣 卡爾
+Like you, Cal.</b></font>
+
+262
+00:35:53,930 --> 00:35:57,150
+<font face="汉仪楷体简" size="28"><b>生來就帶有暴力傾向
+All born with predisposition to violence.</b></font>
+
+263
+00:36:04,070 --> 00:36:05,740
+<font face="汉仪楷体简" size="28"><b>殺人犯
+Murderer?</b></font>
+
+264
+00:36:06,610 --> 00:36:08,870
+<font face="汉仪楷体简" size="28"><b>- 你殺了那個人 - 一個皮條客
+- You killed the man. - A pimp.</b></font>
+
+265
+00:36:11,160 --> 00:36:12,870
+<font face="汉仪楷体简" size="28"><b>你還會再殺人嗎
+Would you kill again?</b></font>
+
+266
+00:36:20,250 --> 00:36:21,960
+<font face="汉仪楷体简" size="28"><b>幸福的家庭
+Happy families.</b></font>
+
+267
+00:36:23,260 --> 00:36:24,970
+<font face="汉仪楷体简" size="28"><b>她一定很為你自豪
+She must be very proud.</b></font>
+
+268
+00:36:25,920 --> 00:36:27,630
+<font face="汉仪楷体简" size="28"><b>我無法得知她的想法了
+I wouldn't know.</b></font>
+
+269
+00:36:28,430 --> 00:36:30,140
+<font face="汉仪楷体简" size="28"><b>她被一個刺客所殺
+She was killed by an Assassin.</b></font>
+
+270
+00:36:31,100 --> 00:36:32,810
+<font face="汉仪楷体简" size="28"><b>就像你母親一樣
+Like your mother.</b></font>
+
+271
+00:36:35,310 --> 00:36:36,980
+<font face="汉仪楷体简" size="28"><b>抱歉
+Sorry.</b></font>
+
+272
+00:36:42,440 --> 00:36:44,400
+<font face="汉仪楷体简" size="28"><b>我老爸殺了我媽媽
+My old man killed my mother.</b></font>
+
+273
+00:36:45,400 --> 00:36:47,240
+<font face="汉仪楷体简" size="28"><b>你對此是什么感覺
+And how does that make you feel?</b></font>
+
+274
+00:36:50,030 --> 00:36:51,740
+<font face="汉仪楷体简" size="28"><b>我想殺了他
+Like killing him.</b></font>
+
+275
+00:36:55,290 --> 00:36:58,000
+<font face="汉仪楷体简" size="28"><b>我們要么讓它影響我們一生
+Either we let it to effect us for the rest of our lives,</b></font>
+
+276
+00:36:58,160 --> 00:37:00,250
+<font face="汉仪楷体简" size="28"><b>要么會為之改變
+or we just do something about it.</b></font>
+
+277
+00:37:00,960 --> 00:37:04,340
+<font face="汉仪楷体简" size="28"><b>你變得暴力 我投身科學
+You turn to violence, I turn to science.</b></font>
+
+278
+00:37:06,760 --> 00:37:08,800
+<font face="汉仪楷体简" size="28"><b>這是伊甸蘋果 卡爾
+It's the Apple of Eden, Cal.</b></font>
+
+279
+00:37:09,380 --> 00:37:11,140
+<font face="汉仪楷体简" size="28"><b>我相信它真實存在
+I believe it exists.</b></font>
+
+280
+00:37:12,300 --> 00:37:13,500
+<font face="汉仪楷体简" size="28"><b>圣經告訴我們
+The Bible tells us it</b></font>
+
+281
+00:37:13,500 --> 00:37:16,180
+<font face="汉仪楷体简" size="28"><b>它包含了人類第一次反叛的根源
+contained the seed of man's first disobedience.</b></font>
+
+282
+00:37:18,560 --> 00:37:20,850
+<font face="汉仪楷体简" size="28"><b>而我們相信
+But there are those of us who believe that</b></font>
+
+283
+00:37:22,060 --> 00:37:25,360
+<font face="汉仪楷体简" size="28"><b>神或者其它遠古文明
+God or some ancient civilization</b></font>
+
+284
+00:37:26,190 --> 00:37:29,860
+<font face="汉仪楷体简" size="28"><b>給我們留下了理解人類為何會有暴力的指路圖
+have left us a road map to understand why people are violent.</b></font>
+
+285
+00:37:31,780 --> 00:37:32,890
+<font face="汉仪楷体简" size="28"><b>阿圭拉是所知的最后一個
+Aguilar was the last</b></font>
+
+286
+00:37:32,890 --> 00:37:35,450
+<font face="汉仪楷体简" size="28"><b>擁有這個蘋果的人
+person known to have had it in his possession.</b></font>
+
+287
+00:37:36,410 --> 00:37:38,620
+<font face="汉仪楷体简" size="28"><b>我們需要你來找出他把它藏在了哪里
+We need you to find out where he hid it.</b></font>
+
+288
+00:37:41,000 --> 00:37:43,170
+<font face="汉仪楷体简" size="28"><b>我還以為我來這里是接受治療的
+I thought I was here to be cured.</b></font>
+
+289
+00:37:43,250 --> 00:37:44,750
+<font face="汉仪楷体简" size="28"><b>暴力是一種病
+Violence is a disease.</b></font>
+
+290
+00:37:45,250 --> 00:37:46,960
+<font face="汉仪楷体简" size="28"><b>像癌癥一樣
+Like cancer.</b></font>
+
+291
+00:37:47,130 --> 00:37:51,340
+<font face="汉仪楷体简" size="28"><b>就像癌癥那樣 有朝一日我們希望能夠控制它
+And like cancer, we hope to control it one day.</b></font>
+
+292
+00:37:52,340 --> 00:37:54,100
+<font face="汉仪楷体简" size="28"><b>暴力支撐著我活到現在
+Violence is what kept me alive.</b></font>
+
+293
+00:37:55,140 --> 00:37:56,850
+<font face="汉仪楷体简" size="28"><b>嚴格意義上來說 你已經死了
+Well technically, you're dead.</b></font>
+
+294
+00:38:01,190 --> 00:38:02,900
+<font face="汉仪楷体简" size="28"><b>我餓了
+I'm hungry.</b></font>
+
+295
+00:38:06,110 --> 00:38:07,820
+<font face="汉仪楷体简" size="28"><b>我能得到什么好處
+What's in it for me?</b></font>
+
+296
+00:38:07,820 --> 00:38:09,270
+<font face="汉仪楷体简" size="28"><b>一旦我的研究完成
+Once my research is complete,</b></font>
+
+297
+00:38:09,270 --> 00:38:11,070
+<font face="汉仪楷体简" size="28"><b>你就沒必要待在這里了
+there is no reason to keep you here.</b></font>
+
+298
+00:38:12,780 --> 00:38:14,490
+<font face="汉仪楷体简" size="28"><b>我能拿回我的人生嗎
+I get my life back?</b></font>
+
+299
+00:38:15,120 --> 00:38:17,790
+<font face="汉仪楷体简" size="28"><b>比這更好 全新的生活
+Better. A new one.</b></font>
+
+300
+00:38:19,960 --> 00:38:21,670
+<font face="汉仪楷体简" size="28"><b>你餓了
+You are hungry.</b></font>
+
+301
+00:38:42,310 --> 00:38:44,860
+<font face="汉仪楷体简" size="28"><b>你不了解他是誰 他是怎么樣一個人
+You don't know who he is, what he is.</b></font>
+
+302
+00:38:45,940 --> 00:38:47,650
+<font face="汉仪楷体简" size="28"><b>他是個危險的男人
+He is a dangerous man.</b></font>
+
+303
+00:38:48,690 --> 00:38:50,490
+<font face="汉仪楷体简" size="28"><b>再給他點時間 埃米爾
+Give him little more time, Emir.</b></font>
+
+304
+00:38:51,150 --> 00:38:53,860
+<font face="汉仪楷体简" size="28"><b>要給人機會去證明他還留存這高貴的血液
+Man may prove that has some noble blood in him yet.</b></font>
+
+305
+00:38:59,490 --> 00:39:01,160
+<font face="汉仪楷体简" size="28"><b>坐這里怎么樣 先生
+How about here, sir?</b></font>
+
+306
+00:39:04,710 --> 00:39:08,380
+<font face="汉仪楷体简" size="28"><b>想點什么都可以 不過我們推薦雞肉
+It's an open menu, but we do recommend a chicken.</b></font>
+
+307
+00:39:15,390 --> 00:39:18,470
+<font face="汉仪楷体简" size="28"><b>您想吃點什么嗎 林奇先生 點什么都可以
+What can I get you, Mr. Lynch? It's an open menu,</b></font>
+
+308
+00:39:18,510 --> 00:39:20,220
+<font face="汉仪楷体简" size="28"><b>但我們推薦雞肉
+but we do recommend a chicken.</b></font>
+
+309
+00:39:24,350 --> 00:39:25,350
+<font face="汉仪楷体简" size="28"><b>我要牛排
+I'll have steak.</b></font>
+
+310
+00:39:25,400 --> 00:39:27,440
+<font face="汉仪楷体简" size="28"><b>給先驅者上牛排
+Steak for the pioneer.</b></font>
+
+311
+00:39:32,320 --> 00:39:34,030
+<font face="汉仪楷体简" size="28"><b>你是誰
+Who are you?</b></font>
+
+312
+00:39:36,570 --> 00:39:38,240
+<font face="汉仪楷体简" size="28"><b>大家叫我穆薩
+They call me Moussa.</b></font>
+
+313
+00:39:39,700 --> 00:39:44,120
+<font face="汉仪楷体简" size="28"><b>但我的名字是巴蒂斯特 我已經死了200年了
+But my name is Baptiste. I'm dead 200 years now.</b></font>
+
+314
+00:39:45,290 --> 00:39:47,000
+<font face="汉仪楷体简" size="28"><b>巫毒師
+Voodoo poisoner.</b></font>
+
+315
+00:39:48,290 --> 00:39:49,960
+<font face="汉仪楷体简" size="28"><b>我是人畜無害的
+I'm harmless.</b></font>
+
+316
+00:39:56,800 --> 00:39:58,680
+<font face="汉仪楷体简" size="28"><b>他們在觀察你
+Ah  They're watching you.</b></font>
+
+317
+00:39:59,550 --> 00:40:01,890
+<font face="汉仪楷体简" size="28"><b>等著看看你到底是誰 先驅者
+Waiting to see who you are, pioneer.</b></font>
+
+318
+00:40:05,810 --> 00:40:07,520
+<font face="汉仪楷体简" size="28"><b>你見過他了嗎
+Have you met him yet?</b></font>
+
+319
+00:40:10,150 --> 00:40:12,110
+<font face="汉仪楷体简" size="28"><b>你見過他了嗎
+Have you met him yet?</b></font>
+
+320
+00:40:14,690 --> 00:40:17,450
+<font face="汉仪楷体简" size="28"><b>我們是蘋果的最后保護者 朋友
+We are the last to protect the Apple, my friend.</b></font>
+
+321
+00:40:18,280 --> 00:40:23,160
+<font face="汉仪楷体简" size="28"><b>選錯了 你將讓我們全都萬劫不復
+Pick the wrong choice, you'll send us all to infinity.</b></font>
+
+322
+00:40:28,120 --> 00:40:29,830
+<font face="汉仪楷体简" size="28"><b>這個
+This...</b></font>
+
+323
+00:40:31,750 --> 00:40:33,420
+<font face="汉仪楷体简" size="28"><b>是屬于你的
+belongs to you.</b></font>
+
+324
+00:40:46,600 --> 00:40:48,480
+<font face="汉仪楷体简" size="28"><b>你會直接帶領他們找到伊甸蘋果嗎
+You're going to lead them right to it.</b></font>
+
+325
+00:40:49,100 --> 00:40:51,400
+<font face="汉仪楷体简" size="28"><b>不 我要吃了它
+Ne, I'm going to eat it.</b></font>
+
+326
+00:41:05,120 --> 00:41:06,830
+<font face="汉仪楷体简" size="28"><b>到底怎么回事
+What the fuck is going on?</b></font>
+
+327
+00:41:35,480 --> 00:41:37,360
+<font face="汉仪楷体简" size="28"><b>他必須再次進入阿尼姆斯
+He has to go back in the Animus.</b></font>
+
+328
+00:41:40,700 --> 00:41:42,410
+<font face="汉仪楷体简" size="28"><b>就現在
+Now.</b></font>
+
+329
+00:41:43,450 --> 00:41:45,660
+<font face="汉仪楷体简" size="28"><b>再次進去前他還需要更多時間
+He needs more time before he goes in again.</b></font>
+
+330
+00:41:45,660 --> 00:41:47,620
+<font face="汉仪楷体简" size="28"><b>我們沒時間了
+We don't have time.</b></font>
+
+331
+00:41:49,540 --> 00:41:51,250
+<font face="汉仪楷体简" size="28"><b>為什么
+Why?</b></font>
+
+332
+00:41:55,050 --> 00:41:56,760
+<font face="汉仪楷体简" size="28"><b>我不會拿他的命冒險
+I won't risk his life.</b></font>
+
+333
+00:42:00,430 --> 00:42:02,970
+<font face="汉仪楷体简" size="28"><b>那我只能吩咐別人去做了
+Then I'll have to find someone else to do it.</b></font>
+
+334
+00:43:14,040 --> 00:43:16,840
+<font face="汉仪楷体简" size="28"><b>- 你睡醒啦 重拳手 - 我瘋了
+- You're up, slugger. - I'm crazy.</b></font>
+
+335
+00:43:22,300 --> 00:43:24,010
+<font face="汉仪楷体简" size="28"><b>我瘋了
+I'm crazy.</b></font>
+
+336
+00:43:25,220 --> 00:43:29,390
+<font face="汉仪楷体简" size="28"><b>孤獨使我瘋狂
+Crazy for feeling so lonely.</b></font>
+
+337
+00:43:38,940 --> 00:43:40,650
+<font face="汉仪楷体简" size="28"><b>他們把他又抓回去了
+They're getting him back in again.</b></font>
+
+338
+00:43:40,780 --> 00:43:44,200
+<font face="汉仪楷体简" size="28"><b>我們要在他背叛我們之前采取行動
+We should stop him before he betrays us.</b></font>
+
+339
+00:43:46,450 --> 00:43:47,990
+<font face="汉仪楷体简" size="28"><b>把日期調到6號
+Set the date for the six.</b></font>
+
+340
+00:43:48,070 --> 00:43:50,700
+<font face="汉仪楷体简" size="28"><b>如果他的情況出現惡化 那就停止實驗
+If his condition deteriorates, pull him out.</b></font>
+
+341
+00:43:51,040 --> 00:43:53,660
+<font face="汉仪楷体简" size="28"><b>- 可是你的父親 - 我不在乎他說了什么
+- You father... - I don't care what my father said.</b></font>
+
+342
+00:43:54,790 --> 00:43:59,500
+<font face="汉仪楷体简" size="28"><b>#何負於天下#
+What in the world did I do?</b></font>
+
+343
+00:43:59,540 --> 00:44:01,840
+<font face="汉仪楷体简" size="28"><b>- 卡爾聽我說 - #強至不能 戰至感己#
+- Cal, listen to me. - I'm crazy for trying...</b></font>
+
+344
+00:44:01,880 --> 00:44:04,720
+<font face="汉仪楷体简" size="28"><b>聽我說 你一定要跟阿圭拉保持同步
+Listen to me. You have to stay with Aguilar.</b></font>
+
+345
+00:44:04,800 --> 00:44:06,180
+<font face="汉仪楷体简" size="28"><b>#淚決堤#
+Crazy for crying...</b></font>
+
+346
+00:44:06,180 --> 00:44:08,680
+<font face="汉仪楷体简" size="28"><b>如果你停留在同步真空里 將會非常危險
+Staying in synch-void could be dangerous.</b></font>
+
+347
+00:44:08,850 --> 00:44:14,850
+<font face="汉仪楷体简" size="28"><b>#且為你癡狂#
+And I'm crazy for loving you...</b></font>
+
+348
+00:44:52,890 --> 00:44:54,980
+<font face="汉仪楷体简" size="28"><b>很快他們就會向格蘭納達進發
+Soon they will march on Granada.</b></font>
+
+349
+00:44:57,190 --> 00:44:59,560
+<font face="汉仪楷体简" size="28"><b>穆罕默德蘇丹的實力很弱
+Sultan Muhammad is weak.</b></font>
+
+350
+00:45:01,980 --> 00:45:04,150
+<font face="汉仪楷体简" size="28"><b>他不僅會交出伊甸蘋果
+He'll surrender the Apple</b></font>
+
+351
+00:45:04,860 --> 00:45:08,320
+<font face="汉仪楷体简" size="28"><b>還會為了救王子而背叛信條
+and betray the Creed to save the prince.</b></font>
+
+352
+00:45:10,660 --> 00:45:13,540
+<font face="汉仪楷体简" size="28"><b>情欲使吾儕軟弱
+The love makes us weak.</b></font>
+
+353
+00:45:18,960 --> 00:45:23,800
+<font face="汉仪楷体简" size="28"><b>幸然已鞠躬盡瘁
+Gladly I'll sacrifice my flesh and blood,</b></font>
+
+354
+00:45:24,300 --> 00:45:26,510
+<font face="汉仪楷体简" size="28"><b>只為信條永存
+for survival of the Creed.</b></font>
+
+355
+00:45:42,650 --> 00:45:46,690
+<font face="汉仪楷体简" size="28"><b>如果我死了 不要為我哭泣
+When I die today, don't waste your tears for me.</b></font>
+
+356
+00:46:33,990 --> 00:46:36,700
+<font face="汉仪楷体简" size="28"><b>耶和華訓示我們
+The Lord spoke.</b></font>
+
+357
+00:46:38,870 --> 00:46:40,540
+<font face="汉仪楷体简" size="28"><b>主說
+And he said:</b></font>
+
+358
+00:46:41,790 --> 00:46:44,170
+<font face="汉仪楷体简" size="28"><b>那不常跟我連結的人要被扔掉
+"If a man abide not in me</b></font>
+
+359
+00:46:45,040 --> 00:46:46,750
+<font face="汉仪楷体简" size="28"><b>像枯干的枝子 讓人撿去投在火里焚燒
+he is cast into the fire</b></font>
+
+360
+00:46:48,170 --> 00:46:50,090
+<font face="汉仪楷体简" size="28"><b>他將被焚燒
+and he is burned!"</b></font>
+
+361
+00:46:54,340 --> 00:46:56,010
+<font face="汉仪楷体简" size="28"><b>數十年來
+For decades,</b></font>
+
+362
+00:46:56,970 --> 00:47:00,980
+<font face="汉仪楷体简" size="28"><b>因為異教徒 我們活在支離破碎的
+you have lived in the world torn apart</b></font>
+
+363
+00:47:01,310 --> 00:47:03,810
+<font face="汉仪楷体简" size="28"><b>悲慘世界里
+by religious discord.</b></font>
+
+364
+00:47:04,520 --> 00:47:08,150
+<font face="汉仪楷体简" size="28"><b>但現在 多虧了主的榮恩
+But soon, thanks to God</b></font>
+
+365
+00:47:09,860 --> 00:47:11,610
+<font face="汉仪楷体简" size="28"><b>和宗教審判
+and Inquisition</b></font>
+
+366
+00:47:13,150 --> 00:47:16,950
+<font face="汉仪楷体简" size="28"><b>我們終將清除惡疾
+we will purge this disease!</b></font>
+
+367
+00:47:24,750 --> 00:47:27,840
+<font face="汉仪楷体简" size="28"><b>現在站在你們面前的罪人
+The sinners before you,</b></font>
+
+368
+00:47:28,670 --> 00:47:32,260
+<font face="汉仪楷体简" size="28"><b>曾試圖保護格拉納達的異教徒王子
+sought to defend the heretic prince of Granada,</b></font>
+
+369
+00:47:33,760 --> 00:47:36,890
+<font face="汉仪楷体简" size="28"><b>格拉納達是我們圣戰中
+the last heathen stronghold</b></font>
+
+370
+00:47:37,350 --> 00:47:39,680
+<font face="汉仪楷体简" size="28"><b>最后一個異教徒據點
+in our holy war.</b></font>
+
+371
+00:47:40,470 --> 00:47:42,180
+<font face="汉仪楷体简" size="28"><b>今天
+So today,</b></font>
+
+372
+00:47:42,680 --> 00:47:46,310
+<font face="汉仪楷体简" size="28"><b>在我們國王和王后的見證下
+before our king and queen</b></font>
+
+373
+00:47:47,150 --> 00:47:49,520
+<font face="汉仪楷体简" size="28"><b>我發誓我們將要在主賜的圣火中
+I swear we shall wash ourselves clean,</b></font>
+
+374
+00:47:49,980 --> 00:47:52,940
+<font face="汉仪楷体简" size="28"><b>洗濯污穢
+in the holy fire of God!</b></font>
+
+375
+00:47:57,070 --> 00:47:58,740
+<font face="汉仪楷体简" size="28"><b>親眼目睹
+Behold...</b></font>
+
+376
+00:48:00,330 --> 00:48:02,040
+<font face="汉仪楷体简" size="28"><b>主的旨意
+God's will!</b></font>
+
+377
+00:48:05,920 --> 00:48:07,480
+<font face="汉仪楷体简" size="28"><b>你們要看著你們的導師先被燒死
+You will watch your mentor</b></font>
+
+378
+00:48:07,490 --> 00:48:09,840
+<font face="汉仪楷体简" size="28"><b>然后你們再慢慢被折磨至死
+burn and then you will die the slowest.</b></font>
+
+379
+00:48:25,020 --> 00:48:27,310
+<font face="汉仪楷体简" size="28"><b>為了明日榮耀
+Give glory to the future.</b></font>
+
+380
+00:48:28,940 --> 00:48:30,650
+<font face="汉仪楷体简" size="28"><b>愿犧牲自己
+Not to us.</b></font>
+
+381
+00:49:07,480 --> 00:49:09,190
+<font face="汉仪楷体简" size="28"><b>他同步了
+He is synchronizing.</b></font>
+
+382
+00:49:24,700 --> 00:49:26,410
+<font face="汉仪楷体简" size="28"><b>可惡的異教徒
+Damned heretics!</b></font>
+
+383
+00:49:43,560 --> 00:49:45,220
+<font face="汉仪楷体简" size="28"><b>別讓他們跑了
+Don't let them escape!</b></font>
+
+384
+00:55:19,350 --> 00:55:21,020
+<font face="汉仪楷体简" size="28"><b>快跳
+Jump.</b></font>
+
+385
+00:55:37,120 --> 00:55:38,830
+<font face="汉仪楷体简" size="28"><b>斷開同步完成
+Complete desynch.</b></font>
+
+386
+00:55:39,580 --> 00:55:41,290
+<font face="汉仪楷体简" size="28"><b>把他放下來
+Get him down!</b></font>
+
+387
+00:55:42,540 --> 00:55:44,250
+<font face="汉仪楷体简" size="28"><b>叫醫護人員過來
+Call the medics!</b></font>
+
+388
+00:55:50,460 --> 00:55:54,510
+<font face="汉仪楷体简" size="28"><b>沒事的 別出事 卡爾
+Okay. It's okay. Cal, stay with me. Cal.</b></font>
+
+389
+00:55:54,680 --> 00:55:56,930
+<font face="汉仪楷体简" size="28"><b>別 沒事的 快點啊
+Stay... It's okay. Hurry up!</b></font>
+
+390
+00:55:57,930 --> 00:56:01,060
+<font face="汉仪楷体简" size="28"><b>好了 看看我
+Okay. Okay. Look at me.</b></font>
+
+391
+00:56:09,360 --> 00:56:11,070
+<font face="汉仪楷体简" size="28"><b>看著我
+Look at me.</b></font>
+
+392
+00:56:35,880 --> 00:56:37,640
+<font face="汉仪楷体简" size="28"><b>我的腳沒有知覺了
+I can't feel my legs.</b></font>
+
+393
+00:56:38,510 --> 00:56:40,220
+<font face="汉仪楷体简" size="28"><b>暫時的麻痹而已
+Paralysis is temporal.</b></font>
+
+394
+00:56:43,140 --> 00:56:44,850
+<font face="汉仪楷体简" size="28"><b>那壞消息是什么
+What's the bad news?</b></font>
+
+395
+00:56:45,140 --> 00:56:48,150
+<font face="汉仪楷体简" size="28"><b>它導致你的系統神經斷裂 但這次我們會幫你
+It caused a neurological split but we got you through it.</b></font>
+
+396
+00:56:49,060 --> 00:56:50,770
+<font face="汉仪楷体简" size="28"><b>渡過難關
+This time.</b></font>
+
+397
+00:56:51,400 --> 00:56:53,070
+<font face="汉仪楷体简" size="28"><b>我遲早會死在這兒的 對吧
+I'm gonna die in here, aren't I?</b></font>
+
+398
+00:56:57,160 --> 00:56:58,870
+<font face="汉仪楷体简" size="28"><b>不會
+No.</b></font>
+
+399
+00:57:00,620 --> 00:57:03,080
+<font face="汉仪楷体简" size="28"><b>如果你能主動進去同步 你就不會死
+Not if you go in there on your own free will.</b></font>
+
+400
+00:57:06,710 --> 00:57:08,420
+<font face="汉仪楷体简" size="28"><b>我做不到
+I can't do this.</b></font>
+
+401
+00:57:09,540 --> 00:57:11,210
+<font face="汉仪楷体简" size="28"><b>不 你能做到的
+Yes, you can.</b></font>
+
+402
+00:57:11,550 --> 00:57:15,130
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果 你是唯一一個能找到它的人
+The Apple. You're the only one left who can find it.</b></font>
+
+403
+00:57:16,470 --> 00:57:20,010
+<font face="汉仪楷体简" size="28"><b>我們可以了結這一切痛苦 卡爾
+We can put an end to pain, Cal.</b></font>
+
+404
+00:57:21,430 --> 00:57:23,140
+<font face="汉仪楷体简" size="28"><b>為了全人類
+For everyone.</b></font>
+
+405
+00:57:51,210 --> 00:57:52,210
+<font face="汉仪楷体简" size="28"><b>你從哪里找到的
+Where did you get this?</b></font>
+
+406
+00:57:52,250 --> 00:57:55,010
+<font face="汉仪楷体简" size="28"><b>我父親在你母親死的時候找到的
+My father recovered it from the scene of your mother's murder.</b></font>
+
+407
+00:57:55,300 --> 00:57:57,760
+<font face="汉仪楷体简" size="28"><b>然后把它帶到這里妥善保管
+And brought it here for safekeeping.</b></font>
+
+408
+00:57:57,800 --> 00:57:58,720
+<font face="汉仪楷体简" size="28"><b>妥善保管
+Safekeeping?</b></font>
+
+409
+00:58:01,510 --> 00:58:02,260
+<font face="汉仪楷体简" size="28"><b>明明就是你把它偷走了
+You stole it.</b></font>
+
+410
+00:58:02,350 --> 00:58:05,520
+<font face="汉仪楷体简" size="28"><b>這是你母親的項鏈 我希望能物歸原主
+It's your mother's necklace. I wanted you to have it.</b></font>
+
+411
+00:58:07,350 --> 00:58:08,640
+<font face="汉仪楷体简" size="28"><b>他當時為什么會在那里
+Why was he there?</b></font>
+
+412
+00:58:08,730 --> 00:58:10,650
+<font face="汉仪楷体简" size="28"><b>- 為了救她 - 誰要殺她
+- To save her. - From whom?</b></font>
+
+413
+00:58:11,020 --> 00:58:13,320
+<font face="汉仪楷体简" size="28"><b>- 她自己人 - 那和你們有什么關系
+- Her own people. - What's that got to do with you?</b></font>
+
+414
+00:58:14,570 --> 00:58:17,610
+<font face="汉仪楷体简" size="28"><b>刺客與圣殿騎士之間的爭斗已經持續了數世紀
+Assassins and Templars have been at war for centuries.</b></font>
+
+415
+00:58:18,610 --> 00:58:20,320
+<font face="汉仪楷体简" size="28"><b>我的目標是改變這個局面
+I aim to change that.</b></font>
+
+416
+00:58:20,530 --> 00:58:22,370
+<font face="汉仪楷体简" size="28"><b>說的真好聽 我差點都忘了
+That's right, I forgot.</b></font>
+
+417
+00:58:22,620 --> 00:58:24,700
+<font face="汉仪楷体简" size="28"><b>我們的目的是戰勝暴力
+We're here to combat aggression.</b></font>
+
+418
+00:58:27,450 --> 00:58:29,410
+<font face="汉仪楷体简" size="28"><b>我想我可能不太吃你這一套
+I don't think I like your methods.</b></font>
+
+419
+00:58:31,580 --> 00:58:33,290
+<font face="汉仪楷体简" size="28"><b>我是個科學家
+I am a scientist.</b></font>
+
+420
+00:58:33,960 --> 00:58:35,750
+<font face="汉仪楷体简" size="28"><b>我在這兒是為了治愈暴力傾向
+I'm here to be cured of violence.</b></font>
+
+421
+00:58:38,090 --> 00:58:39,800
+<font face="汉仪楷体简" size="28"><b>那又有誰會來治愈你
+Who's gonna cure you?</b></font>
+
+422
+00:59:27,180 --> 00:59:28,890
+<font face="汉仪楷体简" size="28"><b>我們這是養虎為患
+We're feeding the beast.</b></font>
+
+423
+00:59:30,350 --> 00:59:32,060
+<font face="汉仪楷体简" size="28"><b>我們讓他越來越強大了
+We're making him stronger.</b></font>
+
+424
+00:59:45,620 --> 00:59:47,330
+<font face="汉仪楷体简" size="28"><b>我是里金醫生
+I am Dr Rikkin.</b></font>
+
+425
+00:59:49,660 --> 00:59:51,330
+<font face="汉仪楷体简" size="28"><b>叫我艾倫就好
+Alan.</b></font>
+
+426
+00:59:52,500 --> 00:59:55,040
+<font face="汉仪楷体简" size="28"><b>我在這兒管理阿布斯泰戈工業公司
+I look after things here in Abstergo.</b></font>
+
+427
+00:59:57,880 --> 01:00:00,880
+<font face="汉仪楷体简" size="28"><b>家族式企業 是嗎
+You like to keep the things in the family, huh?</b></font>
+
+428
+01:00:00,920 --> 01:00:01,340
+<font face="汉仪楷体简" size="28"><b>是的
+Yes.</b></font>
+
+429
+01:00:03,470 --> 01:00:06,090
+<font face="汉仪楷体简" size="28"><b>如果我們讓你覺得不適 我先道個歉
+I'm sorry if we caused you any discomfort.</b></font>
+
+430
+01:00:07,300 --> 01:00:08,560
+<font face="汉仪楷体简" size="28"><b>我有什么能夠幫得上忙嗎
+Is there anything I can do?</b></font>
+
+431
+01:00:08,640 --> 01:00:10,220
+<font face="汉仪楷体简" size="28"><b>那就放我出去吧
+How about you let me out of here?</b></font>
+
+432
+01:00:20,190 --> 01:00:22,780
+<font face="汉仪楷体简" size="28"><b>這個請求超出我的管理范圍
+That's something I can't manage.</b></font>
+
+433
+01:00:26,070 --> 01:00:27,780
+<font face="汉仪楷体简" size="28"><b>我是來跟你做個交易的
+I'm here to make a deal.</b></font>
+
+434
+01:00:29,780 --> 01:00:31,490
+<font face="汉仪楷体简" size="28"><b>我們需要伊甸蘋果
+We need the Apple.</b></font>
+
+435
+01:00:33,370 --> 01:00:35,420
+<font face="汉仪楷体简" size="28"><b>并且需要你幫我們拿到
+And we need you to get it for us.</b></font>
+
+436
+01:00:37,250 --> 01:00:40,380
+<font face="汉仪楷体简" size="28"><b>你在阿尼姆斯中已斷開同步連接
+You've been desynching in the Animus.</b></font>
+
+437
+01:00:42,210 --> 01:00:43,920
+<font face="汉仪楷体简" size="28"><b>我們需要你恢復同步
+We need you not to do that.</b></font>
+
+438
+01:00:44,420 --> 01:00:46,090
+<font face="汉仪楷体简" size="28"><b>要把我送回機器里嗎
+Sending me back to the machine?</b></font>
+
+439
+01:00:47,430 --> 01:00:50,680
+<font face="汉仪楷体简" size="28"><b>不必 你展現給我們的已經足夠了
+No, you've already shown us what we needed to see.</b></font>
+
+440
+01:00:50,760 --> 01:00:52,470
+<font face="汉仪楷体简" size="28"><b>那你會放我們自由嗎
+Will you let us free then?</b></font>
+
+441
+01:01:01,940 --> 01:01:04,150
+<font face="汉仪楷体简" size="28"><b>你究竟想從新來的那里獲取什么
+What do you hope to gain from the newcomer?</b></font>
+
+442
+01:01:07,030 --> 01:01:09,030
+<font face="汉仪楷体简" size="28"><b>對我們所有人都有好處的東西
+Something that'll benefit us all.</b></font>
+
+443
+01:01:11,790 --> 01:01:13,500
+<font face="汉仪楷体简" size="28"><b>你呢 穆薩
+You too, Moussa.</b></font>
+
+444
+01:01:38,600 --> 01:01:40,310
+<font face="汉仪楷体简" size="28"><b>你對他們做了什么
+What have you done to them?</b></font>
+
+445
+01:01:41,820 --> 01:01:43,410
+<font face="汉仪楷体简" size="28"><b>這就是依靠自己的意志力
+It's what happens if you</b></font>
+
+446
+01:01:43,410 --> 01:01:46,530
+<font face="汉仪楷体简" size="28"><b>進入回溯失敗的結果
+don't enter in regression on your own volition.</b></font>
+
+447
+01:01:53,830 --> 01:01:55,540
+<font face="汉仪楷体简" size="28"><b>還認得它嗎
+Do you recognize this?</b></font>
+
+448
+01:01:56,660 --> 01:01:58,370
+<font face="汉仪楷体简" size="28"><b>這是袖劍
+It's Assassin's blade.</b></font>
+
+449
+01:02:01,840 --> 01:02:03,550
+<font face="汉仪楷体简" size="28"><b>這就是當時
+This is the actual one...</b></font>
+
+450
+01:02:05,920 --> 01:02:08,720
+<font face="汉仪楷体简" size="28"><b>你父親奪取你母親性命的兇器
+your father used to take your mother's life.</b></font>
+
+451
+01:02:11,970 --> 01:02:13,640
+<font face="汉仪楷体简" size="28"><b>他在這里 你知道嗎
+He's here, you know?</b></font>
+
+452
+01:02:20,900 --> 01:02:22,610
+<font face="汉仪楷体简" size="28"><b>母親的死亡
+Mother's death, Cal.</b></font>
+
+453
+01:02:24,270 --> 01:02:26,650
+<font face="汉仪楷体简" size="28"><b>這不是一個孩子應當面對的場景
+Not something a boy should ever be made to see.</b></font>
+
+454
+01:03:16,450 --> 01:03:18,120
+<font face="汉仪楷体简" size="28"><b>你不該那樣
+This is wrong.</b></font>
+
+455
+01:03:18,450 --> 01:03:20,160
+<font face="汉仪楷体简" size="28"><b>我別無他選
+You left me no choice.</b></font>
+
+456
+01:03:20,210 --> 01:03:22,710
+<font face="汉仪楷体简" size="28"><b>你說過 他必須靠自己的意志進入
+He has to go in on his own free will, you said that.</b></font>
+
+457
+01:03:23,170 --> 01:03:26,170
+<font face="汉仪楷体简" size="28"><b>- 我必須進行交涉 - 你是說操縱吧
+- I had to negotiate. - You mean manipulate?</b></font>
+
+458
+01:03:28,670 --> 01:03:31,930
+<font face="汉仪楷体简" size="28"><b>我向長老院保證我們會把伊甸蘋果帶到倫敦
+I assured the Elders we would have the Apple for London.</b></font>
+
+459
+01:03:36,010 --> 01:03:37,720
+<font face="汉仪楷体简" size="28"><b>只剩兩天時間了
+That's in two days.</b></font>
+
+460
+01:03:39,980 --> 01:03:43,020
+<font face="汉仪楷体简" size="28"><b>他不愿了解自己的過去或者親生父親
+He doesn't want to know his past, or his father.</b></font>
+
+461
+01:03:43,520 --> 01:03:45,860
+<font face="汉仪楷体简" size="28"><b>他只想將兩者并皆摧毀
+He wants to destroy them, both.</b></font>
+
+462
+01:03:46,690 --> 01:03:49,820
+<font face="汉仪楷体简" size="28"><b>我們可不是要干創造怪物的勾當
+We're not in the business of creating monsters.</b></font>
+
+463
+01:03:50,320 --> 01:03:52,700
+<font face="汉仪楷体简" size="28"><b>我們既不創造他們也不毀滅他們
+We neither created them nor destroyed them.</b></font>
+
+464
+01:03:52,950 --> 01:03:55,700
+<font face="汉仪楷体简" size="28"><b>我們只是放任他們于不可抵抗的信仰之中
+We merely abandoned them to their own inexorable faith.</b></font>
+
+465
+01:04:11,170 --> 01:04:14,510
+<font face="汉仪楷体简" size="28"><b>- 你是你母親所生 - 這說明什么
+- You're your mother's son. - What does that mean?</b></font>
+
+466
+01:04:18,350 --> 01:04:20,430
+<font face="汉仪楷体简" size="28"><b>你身體里流淌的血液并非只屬于你自己
+Blood that flows through you is not your own.</b></font>
+
+467
+01:04:21,730 --> 01:04:23,390
+<font face="汉仪楷体简" size="28"><b>它屬于信條
+Belongs to the Creed.</b></font>
+
+468
+01:04:24,390 --> 01:04:26,060
+<font face="汉仪楷体简" size="28"><b>你母親早就知曉
+Your mother knew that.</b></font>
+
+469
+01:04:27,480 --> 01:04:29,190
+<font face="汉仪楷体简" size="28"><b>因她的死亡 信條才得以存活
+She died so the Creed may live.</b></font>
+
+470
+01:04:31,610 --> 01:04:34,110
+<font face="汉仪楷体简" size="28"><b>講清楚
+Remind me how, exactly!</b></font>
+
+471
+01:04:36,820 --> 01:04:39,490
+<font face="汉仪楷体简" size="28"><b>如你所見 是我所為
+What you saw, I did.</b></font>
+
+472
+01:04:42,000 --> 01:04:43,710
+<font face="汉仪楷体简" size="28"><b>你殺了她
+You murdered her.</b></font>
+
+473
+01:04:48,290 --> 01:04:51,460
+<font face="汉仪楷体简" size="28"><b>我寧可親自動手也不愿她被那個機器奪去生命
+I took her life rather than have it stolen by that machine.</b></font>
+
+474
+01:04:54,630 --> 01:04:57,180
+<font face="汉仪楷体简" size="28"><b>男人經歷考驗才能成長
+Man grows with the greatness of his task.</b></font>
+
+475
+01:04:59,470 --> 01:05:01,180
+<font face="汉仪楷体简" size="28"><b>我本該殺了你
+I ought to have killed you.</b></font>
+
+476
+01:05:04,020 --> 01:05:05,730
+<font face="汉仪楷体简" size="28"><b>但下不了手
+I couldn't.</b></font>
+
+477
+01:05:07,310 --> 01:05:09,020
+<font face="汉仪楷体简" size="28"><b>那就現在
+Well, here.</b></font>
+
+478
+01:05:10,270 --> 01:05:11,980
+<font face="汉仪楷体简" size="28"><b>殺了我
+Take it.</b></font>
+
+479
+01:05:12,150 --> 01:05:14,320
+<font face="汉仪楷体简" size="28"><b>完成你30年前該做的事
+Do what you couldn't do 30 years ago.</b></font>
+
+480
+01:05:14,690 --> 01:05:16,400
+<font face="汉仪楷体简" size="28"><b>袖劍現在在你的手里了 卡爾
+It's in your hands now, Cal.</b></font>
+
+481
+01:05:17,820 --> 01:05:19,490
+<font face="汉仪楷体简" size="28"><b>這是他們想要見到的
+This is what they want.</b></font>
+
+482
+01:05:20,410 --> 01:05:22,080
+<font face="汉仪楷体简" size="28"><b>讓我血濺當場
+Spill my blood.</b></font>
+
+483
+01:05:23,910 --> 01:05:25,960
+<font face="汉仪楷体简" size="28"><b>但是別回阿尼姆斯
+But do not go back in the Animus.</b></font>
+
+484
+01:05:26,920 --> 01:05:28,580
+<font face="汉仪楷体简" size="28"><b>為什么
+Why?</b></font>
+
+485
+01:05:29,380 --> 01:05:33,420
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果蘊藏著自由意志的基因密碼
+The Apple contains the genetic code for free will.</b></font>
+
+486
+01:05:34,510 --> 01:05:36,170
+<font face="汉仪楷体简" size="28"><b>他們將利用這點消滅我們
+They will use it to destroy us.</b></font>
+
+487
+01:05:38,510 --> 01:05:40,220
+<font face="汉仪楷体简" size="28"><b>我會找到伊甸蘋果
+I'm gonna find it.</b></font>
+
+488
+01:05:42,390 --> 01:05:46,310
+<font face="汉仪楷体简" size="28"><b>親眼見證他們毀滅你和你的信條
+And watch them destroy you and your Creed.</b></font>
+
+489
+01:05:47,980 --> 01:05:49,650
+<font face="汉仪楷体简" size="28"><b>你不可能消滅信條
+You can not kill the Creed.</b></font>
+
+490
+01:05:50,480 --> 01:05:52,190
+<font face="汉仪楷体简" size="28"><b>信條已融于你的血液之中
+It's in your blood.</b></font>
+
+491
+01:05:52,860 --> 01:05:54,570
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果就是一切
+The Apple is everything.</b></font>
+
+492
+01:05:55,570 --> 01:05:57,280
+<font face="汉仪楷体简" size="28"><b>你母親為了保護它而死
+Your mother died to protect it.</b></font>
+
+493
+01:06:00,910 --> 01:06:02,620
+<font face="汉仪楷体简" size="28"><b>她別無選擇
+She had no choice.</b></font>
+
+494
+01:06:11,750 --> 01:06:13,460
+<font face="汉仪楷体简" size="28"><b>我有
+I do.</b></font>
+
+495
+01:06:59,880 --> 01:07:01,550
+<font face="汉仪楷体简" size="28"><b>你要去毀滅信條
+You're gonna kill the Creed!</b></font>
+
+496
+01:07:09,730 --> 01:07:11,440
+<font face="汉仪楷体简" size="28"><b>帶我去阿尼姆斯
+Take me to the Animus.</b></font>
+
+497
+01:07:19,900 --> 01:07:21,610
+<font face="汉仪楷体简" size="28"><b>讓我進入
+Put me in.</b></font>
+
+498
+01:07:22,030 --> 01:07:23,740
+<font face="汉仪楷体简" size="28"><b>機器準備
+Prepare the Animus.</b></font>
+
+499
+01:07:23,740 --> 01:07:25,450
+<font face="汉仪楷体简" size="28"><b>自愿回溯
+Voluntary regression.</b></font>
+
+500
+01:07:28,700 --> 01:07:30,910
+<font face="汉仪楷体简" size="28"><b>你知道刺客名字的由來嗎
+Do you know how the Assassins came to be named?</b></font>
+
+501
+01:07:32,040 --> 01:07:35,590
+<font face="汉仪楷体简" size="28"><b>它來源于阿拉伯文字 Hashashin
+From an Arabic word "Hashashin".</b></font>
+
+502
+01:07:36,550 --> 01:07:38,210
+<font face="汉仪楷体简" size="28"><b>他們屬于社會的異類
+They were society's outcasts.</b></font>
+
+503
+01:07:38,420 --> 01:07:42,050
+<font face="汉仪楷体简" size="28"><b>偷盜之人 死于非命之人
+Those who stole, who murdered in cold blood.</b></font>
+
+504
+01:07:44,050 --> 01:07:48,220
+<font face="汉仪楷体简" size="28"><b>遭唾棄之人 反叛者 愚蠢者 癮君子
+People ridiculed them... Rebels, fools, drug addicts.</b></font>
+
+505
+01:07:48,720 --> 01:07:50,390
+<font face="汉仪楷体简" size="28"><b>但他們又是睿智之人
+But they were wise.</b></font>
+
+506
+01:07:51,600 --> 01:07:55,270
+<font face="汉仪楷体简" size="28"><b>他們利用這點來掩藏
+They used this reputation to hide the dedication to principles</b></font>
+
+507
+01:07:55,610 --> 01:07:58,230
+<font face="汉仪楷体简" size="28"><b>超越他們最強勁敵的信仰法則
+beyond those of even their strongest enemies.</b></font>
+
+508
+01:07:59,150 --> 01:08:03,660
+<font face="汉仪楷体简" size="28"><b>為此我敬重他們
+And for that I admire them.</b></font>
+
+509
+01:08:07,740 --> 01:08:09,490
+<font face="汉仪楷体简" size="28"><b>但你不是他們其中一員
+But you're not one of those men.</b></font>
+
+510
+01:08:10,950 --> 01:08:12,660
+<font face="汉仪楷体简" size="28"><b>是嗎
+Are you?</b></font>
+
+511
+01:08:13,710 --> 01:08:15,380
+<font face="汉仪楷体简" size="28"><b>我們走著看
+Let's find out.</b></font>
+
+512
+01:08:23,260 --> 01:08:24,930
+<font face="汉仪楷体简" size="28"><b>啟動回溯
+Commencing regression.</b></font>
+
+513
+01:08:31,350 --> 01:08:33,230
+<font face="汉仪楷体简" size="28"><b>這是我的畢生之作
+This is my life's work.</b></font>
+
+514
+01:08:35,350 --> 01:08:37,060
+<font face="汉仪楷体简" size="28"><b>這是我的人生
+It's my life.</b></font>
+
+515
+01:09:25,280 --> 01:09:26,990
+<font face="汉仪楷体简" size="28"><b>為了信條
+For the Creed.</b></font>
+
+516
+01:09:30,870 --> 01:09:32,580
+<font face="汉仪楷体简" size="28"><b>我們自己的人生
+Our own lives...</b></font>
+
+517
+01:09:33,500 --> 01:09:36,120
+<font face="汉仪楷体简" size="28"><b>重要的是我們曾留下的
+What matters is what we leave behind.</b></font>
+
+518
+01:09:53,390 --> 01:09:55,060
+<font face="汉仪楷体简" size="28"><b>蘇丹
+Sultan...</b></font>
+
+519
+01:09:56,020 --> 01:09:57,690
+<font face="汉仪楷体简" size="28"><b>交出伊甸蘋果
+Surrender the Apple.</b></font>
+
+520
+01:09:57,770 --> 01:09:59,860
+<font face="汉仪楷体简" size="28"><b>你的刺客護衛已死
+Your Assassin protectors are gone.</b></font>
+
+521
+01:10:00,900 --> 01:10:03,820
+<font face="汉仪楷体简" size="28"><b>信條已亡
+The Creed is finished.</b></font>
+
+522
+01:10:44,940 --> 01:10:46,650
+<font face="汉仪楷体简" size="28"><b>我的孩子
+My son.</b></font>
+
+523
+01:11:25,690 --> 01:11:27,400
+<font face="汉仪楷体简" size="28"><b>人類首次反抗和
+Here lies the seed</b></font>
+
+524
+01:11:28,240 --> 01:11:30,280
+<font face="汉仪楷体简" size="28"><b>自由意志的根源
+of man's first disobedience,</b></font>
+
+525
+01:11:32,570 --> 01:11:34,280
+<font face="汉仪楷体简" size="28"><b>就在于此
+of free will itself.</b></font>
+
+526
+01:11:44,880 --> 01:11:47,050
+<font face="汉仪楷体简" size="28"><b>多虧伊甸蘋果
+Thanks to the Apple of Eden,</b></font>
+
+527
+01:11:48,000 --> 01:11:49,710
+<font face="汉仪楷体简" size="28"><b>這已知世界
+the known world</b></font>
+
+528
+01:11:50,970 --> 01:11:53,050
+<font face="汉仪楷体简" size="28"><b>將迎來新紀元
+shall be ushered into a new age.</b></font>
+
+529
+01:11:54,470 --> 01:11:56,180
+<font face="汉仪楷体简" size="28"><b>新和平
+One of peace,</b></font>
+
+530
+01:11:57,180 --> 01:12:00,430
+<font face="汉仪楷体简" size="28"><b>那里所有征戰的人類
+in which all the warring populations of mankind</b></font>
+
+531
+01:12:00,810 --> 01:12:03,480
+<font face="汉仪楷体简" size="28"><b>都將絕對服從于
+shall bow in perfect obedience</b></font>
+
+532
+01:12:05,110 --> 01:12:07,070
+<font face="汉仪楷体简" size="28"><b>圣殿騎士的統治
+to our one templar rule.</b></font>
+
+533
+01:13:12,840 --> 01:13:14,550
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果
+The Apple.</b></font>
+
+534
+01:13:15,590 --> 01:13:17,300
+<font face="汉仪楷体简" size="28"><b>交給他
+Give it to him.</b></font>
+
+535
+01:13:18,470 --> 01:13:20,220
+<font face="汉仪楷体简" size="28"><b>立刻
+Now.</b></font>
+
+536
+01:13:23,020 --> 01:13:24,730
+<font face="汉仪楷体简" size="28"><b>為了信條
+For the Creed.</b></font>
+
+537
+01:15:26,140 --> 01:15:27,850
+<font face="汉仪楷体简" size="28"><b>快
+Go!</b></font>
+
+538
+01:16:29,290 --> 01:16:31,000
+<font face="汉仪楷体简" size="28"><b>原諒我
+Forgive me.</b></font>
+
+539
+01:18:08,390 --> 01:18:10,100
+<font face="汉仪楷体简" size="28"><b>都結束了
+It's over!</b></font>
+
+540
+01:18:15,600 --> 01:18:17,310
+<font face="汉仪楷体简" size="28"><b>刺客
+Assassin!</b></font>
+
+541
+01:18:46,340 --> 01:18:48,010
+<font face="汉仪楷体简" size="28"><b>信仰之躍
+A leap of faith.</b></font>
+
+542
+01:19:11,620 --> 01:19:13,330
+<font face="汉仪楷体简" size="28"><b>這是在哪兒
+Where are we?</b></font>
+
+543
+01:19:14,870 --> 01:19:16,540
+<font face="汉仪楷体简" size="28"><b>這里看起來像軍事港口
+It looks like a military port.</b></font>
+
+544
+01:19:29,170 --> 01:19:31,380
+<font face="汉仪楷体简" size="28"><b>維爾瓦省 防空識別區
+Kadiz, Palos de la Frontera.</b></font>
+
+545
+01:20:08,550 --> 01:20:11,010
+<font face="汉仪楷体简" size="28"><b>刺客們為它犧牲性命
+The Assassins died for it.</b></font>
+
+546
+01:20:12,470 --> 01:20:14,180
+<font face="汉仪楷体简" size="28"><b>你要用生命守護好它
+Protect it with your life.</b></font>
+
+547
+01:20:15,930 --> 01:20:17,680
+<font face="汉仪楷体简" size="28"><b>我是刺客集團的友軍
+I am a friend of the Creed.</b></font>
+
+548
+01:20:24,860 --> 01:20:26,900
+<font face="汉仪楷体简" size="28"><b>把它帶進你墳墓里
+Take it to your grave.</b></font>
+
+549
+01:20:28,110 --> 01:20:29,820
+<font face="汉仪楷体简" size="28"><b>我發誓
+I swear.</b></font>
+
+550
+01:20:47,960 --> 01:20:49,630
+<font face="汉仪楷体简" size="28"><b>他說了什么 翻譯出來
+What is it? Translation.</b></font>
+
+551
+01:20:56,260 --> 01:20:58,040
+<font face="汉仪楷体简" size="28"><b>追隨太陽之光芒
+Following the light of the sun,</b></font>
+
+552
+01:20:58,040 --> 01:21:00,100
+<font face="汉仪楷体简" size="28"><b>我將棄舊世于身后
+I shall leave this old world behind.</b></font>
+
+553
+01:21:01,560 --> 01:21:03,230
+<font face="汉仪楷体简" size="28"><b>他是克里斯托弗 哥倫布
+It's Christopher Columbus.</b></font>
+
+554
+01:21:03,980 --> 01:21:05,650
+<font face="汉仪楷体简" size="28"><b>他埋在哪了
+Where is he buried?</b></font>
+
+555
+01:21:06,560 --> 01:21:08,770
+<font face="汉仪楷体简" size="28"><b>他的遺體被遷回西班牙
+His remains were returned to Spain.</b></font>
+
+556
+01:21:09,360 --> 01:21:11,820
+<font face="汉仪楷体简" size="28"><b>墳墓在塞維利亞大教堂
+His tomb is in Seville Cathedral.</b></font>
+
+557
+01:21:14,950 --> 01:21:16,620
+<font face="汉仪楷体简" size="28"><b>我們找到了
+We found it.</b></font>
+
+558
+01:21:48,480 --> 01:21:50,570
+<font face="汉仪楷体简" size="28"><b>帥哥們 過來下
+Hey All Stars, come here.</b></font>
+
+559
+01:21:58,780 --> 01:22:00,490
+<font face="汉仪楷体简" size="28"><b>選一個
+Pick one.</b></font>
+
+560
+01:22:01,700 --> 01:22:03,410
+<font face="汉仪楷体简" size="28"><b>隨便哪個
+Anyone.</b></font>
+
+561
+01:22:11,130 --> 01:22:14,090
+<font face="汉仪楷体简" size="28"><b>- 公共休息室遭攻破 - 封鎖阿尼姆斯
+- Breach in common room. - Seal the Animus.</b></font>
+
+562
+01:22:34,400 --> 01:22:36,110
+<font face="汉仪楷体简" size="28"><b>這是記憶嗎
+Is it a memory?</b></font>
+
+563
+01:22:37,360 --> 01:22:39,070
+<font face="汉仪楷体简" size="28"><b>不是
+No.</b></font>
+
+564
+01:23:35,710 --> 01:23:37,420
+<font face="汉仪楷体简" size="28"><b>來吧
+Come on!</b></font>
+
+565
+01:23:49,680 --> 01:23:51,850
+<font face="汉仪楷体简" size="28"><b>- 直升機呢 - 待命中
+- Transport? - Standing by.</b></font>
+
+566
+01:23:54,690 --> 01:23:57,360
+<font face="汉仪楷体简" size="28"><b>保護阿尼姆斯 處理掉其他人
+Protect the Animus. Purge the facility.</b></font>
+
+567
+01:23:58,900 --> 01:24:00,570
+<font face="汉仪楷体简" size="28"><b>我得先把你護送出去
+I need to get you out of here first.</b></font>
+
+568
+01:24:06,120 --> 01:24:10,080
+<font face="汉仪楷体简" size="28"><b>- 不行 - 我們必須得走 索菲亞
+- No! - We have to leave, Sophia.</b></font>
+
+569
+01:24:53,170 --> 01:24:54,830
+<font face="汉仪楷体简" size="28"><b>不
+No!</b></font>
+
+570
+01:24:55,710 --> 01:24:57,380
+<font face="汉仪楷体简" size="28"><b>不要
+No!</b></font>
+
+571
+01:25:09,310 --> 01:25:11,020
+<font face="汉仪楷体简" size="28"><b>繼續戰斗
+Pick it up!</b></font>
+
+572
+01:25:24,150 --> 01:25:25,860
+<font face="汉仪楷体简" size="28"><b>你不是孤單一人 卡爾
+You are not alone, Cal.</b></font>
+
+573
+01:25:27,620 --> 01:25:29,330
+<font face="汉仪楷体简" size="28"><b>從來不是
+You never were.</b></font>
+
+574
+01:25:43,630 --> 01:25:45,340
+<font face="汉仪楷体简" size="28"><b>- 開門 - 快點
+- Open... - Come on.</b></font>
+
+575
+01:25:59,560 --> 01:26:02,730
+<font face="汉仪楷体简" size="28"><b>當其他人盲目的追尋真相和真實的時候
+Where other men blindly follow the truth,</b></font>
+
+576
+01:26:03,440 --> 01:26:06,280
+<font face="汉仪楷体简" size="28"><b>- 記住 - 萬物皆虛
+- remember... - Nothing is true.</b></font>
+
+577
+01:26:07,490 --> 01:26:10,910
+<font face="汉仪楷体简" size="28"><b>當其他人受到法律和道德的束縛的時候
+Where other men are limited by morality or law,</b></font>
+
+578
+01:26:12,830 --> 01:26:16,080
+<font face="汉仪楷体简" size="28"><b>- 記住 - 萬事皆允
+- remember... - Everything is permitted.</b></font>
+
+579
+01:26:17,620 --> 01:26:20,790
+<font face="汉仪楷体简" size="28"><b>我們穿行于黑暗 追尋于光明
+We work in the darkness to serve the light.</b></font>
+
+580
+01:26:23,000 --> 01:26:24,710
+<font face="汉仪楷体简" size="28"><b>我們是刺客
+We are Assassins.</b></font>
+
+581
+01:26:53,910 --> 01:26:55,620
+<font face="汉仪楷体简" size="28"><b>現在怎么做 先驅者
+What now, pioneer?</b></font>
+
+582
+01:27:00,460 --> 01:27:02,170
+<font face="汉仪楷体简" size="28"><b>戰斗
+We fight.</b></font>
+
+583
+01:30:53,480 --> 01:30:55,190
+<font face="汉仪楷体简" size="28"><b>閣下
+Your Excellency.</b></font>
+
+584
+01:30:57,900 --> 01:30:59,780
+<font face="汉仪楷体简" size="28"><b>榮耀屬于你父親
+The glory will go to your father.</b></font>
+
+585
+01:31:01,950 --> 01:31:03,660
+<font face="汉仪楷体简" size="28"><b>但我們都清楚是誰找到了伊甸蘋果
+But we both know who found it.</b></font>
+
+586
+01:31:07,830 --> 01:31:09,500
+<font face="汉仪楷体简" size="28"><b>你的時代即將來臨 我的孩子
+Your time will come, my child.</b></font>
+
+587
+01:31:49,140 --> 01:31:49,170
+<font face="汉仪楷体简" size="28"><b>大圣殿禮堂
+
+倫敦</b></font>
+
+588
+01:32:08,020 --> 01:32:10,230
+<font face="汉仪楷体简" size="28"><b>他們會給你的成就頒諾貝爾和平獎
+They'll give you a Nobel peace prize for this.</b></font>
+
+589
+01:32:10,770 --> 01:32:12,480
+<font face="汉仪楷体简" size="28"><b>你最好開始寫獲獎致辭了
+You better start writing your speech.</b></font>
+
+590
+01:32:14,560 --> 01:32:17,400
+<font face="汉仪楷体简" size="28"><b>- 我讀了你的演講稿 - 怎么
+- I've read yours. - And?</b></font>
+
+591
+01:32:21,610 --> 01:32:24,780
+<font face="汉仪楷体简" size="28"><b>如果根除自由意志 我們就能鏟除刺客
+If we eradicate free will, we eradicate the Assassins.</b></font>
+
+592
+01:32:25,240 --> 01:32:28,200
+<font face="汉仪楷体简" size="28"><b>這些瘡害社會數百年的毒瘤
+A cancer that has menaced society for centuries.</b></font>
+
+593
+01:32:29,870 --> 01:32:33,960
+<font face="汉仪楷体简" size="28"><b>這篇不是我最出色的稿子 但扼住了要點
+It's not my best work, but it gets the point across.</b></font>
+
+594
+01:32:35,790 --> 01:32:37,880
+<font face="汉仪楷体简" size="28"><b>我們一直在尋找出路
+We've been looking for solutions.</b></font>
+
+595
+01:32:40,220 --> 01:32:41,930
+<font face="汉仪楷体简" size="28"><b>你解決了這個問題
+You've eliminated the problem.</b></font>
+
+596
+01:32:56,150 --> 01:32:57,860
+<font face="汉仪楷体简" size="28"><b>所以說 我的項目
+So my program...</b></font>
+
+597
+01:32:58,110 --> 01:33:00,740
+<font face="汉仪楷体简" size="28"><b>第一次為社會帶來了秩序
+Has brought order to society for the first time.</b></font>
+
+598
+01:33:04,200 --> 01:33:05,910
+<font face="汉仪楷体简" size="28"><b>我對這件事負責
+I'm accountable for this.</b></font>
+
+599
+01:33:06,240 --> 01:33:07,910
+<font face="汉仪楷体简" size="28"><b>早有人為你的行為負責
+You've already been accounted for.</b></font>
+
+600
+01:33:07,990 --> 01:33:09,910
+<font face="汉仪楷体简" size="28"><b>我們做的一切都屬于長老院
+Our work belongs to the Elders.</b></font>
+
+601
+01:33:10,200 --> 01:33:11,910
+<font face="汉仪楷体简" size="28"><b>現在是他們的決勝時刻
+This is their finest hour.</b></font>
+
+602
+01:33:15,750 --> 01:33:17,500
+<font face="汉仪楷体简" size="28"><b>你騙了我
+You lied to me.</b></font>
+
+603
+01:33:17,500 --> 01:33:19,210
+<font face="汉仪楷体简" size="28"><b>我一直都知道
+I've always known</b></font>
+
+604
+01:33:19,460 --> 01:33:23,430
+<font face="汉仪楷体简" size="28"><b>在你心底 科學第一 圣殿騎士第二
+that in your heart you're a scientist first, templar second.</b></font>
+
+605
+01:33:24,760 --> 01:33:26,800
+<font face="汉仪楷体简" size="28"><b>你近期的成就令人震撼
+Your recent work has impressed as much</b></font>
+
+606
+01:33:27,800 --> 01:33:30,640
+<font face="汉仪楷体简" size="28"><b>但也證實了我們的信條
+but it has confirmed our belief that mankind</b></font>
+
+607
+01:33:31,390 --> 01:33:33,060
+<font face="汉仪楷体简" size="28"><b>人類無法被救贖
+cannot be redeemed.</b></font>
+
+608
+01:33:33,140 --> 01:33:34,850
+<font face="汉仪楷体简" size="28"><b>你一切都算計清楚了
+You've thought of everything.</b></font>
+
+609
+01:33:36,690 --> 01:33:38,240
+<font face="汉仪楷体简" size="28"><b>也不盡然
+Not quite. My speech.</b></font>
+
+610
+01:33:38,240 --> 01:33:41,650
+<font face="汉仪楷体简" size="28"><b>我的演講需要你簡練大方的開場白
+It could do with one of your elegant openings.</b></font>
+
+611
+01:33:44,700 --> 01:33:46,360
+<font face="汉仪楷体简" size="28"><b>如今我成了死神
+Now I've become death,</b></font>
+
+612
+01:33:47,820 --> 01:33:49,530
+<font face="汉仪楷体简" size="28"><b>世界的毀滅者
+the destroyer of worlds.</b></font>
+
+613
+01:33:51,790 --> 01:33:53,500
+<font face="汉仪楷体简" size="28"><b>這話似乎上不了臺面
+Not sure that I could make that work.</b></font>
+
+614
+01:34:10,810 --> 01:34:14,140
+<font face="汉仪楷体简" size="28"><b>今晚我無比榮幸在此介紹
+It is with great pleasure tonight that I introduce</b></font>
+
+615
+01:34:14,270 --> 01:34:17,850
+<font face="汉仪楷体简" size="28"><b>我們遵從古訓之未來的締造者
+the architect of our ancient order's future.</b></font>
+
+616
+01:34:20,190 --> 01:34:24,240
+<font face="汉仪楷体简" size="28"><b>讓我們歡迎阿布斯泰戈公司的首席執行官
+Please welcome the CEO of Abstergo Foundation,</b></font>
+
+617
+01:34:24,360 --> 01:34:26,070
+<font face="汉仪楷体简" size="28"><b>艾倫 里金博士
+Dr. Alan Rikkin.</b></font>
+
+618
+01:34:42,130 --> 01:34:43,840
+<font face="汉仪楷体简" size="28"><b>重獲伊甸蘋果之后
+With the recovery of the Apple,</b></font>
+
+619
+01:34:44,460 --> 01:34:46,300
+<font face="汉仪楷体简" size="28"><b>我們現已掌握
+we are now in possession</b></font>
+
+620
+01:34:46,630 --> 01:34:49,090
+<font face="汉仪楷体简" size="28"><b>決定人類天性與本能的
+of the complete genetic road map</b></font>
+
+621
+01:34:49,510 --> 01:34:51,560
+<font face="汉仪楷体简" size="28"><b>完整基因譜圖
+to humanity's instincts.</b></font>
+
+622
+01:34:52,890 --> 01:34:55,770
+<font face="汉仪楷体简" size="28"><b>任何對于獨立
+Any impulse towards independence,</b></font>
+
+623
+01:34:56,310 --> 01:34:58,230
+<font face="汉仪楷体简" size="28"><b>抵抗和反叛的沖動
+resistance or rebellion</b></font>
+
+624
+01:34:59,020 --> 01:35:00,730
+<font face="汉仪楷体简" size="28"><b>都將被瓦解
+will be crushed.</b></font>
+
+625
+01:35:01,730 --> 01:35:05,280
+<font face="汉仪楷体简" size="28"><b>任何可能阻礙我們時代前進步伐的傾向
+Any predisposition that might oppose our march of progress</b></font>
+
+626
+01:35:06,280 --> 01:35:09,280
+<font face="汉仪楷体简" size="28"><b>現可被根除
+can now be eradicated.</b></font>
+
+627
+01:35:14,080 --> 01:35:15,790
+<font face="汉仪楷体简" size="28"><b>我只想大呼
+All I have to do is shout.</b></font>
+
+628
+01:35:19,250 --> 01:35:20,960
+<font face="汉仪楷体简" size="28"><b>我是來幫你的
+I'm here to help you.</b></font>
+
+629
+01:35:22,500 --> 01:35:24,210
+<font face="汉仪楷体简" size="28"><b>而你也要幫我
+And you're here to help me.</b></font>
+
+630
+01:35:26,260 --> 01:35:27,970
+<font face="汉仪楷体简" size="28"><b>我無法再幫你了
+I can't help you anymore.</b></font>
+
+631
+01:35:29,220 --> 01:35:31,220
+<font face="汉仪楷体简" size="28"><b>那些宏偉的計劃呢
+What about all those great plans?</b></font>
+
+632
+01:35:33,260 --> 01:35:36,430
+<font face="汉仪楷体简" size="28"><b>治療暴力 戰勝侵略性
+Cure violence, combat aggression.</b></font>
+
+633
+01:35:39,640 --> 01:35:41,350
+<font face="汉仪楷体简" size="28"><b>這些都不可能發生了
+That's not going to happen.</b></font>
+
+634
+01:35:48,700 --> 01:35:51,410
+<font face="汉仪楷体简" size="28"><b>此事因你而起 蘇菲亞 別想一走了之
+You've started this, Sophie. You don't get to walk away.</b></font>
+
+635
+01:35:53,580 --> 01:35:55,290
+<font face="汉仪楷体简" size="28"><b>我們都知道接下來會變成怎樣
+We both know what happens next.</b></font>
+
+636
+01:36:01,630 --> 01:36:03,340
+<font face="汉仪楷体简" size="28"><b>不是所有人都有資格活在世上
+Not everything deserves to live.</b></font>
+
+637
+01:36:06,630 --> 01:36:08,340
+<font face="汉仪楷体简" size="28"><b>我不能這么做
+I can't do this.</b></font>
+
+638
+01:36:14,640 --> 01:36:16,350
+<font face="汉仪楷体简" size="28"><b>你可以的
+Yes, you can.</b></font>
+
+639
+01:36:28,530 --> 01:36:30,740
+<font face="汉仪楷体简" size="28"><b>但這不是為了我們自己
+But it is not to ourselves,</b></font>
+
+640
+01:36:31,530 --> 01:36:34,490
+<font face="汉仪楷体简" size="28"><b>而是我們必須給予榮耀于未來
+but to the future, that we must give glory.</b></font>
+
+641
+01:36:35,120 --> 01:36:38,870
+<font face="汉仪楷体简" size="28"><b>迎接一個徹底清除刺客集團的未來
+A future purged of the Assassin's Creed!</b></font>
+
+642
+01:36:56,390 --> 01:36:58,100
+<font face="汉仪楷体简" size="28"><b>女士們 先生們
+Ladies and gentlemen,</b></font>
+
+643
+01:36:59,220 --> 01:37:00,930
+<font face="汉仪楷体简" size="28"><b>伊甸蘋果
+the Apple of Eden.</b></font>
+
+644
+01:38:26,770 --> 01:38:28,480
+<font face="汉仪楷体简" size="28"><b>這是我造成的
+I did this.</b></font>
+
+645
+01:38:38,160 --> 01:38:40,370
+<font face="汉仪楷体简" size="28"><b>我會為長者會奪回伊甸蘋果
+I will retrieve the artifact for the Elders.</b></font>
+
+646
+01:38:46,080 --> 01:38:47,790
+<font face="汉仪楷体简" size="28"><b>我要為自己拿回來
+Lynch I want for me.</b></font>
+
+647
+01:39:05,350 --> 01:39:06,600
+<font face="汉仪楷体简" size="28"><b>這不是為了我們自己
+It is not to ourselves,</b></font>
+
+648
+01:39:06,690 --> 01:39:08,940
+<font face="汉仪楷体简" size="28"><b>而是為了未來 我們必須給予榮耀
+but to the future, that we must give glory.</b></font>
+
+649
+01:40:45,040 --> 01:41:31,890
+<font face="汉仪楷体简" size="28"><b>{\an8}<font color="#f37f0a"><font size="45"><b>本字幕由Orange字幕組傾情制作，歡迎大家加入Orange字幕組，字幕組長期招收翻譯，校對，時間軸，壓制等職位，有意愿者請加群：489216448 歡迎大家加入粉絲群：259110198</b></font></font></b></font>
+

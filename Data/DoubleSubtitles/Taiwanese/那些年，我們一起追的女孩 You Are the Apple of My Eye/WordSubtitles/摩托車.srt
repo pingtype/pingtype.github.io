@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#F82423>摩</font><font color=#000000>托</font><font color=#000000>車</font>   </font><font color=#F82423><font size="36">m</font><font size="52">ó </font></font><font color=#000000><font size="44">tuō </font></font><font color=#000000><font size="44">chē</font></font> <font size="50"><font color=#000000>scooter</font></font>

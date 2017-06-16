@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:04,000
+<font size="70"> <font color=#000000>公</font><font color=#178FD1>費</font>   </font><font color=#000000><font size="44">gōng </font></font><font color=#178FD1><font size="52">f</font><font size="44">è</font><font size="36">i</font></font> <font size="50"><font color=#000000>public</font></font>
