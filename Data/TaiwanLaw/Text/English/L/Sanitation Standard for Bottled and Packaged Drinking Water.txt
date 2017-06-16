@@ -1,0 +1,8 @@
+Article 1
+This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation. Article 2
+This standard applies to bottled and packaged drinking water which is suitable for consumption. Article 3
+The quality of the source water used in the production of packaged drinking water shall meet the requirement of「Quality Standard of Source Water for Drinking Water」. Article 4
+Maximum tolerance of heavy metals:┌──────┬───────────┐│Heavy metal │Maximum tolerance│├──────┼───────────┤│As │0.01 ppm│├──────┼───────────┤ │Pb │0.05 ppm│├──────┼───────────┤│Zn │ 5.0 ppm│├──────┼───────────┤│Cu │ 1.0 ppm│├──────┼───────────┤│Hg │0.001 ppm │├──────┼───────────┤│Cd │0.005 ppm │└──────┴───────────┘ Article 5
+Microbiological criteria (Only applied to bottled and packaged drinking water which is suitable for direct consumption):┌────────────┬──────────┐│Microorganism│Limit│├────────────┼──────────┤│Coliform bacteria │Negative│├────────────┼──────────┤│Fecal Streptococci│Negative│├────────────┼──────────┤│Pseudomonas aeruginosa│Negative│└────────────┴──────────┘ Article 6
+Maximum tolerance of bromate: 0.01ppm. Article 7
+This Standard shall be implemented from the date of promulgation. 

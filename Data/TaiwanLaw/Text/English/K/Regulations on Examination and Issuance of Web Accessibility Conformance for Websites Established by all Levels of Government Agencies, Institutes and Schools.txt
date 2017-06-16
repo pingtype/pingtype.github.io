@@ -1,0 +1,5 @@
+Article 1
+The regulations are promulgated pursuant to Paragraph 2, Article 52-2 of the People with Disabilities Rights Protection Act Article 2
+The information service website planned and established by all levels of government agencies (institutes) and their subsidiary agencies (institutions), and schools (hereinafter shortened as “agencies (institutes)”) should follow Accessible Web Development Guidelines (AWDG) stipulated and promulgated by the National Communications Commission (hereinafter shortened as “the Commission”). Article 3
+The dimension of the web accessibility conformance addressed in the regulations is 88 (width) x 31 (height) pixels. Article 4
+In terms of using the web accessibility conformance, agencies (institutes) shall not change its dimension, distort its shape nor add texts on it. The web accessibility conformance shall be defined, put up and linked in accordance with the Regulations of Using the Web Accessibility Conformance (as shown in attachment 1). Attachment 1：Regulations of Using the Web Accessibility Conformance.odt 

@@ -1,0 +1,4 @@
+Article 1
+These standards are determined pursuant to Article 11, Paragraph 1 of the Noise Control Act Article 2
+Testing of civil aircraft noise levels shall be performed in accordance with effective perceived noise (EPN), A-weighting maximum noise level, or sound exposure level (SEL) regulations in ISO-3891. The units employed are EPN dB, LAmax dB, and SEL dB, respectively. Article 3
+Noise control standards for subsonic jet aircraft for which a prototype airworthiness certificate application was made by October 5, 1977 are shown in the following table: Article 3.doc 
