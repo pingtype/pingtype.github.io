@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Dictionary lookup</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	</head>
+
+  <body>
+	<table id="textTable">
+		<tr>
+			<td>
+				Text output
+			</td>
+  			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="searchCharacters();">
+  				Search
+  			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="outputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+
+  </body>
+  
+  
+  <script>
+		var pinyinDefinitionsToneData;
+		var khopCharacters;
+
+		function loadPinyinDefinitionsTones(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						pinyinDefinitionsToneData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadPinyinDefinitionsTones
+		
+		function loadKhopCharacters(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						khopCharacters = xmlhttp.responseText;
+					    
+					    alert("loaded");
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadKhopCharacters
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		// searchCharacters - find missing definitions for KHOP characters
+		function searchCharacters()
+		{		
+			var outputText = "";			
+			var inputArray = khopCharacters.split("\n");
+			var numberLines = inputArray.length;
+
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = inputArray[currentLine];
+				
+				if (contains(pinyinDefinitionsToneData, thisLine) == false)
+				{
+					outputText = outputText + thisLine + "\n";
+				}
+								
+			} // end for every character
+
+			document.getElementById("outputTextArea").value = outputText;
+
+		} // end function searchCharacters
+
+
+		loadPinyinDefinitionsTones("PinyinDefinitionsTones.txt");
+		loadKhopCharacters("khopCharacters.txt");
+
+  </script>
+  
+</html>

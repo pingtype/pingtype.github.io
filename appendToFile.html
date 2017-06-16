@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Append To File</title>
+	<meta charset="utf-8" />
+  </head>
+  <body>
+	<table id="layout">
+		<tr>
+			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="appendToFile('hello.txt', 'hello world');">
+				Append to file
+			</td>
+		</tr>
+	</table>
+  </body>
+  
+  
+  <script>
+  
+		function appendToFileResponseHandler(request)
+		{
+		  if (request.readyState == 4)
+		  {
+			// The request is done
+			if (request.status == 200)
+			{
+			  // All is well	  
+			} else {
+				//alert("not 200");
+			}
+		  } else {
+		  		//alert(request.readyState);
+			}
+
+		  return;
+		}
+		  
+		function appendToFile(filename, thisString)
+		{
+			var request = new XMLHttpRequest();
+			request.open('POST', 'appendToFile.php', true);
+			request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+			request.onreadystatechange =
+	  		function(e) { return appendToFileResponseHandler.call(e, request); };
+
+			var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+			request.send(requestData);
+
+		} // end function appendToFile
+	
+  </script>
+  
+</html>

@@ -1,0 +1,1261 @@
+<!--
+	Pingtype English-Chinese
+	Peter Burkimsher 2017-05-18
+	
+	A literal translator for English. 
+	
+	+ Translate HTML
+	+ Translate text
+	+ IPA (KK yinbiao) from http://lingorado.com/ipa/
+	+ Phonics
+	+ Subtitles
+	+ Vocabulary
+	+ Print
+	+ CSS make Chinese larger
+	
+	To do:
+	- Pad Chicken Run
+	- Fix bugs in ordinary translate
+	- Add words from Bible
+	- Dictionary editing
+	- Documentation
+	- Go live
+	- Tell Joanne Wood about it
+	- File writing
+	- Change spacing for idioms
+	- Syllable spacing instead of phonics
+	
+	Data sources:
+	- Subtitles
+	- Bible
+	
+-->
+
+<!DOCTYPE html>
+<html manifest="pingtype.appcache">
+	<head>
+		<title>Pingtype English</title>
+		<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			.chinese_big {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 30px;
+			  display:inline;
+			}
+
+			.chinese_small {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+			.chinese_literal {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+    	</style>
+    </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		翻譯 軟體 <b>Pingtype Parallel Translator</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Subtitles
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Chinese
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output 文本 輸出
+  					</div>
+    			</td>
+    		</tr>
+    		<tr>
+    			<td>
+  					<textarea id="subtitlesTextArea" rows="10" cols="30" ></textarea>
+  				</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="chineseTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+  				
+    		</tr>
+    	</table>
+    	
+    	<table id="buttons">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate 翻譯
+						</div>
+					</div>
+				</td>
+				<td>
+					<div id="subtitlesButton" class="ButtonInner" onclick="subtitlesButtonClicked();">
+						Subtitles
+					</div>
+				</td>
+				<td>
+					<div id="printButton" class="ButtonInner advanced" onclick="printButtonClicked();" style="width:60px">
+						Print 印表
+					</div>
+				</td>
+			</tr>
+    	</table>
+    	
+		<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						Annotations 註釋
+					</div>
+				</td>
+				<td>
+					<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					<input type="checkbox" id="ipaCheckbox" checked="true"><span onclick="toggleCheckbox('ipaCheckbox');">IPA KK音標</span>
+					<input type="checkbox" id="phonicsCheckbox" checked="true"><span onclick="toggleCheckbox('phonicsCheckbox');">Phonics</span>
+					<input type="checkbox" id="bopomofoCheckbox" checked="true"><span onclick="toggleCheckbox('bopomofoCheckbox');">ㄅㄆㄇㄈ</span>
+					<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+					<input type="checkbox" id="chineseCheckbox" checked="true"><span onclick="toggleCheckbox('chineseCheckbox');">Chinese</span>
+				</td>
+				<td>
+					<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+				</td>
+				<td>
+					<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+				</td>
+			</tr>
+		</table>
+    	
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output 彩色 輸出
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+    	
+		<div id="debugDiv" class="advanced" style="">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug 調試</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+    	
+    </body>
+    
+    <script>
+    	
+		var combinedDictionaryData = "";
+
+		var lastDictionary = false;
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("saving " + savedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+		
+		function dictionariesLoaded()
+		{
+		
+		} // end function dictionariesLoaded
+    	
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+		
+		// isChinese - check if the character is in the unihan dictionary 
+		function isChinese(thisCharacter)
+		{
+			//debugLog("isChinese(" + thisCharacter + ")");
+			
+			// Pi-hahiroth
+			if (thisCharacter == "．")
+			{
+				return true;
+			}
+			
+			var charCode = thisCharacter.charCodeAt(0);
+		
+			if (charCode >= 13312)
+			{
+				if (charCode <= 64217)
+				{
+					return true;
+				}
+			}
+			
+			if (charCode >= 131072)
+			{
+				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			return false;
+			
+		} // end function isChinese
+		
+		function containsChineseString(thisString)
+		{
+			//debugLog("isChineseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsChinese = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isChinese(thisCharacter) == true)
+				{
+					stringIsChinese = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsChinese;
+		} // end function containsChineseString
+    	
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+    	
+		function cleanHtml(thisString)
+		{
+			//debugLog("cleanHtml(" + thisString + ")");
+			
+			var regex = /(<([^>]+)>)/ig;
+			
+			var cleanText = thisString.replace(regex, "");
+			
+			return cleanText;
+			
+		} // end function cleanHtml
+    	
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+    	
+    	function removePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", "");
+    		thisWord = replaceChars(thisWord, "' ", "");
+    		thisWord = replaceChars(thisWord, " ", "");
+
+    		thisWord = replaceChars(thisWord, "?", "");
+    		thisWord = replaceChars(thisWord, ",", "");
+    		thisWord = replaceChars(thisWord, "!", "");
+    		thisWord = replaceChars(thisWord, "\"", "");
+    		thisWord = replaceChars(thisWord, "(", "");
+    		thisWord = replaceChars(thisWord, ")", "");
+    		thisWord = replaceChars(thisWord, ".", "");
+    		
+    		return thisWord;
+    	} // end function removePunctuation
+
+    	function spacePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", " ");
+    		thisWord = replaceChars(thisWord, "' ", " ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ");
+    		thisWord = replaceChars(thisWord, ",", " ");
+    		thisWord = replaceChars(thisWord, "!", " ");
+    		thisWord = replaceChars(thisWord, "\"", " ");
+    		thisWord = replaceChars(thisWord, "(", " ");
+    		thisWord = replaceChars(thisWord, ")", " ");
+    		thisWord = replaceChars(thisWord, ".", " ");
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+
+    	
+    	function translateText(englishText, chineseText)
+    	{
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+			var addIpa = document.getElementById('ipaCheckbox').checked;
+			var addPhonics = document.getElementById('phonicsCheckbox').checked;
+			var addBopomofo = document.getElementById('bopomofoCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addChinese = document.getElementById('chineseCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+			
+			var englishArray = englishText.split("\n");
+			var chineseArray = chineseText.split("\n");
+			
+			var numberEnglishLines = englishArray.length;
+			var numberChineseLines = chineseArray.length;
+			
+			var englishHtml = "";
+			var ipaHtml = "";
+			var phonicsHtml = "";
+			var bopomofoHtml = "";
+			var literalHtml = "";
+			
+			var englishText = "";
+			var ipaText = "";
+			var phonicsText = "";
+			var bopomofoText = "";
+			var literalText = "";
+			
+			for (var currentLine = 0; currentLine < numberEnglishLines; currentLine++)
+			{
+				var englishLine = englishArray[currentLine];
+				var chineseLine = chineseArray[currentLine];
+				
+				var englishLineHtml = "";
+				var ipaLineHtml = "";
+				var phonicsLineHtml = "";
+				var bopomofoLineHtml = "";
+				var literalLineHtml = "";
+			
+				var englishLineText = "";
+				var ipaLineText = "";
+				var phonicsLineText = "";
+				var bopomofoLineText = "";
+				var literalLineText = "";
+				
+				var englishLineSpaced = spacePunctuation(englishLine);
+				
+				var thisLineWords = englishLineSpaced.split(" ");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWordOriginal = thisLineWords[currentLineWord];
+					
+					var thisWord = thisWordOriginal.toLowerCase();
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					if (contains(combinedDictionaryData, "\n" + thisWord + "	") == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisDefinition = "";
+						var thisIpa = "";
+						var thisPhonics = "";
+						var thisLiteral = "";
+						
+						thisIpa = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisPhonics = thisDictionaryLineArray[1];
+						}
+						
+						if (lineLength >= 2)
+						{
+							thisBopomofo = thisDictionaryLineArray[2];
+						}
+						
+						if (lineLength >= 3)
+						{
+							thisLiteral = thisDictionaryLineArray[3];
+						}
+						
+						thisLiteral = "<div class=\"chinese_small\">" + thisLiteral + "</div>";
+
+						englishLineHtml = englishLineHtml + "<td>" + thisWordOriginal + "</td>";
+						ipaLineHtml = ipaLineHtml + "<td>" + thisIpa + "</td>";
+						phonicsLineHtml = phonicsLineHtml + "<td>" + thisPhonics + "</td>";
+						bopomofoLineHtml = bopomofoLineHtml + "<td>" + thisBopomofo + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteral + "</td>";
+						
+						englishLineText = englishLineText + thisWordOriginal;
+						ipaLineText = ipaLineText + thisIpa;
+						phonicsLineText = phonicsLineText + thisPhonics;
+						bopomofoLineText = bopomofoLineText + thisBopomofo;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+						
+						englishLineHtml = englishLineHtml + "<td>" + thisWord + "</td>";
+						ipaLineHtml = ipaLineHtml + "<td>" + thisWord + "</td>";
+						phonicsLineHtml = phonicsLineHtml + "<td>" + thisWord + "</td>";
+						bopomofoLineHtml = bopomofoLineHtml + "<td>" + thisWord + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWord + "</td>";
+						
+						englishLineText = englishLineText + thisWord;
+						ipaLineText = ipaLineText + thisWord;
+						phonicsLineText = phonicsLineText + thisWord;
+						bopomofoLineText = bopomofoLineText + thisWord;
+						literalLineText = literalLineText + thisWord;
+						
+					} // end if the dictionary contains the word
+					
+					englishLineText = englishLineText + " ";
+					ipaLineText = ipaLineText + " ";
+					phonicsLineText = phonicsLineText + " ";
+					bopomofoLineText = bopomofoLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr>" + englishLineHtml + "</tr>";
+				}
+				
+				if (addIpa == true)
+				{
+					outputHtml = outputHtml + "<tr>" + ipaLineHtml + "</tr>";
+				}
+				
+				if (addPhonics == true)
+				{
+					outputHtml = outputHtml + "<tr>" + phonicsLineHtml + "</tr>";
+				}
+				
+				if (addBopomofo == true)
+				{
+					outputHtml = outputHtml + "<tr>" + bopomofoLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr>" + literalLineHtml + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addChinese == true)
+				{
+					outputHtml = outputHtml + "<div class=\"chinese_literal\">" + chineseLine + "</div>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLineText + "\n";
+				}
+				
+				if (addIpa == true)
+				{
+					outputText = outputText + ipaLineText + "\n";
+				}
+				
+				if (addPhonics == true)
+				{
+					outputText = outputText + phonicsLineText + "\n";
+				}
+				
+				if (addBopomofo == true)
+				{
+					outputText = outputText + bopomofoLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addChinese == true)
+				{
+					outputText = outputText + chineseLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var englishText = document.getElementById("englishTextArea").value;
+    		var chineseText = document.getElementById("chineseTextArea").value;
+    		
+			var translationOutput = translateText(englishText, chineseText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function listOffset(thisArray, thisString)
+		{
+			//debugLog("listOffset(" + thisString + ")");
+			//debugLog("listOffset(" + thisArray.join("	") + "," + thisString + ")");
+			
+			thisString = " " + thisString + " ";
+			
+			thisString = thisString.toLowerCase();
+			
+			var foundOffset;
+			
+			var arrayLength = thisArray.length;
+			
+			for (var currentItem = 0; currentItem < arrayLength; currentItem++)
+			{
+				var thisItem = " " + thisArray[currentItem] + " ";
+				thisItem = thisItem.toLowerCase();
+				thisItem = spacePunctuation(thisItem);
+
+				if (contains(thisItem, thisString) == true)
+				{
+					foundOffset = currentItem;
+					break;
+				} // end
+				
+			} // end for every item in the array
+			
+			
+			//debugLog(foundOffset);
+			
+			return foundOffset;
+			
+		} // end function listOffset
+    	
+		function countWords(inputText)
+		{
+			//debugLog("countWords");
+		
+  			// Split after verse numbers
+  			/*
+  			inputText = inputText.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+  			inputText = replaceChars(inputText, "(", " ( ");
+  			inputText = replaceChars(inputText, ")", " ) ");
+  			inputText = replaceChars(inputText, ".", " . ");
+  			inputText = inputText.replace(/:/g, ' ');
+  			inputText = inputText.replace(/,/g, ' , ');
+  			inputText = inputText.replace(/  /g, ' ');
+  			*/
+  			
+  			inputText = replaceChars(inputText, "\n", " ");
+  			
+  			var inputWords = inputText.split(" ");
+  			
+  			var numberWords = inputWords.length;
+  			
+  			var uniqueWords = [];
+  			var uniqueWordsCounts = [];
+  			
+  			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+  			{
+  				var thisWord = inputWords[currentWord];
+  				
+    			thisWord = removePunctuation(thisWord);
+    			
+    			if (containsEnglishString(thisWord) == true)
+    			{
+    			
+  					var thisWordIndex = uniqueWords.indexOf(thisWord);
+  				
+  					if (thisWordIndex != -1)
+  					{
+  						var thisCount = uniqueWordsCounts[thisWordIndex];
+  						thisCount = thisCount + 1;
+  						uniqueWordsCounts[thisWordIndex] = thisCount;
+  					
+	  				} else {
+  						uniqueWords.push(thisWord);
+  						uniqueWordsCounts.push(1);
+  					} // end if the word is unique
+  				} // end if this is a word
+  				
+  			} // end for every word
+  			
+  			var numberUniqueWords = uniqueWords.length;
+  			
+  			var wordsArray = [];
+  			
+  			for (var currentWord = 0; currentWord < numberUniqueWords; currentWord++)
+  			{
+  				var thisWord = uniqueWords[currentWord];
+  				var thisWordCount = uniqueWordsCounts[currentWord];
+  				
+  				var outputLine = thisWordCount + " " + thisWord;
+  				
+  				if (thisWord != "")
+  				{
+  					wordsArray.push(outputLine);
+  				}
+  				
+  			} // end for every unique word
+  			
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			var outputText = outputArray.join("\n");
+			
+			return outputText;
+					
+		} // end function countWords
+
+		function getVocabulary(thisText)
+		{
+			var thisTextSpaced = spacePunctuation(thisText);
+			
+			//debugLog("getVocabulary");
+			var wordFrequencies = countWords(thisTextSpaced);
+			
+			var wordFrequenciesArray = wordFrequencies.split("\n");
+			
+			var numberUniqueWords = wordFrequenciesArray.length;
+			
+			var vocabularyHtml = "";
+			var vocabularyText = "";
+			
+			for (var currentLine = 0; currentLine < numberUniqueWords; currentLine++)
+			{
+				var thisFrequencyWord = wordFrequenciesArray[currentLine];
+			
+				var thisFrequency = textBetween(thisFrequencyWord, "start", " ");
+				var thisWord = textBetween(thisFrequencyWord, " ", "end");
+								
+				var translationOutput = translateText(thisWord, "");
+				
+				var translatedHtml = translationOutput[0];
+				var translatedText = translationOutput[1];
+				
+				var translatedTextArray = translatedText.split("\n");
+				var translatedTextEnglish = translatedTextArray[0];
+				var translatedTextIpa = translatedTextArray[1];
+				var translatedTextPhonics = translatedTextArray[2];
+				var translatedTextBopomofo = translatedTextArray[3];
+				var translatedTextLiteral = translatedTextArray[3];
+				
+				vocabularyText = vocabularyText + thisFrequency + "	" + thisWord + "	" + translatedTextIpa + "	" + translatedTextPhonics + "	" + translatedTextBopomofo + "	" + translatedTextLiteral + "\n";
+				
+				translatedHtml = replaceChars(translatedHtml, "<p>", "");
+				translatedHtml = replaceChars(translatedHtml, "</p>", "");
+				translatedHtml = replaceChars(translatedHtml, "<table>", "");
+				translatedHtml = replaceChars(translatedHtml, "</table>", "");
+				
+				translatedHtml = replaceChars(translatedHtml, "<tr>", "");
+				var translatedHtmlArray = translatedHtml.split("</tr>");
+				var translatedHtmlEnglish = translatedHtmlArray[0];
+				var translatedHtmlIpa = translatedHtmlArray[1];
+				var translatedHtmlPhonics = translatedHtmlArray[2];
+				var translatedHtmlBopomofo = translatedHtmlArray[3];
+				var translatedHtmlLiteral = translatedHtmlArray[4];
+				
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<td>", " ");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</td>", " ");
+				
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "<td>", "");
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "</td>", "");
+				
+				translatedHtmlLiteral = "<div class=\"chinese_big\">" + translatedHtmlLiteral + "</div>";
+				
+				vocabularyHtml = vocabularyHtml + "<tr><td>" + thisFrequency + "</td><td>" + translatedHtmlEnglish + "</td><td>" + translatedHtmlIpa + "</td><td>" + translatedHtmlPhonics + "</td><td>" + translatedHtmlBopomofo + "</td><td>" + translatedHtmlLiteral + "</td>" + "</tr>\n";
+								
+			} // end for every word
+			
+			vocabularyHtml = "<table>" + vocabularyHtml + "</table>";
+			
+			return [vocabularyHtml, vocabularyText];
+		
+		} // end function getVocabulary
+    	
+    	function subtitlesButtonClicked()
+    	{
+			var addPageBreaks = document.getElementById('pageBreaksCheckbox').checked;
+
+			if (addPageBreaks == true)
+			{
+				var pageBreaksLine = pageBreaksTextArea.value;
+			} // end if addPageBreaks
+			
+			var subtitlesText = document.getElementById("subtitlesTextArea").value;
+			
+			var subtitlesLines = subtitlesText.split("\n");
+			
+			var numberLines = subtitlesLines.length;
+			
+			// Combine subtitles into correctly alternating lines
+			var numbersText = "";
+			var timesText = "";
+			var englishText = "";
+			var chineseText = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = subtitlesLines[currentLine];
+				
+				var lineLength = thisLine.length;
+				
+				if (thisLine == "")
+				{
+					numbersText = numbersText + "\n";
+					timesText = timesText + "\n";
+					englishText = englishText + "\n";
+					chineseText = chineseText + "\n";
+				} else {
+					if (isNumberString(thisLine) == true)
+					{
+						numbersText = numbersText + thisLine;
+					} else {
+						// If this line is a time
+						if (contains(thisLine, " --> ") == true)
+						{
+							timesText = timesText + thisLine;
+						} else {
+							var cleanText = cleanHtml(thisLine);
+							
+							if (containsChineseString(cleanText) == true)
+							{
+								chineseText = chineseText + cleanText + " ";
+							} else {
+								// extra spaces in case we concatenate two lines
+								englishText = englishText + cleanText + " ";
+							}
+						} // end if time
+					} // end if number string
+				} // end if blank line
+
+			} // end for every line in the subtitles
+			
+			chineseText = replaceChars(chineseText, " \n", "\n");
+			englishText = replaceChars(englishText, " \n", "\n");
+			
+			var numbersTextArray = numbersText.split("\n");
+			var timesTextArray = timesText.split("\n");
+			var englishTextArray = englishText.split("\n");
+			var chineseTextArray = chineseText.split("\n");
+			
+			numberLines = numbersTextArray.length;
+			
+			var subtitlesOutput = "";
+			
+			var englishHtmlArray = [];
+			
+			var ipaTextArray = [];
+			var ipaHtmlArray = [];
+
+			var phonicsTextArray = [];
+			var phonicsHtmlArray = [];
+
+			var bopomofoTextArray = [];
+			var bopomofoHtmlArray = [];
+			
+			var literalHtmlArray = [];
+			var literalTextArray = [];
+			
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var numbersTextLine = numbersTextArray[currentLine];
+				var timesTextLine = timesTextArray[currentLine];
+				var englishTextLine = englishTextArray[currentLine];				
+				var chineseTextLine = chineseTextArray[currentLine];
+				
+				var translationOutput = translateText(englishTextLine, chineseTextLine);
+				
+				var translatedHtml = translationOutput[0];
+				var translatedText = translationOutput[1];
+				
+				var translatedTextArray = translatedText.split("\n");
+				var translatedTextEnglish = translatedTextArray[0];
+				var translatedTextIpa = translatedTextArray[1];
+				var translatedTextPhonics = translatedTextArray[2];
+				var translatedTextBopomofo = translatedTextArray[3];
+				var translatedTextLiteral = translatedTextArray[4];
+				
+				ipaTextArray.push(translatedTextIpa);
+				phonicsTextArray.push(translatedTextPhonics);
+				bopomofoTextArray.push(translatedTextBopomofo);
+				
+				/*
+				translatedTextChinese = "<font size=\"17\">" + translatedTextChinese + "</font>";
+				
+				subtitlesOutput = subtitlesOutput + "\n" + numbersTextLine + "\n" + timesTextLine + "\n" + translatedTextChinese + "\n"  + translatedTextPinyin + "\n" + translatedTextLiteral + "\n" + translatedTextEnglish + "\n" + "\n";
+				*/
+				
+				translatedHtml = replaceChars(translatedHtml, "<p>", "");
+				translatedHtml = replaceChars(translatedHtml, "</p>", "");
+				translatedHtml = replaceChars(translatedHtml, "<table>", "");
+				translatedHtml = replaceChars(translatedHtml, "</table>", "");
+
+				//translatedHtml = replaceChars(translatedHtml, "</td><td>", " ");
+				//translatedHtml = replaceChars(translatedHtml, "<td>", "");
+				//translatedHtml = replaceChars(translatedHtml, "</td>", "");
+				
+				var translatedHtmlArray = translatedHtml.split("</tr><tr>");
+				var translatedHtmlEnglish = translatedHtmlArray[0];
+				var translatedHtmlIpa = translatedHtmlArray[1];
+				var translatedHtmlPhonics = translatedHtmlArray[2];
+				var translatedHtmlBopomofo = translatedHtmlArray[3];
+				var translatedHtmlLiteral = translatedHtmlArray[4];
+
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</tr>", "");
+
+				englishHtmlArray.push(translatedHtmlEnglish);
+
+				translatedHtmlIpa = replaceChars(translatedHtmlIpa, "<tr>", "");
+				translatedHtmlIpa = replaceChars(translatedHtmlIpa, "</tr>", "");
+
+				ipaHtmlArray.push(translatedHtmlIpa);
+
+				translatedHtmlPhonics = replaceChars(translatedHtmlPhonics, "<tr>", "");
+				translatedHtmlPhonics = replaceChars(translatedHtmlPhonics, "</tr>", "");
+
+				phonicsHtmlArray.push(translatedHtmlPhonics);
+
+				translatedHtmlBopomofo = replaceChars(translatedHtmlBopomofo, "<tr>", "");
+				translatedHtmlBopomofo = replaceChars(translatedHtmlBopomofo, "</tr>", "");
+
+				bopomofoHtmlArray.push(translatedHtmlBopomofo);
+				
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "<tr>", "");
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "</tr>", "");
+				translatedHtmlLiteral = textBetween(translatedHtmlLiteral, "start", "<div class=\"chinese_literal\">");
+
+				literalHtmlArray.push(translatedHtmlLiteral);
+				
+				literalTextArray.push(translatedTextLiteral);
+				
+				//translatedTextLiteral = "<font size=\"18\">" + translatedTextLiteral + "</font>";
+				
+				//translatedTextChinese = "<font size=\"18\">" + translatedTextChinese + "</font>";
+				
+				var thisSubtitle = numbersTextLine + "\n" + timesTextLine + "\n" + translatedHtmlEnglish + "\n"  + translatedHtmlIpa + "\n"  + translatedHtmlPhonics + "\n"  + translatedHtmlBopomofo + "\n" + translatedHtmlLiteral + "\n" + chineseTextLine;
+				
+				subtitlesOutput = subtitlesOutput + "\n" + thisSubtitle + "\n" + "\n";
+				
+			} // end for every line
+			
+			document.getElementById("englishTextArea").value = englishText;
+			document.getElementById("chineseTextArea").value = chineseText;
+			document.getElementById("outputTextArea").value = subtitlesOutput;
+			
+			
+			var vocabularyArray = getVocabulary(englishText);
+			
+			var vocabularyHtml = vocabularyArray[0];
+			var vocabularyText = vocabularyArray[1];
+			
+			// Add examples to vocabulary
+			var vocabularyExamplesHtml = "";
+			var vocabularyExamplesText = "";
+			
+			vocabularyHtml = replaceChars(vocabularyHtml, "<table>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "\n", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "<tr>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "</table>", "");
+			
+			var vocabularyHtmlArray = vocabularyHtml.split("</tr>");
+			
+			var vocabularyTextArray = vocabularyText.split("\n");
+			var numberLines = vocabularyTextArray.length;
+			
+			var addIpa = true;
+			var addPhonics = true;
+			var addBopomofo = true;
+			var addLiteral = true;
+			var addChinese = true;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLineHtml = vocabularyHtmlArray[currentLine];
+				var thisLineText = vocabularyTextArray[currentLine];
+				
+				var thisWord = textBetween(thisLineText, "	", "	");
+				
+				if (thisWord != "")
+				{
+					var wordSubtitleOffset = listOffset(englishTextArray, thisWord);
+								
+					var thisWordTime = timesTextArray[wordSubtitleOffset];
+					var thisWordSubtitleHtml = englishHtmlArray[wordSubtitleOffset];
+					var thisWordSubtitleText = englishTextArray[wordSubtitleOffset];
+					var thisWordExampleIpaHtml = ipaHtmlArray[wordSubtitleOffset];
+					var thisWordExampleIpaText = ipaTextArray[wordSubtitleOffset];
+					var thisWordExamplePhonicsHtml = phonicsHtmlArray[wordSubtitleOffset];
+					var thisWordExamplePhonicsText = phonicsTextArray[wordSubtitleOffset];
+					var thisWordExampleBopomofoHtml = bopomofoHtmlArray[wordSubtitleOffset];
+					var thisWordExampleBopomofoText = bopomofoTextArray[wordSubtitleOffset];
+					var thisWordExampleLiteralHtml = literalHtmlArray[wordSubtitleOffset];
+					var thisWordExampleLiteralText = literalTextArray[wordSubtitleOffset];
+					var thisWordExampleChinese = chineseTextArray[wordSubtitleOffset];
+				
+					thisWordTime = textBetween(thisWordTime, "start", " -->");
+					thisWordTime = textBetween(thisWordTime, "start", ",");
+				
+					var thisLineExampleHtml = thisLineHtml + "<td>" + thisWordTime + "</td><td>" + "<table><tr><td>" + "<table><tr>" + thisWordSubtitleHtml + "</tr>";
+					
+					if (addIpa == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleIpaHtml + "</tr>";
+					}
+
+					if (addPhonics == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExamplePhonicsHtml + "</tr>";
+					}
+
+					if (addBopomofo == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleBopomofoHtml + "</tr>";
+					}
+
+					if (addLiteral == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleLiteralHtml + "</tr>";
+					}
+					
+					thisWordExampleChinese = "<div class=\"chinese_small\">" + thisWordExampleChinese + "</div>";
+					thisLineExampleHtml = thisLineExampleHtml + "</table></td></tr><tr><td>" + thisWordExampleChinese + "</td></tr></table>" + "</td>";
+						
+					if (addChinese == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleChinese;
+					}
+						
+					var thisLineExampleText = thisLineText + "	" + thisWordTime + "	" + thisWordSubtitleText;
+				
+					if (addIpa == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleIpaText;
+					}
+					
+					if (addPhonics == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExamplePhonicsText;
+					}
+
+					if (addBopomofo == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleBopomofoText;
+					}
+					
+					if (addLiteral == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleLiteralText;
+					}
+
+					if (addChinese == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleChinese;
+					}
+
+				
+					vocabularyExamplesHtml = vocabularyExamplesHtml + "<tr>" + thisLineExampleHtml + "</tr>";
+					vocabularyExamplesText = vocabularyExamplesText + thisLineExampleText + "\n";
+					
+					if (addPageBreaks == true)
+					{
+						if ((currentLine % pageBreaksLine) == (pageBreaksLine - 1))
+						{
+							vocabularyExamplesHtml = vocabularyExamplesHtml + "</table><p></p><table>";
+						}
+					} // end if addPageBreaks
+					
+				} // end if the word is not blank
+			} // end for every line in the vocabulary
+			
+			vocabularyExamplesHtml = "<table>" + vocabularyExamplesHtml + "</table>";
+			
+			//debugLog(vocabularyExamplesHtml);
+			
+			document.getElementById("outputHtml").innerHTML = vocabularyExamplesHtml;
+			document.getElementById("outputTextArea").value = vocabularyExamplesText;
+			
+    	} // end function subtitlesButtonClicked
+    	
+		function b64EncodeUnicode(str) 
+		{
+			//debugLog("b64EncodeUnicode(" + str + ")");
+
+	    	return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, 
+	    		function(match, p1) 
+	    		{
+	        		return String.fromCharCode('0x' + p1);
+    			}));
+		} // end function b64EncodeUnicode
+    	
+		function printButtonClicked()
+		{
+			//debugLog ("printButtonClicked");
+
+			var thisString = document.getElementById("outputHtml").innerHTML;
+			
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>body {font-family: Tahoma, Geneva, sans-serif;}.DefaultButtonOuter{border: 2px solid black ;border-radius: 8px;width: 96px;height: 26px;text-align: center;/*background-color: #99999a;*/background: #99999a; /* For browsers that do not support gradients *//*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 *//*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 *//*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */}.ButtonInner{border: 1px solid black ;border-radius: 5px;background-color: #dcdbde;width: 88px;height: 18px;text-align: center;margin: 3px;line-height: 18px;font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;font-size: 11px;color: #000000;}.ButtonInner:active{background:#666666;color: #ffffff;}.chinese_big {  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;  color:#000000;  font-size: 30px;  display:inline;}.chinese_small {  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;  color:#000000;  font-size: 22px;  display:inline;}.chinese_literal {  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;  color:#000000;  font-size: 22px;  display:inline;}    @media print {   table {page-break-inside: avoid;}}</style>\n\n  </head>\n  <body>\n	";
+			
+			var htmlFooters = "\n  </body>\n</html>\n";
+			
+			var thisHtml = htmlHeaders + thisString + htmlFooters;
+			
+			var thisHtmlBase64 = b64EncodeUnicode(thisHtml);
+			
+			window.open("data:text/html;charset=UTF-8;base64," + thisHtmlBase64,'_blank');
+			
+		} // end function printButtonClicked
+    	
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+    	
+		loadDictionary("chickenRunEnglishIpaPhonicsBopomofoChinese.txt");
+    	
+    </script>
+    
+</html>

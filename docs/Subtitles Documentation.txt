@@ -1,0 +1,74 @@
+How to make subtitles
+2017-06-07
+
+1. Download movie
+2. Download Chinese subtitles
+3. Download English subtitles
+4. Sync English and Chinese (if not cht&eng)
+5. [5 min] Extend subtitles (extendSubtitles.html)
+	Data from Data/DoubleSubtitles/Taiwanese/movie/moviecht&eng.srt
+	Alternating lines split to get times (alternatingLines.html)
+	Some manual fixing if Alternating Lines doesn't match
+	extendSubtitles to change times
+	Alternating lines alternate use new times (alternatingLines.html)
+6. [1 min] Add Chinese to index (folderToIndex.sh)
+7. [1 min] Find words in movie (referencesForWords.html)
+	Edit code to select input index file
+	Both numberWordsInSources and Output are outputs
+8. [1 min] Find times for words (subtitleWordsToTimes.html)
+	Input: Words summary from Data/References for Words/moviesTocfl.txt, made by referencesForWords
+	Input: Subtitles srt from extendSubtitles
+	Click Times button
+	Output: Output Times for Words, Output Words for Times, Output Times Commands, Output Words Commands
+9. [1 min] Find new words (findNewWords.html)
+10. Add new words to dictionary (PinyinDefinitions to Dictionary.scpt)
+11. Proofread whole movie (pingtype -> translate)
+12. [5 min] Generate subtitles (pingtype -> advanced -> regional, tocfl, load word lists, srt text into simplified textbox, subtitles button. 
+	Chinese spaced is wordHeadings, simplified spaced is pingtype subtitles, text output is wordHeadings subtitles)
+13. [30 min] Pad: /Users/peter/ApplicationSupport/ffmpeg/ffmpeg -i "movie.mp4" -vf "pad=width=1280:height=644:x=0:y=0:color=white" -threads 9 -preset ultrafast -strict -2 "moviePad1.mp4"
+14. [25 min] Burn subtitles into movie
+	/Users/peter/ApplicationSupport/ffmpeg/ffmpeg -i "moviePad9.mp4" -vf subtitles="moviecht&engExtendedPingtype.srt:force_style='FontName=PingFangTC-Regular,Outline=0'" -threads 9 -preset ultrafast "moviePad9SubPingfang.mp4"
+15. [24 min] Make clips: clipsLengths.sh from "Output Times Commands" from subtitleWordsToTimes.html
+16. [9 min] Make clip PNGs: lastFrameFolder.sh
+	Move PNG files to another folder
+	Check if the padding is correct, if not then repeat from step 13. Pad
+17. [3 min] Make word clips: clipsToWords1.sh to clipsToWords6.sh from "Output Words Commands" from subtitleWordsToTimes.html
+18. [4 min] Convert word headings subtitles to single files (Word Heading Subtitle Single Files.scpt)
+19. [1 min] Make pinyin audio headings (wordHeadings -> lines beginning with cat -> pinyinAudioWords.sh)
+	Go back and fix the dictionary when words don't exist, repeat from step 12. generate subtitles
+20. [1 min] Make base video with same dimensions for word headings
+	ffmpeg -i "last5SecondsPadCropPad.mp4" -vf "pad=width=1280:height=1014:x=0:y=0:color=white" -threads 5 -preset ultrafast -strict -2 "last5SecondsPad7.mp4"
+	ffmpeg -i "last5SecondsPad7.mp4" -ss 0 -t 4 -acodec copy -vcodec copy "last4SecondsPad7.mp4"
+21. Make word headings videos (wordHeadings -> lines beginning with ffmpeg -> wordSrtHeadingsToClips.sh)
+22. [44 min to 5 hours] Combine word clips and word headings: wordHeadingsAndClips.sh or words1.sh, words2.sh, ... words6.sh
+	The number of words you get out is different. Maybe this is because of word spacing (刮 = shave is not the same as 刮目相看 = admiration)
+	When splitting the script into 6 parallel, don't do a linear split of e.g. 186 lines. Do 10 lines in script 1, 20 lines in script 2, 40 in script 3. (long videos are slower to combine)
+23. Use TOCFL Word Levels.scpt to sort by level. 
+	Sometimes you'll get missing words. This is because of word spacing errors. Manually edit the Pingtype index.html function examplesButtonClicked to add the data you need. 
+	Then save the examples HTML, and add the extra lines to the bottom of the examples file e.g. youAreTheAppleOfMyEyeTocfl0-6.html. 
+	If you want to change the dictionary and apply these changes over the whole movie, you can restart from step 11. 
+24. Copy words to level folders using wordsToLevelFolders.sh
+25. Rename to add level number and data source name
+26. Upload to Google Drive. There is a maximum upload limit of 50 per day to YouTube. 
+27. Put direct links to each video into the index HTML. 
+28. Upload HTML index file to website. 
+29. Marketing
+
+Runtime:
+5 + 1 + 1 + 1 + 1 + 5 + 30 + 25 + 24 + 9 + 3 + 4 + 1 + 1 + 44 + 10
+= 165 minutes
+
+Slow, manual parts:
+1. Download movie
+2. Download Chinese subtitles
+3. Download English subtitles
+4. Sync English and Chinese (if not cht&eng)
+5. [5 min] Extend subtitles (extendSubtitles.html) -> Some manual fixing if Alternating Lines doesn't match
+10. Add new words to dictionary (PinyinDefinitions to Dictionary.scpt)
+11. Proofread whole movie (pingtype -> translate)
+16. [9 min] Make clip PNGs: lastFrameFolder.sh -> Check if the padding is correct, if not then repeat from step 13. Pad
+22. Combine word clips and word headings - would be much faster if concat worked, but frame rate issues are a real problem. 
+26. Upload to Google Drive. There is a maximum upload limit of 50 per day to YouTube. 
+27. Put direct links to each video into the index HTML. 
+28. Upload HTML index file to website. 
+29. Marketing

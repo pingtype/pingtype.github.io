@@ -1,0 +1,1272 @@
+<!--
+	Decompose
+	Recursively breaks a Chinese character into its parts
+	Peter Burkimsher 2016-12-05
+	
+	Data from: https://cjkdecomp.codeplex.com
+	
+	To do:
+  	- Word re-translate
+  	- Search for words with that character inside
+  	- Decomposing numbers not just characters
+  	- Rounded rectangle buttons
+  	- Tone colours
+	- Pinyin qwerty keyboard, word suggestion
+	- Local dictionary updates
+    - Upload dictionary changes to server
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Decompose</title>
+	
+	
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="icon.png" />
+</head>
+<body>
+
+
+	<table style="font-size: 32px;">
+
+		
+
+		<tr>
+			<td>
+				<table>
+					<tr>
+						<td>	
+							<textarea id="thisPhrase" name="thisPhrase" rows="3" cols="30" style="font-size: 16px;">
+</textarea>
+						</td>
+					</tr>
+				</table>
+				<table>
+					<tr>
+						
+						<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;"
+			onclick="addToPhrase();" >
+							<font style="font-size: 16px;">Insert</font>
+						</td>
+						<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;"
+			onclick="clearPhrase();" >
+							<font style="font-size: 16px;">Clear</font>
+						</td>
+						<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;"
+			onclick="wordSpace();" >
+							<font style="font-size: 16px;">Space</font>
+						</td>
+						<td>
+						</td>
+						<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="saveToLocalStorage();" >
+						<font style="font-size: 16px;">
+						M+
+						</font>
+						</td>
+						<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="loadFromLocalStorage();" >
+						<font style="font-size: 16px;">
+						MR
+						</font>
+						</td>
+					</tr>
+				</table>
+    		</td>
+    	</tr>
+
+		<tr>
+			<td>
+				<table>
+					<tr>
+						<td>
+							<div id="leftCharacter"></div>
+						</td>
+						<td>
+							<div id="rightCharacter"></div>
+						</td>
+					</tr>
+				</table>
+			</td>
+    	</tr>
+
+
+		<tr>
+			<table>
+				<tr>
+					<td>
+				<div id="keyboard" style="width:100px;height:5px;">
+					  <table>
+						  <tr>
+							   <td><div onclick="typeCharacter('一')">一</div></td>
+							   <td><div onclick="typeCharacter('乙')">乙</div></td>
+							   <td><div onclick="typeCharacter('丁')">丁</div></td>
+							   <td><div onclick="typeCharacter('七')">七</div></td>
+							   <td><div onclick="typeCharacter('乂')">乂</div></td>
+							   <td><div onclick="typeCharacter('乜')">乜</div></td>
+							   <td><div onclick="typeCharacter('九')">九</div></td>
+							   <td><div onclick="typeCharacter('了')">了</div></td>
+							   <td><div onclick="typeCharacter('二')">二</div></td>
+							   <td><div onclick="typeCharacter('人')">人</div></td>
+							   <td><div onclick="typeCharacter('八')">八</div></td>
+							   <td><div onclick="typeCharacter('刀')">刀</div></td>
+							   <td><div onclick="typeCharacter('刁')">刁</div></td>
+							   <td><div onclick="typeCharacter('力')">力</div></td>
+							   <td><div onclick="typeCharacter('匕')">匕</div></td>
+							   <td><div onclick="typeCharacter('十')">十</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('又')">又</div></td>
+							   <td><div onclick="typeCharacter('上')">上</div></td>
+							   <td><div onclick="typeCharacter('下')">下</div></td>
+							   <td><div onclick="typeCharacter('久')">久</div></td>
+							   <td><div onclick="typeCharacter('乞')">乞</div></td>
+							   <td><div onclick="typeCharacter('也')">也</div></td>
+							   <td><div onclick="typeCharacter('兀')">兀</div></td>
+							   <td><div onclick="typeCharacter('凢')">凢</div></td>
+							   <td><div onclick="typeCharacter('勺')">勺</div></td>
+							   <td><div onclick="typeCharacter('及')">及</div></td>
+							   <td><div onclick="typeCharacter('口')">口</div></td>
+							   <td><div onclick="typeCharacter('女')">女</div></td>
+							   <td><div onclick="typeCharacter('子')">子</div></td>
+							   <td><div onclick="typeCharacter('孓')">孓</div></td>
+							   <td><div onclick="typeCharacter('山')">山</div></td>
+							   <td><div onclick="typeCharacter('川')">川</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('工')">工</div></td>
+							   <td><div onclick="typeCharacter('己')">己</div></td>
+							   <td><div onclick="typeCharacter('巳')">巳</div></td>
+							   <td><div onclick="typeCharacter('巾')">巾</div></td>
+							   <td><div onclick="typeCharacter('幺')">幺</div></td>
+							   <td><div onclick="typeCharacter('弋')">弋</div></td>
+							   <td><div onclick="typeCharacter('弓')">弓</div></td>
+							   <td><div onclick="typeCharacter('彳')">彳</div></td>
+							   <td><div onclick="typeCharacter('不')">不</div></td>
+							   <td><div onclick="typeCharacter('丏')">丏</div></td>
+							   <td><div onclick="typeCharacter('丹')">丹</div></td>
+							   <td><div onclick="typeCharacter('予')">予</div></td>
+							   <td><div onclick="typeCharacter('互')">互</div></td>
+							   <td><div onclick="typeCharacter('亢')">亢</div></td>
+							   <td><div onclick="typeCharacter('仉')">仉</div></td>
+							   <td><div onclick="typeCharacter('仍')">仍</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('允')">允</div></td>
+							   <td><div onclick="typeCharacter('勾')">勾</div></td>
+							   <td><div onclick="typeCharacter('勿')">勿</div></td>
+							   <td><div onclick="typeCharacter('匀')">匀</div></td>
+							   <td><div onclick="typeCharacter('匹')">匹</div></td>
+							   <td><div onclick="typeCharacter('升')">升</div></td>
+							   <td><div onclick="typeCharacter('卞')">卞</div></td>
+							   <td><div onclick="typeCharacter('卬')">卬</div></td>
+							   <td><div onclick="typeCharacter('尹')">尹</div></td>
+							   <td><div onclick="typeCharacter('尺')">尺</div></td>
+							   <td><div onclick="typeCharacter('巴')">巴</div></td>
+							   <td><div onclick="typeCharacter('廿')">廿</div></td>
+							   <td><div onclick="typeCharacter('心')">心</div></td>
+							   <td><div onclick="typeCharacter('戈')">戈</div></td>
+							   <td><div onclick="typeCharacter('户')">户</div></td>
+							   <td><div onclick="typeCharacter('方')">方</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('止')">止</div></td>
+							   <td><div onclick="typeCharacter('氏')">氏</div></td>
+							   <td><div onclick="typeCharacter('水')">水</div></td>
+							   <td><div onclick="typeCharacter('火')">火</div></td>
+							   <td><div onclick="typeCharacter('爪')">爪</div></td>
+							   <td><div onclick="typeCharacter('片')">片</div></td>
+							   <td><div onclick="typeCharacter('牙')">牙</div></td>
+							   <td><div onclick="typeCharacter('瓦')">瓦</div></td>
+							   <td><div onclick="typeCharacter('𠙶')">𠙶</div></td>
+							   <td><div onclick="typeCharacter('仫')">仫</div></td>
+							   <td><div onclick="typeCharacter('冊')">冊</div></td>
+							   <td><div onclick="typeCharacter('凸')">凸</div></td>
+							   <td><div onclick="typeCharacter('凹')">凹</div></td>
+							   <td><div onclick="typeCharacter('匄')">匄</div></td>
+							   <td><div onclick="typeCharacter('印')">印</div></td>
+							   <td><div onclick="typeCharacter('囙')">囙</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('四')">四</div></td>
+							   <td><div onclick="typeCharacter('宂')">宂</div></td>
+							   <td><div onclick="typeCharacter('廵')">廵</div></td>
+							   <td><div onclick="typeCharacter('弁')">弁</div></td>
+							   <td><div onclick="typeCharacter('斥')">斥</div></td>
+							   <td><div onclick="typeCharacter('母')">母</div></td>
+							   <td><div onclick="typeCharacter('氕')">氕</div></td>
+							   <td><div onclick="typeCharacter('永')">永</div></td>
+							   <td><div onclick="typeCharacter('氾')">氾</div></td>
+							   <td><div onclick="typeCharacter('犯')">犯</div></td>
+							   <td><div onclick="typeCharacter('瓜')">瓜</div></td>
+							   <td><div onclick="typeCharacter('皿')">皿</div></td>
+							   <td><div onclick="typeCharacter('矛')">矛</div></td>
+							   <td><div onclick="typeCharacter('艿')">艿</div></td>
+							   <td><div onclick="typeCharacter('邙')">邙</div></td>
+							   <td><div onclick="typeCharacter('㠯')">㠯</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('乒')">乒</div></td>
+							   <td><div onclick="typeCharacter('乓')">乓</div></td>
+							   <td><div onclick="typeCharacter('争')">争</div></td>
+							   <td><div onclick="typeCharacter('亙')">亙</div></td>
+							   <td><div onclick="typeCharacter('兆')">兆</div></td>
+							   <td><div onclick="typeCharacter('刑')">刑</div></td>
+							   <td><div onclick="typeCharacter('匠')">匠</div></td>
+							   <td><div onclick="typeCharacter('危')">危</div></td>
+							   <td><div onclick="typeCharacter('回')">回</div></td>
+							   <td><div onclick="typeCharacter('州')">州</div></td>
+							   <td><div onclick="typeCharacter('曳')">曳</div></td>
+							   <td><div onclick="typeCharacter('氖')">氖</div></td>
+							   <td><div onclick="typeCharacter('氘')">氘</div></td>
+							   <td><div onclick="typeCharacter('汎')">汎</div></td>
+							   <td><div onclick="typeCharacter('竹')">竹</div></td>
+							   <td><div onclick="typeCharacter('羽')">羽</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('而')">而</div></td>
+							   <td><div onclick="typeCharacter('臣')">臣</div></td>
+							   <td><div onclick="typeCharacter('舟')">舟</div></td>
+							   <td><div onclick="typeCharacter('艸')">艸</div></td>
+							   <td><div onclick="typeCharacter('芃')">芃</div></td>
+							   <td><div onclick="typeCharacter('芒')">芒</div></td>
+							   <td><div onclick="typeCharacter('衣')">衣</div></td>
+							   <td><div onclick="typeCharacter('邢')">邢</div></td>
+							   <td><div onclick="typeCharacter('阨')">阨</div></td>
+							   <td><div onclick="typeCharacter('卵')">卵</div></td>
+							   <td><div onclick="typeCharacter('形')">形</div></td>
+							   <td><div onclick="typeCharacter('戼')">戼</div></td>
+							   <td><div onclick="typeCharacter('汧')">汧</div></td>
+							   <td><div onclick="typeCharacter('汽')">汽</div></td>
+							   <td><div onclick="typeCharacter('沂')">沂</div></td>
+							   <td><div onclick="typeCharacter('沉')">沉</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('芹')">芹</div></td>
+							   <td><div onclick="typeCharacter('苉')">苉</div></td>
+							   <td><div onclick="typeCharacter('苊')">苊</div></td>
+							   <td><div onclick="typeCharacter('苣')">苣</div></td>
+							   <td><div onclick="typeCharacter('近')">近</div></td>
+							   <td><div onclick="typeCharacter('邱')">邱</div></td>
+							   <td><div onclick="typeCharacter('兔')">兔</div></td>
+							   <td><div onclick="typeCharacter('所')">所</div></td>
+							   <td><div onclick="typeCharacter('泖')">泖</div></td>
+							   <td><div onclick="typeCharacter('茆')">茆</div></td>
+							   <td><div onclick="typeCharacter('洄')">洄</div></td>
+							   <td><div onclick="typeCharacter('派')">派</div></td>
+							   <td><div onclick="typeCharacter('茫')">茫</div></td>
+							   <td><div onclick="typeCharacter('茴')">茴</div></td>
+							   <td><div onclick="typeCharacter('迴')">迴</div></td>
+							   <td><div onclick="typeCharacter('飛')">飛</div></td>
+						   </tr>
+						   <tr>
+							   <td><div onclick="typeCharacter('展')">展</div></td>
+							   <td><div onclick="typeCharacter('流')">流</div></td>
+							   <td><div onclick="typeCharacter('烏')">烏</div></td>
+							   <td><div onclick="typeCharacter('芻')">芻</div></td>
+							   <td><div onclick="typeCharacter('偽')">偽</div></td>
+							   <td><div onclick="typeCharacter('康')">康</div></td>
+							   <td><div onclick="typeCharacter('涵')">涵</div></td>
+							   <td><div onclick="typeCharacter('痐')">痐</div></td>
+							   <td><div onclick="typeCharacter('菡')">菡</div></td>
+							   <td><div onclick="typeCharacter('逮')">逮</div></td>
+							   <td><div onclick="typeCharacter('鳥')">鳥</div></td>
+							   <td><div onclick="typeCharacter('無')">無</div></td>
+							   <td><div onclick="typeCharacter('虜')">虜</div></td>
+							   <td><div onclick="typeCharacter('𦵏')">𦵏</div></td>
+							 </tr>
+					  </table>
+				 </div>
+    		</td>
+					<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;"
+			onclick="showKeyboard();" >
+							<font style="font-size: 16px;">Keyboard</font>
+					</td>
+				</tr>
+			</table>
+    	</tr>
+
+
+		<tr>
+			<td>
+				<table>
+					<tr>
+						<td>	
+							<textarea id="startCharacter" name="startCharacter" rows="2" cols="5" style="font-size: 32px;">隹</textarea>
+						</td>
+						<td style="width:100px;height:10px;background-color:#BBBBBB;text-align:center;"
+			onclick="searchCharacter();" >
+							<font style="font-size: 16px;">Search</font>
+						</td>
+					</tr>
+				</table>
+    		</td>
+    	</tr>
+    	
+		<tr>
+			<td>
+				<table>
+					<tr>
+						<td>
+							<div id="charCode"></div>
+						</td>
+						<td>
+							<div id="pinyin"></div>
+						</td>
+						<td>
+							<div id="definition"></div>
+						</td>
+					</tr>
+				</table>
+			</td>
+    	</tr>
+    	
+		<tr>
+			<td>
+				<div id="childCharacters">
+				
+				</div>
+			</td>
+		</tr>
+    </table>
+
+	<script>
+		var compositionData;
+		var genealogiesData;
+		var dictionaryData;
+		var pinyinDefinitionData;
+		var longWords;
+		
+		var ancestors = "";
+		var highestLevel = 0;
+		var genealogy = "";
+		var children = "";
+		
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+
+		function textBetween(thisText, startString, endString)
+		{
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		
+		// returns a char's Unicode codepoint, of the char at index idx of string str
+		// 2013-07-16 from https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/String/charCodeAt
+		function fixedCharCodeAt (str, idx) 
+		{
+			// ex. fixedCharCodeAt ('\uD800\uDC00', 0); // 65536
+			// ex. fixedCharCodeAt ('\uD800\uDC00', 1); // 65536
+			idx = idx || 0;
+			var code = str.charCodeAt(idx);
+			var hi, low;
+			if (0xD800 <= code && code <= 0xDBFF) 
+			{ // High surrogate (could change last hex to 0xDB7F to treat high private surrogates as single characters)
+        		hi = code;
+        		low = str.charCodeAt(idx+1);
+        		if (isNaN(low)) 
+        		{
+            		throw 'High surrogate not followed by low surrogate in fixedCharCodeAt()';
+        		}
+        		return ((hi - 0xD800) * 0x400) + (low - 0xDC00) + 0x10000;
+    		}
+    		if (0xDC00 <= code && code <= 0xDFFF) 
+    		{ 
+    			// Low surrogate
+        		// We return false to allow loops to skip this iteration since should have already handled high surrogate above in the previous iteration
+        	return false;
+        	/*hi = str.charCodeAt(idx-1);
+        	low = code;
+        	return ((hi - 0xD800) * 0x400) + (low - 0xDC00) + 0x10000;*/
+    		}
+    		return code;
+		} // end function fixedCharCodeAt
+
+
+		function isCharacter(thisCharacter)
+		{
+			var eightThousand = "一乙二十丁廠七蔔八人入兒匕幾九刁瞭刀力廼迺又三乾幹于虧工土士纔下寸大丈與萬上小口山巾韆乞川億個夕久麽勺凢丸及廣亾門枒椏義之屍己已巳弓子衛也女刃飛習叉馬鄉豐王開井天夫元無雲專匃匄紥紮藝木五支廳不犬太區曆歹友尤疋車鉅牙屯戈比互切瓦止少曰日中貝岡内水見午牛手氣毛壬昇陞殀長仁什片僕化讐讎幣仍僅觔爪反介父從崘崙今兇分乏公倉月氏勿欠風丹匀烏勾鳳六文亢方火爲鬥憶計訂户認宂譏心尺引醜巴孔隊辦㕥㠯允予鄧勸雙書幻玉栞未末示擊打巧正撲卉扒功扔去甘世艾古節本術可丙左厲石右佈夯戊龍平滅軋東卡北佔凸盧業舊帥歸旦目且葉甲申叮電號田由隻叭史央兄嘰叼呌敂叨另嘆冄皿凹囚四生矢失乍禾坵付仗代僊們儀白仔他斥瓜乎叢令用甩印爾樂句怱悤冊夘戼犯外處鼕鳥務包饑主市立馮玄閃蘭半汁彙頭漢寕甯穴牠討寫讓禮訓議必訊記永司尼民弗弘齣遼妳嬭奴召加皮邊孕髮聖對檯矛母幼絲邦式迂刑戎動摃寺吉釦攷託老鞏圾執擴掃地場揚耳芋共芒亞芝朽樸機權過臣吏𠕂𠕅協西壓厭戌在百有存而頁匠奪灰達列死成夾夷軌衺堯劃邁畢至此貞師塵尖劣光噹早籲吐嚇蟲麯糰吕同弔喫囙吸嗎吆嶼屹歲㠶颿迴豈則剛網肉秊硃先丢廷舌竹遷喬迄偉傳乒乓休伍伏優臼伐延仲件任傷價倫份華仰倣髣夥偽自伊血嚮佀後行舟全會殺閤兆企衆爺傘肌肋朶雜危旬旨旭負匈名多争色壯衝妝氷莊慶亦劉齊交衣次產決亥充妄閉問闖羊併並竝關米燈州汗汙汚江汛池汝湯忙興宇守宅字安講諱軍訝許訛論訟農諷設訪訣尋那迅儘導異弛孫陣陽收堦陰防姦如媍妃好她媽戱羽觀懽讙驩買紅䭾纖馴約級紀馳紉廵壽挵衖麥玖瑪形進戒吞遠違韌運扶撫罈壜技壞摳擾搤拒找批阯撦走抄貢汞壩攻赤摺抓扳掄扮搶孝埳均抑抛投墳阬抗坊抖護殼志塊扭聲把報儗㕁卻抒刦刧刼芙蕪葦芽芲蘤芹芥芬蒼芳嚴蘆芯勞尅芭囌桿槓杜材邨杖杏杉巫極李楊求甫匣更束吾荳兩酉麗醫辰勵否還尬殲來連軒步滷堅肖旱盯呈旹吴助縣裡獃吱吠嘔園曠圍呀噸足郵男睏吵串員呐聽唫吩嗆脗吹嗚吭吧邑吼囤彆吮嶇崗帳財鍼釘牡告我亂利秃秀私每兵估體何佐佑但伸佃作伯伶傭低妳住位伴身皁伺彿髴囱近徹役返餘希坐穀妥含隣岔肝疘肚肘膓龜甸免狂猶狽角刪條彤卵灸㠀鉋鑤迎飯飲繫言凍狀𤰜畂𤱈畆畮況牀庫恡療吝應這冷廬序辛棄冶忘閏閒間悶判兑竈燦灼弟汪沐沛汰瀝沙汽沃淪洶氾汎滄没溝滬瀋沉沁懷憂忱快完宋宏牢究窮災烖菑良證啟評補初社禩識詐愬罕診詞譯君靈即層屁尿尾遲侷跼改張忌際陸阿陳阻坿墜妓玅妖姉妬妒努忍勁矣雞緯驅純紗綱納駁縱紛帋紋紡驢紐奉翫環武青責現玫錶槼抹卦坷坯拓攏拔坪揀坦擔堃押抽柺拕者拍頂拆拎擁牴觝拘勢抱拄垃拉攔倖拌擰拂拙招坡披撥擇抬拇抝其取茉苦昔苛若茂蘋苗英苟苑苞範直茁茄莖苔茅枉林枝盃桮樞櫃枚析闆鬆鎗楓構杭傑述枕喪或畫卧事刺棗雨賣欝鬰礬鑛碼廁奈奔逩犇奇奮態歐毆壟妻轟頃轉斬輪輭到非叔歧肎齒些卓虎虜腎賢尚旺具味菓崐崑國哎咕昌呵暢明易嚨昂迪典固忠呻呪咋咐虖嘑謼鳴詠呢咄咖㟁嵒巗巖帖羅幟帕嶺凱敗賬販貶購貯圖釣製知迭雰垂牧物乖颳稈咊龢季委秉佳侍嶽供使例俠儌版妷姪遉侣側憑僑佩貨侈依卑的廹質訢徵徃爬彼逕所捨金刹𠇮餚斧爸採寀覓受乳貪唸貧忿膚肺肢腫脹朋股骯肪肥服脅週昬魚兎兔狐忽狗獰備飾飽飼變京亯龐店亱廟府底瘧疙疚劑䘚郊庚癈淨盲放刻育氓牐鬧鄭劵捲單炬炒炊匟炎鑪沫淺㳒灋洩沽河霑淚沮油泊沿泡註泣濘瀉泌泳泥沸沼波潑澤治怔怯怖性怕憐恠怡學寳宗定寵宜審宙官空簾宛寔試郎詩肩房誠襯衫眎眡祈諙誕詭詢該詳建肅錄隸箒屉居屆刷屈弧瀰絃承孟陋陌孤陝降圅限妹姑姐姓妮始姆迢駕叁參艱綫練組紳細駛織駒終駐絆駞紹繹經貫契貳奏旾幇幚玷珎玲⺩冊玻毒型拭𦊱掛封持拷拱項垮挎城挾撓政赴趙攩拽哉挺捪垢拴拾挑垜指墊挣擠拼挖按揮挪拯某甚荆茸革茬薦巷帶艸蠒茵茶荒茫盪榮葷熒故衚廕茘南藥標棧柑枯柄棟相査栢柵枊桺柱柹欄檸樹勃要柬鹹威歪研磚釐厚砌砂泵硯砍麪耐耍牽鷗殘殃軸輕鵶皆韮揹戰點虐臨覽豎省削甞嚐昧盹昰盼眨哇閧鬨啞顯冐暎星昨咧昭畏趴胃貴界虹蝦蟻思螞雖品嚥傌罵勳譁倃𠴰偺喒響哈哆齩欬咪哪喲炭峽罸賤貼貽骨幽鈣鈍鈔鐘鋼鈉鑰欽鈞鉤鈕卸缸拜看榘氊氫怎牲選適秒香種鞦科重複竿段便倆貸順脩俏保促俄俐侮儉俗俘信皇泉鬼侵禹侯追㑺儁盾待徊衍律很鬚敍敘劒逃食盆肧朧膽勝胞胖脈䘑衇胎勉狹獅獨狰狡獄狠貿怨急餌饒蝕餃餅巒彎將獎哀亭亮度跡蹟庭瘡瘋疫疤咨姿親音帝施閨聞閩閥閣差養美薑叛送類迷籽婁前首逆兹總鍊炸爍砲礮炫爛薙鬀窪絜洪灑柒澆濁洞測洗活派洽染洛瀏濟洋洲渾濃津恃恆恢怳恬卹䘏賉恰惱恨舉覺宣宦室宫憲突穿竊客誡冠誣語扁襖祖神祝祠誤誘誨說誦墾退既屋晝屏屎費陡遜眉孩隕除險院娃姥姨婣嬌姚娜怒架賀盈勇怠癸蚤柔壘綁毧羢結遶驕繪給絢駱絡絕絞駭統畊耘耗耙豓豔泰秦珠班素匿蠶頑盞匪撈栽捕埂捂振載趕起鹽捎扞揑埋捉綑捐損袁捌都喆逝撿挫换輓摯熱恐擣𢷬壺捅埃挨恥耿躭聶恭莽萊蓮莫莉荷穫晉噁瑩鸎真框梆桂桔棲檔桐株橋樺栓桃格樁校覈樣根索哥速逗慄賈酌配翄辱脣夏砸砰礫礎破原套逐烈殊殉顧轎較頓獘緻柴槕慮監𦂳𦃂黨逞曬眠曉哮嘮鴨㨪哺晌剔暈蚌畔蚣螡蟁蚪蚓哨哩圃哭哦恩鴦唤唁哼唧啊唉唆罷陗峩峯圓峻賊賄賂贓錢鉗鑚鉀鐵鈴鉛缺氧氨特犧造乗椉敵秤租積秧秩稱祕透筆咲筍債藉值倚俺傾倒倘俱倡候賃俛頫倍勌健臭䠶躳息倔徒徐慇艦艙般航途拏㧱挐聳爹舀愛豺豹頒頌翁胰脃脂胷肐髒臍膠腦膿逛貍狼卿逢鴕𤱊㽞畱鴛皺餓餒凌淒悽戀槳漿衰衷高郭蓆準座癥病疾齋疹疼疲脊効俲離紊唐瓷資涼站剖競部旁旅畜閱羞羔缾拳粉料益兼烤烘煩燒燭菸煙烙遞濤淛澇浦酒涉消渦浩海塗浴浮涣滌流潤澗涕浪浸漲燙澀湧誖悟悄猂悔憫悦害寬傢宵醼讌賓竅窄容宰案請朗諸諾讀扇誹韈韤袖袍被祥課𠖇㝠誰調𡨘寃諒諄談誼剥懇展劇屑弱陵祟陶陷陪娱娟恕娥孃通能難預桒絹綉驗繼駿毬瑣理瑠璢瑯捧堵措描域捺掩㨗排焉掉搥赦堆推埠掀授捻教搯掐掠掂培接擲控探據掘摻職基聆勘聊娶著蔆勒黄菲萌蘿菌萎菜萄菊菩萍菠螢營乾蕭薩菇械彬夢惏梗梧梢楳槑檢梳梯桶梭捄曹副票醞酗廂慽慼硅碩奢盔爽聾襲盛匾雪輔輛顱虚彪雀堂常眶匙晨睁瞇眼懸埜𡑀啪啦曼晦晚啄啡距趾啃躍畧蚯蛀虵唬纍鄂唱患囉唾唯啤啥嘯崖崎嶄邏崔帷崩崇崛嬰圈銬鐺鋁銅銘鏟銀矯甜稭棃犂穢迻笨籠笛笙符第敏做袋悠償偶偎媮您售停偏軀兠叚釁徘徙得銜盤舶舩舵斜盒鴿斂悉慾綵領腳𩓐脯豚臉脱象夠逸猜豬獵貓凰猖猛祭餡館湊減毫烹庻蔴菴痊癢痕廊康庸鹿盗章竟商族鏇朢率閻闡着羚蓋睠粘觕麤粒斷剪獸釺銲焕清添鴻痳涯淹渠漸淑淌混淮殽淵婬滛漁淘湻液淤淡澱㴱涮涵婆樑滲情惜慚悼懼惕惟驚惦顇惋慘慣冦𡨥寅寄寂㝛窒窯密謀諜謊諧袱禱禍謂諺謎逮敢尉屠彈隋墮隨蛋隅隆隱婚嬸婉頗頸績緒續騎綽繩維綿繃綢綜綻綠綴巢琹琳琢瓊斑替揍欵堪墖搭堰揩越趂趨超攬隄提愽揭喜彭揣揷揫蒐煑援攙裁擱搓摟攪壹握搔揉斯朞欺聯葫㪚惹塟𦵏募葛董葡敬蔥蔣蔕落韓朝辜葵棒稜棊碁椰植森焚椅椒棵棍椎棉棚椶棺榔橢惠惑偪粟棘酣酥㕑廚廈硬硝確硫鴈殖裂雄頰靂暫雅翹輩悲紫鑿輝敞棠賞掌晴睞暑冣㝡晳量鼎噴喳晶喇遇喊遏晾景疇踐跋跌跑跛遺鼃蛛蜓蜒蛤喝鵑餧餵喘喉喻嗁諠嵌幅㡌賦賭贖賜賠黑鑄鋪鏈銷鎖鋤鍋銹鋒鋅銳甥掰短智氮毯氯鵝賸稍程稀税筐等築筴筞篩筩栰答筋筝傲傅牌堡集焦傍儲暠皜皖粤奥街懲禦循艇舒踰番釋禽臈脾腋腔腕魯猩蝟猾猴憊然饋饞裝蠻就㪟斌痘痢痪痛童竣闊善翔羡普糞尊奠道遂曾燄港滯湖湘渣渤淼𣺌濕溫渴潰濺滑湃渝灣渡遊滋渲溉憤慌惰愕愣惶媿愉嘅割寒富庽竄窩窖窓𥦗牎牕窻窘徧僱裕褲帬裠禪禄謝謠謗謙犀屬屢強彊粥疎隔隙隘媒絮嫂媚壻登緬纜緝緞緩締縷騙編騷緣瑟鵡瑞瓌瑙䰟肆攝摸填搏塌皷襬㩦𢹂㩗擕搬摇搞塘攤聘斟蒜懃鞾靶鵲藍墓幙蓬蓄蒲蓉矇蒸獻椿禁楚楷欖想槐榆樓㮣賴酪酧詶醻感礙碘碑碎掽踫㼝盌椀磟尷雷〇霧雹輻輯輸督頻齡鑒睛覩睦瞄睫睡倸嗜鄙嗦愚㬉煗煖盟歇晻闇暇炤畸跨蹺跳跥跪路跤跟遣蜈蝸蛾䗬蠭蜕嗅嗡嗓署寘辠罩蜀幌錯錨錫鑼錘錐錦鍵鋸錳矮辭稺穉稠頹愁籌籤簡筷燬譭舅鼠催傻像躲魁衙微瘉癒遥膩腰腥顋腹腺鵬騰骽鮑猨蝯穎觸解煞雛饃餾醬稟痺廓癡痰㢘亷靖新韻意謄糧數煎塑慈煤煌滿漠滇源濾濫滔谿溜灕滚溢泝遡濱溶溺粱灘昚譽塞寞窺窟寢謹褂臝福謬羣殿闢障媳嫉嫌嫁疊㬪疉縛縫纏繽𠞰勦静碧琍瓈贅熬牆墟嘉摧赫截誓境摘摔撇聚慕暮摹蔓衊蔡蔗蔽藹煕𤋮蔚兢模檻榴牓搾榕謌遭酵酷釀酸碟堿鹻鹼碳磁願需轄輾雌裳顆𥄨矁墅𠻳踴蜻蠟蠅蜘蟬嘛嘀賺鍬鍛鍍舞舔穩燻箕算籮筦簫輿僚僧鼻魄魅貌膜膊髈鮮疑孵饅裹敲豪膏遮腐𤺥瘟瘦辢彰竭端旂精粹歉獘熄熔煽瀟漆潄漂漫滴漾演漏慢慷砦賽寡詧蜜寥譚肇褐褪譜隧嫰翠熊櫈騾縮慧攆撕撒撩趣趟撐撮撬播擒墪撞撤增譔聰鞵鞌蕉蕋橤蘂蔬蘊横槽櫻橡樟橄敷豌飄醋醕醉磕磊磅碾震霄黴瞞題暴瞎譆嘶嘲嘹影踢踏跴蹤蜨蝴蝠蠍蝌蝗蝙嘿囑幢墨鎮鎬鎊靠稽稻黎稾稼箱簍箭篇殭躺僻惪艘厀膛鯉鯽熟摩襃癟癅癱凛顏毅䊀鍸遵憋潛澎潮潭鯊澳潘澈瀾澂懂癄顦懊憎額翩褥譴鶴憨慰劈履豫繚撼擂𢮥撡擅鷰蕾藷薛薇擎薪薄顛翰噩櫥橙橘整螎瓢醒霍霎轍冀餐嘴踱蹏蹂蟇螃器譟鸚贈默黔鏡贊穆籃簒篷籬儒邀衡膨彫琱鵰鯨磨癮瘸凝辨辯糙餹餻燃瀕澡激懶憾懈窿壁避韁繳戴擦藉鞠藏藐檬簷檀礁粦燐霜霞瞭瞧瞬瞳矚瞪曙蹋蹈螺蟋蟀嚎贍穗魏簧簇緐幑爵朦臊鰐癌辮贏蹧粇穅燥懦豁臋臂翼驟藕鞭籐覆瞻蹦囂鐮繙飜鰭鷹瀑襟璧戳孼警蘑藻攀曝蹲蹭蹬巔簸簿蠏顫靡癬瓣羹鱉爆疆鬢壤馨燿躁蝡嚼嚷巍籍鱗魔稬穤灌譬惷覇露霹躪黯髓贛囊鑲瓤鑵矗乂乜兀弋孑孓幺亓韋廿丏卅仄戹阨仃仉仂兮刈爻卞閂訃尹夬爿毋邗邛艽艿剳劄叵帀丕匜勱卟叱叻仨仕仟仡仫仞巵氐犰芻鄺邙汀訐訌訕訖尻阡尕弁馭匡耒玎璣邢圩圬圭扦圪圳壙捫圮圯芊芍芄芨芑芎薌亙厙夼戍尥乩旯曳岌屺凼囡釔缶氘氖牝伎傴伢佤仵倀傖伉佇竚汆刖夙旮刎獷獁舛鳧鄔餳汕汔汐汲汜汊忖懺謳詎祁訥聿艮厾穽阮阪丞妁牟紆紂紇紈玕璵摶抔圻阪岅坍塢抃抉㩳芫邯蕓芾藶苣芷芮莧芼萇蓯芩芪芡芟苄苧苡杌杓杞杈忑孛邴邳磯奩豕忒歟軔迓邶忐卣鄴旰呋嘸囈呔嚦呃暘吡町虯唄吽吣吲幃岐岈峴岑嵐兕圇囫釗釙釕迕氙氚牤佞邱攸佚佝佟佗伽彷佘僉孚豸坌肟邸奂劬狄狁鳩鄒飩餼飪飫飭亨廡庋疔癤肓闈閎閔𦍑羗煬灃沅沔漚沌沏沚汩汨沂汾渢汴汶沆潙泐憮慪忡牾愾悵忻忪愴忭忸詁訶詛詆謅詔詒孜隴陀陂陘妍嫵嫗妣姙妗嬀妞姒妤邵劭剄甬邰紜紕紝綸紓瑋玡玭玠玢玥玦盂忝匭坩抨拤坫拈壚抻劼拃拊坼坻擓坨坭抿㘭耶苷苯苤蘢苫苜苴苒苘茌苻苓茚茆蔦茓塋煢茀苕櫪枇杪杳梘杵棖樅枋杻杷杼矸碭刳奄甌殁郟軛郅鳶盱昊曇杲昃咂呸昕昀旻昉炅咔畀蟣咀呷黽呱呤咚咆嚀呶呣呦噝岢巋岬岫袟袠岣峁劌逈岷剴帔嶧沓囹㒺釷釺釧釩釹釵邾迮犛氂竺迤佶佬佰侑侉臾岱侗偘侏儈佻佾儕佼佯儂帛阜侔徂劊郄慫糴罋甕戧肼膞肽肱肫剁邇郇狙狎狍狒咎炙梟餞飴冽冼庖癘疝瘍兖妾劾煒熰炖炘熗炔泔沭瀧瀘泱泅泗泠濼泖泫泮沱冺泓涇怙怵怦怛怏怍㥮怩怫懌宕穹宓誆誄詿詰戾詼戽鄆衩祆禕祉祇誅詵詬詮詣諍詫諢詡戕孢亟陔妲妯姍帑弩孥駑蝨迦迨紺紲紱駟駙縐絀驛駘甾珏琺珂瓏瑇珀頇珉珈拮埡撾垣撻垤赳賁壋垌郝垧垓撏垠茜莢荑貰蓽莒茼茴茱莛蕎茯荏荇荃薈荀茗薺茭茨堊滎犖蕁藎尅蓀茹蕒葤柰櫛柯柘櫳柩枰櫨柙枵柚枳柞柝梔柢櫟枸柈柁枷檉剌酊酈甭硨砘砒斲砭碸奎耷虺殂殤殄殆軲軻轤軼軫蠆毖覘尜哐眄瞘𠳐郢𦕈眊眈禺哂咴曷昴昱暱咦嘵嗶畎毘呲胄畋畈虼蝱盅咣噦剮鄖咻囿吚哌噲哚咯哶吒噥哏哞峙嶢罘幀峝嶠峋峥貺鈈鈦鋇鈑鈐鎢鈁鈀氡氟牯郜粃秭竽笈篤儔儼俅儷叟垡牮俣俚皈俑竢逅狥徉舢俞郗俎郤爰郛瓴腖臚胛胂胙胍胗胝朐脛鴇匍狨獪颮狩猻訇逄昝餉餄餎胤孿孌弈奕庥癧疣疥瘲庠竑彦颯闥閭闓閡羑迸秈酋炳炻熾烱烀炷烴洱洹洧洌浹洇洄洙㳄洎洫澮洮洵滸潯濜洳慟恓懨恫愷惻恂恪惲宥扃衲袵衿袂祛祜祓祚誚祗禰誥誑酖昶郡咫弭牁胥陛陟婭姮嬈姝姣姘姹懟羿炱矜絝驍驊絎絳駢耖挈珥珙頊璫珩珧珣珞琤琿敖恚埔埕塒塤堝挹耆耄埒捋贄垸捃盇荸莆蒔萵莪莠莓莜涖蒞荼莩荽蕕荻莘莎莞莨鴣蓴栲栳郴桓橈桎楨榿梃栝桕桁檜桅栟桉栩逑逋彧鬲豇酐邐厝孬砝砹礪碪砷砟砼砥砣剞礱軾輊輅鶇躉齔鸕虔逍矓嘜晟眩眙哧哽唔晁晏鴞趵趿畛蚨蚜蚍蚋蜆蠔蚧嗩圄唕唏盎唑嶗崍罡罟峪覬賅鈺鉦鈷鉢鈸鉞鉭鉬鈿鈾鉑鑠鉚鈰鉉鉈鉍鈮鈹鏺鐸氬氤氦毪舐秣秫盉笄筧笊笏笆俸倩俵偌俳俶倬倐儵恁倭倪俾倜隼雋倌倥臬皐臯郫倨衂䶊頎徠舫釜奚衾胯胱胴臙膾胼朕脒胺鴟璽鴝獧猁狳獫狺逖桀裊餑凇欒攣亳疳痾疸疽癰皰痂痙衮凋頏恣旆旄旃閫鬮誾閬恙粑朔鄲烜燁燴烊剡郯燼涑浯淶漣娑湼潿浞涓浥涔浜浠澣濬悚慳悝悒悌悛宸窈剜諏塚諑襢袢禎諉諛諗諂誶屐屙陬勐奘牂蚩陲姬娠娌娉媧娩嫻娣娓娿畚逡綆驪綃騁綏絛縚綈駸邕鷥彗耜燾舂璉琇麩揶埴埯捯擄摑埸埵赧埤捭逵埝堋堍掬鷙掖捽掊堉撣捩掮愨埭埽掇摜聃菁萁菘堇萘萋菽菖萜萸萑棻菔菟萏萃菏菹菪菅菀縈菰菡梵槤梏覡桴桷梓棁桫櫺嗇郾匱勅勑豉鄄酞酚戞硎硭硒硤磽硐硇硌鴯瓠匏廄廐龔殞殮殍賚雩輒塹眭眥嘖晡晤覜眵眸圊喏喵啉勗晞唵晗冕囀畦趺囓齧蹌蚶蛄蠣蛆蚰蠱圉蚱蛉蟶蚴啁啕唿啐唼唷啗噉啵啶啷唳唰啜幘崚崦幗崮崤崆賕賑賒銠鉺鋏鐃銦鎧鍘銖銑鋌鏵銓鎩鉿銚鉻錚銫鉸銥銃銨銣氪牾鴰穠逶箋筇笸笪笮笠笥笤笳籩笞僨偃偕偈傀傯僂皚皎鴴徜舸艫舴舷龕翎脬脘脲匐猗玀猞猝斛獼馗餜餛鸞孰庹庾痔痍疵翊旌旎袤闍閾閹閶鬩閽閼羥糲粕敝焐烯焓烽燜烷焗漬渚淇淅淞瀆涿淖挱淠涸澠淦淝淬涪淙涫渌淄愜悻悱惝惘悸惆惚㥫憚窕諶諫扈皸謔襠袷裉謁諤諭諼讒諳諦諞逯郿隈糶隍隗婧婊婕娼婢嬋胬袈翌惥慂欸綾騏綺緋緔騍緄騅綬綹綣綰驂緇耠琫琵琶琪瑛琦琥琨靚琰琮琯琬琛琚輦黿揳堞搽揸揠陻趄揖頡塄撳耋揄蛩蟄壪摒揆掾聒葑葚靰靸葳葺葸蕚葆葩葶蔞萲蕿蘐藼戟葭楮棼櫝櫂欏箠齎椋槨椪棣椐鵓覃酤酢酡鸝厥殫殛雱輥輞槧輟輜斐睄瞼睇睃戢啑嗒喃喱喹晷喈蹠跗躒跚跎跏跆蛺蟯蛭螄蛐蚘痐蛕蜖蛞蠐蛟蛘喁喟啾嗖瘖嗟嘍嗞喀喔喙嶸嵖崴遄詈嵎崽嵬嵛嵯嶁嵫幄嵋賧鋙錸鏗鋥鋰鋯鋨銼銻鋃鋦錒掣矬氰毳毽犢犄犋鵠犍嵇黍稃稂篳筵筌傣傈舄牘儻儐遑儺遯徨嬃畲弑頜翕釉鵒舜貂腈醃腓腆腴腑腚腱魷魨魴潁猢猹猥颶觴觚猱熲飱餷餿褻臠裒痣癆痦痞痤癇痧賡竦瓿啻鷳闌闃闋粞遒孳焯焜焙焱鵜湛渫湮湎湜渭湍湫溲湟溆湲湔湉渥湄滁愠惺憒惴愀愎愔嚳寐謨扉褳裎襉祾祺讜冪謖謚謐遐孱弼巽騭媪媛婷巰翬皴婺騖緙緗緘彘緹緲緦緱縋緡饗耮瑚瑁瑜瑗瑄瑕遨驁韞髡塬鄢趔趑攄摁蜇搋搪搐搛搠擯彀轂搦搡蓁戡蓍鄞靳蓐驀鶓蒽蓓蓖蓊蒯薊簑蒿蒺蘺蒟蒡蒹蒴蒗鎣頤楔枏柟楂楝檝楸椴槌楯皙櫚槎櫸楥楣楹椽裘剽甄酮酰酯酩蜃磧碓硼碉碚矴椗磣鵪輳齟齙訾粲虞睚嗪韙嗷嗉睨睢雎睥嘟嗑囁嗬嗔嗝戥嗄煦暄遢暌跬躂蹕跐跣躚躋蛸蜊蜍蜉蜣畹蛹嗣嗯嘷獋嗲噯嗌嗍嗨嗐嗤嗵罨嵊嵩嵴骰鍺錛錡鍀錁錕錮鍁錈錠錙雉氲犏歃稞粺稔筠筢筮䈰筱牒煲敫徭諐艄覦毹貊貅貉頷腠腩腼齶腧堘媵詹鮁鮃鯰鱸穌鮒鮐肄鵮颼觥遛饈鶉亶瘃疿痼痿瘐瘁瘮麂裔歆旒雝闔闐闕羧豢秔粇稉猷煳煜煨煅煊煸煺灩溱溘漭瀅溥溧溽裟溻溷潷滫溴滏滃灤溏滂滓溟澦愫懾慊鱟騫竇窠窣裱褚裨裾裰禊謾謫媾嫫媲嬡嬪媸縉縝縟轡騮縞縭縊縑騸耥璈瑶瑭獒覯慝嫠韜靉髦摽墁撂摞攖翥踅摭墉墒榖綦蔫薔靺靼鞅靿甍蔸蔟藺戬蕖蔻蓿斡鶘蓼榛榧榻榫榭槔榱槀檳櫧搉𣙜僰釅酶酹廝碡𦉆碣碲磋臧豨殯霆霽轅蜚裴翡齜齦叡瞜睽嘞嘈嘌嘁嘠曖暝躊踉蜞蜥蜮蟈蜴蜱蜩蜷蜿蜋蜢嘘嘡鶚嘣嚶嘚嗾嘧羆罱幔嶂幛賻罌骷骶鶻鍥鍇鍶鍔鍤鏘鎂鏤犒箐簀篋箍筯篛箅簞箔箜箢籙毓僖儆僳僭劁僮魃魆睾艋鄱膈臏鮭鮪鱭鮫鱘麞觫雒夤饉鑾塾麽瘌瘊瘻瘙廖韶旖膂闞鄯鯗粿粼糉糝槊鷀熘熥潢漕滹漯漶瀲潴漪漉漳漩澉濰慵搴窨寤綮譖褡褙緥褸褊譙讕譎暨屣鶥嫣嬙嫖嫦嫚嫘嫡鼐翟瞀鶩驃縹縵縲纓驄繆繅耦耬瑾璜璀瓔璁璋璿奭髥髫擷撅赭擼鋆撙攛墀聵覲韃蕙鞽蕈蕨蕤蕞蕺瞢蕃蘄賾槿檣槭樗樘樊槲醌醅靨魘饜磔磙霈轆齬齪覷瞌瞋瞑嘭噎噶顒暹噘踔踝踟踒躓踮躑踺踞蝽蠑蝻蝰蝮螋蝓蝣螻噗嘬顎噍噢噙嚕噌噔顓幞幡嶙嶝骺骼骸鑷鎘鐫鎳鎦鎰鎵鑌稷箴簣篁篌篆牖儋徵磐虢鷂臕滕鯁鱺鰱鰹鰣鯀鯇獗獠觶饊饌麾廛瘛瘼瘢瘠齏羯羰𥻗遴糌餈糅熜熵熠澍澌潸潦潲鋈潟潼潺憬憧寮窳讞襤褟褫譫熨屨嬉勰剹蝥纈繕繒驏畿耩耨耪璞璟靛璠璘聱螯髻髭髹擀熹甏擻縠磬顳蕻鞘顢薤薨檠薏藪薜薅樾橜橇樵檎櫓罇樨櫞墼橐翮醛醐醍醚磲贋飆殪霖霏蜺鏨轔臻遽氅瞟瞠矙嚄嚆噤暾蹀踹踵踽蹉蹁蟎蟒螈螅螭螠螟噱噬噫噻噼罹圜鐯鏢鏜鏝镚鏞鏑鏃鏐氌氆憇穡篝篥篦篪篙盥劓翶魎魈徼歙饍膦膙鯪鯡鯤鯧鯝鯢鯛鯔獴獺獬邂鷓廨贇瘰廪癭瘵瘴癃瘳斕麇麈嬴壅羲糗瞥甑燎燠燔燧瀨濉潞澧澹澥澶濂褰寰窸褶禧嬖犟隰嬗顙繾繰繯璨璩璐璪螫擤壕觳罄擢薹鞡鞬薷薰蘚藁檄檩懋醢瞖礅磴鷯齲齷豳壑黻嚏嚅躡蹣蹊蟥螬螵疃螳蟑嚓覊罽罾嶷黜黝髁髀鐔鐝鐐鐓鑭鑹鏹鐙罅黏簌篾篼籪簋鼢黛儡鷦鼾皤魍龠繇貘邈貔臌羴羶臆臃鱝鰈鯷鰓鰍鰉鯿螽爕鷲襄糜縻膺癍麋懣濡濮濞濠濯蹇謇邃繦檗擘孺隳嬷蟊鷸鍪鏊鰲鬈騣瞽韉鞨鞫鞧鞣蔾藠藩醪蹙礓燹餮瞿曛顥曜躇䠀鷺蟛蟪蟠蟮䴉黠黟髏髂鑊鐳鐲馥簟簮鼬讎艟鰨鰥鰩癩癔癜癖糨蹩鎏懵彝邋鬏攉攢鞲鞴藿蘧蘅麓醮醯酃霪靄霨黼嚯躕蹶蹽蹼蹵蹾躥蠖蠓蟾蠊黢髖髕鑔籀籟齁魑艨鰳鰾鱈鰻鱅麒鏖羸㸆瀚瀣瀛襦讖襞驥纘瓚攘蘩蘖醴霰酆矍曦躅鼉巉黷黥黲鑣鑞黧篹璺鼯臢鱖鱔鱒䝔貛孀驤瓘鼙醺礴顰曩鱧癲麝夔爝灝禳鐾羼蠡耱懿蘸鸛霾氍饕躐髑鑱穰饔鬻鬟趲攫攥顴躦鼴癯麐蠲蠹躞衢鑫灞襻纛鬣攮囔饢戇爨齉亍尢彳卬殳𠙶毌邘戔圢氕伋仝冮氿汈氾忉宄訏訒扞圲圫芏芃朳朸𨙸邨吒吖屼屾辿釓仳俔伈癿甪邠犴冱邡閆澫汋訢訩詝孖紃纊玒玓玘瑒剗塸壢坉扽埨坋扺撝毐芰芣苊苉芘芴芠蔿芤杕杙杄杧榪尪尨軑軏坒芈旴旵咼㕮岍㠣岠岜呇冏覎岙伾㑳伭佖伲佁颺狃閌汧汫潕湋澐沘浿汭㳇沇忮忳忺諓禡詗邲詘詖屭彄岊阽䢺阼妧妘𨚕紘馹馼紵紞駃紖玤玞瑲玟邽邿坥坰坬坽弆耵䢼𦭜茋薴苾苠枅棡枘枍矼矻匼軝暐晛旿昇昄昒昈咉咇咍岵崬岨岞峂㟃囷釴釤鍆鍚牥佴垈侁侹佸佺隹㑊侂佽侘郈舠鄶郃攽肭肸肷狉獮飿忞於炌炆泙沺泂泜泃泇怊嶨穸祋祊詷詪鄩鳲弢弨陑隑陎隮卺乸妭姈娙逕叕駓駔駉絅騶䮄紼紿砉耔㛃玶珇珅瓅珋玹珌玿韍垚墶垙塏埏垍耇垎堖垟垞挓垵垏拶荖荁薘蕘茈茽荄茺蔄荓茳𦰡茛葒㭕柷柃柊枹栐柖郚剅鳾迺厖砆砑砄耏奓龑軹軤轢軺昺睍曨盷咡咺昳昣噠昤昫昡咥昪虷虸哃峘耑峛𪨰峗峧帡鈃鈇鉅鋹釿錀鈧鈥鈄矧秬倈舁俜俙俍垕衎艤弇侴鶬䏡胠𦙶胈胩胣朏颭訄餏庤疢炣炟㶲洭洘洓洿㳚泚湞溮洸洑洢洈洚洺洨滻㳘洴洣恔宬窀扂褘祏祐祕叚陧陞娀姞姱姤姶姽枲絰駰絪駪綎綖彖驫恝珪珛珹琊玼珖勣珽珦珫珒璕珢珕珝𡑍埗垾垺埆垿埌埇莰茝䓣鄀薟莝藭莙栻椏梜桄梠栴梴栒酎酏頍砵砠砫砬硜恧翃郪輄輈輇剕貲哢晅晊嗊哳哱冔曄晐暉畖蚄蚆鄳幬崁峿輋嶮帨崀贐鉥鉕鑪鉮鉊鉧眚甡笫倻倴脩倮倕倞僤倓倧衃虒舭舯舥瓞鬯鴒脎朓胲虓魛狴峱狻眢餗勍痄疰痃竘羖羓桊敉烠烔烶烻燖涍浡浭浬涄溳涐浰浟浛浼浲涘悈悃悢礐宧窅窊窵扅扆袪袗襏祧隺堲疍𨺙陴烝砮㛚哿翀翂剟駼絺綌騂綄䂮璡珸珵琄琈琀珺掭堎堐埼掎埫堌晢墠掞埪壼㙍聹菝蘀菥莿䓫勩䓬萆菂菍菼萣罃菉䓛檮梽桲棶桯梣梌桹敔厴硔䃮磑礄硊硍勔鴷齕逴唪啫翈㫰晙畤頔趼跂蛃蚲蝀蚺嘽䎃崧崟崞崒崌崡鉶銈鉷銪鐽鋮鋣銍銱銩鐋牻牿稆笱笯偰偡鵂偭偲偁㿠鄅偓徛衒舳舲鵃悆鄃瓻貙腡脞脟䏲魢猇猊猄觖𠅤庱廎庳痓鵁竫堃閿羝羕焆烺焌淏漍淟淜淴淯湴涴璗㥄惛惔悰惙寁逭諲諴袼褌祲諟謏諝艴弸弶隤隃婞娵婼媖嫿婍婌婫婤婘婠綪綝騑騊綯綡綧驌騄絜珷琲琡琟琔琭堾堼揕㙘堧喆堨塅堠縶塿𡎚葜惎萳葙靬葴蕆蒈鄚蕢蓇萩蒐葰葎鄑蒎葖蒄萹棤棽棫椓椑櫍鵐椆棓棬棪椀楗鵏甦醱覿奡皕硪欹讋輗輬棐齗齘黹牚睎晫晪晱𧿹蛑畯斝喤崶嵁嵽崾嵅崿嶔翽顗圌圐贔淼賙䥑鐒𨧀鋱銶鋗鋝鋶鐦鋐鋟犇頲稌筀筘簹筥筅傃傉翛傒傕舾畬頫脿膕䐃腙腒頠䰾猰鵟猯㺄餶凓鄗廞廋廆鄌粢遆旐闉焞燀欻濆溚濚湝渰湓㴔渟溠渼漊湣湑溞愐愃斆甯棨扊襝祼婻媆媞㛹媓媂媄毿矞騞騠緼線騤瑃瑓瑅瑆鶄瑖瑝瑔瑀𤧛瑳瑂嶅瑑遘髢塥堽赬摛塝搒搌蒱蒨蓏蔀蓢蓂蒻蕷椹楪榃榅楒楞楩櫬椸楙歅醲碃碏碈磾硿鄠輼輶輮齠觜䣘暕鵾噁㬊暅跱蜐蜎嵲賵骱錆錤鍩鍈鑕鍃錞錇錟𨨏稑稙穇篢筻篔筶筦筤傺鵯僇艅艉谼貆腽腨腯鮋鮓鮊鮣鮈鮀鮍雊猺颸觟膢饁裛廒瘀癉鄘鶊鄜麀鄣闒闑煁煃煴煋煟煓灄溍溹滆滉溦溵漷滧滘滍愭慥慆塱襀裼禋禔禘禒譾鷫頵愍嫄媱戤勠戣騵騱縗耤瑧璊瑨瑱璦瑢斠摏墕墈墐墘摴銎𡐓墚撖𪤗靽鞁蔌蔈蓰蘞蔊嘏榰檟欓槜榍疐鶠酺釃酲酴碶䃎𥗽碨𥔲碹碥劂鮆鶪夥瞍鶡㬎跽蜾幖嶍圙鎝鍾鎪鍠鍭鍰鎄鎡鐨鎇馝鶖籜箖劄僬僦僔僎槃㙦鮚鮞鰤鮦鰂鮜鱠鮡鮠鮟夐獍飀鸑凘廑廙瘞瘥瘕鮺鄫熇漹漖瀠漤潩漼漴㽏漈漋漻慬窬窶㮾譓褕禛禚隩嫕嫭嫜嫪縯㻬表中为半包围结构璆漦靆墣墦墡劐薁蕰蔃鼒槱鷊磏磉殣憖霅暵暲暶踦踣螮蝘蝲蝤噇噂噀罶嶲嶓㠇嶟嶒鏌鎛钂鎿鎓鎔稹儇皞皛鷉艎艏鶲鮸鰷鮶鯒橥觭鶹鶺餱糈翦鷁鶼熛潖潵㵐澂瀂瑬潽潾潏憭憕鶱戭褯禤譞嫽遹驎璥璲璒憙擐鄹薳鞔黇蘋蕗薢蕹橞橑橦醑觱磡𥕢磜豶䡵齮齯鹺虤暿曌曈㬚蹅踶䗛螗疁㠓幪巘嶦鏏鐄䥕馞穄篚籛簉鼽衠盦螣縢鯖鯕鯫鯴鰺饘嚲癀瘭鷟羱糒燋熻燊燚燏濩濋澪澽澴澭澼憷憺懔黌嬛鷚翯繶璱瓛璬璮髽擿薿薸檑櫆檞醨繄磹磻瞫瞵蹐蠨㘚𨭎鏷𨭆鐇鑥鐠鏻鐏鐩鐍矰穙穜穟簕簃簏儦魋斶艚鷭谿鰆鯻鰏鰊鱨鰛鰃鰁鱂獯䗪馘襴襚鱀螱甓嬬嬥繻纁瓀釐鬹爇鞳鞮虉藟藦藨鸏檫黶礞礌𥖨蹢蹜蟫䗴嚚髃鐶鐿酇馧簠簝簰鼫鼩皦臑鰧鰟鰜鸌鸇癗𦒍旞翷囅䎖瀔瀍瀌襜鸊纆嚭㰀鬷醭蹯蠋翾鰵儳儴鼗鰶鱇䲁鰼麑麖蠃彠嬿鬒蘘欂醵顬甗𨟠巇酅髎犨鱚𨭉㸌爔瀱瀹瀼瀵襫孅驦纕耰𤫉瓖鬘趯齼罍鼱鱯鱤鱣爟爚灈韂糵蘼礵鸘躔皭龢䲘亹籥鼷鱲玃醾齇觿蠼";
+			
+			return contains(eightThousand, thisCharacter);
+		} // end function isCharacter
+		
+		
+		
+		// isChinese - check if the character is in the unihan dictionary 
+		function isChinese(thisCharacter)
+		{
+			var charCode = thisCharacter.charCodeAt(0);
+		
+			if (charCode >= 13312)
+			{
+				if (charCode <= 64217)
+				{
+					return true;
+				}
+			}
+			
+			if (charCode >= 131072)
+			{
+				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			return false;
+			
+		} // end function isChinese
+		
+		function loadComposition(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						compositionData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadComposition
+
+		
+		function loadGenealogies(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						genealogiesData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadGenealogies
+
+
+		function loadPinyinDefinitions(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						pinyinDefinitionData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadPinyinDefinitions
+
+
+		function loadLongWords(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						longWords = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadLongWords
+
+
+
+		
+		function dictionaryCharacter(thisCharacter)
+		{
+		
+			if (contains(pinyinDefinitionData, thisCharacter) == true)
+			{
+				var thisCharacterLine = textBetween(pinyinDefinitionData, thisCharacter + "	", "\r");
+				
+				var thisPinyin = textBetween(thisCharacterLine, "start", "	");
+				var thisDefinition = textBetween(thisCharacterLine, "	", "end");
+			
+				document.getElementById("pinyin").innerHTML = thisPinyin;
+				document.getElementById("definition").innerHTML = thisDefinition;
+				
+				return;
+			} // end if the dictionary contains the character already
+		
+			var codePointDecimal = fixedCharCodeAt(thisCharacter, 0);
+			
+			var hexCode = codePointDecimal.toString(16).toUpperCase();
+			
+			document.getElementById("charCode").innerHTML = hexCode;
+
+			var dictionaryUrl = "dictionary.php?charCode=" + hexCode;
+		
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						var thisChinese = xmlhttp.responseText;
+					    
+						var thisPinyin = textBetween(thisChinese, "kMandarin=\"", "\"");
+						var thisDefinition = textBetween(thisChinese, "kDefinition=\"", "\"");
+						
+						document.getElementById("pinyin").innerHTML = thisPinyin;
+						document.getElementById("definition").innerHTML = thisDefinition;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+			
+			xmlhttp.open("GET", dictionaryUrl, true);
+			xmlhttp.send();
+		} // end function dictionaryCharacter
+		
+		function searchManyCharacters(inputCharacters)
+		{
+		
+				var numberInput = inputCharacters.length;
+				
+				var startCharacter = inputCharacters[0];
+				
+				var childCharacterArray = genealogiesData.split(startCharacter + ",");
+
+				//var childCharacterArray = genealogiesData.match(/^(.*木,.*回,.*)$/gm);
+				
+				// 木回
+				
+				var searchRegexString = "^";
+				
+				for (var currentInput = 0; currentInput < numberInput; currentInput++)
+				{
+					var thisInput = inputCharacters[currentInput];
+					
+					searchRegexString = searchRegexString + "(.*" + thisInput + ",.*)";
+				}
+				
+				searchRegexString = searchRegexString + "$";
+				
+				var searchRegex = new RegExp(searchRegexString, "gm");
+				
+				//document.write(searchRegex);
+				
+				var childCharacterArray = genealogiesData.match(searchRegex);
+				//var childCharacterArray = genealogiesData.match(/^(.*木,.*)(.*回,.*)$/gm);
+
+				
+				var numberChildren = 0;
+				
+				childCharacters = "";
+
+				for (var currentItem = 0; currentItem < childCharacterArray.length; currentItem++)
+				{
+					var thisItem = childCharacterArray[currentItem];
+				
+					var thisItemLines = thisItem.split(/\r?\n/);
+				
+					var lastLine = thisItemLines[thisItemLines.length - 1];
+				
+					var thisChild = textBetween(lastLine, "start", " ");
+					
+					
+					var childGenealogy = textBetween(genealogiesData, thisChild + " ", "\n");
+				
+					// algorithm problem: must search whole genealogy not only filter direct children.
+				
+					var keepChild = true;
+				
+					for (var currentInput = 1; currentInput < numberInput; currentInput++)
+					{
+						var thisInput = inputCharacters[currentInput];
+					
+						if (contains(childGenealogy, thisInput) == false)
+						{
+							keepChild = false;
+						}
+						
+					} // end for every other input character
+					
+					if (keepChild == true)
+					{
+				
+						 var thisChildTag = thisChild;
+					
+						 if (isNumeric(thisChild) == true)
+						 {
+				
+							 childComposition = textBetween(compositionData, thisChild + ":", ")");
+							 //childComposition = textBetween(compositionData, thisChild + " ", "\n");
+					
+							 childLeft = textBetween(thisComposition, "(", ",");
+							 childRight = textBetween(thisComposition, ",", "end");
+
+							 //childLeft = textBetween(thisComposition, " ", ",");
+							 //childRight = textBetween(thisComposition, ",", ",");
+				
+							 thisChildTag = thisChild + "<br>(" + childLeft + "," + childRight + ")";
+						 }
+		
+						 thisChild = "<div onclick='clickCharacter(\"" + thisChild + "\")'>" + thisChildTag + "</div>";
+
+						 childCharacters = childCharacters + "<td>" + thisChild + "</td>";
+				
+						 numberChildren = numberChildren + 1;
+				
+						 if ((numberChildren % 3) == 0)
+						 {
+							 childCharacters = childCharacters + "</tr><tr class='children'>";
+						 }
+					}
+					
+					
+				} // end for every descendant of the first character
+
+			childCharacters = "<table>" + childCharacters + "</table>";
+			
+			var childTable = document.getElementById("childCharacters");
+			childTable.innerHTML = childCharacters;
+
+
+		} // end function searchManyCharacters
+		
+		function searchCharacter()
+		{			
+			var inputCharacters = document.getElementById("startCharacter").value;
+			
+			var numberInput = inputCharacters.length;
+			
+			if (numberInput > 1)
+			{
+				return searchManyCharacters(inputCharacters);
+			} // end if there are more than one character
+			
+			startCharacter = inputCharacters[0];
+			
+			
+			// The iPhone can't cope with loading the dictionary into RAM
+			//var thisChinese = textBetween(dictionaryData, "<char cp=\"" + hexCode, "/>");
+			
+			//alert(startCharacter);
+			
+			thisComposition = textBetween(compositionData, startCharacter + ":", ")");
+			
+			//thisComposition = textBetween(compositionData, startCharacter + " ", "end");
+			
+			//thisLeft = textBetween(thisComposition, "start", ",");
+			//thisRight = textBetween(thisComposition, ",", ",");
+			
+			thisLeft = textBetween(thisComposition, "(", ",");
+			thisRight = textBetween(thisComposition, ",", "end");
+			
+			
+			thisLeft = "<div onclick='clickCharacter(\"" + thisLeft + "\")'>" + thisLeft + "</div>";
+			thisRight = "<div onclick='clickCharacter(\"" + thisRight + "\")'>" + thisRight + "</div>";
+			
+			document.getElementById("leftCharacter").innerHTML = thisLeft;
+			document.getElementById("rightCharacter").innerHTML = thisRight;
+			
+			//alert(thisComposition);
+			
+			var childCharacters = "";
+			
+			var numberChildren = 0;
+			
+			var childCharacterLeftArray = compositionData.split(startCharacter + ",");  
+
+			for (var currentItem = 0; currentItem < childCharacterLeftArray.length; currentItem++)
+			{
+				var thisItem = childCharacterLeftArray[currentItem];
+				
+				var thisItemLines = thisItem.split(/\r?\n/);
+				
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+				
+				var thisChild = textBetween(lastLine, "start", ":");
+								
+				var thisChildTag = thisChild;
+		  
+				if (isNumeric(thisChild) == true)
+				{
+		  
+					childComposition = textBetween(compositionData, thisChild + ":", ")");
+					//childComposition = textBetween(compositionData, thisChild + " ", "\n");
+			  
+					childLeft = textBetween(thisComposition, "(", ",");
+					childRight = textBetween(thisComposition, ",", "end");
+
+					//childLeft = textBetween(thisComposition, " ", ",");
+					//childRight = textBetween(thisComposition, ",", ",");
+		  
+					thisChildTag = thisChild + "<br>(" + childLeft + "," + childRight + ")";
+				}
+  
+				thisChild = "<div onclick='clickCharacter(\"" + thisChild + "\")'>" + thisChildTag + "</div>";
+
+				childCharacters = childCharacters + "<td>" + thisChild + "</td>";
+		  
+				numberChildren = numberChildren + 1;
+		  
+				if ((numberChildren % 3) == 0)
+				{
+					childCharacters = childCharacters + "</tr><tr class='children'>";
+				}
+				
+			} // end for every child character where startCharacter is on the left
+						
+			childCharacters = childCharacters + "</tr><tr>";
+			
+			var childCharacterRightArray = compositionData.split("," + startCharacter);  
+
+			for (var currentItem = 0; currentItem < childCharacterRightArray.length; currentItem++)
+			{
+				var thisItem = childCharacterRightArray[currentItem];
+				
+				var thisItemLines = thisItem.split(/\r?\n/);
+				
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+				
+				var thisChild = textBetween(lastLine, "start", ":");
+				
+				var thisChildTag = thisChild;
+		   
+				if (isNumeric(thisChild) == true)
+				{
+		   
+					childComposition = textBetween(compositionData, thisChild + ":", ")");
+					//childComposition = textBetween(compositionData, thisChild + " ", "\n");
+
+					childLeft = textBetween(thisComposition, "(", ",");
+					childRight = textBetween(thisComposition, ",", "end");
+			   
+					//childLeft = textBetween(thisComposition, " ", ",");
+					//childRight = textBetween(thisComposition, ",", ",");
+		   
+		   
+					thisChildTag = thisChild + "<br>(" + childLeft + "," + childRight + ")";
+				}
+   
+				thisChild = "<div onclick='clickCharacter(\"" + thisChild + "\")'>" + thisChildTag + "</div>";
+
+				childCharacters = childCharacters + "<td>" + thisChild + "</td>";
+		   
+				numberChildren = numberChildren + 1;
+		   
+				if ((numberChildren % 3) == 0)
+				{
+					childCharacters = childCharacters + "</tr><tr class='children'>";
+				}
+				
+			} // end for every child character where startCharacter is on the left
+			
+			childCharacters = "<table>" + childCharacters + "</table>";
+			
+			var childTable = document.getElementById("childCharacters");
+			childTable.innerHTML = childCharacters;
+
+			//$('#characterTable tr:last').after("<tr id='children'>" + childCharacters + "</tr>");
+			
+						
+			
+			dictionaryCharacter(startCharacter);
+			
+		} // end function searchCharacter
+
+		function typeCharacter(thisCharacter)
+		{
+			var inputCharacters = document.getElementById("startCharacter").value;
+			inputCharacters = inputCharacters + thisCharacter;
+			
+			document.getElementById("startCharacter").value = inputCharacters;
+			
+			var childTable = document.getElementById("childCharacters");
+			childTable.innerHTML = "";
+			
+			searchCharacter();
+			
+		} // end function typeCharacter
+
+		function clickCharacter(thisCharacter)
+		{
+			document.getElementById("startCharacter").value = thisCharacter;
+			
+			var childTable = document.getElementById("childCharacters");
+			childTable.innerHTML = "";
+			
+			searchCharacter();
+			
+		} // end function clickCharacter
+		
+		function getGenealogy()
+		{
+			//genealogy = genealogy.replace(/,\s*$/, "");
+
+			return genealogy;
+		} // end getAncestors		
+		
+		function getAncestors()
+		{
+			//ancestors = ancestors.replace(/,\s*$/, "");
+
+			return ancestors;
+		} // end getAncestors
+		
+		function findAncestors(thisCharacter, maxLevel, thisLevel)
+		{
+			var thisParents = getParents(thisCharacter, thisLevel);
+			var thisLeft = thisParents[0];
+			var thisRight = thisParents[1];
+			
+			if (thisLevel < maxLevel)
+			{
+				findAncestors(thisLeft, maxLevel, thisLevel + 1);
+				findAncestors(thisRight, maxLevel, thisLevel + 1);
+			} // if there are still more levels of recursion to continue
+
+		} // end function findAncestors
+		
+		function getParents(thisCharacter, thisLevel)
+		{
+			var thisParents = new Array();
+			var numberParents = 0;
+			
+			thisComposition = textBetween(compositionData, thisCharacter + ":", ")");
+
+			thisLeft = textBetween(thisComposition, "(", ",");
+			thisRight = textBetween(thisComposition, ",", "end");
+			
+			if (thisLeft != "")
+			{
+				thisParents.push(thisLeft);
+				numberParents = numberParents + 1;
+				
+				//if (isCharacter(thisLeft) == true)
+				//{
+					if (contains(genealogy, thisLeft) == false)
+					{
+						genealogy = genealogy + thisLeft + ",";
+						
+					} // end if the genealogy does not already contain thisLeft
+				//} // end if thisLeft is a character
+				
+			} // end left
+			
+			if (thisRight != "")
+			{
+				thisParents.push(thisRight);
+				numberParents = numberParents + 1;
+				
+				//if (isCharacter(thisRight) == true)
+				//{
+					if (contains(genealogy, thisRight) == false)
+					{
+						genealogy = genealogy + thisRight + ",";
+						
+					} // end if the genealogy does not already contain thisLeft
+				//} // end if thisLeft is a character
+				
+			} // end right
+			
+			if (thisLeft == "")
+			{
+				if (thisRight == "")
+				{
+					if (thisCharacter != undefined)
+					{
+						if (contains(ancestors, thisCharacter) == false)
+						{
+							ancestors = ancestors + thisCharacter + ",";
+							
+							if (highestLevel < thisLevel)
+							{
+								highestLevel = thisLevel;
+							} // end set the highest level
+						} // end add to ancestors
+					} // end if this character is undefined
+					
+				} // end if it has no right
+			} // end if it has no left
+			
+			
+			return thisParents;
+			
+		} // end function getParents
+		
+		function findChildren(thisCharacter)
+		{
+			var numberLeft = 0;
+			var numberRight = 0;
+			
+			var leftChildren = new Array();
+			var rightChildren = new Array();
+			var allChildren = new Array();
+			
+			var childCharacterLeftArray = compositionData.split(thisCharacter + ",");  
+
+			for (var currentItem = 0; currentItem < childCharacterLeftArray.length; currentItem++)
+			{
+				var thisItem = childCharacterLeftArray[currentItem];
+				
+				var thisItemLines = thisItem.split(/\r?\n/);
+				
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+				
+				var thisChild = textBetween(lastLine, "start", ":");
+				
+				leftChildren.push(thisChild);
+				allChildren.push(thisChild);
+								
+				numberLeft = numberLeft + 1;
+				
+			} // end for every child character where startCharacter is on the left
+			
+			numberLeft = numberLeft - 1;
+			
+
+			var childCharacterRightArray = compositionData.split("," + thisCharacter);  
+
+			for (var currentItem = 0; currentItem < childCharacterRightArray.length; currentItem++)
+			{
+				var thisItem = childCharacterRightArray[currentItem];
+				
+				var thisItemLines = thisItem.split(/\r?\n/);
+				
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+				
+				var thisChild = textBetween(lastLine, "start", ":");
+								
+				rightChildren.push(thisChild);
+				allChildren.push(thisChild);
+				
+			} // end for every child character where startCharacter is on the left
+
+			numberRight = numberRight - 1;
+			
+			return allChildren;
+			
+		} // end function findChildren
+
+		function fourHundredGenealogy()
+		{
+		
+			var theseCharacters = ["愛", "吧", "爸", "罷", "把", "八", "巴", "白", "佰", "半", "板", "搬", "幫", "抱", "包", "杯", "盃", "本", "比", "筆", "便", "病", "丙", "不", "布", "步", "才", "菜", "彩", "採", "草", "操", "茶", "常", "唱", "場", "晨", "池", "吃", "蟲", "出", "船", "穿", "窗", "吹", "春", "次", "從", "答", "大", "打", "當", "倒", "到", "稻", "的", "得", "等", "燈", "弟", "第", "低", "店", "掉", "碟", "蝶", "丁", "動", "洞", "冬", "東", "讀", "肚", "短", "對", "堆", "多", "兒", "二", "耳", "法", "房", "方", "粉", "分", "蜂", "服", "該", "糕", "個", "各", "哥", "歌", "給", "根", "共", "公", "功", "工", "狗", "故", "掛", "瓜", "光", "果", "哈", "孩", "害", "汗", "好", "和", "河", "禾", "喝", "很", "紅", "候", "後", "蝴", "忽", "畫", "話", "花", "換", "回", "會", "火", "級", "記", "己", "幾", "假", "甲", "加", "家", "件", "見", "叫", "教", "腳", "角", "交", "潔", "結", "姐", "接", "街", "今", "巾", "淨", "睛", "就", "九", "句", "看", "客", "課", "可", "肯", "空", "口", "哭", "塊", "快", "拉", "來", "老", "了", "樂", "冷", "力", "禮", "裏", "臉", "涼", "亮", "兩", "林", "留", "六", "綠", "落", "嗎", "媽", "慢", "滿", "忙", "毛", "帽", "貓", "沒", "妹", "每", "們", "蜜", "米", "棉", "名", "明", "木", "母", "拿", "男", "呢", "能", "泥", "你", "年", "牛", "女", "爬", "怕", "排", "拍", "旁", "朋", "匹", "片", "婆", "破", "氣", "七", "期", "前", "強", "橋", "親", "情", "晴", "請", "清", "球", "秋", "去", "全", "熱", "人", "認", "日", "容", "肉", "入", "三", "掃", "色", "扇", "山", "上", "少", "燒", "甚", "深", "勝", "升", "生", "聲", "十", "實", "時", "石", "事", "室", "是", "師", "手", "熟", "數", "樹", "耍", "刷", "誰", "睡", "水", "說", "四", "司", "算", "歲", "他", "她", "太", "談", "糖", "桃", "甜", "田", "條", "停", "聽", "同", "痛", "兔", "娃", "外", "完", "玩", "晚", "碗", "位", "尾", "問", "溫", "我", "物", "五", "午", "屋", "習", "細", "喜", "洗", "西", "下", "夏", "現", "先", "像", "向", "想", "校", "笑", "小", "寫", "些", "信", "心", "新", "行", "姓", "興", "星", "學", "呀", "牙", "燕", "眼", "羊", "樣", "搖", "要", "咬", "葉", "也", "冶", "易", "乙", "以", "已", "椅", "一", "衣", "應", "用", "油", "游", "又", "右", "友", "有", "元", "園", "圓", "月", "約", "再", "在", "早", "澡", "站", "張", "找", "爪", "著", "真", "正", "只", "指", "紙", "枝", "知", "種", "中", "竹", "住", "煮", "豬", "捉", "桌", "子", "字", "自", "仔", "姊", "走", "最", "昨", "作", "做", "坐", "左"];
+			
+			var numberCharacters = theseCharacters.length;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = theseCharacters[currentCharacter];
+								
+				getAncestors(thisCharacter, 10, 1);
+			} // end for every character
+			
+			ancestors = ancestors + highestLevel;
+			
+			document.write(ancestors);
+			
+			return ancestors;
+			
+		} // end function fourHundredGenealogy
+
+		function findGenealogy(thisCharacter)
+		{
+			//var thisCharacter = "愛";
+			//var thisCharacter = "高";
+			
+			ancestors = "";
+			genealogy = "";
+			
+			findAncestors(thisCharacter, 10, 1);
+			var thisAncestors = getAncestors();
+			
+			//var thisChildren = findChildren(thisCharacter);
+			
+			var thisGenealogy = getGenealogy();
+			
+			return thisGenealogy;
+			
+		} // end function findGenealogy
+
+		function firstWord(thisString)
+		{
+			thisString = thisString.replace(/;/g, ',');
+			thisString = thisString.replace(/ /g, ',');			
+			
+			var thisWord = textBetween(thisString, "start", ",");
+			
+			return thisWord;
+		} // end function firstWord
+
+		function addToPhrase()
+		{
+			var thisCharacter = document.getElementById("startCharacter").value;
+			var thisPinyin = document.getElementById("pinyin").innerHTML;
+			var thisEnglish = firstWord(document.getElementById("definition").innerHTML);
+			
+			var thisPhrase = document.getElementById("thisPhrase").value;
+			
+			var thisPhraseLines = thisPhrase.split("\n");
+			
+			thisPhraseLines[0] = thisPhraseLines[0] + thisCharacter;
+			
+			if (thisPhraseLines[1] == undefined)
+			{
+				thisPhraseLines[1] = "";
+			}
+			
+			thisPhraseLines[1] = thisPhraseLines[1] + thisPinyin + " ";
+
+			if (thisPhraseLines[2] == undefined)
+			{
+				thisPhraseLines[2] = "";
+			}
+			
+			thisPhraseLines[2] = thisPhraseLines[2] + thisEnglish + " ";
+			
+			thisPhrase = thisPhraseLines.join("\n");
+			
+			document.getElementById("thisPhrase").value = thisPhrase;
+		} // end function addToPhrase
+
+		function showKeyboard()
+		{
+			document.getElementById("keyboard").style.visibility = "visible";
+			document.getElementById("keyboard").style.height = "auto";
+			document.getElementById("keyboard").style.width = "auto";
+		} // end function showKeyboard
+
+		function saveToLocalStorage()
+		{
+			localStorage["phrase"] = document.getElementById("thisPhrase").value;
+
+		} // end function save
+
+		function loadFromLocalStorage()
+		{
+			document.getElementById("thisPhrase").value = localStorage["phrase"];
+		} // end function load
+
+		function clearPhrase()
+		{
+			document.getElementById("thisPhrase").value = "";
+		} // end function clear
+		
+		function wordSpace()
+		{
+			var thisPhrase = document.getElementById("thisPhrase").value;
+			
+			var thisPhraseLines = thisPhrase.split("\n");
+			
+			var thisChinese = thisPhraseLines[0];
+			var thisPinyin = thisPhraseLines[1];
+			var thisEnglish = thisPhraseLines[2];
+			
+			var numberCharacters = thisChinese.length;
+			
+			var spacedChinese = "";
+			
+			var lastWasNotChinese = false;
+			
+			for (var currentCharacter = 0; currentCharacter <= numberCharacters; currentCharacter++)
+			{
+				var thisWord = "";
+				
+				var wordFound = false;
+												
+				for (var wordLength = 5; wordLength >= 2; wordLength--)
+				{
+				
+					var lastCharacter = currentCharacter + wordLength;
+				
+					if (lastCharacter > numberCharacters)
+					{
+						lastCharacter = numberCharacters;
+					}
+				
+					thisWord = thisChinese.substring(currentCharacter, lastCharacter);
+					
+										
+					if (contains(longWords, wordLength + " " + thisWord) == true)
+					{
+						// Move the character along in the string
+						currentCharacter = currentCharacter + wordLength - 1;
+						
+						wordFound = true;
+						
+						// Exit the loop cleanly
+						wordLength = 0;
+					} // if the word exists
+					
+				} // end for every word length
+				
+				// If the word is not found, just use the character
+				if (wordFound == false)
+				{
+					var thisCharacter = thisChinese[currentCharacter];
+					
+					if (isChinese(thisCharacter) == false)
+					{
+						// Don't add spaces between non-Chinese characters
+						spacedChinese = spacedChinese + thisCharacter;
+						
+						lastWasNotChinese = true;
+						
+					} else {
+						
+						// Add a space if we're back to parsing Chinese
+						if (lastWasNotChinese == true)
+						{
+							spacedChinese = spacedChinese + " ";
+							lastWasNotChinese = false;
+						}
+						
+						spacedChinese = spacedChinese + thisCharacter + " ";					
+
+					} // end if this character is not Chinese
+					
+				} else {
+
+					// Add a space if we're back to parsing Chinese
+					if (lastWasNotChinese == true)
+					{
+						spacedChinese = spacedChinese + " ";
+						lastWasNotChinese = false;
+					}
+
+
+					spacedChinese = spacedChinese + thisWord + " ";
+
+				} // end if the word was not found
+								
+				
+			} // end for every character
+			
+			thisPhrase = spacedChinese + "\n" + thisPinyin + "\n" + thisEnglish;
+			
+			document.getElementById("thisPhrase").value = thisPhrase;
+						
+		} // end function wordSpace
+		
+		
+
+		document.getElementById("keyboard").style.visibility = "hidden";
+
+
+		loadComposition("cjk-decomp-0.4.0.txt");
+		loadGenealogies("Genealogies.txt");
+		loadPinyinDefinitions("PinyinDefinitions.txt");
+		loadLongWords("cedictPlusAndtsu8AndBibleWords2-5.txt");
+				
+		// This overloads the iPhone
+		//$.get('ucd.unihan.grouped.xml', function(data) 
+		//	{
+		//		loadDictionary(data);
+		//	}, 'text');
+			
+			
+	</script>
+	
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+<html>
+
+	<head>
+	<title>Matrix</title>
+	<meta charset="utf-8" />
+
+	<!-- From http://thecodeplayer.com/walkthrough/matrix-rain-animation-html5-canvas-javascript -->	
+	<style>
+/*basic reset*/
+* {margin: 0; padding: 0;}
+/*adding a black bg to the body to make things clearer*/
+body {background: black;}
+canvas {display: block;}
+	</style>
+	</head>
+
+	<body>
+		<canvas id="thisCanvas"></canvas>
+	</body>
+
+	<script>
+		var thisCanvas = document.getElementById("thisCanvas");
+		var ctx = thisCanvas.getContext("2d");
+
+		//making the canvas full screen
+		thisCanvas.height = window.innerHeight;
+		thisCanvas.width = window.innerWidth;
+
+		//chinese characters - taken from the unicode charset
+		var chinese = "田由甲申甴电甶男甸甹町画甼甽甾甿畀畁畂畃畄畅畆畇畈畉畊畋界畍畎畏畐畑";
+		//converting the string into an array of single characters
+		chinese = chinese.split("");
+
+		var font_size = 64;
+		var numberColumns = thisCanvas.width/font_size; //number of columns for the rain
+		//an array of drops - one per column
+		var drops = [];
+		//x below is the x coordinate
+		//1 = y co-ordinate of the drop(same for every drop initially)
+		for(var currentColumn = 0; currentColumn < numberColumns; currentColumn++)
+		{
+			drops[currentColumn] = 1; 
+		}
+		
+		var dropsText = "唱,口,昌,囗,⺆,㇆,日;佰,亻,百,白,日,口,囗,⺆,㇆";
+
+		//drawing the characters
+		function draw()
+		{
+			//Black BG for the canvas
+			//translucent BG to show trail
+			ctx.fillStyle = "rgba(0, 0, 0, 0.25)";
+			ctx.fillRect(0, 0, thisCanvas.width, thisCanvas.height);
+	
+			ctx.fillStyle = "#0F0"; //green text
+			ctx.font = font_size + "px arial";
+			//looping over drops
+			for(var currentDrop = 0; currentDrop < drops.length; currentDrop++)
+			{
+				//a random chinese character to print
+				var text = chinese[Math.floor(Math.random()*chinese.length)];
+				//x = i*font_size, y = value of drops[i]*font_size
+				ctx.fillText(text, currentDrop*font_size, drops[currentDrop]*font_size);
+		
+				//sending the drop back to the top randomly after it has crossed the screen
+				//adding a randomness to the reset to make the drops scattered on the Y axis
+				if(drops[currentDrop]*font_size > thisCanvas.height && Math.random() > 0.975)
+				{
+					drops[currentDrop] = 0;
+				}
+		
+				//incrementing Y coordinate
+				drops[currentDrop]++;
+			}
+		}
+
+		setInterval(draw, 500);
+
+	</script>
+
+</html>

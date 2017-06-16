@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+	<head>
+		<title>Documentation</title>
+		<meta charset="utf-8" />
+		
+		<style type="text/css">
+			table, th, td {
+			   margin:0px 100px; 
+			   border: 1px solid black;
+			   border-collapse: collapse;
+			   text-align: center;
+			}
+			div.heading {
+				text-decoration: none;
+				font-family:sans-serif;
+				font-size:large;
+				color:black;
+			}
+			div.heading a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			body { 
+				margin:0px 50px; 
+				padding:50px; 
+				font-family:sans-serif;
+			}
+			div.majorlink { 
+				margin:5px 50px; 
+				font-family:sans-serif;
+				font-size:medium;
+				color:blue;
+				
+			}
+			div.majorlink a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+			
+			div.wrappingDiv
+			{
+				width:50%;
+				white-space:normal
+			}
+			
+		</style>
+	</head>
+	
+	<body>
+	
+		<div class="heading">
+			<h1>
+				Pingtype Documentation
+			</h1>
+		</div>
+		
+		<p>2017-04-25</p>
+		
+		<p>Questions? Please email me at:
+			<div class="majorlink">
+				 <a href="mailto:peterburk@gmail.com" target=_blank>peterburk@gmail.com</a>
+			</div>
+		</p>
+
+		<p>Are you a programmer? Then please read the <a href="developerNotes.html" target=_blank>developer notes</a>. </p>
+		
+		<div class="wrappingDiv">
+			<a href="../index.html" target=_blank>Pingtype</a> is a literal translator for Chinese. It breaks a sentence into words, puts spaces in between, then shows each word next to the pinyin and English. It also includes a text entry method based on taking characters apart and putting them back together. 
+		</div>
+		
+		<div class="heading">
+			<h2>
+				Index
+			</h2>			
+		</div>
+		
+		<div class="majorlink"><a href="#dataSources">Data sources</a></div>
+		<div class="majorlink"><a href="#learningChinese">Learning Chinese</a></div>
+		<div class="majorlink"><a href="#HTMLoutput">HTML output</a></div>
+		<div class="majorlink"><a href="#textInput">Chinese, English text input</a></div>
+		<div class="majorlink"><a href="#textOutput">Text output</a></div>
+		<div class="majorlink"><a href="#typingCharacters">Typing characters</a></div>
+		<div class="majorlink"><a href="#copyingImages">Copying from images</a></div>
+		<div class="majorlink"><a href="#memory">Memory</a></div>
+		<div class="majorlink"><a href="#edit">Editing the dictionary</a></div>
+		<div class="majorlink"><a href="advanced.html">Advanced</a></div>
+		
+		<div id="dataSources" class="heading">
+			<h2>
+				Data sources
+			</h2>
+		</div>
+		
+		<div class="wrappingDiv">
+			Pingtype needs text. Where does it come from? <a href="dataSources.html" target=_blank>Data sources</a>.
+		</div>
+
+		<div id="learningChinese" class="heading">
+			<h2>
+				Learning Chinese
+			</h2>
+		</div>
+		
+		<div class="wrappingDiv">
+			This program is only one part of my ongoing effort to learn Chinese. The user guide only explains how to use the software, so I'll write my thoughts about the education system in another <a href="learningChinese.html" target=_blank>article</a>. 
+		</div>
+		
+		<div id="HTMLoutput" class="heading">
+			<h2>
+				HTML output
+			</h2>
+		</div>
+		
+		<img src="images/htmlOutput.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+			This is the type of text that Pingtype produces. On the first line is Chinese text, with spaces between each word and colours for each tone. The second line has pinyin. The third line has a literal translation of that word into English. Finally, the fourth line has a real English translation. 
+			
+		</div>
+		
+		<div id="textInput" class="heading">
+			<h2>
+				Chinese, English text input
+			</h2>
+		</div>
+
+		<img src="images/textInput.png" width="800px"></img>
+
+		<div class="wrappingDiv">
+			Type or copy-paste your Chinese text into the first text area. If you have English text, you can type that into the second text area. Let's use a sample sentence.
+
+			<p>"星期二我在我家里為她做飯。"</p>
+			<p>"On Tuesday I cooked dinner for her in my house."</p>
+			
+			When you're ready, press the Translate button to generate the text and HTML output. 
+			
+			<p>You can leave the English text blank if you don't have it. </p>
+		</div>
+		
+		<img src="images/bilingualInput.png" width="800px"></img>
+
+		<div class="wrappingDiv">
+			If you have text in English and Chinese on alternating lines, you can paste that into the Chinese text area. The English should be on the line before the Chinese. 
+			
+		</div>
+
+		<div id="textOutput" class="heading">
+			<h2>
+				Text output
+			</h2>
+		</div>
+
+		<img src="images/textOutput.png" width="350px"></img>
+
+		<div class="wrappingDiv">
+		
+			If you want to copy-paste your text to another place (e.g. music lyrics), you may prefer to have it in plain text. The text area on the top-right has the same output in plain text. 
+		
+		</div>
+		
+		<div id="typingCharacters" class="heading">
+			<h2>
+				Typing characters
+			</h2>
+		</div>
+		
+		<img src="images/xue.png" width="150px"></img>
+		
+		<div class="wrappingDiv">
+		
+			You want to type, but Chinese is hard. Pingtype's text input box lets you take a character apart and put it back together using its parts. Each character has "parents" and "children". When you click the Search button, the parents are shown above the input box. You can click these to find "grandparents", and so on. 
+			
+			<p></p>
+			
+			The children are shown in a table underneath. For example, 斅 is 學 + 攴. If you search for 學, you can see 斅 below. 
+			<p></p>
+			
+			Some parts of characters don't have a character to represent them. These are shown as numbers (e.g. 99351). You can treat the numbers like other parents/children, and click on them to find related characters. 
+			
+			<p></p>
+			
+			Words are also shown in the table below. This is useful if a character is hard to find. Sometimes the characters next to it are easier to type, and then you can find the word. 
+			
+			<p></p>
+			
+			You can also search for many parts of a character at the same time. If you type "力" (lì) and "口" (kǒu), then only characters that include both of those parts will be shown. The one we want is probably "加" (jiā). This is useful if you can read half a character. This also shows that Traditional Characters are easier to read than Simplified. 
+			
+		</div>
+		
+		<img src="images/jia.png" width="150px"></img>
+		
+		<div class="wrappingDiv">
+			
+			There is a handwriting recognition keyboard built into iPhones. That is what I usually use to type parts of characters. I already know many characters though, and some of those have a lot of strokes (e.g. "的"). They are faster to type using pinyin. Changing keyboard is a hassle, so a pinyin keyboard is also available in Pingtype. 
+		</div>
+		
+		<img src="images/keyboard.png" width="150px"></img>
+		
+		<div class="wrappingDiv">
+			<p></p>
+			
+			When you find the character you want, click the "Insert" button to add it to the Chinese input text area. Build up a sentence, click Translate, and see the word-spaced result. 
+		
+		</div>
+		
+		<div id="copyingImages" class="heading">
+			<h2>
+				Copying from images
+			</h2>
+		</div>
+		
+		<img src="images/photo.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+		
+			If you want to copy characters from a photo, you can load one from your camera roll. Click "Choose File", and the picture will show inside the box. You can drag it around, and zoom in or out. 
+			
+			<p></p>
+			
+			I didn't know the word "顯" (xiǎn). Instead, I used the handwriting keyboard to type "明" (míng). Then I looked at the search results for words, and quickly found the word I wanted. 
+			
+			<p></p>
+			
+			Alternatively, I could have typed "頁" (yè), and tried to build up the character "顯". But "頁" has many children, so I found it faster to type "明" (míng) and search for words. I could even have typed "日" rì + "月" yuè to get "明" (míng). 
+			
+		</div>
+		
+		<div id="memory" class="heading">
+			<h2>
+				Memory
+			</h2>
+		</div>
+		
+		<img src="images/memory.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+			You finally typed a sentence! Congratulations! Now you want to save it, and type the next one. The MC, M+, and MR buttons work like a calculator. 
+			
+			<p></p>
+			
+			M+ appends the current phrase to the memory. It does not erase what is already saved. 
+			
+			<p></p>
+			
+			MR loads all the memory into the Chinese input text area. 
+			
+			<p></p>
+			
+			MC clears the memory, so you lose everything you saved. 
+			
+			<p></p>
+			
+			Clear only clears the view, it does not clear the memory. You can use MR to recall the saved phrases. 
+			
+		</div>
+		
+		<div id="edit" class="heading">
+			<h2>
+				Editing the dictionary
+			</h2>
+		</div>
+		
+		<img src="images/dictionaryEditor.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+		
+			<p>I need you!</p>
+			
+			My Chinese is not very good yet. I need to add words. I need to edit words. Sometimes I need to remove words. This is all possible using the Dictionary Editor. Please use it, and don't forget to upload! First press the Edit button to open the floating window. You can then drag that around your screen using the mouse. 
+			
+			<p>
+			</p>
+			
+			If a word does not exist, then please remove it. Copy-paste the word into the Remove text area, and click the Remove button. Then click Retranslate. Sometimes you have to do this more than once. 
+			
+		</div>
+		
+		<img src="images/yang.png" width="350px"></img>
+		<p><img src="images/buyi-yang.png" width="350px"></img></p>
+		<img src="images/bu-yiyang.png" width="350px"></img>
+
+		<div class="wrappingDiv">
+			You can also add a word to the dictionary. Copy-paste the word into the Add textarea. Don't worry if there are extra tabs; you can remove them by clicking the Search 🔍 button. This also looks up the word in the dictionary, in case you want to edit an existing word. 
+		</div>
+		
+		<img src="images/da-xue.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+			You can click the "Chars to Pinyin" button to guess the pinyin based on the characters. Note that sometimes the pronunciation changes based on the word, so you should double-check with Google Translate. For example, 一起 is pronounced yì qǐ, not yī qǐ (n.b. Google Translate is wrong about this). You can change the tone by adding tone numbers, and then pressing the "# to marks" button to turn that into tone marks. There is also a bopomofo keyboard for typing the pinyin, if you prefer that. 
+		</div>
+		
+		<p><img src="images/addWord.png" width="350px"></img></p>
+		
+		<div class="wrappingDiv">
+			Then type the English word that has the same meaning as the Chinese word, and click Add. Then click Retranslate, and see that the word has been combined into one.  
+		</div>
+		
+		<img src="images/daxue.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+			You can also edit definitions using the Add button. If the word already exists, the new definition will be used. 
+		</div>
+		
+		<p></p>
+		
+		<img src="images/upload.png" width="350px"></img>
+		
+		<div class="wrappingDiv">
+			Please upload your changes so I can fix the dictionary on my server! Just click the upload button. 
+		</div>
+		
+	</body>
+</html>

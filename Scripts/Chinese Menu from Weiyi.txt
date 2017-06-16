@@ -1,0 +1,59 @@
+牛	725B	ptif	Niú	Cow
+雞	96DE	sojk	Ji	Chicken
+豬	8C6C	ahoh	Zhu	Pig
+羊	7F8A	plad	Yáng 	Sheep; Lamb
+魚	9B5A	sfid	Yú	Fish
+肉	8089	aeas	Roù	Meat
+牛肉	725B 8089	ptif aeas	Niú  Roù	Beef
+雞肉	96DE 8089	sojk aeas	Ji Roù	Chicken (as food)
+豬肉	8C6C 8089	ahoh aeas	Zhu Roù	Pork
+羊肉	7F8A 8089	plad aeas	Yáng Roù	Lamb
+腿	817F	arpl	Tǔi	Leg
+胸	80F8	aela	Xiong	Chest
+翅	7FC5	plhi	Chì	Wings
+菜	83DC	ayjh	Caì	a dish; a course
+青菜	9752 83DC	spit ayjh	Qing  Caì	Vegetables; greens
+湯	6E6F	okol	Tang	Soup
+飯	98EF	sakl	Fàn	Rice
+米	7C73	phpy	Mǐ	Rice
+米粉	7C73 7C89	phpy phas	Mǐ Fěn	rice-flour noodles
+麵	9EB5	skfi	Mìan	Noodle
+麵包	9EB5 5305	skfi iyei	Mìan Bao	Bread
+餃	9903	ssey	Jǐao	Dumplings
+蛋	86CB	aohf	Dàn	Egg
+糕	7CD5	phji	Gao	Cake
+米糕	7C73 7CD5	phpy phji	Mǐ Gao	Rice cake; rice pudding
+餅乾	9905 4E7E	ssei ukpk	Bǐng Gan	Cookie; biscuit
+餅	9905	ssei	Bǐng	the generic name for all types of round flat cakes
+乾	4E7E	ukpk	Gan	dry
+濕	6FD5	olji	Shi	wet
+糖	7CD6	phjo	Táng	Sugar
+糖果	7CD6 679C	phjo opsh	Táng Gǔo	Candy
+布丁	5E03 4E01	ikey uker	Bù Ding	Pudding
+油	6CB9	ohfs	Yoú	Oil
+醋	918B	sraf	Cù	Vinegar
+醬	91AC	srdh	Jiàng	Sauce
+醬油	91AC 6CB9	srdh ohfs	Jiàng Yoú	Soya sauce
+胡椒	80E1 6912	aekr osrt	Hú Jiao	Peppers
+煎	714E	pruk	Jian	fry in fat or oil
+炒	7092	pest	Chǎo	to stir-fry
+煮	716E	prok	Zhǔ	to boil (in water)
+炸	70B8	pefa	Zhà	fry in oil; to deep-fry
+燙	71D9	prjs	Tàng	To heat in hot water
+熱	71B1	prfr	Rè	Hot
+溫	6EAB	okdf	Wen	Mildly warm
+冷	51B7	irfp	Lěng	Cold
+冰	51B0	irfe	Bing	Ice
+水	6C34	ohyu	Shǔi	Water
+果	679C	opsh	Gǔo	Fruit
+茶	8336	ayyo	Chá	Tea
+酒	9152	srit	Jiǔ	any alcoholic drink including beers, liquors, liqueurs, and wines
+啤酒	5564 9152	iiou srit	Pí Jiǔ	Beer
+可樂	53EF 6A02	iykl odet	Kě Lè	Coke; Cola
+汁	6C41	ohur	Zhi	Juice
+酸	9178	srpa	Suan	Sour
+甜	751C	pirh	Tián	Sweet
+苦	82E6	atko	Kǔ	Bitter
+辣	8FA3	aldy	Là	Spicy
+鹹	9E79	skps	Xián	Salty
+鹽	9E7D	skpj	Yán	Salt

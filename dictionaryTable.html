@@ -1,0 +1,206 @@
+	<table id="dictionaryTable" class="advanced">
+		<tr>
+			<td>
+  				<div class="advanced" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden">
+  					Add to dictionary
+  				</div>
+			</td>
+			<td>
+  				<div class="advanced" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden">
+  					Edit in dictionary
+  				</div>
+			</td>
+			<td>
+  				<div class="advanced" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden">
+  					Remove from dictionary
+  				</div>
+			</td>
+		</tr>
+		<tr>
+  			<td>
+  				<textarea class="advanced" style="visibility:hidden" id="dictionaryAddArea" rows="10" cols="30"></textarea>
+  			</td>
+  			<td>
+  				<textarea class="advanced" style="visibility:hidden" id="dictionaryEditArea" rows="10" cols="30"></textarea>
+  			</td>
+  			<td>
+  				<textarea class="advanced" style="visibility:hidden" id="dictionaryRemoveArea" rows="10" cols="30"></textarea>
+  			</td>
+			<td>
+				<table>
+					<tr>
+						<td>
+							<div id="dictionarySyncButton" class="ButtonInner advanced" onclick="dictionarySyncButtonClicked();" style="visibility:hidden;width:120px">
+			  					Dictionary Sync
+							</div>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<div id="googleTranslateWordsButton" class="ButtonInner advanced" onclick="googleTranslateWordsButtonClicked();" style="visibility:hidden;width:120px">
+			  					Google translate
+							</div>
+						</td>
+					</tr>
+				</table>
+			</td>
+  		</tr>
+  	</table>
+
+<script>
+		function dictionarySyncButtonClicked()
+		{
+			//debugLog ("printButtonClicked");
+
+			var addWords = document.getElementById("dictionaryAddArea").value.split("\n");
+			
+			var numberWords = addWords.length;
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = addWords[currentWord];
+				
+				if (thisWord != "")
+				{
+					thisWordArray = thisWord.split(",");
+
+					if (thisWordArray.length >= 3)
+					{
+						var thisWordChinese = thisWordArray[0];
+						var thisWordPinyin = thisWordArray[1];
+						var thisWordEnglish = thisWordArray[2];
+						
+						var thisWordPinyinToneless = removeTones(thisWordPinyin);
+						var thisWordTones = getTones(thisWordPinyin);
+						
+						var thisDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	";
+						
+						//debugLog(thisDefinition);
+						
+						// Add the word to the dictionary
+						combinedDictionaryData = combinedDictionaryData + thisDefinition + "\n";
+						
+						var addText = thisDefinition + "	" + getDateString();
+						
+						// Save to the file
+						appendToFile("addWords.txt", addText);
+
+						// Update the user interface
+						var addAreaWords = document.getElementById("dictionaryAddArea").value;
+						addAreaWords = replaceChars(addAreaWords,thisWord,"");
+						document.getElementById("dictionaryAddArea").value = addAreaWords;
+
+					} // if the word has a definition and pinyin
+					
+				} // if the word is not blank
+			} // end for every add word
+
+			var editWords = document.getElementById("dictionaryEditArea").value.split("\n");
+			
+			var numberWords = editWords.length;
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = editWords[currentWord];
+				
+				if (thisWord != "")
+				{
+					thisWordArray = thisWord.split(",");
+
+					if (thisWordArray.length >= 3)
+					{
+						var thisWordChinese = thisWordArray[0];
+						var thisWordPinyin = thisWordArray[1];
+						var thisWordEnglish = thisWordArray[2];
+						
+						var thisWordPinyinToneless = removeTones(thisWordPinyin);
+						var thisWordTones = getTones(thisWordPinyin);
+						
+						var thisDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	";
+
+						//debugLog(thisDefinition);
+						
+						// Get the existing word
+						var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
+						
+						var newDefintion = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" ;
+						
+						// Replace the definition in the dictionary
+						combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefintion);
+						
+						var editText = thisDefinition + "	" + getDateString();
+						
+						// Save to the file
+						appendToFile("editWords.txt", editText);
+
+						// Update the user interface
+						var editAreaWords = document.getElementById("dictionaryEditArea").value;
+						editAreaWords = replaceChars(editAreaWords,thisWord,"");
+						document.getElementById("dictionaryEditArea").value = editAreaWords;
+
+					} // if the word has a definition and pinyin
+					
+				} // if the word is not blank
+			} // end for every edit word
+
+
+			var removeWords = document.getElementById("dictionaryRemoveArea").value.split("\n");
+
+			numberWords = removeWords.length;
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = removeWords[currentWord];
+				
+				if (thisWord != "")
+				{
+					var thisDefinition = textBetween(combinedDictionaryData,thisWord+"	","\n");
+					
+					var thisDictionaryParts = combinedDictionaryData.split(thisWord+"	");
+					
+					var newDictionary = "";
+					
+					var numberParts = thisDictionaryParts.length - 1;
+					
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisDictionaryParts[currentPart];
+					
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+						
+						newDictionary = newDictionary + thisPart;
+						
+					} // end for every dictionary part
+					
+					combinedDictionaryData = newDictionary;
+					
+					// Update the user interface
+					var removeAreaWords = document.getElementById("dictionaryRemoveArea").value;
+					removeAreaWords = replaceChars(removeAreaWords,thisWord,"");
+					document.getElementById("dictionaryRemoveArea").value = removeAreaWords;
+					
+					var removeText = thisWord + "	" + getDateString();
+					
+					// Save to the file
+					appendToFile("removeWords.txt", removeText);
+					
+				} // if the word is not blank
+			} // end for every remove word
+			
+			// Save the new dictionary
+			writeToFile("PinyinDefinitionsTones.txt", combinedDictionaryData);
+			
+		} // end function dictionarySyncButtonClicked
+		
+
+</script>

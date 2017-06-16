@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Chinese to Pinyin</title>
+  	  	
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+
+      #chinese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      #chinese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#3974e8;
+font-size: 30px;
+display:inline;
+      }
+
+
+      #pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:black;
+display:inline;
+      }
+
+      #pinyin_2 {
+color:#f82423;
+display:inline;
+      }
+
+      #pinyin_3 {
+color:#189c19;
+display:inline;
+      }
+
+      #pinyin_4 {
+color:#3974e8;
+display:inline;
+      }
+
+    </style>
+  </head>
+  <body>
+	
+	<table id="inputTable">
+		<tr>
+			<td>
+				Chinese input
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<textarea id="inputTextArea" rows="10" cols="50" >中文
+老師</textarea>
+  			</td>
+  			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="translateInterface();">
+  				Chinese to Pinyin
+  			</td>
+  		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="filenameTextArea" rows="1" cols="50" >filename.txt</textarea>
+  			</td>
+  		</tr>
+	</table>
+	<table id="textTable">
+		<tr>
+			<td>
+				Text output
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="outputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+  </body>
+  
+  
+  <script>
+		var pinyinDefinitionsToneData;
+		
+		var cnltText = "";
+		var nltText = "";
+
+		function loadPinyinDefinitionsTones(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						pinyinDefinitionsToneData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadPinyinDefinitionsTones
+
+		function loadCunp(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						cnltText = xmlhttp.responseText;
+						document.getElementById("inputTextArea").value = cnltText;
+
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadCnlt
+
+		function loadNlt(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						nltText = xmlhttp.responseText;
+						document.getElementById("englishTextArea").value = nltText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadNlt
+
+
+
+		function textBetween(thisText, startString, endString)
+		{
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		// isUnihan - check if the character is in the unihan dictionary 
+		function isUnihan(thisCharacter)
+		{
+			var charCode = thisCharacter.charCodeAt(0);
+		
+			if (charCode >= 13312)
+			{
+				if (charCode <= 64217)
+				{
+					return true;
+				}
+			}
+			
+			if (charCode >= 131072)
+			{
+				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			return false;
+			
+		} // end function isUnihan
+
+
+		// translateText - translate Chinese to English
+		function translateText(inputText, englishText)
+		{		
+			
+			var outputText = "";			
+			var outputHtml = "";			
+			
+			var inputArray = inputText.split("\n");
+			
+			var numberLines = inputArray.length;
+
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = inputArray[currentLine];				
+				
+				var chineseHtml = "";
+				var pinyinHtml = "";			
+				var translatedHtml = "";
+
+				var chineseText = "";
+				var pinyinText = "";			
+				var translatedText = "";
+				
+				var spacedLine = "";
+				
+				
+				var verseNumber = textBetween(thisLine, "start", " ");
+				
+				var numberLineCharacters = thisLine.length;
+				
+				for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+				{
+					var thisLineCharacter = thisLine[currentLineCharacter];
+										
+					if (isUnihan(thisLineCharacter) == true)
+					{
+						spacedLine = spacedLine + thisLineCharacter;
+					} else {
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					}
+					
+				} // end add spaces after every non-Chinese character
+				
+				var thisLineWords = spacedLine.split(" ");
+				
+				
+				var numberLineWords = thisLineWords.length;
+				
+				// Add the verse number
+				pinyinText = pinyinText + verseNumber + " ";
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+			
+					var thisWord = thisLineWords[currentLineWord];
+					
+					
+					if (contains(pinyinDefinitionsToneData, "\n" + thisWord + "	") == true)
+					{
+						var thisDictionaryLine = textBetween(pinyinDefinitionsToneData, "\n" + thisWord + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var thisPinyin = thisDictionaryLineArray[0];
+						var thisDefinition = thisDictionaryLineArray[1];
+						
+						//var thisPinyin = textBetween(thisCharacterLine, "start", "	");
+						//var thisDefinitionTone = textBetween(thisCharacterLine, "	", "end");
+						//var thisDefinition = textBetween(thisDefinitionTone, "start", "	");
+						//var thisTone = textBetween(thisDefinitionTone, "	", "end");
+						
+						var thisWordLength = thisWord.length;
+						var thisPinyinArray = thisPinyin.split(" ");
+						var thisPinyinLength = thisPinyinArray.length;
+						
+						var thisPinyinWord = thisPinyinArray.join("");
+						
+						pinyinText = pinyinText + thisPinyinWord + " ";
+						
+					
+					} else {
+					
+						//pinyinText = pinyinText + thisWord;
+
+					} // end if the dictionary contains the character already
+					
+					// There is a space between each word
+					
+					//pinyinText = pinyinText + "  ";
+					
+				} // end for every character
+			
+				outputText = outputText + pinyinText + "\n";
+							
+			} // end for every line
+			
+			return [outputHtml, outputText];
+			
+		} // end function translateText
+
+		// translateInterface - Read values from the GUI, set them, and do a translation
+		function translateInterface()
+		{
+		
+			var inputText = document.getElementById("inputTextArea").value;
+
+			var englishText = "";
+			
+			var translationOutput = translateText(inputText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			//document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function translateInterface
+
+
+		function translateHtml()
+		{		
+			translateInterface();
+			
+			document.getElementById("inputTable").hidden = true;
+			document.getElementById("textTable").hidden = true;
+		} // end function translateHtml
+
+
+		function translateBilingual()
+		{
+			var inputText = document.getElementById("inputTextArea").value;
+			
+			var inputLines = inputText.split("\n");
+			
+			var numberLines = inputLines.length;
+			
+			var outputHtml = "";
+			var outputText = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
+			{
+				var thisLine = inputLines[currentLine];
+				
+				var thisLineCharacters = thisLine.split("");
+				var numberCharacters = thisLineCharacters.length;
+				
+				var lineHasChinese = false;
+				
+				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+				{
+					var thisCharacter = thisLineCharacters[currentCharacter];
+					
+					if (isUnihan(thisCharacter))
+					{
+						lineHasChinese = true;
+						
+						// Exit the loop
+						currentCharacter = numberCharacters;
+					} // end if the character is Chinese
+				} // end for every character on the line
+				
+				if (lineHasChinese == true)
+				{
+					var translationOutput = translateText(thisLine, "");
+					
+					outputHtml = outputHtml + "\n" + translationOutput[0];
+					outputText = outputText + "\n" + translationOutput[1];			
+					
+				} else {
+					outputHtml = outputHtml + "\n" + "<p>" + thisLine + "</p>";
+					outputText = outputText + "\n" + thisLine;
+				} // end if the line has a Chinese character
+				
+			} // end for every line
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function translateBilingual 
+
+
+		function clearInterface()
+		{
+			document.getElementById("inputTextArea").value = "";
+			document.getElementById("outputTextArea").value = "";
+			document.getElementById("filenameTextArea").value = "";
+		} // end function clearInterface
+	
+		function interfaceLoaded()
+		{
+			var chineseText = document.getElementById("inputTextArea").value;
+			var filenameText = document.getElementById("filenameTextArea").value;
+			
+			if (chineseText == "")
+			{
+				return false;
+			}
+			if (filenameText == "")
+			{
+				return false;
+			}			
+			
+			return true;
+			
+		} // end function clearInterface
+	
+		function translateCnlt()
+		{
+			var translationOutput = translateText(cnltText, nltText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			
+			return outputHtml;
+			
+		} // end function translateFiles
+
+		function getOutputHtml()
+		{
+			return document.getElementById("outputHtml").innerHTML;
+		} // end function getOutputHtml
+		
+		
+		function setFilename(thisFilename)
+		{
+			document.getElementById("filenameTextArea").value = thisFilename;
+		} // end function setFilename
+				
+		// Write to file - call a PHP script to write a file
+		function writeToFile(filename, thisString)
+		{
+			var request = new XMLHttpRequest();
+			request.open('POST', 'writeToFile.php', true);
+			request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+	request.onreadystatechange =
+	  function(e) { return myAjaxResponseHandler.call(e, request); };
+
+			var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+			request.send(requestData);
+
+		} // end function writeToFile
+
+		function save()
+		{
+			var filename = document.getElementById("filenameTextArea").value;
+			var thisString = document.getElementById("outputTextArea").value;
+			
+			writeToFile(filename, thisString);
+		} // end function save
+		
+		
+
+		loadPinyinDefinitionsTones("PinyinDefinitionsTonesCUNP.txt");
+
+  
+  </script>
+  
+</html>

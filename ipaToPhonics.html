@@ -1,0 +1,179 @@
+<!--
+	IPA to phonics
+	Peter Burkimsher 2017-05-18
+		
+-->
+
+<!DOCTYPE html>
+<html manifest="pingtype.appcache">
+	<head>
+		<title>Pingtype English</title>
+		<meta charset="utf-8" />
+		<style>
+		.DefaultButtonOuter
+		{
+			border: 2px solid black ;
+			border-radius: 8px;
+			width: 96px;
+			height: 26px;
+			text-align: center;
+			
+			/*background-color: #99999a;*/
+			background: #99999a; /* For browsers that do not support gradients */
+			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+		}
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+    </style>
+    </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		翻譯 軟體 <b>Pingtype Parallel Translator</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<textarea id="inputTextArea" rows="50" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="50" cols="50" ></textarea>
+  				</td>
+  				
+  				<td>
+					<div class="ButtonInner" onclick="phonicsButtonClicked();">
+						Phonics
+					</div>
+  				</td>
+  				<td>
+					<div class="ButtonInner" onclick="bopomofoButtonClicked();">
+						Bopomofo
+					</div>
+  				</td>
+    		</tr>
+    	</table>
+    	
+    </body>
+    
+    <script>
+    	
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+    	function ipaToPhonics(ipaWord)
+    	{
+    		var ipaAlphabet = ["aɪ", "aʊ", "eə", "eɪ", "ɪə", "ju", "oʊ", "ɔɪ", "ʊə", "æ", "ɑ", "ɒ", "b", "d", "ð", "ʤ", "ə", "ɛ", "ɜ", "f", "g", "h", "i", "ɪ", "j", "k", "l", "m", "n", "ŋ", "ɔ", "p", "r", "s", "ʃ", "t", "ʧ", "u", "ʊ", "v", "ʌ", "w", "z", "ʒ", "θ", "ː", "ˈ", "ˌ", "(", ")"];
+    		
+    		var phonicsAlphabet = ["ī", "ow", "ã", "ā", "ēə", "yü", "ō", "oi", "üə", "a", "ä", "o", "b", "d", "th", "j", "ə", "é", "û", "f", "g", "h", "ē", "i", "y", "k", "l", "m", "n", "ng", "ô", "p", "r", "s", "sh", "t", "ch", "ū", "oo", "v", "u", "w", "z", "zh", "th", "", "", "", "", ""];
+    		
+    		var alphabetLength = ipaAlphabet.length;
+    		
+    		var phonicsWord = ipaWord;
+    		
+    		for (var currentIpa = 0; currentIpa < alphabetLength; currentIpa++)
+    		{
+    			var thisIpa = ipaAlphabet[currentIpa];
+    			var thisPhonic = phonicsAlphabet[currentIpa];
+    			
+    			thisPhonic = "-" + thisPhonic + "-";
+    			
+    			phonicsWord = replaceChars(phonicsWord, thisIpa, thisPhonic);
+    		
+    			phonicsWord = replaceChars(phonicsWord, "--", "-");
+    		
+    		} // end for every sound in the alphabet
+    		
+    		phonicsWord = replaceChars(phonicsWord, "-\n-", "\n");
+    		
+    		return phonicsWord;
+    		
+    	} // end function ipaToPhonics
+    	
+    	function ipaToBopomofo(ipaWord)
+    	{
+    		var ipaAlphabet = ["ʈʂʰ", "ɻ~ʐ", "tsʰ", "dʒ", "tʃ", "pʰ", "tʰ", "kʰ", "ʨʰ", "ʈʂ", "ts", "ai", "ei", "au", "ou", "an", "ən", "aŋ", "əŋ", "aɚ", "æ", "b", "ð", "d", "ə", "ɛ", "g", "h", "ɪ", "j", "ŋ", "ɔ", "r", "v", "w", "z", "θ", "p", "m", "f", "t", "n", "l", "k", "x", "ʨ", "ɕ", "ʂ", "s", "a", "o", "ɤ", "e", "i", "u", "y", "ɑ", "ɒ", "c", "ʤ", "ɜ", "ʃ", "ʧ", "ʊ", "ʌ", "ʒ", "ː", "ˈ", "ˌ", "(", ")"];
+    		var bopomofoAlphabet = ["ㄔ", "ㄖ", "ㄘ", "ㄓ", "ㄔ", "ㄆ", "ㄊ", "ㄎ", "ㄑ", "ㄓ", "ㄗ", "ㄞ", "ㄟ", "ㄠ", "ㄡ", "ㄢ", "ㄣ", "ㄤ", "ㄥ", "ㄦ", "ㄚ", "ㄅ", "ㄘ", "ㄉ", "ㄦ", "ㄜ", "ㄍ", "ㄏ", "ㄧ", "ㄡ", "ㄥ", "ㄛ", "ㄖ", "ㄈ", "ㄨ", "ㄗ", "ㄊ", "ㄅ", "ㄇ", "ㄈ", "ㄉ", "ㄋ", "ㄌ", "ㄍ", "ㄏ", "ㄐ", "ㄒ", "ㄕ", "ㄙ", "ㄚ", "ㄛ", "ㄜ", "ㄝ", "ㄧ", "ㄨ", "ㄩ", "ㄚ", "ㄛ", "ㄕ", "ㄓ", "ㄦ", "ㄕ", "ㄓ", "ㄡ", "ㄨ", "ㄓ", "", "", "", "", ""];
+    		
+    		var alphabetLength = ipaAlphabet.length;
+    		
+    		var bopomofoWord = ipaWord;
+    		
+    		for (var currentIpa = 0; currentIpa < alphabetLength; currentIpa++)
+    		{
+    			var thisIpa = ipaAlphabet[currentIpa];
+    			var thisBopomofo = bopomofoAlphabet[currentIpa];
+    			
+    			bopomofoWord = replaceChars(bopomofoWord, thisIpa, thisBopomofo);
+    			
+    		} // end for every sound in the alphabet
+    		
+    		return bopomofoWord;
+    		
+    	} // end function ipaToPhonics
+
+    	function phonicsButtonClicked()
+    	{
+    	
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = ipaToPhonics(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+    	
+    	} // end function phonicsButtonClicked
+
+    	function bopomofoButtonClicked()
+    	{
+    	
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = ipaToBopomofo(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+    	
+    	} // end function bopomofoButtonClicked
+
+    	
+    </script>
+    
+</html>

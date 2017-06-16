@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Alternating Lines</title>
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+
+      #chinese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      #chinese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:red;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:green;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:blue;
+font-size: 30px;
+display:inline;
+      }
+
+
+      #pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:black;
+display:inline;
+      }
+
+      #pinyin_2 {
+color:red;
+display:inline;
+      }
+
+      #pinyin_3 {
+color:green;
+display:inline;
+      }
+
+      #pinyin_4 {
+color:blue;
+display:inline;
+      }
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+
+    </style>
+  </head>
+  <body>
+	
+	<table>
+		<tr>
+			<td>
+				Chinese input
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<textarea id="firstTextArea" rows="10" cols="50" >中文
+老師</textarea>
+  			</td>
+  			<td>
+  				<textarea id="secondTextArea" rows="10" cols="50" >zhongwen
+laoshi</textarea>
+  			</td>
+  			<td>
+  				<textarea id="thirdTextArea" rows="10" cols="50" >Chinese
+teacher</textarea>
+  			</td>
+  			<td>
+  				<textarea id="fourthTextArea" rows="10" cols="50" ></textarea>
+  			</td>
+  			<td>
+  				<textarea id="fifthTextArea" rows="10" cols="50" ></textarea>
+  			</td>
+  			<td>
+  				<textarea id="sixthTextArea" rows="10" cols="50" ></textarea>
+  			</td>
+  		</tr>
+  	</table>
+  	
+  	<table>
+  		<tr>
+  			 <td>
+				<div id="alternateTwoButton" class="ButtonInner" onclick="alternateTwo();">
+					Alternate x2
+				</div>
+  			</td>
+  			<td>
+				<div id="alternateThreeButton" class="ButtonInner" onclick="alternateThree();">
+					Alternate x3
+				</div>
+  			</td>
+  			<td>
+				<div id="alternateFourButton" class="ButtonInner" onclick="alternateFour();">
+					Alternate x4
+				</div>
+  			</td>
+  			<td>
+				<div id="alternateFiveButton" class="ButtonInner" onclick="alternateFive();">
+					Alternate x5
+				</div>
+  			</td>
+  			<td>
+				<div id="alternateSixButton" class="ButtonInner" onclick="alternateSix();">
+					Alternate x6
+				</div>
+  			</td>
+  		</tr>
+  		<tr>
+  			<td>
+				<div id="splitTwoButton" class="ButtonInner" onclick="splitTwo();">
+					Split x2
+				</div>
+  			</td>
+  			<td>
+				<div id="splitThreeButton" class="ButtonInner" onclick="splitThree();">
+					Split x3
+				</div>
+  			</td>
+  			<td>
+				<div id="splitFourButton" class="ButtonInner" onclick="splitFour();">
+					Split x4
+				</div>
+  			</td>
+  			<td>
+				<div id="splitFiveButton" class="ButtonInner" onclick="splitFive();">
+					Split x5
+				</div>
+  			</td>
+  			<td>
+				<div id="splitSixButton" class="ButtonInner" onclick="splitSix();">
+					Split x6
+				</div>
+  			</td>
+  		</tr>
+  	</table>
+  	
+  	<table>
+		<tr>
+			<td>
+				Text output
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="outputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+  </body>
+  
+  
+  <script>
+
+		function alternateTwo()
+		{		
+			var firstText = document.getElementById("firstTextArea").value;
+			var secondText = document.getElementById("secondTextArea").value;
+			
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function alternateTwo
+
+
+		function alternateThree()
+		{		
+			var firstText = document.getElementById("firstTextArea").value;
+			var secondText = document.getElementById("secondTextArea").value;
+			var thirdText = document.getElementById("thirdTextArea").value;
+			
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			var thirdArray = thirdText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				var thirdLine = thirdArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + thirdLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function alternateThree
+
+		function alternateFour()
+		{		
+			var firstText = document.getElementById("firstTextArea").value;
+			var secondText = document.getElementById("secondTextArea").value;
+			var thirdText = document.getElementById("thirdTextArea").value;
+			var fourthText = document.getElementById("fourthTextArea").value;
+			
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			var thirdArray = thirdText.split("\n");
+			var fourthArray = fourthText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				var thirdLine = thirdArray[currentLine];
+				var fourthLine = fourthArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + thirdLine + "\n" + fourthLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function alternateFour
+
+		function alternateFive()
+		{		
+			var firstText = document.getElementById("firstTextArea").value;
+			var secondText = document.getElementById("secondTextArea").value;
+			var thirdText = document.getElementById("thirdTextArea").value;
+			var fourthText = document.getElementById("fourthTextArea").value;
+			var fifthText = document.getElementById("fifthTextArea").value;
+			
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			var thirdArray = thirdText.split("\n");
+			var fourthArray = fourthText.split("\n");
+			var fifthArray = fifthText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				var thirdLine = thirdArray[currentLine];
+				var fourthLine = fourthArray[currentLine];
+				var fifthLine = fifthArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + thirdLine + "\n" + fourthLine + "\n" + fifthLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function alternateFive
+
+		function alternateSix()
+		{		
+			var firstText = document.getElementById("firstTextArea").value;
+			var secondText = document.getElementById("secondTextArea").value;
+			var thirdText = document.getElementById("thirdTextArea").value;
+			var fourthText = document.getElementById("fourthTextArea").value;
+			var fifthText = document.getElementById("fifthTextArea").value;
+			var sixthText = document.getElementById("sixthTextArea").value;
+			
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			var thirdArray = thirdText.split("\n");
+			var fourthArray = fourthText.split("\n");
+			var fifthArray = fifthText.split("\n");
+			var sixthArray = sixthText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				var thirdLine = thirdArray[currentLine];
+				var fourthLine = fourthArray[currentLine];
+				var fifthLine = fifthArray[currentLine];
+				var sixthLine = sixthArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + thirdLine + "\n" + fourthLine + "\n" + fifthLine + "\n"+ sixthLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function alternateSix
+
+
+		function splitTwo()
+		{
+		
+			var combinedText = document.getElementById("outputTextArea").value;
+		
+			var firstText = "";
+			var secondText = "";
+			
+			var combinedArray = combinedText.split("\n");
+			
+			var numberLines = combinedArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedArray[currentLine];
+			
+				if ((currentLine % 3) == 0)
+				{
+					firstText = firstText + thisLine + "\n";
+				}
+
+				if ((currentLine % 3) == 1)
+				{
+					secondText = secondText + thisLine + "\n";
+				}
+							
+			} // end for every line
+			
+			document.getElementById("firstTextArea").value = firstText;
+			document.getElementById("secondTextArea").value = secondText;
+			
+		} // end function splitTwo
+		
+		function splitThree()
+		{
+		
+			var combinedText = document.getElementById("outputTextArea").value;
+		
+			var firstText = "";
+			var secondText = "";
+			var thirdText = "";
+			
+			var combinedArray = combinedText.split("\n");
+			
+			var numberLines = combinedArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedArray[currentLine];
+			
+				if ((currentLine % 4) == 0)
+				{
+					firstText = firstText + thisLine + "\n";
+				}
+
+				if ((currentLine % 4) == 1)
+				{
+					secondText = secondText + thisLine + "\n";
+				}
+
+				if ((currentLine % 4) == 2)
+				{
+					thirdText = thirdText + thisLine + "\n";
+				}
+
+							
+			} // end for every line
+			
+			document.getElementById("firstTextArea").value = firstText;
+			document.getElementById("secondTextArea").value = secondText;
+			document.getElementById("thirdTextArea").value = thirdText;
+			
+		} // end function splitThree
+
+		function splitFour()
+		{
+		
+			var combinedText = document.getElementById("outputTextArea").value;
+		
+			var firstText = "";
+			var secondText = "";
+			var thirdText = "";
+			var fourthText = "";
+			
+			var combinedArray = combinedText.split("\n");
+			
+			var numberLines = combinedArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedArray[currentLine];
+			
+				if ((currentLine % 5) == 0)
+				{
+					firstText = firstText + thisLine + "\n";
+				}
+
+				if ((currentLine % 5) == 1)
+				{
+					secondText = secondText + thisLine + "\n";
+				}
+
+				if ((currentLine % 5) == 2)
+				{
+					thirdText = thirdText + thisLine + "\n";
+				}
+
+				if ((currentLine % 5) == 3)
+				{
+					fourthText = fourthText + thisLine + "\n";
+				}
+
+							
+			} // end for every line
+			
+			document.getElementById("firstTextArea").value = firstText;
+			document.getElementById("secondTextArea").value = secondText;
+			document.getElementById("thirdTextArea").value = thirdText;
+			document.getElementById("fourthTextArea").value = fourthText;
+			
+		} // end function splitFour
+
+		function splitFive()
+		{
+		
+			var combinedText = document.getElementById("outputTextArea").value;
+		
+			var firstText = "";
+			var secondText = "";
+			var thirdText = "";
+			var fourthText = "";
+			var fifthText = "";
+			
+			var combinedArray = combinedText.split("\n");
+			
+			var numberLines = combinedArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedArray[currentLine];
+			
+				if ((currentLine % 6) == 0)
+				{
+					firstText = firstText + thisLine + "\n";
+				}
+
+				if ((currentLine % 6) == 1)
+				{
+					secondText = secondText + thisLine + "\n";
+				}
+
+				if ((currentLine % 6) == 2)
+				{
+					thirdText = thirdText + thisLine + "\n";
+				}
+
+				if ((currentLine % 6) == 3)
+				{
+					fourthText = fourthText + thisLine + "\n";
+				}
+
+				if ((currentLine % 6) == 4)
+				{
+					fifthText = fifthText + thisLine + "\n";
+				}
+
+							
+			} // end for every line
+			
+			document.getElementById("firstTextArea").value = firstText;
+			document.getElementById("secondTextArea").value = secondText;
+			document.getElementById("thirdTextArea").value = thirdText;
+			document.getElementById("fourthTextArea").value = fourthText;
+			document.getElementById("fifthTextArea").value = fifthText;
+			
+		} // end function splitFive
+
+		function splitSix()
+		{
+		
+			var combinedText = document.getElementById("outputTextArea").value;
+		
+			var firstText = "";
+			var secondText = "";
+			var thirdText = "";
+			var fourthText = "";
+			var fifthText = "";
+			var sixthText = "";
+			
+			var combinedArray = combinedText.split("\n");
+			
+			var numberLines = combinedArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedArray[currentLine];
+			
+				if ((currentLine % 7) == 0)
+				{
+					firstText = firstText + thisLine + "\n";
+				}
+
+				if ((currentLine % 7) == 1)
+				{
+					secondText = secondText + thisLine + "\n";
+				}
+
+				if ((currentLine % 7) == 2)
+				{
+					thirdText = thirdText + thisLine + "\n";
+				}
+
+				if ((currentLine % 7) == 3)
+				{
+					fourthText = fourthText + thisLine + "\n";
+				}
+
+				if ((currentLine % 7) == 4)
+				{
+					fifthText = fifthText + thisLine + "\n";
+				}
+
+				if ((currentLine % 7) == 5)
+				{
+					sixthText = sixthText + thisLine + "\n";
+				}
+
+
+							
+			} // end for every line
+			
+			document.getElementById("firstTextArea").value = firstText;
+			document.getElementById("secondTextArea").value = secondText;
+			document.getElementById("thirdTextArea").value = thirdText;
+			document.getElementById("fourthTextArea").value = fourthText;
+			document.getElementById("fifthTextArea").value = fifthText;
+			document.getElementById("sixthTextArea").value = sixthText;
+			
+		} // end function splitSix
+
+  
+  </script>
+  
+</html>

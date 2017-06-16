@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Write To File</title>
+	<meta charset="utf-8" />
+  </head>
+  <body>
+	<table id="layout">
+		<tr>
+  			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="writeToFile('hello.txt', 'hello world');">
+  				Write to file
+  			</td>
+		</tr>
+	</table>
+  </body>
+  
+  
+  <script>
+  
+function writeToFileResponseHandler(request)
+{
+  if (request.readyState == 4)
+  {
+    // The request is done
+    if (request.status == 200)
+    {
+      // All is well      
+    }
+  }
+
+  return;
+}  
+	function writeToFile(filename, thisString)
+	{
+		var request = new XMLHttpRequest();
+		request.open('POST', 'writeToFile.php', true);
+		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+request.onreadystatechange =
+  function(e) { return myAjaxResponseHandler.call(e, request); };
+
+		var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+		request.send(requestData);
+
+	} // end function writeToFile
+	
+  </script>
+  
+</html>

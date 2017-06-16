@@ -1,0 +1,1216 @@
+個紀念品	Souvenirs	gè jì niàn pǐn 	ge ji nian pin 	3
+個禮品	A gift	gè lǐ pǐn 	ge li pin 	3
+個禮物	A gift	gè lǐ wù 	ge li wu 	3
+個證明	Proof	gè zhèng míng 	ge zheng ming 	2
+個資料	Information	gè zī liào 	ge zi liao 	1
+個冠軍	A champion	gè guàn jūn 	gè guàn jūn 	1
+個婦人	A woman	gè fù rén 	ge fu ren 	2
+個下午	Afternoon	gè xià wǔ 	ge xia wu 	3
+個事實	The fact	gè shì shí 	ge shi shi 	2
+個人	personal	gè rén 	ge ren 	2
+個人員	Personnel	gè rén yuán 	gè rén yuán 	2
+個位置	Position	gè wèi zhì 	ge wei zhi 	4
+個傳統	A tradition	gè chuán tǒng 	gè chuán tǒng 	2
+個價值	A value	gè jià zhí 	ge jia zhi 	2
+個價格	A price	gè jià gé 	ge jia ge 	2
+個價錢	A price	gè jià qián 	ge jia qian 	2
+個兒童	Children	gè er tóng 	ge er tong 	2
+個分析	Analysis	gè fēn xī 	ge fen xi 	1
+個分類廣告	Classified ads	gè fēn lèi guǎng gào 	ge fen lei guang gao 	1
+個劇場	A theater	gè jù chǎng 	ge ju chang 	3
+個包子	A buns	gè bāo zi	ge bao zi	1
+個包裹	A parcel	gè bāo guǒ 	ge bao guo 	1
+個原因	Cause	gè yuán yīn 	gè yuán yīn 	1
+個可能	Maybe	gè kě néng 	ge ke neng 	2
+個同志	Comrades	gè tóng zhì 	ge tong zhi 	2
+個問題	A question	gè wèn tí 	ge wen ti 	2
+個單位	Units	gè dān wèi 	ge dan wei 	1
+個嘜頭	A mark	gè mà tóu 	ge ma tou 	2
+個國	Country	gè guó 	gè guó 	2
+個地位	Status	gè dì wèi 	ge di wei 	4
+個地帶	A zone	gè dì dài 	ge di dai 	4
+個地球	Earth	gè dì qiú 	ge di qiu 	2
+個嬰兒	Baby	gè yīng ér 	ge ying er 	1
+個子曰	Said the child	gè zǐ yuē 	ge zi yue 	1
+個字	The word	gè zì 	ge zi 	4
+個季節	Season	gè jì jié 	ge ji jie 	2
+個孩子	A child	gè hái zi	ge hai zi	2
+個屋頂	A roof	gè wū dǐng 	ge wu ding 	1
+個工作	Work	gè gōng zuò 	gè gōng zuò 	1
+個年頭	Year old	gè nián tóu 	ge nian tou 	2
+個座	Seat	gè zuò 	gè zuò 	4
+個座位	Seat	gè zuò wèi 	gè zuò wèi 	4
+個廣場	A square	gè guǎng chǎng 	ge guang chang 	3
+個形勢	A situation	gè xíng shì 	ge xing shi 	2
+個形式	Form	gè xíng shì 	ge xing shi 	2
+個後生仔	A newborn	gè hòu shēng zǐ 	ge hou sheng zi 	1
+個心臟	A heart	ge xīn zàng 	ge xin zang 	1
+個情景	A scene	gè qíng jǐng 	ge qing jing 	2
+個戶口	Account	gè hù kǒu 	ge hu kou 	3
+個數	The number of	gè shù 	ge shu 	4
+個數量	The number	gè shù liàng 	ge shu liang 	4
+個文明	A civilization	gè wén míng 	ge wen ming 	2
+個方法	Method	gè fāng fǎ 	ge fang fa 	1
+個方面	Aspects	gè fāng miàn 	ge fang mian 	1
+個早上	Morning	gè zǎo shang	ge zao shang	3
+個星期	A week	gè xīng qí 	ge xing qi 	1
+個晚上	One night	gè wǎn shàng 	ge wan shang 	3
+個書架	Bookshelf	gè shū jià 	ge shu jia 	1
+個會話	A conversation	gè huì huà 	gè huì huà 	4
+個月	Month	gè yuè 	gè yuè 	4
+個校園	A campus	gè xiào yuán 	gè xiào yuán 	2
+個根	Root	gè gēn 	ge gen 	1
+個構造	A structure	gè gòu zào 	ge gou zao 	4
+個機關	An organ	gè jī guān 	ge ji guan 	1
+個死人	A dead man	gè sǐ rén 	ge si ren 	2
+個民族	A nation	gè mín zú 	ge min zu 	2
+個水泡	A blister	gè shuǐ pào 	ge shui pao 	3
+個水疱	A blister	gè shuǐ pào 	ge shui pao 	3
+個海洋	A sea	gè hǎi yáng 	ge hai yang 	2
+個焦點	A focus	gè jiāo diǎn 	ge jiao dian 	1
+個狐狸	A fox	gè hú lí 	ge hu li 	2
+個玩具	A toy	gè wán jù 	ge wan ju 	2
+個瑰寶	A treasure	gè guī bǎo 	ge gui bao 	1
+個環境	Environment	gè huán jìng 	gè huán jìng 	2
+個生物	Creatures	gè shēng wù 	ge sheng wu 	1
+個盆	Pots	gè pén 	ge pen 	2
+個盤子	A plate	gè pán zi	ge pan zi	2
+個禮拜	A week	gè lǐ bài 	ge li bai 	3
+個科	Section	gè kē 	ge ke 	1
+個種子	A seed	gè zhǒng zǐ 	ge zhong zi 	3
+個種族	A race	gè zhǒng zú 	ge zhong zu 	2
+個稿子	Manuscript	gè gǎo zi	ge gao zi	3
+個空間	Space	gè kōng jiān 	ge kong jian 	1
+個童年	Childhood	gè tóng nián 	ge tong nian 	2
+個糧倉	A granary	gè liáng cāng 	ge liang cang 	1
+個紙箱	A carton	gè zhǐ xiāng 	ge zhi xiang 	1
+個組織	Organization	gè zǔzhī 	ge zuzhi 	1
+個結果	A result	gè jié guǒ 	ge jie guo 	2
+個缺缺	Missing	gè quē quē 	ge que que 	1
+個罐頭	Canned	gè guàn tóu 	gè guàn tóu 	2
+個聲音	A voice	gè shēng yīn 	ge sheng yin 	1
+個職工	Workers	gè zhí gōng 	ge zhi gong 	1
+個肚子	A stomach	gè dù zi	ge du zi	4
+個藍領	A blue collar	gè lán lǐng 	ge lan ling 	2
+個蘋果	An apple	gè píng guǒ 	ge ping guo 	2
+個行動	Action	gè xíng dòng 	ge xing dong 	2
+個街道	Street	gè jiē dào 	ge jie dao 	1
+個角色	A role	gè jué sè 	gè jué sè 	2
+個記事	A note	gè jì shì 	ge ji shi 	4
+個責任	Responsibility	gè zé r èn 	ge ze r en 	2
+個距離	A distance	gè jù lí 	ge ju li 	2
+個連綿詞	A word	gè lián mián cí 	ge lian mian ci 	2
+個進步	Progress	gè jìn bù 	ge jin bu 	4
+個邀請	Invitation	gè yāo qǐng 	ge yao qing 	1
+個部分	Part	gè bù fèn 	ge bu fen 	4
+個量詞	A quantifier	gè liàng cí 	ge liang ci 	2
+個鐘頭	An hour	gè zhōng tóu 	ge zhong tou 	1
+個門口	A door	gè mén kǒu 	ge men kou 	2
+個關係	Relationship	gè guān xì 	ge guan xi 	1
+個阿啄仔	A peck Aberdeen	gè ā zhuó zǐ 	gè ā zhuó zǐ 	1
+個階段	Stage	gè jiē duàn 	gè jiē duàn 	1
+個集體	Collective	gè jí tǐ 	ge ji ti 	2
+個項目	Project	gè xiàng mù 	ge xiang mu 	4
+個頻道	Channel	gè pín dào 	ge pin dao 	2
+個題目	A title	gè tí mù 	ge ti mu 	2
+個風俗	Custom	gè fēng sú	ge feng su	1
+個首都	A capital	gè shǒu dū 	ge shou du 	1
+個影片	A movie	gè yǐng piàn 	ge ying pian 	3
+個碗	A bowl	gè wǎn 	ge wan 	3
+個生命	A life	gè shēng mìng 	ge sheng ming 	1
+個罪犯	A criminal	gè zuì fàn 	gè zuì fàn 	4
+個記者	A reporter	gè jì zhě 	ge ji zhe 	3
+個儀式	A ritual	gè yí shì 	ge yi shi 	2
+個軟件	Software	gè ruǎn jiàn 	ge ruan jian 	3
+個軟體	Software	gè ruǎn tǐ 	ge ruan ti 	3
+個庭園	A garden	gè tíng yuán 	gè tíng yuán 	2
+個花圃	A flower garden	gè huā pǔ 	ge hua pu 	1
+個花園	A garden	gè huā yuán 	gè huā yuán 	1
+個合影	A photo	gè hé yǐng 	ge he ying 	2
+個照相機	A camera	gè zhào xiàng jī 	ge zhao xiang ji 	1
+個相機	A camera	gè xiàng jī 	ge xiang ji 	1
+個枴杖	A crutch	gè guǎi zhàng 	ge guai zhang 	3
+個仆街	A servant street	gè pū jiē 	ge pu jie 	1
+個佐證	Support	gè zuǒ zhèng 	ge zuo zheng 	3
+個航道	A channel	gè háng dào 	ge hang dao 	2
+個證據	Evidence	gè zhèng jù 	ge zheng ju 	4
+個區域網路	A regional network	gè qū yù wǎng lù 	ge qu yu wang lu 	1
+個局域網	Local area network	gè jú yù wǎng 	ge ju yu wang 	2
+個感覺	A feeling	gè gǎn jué 	gè gǎn jué 	2
+個行為	Behavior	gè xíng wéi 	ge xing wei 	2
+個食品	A food	gè shí pǐn 	ge shi pin 	2
+個回扣	A rebate	gè huí kòu 	gè huí kòu 	2
+個訂書機	Stapler	gè dìng shū jī 	ge ding shu ji 	1
+個釘書機	A stapler	gè dìng shū jī 	ge ding shu ji 	1
+個事件	Events	gè shì jiàn 	ge shi jian 	4
+個事故	An accident	gè shì gù 	ge shi gu 	4
+個夜貓子	A night owl	gè yè māo zi	ge ye mao zi	1
+個發明	Invented	gè fā míng 	ge fa ming 	1
+個計劃	Plan	gè jì huá 	gè jì huá 	2
+個東西	Something	gè dōng xi	ge dong xi	1
+個產品	Products	gè chǎn pǐn 	ge chan pin 	3
+個哥哥	A brother	gè gē gē 	ge ge ge 	1
+個姐姐	A sister	gè jiejie	ge jiejie	4
+個朋友	A friend	gè péng yǒu 	ge peng you 	2
+個母親	Mothers	gè mǔ qīn 	ge mu qin 	1
+個父親	A father	gè fù qīn 	ge fu qin 	1
+個爸爸	Daddy	gè bà ba	ge ba ba	4
+個空姐	A flight attendant	gè kōng jiě 	ge kong jie 	1
+個靚女	A pretty girl	gè jìng nǚ	ge jing nu	3
+個演員	An actor	gè yǎn yuán 	gè yǎn yuán 	2
+個老師	A teacher	gè lǎo shī 	ge lao shi 	1
+個廣告	Advertising	gè guǎng gào 	ge guang gao 	3
+個律師	A lawyer	gè lǜ shī 	ge lu shi 	1
+個閪	閪 閪	gè sē	ge se	1
+個公司	Company	gè gōng sī 	ge gong si 	1
+個鐲子	A bracelet	gè zhuó zi	gè zhuó zi	2
+個窗戶	A window	gè chuāng hù 	ge chuang hu 	1
+個高潮	A climax	gè gāo cháo 	ge gao chao 	1
+個紅綠燈	A traffic light	gè hóng lǜ dēng 	ge hong lu deng 	1
+個靚仔	A handsome	gè liàng zǎi 	ge liang zai 	3
+個文化	Culture	gè wén huà 	gè wén huà 	2
+個球場	A stadium	gè qiú chǎng 	ge qiu chang 	2
+個遺跡	Ruins	gè yí jī 	ge yi ji 	1
+個房間	A room	gè fáng jiān 	ge fang jian 	1
+個容器	A container	gè róng qì 	ge rong qi 	2
+個黑猩猩	Chimpanzee	gè hēi xīng xīng 	ge hei xing xing 	1
+個碌柚	A pomelo	gè lù yóu 	ge lu you 	2
+個內容	Content	gè nèi róng 	ge nei rong 	2
+個工程	Engineering	gè gōng chéng 	ge gong cheng 	1
+個成語	Idiom	gè chéng yǔ 	ge cheng yu 	2
+個危機	A crisis	gè wéi jī 	ge wei ji 	1
+個痂	A scab	gè jiā 	ge jia 	1
+個黑板	A blackboard	gè hēi bǎn 	ge hei ban 	1
+個研究所	A research institute	gè yán jiū suǒ 	ge yan jiu suo 	1
+個銀行	A bank	gè yín háng 	ge yin hang 	2
+個郵件	Mail	gè yóu jiàn 	ge you jian 	2
+個半島	Peninsula	gè bàn dǎo 	ge ban dao 	3
+個煙囪	Chimney	gè yān cōng 	ge yan cong 	1
+個家庭	Family	gè jiā tíng 	ge jia ting 	1
+個軍隊	Army	gè jūn duì 	gè jūn duì 	1
+個圖釘	A pushpin	gè tú dīng 	ge tu ding 	1
+個硬幣	A coin	gè yìng bì 	ge ying bi 	4
+個儀器	An instrument	gè yí qì 	ge yi qi 	2
+個新聞	News	gè xīn wén 	ge xin wen 	1
+個消息	A message	gè xiāo xi	ge xiao xi	1
+個安排	Arrangement	gè ān pái 	ge an pai 	1
+個手術	Surgery	gè shǒu shù 	ge shou shu 	3
+個姿勢	Posture	gè zī shì 	ge zi shi 	1
+個文字	Text	gè wén zì 	ge wen zi 	2
+個收入	Income	gè shōu rù 	ge shou ru 	1
+個筆記本	A notebook	gè bǐ jì běn 	ge bi ji ben 	3
+個肝	Liver	gè gān 	ge gan 	1
+個動物	An animal	gè dòng wù 	ge dong wu 	4
+個堅果	Nuts	gè jiāng uǒ	ge jiang uo	1
+條影片	The film	tiáo yǐng piàn 	tiao ying pian 	2
+條生命	Life	tiáo shēng mìng 	tiao sheng ming 	1
+條仆街	Pilgrimage Street	tiáo pū jiē 	tiao pu jie 	1
+條佐證	Support	tiáo zuǒ zhèng 	tiao zuo zheng 	2
+條航道	The channel	tiáo háng dào 	tiao hang dao 	2
+條證據	Evidence	tiáo zhèng jù 	tiao zheng ju 	2
+條屍	The corpse	tiáo shī 	tiao shi 	1
+條屍體	The body of the body	tiáo shī tǐ 	tiao shi ti 	1
+條死屍	Dead body	tiáo sǐ shī 	tiao si shi 	1
+條狼	Wolf	tiáo láng 	tiao lang 	2
+條成語	Idiom	tiáo chéng yǔ 	tiao cheng yu 	2
+條煙囪	The chimney	tiáo yān cōng 	tiao yan cong 	1
+條電線	Wire	tiáo diàn xiàn 	tiao dian xian 	2
+條上菜	To serve	tiáo shàng cài 	tiao shang cai 	2
+條仔	Aberdeen	tiáo zǐ 	tiao zi 	2
+條傳送帶	Conveyor belt	tiáo chuán sòng dài 	tiáo chuán sòng dài 	2
+條呔	Tie	tiáo dāi 	tiao dai 	1
+條命	Life	tiáo mìng 	tiao ming 	2
+條士啤呔	Beer beer	tiáo shì pí dāi 	tiao shi pi dai 	1
+條山脈	Mountains	tiáo shān mài 	tiao shan mai 	1
+條山龍	The mountain dragon	tiáo shān lóng 	tiao shan long 	1
+條手鏈	Bracelet	tiáo shǒu liàn 	tiao shou lian 	2
+條撚	Twist	tiáo niǎn 	tiao nian 	2
+條樓道	Corridor	tiáo lóu dào 	tiao lou dao 	2
+條橫道	Cross bar	tiáo héng dào 	tiao heng dao 	2
+條毛巾	A towel	tiáo máo jīn 	tiao mao jin 	1
+條毯子	Blanket	tiáo tǎn zi	tiao tan zi	2
+條汗腺	Sweat glands	tiáo hàn xiàn 	tiao han xian 	2
+條泥鰍	Loach	tiáo ní qiū 	tiao ni qiu 	1
+條直線	Straight line	tiáo zhí xiàn 	tiao zhi xian 	2
+條短褲	Shorts	tiáo duǎn kù 	tiao duan ku 	2
+條紗籠	The yarn cage	tiáo shā lóng 	tiao sha long 	1
+條線索	Clues	tiáo xiàn suǒ 	tiao xian suo 	2
+條繩	The rope	tiáo shéng 	tiao sheng 	2
+條繩索	Rope	tiáo shéng suǒ 	tiao sheng suo 	2
+條罅	Loopholes	tiáo xià 	tiao xia 	2
+條腰	Waist	tiáo yāo 	tiao yao 	1
+條腿	Leg	tiáo tuǐ 	tiao tui 	2
+條蚯蚓	Earthworms	tiáo qiū yǐn 	tiao qiu yin 	1
+條蛇	Snake	tiáo shé 	tiao she 	2
+條裙子	The skirt	tiáo qún zi	tiao qun zi	2
+條褲	Pants	tiáo kù 	tiao ku 	2
+條褲子	Pants	tiáo kù zi	tiao ku zi	2
+條規則	Rules	tiáo guī zé 	tiao gui ze 	1
+條賓舟	The boat	tiáo bīn zhōu 	tiao bin zhou 	1
+條走廊	Corridor	tiáo zǒu láng 	tiao zou lang 	2
+條路	The way	tiáo lù 	tiao lu 	2
+條針	The needle	tiáo zhēn 	tiao zhen 	1
+條鐵路	Railroad	tiáo tiě lù 	tiao tie lu 	2
+條鞋帶	Shoelaces	tiáo xié dài 	tiao xie dai 	2
+條領帶	Tie	tiáo lǐng dài 	tiao ling dai 	2
+條頸	Neck	tiáo jǐng 	tiao jing 	2
+條馬路	The road	tiáo mǎ lù 	tiao ma lu 	2
+條魷魚鬚	Squid to be	tiáo yóu yú xū 	tiao you yu xu 	1
+條鱷魚	Crocodile	tiáo èyú 	tiao eyu 	2
+條麵	Face	tiáo miàn 	tiao mian 	2
+條臘腸	Stripes	tiáo là cháng 	tiao la chang 	2
+條魚	The fish	tiáo yú 	tiao yu 	2
+條曲線	Curve	tiáo qū xiàn 	tiao qu xian 	1
+條鋼絲繩	Wire rope	tiáo gāng sī shéng 	tiao gang si sheng 	1
+條頭髮	Hairs	tiáo tóu fà 	tiao tou fa 	2
+條船	The boat	tiáo chuán 	tiáo chuán 	2
+條皺紋	Wrinkles	tiáo zhòu wén 	tiao zhou wen 	2
+條弓蕉	Bow banana	tiáo gōng jiāo 	tiao gong jiao 	1
+條新聞	News	tiáo xīn wén 	tiao xin wen 	1
+條消息	The message	tiáo xiāo xi	tiao xiao xi	1
+條金蕉	Golden banana	tiáo jīn jiāo 	tiao jin jiao 	1
+條蔥	Onions	tiáo cōng 	tiao cong 	1
+條漁船	Fishing boats	tiáo yú chuán 	tiáo yú chuán 	2
+條建議	Recommendations	tiáo jiàn yì 	tiao jian yi 	2
+條傷疤	Scars	tiáo shāng bā 	tiao shang ba 	1
+條疤	Scars	tiáo bā 	tiao ba 	1
+條傷痕	Scars	tiáo shāng hén 	tiao shang hen 	1
+條疤痕	Scars	tiáo bā hén 	tiao ba hen 	1
+條芭蕉	Banana	tiáo bā jiāo 	tiao ba jiao 	1
+條香蕉	Bananas	tiáo xiāng jiāo 	tiao xiang jiao 	1
+條水母	Jellyfish	tiáo shuǐ mǔ 	tiao shui mu 	2
+條海蜇	Jellyfish	tiáo hǎi zhē 	tiao hai zhe 	1
+條狗	Dog	tiáo gǒu 	tiao gou 	2
+條歌仔	A song	tiáo gē zǐ 	tiao ge zi 	1
+條意見	Opinions	tiáo yì jiàn 	tiao yi jian 	2
+隻碗	Only bowl	zhī wǎn 	zhi wan 	1
+隻照相機	Only camera	zhī zhào xiàng jī 	zhi zhao xiang ji 	1
+隻相機	Only camera	zhī xiàng jī 	zhi xiang ji 	1
+隻夜貓子	Only night owl	zhī yè māo zi	zhi ye mao zi	1
+隻鐲子	Only bracelet	zhī zhuó zi	zhī zhuó zi	1
+隻容器	Only container	zhī róng qì 	zhi rong qi 	1
+隻黑猩猩	Only chimpanzees	zhī hēi xīng xīng 	zhi hei xing xing 	1
+隻碌柚	Only grapefruit	zhī lù yóu 	zhi lu you 	1
+隻狼	Only wolf	zhī láng 	zhi lang 	1
+隻馬	Only horse	zhī mǎ 	zhi ma 	1
+隻胳臂	Only arm	zhī gē bei	zhi ge bei	1
+隻女	Only female	zhī nǚ	zhi nu	1
+隻船	Only boat	zhī chuán 	zhī chuán 	1
+隻冬瓜	Only melon	zhī dōng guā 	zhi dong gua 	1
+隻刀螂	Only knife and mound	zhī dāo lang	zhi dao lang	1
+隻刺蝟	Only hedgehog	zhī cì wèi 	zhi ci wei 	1
+隻劍齒虎	Only saber-toothed tiger	zhī jiàn chǐ hǔ 	zhi jian chi hu 	1
+隻孔雀	Only peacock	zhī kǒng què 	zhī kǒng què 	1
+隻家禽	Only poultry	zhī jiā qín 	zhi jia qin 	1
+隻山羊	Only goat	zhī shān yáng 	zhi shan yang 	1
+隻武裝部隊	Only armed forces	zhī wǔ zhuāng bù duì 	zhī wǔ zhuāng bù duì 	1
+隻海豹	Only seal	zhī hǎi bào 	zhi hai bao 	1
+隻海龜	Only turtles	zhī hǎi guī 	zhi hai gui 	1
+隻熱氣球	Only hot air balloon	zhī rè qì qiú 	zhi re qi qiu 	1
+隻牛仔	Only cowboy	zhī niú zǎi 	zhi niu zai 	1
+隻狗仔	Only paparazzi	zhī gǒu zǎi 	zhi gou zai 	1
+隻猩猩	Only orangutans	zhī xīng xīng 	zhi xing xing 	1
+隻猴子	Only monkeys	zhī hóu zi	zhi hou zi	1
+隻獼猴	Only monkeys	zhī mí hóu 	zhi mi hou 	1
+隻瓶子	Only bottle	zhī píng zi	zhi ping zi	1
+隻田雞	Only frogs	zhī tián jī 	zhi tian ji 	1
+隻癩蛤蟆	Only toad	zhī lài há ma	zhi lai ha ma	1
+隻皮包	Only bag	zhī pí bāo 	zhi pi bao 	1
+隻籃子	Only basket	zhī lán zi	zhi lan zi	1
+隻羚羊	Only antelope	zhī líng yáng 	zhi ling yang 	1
+隻羹	Only soup	zhī gēng 	zhi geng 	1
+隻老虎	Only tiger	zhī lǎo hǔ 	zhi lao hu 	1
+隻老鼠	Only mouse	zhī lǎo shǔ 	zhi lao shu 	1
+隻蒼蠅	Only flies	zhī cāng yíng 	zhi cang ying 	1
+隻蚊子	Only mosquitoes	zhī wén zi	zhi wen zi	1
+隻蝨子	Only lice	zhī shī zi	zhi shi zi	1
+隻蝴蝶	Only butterfly	zhī hú dié 	zhi hu die 	1
+隻螃蟹	Only crabs	zhī páng xiè 	zhi pang xie 	1
+隻螞蟻	Only ants	zhī mǎ yǐ 	zhi ma yi 	1
+隻螳螂	Only mantis	zhī táng láng 	zhi tang lang 	1
+隻蟾蜍	Only toad	zhī chán chú 	zhi chan chu 	1
+隻袋鼠	Only kangaroo	zhī dài shǔ 	zhi dai shu 	1
+隻貉子	Only raccoon	zhī háo zi	zhi hao zi	1
+隻貓	Only cats	zhī māo 	zhi mao 	1
+隻跳鼠	Only jump mouse	zhī tiào shǔ 	zhi tiao shu 	1
+隻鈴鐺	Only bells	zhī líng dāng 	zhi ling dang 	1
+隻雪豹	Only snow leopard	zhī xuě bào 	zhi xue bao 	1
+隻青蛙	Only frogs	zhī qīng wā 	zhi qing wa 	1
+隻鳥巢	Only bird nest	zhī niǎo cháo 	zhi niao chao 	1
+隻鴨子	Only ducks	zhī yā zi	zhi ya zi	1
+隻麒麟	Only unicorn	zhī qí lín 	zhi qi lin 	1
+隻耳仔	Only ear ear	zhī ěr zǐ 	zhi er zi 	1
+隻手	Hand only	zhī shǒu 	zhi shou 	1
+隻胳膊	Only arm	zhī gē bo	zhi ge bo	1
+隻芭蕉	Only banana	zhī bā jiāo 	zhi ba jiao 	1
+隻香蕉	Only banana	zhī xiāng jiāo 	zhi xiang jiao 	1
+隻蜜蜂	Only bees	zhī mì fēng 	zhi mi feng 	1
+隻鳥	Only bird	zhī niǎo 	zhi niao 	1
+隻鞋子	Only shoes	zhī xié zi	zhi xie zi	1
+隻獅子	Only lion	zhī shī zi	zhi shi zi	1
+隻水母	Only jellyfish	zhī shuǐ mǔ 	zhi shui mu 	1
+隻海蜇	Only jellyfish	zhī hǎi zhē 	zhi hai zhe 	1
+隻狗	Dogs only	zhī gǒu 	zhi gou 	1
+隻動物	Only animal	zhī dòng wù 	zhi dong wu 	1
+隻眼	Eyes only	zhī yǎn 	zhi yan 	1
+隻眼睛	Eyes only	zhī yǎn jīng 	zhi yan jing 	1
+隻鞋	Shoes only	zhī xié 	zhi xie 	1
+隻恐龍	Only dinosaurs	zhī kǒng lóng 	zhi kong long 	1
+隻熊	Only bear	zhī xióng 	zhi xiong 	1
+隻豬	Only pig	zhī zhū 	zhi zhu 	1
+隻歌	Song only	zhī gē 	zhi ge 	1
+張報	Zhang reported	zhāng bào 	zhang bao 	1
+張簡歷	Resume	zhāng jiǎn lì 	zhang jian li 	1
+張合影	Zhang photo shadow	zhāng hé yǐng 	zhang he ying 	1
+張信用卡	Zhang credit card	zhāng xìn yòng kǎ 	zhang xin yong ka 	1
+張傳單	Zhang Shou single	zhāng chuán dān 	zhāng chuán dān 	1
+張債券	Bond	zhāng zhài quàn 	zhāng zhài quàn 	1
+張凳	Stool	zhāng dèng 	zhang deng 	1
+張卡	Zhang card	zhāng kǎ 	zhang ka 	1
+張卡片	Card card	zhāng kǎ piàn 	zhang ka pian 	1
+張單	Zhang Dan	zhāng dān 	zhang dan 	1
+張嘴	Mouth	zhāng zuǐ 	zhang zui 	1
+張回單	Zhang Hui single	zhāng huí dān 	zhāng huí dān 	1
+張圖片	Picture	zhāng tú piàn 	zhang tu pian 	1
+張專輯	Album	zhāng zhuān jí 	zhang zhuan ji 	1
+張床	Bed	zhāng chuáng 	zhāng chuáng 	1
+張情批	Translate	zhāng qíng pī 	zhang qing pi 	1
+張支票	Check	zhāng zhī piào 	zhang zhi piao 	1
+張文憑	Zhang dating	zhāng wén píng 	zhang wen ping 	1
+張書桌	Zhang desk	zhāng shū zhuō 	zhang shu zhuo 	1
+張書目	Zhang Shumu	zhāng shū mù 	zhang shu mu 	1
+張梳化	Open up	zhāng shū huà 	zhāng shū huà 	1
+張機票	Ticket	zhāng jī piào 	zhang ji piao 	1
+張檯	Zhang Tai	zhāng tái 	zhang tai 	1
+張發票	Invoice	zhāng fā piào 	zhang fa piao 	1
+張相	Zhang Xiang	zhāng xiāng 	zhang xiang 	1
+張稅票	Zhang tax votes	zhāng shuì piào 	zhāng shuì piào 	1
+張笑臉	Smiling face	zhāng xiào liǎn 	zhang xiao lian 	1
+張紙	Sheets of paper	zhāng zhǐ 	zhang zhi 	1
+張紙幣	Paper money	zhāng zhǐ bì 	zhang zhi bi 	1
+張菜單	Zhang menu	zhāng cài dān 	zhang cai dan 	1
+張表報	Zhang report	zhāng biǎo bào 	zhang biao bao 	1
+張被	Zhang was	zhāng bèi 	zhang bei 	1
+張鈔票	Zhang banknotes	zhāng chāo piào 	zhang chao piao 	1
+張電話卡	Telephone card	zhāng diàn huà kǎ 	zhāng diàn huà kǎ 	1
+張面孔	Face face	zhāng miàn kǒng 	zhang mian kong 	1
+張女	Zhang female	zhāng nǚ	zhang nu	1
+張獎狀	Zhang certificate	zhāng jiǎng zhuàng 	zhāng jiǎng zhuàng 	1
+張木板	Sheets of wood	zhāng mù bǎn 	zhang mu ban 	1
+張玻璃	Zhang glass	zhāng bō lí 	zhang bo li 	1
+張安樂椅	Zhang Anle chair	zhāng ān lè yǐ 	zhang an le yi 	1
+張涼席	Zhang Liangxi	zhāng liáng xí 	zhang liang xi 	1
+張啤牌	Zhang poker	zhāng pí pái 	zhang pi pai 	1
+張桌子	Table	zhāng zhuō zi	zhang zhuo zi	1
+張照片	a photograph	zhāng zhào piàn 	zhang zhao pian 	1
+張賀卡	Zhanghe card	zhāng hè kǎ 	zhang he ka 	1
+張圖畫	Picture drawing	zhāng tú huà 	zhāng tú huà 	1
+張地圖	Map	zhāng dì tú 	zhang di tu 	1
+座庭園	Seat garden	zuò tíng yuán 	zuò tíng yuán 	2
+座花圃	Block flower garden	zuò huā pǔ 	zuò huā pǔ 	1
+座花園	Garden	zuò huā yuán 	zuò huā yuán 	1
+座劇院	Theater	zuò jù yuàn 	zuò jù yuàn 	4
+座農場	Farm	zuò nóng chǎng 	zuò nóng chǎng 	2
+座不夜城	Block never sleeps	zuò búyè chéng 	zuò búyè chéng 	2
+座倉庫	Seat warehouse	zuò cāng kù 	zuò cāng kù 	1
+座停車場	Parking lot	zuò tíng chē chǎng 	zuò tíng chē chǎng 	1
+座叢林	Seat jungle	zuò cóng lín 	zuò cóng lín 	2
+座古墓	Tombs	zuò gǔ mù 	zuò gǔ mù 	3
+座墓葬	Tombs	zuò mù zàng 	zuò mù zàng 	4
+座墳墓	A tomb	zuò fén mù 	zuò fén mù 	2
+座大使館	Embassy	zuò dà shǐ guǎn 	zuò dà shǐ guǎn 	3
+座大樓	Block building	zuò dà lóu 	zuò dà lóu 	2
+座宅子	Seat house	zuò zhái zi	zuò zhái zi	2
+座屯落	Seat down	zuò tún luò 	zuò tún luò 	2
+座山	Mountain	zuò shān 	zuò shān 	1
+座島嶼	The island	zuò dǎo yǔ 	zuò dǎo yǔ 	3
+座建築	Building blocks	zuò jiàn zhú 	zuò jiàn zhú 	2
+座建築物	Building blocks	zuò jiàn zhú wù 	zuò jiàn zhú wù 	2
+座戲院	Theater	zuò xì yuàn 	zuò xì yuàn 	4
+座村子	Seat village	zuò cūn zi	zuò cūn zi	1
+座村莊	Block village	zuò cūn zhuāng 	zuò cūn zhuāng 	1
+座村落	Seat village	zuò cūn luò 	zuò cūn luò 	1
+座校舍	School building	zuò xiào shè 	zuò xiào shè 	4
+座樓閣	Pavilions	zuò lóu gé 	zuò lóu gé 	2
+座橋樑	Bridge	zuò qiáo liáng 	zuò qiáo liáng 	2
+座漢墓	Han Tombs	zuò hàn mù 	zuò hàn mù 	4
+座火山	Volcanoes	zuò huǒ shān 	zuò huǒ shān 	1
+座燈塔	Lighthouse	zuò dēng tǎ 	zuò dēng tǎ 	1
+座監獄	Prison	zuò jiān yù 	zuò jiān yù 	1
+座筒倉	Seat silo	zuò tǒng cāng 	zuò tǒng cāng 	1
+座莊子	Block Zhuangzi	zuò zhuāng zi	zuò zhuāng zi	1
+座金字塔	Block pyramid	zuò jīn zì tǎ 	zuò jīn zì tǎ 	1
+座半島	The peninsula	zuò bàn dǎo 	zuò bàn dǎo 	3
+座公園	Park	zuò gōng yuán 	zuò gōng yuán 	1
+座煙囪	Block chimney	zuò yān cōng 	zuò yān cōng 	1
+座廟	Temple of the temple	zuò miào 	zuò miào 	4
+座公寓	Apartment	zuò gōng yù 	zuò gōng yù 	1
+座醫院	Hospital	zuò yī yuàn 	zuò yī yuàn 	1
+座校門	Seat gate	zuò xiào mén 	zuò xiào mén 	2
+座帳棚	A tent	zuò zhàng péng 	zuò zhàng péng 	2
+座帳篷	Seat tent	zuò zhàng péng 	zuò zhàng péng 	2
+間公司	Company	jiān gōng sī 	jian gong si 	1
+間房間	Room	jiān fáng jiān 	jian fang jian 	1
+間咖啡室	A coffee shop	jiān kā fēi shì 	jian ka fei shi 	1
+間咖啡店	Coffee shop	jiān kā fēi diàn 	jian ka fei dian 	1
+間商店	Shop	jiān shāng diàn 	jian shang dian 	1
+間圖書館	Library	jiān tú shū guǎn 	jian tu shu guan 	1
+間領事館	Consulate	jiān lǐng shì guǎn 	jian ling shi guan 	1
+間劇院	The theater	jiān jù yuàn 	jiān jù yuàn 	1
+間博物館	Museum	jiān bó wù guǎn 	jian bo wu guan 	1
+間書店	Bookstore	jiān shū diàn 	jian shu dian 	1
+間療養院	Intercourse room	jiān liáo yǎng yuàn 	jiān liáo yǎng yuàn 	1
+間賭場	Casino	jiān dǔ chǎng 	jian du chang 	1
+間銀行	Bank	jiān yín háng 	jian yin hang 	1
+間廟	Temple	jiān miào 	jian miao 	1
+間公寓	Apartment	jiān gōng yù 	jian gong yu 	1
+間大學	University	jiān dà xué 	jiān dà xué 	1
+間學校	School	jiān xué xiào 	jiān xué xiào 	1
+間醫院	Hospital	jiān yī yuàn 	jiān yī yuàn 	1
+間健身房	A gym	jiān jiàn shēn fáng 	jian jian shen fang 	1
+間儲藏室	Room storage room	jiān chú cáng shì 	jian chu cang shi 	1
+間圖書室	Room library	jiān tú shū shì 	jian tu shu shi 	1
+間客房	Rooms	jiān kè fáng 	jian ke fang 	1
+間宿舍	Dormitory	jiān sù shè 	jian su she 	1
+間實驗室	Laboratory	jiān shí yàn shì 	jian shi yan shi 	1
+間屋	House	jiān wū 	jian wu 	1
+間屋子	Room	jiān wū zi	jian wu zi	1
+間差館	Interval	jiān chā guǎn 	jian cha guan 	1
+間廁所	Toilets	jiān cè suǒ 	jian ce suo 	1
+間房	Room	jiān fáng 	jian fang 	1
+間房子	Room	jiān fáng zi	jian fang zi	1
+間手術室	Room operating room	jiān shǒu shù shì 	jian shou shu shi 	1
+間教室	Classrooms	jiān jiào shì 	jian jiao shi 	1
+間病房	Interventricular ward	jiān bìng fáng 	jian bing fang 	1
+間課堂	Classroom	jiān kè táng 	jian ke tang 	1
+間辦公室	Office	jiān bàn gōng shì 	jian ban gong shi 	1
+間醫務室	Intervention room	jiān yī wù shì 	jian yi wu shi 	1
+間鋪頭	Between the shop head	jiān pù tóu 	jian pu tou 	1
+間閱覽室	Room reading room	jiān yuè lǎn shì 	jiān yuè lǎn shì 	1
+把枴杖	Put crutches	bǎ guǎi zhàng 	ba guai zhang 	3
+把安樂椅	Put an easy chair	bǎ ān lè yǐ 	ba an le yi 	1
+把二胡	The erhu	bǎ èr hú 	ba er hu 	2
+把冬粉	Put the winter powder	bǎ dōng fěn 	ba dong fen 	1
+把刀	Put the knife	bǎ dāo 	ba dao 	1
+把剪刀	Put the scissors	bǎ jiǎn dāo 	ba jian dao 	1
+把勺子	Put the spoon	bǎ sháo zi	ba shao zi	2
+把匕首	The dagger	bǎ bǐ shǒu 	ba bi shou 	3
+把匙子	Put the spoon	bǎ chí zi	ba chi zi	2
+把口	The mouth	bǎ kǒu 	ba kou 	3
+把尺	The ruler	bǎ chǐ 	ba chi 	3
+把尺子	The ruler	bǎ chǐ zi	ba chi zi	3
+把掃帚	Put a broom	bǎ sào zhǒu 	ba sao zhou 	3
+把掃把	The broom	bǎ sào bǎ 	ba sao ba 	3
+把提琴	Put the violin	bǎ tí qín 	ba ti qin 	2
+把斧子	Put the ax	bǎ fǔ zi	ba fu zi	3
+把杓子	Put the ladle	bǎ biāo zi	ba biao zi	1
+把椅子	a chair	bǎ yǐ zi	ba yi zi	3
+把灰燼	Put the ashes	bǎ huī jìn 	ba hui jin 	1
+把牙刷	Put the toothbrush	bǎ yá shuā 	ba ya shua 	1
+把算尺	Put the ruler	bǎ suàn chǐ 	bǎ suàn chǐ 	3
+把篝火	Put the bonfire	bǎ gōu huǒ 	ba gou huo 	1
+把粉條	Put vermicelli	bǎ fěn tiáo 	ba fen tiao 	2
+把耙子	Put the rake	bǎ bà zi	ba ba zi	3
+把聲	The sound	bǎ shēng 	ba sheng 	1
+把茶壺	Put the teapot	bǎ chá hú 	ba cha hu 	2
+把金盞	The calendars	bǎ jīn zhǎn 	ba jin zhan 	1
+把鉸剪	Cut the hinges	bǎ jiǎo jiǎn 	ba jiao jian 	3
+把鋤頭	Put the hoe	bǎ chú tóu 	ba chu tou 	2
+把錐子	Put the awl	bǎ zhuī zi	ba zhui zi	1
+把錘子	Put the hammer	bǎ chuí zi	bǎ chuí zi	2
+把鑰匙	Put the key	bǎ yào shi	ba yao shi	3
+把高胡	The high hu	bǎ gāo hú 	ba gao hu 	1
+把遮	To cover	bǎ zhē 	ba zhe 	1
+把雨傘	Put an umbrella	bǎ yǔ sǎn 	ba yu san 	3
+把花	The flower	bǎ huā 	ba hua 	1
+把蔥	Put onions	bǎ cōng 	ba cong 	1
+把筷子	Put chopsticks	bǎ kuài zi	bǎ kuài zi	3
+件事情	Something	jiàn shì qíng 	jian shi qing 	2
+件內衣	Underwear	jiàn nèi yī 	jian nei yi 	1
+件商品	Pieces of merchandise	jiàn shāng pǐn 	jian shang pin 	1
+件善事	Good thing	jiàn shàn shì 	jian shan shi 	4
+件器物	Pieces of objects	jiàn qì wù 	jian qi wu 	4
+件器皿	Pieces of utensils	jiàn qì mǐn 	jian qi min 	3
+件夾襖	Pieces of jacket	jiàn jiá ǎo	jian jia ao	2
+件工具	Tools	jiàn gōng jù 	jian gong ju 	1
+件差事	Errand	jiàn chāi shì 	jian chai shi 	1
+件棉衣	Pieces of cotton	jiàn mián yī 	jian mian yi 	1
+件樂器	Pieces of musical instruments	jiàn yuè qì 	jiàn yuè qì 	4
+件浴衣	Bathrobe	jiàn yù yī 	jian yu yi 	1
+件炊具	Pieces of cooking utensils	jiàn chuī jù 	jian chui ju 	1
+件用具	Pieces of utensils	jiàn yòng jù 	jian yong ju 	4
+件背心	Pieces of vest	jiàn bèi xīn 	jian bei xin 	1
+件衣	Clothing	jiàn yī 	jian yi 	1
+件衫	Shirt	jiàn shān 	jian shan 	1
+件袍子	Pieces of gowns	jiàn páo zi	jian pao zi	2
+件遺物	Relics	jiàn yí wù 	jian yi wu 	2
+件醜事	A scandalous thing	jiàn chǒu shì 	jian chou shi 	3
+件醜聞	Scandal	jiàn chǒu wén 	jian chou wen 	2
+件雨衣	Pieces of raincoat	jiàn yǔ yī 	jian yu yi 	1
+件紀念品	Souvenirs	jiàn jì niàn pǐn 	jian ji nian pin 	3
+件和服	And kimono	jiàn hé fú 	jian he fu 	2
+件家具	Pieces of furniture	jiàn jiā jù 	jian jia ju 	1
+件校服	School uniforms	jiàn xiào fú 	jian xiao fu 	2
+件事	Something	jiàn shì 	jian shi 	4
+件禮品	Gift	jiàn lǐ pǐn 	jian li pin 	3
+件禮物	Gift	jiàn lǐ wù 	jian li wu 	3
+件東西	Something stuff	jiàn dōng xi	jian dong xi	1
+件產品	Products	jiàn chǎn pǐn 	jian chan pin 	3
+件罪案	Crime	jiàn zuì àn 	jiàn zuì àn 	4
+件郵件	Mail	jiàn yóu jiàn 	jian you jian 	2
+塊閪	Block	kuài sē	kuài sē	1
+塊布	Block cloth	kuài bù 	kuài bù 	4
+塊綢子	Pieces of silk	kuài chóu zi	kuài chóu zi	2
+塊山楂餅	Pieces of hawthorn cake	kuài shān chá bǐng 	kuài shān chá bǐng 	1
+塊放大鏡	Block magnifying glass	kuài fàng dà jìng 	kuài fàng dà jìng 	4
+塊木料	Block wood	kuài mù liào 	kuài mù liào 	4
+塊木材	Piece of wood	kuài mù cái 	kuài mù cái 	2
+塊木頭	Piece of wood	kuài mù tou	kuài mù tou	4
+塊沙洲	Block sandbar	kuài shā zhōu 	kuài shā zhōu 	1
+塊火石	Pieces of flint	kuài huǒ shí 	kuài huǒ shí 	2
+塊石頭	Stone blocks	kuài shí tou	kuài shí tou	2
+塊肥皂	Pieces of soap	kuài féi zào 	kuài féi zào 	2
+塊軟糖	Block candy	kuài ruǎn táng 	kuài ruǎn táng 	2
+塊雀斑	Block freckles	kuài què bān 	kuài què bān 	1
+塊雨披	Block poncho	kuài yǔ pī 	kuài yǔ pī 	1
+塊面	Block surface	kuài miàn 	kuài miàn 	4
+塊鮮肉	Fresh meat	kuài xiān ròu 	kuài xiān ròu 	1
+塊磁鐵	Block magnets	kuài cí tiě 	kuài cí tiě 	2
+塊痂	Scabs	kuài jiā 	kuài jiā 	1
+塊麵包	Piece of bread	kuài miàn bāo 	kuài miàn bāo 	1
+塊黑板	Block blackboard	kuài hēi bǎn 	kuài hēi bǎn 	1
+塊木板	Block board	kuài mù bǎn 	kuài mù bǎn 	3
+塊玻璃	Block glass	kuài bō lí 	kuài bō lí 	1
+塊石碑	Block stone	kuài shí bēi 	kuài shí bēi 	1
+塊硬幣	Pieces of coins	kuài yìng bì 	kuài yìng bì 	4
+塊甲骨	Block bones	kuài jiǎ gǔ 	kuài jiǎ gǔ 	3
+塊電池	Block battery	kuài diàn chí 	kuài diàn chí 	2
+家公司	Home company	jiā gōng sī 	jia gong si 	1
+家企業	Home business	jiā qì yè 	jia qi ye 	1
+家休養所	Home recuperation	jiā xiū yǎng suǒ 	jia xiu yang suo 	1
+家博物院	Home museum	jiā bó wù yuàn 	jiā bó wù yuàn 	1
+家咖啡屋	Home coffee house	jiā kā fēi wū 	jia ka fei wu 	1
+家店	Home shop	jiā diàn 	jia dian 	1
+家店鋪	Home shop	jiā diàn pù 	jia dian pu 	1
+家旅館	Home hotel	jiā lǚguǎn 	jia luguan 	1
+家農戶	Home farmer	jiā nóng hù 	jia nong hu 	1
+家郵局	Home post office	jiā yóu jú 	jia you ju 	1
+家酒店	Home hotel	jiā jiǔ diàn 	jia jiu dian 	1
+家咖啡室	Home coffee room	jiā kā fēi shì 	jia ka fei shi 	1
+家咖啡店	Home coffee shop	jiā kā fēi diàn 	jia ka fei dian 	1
+家商店	Home store	jiā shāng diàn 	jia shang dian 	1
+家圖書館	Home library	jiā tú shū guǎn 	jia tu shu guan 	1
+家領事館	Home consulate	jiā lǐng shì guǎn 	jia ling shi guan 	1
+家研究所	Home institute	jiā yán jiū suǒ 	jia yan jiu suo 	1
+家劇院	Home theater	jiā jù yuàn 	jiā jù yuàn 	1
+家農場	Home farm	jiā nóng chǎng 	jia nong chang 	1
+家博物館	Home museum	jiā bó wù guǎn 	jia bo wu guan 	1
+家書店	Home bookstore	jiā shū diàn 	jia shu dian 	1
+家療養院	Home sanatorium	jiā liáo yǎng yuàn 	jiā liáo yǎng yuàn 	1
+家賭場	Home casino	jiā dǔ chǎng 	jia du chang 	1
+家銀行	Bank	jiā yín háng 	jia yin hang 	1
+家公園	Home park	jiā gōng yuán 	jiā gōng yuán 	1
+家醫院	Home hospital	jiā yī yuàn 	jiā yī yuàn 	1
+本成語	The idiom	běn chéng yǔ 	ben cheng yu 	2
+本地圖	The map	běn dì tú 	ben di tu 	2
+本冊子	This booklet	běn cè zi	ben ce zi	3
+本印本	This print	běn yìn běn 	ben yin ben 	3
+本字典	This dictionary	běn zì diǎn 	ben zi dian 	3
+本寫本	This writing	běn xiě běn 	ben xie ben 	3
+本專著	The monograph	běn zhuān zhù 	ben zhuan zhu 	1
+本小冊子	This brochure	běn xiǎo cè zi	ben xiao ce zi	3
+本手冊	This manual	běn shǒu cè 	ben shou ce 	3
+本手抄本	This manuscript	běn shǒu chāo běn 	ben shou chao ben 	1
+本教科書	This textbook	běn jiào kē shū 	ben jiao ke shu 	1
+本書本	This book	běn shū běn 	ben shu ben 	1
+本期刊	This journal	běn qí kān 	ben qi kan 	1
+本聖經	The Bible	běn shèng jīng 	ben sheng jing 	1
+本課本	This textbook	běn kè běn 	ben ke ben 	3
+本週刊	This week	běn zhōu kān 	ben zhou kan 	1
+本黃色小說	The yellow novel	běn huáng sè xiǎo shuō 	běn huáng sè xiǎo shuō 	1
+本雜誌	The magazine	běn zá zhì 	ben za zhi 	2
+本日記	This diary	běn rì jì 	ben ri ji 	3
+本小說	This novel	běn xiǎo shuō 	ben xiao shuo 	1
+本詞典	This dictionary	běn cí diǎn 	ben ci dian 	2
+本圖集	This episode	běn tú jí 	ben tu ji 	2
+位主席	Chairman	wèi zhǔ xí 	wei zhu xi 	2
+位使者	The messenger	wèi shǐ zhě 	wei shi zhe 	3
+位可汗	Bit Khan	wèi kè hán 	wei ke han 	2
+位夫人	Mrs. Lady	wèi fū rén 	wei fu ren 	1
+位校長	The headmaster	wèi xiào zhǎng 	wei xiao zhang 	3
+位詩人	Poet	wèi shī rén 	wei shi ren 	1
+位冠軍	Champion	wèi guàn jūn 	wèi guàn jūn 	1
+位婦人	A woman	wèi fù rén 	wei fu ren 	2
+位記者	Reporters	wèi jì zhě 	wei ji zhe 	3
+位哥哥	Bit brother	wèi gē gē 	wei ge ge 	1
+位姐姐	Bit sister	wèi jiejie	wei jiejie	4
+位朋友	a friend	wèi péng yǒu 	wei peng you 	2
+位母親	Mothers	wèi mǔ qīn 	wei mu qin 	1
+位父親	Father	wèi fù qīn 	wei fu qin 	1
+位爸爸	Bit daddy	wèi bà ba	wei ba ba	4
+位空姐	Stallion	wèi kōng jiě 	wei kong jie 	1
+位靚女	Bit pretty girl	wèi jìng nǚ	wei jing nu	3
+位演員	Bit actor	wèi yǎn yuán 	wèi yǎn yuán 	2
+位老師	Teacher	wèi lǎo shī 	wei lao shi 	1
+位律師	Lawyer	wèi lǜshī 	wei lushi 	1
+位警察	Police station	wèi jǐng chá 	wei jing cha 	2
+顆圖釘	Pin nails	kē tú dīng 	ke tu ding 	1
+顆珍珠	Pearl pearl	kē zhēn zhū 	ke zhen zhu 	1
+顆珠	Beads	kē zhū 	ke zhu 	1
+顆瓜子	Melon seeds	kē guā zǐ 	ke gua zi 	1
+顆子彈	Bullet	kē zǐ dàn 	ke zi dan 	1
+顆平常心	Fairness	kē píng cháng xīn 	ke ping chang xin 	1
+顆心	Heart	kē xīn 	ke xin 	1
+顆行星	Planet	kē xíng xīng 	ke xing xing 	1
+顆長牙	Long teeth	kē zhǎng yá 	ke zhang ya 	1
+顆電燈泡	Light bulb	kē diàn dēng pào 	ke dian deng pao 	1
+顆糖果	Candy	kē táng guǒ 	ke tang guo 	1
+顆鑽石	Diamonds	kē zuàn shí 	kē zuàn shí 	1
+顆咖喱魚蛋	Curry fish eggs	kē gā lí yú dàn 	ke ga li yu dan 	1
+顆葡萄	Grapes	kē pú táo 	ke pu tao 	1
+顆堅果	Nuts	kē jiāng uǒ	ke jiang uo	1
+顆恆星	Stars	kē héng xīng 	ke heng xing 	1
+顆白果	Pine fruit	kē bái guǒ 	ke bai guo 	1
+顆藥丸	Pills	kē yào wán 	ke yao wan 	1
+顆電子	Electronic stars	kē diàn zǐ 	ke dian zi 	1
+粒電池	Particle battery	lì diàn chí 	li dian chi 	2
+粒光子	Particle photons	lì guāng zǐ 	li guang zi 	1
+粒提子	Grain	lì tí zi	li ti zi	2
+粒車厘子	Grain car	lì chē lí zi	li che li zi	1
+粒進球	The ball into the ball	lì jìn qiú 	li jin qiu 	2
+粒珍珠	Grain pearl	lì zhēn zhū 	li zhen zhu 	1
+粒珠	Grain	lì zhū 	li zhu 	1
+粒瓜子	Melon seeds	lì guā zǐ 	li gua zi 	1
+粒葡提子	Grapevine	lì pú tí zi	li pu ti zi	2
+粒子彈	Particle bombs	lì zǐ dàn 	li zi dan 	3
+粒糖果	Candy	lì táng guǒ 	li tang guo 	2
+粒鑽石	Granular diamonds	lì zuàn shí 	lì zuàn shí 	2
+粒咖喱魚蛋	Curry fish eggs	lì gā lí yú dàn 	li ga li yu dan 	1
+粒葡萄	Grape	lì pú táo 	li pu tao 	2
+粒堅果	Nuts	lì jiāng uǒ	li jiang uo	1
+粒恆星	Star stars	lì héng xīng 	li heng xing 	1
+粒白果	Grape fruit	lì bái guǒ 	li bai guo 	2
+粒藥丸	Granules	lì yào wán 	li yao wan 	2
+粒電子	Grain electrons	lì diàn zǐ 	li dian zi 	3
+架照相機	Frame camera	jià zhào xiàng jī 	jia zhao xiang ji 	1
+架相機	Frame camera	jià xiàng jī 	jia xiang ji 	1
+架火車	Train the train	jià huǒ chē 	jia huo che 	1
+架梯子	A ladder	jià tī zi	jia ti zi	1
+架波子	Frame wave	jià bō zi	jia bo zi	1
+架火器	Firearms	jià huǒ qì 	jia huo qi 	3
+架直升機	Helicopter	jià zhí shēng jī 	jia zhi sheng ji 	1
+架眠床	Sleep bed	jià mián chuáng 	jià mián chuáng 	2
+架高射機槍	Frame machine gun	jià gāo shè jī qiāng 	jia gao she ji qiang 	1
+架儀器	Frame instrument	jià yí qì 	jia yi qi 	2
+架鋼琴	Piano	jià gāng qín 	jia gang qin 	1
+架轎子	Frame sedan chair	jià jiào zi	jia jiao zi	4
+架公交車	Frame bus	jià gōng jiāo chē 	jia gong jiao che 	1
+架公共汽車	Frame bus	jià gōng gòng qì chē 	jia gong gong qi che 	1
+架吉普	Jeep	jià jí pǔ 	jia ji pu 	2
+架單車	Cycling	jià dān chē 	jia dan che 	1
+架巴士	Shelves bus	jià bā shì 	jia ba shi 	1
+架汽車	Frame car	jià qì chē 	jia qi che 	1
+架的士	Taxi	jià dí shì 	jia di shi 	2
+場儀式	Field ritual	chǎng yí shì 	chang yi shi 	2
+場叛亂	Field rebellion	chǎng pàn luàn 	chǎng pàn luàn 	3
+場大雨	Heavy rain	chǎng dà yǔ 	chang da yu 	3
+場大風雪	Big snowstorm	chǎng dà fēng xuě 	chang da feng xue 	1
+場戰爭	Field war	chǎng zhàn zhēng 	chang zhan zheng 	1
+場暴風雪	Field Blizzard	chǎng bào fēng xuě 	chang bao feng xue 	1
+場演唱會	Concert	chǎng yǎn chàng huì 	chǎng yǎn chàng huì 	3
+場球賽	Field match	chǎng qiú sài 	chang qiu sai 	2
+場競賽	Field competition	chǎng jìng sài 	chang jing sai 	3
+場聖戰	Field jihad	chǎng shèng zhàn 	chang sheng zhan 	3
+場雷雨	Thunderstorms	chǎng léi yǔ 	chang lei yu 	2
+場旱災	Drought	chǎng hàn zāi 	chang han zai 	1
+場愛情	Love field	chǎng ài qíng 	chang ai qing 	2
+場悲劇	Field tragedy	chǎng bēi jù 	chang bei ju 	1
+場危機	Field crisis	chǎng wéi jī 	chang wei ji 	1
+場會議	Field meeting	chǎng huì yì 	chǎng huì yì 	3
+場會	Field meeting	chǎng huì 	chǎng huì 	3
+場比賽	Field match	chǎng bǐ sài 	chang bi sai 	3
+場爭論	Field debate	chǎng zhēng lùn 	chang zheng lun 	1
+部照相機	Department of camera	bù zhào xiàng jī 	bu zhao xiang ji 	1
+部相機	Department of the camera	bù xiàng jī 	bu xiang ji 	1
+部黃色小說	Yellow novels	bù huáng sè xiǎo shuō 	bù huáng sè xiǎo shuō 	1
+部小說	Novels	bù xiǎo shuō 	bu xiao shuo 	1
+部詞典	Department of dictionary	bù cí diǎn 	bu ci dian 	2
+部鋼琴	Piano	bù gāng qín 	bu gang qin 	1
+部收音機	Radio	bù shōu yīn jī 	bu shou yin ji 	1
+部劇	Drama	bù jù 	bu ju 	4
+部手提電話	Department of mobile phones	bù shǒu tí diàn huà 	bù shǒu tí diàn huà 	2
+部車	Car	bù chē 	bu che 	1
+部電視劇	TV series	bù diàn shì jù 	bu dian shi ju 	4
+部手機	Department of mobile phones	bù shǒu jī 	bu shou ji 	1
+部電影	Film	bù diàn yǐng 	bu dian ying 	3
+部電腦	Computer	bù diàn nǎo 	bu dian nao 	3
+部戲劇	Department of drama	bù xì jù 	bu xi ju 	4
+部圖集	Atlas	bù tú jí 	bu tu ji 	2
+部連續劇	Department of drama	bù lián xù jù 	bu lian xu ju 	2
+部戲	Department of drama	bù xì 	bu xi 	4
+份禮品	Gift	fèn lǐ pǐn 	fen li pin 	3
+份禮物	Gift	fèn lǐ wù 	fen li wu 	3
+份合同	Contract	fèn hé tóng 	fen he tong 	2
+份報紙	Newspaper	fèn bào zhǐ 	fen bao zhi 	3
+份宣言	Declaration	fèn xuān yán 	fen xuan yan 	1
+份情報	Information	fèn qíng bào 	fen qing bao 	2
+份文件	Document	fèn wén jiàn 	fen wen jian 	2
+份文稿	Copies of manuscripts	fèn wén gǎo 	fen wen gao 	2
+份證明	Proof of proof	fèn zhèng míng 	fen zheng ming 	2
+份報	Reported	fèn bào 	fen bao 	4
+份新聞稿	Press release	fèn xīn wén gǎo 	fen xin wen gao 	1
+份稿件	Copies of manuscripts	fèn gǎo jiàn 	fen gao jian 	3
+份資料	Information	fèn zī liào 	fen zi liao 	1
+份簡歷	Resume	fèn jiǎn lì 	fen jian li 	3
+份書	Book	fèn shū 	fen shu 	1
+份獎狀	The certificate of merit	fèn jiǎng zhuàng 	fèn jiǎng zhuàng 	3
+份雜誌	Magazine	fèn zá zhì 	fen za zhi 	2
+份香料	Spices	fèn xiāng liào 	fen xiang liao 	1
+筆回扣	Pen rebate	bǐ huí kòu 	bǐ huí kòu 	2
+筆交易	Pen trading	bǐ jiāo yì 	bi jiao yi 	1
+筆工薪	Pen salary	bǐ gōng xīn 	bi gong xin 	1
+筆工資	Pen wages	bǐ gōng zī 	bi gong zi 	1
+筆巨款	Pen money	bǐ jù kuǎn 	bi ju kuan 	3
+筆投資	Pen investment	bǐ tóu zī 	bi tou zi 	1
+筆薪水	Pen salary	bǐ xīn shuǐ 	bi xin shui 	1
+筆薪資	Pen salary	bǐ xīn zī 	bi xin zi 	1
+筆薪酬	Pen pay	bǐ xīn chóu 	bi xin chou 	1
+筆薪金	Pen salary	bǐ xīn jīn 	bi xin jin 	1
+筆財富	Pen fortune	bǐ cái fù 	bi cai fu 	2
+筆財產	Pen property	bǐ cái chǎn 	bi cai chan 	2
+筆貸款	Pen loan	bǐ dài kuǎn 	bi dai kuan 	3
+筆費用	Pen fee	bǐ fèi yòng 	bi fei yong 	3
+筆遺產	Pen heritage	bǐ yí chǎn 	bi yi chan 	2
+筆收入	Pen income	bǐ shōu rù 	bi shou ru 	1
+筆生意	Pen business	bǐ shēng yì 	bi sheng yi 	1
+種感覺	Kind of feeling	zhǒng gǎn jué 	zhǒng gǎn jué 	2
+種行為	Behavior	zhǒng xíng wéi 	zhong xing wei 	2
+種食品	Food	zhǒng shí pǐn 	zhong shi pin 	2
+種文化	Culture	zhǒng wén huà 	zhǒng wén huà 	2
+種愛情	Kind of love	zhǒng ài qíng 	zhong ai qing 	2
+種享受	Kind of enjoyment	zhǒng xiǎng shòu 	zhong xiang shou 	3
+種保護	Kind of protection	zhǒng bǎo hù 	zhong bao hu 	3
+種共鳴	Kind of resonance	zhǒng gòng míng 	zhong gong ming 	2
+種工藝	Technology	zhǒng gōng yì 	zhong gong yi 	1
+種氣候	Climate	zhǒng qì hòu 	zhong qi hou 	3
+種細菌	Bacteria	zhǒng xì jùn 	zhong xi jun 	3
+種莊稼	Crops	zhǒng zhuāng jia	zhong zhuang jia	1
+種觀點	Kind of view	zhǒng guān diǎn 	zhong guan dian 	1
+種姿勢	Kind of posture	zhǒng zī shì 	zhong zi shi 	1
+種語言	Language	zhǒng yǔ yán 	zhong yu yan 	2
+種香料	Spices	zhǒng xiāng liào 	zhong xiang liao 	1
+種文字	Text	zhǒng wén zì 	zhong wen zi 	2
+根枴杖	Root crutches	gēn guǎi zhàng 	gen guai zhang 	1
+根煙囪	Root chimney	gēn yān cōng 	gen yan cong 	1
+根竹	Root bamboo	gēn zhú 	gen zhu 	1
+根柱子	Root pillar	gēn zhù zi	gen zhu zi	1
+根立柱	Root column	gēn lì zhù 	gen li zhu 	1
+根腳趾	Root toe	gēn jiao zhǐ 	gen jiao zhi 	1
+根青瓜	Root cucumber	gēn qīng guā 	gen qing gua 	1
+根黃瓜	Root cucumber	gēn huáng guā 	gēn huáng guā 	1
+根樹枝	Root branch	gēn shù zhī 	gen shu zhi 	1
+根蠟燭	Root candle	gēn là zhú 	gen la zhu 	1
+根電線	Root wire	gēn diàn xiàn 	gen dian xian 	1
+根曲線	Root curve	gēn qū xiàn 	gen qu xian 	1
+根鋼絲繩	Root wire rope	gēn gāng sī shéng 	gen gang si sheng 	1
+根頭髮	Root hair	gēn tóu fà 	gen tou fa 	1
+根芭蕉	Root banana	gēn bā jiāo 	gen ba jiao 	1
+根香蕉	Root banana	gēn xiāng jiāo 	gen xiang jiao 	1
+根筷子	Root chopsticks	gēn kuài zi	gēn kuài zi	1
+臺照相機	Desk camera	tái zhào xiàng jī 	tai zhao xiang ji 	1
+臺相機	Camera	tái xiàng jī 	tai xiang ji 	1
+臺訂書機	Taiwan Stapler	tái dìng shū jī 	tai ding shu ji 	1
+臺釘書機	Taiwan stapler	tái dìng shū jī 	tai ding shu ji 	1
+臺儀器	Taiwan Instruments	tái yí qì 	tai yi qi 	2
+臺鋼琴	Taiwan piano	tái gāng qín 	tai gang qin 	1
+臺內燃機	Internal combustion engine	tái nèi rán jī 	tai nei ran ji 	1
+臺動力機	Taiwan power machine	tái dòng lì jī 	tai dong li ji 	1
+臺拖拉機	Taiwan tractor	tái tuō lā jī 	tai tuo la ji 	1
+臺服務器	Server	tái fú wù qì 	tai fu wu qi 	2
+臺發動機	Taiwan engine	tái fā dòng jī 	tai fa dong ji 	1
+臺老虎機	Taiwan slot machine	tái lǎo hǔ jī 	tai lao hu ji 	1
+臺設備	Taiwan equipment	tái shè bèi 	tai she bei 	2
+臺筆記本	Taiwan notebook	tái bǐ jì běn 	tai bi ji ben 	2
+臺收音機	Radio	tái shōu yīn jī 	tai shou yin ji 	1
+臺電腦	Computer	tái diàn nǎo 	tai dian nao 	2
+道光	Daoguang	dào guāng 	dao guang 	1
+道皺紋	Road wrinkles	dào zhòu wén 	dao zhou wen 	2
+道菜	Dish	dào cài 	dao cai 	4
+道亮光	Road light	dào liàng guāng 	dao liang guang 	1
+道習題	Road exercises	dào xí tí 	dao xi ti 	2
+道詔令	Dao Daozhao	dào zhào lìng 	dao zhao ling 	4
+道詔書	Tao edict	dào zhào shū 	dao zhao shu 	1
+道閃電	Road lightning	dào shǎn diàn 	dao shan dian 	3
+道隘口	Passway	dào ài kǒu 	dao ai kou 	3
+道校門	Road gate	dào xiào mén 	dao xiao men 	2
+道傷疤	Road scars	dào shāng bā 	dao shang ba 	1
+道疤	Scars	dào bā 	dao ba 	1
+道傷痕	Road scars	dào shāng hén 	dao shang hen 	1
+道疤痕	Road scars	dào bā hén 	dao ba hen 	1
+道選擇題	Choose multiple questions	dào xuǎn zé tí 	dao xuan ze ti 	2
+支鐲子	Bracelet	zhī zhuó zi	zhī zhuó zi	1
+支遮	Support	zhī zhē 	zhi zhe 	1
+支雨傘	Umbrella	zhī yǔ sǎn 	zhi yu san 	1
+支口紅	Branch red	zhī kǒu hóng 	zhi kou hong 	1
+支煙	Cigarettes	zhī yān 	zhi yan 	1
+支箭矢	Arrows	zhī jiàn shǐ 	zhi jian shi 	1
+支軍隊	Support the army	zhī jūn duì 	zhī jūn duì 	1
+支原子筆	Support pen	zhī yuán zǐ bǐ 	zhī yuán zǐ bǐ 	1
+支圓珠筆	Branch ball pen	zhī yuán zhū bǐ 	zhī yuán zhū bǐ 	1
+支花	Flowers	zhī huā 	zhi hua 	1
+支香	Fragrant	zhī xiāng 	zhi xiang 	1
+支香檳	Champagne	zhī xiāng bīn 	zhi xiang bin 	1
+支手機	Mobile phone	zhī shǒu jī 	zhi shou ji 	1
+支歌仔	Aberdeen	zhī gē zǐ 	zhi ge zi 	1
+輛坦克	The tank	liàng tǎn kè 	liang tan ke 	3
+輛摩托車	Motorcycles	liàng mó tuō chē 	liang mo tuo che 	1
+輛校車	School bus	liàng xiào chē 	liang xiao che 	1
+輛機動車	Motor vehicle	liàng jī dòng chē 	liang ji dong che 	1
+輛腳踏車	A bicycle	liàng jiǎo tà chē 	liang jiao ta che 	1
+輛自行車	Bike	liàng zì xíng chē 	liang zi xing che 	1
+輛公交車	Bus	liàng gōng jiāo chē 	liang gong jiao che 	1
+輛公共汽車	Buses	liàng gōng gòng qì chē 	liang gong gong qi che 	1
+輛吉普	Jeep	liàng jí pǔ 	liang ji pu 	2
+輛單車	Bicycle	liàng dān chē 	liang dan che 	1
+輛巴士	Bus	liàng bā shì 	liang ba shi 	1
+輛汽車	Car	liàng qì chē 	liang qi che 	1
+輛的士	Taxi	liàng dí shì 	liang di shi 	2
+次高潮	Climax	cì gāo cháo 	ci gao chao 	1
+次旱災	Drought	cì hàn zāi 	ci han zai 	1
+次會議	Meeting	cì huì yì 	cì huì yì 	4
+次會	Times meeting	cì huì 	cì huì 	4
+次比賽	Times of competition	cì bǐ sài 	ci bi sai 	3
+次婚姻	Marriage	cì hūn yīn 	ci hun yin 	1
+次考試	Exams	cì kǎo shì 	ci kao shi 	3
+次聽寫	Listen to dictation	cì tīng xiě 	ci ting xie 	1
+次路考	Way test	cì lù kǎo 	ci lu kao 	3
+次飛機	Times the plane	cì fēi jī 	ci fei ji 	1
+次安排	Times arrangement	cì ān pái 	ci an pai 	1
+次爭論	Times the argument	cì zhēng lùn 	ci zheng lun 	1
+次手術	Secondary surgery	cì shǒu shù 	ci shou shu 	3
+套和服	Set kimono	tào hé fú 	tao he fu 	2
+套家具	Sets of furniture	tào jiā jù 	tao jia ju 	1
+套校服	Set uniforms	tào xiào fú 	tao xiao fu 	2
+套軟件	Set of software	tào ruǎn jiàn 	tao ruan jian 	3
+套軟體	Set of software	tào ruǎn tǐ 	tao ruan ti 	3
+套叢書	Set of books	tào cóng shū 	tao cong shu 	1
+套家庭影院	Set of home theater	tào jiā tíng yǐng yuàn 	tào jiā tíng yǐng yuàn 	1
+套茶具	Sets of tea sets	tào chá jù 	tao cha ju 	2
+套公寓	Apartment	tào gōng yù 	tao gong yu 	1
+套啤牌	Set poker	tào pí pái 	tao pi pai 	2
+套桌子	Set the table	tào zhuō zi	tao zhuo zi	1
+套照片	Set of photos	tào zhào piàn 	tao zhao pian 	4
+套連續劇	Set of drama	tào lián xù jù 	tao lian xu ju 	2
+項發明	Item of invention	xiàng fā míng 	xiang fa ming 	1
+項計劃	Project plan	xiàng jì huá 	xiàng jì huá 	2
+項廣告	Advertising	xiàng guǎng gào 	xiang guang gao 	3
+項內容	Item content	xiàng nèi róng 	xiang nei rong 	2
+項工程	Project works	xiàng gōng chéng 	xiang gong cheng 	1
+項建議	Recommendations	xiàng jiàn yì 	xiang jian yi 	4
+項手術	Surgery	xiàng shǒu shù 	xiang shou shu 	3
+項公債	Treasury bonds	xiàng gōng zhài 	xiang gong zhai 	1
+項專業	Professional	xiàng zhuān yè 	xiang zhuan ye 	1
+項活動	Activities	xiàng huó dòng 	xiàng huó dòng 	2
+項研究	Research	xiàng yán jiū 	xiang yan jiu 	1
+項立法	Legislation	xiàng lì fǎ 	xiang li fa 	3
+頭騾子	Head mule	tóu luó zi	tóu luó zi	2
+頭樹	Head tree	tóu shù 	tou shu 	2
+頭獅子	Head lion	tóu shī zi	tou shi zi	1
+頭小牛	Head calf	tóu xiǎo niú 	tou xiao niu 	2
+頭牛犢	Head calf	tóu niú dú 	tou niu du 	2
+頭犛牛	Head yak	tóu máo niú 	tou mao niu 	2
+頭象	Head elephant	tóu xiàng 	tou xiang 	2
+頭樹仔	Head tree	tóu shù zǐ 	tou shu zi 	2
+頭恐龍	Head dinosaurs	tóu kǒng lóng 	tou kong long 	2
+頭熊	Head bear	tóu xióng 	tou xiong 	2
+頭豬	Head pig	tóu zhū 	tou zhu 	1
+片區域網路	Slice area network	piàn qū yù wǎng lù 	pian qu yu wang lu 	1
+片局域網	Chip local area network	piàn jú yù wǎng 	pian ju yu wang 	2
+片麵包	Slice bread	piàn miàn bāo 	pian mian bao 	1
+片區域	Film area	piàn qū yù 	pian qu yu 	1
+片嘴脣	Slice lips	piàn zuǐ chún 	pian zui chun 	2
+片彩霞	Film color Xia	piàn cǎi xiá 	pian cai xia 	2
+片森林	Forest	piàn sēn lín 	pian sen lin 	1
+片高原	Plateau plateau	piàn gāo yuán 	piàn gāo yuán 	1
+片甲骨	Sliced ​​bones	piàn jiǎ gǔ 	pian jia gu 	3
+片電影	Film	piàn diàn yǐng 	pian dian ying 	3
+對鐲子	On the bracelet	duì zhuó zi	duì zhuó zi	2
+對夫妻	The couple	duì fū qī 	duì fū qī 	1
+對夫婦	The couple	duì fū fù 	duì fū fù 	1
+對高踭鞋	On high shoes	duì gāo zhēng xié 	duì gāo zhēng xié 	1
+對胳臂	On the arm	duì gē bei	duì gē bei	1
+對耳仔	On the ear	duì ěr zǐ 	duì ěr zǐ 	3
+對胳膊	On the arm	duì gē bo	duì gē bo	1
+對冰鞋	On skates	duì bīng xié 	duì bīng xié 	1
+對筷子	On chopsticks	duì kuài zi	duì kuài zi	4
+對鞋	Shoes	duì xié 	duì xié 	2
+雙目睭	Binoculars	shuāng mù zhǒu 	shuang mu zhou 	1
+雙手	Hands	shuāng shǒu 	shuang shou 	1
+雙鞋子	Double shoes	shuāng xié zi	shuang xie zi	1
+雙眼	Eyes	shuāng yǎn 	shuang yan 	1
+雙眼睛	Eyes	shuāng yǎn jīng 	shuang yan jing 	1
+雙冰鞋	Double skates	shuāng bīng xié 	shuang bing xie 	1
+雙箸	Double chopsticks	shuāng zhù 	shuang zhu 	1
+雙筷子	Double chopsticks	shuāng kuài zi	shuāng kuài zi	1
+雙鞋	Double shoes	shuāng xié 	shuang xie 	1
+艘船	Ship	sōu chuán 	sōu chuán 	1
+艘漁船	Fishing boat	sōu yú chuán 	sōu yú chuán 	1
+艘兵船	Ship ship	sōu bīng chuán 	sōu bīng chuán 	1
+艘兵艦	Warships	sōu bīng jiàn 	sou bing jian 	1
+艘戰船	Ship warships	sōu zhàn chuán 	sōu zhàn chuán 	1
+艘汽船	Steamboat	sōu qì chuán 	sōu qì chuán 	1
+艘潛水艇	Submarine	sōu qián shuǐ tǐng 	sou qian shui ting 	1
+艘潛艇	Submarine	sōu qián tǐng 	sou qian ting 	1
+艘軍艦	Warships	sōu jūn jiàn 	sou jun jian 	1
+枝原子筆	Branch pen	zhī yuán zǐ bǐ 	zhī yuán zǐ bǐ 	1
+枝圓珠筆	Stick ball pen	zhī yuán zhū bǐ 	zhī yuán zhū bǐ 	1
+枝毛筆	Brush pen	zhī máo bǐ 	zhi mao bi 	1
+枝鉛筆	Pencil pencil	zhī qiān bǐ 	zhi qian bi 	1
+枝竹	Sticks	zhī zhú 	zhi zhu 	1
+枝粉筆	Chalk	zhī fěn bǐ 	zhi fen bi 	1
+枝樹枝	Branches and branches	zhī shù zhī 	zhi shu zhi 	1
+枝蠟燭	Stick candles	zhī là zhú 	zhi la zhu 	1
+枝牙膏	Stick toothpaste	zhī yá gāo 	zhi ya gao 	1
+匹披著羊皮的狼	A wolf worn with sheepskin	pǐ pī zhe yáng pí de láng 	pi pi zhe yang pi de lang 	1
+匹斑馬	Zebra	pǐ bān mǎ 	pi ban ma 	1
+匹緞子	Match satin	pǐ duàn zi	pǐ duàn zi	3
+匹錦緞	Match the brocade	pǐ jǐn duàn 	pǐ jǐn duàn 	3
+匹狼	Wolf	pǐ láng 	pi lang 	2
+匹騾子	Mule	pǐ luó zi	pǐ luó zi	2
+匹布	Match cloth	pǐ bù 	pi bu 	3
+匹綢子	Match silk	pǐ chóu zi	pi chou zi	2
+匹馬	Horses	pǐ mǎ 	pi ma 	3
+首主打歌	The first song	shǒu zhǔ dǎ gē 	shou zhu da ge 	1
+首國歌	The first song	shǒu guó gē 	shǒu guó gē 	1
+首曲子	The first song	shǒu qǔ zi	shou qu zi	3
+首歌曲	Song	shǒu gē qǔ 	shou ge qu 	1
+首詩	Poem	shǒu shī 	shou shi 	1
+首歌仔	Song	shǒu gē zǐ 	shou ge zi 	1
+首歌	Song	shǒu gē 	shou ge 	1
+首音樂	First music	shǒu yīn yuè 	shǒu yīn yuè 	1
+齣悲劇	Out of tragedy	chū bēi jù 	chu bei ju 	1
+齣電影	Out of the movie	chū diàn yǐng 	chu dian ying 	1
+齣戲劇	A drama	chū xì jù 	chu xi ju 	1
+齣連續劇	Out of drama	chū lián xù jù 	chu lian xu ju 	1
+齣京戲	Out of Beijing opera	chū jīng xì 	chu jing xi 	1
+齣戲	Play out	chū xì 	chu xi 	1
+齣	Out	chū 	chu 	1
+頂轎子	Top sedan chair	dǐng jiào zi	ding jiao zi	3
+頂帽	Top hat	dǐng mào 	ding mao 	3
+頂帽仔	Top hat	dǐng mào zǐ 	ding mao zi 	3
+頂帽子	Top hat	dǐng mào zi	ding mao zi	3
+頂蚊帳	Top mosquito nets	dǐng wén zhàng 	ding wen zhang 	2
+頂帳棚	Top tents	dǐng zhàng péng 	ding zhang peng 	2
+頂帳篷	Top tents	dǐng zhàng péng 	ding zhang peng 	2
+棵竹	Bamboo	kē zhú 	ke zhu 	1
+棵垂柳	Willow Willow	kē chuí liǔ 	kē chuí liǔ 	1
+棵杞柳	Trees Qi Liu	kē qǐ liǔ 	ke qi liu 	1
+棵柳樹	Willow trees	kē liǔ shù 	ke liu shu 	1
+棵禾苗	Trees and seedlings	kē hé miáo 	ke he miao 	1
+棵植物	Plant	kē zhí wù 	ke zhi wu 	1
+棵樹	Tree	kē shù 	ke shu 	1
+所公寓	The apartment	suǒ gōng yù 	suo gong yu 	1
+所學院	The college	suǒ xué yuàn 	suǒ xué yuàn 	2
+所機構	Institutions	suǒ jī gòu 	suo ji gou 	1
+所派出所	The police station	suǒ pài chū suǒ 	suo pai chu suo 	1
+所大學	University	suǒ dà xué 	suǒ dà xué 	2
+所學校	School	suǒ xué xiào 	suǒ xué xiào 	2
+所醫院	The hospital	suǒ yī yuàn 	suǒ yī yuàn 	1
+幅刀叉	Knife and fork	fú dāo chā 	fu dao cha 	1
+幅對聯	The couplet	fú duì lián 	fú duì lián 	2
+幅弓箭	Bow and arrow	fú gōng jiàn 	fu gong jian 	1
+幅畫	The picture	fú huà 	fú huà 	2
+幅骨骼	Bones	fú gǔ gé 	fu gu ge 	2
+幅照片	Photo	fú zhào piàn 	fu zhao pian 	2
+幅圖畫	Picture drawing	fú tú huà 	fú tú huà 	2
+封信	Letter	fēng xìn 	feng xin 	1
+封信件	Letters	fēng xìn jiàn 	feng xin jian 	1
+封利市	Seal City	fēng lì shì 	feng li shi 	1
+封情書	Love letters	fēng qíng shū 	feng qing shu 	1
+封郵件	Mail	fēng yóu jiàn 	feng you jian 	1
+封書	Seal book	fēng shū 	feng shu 	1
+封賀卡	Sealed card	fēng hè kǎ 	feng he ka 	1
+面城牆	Face wall	miàn chéng qiáng 	mian cheng qiang 	2
+面旗子	Flags	miàn qí zi	mian qi zi	2
+面牆壁	Face wall	miàn qiáng bì 	mian qiang bi 	2
+面鏡子	Face mirror	miàn jìng zi	mian jing zi	4
+面鑼	Gong	miàn luó 	miàn luó 	2
+面牆	Face wall	miàn qiáng 	mian qiang 	2
+枚國徽	National emblem	méi guó huī 	méi guó huī 	1
+枚導彈	Missiles	méi dǎo dàn 	mei dao dan 	2
+枚紀念章	Medallion	méi jìn iàn zhāng 	mei jin ian zhang 	1
+枚鐵針	Iron needle	méi tiě zhēn 	mei tie zhen 	1
+枚圖釘	Staples	méi tú dīng 	mei tu ding 	1
+枚硬幣	Coin	méi yìng bì 	mei ying bi 	2
+朵木耳	Flower fungus	duo mù ěr 	duo mu er 	3
+朵玫瑰	Rose roses	duo méi guī 	duo mei gui 	1
+朵玫瑰花	Rose roses	duo méi guī huā 	duo mei gui hua 	1
+朵雲	Duoyun	duo yún 	duo yun 	2
+朵花	flower	duo huā 	duo hua 	1
+朵鮮花	Flower flowers	duo xiān huā 	duo xian hua 	1
+嚿泥	Mud	huò ní 	huò ní 	2
+嚿番鹼	Diazepam	huò fān jiǎn 	huò fān jiǎn 	1
+嚿磁鐵	嚿 magnet	huò cí tiě 	huò cí tiě 	2
+嚿麵包	嚿 bread	huò miàn bāo 	huò miàn bāo 	1
+嚿雲	嚿 cloud	huò yún 	huò yún 	2
+嚿電池	嚿 battery	huò diàn chí 	huò diàn chí 	2
+名罪犯	Criminals	míng zuì fàn 	míng zuì fàn 	2
+名記者	Journalist	míng jì zhě 	ming ji zhe 	2
+名演員	Actor	míng yǎn yuán 	míng yǎn yuán 	2
+名老師	Teacher	míng lǎo shī 	ming lao shi 	1
+名律師	Lawyer	míng lǜshī 	ming lushi 	1
+名警察	Police officer	míng jǐng chá 	ming jing cha 	2
+股勁	Stock strength	gǔ jìn 	gu jin 	3
+股味道	Shares taste	gǔ wèi dào 	gu wei dao 	3
+股影響	Shares affected	gǔ yǐng xiǎng 	gu ying xiang 	3
+股熱氣	Stock heat	gǔ rè qì 	gu re qi 	3
+股味	Stock flavor	gǔ wèi 	gu wei 	3
+篇新聞稿	Press release	piān xīn wén gǎo 	pian xin wen gao 	1
+篇稿件	Articles	piān gǎo jiàn 	pian gao jian 	1
+篇報道	Articles reported	piān bào dào 	pian bao dao 	1
+篇散文	Essays	piān sǎn wén 	pian san wen 	1
+篇草稿	Draft	piān cǎo gǎo 	pian cao gao 	1
+段粉筆	Section chalk	duàn fěn bǐ 	duàn fěn bǐ 	3
+段姻緣	Paragraph marriage	duàn yīn yuán 	duàn yīn yuán 	1
+段感情	Section of feelings	duàn gǎn qíng 	duàn gǎn qíng 	2
+段歷史	Section history	duàn lì shǐ 	duàn lì shǐ 	3
+段音樂	Music	duàn yīn yuè 	duàn yīn yuè 	1
+束花	Beam flowers	shù huā 	shu hua 	1
+束鮮花	Beam flowers	shù xiān huā 	shu xian hua 	1
+束光線	Beam light	shù guāng xiàn 	shu guang xian 	1
+束光	Beam light	shù guāng 	shu guang 	1
+束香	Shiny	shù xiāng 	shu xiang 	1
+句標語	Sentence slogan	jù biāo yǔ 	ju biao yu 	1
+句空話	Empty words	jù kōng huà 	jù kōng huà 	1
+句話	Sentence	jù huà 	jù huà 	4
+句謊話	A lie	jù huǎng huà 	jù huǎng huà 	3
+句成語	Sentence idiom	jù chéng yǔ 	ju cheng yu 	2
+副德性	Vice virtue	fù dé xìng 	fu de xing 	2
+副撲克	Poker	fù pū kè 	fu pu ke 	1
+副眼鏡	Vice glasses	fù yǎn jìng 	fu yan jing 	3
+副啤牌	Vice poker	fù pí pái 	fu pi pai 	2
+副筷子	Vice chopsticks	fù kuài zi	fù kuài zi	4
+陣味	Seasoning	zhèn wèi 	zhen wei 	4
+陣緊張	Tension	zhèn jǐn zhāng 	zhen jin zhang 	1
+陣轟炸	Array bombardment	zhèn hōng zhà 	zhen hong zha 	1
+陣鼓聲	Array drums	zhèn gǔ shēng 	zhen gu sheng 	1
+門語言	Door language	mén yǔ yán 	men yu yan 	2
+門學科	Door discipline	mén xué kē 	mén xué kē 	1
+門親事	Door affair	mén qīn shì 	men qin shi 	1
+門課	Course	mén kè 	men ke 	2
+具屍	Corpse	jù shī 	ju shi 	1
+具屍體	With a body	jù shī tǐ 	ju shi ti 	1
+具死屍	With dead body	jù sǐ shī 	ju si shi 	1
+具棺材	With a coffin	jù guān cai	ju guan cai	1
+群蜜蜂	Group of bees	qún mì fēng 	qun mi feng 	1
+群鳥	Group of birds	qún niǎo 	qun niao 	2
+群動物	Group animals	qún dòng wù 	qun dong wu 	2
+節火車	Section of the train	jié huǒ chē 	jie huo che 	1
+節甘蔗	Festival sugar cane	jié gān zhe	jie gan zhe	1
+節電池	Saving battery	jié diàn chí 	jie dian chi 	2
+盤錄像帶	Video tape	pán lù xiàng dài 	pan lu xiang dai 	2
+盤錄影帶	Video tape	pán lù yǐng dài 	pan lu ying dai 	2
+盤菜	Dishes	pán cài 	pan cai 	2
+滴汗	Sweat	dī hàn 	di han 	1
+滴淚水	Tears	dī lèi shuǐ 	di lei shui 	1
+滴眼藥水	Drops of eye drops	dī yǎn yào shuǐ 	di yan yao shui 	1
+樁事	Pilots	zhuāng shì 	zhuang shi 	1
+樁婚姻	Pile of marriage	zhuāng hūn yīn 	zhuang hun yin 	1
+樁生意	Pile business	zhuāng shēng yì 	zhuang sheng yi 	1
+杯咖啡	Cup of coffee	bēi kā fēi 	bei ka fei 	1
+杯新地	Cup of new land	bēi xīn dì 	bei xin di 	1
+杯香檳	Cup of champagne	bēi xiāng bīn 	bei xiang bin 	1
+口棺材	Mouth coffin	kǒu guān cai	kou guan cai	1
+口氣	Tone	kǒu qì 	kou qi 	3
+口水井	Mouth well	kǒu shuǐ jǐng 	kou shui jing 	3
+點要求	Point request	diǎn yāo qiú 	dian yao qiu 	1
+點意見	Point of view	diǎn yì jiàn 	dian yi jian 	3
+餐便飯	Meals are served	cān biàn fàn 	can bian fan 	1
+餐飯	Meal	cān fàn 	can fan 	1
+頓便飯	Dayton meal	dùn biàn fàn 	dun bian fan 	4
+頓飯	Dayton	dùn fàn 	dun fan 	4
+起事件	From the event	qǐ shì jiàn 	qi shi jian 	3
+起事故	An accident	qǐ shì gù 	qi shi gu 	3
+處球場	At the court	chù qiú chǎng 	chu qiu chang 	2
+處遺跡	Ruins	chù yí jī 	chu yi ji 	1
+蕊目珠	Core beads	ruǐ mù zhū 	rui mu zhu 	1
+蕊目睭	Core of the eye	ruǐ mù zhǒu 	rui mu zhou 	3
+篤尿	Diphtheria	dǔ niào 	du niao 	3
+篤屎	Benedict	dǔ shǐ 	du shi 	3
+碌竹	Bamboo	lù zhú 	lu zhu 	2
+碌甘蔗	Lugan sugar cane	lù gān zhe	lu gan zhe	1
+盞紅綠燈	Light green light	zhǎn hóng lǜdēng 	zhan hong ludeng 	1
+盞油燈	Lamp light	zhǎn yóu dēng 	zhan you deng 	1
+瓶香水	Bottle perfume	píng xiāng shuǐ 	ping xiang shui 	1
+瓶香檳	Bottle of champagne	píng xiāng bīn 	ping xiang bin 	1
+欉樹	Tree	cóng shù 	cong shu 	2
+欉樹仔	欉 tree	cóng shù zǐ 	cong shu zi 	2
+樣東西	Something like that	yàng dōng xi	yang dong xi	1
+樣嘢	Kind of like	yàng yě 	yang ye 	3
+樖植物	Plant	kē zhí wù 	ke zhi wu 	1
+樖樹	Tree	kē shù 	ke shu 	1
+扇窗戶	Fan windows	shàn chuāng hù 	shan chuang hu 	1
+扇校門	Fan gate	shàn xiào mén 	shan xiao men 	2
+弓弓蕉	Bow bowls	gōng gōng jiāo 	gong gong jiao 	1
+弓金蕉	Bow banana	gōng jīn jiāo 	gong jin jiao 	1
+巡傷痕	Patting scar	xún shāng hén 	xun shang hen 	1
+巡疤痕	Pat scar	xún bā hén 	xun ba hen 	1
+屆會議	Session	jiè huì yì 	jiè huì yì 	4
+屆全會	The plenary session	jiè quán huì 	jiè quán huì 	2
+尾魚仔	Tail fish	wěi yú zǐ 	wei yu zi 	2
+尾魚	Tail fish	wěi yú 	wei yu 	2
+堵城牆	Block the wall	dǔ chéng qiáng 	du cheng qiang 	2
+堵牆	Wall	dǔ qiáng 	du qiang 	2
+埲城牆	埲 city wall	běng chéng qiáng 	beng cheng qiang 	2
+埲牆	Wall	běng qiáng 	beng qiang 	2
+坺泥	Mud	bá ní 	ba ni 	2
+坺屎	Shit	bá shǐ 	ba shi 	2
+單罪案	Single crime	dān zuì àn 	dān zuì àn 	1
+單生意	Single business	dān shēng yì 	dan sheng yi 	1
+串咖喱魚蛋	String curry fish	chuàn gā lí yú dàn 	chuàn gā lí yú dàn 	1
+串葡萄	String grapes	chuàn pú táo 	chuàn pú táo 	2
+餅帶	Cake	bǐng dài 	bing dai 	3
+題選擇題	Multiple choice questions	tí xuǎn zé tí 	ti xuan ze ti 	2
+領涼席	Collar mat	lǐng liáng xí 	ling liang xi 	2
+轆棍	Reed sticks	lù gùn 	lu gun 	4
+輪明月	Round moon	lún míng yuè 	lún míng yuè 	2
+車水泥	Car cement	chē shuǐ ní 	che shui ni 	1
+趟火車	Train	tàng huǒ chē 	tang huo che 	1
+袋水泥	Bag cement	dài shuǐ ní 	dai shui ni 	2
+葉肝	Leaves liver	yè gān 	ye gan 	1
+聲槍響	Sound shots	shēng qiāng xiǎng 	sheng qiang xiang 	1
+紮蔥	Stick onions	zā cōng 	za cong 	1
+簇花	Cluster flowers	cù huā 	cu hua 	1
+管牙膏	Tube toothpaste	guǎn yá gāo 	guan ya gao 	1
+筒菲林	Tube film	tǒng fēi lín 	tong fei lin 	1
+碗靚仔	Bowl handsome	wǎn liàng zǎi 	wan liang zai 	3
+眼水井	Eye wells	yǎn shuǐ jǐng 	yan shui jing 	3
+盆花	Potted flowers	pén huā 	pen hua 	1
+發子彈	Made a bullet	fā zǐ dàn 	fa zi dan 	1
+疋錦緞	Brocade brocade	pǐ jǐn duàn 	pǐ jǐn duàn 	3
+疊啤牌	Stack poker	dié pí pái 	die pi pai 	2
+班火車	Class train	bān huǒ chē 	ban huo che 	1
+款產品	Products	kuǎn chǎn pǐn 	kuan chan pin 	3
+楷碌柚	Kaiqiu grapefruit	jiē lù yóu 	jie lu you 	1
+株麥子	Plant wheat	zhū mài zi	zhu mai zi	1
+期雜誌	Magazine	qí zá zhì 	qi za zhi 	2
+曲音樂	Music	qǔ yīn yuè 	qǔ yīn yuè 	1
+方石碑	Square stone	fāng shí bēi 	fang shi bei 	1
+搊葡提子	搊 grape	chōu pú tí zi	chou pu ti zi	1
+捾葡萄	Grape	wò pú táo 	wo pu tao 	2
+捆蔥	Tied onion	kǔn cōng 	kun cong 	1
+戶家庭	Family	hù jiā tíng 	hu jia ting 	1
+彎明月	Bend the moon	wān míng yuè 	wān míng yuè 	1
+局比賽	Board game	jú bǐ sài 	ju bi sai 	2
+尊佛像	Statue of Buddha	zūn fó xiàng 	zun fo xiang 	1
+宗罪案	Crime case	zōng zuì àn 	zōng zuì àn 	1
+孖臘腸	Marbella	mā là cháng 	ma la chang 	1
+奇箸	Odd chopsticks	qí zhù 	qi zhu 	2
+垤番鹼	Diazepam	dié fān jiǎn 	die fan jian 	1
+團毛線	Group wool	tuán máo xiàn 	tuán máo xiàn 	2
+啲仔女	Aberdeen	dī zǐ nǚ	di zi nu	1
+啖氣	Beast	dàn qì 	dan qi 	4
+包茶葉	Pack tea leaves	bāo chá yè 	bao cha ye 	1
+則廣告	The ad	zé guǎng gào 	ze guang gao 	2
+列火車	Train	liè huǒ chē 	lie huo che 	1
+冊日記	Book diary	cè rì jì 	ce ri ji 	4

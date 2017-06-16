@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Find new words</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	<style>
+	
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+	
+	</style>
+	
+   </head>
+	
+	<body>
+
+		<textarea id="inputTextArea" rows="7" cols="50" style="font-size: 16px;"></textarea>
+	
+		<textarea id="resultsTextArea" rows="7" cols="50" style="font-size: 16px;"></textarea>
+	
+		<div id="findButton" class="ButtonInner advanced" onclick="findNewWords();">Find Words</div>
+	</body>
+	
+	<script>
+
+		var combinedDictionaryData = "";
+		
+		var checkText = "";
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + xmlhttp.responseText;
+					    
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadDictionary
+		
+		function loadCheckText(filename)
+		{
+			//debugLog("loadCheckText(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						checkText = checkText + xmlhttp.responseText;
+					    
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadCheckText
+		
+		function findNewWords()
+		{
+			checkText = document.getElementById("inputTextArea").value;
+		
+			var checkTextArray = checkText.split("\n");
+			
+			var numberWords = checkTextArray.length;
+			
+			var newWords = "";
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = checkTextArray[currentWord];
+				
+				if (contains(combinedDictionaryData, thisWord) == false)
+				{
+					newWords = newWords + thisWord + "\n";
+				}
+			
+			}
+			
+			document.getElementById("resultsTextArea").value = newWords;
+
+		} // end function findNewWords
+		
+		loadDictionary("PinyinDefinitionsTonesSorted.txt");
+		//loadCheckText("zhWiktionaryWords.txt");
+		
+	</script>
+</html>

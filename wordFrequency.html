@@ -1,0 +1,258 @@
+<!--
+	Word Frequency
+	Peter Burkimsher 2017-05-06
+	
+	Finds the unique words in text and sorts them by frequency. 
+	
+	You can also use bash:
+	cat taiwanPOINames.txt | sort | uniq -c | sort -nr > taiwanPOIuniq.txt
+	
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Word Frequency</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	<style>
+		
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+		
+	</style>
+	
+  </head>
+  <body>
+  
+  	<table>
+  	
+  		<tr>
+  		
+  			<td>
+  				<textarea id="inputTextArea" rows="50" cols="50" ></textarea>
+  			</td>
+
+  			<td>
+  				<textarea id="outputTextArea" rows="50" cols="50" ></textarea>
+  			</td>
+
+  			<td>
+				<div class="ButtonInner" onclick="countButtonClicked();">
+					Count
+				</div>
+  			</td>
+  			<td>
+				<div class="ButtonInner" onclick="helpButtonClicked();" style="width:20px">
+					?
+				</div>
+  			</td>
+  		
+  		</tr>
+  	
+  	</table>
+	
+	
+  
+  </body>
+  
+  
+  <script>
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+  		
+  		function containsEnglishCharacter(thisWord)
+  		{
+  			if (thisWord == "")
+  			{
+  				return false;
+  			}
+  			
+  			var thisWordArray = thisWord.split("");
+  			
+  			var numberCharacters = thisWordArray.length;
+  			
+  			var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+  			
+  			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+  			{
+  				var thisCharacter = thisWordArray[currentCharacter];
+  				
+  				if (contains(alphabet, thisCharacter) == true)
+  				{
+  					return true;
+  				}
+  				
+  			} // end for every character
+  			
+  			return false;
+  			
+  		} // end function containsEnglishCharacter
+  		
+  		function countWords(inputText)
+  		{
+  			// Split after verse numbers
+  			inputText = inputText.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+  			inputText = replaceChars(inputText, "\n", " \n ");
+  			inputText = replaceChars(inputText, " '", "  ' ");
+  			inputText = replaceChars(inputText, "\"", " \" ");
+  			inputText = replaceChars(inputText, "(", " ( ");
+  			inputText = replaceChars(inputText, ")", " ) ");
+  			inputText = replaceChars(inputText, ".", " . ");
+  			inputText = replaceChars(inputText, "!", " ! ");
+  			inputText = replaceChars(inputText, "?", " ? ");
+  			inputText = inputText.replace(/:/g, ' ');
+  			inputText = inputText.replace(/,/g, ' , ');
+  			inputText = inputText.replace(/  /g, ' ');
+  			
+  			var inputWords = inputText.split(" ");
+  			
+  			var numberWords = inputWords.length;
+  			
+  			var uniqueWords = [];
+  			var uniqueWordsCounts = [];
+  			
+  			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+  			{
+  				var thisWord = inputWords[currentWord];
+  				
+  				thisWord = thisWord.toLowerCase();
+  				
+  				//if (containsEnglishCharacter(thisWord) == true)
+  				//{
+  				
+  					var thisWordIndex = uniqueWords.indexOf(thisWord);
+  				
+  					if (thisWordIndex != -1)
+  					{
+  						var thisCount = uniqueWordsCounts[thisWordIndex];
+  						thisCount = thisCount + 1;
+  						uniqueWordsCounts[thisWordIndex] = thisCount;
+  					
+	  				} else {
+  						uniqueWords.push(thisWord);
+  						uniqueWordsCounts.push(1);
+  					} // end if the word is unique
+  				//} // end if the word is english
+  			} // end for every word
+  			
+  			var numberUniqueWords = uniqueWords.length;
+  			
+  			var wordsArray = [];
+  			
+  			for (var currentWord = 0; currentWord < numberUniqueWords; currentWord++)
+  			{
+  				var thisWord = uniqueWords[currentWord];
+  				var thisWordCount = uniqueWordsCounts[currentWord];
+  				
+  				var outputLine = thisWordCount + " " + thisWord;
+  				
+  				wordsArray.push(outputLine);
+  				
+  			} // end for every unique word
+  			
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			var outputText = outputArray.join("\n");
+			
+			return outputText;
+  		} // end function countWords
+  		
+  		function countButtonClicked()
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = countWords(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+  		
+  		} // end function countButtonClicked
+
+		function helpButtonClicked()
+		{
+			var thisUrl = "docs/wordFrequency.html";
+			window.open(thisUrl,'_blank');
+		} // end function helpButtonClicked
+		
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+	
+		// If we have parameters
+		if ((QueryString.filename != "") && (QueryString.filename != undefined))
+		{
+  			document.getElementById("inputTextArea").value = QueryString.filename;
+		
+			countButtonClicked();
+		}
+  		  
+  </script>
+
+</html>

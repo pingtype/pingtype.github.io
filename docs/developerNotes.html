@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+	<head>
+		<title>Developer Notes</title>
+		<meta charset="utf-8" />
+		
+		<style type="text/css">
+			table, th, td {
+			   margin:0px 100px; 
+			   border: 1px solid black;
+			   border-collapse: collapse;
+			   text-align: center;
+			}
+			div.heading {
+				text-decoration: none;
+				font-family:sans-serif;
+				font-size:large;
+				color:black;
+			}
+			div.heading a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			body { 
+				margin:0px 50px; 
+				padding:50px; 
+				font-family:sans-serif;
+			}
+			div.majorlink { 
+				margin:5px 50px; 
+				font-family:sans-serif;
+				font-size:medium;
+				color:blue;
+				
+			}
+			div.majorlink a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+			
+			div.wrappingDiv
+			{
+				width:50%;
+				white-space:normal
+			}
+			
+		</style>
+	</head>
+	
+	<body>
+	
+		<div class="heading">
+			<h1>
+				Pingtype Developer Notes
+			</h1>
+		</div>
+
+		<p>If you're not a programmer, go back to the
+			<div class="majorlink">
+				 <a href="index.html" target=_blank>Basic documentation</a>
+			</div>
+		</p>
+
+		<div id="alternatingLines" class="heading">
+			<h3>
+				Alternating lines
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			There is another side script that I wrote that puts English and Chinese on alternating lines, or splits text that is on alternating lines into the text from each language. 
+			
+			<div class="majorlink">
+				 <a href="../alternatingLines.html" target=_blank>alternatingLines.html</a>
+			</div>
+			
+		</div>
+
+		<div id="api" class="heading">
+			<h3>
+				"Do you have an API?"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			Pingtype runs client-side in the user's web browser. REST APIs only really make sense if I have a server. 
+			
+			<p></p>
+			
+			Nevertheless, I've written a <a href="scripting.html" target=_blank>tutorial</a> about how to control Pingtype using JavaScript and AppleScript. 
+			
+		</div>
+
+
+		<div id="gui" class="heading">
+			<h3>
+				"The user interface sucks."
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			Wow, thank you so much for offering to make a new one for me! When will you deliver it?
+			
+		</div>
+
+		<div id="slow" class="heading">
+			<h3>
+				"It's slow"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			The processing is done using JavaScript running locally on your device. I use a MacBook Pro, and processing a Bible chapter takes a few seconds at most. 
+			
+			<p></p>
+			
+			It would be much faster if I did the processing server-side, and used multi-threading to wordSpace every line separately. But I don't want to pay for a server. If you want to offer me a free server, email me - we can talk about that. 
+			
+		</div>
+
+		<div id="git" class="heading">
+			<h3>
+				"Adding new words means uploading a new dictionary"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			I don't really understand git. I want to append a line to the end of the dictionary file. I thought that would be easy, because I thought that git commits only record the changes. But as I understand it, git tracks changes to a project, not changes to a file. So I download the whole dictionary, append the line, and upload it again. It's only a few MB. Th
+			
+			<p></p>
+			
+			If you know how to append to a file using git, please email me. 
+			
+		</div>
+				
+		<div id="login" class="heading">
+			<h3>
+				"You should use 2FA"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			Right now I don't have any users. A login form and review process for dictionary edits will scare people away. 
+			
+			<p></p>
+			
+			There are many compromises in this project, mostly because servers cost money. Github is not supposed to be used as a file host, and I'm not supposed to be using a giant text file instead of a database. 
+			
+		</div>
+
+		<div id="database" class="heading">
+			<h3>
+				"You should use a database"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			You're right. But there are about 200 dictionary lookups for a short sentence (checking each 5 characters, then 4, 3, 2, 1 until a word is found). Therefore word spacing is done at the user side, and the whole dictionary is cached so the dictionary lookups are fast. Users could cause problems if they try to upload changes to the dictionary at the same time. This will be a problem if the product scales. But right now I don't have the money for a server, so everything is happening client-side and Github just serves the files. 
+			
+		</div>
+
+		<div id="money" class="heading">
+			<h3>
+				"You should monetize"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			No. I dislike ads. If someone wants to pay me, then contact me to talk about commercial translation for books. I'd then discuss that with my boss to find out what I'm allowed to do on my current visa. The real work is not in making this program, but in getting good bilingual input data. 
+			
+		</div>
+
+		<div id="nlp" class="heading">
+			<h3>
+				"You can use Natural Language Processing"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			Machine learning is cool. Natural language processing tools exist, and Google Translate is using it now. Unfortunately, I don't have a server, and I don't think I can do any really major processing at the client side in the user's web browser. 
+			
+			<p></p>
+			If I do get a server, I will want to look into using this to understand the meaning of a Chinese sentence, and changing the tones accordingly. Did you know that tones change a question into a statement? 
+			<p></p>
+			
+			"我 的 同學 在 哪裡?" = zài nǎ lǐ (where?)
+			<p></p>
+			"我 的 同學 在 哪裡" = zài nà lǐ (there)
+			
+			<p></p>
+			My program can't cope with this right now. 
+			
+		</div>
+
+		<div id="nlp" class="heading">
+			<h3>
+				New feature ideas
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			Check the comments at the top of pingtype/index.html. If you have other ideas, contact me. 
+		</div>
+
+
+		<div id="dmca" class="heading">
+			<h3>
+				"That's copyrighted"
+			</h3>
+		</div>
+
+
+		<div class="wrappingDiv">
+			
+			Ok. Please don't call the police. I'll observe any DMCA, and take down any data that you contact me to report. A lot of material that is useful for studying (e.g. lyrics, Bible, news, etc) is copyrighted in some countries. I'm not making money from this project, it's purely for educational purposes. I'm following an Uber style business approach to this - first upload the whole story of how I learned Chinese, and if someone complains about part of that then I'll apologise. It's easier to ask for forgiveness than permission. 
+			
+		</div>
+
+
+	</body>
+</html>

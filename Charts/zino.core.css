@@ -1,0 +1,17 @@
+/*!
+ * ZinoUI v1.4 (http://zinoui.com)
+ * Copyright 2012-2013 Dimitar Ivanov. All Rights Reserved.
+ * 
+ * Zino UI commercial licenses may be obtained at http://zinoui.com/license
+ * If you do not own a commercial license, this file shall be governed by the
+ * GNU General Public License (GPL) version 3.
+ * For GPL requirements, please review: http://www.gnu.org/copyleft/gpl.html
+ */
+.zui-unselectable{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}

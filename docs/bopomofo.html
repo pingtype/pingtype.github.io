@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+	<head>
+		<title>Bopomofo</title>
+		<meta charset="utf-8" />
+		
+		<style type="text/css">
+
+			div.heading {
+				text-decoration: none;
+				font-family:sans-serif;
+				font-size:large;
+				color:black;
+			}
+			div.heading a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			div.heading a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:black;
+			}
+
+			body { 
+				margin:0px 50px; 
+				padding:50px; 
+				font-family:sans-serif;
+			}
+			div.majorlink { 
+				margin:5px 50px; 
+				font-family:sans-serif;
+				font-size:medium;
+				color:blue;
+				
+			}
+			div.majorlink a:link {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:visited {
+				text-decoration: none;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:hover {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+
+			div.majorlink a:active {
+				text-decoration: underline;
+				font-family:sans-serif;
+				color:blue;
+			}
+			
+			div.wrappingDiv
+			{
+				width:50%;
+				white-space:normal
+			}
+
+      table td {
+      white-space: nowrap;
+      }
+
+		.key
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 18px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+
+			
+		</style>
+	</head>
+	
+	<body>
+	
+		<div class="heading">
+			<h1>
+				Bopomofo ㄅㄆㄇㄈ
+			</h1>
+		</div>
+		
+		<p>Confused? Go back:
+			<div class="majorlink">
+				 <a href="index.html" target=_blank>Pingtype documentation</a>
+			</div>
+		</p>
+				
+		
+		<div class="wrappingDiv">
+			Bopomofo (Zhuyin) is an alphabet used in Taiwan. It's often used to teach children, but you will almost never see it written in everyday life. Many courses use it (e.g. the language school at 中山大學), although some are using Pinyin instead (e.g. Wenzao). 
+			
+			<p></p>
+			
+			The one time you will see it written is on keyboards. Most Taiwanese use it as their text input system. You should learn how to type your Chinese name, because this makes it easier to find yourself on Facebook when someone else hands you their phone. You still have to learn to read before you can type though, because you will have a choice of several characters. The best keyboard would be one where you don't have to read in order to type, but I have another <a href="unitype.html" target=_blank>article</a> about that. 
+			
+		</div>
+
+		<div class="heading">
+			<h3>
+				How do I learn it?
+			</h3>
+		</div>
+
+		<div class="wrappingDiv">
+			Most of the characters just have to be memorised. Copy them hundreds of times, use flashcards, or do whatever you can. But there are six that follow a kind of pattern: ㄅ, ㄆ, ㄉ, ㄋ, ㄌ, ㄎ. 
+			
+			<p></p>
+			
+		</div>
+		
+
+		<img src="images/bopomofoShapes.jpg" width="400px"></img>
+
+		<div class="wrappingDiv">
+			<p></p>
+			
+			Some of the characters sound similar, such as ㄣ and ㄥ. Even local people often forget how to type some characters, and switch to handwriting recognition. I even know one local guy, Terry, who uses handwriting recognition all the time "because I don't want to forget how to write the characters".
+
+			<p></p>
+
+			The full list of 37 characters and four tones:
+			
+			<p></p>
+			
+			ㄅ ㄉ ˇ ˋ ㄓ ˊ ˙ ㄚ ㄞ ㄢ ㄦ ㄆ ㄊ ㄍ ㄐ ㄔ ㄗ ㄧ ㄛ ㄟ ㄣ ㄇ ㄋ ㄎ ㄑ ㄕ ㄘ ㄨ ㄜ ㄠ ㄤ ㄈ ㄌ ㄏ ㄒ ㄖ ㄙ ㄩ ㄝ ㄡ ㄥ 
+			
+			
+			<p></p>
+			
+			The keyboard layout:
+			
+			<p></p>
+
+		</div>
+		
+    	<div id="decomposeBopomofoKeyboard">
+							<table>
+								<tr>
+									<td><div class="key" onclick="typeCharacter('ㄅ')">ㄅ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄉ')">ㄉ</div></td>
+									<td><div class="key" onclick="typeCharacter('ˇ')">ˇ</div></td>
+									<td><div class="key" onclick="typeCharacter('ˋ')">ˋ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄓ')">ㄓ</div></td>
+									<td><div class="key" onclick="typeCharacter('ˊ')">ˊ</div></td>
+									<td><div class="key" onclick="typeCharacter('˙')">˙</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄚ')">ㄚ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄞ')">ㄞ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄢ')">ㄢ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄦ')">ㄦ</div></td>
+								</tr>
+							</table>
+							<table style="margin-left:10px">
+								<tr>
+									<td><div class="key" onclick="typeCharacter('ㄆ')">ㄆ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄊ')">ㄊ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄍ')">ㄍ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄐ')">ㄐ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄔ')">ㄔ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄗ')">ㄗ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄧ')">ㄧ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄛ')">ㄛ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄟ')">ㄟ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄣ')">ㄣ</div></td>
+								</tr>
+							</table>
+							<table style="margin-left:20px">
+								<tr>
+									<td><div class="key" onclick="typeCharacter('ㄇ')">ㄇ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄋ')">ㄋ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄎ')">ㄎ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄑ')">ㄑ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄕ')">ㄕ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄘ')">ㄘ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄨ')">ㄨ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄜ')">ㄜ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄠ')">ㄠ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄤ')">ㄤ</div></td>
+								</tr>
+							</table>
+							<table style="margin-left:30px">
+								<tr>
+									<td><div class="key" onclick="typeCharacter('ㄈ')">ㄈ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄌ')">ㄌ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄏ')">ㄏ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄒ')">ㄒ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄖ')">ㄖ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄙ')">ㄙ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄩ')">ㄩ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄝ')">ㄝ</div></td>
+									<td><div class="key" onclick="typeBopomofo('ㄡ')">ㄡ</div></td>
+									<td><div class="key" onclick="typeCharacter('ㄥ')">ㄥ</div></td>
+								</tr>
+							</table>
+							<table style="margin-left:90px">
+								<tr>
+									<td><div class="key" style="width:100px;align:center" onclick="typeCharacter(' ')">space</div></td>
+									<td><div class="key" onclick="typeCharacter('delete')">⌫</div></td>
+									<td><div class="key" onclick="searchCharacter()">⏎</div></td>
+								</tr>
+							</table>
+    					</div>
+
+		<div class="wrappingDiv">
+			A real physical keyboard found in a local scrapyard, showing English (black), bopomofo (red), Dayi (blue) and Cangjie (green, common in Hong Kong):
+			
+			<p></p>
+			
+		</div>
+
+		<img src="images/chineseKeyboard.jpg" width="700px"></img>
+
+
+	</body>
+</html>

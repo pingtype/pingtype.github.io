@@ -1,0 +1,405 @@
+<!--
+	referencesForWords
+	Peter Burkimsher 2017-05-27
+	
+	What is the minimum number of songs/movies to learn every word in TOCFL?
+	
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>References For Words</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	<style>
+		
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+		
+	</style>
+	
+  </head>
+  <body>
+  
+  	<table>
+  		<tr>
+  		
+  			<td>
+  				Input
+  			</td>
+  			<td>
+  				numberWordsInSources
+  			</td>
+  			<td>
+  				Output
+  			</td>
+  			
+  		</tr>
+  		<tr>
+
+  			<td>
+  				<textarea id="inputTextArea" rows="50" cols="50" ></textarea>
+  			</td>
+  			<td>
+  				<textarea id="numberWordsInSourcesTextArea" rows="50" cols="50" ></textarea>
+  			</td>
+  			<td>
+  				<textarea id="outputTextArea" rows="50" cols="50" ></textarea>
+  			</td>
+
+  			<td>
+				<div class="ButtonInner" onclick="findButtonClicked();">
+					Find
+				</div>
+  			</td>
+  	
+  	</table>
+	
+	
+  
+  </body>
+  
+  
+	<script>
+		var indexData = "";
+  	  		
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+  
+		function loadIndex(filename)
+		{
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						indexData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadIndex
+		
+		function loadWords(filename)
+		{
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						document.getElementById('inputTextArea').value = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadWords
+		
+		function sortString(thisString)
+		{
+			var wordsArray = thisString.split("\n");
+		
+			// Remove the blank line at the end
+			wordsArray.pop();
+		
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			return outputArray.join("\n");
+			
+		} // end sortString
+		
+		function findWordsInSources(wordsString)
+		{
+			var wordsArray = wordsString.split("\n");
+			
+			var indexArray = indexData.split("\n");
+			
+			var numberWords = wordsArray.length;
+			
+			var numberSources = indexArray.length;
+			
+			// Initialise arrays
+			var wordReferencesArray =[];
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				wordReferencesArray.push("");
+			}
+
+			var sourcesNamesArray = [];
+			var sourcesWordsArray = [];
+			for (var currentSource = 0; currentSource < numberSources; currentSource++)
+			{
+				sourcesNamesArray.push("");
+				sourcesWordsArray.push("");
+			}
+			
+			// Find the words in the index
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = wordsArray[currentWord];
+				
+				if (thisWord != "")
+				{
+					for (var currentSource = 0; currentSource < numberSources; currentSource++)
+					{
+						var thisSource = indexArray[currentSource];
+						
+						if (thisSource != "")
+						{
+							if (contains(thisSource, thisWord))
+							{
+								var thisSourceArray = thisSource.split("	");
+					
+								var thisSourceName = thisSourceArray[0];
+								//var thisSourceData = thisSourceArray[1];
+						
+								sourcesNamesArray[currentSource] = thisSourceName;
+						
+								var thisWordReferences = wordReferencesArray[currentWord];
+						
+								thisWordReferences = thisWordReferences + thisSourceName + "\n";
+						
+								wordReferencesArray[currentWord] = thisWordReferences;
+						
+								var thisSourceWords = sourcesWordsArray[currentSource];
+								if (contains(thisSourceWords,thisWord) == false)
+								{
+									thisSourceWords = thisSourceWords + thisWord + " ";
+								}
+								sourcesWordsArray[currentSource] = thisSourceWords;
+						
+							} // end if the source contains the word
+						} // end if the source is not blank
+						
+					} // end for every source
+				} // end if the word is not blank
+			} // end for every word, search the sources
+			
+			
+			// Sort the sources by the number of words within them
+			var numberWordsInSources = "";
+			
+			for (var currentSource = 0; currentSource < numberSources; currentSource++)
+			{
+				var thisSourceName = sourcesNamesArray[currentSource];
+				
+				var thisSourceWords = sourcesWordsArray[currentSource];
+				
+				var thisSourceWordsArray = thisSourceWords.split(" ");
+				
+				var numberSourceWords = thisSourceWordsArray.length - 1;
+				
+				if (numberSourceWords >= 1)
+				{
+					numberWordsInSources = numberWordsInSources + numberSourceWords + "	" + thisSourceName + "	" + thisSourceWords + "\n";
+				}
+				
+			} // end for every source, list the words
+			
+			var numberWordsInSources = sortString(numberWordsInSources);
+			
+			return numberWordsInSources;
+			
+		} // end findWordsInSources
+		
+		
+		function findButtonClicked()
+		{
+			var wordsString = document.getElementById('inputTextArea').value;
+			
+			var numberWordsInSources = findWordsInSources(wordsString);
+			
+			document.getElementById('numberWordsInSourcesTextArea').value = numberWordsInSources;
+			
+			var chosenSources = "";
+			
+			var wordsInSources = "";
+			
+			var topSourceNumberWords = 1;
+			
+			var numberMissingWordsInSources = numberWordsInSources;
+			
+			while (topSourceNumberWords > 0)
+			{
+				var topSource = textBetween(numberMissingWordsInSources, "start", "\n");
+				
+				var topSourceArray = topSource.split("	");
+				topSourceNumberWords = topSourceArray[0];
+				var topSourceName = topSourceArray[1];
+				var topSourceNewWords = topSourceArray[2];
+				
+				var topSourceAllWords = textBetween(numberWordsInSources, topSourceName, "\n");
+				var topSourceAllWordsArray = topSourceAllWords.split(" ");
+				var topSourceNumberAllWords = topSourceAllWordsArray.length;
+				
+				chosenSources = chosenSources + topSourceNumberAllWords + "	" + topSourceNumberWords + "	" + topSourceName + "	" + topSourceNewWords + "	" + topSourceAllWords + "\n";
+				
+				wordsInSources = wordsInSources + topSourceNewWords;
+			
+				var missingWordsString = "";
+			
+				// Find words not in sources
+				var wordsArray = wordsString.split("\n");
+				var numberWords = wordsArray.length;
+			
+				for (var currentWord = 0; currentWord < numberWords; currentWord++)
+				{
+					var thisWord = wordsArray[currentWord];
+				
+					if (contains(wordsInSources, thisWord) == false)
+					{
+						if (contains(missingWordsString, thisWord) == false)
+						{
+							missingWordsString = missingWordsString + thisWord + "\n";
+						}
+					} // if the word is not already in a source, add it to the list
+				} // end for every word
+			
+				numberMissingWordsInSources = findWordsInSources(missingWordsString);
+
+				if (numberMissingWordsInSources == "")
+				{
+					topSourceNumberWords = 0;
+				}
+			}
+			
+			var missingWordsSpaces = replaceChars(missingWordsString, "\n", " ");
+			
+			while (contains(missingWordsSpaces, "  "))
+			{
+				missingWordsSpaces = replaceChars(missingWordsSpaces, "  ", " ");
+			}
+			
+			var missingWordsArray = missingWordsSpaces.split(" ");
+			
+			var numberMissing = missingWordsArray.length - 1;
+			
+			chosenSources = sortString(chosenSources);
+			
+			chosenSources = chosenSources + "\n" + numberMissing + "	Missing	" + missingWordsSpaces;
+			
+			document.getElementById('outputTextArea').value = chosenSources;
+			
+			
+		} // end function findButtonClicked
+		
+  	
+		loadIndex("Data/khop.txt");
+		loadWords("wordLists/TOCFL/tocfl.txt");
+  
+  </script>
+
+</html>

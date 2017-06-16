@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Git</title>
+  	
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+		.DefaultButtonOuter
+		{
+			border: 2px solid black ;
+			border-radius: 8px;
+			width: 96px;
+			height: 26px;
+			text-align: center;
+			
+			/*background-color: #99999a;*/
+			background: #99999a; /* For browsers that do not support gradients */
+			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+		}
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+    </style>
+  </head>
+  
+	<body>
+		Filename 
+		<br></br>
+
+		<textarea id="filenameTextArea" rows="1" cols="50" >filename.txt</textarea>		
+		<br></br>
+		
+		Contents 
+		<br></br>
+
+		<textarea id="contentsTextArea" rows="1" cols="50" >hello world</textarea>
+
+		<div id="gitPushButton" class="ButtonInner" onclick="writeButtonClicked();">
+			Write
+		</div>
+
+		<div id="gitPushButton" class="ButtonInner" onclick="appendButtonClicked();">
+			Append
+		</div>
+
+  
+  </body>
+  
+	<script>
+	
+		var token = "";
+		var githubUsername = "pingtype";
+		var githubRepo = "pingtype.github.io";
+
+		var Base64 = {
+		// private property
+		_keyStr : "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+
+		// public method for encoding
+		encode : function (input) {
+			var output = "";
+			var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+			var i = 0;
+
+			input = Base64._utf8_encode(input);
+
+			while (i < input.length) {
+
+				chr1 = input.charCodeAt(i++);
+				chr2 = input.charCodeAt(i++);
+				chr3 = input.charCodeAt(i++);
+
+				enc1 = chr1 >> 2;
+				enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+				enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+				enc4 = chr3 & 63;
+
+				if (isNaN(chr2)) {
+					enc3 = enc4 = 64;
+				} else if (isNaN(chr3)) {
+					enc4 = 64;
+				}
+
+				output = output +
+				Base64._keyStr.charAt(enc1) + Base64._keyStr.charAt(enc2) +
+				Base64._keyStr.charAt(enc3) + Base64._keyStr.charAt(enc4);
+
+			}
+
+			return output;
+		},
+
+		// public method for decoding
+		decode : function (input) {
+			var output = "";
+			var chr1, chr2, chr3;
+			var enc1, enc2, enc3, enc4;
+			var i = 0;
+
+			input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+
+			while (i < input.length) {
+
+				enc1 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc2 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc3 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc4 = Base64._keyStr.indexOf(input.charAt(i++));
+
+				chr1 = (enc1 << 2) | (enc2 >> 4);
+				chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+				chr3 = ((enc3 & 3) << 6) | enc4;
+
+				output = output + String.fromCharCode(chr1);
+
+				if (enc3 != 64) {
+					output = output + String.fromCharCode(chr2);
+				}
+				if (enc4 != 64) {
+					output = output + String.fromCharCode(chr3);
+				}
+
+			}
+
+			output = Base64._utf8_decode(output);
+
+			return output;
+
+		},
+
+		// private method for UTF-8 encoding
+		_utf8_encode : function (string) {
+			string = string.replace(/\r\n/g,"\n");
+			var utftext = "";
+
+			for (var n = 0; n < string.length; n++) {
+
+				var c = string.charCodeAt(n);
+
+				if (c < 128) {
+					utftext += String.fromCharCode(c);
+				}
+				else if((c > 127) && (c < 2048)) {
+					utftext += String.fromCharCode((c >> 6) | 192);
+					utftext += String.fromCharCode((c & 63) | 128);
+				}
+				else {
+					utftext += String.fromCharCode((c >> 12) | 224);
+					utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+					utftext += String.fromCharCode((c & 63) | 128);
+				}
+
+			}
+
+			return utftext;
+		},
+
+		// private method for UTF-8 decoding
+		_utf8_decode : function (utftext) {
+			var string = "";
+			var i = 0;
+			var c = c1 = c2 = 0;
+
+			while ( i < utftext.length ) {
+
+				c = utftext.charCodeAt(i);
+
+				if (c < 128) {
+					string += String.fromCharCode(c);
+					i++;
+				}
+				else if((c > 191) && (c < 224)) {
+					c2 = utftext.charCodeAt(i+1);
+					string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+					i += 2;
+				}
+				else {
+					c2 = utftext.charCodeAt(i+1);
+					c3 = utftext.charCodeAt(i+2);
+					string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+					i += 3;
+				}
+
+			}
+			return string;
+		}
+		} // end Base64
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		/* Unused 
+		function sendGithubGetResponseHandler(request)
+		{
+			if (request.readyState == 4)
+			{
+				// The request is done
+				if (request.status == 200)
+				{
+					// All is well
+					
+					var thisResponseString = request.responseText;
+		
+					var thisResponse = JSON.parse(thisResponseString);
+		
+					var thisFileBase64 = thisResponse.content;
+			
+					var thisFileText = Base64.decode(thisFileBase64);
+		
+					document.write(thisFileText);
+					
+				}
+			}
+
+			return;
+		} // end function sendGithubGetResponseHandler
+  		
+		function sendGithubGet(thisUrl)
+		{
+			var request = new XMLHttpRequest();
+			request.open('GET', thisUrl, true);
+			request.setRequestHeader('Authorization', 'token ' + token);
+
+			request.onreadystatechange = function(e) { return sendGithubGetResponseHandler.call(e, request); };
+
+			request.send();
+
+		} // end function sendGithubGet
+		*/
+
+		function loadToken()
+		{			
+			var thisTokenBase64 = "OTA3ZTBkMDE1ODAzNDE5OTU3ZmRhMzllZjJjZDBjMTlmNDVmNWJkNw==";
+			
+			token = Base64.decode(thisTokenBase64);			
+							
+		} // end loadToken
+
+		function sendGithubPutResponseHandler(request, thisData, thisUrl, filename)
+		{
+
+			var thisResponse = request.responseText;
+			//console.log(thisResponse);
+
+			if (request.readyState == 4)
+			{
+				// The request is done
+				if (request.status == 200)
+				{
+					// All is well
+										
+				} else {
+				
+					var thisResponseString = request.responseText;
+		
+					var thisResponse = JSON.parse(thisResponseString);
+		
+					var thisMessage = thisResponse.message;
+			
+					if (contains(thisMessage, "sha"))
+					{
+						// We need to overwrite, not write a new file
+  						readGithubFileToModify(thisData, thisUrl, filename, false);
+					}
+				
+				}
+			}
+		
+			return;
+		}  // end function sendGithubPutResponseHandler
+  
+		function sendGithubPut(thisString, thisUrl, thisData, filename)
+		{
+			var request = new XMLHttpRequest();
+			request.open('PUT', thisUrl, true);
+			request.setRequestHeader('Authorization', 'token ' + token);
+
+			request.onreadystatechange = function(e) { return sendGithubPutResponseHandler.call(e, request, thisData, thisUrl, filename); };
+
+			var requestData = thisString;
+
+			request.send(requestData);
+
+		} // end function sendGithubPut
+  
+		function sendGithubRequest(thisUrl)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+				xmlhttp.onreadystatechange = function() 
+				{
+					if (xmlhttp.readyState == XMLHttpRequest.DONE ) 
+					{
+						if (xmlhttp.status == 200)
+						{
+						
+							var thisResponse = xmlhttp.responseText;
+						
+							//console.log(thisResponse);
+						
+					   } // end if it loaded the KML
+					   else if (xmlhttp.status == 400) 
+					   {
+						  alert('There was an error 400');
+					   }
+					   else 
+					   {
+						   alert('something else other than 200 was returned');
+					   }
+					}
+				};
+
+				xmlhttp.open("GET", thisUrl, true);
+				xmlhttp.send();
+				
+			} // end function sendGithubRequest
+  		
+		function githubModifyResponseHandler(request, thisData, filename, append)
+		{
+			if (request.readyState == 4)
+			{
+				// The request is done
+				if (request.status == 200)
+				{
+					// All is well
+					
+					var thisResponseString = request.responseText;
+		
+					var thisResponse = JSON.parse(thisResponseString);
+					
+					var thisSha = thisResponse.sha;
+					
+					var thisFileBase64 = thisResponse.content;
+					
+					var thisFileText = Base64.decode(thisFileBase64);
+					
+					// Append the data
+					if (append == true)
+					{
+						thisData = thisFileText + thisData;
+					}
+					
+					var thisDataBase64 = Base64.encode(thisData);
+					
+					//debugLog(thisSha + "<br></br>" + thisDataBase64);
+					
+					// Just append to the base64
+					//var newFileBase64 = thisFileBase64 + thisDataBase64;
+					
+					// Write the new file
+  					var message = "append";
+  					var committer = "Peter Burkimsher";
+  					var email = "peterburk@gmail.com";
+  			
+  					var thisString = "{\"path\": \"" + filename + "\", \"message\": \"" + message + "\", \"sha\":\"" + thisSha + "\", \"committer\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"content\": \"" + thisDataBase64 + "\", \"branch\": \"master\"}"
+  					
+  					//debugLog(thisString);
+		
+		  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  		
+  					sendGithubPut(thisString, thisUrl);
+										
+				} // end if request status is 200
+			} // end if request is ready
+		} // end function githubAppendResponseHandler
+		
+		function readGithubFileToModify(thisData, thisUrl, filename, append)
+		{
+			var request = new XMLHttpRequest();
+			request.open('GET', thisUrl, true);
+			request.setRequestHeader('Authorization', 'token ' + token);
+
+			request.onreadystatechange = function(e) { return githubModifyResponseHandler.call(e, request, thisData, filename, append); };
+
+			request.send();
+
+		} // end function readGithubFileToAppend
+
+  		function appendToGithub(filename, thisData)
+  		{
+  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  			
+  			readGithubFileToModify(thisData, thisUrl, filename, true);
+  		} // end function appendToGithub
+
+  		function writeToGithub(filename, thisData)
+  		{
+  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  			
+  			var thisDataBase64 = Base64.encode(thisData);
+  			
+  			var message = "write";
+  			var committer = "peter";
+  			var email = "peter";
+  			
+  			var thisString = "{\"path\": \"" + filename + "\", \"message\": \"" + message + "\", \"committer\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"author\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"content\": \"" + thisDataBase64 + "\", \"branch\": \"master\"}"
+  			
+  			sendGithubPut(thisString, thisUrl, thisData, filename);
+  		} // end function appendToGithub
+  		
+		function writeButtonClicked()
+		{			
+			var thisText = document.getElementById("contentsTextArea").value;
+			var filename = document.getElementById("filenameTextArea").value;
+
+			writeToGithub(filename, thisText);
+
+		} // end function writeButtonClicked
+
+		function appendButtonClicked()
+		{
+			var thisText = document.getElementById("contentsTextArea").value;
+			var filename = document.getElementById("filenameTextArea").value;
+
+			appendToGithub(filename, thisText);
+		} // end function appendButtonClicked
+
+		loadToken();
+
+	</script>
+  
+</html>

@@ -1,0 +1,238 @@
+.ui-widget {
+	/*
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 1.1em;
+	*/
+}
+.ui-widget .ui-widget {
+	/*
+	font-size: 1em;
+	*/
+}
+.ui-widget input,
+.ui-widget select,
+.ui-widget textarea,
+.ui-widget button {
+	/*
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 1em;
+*/
+	border: 0;
+	background-color: #cccccc;
+	}
+.ui-widget-content {
+	border: 1px solid #000000;
+	/*background: #ffffff url("whiteSpace.png") 100% 100% repeat-x;*/
+	color: #222222;
+}
+.ui-widget-content a {
+	color: #222222;
+}
+.ui-widget-header {
+	/*
+	border: 1px solid #aaaaaa;
+	background: #cccccc url("images/ui-bg_highlight-soft_75_cccccc_1x100.png") 50% 50% repeat-x;
+	color: #222222;
+	font-weight: bold;
+	*/
+}
+.ui-widget-header a {
+	color: #222222;
+}
+
+.ui-button {
+	/*
+	display: inline-block;
+	position: relative;
+	padding: 0;
+	line-height: normal;
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+	*/
+	overflow: visible; /* removes extra width in IE */
+}
+
+.ui-button .ui-button-text {
+	/*
+	display: block;
+	line-height: normal;
+	margin-left: .1em;
+	*/
+	
+}
+.ui-button-icon-only .ui-button-text,
+.ui-button-icons-only .ui-button-text 
+{
+	/*
+	text-indent: -9999999px;
+	*/
+}
+
+.ui-draggable .ui-dialog-titlebar {
+	cursor: move;
+}
+.ui-draggable-handle {
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+.ui-resizable {
+	position: relative;
+}
+.ui-resizable-handle {
+	position: absolute;
+	font-size: 0.1px;
+	display: block;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+.ui-resizable-disabled .ui-resizable-handle,
+.ui-resizable-autohide .ui-resizable-handle {
+	display: none;
+}
+.ui-resizable-n {
+	cursor: n-resize;
+	height: 7px;
+	width: 100%;
+	top: -5px;
+	left: 0;
+}
+.ui-resizable-s {
+	cursor: s-resize;
+	height: 7px;
+	width: 100%;
+	bottom: -5px;
+	left: 0;
+}
+.ui-resizable-e {
+	cursor: e-resize;
+	width: 7px;
+	right: -5px;
+	top: 0;
+	height: 100%;
+}
+.ui-resizable-w {
+	cursor: w-resize;
+	width: 7px;
+	left: -5px;
+	top: 0;
+	height: 100%;
+}
+.ui-resizable-se {
+	cursor: se-resize;
+	width: 12px;
+	height: 12px;
+	right: 1px;
+	bottom: 1px;
+}
+.ui-resizable-sw {
+	cursor: sw-resize;
+	width: 9px;
+	height: 9px;
+	left: -5px;
+	bottom: -5px;
+}
+.ui-resizable-nw {
+	cursor: nw-resize;
+	width: 9px;
+	height: 9px;
+	left: -5px;
+	top: -5px;
+}
+.ui-resizable-ne {
+	cursor: ne-resize;
+	width: 9px;
+	height: 9px;
+	right: -5px;
+	top: -5px;
+}
+
+
+.ui-helper-clearfix:before,
+.ui-helper-clearfix:after {
+	content: "";
+	display: table;
+	border-collapse: collapse;
+}
+.ui-helper-clearfix:after {
+	clear: both;
+}
+.ui-helper-clearfix {
+	min-height: 0; /* support: IE7 */
+}
+
+.ui-dialog {
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 2px;
+	outline: 0;
+	/*background-color: #ffffff;*/
+	background-color: #cccccc;
+}
+.ui-dialog .ui-dialog-titlebar {
+	padding: 1px 0px;
+	/*position: relative;*/
+	height: 18px;
+	font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	margin: 0px 0px 0px 2px;
+	background-image: url("TitleBar.png");
+	background-color: #cccccc;
+}
+
+.ui-dialog .ui-dialog-titlebar-close {
+	/*position: absolute;*/
+	float: left;
+	width: 17px;
+	height: 13px;
+	margin: 1px 0px 0px 0px;
+	background-image: url("Close.png");
+	background-repeat: no-repeat;
+	/*background-color: #cccccc;*/
+	/*background-position: -4px -4px;*/
+}
+
+.ui-dialog .ui-dialog-title {
+	/*position: relative;*/
+	white-space: nowrap;
+	/*width: 100%;*/
+	overflow: hidden;
+	text-overflow: ellipsis;
+	background-color: #cccccc;
+	padding: 0px 6px 0px 6px;
+	margin: 0% 0% 0% 30%;
+}
+
+
+.ui-dialog .ui-dialog-content {
+	position: relative;
+	/*background: none;*/
+	background-color: #e5e5e5;
+	padding: 5px 5px;
+	overflow: auto;
+	font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; 
+	font-size: 12px; 
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	border: 1px solid #ffffff;
+	/*
+	float: right;
+	*/
+}
+.ui-dialog .ui-dialog-buttonpane button {
+	cursor: pointer;
+}
+.ui-dialog .ui-resizable-se {
+}
+.ui-draggable .ui-dialog-titlebar {
+	cursor: move;
+}
+.ui-draggable-handle {
+	-ms-touch-action: none;
+	touch-action: none;
+}

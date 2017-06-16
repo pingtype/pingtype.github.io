@@ -1,0 +1,498 @@
+<!--
+	subtitleWordsToTimes
+	Peter Burkimsher 2017-05-27
+	
+	What is the minimum number of songs/movies to learn every word in TOCFL?
+	
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Subtitle Words to Times</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	<style>
+		
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+		
+	</style>
+	
+  </head>
+  <body>
+  
+	   <table>
+		   <tr>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+				   		Words summary from <a href="referencesForWords.html" target=_blank>referencesForWords</a>
+				   	</div>
+			   </td>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+					   Subtitles
+				   	</div>
+			   </td>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+					   Output Times for Words
+				   	</div>
+			   </td>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+					   Output Words for Times
+				   	</div>
+			   </td>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+					   Output Times Commands
+				   	</div>
+			   </td>
+			   <td>
+			   		<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+					   Output Words Commands
+				   	</div>
+			   </td>
+			</tr>
+		   <tr>
+			   <td>
+				   <textarea id="inputTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+			   <td>
+				   <textarea id="subtitlesTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+			   <td>
+				   <textarea id="timesForWordsTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+			   <td>
+				   <textarea id="wordsForTimesTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+			   <td>
+				   <textarea id="timesCommandsTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+			   <td>
+				   <textarea id="wordsCommandsTextArea" rows="50" cols="30" ></textarea>
+			   </td>
+
+			   <td>
+				   <div class="ButtonInner" onclick="timesButtonClicked();">
+					   Times
+				   </div>
+			   </td>
+			</tr>
+	   </table>
+  
+	</body>
+	
+	<script>
+	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function sortString(thisString)
+		{
+			var wordsArray = thisString.split("\n");
+		
+			// Remove the blank line at the end
+			wordsArray.pop();
+		
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			return outputArray.join("\n");
+			
+		} // end sortString
+	
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+
+		// Write to file response handler
+		function writeToFileResponseHandler(e, request)
+		{
+		
+		} // end function writeToFile
+
+
+		// Write to file - call a PHP script to write a file
+		function writeToFile(filename, thisString)
+		{
+			//debugLog("writeToFile(" + filename + "," + thisString + ")");
+
+				var request = new XMLHttpRequest();
+				request.open('POST', 'writeToFile.php', true);
+				request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+				thisString = replaceChars(thisString, "&", "and")
+
+				request.onreadystatechange = function(e) { return writeToFileResponseHandler.call(e, request); };
+				
+				var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+				request.send(requestData);
+
+		} // end function writeToFile
+
+		function timesButtonClicked()
+		{
+			var movieNameWords = document.getElementById('inputTextArea').value;
+
+			var movieNameWordsArray = movieNameWords.split("	");
+			
+			var movieName = movieNameWordsArray[3];
+			
+			var movieWordsNew = movieNameWordsArray[4];
+
+			var movieWordsAll = movieNameWordsArray[5];
+			
+			var movieWordsAllArray = movieWordsAll.split(" ");
+			
+			var numberWords = movieWordsAllArray.length;
+			
+			// Initialise arrays
+			var wordTimesArray = [];
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				wordTimesArray.push("");
+			}
+			
+			
+			// For every subtitle, check for words
+			
+			var subtitleText = document.getElementById('subtitlesTextArea').value;
+			
+			var subtitlesLines = subtitleText.split("\n");
+			
+			var numberLines = subtitlesLines.length;
+						
+			
+			var subtitlesText = "";
+			
+			var subtitlesTimes = "";
+						
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = subtitlesLines[currentLine];
+				
+				if (thisLine == "")
+				{
+					subtitlesTimes = subtitlesTimes + "\n";
+					subtitlesText = subtitlesText + "\n";
+				} else {
+					if (isNumberString(thisLine) == true)
+					{
+						// it's a number
+					} else {
+						// If this line is a time
+						if (contains(thisLine, " --> ") == true)
+						{
+							subtitlesTimes = subtitlesTimes + thisLine;
+						} else {
+							
+							// It's a subtitle
+							subtitlesText = subtitlesText + thisLine + " ";
+							
+						} // end if time
+					} // end if number string
+				} // end if the line is not blank
+				
+			} // end for every line, get the subtitles
+			
+			
+			// For every subtitle
+
+			var subtitlesTimesArray = subtitlesTimes.split("\n");
+			var subtitlesTextArray = subtitlesText.split("\n");
+			
+			var numberSubtitles = subtitlesTextArray.length;
+
+			// Initialise arrays
+			var subtitlesWordsArray = [];
+			for (var currentWord = 0; currentWord < numberSubtitles; currentWord++)
+			{
+				subtitlesWordsArray.push("");
+			}
+
+			
+			for (var currentSubtitle = 0; currentSubtitle < numberSubtitles; currentSubtitle++)
+			{
+				var thisTime = subtitlesTimesArray[currentSubtitle];
+				var thisSubtitle = subtitlesTextArray[currentSubtitle];
+			
+				var thisSubtitleTimeWords = "";
+
+				for (var currentWord = 0; currentWord < numberWords; currentWord++)
+				{
+					var thisWord = movieWordsAllArray[currentWord];
+			   
+					if (thisWord != "")
+					{
+						if (contains(thisSubtitle, thisWord) == true)
+						{
+							var thisWordTimes = wordTimesArray[currentWord];
+					   
+							thisWordTimes = thisWordTimes + thisTime + "|";
+					   
+							wordTimesArray[currentWord] = thisWordTimes;
+					   
+							thisSubtitleTimeWords = thisSubtitleTimeWords + thisWord + " ";
+					   		
+						} // end if the line has the word
+					} // end if the word is not blank
+			   		
+			   		var thisSubtitleTimeWordsArray = thisSubtitleTimeWords.split(" ");
+			   		var thisSubtitleTimeNumberWords = thisSubtitleTimeWordsArray.length - 1;
+			   		
+			   		if (thisSubtitleTimeNumberWords > 0)
+			   		{
+			   			subtitlesWordsArray[currentSubtitle] = thisSubtitleTimeNumberWords + "	" + thisTime + "	" + thisSubtitleTimeWords;
+			   		}
+			   		
+				} // end for every word in the movie
+			} // end for every subtitle
+			
+			
+			
+			var wordTimesString = "";
+			var wordCommandsString = "";
+				
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = movieWordsAllArray[currentWord];
+				var thisWordTimes = wordTimesArray[currentWord];
+				
+				var thisWordTimesArray = thisWordTimes.split("|");
+				
+				var thisWordNumberTimes = thisWordTimesArray.length - 1;
+				
+				wordTimesString = wordTimesString + thisWordNumberTimes + "	" + thisWord + "	" + thisWordTimes + "\n";
+				
+				var thisCommand = "ffmpeg -f concat -safe 0 -i <(printf \"";
+				
+				thisCommand = thisCommand + "file 'WordHeadings/" + thisWord + ".mp4'\\n";
+				
+				for (var currentTime = 0; currentTime <= thisWordNumberTimes; currentTime++)
+				{
+					var thisTime = thisWordTimesArray[currentTime];
+					
+					if (thisTime != "")
+					{
+						var thisSubtitleTimeStart = textBetween(thisTime, "start", " --> ");
+						var thisSubtitleTimeEnd = textBetween(thisTime, " --> ", "end");
+					
+						thisSubtitleTimeStart = replaceChars(thisSubtitleTimeStart, ",", ".");
+						thisSubtitleTimeEnd = replaceChars(thisSubtitleTimeEnd, ",", ".");
+				
+						var thisSubtitleName = thisSubtitleTimeStart + "_" + thisSubtitleTimeEnd;
+						thisSubtitleName = replaceChars(thisSubtitleName, ":", "-");
+						thisSubtitleName = thisSubtitleName + ".mp4";
+					
+						//thisCommand = thisCommand + "file '/Volumes/WesternDigital4/Movies/Mac/那些年，我們一起追的女孩 You Are the Apple of My Eye (2011)/Clips_old/" + thisSubtitleName + "'\\n";
+						thisCommand = thisCommand + "file 'Clips/" + thisSubtitleName + "'\\n";
+					} 
+				}
+				
+				thisCommand = thisCommand + "\") -c copy \"" + thisWord + ".mp4\"";
+				
+				wordCommandsString = wordCommandsString + thisCommand + "\n";
+				
+			} // end for every word in the movie
+			
+			wordTimesString = sortString(wordTimesString);
+			
+			document.getElementById("timesForWordsTextArea").value = wordTimesString;
+			
+			// Write to file isn't working, don't know why
+			//writeToFile("wordsCommands.txt", wordCommandsString);
+
+			document.getElementById("wordsCommandsTextArea").value = wordCommandsString;
+			
+			var subtitleTimeWords = subtitlesWordsArray.join("\n");
+			
+			subtitleTimeWords = sortString(subtitleTimeWords);
+			
+			while (contains(subtitleTimeWords, "\n\n") == true)
+			{
+				subtitleTimeWords = replaceChars(subtitleTimeWords, "\n\n", "\n");
+			}
+			
+			document.getElementById("wordsForTimesTextArea").value = subtitleTimeWords;
+
+			var subtitleTimeWordsArray = subtitleTimeWords.split("\n");
+			
+			var numberCommands = subtitleTimeWordsArray.length;
+			
+			var commandsString = "";
+			
+			for (var currentCommand = 0; currentCommand < numberCommands; currentCommand++)
+			{
+				var thisSubtitleTime = subtitleTimeWordsArray[currentCommand];
+				
+				if (thisSubtitleTime != "")
+				{
+				
+					var thisSubtitleTimeArray = thisSubtitleTime.split("	");
+					var thisSubtitleTimeRange = thisSubtitleTimeArray[1];
+				
+					var thisSubtitleTimeStart = textBetween(thisSubtitleTimeRange, "start", " --> ");
+					var thisSubtitleTimeEnd = textBetween(thisSubtitleTimeRange, " --> ", "end");
+					
+					var thisStartTimeArray = thisSubtitleTimeStart.split(":");
+					var thisStartTimeHours = thisStartTimeArray[0];
+					var thisStartTimeMinutes = thisStartTimeArray[1];
+					var thisStartTimeSecondsMilliseconds = thisStartTimeArray[2];
+					var thisStartTimeSeconds = textBetween(thisStartTimeSecondsMilliseconds, "start", ",");
+					var thisStartTimeMilliseconds = textBetween(thisStartTimeSecondsMilliseconds, ",", "end");
+
+					var thisStartTimeNumber = thisStartTimeHours * 3600 + thisStartTimeMinutes * 60 + thisStartTimeSeconds * 1 + thisStartTimeMilliseconds * 0.001;
+					
+					thisSubtitleTimeStart = replaceChars(thisSubtitleTimeStart, ",", ".");
+					
+					var thisEndTimeArray = thisSubtitleTimeEnd.split(":");
+					var thisEndTimeHours = thisEndTimeArray[0];
+					var thisEndTimeMinutes = thisEndTimeArray[1];
+					var thisEndTimeSecondsMilliseconds = thisEndTimeArray[2];
+					var thisEndTimeSeconds = textBetween(thisEndTimeSecondsMilliseconds, "start", ",");
+					var thisEndTimeMilliseconds = textBetween(thisEndTimeSecondsMilliseconds, ",", "end");
+
+					var thisEndTimeNumber = thisEndTimeHours * 3600 + thisEndTimeMinutes * 60 + thisEndTimeSeconds * 1 + thisEndTimeMilliseconds * 0.001;
+					
+					var thisSubtitleLength = thisEndTimeNumber - thisStartTimeNumber;
+					
+					thisSubtitleLength = thisSubtitleLength * 1000;
+					thisSubtitleLength = Math.floor(thisSubtitleLength);
+					thisSubtitleLength = thisSubtitleLength / 1000;
+					
+					
+					var thisSubtitleName = thisSubtitleTimeStart + "_" + thisSubtitleTimeEnd;
+					thisSubtitleName = replaceChars(thisSubtitleName, ":", "-");
+					thisSubtitleName = replaceChars(thisSubtitleName, ",", ".");
+					thisSubtitleName = thisSubtitleName + ".mp4";
+					
+					var thisCommand = "ffmpeg -ss " + thisSubtitleTimeStart + " -i movie.mp4 -t " + thisSubtitleLength + " -async 1 -strict -2 \"Clips/" + thisSubtitleName + "\"";
+				
+					commandsString = commandsString + thisCommand + "\n";
+				}
+				
+			} // end make ffmpeg commands
+			
+			document.getElementById("timesCommandsTextArea").value = commandsString;
+			
+		} // end function timesButtonClicked
+	
+	</script>
+
+</html>

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Translate</title>
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+
+      #chinese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      #chinese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:red;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:green;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:blue;
+font-size: 30px;
+display:inline;
+      }
+
+
+      #pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:black;
+display:inline;
+      }
+
+      #pinyin_2 {
+color:red;
+display:inline;
+      }
+
+      #pinyin_3 {
+color:green;
+display:inline;
+      }
+
+      #pinyin_4 {
+color:blue;
+display:inline;
+      }
+
+    </style>
+  </head>
+  <body>
+	
+	<table id="inputTable">
+		<tr>
+			<td>
+				Chinese input
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<textarea id="inputTextArea" rows="10" cols="50" >中文
+老師</textarea>
+  			</td>
+  			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="translateHtml();">
+  				Translate HTML
+  			</td>
+  			<td style="width:100px;height:5px;background-color:#BBBBBB;text-align:center;" onclick="translateText();">
+  				Translate Text
+  			</td>
+  		</tr>
+		<tr>
+			<td>
+				English input
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="englishTextArea" rows="10" cols="50" >Chinese
+teacher</textarea>
+  			</td>
+  		</tr>
+		<tr>
+			<td>
+				HTML output
+			</td>
+		</tr>
+	</table>
+	<table id="htmlTable">
+  		<tr>
+  			<td>
+  				<div id="outputHtml"></div>
+  			</td>
+  		</td>
+	</table>
+	<table id="textTable">
+		<tr>
+			<td>
+				Text output
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="outputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+  </body>
+  
+  
+  <script>
+		var pinyinDefinitionsToneData;
+
+		function loadPinyinDefinitionsTones(filename)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						pinyinDefinitionsToneData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadGenealogies
+
+
+		function textBetween(thisText, startString, endString)
+		{
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+
+		function translateText()
+		{		
+			var inputText = document.getElementById("inputTextArea").value;
+
+			var englishText = document.getElementById("englishTextArea").value;
+			
+			var outputText = "";			
+			var outputHtml = "";			
+			
+			var inputArray = inputText.split("\n");
+			var englishArray = englishText.split("\n");
+			
+			var numberLines = inputArray.length;
+			
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = inputArray[currentLine];
+				var englishLine = englishArray[currentLine];
+				
+				var chineseHtml = "";
+				var pinyinHtml = "";			
+				var translatedHtml = "";
+
+				var chineseText = "";
+				var pinyinText = "";			
+				var translatedText = "";
+
+				
+				var numberInput = thisLine.length;
+				for (var currentInput = 0; currentInput < numberInput; currentInput++)
+				{
+			
+					var thisCharacter = thisLine[currentInput];
+					
+					if (thisCharacter == " ")
+					{
+						chineseHtml = chineseHtml + "</td><td>";
+						pinyinHtml = pinyinHtml + "</td><td>";						
+						translatedHtml = translatedHtml + "</td><td>";						
+						
+						chineseText = chineseText + "  ";
+						pinyinText = pinyinText + "  ";
+						translatedText = translatedText + "  ";
+						
+					} else {
+					
+						if (contains(pinyinDefinitionsToneData, "\n" + thisCharacter + "	") == true)
+						{
+							var thisCharacterLine = textBetween(pinyinDefinitionsToneData, "\n" + thisCharacter + "	", "\n");
+							
+							var thisCharacterArray = thisCharacterLine.split("	");
+							
+							var thisPinyin = thisCharacterArray[0];
+							var thisDefinition = thisCharacterArray[1];
+							var thisTone = thisCharacterArray[2];
+							
+							
+							//var thisPinyin = textBetween(thisCharacterLine, "start", "	");
+							//var thisDefinitionTone = textBetween(thisCharacterLine, "	", "end");
+							//var thisDefinition = textBetween(thisDefinitionTone, "start", "	");
+							//var thisTone = textBetween(thisDefinitionTone, "	", "end");
+														
+							chineseHtml = chineseHtml + "<div id=\"chinese_" + thisTone + "\">" + thisCharacter + "</div>";
+							pinyinHtml = pinyinHtml + "<div id=\"pinyin_" + thisTone + "\">" + thisPinyin + "</div> ";
+							translatedHtml = translatedHtml + " " + thisDefinition;
+							
+							chineseText = chineseText + thisCharacter;
+							pinyinText = pinyinText + thisPinyin + " ";
+							translatedText = translatedText + thisDefinition + " ";
+							
+							//alert(thisTone);
+						
+						} else {
+							chineseHtml = chineseHtml + thisCharacter;
+							pinyinHtml = pinyinHtml + thisCharacter;
+							translatedHtml = translatedHtml + thisCharacter;
+
+							chineseText = chineseText + thisCharacter;
+							pinyinText = pinyinText + thisCharacter;
+							translatedText = translatedText + thisCharacter;
+
+						} // end if the dictionary contains the character already
+					
+					} // end if this character is a space
+					
+				} // end for every character
+			
+				outputText = outputText + chineseText + "\n" + pinyinText + "\n" + translatedText + "\n" + englishLine + "\n" + "\n";
+				outputHtml = outputHtml + "<p><table>";
+				outputHtml = outputHtml + "<tr><td>" + chineseHtml + "</td></tr>";
+				outputHtml = outputHtml + "<tr><td>" + pinyinHtml + "</td></tr>";
+				outputHtml = outputHtml + "<tr><td>" + translatedHtml + "</td></tr>";
+				outputHtml = outputHtml + "</table><p>";
+
+				outputHtml = outputHtml + englishLine;
+							
+			} // end for every line
+			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function translate
+
+
+		function translateHtml()
+		{		
+			translateText();
+			
+			document.getElementById("inputTable").hidden = true;
+			document.getElementById("textTable").hidden = true;
+		} // end function translateHtml
+
+
+		loadPinyinDefinitionsTones("PinyinDefinitionsTones_singleWords.txt");
+
+  
+  </script>
+  
+</html>

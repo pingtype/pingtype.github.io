@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Subtitles To Lines</title>
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+
+      #chinese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      #chinese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:red;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:green;
+font-size: 30px;
+display:inline;
+      }
+
+      #chinese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:blue;
+font-size: 30px;
+display:inline;
+      }
+
+
+      #pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:black;
+display:inline;
+      }
+
+      #pinyin_2 {
+color:red;
+display:inline;
+      }
+
+      #pinyin_3 {
+color:green;
+display:inline;
+      }
+
+      #pinyin_4 {
+color:blue;
+display:inline;
+      }
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+
+    </style>
+  </head>
+  <body>
+
+	<table>
+		<tr>
+			<td>
+				Subtitles input
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="inputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+
+  	<table>
+		<tr>
+			<td>
+				Text output
+			</td>
+		</tr>
+  		<tr>
+  			<td>
+  				<textarea id="outputTextArea" rows="10" cols="50"></textarea>
+  			</td>
+  		</tr>
+  	</table>
+  	
+  	<table>
+  		<tr>
+  			 <td>
+				<div id="subtitlesToLinesButton" class="ButtonInner" style="width:100px" onclick="subtitlesToLines();">
+					Subtitles to Lines
+				</div>
+  			</td>
+		</tr>
+  	</table>
+
+
+  </body>
+  
+  
+  <script>
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+  
+		// isChinese - check if the character is in the unihan dictionary 
+		function isChinese(thisCharacter)
+		{
+			//debugLog("isChinese(" + thisCharacter + ")");
+			
+			// Pi-hahiroth
+			if (thisCharacter == "．")
+			{
+				return true;
+			}
+			
+			var charCode = thisCharacter.charCodeAt(0);
+		
+			if (charCode >= 13312)
+			{
+				if (charCode <= 64217)
+				{
+					return true;
+				}
+			}
+			
+			if (charCode >= 131072)
+			{
+				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			return false;
+			
+		} // end function isChinese
+		
+		function isChineseString(thisString)
+		{
+			//debugLog("isChineseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsChinese = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isChinese(thisCharacter) == false)
+				{
+					stringIsChinese = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsChinese;
+		} // end function isChineseString
+
+		function containsChineseString(thisString)
+		{
+			//debugLog("isChineseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsChinese = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isChinese(thisCharacter) == true)
+				{
+					stringIsChinese = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsChinese;
+		} // end function containsChineseString
+  
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+
+  	function subtitlesToLines()
+  	{
+  		var subtitlesText = document.getElementById("inputTextArea").value;
+  		
+			var subtitlesLines = subtitlesText.split("\n");
+			
+			var numberLines = subtitlesLines.length;
+			
+			// Combine subtitles into correctly alternating lines
+			var numbersText = "";
+			var timesText = "";
+			var englishText = "";
+			var chineseText = "";
+			
+			var useEnglish = true;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = subtitlesLines[currentLine];
+				
+				var lineLength = thisLine.length;
+				
+				if (thisLine == "")
+				{
+					numbersText = numbersText + "\n";
+					timesText = timesText + "\n";
+					englishText = englishText + "\n";
+					chineseText = chineseText + "\n";
+				} else {
+					if (isNumberString(thisLine) == true)
+					{
+						numbersText = numbersText + thisLine;
+					} else {
+						// If this line is a time
+						if (contains(thisLine, " --> ") == true)
+						{
+							timesText = timesText + thisLine;
+						} else {
+							
+							if (useEnglish == true)
+							{
+								if (containsChineseString(thisLine) == true)
+								{
+									chineseText = chineseText + thisLine + " ";
+								} else {
+									// extra spaces in case we concatenate two lines
+									if (thisLine != "")
+									{
+										englishText = englishText + thisLine + " ";
+									}
+								}
+							} else {
+								chineseText = chineseText + thisLine + " ";
+							}
+						} // end if time
+					} // end if number string
+				} // end if blank line
+
+			} // end for every line in the subtitles
+			
+			chineseText = replaceChars(chineseText, " \n", "\n");
+			
+			var numbersTextArray = numbersText.split("\n");
+			var timesTextArray = timesText.split("\n");
+			var englishTextArray = englishText.split("\n");
+			var chineseTextArray = chineseText.split("\n");
+
+			numberLines = numbersTextArray.length;
+			
+			var subtitlesOutput = "";
+						
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var numbersTextLine = numbersTextArray[currentLine];
+				var timesTextLine = timesTextArray[currentLine];
+				var englishTextLine = englishTextArray[currentLine];				
+				var chineseTextLine = chineseTextArray[currentLine];
+				
+				var thisSubtitle = numbersTextLine + "\n" + timesTextLine + "\n" + chineseTextLine;
+				
+				if (useEnglish == true)
+				{
+					thisSubtitle = thisSubtitle + "\n"  + englishTextLine;
+				}
+				
+				if (thisSubtitle != "")
+				{
+					subtitlesOutput = subtitlesOutput + "\n" + thisSubtitle + "\n";
+				}
+				
+			} // end for every line in the output
+			
+  			document.getElementById("outputTextArea").value = subtitlesOutput;
+			
+  	} // end function subtitlesToLines
+  
+  </script>
+  
+</html>
