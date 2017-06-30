@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotsprings>
+  <spring state='AK' lat='55.9830' lng='-131.661' name='BAILEY HOT SPRING' tempf='198' />
+  <spring state='AK' lat='57.0850' lng='-134.839' name='BARANOF WARM SPRINGS' tempf='124' />
+  <spring state='AK' lat='56.6800' lng='-131.882' name='BARNES LAKE HOT SPRINGS' tempf='79' />
+  <spring state='AK' lat='55.9330' lng='-131.559' name='BELL ISLAND HOT SPRINGS' tempf='165' />
+  <spring state='AK' lat='56.2330' lng='-131.267' name='BRADFIELD CANAL HOT SPRINGS' tempf='135' />
+  <spring state='AK' lat='65.0530' lng='-146.057' name='CHENA HOT SPRINGS' tempf='153' />
+  <spring state='AK' lat='56.7170' lng='-132.005' name='CHIEF SHAKES HOT SPRINGS' tempf='122' />
+  <spring state='AK' lat='52.8400' lng='-169.900' name='CHUGINADAK HOT SPRINGS' tempf='H' />
+  <spring state='AK' lat='65.4830' lng='-144.637' name='CIRCLE HOT SPRINGS' tempf='135' />
+  <spring state='AK' lat='64.8500' lng='-162.300' name='CLEAR CREEK HOT SPRINGS' tempf='149' />
+  <spring state='AK' lat='66.2170' lng='-149.547' name='DALL HOT SPRINGS' tempf='129' />
+  <spring state='AK' lat='55.3340' lng='-133.641' name='DALTON (CRAIG) HOT SPRINGS' tempf='109' />
+  <spring state='AK' lat='65.9080' lng='-154.993' name='DENIKTOW RIDGE HOT SPRINGS' tempf='H' />
+  <spring state='AK' lat='55.3680' lng='-161.961' name='FUMAROLE' tempf='H' />
+  <spring state='AK' lat='51.7750' lng='-178.793' name='FUMAROLES ON GARELOI ISLAND' tempf='H' />
+  <spring state='AK' lat='51.7620' lng='-178.770' name='FUMAROLES ON GARELOI ISLAND' tempf='144' />
+  <spring state='AK' lat='51.9250' lng='-177.160' name='FUMAROLES ON KANAGA ISLAND' tempf='219' />
+  <spring state='AK' lat='51.9670' lng='-178.444' name='FUMAROLES ON LITTLE SITKIN ISLAND' tempf='H' />
+  <spring state='AK' lat='51.9440' lng='-178.547' name='FUMAROLES ON LITTLE SITKIN ISLAND' tempf='H' />
+  <spring state='AK' lat='51.9630' lng='-178.491' name='FUMAROLES ON LITTLE SITKIN ISLAND' tempf='H' />
+  <spring state='AK' lat='57.8650' lng='-156.499' name='GAS ROCKS HOT SPRING' tempf='127' />
+  <spring state='AK' lat='56.8360' lng='-135.374' name='GODDARD HOT SPRINGS' tempf='153' />
+  <spring state='AK' lat='65.3670' lng='-161.250' name='GRANITE MOUNTAIN HOT SPRINGS' tempf='120' />
+  <spring state='AK' lat='64.9240' lng='-154.837' name='HORNER HOT SPRINGS' tempf='117' />
+  <spring state='AK' lat='61.2670' lng='-151.238' name='HOT LAKE IN BOTTOM OF CRATER PEAK' tempf='H' />
+  <spring state='AK' lat='55.3340' lng='-162.137' name='HOT SPRING AT WEST END EMMONS LAKE' tempf='68' />
+  <spring state='AK' lat='67.4030' lng='-153.883' name='HOT SPRING NEAR ARRIGETCH PEAKS' tempf='W' />
+  <spring state='AK' lat='57.3480' lng='-135.385' name='HOT SPRING NEAR FISH BAY' tempf='117' />
+  <spring state='AK' lat='62.4500' lng='-157.933' name='HOT SPRING NEAR FLAT' tempf='W' />
+  <spring state='AK' lat='58.2400' lng='-155.090' name='HOT SPRING NEAR KATMAI PASS' tempf='H' />
+  <spring state='AK' lat='64.7000' lng='-162.467' name='HOT SPRING NEAR KWINIUK RIVER' tempf='106' />
+  <spring state='AK' lat='65.4500' lng='-150.000' name='HOT SPRING NEAR LITTLE MINOOK CR' tempf='H' />
+  <spring state='AK' lat='57.1780' lng='-157.015' name='HOT SPRING NEAR MOTHER GOOSE LAKE' tempf='138' />
+  <spring state='AK' lat='55.8630' lng='-160.493' name='HOT SPRING NEAR PORT MOLLER' tempf='160' />
+  <spring state='AK' lat='61.0580' lng='-160.692' name='HOT SPRING NEAR TULUKSAK RIVER' tempf='H' />
+  <spring state='AK' lat='57.7710' lng='-135.820' name='HOT SPRING NORTH ARM PERIL STRAIT' tempf='100' />
+  <spring state='AK' lat='54.9000' lng='-162.885' name='HOT SPRING ON AMAGAT ISLAND' tempf='H' />
+  <spring state='AK' lat='52.8700' lng='-173.130' name='HOT SPRING ON ATTU ISLAND' tempf='W' />
+  <spring state='AK' lat='65.0470' lng='-142.848' name='HOT SPRING ON FLAT CREEK' tempf='W' />
+  <spring state='AK' lat='52.9600' lng='-169.710' name='HOT SPRING ON KAGAMIL ISLAND' tempf='H' />
+  <spring state='AK' lat='51.9400' lng='-178.500' name='HOT SPRING ON LITTLE SITKIN ISLAND' tempf='H' />
+  <spring state='AK' lat='52.3580' lng='-172.317' name='HOT SPRING ON SEGUAM ISLAND' tempf='H' />
+  <spring state='AK' lat='51.8100' lng='-177.790' name='HOT SPRING ON TANAGA ISLAND' tempf='H' />
+  <spring state='AK' lat='64.0020' lng='-156.300' name='HOT SPRING ON TRIBUTARY OF INNOKO R' tempf='H' />
+  <spring state='AK' lat='60.8370' lng='-142.420' name='HOT SPRING ON TWELVEMILE CREEK' tempf='W' />
+  <spring state='AK' lat='53.2330' lng='-168.300' name='HOT SPRING ON UMNAK ISLAND' tempf='149' />
+  <spring state='AK' lat='54.6600' lng='-164.550' name='HOT SPRING ON UNIMAK ISLAND' tempf='H' />
+  <spring state='AK' lat='58.9200' lng='-153.980' name='HOT SPRING WEST OF CAPE DOUGLAS' tempf='H' />
+  <spring state='AK' lat='55.2170' lng='-162.483' name='HOT SPRINGS EAST OF COLD BAY' tempf='129' />
+  <spring state='AK' lat='63.8830' lng='-150.717' name='HOT SPRINGS EAST OF DIAMOND' tempf='W' />
+  <spring state='AK' lat='66.3670' lng='-156.767' name='HOT SPRINGS NEAR DIVISION BM' tempf='140' />
+  <spring state='AK' lat='65.2670' lng='-155.280' name='HOT SPRINGS NEAR DULBI RIVER' tempf='126' />
+  <spring state='AK' lat='53.2230' lng='-168.477' name='HOT SPRINGS NEAR GEYSER BIGHT' tempf='214' />
+  <spring state='AK' lat='53.2130' lng='-168.463' name='HOT SPRINGS NEAR GEYSER BIGHT' tempf='216' />
+  <spring state='AK' lat='53.2070' lng='-168.445' name='HOT SPRINGS NEAR GEYSER BIGHT' tempf='H' />
+  <spring state='AK' lat='63.6830' lng='-151.233' name='HOT SPRINGS NEAR GLACIER' tempf='W' />
+  <spring state='AK' lat='54.1570' lng='-165.850' name='HOT SPRINGS NEAR HOT SPRINGS BAY' tempf='181' />
+  <spring state='AK' lat='53.2530' lng='-168.358' name='HOT SPRINGS NEAR HOT SPRINGS COVE' tempf='158' />
+  <spring state='AK' lat='53.2420' lng='-168.365' name='HOT SPRINGS NEAR HOT SPRINGS COVE' tempf='192' />
+  <spring state='AK' lat='58.3700' lng='-137.090' name='HOT SPRINGS NEAR ICY POINT' tempf='153' />
+  <spring state='AK' lat='65.2170' lng='-162.900' name='HOT SPRINGS NEAR LAVA CREEK' tempf='127' />
+  <spring state='AK' lat='53.8510' lng='-166.918' name='HOT SPRINGS NEAR MAKUSHIN VOLCANO' tempf='H' />
+  <spring state='AK' lat='53.8480' lng='-166.873' name='HOT SPRINGS NEAR MAKUSHIN VOLCANO' tempf='94' />
+  <spring state='AK' lat='54.9440' lng='-163.251' name='HOT SPRINGS NEAR MORZHOVOI' tempf='145' />
+  <spring state='AK' lat='58.2700' lng='-154.890' name='HOT SPRINGS NEAR MT KATMAI' tempf='H' />
+  <spring state='AK' lat='61.2000' lng='-159.863' name='HOT SPRINGS NEAR OPHIR CREEK' tempf='145' />
+  <spring state='AK' lat='66.1500' lng='-157.117' name='HOT SPRINGS NEAR SOUTH BM' tempf='122' />
+  <spring state='AK' lat='53.8770' lng='-166.448' name='HOT SPRINGS NEAR SUMMER BAY' tempf='H' />
+  <spring state='AK' lat='58.0330' lng='-136.017' name='HOT SPRINGS NORTH END TENAKEE INLET' tempf='180' />
+  <spring state='AK' lat='51.9700' lng='-176.610' name='HOT SPRINGS ON ADAK ISLAND' tempf='154' />
+  <spring state='AK' lat='54.2300' lng='-165.660' name='HOT SPRINGS ON AKUN ISLAND' tempf='H' />
+  <spring state='AK' lat='54.1800' lng='-165.410' name='HOT SPRINGS ON AKUN ISLAND' tempf='H' />
+  <spring state='AK' lat='52.3400' lng='-174.260' name='HOT SPRINGS ON ATKA ISLAND' tempf='H' />
+  <spring state='AK' lat='52.2700' lng='-174.042' name='HOT SPRINGS ON ATKA ISLAND' tempf='H' />
+  <spring state='AK' lat='52.1900' lng='-174.250' name='HOT SPRINGS ON ATKA ISLAND' tempf='167' />
+  <spring state='AK' lat='65.2330' lng='-144.483' name='HOT SPRINGS ON BIG WINDY CREEK' tempf='H' />
+  <spring state='AK' lat='53.9500' lng='-168.037' name='HOT SPRINGS ON BOGOSLOF ISLAND' tempf='H' />
+  <spring state='AK' lat='52.0420' lng='-176.108' name='HOT SPRINGS ON GREAT SITKIN ISLAND' tempf='210' />
+  <spring state='AK' lat='66.2330' lng='-157.583' name='HOT SPRINGS ON HAWK RIVER' tempf='122' />
+  <spring state='AK' lat='65.9830' lng='-150.560' name='HOT SPRINGS ON LOWER RAY RIVER' tempf='142' />
+  <spring state='AK' lat='61.3630' lng='-157.733' name='HOT SPRINGS ON UPPER CHUILNUK RIVER' tempf='H' />
+  <spring state='AK' lat='65.2160' lng='-149.993' name='HUTLINANA HOT SPRINGS' tempf='109' />
+  <spring state='AK' lat='66.3420' lng='-150.850' name='KANUTI HOT SPRINGS' tempf='151' />
+  <spring state='AK' lat='65.8100' lng='-151.237' name='KILO HOT SPRING' tempf='122' />
+  <spring state='AK' lat='65.4590' lng='-153.312' name='LITTLE MELOZITNA HOT SPRINGS' tempf='176' />
+  <spring state='AK' lat='53.8920' lng='-166.930' name='MAKUSHIN VOLCANO FUMAROLES' tempf='310' />
+  <spring state='AK' lat='65.0060' lng='-150.633' name='MANLEY HOT SPRINGS' tempf='133' />
+  <spring state='AK' lat='65.1290' lng='-154.692' name='MELOZI (MELOZITNA) SPRINGS' tempf='131' />
+  <spring state='AK' lat='62.0580' lng='-145.222' name='MINERAL SPRING (LOWER KLAWASI CONE)' tempf='82' />
+  <spring state='AK' lat='57.6440' lng='-135.333' name='NYLEN HOT SPRINGS' tempf='120' />
+  <spring state='AK' lat='69.3300' lng='-144.044' name='OKPILAK SPRINGS' tempf='119' />
+  <spring state='AK' lat='65.0930' lng='-164.922' name='PILGRIM SPRINGS' tempf='178' />
+  <spring state='AK' lat='65.9700' lng='-154.033' name='POCAHONTAS HOT SPRINGS' tempf='H' />
+  <spring state='AK' lat='65.9630' lng='-150.919' name='RAY RIVER HOT SPRING' tempf='117' />
+  <spring state='AK' lat='69.6270' lng='-146.027' name='RED HILL SPRING' tempf='91' />
+  <spring state='AK' lat='67.2830' lng='-155.067' name='REED RIVER HOT SPRING' tempf='122' />
+  <spring state='AK' lat='65.8580' lng='-164.710' name='SERPENTINE HOT SPRINGS' tempf='171' />
+  <spring state='AK' lat='56.5800' lng='-132.180' name='SOUTH STIKINE SPRING' tempf='W' />
+  <spring state='AK' lat='56.9280' lng='-158.120' name='SURPRISE LAKE HOT SPRING' tempf='73' />
+  <spring state='AK' lat='57.7810' lng='-135.217' name='TENAKEE HOT SPRINGS' tempf='109' />
+  <spring state='AK' lat='53.4430' lng='-168.092' name='THERMAL SPRINGS IN OKMOK CALDERA' tempf='212' />
+  <spring state='AK' lat='65.2740' lng='-148.847' name='TOLOVANA HOT SPRINGS' tempf='140' />
+  <spring state='AK' lat='66.1970' lng='-154.006' name='TUNALKTEN LAKE HOT SPRING' tempf='U' />
+  <spring state='AK' lat='56.6670' lng='-132.280' name='TWIN LAKES HOT SPRINGS' tempf='70' />
+  <spring state='AK' lat='62.0810' lng='-145.007' name='UPPER KLAWASI WARM SPRINGS' tempf='86' />
+  <spring state='AK' lat='57.8310' lng='-156.513' name='W UKINEK SPRING' tempf='178' />
+  <spring state='AK' lat='66.3830' lng='-157.517' name='WARM SPRING NEAR PURCELL MOUNTAIN' tempf='68' />
+  <spring state='AK' lat='57.8070' lng='-136.341' name='WHITE SULPHUR SPRINGS (HOONIAH H S)' tempf='111' />
+  <spring state='AR' lat='34.5420' lng='-93.0240' name='BIG CHALYBEATE SPRING' tempf='79' />
+  <spring state='AR' lat='34.3840' lng='-93.6070' name='CADDO GAP SPRINGS' tempf='95' />
+  <spring state='AR' lat='34.5130' lng='-93.0530' name='HOT SPRINGS' tempf='147' />
+  <spring state='AR' lat='34.4060' lng='-93.9080' name='SPRING ON LITTLE MISSOURI RIVER' tempf='74' />
+  <spring state='AR' lat='34.3210' lng='-93.7390' name='SPRING ON REDLAND MOUNTAIN' tempf='77' />
+  <spring state='AR' lat='36.4800' lng='-91.0530' name='WARM SPRINGS' tempf='82' />
+  <spring state='AZ' lat='32.2810' lng='-110.730' name='AGUA CALIENTE' tempf='86' />
+  <spring state='AZ' lat='31.6950' lng='-110.963' name='AGUA CALIENTE SPRING' tempf='90' />
+  <spring state='AZ' lat='32.9840' lng='-113.324' name='AGUA CALIENTE SPRINGS' tempf='102' />
+  <spring state='AZ' lat='31.6730' lng='-109.902' name='ANTELOPE SPRING' tempf='79' />
+  <spring state='AZ' lat='31.3620' lng='-109.265' name='ASTIN SPRING' tempf='75' />
+  <spring state='AZ' lat='34.9250' lng='-114.221' name='CALICHE SPRING' tempf='79' />
+  <spring state='AZ' lat='35.2130' lng='-113.425' name='CASA GRANDE SPRING' tempf='72' />
+  <spring state='AZ' lat='33.5100' lng='-110.403' name='CASSADORE SPRING' tempf='73' />
+  <spring state='AZ' lat='33.9880' lng='-112.362' name='CASTLE HOT SPRINGS' tempf='115' />
+  <spring state='AZ' lat='33.0550' lng='-109.295' name='CLIFTON HOT SPRINGS' tempf='102' />
+  <spring state='AZ' lat='34.6950' lng='-113.572' name='COFER HOT SPRING' tempf='97' />
+  <spring state='AZ' lat='36.5090' lng='-111.852' name='COLORADO POOL' tempf='86' />
+  <spring state='AZ' lat='33.1700' lng='-110.528' name='COOLIDGE DAM WARM SPRING' tempf='99' />
+  <spring state='AZ' lat='33.0460' lng='-109.440' name='EAGLE CREEK HOT SPRINGS' tempf='97' />
+  <spring state='AZ' lat='35.1690' lng='-113.851' name='FROST MINE SPRING' tempf='70' />
+  <spring state='AZ' lat='32.9710' lng='-109.350' name='GILLARD HOT SPRINGS' tempf='180' />
+  <spring state='AZ' lat='33.0080' lng='-109.778' name='GRAPEVINE SPRING' tempf='91' />
+  <spring state='AZ' lat='33.4000' lng='-109.152' name='HANNAH HOT SPRING' tempf='133' />
+  <spring state='AZ' lat='32.3360' lng='-110.240' name='HOOKERS HOT SPRINGS' tempf='127' />
+  <spring state='AZ' lat='33.0800' lng='-109.303' name='HOT SPRING' tempf='138' />
+  <spring state='AZ' lat='35.9840' lng='-114.742' name='HOT SPRING' tempf='H' />
+  <spring state='AZ' lat='35.9600' lng='-114.725' name='HOT SPRING' tempf='86' />
+  <spring state='AZ' lat='32.9980' lng='-109.901' name='INDIAN HOT SPRINGS' tempf='118' />
+  <spring state='AZ' lat='34.5630' lng='-113.497' name='KAISER HOT SPRING' tempf='99' />
+  <spring state='AZ' lat='36.1960' lng='-113.081' name='LAVA WARM SPRINGS' tempf='90' />
+  <spring state='AZ' lat='31.5920' lng='-109.510' name='LEWIS SPRING' tempf='68' />
+  <spring state='AZ' lat='32.3370' lng='-110.708' name='MERCER SPRING' tempf='77' />
+  <spring state='AZ' lat='33.1520' lng='-110.639' name='MESCAL WARM SPRING' tempf='84' />
+  <spring state='AZ' lat='33.9150' lng='-112.332' name='MITCHELL SPRING' tempf='79' />
+  <spring state='AZ' lat='31.6370' lng='-110.703' name='MONKEY SPRING' tempf='82' />
+  <spring state='AZ' lat='32.3270' lng='-110.228' name='N-O SPRING' tempf='73' />
+  <spring state='AZ' lat='34.8960' lng='-114.308' name='OATMAN WARM SPRINGS' tempf='91' />
+  <spring state='AZ' lat='36.4180' lng='-113.956' name='PAKOON SPRINGS' tempf='86' />
+  <spring state='AZ' lat='33.2090' lng='-110.818' name='PIONEER SPRING' tempf='91' />
+  <spring state='AZ' lat='31.9430' lng='-113.013' name='QUITOBAQUITO SPRINGS' tempf='90' />
+  <spring state='AZ' lat='32.7410' lng='-114.068' name='RADIUM HOT SPRINGS' tempf='140' />
+  <spring state='AZ' lat='33.6690' lng='-111.165' name='ROOSEVELT DAM SPRINGS' tempf='118' />
+  <spring state='AZ' lat='34.4360' lng='-109.402' name='SALADO SPRINGS' tempf='72' />
+  <spring state='AZ' lat='33.8310' lng='-110.574' name='SALT BANKS' tempf='78' />
+  <spring state='AZ' lat='33.0750' lng='-109.298' name='SEEP' tempf='95' />
+  <spring state='AZ' lat='34.6490' lng='-111.744' name='SODA SPRING' tempf='75' />
+  <spring state='AZ' lat='33.2530' lng='-110.703' name='SPRING' tempf='75' />
+  <spring state='AZ' lat='33.1630' lng='-110.662' name='SPRING' tempf='82' />
+  <spring state='AZ' lat='34.4050' lng='-111.602' name='SPRING' tempf='72' />
+  <spring state='AZ' lat='34.4450' lng='-112.693' name='SPRING' tempf='72' />
+  <spring state='AZ' lat='34.0760' lng='-111.708' name='SPRING (HOT)' tempf='99' />
+  <spring state='AZ' lat='36.8950' lng='-113.913' name='SPRINGS' tempf='79' />
+  <spring state='AZ' lat='34.9100' lng='-113.608' name='TOM BROWN WARM SPRING' tempf='82' />
+  <spring state='AZ' lat='34.3200' lng='-111.453' name='TONTO NATURAL BRIDGE SPRING' tempf='72' />
+  <spring state='AZ' lat='35.0770' lng='-113.267' name='TROUT CREEK SPRING' tempf='81' />
+  <spring state='AZ' lat='34.3570' lng='-111.710' name='VERDE HOT SPRINGS' tempf='104' />
+  <spring state='AZ' lat='32.9830' lng='-110.373' name='WARM SPRING' tempf='79' />
+  <spring state='AZ' lat='33.0620' lng='-109.482' name='WARM SPRING' tempf='73' />
+  <spring state='AZ' lat='33.7800' lng='-110.317' name='WARM SPRING' tempf='W' />
+  <spring state='AZ' lat='33.0680' lng='-109.975' name='WARM SPRING' tempf='90' />
+  <spring state='AZ' lat='32.3450' lng='-110.247' name='WARM SPRINGS' tempf='91' />
+  <spring state='AZ' lat='33.4380' lng='-110.213' name='WARM SPRINGS' tempf='86' />
+  <spring state='AZ' lat='33.7480' lng='-110.235' name='unnamed' tempf='83' />
+  <spring state='AZ' lat='35.1100' lng='-113.810' name='unnamed' tempf='73' />
+  <spring state='AZ' lat='33.1980' lng='-110.668' name='unnamed' tempf='99' />
+  <spring state='CA' lat='39.0220' lng='-122.444' name='ABBOTT MINE' tempf='86' />
+  <spring state='CA' lat='38.6540' lng='-122.484' name='AETNA SPRINGS' tempf='91' />
+  <spring state='CA' lat='34.5380' lng='-119.560' name='AGUA CALIENTE SPRING' tempf='133' />
+  <spring state='CA' lat='32.9470' lng='-116.305' name='AGUA CALIENTE SPRINGS' tempf='101' />
+  <spring state='CA' lat='33.3630' lng='-117.017' name='AGUA TIBIA SPRING' tempf='92' />
+  <spring state='CA' lat='37.5030' lng='-121.904' name='ALAMEDA WARM SPRINGS' tempf='80' />
+  <spring state='CA' lat='40.3020' lng='-120.195' name='AMEDEE HOT SPRINGS' tempf='203' />
+  <spring state='CA' lat='38.7730' lng='-122.705' name='ANDERSON SPRINGS' tempf='108' />
+  <spring state='CA' lat='34.1850' lng='-117.262' name='ARROWHEAD SPRINGS, WATERMAN HOT SPR' tempf='194' />
+  <spring state='CA' lat='38.8500' lng='-122.667' name='BAD CREEK SPRING' tempf='81' />
+  <spring state='CA' lat='35.8420' lng='-117.380' name='BAINTER SPRING' tempf='92' />
+  <spring state='CA' lat='38.8920' lng='-122.533' name='BAKER SODA SPRING' tempf='76' />
+  <spring state='CA' lat='41.1670' lng='-120.032' name='BARE RANCH SPRING' tempf='90' />
+  <spring state='CA' lat='39.1830' lng='-122.700' name='BARTLETT SPRINGS' tempf='144' />
+  <spring state='CA' lat='41.1430' lng='-121.110' name='BASSETT HOT SPRINGS' tempf='174' />
+  <spring state='CA' lat='37.8020' lng='-118.532' name='BENTON HOT SPRINGS' tempf='134' />
+  <spring state='CA' lat='37.8880' lng='-118.487' name='BERTRAND RANCH SPRINGS' tempf='70' />
+  <spring state='CA' lat='41.0250' lng='-121.924' name='BIG BEND HOT SPRINGS' tempf='180' />
+  <spring state='CA' lat='39.0060' lng='-122.787' name='BIG SODA SPRING' tempf='90' />
+  <spring state='CA' lat='37.2340' lng='-118.881' name='BLANEY MEADOWS HOT SPRINGS' tempf='109' />
+  <spring state='CA' lat='39.0320' lng='-122.432' name='BLANK SPRING, MANZANITA MINE SPRS' tempf='112' />
+  <spring state='CA' lat='41.9190' lng='-122.369' name='BOGUS SODA SPRINGS' tempf='76' />
+  <spring state='CA' lat='40.4340' lng='-121.399' name='BOILING SPRINGS LAKE' tempf='190' />
+  <spring state='CA' lat='34.4230' lng='-119.538' name='BORON SPRING' tempf='72' />
+  <spring state='CA' lat='39.2260' lng='-120.010' name='BROCKWAY HOT SPRINGS' tempf='131' />
+  <spring state='CA' lat='38.2370' lng='-119.326' name='BUCKEYE HOT SPRING' tempf='140' />
+  <spring state='CA' lat='40.4550' lng='-121.501' name='BUMPASS HELL' tempf='199' />
+  <spring state='CA' lat='37.8470' lng='-121.635' name='BYRON HOT SPRINGS' tempf='96' />
+  <spring state='CA' lat='35.8810' lng='-118.670' name='CALIFORNIA HOT SPRINGS' tempf='122' />
+  <spring state='CA' lat='38.5800' lng='-122.575' name='CALISTOGA HOT SPRINGS' tempf='172' />
+  <spring state='CA' lat='35.4000' lng='-120.250' name='CAMETA WARM SPRING' tempf='73' />
+  <spring state='CA' lat='39.5730' lng='-120.348' name='CAMPBELL HOT SPRINGS' tempf='111' />
+  <spring state='CA' lat='33.5450' lng='-115.654' name='CANYON SPRING' tempf='97' />
+  <spring state='CA' lat='38.9160' lng='-122.799' name='CARLSBAD SPRING' tempf='76' />
+  <spring state='CA' lat='35.4390' lng='-119.846' name='CARNEROS SPRING' tempf='90' />
+  <spring state='CA' lat='37.6470' lng='-118.859' name='CASA DIABLO HOT POOL' tempf='165' />
+  <spring state='CA' lat='37.6480' lng='-118.914' name='CASA DIABLO HOT SPRINGS AND GEYSER' tempf='199' />
+  <spring state='CA' lat='38.7680' lng='-122.717' name='CASTLE ROCK SPRINGS' tempf='163' />
+  <spring state='CA' lat='37.6380' lng='-118.887' name='CHANCE SPRING' tempf='73' />
+  <spring state='CA' lat='35.9460' lng='-116.189' name='CHAPPO SPRING' tempf='80' />
+  <spring state='CA' lat='36.1440' lng='-120.555' name='COALINGA MINERAL SPRINGS' tempf='112' />
+  <spring state='CA' lat='33.6250' lng='-115.325' name='CORN SPRING' tempf='72' />
+  <spring state='CA' lat='36.0450' lng='-117.769' name='COSO HOT SPRINGS' tempf='207' />
+  <spring state='CA' lat='39.2920' lng='-122.821' name='CRABTREE HOT SPRINGS' tempf='106' />
+  <spring state='CA' lat='37.6320' lng='-121.762' name='CROHARE SPRING' tempf='70' />
+  <spring state='CA' lat='38.9950' lng='-122.642' name='DAVIS SODA SPRING' tempf='73' />
+  <spring state='CA' lat='33.4360' lng='-117.324' name='DE LUZ WARM SPRINGS' tempf='85' />
+  <spring state='CA' lat='37.6770' lng='-118.790' name='DEHY HOT SPRING' tempf='134' />
+  <spring state='CA' lat='35.5580' lng='-118.612' name='DELONEGHA HOT SPRINGS' tempf='112' />
+  <spring state='CA' lat='35.5280' lng='-118.665' name='DEMOCRAT HOT SPRINGS' tempf='115' />
+  <spring state='CA' lat='36.0360' lng='-117.802' name='DEVILS KITCHEN' tempf='207' />
+  <spring state='CA' lat='40.4400' lng='-121.434' name='DEVILS KITCHEN' tempf='203' />
+  <spring state='CA' lat='36.3300' lng='-117.948' name='DIRTY SOCKS HOT SPRING' tempf='93' />
+  <spring state='CA' lat='36.0840' lng='-121.584' name='DOLANS HOT SPRING' tempf='98' />
+  <spring state='CA' lat='33.5120' lng='-115.827' name='DOS PALMAS SPRING' tempf='84' />
+  <spring state='CA' lat='40.4440' lng='-121.409' name='DRAKESBAD' tempf='151' />
+  <spring state='CA' lat='33.8960' lng='-117.057' name='EDEN HOT SPRINGS' tempf='109' />
+  <spring state='CA' lat='34.1590' lng='-118.499' name='EL ENCINO SPRINGS' tempf='79' />
+  <spring state='CA' lat='39.0570' lng='-122.475' name='ELGIN MINE' tempf='156' />
+  <spring state='CA' lat='38.8970' lng='-122.882' name='ENGLAND SPRINGS' tempf='76' />
+  <spring state='CA' lat='41.4920' lng='-120.700' name='ESSEX SPRINGS' tempf='91' />
+  <spring state='CA' lat='33.6640' lng='-117.913' name='FAIRVIEW HOT SPRING' tempf='96' />
+  <spring state='CA' lat='38.3480' lng='-119.400' name='FALES HOT SPRINGS' tempf='180' />
+  <spring state='CA' lat='37.5320' lng='-119.025' name='FISH CREEK HOT SPRINGS' tempf='110' />
+  <spring state='CA' lat='33.4070' lng='-116.035' name='FISH SPRINGS' tempf='90' />
+  <spring state='CA' lat='41.8600' lng='-120.158' name='FORT BIDWELL HOT SPRING' tempf='113' />
+  <spring state='CA' lat='39.3480' lng='-122.668' name='FOUTS SPRINGS' tempf='79' />
+  <spring state='CA' lat='36.0310' lng='-117.833' name='FUMAROLE' tempf='203' />
+  <spring state='CA' lat='38.9790' lng='-122.659' name='FUMAROLE' tempf='H' />
+  <spring state='CA' lat='37.6220' lng='-119.028' name='FUMAROLES' tempf='H' />
+  <spring state='CA' lat='33.8350' lng='-116.988' name='GILMAN HOT SPRINGS' tempf='117' />
+  <spring state='CA' lat='37.1080' lng='-121.478' name='GILROY HOT SPRINGS' tempf='106' />
+  <spring state='CA' lat='33.7530' lng='-117.495' name='GLEN IVY HOT SPRINGS' tempf='131' />
+  <spring state='CA' lat='38.8350' lng='-122.731' name='GORDON WARM SPRINGS' tempf='97' />
+  <spring state='CA' lat='37.0290' lng='-117.383' name='GRAPEVINE SPRINGS' tempf='100' />
+  <spring state='CA' lat='39.0020' lng='-122.498' name='GRIZZLY SPRING' tempf='68' />
+  <spring state='CA' lat='38.6990' lng='-119.846' name='GROVERS HOT SPRINGS' tempf='147' />
+  <spring state='CA' lat='40.3930' lng='-121.507' name='GROWLER HOT SPRING' tempf='203' />
+  <spring state='CA' lat='38.7850' lng='-122.655' name='HARBIN SPRINGS' tempf='120' />
+  <spring state='CA' lat='40.2450' lng='-120.007' name='HIGH ROCK SPRING' tempf='86' />
+  <spring state='CA' lat='33.9690' lng='-116.942' name='HIGHLAND SPRINGS' tempf='112' />
+  <spring state='CA' lat='38.9360' lng='-122.907' name='HIGHLAND SPRINGS' tempf='84' />
+  <spring state='CA' lat='38.9250' lng='-122.770' name='HILDEBRANDE SPRING' tempf='77' />
+  <spring state='CA' lat='38.8000' lng='-123.170' name='HOODS HOT SPRINGS' tempf='100' />
+  <spring state='CA' lat='38.9940' lng='-122.742' name='HORSESHOE SPRING' tempf='108' />
+  <spring state='CA' lat='37.6650' lng='-118.828' name='HOT CREEK GORGE SPRINGS' tempf='199' />
+  <spring state='CA' lat='37.6560' lng='-118.834' name='HOT CREEK SPRINGS' tempf='171' />
+  <spring state='CA' lat='41.6070' lng='-121.523' name='HOT SPOT' tempf='191' />
+  <spring state='CA' lat='35.7270' lng='-118.408' name='HOT SPRING' tempf='113' />
+  <spring state='CA' lat='38.0480' lng='-119.081' name='HOT SPRING' tempf='151' />
+  <spring state='CA' lat='40.3640' lng='-120.243' name='HOT SPRING' tempf='204' />
+  <spring state='CA' lat='37.7080' lng='-118.813' name='HOT SPRING' tempf='68' />
+  <spring state='CA' lat='41.4070' lng='-122.197' name='HOT SPRING, FUMAROLES' tempf='183' />
+  <spring state='CA' lat='37.6480' lng='-118.806' name='HOT SPRINGS' tempf='129' />
+  <spring state='CA' lat='41.0120' lng='-121.274' name='HOT SPRINGS' tempf='H' />
+  <spring state='CA' lat='41.2660' lng='-120.080' name='HOT SPRINGS (MENLO BATHS)' tempf='135' />
+  <spring state='CA' lat='41.5340' lng='-120.078' name='HOT SPRINGS (SURPRISE VALLEY)' tempf='208' />
+  <spring state='CA' lat='40.4400' lng='-121.420' name='HOT SPRINGS VALLEY' tempf='83' />
+  <spring state='CA' lat='38.8580' lng='-122.671' name='HOWARD SPRINGS' tempf='113' />
+  <spring state='CA' lat='41.0360' lng='-121.926' name='HUNT HOT SPRING' tempf='136' />
+  <spring state='CA' lat='40.1420' lng='-120.935' name='INDIAN VALLEY HOT SPRINGS' tempf='106' />
+  <spring state='CA' lat='36.7730' lng='-120.898' name='IRIDAT SPRING' tempf='73' />
+  <spring state='CA' lat='39.6570' lng='-123.585' name='JACKSON VALLEY MUD SPRINGS' tempf='80' />
+  <spring state='CA' lat='32.6170' lng='-116.189' name='JACUMBA HOT SPRINGS' tempf='101' />
+  <spring state='CA' lat='39.0330' lng='-122.445' name='JONES FOUNTAIN OF LIFE SPRING' tempf='142' />
+  <spring state='CA' lat='36.2290' lng='-118.302' name='JORDAN HOT SPRINGS' tempf='124' />
+  <spring state='CA' lat='36.6750' lng='-116.923' name='KEANE WONDER SPRING' tempf='93' />
+  <spring state='CA' lat='41.1260' lng='-121.028' name='KELLOG HOT SPRINGS' tempf='172' />
+  <spring state='CA' lat='41.4500' lng='-120.834' name='KELLY HOT SPRING' tempf='198' />
+  <spring state='CA' lat='37.2530' lng='-118.373' name='KEOUGH HOT SPRINGS' tempf='124' />
+  <spring state='CA' lat='36.4770' lng='-118.404' name='KERN HOT SPRING' tempf='109' />
+  <spring state='CA' lat='41.9730' lng='-122.202' name='KLAMATH HOT SPRING' tempf='156' />
+  <spring state='CA' lat='41.6700' lng='-120.206' name='LAKE CITY HOT SPRINGS' tempf='207' />
+  <spring state='CA' lat='33.8370' lng='-117.145' name='LAKEVIEW HOT SPRINGS' tempf='100' />
+  <spring state='CA' lat='34.5030' lng='-120.219' name='LAS CRUCES HOT SPRINGS' tempf='99' />
+  <spring state='CA' lat='41.6000' lng='-120.088' name='LEONARDS HOT SPRINGS' tempf='144' />
+  <spring state='CA' lat='34.5370' lng='-119.613' name='LITTLE CALIENTE SPRING' tempf='90' />
+  <spring state='CA' lat='38.7670' lng='-122.748' name='LITTLE GEYSERS' tempf='210' />
+  <spring state='CA' lat='37.6920' lng='-118.839' name='LITTLE HOT CREEK SPRING' tempf='180' />
+  <spring state='CA' lat='41.2290' lng='-121.405' name='LITTLE HOT SPRING' tempf='169' />
+  <spring state='CA' lat='36.6980' lng='-117.848' name='LITTLE HUNTER CANYON SPRINGS' tempf='81' />
+  <spring state='CA' lat='37.5730' lng='-121.445' name='LONE TREE MINERAL SPRING' tempf='73' />
+  <spring state='CA' lat='38.3940' lng='-122.552' name='LOS GUILICOS WARM SPRINGS' tempf='88' />
+  <spring state='CA' lat='36.8060' lng='-117.771' name='LOWER WARM SPRINGS' tempf='110' />
+  <spring state='CA' lat='38.5500' lng='-122.720' name='MARK WEST SPRINGS' tempf='88' />
+  <spring state='CA' lat='34.4820' lng='-119.302' name='MATILIJA HOT SPRINGS' tempf='109' />
+  <spring state='CA' lat='33.7330' lng='-114.907' name='MCCOY SPRING' tempf='82' />
+  <spring state='CA' lat='39.7280' lng='-120.547' name='MCLEAR WARM SPRINGS' tempf='86' />
+  <spring state='CA' lat='36.7030' lng='-120.860' name='MERCEY HOT SPRINGS' tempf='119' />
+  <spring state='CA' lat='40.4570' lng='-121.545' name='MILL CREEK SPRINGS' tempf='150' />
+  <spring state='CA' lat='37.3980' lng='-121.794' name='MINERAL SPRINGS' tempf='84' />
+  <spring state='CA' lat='35.5750' lng='-118.534' name='MIRACLE HOT SPRS, HOBO HOT SPRS' tempf='119' />
+  <spring state='CA' lat='35.4830' lng='-119.917' name='MIZE SPRING' tempf='73' />
+  <spring state='CA' lat='38.0330' lng='-118.902' name='MONO BASIN WARM SPRINGS' tempf='88' />
+  <spring state='CA' lat='37.3270' lng='-119.018' name='MONO HOT SPRINGS' tempf='109' />
+  <spring state='CA' lat='34.4610' lng='-119.637' name='MONTECITO HOT SPRINGS' tempf='118' />
+  <spring state='CA' lat='40.3820' lng='-121.513' name='MORGAN HOT SPRING' tempf='205' />
+  <spring state='CA' lat='33.2120' lng='-115.591' name='MUD POTS' tempf='100' />
+  <spring state='CA' lat='33.2010' lng='-115.577' name='MUD POTS' tempf='100' />
+  <spring state='CA' lat='33.3450' lng='-115.588' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.2800' lng='-115.592' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.2880' lng='-115.575' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.3430' lng='-115.573' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.3280' lng='-115.583' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.3130' lng='-115.605' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.3120' lng='-115.577' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='33.3320' lng='-115.575' name='MUD VOLCANOES' tempf='W' />
+  <spring state='CA' lat='39.4290' lng='-123.308' name='MUIR SPRINGS' tempf='68' />
+  <spring state='CA' lat='33.5580' lng='-117.154' name='MURRIETTA HOT SPRINGS' tempf='132' />
+  <spring state='CA' lat='38.8500' lng='-120.025' name='MYERS WARM SPRING' tempf='75' />
+  <spring state='CA' lat='38.5190' lng='-122.260' name='NAPA ROCK SODA SPRING, PHILLIPS SOD' tempf='78' />
+  <spring state='CA' lat='38.3390' lng='-122.259' name='NAPA VICHY SPRINGS' tempf='76' />
+  <spring state='CA' lat='36.5120' lng='-116.821' name='NEVARES SPRINGS' tempf='102' />
+  <spring state='CA' lat='34.8260' lng='-116.677' name='NEWBERRY SPRING' tempf='77' />
+  <spring state='CA' lat='39.1960' lng='-122.714' name='NEWMAN SPRINGS' tempf='94' />
+  <spring state='CA' lat='35.1220' lng='-120.542' name='NEWSOM SPRINGS' tempf='99' />
+  <spring state='CA' lat='38.8330' lng='-122.357' name='ONE SHOT MINING CO' tempf='72' />
+  <spring state='CA' lat='39.2270' lng='-123.362' name='ORRS SPRINGS' tempf='104' />
+  <spring state='CA' lat='36.8140' lng='-117.763' name='PALM SPRING' tempf='120' />
+  <spring state='CA' lat='33.8230' lng='-116.542' name='PALM SPRINGS (AGUA CALIENTE SPRING)' tempf='104' />
+  <spring state='CA' lat='34.2710' lng='-116.838' name='PAN HOT SPRINGS' tempf='88' />
+  <spring state='CA' lat='37.9930' lng='-119.028' name='PAOHA ISLAND SPRINGS' tempf='181' />
+  <spring state='CA' lat='35.1430' lng='-116.813' name='PARADISE SPRING' tempf='100' />
+  <spring state='CA' lat='36.3310' lng='-121.367' name='PARAISO SPRINGS (SULPHUR SPRING)' tempf='98' />
+  <spring state='CA' lat='35.6630' lng='-120.692' name='PASO ROBLES ARTESIAN SPRING' tempf='102' />
+  <spring state='CA' lat='35.2690' lng='-120.851' name='PECHO WARM SPRINGS' tempf='95' />
+  <spring state='CA' lat='39.6970' lng='-123.478' name='PINCHES SPRING' tempf='70' />
+  <spring state='CA' lat='38.8500' lng='-122.693' name='PINE CONE SPRING' tempf='78' />
+  <spring state='CA' lat='38.8740' lng='-123.518' name='POINT ARENA HOT SPRINGS' tempf='111' />
+  <spring state='CA' lat='41.8280' lng='-120.917' name='POTHOLE SPRING' tempf='78' />
+  <spring state='CA' lat='39.1980' lng='-122.505' name='PSEUDO COMPLEXION SPRING' tempf='81' />
+  <spring state='CA' lat='39.0530' lng='-122.597' name='QUIGLEY SODA SPRING' tempf='82' />
+  <spring state='CA' lat='37.6180' lng='-119.074' name='REDS MEADOW HOT SPRINGS' tempf='115' />
+  <spring state='CA' lat='35.8790' lng='-116.153' name='RESTING SPRING' tempf='80' />
+  <spring state='CA' lat='38.9580' lng='-122.701' name='RIVIERA BEACH SPRING' tempf='93' />
+  <spring state='CA' lat='37.8800' lng='-122.627' name='ROCKY POINT SPRINGS' tempf='90' />
+  <spring state='CA' lat='37.4320' lng='-121.308' name='SALT GRASS SPRINGS' tempf='73' />
+  <spring state='CA' lat='33.5890' lng='-117.511' name='SAN JUAN HOT SPRINGS' tempf='120' />
+  <spring state='CA' lat='34.5370' lng='-119.879' name='SAN MARCOS HOT SPRING' tempf='110' />
+  <spring state='CA' lat='35.5820' lng='-120.666' name='SANTA YSABEL SPRINGS (SULPHUR SPR)' tempf='92' />
+  <spring state='CA' lat='35.6820' lng='-116.422' name='SARATOGA SPRING' tempf='82' />
+  <spring state='CA' lat='36.9380' lng='-121.565' name='SARGENT ESTATE WARM SPRING' tempf='77' />
+  <spring state='CA' lat='35.6200' lng='-118.473' name='SCOVERN HOT SPRINGS' tempf='133' />
+  <spring state='CA' lat='38.8730' lng='-122.689' name='SEIGLER SPRINGS' tempf='126' />
+  <spring state='CA' lat='40.5680' lng='-120.325' name='SELLICKS SPRINGS' tempf='72' />
+  <spring state='CA' lat='34.5960' lng='-118.998' name='SESPE HOT SPRINGS' tempf='194' />
+  <spring state='CA' lat='41.6150' lng='-120.102' name='SEYFERTH HOT SPRINGS' tempf='185' />
+  <spring state='CA' lat='35.5880' lng='-116.359' name='SHEEP CREEK SPRING' tempf='73' />
+  <spring state='CA' lat='35.9780' lng='-116.273' name='SHOSHONE SPRING' tempf='90' />
+  <spring state='CA' lat='38.6910' lng='-123.024' name='SKAGGS SPRINGS' tempf='135' />
+  <spring state='CA' lat='36.1230' lng='-121.640' name='SLATES HOT SPRINGS' tempf='122' />
+  <spring state='CA' lat='33.8000' lng='-116.927' name='SOBODA HOT SPRINGS' tempf='102' />
+  <spring state='CA' lat='36.1300' lng='-118.816' name='SODA SPRING' tempf='72' />
+  <spring state='CA' lat='38.9500' lng='-122.572' name='SODA SPRING IN CACHE FORMATION' tempf='72' />
+  <spring state='CA' lat='36.2100' lng='-118.176' name='SODA SPRINGS' tempf='100' />
+  <spring state='CA' lat='35.1410' lng='-116.101' name='SODA STATION SPRINGS' tempf='75' />
+  <spring state='CA' lat='38.8380' lng='-122.653' name='SPIERS SPRINGS' tempf='79' />
+  <spring state='CA' lat='33.5140' lng='-117.604' name='SPRING' tempf='95' />
+  <spring state='CA' lat='41.4840' lng='-120.764' name='SPRING' tempf='81' />
+  <spring state='CA' lat='36.7650' lng='-120.901' name='SPRING' tempf='81' />
+  <spring state='CA' lat='40.0190' lng='-121.036' name='SPRING' tempf='99' />
+  <spring state='CA' lat='35.5360' lng='-118.651' name='SPRING (HOT)' tempf='W' />
+  <spring state='CA' lat='37.0830' lng='-121.042' name='SPRING IN ONEILL FOREBAY' tempf='70' />
+  <spring state='CA' lat='35.8880' lng='-116.258' name='SPRINGS' tempf='W' />
+  <spring state='CA' lat='36.4950' lng='-117.893' name='SPRINGS' tempf='86' />
+  <spring state='CA' lat='37.6350' lng='-118.720' name='SPRINGS' tempf='72' />
+  <spring state='CA' lat='37.9290' lng='-121.965' name='SPRINGS' tempf='W' />
+  <spring state='CA' lat='41.1960' lng='-120.475' name='SPRINGS' tempf='W' />
+  <spring state='CA' lat='37.7190' lng='-118.735' name='SPRINGS' tempf='75' />
+  <spring state='CA' lat='43.5130' lng='-119.903' name='SPRINGS AT TECOLOTE TUNNEL' tempf='93' />
+  <spring state='CA' lat='41.2190' lng='-120.066' name='SQUAW BATHS' tempf='106' />
+  <spring state='CA' lat='38.4900' lng='-122.498' name='ST HELENA WHITE SULPHUR SPRING' tempf='97' />
+  <spring state='CA' lat='34.4980' lng='-119.341' name='STINGLEYS HOT SPRINGS' tempf='123' />
+  <spring state='CA' lat='40.2230' lng='-122.747' name='STINKING SPRINGS' tempf='101' />
+  <spring state='CA' lat='39.0020' lng='-122.664' name='SULPHUR BANK' tempf='156' />
+  <spring state='CA' lat='38.7880' lng='-122.777' name='SULPHUR CREEK' tempf='120' />
+  <spring state='CA' lat='36.6180' lng='-121.845' name='SULPHUR HOT SPRING' tempf='100' />
+  <spring state='CA' lat='37.9240' lng='-122.046' name='SULPHUR SPRING' tempf='75' />
+  <spring state='CA' lat='39.0880' lng='-122.525' name='SULPHUR SPRING' tempf='68' />
+  <spring state='CA' lat='39.4300' lng='-122.538' name='SULPHUR SPRING, SALT SPRING' tempf='75' />
+  <spring state='CA' lat='36.2950' lng='-120.985' name='SULPHUR SPRINGS' tempf='73' />
+  <spring state='CA' lat='41.6590' lng='-123.319' name='SULPHUR SPRINGS' tempf='84' />
+  <spring state='CA' lat='40.4470' lng='-121.536' name='SULPHUR WORKS, TOPHET HOT SPRINGS' tempf='199' />
+  <spring state='CA' lat='35.9080' lng='-120.367' name='TABLE MOUNTAIN (SPRING)' tempf='88' />
+  <spring state='CA' lat='36.2340' lng='-121.546' name='TASSAJARA HOT SPRINGS' tempf='144' />
+  <spring state='CA' lat='35.8710' lng='-116.230' name='TECOPA HOT SPRINGS' tempf='118' />
+  <spring state='CA' lat='33.5510' lng='-117.167' name='TEMECULA HOT SPRINGS' tempf='116' />
+  <spring state='CA' lat='40.4210' lng='-121.375' name='TERMINAL GEYSER' tempf='205' />
+  <spring state='CA' lat='38.8020' lng='-122.810' name='THE GEYSERS' tempf='214' />
+  <spring state='CA' lat='38.2250' lng='-119.217' name='THE HOT SPRINGS' tempf='113' />
+  <spring state='CA' lat='37.6640' lng='-118.802' name='THE TUB' tempf='167' />
+  <spring state='CA' lat='40.5800' lng='-120.265' name='TIPTON SPRINGS' tempf='70' />
+  <spring state='CA' lat='38.3100' lng='-122.053' name='TOLENAS SPRINGS' tempf='68' />
+  <spring state='CA' lat='38.2450' lng='-119.205' name='TRAVERTINE HOT SPRINGS' tempf='180' />
+  <spring state='CA' lat='36.4410' lng='-116.829' name='TRAVERTINE SPRINGS' tempf='90' />
+  <spring state='CA' lat='40.2380' lng='-122.110' name='TUSCAN SPRINGS' tempf='86' />
+  <spring state='CA' lat='34.2280' lng='-117.483' name='TYLERS BATH SPRING' tempf='92' />
+  <spring state='CA' lat='36.8300' lng='-117.736' name='UPPER WARM SPRING' tempf='W' />
+  <spring state='CA' lat='32.9700' lng='-116.423' name='VALLECITOS SPRING' tempf='79' />
+  <spring state='CA' lat='38.1250' lng='-122.188' name='VALLEJO WHITE SULPHUR SPRINGS' tempf='68' />
+  <spring state='CA' lat='38.1920' lng='-120.827' name='VALLEY SPRINGS' tempf='75' />
+  <spring state='CA' lat='39.1660' lng='-123.159' name='VICHY SPRINGS' tempf='85' />
+  <spring state='CA' lat='34.5020' lng='-119.346' name='VICKERS HOT SPRINGS' tempf='124' />
+  <spring state='CA' lat='36.1170' lng='-118.776' name='WARD SPRING' tempf='70' />
+  <spring state='CA' lat='34.6050' lng='-118.561' name='WARM SPRING' tempf='92' />
+  <spring state='CA' lat='35.9670' lng='-116.931' name='WARM SPRING' tempf='W' />
+  <spring state='CA' lat='41.1600' lng='-120.403' name='WARM SPRING' tempf='70' />
+  <spring state='CA' lat='41.2520' lng='-120.521' name='WARM SPRING' tempf='75' />
+  <spring state='CA' lat='41.9590' lng='-120.936' name='WARM SPRING' tempf='W' />
+  <spring state='CA' lat='38.2030' lng='-119.118' name='WARM SPRING' tempf='77' />
+  <spring state='CA' lat='35.1480' lng='-118.783' name='WARM SPRING' tempf='W' />
+  <spring state='CA' lat='34.3400' lng='-117.173' name='WARM SPRING, HOT SPRING' tempf='108' />
+  <spring state='CA' lat='36.1220' lng='-117.217' name='WARM SULPHUR SPRINGS' tempf='80' />
+  <spring state='CA' lat='33.2840' lng='-116.631' name='WARNER HOT SPRING' tempf='138' />
+  <spring state='CA' lat='40.3550' lng='-120.257' name='WENDEL HOT SPRINGS' tempf='205' />
+  <spring state='CA' lat='41.1900' lng='-120.383' name='WEST VALLEY RESERVOIR HOT SPRING' tempf='171' />
+  <spring state='CA' lat='34.5070' lng='-119.291' name='WHEELER SPRINGS' tempf='102' />
+  <spring state='CA' lat='33.7310' lng='-118.348' name='WHITES POINT HOT SPRINGS' tempf='115' />
+  <spring state='CA' lat='37.6300' lng='-118.808' name='WHITMORE HOT SPRINGS' tempf='95' />
+  <spring state='CA' lat='39.0390' lng='-122.421' name='WILBUR SPRINGS' tempf='153' />
+  <spring state='CA' lat='34.5820' lng='-119.044' name='WILLETT HOT SPRINGS' tempf='108' />
+  <spring state='CA' lat='33.2170' lng='-115.580' name='WISTER MUD POT' tempf='100' />
+  <spring state='CA' lat='33.6700' lng='-117.325' name='WRENDEN HOT SPRS, ELSINORE HOT SPRS' tempf='125' />
+  <spring state='CA' lat='35.4330' lng='-118.478' name='YATES HOT SPRINGS' tempf='100' />
+  <spring state='CA' lat='39.9220' lng='-120.024' name='ZAMBONI HOT SPRINGS' tempf='H' />
+  <spring state='CA' lat='38.7550' lng='-122.285' name='ZIM ZIM SPRING' tempf='70' />
+  <spring state='CA' lat='33.5400' lng='-116.742' name='unnamed' tempf='W' />
+  <spring state='CA' lat='34.1240' lng='-117.078' name='unnamed' tempf='90' />
+  <spring state='CA' lat='35.6490' lng='-120.687' name='unnamed' tempf='108' />
+  <spring state='CA' lat='36.3310' lng='-121.843' name='unnamed' tempf='114' />
+  <spring state='CA' lat='37.6670' lng='-118.781' name='unnamed' tempf='127' />
+  <spring state='CA' lat='37.6530' lng='-118.925' name='unnamed' tempf='72' />
+  <spring state='CA' lat='41.2080' lng='-120.054' name='unnamed' tempf='109' />
+  <spring state='CA' lat='41.3600' lng='-120.723' name='unnamed' tempf='81' />
+  <spring state='CA' lat='41.4660' lng='-120.525' name='unnamed' tempf='72' />
+  <spring state='CA' lat='41.5420' lng='-120.567' name='unnamed' tempf='81' />
+  <spring state='CA' lat='38.3210' lng='-122.271' name='unnamed' tempf='83' />
+  <spring state='CA' lat='38.3570' lng='-122.509' name='unnamed' tempf='70' />
+  <spring state='CA' lat='38.3890' lng='-122.567' name='unnamed' tempf='73' />
+  <spring state='CA' lat='38.7770' lng='-122.763' name='unnamed' tempf='120' />
+  <spring state='CA' lat='38.9500' lng='-122.654' name='unnamed' tempf='W' />
+  <spring state='CA' lat='38.9630' lng='-122.724' name='unnamed' tempf='W' />
+  <spring state='CA' lat='38.9860' lng='-122.736' name='unnamed' tempf='95' />
+  <spring state='CA' lat='38.6270' lng='-119.504' name='unnamed' tempf='W' />
+  <spring state='CA' lat='38.7730' lng='-119.713' name='unnamed' tempf='149' />
+  <spring state='CA' lat='39.0220' lng='-122.592' name='unnamed' tempf='81' />
+  <spring state='CA' lat='39.2000' lng='-122.725' name='unnamed' tempf='90' />
+  <spring state='CA' lat='39.9800' lng='-120.064' name='unnamed' tempf='108' />
+  <spring state='CA' lat='38.1010' lng='-122.169' name='unnamed' tempf='73' />
+  <spring state='CA' lat='37.8950' lng='-121.874' name='unnamed' tempf='70' />
+  <spring state='CA' lat='37.4130' lng='-119.139' name='unnamed' tempf='95' />
+  <spring state='CA' lat='37.8360' lng='-119.016' name='unnamed' tempf='97' />
+  <spring state='CA' lat='37.9410' lng='-119.036' name='unnamed' tempf='91' />
+  <spring state='CA' lat='37.9890' lng='-119.139' name='unnamed' tempf='72' />
+  <spring state='CA' lat='37.2680' lng='-118.272' name='unnamed' tempf='84' />
+  <spring state='CA' lat='37.6070' lng='-118.808' name='unnamed' tempf='73' />
+  <spring state='CA' lat='37.6390' lng='-118.756' name='unnamed' tempf='86' />
+  <spring state='CA' lat='37.6570' lng='-118.764' name='unnamed' tempf='120' />
+  <spring state='CA' lat='36.2500' lng='-121.683' name='unnamed' tempf='W' />
+  <spring state='CA' lat='36.6400' lng='-120.684' name='unnamed' tempf='75' />
+  <spring state='CA' lat='35.3630' lng='-119.727' name='unnamed' tempf='93' />
+  <spring state='CA' lat='35.9400' lng='-117.903' name='unnamed' tempf='80' />
+  <spring state='CA' lat='33.8020' lng='-118.393' name='unnamed' tempf='77' />
+  <spring state='CA' lat='33.8650' lng='-117.103' name='unnamed' tempf='W' />
+  <spring state='CO' lat='37.7410' lng='-107.034' name='ANTELOPE SPRING' tempf='90' />
+  <spring state='CO' lat='37.7280' lng='-107.054' name='BIRDSIE WARM SPRING' tempf='86' />
+  <spring state='CO' lat='38.6530' lng='-106.056' name='BROWNS CANYON WARM SPRING' tempf='77' />
+  <spring state='CO' lat='38.6340' lng='-106.072' name='BROWNS GROTTO WARM SPRING' tempf='73' />
+  <spring state='CO' lat='38.4330' lng='-105.261' name='CANON CITY HOT SPRINGS' tempf='104' />
+  <spring state='CO' lat='38.2720' lng='-107.100' name='CEBOLLA HOT SPRINGS' tempf='106' />
+  <spring state='CO' lat='38.8360' lng='-106.825' name='CEMENT CREEK HOT SPRING' tempf='77' />
+  <spring state='CO' lat='39.0120' lng='-106.891' name='CONUNDRUM HOT SPRINGS' tempf='100' />
+  <spring state='CO' lat='38.8120' lng='-106.226' name='COTTONWOOD HOT SPRINGS' tempf='136' />
+  <spring state='CO' lat='37.2940' lng='-105.784' name='DEXTER SPRING' tempf='68' />
+  <spring state='CO' lat='39.6280' lng='-107.106' name='DOTSERO WARM SPRINGS' tempf='90' />
+  <spring state='CO' lat='37.7710' lng='-108.091' name='DUNTON HOT SPRING' tempf='108' />
+  <spring state='CO' lat='39.9320' lng='-105.277' name='ELDORADO SPRINGS' tempf='79' />
+  <spring state='CO' lat='37.7470' lng='-108.117' name='GEYSER WARM SPRING' tempf='82' />
+  <spring state='CO' lat='39.5480' lng='-107.322' name='GLENWOOD SPRINGS' tempf='124' />
+  <spring state='CO' lat='39.0170' lng='-105.793' name='HARTSEL HOT SPRINGS' tempf='126' />
+  <spring state='CO' lat='38.7320' lng='-106.178' name='HORTENSE HOT SPRING' tempf='181' />
+  <spring state='CO' lat='40.0730' lng='-106.113' name='HOT SULPHUR SPRINGS' tempf='111' />
+  <spring state='CO' lat='39.7390' lng='-105.512' name='IDAHO SPRINGS' tempf='115' />
+  <spring state='CO' lat='40.4670' lng='-107.952' name='JUNIPER HOT SPRINGS' tempf='100' />
+  <spring state='CO' lat='38.0140' lng='-108.054' name='LEMON HOT SPRING' tempf='91' />
+  <spring state='CO' lat='38.5170' lng='-106.515' name='LOWER WAUNITA HOT SPRINGS' tempf='167' />
+  <spring state='CO' lat='38.1680' lng='-105.924' name='MINERAL HOT SPRINGS' tempf='140' />
+  <spring state='CO' lat='38.7330' lng='-106.162' name='MOUNT PRINCETON HOT SPRINGS' tempf='133' />
+  <spring state='CO' lat='38.1330' lng='-107.736' name='ORVIS HOT SPRING' tempf='126' />
+  <spring state='CO' lat='38.0210' lng='-107.672' name='OURAY HOT SPRINGS' tempf='156' />
+  <spring state='CO' lat='37.2630' lng='-107.011' name='PAGOSA SPRINGS' tempf='136' />
+  <spring state='CO' lat='37.7520' lng='-108.131' name='PARADISE WARM SPRING' tempf='115' />
+  <spring state='CO' lat='39.2270' lng='-107.224' name='PENNY HOT SPRINGS' tempf='133' />
+  <spring state='CO' lat='37.3130' lng='-107.344' name='PIEDRA RIVER HOT SPRINGS' tempf='108' />
+  <spring state='CO' lat='37.4530' lng='-107.803' name='PINKERTON HOT SPRINGS' tempf='90' />
+  <spring state='CO' lat='38.4980' lng='-106.076' name='PONCHA HOT SPRINGS' tempf='160' />
+  <spring state='CO' lat='37.5110' lng='-106.945' name='RAINBOW HOT SPRINGS' tempf='104' />
+  <spring state='CO' lat='38.8160' lng='-106.873' name='RANGER HOT SPRING' tempf='81' />
+  <spring state='CO' lat='39.1640' lng='-106.062' name='RHODES WARM SPRING' tempf='75' />
+  <spring state='CO' lat='40.5590' lng='-106.849' name='ROUTT HOT SPRINGS' tempf='147' />
+  <spring state='CO' lat='37.7510' lng='-106.317' name='SHAW SPRINGS' tempf='86' />
+  <spring state='CO' lat='39.5520' lng='-107.412' name='SOUTH CANYON HOT SPRINGS' tempf='118' />
+  <spring state='CO' lat='40.4830' lng='-106.827' name='STEAMBOAT SPRINGS' tempf='102' />
+  <spring state='CO' lat='37.0330' lng='-106.805' name='STINKING SPRINGS' tempf='81' />
+  <spring state='CO' lat='38.4790' lng='-105.891' name='SWISSVALE WARM SPRINGS' tempf='82' />
+  <spring state='CO' lat='37.3910' lng='-107.846' name='TRIMBLE HOT SPR, STRATTEN WARM SPR' tempf='97' />
+  <spring state='CO' lat='37.4000' lng='-107.849' name='TRIPP HOT SPRINGS' tempf='111' />
+  <spring state='CO' lat='38.5140' lng='-106.508' name='UPPER WAUNITA HOT SPRINGS' tempf='176' />
+  <spring state='CO' lat='38.1920' lng='-105.816' name='VALLEY VIEW HOT SPRINGS' tempf='99' />
+  <spring state='CO' lat='37.7470' lng='-106.831' name='WAGON WHEEL GAP HOT SPRINGS' tempf='135' />
+  <spring state='CO' lat='38.4850' lng='-105.910' name='WELLSVILLE WARM SPRING' tempf='91' />
+  <spring state='FL' lat='27.0740' lng='-82.2330' name='LITTLE SALT SPRING' tempf='81' />
+  <spring state='FL' lat='27.0600' lng='-82.2610' name='WARM MINERAL SPRINGS (BIG SALT SPR)' tempf='86' />
+  <spring state='GA' lat='32.9200' lng='-84.4380' name='BARKER SPRING' tempf='73' />
+  <spring state='GA' lat='33.0370' lng='-84.3740' name='LIFSEY SPRING' tempf='79' />
+  <spring state='GA' lat='32.8620' lng='-84.6500' name='PARKMAN SPRING' tempf='77' />
+  <spring state='GA' lat='33.0180' lng='-84.3270' name='TAYLOR SPRING' tempf='75' />
+  <spring state='GA' lat='32.9640' lng='-84.4990' name='THUNDERING SPRING' tempf='75' />
+  <spring state='GA' lat='32.8730' lng='-84.5470' name='TOM BROWN SPRING' tempf='68' />
+  <spring state='GA' lat='32.8930' lng='-84.6900' name='WARM SPRINGS' tempf='88' />
+  <spring state='HI' lat='19.5930' lng='-154.928' name='AKINS SPRING' tempf='84' />
+  <spring state='HI' lat='19.4600' lng='-154.847' name='ISAAC HALE PARK SPRING' tempf='97' />
+  <spring state='HI' lat='19.4660' lng='-154.943' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.4210' lng='-155.620' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.3900' lng='-155.311' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.3730' lng='-155.188' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.4070' lng='-155.277' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.4340' lng='-155.272' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.4860' lng='-155.598' name='STEAM VENTS' tempf='H' />
+  <spring state='HI' lat='19.2010' lng='-155.384' name='WAIWELAWELA POINT SPRING' tempf='90' />
+  <spring state='HI' lat='19.4960' lng='-154.876' name='WARM VAPOR' tempf='W' />
+  <spring state='ID' lat='43.0380' lng='-112.004' name='ALKALI FLATS WARM SPRING' tempf='93' />
+  <spring state='ID' lat='43.2270' lng='-111.109' name='ALPINE WARM SPRING' tempf='99' />
+  <spring state='ID' lat='44.6400' lng='-116.045' name='ARLING HOT SPRING' tempf='90' />
+  <spring state='ID' lat='42.4050' lng='-114.142' name='ARTESIAN CITY HOT SPRINGS' tempf='99' />
+  <spring state='ID' lat='44.0910' lng='-111.458' name='ASHTON WARM SPRING' tempf='79' />
+  <spring state='ID' lat='43.8110' lng='-115.116' name='ATLANTA HOT SPRINGS' tempf='140' />
+  <spring state='ID' lat='44.6210' lng='-115.985' name='BADLEY WARM SPRING' tempf='100' />
+  <spring state='ID' lat='42.6880' lng='-114.826' name='BANBURY HOT SPRING' tempf='138' />
+  <spring state='ID' lat='44.2690' lng='-113.449' name='BARNEY HOT SPRINGS' tempf='82' />
+  <spring state='ID' lat='43.2930' lng='-114.908' name='BARRONS HOT SPRING' tempf='167' />
+  <spring state='ID' lat='45.5120' lng='-115.046' name='BARTH HOT SPRINGS' tempf='140' />
+  <spring state='ID' lat='44.2640' lng='-114.818' name='BASIN CREEK HOT SPRING' tempf='133' />
+  <spring state='ID' lat='43.7180' lng='-115.563' name='BASSET HOT SPRING' tempf='H' />
+  <spring state='ID' lat='42.7970' lng='-115.723' name='BAT HOT SPRING, PENCE HOT SPRING' tempf='117' />
+  <spring state='ID' lat='42.1330' lng='-111.928' name='BATTLE CREEK HOT SPRINGS' tempf='183' />
+  <spring state='ID' lat='43.6030' lng='-115.070' name='BAUMGARTNER HOT SPRING' tempf='111' />
+  <spring state='ID' lat='42.1150' lng='-111.264' name='BEAR LAKE HOT SPRINGS' tempf='118' />
+  <spring state='ID' lat='44.4450' lng='-115.239' name='BEAR VALLEY HOT SPRING' tempf='W' />
+  <spring state='ID' lat='44.5230' lng='-114.173' name='BEARDSLEY HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='44.4650' lng='-116.037' name='BELVIDERE HOT SPRING' tempf='111' />
+  <spring state='ID' lat='45.3070' lng='-114.338' name='BIG CREEK HOT SPRINGS' tempf='199' />
+  <spring state='ID' lat='44.6400' lng='-113.504' name='BIG EIGHTMILE CREEK WARM SPRING' tempf='91' />
+  <spring state='ID' lat='43.7010' lng='-114.738' name='BIG SMOKEY HOT SPRING' tempf='H' />
+  <spring state='ID' lat='44.4540' lng='-112.696' name='BIG SPRING' tempf='73' />
+  <spring state='ID' lat='44.7700' lng='-115.663' name='BILLY HOT SPRING' tempf='H' />
+  <spring state='ID' lat='42.9280' lng='-111.592' name='BLACKFOOT RESERVOIR WARM SPRING' tempf='72' />
+  <spring state='ID' lat='42.9860' lng='-111.743' name='BLACKFOOT RIVER WARM SPRING' tempf='79' />
+  <spring state='ID' lat='42.1070' lng='-113.390' name='BLM WELL (FRAZIER HOT SPRING)' tempf='203' />
+  <spring state='ID' lat='44.3640' lng='-115.856' name='BOILING SPRINGS' tempf='185' />
+  <spring state='ID' lat='44.1570' lng='-115.314' name='BONNEVILLE HOT SPRINGS' tempf='185' />
+  <spring state='ID' lat='45.2010' lng='-116.312' name='BOULDER CREEK SPRING' tempf='82' />
+  <spring state='ID' lat='43.5400' lng='-115.288' name='BRIDGE HOT SPRINGS' tempf='138' />
+  <spring state='ID' lat='43.2100' lng='-111.495' name='BROCKMAN CREEK HOT SPRING' tempf='95' />
+  <spring state='ID' lat='43.7790' lng='-115.486' name='BROWN CREEK HOT SPRING' tempf='122' />
+  <spring state='ID' lat='42.7980' lng='-115.742' name='BRUNEAU HOT SPRING' tempf='106' />
+  <spring state='ID' lat='42.7790' lng='-115.715' name='BUCKAROO HOT SPRING' tempf='109' />
+  <spring state='ID' lat='44.4300' lng='-115.762' name='BULL CREEK HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='45.2770' lng='-115.912' name='BURGDORF HOT SPRINGS' tempf='113' />
+  <spring state='ID' lat='44.4160' lng='-116.031' name='CABARTON HOT SPRING' tempf='160' />
+  <spring state='ID' lat='44.3980' lng='-115.149' name='CAPE HORN WARM SPRINGS' tempf='95' />
+  <spring state='ID' lat='44.5830' lng='-116.112' name='CASCADE RESERVOIR HOT SPRING' tempf='H' />
+  <spring state='ID' lat='43.5610' lng='-114.415' name='CLARENDON HOT SPRINGS' tempf='126' />
+  <spring state='ID' lat='42.3330' lng='-111.716' name='CLEVELAND HOT SPRINGS' tempf='151' />
+  <spring state='ID' lat='46.4660' lng='-114.939' name='COLGATE WARM SPRINGS' tempf='106' />
+  <spring state='ID' lat='43.3270' lng='-113.918' name='CONDIE HOT SPRINGS' tempf='124' />
+  <spring state='ID' lat='44.0450' lng='-115.842' name='CORDER HOT SPRING' tempf='131' />
+  <spring state='ID' lat='44.6690' lng='-116.305' name='COUNCIL MTN HOT SPRINGS' tempf='154' />
+  <spring state='ID' lat='44.2110' lng='-116.710' name='COVE CREEK HOT SPRING' tempf='131' />
+  <spring state='ID' lat='45.4310' lng='-116.015' name='COW FLATS HOT SPRING' tempf='138' />
+  <spring state='ID' lat='44.7850' lng='-114.855' name='COX HOT SPRINGS' tempf='131' />
+  <spring state='ID' lat='43.1290' lng='-115.340' name='COYOTE HOT SPRING' tempf='135' />
+  <spring state='ID' lat='44.3060' lng='-116.745' name='CRANE CREEK HOT SPRINGS' tempf='198' />
+  <spring state='ID' lat='44.7200' lng='-114.016' name='CRONKS CANYON HOT SPRING' tempf='115' />
+  <spring state='ID' lat='44.5160' lng='-115.295' name='DAGGER CREEK HOT SPRING' tempf='110' />
+  <spring state='ID' lat='44.0510' lng='-115.829' name='DAN HODGES HOT SPRING' tempf='140' />
+  <spring state='ID' lat='44.0600' lng='-115.819' name='DANSKIN CREEK HOT SPRING' tempf='106' />
+  <spring state='ID' lat='44.3820' lng='-115.841' name='DASH CREEK HOT SPRINGS' tempf='138' />
+  <spring state='ID' lat='44.0920' lng='-116.052' name='DEER HOT SPRINGS' tempf='176' />
+  <spring state='ID' lat='44.7170' lng='-115.703' name='DOLLAR CREEK WARM SPRING' tempf='68' />
+  <spring state='ID' lat='44.0440' lng='-115.851' name='DONLAY RANCH HOT SPRING' tempf='131' />
+  <spring state='ID' lat='42.3880' lng='-112.085' name='DOWNATA HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='42.1020' lng='-113.632' name='DURFEE SPRING' tempf='102' />
+  <spring state='ID' lat='43.7890' lng='-115.434' name='DUTCH FRANK HOT SPRING' tempf='149' />
+  <spring state='ID' lat='43.7790' lng='-114.539' name='EASLEY HOT SPRINGS' tempf='100' />
+  <spring state='ID' lat='43.4230' lng='-114.627' name='ELK CREEK HOT SPRING' tempf='126' />
+  <spring state='ID' lat='44.2450' lng='-114.885' name='ELKHORN HOT SPRING' tempf='136' />
+  <spring state='ID' lat='43.6600' lng='-111.715' name='ELKHORN WARM SPRING' tempf='72' />
+  <spring state='ID' lat='44.5310' lng='-116.754' name='FAIRCHILD HOT SPRING' tempf='126' />
+  <spring state='ID' lat='43.4230' lng='-111.414' name='FALL CREEK MINERAL SPRINGS' tempf='77' />
+  <spring state='ID' lat='44.8960' lng='-114.563' name='FORGE CREEK HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='44.6610' lng='-114.652' name='FOSTER RANCH HOT SPRINGS' tempf='135' />
+  <spring state='ID' lat='43.4140' lng='-116.707' name='GIVENS HOT SPRINGS' tempf='117' />
+  <spring state='ID' lat='44.4000' lng='-115.820' name='GOAT HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='44.6760' lng='-115.943' name='GOLD FORK HOT SPRING' tempf='127' />
+  <spring state='ID' lat='44.9050' lng='-113.929' name='GOLDBUG HOT SPRING' tempf='113' />
+  <spring state='ID' lat='44.1600' lng='-115.167' name='GRANDJEAN HOT SPRING' tempf='H' />
+  <spring state='ID' lat='43.8030' lng='-115.401' name='GRANITE CREEK HOT SPRING' tempf='131' />
+  <spring state='ID' lat='42.0850' lng='-113.564' name='GRAPE CREEK WARM SPRING' tempf='72' />
+  <spring state='ID' lat='44.3920' lng='-115.834' name='GROUND HOG HOT SPRINGS' tempf='100' />
+  <spring state='ID' lat='43.6840' lng='-114.410' name='GUYER HOT SPRINGS' tempf='158' />
+  <spring state='ID' lat='43.5060' lng='-114.354' name='HAILEY HOT SPRINGS' tempf='131' />
+  <spring state='ID' lat='44.0770' lng='-115.553' name='HAVEN LODGE HOT SPRING' tempf='147' />
+  <spring state='ID' lat='43.6440' lng='-111.687' name='HEISE HOT SPRINGS' tempf='120' />
+  <spring state='ID' lat='42.9110' lng='-111.556' name='HENRY WARM SPRING' tempf='86' />
+  <spring state='ID' lat='43.8310' lng='-116.396' name='HIGHLAND LAND CO WARM SPRING' tempf='73' />
+  <spring state='ID' lat='44.8470' lng='-115.696' name='HOLDOVER HOT SPRING' tempf='117' />
+  <spring state='ID' lat='45.5030' lng='-114.463' name='HORSE CREEK HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='44.8360' lng='-114.790' name='HOSPITAL HOT SPRING' tempf='115' />
+  <spring state='ID' lat='44.9000' lng='-115.505' name='HOT CREEK WARM SPRING' tempf='97' />
+  <spring state='ID' lat='44.0540' lng='-115.907' name='HOT SPRING CAMPGROUND' tempf='124' />
+  <spring state='ID' lat='43.1550' lng='-115.518' name='HOT SPRINGS' tempf='158' />
+  <spring state='ID' lat='42.6920' lng='-114.859' name='HOT SULPHUR (MIRACLE HOT) SPRINGS' tempf='131' />
+  <spring state='ID' lat='43.0470' lng='-114.929' name='HOT SULPHUR LAKE' tempf='81' />
+  <spring state='ID' lat='42.7620' lng='-115.739' name='INDIAN BATHTUB HOT SPRINGS' tempf='99' />
+  <spring state='ID' lat='44.7990' lng='-115.129' name='INDIAN CREEK HOT SPRING' tempf='190' />
+  <spring state='ID' lat='42.3330' lng='-115.650' name='INDIAN HOT SPRINGS' tempf='160' />
+  <spring state='ID' lat='42.7250' lng='-112.872' name='INDIAN SPRINGS' tempf='90' />
+  <spring state='ID' lat='46.4630' lng='-114.872' name='JERRY JOHNSON HOT SPRINGS' tempf='118' />
+  <spring state='ID' lat='44.4950' lng='-116.732' name='KEITHLY WARM SPRING' tempf='86' />
+  <spring state='ID' lat='42.3390' lng='-112.436' name='KENT WARM SPRING' tempf='75' />
+  <spring state='ID' lat='44.0720' lng='-115.543' name='KIRKHAM HOT SPRINGS' tempf='149' />
+  <spring state='ID' lat='44.9710' lng='-116.203' name='KRIGBAUM HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='44.8310' lng='-115.215' name='KWISKWIS HOT SPRING' tempf='156' />
+  <spring state='ID' lat='42.6250' lng='-113.107' name='LAKE WALCOTT HOT SPRING' tempf='70' />
+  <spring state='ID' lat='44.5860' lng='-116.630' name='LAKEY HOT SPRING' tempf='158' />
+  <spring state='ID' lat='43.1160' lng='-115.305' name='LATTY HOT SPRING' tempf='144' />
+  <spring state='ID' lat='42.6210' lng='-112.008' name='LAVA HOT SPRINGS' tempf='113' />
+  <spring state='ID' lat='43.8170' lng='-115.046' name='LEGGIT CREEK HOT SPRING' tempf='H' />
+  <spring state='ID' lat='45.0700' lng='-115.826' name='LICK CREEK WARM SPRING' tempf='91' />
+  <spring state='ID' lat='44.1450' lng='-112.554' name='LIDY HOT SPRINGS' tempf='124' />
+  <spring state='ID' lat='43.6050' lng='-114.948' name='LIGHTFOOT HOT SPRINGS' tempf='133' />
+  <spring state='ID' lat='44.3820' lng='-114.088' name='LITTLE ANTELOPE FLAT WARM SPRING' tempf='93' />
+  <spring state='ID' lat='43.7240' lng='-115.604' name='LOFTUS HOT SPRING' tempf='129' />
+  <spring state='ID' lat='42.8650' lng='-116.368' name='LOWER BIRCH SPRING' tempf='77' />
+  <spring state='ID' lat='43.9740' lng='-114.499' name='LOWER BOWERY HOT SPRING' tempf='129' />
+  <spring state='ID' lat='42.7670' lng='-115.725' name='LOWER INDIAN BATHTUB HOT SPRINGS' tempf='108' />
+  <spring state='ID' lat='44.7990' lng='-114.806' name='LOWER LOON CREEK HOT SPRING' tempf='120' />
+  <spring state='ID' lat='42.0130' lng='-114.504' name='MAGIC HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='43.3280' lng='-114.399' name='MAGIC HOT SPRINGS' tempf='163' />
+  <spring state='ID' lat='42.1730' lng='-112.239' name='MALAD WARM SPRING' tempf='77' />
+  <spring state='ID' lat='42.3080' lng='-111.707' name='MAPLE GROVE HOT SPRINGS' tempf='172' />
+  <spring state='ID' lat='42.4470' lng='-113.523' name='MARSH CREEK HOT SPRING' tempf='104' />
+  <spring state='ID' lat='42.4490' lng='-113.511' name='MARSH GULLY HOT SPRINGS' tempf='106' />
+  <spring state='ID' lat='46.0060' lng='-115.021' name='MARTEN HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='44.8130' lng='-115.123' name='MIDDLE FORK INDIAN CREEK HOT SPRING' tempf='162' />
+  <spring state='ID' lat='43.3630' lng='-113.779' name='MILFORD SWEAT HOT SPRING' tempf='111' />
+  <spring state='ID' lat='44.6420' lng='-115.693' name='MOLLYS HOT SPRING' tempf='138' />
+  <spring state='ID' lat='43.5880' lng='-115.988' name='MORES CREEK HOT SPRING' tempf='H' />
+  <spring state='ID' lat='44.2600' lng='-114.838' name='MORMON BEND HOT SPRING' tempf='100' />
+  <spring state='ID' lat='44.9510' lng='-114.704' name='MORMON RANCH WARM SPRING' tempf='H' />
+  <spring state='ID' lat='43.2550' lng='-114.829' name='MORMON RESERVOIR WARM SPRING' tempf='W' />
+  <spring state='ID' lat='42.3740' lng='-111.726' name='MOUND VALLEY WARM SPRING' tempf='W' />
+  <spring state='ID' lat='42.0320' lng='-115.363' name='MURPHY HOT SPRINGS' tempf='126' />
+  <spring state='ID' lat='42.3370' lng='-114.509' name='NAT-SOO-PAH WARM SPRING' tempf='97' />
+  <spring state='ID' lat='43.7550' lng='-115.571' name='NINEMEYER HOT SPRINGS' tempf='169' />
+  <spring state='ID' lat='42.1730' lng='-113.861' name='OAKLEY HOT SPRING' tempf='118' />
+  <spring state='ID' lat='44.3540' lng='-117.071' name='OLD HOMESTEAD WARM SPRING' tempf='W' />
+  <spring state='ID' lat='44.6520' lng='-114.734' name='OWEN CABIN HOT SPRING' tempf='133' />
+  <spring state='ID' lat='45.3440' lng='-114.463' name='OWL CREEK HOT SPRINGS' tempf='122' />
+  <spring state='ID' lat='43.5530' lng='-115.267' name='PARADISE HOT SPRINGS' tempf='126' />
+  <spring state='ID' lat='42.4260' lng='-111.378' name='PESCADERO WARM SPRING' tempf='79' />
+  <spring state='ID' lat='43.9900' lng='-114.800' name='PIERSON HOT SPRINGS' tempf='109' />
+  <spring state='ID' lat='43.7910' lng='-111.435' name='PINCOCK (GREEN CANYON) HOT SPRINGS' tempf='111' />
+  <spring state='ID' lat='44.0620' lng='-115.685' name='PINE FLAT HOT SPRINGS' tempf='138' />
+  <spring state='ID' lat='44.7210' lng='-115.207' name='PISTOL CREEK HOT SPRINGS' tempf='115' />
+  <spring state='ID' lat='42.1560' lng='-112.348' name='PLEASANTVIEW WARM SPRINGS' tempf='77' />
+  <spring state='ID' lat='42.6370' lng='-114.892' name='POISON SPRINGS' tempf='H' />
+  <spring state='ID' lat='43.7600' lng='-115.560' name='POOL CREEK HOT SPRING' tempf='108' />
+  <spring state='ID' lat='42.7810' lng='-111.983' name='PORTNEUF RIVER WARM SPRING' tempf='93' />
+  <spring state='ID' lat='43.5760' lng='-114.830' name='PREIS HOT SPRING' tempf='106' />
+  <spring state='ID' lat='42.0250' lng='-112.226' name='PRICES WARM SPRING' tempf='77' />
+  <spring state='ID' lat='46.2350' lng='-114.707' name='PROSPECTOR HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='43.8310' lng='-115.192' name='QUEENS RIVER HOT SPRING' tempf='H' />
+  <spring state='ID' lat='43.6050' lng='-115.664' name='RATTLESNAKE HOT SPRING' tempf='133' />
+  <spring state='ID' lat='45.7880' lng='-115.198' name='RED RIVER HOT SPRINGS' tempf='131' />
+  <spring state='ID' lat='42.2860' lng='-113.446' name='RICE SPRING, WARD SPRING' tempf='72' />
+  <spring state='ID' lat='45.4160' lng='-116.172' name='RIGGINS HOT SPRINGS' tempf='106' />
+  <spring state='ID' lat='44.2470' lng='-114.676' name='ROBINSON BAR HOT SPRINGS' tempf='131' />
+  <spring state='ID' lat='42.5450' lng='-112.906' name='ROCKLAND WARM SPRINGS' tempf='100' />
+  <spring state='ID' lat='44.2530' lng='-115.891' name='ROCKY CANYON HOT SPRINGS' tempf='120' />
+  <spring state='ID' lat='44.1010' lng='-114.865' name='ROSALYS WARM SPRING' tempf='106' />
+  <spring state='ID' lat='43.9510' lng='-116.353' name='ROYSTONE HOT SPRINGS' tempf='151' />
+  <spring state='ID' lat='45.8520' lng='-114.937' name='RUNNING WARM SPRINGS' tempf='106' />
+  <spring state='ID' lat='43.3670' lng='-113.884' name='RUSH WARM SPRING' tempf='72' />
+  <spring state='ID' lat='43.8050' lng='-114.585' name='RUSSIAN JOHN HOT SPRING' tempf='100' />
+  <spring state='ID' lat='44.1600' lng='-115.177' name='SACAJAWEA HOT SPRINGS' tempf='153' />
+  <spring state='ID' lat='42.7040' lng='-114.856' name='SALMON FALLS HOT SPRING' tempf='153' />
+  <spring state='ID' lat='45.0950' lng='-113.836' name='SALMON HOT SPRING' tempf='113' />
+  <spring state='ID' lat='42.2400' lng='-113.588' name='SEARS SPRING' tempf='84' />
+  <spring state='ID' lat='45.1700' lng='-115.807' name='SECESH HOT SPRING' tempf='H' />
+  <spring state='ID' lat='45.0130' lng='-113.605' name='SHARKEY HOT SPRING' tempf='126' />
+  <spring state='ID' lat='43.6960' lng='-115.658' name='SHEEP CREEK BRIDGE HOT SPRING' tempf='142' />
+  <spring state='ID' lat='45.0350' lng='-115.561' name='SHEEP CREEK HOT SPRING' tempf='136' />
+  <spring state='ID' lat='44.6280' lng='-115.197' name='SHEEPEATER HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='44.6280' lng='-114.601' name='SHOWER BATH SPRINGS' tempf='122' />
+  <spring state='ID' lat='44.3300' lng='-115.802' name='SILVER CREEK HOT SPRING' tempf='102' />
+  <spring state='ID' lat='43.6470' lng='-114.816' name='SKILLERN HOT SPRINGS' tempf='140' />
+  <spring state='ID' lat='44.1710' lng='-114.624' name='SLATE CREEK HOT SPRING' tempf='122' />
+  <spring state='ID' lat='43.7200' lng='-115.617' name='SMITH CABIN HOT SPRING' tempf='138' />
+  <spring state='ID' lat='45.0420' lng='-114.616' name='SNOWSHOE JOHNSONS HOT SPRING' tempf='108' />
+  <spring state='ID' lat='42.6570' lng='-111.604' name='SODA SPRINGS' tempf='82' />
+  <spring state='ID' lat='44.6320' lng='-115.697' name='SOUTH FORK PLUNGE' tempf='129' />
+  <spring state='ID' lat='42.1190' lng='-111.928' name='SQUAW HOT SPRINGS' tempf='163' />
+  <spring state='ID' lat='44.2240' lng='-114.929' name='STANLEY HOT SPRING' tempf='106' />
+  <spring state='ID' lat='46.3160' lng='-115.258' name='STANLEY HOT SPRINGS' tempf='120' />
+  <spring state='ID' lat='44.8530' lng='-116.442' name='STARKEY HOT SPRINGS' tempf='131' />
+  <spring state='ID' lat='42.6550' lng='-111.643' name='STEAMBOAT HOT SPRING' tempf='88' />
+  <spring state='ID' lat='45.1520' lng='-116.296' name='STINKY WARM SPRING' tempf='88' />
+  <spring state='ID' lat='43.7880' lng='-115.444' name='STRAIGHT CREEK HOT SPRING' tempf='144' />
+  <spring state='ID' lat='46.1380' lng='-115.090' name='STUART HOT SPRINGS' tempf='H' />
+  <spring state='ID' lat='44.2540' lng='-114.443' name='SULLIVAN HOT SPRINGS' tempf='106' />
+  <spring state='ID' lat='44.5850' lng='-115.072' name='SULPHUR CREEK HOT SPRING' tempf='H' />
+  <spring state='ID' lat='44.5540' lng='-115.301' name='SULPHUR CREEK HOT SPRING' tempf='H' />
+  <spring state='ID' lat='44.2680' lng='-114.748' name='SUNBEAM HOT SPRINGS' tempf='169' />
+  <spring state='ID' lat='44.7330' lng='-115.018' name='SUNFLOWER FLAT HOT SPRING' tempf='109' />
+  <spring state='ID' lat='44.7300' lng='-114.993' name='SUNFLOWER HOT SPRINGS' tempf='149' />
+  <spring state='ID' lat='43.9720' lng='-116.325' name='SWEET WARM SPRING' tempf='68' />
+  <spring state='ID' lat='42.9570' lng='-112.458' name='TADPOLE WARM SPRING' tempf='68' />
+  <spring state='ID' lat='43.6070' lng='-111.189' name='TAYLOR SPRINGS' tempf='68' />
+  <spring state='ID' lat='44.9140' lng='-115.722' name='TEAPOT HOT SPRING' tempf='142' />
+  <spring state='ID' lat='43.6770' lng='-116.208' name='TERTELING HOT SPRINGS' tempf='106' />
+  <spring state='ID' lat='44.7210' lng='-115.010' name='THOMAS CREEK RANCH HOT SPRING' tempf='138' />
+  <spring state='ID' lat='43.1610' lng='-116.332' name='THOMAS FLATS WARM SPRING' tempf='75' />
+  <spring state='ID' lat='42.0150' lng='-114.237' name='THOROUGHBRED WARM SPRINGS' tempf='69' />
+  <spring state='ID' lat='43.5000' lng='-115.308' name='TOWNE CREEK WARM SPRING' tempf='75' />
+  <spring state='ID' lat='44.6260' lng='-115.749' name='TRAIL CREEK HOT SPRING' tempf='122' />
+  <spring state='ID' lat='42.3370' lng='-111.726' name='TREASURETON HOT SPRINGS' tempf='95' />
+  <spring state='ID' lat='43.0380' lng='-114.988' name='TSCHANNE HOT SPRING' tempf='109' />
+  <spring state='ID' lat='43.6710' lng='-115.696' name='TWIN SPRINGS' tempf='151' />
+  <spring state='ID' lat='44.6450' lng='-114.739' name='UPPER LOON CREEK HOT SPRINGS' tempf='145' />
+  <spring state='ID' lat='43.7380' lng='-115.583' name='VAUGHN HOT SPRING' tempf='154' />
+  <spring state='ID' lat='44.5680' lng='-115.695' name='VULCAN HOT SPRINGS' tempf='190' />
+  <spring state='ID' lat='43.3830' lng='-114.931' name='WARDROP HOT SPRING' tempf='147' />
+  <spring state='ID' lat='43.6410' lng='-114.487' name='WARFIELD HOT SPRING' tempf='124' />
+  <spring state='ID' lat='44.6390' lng='-115.671' name='WARM LAKE SPRINGS' tempf='W' />
+  <spring state='ID' lat='43.8160' lng='-115.863' name='WARM SPRINGS' tempf='108' />
+  <spring state='ID' lat='44.2570' lng='-112.639' name='WARM SPRINGS' tempf='84' />
+  <spring state='ID' lat='44.1540' lng='-115.993' name='WARM SPRINGS CREEK HOT SPRINGS' tempf='167' />
+  <spring state='ID' lat='43.8230' lng='-115.327' name='WEATHERBY HOT SPRING' tempf='113' />
+  <spring state='ID' lat='46.4640' lng='-115.035' name='WEIR CREEK HOT SPRINGS' tempf='117' />
+  <spring state='ID' lat='44.3060' lng='-117.042' name='WEISER WARM SPRINGS' tempf='72' />
+  <spring state='ID' lat='43.9820' lng='-114.486' name='WEST PASS HOT SPRING' tempf='124' />
+  <spring state='ID' lat='43.0490' lng='-114.952' name='WHITE ARROW HOT SPRING' tempf='145' />
+  <spring state='ID' lat='44.6790' lng='-116.231' name='WHITE LICKS HOT SPRING' tempf='140' />
+  <spring state='ID' lat='44.6120' lng='-113.363' name='WHITTAKER WARM SPRINGS' tempf='75' />
+  <spring state='ID' lat='43.6370' lng='-115.130' name='WILLOW CREEK HOT SPRING' tempf='131' />
+  <spring state='ID' lat='43.0210' lng='-111.695' name='WILSON LAKE WARM SPRING' tempf='86' />
+  <spring state='ID' lat='43.3350' lng='-115.044' name='WOLF HOT SPRING' tempf='113' />
+  <spring state='ID' lat='42.0560' lng='-112.246' name='WOODRUFF HOT SPRING' tempf='81' />
+  <spring state='ID' lat='43.5630' lng='-114.798' name='WORSWICK HOT SPRINGS' tempf='180' />
+  <spring state='ID' lat='43.1140' lng='-112.167' name='YANDELL SPRINGS' tempf='90' />
+  <spring state='ID' lat='45.0390' lng='-116.291' name='ZIMS RESORT HOT SPRINGS' tempf='144' />
+  <spring state='MA' lat='42.7350' lng='-73.2000' name='SAND SPRING' tempf='75' />
+  <spring state='MT' lat='46.4480' lng='-111.982' name='ALHAMBRA HOT SPRINGS' tempf='138' />
+  <spring state='MT' lat='46.1060' lng='-112.903' name='ANACONDA HOT SPRINGS' tempf='72' />
+  <spring state='MT' lat='45.5530' lng='-110.142' name='ANDERSON SPRINGS' tempf='77' />
+  <spring state='MT' lat='44.7040' lng='-111.892' name='ANDERSONS PASTURE SPRINGS' tempf='82' />
+  <spring state='MT' lat='45.4200' lng='-112.692' name='APEX WARM SPRING' tempf='77' />
+  <spring state='MT' lat='46.6100' lng='-112.555' name='AVON WARM SPRING' tempf='79' />
+  <spring state='MT' lat='45.0320' lng='-110.667' name='BEAR CREEK SPRINGS' tempf='72' />
+  <spring state='MT' lat='46.7170' lng='-113.320' name='BEARMOUTH WARM SPRING 1' tempf='68' />
+  <spring state='MT' lat='46.7180' lng='-113.306' name='BEARMOUTH WARM SPRING 2' tempf='68' />
+  <spring state='MT' lat='45.3920' lng='-112.452' name='BEAVERHEAD ROCK SPRING' tempf='81' />
+  <spring state='MT' lat='46.3550' lng='-111.565' name='BEDFORD HOT SPRINGS' tempf='74' />
+  <spring state='MT' lat='45.6980' lng='-114.382' name='BLUE JOINT HOT SPRING 1' tempf='84' />
+  <spring state='MT' lat='45.6970' lng='-114.365' name='BLUE JOINT HOT SPRINGS 2' tempf='84' />
+  <spring state='MT' lat='46.1980' lng='-112.094' name='BOULDER HOT SPRINGS' tempf='169' />
+  <spring state='MT' lat='45.6600' lng='-111.186' name='BOZEMAN HOT SPRINGS' tempf='131' />
+  <spring state='MT' lat='45.7080' lng='-110.976' name='BRIDGER CANYON WARM SPRING' tempf='70' />
+  <spring state='MT' lat='46.5960' lng='-112.108' name='BROADWATER (HELENA) HOT SPRINGS' tempf='151' />
+  <spring state='MT' lat='47.2170' lng='-109.471' name='BROOKS WARM SPRING' tempf='68' />
+  <spring state='MT' lat='45.1050' lng='-112.751' name='BROWNS SPRINGS' tempf='75' />
+  <spring state='MT' lat='47.6070' lng='-114.663' name='CAMAS HOT SPRINGS' tempf='113' />
+  <spring state='MT' lat='45.6080' lng='-110.571' name='CARTER BRIDGE WARM SPRINGS' tempf='82' />
+  <spring state='MT' lat='45.3370' lng='-110.691' name='CHICO HOT SPRINGS' tempf='113' />
+  <spring state='MT' lat='46.3340' lng='-112.886' name='DEERLODGE PRISON RANCH SPRINGS' tempf='79' />
+  <spring state='MT' lat='46.7950' lng='-108.883' name='DURFEE CREEK SPRINGS' tempf='70' />
+  <spring state='MT' lat='45.4580' lng='-113.109' name='ELKHORN HOT SPRINGS' tempf='118' />
+  <spring state='MT' lat='45.3670' lng='-111.726' name='ENNIS HOT SPRINGS' tempf='181' />
+  <spring state='MT' lat='45.7500' lng='-113.938' name='GALLOGLY SPRING' tempf='100' />
+  <spring state='MT' lat='46.6070' lng='-112.776' name='GARRISON WARM SPRINGS' tempf='77' />
+  <spring state='MT' lat='47.4510' lng='-114.648' name='GREEN SPRINGS' tempf='79' />
+  <spring state='MT' lat='46.0440' lng='-112.811' name='GREGSON HOT SPRINGS' tempf='158' />
+  <spring state='MT' lat='45.7570' lng='-110.256' name='HUNTERS HOT SPRINGS' tempf='140' />
+  <spring state='MT' lat='45.3680' lng='-113.403' name='JARDINE HOT SPRING' tempf='140' />
+  <spring state='MT' lat='45.0900' lng='-110.774' name='LADUKE (CORWIN) HOT SPRING' tempf='154' />
+  <spring state='MT' lat='47.8760' lng='-108.656' name='LANDUSKY SPRINGS' tempf='70' />
+  <spring state='MT' lat='47.9710' lng='-108.395' name='LITTLE WARM SPRINGS' tempf='73' />
+  <spring state='MT' lat='47.9940' lng='-108.445' name='LODGEPOLE (BIG WARM) SPRINGS' tempf='79' />
+  <spring state='MT' lat='46.7280' lng='-114.533' name='LOLO HOT SPRINGS, GRANITE SPRINGS' tempf='111' />
+  <spring state='MT' lat='45.1110' lng='-112.714' name='LOVELLS HOT SPRING' tempf='72' />
+  <spring state='MT' lat='45.0270' lng='-112.844' name='MCMENOMEY RANCH SPRING' tempf='68' />
+  <spring state='MT' lat='47.6320' lng='-112.855' name='MEDICINE (SUN RIVER) SPRINGS' tempf='86' />
+  <spring state='MT' lat='45.8410' lng='-114.038' name='MEDICINE HOT SPRINGS' tempf='117' />
+  <spring state='MT' lat='45.4620' lng='-112.475' name='NEW BILTMORE HOT SPRINGS' tempf='127' />
+  <spring state='MT' lat='46.7040' lng='-113.452' name='NIMROD SPRINGS' tempf='70' />
+  <spring state='MT' lat='45.5750' lng='-111.683' name='NORRIS HOT SPRINGS' tempf='127' />
+  <spring state='MT' lat='45.8960' lng='-112.233' name='PIPESTONE HOT SPRINGS' tempf='135' />
+  <spring state='MT' lat='45.5900' lng='-111.899' name='POTOSI HOT SPRINGS' tempf='122' />
+  <spring state='MT' lat='45.6020' lng='-111.900' name='POTOSI WARM SPRINGS' tempf='124' />
+  <spring state='MT' lat='45.1710' lng='-112.153' name='PULLER HOT SPRINGS' tempf='111' />
+  <spring state='MT' lat='47.3300' lng='-114.789' name='QUINNS HOT SPRINGS' tempf='109' />
+  <spring state='MT' lat='45.7920' lng='-112.126' name='RENOVA HOT SPRINGS' tempf='122' />
+  <spring state='MT' lat='45.6850' lng='-112.295' name='SILVER STAR HOT SPRINGS' tempf='163' />
+  <spring state='MT' lat='46.1060' lng='-114.004' name='SLEEPING CHILD HOT SPRINGS' tempf='122' />
+  <spring state='MT' lat='44.7690' lng='-111.649' name='SLOAN COW CAMP SPRING' tempf='86' />
+  <spring state='MT' lat='44.7010' lng='-111.878' name='STAUDENMEYER SPRINGS' tempf='82' />
+  <spring state='MT' lat='47.8430' lng='-108.598' name='THE (LANDUSKY) PLUNGE' tempf='77' />
+  <spring state='MT' lat='45.2350' lng='-112.135' name='TRUDAU WARM SPRINGS' tempf='73' />
+  <spring state='MT' lat='45.0370' lng='-111.953' name='VIGILANTE SPRING' tempf='75' />
+  <spring state='MT' lat='46.1780' lng='-112.794' name='WARM SPRINGS (STATE HOSPITAL)' tempf='172' />
+  <spring state='MT' lat='44.7850' lng='-111.649' name='WEST FORK SWIMMING HOLE' tempf='79' />
+  <spring state='MT' lat='46.5470' lng='-110.903' name='WHITE SULPHUR SPRINGS' tempf='136' />
+  <spring state='MT' lat='44.9840' lng='-111.613' name='WOLF CREEK HOT SPRINGS' tempf='154' />
+  <spring state='NC' lat='35.8970' lng='-82.8260' name='HOT SPRINGS' tempf='108' />
+  <spring state='NM' lat='33.8310' lng='-108.800' name='(UPPER) FRISCO HOT SPRING' tempf='98' />
+  <spring state='NM' lat='35.0600' lng='-107.133' name='ALAMOS SPRING' tempf='72' />
+  <spring state='NM' lat='32.8840' lng='-108.358' name='ALLEN SPRINGS' tempf='78' />
+  <spring state='NM' lat='32.6440' lng='-108.128' name='APACHE TEJO WARM SPRING' tempf='97' />
+  <spring state='NM' lat='33.8980' lng='-108.501' name='ARAGON SPRINGS' tempf='70' />
+  <spring state='NM' lat='32.8210' lng='-108.408' name='ASH SPRING' tempf='72' />
+  <spring state='NM' lat='34.9950' lng='-106.454' name='CLEAR WATER SPRING' tempf='69' />
+  <spring state='NM' lat='34.0490' lng='-106.939' name='COOK SPRING' tempf='70' />
+  <spring state='NM' lat='32.7950' lng='-107.276' name='DERRY WARM SPRINGS' tempf='92' />
+  <spring state='NM' lat='34.9030' lng='-107.085' name='EL OJO ESCONDIDO' tempf='73' />
+  <spring state='NM' lat='32.5540' lng='-107.994' name='FAYWOOD HOT SPRINGS' tempf='129' />
+  <spring state='NM' lat='33.7080' lng='-109.025' name='FRIEBORN CANYON SPRING' tempf='92' />
+  <spring state='NM' lat='33.1990' lng='-108.209' name='GILA HOT SPRINGS' tempf='151' />
+  <spring state='NM' lat='32.8300' lng='-109.047' name='GOAT CAMP SPRING' tempf='69' />
+  <spring state='NM' lat='33.2370' lng='-108.880' name='HOT SPRINGS' tempf='H' />
+  <spring state='NM' lat='32.4550' lng='-104.489' name='INDIAN BIG SPRING' tempf='79' />
+  <spring state='NM' lat='35.5920' lng='-106.753' name='INDIAN SPRINGS' tempf='123' />
+  <spring state='NM' lat='35.7720' lng='-106.690' name='JEMEZ SPRINGS' tempf='169' />
+  <spring state='NM' lat='32.5620' lng='-108.027' name='KENNECOTT WARM SPRINGS' tempf='W' />
+  <spring state='NM' lat='34.8330' lng='-107.091' name='LAGUNA PUEBLO SEEPS' tempf='82' />
+  <spring state='NM' lat='34.8540' lng='-107.088' name='LAGUNA PUEBLO SPRINGS' tempf='80' />
+  <spring state='NM' lat='33.1920' lng='-108.180' name='LYONS HUNTING LODGE HOT SPRINGS' tempf='126' />
+  <spring state='NM' lat='36.5080' lng='-105.722' name='MANBY HOT SPRINGS' tempf='100' />
+  <spring state='NM' lat='32.8430' lng='-108.512' name='MANGAS SPRINGS' tempf='81' />
+  <spring state='NM' lat='35.8200' lng='-106.627' name='MCCAULEY HOT SPRINGS' tempf='99' />
+  <spring state='NM' lat='32.7480' lng='-107.836' name='MIMBRES HOT SPRINGS' tempf='136' />
+  <spring state='NM' lat='35.6530' lng='-105.290' name='MONTEZUMA HOT SPRINGS' tempf='138' />
+  <spring state='NM' lat='32.2480' lng='-104.411' name='MOSLEY SPRING' tempf='68' />
+  <spring state='NM' lat='34.1160' lng='-106.980' name='OJITOS SPRINGS' tempf='68' />
+  <spring state='NM' lat='33.5720' lng='-107.593' name='OJO CALIENTE' tempf='83' />
+  <spring state='NM' lat='36.3050' lng='-106.053' name='OJO CALIENTE (ARSENIC SPRING)' tempf='111' />
+  <spring state='NM' lat='34.0320' lng='-106.777' name='OJO DE LAS CANAS' tempf='79' />
+  <spring state='NM' lat='35.6010' lng='-106.860' name='PHILLIPS SPRINGS' tempf='70' />
+  <spring state='NM' lat='36.3240' lng='-105.606' name='PONCE DE LEON SPRINGS' tempf='93' />
+  <spring state='NM' lat='32.5010' lng='-106.926' name='RADIUM SPRINGS' tempf='127' />
+  <spring state='NM' lat='34.9120' lng='-108.951' name='RAINBOW SPRING' tempf='71' />
+  <spring state='NM' lat='35.9380' lng='-106.646' name='SAN ANTONIO HOT SPRING' tempf='129' />
+  <spring state='NM' lat='35.9720' lng='-106.560' name='SAN ANTONIO WARM SPRING' tempf='101' />
+  <spring state='NM' lat='33.2440' lng='-108.880' name='SAN FRANCISCO HOT SPRINGS' tempf='120' />
+  <spring state='NM' lat='35.5400' lng='-106.854' name='SAN YSIDRO HOT SPRINGS' tempf='85' />
+  <spring state='NM' lat='35.5480' lng='-106.827' name='SAN YSIDRO WARM SPRINGS' tempf='68' />
+  <spring state='NM' lat='34.0380' lng='-106.940' name='SOCORRO SPRING, SEDILLO SPRING' tempf='93' />
+  <spring state='NM' lat='35.7930' lng='-106.685' name='SODA DAM HOT SPRINGS' tempf='117' />
+  <spring state='NM' lat='32.6060' lng='-107.190' name='SOUSE SPRINGS' tempf='88' />
+  <spring state='NM' lat='35.8490' lng='-106.629' name='SPENCE HOT SPRINGS' tempf='100' />
+  <spring state='NM' lat='34.6980' lng='-107.129' name='SPRING' tempf='71' />
+  <spring state='NM' lat='33.2330' lng='-108.235' name='SPRING (HOT)' tempf='149' />
+  <spring state='NM' lat='33.1620' lng='-108.209' name='SPRING (HOT)' tempf='111' />
+  <spring state='NM' lat='34.8470' lng='-107.091' name='SPRING (SALT)' tempf='76' />
+  <spring state='NM' lat='34.7690' lng='-107.085' name='SPRING (SALT)' tempf='78' />
+  <spring state='NM' lat='34.8080' lng='-107.091' name='SPRING (SALT)' tempf='86' />
+  <spring state='NM' lat='33.2740' lng='-108.250' name='SPRING MFG FOUR' tempf='93' />
+  <spring state='NM' lat='33.2850' lng='-108.262' name='SPRING MFG ONE' tempf='88' />
+  <spring state='NM' lat='33.2930' lng='-108.282' name='SPRING MFG TWO, SPRING MFG THREE' tempf='99' />
+  <spring state='NM' lat='36.3680' lng='-106.059' name='STATUE SPRING' tempf='83' />
+  <spring state='NM' lat='35.9080' lng='-106.615' name='SULPHUR SPRINGS' tempf='189' />
+  <spring state='NM' lat='33.3060' lng='-108.324' name='THE MEADOWS WARM SPRING' tempf='91' />
+  <spring state='NM' lat='33.1350' lng='-107.254' name='TRUTH OR CONSEQUENCES' tempf='113' />
+  <spring state='NM' lat='33.1080' lng='-108.483' name='TURKEY CREEK HOT SPRING' tempf='165' />
+  <spring state='NM' lat='33.2790' lng='-107.563' name='WARM SPRINGS' tempf='87' />
+  <spring state='NM' lat='35.6460' lng='-106.888' name='WARM SPRINGS' tempf='129' />
+  <spring state='NM' lat='32.9530' lng='-107.580' name='unnamed' tempf='94' />
+  <spring state='NM' lat='32.8990' lng='-109.035' name='unnamed' tempf='69' />
+  <spring state='NM' lat='32.6930' lng='-107.811' name='unnamed' tempf='72' />
+  <spring state='NM' lat='32.9750' lng='-108.631' name='unnamed' tempf='77' />
+  <spring state='NM' lat='36.5280' lng='-105.713' name='unnamed' tempf='106' />
+  <spring state='NM' lat='35.3080' lng='-106.471' name='unnamed' tempf='68' />
+  <spring state='NM' lat='34.1580' lng='-108.319' name='unnamed' tempf='72' />
+  <spring state='NM' lat='34.3260' lng='-107.095' name='unnamed' tempf='72' />
+  <spring state='NM' lat='34.7910' lng='-107.091' name='unnamed' tempf='80' />
+  <spring state='NM' lat='34.8150' lng='-107.388' name='unnamed' tempf='68' />
+  <spring state='NM' lat='34.8830' lng='-107.092' name='unnamed' tempf='73' />
+  <spring state='NM' lat='34.9160' lng='-107.143' name='unnamed' tempf='68' />
+  <spring state='NM' lat='34.2640' lng='-106.883' name='unnamed' tempf='70' />
+  <spring state='NM' lat='33.2120' lng='-108.228' name='unnamed' tempf='149' />
+  <spring state='NM' lat='33.2580' lng='-108.233' name='unnamed' tempf='94' />
+  <spring state='NM' lat='33.8130' lng='-106.971' name='unnamed' tempf='70' />
+  <spring state='NV' lat='39.5650' lng='-118.856' name='(SODA LAKE AREA)' tempf='210' />
+  <spring state='NV' lat='38.3650' lng='-115.867' name='ABEL SPRING' tempf='115' />
+  <spring state='NV' lat='37.8250' lng='-117.337' name='ALKALI HOT SPRING' tempf='140' />
+  <spring state='NV' lat='39.9440' lng='-119.509' name='ANAHO ISLAND SPRING' tempf='120' />
+  <spring state='NV' lat='36.9420' lng='-115.425' name='ASH CREEK SPRING' tempf='72' />
+  <spring state='NV' lat='37.4630' lng='-115.192' name='ASH SPRINGS' tempf='97' />
+  <spring state='NV' lat='36.4260' lng='-116.411' name='ASH TREE SPRING' tempf='75' />
+  <spring state='NV' lat='41.9210' lng='-118.709' name='BALTAZOR HOT SPRING' tempf='181' />
+  <spring state='NV' lat='39.5580' lng='-116.360' name='BARTINE HOT SPRINGS' tempf='108' />
+  <spring state='NV' lat='36.9180' lng='-116.744' name='BEATTY MUNICIPAL SPRING' tempf='88' />
+  <spring state='NV' lat='37.7830' lng='-114.528' name='BENNETT SPRINGS' tempf='70' />
+  <spring state='NV' lat='40.5670' lng='-116.588' name='BEOWAWE HOT SPRINGS (THE GEYSERS)' tempf='208' />
+  <spring state='NV' lat='36.3750' lng='-116.274' name='BIG (ASH MEADOWS) SPRING' tempf='83' />
+  <spring state='NV' lat='38.9540' lng='-117.049' name='BIG BLUE (A) SPRING' tempf='90' />
+  <spring state='NV' lat='39.0720' lng='-115.635' name='BIG BLUE SPRING' tempf='W' />
+  <spring state='NV' lat='38.9500' lng='-115.700' name='BIG WARM SPRING' tempf='93' />
+  <spring state='NV' lat='40.9720' lng='-119.007' name='BLACK ROCK HOT SPRING' tempf='136' />
+  <spring state='NV' lat='38.5630' lng='-115.528' name='BLUE EAGLE SPRINGS' tempf='84' />
+  <spring state='NV' lat='36.3890' lng='-114.433' name='BLUE POINT SPRING' tempf='82' />
+  <spring state='NV' lat='41.9250' lng='-118.805' name='BOG HOT SPRINGS' tempf='131' />
+  <spring state='NV' lat='40.2620' lng='-119.379' name='BOILING SPRINGS' tempf='187' />
+  <spring state='NV' lat='36.3630' lng='-116.271' name='BOLE SPRING' tempf='72' />
+  <spring state='NV' lat='39.3420' lng='-118.578' name='BORAX SPRING' tempf='180' />
+  <spring state='NV' lat='39.2860' lng='-119.840' name='BOWERS MANSION HOT SPRING' tempf='133' />
+  <spring state='NV' lat='39.7870' lng='-119.011' name='BRADYS HOT SPRINGS' tempf='209' />
+  <spring state='NV' lat='40.8290' lng='-117.306' name='BROOKS SPRING' tempf='93' />
+  <spring state='NV' lat='36.0330' lng='-115.888' name='BROWNS SPRING' tempf='75' />
+  <spring state='NV' lat='40.2200' lng='-116.068' name='BRUFFEYS HOT SPRINGS' tempf='149' />
+  <spring state='NV' lat='40.4180' lng='-117.415' name='BUFFALO SPRINGS' tempf='162' />
+  <spring state='NV' lat='40.3680' lng='-117.327' name='BUFFALO VALLEY HOT SPRINGS' tempf='174' />
+  <spring state='NV' lat='36.9680' lng='-116.723' name='BURRELL HOT SPRING' tempf='102' />
+  <spring state='NV' lat='40.7700' lng='-119.113' name='BUTTE SPRINGS (TREGO HOT SPRINGS)' tempf='187' />
+  <spring state='NV' lat='38.4400' lng='-115.011' name='BUTTERFIELD SPRINGS' tempf='75' />
+  <spring state='NV' lat='36.4280' lng='-116.303' name='BUTTON SPRINGS' tempf='93' />
+  <spring state='NV' lat='41.0220' lng='-119.275' name='CAINE SPRING' tempf='73' />
+  <spring state='NV' lat='37.6210' lng='-114.510' name='CALIENTE HOT SPRINGS' tempf='118' />
+  <spring state='NV' lat='39.5470' lng='-114.915' name='CAMPBELL RANCH SPRINGS' tempf='76' />
+  <spring state='NV' lat='41.2580' lng='-118.937' name='CANE SPRINGS' tempf='74' />
+  <spring state='NV' lat='40.2900' lng='-116.049' name='CARLOTTI RANCH SPRINGS' tempf='102' />
+  <spring state='NV' lat='39.1930' lng='-119.752' name='CARSON HOT SPRINGS' tempf='120' />
+  <spring state='NV' lat='37.7510' lng='-116.274' name='CEDAR SPRING' tempf='77' />
+  <spring state='NV' lat='38.9920' lng='-117.042' name='CHARNOCK (BIG BLUE) SPRINGS' tempf='80' />
+  <spring state='NV' lat='39.8830' lng='-114.893' name='CHERRY CREEK HOT SPRINGS' tempf='144' />
+  <spring state='NV' lat='40.1870' lng='-116.790' name='CHILLIS HOT SPRING' tempf='102' />
+  <spring state='NV' lat='38.4640' lng='-115.792' name='CHIMNEY WARM SPRING' tempf='160' />
+  <spring state='NV' lat='40.0870' lng='-114.647' name='COLLAR AND ELBOW SPRING' tempf='93' />
+  <spring state='NV' lat='38.3880' lng='-115.866' name='COYOTE HOLE SPRING' tempf='113' />
+  <spring state='NV' lat='40.7630' lng='-119.172' name='COYOTE SPRING' tempf='72' />
+  <spring state='NV' lat='40.4170' lng='-116.507' name='CRESCENT VALLEY HOT SPRINGS' tempf='138' />
+  <spring state='NV' lat='40.4040' lng='-116.517' name='CRESCENT VALLEY HOT SPRINGS' tempf='138' />
+  <spring state='NV' lat='36.4210' lng='-116.322' name='CRYSTAL POOL' tempf='91' />
+  <spring state='NV' lat='37.5320' lng='-115.233' name='CRYSTAL SPRINGS' tempf='90' />
+  <spring state='NV' lat='38.8220' lng='-117.183' name='DARROUGHS HOT SPRINGS' tempf='203' />
+  <spring state='NV' lat='36.4080' lng='-116.313' name='DAVIS RANCH SPRING' tempf='70' />
+  <spring state='NV' lat='36.4020' lng='-116.302' name='DAVIS RANCH SPRINGS' tempf='81' />
+  <spring state='NV' lat='37.8600' lng='-114.321' name='DELMUES SPRINGS' tempf='70' />
+  <spring state='NV' lat='36.4250' lng='-116.291' name='DEVILS HOLE' tempf='92' />
+  <spring state='NV' lat='39.0310' lng='-116.666' name='DIANAS PUNCH BOWL' tempf='138' />
+  <spring state='NV' lat='39.4200' lng='-119.738' name='DIMONTE SPRING' tempf='127' />
+  <spring state='NV' lat='39.8660' lng='-118.017' name='DIXIE COMSTOCK MINE' tempf='H' />
+  <spring state='NV' lat='39.7970' lng='-118.067' name='DIXIE HOT SPRINGS' tempf='162' />
+  <spring state='NV' lat='39.4420' lng='-119.743' name='DOUBLE DIAMOND SPRING' tempf='84' />
+  <spring state='NV' lat='41.0510' lng='-119.028' name='DOUBLE HOT SPRINGS' tempf='178' />
+  <spring state='NV' lat='38.9650' lng='-118.689' name='DOUBLE SPRING' tempf='W' />
+  <spring state='NV' lat='38.7960' lng='-119.650' name='DOUD SPRINGS' tempf='70' />
+  <spring state='NV' lat='41.5670' lng='-118.564' name='DYKE HOT SPRINGS' tempf='158' />
+  <spring state='NV' lat='39.7330' lng='-119.039' name='EAGLE SALT WORKS SPRING' tempf='H' />
+  <spring state='NV' lat='40.8130' lng='-115.778' name='ELKO HOT SPRING' tempf='190' />
+  <spring state='NV' lat='40.6840' lng='-116.153' name='ELLISON RANCH WARM SPRING' tempf='W' />
+  <spring state='NV' lat='38.6220' lng='-115.047' name='EMIGRANT SPRINGS' tempf='70' />
+  <spring state='NV' lat='36.4910' lng='-116.342' name='FAIRBANKS SPRING, SODA SPRING' tempf='81' />
+  <spring state='NV' lat='37.9970' lng='-118.039' name='FISH SPRING' tempf='75' />
+  <spring state='NV' lat='38.8100' lng='-116.397' name='FISH SPRINGS' tempf='W' />
+  <spring state='NV' lat='40.1030' lng='-119.884' name='FISH SPRINGS' tempf='73' />
+  <spring state='NV' lat='41.7630' lng='-118.279' name='FIVEMILE SPRING' tempf='81' />
+  <spring state='NV' lat='38.4230' lng='-115.022' name='FLAG SPRINGS' tempf='75' />
+  <spring state='NV' lat='37.8960' lng='-114.227' name='FLATNOSE RANCH SPRING' tempf='77' />
+  <spring state='NV' lat='40.8570' lng='-119.328' name='FLY RANCH (WARDS) HOT SPRINGS' tempf='180' />
+  <spring state='NV' lat='40.0790' lng='-116.035' name='FLYNN RANCH SPRINGS' tempf='78' />
+  <spring state='NV' lat='39.9540' lng='-117.917' name='FUMAROLES' tempf='204' />
+  <spring state='NV' lat='41.3690' lng='-114.187' name='GAMBLE SPRING' tempf='69' />
+  <spring state='NV' lat='41.8840' lng='-114.117' name='GAMBLES HOLE' tempf='104' />
+  <spring state='NV' lat='37.9790' lng='-117.993' name='GAP SPRING' tempf='73' />
+  <spring state='NV' lat='38.6710' lng='-114.628' name='GEYSER RANCH SPRINGS' tempf='70' />
+  <spring state='NV' lat='38.6540' lng='-114.633' name='GEYSER RANCH SPRINGS' tempf='70' />
+  <spring state='NV' lat='38.6450' lng='-114.632' name='GEYSER RANCH SPRINGS' tempf='70' />
+  <spring state='NV' lat='39.8140' lng='-115.612' name='GIOCOECHA WARM SPRINGS' tempf='76' />
+  <spring state='NV' lat='40.9610' lng='-117.494' name='GOLCONDA HOT SPRING (NORTH)' tempf='165' />
+  <spring state='NV' lat='40.9540' lng='-117.488' name='GOLCONDA HOT SPRING (SOUTH)' tempf='151' />
+  <spring state='NV' lat='40.6620' lng='-119.365' name='GREAT BOILING SPRING (GERLACH)' tempf='208' />
+  <spring state='NV' lat='38.2920' lng='-114.272' name='HAMMOND RANCH SPRING' tempf='84' />
+  <spring state='NV' lat='36.9750' lng='-116.721' name='HICKS HOT SPRINGS' tempf='109' />
+  <spring state='NV' lat='37.5980' lng='-115.215' name='HIKO SPRING' tempf='90' />
+  <spring state='NV' lat='39.0590' lng='-119.815' name='HOBO HOT SPRINGS' tempf='114' />
+  <spring state='NV' lat='40.1780' lng='-117.496' name='HOME STATION RANCH HOT SPRING' tempf='135' />
+  <spring state='NV' lat='40.6030' lng='-116.463' name='HORSESHOE RANCH SPRINGS' tempf='136' />
+  <spring state='NV' lat='38.5210' lng='-116.365' name='HOT CREEK RANCH HOT SPRING' tempf='180' />
+  <spring state='NV' lat='38.3830' lng='-115.153' name='HOT CREEK RANCH SPRING' tempf='90' />
+  <spring state='NV' lat='41.5760' lng='-115.181' name='HOT CREEK SPRINGS' tempf='151' />
+  <spring state='NV' lat='38.4370' lng='-116.277' name='HOT CREEK VALLEY SPRING' tempf='142' />
+  <spring state='NV' lat='40.8190' lng='-115.777' name='HOT HOLE' tempf='133' />
+  <spring state='NV' lat='41.1480' lng='-116.733' name='HOT LAKE' tempf='H' />
+  <spring state='NV' lat='40.9220' lng='-117.108' name='HOT POT (BLOSSOM HOT SPRINGS)' tempf='136' />
+  <spring state='NV' lat='40.3890' lng='-119.402' name='HOT SEEPS (SAN EMIDIO DESERT)' tempf='203' />
+  <spring state='NV' lat='35.9640' lng='-114.743' name='HOT SPRING' tempf='82' />
+  <spring state='NV' lat='41.1750' lng='-115.278' name='HOT SPRING' tempf='H' />
+  <spring state='NV' lat='41.1900' lng='-115.287' name='HOT SPRING' tempf='97' />
+  <spring state='NV' lat='41.1450' lng='-114.994' name='HOT SPRING' tempf='H' />
+  <spring state='NV' lat='41.9800' lng='-114.376' name='HOT SPRING' tempf='86' />
+  <spring state='NV' lat='40.3160' lng='-116.433' name='HOT SPRING' tempf='186' />
+  <spring state='NV' lat='39.0410' lng='-116.663' name='HOT SPRING' tempf='124' />
+  <spring state='NV' lat='38.8590' lng='-119.175' name='HOT SPRING' tempf='H' />
+  <spring state='NV' lat='35.9440' lng='-114.731' name='HOT SPRING' tempf='78' />
+  <spring state='NV' lat='35.9820' lng='-114.748' name='HOT SPRINGS' tempf='86' />
+  <spring state='NV' lat='39.9410' lng='-116.681' name='HOT SPRINGS' tempf='180' />
+  <spring state='NV' lat='40.7610' lng='-117.492' name='HOT SPRINGS' tempf='185' />
+  <spring state='NV' lat='40.1910' lng='-117.107' name='HOT SPRINGS' tempf='127' />
+  <spring state='NV' lat='41.1080' lng='-117.578' name='HOT SPRINGS' tempf='158' />
+  <spring state='NV' lat='41.2610' lng='-115.305' name='HOT SPRINGS' tempf='126' />
+  <spring state='NV' lat='41.1830' lng='-114.991' name='HOT SPRINGS' tempf='142' />
+  <spring state='NV' lat='40.1980' lng='-117.103' name='HOT SPRINGS' tempf='127' />
+  <spring state='NV' lat='40.3250' lng='-116.058' name='HOT SPRINGS' tempf='79' />
+  <spring state='NV' lat='40.6730' lng='-116.838' name='HOT SPRINGS' tempf='122' />
+  <spring state='NV' lat='39.3080' lng='-117.552' name='HOT SPRINGS' tempf='115' />
+  <spring state='NV' lat='39.3160' lng='-117.549' name='HOT SPRINGS' tempf='198' />
+  <spring state='NV' lat='40.6990' lng='-116.133' name='HOT SPRINGS (CARLIN)' tempf='174' />
+  <spring state='NV' lat='40.1830' lng='-117.102' name='HOT SPRINGS RANCH' tempf='129' />
+  <spring state='NV' lat='41.0500' lng='-117.100' name='HOT SPRINGS RANCH SPRINGS' tempf='79' />
+  <spring state='NV' lat='40.7650' lng='-116.040' name='HOT SULPHUR SPRINGS' tempf='147' />
+  <spring state='NV' lat='41.4680' lng='-116.150' name='HOT SULPHUR SPRINGS (TUSCARORA)' tempf='194' />
+  <spring state='NV' lat='41.7210' lng='-118.505' name='HOWARD HOT SPRING' tempf='135' />
+  <spring state='NV' lat='39.4570' lng='-119.722' name='HUFFAKER SPRINGS' tempf='81' />
+  <spring state='NV' lat='40.0030' lng='-117.718' name='HYDER HOT SPRINGS' tempf='176' />
+  <spring state='NV' lat='36.5650' lng='-115.671' name='INDIAN SPRINGS' tempf='78' />
+  <spring state='NV' lat='38.4580' lng='-117.303' name='INDIAN SPRINGS' tempf='W' />
+  <spring state='NV' lat='40.9290' lng='-116.895' name='IZZENHOOD RANCH SPRINGS' tempf='88' />
+  <spring state='NV' lat='36.3900' lng='-116.278' name='JACK RABBIT SPRING' tempf='82' />
+  <spring state='NV' lat='40.9670' lng='-114.515' name='JOHNSON RANCH SPRINGS' tempf='72' />
+  <spring state='NV' lat='38.5540' lng='-115.531' name='KATE SPRING' tempf='73' />
+  <spring state='NV' lat='39.4040' lng='-116.347' name='KLOBE (BARTHOLOMAE) HOT SPRING' tempf='156' />
+  <spring state='NV' lat='40.4080' lng='-117.883' name='KYLE HOT SPRINGS' tempf='171' />
+  <spring state='NV' lat='36.2050' lng='-115.141' name='KYLE SPRING' tempf='75' />
+  <spring state='NV' lat='39.2830' lng='-114.866' name='LACKAWANNA HOT SPRINGS' tempf='95' />
+  <spring state='NV' lat='36.1730' lng='-115.191' name='LAS VEGAS SPRINGS' tempf='79' />
+  <spring state='NV' lat='39.5120' lng='-119.907' name='LAWTON HOT SPRINGS' tempf='120' />
+  <spring state='NV' lat='40.6040' lng='-117.648' name='LEACH HOT SPRINGS' tempf='207' />
+  <spring state='NV' lat='39.2080' lng='-118.723' name='LEE HOT SPRINGS, ALLEN SPRINGS' tempf='190' />
+  <spring state='NV' lat='39.8930' lng='-116.649' name='LITTLE HOT SPRINGS' tempf='H' />
+  <spring state='NV' lat='38.9370' lng='-115.695' name='LITTLE WARM SPRING' tempf='90' />
+  <spring state='NV' lat='38.5560' lng='-115.767' name='LOCKES BIG SPRING, HAY CORRAL SPR' tempf='100' />
+  <spring state='NV' lat='36.4680' lng='-116.325' name='LONGSTREET SPRING' tempf='82' />
+  <spring state='NV' lat='40.0350' lng='-117.604' name='LOWER RANCH HOT SPRINGS' tempf='104' />
+  <spring state='NV' lat='39.7920' lng='-114.692' name='LOWER SHELLBOURNE SPRING' tempf='77' />
+  <spring state='NV' lat='41.0520' lng='-118.717' name='MACFARLANE HOT SPRING' tempf='170' />
+  <spring state='NV' lat='36.1470' lng='-115.893' name='MANSE RANCH SPRING' tempf='75' />
+  <spring state='NV' lat='40.0800' lng='-117.604' name='MCCOY SPRINGS' tempf='120' />
+  <spring state='NV' lat='39.4130' lng='-114.779' name='MCGILL SPRING' tempf='84' />
+  <spring state='NV' lat='39.0280' lng='-117.136' name='MCLEOD RANCH HOT SPRING' tempf='180' />
+  <spring state='NV' lat='41.7880' lng='-114.735' name='MINERAL HOT SPRING' tempf='140' />
+  <spring state='NV' lat='39.4840' lng='-119.804' name='MOANA SPRINGS' tempf='199' />
+  <spring state='NV' lat='36.7100' lng='-114.714' name='MOAPA WARM SPRINGS' tempf='90' />
+  <spring state='NV' lat='39.6650' lng='-114.807' name='MONTE NEVA HOT SPRINGS' tempf='176' />
+  <spring state='NV' lat='38.3520' lng='-115.181' name='MOON RIVER SPRING' tempf='92' />
+  <spring state='NV' lat='38.5940' lng='-115.138' name='MOORMAN SPRING' tempf='100' />
+  <spring state='NV' lat='40.3130' lng='-117.070' name='MOUND SPRINGS' tempf='109' />
+  <spring state='NV' lat='40.6530' lng='-119.378' name='MUD SPRINGS' tempf='184' />
+  <spring state='NV' lat='36.7220' lng='-114.716' name='MUDDY SPRING' tempf='90' />
+  <spring state='NV' lat='41.3540' lng='-119.116' name='MUSTANG SPRINGS' tempf='73' />
+  <spring state='NV' lat='38.8990' lng='-119.410' name='NEVADA (HINDS) HOT SPRINGS' tempf='144' />
+  <spring state='NV' lat='39.1590' lng='-119.737' name='NEVADA STATE PRISON SPRING' tempf='75' />
+  <spring state='NV' lat='41.9290' lng='-114.071' name='NILE SPRING' tempf='109' />
+  <spring state='NV' lat='41.7060' lng='-118.261' name='NINEMILE SPRINGS' tempf='79' />
+  <spring state='NV' lat='38.5310' lng='-116.405' name='OLD DUGAN RANCH HOT SPRINGS' tempf='102' />
+  <spring state='NV' lat='36.2070' lng='-115.983' name='PAHRUMP (BENNETTS) SPRING' tempf='77' />
+  <spring state='NV' lat='41.8090' lng='-118.861' name='PAINTED HILLS MINE' tempf='131' />
+  <spring state='NV' lat='37.8070' lng='-114.380' name='PANACA SPRING' tempf='88' />
+  <spring state='NV' lat='36.4640' lng='-116.319' name='PARENT SPRINGS' tempf='93' />
+  <spring state='NV' lat='39.5970' lng='-119.110' name='PATUA HOT SPRINGS (FERNLEY)' tempf='187' />
+  <spring state='NV' lat='37.8220' lng='-117.480' name='PEARL HOT SPRINGS' tempf='97' />
+  <spring state='NV' lat='41.3850' lng='-116.058' name='PETAINI SPRINGS' tempf='W' />
+  <spring state='NV' lat='39.5590' lng='-117.427' name='PETERSONS MILL HOT SPRING' tempf='H' />
+  <spring state='NV' lat='41.3630' lng='-118.788' name='PINTO HOT SPRINGS' tempf='199' />
+  <spring state='NV' lat='36.4020' lng='-116.274' name='POINT OF ROCKS SPRINGS, KING SPRING' tempf='91' />
+  <spring state='NV' lat='39.0800' lng='-116.639' name='POTTS RANCH HOT SPRINGS' tempf='113' />
+  <spring state='NV' lat='38.9270' lng='-115.082' name='PRESTON SPRINGS' tempf='70' />
+  <spring state='NV' lat='39.9800' lng='-119.502' name='PYRAMID ISLAND HOT SPRING' tempf='U' />
+  <spring state='NV' lat='40.5920' lng='-116.157' name='RAINE RANCH SPRINGS' tempf='W' />
+  <spring state='NV' lat='40.9520' lng='-114.751' name='RALPHS WARM SPRINGS' tempf='86' />
+  <spring state='NV' lat='37.9960' lng='-116.389' name='REVEILLE MILL SPRING' tempf='84' />
+  <spring state='NV' lat='41.7750' lng='-115.921' name='RIZZI RANCH HOT SPRING' tempf='106' />
+  <spring state='NV' lat='36.3780' lng='-114.443' name='ROGERS SPRING' tempf='82' />
+  <spring state='NV' lat='36.4790' lng='-116.326' name='ROGERS SPRING' tempf='82' />
+  <spring state='NV' lat='40.8730' lng='-117.937' name='ROSE CREEK SPRING' tempf='83' />
+  <spring state='NV' lat='41.8770' lng='-115.628' name='ROWLAND HOT SPRINGS' tempf='104' />
+  <spring state='NV' lat='41.8670' lng='-114.692' name='SAN JACINTO RANCH SPRING' tempf='148' />
+  <spring state='NV' lat='37.7410' lng='-115.753' name='SAND SPRING' tempf='86' />
+  <spring state='NV' lat='37.9060' lng='-118.171' name='SAND SPRING' tempf='74' />
+  <spring state='NV' lat='39.2810' lng='-118.420' name='SAND SPRINGS' tempf='H' />
+  <spring state='NV' lat='39.0580' lng='-119.742' name='SARATOGA HOT SPRING' tempf='122' />
+  <spring state='NV' lat='38.2550' lng='-116.829' name='SAULSBURY WARM SPRING' tempf='86' />
+  <spring state='NV' lat='39.4580' lng='-114.756' name='SCHOOLHOUSE SPRING' tempf='84' />
+  <spring state='NV' lat='36.4330' lng='-116.308' name='SCRUGGS SPRINGS' tempf='86' />
+  <spring state='NV' lat='36.5670' lng='-114.446' name='SEEP' tempf='70' />
+  <spring state='NV' lat='37.0160' lng='-117.211' name='SEEP' tempf='77' />
+  <spring state='NV' lat='41.7320' lng='-119.785' name='SEEPS (HILLS WARM SPRING)' tempf='83' />
+  <spring state='NV' lat='39.9950' lng='-117.854' name='SENATOR FUMAROLES' tempf='B' />
+  <spring state='NV' lat='39.9430' lng='-116.073' name='SHIPLEY HOT SPRING' tempf='106' />
+  <spring state='NV' lat='37.7610' lng='-117.632' name='SILVERPEAK HOT SPRING' tempf='118' />
+  <spring state='NV' lat='39.9880' lng='-116.044' name='SIRI RANCH SPRING' tempf='95' />
+  <spring state='NV' lat='40.2490' lng='-115.409' name='SMITH RANCH SPRINGS' tempf='149' />
+  <spring state='NV' lat='39.5260' lng='-118.876' name='SODA LAKE' tempf='86' />
+  <spring state='NV' lat='38.3430' lng='-118.103' name='SODA SPRINGS' tempf='100' />
+  <spring state='NV' lat='40.0880' lng='-117.725' name='SOU (SEVEN DEVILS) HOT SPRINGS' tempf='185' />
+  <spring state='NV' lat='38.8230' lng='-116.717' name='SOUTH MOSQUITO CREEK RANCH SPRINGS' tempf='95' />
+  <spring state='NV' lat='39.3280' lng='-116.858' name='SPENCER HOT SPRINGS' tempf='162' />
+  <spring state='NV' lat='36.0020' lng='-114.742' name='SPRING' tempf='145' />
+  <spring state='NV' lat='36.4140' lng='-116.292' name='SPRING' tempf='79' />
+  <spring state='NV' lat='41.5300' lng='-118.570' name='SPRING' tempf='104' />
+  <spring state='NV' lat='41.0660' lng='-114.990' name='SPRING' tempf='W' />
+  <spring state='NV' lat='40.0250' lng='-117.646' name='SPRING' tempf='83' />
+  <spring state='NV' lat='40.9920' lng='-117.763' name='SPRING' tempf='93' />
+  <spring state='NV' lat='40.1870' lng='-116.805' name='SPRING' tempf='72' />
+  <spring state='NV' lat='39.8530' lng='-119.719' name='SPRING' tempf='73' />
+  <spring state='NV' lat='39.9170' lng='-114.667' name='SPRING' tempf='83' />
+  <spring state='NV' lat='38.9500' lng='-119.388' name='SPRING' tempf='W' />
+  <spring state='NV' lat='38.0270' lng='-116.683' name='SPRING' tempf='86' />
+  <spring state='NV' lat='41.3980' lng='-119.165' name='SPRING' tempf='84' />
+  <spring state='NV' lat='37.0740' lng='-116.691' name='SPRING' tempf='72' />
+  <spring state='NV' lat='36.3630' lng='-116.263' name='SPRING' tempf='72' />
+  <spring state='NV' lat='36.4040' lng='-116.383' name='SPRING' tempf='90' />
+  <spring state='NV' lat='36.4370' lng='-116.206' name='SPRING' tempf='82' />
+  <spring state='NV' lat='36.4500' lng='-116.313' name='SPRING' tempf='81' />
+  <spring state='NV' lat='36.9420' lng='-116.729' name='SPRING' tempf='88' />
+  <spring state='NV' lat='36.9990' lng='-116.706' name='SPRING' tempf='72' />
+  <spring state='NV' lat='36.5650' lng='-115.623' name='SPRING' tempf='79' />
+  <spring state='NV' lat='41.3860' lng='-114.165' name='SPRING (HOT)' tempf='111' />
+  <spring state='NV' lat='41.3650' lng='-119.221' name='SPRING (HOT)' tempf='122' />
+  <spring state='NV' lat='41.3530' lng='-119.216' name='SPRING (HOT)' tempf='127' />
+  <spring state='NV' lat='36.4860' lng='-114.329' name='SPRINGS' tempf='77' />
+  <spring state='NV' lat='37.0290' lng='-116.719' name='SPRINGS' tempf='75' />
+  <spring state='NV' lat='40.1270' lng='-116.884' name='SPRINGS' tempf='72' />
+  <spring state='NV' lat='41.3380' lng='-119.168' name='SPRINGS' tempf='79' />
+  <spring state='NV' lat='41.3220' lng='-119.206' name='SPRINGS' tempf='75' />
+  <spring state='NV' lat='40.8300' lng='-119.538' name='SPRINGS' tempf='84' />
+  <spring state='NV' lat='39.0680' lng='-119.786' name='SPRINGS' tempf='90' />
+  <spring state='NV' lat='41.3780' lng='-119.182' name='SPRINGS (HOT)' tempf='136' />
+  <spring state='NV' lat='41.3390' lng='-119.192' name='SPRINGS (HOT)' tempf='127' />
+  <spring state='NV' lat='41.3570' lng='-119.188' name='SPRINGS (HOT)' tempf='133' />
+  <spring state='NV' lat='39.3880' lng='-119.743' name='STEAMBOAT SPRINGS' tempf='205' />
+  <spring state='NV' lat='39.3800' lng='-119.740' name='STEAMBOAT SPRINGS' tempf='205' />
+  <spring state='NV' lat='38.3980' lng='-115.862' name='STORM SPRING' tempf='99' />
+  <spring state='NV' lat='40.5850' lng='-115.285' name='SULPHUR HOT SPRINGS' tempf='205' />
+  <spring state='NV' lat='39.8320' lng='-116.069' name='SULPHUR SPRING' tempf='74' />
+  <spring state='NV' lat='40.8640' lng='-117.349' name='SULPHUR SPRING' tempf='H' />
+  <spring state='NV' lat='41.4210' lng='-117.388' name='THE HOT SPRINGS' tempf='135' />
+  <spring state='NV' lat='40.1460' lng='-119.673' name='THE NEEDLE ROCKS HOT SPRING' tempf='208' />
+  <spring state='NV' lat='40.1410' lng='-119.687' name='THE NEEDLE ROCKS HOT SPRINGS' tempf='208' />
+  <spring state='NV' lat='39.9010' lng='-115.868' name='THOMPSON RANCH SPRING' tempf='68' />
+  <spring state='NV' lat='41.1590' lng='-114.986' name='THREEMILE SPRING, SULPHUR HOT SPR' tempf='122' />
+  <spring state='NV' lat='38.5740' lng='-115.522' name='TOM SPRING' tempf='72' />
+  <spring state='NV' lat='41.2430' lng='-114.947' name='TWELVEMILE SPRING' tempf='102' />
+  <spring state='NV' lat='41.5910' lng='-119.862' name='TWIN (VYA) SPRING' tempf='71' />
+  <spring state='NV' lat='39.8000' lng='-114.653' name='UPPER SHELLBOURNE SPRING' tempf='74' />
+  <spring state='NV' lat='38.5320' lng='-116.465' name='UPPER WARM SPRING' tempf='95' />
+  <spring state='NV' lat='38.6980' lng='-116.435' name='UPPER WARM SPRING, WARM SPRING' tempf='106' />
+  <spring state='NV' lat='39.1610' lng='-119.183' name='WABUSKA HOT SPRINGS' tempf='201' />
+  <spring state='NV' lat='38.9810' lng='-119.833' name='WALLEYS HOT SPRINGS' tempf='160' />
+  <spring state='NV' lat='39.9040' lng='-116.588' name='WALTI HOT SPRINGS' tempf='162' />
+  <spring state='NV' lat='38.6330' lng='-114.638' name='WAMBOLT SPRINGS' tempf='70' />
+  <spring state='NV' lat='38.3390' lng='-116.662' name='WARM SPRING' tempf='W' />
+  <spring state='NV' lat='40.7820' lng='-115.363' name='WARM SPRING' tempf='W' />
+  <spring state='NV' lat='39.5290' lng='-116.388' name='WARM SPRING' tempf='W' />
+  <spring state='NV' lat='38.1880' lng='-116.373' name='WARM SPRINGS' tempf='145' />
+  <spring state='NV' lat='40.7510' lng='-115.035' name='WARM SPRINGS' tempf='W' />
+  <spring state='NV' lat='41.3550' lng='-114.133' name='WARM SPRINGS' tempf='W' />
+  <spring state='NV' lat='41.0640' lng='-115.389' name='WARM SPRINGS' tempf='W' />
+  <spring state='NV' lat='41.7530' lng='-118.841' name='WARM SPRINGS' tempf='112' />
+  <spring state='NV' lat='41.7460' lng='-119.791' name='WARM SPRINGS' tempf='73' />
+  <spring state='NV' lat='41.9340' lng='-118.808' name='WARM SPRINGS' tempf='W' />
+  <spring state='NV' lat='41.9710' lng='-114.574' name='WARM SPRINGS' tempf='95' />
+  <spring state='NV' lat='38.9220' lng='-118.198' name='WEDELL HOT SPRINGS' tempf='144' />
+  <spring state='NV' lat='41.3570' lng='-118.809' name='WEST PINTO HOT SPRING' tempf='198' />
+  <spring state='NV' lat='40.7460' lng='-116.689' name='WHITE HOUSE SPRING' tempf='W' />
+  <spring state='NV' lat='36.1740' lng='-115.479' name='WHITE ROCK SPRING' tempf='78' />
+  <spring state='NV' lat='41.6470' lng='-115.775' name='WILD HORSE HOT SPRINGS' tempf='129' />
+  <spring state='NV' lat='38.9520' lng='-115.230' name='WILLIAMS HOT SPRING' tempf='127' />
+  <spring state='NV' lat='38.7680' lng='-119.174' name='WILSON HOT SPRING' tempf='183' />
+  <spring state='NV' lat='41.4120' lng='-114.675' name='WINE CUP RANCH SPRINGS' tempf='138' />
+  <spring state='NV' lat='39.4210' lng='-119.758' name='ZOLEZZI SPRING' tempf='102' />
+  <spring state='NV' lat='37.9930' lng='-117.984' name='unnamed' tempf='81' />
+  <spring state='NV' lat='38.4890' lng='-118.968' name='unnamed' tempf='110' />
+  <spring state='NV' lat='40.9480' lng='-119.002' name='unnamed' tempf='194' />
+  <spring state='NV' lat='41.7220' lng='-118.523' name='unnamed' tempf='163' />
+  <spring state='NV' lat='41.3970' lng='-119.197' name='unnamed' tempf='114' />
+  <spring state='NV' lat='41.0220' lng='-119.015' name='unnamed' tempf='161' />
+  <spring state='NV' lat='41.0290' lng='-119.017' name='unnamed' tempf='114' />
+  <spring state='NV' lat='41.1120' lng='-119.002' name='unnamed' tempf='151' />
+  <spring state='NV' lat='41.1370' lng='-119.135' name='unnamed' tempf='80' />
+  <spring state='NV' lat='41.1470' lng='-119.022' name='unnamed' tempf='153' />
+  <spring state='NV' lat='41.1750' lng='-119.957' name='unnamed' tempf='H' />
+  <spring state='NV' lat='41.3320' lng='-119.197' name='unnamed' tempf='102' />
+  <spring state='NV' lat='41.3340' lng='-119.223' name='unnamed' tempf='72' />
+  <spring state='NV' lat='41.3830' lng='-119.187' name='unnamed' tempf='130' />
+  <spring state='NV' lat='41.0030' lng='-119.008' name='unnamed' tempf='204' />
+  <spring state='NV' lat='41.0130' lng='-119.010' name='unnamed' tempf='172' />
+  <spring state='NV' lat='41.4960' lng='-118.429' name='unnamed' tempf='70' />
+  <spring state='NV' lat='41.0290' lng='-117.318' name='unnamed' tempf='70' />
+  <spring state='NV' lat='40.6740' lng='-119.364' name='unnamed' tempf='194' />
+  <spring state='NV' lat='40.5780' lng='-117.219' name='unnamed' tempf='162' />
+  <spring state='NV' lat='40.9730' lng='-115.012' name='unnamed' tempf='W' />
+  <spring state='NV' lat='39.2420' lng='-116.880' name='unnamed' tempf='H' />
+  <spring state='NV' lat='38.8600' lng='-116.738' name='unnamed' tempf='H' />
+  <spring state='NY' lat='42.4800' lng='-73.3700' name='LEBANON SPRING' tempf='72' />
+  <spring state='OR' lat='43.8600' lng='-118.288' name='ALTNOW HOT SPRING' tempf='W' />
+  <spring state='OR' lat='42.5440' lng='-118.533' name='ALVORD HOT SPRINGS' tempf='174' />
+  <spring state='OR' lat='42.8730' lng='-122.167' name='ANNIE SPRING' tempf='77' />
+  <spring state='OR' lat='42.5010' lng='-119.693' name='ANTELOPE HOT SPRINGS' tempf='104' />
+  <spring state='OR' lat='45.0210' lng='-122.009' name='AUSTIN HOT SPRINGS' tempf='186' />
+  <spring state='OR' lat='44.9360' lng='-122.173' name='BAGBY HOT SPRINGS' tempf='136' />
+  <spring state='OR' lat='43.4770' lng='-119.075' name='BAKER SPRING' tempf='70' />
+  <spring state='OR' lat='42.1560' lng='-120.345' name='BARRY RANCH HOT SPRINGS' tempf='190' />
+  <spring state='OR' lat='43.2720' lng='-119.293' name='BASQUE SPRING' tempf='74' />
+  <spring state='OR' lat='42.3800' lng='-120.330' name='BEAN HOT SPRING' tempf='69' />
+  <spring state='OR' lat='44.1930' lng='-122.049' name='BELKNAP SPRINGS' tempf='160' />
+  <spring state='OR' lat='43.9440' lng='-118.136' name='BEULAH HOT SPRINGS' tempf='140' />
+  <spring state='OR' lat='44.2410' lng='-122.058' name='BIGELOW HOT SPRINGS' tempf='142' />
+  <spring state='OR' lat='45.7410' lng='-118.233' name='BINGHAM SPRINGS' tempf='93' />
+  <spring state='OR' lat='44.3540' lng='-118.574' name='BLUE MOUNTAIN HOT SPRINGS' tempf='136' />
+  <spring state='OR' lat='42.3270' lng='-118.602' name='BORAX LAKE (HOT LAKE)' tempf='97' />
+  <spring state='OR' lat='44.7820' lng='-121.975' name='BREITENBUSH HOT SPRINGS' tempf='198' />
+  <spring state='OR' lat='44.0730' lng='-119.427' name='BRISBOIS RANCH SPRINGS' tempf='72' />
+  <spring state='OR' lat='42.9980' lng='-120.725' name='BUCKHORN CREEK SPRINGS' tempf='68' />
+  <spring state='OR' lat='44.0330' lng='-117.449' name='BULLY CREEK SPRING' tempf='99' />
+  <spring state='OR' lat='42.9770' lng='-117.061' name='CANTERS HOT SPRING' tempf='120' />
+  <spring state='OR' lat='45.8910' lng='-116.873' name='COOK CREEK HOT SPRING' tempf='97' />
+  <spring state='OR' lat='44.0830' lng='-122.233' name='COUGAR RESERVOIR HOT SPRINGS' tempf='111' />
+  <spring state='OR' lat='43.4410' lng='-118.638' name='CRANE HOT SPRINGS' tempf='172' />
+  <spring state='OR' lat='42.2260' lng='-119.881' name='CRUMP GEYSER (CRUMP SPRING)' tempf='172' />
+  <spring state='OR' lat='42.1610' lng='-121.627' name='CRYSTAL SPRING' tempf='78' />
+  <spring state='OR' lat='43.7390' lng='-117.178' name='DEER BUTTE HOT SPRING' tempf='115' />
+  <spring state='OR' lat='43.2810' lng='-119.311' name='DOUBLE O BARNYARD SPRING' tempf='72' />
+  <spring state='OR' lat='43.2760' lng='-119.340' name='DOUBLE O SPRING' tempf='74' />
+  <spring state='OR' lat='43.2640' lng='-119.015' name='DUNN SPRING' tempf='70' />
+  <spring state='OR' lat='42.4310' lng='-121.963' name='EAGLE POINT SPRING' tempf='95' />
+  <spring state='OR' lat='43.7190' lng='-121.209' name='EAST LAKE HOT SPRINGS' tempf='144' />
+  <spring state='OR' lat='42.2970' lng='-119.776' name='FISHER HOT SPRINGS' tempf='154' />
+  <spring state='OR' lat='44.9750' lng='-118.044' name='FISHER HOT SPRINGS' tempf='99' />
+  <spring state='OR' lat='42.8890' lng='-118.898' name='FIVEMILE SPRING (HOGHOUSE HOT SPRS)' tempf='80' />
+  <spring state='OR' lat='42.1880' lng='-118.383' name='FLAGSTAFF BUTTE HOT SPRING' tempf='126' />
+  <spring state='OR' lat='44.1530' lng='-122.098' name='FOLEY SPRINGS' tempf='178' />
+  <spring state='OR' lat='43.5290' lng='-119.081' name='GOODMAN SPRING' tempf='72' />
+  <spring state='OR' lat='42.0750' lng='-119.927' name='HALLINAN SPRING' tempf='113' />
+  <spring state='OR' lat='42.1780' lng='-121.801' name='HARDBOARD SPRING' tempf='70' />
+  <spring state='OR' lat='45.1290' lng='-118.738' name='HIDAWAY SPRINGS' tempf='100' />
+  <spring state='OR' lat='45.2440' lng='-117.958' name='HOT LAKE SPRINGS' tempf='176' />
+  <spring state='OR' lat='43.3020' lng='-117.383' name='HOT SPRING' tempf='106' />
+  <spring state='OR' lat='42.3380' lng='-118.602' name='HOT SPRINGS' tempf='207' />
+  <spring state='OR' lat='42.1760' lng='-121.828' name='HOWARD HOLIDAY' tempf='77' />
+  <spring state='OR' lat='43.2520' lng='-119.258' name='HUGHET SPRING' tempf='68' />
+  <spring state='OR' lat='42.2210' lng='-120.368' name='HUNTERS HOT SPRINGS' tempf='205' />
+  <spring state='OR' lat='42.2210' lng='-122.742' name='JACKSON HOT SPRINGS' tempf='95' />
+  <spring state='OR' lat='44.2080' lng='-117.455' name='JAMIESON HOT SPRINGS' tempf='H' />
+  <spring state='OR' lat='44.2800' lng='-118.956' name='JOAQUIN MILLER HOT SPRINGS' tempf='104' />
+  <spring state='OR' lat='43.2650' lng='-119.276' name='JOHNSON SPRING' tempf='72' />
+  <spring state='OR' lat='43.7950' lng='-117.958' name='JONESBORO WARM SPRING' tempf='112' />
+  <spring state='OR' lat='43.7580' lng='-118.067' name='JUNTURA WARM SPRING 1' tempf='77' />
+  <spring state='OR' lat='43.7570' lng='-118.092' name='JUNTURA WARM SPRING 2' tempf='95' />
+  <spring state='OR' lat='44.8620' lng='-121.201' name='KAHNEETA HOT SPRINGS' tempf='126' />
+  <spring state='OR' lat='43.6890' lng='-122.372' name='KITSON HOT SPRINGS' tempf='109' />
+  <spring state='OR' lat='45.0130' lng='-117.885' name='KROPP HOT SPRING' tempf='109' />
+  <spring state='OR' lat='45.1510' lng='-118.659' name='LEHMAN SPRINGS' tempf='142' />
+  <spring state='OR' lat='42.1620' lng='-120.344' name='LEITHEAD HOT SPRING' tempf='162' />
+  <spring state='OR' lat='44.3740' lng='-118.738' name='LIMEKILN HOT SPRING' tempf='70' />
+  <spring state='OR' lat='42.9330' lng='-120.642' name='LOST CABIN SPRING' tempf='68' />
+  <spring state='OR' lat='43.4690' lng='-118.202' name='LUCE HOT SPRINGS' tempf='145' />
+  <spring state='OR' lat='43.7080' lng='-122.288' name='MCCREDIE SPRINGS' tempf='163' />
+  <spring state='OR' lat='45.0180' lng='-117.625' name='MEDICAL HOT SPRINGS' tempf='140' />
+  <spring state='OR' lat='42.6760' lng='-118.344' name='MICKEY SPRINGS' tempf='187' />
+  <spring state='OR' lat='43.5400' lng='-119.081' name='MILLPOND HOT SPRING' tempf='79' />
+  <spring state='OR' lat='43.7630' lng='-117.156' name='MITCHELL BUTTE HOT SPRING' tempf='144' />
+  <spring state='OR' lat='42.3070' lng='-119.875' name='MOSS RANCH SPRING' tempf='72' />
+  <spring state='OR' lat='42.2870' lng='-119.867' name='MOSS RANCH SPRINGS' tempf='83' />
+  <spring state='OR' lat='45.3720' lng='-121.697' name='MOUNT HOOD FUMAROLES' tempf='194' />
+  <spring state='OR' lat='44.4510' lng='-119.105' name='MOUNT VERNON HOT SPRINGS' tempf='121' />
+  <spring state='OR' lat='44.0230' lng='-117.460' name='NEAL HOT SPRINGS' tempf='189' />
+  <spring state='OR' lat='44.5380' lng='-117.417' name='NELSON SPRING' tempf='80' />
+  <spring state='OR' lat='42.1740' lng='-121.615' name='OLENE GAP HOT SPRINGS' tempf='165' />
+  <spring state='OR' lat='42.1160' lng='-121.287' name='OREGON HOT SPRINGS (BIG HOT SPRING)' tempf='142' />
+  <spring state='OR' lat='42.9300' lng='-120.798' name='PARDON WARM SPRING' tempf='76' />
+  <spring state='OR' lat='43.7320' lng='-121.252' name='PAULINA SPRINGS' tempf='70' />
+  <spring state='OR' lat='44.9270' lng='-117.939' name='RADIUM HOT SPRINGS' tempf='135' />
+  <spring state='OR' lat='44.8920' lng='-119.141' name='RITTER HOT SPRINGS' tempf='106' />
+  <spring state='OR' lat='43.5010' lng='-119.091' name='ROADLAND SPRING' tempf='72' />
+  <spring state='OR' lat='44.7790' lng='-117.811' name='SAM O SPRING' tempf='80' />
+  <spring state='OR' lat='42.7560' lng='-117.550' name='SCOTT SPRING' tempf='68' />
+  <spring state='OR' lat='43.7930' lng='-118.472' name='SITZ WARM SPRING' tempf='W' />
+  <spring state='OR' lat='43.7270' lng='-117.203' name='SNIVELY HOT SPRING' tempf='170' />
+  <spring state='OR' lat='43.7030' lng='-117.190' name='SOUTH BLACK WILLOW SPRING' tempf='71' />
+  <spring state='OR' lat='44.8130' lng='-117.765' name='SPRING (HOT)' tempf='W' />
+  <spring state='OR' lat='43.8930' lng='-117.596' name='SPRINGS' tempf='W' />
+  <spring state='OR' lat='44.8670' lng='-121.228' name='SPRINGS' tempf='125' />
+  <spring state='OR' lat='43.3950' lng='-118.308' name='SPRINGS (HOT)' tempf='106' />
+  <spring state='OR' lat='42.7250' lng='-120.646' name='SUMMER LAKE HOT SPRING' tempf='109' />
+  <spring state='OR' lat='45.2950' lng='-121.731' name='SWIM WARM SPRINGS' tempf='79' />
+  <spring state='OR' lat='42.6880' lng='-117.905' name='TUDORS SPRING' tempf='68' />
+  <spring state='OR' lat='43.2940' lng='-122.367' name='UMPQUA HOT SPRINGS' tempf='117' />
+  <spring state='OR' lat='45.2060' lng='-117.912' name='UNION STATION HOT SPRINGS' tempf='H' />
+  <spring state='OR' lat='43.9820' lng='-117.233' name='VALE HOT SPRINGS' tempf='163' />
+  <spring state='OR' lat='43.8080' lng='-122.309' name='WALL CREEK WARM SPRINGS' tempf='106' />
+  <spring state='OR' lat='45.0610' lng='-118.455' name='WARM MINERAL SPRING' tempf='83' />
+  <spring state='OR' lat='42.0400' lng='-120.924' name='WARM SPRING' tempf='92' />
+  <spring state='OR' lat='43.7760' lng='-118.047' name='WARM SPRING' tempf='W' />
+  <spring state='OR' lat='45.2950' lng='-117.806' name='WARM SPRING' tempf='85' />
+  <spring state='OR' lat='42.8150' lng='-118.899' name='WARM SPRINGS' tempf='89' />
+  <spring state='OR' lat='43.9500' lng='-119.634' name='WARM SPRINGS' tempf='84' />
+  <spring state='OR' lat='42.2190' lng='-119.877' name='WARNER VALLEY RANCH' tempf='198' />
+  <spring state='OR' lat='44.0020' lng='-119.647' name='WEBERG HOT SPRING' tempf='115' />
+  <spring state='OR' lat='45.6310' lng='-119.703' name='WELL SPRING' tempf='80' />
+  <spring state='OR' lat='42.3250' lng='-120.327' name='WHITE ROCK RANCH HOT SPRING' tempf='71' />
+  <spring state='OR' lat='42.1330' lng='-121.219' name='WILKERSONS HOT SPRING' tempf='76' />
+  <spring state='OR' lat='42.5330' lng='-117.182' name='unnamed' tempf='95' />
+  <spring state='OR' lat='43.8930' lng='-117.501' name='unnamed' tempf='158' />
+  <spring state='OR' lat='43.2150' lng='-117.502' name='unnamed' tempf='H' />
+  <spring state='OR' lat='43.8580' lng='-118.544' name='unnamed' tempf='165' />
+  <spring state='OR' lat='43.6460' lng='-118.251' name='unnamed' tempf='144' />
+  <spring state='OR' lat='45.5010' lng='-117.973' name='unnamed' tempf='W' />
+  <spring state='OR' lat='43.1850' lng='-119.058' name='unnamed' tempf='154' />
+  <spring state='OR' lat='43.2000' lng='-119.128' name='unnamed' tempf='108' />
+  <spring state='OR' lat='43.2100' lng='-119.058' name='unnamed' tempf='92' />
+  <spring state='OR' lat='43.2130' lng='-119.137' name='unnamed' tempf='104' />
+  <spring state='OR' lat='43.2380' lng='-119.062' name='unnamed' tempf='70' />
+  <spring state='OR' lat='43.3380' lng='-119.428' name='unnamed' tempf='68' />
+  <spring state='OR' lat='43.6630' lng='-118.739' name='unnamed' tempf='72' />
+  <spring state='OR' lat='43.0730' lng='-117.697' name='unnamed' tempf='H' />
+  <spring state='OR' lat='43.5890' lng='-117.326' name='unnamed' tempf='H' />
+  <spring state='OR' lat='42.2530' lng='-118.312' name='unnamed' tempf='100' />
+  <spring state='OR' lat='42.8370' lng='-118.863' name='unnamed' tempf='83' />
+  <spring state='OR' lat='42.2540' lng='-118.703' name='unnamed' tempf='90' />
+  <spring state='OR' lat='42.0790' lng='-117.760' name='unnamed' tempf='126' />
+  <spring state='SD' lat='43.4520' lng='-103.508' name='HOT BROOK SPRINGS' tempf='75' />
+  <spring state='SD' lat='43.4420' lng='-103.481' name='HOT SPRINGS' tempf='87' />
+  <spring state='TX' lat='30.2100' lng='-104.562' name='CAPOTE SPRINGS' tempf='99' />
+  <spring state='TX' lat='29.1820' lng='-102.992' name='HOT SPRINGS' tempf='106' />
+  <spring state='TX' lat='30.8230' lng='-105.315' name='INDIAN HOT SPRINGS' tempf='117' />
+  <spring state='TX' lat='30.1330' lng='-104.602' name='NIXON SPRING' tempf='90' />
+  <spring state='TX' lat='30.8610' lng='-105.340' name='RED BULL SPRING' tempf='99' />
+  <spring state='TX' lat='29.1780' lng='-102.953' name='RIO GRANDE VILLAGE SPRING' tempf='97' />
+  <spring state='TX' lat='30.0380' lng='-104.598' name='RUIDOSA HOT SPRINGS' tempf='113' />
+  <spring state='TX' lat='29.7870' lng='-104.462' name='SPRINGS (LAS CIENEGAS)' tempf='86' />
+  <spring state='TX' lat='29.8050' lng='-102.376' name='unnamed' tempf='90' />
+  <spring state='UT' lat='39.6130' lng='-112.729' name='BAKER (ABRAHAM, CRATER) HOT SPRINGS' tempf='180' />
+  <spring state='UT' lat='40.8150' lng='-111.918' name='BECKS HOT SPRING' tempf='133' />
+  <spring state='UT' lat='37.1660' lng='-113.383' name='BERRY SPRINGS' tempf='75' />
+  <spring state='UT' lat='38.1380' lng='-112.863' name='BIG MAPLE SPRING' tempf='70' />
+  <spring state='UT' lat='40.7430' lng='-112.642' name='BIG WARM SPRINGS' tempf='72' />
+  <spring state='UT' lat='40.1760' lng='-111.801' name='BIRD ISLAND' tempf='86' />
+  <spring state='UT' lat='41.8330' lng='-112.454' name='BLUE CREEK SPRING' tempf='82' />
+  <spring state='UT' lat='40.5020' lng='-114.038' name='BLUE LAKE SPRING' tempf='84' />
+  <spring state='UT' lat='41.7220' lng='-112.266' name='BOTHWELL WARM SPRINGS' tempf='75' />
+  <spring state='UT' lat='40.4580' lng='-111.929' name='CAMP WILLIAMS' tempf='70' />
+  <spring state='UT' lat='40.0380' lng='-111.529' name='CASTILLA SPRINGS' tempf='104' />
+  <spring state='UT' lat='41.0380' lng='-111.656' name='COMO SPRINGS' tempf='81' />
+  <spring state='UT' lat='41.2390' lng='-112.413' name='COMPTON SPRING' tempf='72' />
+  <spring state='UT' lat='38.7700' lng='-112.871' name='COYOTE SPRING' tempf='68' />
+  <spring state='UT' lat='41.9010' lng='-112.999' name='COYOTE SPRING' tempf='109' />
+  <spring state='UT' lat='39.4240' lng='-113.485' name='COYOTE SPRING' tempf='82' />
+  <spring state='UT' lat='40.3530' lng='-111.895' name='CRATER HOT SPRING' tempf='111' />
+  <spring state='UT' lat='41.6590' lng='-112.087' name='CRYSTAL (MADSENS) HOT SPRINGS' tempf='129' />
+  <spring state='UT' lat='40.4880' lng='-111.911' name='CRYSTAL HOT SPRINGS' tempf='187' />
+  <spring state='UT' lat='41.8340' lng='-112.054' name='CUTLER WARM SPRING' tempf='73' />
+  <spring state='UT' lat='40.1720' lng='-112.426' name='DAVIS' tempf='68' />
+  <spring state='UT' lat='40.5380' lng='-112.747' name='DESERET LIVESTOCK' tempf='75' />
+  <spring state='UT' lat='40.5580' lng='-112.739' name='DESERET LIVESTOCK SOUTH SPRING' tempf='72' />
+  <spring state='UT' lat='40.5650' lng='-112.738' name='DESERET LIVESTOCK SOUTH SPRINGS' tempf='73' />
+  <spring state='UT' lat='40.1180' lng='-111.337' name='DIAMOND FORK WARM SPRINGS' tempf='68' />
+  <spring state='UT' lat='37.1890' lng='-113.272' name='DIXIE (LAVERKIN) HOT SPRINGS' tempf='108' />
+  <spring state='UT' lat='38.2170' lng='-112.904' name='DOTSONS (RADIUM) WARM SPRING' tempf='91' />
+  <spring state='UT' lat='40.5450' lng='-111.928' name='EAST JORDAN CANAL' tempf='73' />
+  <spring state='UT' lat='40.3320' lng='-111.891' name='FAULT ZONE SPRING' tempf='90' />
+  <spring state='UT' lat='39.8420' lng='-113.392' name='FISH SPRINGS' tempf='82' />
+  <spring state='UT' lat='39.6160' lng='-112.803' name='FUMAROLE BUTTE' tempf='73' />
+  <spring state='UT' lat='41.9170' lng='-111.958' name='GANCHEFF SPRING' tempf='88' />
+  <spring state='UT' lat='39.4640' lng='-114.038' name='GANDY WARM SPRINGS' tempf='81' />
+  <spring state='UT' lat='39.9550' lng='-111.858' name='GOSHEN WARM SRINGS' tempf='73' />
+  <spring state='UT' lat='40.6470' lng='-112.524' name='GRANTSVILLE WARM SPRINGS' tempf='77' />
+  <spring state='UT' lat='37.1380' lng='-113.528' name='GREEN SPRING' tempf='75' />
+  <spring state='UT' lat='38.8500' lng='-112.490' name='HATTON HOT SPRING' tempf='100' />
+  <spring state='UT' lat='41.8290' lng='-113.654' name='HEAD SPRING' tempf='70' />
+  <spring state='UT' lat='40.7880' lng='-112.017' name='HOBO WARM SPRING' tempf='84' />
+  <spring state='UT' lat='41.1380' lng='-112.175' name='HOOPER HOT SPRINGS' tempf='140' />
+  <spring state='UT' lat='40.6140' lng='-112.709' name='HORSESHOE SPRINGS' tempf='73' />
+  <spring state='UT' lat='37.3930' lng='-113.610' name='IRVINE SPRING' tempf='70' />
+  <spring state='UT' lat='38.6030' lng='-112.111' name='JOHNSON WARM SPRING' tempf='77' />
+  <spring state='UT' lat='38.6130' lng='-112.202' name='JOSEPH HOT SPRINGS' tempf='147' />
+  <spring state='UT' lat='41.5630' lng='-113.954' name='KIMBER (ROSE) SPRING' tempf='68' />
+  <spring state='UT' lat='39.2490' lng='-113.877' name='KNOLL SPRINGS' tempf='68' />
+  <spring state='UT' lat='41.8220' lng='-113.263' name='L.G. CARTER SPRINGS' tempf='77' />
+  <spring state='UT' lat='41.8180' lng='-113.311' name='LARSON SPRINGS' tempf='70' />
+  <spring state='UT' lat='37.9420' lng='-112.438' name='LEFEVRE' tempf='90' />
+  <spring state='UT' lat='40.1460' lng='-111.806' name='LINCOLN POINT WARM SPRINGS' tempf='90' />
+  <spring state='UT' lat='41.5820' lng='-112.256' name='LITTLE MOUNTAIN HOT SPRING' tempf='108' />
+  <spring state='UT' lat='39.2460' lng='-111.645' name='LIVINGSTON WARM SPRINGS' tempf='73' />
+  <spring state='UT' lat='38.8640' lng='-112.506' name='MEADOW HOT SPRINGS' tempf='106' />
+  <spring state='UT' lat='40.5170' lng='-111.475' name='MIDWAY HOT SPRING' tempf='115' />
+  <spring state='UT' lat='40.5260' lng='-111.488' name='MIDWAY HOT SPRINGS' tempf='100' />
+  <spring state='UT' lat='40.5250' lng='-111.468' name='MIDWAY HOT SPRINGS' tempf='104' />
+  <spring state='UT' lat='38.6330' lng='-112.107' name='MONROE (COOPER) HOT SPRINGS' tempf='169' />
+  <spring state='UT' lat='40.3970' lng='-112.421' name='MORGANS WARM SPRING' tempf='80' />
+  <spring state='UT' lat='39.8870' lng='-113.413' name='NORTH SPRINGS' tempf='82' />
+  <spring state='UT' lat='41.2360' lng='-111.924' name='OGDEN HOT SPRING' tempf='135' />
+  <spring state='UT' lat='41.3280' lng='-111.826' name='PATIO SPRINGS' tempf='68' />
+  <spring state='UT' lat='41.4490' lng='-112.442' name='POULSEN SPRING (SALT)' tempf='72' />
+  <spring state='UT' lat='41.8310' lng='-113.391' name='PUGSLEY' tempf='73' />
+  <spring state='UT' lat='39.7880' lng='-111.881' name='RAY LUNT SPRING' tempf='68' />
+  <spring state='UT' lat='37.1740' lng='-112.535' name='RED CANYON' tempf='72' />
+  <spring state='UT' lat='38.6390' lng='-112.098' name='RED HILL HOT SPRING' tempf='171' />
+  <spring state='UT' lat='40.6530' lng='-112.907' name='REDLUM SPRING' tempf='70' />
+  <spring state='UT' lat='38.7740' lng='-112.096' name='RICHFIELD WARM SPRINGS' tempf='73' />
+  <spring state='UT' lat='38.5030' lng='-112.849' name='ROOSEVELT HOT SPRINGS' tempf='133' />
+  <spring state='UT' lat='40.3900' lng='-112.424' name='RUSSELLS WARM SPRINGS' tempf='72' />
+  <spring state='UT' lat='38.9810' lng='-111.829' name='SALT SPRING' tempf='72' />
+  <spring state='UT' lat='40.3500' lng='-111.905' name='SARATOGA HOT SPRINGS' tempf='111' />
+  <spring state='UT' lat='37.1780' lng='-113.634' name='SNOW SPRING' tempf='70' />
+  <spring state='UT' lat='39.3340' lng='-113.518' name='SOUTH TULE SPRING' tempf='77' />
+  <spring state='UT' lat='40.4650' lng='-109.221' name='SPLIT MOUNTAIN WARM SPRINGS' tempf='86' />
+  <spring state='UT' lat='41.6870' lng='-113.986' name='SPRING (HOT)' tempf='108' />
+  <spring state='UT' lat='38.7620' lng='-112.870' name='SPRINGS' tempf='68' />
+  <spring state='UT' lat='41.6430' lng='-112.281' name='SPRINGS' tempf='72' />
+  <spring state='UT' lat='39.8990' lng='-112.045' name='SPRINGS' tempf='72' />
+  <spring state='UT' lat='39.1830' lng='-111.691' name='STERLING (PEACOCK) WARM SPRING' tempf='72' />
+  <spring state='UT' lat='41.5780' lng='-112.230' name='STINKING HOT SPRINGS' tempf='118' />
+  <spring state='UT' lat='38.5600' lng='-112.578' name='SULPHURDALE' tempf='72' />
+  <spring state='UT' lat='37.9370' lng='-112.424' name='TEBBS' tempf='68' />
+  <spring state='UT' lat='38.1860' lng='-113.197' name='THERMO HOT SPRINGS' tempf='185' />
+  <spring state='UT' lat='38.1720' lng='-113.204' name='THERMO HOT SPRINGS' tempf='181' />
+  <spring state='UT' lat='39.3500' lng='-113.515' name='TULE SPRING' tempf='82' />
+  <spring state='UT' lat='39.4030' lng='-113.863' name='TWIN SPRINGS' tempf='68' />
+  <spring state='UT' lat='41.8550' lng='-112.158' name='UDY HOT SPRINGS' tempf='124' />
+  <spring state='UT' lat='38.1860' lng='-112.912' name='US BLM' tempf='91' />
+  <spring state='UT' lat='40.7330' lng='-112.621' name='UTAH FISH AND GAME DEPT' tempf='75' />
+  <spring state='UT' lat='41.3380' lng='-112.031' name='UTAH HOT SPRINGS' tempf='138' />
+  <spring state='UT' lat='37.3350' lng='-113.687' name='VEYO HOT SPRING' tempf='90' />
+  <spring state='UT' lat='37.1580' lng='-113.399' name='VIRGIN RIVER SPRING' tempf='70' />
+  <spring state='UT' lat='41.8080' lng='-113.327' name='W.R. CARTER SPRINGS' tempf='70' />
+  <spring state='UT' lat='40.5360' lng='-111.478' name='WARM DITCH SPRING' tempf='115' />
+  <spring state='UT' lat='37.7000' lng='-110.421' name='WARM SPRING' tempf='79' />
+  <spring state='UT' lat='37.1370' lng='-113.513' name='WARM SPRING' tempf='75' />
+  <spring state='UT' lat='41.6140' lng='-113.613' name='WARM SPRING' tempf='68' />
+  <spring state='UT' lat='41.7560' lng='-113.603' name='WARM SPRING' tempf='81' />
+  <spring state='UT' lat='40.4470' lng='-110.828' name='WARM SPRINGS' tempf='79' />
+  <spring state='UT' lat='40.2280' lng='-111.867' name='WARM SPRINGS' tempf='75' />
+  <spring state='UT' lat='40.2340' lng='-111.865' name='WARM SPRINGS' tempf='77' />
+  <spring state='UT' lat='37.0960' lng='-113.447' name='WARNER VALLEY SPRING' tempf='70' />
+  <spring state='UT' lat='40.7880' lng='-111.899' name='WASATCH HOT SPRINGS' tempf='108' />
+  <spring state='UT' lat='38.1550' lng='-112.901' name='WILLOW SPRING' tempf='72' />
+  <spring state='UT' lat='39.9060' lng='-113.430' name='WILSON HEALTH SPRINGS' tempf='142' />
+  <spring state='UT' lat='40.1670' lng='-111.622' name='WOOD SPRINGS' tempf='73' />
+  <spring state='UT' lat='38.3400' lng='-113.220' name='WOODHOUSE SPRING' tempf='72' />
+  <spring state='UT' lat='38.8690' lng='-112.484' name='unnamed' tempf='72' />
+  <spring state='UT' lat='41.3360' lng='-112.406' name='unnamed' tempf='77' />
+  <spring state='UT' lat='40.6250' lng='-112.703' name='unnamed' tempf='72' />
+  <spring state='UT' lat='40.7030' lng='-112.579' name='unnamed' tempf='68' />
+  <spring state='UT' lat='40.6970' lng='-111.493' name='unnamed' tempf='70' />
+  <spring state='UT' lat='39.3050' lng='-113.491' name='unnamed' tempf='81' />
+  <spring state='UT' lat='39.3880' lng='-113.504' name='unnamed' tempf='77' />
+  <spring state='UT' lat='39.4290' lng='-113.881' name='unnamed' tempf='68' />
+  <spring state='VA' lat='37.1600' lng='-80.8060' name='ALUM SPRINGS' tempf='72' />
+  <spring state='VA' lat='38.2180' lng='-79.6730' name='BOLAR SPRING' tempf='73' />
+  <spring state='VA' lat='38.2380' lng='-79.6500' name='BRAGG SPRING' tempf='75' />
+  <spring state='VA' lat='37.8700' lng='-79.9330' name='FALLING SPRING' tempf='77' />
+  <spring state='VA' lat='37.9630' lng='-79.8610' name='HEALING SPRINGS' tempf='86' />
+  <spring state='VA' lat='37.9970' lng='-79.8300' name='HOT SPRINGS' tempf='106' />
+  <spring state='VA' lat='37.8600' lng='-79.9880' name='LAYTON SPRING' tempf='72' />
+  <spring state='VA' lat='37.2900' lng='-80.6190' name='NEW RIVER WHITE SULPHUR SPRINGS' tempf='85' />
+  <spring state='VA' lat='37.8980' lng='-79.4620' name='ROCKBRIDGE BATHS' tempf='72' />
+  <spring state='VA' lat='37.6450' lng='-80.2380' name='SWEET CHALYBEATE SPRING' tempf='75' />
+  <spring state='VA' lat='38.0550' lng='-79.7800' name='WARM SPRINGS' tempf='95' />
+  <spring state='WA' lat='48.7630' lng='-121.667' name='BAKER HOT SPRING' tempf='108' />
+  <spring state='WA' lat='45.7010' lng='-121.728' name='COLLINS HOT SPRINGS' tempf='122' />
+  <spring state='WA' lat='48.7890' lng='-121.804' name='DORR FUMAROLE FIELD' tempf='194' />
+  <spring state='WA' lat='46.0410' lng='-121.181' name='FISH HATCHERY WARM SPRING' tempf='75' />
+  <spring state='WA' lat='48.1500' lng='-121.062' name='GAMMA HOT SPRINGS' tempf='140' />
+  <spring state='WA' lat='47.8920' lng='-121.342' name='GARLAND MINERAL SPRINGS' tempf='84' />
+  <spring state='WA' lat='47.4840' lng='-121.391' name='GOLDMEYER HOT SPRINGS' tempf='127' />
+  <spring state='WA' lat='46.3780' lng='-122.265' name='GREEN RIVER SODA SPRING' tempf='86' />
+  <spring state='WA' lat='48.9740' lng='-119.475' name='HOT LAKE' tempf='122' />
+  <spring state='WA' lat='48.1180' lng='-121.192' name='KENNEDY HOT SPRING' tempf='100' />
+  <spring state='WA' lat='45.8210' lng='-121.133' name='KLICKITAT MINERAL SPRINGS' tempf='81' />
+  <spring state='WA' lat='47.2010' lng='-121.536' name='LESTER HOT SPRINGS' tempf='120' />
+  <spring state='WA' lat='46.7520' lng='-121.814' name='LONGMIRE MINERAL SPRINGS' tempf='77' />
+  <spring state='WA' lat='45.6580' lng='-121.962' name='MOFFETTS (BONNEVILLE) HOT SPRINGS' tempf='97' />
+  <spring state='WA' lat='46.2020' lng='-121.492' name='MOUNT ADAMS FUMAROLES' tempf='150' />
+  <spring state='WA' lat='46.8520' lng='-121.758' name='MT RAINIER FUMAROLES' tempf='162' />
+  <spring state='WA' lat='46.1980' lng='-122.197' name='MT ST HELENS FUMAROLES' tempf='190' />
+  <spring state='WA' lat='46.7380' lng='-121.562' name='OHANAPECOSH HOT SPRINGS' tempf='122' />
+  <spring state='WA' lat='47.9770' lng='-123.682' name='OLYMPIC HOT SPRINGS' tempf='118' />
+  <spring state='WA' lat='46.3450' lng='-121.600' name='ORR CREEK WARM SPRINGS' tempf='72' />
+  <spring state='WA' lat='46.5750' lng='-121.706' name='PACKWOOD HOT SPRING' tempf='100' />
+  <spring state='WA' lat='48.9060' lng='-119.455' name='POISON LAKE' tempf='122' />
+  <spring state='WA' lat='45.7230' lng='-121.927' name='ROCK CREEK HOT SPRINGS' tempf='H' />
+  <spring state='WA' lat='47.7070' lng='-121.155' name='SCENIC HOT SPRINGS' tempf='122' />
+  <spring state='WA' lat='48.7700' lng='-121.813' name='SHERMAN CRATER FUMAROLES' tempf='266' />
+  <spring state='WA' lat='46.4520' lng='-120.956' name='SIMCOE SODA SPRINGS' tempf='90' />
+  <spring state='WA' lat='47.9690' lng='-123.864' name='SOL DUC HOT SPRINGS' tempf='122' />
+  <spring state='WA' lat='45.7280' lng='-121.800' name='ST MARTINS HOT SPRINGS' tempf='120' />
+  <spring state='WA' lat='48.2540' lng='-121.170' name='SULPHUR CREEK HOT SPRINGS' tempf='99' />
+  <spring state='WA' lat='46.0240' lng='-118.771' name='WARM SPRINGS CANYON WARM SPRING' tempf='72' />
+  <spring state='WV' lat='39.6180' lng='-78.2300' name='BERKELEY SPRINGS' tempf='72' />
+  <spring state='WV' lat='38.1630' lng='-79.9750' name='MINNEHAHA SPRINGS' tempf='70' />
+  <spring state='WV' lat='37.6300' lng='-80.2400' name='OLD SWEET SPRING' tempf='73' />
+  <spring state='WV' lat='39.4710' lng='-77.8770' name='SWAN POND SPRING' tempf='72' />
+  <spring state='WV' lat='38.6050' lng='-79.3530' name='THORN SPRING' tempf='72' />
+  <spring state='WY' lat='43.5430' lng='-110.741' name='ABERCROMBIE WARM SPRINGS' tempf='81' />
+  <spring state='WY' lat='42.5450' lng='-106.725' name='ALCOVA HOT SPRINGS' tempf='129' />
+  <spring state='WY' lat='44.7970' lng='-110.725' name='AMPHITHEATER SPRINGS' tempf='196' />
+  <spring state='WY' lat='44.8420' lng='-110.732' name='APOLLINARIS SPRING' tempf='H' />
+  <spring state='WY' lat='44.6930' lng='-110.738' name='ARTISTS PAINTPOTS' tempf='199' />
+  <spring state='WY' lat='43.3000' lng='-110.775' name='ASTORIA MINERAL HOT SPRINGS' tempf='99' />
+  <spring state='WY' lat='42.8280' lng='-110.999' name='AUBURN HOT SPRINGS' tempf='144' />
+  <spring state='WY' lat='44.5530' lng='-110.301' name='BEACH SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.6790' lng='-110.746' name='BERYL SPRING' tempf='198' />
+  <spring state='WY' lat='44.7610' lng='-110.730' name='BIJAH SPRING' tempf='198' />
+  <spring state='WY' lat='44.5440' lng='-110.788' name='BLACK WARRIOR GROUP, SHELF SPRING' tempf='205' />
+  <spring state='WY' lat='44.2440' lng='-111.022' name='BOUNDARY CREEK HOT SPRINGS' tempf='181' />
+  <spring state='WY' lat='43.4710' lng='-110.835' name='BOYLES HILL SPRINGS' tempf='86' />
+  <spring state='WY' lat='44.4980' lng='-109.193' name='BUFFALO BILL RESERVOIR SPRINGS' tempf='W' />
+  <spring state='WY' lat='44.4820' lng='-109.204' name='BUFFALO BILL RESERVOIR SPRINGS' tempf='W' />
+  <spring state='WY' lat='44.4950' lng='-109.222' name='BUFFALO BILL RESERVOIR SPRINGS' tempf='W' />
+  <spring state='WY' lat='44.5210' lng='-110.275' name='BUTTE SPRINGS' tempf='187' />
+  <spring state='WY' lat='44.9080' lng='-110.393' name='CALCITE SPRINGS' tempf='201' />
+  <spring state='WY' lat='44.7110' lng='-110.741' name='CHOCOLATE POTS' tempf='124' />
+  <spring state='WY' lat='44.7330' lng='-110.703' name='CISTERN SPRING' tempf='199' />
+  <spring state='WY' lat='44.7560' lng='-110.308' name='COFFEE POT HOT SPRINGS' tempf='196' />
+  <spring state='WY' lat='44.5130' lng='-109.115' name='DE MARIS SPRINGS' tempf='97' />
+  <spring state='WY' lat='42.6650' lng='-105.394' name='DOUGLAS HOT SPRINGS' tempf='86' />
+  <spring state='WY' lat='44.5880' lng='-110.341' name='EBRO SPRINGS' tempf='136' />
+  <spring state='WY' lat='44.7220' lng='-110.701' name='ECHINUS GEYSER' tempf='185' />
+  <spring state='WY' lat='44.5260' lng='-110.835' name='EXCELSIOR GEYSER CRATER' tempf='199' />
+  <spring state='WY' lat='44.5430' lng='-110.859' name='FAIRY SPRINGS' tempf='201' />
+  <spring state='WY' lat='44.5320' lng='-110.796' name='FIVE SISTERS SPRINGS' tempf='192' />
+  <spring state='WY' lat='44.5660' lng='-110.871' name='FLAT CONE SPRING, STEEP CONE' tempf='205' />
+  <spring state='WY' lat='44.5200' lng='-110.828' name='FLOOD GROUP' tempf='203' />
+  <spring state='WY' lat='44.7080' lng='-110.461' name='FOREST SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.5540' lng='-110.812' name='FOUNTAIN GROUP' tempf='201' />
+  <spring state='WY' lat='44.5500' lng='-110.805' name='FOUNTAIN PAINT POT' tempf='136' />
+  <spring state='WY' lat='44.7500' lng='-110.714' name='GAS VENT' tempf='H' />
+  <spring state='WY' lat='44.6120' lng='-110.618' name='GAS VENT' tempf='H' />
+  <spring state='WY' lat='44.7410' lng='-110.699' name='GAS VENT' tempf='H' />
+  <spring state='WY' lat='44.6010' lng='-110.632' name='GAS VENT EAST OF MARY LAKE' tempf='H' />
+  <spring state='WY' lat='44.7150' lng='-110.555' name='GAS VENTS' tempf='H' />
+  <spring state='WY' lat='44.8250' lng='-110.675' name='GAS VENTS AT HORSESHOE HILL' tempf='H' />
+  <spring state='WY' lat='44.5950' lng='-110.622' name='GAS VENTS SOUTHEAST OF MARY LAKE' tempf='H' />
+  <spring state='WY' lat='43.5600' lng='-109.732' name='GEYSER (WARM SPRING CREEK SPRINGS)' tempf='84' />
+  <spring state='WY' lat='44.6910' lng='-110.728' name='GEYSER SPRINGS GROUP' tempf='201' />
+  <spring state='WY' lat='44.6970' lng='-110.724' name='GIBBON HILL GEYSER' tempf='199' />
+  <spring state='WY' lat='43.3650' lng='-110.443' name='GRANITE FALLS HOT SPRINGS' tempf='112' />
+  <spring state='WY' lat='43.3700' lng='-110.445' name='GRANITE HOT SPRING' tempf='106' />
+  <spring state='WY' lat='44.6160' lng='-110.616' name='HIGHLAND HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='42.7020' lng='-107.105' name='HORSE CREEK SPRINGS' tempf='75' />
+  <spring state='WY' lat='44.7330' lng='-110.712' name='HORSESHOE SPRING' tempf='187' />
+  <spring state='WY' lat='44.9850' lng='-110.689' name='HOT RIVER' tempf='136' />
+  <spring state='WY' lat='44.7520' lng='-110.256' name='HOT SPRING' tempf='H' />
+  <spring state='WY' lat='44.6420' lng='-110.238' name='HOT SPRING' tempf='H' />
+  <spring state='WY' lat='44.7430' lng='-110.242' name='HOT SPRING BASIN GROUP' tempf='198' />
+  <spring state='WY' lat='44.7390' lng='-110.258' name='HOT SPRING BASIN GROUP' tempf='153' />
+  <spring state='WY' lat='44.7230' lng='-110.358' name='HOT SPRING ON MOSS CREEK' tempf='115' />
+  <spring state='WY' lat='44.7660' lng='-110.300' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.5720' lng='-110.691' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.7110' lng='-110.468' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.7010' lng='-110.036' name='HOT SPRINGS' tempf='W' />
+  <spring state='WY' lat='44.6670' lng='-110.282' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.6100' lng='-110.438' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.6720' lng='-110.236' name='HOT SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.7340' lng='-110.029' name='HOT SPRINGS' tempf='W' />
+  <spring state='WY' lat='44.7520' lng='-110.418' name='HOT SPRINGS AT SEVENMILE HOLE' tempf='189' />
+  <spring state='WY' lat='44.5910' lng='-110.321' name='HOT SPRINGS AT SULPHUR HILLS' tempf='196' />
+  <spring state='WY' lat='44.6070' lng='-110.617' name='HOT SPRINGS EAST OF MARY LAKE' tempf='H' />
+  <spring state='WY' lat='44.5980' lng='-110.236' name='HOT SPRINGS IN PELICAN VALLEY' tempf='156' />
+  <spring state='WY' lat='44.6970' lng='-110.375' name='HOT SPRINGS ON BOG CREEK' tempf='185' />
+  <spring state='WY' lat='44.6900' lng='-110.384' name='HOT SPRINGS ON BOG CREEK' tempf='199' />
+  <spring state='WY' lat='44.6810' lng='-110.326' name='HOT SPRINGS ON UPPER SOUR CREEK' tempf='194' />
+  <spring state='WY' lat='44.5180' lng='-110.813' name='HOT SPRINGS, RABBIT CREEK GROUP' tempf='198' />
+  <spring state='WY' lat='44.8410' lng='-110.167' name='HOT, ON LAMAR RIVER' tempf='W' />
+  <spring state='WY' lat='44.5320' lng='-110.874' name='IMPERIAL GEYSER, SPRAY GEYSER' tempf='192' />
+  <spring state='WY' lat='44.6620' lng='-110.768' name='IRON SPRING' tempf='86' />
+  <spring state='WY' lat='43.9580' lng='-110.696' name='JACKSON LAKE HOT SPRINGS' tempf='162' />
+  <spring state='WY' lat='43.4890' lng='-109.605' name='JAKEYS FORK SPRING' tempf='68' />
+  <spring state='WY' lat='42.8170' lng='-110.997' name='JOHNSON SPRINGS' tempf='115' />
+  <spring state='WY' lat='44.7390' lng='-110.324' name='JOSEPHS COAT SPRINGS' tempf='199' />
+  <spring state='WY' lat='43.6390' lng='-110.615' name='KELLY WARM SPRING' tempf='81' />
+  <spring state='WY' lat='43.2820' lng='-110.019' name='KENDALL WARM SPRING' tempf='86' />
+  <spring state='WY' lat='44.7490' lng='-108.188' name='LITTLE SHEEP MOUNTAIN SPRING' tempf='68' />
+  <spring state='WY' lat='43.5200' lng='-109.669' name='LITTLE WARM SPRING' tempf='77' />
+  <spring state='WY' lat='44.9670' lng='-110.708' name='MAMMOTH HOT SPRINGS' tempf='163' />
+  <spring state='WY' lat='44.6840' lng='-110.753' name='MONUMENT GEYSER BASIN' tempf='197' />
+  <spring state='WY' lat='44.5710' lng='-110.811' name='MORNING MIST SPRINGS' tempf='205' />
+  <spring state='WY' lat='44.6170' lng='-110.432' name='MUD GEYSERS' tempf='H' />
+  <spring state='WY' lat='44.6250' lng='-110.433' name='MUD VOLCANO' tempf='131' />
+  <spring state='WY' lat='44.5110' lng='-109.156' name='NEEDLE HOT SPRINGS' tempf='75' />
+  <spring state='WY' lat='43.9070' lng='-110.198' name='NORTH BUFFALO FORK SPRINGS' tempf='113' />
+  <spring state='WY' lat='44.6710' lng='-110.290' name='PONUNTPA SPRINGS GROUP' tempf='180' />
+  <spring state='WY' lat='44.5680' lng='-110.805' name='QUAGMIRE GROUP' tempf='203' />
+  <spring state='WY' lat='44.5640' lng='-110.869' name='QUEENS LAUNDRY' tempf='192' />
+  <spring state='WY' lat='44.5140' lng='-110.828' name='RABBIT CREEK GROUP' tempf='198' />
+  <spring state='WY' lat='44.7690' lng='-110.269' name='RAINBOW SPRINGS' tempf='190' />
+  <spring state='WY' lat='44.5630' lng='-110.834' name='RIVER GROUP' tempf='205' />
+  <spring state='WY' lat='44.5560' lng='-110.832' name='RIVER GROUP' tempf='196' />
+  <spring state='WY' lat='44.7530' lng='-110.724' name='ROADSIDE SPRINGS, FRYING PAN SPRING' tempf='158' />
+  <spring state='WY' lat='41.4500' lng='-106.804' name='SARATOGA HOT SPRINGS' tempf='129' />
+  <spring state='WY' lat='44.6710' lng='-110.786' name='SECRET VALLEY HOT SPRINGS' tempf='95' />
+  <spring state='WY' lat='44.7860' lng='-110.740' name='SEMI-CENTENNIAL GEYSER' tempf='198' />
+  <spring state='WY' lat='44.7540' lng='-110.403' name='SEVENMILE HOLE' tempf='154' />
+  <spring state='WY' lat='44.6080' lng='-108.138' name='SHEEP MOUNTAIN SPRINGS' tempf='70' />
+  <spring state='WY' lat='44.5130' lng='-109.129' name='SHOSHONE HOT SPRINGS' tempf='95' />
+  <spring state='WY' lat='44.5510' lng='-110.850' name='SPRINGS ON FAIRY CREEK' tempf='H' />
+  <spring state='WY' lat='44.7810' lng='-110.738' name='STEAM VENTS AT ROARING MOUNTAIN' tempf='H' />
+  <spring state='WY' lat='44.5300' lng='-110.297' name='STEAMBOAT SPRINGS' tempf='198' />
+  <spring state='WY' lat='42.7500' lng='-109.616' name='STEELE HOT SPRINGS' tempf='102' />
+  <spring state='WY' lat='44.6280' lng='-110.433' name='SULPHUR CALDRON' tempf='190' />
+  <spring state='WY' lat='44.6530' lng='-110.482' name='SULPHUR SPRINGS' tempf='194' />
+  <spring state='WY' lat='42.4920' lng='-108.172' name='SWEETWATER STATION WARM SPRINGS' tempf='90' />
+  <spring state='WY' lat='44.7020' lng='-110.767' name='SYLVAN SPRINGS' tempf='192' />
+  <spring state='WY' lat='44.6340' lng='-110.234' name='THE MUDKETTLES' tempf='H' />
+  <spring state='WY' lat='44.6340' lng='-110.226' name='THE MUSHPOTS' tempf='H' />
+  <spring state='WY' lat='43.6540' lng='-108.194' name='THERMOPOLIS HOT SPRINGS' tempf='133' />
+  <spring state='WY' lat='44.5440' lng='-110.258' name='TURBID SPRINGS' tempf='198' />
+  <spring state='WY' lat='44.5820' lng='-110.314' name='VERMILION SPRINGS' tempf='140' />
+  <spring state='WY' lat='44.6560' lng='-110.572' name='VIOLET SPRINGS' tempf='H' />
+  <spring state='WY' lat='44.7080' lng='-110.471' name='WARM SPRING' tempf='W' />
+  <spring state='WY' lat='42.2490' lng='-104.781' name='WARM SPRINGS (IMMIGRANTS WASHTUB)' tempf='70' />
+  <spring state='WY' lat='43.0080' lng='-108.835' name='WASHAKIE MINERAL HOT SPRINGS' tempf='111' />
+  <spring state='WY' lat='44.7660' lng='-110.429' name='WASHBURN HOT SPRINGS' tempf='196' />
+  <spring state='WY' lat='44.5290' lng='-110.791' name='WHITE CREEK GROUP' tempf='185' />
+  <spring state='WY' lat='44.5370' lng='-110.801' name='WHITE DOME GEYSER, SURPRISE POOL' tempf='203' />
+  <spring state='WY' lat='44.7810' lng='-110.699' name='WHITEROCK SPRINGS' tempf='144' />
+  <spring state='WY' lat='43.5830' lng='-108.213' name='WIND RIVER CANYON SPRING' tempf='72' />
+  <spring state='WY' lat='44.7420' lng='-110.579' name='WOLF LAKE SPRINGS' tempf='91' />
+  <spring state='WY' lat='44.7280' lng='-110.701' name='unnamed' tempf='192' />
+  <spring state='WY' lat='44.7140' lng='-110.475' name='unnamed' tempf='167' />
+  <spring state='WY' lat='44.6000' lng='-110.203' name='unnamed' tempf='95' />
+  <spring state='WY' lat='44.5660' lng='-110.816' name='unnamed' tempf='199' />
+  <spring state='WY' lat='44.6900' lng='-110.750' name='unnamed' tempf='187' />
+  <spring state='WY' lat='44.7200' lng='-110.715' name='unnamed' tempf='144' />
+  <spring state='WY' lat='44.7220' lng='-110.708' name='unnamed' tempf='201' />
+</hotsprings>
