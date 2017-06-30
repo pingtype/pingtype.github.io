@@ -83,8 +83,8 @@ if(infowindow)
 infowindow.close();
 var spring=springs[s];
 var marker=spring.marker;
-var mhtml='<table><tbody><tr><td><b>'+spring.name+'</b>'+'</td></tr><tr><td><font size="-1"><iframe src="http://pingtype.github.io/Data/Dinbendon/DinbendonHTML/'+spring.filename+'" frameBorder="0"></iframe></font></td></tr><tr><td><font size="-2">'+(spring.lat>=0.0?'N':'S')+' '+Math.abs(spring.lat)+' '+(spring.lng>=0.0?'E':'W')+' '+Math.abs(spring.lng)+'</font></td></tr></tbody></table>';
-infowindow=new google.maps.InfoWindow({content:mhtml,maxWidth:400});
+var mhtml='<table><tbody><tr><td><b>'+spring.name+'</b>'+'</td></tr><tr><td><font size="-1"><iframe src="http://pingtype.github.io/Data/Dinbendon/DinbendonHTML/'+spring.filename+'" frameBorder="0" height="400px" width="600px"></iframe></font></td></tr><tr><td><font size="-2">'+(spring.lat>=0.0?'N':'S')+' '+Math.abs(spring.lat)+' '+(spring.lng>=0.0?'E':'W')+' '+Math.abs(spring.lng)+'</font></td></tr></tbody></table>';
+infowindow=new google.maps.InfoWindow({content:mhtml,maxWidth:1000});
 infowindow.open(map,marker);
 acme.maps3.InfoWindowStayVisibleOnZoom(map,marker,infowindow);
 }
