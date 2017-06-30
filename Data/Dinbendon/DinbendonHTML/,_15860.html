@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" />
+        <style>
+
+@font-face {
+    font-family: "Charcoal CY";
+    src: url("fonts/Charcoal.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Virtue";
+    src: url("fonts/virtue.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SimSun";
+    src: url("fonts/SimSun.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Jhenghei";
+    src: url("fonts/MicrosoftJhengHeiRegular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PingfangLocal";
+    src: local("PingFang-TC-Regular");
+}
+
+@font-face {
+    font-family: "Pingfang";
+    src: url("fonts/PingFang1.ttf") format("truetype");
+}
+
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+		
+	a:hover, a:visited, a:link, a:active
+	{
+		color:#000000;
+	    text-decoration: none;
+	}
+		
+      .chinese_1 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .chinese_2 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_3 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_4 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_5 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_6 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_7 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+      
+      .chinese_8 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+
+      .pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .pinyin_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+display:inline;
+      }
+
+      .pinyin_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+display:inline;
+      }
+
+      .pinyin_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .pinyin_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .taiwanese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#787878;
+		display:inline;
+      }
+
+      .taiwanese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .taiwanese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .taiwanese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#505050;
+display:inline;
+      }
+
+      .taiwanese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .taiwanese_7 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+      
+      .taiwanese_8 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#929292;
+display:inline;
+      }
+
+      .cantonese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#929292;
+		display:inline;
+      }
+
+      .cantonese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#FF8080;
+display:inline;
+      }
+
+      .cantonese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#787878;
+font-size: 30px;
+display:inline;
+      }
+
+      .cantonese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .cantonese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .cantonese_6 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .hangul {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 26px;
+		display:inline;
+      }
+
+      .tang {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .japanese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .vietnamese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .englishInChinese {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .literal {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .english {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+
+		.DefaultButtonOuter
+		{
+			border: 2px solid black ;
+			border-radius: 8px;
+			width: 96px;
+			height: 26px;
+			text-align: center;
+			
+			/*background-color: #99999a;*/
+			background: #99999a; /* For browsers that do not support gradients */
+			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+		}
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+		.key
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 18px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+
+
+			#matrix {
+				background: black;
+				float: center;
+			}
+
+			#matrix td {
+			    padding: 7px;
+    			margin: 0px;
+    			float: center;
+				background: black;
+				font: 54px arial;
+				
+				height: 80px;
+			}
+
+			#matrix tr {
+				height: 80px;
+			}
+
+
+			#matrix p {
+			    opacity: 0;
+			    margin-top: -25px;
+			    text-align: center;
+
+				height: 80px;
+
+			    -webkit-transition: margin-top 2s ease-in;
+			    -moz-transition: margin-top 2s ease-in;
+			    -o-transition: margin-top 2s ease-in;
+			    -ms-transition: margin-top 2s ease-in;
+			    transition: margin-top 2s ease-in;
+			}
+			
+			#matrix p.load {
+			    opacity: 1;
+			    margin-top: 25px;
+			}
+
+     .dialogWithDropShadow
+     {
+         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); 
+     }
+
+@font-face {
+    font-family: "SmallSealScript";
+    src: url("fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf") format("truetype");
+}
+
+      .smallSealScript_1 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .smallSealScript_2 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_3 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_4 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+@font-face {
+    font-family: "LargeSealScript";
+    src: url("fonts/JDFZHUANF.ttf") format("truetype");
+}
+
+      .largeSealScript_1 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .largeSealScript_2 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_3 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_4 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+@font-face {
+    font-family: "OracleBones";
+    src: url("fonts/bnujgw.ttf") format("truetype");
+}
+
+      .oracleBones_1 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .oracleBones_2 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_3 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_4 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+    </style>
+
+  </head>
+  <body>
+	<p></p><table><tbody><tr><td><div class="englishInChinese">1.</div></td><td><div class="englishInChinese">Gà</div></td><td></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">gừ</div></td><td><div class="englishInChinese">ng	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td><div class="englishInChinese">1.</div></td><td><div class="englishInChinese">Gà</div></td><td></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">gừ</div></td><td><div class="englishInChinese">ng	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td>1.</td><td>Gà</td><td></td><td>xà</td><td>o</td><td>gừ</td><td>ng	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">2.</div></td><td><div class="englishInChinese">Cá</div></td><td></td><td><div class="englishInChinese">thu</div></td><td><div class="englishInChinese">nhậ</div></td><td><div class="englishInChinese">t</div></td><td><div class="englishInChinese">kho</div></td><td><div class="englishInChinese">cà</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">2.</div></td><td><div class="englishInChinese">Cá</div></td><td></td><td><div class="englishInChinese">thu</div></td><td><div class="englishInChinese">nhậ</div></td><td><div class="englishInChinese">t</div></td><td><div class="englishInChinese">kho</div></td><td><div class="englishInChinese">cà</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>2.</td><td>Cá</td><td></td><td>thu</td><td>nhậ</td><td>t</td><td>kho</td><td>cà</td><td>	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">3.</div></td><td><div class="englishInChinese">Tô</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">rang</div></td><td><div class="englishInChinese">mặ</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">3.</div></td><td><div class="englishInChinese">Tô</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">rang</div></td><td><div class="englishInChinese">mặ</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>3.</td><td>Tô</td><td>m</td><td>rang</td><td>mặ</td><td>n	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">4.</div></td><td><div class="englishInChinese">Chả</div></td><td></td><td><div class="englishInChinese">cá</div></td><td></td><td><div class="englishInChinese">chiê</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">số</div></td><td><div class="englishInChinese">t</div></td><td><div class="englishInChinese">cà</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">4.</div></td><td><div class="englishInChinese">Chả</div></td><td></td><td><div class="englishInChinese">cá</div></td><td></td><td><div class="englishInChinese">chiê</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">số</div></td><td><div class="englishInChinese">t</div></td><td><div class="englishInChinese">cà</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>4.</td><td>Chả</td><td></td><td>cá</td><td></td><td>chiê</td><td>n</td><td>số</td><td>t</td><td>cà</td><td>	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">5.</div></td><td><div class="englishInChinese">Cá</div></td><td></td><td><div class="englishInChinese">hư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">chiê</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">xã</div></td><td></td><td><div class="englishInChinese">ớ</div></td><td><div class="englishInChinese">t	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">5.</div></td><td><div class="englishInChinese">Cá</div></td><td></td><td><div class="englishInChinese">hư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">chiê</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">xã</div></td><td></td><td><div class="englishInChinese">ớ</div></td><td><div class="englishInChinese">t	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>5.</td><td>Cá</td><td></td><td>hư</td><td>ờ</td><td>ng</td><td>chiê</td><td>n</td><td>xã</td><td></td><td>ớ</td><td>t	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">6.</div></td><td><div class="englishInChinese">Ế</div></td><td><div class="englishInChinese">ch</div></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">lă</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">6.</div></td><td><div class="englishInChinese">Ế</div></td><td><div class="englishInChinese">ch</div></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">lă</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>6.</td><td>Ế</td><td>ch</td><td>xà</td><td>o</td><td>lă</td><td>n	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">7.</div></td><td><div class="englishInChinese">Sư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">non</div></td><td><div class="englishInChinese">nư</div></td><td><div class="englishInChinese">ớ</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">dầ</div></td><td><div class="englishInChinese">u</div></td><td><div class="englishInChinese">hà</div></td><td><div class="englishInChinese">o	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">7.</div></td><td><div class="englishInChinese">Sư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">n</div></td><td><div class="englishInChinese">non</div></td><td><div class="englishInChinese">nư</div></td><td><div class="englishInChinese">ớ</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">dầ</div></td><td><div class="englishInChinese">u</div></td><td><div class="englishInChinese">hà</div></td><td><div class="englishInChinese">o	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>7.</td><td>Sư</td><td>ờ</td><td>n</td><td>non</td><td>nư</td><td>ớ</td><td>ng</td><td>dầ</td><td>u</td><td>hà</td><td>o	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">8.</div></td><td><div class="englishInChinese">Bò</div></td><td></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">sa</div></td><td><div class="englishInChinese">tế</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">8.</div></td><td><div class="englishInChinese">Bò</div></td><td></td><td><div class="englishInChinese">xà</div></td><td><div class="englishInChinese">o</div></td><td><div class="englishInChinese">sa</div></td><td><div class="englishInChinese">tế</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>8.</td><td>Bò</td><td></td><td>xà</td><td>o</td><td>sa</td><td>tế</td><td>	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">9.</div></td><td><div class="englishInChinese">Canh</div></td><td><div class="englishInChinese">chua</div></td><td><div class="englishInChinese">tô</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">bô</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">so</div></td><td><div class="englishInChinese">đ</div></td><td><div class="englishInChinese">ũ</div></td><td><div class="englishInChinese">a	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">9.</div></td><td><div class="englishInChinese">Canh</div></td><td><div class="englishInChinese">chua</div></td><td><div class="englishInChinese">tô</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">bô</div></td><td><div class="englishInChinese">ng</div></td><td><div class="englishInChinese">so</div></td><td><div class="englishInChinese">đ</div></td><td><div class="englishInChinese">ũ</div></td><td><div class="englishInChinese">a	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>9.</td><td>Canh</td><td>chua</td><td>tô</td><td>m</td><td>bô</td><td>ng</td><td>so</td><td>đ</td><td>ũ</td><td>a	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">10.</div></td><td><div class="englishInChinese">Cơ</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">sư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">10.</div></td><td><div class="englishInChinese">Cơ</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">sư</div></td><td><div class="englishInChinese">ờ</div></td><td><div class="englishInChinese">n	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>10.</td><td>Cơ</td><td>m</td><td>sư</td><td>ờ</td><td>n	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="englishInChinese">11.</div></td><td></td><td><div class="englishInChinese">Cơ</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">chay	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td><div class="englishInChinese">11.</div></td><td></td><td><div class="englishInChinese">Cơ</div></td><td><div class="englishInChinese">m</div></td><td><div class="englishInChinese">chay	</div></td><td><div class="englishInChinese">30000</div></td><td></td></tr><tr><td></td><td>11.</td><td></td><td>Cơ</td><td>m</td><td>chay	</td><td>30000</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><p></p>
+  </body>
+</html>

@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" />
+        <style>
+
+@font-face {
+    font-family: "Charcoal CY";
+    src: url("fonts/Charcoal.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Virtue";
+    src: url("fonts/virtue.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SimSun";
+    src: url("fonts/SimSun.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Jhenghei";
+    src: url("fonts/MicrosoftJhengHeiRegular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PingfangLocal";
+    src: local("PingFang-TC-Regular");
+}
+
+@font-face {
+    font-family: "Pingfang";
+    src: url("fonts/PingFang1.ttf") format("truetype");
+}
+
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+		
+	a:hover, a:visited, a:link, a:active
+	{
+		color:#000000;
+	    text-decoration: none;
+	}
+		
+      .chinese_1 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .chinese_2 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_3 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_4 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_5 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_6 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_7 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+      
+      .chinese_8 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+
+      .pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .pinyin_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+display:inline;
+      }
+
+      .pinyin_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+display:inline;
+      }
+
+      .pinyin_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .pinyin_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .taiwanese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#787878;
+		display:inline;
+      }
+
+      .taiwanese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .taiwanese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .taiwanese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#505050;
+display:inline;
+      }
+
+      .taiwanese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .taiwanese_7 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+      
+      .taiwanese_8 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#929292;
+display:inline;
+      }
+
+      .cantonese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#929292;
+		display:inline;
+      }
+
+      .cantonese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#FF8080;
+display:inline;
+      }
+
+      .cantonese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#787878;
+font-size: 30px;
+display:inline;
+      }
+
+      .cantonese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .cantonese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .cantonese_6 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .hangul {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 26px;
+		display:inline;
+      }
+
+      .tang {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .japanese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .vietnamese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .englishInChinese {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .literal {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .english {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+
+		.DefaultButtonOuter
+		{
+			border: 2px solid black ;
+			border-radius: 8px;
+			width: 96px;
+			height: 26px;
+			text-align: center;
+			
+			/*background-color: #99999a;*/
+			background: #99999a; /* For browsers that do not support gradients */
+			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+		}
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+		.key
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 18px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+
+
+			#matrix {
+				background: black;
+				float: center;
+			}
+
+			#matrix td {
+			    padding: 7px;
+    			margin: 0px;
+    			float: center;
+				background: black;
+				font: 54px arial;
+				
+				height: 80px;
+			}
+
+			#matrix tr {
+				height: 80px;
+			}
+
+
+			#matrix p {
+			    opacity: 0;
+			    margin-top: -25px;
+			    text-align: center;
+
+				height: 80px;
+
+			    -webkit-transition: margin-top 2s ease-in;
+			    -moz-transition: margin-top 2s ease-in;
+			    -o-transition: margin-top 2s ease-in;
+			    -ms-transition: margin-top 2s ease-in;
+			    transition: margin-top 2s ease-in;
+			}
+			
+			#matrix p.load {
+			    opacity: 1;
+			    margin-top: 25px;
+			}
+
+     .dialogWithDropShadow
+     {
+         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); 
+     }
+
+@font-face {
+    font-family: "SmallSealScript";
+    src: url("fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf") format("truetype");
+}
+
+      .smallSealScript_1 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .smallSealScript_2 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_3 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_4 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+@font-face {
+    font-family: "LargeSealScript";
+    src: url("fonts/JDFZHUANF.ttf") format("truetype");
+}
+
+      .largeSealScript_1 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .largeSealScript_2 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_3 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_4 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+@font-face {
+    font-family: "OracleBones";
+    src: url("fonts/bnujgw.ttf") format("truetype");
+}
+
+      .oracleBones_1 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .oracleBones_2 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_3 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_4 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+    </style>
+
+  </head>
+  <body>
+	<p></p><table><tbody><tr><td><div class="chinese_1">招</div><div class="chinese_2">牌</div></td><td><div class="chinese_2">紅</div><div class="chinese_1">燒</div></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_3">小</div></td><td></td><td><div class="englishInChinese">90,</div></td><td></td><td></td><td><div class="chinese_4">大</div></td><td></td><td><div class="englishInChinese">100</div></td><td></td></tr><tr><td><div class="pinyin_1"><span style="font-size:16px">zhāo</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shāo</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td></td><td><div class="englishInChinese">90,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">100</div></td><td></td></tr><tr><td> <div class="literal">sign</div></td><td> <div class="literal">Brown sauce</div></td><td> <div class="literal">Beef Noodles</div></td><td>	</td><td></td><td> <div class="literal">small</div></td><td></td><td>90,</td><td></td><td></td><td> <div class="literal">big</div></td><td></td><td>100</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">活</div><div class="chinese_4">力</div></td><td><div class="chinese_1">蕃</div><div class="chinese_1">茄</div></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">u</span><span style="font-size:18px">ó</span></div> <div class="pinyin_4"><span style="font-size:18px">l</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">fān</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td> <div class="literal">vitality</div></td><td> <div class="literal">tomato</div></td><td> <div class="literal">Beef Noodles</div></td><td>	</td><td>90</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">松</div><div class="chinese_3">阪</div></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">150</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">sōng</span></div> <div class="pinyin_3"><span style="font-size:18px">b</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">150</div></td><td></td></tr><tr><td></td><td> <div class="literal">Matsusaka</div></td><td> <div class="literal">Beef Noodles</div></td><td>	</td><td>150</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">紅</div><div class="chinese_1">燒</div></td><td><div class="chinese_4">半</div></td><td><div class="chinese_1">筋</div></td><td><div class="chinese_4">半</div></td><td><div class="chinese_4">肉</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">110</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shāo</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jīn</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">110</div></td><td></td></tr><tr><td></td><td> <div class="literal">Brown sauce</div></td><td> <div class="literal">half</div></td><td> <div class="literal">muscles</div></td><td> <div class="literal">half</div></td><td> <div class="literal">meat</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>110</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_1">湯</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td> <div class="literal">Beef noodles</div></td><td>	</td><td>60</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">活</div><div class="chinese_4">力</div></td><td><div class="chinese_1">蕃</div><div class="chinese_1">茄</div></td><td><div class="chinese_1">湯</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">u</span><span style="font-size:18px">ó</span></div> <div class="pinyin_4"><span style="font-size:18px">l</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">fān</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td> <div class="literal">vitality</div></td><td> <div class="literal">tomato</div></td><td> <div class="literal">Noodles With soup</div></td><td>	</td><td>60</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">客</div><div class="chinese_1">家</div></td><td><div class="chinese_1">豬</div><div class="chinese_3">腳</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:14px">è</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td> <div class="literal">Hakka</div></td><td> <div class="literal">Pork feet Noodle</div></td><td>	</td><td>80</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">紅</div><div class="chinese_1">燒</div></td><td><div class="chinese_1">豬</div><div class="chinese_4">肉</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shāo</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td> <div class="literal">Brown sauce</div></td><td> <div class="literal">pork</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>80</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">鮮</div><div class="chinese_4">味</div></td><td><div class="chinese_4">大</div></td><td><div class="chinese_2">餛</div><div class="chinese_2">飩</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiān</span></div> <div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td> <div class="literal">Flavor</div></td><td> <div class="literal">big</div></td><td> <div class="literal">Wonton and noodles</div></td><td>	</td><td>70</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">肉</div></td><td><div class="chinese_4">燥</div></td><td><div class="chinese_1">湯</div><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">z</span><span style="font-size:16px">à</span><span style="font-size:14px">o</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">meat</div></td><td> <div class="literal">dry</div></td><td> <div class="literal">Noodles With soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">冬</div></td><td><div class="chinese_1">瓜</div></td><td><div class="chinese_2">排</div><div class="chinese_3">骨</div></td><td><div class="chinese_1">酥</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">dōng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">guā</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">sū</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td> <div class="literal">winter</div></td><td> <div class="literal">melon</div></td><td> <div class="literal">Spare ribs</div></td><td> <div class="literal">butter</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>70</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">美</div><div class="chinese_2">濃</div></td><td><div class="chinese_1">粄</div></td><td><div class="chinese_2">條</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:18px">m</span><span style="font-size:14px">ě</span><span style="font-size:18px">i</span></div> <div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">ban</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:15px">i</span><span style="font-size:17px">á</span><span style="font-size:18px">o</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Mino</div></td><td> <div class="literal">bǎn</div></td><td> <div class="literal">clause</div></td><td> <div class="literal">soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">客</div><div class="chinese_1">家</div></td><td><div class="chinese_4">米</div><div class="chinese_1">粉</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:14px">è</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:14px">ù</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Hakka</div></td><td> <div class="literal">Vegetarian Rice Noodle</div></td><td> <div class="literal">soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_1">乾</div></td><td><div class="chinese_4">拌</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_4">辣</div></td><td></td><td><div class="englishInChinese">90,</div></td><td></td><td></td><td><div class="chinese_4">不</div></td><td><div class="chinese_4">辣</div></td><td></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_1"><span style="font-size:16px">gān</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">l</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">90,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:14px">ù</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">l</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td> <div class="literal">Beef jerky</div></td><td> <div class="literal">mix</div></td><td> <div class="literal">noodles</div></td><td>	</td><td></td><td> <div class="literal">peppery</div></td><td></td><td>90,</td><td></td><td></td><td> <div class="literal">no</div></td><td> <div class="literal">peppery</div></td><td></td><td>90</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">客</div><div class="chinese_1">家</div></td><td><div class="chinese_1">豬</div><div class="chinese_3">腳</div></td><td><div class="chinese_4">拌</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:14px">è</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td> <div class="literal">Hakka</div></td><td> <div class="literal">Pig feet</div></td><td> <div class="literal">mix</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>80</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">鮮</div><div class="chinese_4">味</div></td><td><div class="chinese_2">餛</div><div class="chinese_2">飩</div></td><td><div class="chinese_4">拌</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">75</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiān</span></div> <div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">75</div></td><td></td></tr><tr><td></td><td> <div class="literal">Flavor</div></td><td> <div class="literal">ravioli</div></td><td> <div class="literal">mix</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>75</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">麻</div><div class="chinese_4">醬</div></td><td><div class="chinese_1">乾</div></td><td><div class="chinese_4">扮</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">m</span><span style="font-size:18px">á</span></div> <div class="pinyin_4"><span style="font-size:18px">j</span><span style="font-size:17px">i</span><span style="font-size:16px">à</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gān</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Sesame</div></td><td> <div class="literal">dry</div></td><td> <div class="literal">play</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">肉</div></td><td><div class="chinese_4">燥</div></td><td><div class="chinese_1">乾</div></td><td><div class="chinese_4">拌</div></td><td><div class="chinese_4">麵</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">z</span><span style="font-size:16px">à</span><span style="font-size:14px">o</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gān</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">i</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">meat</div></td><td> <div class="literal">dry</div></td><td> <div class="literal">dry</div></td><td> <div class="literal">mix</div></td><td> <div class="literal">noodles</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">美</div><div class="chinese_2">濃</div></td><td><div class="chinese_1">粄</div></td><td><div class="chinese_2">條</div></td><td><div class="chinese_1">乾</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:18px">m</span><span style="font-size:14px">ě</span><span style="font-size:18px">i</span></div> <div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">ban</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:15px">i</span><span style="font-size:17px">á</span><span style="font-size:18px">o</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gān</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Mino</div></td><td> <div class="literal">bǎn</div></td><td> <div class="literal">clause</div></td><td> <div class="literal">dry</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">客</div><div class="chinese_1">家</div></td><td><div class="chinese_4">米</div><div class="chinese_1">粉</div></td><td><div class="chinese_1">乾</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:14px">è</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:14px">ù</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gān</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Hakka</div></td><td> <div class="literal">Vegetarian Rice Noodle</div></td><td> <div class="literal">dry</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">紅</div><div class="chinese_1">燒</div></td><td><div class="chinese_2">牛</div></td><td><div class="chinese_2">南</div></td><td><div class="chinese_4">燴</div><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shāo</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">á</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">h</span><span style="font-size:16px">u</span><span style="font-size:14px">ì</span></div> <div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">90</div></td><td></td></tr><tr><td></td><td> <div class="literal">Brown sauce</div></td><td> <div class="literal">cow</div></td><td> <div class="literal">south</div></td><td> <div class="literal">Risotto</div></td><td>	</td><td>90</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">香</div></td><td><div class="chinese_1">蔥</div></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div></td><td><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_3">小</div></td><td></td><td><div class="englishInChinese">70,</div></td><td></td><td></td><td><div class="chinese_4">大</div></td><td></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiāng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">cōng</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td></td><td><div class="englishInChinese">70,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td> <div class="literal">incense</div></td><td> <div class="literal">scallions</div></td><td> <div class="literal">beef</div></td><td> <div class="literal">Steamed Rice</div></td><td>	</td><td></td><td> <div class="literal">small</div></td><td></td><td>70,</td><td></td><td></td><td> <div class="literal">big</div></td><td></td><td>80</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">招</div><div class="chinese_2">牌</div></td><td><div class="chinese_4">控</div></td><td><div class="chinese_4">肉</div><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">zhāo</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:17px">ò</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">sign</div></td><td> <div class="literal">accuse</div></td><td> <div class="literal">Pork Fried Rice</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">客</div><div class="chinese_1">家</div></td><td><div class="chinese_1">豬</div><div class="chinese_3">腳</div></td><td><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">k</span><span style="font-size:14px">è</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Hakka</div></td><td> <div class="literal">Pig feet</div></td><td> <div class="literal">Steamed Rice</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">古</div></td><td><div class="chinese_3">早</div></td><td><div class="chinese_4">味</div></td><td><div class="chinese_4">肉</div><div class="chinese_4">燥</div><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_3">小</div></td><td></td><td><div class="englishInChinese">30,</div></td><td></td><td></td><td><div class="chinese_4">大</div></td><td></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">z</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_4"><span style="font-size:18px">z</span><span style="font-size:16px">à</span><span style="font-size:14px">o</span></div> <div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td></td><td><div class="englishInChinese">30,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">old</div></td><td> <div class="literal">early</div></td><td> <div class="literal">taste</div></td><td> <div class="literal">Rice With Minced Pork</div></td><td>	</td><td></td><td> <div class="literal">small</div></td><td></td><td>30,</td><td></td><td></td><td> <div class="literal">big</div></td><td></td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">小</div><div class="chinese_2">時</div><div class="chinese_1">候</div></td><td><div class="chinese_1">雞</div><div class="chinese_1">絲</div></td><td><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_3">小</div></td><td></td><td><div class="englishInChinese">35,</div></td><td></td><td></td><td><div class="chinese_4">大</div></td><td></td><td><div class="englishInChinese">45</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> <div class="pinyin_2"><span style="font-size:14px">s</span><span style="font-size:16px">h</span><span style="font-size:18px">í</span></div> <div class="pinyin_1"><span style="font-size:16px">hou</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jī</span></div> <div class="pinyin_1"><span style="font-size:16px">sī</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td></td><td><div class="englishInChinese">35,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">45</div></td><td></td></tr><tr><td></td><td> <div class="literal">A child</div></td><td> <div class="literal">Chicken wire</div></td><td> <div class="literal">Steamed Rice</div></td><td>	</td><td></td><td> <div class="literal">small</div></td><td></td><td>35,</td><td></td><td></td><td> <div class="literal">big</div></td><td></td><td>45</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">香</div></td><td><div class="chinese_1">豬</div><div class="chinese_2">油</div></td><td><div class="chinese_4">拌</div></td><td><div class="chinese_4">飯</div></td><td><div class="englishInChinese">	</div></td><td></td><td><div class="chinese_3">小</div></td><td></td><td><div class="englishInChinese">30,</div></td><td></td><td></td><td><div class="chinese_4">大</div></td><td></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiāng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_2"><span style="font-size:14px">y</span><span style="font-size:16px">ó</span><span style="font-size:18px">u</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">b</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">f</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="englishInChinese">	</div></td><td></td><td><div class="pinyin_3"><span style="font-size:18px">x</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td></td><td><div class="englishInChinese">30,</div></td><td></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:14px">à</span></div> </td><td></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">incense</div></td><td> <div class="literal">lard</div></td><td> <div class="literal">mix</div></td><td> <div class="literal">Steamed Rice</div></td><td>	</td><td></td><td> <div class="literal">small</div></td><td></td><td>30,</td><td></td><td></td><td> <div class="literal">big</div></td><td></td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">招</div><div class="chinese_2">牌</div></td><td><div class="chinese_2">紅</div><div class="chinese_1">燒</div><div class="chinese_2">牛</div><div class="chinese_4">肉</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">zhāo</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:15px">ó</span><span style="font-size:17px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shāo</span></div> <div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td> <div class="literal">sign</div></td><td> <div class="literal">House special Beef soup</div></td><td>	</td><td>70</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">活</div><div class="chinese_4">力</div></td><td><div class="chinese_1">蕃</div><div class="chinese_1">茄</div></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">u</span><span style="font-size:18px">ó</span></div> <div class="pinyin_4"><span style="font-size:18px">l</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">fān</span></div> <div class="pinyin_1"><span style="font-size:16px">jiā</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">70</div></td><td></td></tr><tr><td></td><td> <div class="literal">vitality</div></td><td> <div class="literal">tomato</div></td><td> <div class="literal">beef</div></td><td> <div class="literal">soup</div></td><td>	</td><td>70</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">鮮</div><div class="chinese_4">味</div></td><td><div class="chinese_2">餛</div><div class="chinese_2">飩</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiān</span></div> <div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:16px">ú</span><span style="font-size:18px">n</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Flavor</div></td><td> <div class="literal">Wonton Dumpling soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">人</div><div class="chinese_1">蔘</div></td><td><div class="chinese_2">蓮</div><div class="chinese_3">子</div></td><td><div class="chinese_1">豬</div><div class="chinese_1">心</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">r</span><span style="font-size:16px">é</span><span style="font-size:18px">n</span></div> <div class="pinyin_1"><span style="font-size:16px">shēn</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">l</span><span style="font-size:15px">i</span><span style="font-size:17px">á</span><span style="font-size:18px">n</span></div> <div class="pinyin_3"><span style="font-size:16px">zǐ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_1"><span style="font-size:16px">xīn</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td> <div class="literal">Ginseng</div></td><td> <div class="literal">Lotus seeds</div></td><td> <div class="literal">pig heart</div></td><td> <div class="literal">soup</div></td><td>	</td><td>60</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">養</div><div class="chinese_1">生</div></td><td><div class="chinese_3">補</div><div class="chinese_4">氣</div></td><td><div class="chinese_1">雞</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:18px">y</span><span style="font-size:14px">ǎ</span><span style="font-size:14px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shēng</span></div> </td><td><div class="pinyin_3"><span style="font-size:16px">bǔ</span></div> <div class="pinyin_4"><span style="font-size:18px">q</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jī</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Health</div></td><td> <div class="literal">Qi</div></td><td> <div class="literal">Chicken soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">一</div><div class="chinese_3">品</div></td><td><div class="chinese_3">養</div><div class="chinese_1">生</div></td><td><div class="chinese_1">菇</div></td><td><div class="chinese_4">蕈</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">yī</span></div> <div class="pinyin_3"><span style="font-size:18px">p</span><span style="font-size:14px">ǐ</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">y</span><span style="font-size:14px">ǎ</span><span style="font-size:14px">n</span><span style="font-size:18px">g</span></div> <div class="pinyin_1"><span style="font-size:16px">shēng</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gū</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">x</span><span style="font-size:16px">ù</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">One product</div></td><td> <div class="literal">Health</div></td><td> <div class="literal">mushrooms</div></td><td> <div class="literal">mushrooms</div></td><td> <div class="literal">soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">排</div><div class="chinese_3">骨</div></td><td><div class="chinese_1">酥</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">sū</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Spare ribs</div></td><td> <div class="literal">butter</div></td><td> <div class="literal">soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">杏</div></td><td><div class="chinese_1">包</div></td><td><div class="chinese_1">菇</div></td><td><div class="chinese_2">排</div><div class="chinese_3">骨</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">x</span><span style="font-size:17px">ì</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">bāo</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gū</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Apricot</div></td><td> <div class="literal">wrap</div></td><td> <div class="literal">mushrooms</div></td><td> <div class="literal">Spare ribs</div></td><td> <div class="literal">soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">竹</div><div class="chinese_3">筍</div><div class="chinese_2">排</div><div class="chinese_1">骨</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">z</span><span style="font-size:16px">h</span><span style="font-size:18px">ú</span></div> <div class="pinyin_3"><span style="font-size:18px">s</span><span style="font-size:14px">ǔ</span><span style="font-size:18px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:15px">á</span><span style="font-size:16px">i</span><span style="font-size:17px">g</span><span style="font-size:18px">ǔ</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_1"><span style="font-size:16px"></span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Bamboo shoots and Sparerib soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_3">苦</div><div class="chinese_1">瓜</div><div class="chinese_2">排</div><div class="chinese_3">骨</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_3"><span style="font-size:16px">kǔ</span></div> <div class="pinyin_1"><span style="font-size:16px">guā</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Bitter mellon and Sparerib soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">青</div><div class="chinese_4">木</div></td><td><div class="chinese_1">瓜</div></td><td><div class="chinese_2">排</div><div class="chinese_3">骨</div></td><td><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">qīng</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:14px">ù</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">guā</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_3"><span style="font-size:16px">gǔ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Aoki</div></td><td> <div class="literal">melon</div></td><td> <div class="literal">Spare ribs</div></td><td> <div class="literal">soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">金</div><div class="chinese_1">針</div><div class="chinese_2">排</div><div class="chinese_1">骨</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">jīn</span></div> <div class="pinyin_1"><span style="font-size:16px">zhēn</span></div> <div class="pinyin_2"><span style="font-size:14px">p</span><span style="font-size:15px">á</span><span style="font-size:16px">i</span><span style="font-size:17px">g</span><span style="font-size:18px">ǔ</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_1"><span style="font-size:16px"></span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Lily flower and Sparerib soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">香</div><div class="chinese_1">菇</div></td><td><div class="chinese_1">雞</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">xiāng</span></div> <div class="pinyin_1"><span style="font-size:16px">gū</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jī</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Black Mushroon, Chinese mushroom</div></td><td> <div class="literal">Chicken soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">人</div><div class="chinese_1">蔘</div></td><td><div class="chinese_3">枸</div><div class="chinese_3">杞</div></td><td><div class="chinese_1">雞</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">r</span><span style="font-size:16px">é</span><span style="font-size:18px">n</span></div> <div class="pinyin_1"><span style="font-size:16px">shēn</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">g</span><span style="font-size:14px">ǒ</span><span style="font-size:18px">u</span></div> <div class="pinyin_3"><span style="font-size:16px">qǐ</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jī</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">50</div></td><td></td></tr><tr><td></td><td> <div class="literal">Ginseng</div></td><td> <div class="literal">Wolfberry</div></td><td> <div class="literal">Chicken soup</div></td><td>	</td><td>50</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_4">蒜</div><div class="chinese_2">頭</div></td><td><div class="chinese_1">開</div><div class="chinese_4">胃</div></td><td><div class="chinese_1">雞</div><div class="chinese_1">湯</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:17px">u</span><span style="font-size:15px">à</span><span style="font-size:14px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">t</span><span style="font-size:16px">ó</span><span style="font-size:18px">u</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">kāi</span></div> <div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">jī</span></div> <div class="pinyin_1"><span style="font-size:16px">tāng</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">40</div></td><td></td></tr><tr><td></td><td> <div class="literal">Garlic</div></td><td> <div class="literal">Appetizer</div></td><td> <div class="literal">Chicken soup</div></td><td>	</td><td>40</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">豬</div><div class="chinese_4">肉</div></td><td><div class="chinese_3">水</div><div class="chinese_3">餃</div></td><td><div class="englishInChinese">1</div></td><td><div class="chinese_1">顆</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">4</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">s</span><span style="font-size:14px">h</span><span style="font-size:14px">u</span><span style="font-size:18px">ǐ</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="englishInChinese">1</div></td><td><div class="pinyin_1"><span style="font-size:16px">kē</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">4</div></td><td></td></tr><tr><td></td><td> <div class="literal">pork</div></td><td> <div class="literal">Dumplings</div></td><td>1</td><td> <div class="literal">grain</div></td><td>	</td><td>4</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div></td><td><div class="chinese_3">水</div><div class="chinese_3">餃</div></td><td><div class="englishInChinese">1</div></td><td><div class="chinese_1">顆</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">6</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">s</span><span style="font-size:14px">h</span><span style="font-size:14px">u</span><span style="font-size:18px">ǐ</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="englishInChinese">1</div></td><td><div class="pinyin_1"><span style="font-size:16px">kē</span></div> </td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">6</div></td><td></td></tr><tr><td></td><td> <div class="literal">beef</div></td><td> <div class="literal">Dumplings</div></td><td>1</td><td> <div class="literal">grain</div></td><td>	</td><td>6</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_1">豬</div><div class="chinese_4">肉</div></td><td><div class="chinese_1">湯</div><div class="chinese_3">餃</div></td><td><div class="englishInChinese">(</div></td><td><div class="englishInChinese">10</div></td><td><div class="chinese_1">顆</div></td><td><div class="englishInChinese">)</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td><div class="pinyin_1"><span style="font-size:16px">zhū</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="englishInChinese">(</div></td><td><div class="englishInChinese">10</div></td><td><div class="pinyin_1"><span style="font-size:16px">kē</span></div> </td><td><div class="englishInChinese">)</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">60</div></td><td></td></tr><tr><td></td><td> <div class="literal">pork</div></td><td> <div class="literal">Soup dumplings</div></td><td>(</td><td>10</td><td> <div class="literal">grain</div></td><td>)</td><td>	</td><td>60</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td><div class="chinese_2">牛</div><div class="chinese_4">肉</div></td><td><div class="chinese_1">湯</div><div class="chinese_3">餃</div></td><td><div class="englishInChinese">(</div></td><td><div class="englishInChinese">10</div></td><td><div class="chinese_1">顆</div></td><td><div class="englishInChinese">)</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td><div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">i</span><span style="font-size:18px">ú</span></div> <div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">ò</span><span style="font-size:14px">u</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tāng</span></div> <div class="pinyin_3"><span style="font-size:18px">j</span><span style="font-size:14px">i</span><span style="font-size:14px">ǎ</span><span style="font-size:18px">o</span></div> </td><td><div class="englishInChinese">(</div></td><td><div class="englishInChinese">10</div></td><td><div class="pinyin_1"><span style="font-size:16px">kē</span></div> </td><td><div class="englishInChinese">)</div></td><td><div class="englishInChinese">	</div></td><td><div class="englishInChinese">80</div></td><td></td></tr><tr><td></td><td> <div class="literal">beef</div></td><td> <div class="literal">Soup dumplings</div></td><td>(</td><td>10</td><td> <div class="literal">grain</div></td><td>)</td><td>	</td><td>80</td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><p></p><p></p><table><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><p></p>
+  </body>
+</html>
