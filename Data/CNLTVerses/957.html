@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8" />
+        <style>
+
+@font-face {
+    font-family: "Charcoal CY";
+    src: url("fonts/Charcoal.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Virtue";
+    src: url("fonts/virtue.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SimSun";
+    src: url("fonts/SimSun.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Jhenghei";
+    src: url("fonts/MicrosoftJhengHeiRegular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PingfangLocal";
+    src: local("PingFang-TC-Regular");
+}
+
+@font-face {
+    font-family: "Pingfang";
+    src: url("fonts/PingFang1.ttf") format("truetype");
+}
+
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+      
+      table td {
+      white-space: nowrap;
+      }
+		
+	a:hover, a:visited, a:link, a:active
+	{
+		color:#000000;
+	    text-decoration: none;
+	}
+		
+      .chinese_1 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .chinese_2 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_3 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_4 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_5 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_6 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+      .chinese_7 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+      
+      .chinese_8 {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+font-size: 30px;
+display:inline;
+      }
+
+
+      .pinyin_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .pinyin_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+display:inline;
+      }
+
+      .pinyin_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+display:inline;
+      }
+
+      .pinyin_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .pinyin_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .taiwanese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#787878;
+		display:inline;
+      }
+
+      .taiwanese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+display:inline;
+      }
+
+      .taiwanese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .taiwanese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#505050;
+display:inline;
+      }
+
+      .taiwanese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .taiwanese_7 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+      
+      .taiwanese_8 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#929292;
+display:inline;
+      }
+
+      .cantonese_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#929292;
+		display:inline;
+      }
+
+      .cantonese_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#FF8080;
+display:inline;
+      }
+
+      .cantonese_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#787878;
+font-size: 30px;
+display:inline;
+      }
+
+      .cantonese_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .cantonese_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F82423;
+display:inline;
+      }
+
+      .cantonese_6 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .hangul {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 26px;
+		display:inline;
+      }
+
+      .tang {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .japanese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .vietnamese {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .englishInChinese {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .literal {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+      .english {
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#000000;
+display:inline;
+      }
+
+
+		.DefaultButtonOuter
+		{
+			border: 2px solid black ;
+			border-radius: 8px;
+			width: 96px;
+			height: 26px;
+			text-align: center;
+			
+			/*background-color: #99999a;*/
+			background: #99999a; /* For browsers that do not support gradients */
+			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+		}
+
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+
+		.key
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 18px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+
+
+			#matrix {
+				background: black;
+				float: center;
+			}
+
+			#matrix td {
+			    padding: 7px;
+    			margin: 0px;
+    			float: center;
+				background: black;
+				font: 54px arial;
+				
+				height: 80px;
+			}
+
+			#matrix tr {
+				height: 80px;
+			}
+
+
+			#matrix p {
+			    opacity: 0;
+			    margin-top: -25px;
+			    text-align: center;
+
+				height: 80px;
+
+			    -webkit-transition: margin-top 2s ease-in;
+			    -moz-transition: margin-top 2s ease-in;
+			    -o-transition: margin-top 2s ease-in;
+			    -ms-transition: margin-top 2s ease-in;
+			    transition: margin-top 2s ease-in;
+			}
+			
+			#matrix p.load {
+			    opacity: 1;
+			    margin-top: 25px;
+			}
+
+     .dialogWithDropShadow
+     {
+         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); 
+     }
+
+@font-face {
+    font-family: "SmallSealScript";
+    src: url("fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf") format("truetype");
+}
+
+      .smallSealScript_1 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .smallSealScript_2 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_3 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .smallSealScript_4 {
+        font-family: "SmallSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+@font-face {
+    font-family: "LargeSealScript";
+    src: url("fonts/JDFZHUANF.ttf") format("truetype");
+}
+
+      .largeSealScript_1 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .largeSealScript_2 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_3 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .largeSealScript_4 {
+        font-family: "LargeSealScript", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+@font-face {
+    font-family: "OracleBones";
+    src: url("fonts/bnujgw.ttf") format("truetype");
+}
+
+      .oracleBones_1 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:black;
+		font-size: 30px;
+		display:inline;
+      }
+
+      .oracleBones_2 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_3 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+font-size: 30px;
+display:inline;
+      }
+
+      .oracleBones_4 {
+        font-family: "OracleBones", "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+
+    </style>
+
+  </head>
+  <body>
+	1. 創 Genesis 創世記/創 Genesis 創世記 38.<p></p><table><tbody><tr><td></td><td><div class="englishInChinese">10</div></td><td></td><td><div class="chinese_4">但</div></td><td><div class="chinese_4">上</div><div class="chinese_3">主</div></td><td><div class="chinese_4">認</div><div class="chinese_2">為</div></td><td><div class="chinese_4">這</div><div class="chinese_4">是</div></td><td><div class="chinese_4">惡</div></td><td><div class="chinese_4">事</div></td><td><div class="englishInChinese">，</div></td><td></td><td><div class="chinese_1">因</div><div class="chinese_4">為</div></td><td><div class="chinese_2">俄</div><div class="chinese_2">南</div></td><td><div class="chinese_4">拒</div><div class="chinese_2">絕</div></td><td><div class="chinese_3">給</div></td><td><div class="chinese_1">他</div></td><td><div class="chinese_3">死</div><div class="chinese_4">去</div></td><td><div class="chinese_5">的</div></td><td><div class="chinese_1">哥</div><div class="chinese_1">哥</div></td><td><div class="chinese_1">生</div></td><td><div class="chinese_2">孩</div><div class="chinese_1">子</div></td><td><div class="englishInChinese">，</div></td><td></td><td><div class="chinese_1">於</div><div class="chinese_4">是</div></td><td><div class="chinese_4">上</div><div class="chinese_3">主</div></td><td><div class="chinese_3">也</div></td><td><div class="chinese_2">奪</div><div class="chinese_4">去</div></td><td><div class="chinese_5">了</div></td><td><div class="chinese_2">俄</div><div class="chinese_2">南</div></td><td><div class="chinese_5">的</div></td><td><div class="chinese_4">性</div><div class="chinese_4">命</div></td><td><div class="englishInChinese">。</div></td><td></td><td></td></tr><tr><td></td><td><div class="englishInChinese">10</div></td><td></td><td><div class="pinyin_4"><span style="font-size:18px">d</span><span style="font-size:16px">à</span><span style="font-size:14px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:17px">h</span><span style="font-size:16px">à</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> <div class="pinyin_3"><span style="font-size:18px">z</span><span style="font-size:14px">h</span><span style="font-size:18px">ǔ</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">r</span><span style="font-size:16px">è</span><span style="font-size:14px">n</span></div> <div class="pinyin_2"><span style="font-size:14px">w</span><span style="font-size:16px">é</span><span style="font-size:18px">i</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">z</span><span style="font-size:16px">h</span><span style="font-size:14px">è</span></div> <div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:16px">h</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_4"><span style="font-size:16px">è</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:16px">h</span><span style="font-size:14px">ì</span></div> </td><td><div class="englishInChinese">，</div></td><td></td><td><div class="pinyin_1"><span style="font-size:16px">yīn</span></div> <div class="pinyin_4"><span style="font-size:18px">w</span><span style="font-size:16px">è</span><span style="font-size:14px">i</span></div> </td><td><div class="pinyin_2"><span style="font-size:16px">é</span></div> <div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">á</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">j</span><span style="font-size:14px">ù</span></div> <div class="pinyin_2"><span style="font-size:14px">j</span><span style="font-size:16px">u</span><span style="font-size:18px">é</span></div> </td><td><div class="pinyin_3"><span style="font-size:18px">g</span><span style="font-size:14px">ě</span><span style="font-size:18px">i</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">tā</span></div> </td><td><div class="pinyin_3"><span style="font-size:16px">sǐ</span></div> <div class="pinyin_4"><span style="font-size:18px">q</span><span style="font-size:14px">ù</span></div> </td><td><div class="pinyin_5"><span style="font-size:16px">de</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">gē</span></div> <div class="pinyin_1"><span style="font-size:16px">gē</span></div> </td><td><div class="pinyin_1"><span style="font-size:16px">shēng</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">h</span><span style="font-size:16px">á</span><span style="font-size:18px">i</span></div> <div class="pinyin_1"><span style="font-size:16px">zi</span></div> </td><td><div class="englishInChinese">，</div></td><td></td><td><div class="pinyin_1"><span style="font-size:16px">wū</span></div> <div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:16px">h</span><span style="font-size:14px">ì</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">s</span><span style="font-size:17px">h</span><span style="font-size:16px">à</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> <div class="pinyin_3"><span style="font-size:18px">z</span><span style="font-size:14px">h</span><span style="font-size:18px">ǔ</span></div> </td><td><div class="pinyin_3"><span style="font-size:16px">yě</span></div> </td><td><div class="pinyin_2"><span style="font-size:14px">d</span><span style="font-size:16px">u</span><span style="font-size:18px">ó</span></div> <div class="pinyin_4"><span style="font-size:18px">q</span><span style="font-size:14px">ù</span></div> </td><td><div class="pinyin_5"><span style="font-size:16px">le</span></div> </td><td><div class="pinyin_2"><span style="font-size:16px">é</span></div> <div class="pinyin_2"><span style="font-size:14px">n</span><span style="font-size:16px">á</span><span style="font-size:18px">n</span></div> </td><td><div class="pinyin_5"><span style="font-size:16px">de</span></div> </td><td><div class="pinyin_4"><span style="font-size:18px">x</span><span style="font-size:17px">ì</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> <div class="pinyin_4"><span style="font-size:18px">m</span><span style="font-size:17px">ì</span><span style="font-size:15px">n</span><span style="font-size:14px">g</span></div> </td><td><div class="englishInChinese">。</div></td><td></td><td></td></tr><tr><td></td><td>10</td><td></td><td> <div class="literal">but</div></td><td> <div class="literal">Lord</div></td><td> <div class="literal">think</div></td><td> <div class="literal">this is</div></td><td> <div class="literal">evil</div></td><td> <div class="literal">thing</div></td><td>，</td><td></td><td> <div class="literal">because</div></td><td> <div class="literal">Onan</div></td><td> <div class="literal">Refuse</div></td><td> <div class="literal">give</div></td><td> <div class="literal">he</div></td><td> <div class="literal">Die</div></td><td> <div class="literal">of</div></td><td> <div class="literal">brother</div></td><td> <div class="literal">life</div></td><td> <div class="literal">child</div></td><td>，</td><td></td><td> <div class="literal">then</div></td><td> <div class="literal">Lord</div></td><td> <div class="literal">also</div></td><td> <div class="literal">Take away</div></td><td> <div class="literal">is</div></td><td> <div class="literal">Onan</div></td><td> <div class="literal">of</div></td><td> <div class="literal">life</div></td><td>。</td><td></td><td></td></tr></tbody></table><div class="english">10But the LORD considered it a wicked thing for Onan to deny a child to his dead brother. So the LORD took Onan's life, too.</div><p></p></table>
+  </body>
+</html>
