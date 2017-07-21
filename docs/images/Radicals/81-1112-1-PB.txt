@@ -1,0 +1,2 @@
+peters-macbook-pro:pingtype peter$ grep -v "[人大卩女子目耳自口止右殳首西由上下示帝日夕云雨宙土火水山阜水屮木禾來牛羊犬豕馬]" Genealogies.txt | wc  -l
+   11089

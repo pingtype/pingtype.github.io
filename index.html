@@ -1,6 +1,6 @@
 <!--
 	Pingtype
-	Peter Burkimsher 2017-01-16 to 2017-06-13
+	Peter Burkimsher 2017-01-16 to 2017-07-07
 	
 	A literal translator for Chinese to English. 
 	
@@ -55,33 +55,44 @@
 	+ CNLT, Vicky's blog
 	+ Monospaced font
 	+ Print to PDF, page breaks
-	+ Coloured subtitles
+	+ Coloured movie subtitles
 	+ Subtitles vocabulary with examples
 	+ Word lists (TOCFL, HSK)
 	+ hash out words not in tocfl
 	+ Pingfang, Jhenghei fonts
 	+ TOCFL8000, Bible book short names, Country names, road names, city names to dictionary
-	
-	
+	+ Audio headings
+	+ Reviewing the Hanzi in typing area
+	+ KHOP videos
+	+ Dinbendon restaurant menus
+	+ Easier simplified translation by auto-detection
+	+ Shuffle for vocabulary test
+	+ Random Bible verse website
+
 	To do:
+	- Marketing
+	- English
+	- Taiwanese
+	- reveal hidden pinyin, literal on mouseover
+	- audio, vocabulary, examples
+	- chinese glyphs dataset like http://yaroslavvb.blogspot.tw/2011/09/notmnist-dataset.html
+	- problem in audio of zhe 著
+	- https://commons.wikimedia.org/wiki/Commons%3aChinese_characters_decomposition
+	- bopomofo, stroke animation in word headings
 	- dictionary problems where there are too many tones because of extra spaces
 	- remove extra dot in 爺爺, 奶奶, 舅舅, 妹妹, 弟弟, 姐姐, 叔叔, 寶寶
 	- 5th tone from https://pedia.cloud.edu.tw/Home/List?search=也不錯
 	- bopomofo of yinhang not yinxing
-	- audio in headings
 	- font selection menu in interface
 	- png frames of clips to html file of words
-	- space after quote in translate bilingual
 	- left indent
 	- find syllables in data sources
 	- vocabulary test website, ask user to click/type words they know
 	- tocfl pinyin comparison
-	- reviewing the hanzi in typing area
 	- lrc lyrics files to srt
 	- subtitles plain, just spaced chinese and english
 	- proper page breaks using css https://www.w3schools.com/cssref/pr_print_pageba.asp
 	- Other languages (e.g. English, French, Slovak) with custom dictionary
-	- khop button like subtitles to make summary of new words in video to textarea, lyrics to html area
 	- zh-wikipedia to text files
 	- Wade-giles, english, korean, japanese, vietnamese, cantonese, taiwanese first choice bulk input in simplified text box
 	- pinyin sizes, disable tone numbers for wade-giles
@@ -92,14 +103,16 @@
 	- chords above text
 	- Four chords to four tones
 	- number of songs in khop to get all syllables
-	- khop videos
-	- Random Bible verse website
 	- cunp manual fixing
 	- pos speech tagging, could use to change grammar later
 	- number of radicals to get all characters
 	- server-side for automatic facebook chinese made larger and spaced
 	
 	Marketing:
+	- https://www.plecoforums.com
+	- http://www.lancaster.ac.uk/library/about-us/contact-us/library-staff/joanne-wood/
+	- http://www.hskhsk.com/index.html
+	- http://www.learnm.org
 	- Talk to richard.sears.tn@gmail.com http://www.chineseetymology.org/CharacterEtymology.aspx?submitButton1=Etymology&characterInput=於
 	- report errors to let's learn chinese textbook
 	- don't forget to re-enable appcache before release
@@ -110,6 +123,11 @@
 	- Talk to Dr Donald Sturgeon from CText http://ctext.org/faq#copyright
 	- http://socialmandarin.com
 	- http://www.davidpetersson.com/practice-your-chinese-writing-skills-chinese-writer-on-iphone-or-ipad/
+	- https://www.chinesethehardway.com/article/hsk-6-gets-you-halfway/
+	- https://www.chinesetextanalyser.com
+	- https://blog.vocapouch.com/do-20-pages-of-a-book-gives-you-90-of-its-words-795a405afe70
+	- https://en.wikipedia.org/wiki/List_of_polyglots
+	- https://en.wikipedia.org/wiki/Benny_Lewis
 	
 	Documentation:
 	- Chinese words that are shorter than english (mosquito, air conditioning)
@@ -125,16 +143,13 @@
 	- find words in data sources
 
 	Long-term development:
+	- audio with replay from position
 	- o for a thousand tounges to sing in different languages
 	- be thou my vision in different languages
 	- Superscript/subscript for tones, after unicode adds subscript "g" (or use 9) http://stackoverflow.com/questions/17908593/how-to-find-the-unicode-of-the-subscript-alphabet
-	- Hakka https://en.wikipedia.org/wiki/Hakka_Bible:_Today%27s_Taiwan_Hakka_Version https://en.wikipedia.org/wiki/Pha̍k-fa-sṳ
-	- Ningbo dialect romanised by Hudson Taylor https://find.bible/bibles/WUURNT/
-	- one ok rock, ellegarden bilingual songs to learn japanese
 	- Mobile theme
 	- Remove hard-coded Github access token
 	- Gwoyeu Romatzyh
-	- cedict as itunes
 	- cursor
 	- Word segmentation from http://ckipsvr.iis.sinica.edu.tw
 	- Server-side translation with REST API
@@ -142,11 +157,21 @@
 	- WebASM multi-threading to translate each line separately, faster
 	- Lazy load leaflet when image uploaded	
 	- Seal script, after unicode adds it
-	- Glagolitic script https://en.wikipedia.org/wiki/Glagolitic_script
-	- Japanese/French http://jibiki.fr
-	- greek and hebrew
 	
 	Data sources:
+	- IHOP ANHP Chinese worship http://www.ihopkc.org/anpr/
+	- words from 朗道漢英字典5 langdao-ce-gb.csv
+	- More films: https://zh.wikipedia.org/wiki/Category:高雄市背景电影
+	- Even more films: https://zh.wikipedia.org/wiki/Category:高雄市取景電影
+	- tkstory
+	- https://en.wikipedia.org/wiki/Siku_Quanshu
+	- http://www.funtude.com
+	- http://manhua.dmzj.com
+	- TOCFL mock test http://www.sc-top.org.tw/mocktest.php
+	- TED http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus bilingual: https://ted2srt.org
+	- PTT BBS https://github.com/jwlin/ptt-web-crawler
+	- http://2.assrt.net/xml/sub/43/43949.xml
+	- wikipedia mandarin chinese profanity
 	- indievox lyrics https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/dataset/lyrics.dataset
 	- Sermons from http://www.kc7schurch.org.tw/index.php?Pgc=Sermon&SermonPgNo=1
 	- https://github.com/umbrae/reddit-top-2.5-million/blob/master/data/languagelearning.csv
@@ -164,13 +189,11 @@
 	- Space all of zh-wikipedia (about 11 days runtime)
 	- Only common words in Pingtype dictionary
 	- Dictionary of phrases from OpenCC
-	- KHOP audio
 	- Joshuaband lyrics
 	- Weather
 	- Daily Bible
 	- News http://www.taipeitimes.com/News/lang/archives/2017/04/16/2003668787 - load live, because people must be allowed to edit
 	- Kaohsiung Q&A (back to 2014) https://www.facebook.com/groups/KaohsiungQA/
-	- Movie subtitles
 	- LINE chats, Facebook, PTT
 	- Taiwanese immigration test
 	- Phrases from Wendy
@@ -188,9 +211,20 @@
 	- Hakka Bible: http://www.bible.is/HAKTHV/Matt/1
 	- FML in French http://www.viedemerde.fr and Spanish http://www.vida-hp.com
 	- simple english words in other languages
+	- Other language dictionaries: http://download.huzheng.org
+	- Cantonese: https://www.youtube.com/watch?v=8oJfEm69fno
+	- Hakka https://en.wikipedia.org/wiki/Hakka_Bible:_Today%27s_Taiwan_Hakka_Version https://en.wikipedia.org/wiki/Pha̍k-fa-sṳ
+	- Ningbo dialect romanised by Hudson Taylor https://find.bible/bibles/WUURNT/
+	- one ok rock, ellegarden bilingual songs to learn japanese
+	- Glagolitic script https://en.wikipedia.org/wiki/Glagolitic_script
+	- Japanese/French http://jibiki.fr
+	- greek and hebrew
+	- Taiwanese Bible http://share35.myftp.org/taiwanese/dayplay.php?bs=12-29-1
+	- Nepali for Carrie Tang
 
-	Decompose started 2016-12-05, merged with translate on 2017-04-05
+	Decompose started 2016-12-05, merged with translate on 2017-04-05. 
 	Recursively breaks a Chinese character into its parts
+	Pingtype first uploaded 2017-04-27.  
 	
 	Decomposition data from https://cjkdecomp.codeplex.com
 	Simplified converstion data from https://github.com/BYVoid/OpenCC/tree/master/data/dictionary
@@ -673,7 +707,8 @@ display:inline;
 	<link rel="stylesheet" href="jquery-ui.css"/>
 
   </head>
-<!--  <body onkeypress="keyPressed();"> -->
+<!--  <body onkeydown="keyDown();">-->
+<!--  <body onkeypress="keyPressed();">-->
   <body>
 
   	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
@@ -876,6 +911,16 @@ display:inline;
 				<td>
 					<input type="checkbox" id="pageBreaksCheckbox"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
 				</td>
+			</tr>
+		</table>
+
+		<table id="dataButtonsTable" class="advanced" style="visibility:hidden;height:0px;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						Data
+					</div>
+				</td>
 				<td>
 					<div id="subtitlesButton" class="ButtonInner advanced" onclick="subtitlesButtonClicked();" style="width:65px;visibility:hidden">
 						Subtitles
@@ -894,6 +939,21 @@ display:inline;
 				<td>
 					<div id="audioButton" class="ButtonInner advanced" onclick="audioButtonClicked();" style="width:55px;visibility:hidden">
 						Audio
+					</div>
+				</td>
+				<td>
+					<div id="swapButton" class="ButtonInner advanced" onclick="swapButtonClicked();" style="width:55px;visibility:hidden">
+						Swap
+					</div>
+				</td>
+				<td>
+					<div id="lyricsButton" class="ButtonInner advanced" onclick="lyricsButtonClicked();" style="width:55px;visibility:hidden">
+						Lyrics
+					</div>
+				</td>
+				<td>
+					<div id="shuffleButton" class="ButtonInner advanced" onclick="shuffleButtonClicked();" style="width:55px;visibility:hidden">
+						Shuffle
 					</div>
 				</td>
 			</tr>
@@ -1030,7 +1090,7 @@ display:inline;
 					<input type="checkbox" id="reviewingTheHanziCheckbox" ><span onclick="toggleReviewingTheHanzi('reviewingTheHanziCheckbox');">Reviewing The Hanzi</span>
 				</td>
 				<td>
-					<input type="checkbox" id="hashOutCheckbox" ><span onclick="toggleReviewingTheHanzi('hashOutCheckbox');">Hash out</span>
+					<input type="checkbox" id="hashOutCheckbox" ><span onclick="toggleCheckbox('hashOutCheckbox');">Hash out</span>
 				</td>
 				<td>
 					<input type="checkbox" id="commonCheckbox" ><span onclick="toggleCheckbox('commonCheckbox');">Bible</span>
@@ -1108,6 +1168,7 @@ display:inline;
 					<input type="checkbox" id="chinesePlainCheckbox" ><span onclick="toggleCheckbox('chinesePlainCheckbox');">Chinese Plain 純</span>
 					<input type="checkbox" id="chineseSpacedCheckbox" ><span onclick="toggleCheckbox('chineseSpacedCheckbox');">Chinese Spaced 空間</span>
 					<input type="checkbox" id="chineseCheckbox" checked="true" ><span onclick="toggleCheckbox('chineseCheckbox');">Chinese 中文</span>
+					<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
 					<input type="range" id="pinyinOpacity" value="100" onclick="setPinyinOpacity();">
 					<input type="checkbox" id="pinyinCheckbox" checked="true" ><span onclick="toggleCheckbox('pinyinCheckbox');">Pinyin 拼音</span>
 					<input type="checkbox" id="toneNumbersCheckbox" ><span onclick="toggleCheckbox('toneNumbersCheckbox');">#</span>
@@ -1309,6 +1370,15 @@ display:inline;
 	
 		<table id="missingWordsTable" class="advanced" style="visibility:hidden;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;"></table>
 	
+	</div>
+	
+	<div id="videoContainer" style="visibility:hidden;height:0px;" onclick="videoPlayPause();">
+		<video poster="" preload="none" controls="" id="myVideo" tabindex="0">
+			<source type="video/mp4" src="" id="mp4_src"></source>
+			<p>Your user agent does not support the HTML5 Video element.</p>
+		</video>
+		
+		
 	</div>
 	
 	<table id="htmlTable">
@@ -2081,6 +2151,48 @@ display:inline;
 		
 	</div>
 	
+	<div id="slideViewer" title="Slide Viewer" style="visibility:hidden">
+		<table>
+			<tr>
+				<td>
+					<div id="thisSlideHtml" style="font-size: 16px;background-color:white;width:500px;overflow:scroll;">
+		
+					</div>
+				</td>
+				<td valign="top">
+					<table>
+						<tr>
+							<td>
+								<textarea id="thisSubtitlesTextArea" style="width:250px;height:300px"></textarea>
+							</td>
+						</tr>
+						<tr>
+							<table>
+								<tr>
+									<td>
+										<div id="previousButton" class="ButtonInner" style="width:60px" onclick="previousButtonClicked();">
+											Previous
+										</div>
+									</td>
+									<td>
+										<div id="blackButton" class="ButtonInner" style="width:60px" onclick="blackButtonClicked();">
+											Black
+										</div>
+									</td>
+									<td>
+										<div id="nextButton" class="ButtonInner" style="width:60px" onclick="nextButtonClicked();">
+											Next
+										</div>
+									</td>
+								</tr>
+							</table>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	
   </body>
   
   <!-- External scripts -->
@@ -2120,6 +2232,7 @@ display:inline;
 		var japaneseData = "";
 		var vietnameseData = "";
 		
+		var simplifiedCharacters = "";
 		var simplifiedData = "";
 		var traditionalData = "";
 		var taiwanData = "";
@@ -2132,6 +2245,12 @@ display:inline;
 		var children = "";
 		
 		var lastDictionary = false;
+		
+		var slideTextArray = [];
+		var lastSlideText = "";
+		var lastSlideStartTime = "";
+		var currentSlide = 0;
+		var currentSlideSubtitle = 1;
 		
 		// No idea where this magic number comes from. It's used for truncating the dictionary to fit in localStorage. 
 		// Found by checking for errors in Safari. 
@@ -2417,10 +2536,10 @@ display:inline;
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
-					  alert('There was an error 400');
+					  alert('error loading dictionary');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading dictionary');
 				   }
 				}
 			};
@@ -2429,6 +2548,35 @@ display:inline;
 			xmlhttp.send();
 				
 		} // end function loadDictionary
+		
+		
+		function loadSimplifiedList(filename)
+		{
+			//debugLog("loadSimplifiedList(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						simplifiedCharacters = simplifiedCharacters + xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('error loading simplified characters');
+				   }
+				   else {
+					   alert('error loading simplified characters');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadSimplifiedList
 		
 		function loadSimplified(filename)
 		{
@@ -2445,10 +2593,10 @@ display:inline;
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
-					  alert('There was an error 400');
+					  alert('error loading simplified characters');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading simplified characters');
 				   }
 				}
 			};
@@ -2471,12 +2619,17 @@ display:inline;
 						
 						traditionalData = traditionalData + xmlhttp.responseText;
 					    
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading traditional characters');
 				   }
 				}
 			};
@@ -2504,7 +2657,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading taiwanese');
 				   }
 				}
 			};
@@ -2532,7 +2685,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading hong kong regional');
 				   }
 				}
 			};
@@ -2560,7 +2713,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading japanese regional');
 				   }
 				}
 			};
@@ -2589,7 +2742,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading tone numbers marks');
 				   }
 				}
 			};
@@ -2617,7 +2770,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading bopomofo');
 				   }
 				}
 			};
@@ -2645,7 +2798,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading reviewing the hanzi');
 				   }
 				}
 			};
@@ -2684,7 +2837,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading simplified input');
 				   }
 				}
 			};
@@ -2715,7 +2868,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading chinese file');
 				   }
 				}
 			};
@@ -2744,7 +2897,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading english file');
 				   }
 				}
 			};
@@ -2772,7 +2925,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading long words');
 				   }
 				}
 			};
@@ -2800,7 +2953,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading radicals');
 				   }
 				}
 			};
@@ -2828,7 +2981,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading genealogies');
 				   }
 				}
 			};
@@ -2856,7 +3009,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading composition');
 				   }
 				}
 			};
@@ -2884,7 +3037,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading common words');
 				   }
 				}
 			};
@@ -2912,7 +3065,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading taiwanese');
 				   }
 				}
 			};
@@ -2940,7 +3093,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading cantonese');
 				   }
 				}
 			};
@@ -2968,7 +3121,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading hangul');
 				   }
 				}
 			};
@@ -2996,7 +3149,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading tang');
 				   }
 				}
 			};
@@ -3024,7 +3177,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading japanese');
 				   }
 				}
 			};
@@ -3052,7 +3205,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error loading vietnamese');
 				   }
 				}
 			};
@@ -3442,7 +3595,7 @@ display:inline;
 					   }
 					   else 
 					   {
-						   alert('something else other than 200 was returned');
+						   alert('error sending github request');
 					   }
 					}
 				};
@@ -6345,16 +6498,9 @@ display:inline;
 			
 		} // end function deradicalizeButtonClicked
 		
-		function translateBilingual()
+		function translateBilingual(inputText)
 		{
 			//debugLog("translateBilingual");
-			
-			var inputText = document.getElementById("chineseSpacedTextArea").value;
-			
-			if (inputText == "")
-			{
-				inputText = document.getElementById("chineseTextArea").value;
-			}
 			
 			var inputLines = inputText.split("\n");
 			
@@ -6364,17 +6510,54 @@ display:inline;
 			var outputText = "";
 			
 			var lastEnglishLine = "";
+			
+			var lastWasEnglish = false;
 
 			for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
 			{
 				var thisLine = inputLines[currentLine];
 				
+				if (thisLine == "")
+				{
+					if (lastWasEnglish == false)
+					{
+						outputHtml = outputHtml + "</p>";
+					}
+					
+					outputHtml = outputHtml + "\n<br></br>";
+					outputText = outputText + "\n";
+					
+				} else {
+					if (containsChineseString(thisLine) == true)
+					{
+						lastWasEnglish = false;
+
+						var translationOutput = translateText(thisLine, "");
+					
+						var translationHtmlChinese = translationOutput[0];
+					
+						translationHtmlChinese = replaceChars(translationHtmlChinese, "</p>", "");
+					
+						outputHtml = outputHtml + "\n" + translationHtmlChinese;
+						outputText = outputText + "\n" + translationOutput[1];			
+					} else {
+					
+						var thisEnglishHtml = "<div class=\"english\">" + thisLine + "</div></p>";
+											
+						outputHtml = outputHtml + "\n" + thisEnglishHtml;
+						outputText = outputText + "\n" + thisLine;
+					
+						lastWasEnglish = true;
+					
+					} // end if the line contains chinese
+				} // end if the line is not blank
+				
+				/*
 				var thisLineCharacters = thisLine.split("");
 				var numberCharacters = thisLineCharacters.length;
 				
 				var lineHasChinese = false;
-				
-				
+
 				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 				{
 					var thisCharacter = thisLineCharacters[currentCharacter];
@@ -6415,15 +6598,37 @@ display:inline;
 						lastEnglishLine = thisLine;
 					}
 				} // end if the line has a Chinese character
+				*/
 				
 			} // end for every line
 			
-			outputText = replaceChars(outputText, "\n\n", "\n");
+			//outputText = replaceChars(outputText, "\n\n", "\n");
+			
+			return [outputHtml, outputText];
+			
+		} // end function translateBilingual
+		
+		function translateBilingualInterface()
+		{
+			//debugLog("translateBilingualInterface");
+			
+			var inputText = document.getElementById("chineseSpacedTextArea").value;
+			
+			if (inputText == "")
+			{
+				inputText = document.getElementById("chineseTextArea").value;
+			}
+			
+			var translations = translateBilingual(inputText);
+			
+			var outputHtml=translations[0];
+			var outputText=translations[1];
+			
 			
 			document.getElementById("outputHtml").innerHTML = outputHtml;
 			document.getElementById("outputTextArea").value = outputText;
 			
-		} // end function translateBilingual 
+		} // end function translateBilingualInterface 
 
 		function clearInterface()
 		{
@@ -6749,143 +6954,166 @@ display:inline;
 				*/
 				
 				// Skip all-English lines
-				//if (lineIsEnglish == true)
-				//{
-				//	spacedChinese = spacedChinese + thisChineseLine + "\n";
-				//} else {
-				
-				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+		   		if (containsChineseString(thisChineseLine) == false)
 				{
-					var thisWord = "";
+					spacedChinese = spacedChinese + thisChineseLine + "\n";
+				} else {
 				
-					var wordFound = false;
-					
-					for (var wordLength = 5; wordLength >= 2; wordLength--)
-					{
+					 for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+					 {
+						 var thisWord = "";
 				
-						var lastCharacter = currentCharacter + wordLength;
-						
-						if (lastCharacter > numberCharacters)
-						{
-							lastCharacter = numberCharacters;
-						}
-						
-						thisWord = thisChineseLine.substring(currentCharacter, lastCharacter);
-						
-						var thisCharacter = thisChineseLine[currentCharacter];
-
-						if (isChinese(thisCharacter) == false)
-						{
-							// Don't add spaces between non-Chinese characters
-							//spacedChineseLine = spacedChineseLine + thisCharacter;
-						
-							//lastWasNotChinese = true;
-							
-							// Move the character along in the string
-							//currentCharacter = currentCharacter + 1;
-							
-							wordFound == false;
-							
-						} else {
-
-							//lastWasNotChinese = false;
-							
-							var inDictionary = false;
-							
-							if (breakMissingWords == false)
-							{
-								inDictionary = contains(combinedDictionaryData, thisWord + "	");
-							} else {
-								inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
-							}
-							
-							//if (contains(longWords, " " + thisWord) == true)
-							if (inDictionary == true)
-							{
-								// Move the character along in the string
-								currentCharacter = currentCharacter + wordLength - 1;
-							
-								wordFound = true;
-						
-								// Exit the loop cleanly
-								wordLength = 0;
-							} // end if the character is not Chinese
-							
-						} // if the word exists
+						 var wordFound = false;
 					
-					} // end for every word length
+						 for (var wordLength = 5; wordLength >= 2; wordLength--)
+						 {
 				
-					// If the word is not found, just use the character
-					if (wordFound == false)
-					{
-						var thisCharacter = thisChineseLine[currentCharacter];
+							 var lastCharacter = currentCharacter + wordLength;
+						
+							 if (lastCharacter > numberCharacters)
+							 {
+								 lastCharacter = numberCharacters;
+							 }
+						
+							 thisWord = thisChineseLine.substring(currentCharacter, lastCharacter);
+						
+							 var thisCharacter = thisChineseLine[currentCharacter];
+
+							 if (isChinese(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Chinese characters
+								 //spacedChineseLine = spacedChineseLine + thisCharacter;
+						
+								 //lastWasNotChinese = true;
+							
+								 // Move the character along in the string
+								 //currentCharacter = currentCharacter + 1;
+							
+								 wordFound == false;
+							
+							 } else {
+
+								 //lastWasNotChinese = false;
+							
+								 var inDictionary = false;
+							
+								 if (breakMissingWords == false)
+								 {
+									 inDictionary = contains(combinedDictionaryData, thisWord + "	");
+								 } else {
+									 inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+								 }
+							
+								 //if (contains(longWords, " " + thisWord) == true)
+								 if (inDictionary == true)
+								 {
+									 // Move the character along in the string
+									 currentCharacter = currentCharacter + wordLength - 1;
+							
+									 wordFound = true;
+						
+									 // Exit the loop cleanly
+									 wordLength = 0;
+								 } // end if the character is not Chinese
+							
+							 } // if the word exists
 					
-						if (isChinese(thisCharacter) == false)
-						{
-							// Don't add spaces between non-Chinese characters
-							spacedChineseLine = spacedChineseLine + thisCharacter;
-						
-							lastWasNotChinese = true;
-						
-						} else {
-						
-							// Add a space if we're back to parsing Chinese
-							if (lastWasNotChinese == true)
-							{
-								spacedChineseLine = spacedChineseLine + " ";
-								lastWasNotChinese = false;
-							}
-						
-							spacedChineseLine = spacedChineseLine + thisCharacter + " ";					
-
-						} // end if this character is not Chinese
+						 } // end for every word length
+				
+						 // If the word is not found, just use the character
+						 if (wordFound == false)
+						 {
+							 var thisCharacter = thisChineseLine[currentCharacter];
 					
-					} else {
+							 if (isChinese(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Chinese characters
+								 spacedChineseLine = spacedChineseLine + thisCharacter;
+						
+								 lastWasNotChinese = true;
+						
+							 } else {
+						
+								 // Add a space if we're back to parsing Chinese
+								 if (lastWasNotChinese == true)
+								 {
+									 spacedChineseLine = spacedChineseLine + " ";
+									 lastWasNotChinese = false;
+								 }
+						
+								 spacedChineseLine = spacedChineseLine + thisCharacter + " ";					
 
-						// Add a space if we're back to parsing Chinese
-						if (lastWasNotChinese == true)
-						{
-							spacedChineseLine = spacedChineseLine + " ";
-							lastWasNotChinese = false;
-						}
+							 } // end if this character is not Chinese
+					
+						 } else {
 
-						spacedChineseLine = spacedChineseLine + thisWord + " ";
+							 // Add a space if we're back to parsing Chinese
+							 if (lastWasNotChinese == true)
+							 {
+								 spacedChineseLine = spacedChineseLine + " ";
+								 lastWasNotChinese = false;
+							 }
 
-					} // end if the word was not found
+							 spacedChineseLine = spacedChineseLine + thisWord + " ";
+
+						 } // end if the word was not found
 								
 				
-				} // end for every character
+					 } // end for every character
 				
-				spacedChinese = spacedChinese + spacedChineseLine + "\n";
-				//} // end if the line is English
+					 spacedChinese = spacedChinese + spacedChineseLine + "\n";
+				} // end if the line is English
 				
 			} // end for every line
 			
 			
-			var spacedLine = "";
+			var spacedLines = "";
 		   
-			var numberLineCharacters = spacedChinese.length;
-		   
-			// Add spaces for punctuation
-			for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
-			{
-				var thisLineCharacter = spacedChinese[currentLineCharacter];
-			   
-				if (isChinese(thisLineCharacter) == true)
-				{
-					spacedLine = spacedLine + thisLineCharacter;
-				} else {
-					if (isEnglish(thisLineCharacter) == true)
-					{
-						spacedLine = spacedLine + thisLineCharacter;
-					} else {
-						spacedLine = spacedLine + thisLineCharacter + " ";
-					}
-				}
-			   
-			} // end add spaces after every non-Chinese character
+			var spacedChineseLines = spacedChinese.split("\n");
 			
-			return spacedLine;
+			var numberLines = spacedChineseLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+			
+				var spacedChineseLine = spacedChineseLines[currentLine];
+
+
+				if (containsChineseString(spacedChineseLine) == true)
+				{
+					var spacedLine = "";
+				
+					var numberLineCharacters = spacedChineseLine.length;
+		   			
+		   			// Add spaces for punctuation
+					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+					{
+						var thisLineCharacter = spacedChineseLine[currentLineCharacter];
+			   			
+						if (isChinese(thisLineCharacter) == true)
+						{
+							spacedLine = spacedLine + thisLineCharacter;
+						} else {
+							if (isEnglish(thisLineCharacter) == true)
+							{
+								spacedLine = spacedLine + thisLineCharacter;
+							} else {
+								spacedLine = spacedLine + thisLineCharacter + " ";
+							}
+						}			   			
+					} // end add spaces after every non-Chinese character
+					
+					spacedLines = spacedLines + spacedLine + "\n";
+					
+				} else {
+					// Don't add spaces on English lines
+					spacedLines = spacedLines + spacedChineseLine + "\n";
+				
+				} // end if the line is english
+				
+			} // end for every line
+			
+			return spacedLines;
 			
 		} // end function wordSpace
 		
@@ -7502,7 +7730,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('something else other than 200 was returned');
+					   alert('error searching php dictionary');
 				   }
 				}
 			};
@@ -8335,7 +8563,7 @@ display:inline;
 			
 			wordSpaceButtonClicked();
 			
-			translateBilingual();
+			translateBilingualInterface();
 		} // end function copyToTranslator
 
 		function buildMatrix(thisPhrase)
@@ -8838,16 +9066,54 @@ display:inline;
 			}
 			
 		} // end function toggleReviewingTheHanzi
+		
+		function containsSimplified()
+		{
+			//debugLog("containsSimplified");
+		
+			var thisText = document.getElementById("chineseTextArea").value;
+			
+			numberCharacters = thisText.length;
 
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisText[currentCharacter];
+				if (thisCharacter != "\n")
+				{
+					if (contains(simplifiedCharacters, thisCharacter))
+					{
+						//alert(thisCharacter+" is simplified");
+						return true;
+					} // end if it contains a simplified character
+				}
+			} // end for every character
+			
+			return false;
+		} // 
+		
 		
 		function translateButtonClicked()
 		{
 			//debugLog("translateButtonClicked");
-
-			var addSimplified = document.getElementById('simplifiedSpacedCheckbox').checked;
+			var addSimplified = false;
+			
+			if ((QueryString.chineseFile == "") && (QueryString.chineseFile == undefined))
+			{
+				addSimplified = containsSimplified();
+			}
+			
 			
 			if (addSimplified == true)
 			{
+				document.getElementById('simplifiedSpacedCheckbox').checked = true;
+				
+				// If we have simplified characters, make sure we loaded everything
+				if ((QueryString.simplified == "") || (QueryString.simplified == undefined))
+				{
+					window.location = "index.html?simplified=" + document.getElementById("chineseTextArea").value;
+				}
+				
+				// Click the button
 				simplifiedToTraditionalButtonClicked();
 			}
 
@@ -8863,7 +9129,7 @@ display:inline;
 			
 			if (thisEnglish == "")
 			{
-				translateBilingual();			
+				translateBilingualInterface();			
 			} else {
 				translateInterface();
 			}
@@ -8942,7 +9208,7 @@ display:inline;
 			
 			var pinyinOpacityValue = pinyinOpacityPercent / 100;
 			
-			var theseClasses = "pinyin_1,pinyin_2,pinyin_3,pinyin_4".split(",");
+			var theseClasses = "pinyin_1,pinyin_2,pinyin_3,pinyin_4,pinyin_5".split(",");
 			
 			var numberClasses = theseClasses.length;
 			
@@ -8963,6 +9229,17 @@ display:inline;
 			} // end for every class
 
 			//document.getElementsByClassName("pinyin_1").style.opacity = literalOpacityValue;
+			
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("literalOpacity").value = pinyinOpacityPercent;
+				setLiteralOpacity();
+				
+				document.getElementById("englishOpacity").value = pinyinOpacityPercent;
+				setEnglishOpacity();
+			}
 			
 		} // end function setPinyinOpacity
 
@@ -9477,6 +9754,18 @@ display:inline;
 				loadDictionary("enWiktionaryDictionary.txt");
 			}
 			
+			// If we have simplified characters
+			if ((QueryString.simplified != "") && (QueryString.simplified != undefined))
+			{
+			
+				loadSimplified("opencc/dictionary/STCharacters.txt");
+				loadSimplified("opencc/dictionary/STPhrases.txt");
+				loadTraditional("opencc/dictionary/TSCharacters.txt");
+
+				lastDictionary = true;
+				loadTraditional("opencc/dictionary/TSPhrases.txt");
+			}
+			
 		} // end function loadDictionaries
 		
 		function dictionaryEditorBopomofoButtonClicked()
@@ -9845,6 +10134,8 @@ display:inline;
 				var oldWordToneless = oldDefinitionArray[2];
 				var oldWordTones = oldDefinitionArray[3];
 				
+				// Push the new definition
+				
 				//if (oldWordTones != thisWordTones)
 				//{
 					//if (oldWordTones != 5)
@@ -9938,6 +10229,16 @@ display:inline;
 			var thisWordEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
 			
 			addWord(thisWordChinese, thisWordPinyin, thisWordEnglish);
+			
+			// Save the new dictionary
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+
+			if (useGithub == false)
+			{
+				writeToFile("PinyinDefinitionsTonesSorted.txt", combinedDictionaryData);
+			} else {
+				saveDictionaryToLocalStorage(combinedDictionaryData.length);
+			}
 			
 			document.getElementById("dictionaryEditorChineseTextArea").value = "";
 			document.getElementById("dictionaryEditorPinyinTextArea").value = "";
@@ -10042,7 +10343,7 @@ display:inline;
 				//var chineseUrl = encodeURI(QueryString.chineseFile);
 				var wordList = QueryString.wordList;
 				
-				debugLog(wordList);
+				//debugLog(wordList);
 				
 				if (wordList == "tocfl")
 				{
@@ -10079,6 +10380,16 @@ display:inline;
 			    translateInterface();
 			}
 			
+			// If we have simplified
+			if ((QueryString.simplified != "") && (QueryString.simplified != undefined))
+			{
+			    document.getElementById("chineseTextArea").value = QueryString.simplified;
+			    document.getElementById("englishTextArea").value = "";
+			    
+			    wordSpaceButtonClicked();
+			    
+			    translateInterface();
+			}
 
 
 		} // end function dictionariesLoaded
@@ -10679,9 +10990,10 @@ display:inline;
 			return thisEndTime;
 		} // end function numberToTime
 		
-		function subtitlesButtonClicked()
+		// subtitlesTwoButtonClicked - This was subtitlesButtonClicked when there were only two lines: Chinese & English. Lyrics show multiple, and that is hard.
+		function subtitlesTwoButtonClicked()
 		{
-			//debugLog("subtitlesButtonClicked");
+			//debugLog("subtitlesTwoButtonClicked");
 			
 			document.getElementById('simplifiedSpacedCheckbox').checked = false;
 			document.getElementById('breakMissingWordsCheckbox').checked = true;
@@ -10914,6 +11226,597 @@ display:inline;
 				thisSubtitle = replaceChars(thisSubtitle, "\n ", "\n");
 				
 				subtitlesOutput = subtitlesOutput + thisSubtitle + "\n" + "\n";
+				
+			} // end for every line
+			
+			document.getElementById("chineseTextArea").value = chineseText;
+			document.getElementById("englishTextArea").value = englishText;
+			document.getElementById("simplifiedSpacedTextArea").value = subtitlesOutput;
+			
+			var vocabularyArray = getVocabulary(chineseText);
+			
+			var vocabularyHtml = vocabularyArray[0];
+			var vocabularyText = vocabularyArray[1];
+			
+			var vocabularyExamplesHtml = "";
+			var vocabularyExamplesText = "";
+			
+			// Add examples to vocabulary
+			vocabularyHtml = replaceChars(vocabularyHtml, "<table>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "\n", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "<tr>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "</table>", "");
+			
+			var vocabularyHtmlArray = vocabularyHtml.split("</tr>");
+			
+			var vocabularyTextArray = vocabularyText.split("\n");
+			var numberLines = vocabularyTextArray.length;
+			
+			var addLiteral = true;
+			
+			var vocabularyExamplesSubtitles = "";
+			var currentWordDefinitionSubtitle = 1;
+			var vocabularyCommands = "";
+			var audioCommands = "";
+			var currentWordDefinitionSubtitleStartTime = 0;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLineHtml = vocabularyHtmlArray[currentLine];
+				var thisLineText = vocabularyTextArray[currentLine];
+				
+				var thisWord = textBetween(thisLineText, "	", "	");
+				
+				if (thisWord != "")
+				{
+					var thisLineHtmlArray = thisLineHtml.split("</td>");
+					
+					var thisLineHtmlChinese = thisLineHtmlArray[1];
+					var thisLineHtmlPinyin = thisLineHtmlArray[2];
+					var thisLineHtmlLiteral = thisLineHtmlArray[3];
+					
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "</div>", "</font>");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_1\">", "<font color=#" + chineseColourOne + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_2\">", "<font color=#" + chineseColourTwo + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_3\">", "<font color=#" + chineseColourThree + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_4\">", "<font color=#" + chineseColourFour + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_5\">", "<font color=#" + chineseColourFive + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_6\">", "<font color=#" + chineseColourOne + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_7\">", "<font color=#" + chineseColourOne + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<div class=\"chinese_8\">", "<font color=#" + chineseColourOne + ">");
+					thisLineHtmlChinese = replaceChars(thisLineHtmlChinese, "<td>", "");
+					
+					thisLineHtmlChinese = "<font size=\"80\">" + thisLineHtmlChinese + "</font>";
+					
+					var thisWordChinese = cleanHtml(thisLineHtmlChinese);
+					thisWordChinese = replaceChars(thisWordChinese, " ", "");
+					
+					var thisWordPinyin = "";
+					
+					if (contains(combinedDictionaryData, "\n" + thisWordChinese + "	") == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
+				
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+				
+						var lineLength = thisDictionaryLineArray.length;
+				
+						var thisDefinition = "";
+						var thisCharacterPinyin = "";
+						var thisToneless = "";
+						var thisTone = "";
+				
+						thisDefinition = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisCharacterPinyin = thisDictionaryLineArray[1];
+						}
+				
+						if (lineLength >= 2)
+						{
+							thisToneless = thisDictionaryLineArray[2];
+						}
+				
+						if (lineLength >= 3)
+						{
+							thisTone = thisDictionaryLineArray[3];
+						}
+						
+						var thisPinyinArray = thisCharacterPinyin.split(" ");
+						var thisTonelessArray = thisToneless.split(" ");
+						var thisTonesArray = thisTone.split("");
+						
+						var numberCharacters = thisWordChinese.length;
+						
+						var thisAudioCommand = "";
+						
+						if (numberCharacters > 1)
+						{
+							thisAudioCommand = "cat ";
+						}
+						
+						for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+						{
+							var thisCharacterToneless = thisTonelessArray[currentCharacter];
+							var thisCharacterTone = thisTonesArray[currentCharacter];
+							
+							if (thisCharacterToneless == "")
+							{
+								addWord(thisWordChinese, thisCharacterPinyin, thisDefinition);
+							}
+
+							if (thisCharacterTone == undefined)
+							{
+								addWord(thisWordChinese, thisCharacterPinyin, thisDefinition);
+							}
+
+							
+							thisWordPinyin = thisWordPinyin + thisCharacterToneless + thisCharacterTone;
+
+							if (numberCharacters > 1)
+							{
+								thisAudioCommand = thisAudioCommand + "\"PinyinAudio/" + thisCharacterToneless + thisCharacterTone + ".mp3\" ";
+							}
+							
+						} // end for every character
+						
+						if (numberCharacters > 1)
+						{							
+							thisAudioCommand = thisAudioCommand + "> \"PinyinAudio/" + thisWordPinyin + ".mp3\"";
+							
+							audioCommands = audioCommands + thisAudioCommand + "\n";
+						}
+
+						
+					} else {
+					
+						// Break the word into characters - not needed because all vocabulary words are in dictionary
+
+					} // if the word is in the dictionary
+					
+					var wordSubtitleOffset = -1;
+					
+					var numberSubtitles = chineseTextArray.length;
+					for (var currentSubtitle = 0; currentSubtitle < numberSubtitles; currentSubtitle++)
+					{
+						var thisWordSubtitleText = chineseTextArray[currentSubtitle];
+						
+						thisWordSubtitleText = replaceChars(thisWordSubtitleText, " ", "");
+						thisWordSubtitleText = replaceChars(thisWordSubtitleText, "	", "");
+						
+						if (contains(thisWordSubtitleText,thisWord))
+						{
+							wordSubtitleOffset = currentSubtitle;
+							break;
+						}
+					} // go through the subtitles again because list offset doesn't work
+					
+					//debugLog(wordSubtitleOffset+" "+thisWord);
+					
+					var thisWordTime = timesTextArray[wordSubtitleOffset];
+					var thisWordSubtitleHtml = chineseHtmlArray[wordSubtitleOffset];
+					var thisWordSubtitleText = chineseTextArray[wordSubtitleOffset];
+					var thisWordExamplePinyinHtml = pinyinHtmlArray[wordSubtitleOffset];
+					var thisWordExamplePinyinText = pinyinTextArray[wordSubtitleOffset];
+					var thisWordExampleLiteralHtml = literalHtmlArray[wordSubtitleOffset];
+					var thisWordExampleLiteralText = literalTextArray[wordSubtitleOffset];
+					var thisWordExampleEnglish = englishTextArray[wordSubtitleOffset];
+				
+					thisWordTime = textBetween(thisWordTime, "start", " -->");
+					thisWordTime = textBetween(thisWordTime, "start", ",");
+				
+					var thisLineExampleHtml = thisLineHtml + "<td>" + thisWordTime + "</td><td>" + "<table><tr><td>" + "<table><tr>" + thisWordSubtitleHtml + "</tr><tr>" + thisWordExamplePinyinHtml + "</tr>";
+					
+					if (addLiteral == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleLiteralHtml + "</tr>";
+					}
+					
+					thisLineExampleHtml = thisLineExampleHtml + "</table></td></tr><tr><td>" + thisWordExampleEnglish + "</td></tr></table>" + "</td>";
+						
+					var thisLineExampleText = thisLineText + "	" + thisWordTime + "	" + thisWordSubtitleText + "	" + thisWordExamplePinyinText + "	" + thisWordExampleLiteralText + "	" + thisWordExampleEnglish;
+					
+					if (contains(commonWords,thisWordChinese) == true)
+					{
+						vocabularyExamplesHtml = vocabularyExamplesHtml + "<tr id=\"" + thisWordChinese + "\">" + thisLineExampleHtml + "</tr>" + "\n";
+						vocabularyExamplesText = vocabularyExamplesText + thisLineExampleText + "\n";
+					}
+					
+					var thisWordSubtitleStartTime = currentWordDefinitionSubtitleStartTime;
+					var thisWordSubtitleEndTime = thisWordSubtitleStartTime + 4;
+					
+					var thisWordSubtitleStartTimeString = numberToTime(thisWordSubtitleStartTime);
+					var thisWordSubtitleEndTimeString = numberToTime(thisWordSubtitleEndTime);
+					
+					var thisWordSubtitleTime = thisWordSubtitleStartTimeString + " --> " + thisWordSubtitleEndTimeString;
+					
+					
+					if (contains(commonWords,thisWordChinese) == true)
+					{
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "</div>", "</font>");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_1\">", "<font color=#" + pinyinColourOne + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_2\">", "<font color=#" + pinyinColourTwo + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_3\">", "<font color=#" + pinyinColourThree + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_4\">", "<font color=#" + pinyinColourFour + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_5\">", "<font color=#" + pinyinColourFive + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<div class=\"pinyin_8\">", "<font color=#" + pinyinColourOne + ">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<span style=\"font-size:", "<font size=\"");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "px\">", "\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "</span>", "</font>");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<td>", "");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<b>", "");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "</b>", "");
+
+						// Change the font size
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"14\">", "<font size=\"36\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"15\">", "<font size=\"40\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"16\">", "<font size=\"44\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"17\">", "<font size=\"48\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"18\">", "<font size=\"52\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"19\">", "<font size=\"56\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "<font size=\"20\">", "<font size=\"60\">");
+						thisLineHtmlPinyin = replaceChars(thisLineHtmlPinyin, "</font></font> <font", " </font></font><font");
+						
+						thisLineHtmlLiteral = textBetween(thisLineHtml, "<div class=\"literal\">", "</div>");
+					
+						thisLineHtmlLiteral = "<font size=\"50\"><font color=#000000>" + thisLineHtmlLiteral + "</font></font>";
+					
+						var thisWordDefinitionSubtitle = currentWordDefinitionSubtitle + "\n" + thisWordSubtitleTime + "\n" + thisLineHtmlChinese + "\n" + thisLineHtmlPinyin + "\n" + thisLineHtmlLiteral + "\n";
+					
+						vocabularyExamplesSubtitles = vocabularyExamplesSubtitles + thisWordDefinitionSubtitle + "\n";
+						
+						var thisWordSubtitleStartTimeSeconds = replaceChars(thisWordSubtitleStartTimeString, ",000");
+						var thisWordSubtitleEndTimeSeconds = replaceChars(thisWordSubtitleEndTimeString, ",000");
+						
+						//var thisVocabularyCommand = "ffmpeg -ss " + thisWordSubtitleStartTimeSeconds + " -to " + thisWordSubtitleEndTimeSeconds + " -async 1 -threads 9 -preset ultrafast -strict -2 \"WordHeadings/" + thisWordChinese + ".mp4\"";
+						
+						var thisVocabularyCommand = "ffmpeg -i \"last4SecondsPad5.mp4\" -i \"Audio/" + thisWordPinyin + ".mp3\" -vf subtitles=\"WordSubtitles/" + thisWordChinese + ".srt:force_style='FontName=PingFangTC-Regular,Outline=0'\" -map 0:v -map 1:a -threads 9 -preset ultrafast \"WordHeadings/" + thisWordChinese + ".mp4\"";
+						
+						vocabularyCommands = vocabularyCommands + thisVocabularyCommand + "\n";
+						
+						currentWordDefinitionSubtitle = currentWordDefinitionSubtitle + 1;
+						currentWordDefinitionSubtitleStartTime = thisWordSubtitleEndTime;
+					}
+
+				} // end if the word is not blank
+			} // end for every line in the vocabulary
+			
+			vocabularyExamplesHtml = "<table>" + vocabularyExamplesHtml + "</table>";
+			
+			//debugLog(vocabularyExamplesHtml);
+			
+			vocabularyCommands = audioCommands + vocabularyCommands;
+			
+			document.getElementById("outputHtml").innerHTML = vocabularyExamplesHtml;
+			document.getElementById("outputTextArea").value = vocabularyExamplesSubtitles;
+			document.getElementById("chineseSpacedTextArea").value = vocabularyCommands;
+			
+		}  // end function subtitlesTwoButtonClicked
+		
+		// Handle movie or lyrics subtitles
+		function subtitlesButtonClicked()
+		{
+			// Suitable font sizes for movie subtitles
+			/*
+			var chineseFontSize = 20;
+			
+			var pinyinFontSizeOne = 10;
+			var pinyinFontSizeTwo = 11;
+			var pinyinFontSizeThree = 12;
+			var pinyinFontSizeFour = 13;
+			var pinyinFontSizeFive = 14;
+			var pinyinFontSizeSix = 15;
+			var pinyinFontSizeSeven = 16;
+			
+			var literalFontSize = 12;
+			var englishFontSize = 12;
+			*/
+			
+			// Suitable font sizes for 1024x768 lyrics
+			/*
+			var chineseFontSize = 16;
+			
+			var pinyinFontSizeOne = 8;
+			var pinyinFontSizeTwo = 8;
+			var pinyinFontSizeThree = 9;
+			var pinyinFontSizeFour = 9;
+			var pinyinFontSizeFive = 10;
+			var pinyinFontSizeSix = 10;
+			var pinyinFontSizeSeven = 11;
+			
+			var literalFontSize = 9;
+			var englishFontSize = 9;
+			*/
+			
+			// Suitable font sizes for 1920x1080 lyrics
+			var chineseFontSize = 18;
+			
+			var pinyinFontSizeOne = 10;
+			var pinyinFontSizeTwo = 10;
+			var pinyinFontSizeThree = 11;
+			var pinyinFontSizeFour = 11;
+			var pinyinFontSizeFive = 12;
+			var pinyinFontSizeSix = 12;
+			var pinyinFontSizeSeven = 13;
+			
+			var literalFontSize = 11;
+			var englishFontSize = 11;
+
+
+		
+			//debugLog("subtitlesButtonClicked");
+			
+			document.getElementById('simplifiedSpacedCheckbox').checked = false;
+			document.getElementById('breakMissingWordsCheckbox').checked = true;
+			document.getElementById('monospaceTextCheckbox').checked = false;
+			
+			var subtitlesText = document.getElementById("simplifiedInputTextArea").value;
+			
+			var subtitlesLines = subtitlesText.split("\n");
+			
+			var numberLines = subtitlesLines.length;
+			
+			// Combine subtitles into correctly alternating lines
+			var numbersText = "";
+			var timesText = "";
+			var englishText = "";
+			var chineseText = "";
+			var thisSubtitleNumber = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = subtitlesLines[currentLine];
+				
+				var lineLength = thisLine.length;
+				
+				if (thisLine == "")
+				{
+					numbersText = numbersText + "\n";
+					timesText = timesText + "\n";
+					englishText = englishText + "\n";
+					chineseText = chineseText + "\n";
+					thisSubtitleNumber = "";
+				} else {
+					if ((isNumberString(thisLine) == true) && (thisSubtitleNumber == ""))
+					{
+						numbersText = numbersText + thisLine;
+						thisSubtitleNumber = thisLine;
+					} else {
+						// If this line is a time
+						if (contains(thisLine, " --> ") == true)
+						{
+							timesText = timesText + thisLine;
+						} else {
+							var cleanText = cleanHtml(thisLine);
+							
+							if (containsChineseString(cleanText) == true)
+							{
+								chineseText = chineseText + cleanText + "| ";
+							} else {
+								// extra spaces in case we concatenate two lines
+								englishText = englishText + cleanText + "| ";
+							}
+						} // end if time
+					} // end if number string
+				} // end if blank line
+
+			} // end for every line in the subtitles
+			
+			chineseText = replaceChars(chineseText, " \n", "\n");
+			chineseText = replaceChars(chineseText, "|\n", "\n");
+			englishText = replaceChars(englishText, " \n", "\n");
+			englishText = replaceChars(englishText, "|\n", "\n");
+			
+			// Process the Chinese text
+			
+			chineseText = despace(chineseText);
+			
+			var despacedChineseText = chineseText;
+			var despacedChineseTextArray = chineseText.split("\n");
+			
+			//chineseText = simplifiedToTraditional(chineseText);
+			chineseText = wordSpace(chineseText);
+			chineseText = replaceChars(chineseText, "\n ", "\n");
+			
+			// For every line in the numbers/times/chinese/english text
+			
+			var numbersTextArray = numbersText.split("\n");
+			var timesTextArray = timesText.split("\n");
+			var englishTextArray = englishText.split("\n");
+			var chineseTextArray = chineseText.split("\n");
+			
+			
+			
+			numberLines = numbersTextArray.length;
+			
+			var subtitlesOutput = "";
+			
+			var chineseHtmlArray = [];
+			
+			var pinyinTextArray = [];
+			var pinyinHtmlArray = [];
+			
+			var literalHtmlArray = [];
+			var literalTextArray = [];
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var numbersTextLine = numbersTextArray[currentLine];
+				var timesTextLine = timesTextArray[currentLine];
+				var englishTextLine = englishTextArray[currentLine];				
+				var chineseTextLine = chineseTextArray[currentLine];
+				
+				var translationOutput = translateText(chineseTextLine, englishTextLine);
+				
+				var translatedHtml = translationOutput[0];
+				var translatedText = translationOutput[1];
+								
+				var translatedTextArray = translatedText.split("\n");
+				var translatedTextChinese = translatedTextArray[0];
+				var translatedTextPinyin = translatedTextArray[1];
+				var translatedTextLiteral = translatedTextArray[2];
+				var translatedTextEnglish = translatedTextArray[3];
+				
+				pinyinTextArray.push(translatedTextPinyin);
+				
+				/*
+				translatedTextChinese = "<font size=\"17\">" + translatedTextChinese + "</font>";
+				
+				subtitlesOutput = subtitlesOutput + "\n" + numbersTextLine + "\n" + timesTextLine + "\n" + translatedTextChinese + "\n"  + translatedTextPinyin + "\n" + translatedTextLiteral + "\n" + translatedTextEnglish + "\n" + "\n";
+				*/
+				
+				translatedHtml = replaceChars(translatedHtml, "<p>", "");
+				translatedHtml = replaceChars(translatedHtml, "</p>", "");
+				translatedHtml = replaceChars(translatedHtml, "<table>", "");
+				translatedHtml = replaceChars(translatedHtml, "</table>", "");
+				
+				var translatedHtmlArray = translatedHtml.split("</tr><tr>");
+				var translatedHtmlChinese = translatedHtmlArray[0];
+				var translatedHtmlPinyin = translatedHtmlArray[1];
+				var translatedHtmlLiteral = translatedHtmlArray[2];
+				var translatedHtmlEnglish = translatedHtmlArray[3];
+
+				var chineseColourOne = document.getElementById("chineseColourPickerOne").value;
+				var chineseColourTwo = document.getElementById("chineseColourPickerTwo").value;
+				var chineseColourThree = document.getElementById("chineseColourPickerThree").value;
+				var chineseColourFour = document.getElementById("chineseColourPickerFour").value;
+				var chineseColourFive = document.getElementById("chineseColourPickerFive").value;
+				
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<tr>", "");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "</tr>", "");
+
+				chineseHtmlArray.push(translatedHtmlChinese);
+				
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<td>", " ");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "</td>", " ");
+				
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "</div>", "</font>");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_1\">", "<font color=#" + chineseColourOne + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_2\">", "<font color=#" + chineseColourTwo + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_3\">", "<font color=#" + chineseColourThree + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_4\">", "<font color=#" + chineseColourFour + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_5\">", "<font color=#" + chineseColourFive + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_6\">", "<font color=#" + chineseColourOne + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_7\">", "<font color=#" + chineseColourOne + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"chinese_8\">", "<font color=#" + chineseColourOne + ">");
+				translatedHtmlChinese = replaceChars(translatedHtmlChinese, "<div class=\"englishInChinese\">", "<font color=#" + chineseColourOne + ">");
+				
+				while (contains(translatedHtmlChinese, "  ") == true)
+				{
+					translatedHtmlChinese = replaceChars(translatedHtmlChinese, "  ", " ");
+				}
+				
+				
+				translatedHtmlChinese = "<font size=\"" + chineseFontSize + "\">" + translatedHtmlChinese + "</font>";
+				
+				var pinyinColourOne = document.getElementById("pinyinColourPickerOne").value;
+				var pinyinColourTwo = document.getElementById("pinyinColourPickerTwo").value;
+				var pinyinColourThree = document.getElementById("pinyinColourPickerThree").value;
+				var pinyinColourFour = document.getElementById("pinyinColourPickerFour").value;
+				var pinyinColourFive = pinyinColourOne;
+
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<tr>", "");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "</tr>", "");
+
+				pinyinHtmlArray.push(translatedHtmlPinyin);
+
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<td>", " ");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "</td>", " ");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "</div>", "</font>");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_1\">", "<font color=#" + pinyinColourOne + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_2\">", "<font color=#" + pinyinColourTwo + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_3\">", "<font color=#" + pinyinColourThree + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_4\">", "<font color=#" + pinyinColourFour + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_5\">", "<font color=#" + pinyinColourFive + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_6\">", "<font color=#" + pinyinColourOne + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_7\">", "<font color=#" + pinyinColourOne + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"pinyin_8\">", "<font color=#" + pinyinColourOne + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<div class=\"englishInChinese\">", "<font color=#" + pinyinColourOne + ">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<span style=\"font-size:", "<font size=\"");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "px\">", "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "</span>", "</font>");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<b>", "");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "</b>", "");
+				
+				while (contains(translatedHtmlPinyin, "   ") == true)
+				{
+					translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "   ", "  ");
+				}
+
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "<tr>", "");
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "</tr>", "");
+				translatedHtmlLiteral = textBetween(translatedHtmlLiteral, "start", "<div class=\"english\">");
+
+				while (contains(translatedHtmlLiteral, "   ") == true)
+				{
+					translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "   ", "  ");
+				}
+				// Change the font size
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"14\">", "<font size=\"" + pinyinFontSizeOne + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"15\">", "<font size=\"" + pinyinFontSizeTwo + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"16\">", "<font size=\"" + pinyinFontSizeThree + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"17\">", "<font size=\"" + pinyinFontSizeFour + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"18\">", "<font size=\"" + pinyinFontSizeFive + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"19\">", "<font size=\"" + pinyinFontSizeSix + "\">");
+				translatedHtmlPinyin = replaceChars(translatedHtmlPinyin, "<font size=\"20\">", "<font size=\"" + pinyinFontSizeSeven + "\">");
+								
+				literalHtmlArray.push(translatedHtmlLiteral);
+				
+				literalTextArray.push(translatedTextLiteral);
+				
+				translatedTextLiteral = "<font size=\"" + literalFontSize + "\"><font color=#000000>" + translatedTextLiteral + "</font></font>";
+				translatedTextLiteral = replaceChars(translatedTextLiteral, "|", "</font></font>|<font size=\"" + literalFontSize + "\"><font color=#000000>");
+				
+				translatedTextEnglish = "<font size=\"" + englishFontSize + "\"><font color=#000000>" + translatedTextEnglish + "</font></font>";
+				translatedTextEnglish = replaceChars(translatedTextEnglish, "|", "</font></font>|<font size=\"" + englishFontSize + "\"><font color=#000000>");
+				
+				// Movie subtitles - position at bottom
+				//var subtitlePosition = "";
+				
+				// 1024x768 - position in middle
+				var subtitlePosition = " X1:200 X2:500 Y1:40 Y2:500";
+				
+				// 1920x1080 - position in middle
+				var subtitlePosition = " X1:200 X2:500 Y1:0 Y2:500";
+				
+								
+				var thisSubtitle = numbersTextLine + "\n" + timesTextLine + subtitlePosition + "\n";
+				
+				// Fix multi-line subtitles (Chinese-English-Chinese-English, common in lyrics)
+				translatedHtmlChinese=replaceChars(translatedHtmlChinese,"<font color=#000000>|</font>","|");
+				translatedHtmlPinyin=replaceChars(translatedHtmlPinyin,"<font color=#000000>|</font>","|");
+				
+				var translatedHtmlChineseLines = translatedHtmlChinese.split("|");
+				var translatedHtmlPinyinLines = translatedHtmlPinyin.split("|");
+				var translatedTextLiteralLines = translatedTextLiteral.split("|");
+				var translatedTextEnglishLines = translatedTextEnglish.split("|");
+				
+				var numberSubtitleLines = translatedHtmlChineseLines.length;
+				
+				for (var currentSubtitleLine = 0; currentSubtitleLine < numberSubtitleLines; currentSubtitleLine++)
+				{
+					var thisSubtitleChineseLine = translatedHtmlChineseLines[currentSubtitleLine];
+					var thisSubtitlePinyinLine = translatedHtmlPinyinLines[currentSubtitleLine];
+					var thisSubtitleLiteralLine = translatedTextLiteralLines[currentSubtitleLine];
+					var thisSubtitleEnglishLine = translatedTextEnglishLines[currentSubtitleLine];
+					
+					thisSubtitlePinyinLine = thisSubtitlePinyinLine.trim();
+					
+					thisSubtitle = thisSubtitle + thisSubtitleChineseLine + "\n"  + thisSubtitlePinyinLine + "\n" + thisSubtitleLiteralLine + "\n" + thisSubtitleEnglishLine + "\n";
+					
+				} // end for every subtitle line
+								
+				thisSubtitle = replaceChars(thisSubtitle, "	", "  ");
+				
+				while (contains(thisSubtitle, "   "))
+				{
+					thisSubtitle = replaceChars(thisSubtitle, "   ", "  ");
+				}
+				
+				thisSubtitle = replaceChars(thisSubtitle, "\n ", "\n");
+				
+				subtitlesOutput = subtitlesOutput + thisSubtitle + "\n";
 				
 			} // end for every line
 			
@@ -11990,7 +12893,348 @@ display:inline;
 			showMissingWords(newWords);
 			
 		} // end function findNewWords
+				
+		function loadVideo(videoUrl)
+		{
+			//debugLog("loadVideo");
+
+			document.getElementById("mp4_src").src = videoUrl;
+			document.getElementById("myVideo").load();
+			
+		} // end function loadVideo
+
+		function videoPlayPause()
+		{
+			//debugLog("videoPlayPause");
+			
+			var isPaused = document.getElementById("myVideo").paused;
+			
+			if (isPaused)
+			{
+				document.getElementById("myVideo").play();
+			} else {
+				document.getElementById("myVideo").pause();
+			}
+			
+		} // end function videoPlayPause
+
+		function showSlide(slideNumber)
+		{
+			//debugLog("showSlide(" + slideNumber + ")");
+			
+			currentSlide = slideNumber;
+			
+			var slideId = "slide" + slideNumber;
+			
+			var slideHtml = document.getElementById(slideId).innerHTML;
+			
+			document.getElementById("thisSlideHtml").innerHTML = slideHtml;
+			
+			appendSubtitle();
+			
+			// Get the current time
+			var thisTime = getVideoTime();
+			
+			// Make a note of the start time and slide text
+			lastSlideStartTime = thisTime;
+			lastSlideText = slideTextArray[slideNumber];
+			
+		} // end function showSlide
 		
+		function numberToTime(thisEndTimeNumber)
+		{
+			//debugLog("numberToTime");
+
+			thisEndTimeSeconds = Math.floor(thisEndTimeNumber);
+			thisEndTimeMilliseconds = thisEndTimeNumber - thisEndTimeSeconds;
+			
+			thisEndTimeMilliseconds = Math.floor(thisEndTimeMilliseconds * 1000);
+			
+			thisEndTimeHours = 0;
+			
+			while (thisEndTimeSeconds > 3600)
+			{
+				thisEndTimeHours = thisEndTimeHours + 1;
+				thisEndTimeSeconds = thisEndTimeSeconds - 3600;
+			}
+							
+			thisEndTimeMinutes = Math.floor(thisEndTimeSeconds / 60);
+			
+			thisEndTimeSeconds = thisEndTimeSeconds - (thisEndTimeMinutes * 60);
+			
+			thisEndTimeHours = zeroPad(thisEndTimeHours, 2);
+			thisEndTimeMinutes = zeroPad(thisEndTimeMinutes, 2);
+			thisEndTimeSeconds = zeroPad(thisEndTimeSeconds, 2);
+			thisEndTimeMilliseconds = zeroPad(thisEndTimeMilliseconds, 3);
+			
+			thisEndTime = thisEndTimeHours + ":" + thisEndTimeMinutes + ":" + thisEndTimeSeconds + "," + thisEndTimeMilliseconds;
+			
+			return thisEndTime;
+		} // end function numberToTime
+		
+		function getVideoTime()
+		{
+			//debugLog("getVideoTime");
+			var thisTime = document.getElementById("myVideo").currentTime;
+			thisTime = thisTime.toFixed(3);
+			
+			var thisTimeString = numberToTime(thisTime);
+			
+			return thisTimeString;
+			
+		} // end function getVideoTime
+		
+		function appendSubtitle()
+		{
+			//debugLog("appendSubtitle");
+
+			// Don't append blank subtitles
+			if (lastSlideText == "")
+			{
+				return;
+			}
+			
+			var thisTime = getVideoTime();
+			
+			var lastSlideEndTime = thisTime;
+			
+			// Append the subtitle to the textarea
+			var thisSubtitlesText = document.getElementById("thisSubtitlesTextArea").value;
+			
+			thisSubtitlesText = thisSubtitlesText + currentSlideSubtitle + "\n" + lastSlideStartTime + " --> " + lastSlideEndTime + "\n" + lastSlideText + "\n";
+			
+			document.getElementById("thisSubtitlesTextArea").value = thisSubtitlesText;
+			
+			document.getElementById("thisSubtitlesTextArea").scrollTop = document.getElementById("thisSubtitlesTextArea").scrollHeight;
+			
+			lastSlideText = "";
+			
+			currentSlideSubtitle = currentSlideSubtitle + 1;
+			
+		} // end function addSubtitle
+		
+		function previousButtonClicked()
+		{
+			//debugLog("previousButtonClicked");
+
+			currentSlide = currentSlide - 1;
+			showSlide(currentSlide);
+		} // end function previousButtonClicked
+
+		function blackButtonClicked()
+		{
+			//debugLog("blackButtonClicked");
+		
+			document.getElementById("thisSlideHtml").innerHTML = "";
+			
+			appendSubtitle();
+			
+		} // end function blackButtonClicked
+
+		function nextButtonClicked()
+		{
+			//debugLog("nextButtonClicked");
+
+			currentSlide = currentSlide + 1;
+			showSlide(currentSlide);
+		} // end function nextButtonClicked
+		
+		
+		function lyricsButtonClicked()
+		{
+			//debugLog("lyricsButtonClicked");
+
+			var videoUrl = "Data/LyricsSrt/SongOfTheLand.mp4";
+			
+			loadVideo(videoUrl);
+			
+			document.getElementById("videoContainer").style.visibility = "visible";
+			document.getElementById("videoContainer").style.height = "auto";
+			
+			var lyricsText = document.getElementById("chineseTextArea").value;
+			
+			var lyricsTextLines = lyricsText.split("\n");
+			
+			var numberLines = lyricsTextLines.length;
+			
+			var thisSlide = "";
+			
+			var slidesArray = [];
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = lyricsTextLines[currentLine];
+				
+				if (thisLine == "")
+				{
+					slidesArray.push(thisSlide);
+					thisSlide = "";
+				} else {
+					thisSlide = thisSlide + thisLine + "\n";
+				} // end if the line is blank
+				
+			} // end for every line of the lyrics
+			
+			var numberSlides = slidesArray.length;
+			
+			var outputHtml = "";
+			var outputText = "";
+			
+			slideTextArray = [];
+			
+			for (var currentSlideNumber = 0; currentSlideNumber < numberSlides; currentSlideNumber++)
+			{
+				var thisSlide = slidesArray[currentSlideNumber];
+				
+				slideTextArray.push(thisSlide);
+				
+				var thisSlideSpaced = wordSpace(thisSlide);
+				
+				var translations = translateBilingual(thisSlideSpaced);
+				
+				var slideHtml=translations[0];
+				var slideText=translations[1];
+				
+				slideHtml = replaceChars(slideHtml, "<br></br>", "");
+				
+				slideHtml = "<div id=\"slide" + currentSlideNumber + "\" onclick=\"showSlide(" + currentSlideNumber + ");\">" + slideHtml + "</div>";
+								
+				outputHtml = outputHtml + slideHtml + "<br></br>" + "\n";
+				outputText = outputText + slideText + "\n";
+				
+			} // end for every slide
+
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+			openSlideViewer();
+			
+		} // end function lyricsButtonClicked
+		
+		function swapButtonClicked()
+		{
+			//debugLog("swapButtonClicked");
+			
+			var bilingualText = document.getElementById("chineseTextArea").value;
+			
+			var bilingualArray = bilingualText.split("\n");
+			
+			var numberLines = bilingualArray.length;
+			
+			var lastEnglishString = "";
+			
+			var swappedText = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = bilingualArray[currentLine];
+				
+				if (thisLine == "")
+				{
+					if (lastEnglishString != "")
+					{
+						swappedText = swappedText + lastEnglishString + "\n";
+						lastEnglishString = "";
+					}
+				
+					swappedText = swappedText + thisLine + "\n";
+				} else {
+				
+					var lineIsChinese = containsChineseString(thisLine);
+				
+					if (lineIsChinese == true)
+					{
+						swappedText = swappedText + thisLine + "\n";
+						
+						if (lastEnglishString != "")
+						{
+							swappedText = swappedText + lastEnglishString + "\n";
+						}
+						
+						lastEnglishString = "";
+					
+					} else {
+						if (lastEnglishString != "")
+						{
+							swappedText = swappedText + lastEnglishString + "\n";
+							lastEnglishString = "";
+						}
+					
+						lastEnglishString = thisLine;
+					
+					} // end if the line is chinese
+					
+				} // end if the line is not blank
+				
+			} // end for every line
+			
+			document.getElementById("chineseTextArea").value = swappedText;
+			
+			translateButtonClicked();
+
+		} // end function swapButtonClicked
+		
+		function shuffle(array) 
+		{
+			//debugLog("shuffle");
+
+			var newPosition;
+			var currentItem;
+			var thisItem;
+			
+			for (currentItem = array.length; currentItem; currentItem--) 
+			{
+				newPosition = Math.floor(Math.random() * currentItem);
+				thisItem = array[currentItem - 1];
+				array[currentItem - 1] = array[newPosition];
+				array[newPosition] = thisItem;
+			}
+			
+			return array;
+		} // end function function shuffle
+		
+		
+		function shuffleButtonClicked()
+		{
+			//debugLog("shuffleButtonClicked");
+			
+			var chineseText = document.getElementById("chineseTextArea").value;
+			
+			var spacedText = document.getElementById("chineseSpacedTextArea").value;
+			
+			if (spacedText == "")
+			{
+				spacedText = wordSpace(chineseText);
+			}
+			
+			spacedText = replaceChars(spacedText, "  ", " ");
+			
+			var outputText = "";
+			
+			var spacedLines = spacedText.split("\n");
+			var numberLines = spacedLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = spacedLines[currentLine];
+			
+				var spacedArray = thisLine.split(" ");
+			
+				spacedArray = shuffle(spacedArray);
+			
+				var shuffledLine = spacedArray.join(" ");
+				
+				outputText = outputText + shuffledLine + "\n";
+			} // end for every line
+			
+			document.getElementById("chineseTextArea").value = outputText;
+			
+			translateButtonClicked();
+							
+		} // end function shuffleButtonClicked
+		
+		
+
 		function advancedButtonClicked()
 		{
 			//debugLog("advancedButtonClicked");
@@ -12048,10 +13292,37 @@ display:inline;
 					} // end for every default button
 					
 				} // end if this key is return
+				
 		} // end function keyPressed
-		
-		
-		
+
+		function keyDown()
+		{
+			//debugLog("keyPressed");
+
+    		var key = window.event.keyCode;
+    		    		
+			// If the user has pressed the left arrow
+			if (key === 37) 
+			{
+				previousButtonClicked();
+			} // end if this key is the left arrow
+
+			// If the user has pressed the b key
+			if (key === 66) 
+			{
+				blackButtonClicked();
+			} // end if this key is the b key
+
+
+			// If the user has pressed the right arrow
+			if (key === 39) 
+			{
+				nextButtonClicked();
+			} // end if this key is the right arrow
+
+				
+		} // end function keyDown
+
 		
 		// Don't reload dictionaries unless the user presses the button. 
 		/*
@@ -12079,6 +13350,8 @@ display:inline;
 		loadComposition("cjk-decomp-0.4.0.txt");
 		loadGenealogies("Genealogies.txt");
 
+		loadSimplifiedList("SimplifiedCharacters.txt");
+
 		loadToken();
 		
 		loadToneNumbersMarks("ToneNumbersMarks.txt");
@@ -12089,6 +13362,42 @@ display:inline;
   
   <!-- jQuery scripts -->
   <script>
+  
+  	function openSlideViewer()
+  	{
+  		//debuglog("openSlideViewer");
+  		
+		document.getElementById("slideViewer").style.visibility = "visible";
+
+		dictionaryEditorEditCounts();
+  		
+		var thisDialog = $( "#slideViewer" ).dialog(
+			{
+				width: 800,
+				maxWidth: 1200,
+				height: 500,
+			    closeText: "",
+			    position: 
+			    { 
+    				my: 'left top',
+    				at: 'right bottom',
+				    of: $('#lyricsButton')
+				},
+			    dialogClass: 'slideViewer',
+			    
+			    open: function() {
+			    
+    				$('body').keydown(function(e) 
+    				{
+    					keyDown();
+    				});
+           		}
+			    
+			}
+		); 
+		
+		
+  	} // end function openSlideViewer
   	
   	function openDictionaryEditor()
   	{

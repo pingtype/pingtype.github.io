@@ -12,6 +12,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 都	all	dōu	dou	1	9	
 了	is	le	le	5	9	
 年	year	nián	nian	2	9	
@@ -40,7 +58,7 @@
 能	can	néng	neng	2	9	
 而	and	ér	er	2	9	
 章	composition	zhāng	zhang	1	9	
-站	station	zhàn	zhan	4	9	
+站	stop	zhàn	zhan	4	
 知	know	zhī	zhi	1	9	
 真	real	zhēn	zhen	1	9	
 看	look	kàn	kan	4	9	
@@ -85,7 +103,7 @@
 当	bear	dāng	dang	1	9	
 年	year	nián	nian	2	9	
 工	labor	gōng	gong	1	9	
-就	just	jiù	jiu	4	9	
+就	to	jiù	jiu	4	
 小	small	xiǎo	xiao	3	9	
 對	to	duì	dui	4	9	
 对	correct	duì	dui	4	9	
@@ -93,7 +111,7 @@
 定	decide	dìng	ding	4	9	
 學	learning	xué	xue	2	9	
 学	learning	xué	xue	2	9	
-子	offspring	zi	zi	1	9	
+子	child	zi	zi	1	
 如	if	rú	ru	2	9	
 好	good	hǎo	hao	3	9	
 天	day	tiān	tian	1	9	
@@ -115,7 +133,7 @@
 到	to	dào	dao	4	
 出	out	chū	chu	1	
 們	plural	men	men	1	9	
-個	piece	ge	ge	5	9	
+個	a	ge	ge	1	
 信	trust	xìn	xin	4	9	
 來	come	lái	lai	2	
 你	you	nǐ	ni	3	9	
@@ -302,7 +320,7 @@
 視	inspect	shì	shi	4	8	
 見	see	jiàn	jian	4	8	
 西	west	xī	xi	1	8	
-裡	inside	lǐ	li	3	8	
+裡	in	lǐ	li	3	8	
 裝	dress	zhuāng	zhuang	1	8	
 装	dress	zhuāng	zhuang	1	8	
 被	by	bèi	bei	4	8	
@@ -382,7 +400,7 @@
 理	reason	lǐ	li	3	8	
 球	ball	qiú	qiu	2	8	
 班	class	bān	ban	1	8	
-玩	joke	wán	wan	2	8	
+玩	play	wán	wan	2	8	
 王	king	wáng	wang	2	8	
 獨	alone	dú	du	2	8	
 独	alone	dú	du	2	8	
@@ -445,7 +463,7 @@
 明	bright	míng	ming	2	8	
 日	day	rì	ri	4	8	
 方	rectangle	fāng	fang	1	8	
-料	consider	liào	liao	4	8	
+料	material	liào	liao	4	
 數	number	shù	shu	4	8	
 整	whole	zhěng	zheng	3	
 数	number	shù	shu	4	8	
@@ -465,7 +483,7 @@
 拿	take	ná	na	2	8	
 报	report	bào	bao	4	8	
 投	throw	tóu	tou	2	8	
-把	take	bǎ	ba	3	8	
+把	do	bǎ	ba	3	
 找	search	zhǎo	zhao	3	8	
 打	hit	dǎ	da	3	
 才	only	cái	cai	2	
@@ -481,7 +499,7 @@
 总	total	zǒng	zong	3	
 怪	strange	guài	guai	4	8	
 性	nature	xìng	xing	4	8	
-思	think	sī	si	1	8	
+思	think	sī	si	5	8	
 怎	what	zěn	zen	3	8	
 念	study	niàn	nian	4	
 快	quick	kuài	kuai	4	
@@ -643,7 +661,7 @@
 保	protect	bǎo	bao	3	8	
 便	convenience	biàn	bian	4	8	
 使	cause	shǐ	shi	3	8	
-作	make	zuò	zuo	4	8	
+作	be	zuò	zuo	4	
 住	reside	zhù	zhu	4	8	
 位	throne	wèi	wei	4	8	
 似	resemble	shì	shi	4	8	
@@ -1526,7 +1544,7 @@
 醜	ugly	chǒu	chou	3	
 醒	startle	xǐng	xing	3	6	
 醉	drunk	zuì	zui	4	
-酸	tart	suān	suan	1	6	
+酸	sour	suān	suan	1	
 酷	strong	kù	ku	4	6	
 鄰	neighbor	lín	lin	2	6	
 鄭	surname	zhèng	zheng	4	6	
@@ -1537,7 +1555,7 @@
 邻	neighbor	lín	lin	2	6	
 邱	surname	qiū	qiu	1	6	
 邮	postal	yóu	you	2	6	
-邪	wrong	xié	xie	2	6	
+邪	evil	xié	xie	2	
 邦	nation	bāng	bang	1	6	
 邏	patrol	luó	luo	2	6	
 邁	step	mài	mai	4	6	
@@ -1607,7 +1625,7 @@
 趋	hasten	qū	qu	1	6	
 赤	red	chì	chi	4	6	
 赢	win	yíng	ying	2	6	
-赠	bestow	zèng	zeng	4	6	
+赠	present	zèng	zeng	4	
 赞	help	zàn	zan	4	6	
 赚	earn	zhuàn	zhuan	4	6	
 赖	rely	lài	lai	4	6	
@@ -1626,7 +1644,7 @@
 贝	seshell	bèi	bei	4	6	
 贏	win	yíng	ying	2	6	
 贊	help	zàn	zan	4	6	
-贈	bestow	zèng	zeng	4	6	
+贈	present	zèng	zeng	4	
 購	buy	gòu	gou	4	6	
 賺	earn	zhuàn	zhuan	4	6	
 賴	rely	lài	lai	4	6	
@@ -1827,7 +1845,7 @@
 糊	paste	hú	hu	2	6	
 粗	rough	cū	cu	1	6	
 粉	powder	fěn	fen	3	6	
-米	rice	mǐ	mi	3	6	
+米	metre	mǐ	mi	3	
 籍	record	jí	ji	2	6	
 籌	chip	chóu	chou	2	6	
 籃	basket	lán	lan	2	6	
@@ -2201,7 +2219,7 @@
 拆	tear	chāi	chai	1	
 抽	sprout	chōu	chou	1	6	
 抹	smear	mǒ	mo	3	6	
-抵	resist	dǐ	di	3	6	
+抵	equal	dǐ	di	3	
 抬	lift	tái	tai	2	6	
 披	wear	pī	pi	1	6	
 抢	plunder	qiǎng	qiang	3	6	
@@ -2576,7 +2594,7 @@
 伍	five	wǔ	wu	3	6	
 伊	he	yī	yi	1	6	
 企	plan	qǐ	qi	3	6	
-仲	mediator	zhòng	zhong	4	6	
+仲	middle	zhòng	zhong	4	
 仰	admire	yǎng	yang	3	6	
 仪	ceremony	what	yí	yi	2	
 仙	transcendent	xiān	xian	1	6	
@@ -52729,7 +52747,7 @@
 匿	hide	5	
 里	village	7	
 裡	inside	8	
-裏	inside	lǐ	li	3	
+裏	in	lǐ	li	3	
 罹	sorrow	5	
 痢	dysentery	
 理	reason	8	
@@ -54287,7 +54305,7 @@
 高唱	chant	gāo chàng	gao chang 	14	
 高呼	Shouting	gāo hū	gao hu 	11	
 高原	plateau	gāo yuán 	gao yuan 	121	
-高升	High rise	gāo shēng 	gao sheng 	11	
+高升	exalt	gāo shēng 	gao sheng 	111	
 高出	Taller	gāo chū	gao chu 	11	
 高傲	arrogant	gāo ào	gao ao 	14	
 高低	High and low	gāo dī	gao di 	11	
@@ -56281,8 +56299,6 @@
 降臨	Come on	jiàng lín	  	42	
 降福	Blessing	jiàng fú	  	42	
 降生	Born	jiàng shēng	 sheng 	41	
-降為	Down to	jiàng wèi	 wei 	44	
-降火	Reduce the fire	jiàng huǒ	 huo 	43	
 降服	surrender	xiáng fú	 fu 	22	
 降到	Down to	jiàng dào	 dao 	44	
 降伏	Surrender	xiáng fú	 fu 	22	
@@ -56680,7 +56696,7 @@
 長袍	robe	cháng páo	chang pao 	22	
 長處	Strengths	cháng chu	chang chu	21	
 長耶羅	Long hell	cháng yē luó	chang ye luo	312	
-長者	Senior citizens	zhǎng zhě	chang  	33	
+長者	elders	zhǎng zhě	zhang zhe	33	
 長老	Elders	zhǎng lǎo	chang  	33	
 長篇大論	Long story	cháng piān dà lùn	chang pian da  	2144	
 長篇	Long	cháng piān	chang pian 	21	
@@ -56708,7 +56724,7 @@
 長大	grow up	zhǎng dà	zhang da	34	
 長夜漫漫	Long night long	cháng yè màn màn	chang ye man man 	2444	
 長夜	Long night	cháng yè	chang ye 	24	
-長壽	longevity	cháng shòu	chang shou 	24	
+長壽	long life	cháng shòu	chang shou	24	
 長命百歲	Longevity	cháng mìng bǎi suì	chang ming bai sui 	2434	
 長出	Grow out	zhǎng chū	zhang chu	31	
 長兄	oldest brother	zhǎng xiōng 	zhang xiong 	311	
@@ -58594,7 +58610,7 @@
 逢撒	Every sprinkle	féng sā	feng sa	21	
 逢提	Every mention	féng tí	feng ti	22	
 逢想	Every thought	féng xiǎng	feng xiang	23	
-逢思	Every thought	féng sī	feng si	21	
+逢思	Every thought	féng sī	feng si	25	
 逢安	Everyone	féng ān	feng an	21	
 逢大	Every big	féng dà	feng da	24	
 逢四	Every four	féng sì	feng si	24	
@@ -60495,7 +60511,7 @@
 講解	explain	jiǎng jiě	jiang jie 	33	
 講耶	Speak yeah	jiǎng yē	jiang ye	31	
 講給	Speak to	jiǎng gěi	jiang gei 	33	
-講明意思	Speak out meaning	jiǎng míng yì si	jiang ming yi si	3241	
+講明意思	Speak out meaning	jiǎng míng yì si	jiang ming yi si	3245	
 講定	Speak	jiǎng dìng	jiang ding	34	
 講和了	talk about it	jiǎng hé le	jiang he le	325	
 講和	Speak and talk	jiǎng hé	jiang han 	32	
@@ -60607,8 +60623,6 @@
 諌	remonstrate	dǒng	dong	3	
 請進來	please come in	qǐng jìn lái	qing jin  	342	
 請進	Please come in	qǐng jìn	qing jin 	34	
-請說	Please say	qǐng shuō	qing  	31	
-請聽	Please listen	qǐng tīng	qing ting 	31	
 請示	Please consult	qǐng shì	qing shi 	34	
 請求	request	qǐng qiú	qing qiu	32	
 請教	consult	qǐng jiào 	qing jiao 	341	
@@ -60619,8 +60633,6 @@
 請向	Please go to	qǐng xiàng	qing xiang 	34	
 請到	Please go to	qǐng dào	qing dao 	34	
 請再	Please again	qǐng zài	qing zai 	34	
-請先	Please first	qǐng xiān	qing xian 	31	
-請來	Please come	qǐng lái	qing  	32	
 請了	Please	qǐng le	qing le	35	
 諊	jú	ju	2	
 諉	wěi	wei	3	
@@ -60979,7 +60991,7 @@
 訖	finish	qì	qi	4	
 訔	yín	yin	2	
 訓誨	law	xun huì 	xun hui 	141	
-訓誡	admonition	xùn jiè 	xun jie 	44	
+訓誡	rebuke	xùn jiè 	xun jie 	441	
 訓蒙	Training Meng	xun méng 	xun meng 	12	
 訓練有素	Well trained	xùn liàn yǒu sù	xun  you su 	4434	
 訓練	training	xùn liàn 	xun lian 	441	
@@ -61591,7 +61603,7 @@
 裏面	inside	lǐ miàn 	li mian 	341	
 裏打	Playing in	lǐ dǎ 	 da 	33	
 裏側	Inside side	lǐ cè 	 ce 	34	
-裏	inside	lǐ	li	3	
+裏	in	lǐ	li	3	
 裎	chéng	cheng	2	
 裍	kǔn	kun	3	
 裌	jiá	jia	2	
@@ -61869,8 +61881,6 @@
 血祭	Blood sacrifice	xuè jì	xue ji 	44	
 血田	Blood field	xuè tián	xuè tián	42	
 血漬	Blood stains	xuè zì	xue zi 	44	
-血源	Blood source	xuè yuán	xue yuan 	42	
-血流如注	Blood flow such as note	xuè liú rú zhù	xue liu ru zhu 	4224	
 血流	Blood flow	xuè liú	xue liu 	42	
 血洗	Bloodbathing	xuè xǐ	xuè xǐ	43	
 血泊	Blood pool	xiě bó	xue po 	32	
@@ -64458,8 +64468,6 @@
 聽聽	Listen	tīng tīng	ting ting 	11	
 聽聞	Heard	tīng wén	ting wen 	12	
 聽耶和	Listen to yeah	tīng yē hé	ting ye he	112	
-聽眾	audience	tīng zhòng 	ting zhong 	141	
-聽我	Listen to me	tīng wǒ	ting wo 	13	
 聽懂	Understand	tīng dǒng	ting dong 	13	
 聽從	obey	tīng cóng 	ting cong 	12	
 聽得懂	can understand	tīng dé dǒng	ting de dong 	123	
@@ -64960,7 +64968,7 @@
 羅羅	Luo Luo	luó luó	  	22	
 羅網	Network	luó wǎng	 wang 	23	
 羅波安接	Ropo	luó bō ān jiē 	luó bō  ān jiē 	2111	
-羅波安	Luo Boan	luó bō ān 	luó bō  ān 	211	
+羅波安	Rehoboam	luó bō ān 	luo bo an 	2111	
 羅斯	Ross	luó sī	 si 	21	
 羅忽	Luo suddenly	luó hū	luó hū	21	
 羅德	Rhodes	luó dé	luó dé	22	
@@ -65772,8 +65780,6 @@
 紗線	Yarn	shā xiàn	sha xian 	14	
 紖	zhèn	zhen	4	
 紕	silk	pī	pi	1	
-純銀	Sterling silver	chún yín	chun yin 	22	
-純金	Pure gold	chún jīn	chun  	21	
 純粹是	Purely	chún cuì shì	chun cui shi 	244	
 純粹	purely	chún cuì	chun cui 	24	
 純真	Pure	chún zhēn	chun zhen 	21	
@@ -66857,7 +66863,7 @@
 空想	fantasy	kōng xiǎng 	kong xiang 	13	
 空心	Hollow	kōng xīn	kong xin 	11	
 空地	space	kòng dì	kong de 	44	
-空前絕後	Never before	kōng qián jué hòu 	kong qian jue hou 	1224	
+空前絕後	never before or after	kōng qián jué hòu 	kong qian jue hou 	12241	
 空前	Unprecedented	kōng qián	kong qian	12	
 空位	Vacancy	kòng wèi	kong wei 	44	
 空中	Air	kōng zhōng 	kong zhong 	111	
@@ -67348,7 +67354,7 @@
 示篩	Sheshai	shì shāi	shi shai	41	
 示範	demonstration	shì fàn 	shi fan 	441	
 示眾	Show the public	shì zhòng 	shi zhong 	44	
-示瑪雅	Show Maya	shì mǎ yā	shi ma ya	431	
+示瑪雅	Shemaiah	shì mǎ yā	shi ma ya	431	
 示瑪利雅	Chalie ya	shì mǎ lì yā	shi ma li ya	4341	
 示瑪	Shima	shì mǎ	shi ma	43	
 示玻	Show glass	shì bō	shi bo	41	
@@ -68217,8 +68223,6 @@
 相比之下	By contrast	xiāng bǐ zhī xià	xiang bi zhi xia	1314	
 相比	compared to	xiāng bǐ	xiang bi 	13	
 相會	Meet	xiāng huì	xiang hui 	14	
-相提並論	Par	xiāng tí bìng lùn	xiang ti bing  	1244	
-相接	Phase up	xiāng jiē	xiang jie 	11	
 相應	corresponding	xiāng yìng	xiang ying 	14	
 相愛	Love	xiāng ài	xiang ai 	14	
 相待	Treat each other	xiāng dài	xiang dai 	14	
@@ -69532,7 +69536,7 @@
 琶	pá	pa	2	5	
 琵	pí	pi	2	5	
 琴聲	Piano sound	qín shēng	qin sheng 	21	
-琴瑟	Piano	qín sè	qin se 	24	
+琴瑟	instrument	qín sè	qin se	24	
 琴弦	lyre	qín xián	qin xian	22	
 琴師	teacher	qín shī	qin shi 	21	
 琲	necklace	bèi	bei	4	
@@ -69770,8 +69774,6 @@
 王判	Judge the king	wáng pàn	wang pan	24	
 王冠	crown	wáng guàn 	wang guan 	24	
 王其	Wang Qi	wáng qí	wang qi	22	
-王公貴族	Wang Gong nobles	wáng gōng guì zú	wang gong gui zu 	2142	
-王公	Wang Gong	wáng gōng	wang gong	21	
 王位繼承	throne inherited	wáng wèi jì chéng 	wang wei ji cheng 	2442	
 王位	throne	wáng wèi	wang wei 	24	
 王以	Wang yi	wáng yǐ	wang yi	23	
@@ -70314,8 +70316,6 @@
 爭競	Compete	zhēng jìng	zheng jing	14	
 爭端	dispute	zhēng duān	zheng duan 	11	
 爭戰	Fight	zhēng zhàn	zheng zhan	14	
-爭執	dispute	zhēng zhí	zheng zhi 	12	
-爭吵不休	Quarreling endlessly	zhēng chǎo bù xiū	zheng chao  xiu 	1341	
 爭吵	quarrel	zhēng chǎo	zheng chao 	13	
 爭取	Fight for	zhēng qǔ	zheng qu	13	
 爬起來	climb up	pá qǐ lái 	pa qi lai 	2321	
@@ -70535,7 +70535,7 @@
 熟識	Familiar	shú shi	shu shi	21	
 熟練	skilled	shú liàn 	shu lian 	241	
 熟知	Familiar	shú zhī	shu zhi 	21	
-熟睡	So asleep	shú shuì 	shu shui 	24	
+熟睡	fast asleep	shú shuì 	shu shui 	241	
 熟悉	Familiar with	shú xī	shu xi	21	
 熟地	Rehmannia	shú dì	shu di	24	
 熟了	Cooked	shú le	shu le	25	
@@ -70960,8 +70960,6 @@
 烈酒	Spirits	liè jiǔ	 jiu 	43	
 烈直	Straight up	liè zhí	lie zhi	42	
 烈焰	Flames	liè yàn	 yan 	44	
-烈火	Fire	liè huǒ 	 huo 	43	
-烈日當空	sun is empty	liè rì dāng kōng 	 ri dang kong 	4411	
 烈日	sun	liè rì	 ri 	44	
 烈怒	Rage	liè nù	lie nu	44	
 烈山	Lie Hill	liè shān	lie shan	41	
@@ -71922,8 +71920,8 @@
 深感	Deep feeling	shēn gǎn	shen gan 	13	
 深愛	Love	shēn ài	shen ai 	14	
 深惡痛絕	Hated	shēn wù tòng jué 	shen  tong jue 	1442	
-深思熟慮	Thoughtful	shēn sī shú lǜ	shen si shu lu 	1121	
-深思	Think deeply	shēn sī	shen si 	11	
+深思熟慮	Thoughtful	shēn sī shú lǜ	shen si shu lu 	1521	
+深思	Think deeply	shēn sī	shen si 	15	
 深得民心	Won the hearts of the people	shēn dé mín xīn	shen de min xin	1221	
 深得	Won	shēn dé	shen de 	12	
 深奧	profound	shēn ào	shen ao	14	
@@ -72688,8 +72686,6 @@
 求自	Seeking self	qiú zì	qiu zi	24	
 求耶	Begged	qiú yē	qiu ye	21	
 求生	Survive	qiú shēng 	qiu sheng 	21	
-求歡	Beg for pleasure	qiú huan	qiu huan 	21	
-求智	Seeking wisdom	qiú zhì	qiu zhi	24	
 求教	Neighborhoods	qiú jiào 	qiu jiao 	24	
 求救	Help	qiú jiù 	qiu jiu 	24	
 求情	plead	qiú qíng 	qiu qing 	22	
@@ -73213,8 +73209,6 @@
 歸功於	Thanks to	guī gōng wū	gui gong yu 	111	
 歸到	Return to	guī dào	gui dao 	14	
 歸入	Classified as	guī rù	gui ru 	14	
-歸來	Return	guī lái	gui  	12	
-歸你	Go to you	guī nǐ	gui ni	13	
 歷盡	Gone through	lì jìn 	li jin 	44	
 歷歷可數	Countless	lì lì kě shǔ 	li li ke  	4433	
 歷時	Lasted	lì shí 	li shi 	42	
@@ -73906,7 +73900,7 @@
 榯	shí	shi	2	
 榮貲	Richer	róng zī	rong zi	21	
 榮譽	honor	róng yù	rong yu	24	
-榮華	Ronghua	róng huá	rong hua 	22	
+榮華	prosperity	róng huá	rong hua	22	
 榮耀	glory	róng yào	rong yao 	24	
 榮美	Glory	róng měi	rong mei 	23	
 榮幸	with pleasure	róng xìng	rong xing	24	
@@ -74775,7 +74769,7 @@
 村莊	village	cūn zhuāng 	cun zhuang 	11	
 村民	Villagers	cūn mín	cun min 	12	
 村子	Village	cūn zi	cun zi 	11	
-村口	Village mouth	cūn kǒu	cun kou 	13	
+村口	village gate	cūn kǒu	cun kou	13	
 材料	material	cái liào 	cai liao 	241	
 杏花	Apricot flower	xìng huā	xing hua 	41	
 杏樹	apricot	xìng shù	xing shu 	44	
@@ -74904,7 +74898,7 @@
 朩	grade	děng	deng	3	
 木頭	wood	mù tou	mu tou	41	
 木雕	Wood carvings	mù diāo 	mu diao 	41	
-木造	Woody	mù zào 	mu zao 	44	
+木造	wooden	mù zào 	mu zao 	441	
 木製品	wooden product	mù zhì pǐn 	mu zhi pin 	443	
 木製	Wooden	mù zhì 	mu zhi 	44	
 木筏	Rafts	mù fá 	mu fa 	42	
@@ -74975,7 +74969,7 @@
 朐	warm	qú	qu	2	
 朏	fěi	fei	3	
 朎	líng	ling	2	
-服飾	apparel	fú shì 	fu shi 	241	
+服飾	clothes	fú shì 	fu shi 	241	
 服輸	Service	fú shū 	fu shu 	21	
 服裝	clothing	fú zhuāng 	fu zhuang 	211	
 服耶和	Serve the Lord	fú yē hé	fu ye he	212	
@@ -75332,7 +75326,7 @@
 晠	shèng	sheng	4	
 晟	clear	chéng	cheng	2	
 晞	dry	xī	xi	1	
-晝夜思想	Day and night thoughts	zhòu yè sī xiǎng 	zhou ye si xiang 	4413	
+晝夜思想	Day and night thoughts	zhòu yè sī xiǎng 	zhou ye si xiang 	4453	
 晝夜不息	Day and night	zhòu yè bù xī	zhou ye  xi 	4441	
 晝夜	day and night	zhòu yè	zhou ye 	44	
 晜	insect	kūn	kun	1	
@@ -75985,7 +75979,7 @@
 效忠	Allegiance	xiào zhōng 	xiao zhong 	411	
 效勞	Service	xiào láo	xiao lao	42	
 效力	Effectiveness	xiào lì	xiao li	44	
-效仿	Follow suit	xiào fǎng 	xiao fang 	43	
+效仿	follow the lead of	xiào fǎng 	xiao fang 	431	
 敇	cè	ce	4	
 敆	hé	he	2	
 故鄉	home	gù xiāng 	gu xiang 	411	
@@ -76002,7 +75996,7 @@
 政權	regime	zhèng quán	zheng quan	42	
 政府	government	zhèng fǔ	zheng fu	43	
 政務	Government affairs	zhèng wù	zheng wu 	44	
-放鬆	Relax	fàng sōng	fang song	41	
+放鬆	loosen	fàng sōng	fang song	41	
 放高利貸	Put usury	fàng gāo lì dài 	fang gao  dai 	4144	
 放開	open	fàng kāi	fang kai 	41	
 放過	Let go	fàng guò	fang guo 	44	
@@ -76426,7 +76420,7 @@
 撒布	Spreading	sā bù 	sa bu 	14	
 撒巴第業	Zhaarti industry	sā ba dì yè	sa ba di ye	1144	
 撒差	Scarlett	sā chà	sa cha	14	
-撒勒法	Salar	sā lēi fǎ	sa lei fa	113	
+撒勒法	Zarephath	sā lēi fǎ	sa lei fa	113	
 撒刻	Zaccur	sā kè	sa ke	14	
 撒分	Scatter	sā fēn	sa fen	11	
 撒冷民	Salarman	sā lěng mín	sa leng min	132	
@@ -77613,8 +77607,6 @@
 把匙子	Put the spoon	bǎ chí zi	ba chi zi	321	
 把匕首	The dagger	bǎ bǐ shǒu 	ba bi shou 	333	
 把勺子	Put the spoon	bǎ sháo zi	ba shao zi	321	
-把剪刀	Put the scissors	bǎ jiǎn dāo 	ba jian dao 	331	
-把刀	Put the knife	bǎ dāo 	ba dao 	31	
 把冬粉	Put the winter powder	bǎ dōng fěn 	ba dong fen 	313	
 把二胡	The erhu	bǎ èr hú 	ba er hu 	342	
 抈	bend	yuè	yue	4	
@@ -77885,8 +77877,6 @@
 所知	Know	suǒ zhī	suo zhi 	31	
 所盼	Hope	suǒ pàn	suo pan	34	
 所用	Used	suǒ yòng 	suo yong 	34	
-所生	Born	suǒ shēng	suo sheng 	31	
-所為	For what	suǒ wéi	suo wei 	32	
 所澆	Poured	suǒ jiāo	suo jiao	31	
 所潔	Clean	suǒ jié	suo jie	32	
 所派出所	The police station	suǒ pài chū suǒ 	suo pai chu suo 	3413	
@@ -77908,7 +77898,7 @@
 所成	Made	suǒ chéng	suo cheng	32	
 所懼	Fear	suǒ jù	suo ju	34	所愛	Love	suǒ ài	suo ai	34	
 所想	Think about it	suǒ xiǎng	suo xiang	33	
-所思	Thinking	suǒ sī	suo si	31	
+所思	Thinking	suǒ sī	suo si	35	
 所得	Income	suǒ dé	suo de	32	
 所屬	Belongs to	suǒ shǔ 	suo shu 	33	
 所居	Home	suǒ jū	suo ju	31	
@@ -78058,7 +78048,7 @@
 戓	gē	ge	1	
 戒指	Ring	jiè zhǐ	jie zhi	43	
 戒備森嚴	Heavily guarded	jiè bèi sēn yán 	jie bei sen yan 	4412	
-我們	us	wǒ men	wo men	31	
+我們	us	wǒ men	wo men	35	
 成雙成對	In pairs	chéng shuāng chéng duì	cheng shuang cheng dui 	2124	
 成長	growing up	chéng zhǎng	cheng zhang	23	
 成群	In groups	chéng qún	cheng qun	22	
@@ -78454,8 +78444,6 @@
 愛惜	cherish	ài xī	ai xi	41	
 愛情	love	ài qíng 	ai qing 	421	
 愛心	Love	ài xīn 	ai xin 	411	
-愛強	Love strong	ài qiáng	ai qiang	42	
-愛子	Love son	ài zǐ	ai zi 	43	
 愛妻	Love wife	ài qī	ai qi 	41	
 愛好	Hobbies	ài hào 	ai hao 	441	
 愛公	Love the public	ài gōng	ai gong	41	
@@ -78495,7 +78483,7 @@
 意旨	Intention	yì zhǐ	yi zhi	43	
 意攻	Italian attack	yì gōng	yi gong	41	
 意指	Meaning	yì zhǐ	yi zhi	43	
-意思	meaning	yì si	yi si	41	
+意思	meaning	yì si	yi si	45	
 意念	idea	yìn iàn 	yi  	44	
 意志消沉	low-spirited	yì zhì xiāo chén 	yi zhi xiao chen 	4412	
 意大利	Italy	yì dà lì	yi da li	444	
@@ -78878,14 +78866,14 @@
 怡人	Pleasant	yí rén	yi ren 	22	
 怟	dì	di	4	
 怞	grieve	chóu	chou	2	
-思量	consider	sī liang	si  	11	
-思考	Thinking	sī kǎo 	si kao 	131	
-思維	thinking	sī wéi 	si wei 	121	
-思索	thinking	sī suǒ 	si suo 	131	
-思想	thought	sī xiǎng 	si xiang 	131	
-思念	miss	sī niàn 	si nian 	141	
-思忖	consider	sī cǔn 	si cun 	13	
-思告	Think about it	sī gào	si gao	14	
+思量	consider	sī liang	si liang	51	
+思考	Thinking	sī kǎo 	si kao 	531	
+思維	thinking	sī wéi 	si wei 	521	
+思索	thinking	sī suǒ 	si suo 	531	
+思想	thought	sī xiǎng 	si xiang 	531	
+思念	miss	sī niàn 	si nian 	54	
+思忖	consider	sī cǔn 	si cun 	53	
+思告	Think about it	sī gào	si gao	54	
 怜	pity	lián	lian	2	
 怛	grieved	dá	da	2	
 怚	dull	jù	ju	4	
@@ -79167,7 +79155,7 @@
 心想	Think so	xīn xiǎng	xin xiang 	13	
 心悅誠服	Pleasing service	xīn yuè chéng fú	xin yue cheng fu 	1422	
 心急如焚	Anxious	xīn jí rú fén 	xin ji ru fen 	1222	
-心思	thought	xīn sī	xin si	11	
+心思	thought	xīn sī	xin si	15	
 心志	Mind	xīn zhì	xin zhi 	14	
 心忍	Endure	xīn rěn	xin ren	13	
 心得	Experience	xīn dé	xin de	12	
@@ -79457,8 +79445,6 @@
 征戰	campaign	zhēng zhàn	zheng zhan 	14	
 往返	round trip	wǎng fǎn	wang fan	33	
 往西	Westward	wǎng xi	wang xi 	31	
-往自	To the self	wǎng zì	wang zi	34	
-往耶	To ye	wǎng yē	wang ye	31	
 往示	To show	wǎng shì	wang shi	34	
 往洗	To wash	wǎng xǐ	wang xi	33	
 往東	Eastward	wǎng dōng	wang dong 	31	
@@ -80268,7 +80254,7 @@
 希羅底	Herodias	xī luó dǐ	xī luó dǐ	123	
 希百	Heber	xī bǎi	xi bai	13	
 希未人	Hivites	xī wèi rén	xi wei ren	142	
-希望	hope	xī wàng 	xi wang 	141	
+希望	hope	xī wàng 	xi wang 	14	
 希斯崙	Hezron	xī sī lún	xi si lun	112	
 希斯倫	Heathlen	xī sī lún	xi si lun	112	
 希斯	Heath	xī sī	xi si	11	
@@ -80988,7 +80974,7 @@
 尼利	Nelly	ní lì 	ni li 	24	
 尼出	Nepalese out	ní chū	ni chu	21	
 尼八拉	Nepalese	ní bā lā	ni ba la	211	
-尼八	Nepalese eight	ní bā	ni ba	21	
+尼八	Nebat	ní bā	ni ba	21	
 尼人	Nepalese	ní rén	ni ren	22	
 尼亞	Niya	ní yǎ	ni ya 	23	
 尻	buttocks	kāo	kao	1	
@@ -81125,8 +81111,6 @@
 對策	Countermeasure	duì cè	dui ce	44	
 對答	Answer	duì dá	duì dá	42	
 對稱	symmetry	duì chèn 	dui cheng 	44	
-對磯	On the corner	duì jī	duì jī	41	
-對眾	To the public	duì zhòng	duì zhòng	44	
 對眼	On the eye	duì yǎn	dui yan 	43	
 對猶	To Utah	duì yóu	duì yóu	42	
 對準	alignment	duì zhǔn	dui zhun 	43	
@@ -82318,7 +82302,7 @@
 姑母	aunt	gū mǔ	gu mu 	13	
 姑息	Palliative	gū xí	gu xi 	12	
 姑娘	girl	gū niang	gu niang	11	
-姑姑	Aunt	gū gū 	gu gu 	111	
+姑姑	Aunt	gū gū 	gu gu 	15	
 姑且	tentatively	gū qiě 	gu qie 	13	
 姐馬	Sister Ma	jie mǎ	jie ma	13	
 姐姐	sister	jie jie	jie jie	11	
@@ -82478,7 +82462,7 @@
 好找	Good looking	hǎo zhǎo	hao zhao 	33	
 好戰	warlike	hào zhàn	hao zhan 	44	
 好感	Good impression	hǎo gǎn 	hao gan 	33	
-好意思	Sorry	hǎo yì si	hao yi si	341	
+好意思	Sorry	hǎo yì si	hao yi si	345	
 好意	kindness	hǎo yì	hao yi 	34	
 好心人	Good people	hǎo xīn rén	hao xin ren 	312	
 好建	Good construction	hǎo jiàn	hao jian	34	
@@ -82516,8 +82500,6 @@
 奼	beautiful	chà	cha	4	
 奻	nuán	nuan	2	
 奺	jiǔ	jiu	3	
-她是	She is	tā shì	ta shi 	14	
-她想	she thinks	tā xiǎng	ta xiang 	13	
 她到	She went to	tā dào	ta dao 	14	
 她不	She does not	tā bù	ta  	14	
 奸詐	treacherous	jiān zhà	jian zha 	14	
@@ -82534,7 +82516,7 @@
 奵	dǐng	ding	3	
 奴隸	slave	nú lì 	nu li 	241	
 奴才	Slaves	nú cái 	nu cai 	22	
-奴役	Enslavement	nú yì	nu yi 	24	
+奴役	slavery	nú yì	nu yi	24	
 奴婢	Slaves	nú bì 	nu  	24	
 奴僕	servant	nú pú	nu pu 	22	
 女辟	Female provision	nǚ pì	nu pi	34	
@@ -82676,8 +82658,6 @@
 奉承	flatter	fèng chéng 	feng cheng 	42	
 奉我	In me	fèng wǒ	feng wo	43	奉命	Was ordered	fèng mìng	feng ming 	44	
 奉勸	Advocate	fèng quàn	feng quan 	44	
-奉主	In the Lord	fèng zhǔ	feng zhu	43	
-奉上	Offer	fèng shàng	feng shang 	44	
 奈這	Ni this	nài zhè	nai zhe	44	
 奇蹟	miracle	qí jī 	qi ji 	211	
 奇談怪論	Strange talk	qí tán guài lùn	qi tan guai  	2244	
@@ -84168,7 +84148,7 @@
 四面	Four sides	sì miàn 	si mian 	44	
 四隻	four	sì zhī 	si zhi 	411	
 四鄰	Neighbors	sì lín 	si lin 	42	
-四邊形	quadrilateral	sì biān xíng 	si bian xing 	412	
+四邊形	square	sì biān xíng 	si bian xing 	4121	
 四輛	Four	sì liàng	si liang 	44	
 四足	Four feet	sì zú	si zu 	42	
 四起	Four	sì qǐ 	si qi 	43	
@@ -86083,8 +86063,6 @@
 原告	plaintiff	yuán gào	yuan gao 	24	
 原原本本	Original book	yuán yuán běn běn 	yuan yuan ben ben 	2233	
 原則	in principle	yuán zé	yuan ze	22	
-原先	original	yuán xiān 	yuan xian 	211	
-原來是	original is	yuán lái shì	yuan  shi 	224	
 原來	original	yuán lái	yuan lai	22	
 原住民	Aboriginal	yuán zhù mín 	yuan zhu min 	2421	
 原位	In situ	yuán wèi	yuan wei 	24	
@@ -86493,7 +86471,7 @@
 勝過	Better than	shèng guò	sheng guo 	44	
 勝有	Winning	shèng yǒu	sheng you 	43	
 勝於	Better than	shèng wū	sheng yu 	41	
-勝數	Wins	shèng shǔ	sheng  	43	
+勝數	count	shèng shǔ	sheng shu	43	
 勝利	victory	shèng lì	sheng li	44	
 勝似	It is better	shèng sì	sheng shi 	44	
 勝任	competent	shèng rèn	sheng ren 	44	
@@ -86791,8 +86769,6 @@
 前者	former	qián zhě	qian  	23	
 前線	front	qián xiàn	qian xian 	24	
 前精	Before fine	qián jīng	qian  	21	
-前站	Front station	qián zhàn	qian zhan 	24	
-前祈	Before prayer	qián qí	qian qi 	22	
 前歡	Before the joy	qián huan	qian huan 	21	
 前有	Before there is	qián yǒu	qian you 	23	
 前是	Before yes	qián shì	qian shi 	24	
@@ -87095,7 +87071,7 @@
 切仇	Cutowship	qiè chóu	 chou 	42	
 切事	Cut things	qiè shì	 shi 	44	
 分離	Separation	fēn lí	fen li	12	
-分隔	Separated	fēng é	fen ge 	12	
+分隔	separated	fēn gé	fen ge	12	
 分隊	Unit	fēn duì 	fen dui 	14	
 分開	separate	fēn kāi	fen kai	11	
 分錢	Cents money	fēn qián	fen qian 	12	
@@ -87425,8 +87401,6 @@
 再去	Go again	zài qù	zai qu 	44	
 再到	And then to	zài dào	zai dao 	44	
 再出	And then out	zài chū	zai chu 	41	
-再做	Do it again	zài zuò	zai zuo 	44	
-再倒	And then down	zài dào	zai dao 	44	
 再來	Come again	zài lái	zai lai	42	
 再也	No longer	zài yě	zai ye 	43	
 再不	No again	zài bu	zai bu	45	
@@ -87529,7 +87503,7 @@
 公斤	kg	gōng jīn	gong jin	11	
 公平	fair	gōng píng	gong ping	12	
 公山	Katsuyama	gōng shān	gong shan 	11	
-公噸	mt	gōng dùn	gong dun 	14	
+公噸	metric tonnes	gōng dùn	gong dun	14	
 公告	announcement	gōng gào	gong gao 	14	
 公升	liter	gōng shēng 	gong sheng 	11	
 公務人員	government employee	gōng wù rén yuán 	gong wu ren yuan 	1422	
@@ -87828,8 +87802,6 @@
 先見	See	xiān jiàn 	xian  	14	
 先要	First	xiān yào	xian yao 	14	
 先行	First	xiān xíng	xian  	12	
-先祖	Ancestors	xiān zǔ	xian  	13	
-先知以	prophet to	xiān zhī yǐ	xian zhi yi 	113	
 先知	prophet	xiān zhī	xian zhi 	11	
 先用	First with	xiān yòng	xian yong 	14	
 先生	Mr	xiān shēng 	xian sheng 	111	
@@ -88628,8 +88600,6 @@
 個月	month	gè yuè	ge yue	44	
 個會話	A conversation	gè huì huà 	gè huì huà 	444	
 個書架	Bookshelf	gè shū jià 	ge shu jia 	414	
-個晚上	One night	gè wǎn shàng 	ge wan shang 	434	
-個星期	A week	gè xīng qí 	ge xing qi 	412	
 個早上	Morning	gè zǎo shang	ge zao shang	431	
 個方面	Aspects	gè fāng miàn 	ge fang mian 	414	
 個方法	Method	gè fāng fǎ 	ge fang fa 	413	
@@ -88849,7 +88819,7 @@
 俄梅珥	Omer	é méi ěr	e  er 	223	
 俄梅伽	Omega	é méi jiā	e mei jia 	221	
 俄斐勒	Oliver	é fěi lēi	e fei  	231	
-俄斐	Oliver	é fěi	e fei 	23	
+俄斐	Ophir	é fěi	e fei	23	
 俄巴路	Raba Road	é ba lù	e ba  	214	
 俄巴底亞	Obadiah	é ba dǐ yà	e ba di ya 	2134	
 俄南	Onan	é nán	e nan 	22	
@@ -88879,8 +88849,6 @@
 便宣	It declared	biàn xuān	 xuan 	41	
 便宜	Cheap	pián yi	pian yi	21	
 便子	Will	biàn zi	 zi 	41	
-便吊死了	They hanged	biàn diào sǐ le 	 diao si le	435	
-便可	Can be	biàn kě	 ke 	43	
 便叫	Called	biàn jiào	 jiao 	44	
 便去	Will go	biàn qù	 qu 	44	
 便俄	It is Russia	biàn é	 e 	42	
@@ -89496,8 +89464,6 @@
 仴	wò	wo	4	
 仳	separate	pǐ	pi	3	
 仲裁	arbitration	zhòng cái	zhong cai 	42	
-仲秋	Zhongqiu	zhòng qiū	zhong qiu 	41	
-仲春	Zhongchun	zhòng chūn	zhong chun 	41	
 仲夏	midsummer	zhòng xià	zhong xia 	44	
 仱	qián	qian	2	
 仰面	On the back	yǎng miàn 	yang mian 	34	
@@ -89629,7 +89595,7 @@
 以利亞敬	Elijah King	yǐ lì yǎ jìng	yi  ya jing 	3444	
 以利亞撒	Eleazar	yǐ lì yǎ sā	yi  ya sa 	3441	
 以利亞實	Elijah	yǐ lì yǎ shí	yi  ya shi 	3442	
-以利亞	Elijah	yǐ lì yǎ	yi  ya 	344	
+以利亞	Elijah	yǐ lì yǎ	yi li ya	343	
 以利	Eli	yǐ lì	yi li	34	
 以別	To do not	yǐ bié	yi bie 	32	
 以公	To the public	yǐ gōng	yi gong 	31	
@@ -89678,7 +89644,7 @@
 仗勢	Belligerents	zhàng shì	zhang shi 	44	
 他的	his	tā de	ta de 	15	
 他們	they	tā men	ta men	11	
-仔細聽	Listen carefully	zǐxì tīng 	zi xi ting 	31	
+仔細聽	Listen carefully	zǐ xì tīng	zi xi ting	341	
 仔細	careful	zǐ xì 	zi xi 	341	
 仒	kwukyel	bīng	bing	1	
 仑	lún	lun	2	5	
@@ -90040,8 +90006,6 @@
 亞基	Subfamily	yà jī	ya ji 	41	
 亞因	Ya	yà yīn	ya yin 	41	
 亞哈隨魯	Ya yulu	yà hā suí lǔ	ya ha sui lu 	4123	
-亞哈賽	Yah race	yà hā sài	ya ha sai 	414	
-亞哈說	Aha said	yà hā shuō	ya ha  	411	
 亞哈瓦	Ya hava	yà hā wǎ	ya ha wa 	413	
 亞哈斯	Yahas	yà hā sī	ya ha si 	411	
 亞吩	Aspen	yà fēn	ya fen 	41	
@@ -90154,7 +90118,7 @@
 事項	matter	shì xiàng 	shi xiang 	44	
 事蹟	Deeds	shì jì	shi ji 	44	
 事證	Trial card	shì zhèng	shi zheng 	44	
-事端	Somethin	shì duān 	shi duan 	41	
+事端	trouble	shì duān 	shi duan 	411	
 事理	Affair	shì lǐ	shi  	43	
 事物	thing	shì wù	shi wu	44	
 事教	To teach	shì jiào	shi jiao 	44	
@@ -90759,7 +90723,7 @@
 不妥	inappropriate	bù tuǒ	 tuo 	43	
 不妙	Not bad	bù miào	 miao 	44	
 不如	Not as well	bù rú	bu ru	42	
-不好意思	Sorry	bù hǎo yì si	bu hao yi si	4341	
+不好意思	Sorry	bù hǎo yì si	bu hao yi si	4345	
 不好	not good	bù hǎo	bu hao	43	
 不失	Without losing	bù shī	 shi 	41	
 不太	Not too much	bù tài	bu tai	44	
@@ -90782,7 +90746,7 @@
 不可走開	Can not walk away	bù kě zǒu kāi 	 ke zou kai 	4331	
 不可能	impossible	bù kě néng	bu ke neng	432	
 不可救藥	hopeless	bù kě jiù yào 	 ke jiu yao 	4344	
-不可思議	Incredible	bù kě sī yì	 ke si yi 	4314	
+不可思議	Incredible	bù kě sī yì	 ke si yi 	4354	
 不可勝數	innumerable	bù kě shèng shǔ	 ke sheng  	4343	
 不可以	Can not	bù kě yǐ	bu ke yi	433	
 不可一世	I can not do anything	bù kè yī shì 	 ke yi shi 	4414	
@@ -90974,7 +90938,7 @@
 上拔	On the pull	shàng bá	shang ba 	42	
 上所	On the place	shàng suǒ	shang suo 	43	
 上房	On the room	shàng fáng	shang fang	42	
-上思	Thinking	shàng sī	shang si	41	
+上思	Thinking	shàng sī	shang si	45	
 上忽	On the hurry	shàng hū	shang hu 	41	
 上德	On the German	shàng dé	shang de 	42	
 上得	On	shàng de	shang de 	42	
@@ -91044,7 +91008,7 @@
 三月	March	sān yuè	san yue 	14	
 三方	Tripartite	sān fāng 	san fang 	11	
 三支	Three	sān zhī	san zhi 	11	
-三思而後行	Think twice	sān sī ér hòu xíng 	san si er hou  	11242	
+三思而後行	Think twice	sān sī ér hòu xíng 	san si er hou  	15242	
 三心二意	Half-heartedly	sān xīn èr yì	san xin er yi 	1144	
 三年	Three years	sān nián	san nian	12	
 三層樓	Three floors	sān céng lóu	san ceng  	122	
@@ -91198,7 +91162,7 @@
 一番	Some	yī fān	yi fan 	11	
 一生一世	For the rest of my life	yī shēng yī shì	yi sheng yi shi 	1114	
 一生	lifetime	yī shēng	yi sheng	11	
-一片漆黑	A dark	yī piàn qī hēi 	yi pian qi hei 	1411	
+一片漆黑	darkness	yī piàn qī hēi 	yi pian qi hei 	14111	
 一片	one slice	yī piàn 	yi pian 	14	
 一無是處	Nothing at all	yī wú shì chù 	yi wu shi chu 	1244	
 一無所缺	Nothing missing	yī wú suǒ quē	yi wu suo que 	1231	
@@ -91211,7 +91175,7 @@
 一派胡言	Nonsense nonsense	yī pài hú yán 	yi pai hu yan 	1422	
 一氣	Be angry	yī qì 	yi qi 	14	
 一比	One by one	yī bǐ	yi bi 	13	
-一段	A paragraph	yī duàn 	yi duan 	14	
+一段	a section	yī duàn 	yi duan 	141	
 一死	Die	yī sǐ 	yi si 	13	
 一歲	One year old	yī suì	yi sui 	14	
 一步	step	yī bù	yi bu 	14	
@@ -91256,8 +91220,6 @@
 一掃而空	Swept away	yī sǎo ér kōng 	yi sao er kong 	1321	
 一掃而光	Swept away	yī sǎo ér guāng 	yi sao er guang 	1321	
 一拜	A prayer	yī bài	yi bai 	14	
-一把抓	A catch	yī bǎ zhuā 	yi ba zhua 	131	
-一把	One by one	yī bǎ	yi ba 	13	
 一批	Batch	yī pī	yi pi 	11	
 一打	A dozen	yī dá	yi da	12	
 一手	One hand	yī shǒu	yi shou 	13	
@@ -91288,8 +91250,6 @@
 一帶	Area	yī dài 	yi dai 	141	
 一己	Own	yī jǐ 	yi ji 	13	
 一層	layer	yī céng 	yi ceng 	12	
-一小撮	A handful of	yī xiǎo cuō	yi xiao cuo 	131	
-一小塊	a small piece	yī xiǎo kuài	yi xiao kuai 	134	
 一對一	One to one	yī duì yī	yi dui yi 	141	
 一對	A pair	yī duì	yi dui 	14	
 一尊	One	yī zūn 	yi zun 	11	
@@ -98362,7 +98322,7 @@
 沒什麼	it's nothing	méi shén me	mei shen me	221	
 沒有關係	It does not matter	méi yǒu guān xì	mei you guan xi	2314	
 小雞雞	dick	xiǎo jī jī	xiao ji ji	311	
-意思意思	meaning	yì sī yì sī	yi si yi si	4141	
+意思意思	meaning	yì sī yì sī	yi si yi si	4545	
 蹲個	squatting	dūn gè	dun ge	14	
 刮目相看	admiration	guā mù xiāng kàn	gua mu xiang kan	1414	
 踏進	enter	tà jìn	ta jin	44	
@@ -98658,7 +98618,7 @@
 有的時候	sometimes	yǒu de shí hòu	you de shi hou	3524	
 有用	it works	yǒu yòng	you yong	34	
 有空兒	available	yǒu kòng ér	you kong er	342	
-有意思	interesting	yǒu yì si	you yi si	341	
+有意思	interesting	yǒu yì si	you yi si	345	
 有趣	interesting	yǒu qù	you qu	34	
 有點兒	kind of	yǒu diǎn ér	you dian er	332	
 百貨公司	Department store	bǎi huò gōng sī	bai huo gong si	3411	
@@ -98827,7 +98787,7 @@
 快要	Coming soon	kuài yào	kuai yao	44	
 找錢	give change	zhǎo qián	zhao qian	32	
 沒事兒	All right	méi shì ér	mei shi er	242	
-沒意思	Boring	méi yì si	mei yi si	24	
+沒意思	Boring	méi yì si	mei yi si	245	
 男孩子兒	Boy boy	nán hái zi ér	nan hai zi er	222	
 車子	Car	chē zi	che zi	1	
 車站	station	chē zhàn	che zhan	14	
@@ -98840,8 +98800,6 @@
 房租	rent	fáng zū	fang zu	21	
 抱歉	Sorry	bào qiàn	bao qian	44	
 明信片	postcard	míng xìn piàn	ming xin pian	244	
-狗兒	Dog	gǒu ér	gou er	32	
-的話	if	de huà	de hua	14	
 表演	Performance	biǎo yǎn	biao yan	33	
 門兒	Door children	mén ér	men er	22	
 雨傘	umbrella	yǔ sǎn	yu san	33	
@@ -99259,7 +99217,7 @@
 每每	often	měi měi	mei mei	33	
 求學	Study	qiú xué	qiu xue	22	
 沙啞	hoarse	shā yǎ	sha ya	13	
-沉思	meditation	chén sī	chen si	21	
+沉思	meditation	chén sī	chen si	25	
 決賽	finals	jué sài	jue sai	24	
 沖淡	dilute	chōng dàn	chong dan	14	
 男方	The man	nán fāng	nan fang	21	
@@ -99398,7 +99356,7 @@
 封鎖	blockade	fēng suǒ	feng suo	13	
 度量衡	Weights and Measures	dù liáng héng	du liang heng	422	
 建國	Founding	jiàn guó	jian guo	42	
-思潮	Trend of thought	sī cháo	si chao	12	
+思潮	Trend of thought	sī cháo	si chao	52	
 怠慢	Neglect	dài màn	dai man	44	
 急救	first aid	jí jiù	ji jiu	24	
 急診	Emergency	jí zhěn	ji zhen	23	
@@ -101607,8 +101565,6 @@
 和仁	Hé rén 	hé rén 	he ren 	221	
 和光	Hé guāng 	hé guāng 	he guang 	211	
 和工	Hé gōng 	hé gōng 	he gong 	211	
-和成	Hé chéng 	hé chéng 	he cheng 	221	
-和盛	Hé shèng 	hé shèng 	he sheng 	241	
 和祥	Hé xiáng 	hé xiáng 	he xiang 	221	
 和福	Hé fú 	hé fú 	he fu 	221	
 和緯	Hé wěi 	hé wěi 	he wei 	231	
@@ -101962,7 +101918,7 @@
 忠明	Zhōng míng 	zhōng míng 	zhong ming 	121	
 忠義	Zhōng yì 	zhōng yì 	zhong yi 	141	
 忠順	Zhōng shùn 	zhōng shùn 	zhong shun 	141	
-思源	Sī yuán 	sī yuán 	si yuan 	121	
+思源	Sī yuán 	sī yuán 	si yuan 	52	
 恆公	Héng gōng 	héng gōng 	heng gong 	211	
 恩德	Ēn dé 	ēn dé 	en de 	121	
 惠中	Huì zhōng 	huì zhōng 	hui zhong 	411	
@@ -104603,3 +104559,4515 @@
 王下拜	king bow	wáng xià bài	wang xia bai	244	
 王下令	king ordered	wáng xià lìng	wang xia ling	244	
 毫髮無損	unscathed	háo fà wú sǔn	hao fa wu sun	2423	
+長頸鹿	giraffe	cháng jǐng lù	chang jing lu	234
+企鵝	penguin	qì é	qi e	42	
+男子漢	manly	nán zǐ hàn	nan zi han	234	
+明悟	enlightened	míng wù	ming wu	24	
+明辨	distinguish	míng biàn	ming bian	24	
+我的	mine	wǒ de	wo de	31	
+心切	eager	xīn qiè	xin qie	14	
+另一個	the other	lìng yī gè	ling yi ge	414	
+分了	separated	fēn le	fen le	11	
+心生	heart	xīn shēng	xin sheng	11	
+霸王	despot	bà wáng	ba wang	42	
+小霸王	bully	xiǎo bà wáng	xiao ba wang	342	
+霸王餐	dine and dash	bà wáng cān	ba wang can	421	
+起司	cheese	qǐ sī	qi si	31	
+仲春	midspring	zhòng chūn	zhong chun	41	
+西弗月	month of Ziv	xī fú yuè	xi fu yue	124	
+鋪了	paved	pù le	pu le	41	
+至聖所	Most Holy Place	zhì shèng suǒ	zhi sheng suo	443	
+內殿	inner sanctuary	nèi diàn	nei dian	44	
+兩扇門	double door	liǎng shàn mén	liang shan men	342	
+布勒月	month of Bul	bù lēi yuè	bu lei yue	414	
+仲秋	midautumn	zhòng qiū	zhong qiu	41	
+考問	question	kǎo wèn	kao wen	34	
+因着	because of	yīn zhe	yin zhe	11	
+沒有人	nobody	méi yǒu rén	mei you ren	232	
+運來	shipped	yùn lái	yun lai	42	
+紫檀木	rosewood	zǐ tán mù	zi tan mu	324	
+按慣例	conventionally	àn guàn lì	an guan li	444	
+香草冰淇淋	Vanilla ice cream	xiāng cǎo bīng qí lín	xiang cao bing qi lin	13122	
+青菜豆腐湯	Vegetable tofu soup	qīng cài dòu fu tāng	qing cai dou fu tang	14411	
+雷射印表機	Laser printer	léi shè yìn biǎo jī	lei she yin biao ji	24431	
+火腿三明治	Ham sandwich	huǒ tuǐ sān míng zhì	huo tui san ming zhi	33124	
+學齡前兒童	Preschool children	xué líng qián ér tóng	xue ling qian er tong	22222	
+凍頂烏龍茶	Frozen oolong tea	dòng dǐng wū lóng chá	dong ding wu long cha	43122	
+七味唐辛子	Seven taste Tang Xinzi	qī wèi táng xīn zi	qi wei tang xin zi	14211	
+黯然消魂	Dejected	àn rán xiāo hún	an ran xiao hun	4212	
+黃金歲月	Golden years	huáng jīn suì yuè	huang jin sui yue	2144	
+麻豆文旦	Matou	má dòu wén dàn	ma dou wen dan	2424	
+麻婆豆腐	Mapo tofu	má pó dòu fu	ma po dou fu	2241	
+魚香茄子	Fish-flavored eggplant	yú xiāng qié zi	yu xiang qie zi	2121	
+魚與熊掌	Fish and bear's paw	yú yǔ xióng zhǎng	yu yu xiong zhang	2323	
+高貴不貴	Noble and expensive	gāo guì bù guì	gao gui bu gui	1444	
+高爾夫球	golf	gāo ěr fū qi ú	gao er fu qi u	13112	
+韓國泡菜	Kimchi	hán guó pào cài	han guo pao cai	2244	
+非吃不可	Do not eat	fēi chī bù kě	fei chi bu ke	1143	
+雷霆萬鈞	Thunderbolt	léi tíng wàn jūn	lei ting wan jun	2241	
+雲霄飛車	roller coaster	yún xiāo fēi chē	yun xiao fei che	2111	
+雞鴨魚肉	Chicken and duck meat	jī yā yú ròu	ji ya yu rou	1124	
+雞同鴨講	Chicken with duck	jī tóng yā jiǎng	ji tong ya jiang	1213	
+雙雙對對	Both pairs right	shuāng shuāng duì duì	shuang shuang dui dui	1144	
+雙喜臨門	Double Happiness	shuāng xǐ lín mén	shuang xi lin men	1322	
+隱形眼鏡	Contact lenses	yǐn xíng yǎn jìng	yin xing yan jing	3234	
+隨插即用	Plug and play	suí chā jí yòng	sui cha ji yong	2124	
+限量供應	Limited supply	xiàn liàng gōng yìng	xian liang gong ying	4414	
+阿爾卑斯	Alps	ā ěr bēi sī	a er bei si	1311	
+阿拉斯加	Alaska	ā lā sī jiā	a la si jia	1111	
+阿彌陀佛	Amitabha	ē mí tuó fó	e mi tuo fo	1222	
+鐵扇公主	Princess of iron	tiě shàn gōng zhǔ	tie shan gong zhu	3413	
+金碧輝煌	Resplendent	jīn bìhuī huáng	jin bihui huang	112	
+金玉滿堂	Jin Yu Man Tang	jīn yù mǎn táng	jin yu man tang	1432	
+酸酸甜甜	sour and sweet	suān suān tián tián	suan suan tian tian	1122	
+酒釀湯圓	Wine dumplings	jiǔniàng tāng yuán	jiuniang tang yuan	312	
+那不勒斯	Naples	nà bù lè sī	na bu le si	4441	
+買一送一	Buy one get one free one	mǎi yī sòng yī	mai yi song yi	3141	
+貨到付款	Cash on delivery	huò dào fù kuǎn	huo dao fu kuan	4443	
+財源滾滾	Extra cash	cái yuán gǔn gǔn	cai yuan gun gun	2233	
+豬腳麵線	Pig face line	zhū jiǎo miàn xiàn	zhu jiao mian xian	1344	
+讚不絕口	Full of praise	zàn bù jué kǒu	zan bu jue kou	4423	
+西點麵包	West Point Bread	xī diǎn miàn bāo	xi dian mian bao	1341	
+西伯利亞	Siberia	xī bó lì yǎ	xi bo li ya	1243	
+衣索比亞	Ethiopia	yī suǒ bǐ yǎ	yi suo bi ya	1333	
+衣索匹亞	Clothia	yī suǒ pī yà	yi suo pi ya	1314	
+蘇門答臘	Sumatra	sū mén dá là	su men da la	1224	
+蓋世無雙	Unparalleled	gài shì wú shuāng	gai shi wu shuang	4421	
+蒙娜麗莎	Mona Lisa	méng nà lì shā	meng na li sha	2441	
+草本植物	herb	cǎo běn zhí wù	cao ben zhi wu	3324	
+茉莉花茶	Jasmine tea	mò lì huā chá	mo li hua cha	4412	
+花樣年華	Golden years	huā yàng nián huá	hua yang nian hua	1422	
+花好月圓	Spend a full moon	huā hǎo yuè yuán	hua hao yue yuan	1342	
+花だより	Flower da よ り	huā da yo ri	hua da yo ri	1111	
+芝麻湯圓	Sesame dumpling	zhī ma tāng yuán	zhi ma tang yuan	1112	
+胡蘿蔔汁	carrot juice	hú luó bo zhī	hu luo bo zhi	2211	
+肉羹米粉	Meat noodles	ròu gēng mǐ fěn	rou geng mi fen	4133	
+美味可口	delicious	měi wèi kě kǒu	mei wei ke kou	3433	
+維多利亞	Victoria	wéi duō lì yǎ	wei duo li ya	2143	
+綠野仙蹤	The Wizard of Oz	lǜ yě xiān zōng	lu ye xian zong	4311	
+絲絲入扣	The slightest trace	sī sī rù kòu	si si ru kou	1144	
+細皮嫩肉	Fine skin tender meat	xì pí nèn ròu	xi pi nen rou	4244	
+紅粉知己	Pink friends	hóng fěn zhī jǐ	hong fen zhi ji	2313	
+糖醋排骨	Sweet and sour pork ribs	táng cù páigǔ	tang cu paigu	242	
+窈窕淑女	My Fair Lady	yǎo tiǎo shū nǚ	yao tiao shu nu	3313	
+百香果汁	Passion fruit juice	bǎi xiāng guǒ zhī	bai xiang guo zhi	3131	
+百年好合	Good for a hundred years	bǎi nián hǎo hé	bai nian hao he	3232	
+百分之百	hundred percent	bǎi fēn zhī bǎi	bai fen zhi bai	3113	
+白雪公主	snow White	bái xuě gōng zhǔ	bai xue gong zhu	2313	
+生菜沙拉	lettuce salad	shēng cài shā lā	sheng cai sha la	1411	
+生日蛋糕	Birthday Cake	shēng rì dàngāo	sheng ri dangao	141	
+甜而不膩	Sweet but not greasy	tián ér bù nì	tian er bu ni	2244	
+玉米濃湯	Corn soup	yù mǐ nóng tāng	yu mi nong tang	4321	
+獨門絕活	Unique and unique	dú mén jué huó	du men jue huo	2222	
+獨一無二	unique	dú yī wú èr	du yi wu er	2124	
+牛肉湯麵	Beef noodles	niú ròu tāng miàn	niu rou tang mian	2414	
+燒餅油條	Sesame fritters	shāo bǐng yóu tiáo	shao bing you tiao	1322	
+烤麵包機	toaster	kǎo miàn bāo jī	kao mian bao ji	3411	
+火山爆發	volcanic eruptions	huǒ shān bào fā	huo shan bao fa	3141	
+滿漢全席	Manchu full seats	mǎn hàn quán xí	man han quan xi	3422	
+清湯掛麵	Broth noodles	qīng tāng guà miàn	qing tang gua mian	1144	
+海底撈月	Sea fishing month	hǎi dǐ lāo yuè	hai di lao yue	3314	
+活力充沛	Energetic	huó lì chōng pèi	huo li chong pei	2414	
+法蘭克福	Frankfurt	fǎ lán kè fú	fa lan ke fu	3242	
+永浴愛河	in love forever	yǒng yù ài hé	yong yu ai he	3442	
+氣質高雅	Elegant temperament	qì zhí gāo yǎ	qi zhi gao ya	4213	
+正反兩面	Positive and negative sides	zhèng fǎn liǎng miàn	zheng fan liang mian	4334	
+歡天喜地	Happily	huān tiān xǐ dì	huan tian xi di	1134	
+機關團體	Organ group	jī guān tuán tǐ	ji guan tuan ti	1123	
+杏仁豆腐	Almond tofu	xìng rén dòu fu	xing ren dou fu	4241	
+時來運轉	every dog ​​has his day	shí lái yùn zhuǎn	shi lai yun zhuan	2243	
+明日之星	Star of tomorrow	míng rì zhī xīng	ming ri zhi xing	2411	
+早生貴子	Early Takako	zǎo shēng guì zǐ	zao sheng gui zi	3143	
+新陳代謝	Metabolism	xīn chén dài xiè	xin chen dai xie	1244	
+放牛吃草	Put beef grazing	fàng niú chī cǎo	fang niu chi cao	4213	
+攜帶方便	Easy to carry	xié dài fāng biàn	xie dai fang bian	2414	
+攜伴參加	To attend	xié bàn cān jiā	xie ban can jia	2411	
+撥雲見日	See the sky	bō yún jiàn rì	bo yun jian ri	1244	
+接力賽跑	Relay race	jiē lì sài pǎo	jie li sai pao	1443	
+拔河比賽	Tug of War	báhé bǐ sài	bahe bi sai	234	
+拉丁美洲	Latin America	lā dīng měi zhōu	la ding mei zhou	1131	
+扭轉乾坤	Turn around	niǔ zhuǎn qián kūn	niu zhuan qian kun	3321	
+打高爾夫	play golf	dǎ gāo ěr fū	da gao er fu	3131	
+意猶未盡	Get enough	yì yóu wèi jìn	yi you wei jin	4244	
+意想不到	unexpected	yì xiǎng bù dào	yi xiang bu dao	4344	
+心心相印	Heart to heart	xīn xīn xiāng yìn	xin xin xiang yin	1114	
+布魯塞爾	Brussels	bù lǔ sài ěr	bu lu sai er	4343	
+巴伐利亞	Bavaria	bā fá lì yǎ	ba fa li ya	1243	
+巧克力糖	Chocolate candy	qiǎo kè lì táng	qiao ke li tang	3442	
+山珍海味	Delicacies	shān zhēn hǎi wèi	shan zhen hai wei	1134	
+小玉西瓜	Xiaoyu watermelon	xiǎo yù xī guā	xiao yu xi gua	3411	
+密西西比	Mississippi	mì xī xī bǐ	mi xi xi bi	4113	
+室內設計	Interior design	shì nèi shè jì	shi nei she ji	4444	
+威士忌酒	whiskey	wēi shì jì jiǔ	wei shi ji jiu	1443	
+如魚得水	Like a duck	rú yú dé shuǐ	ru yu de shui	2223	
+奧古斯丁	Augustine	àogǔ sī dīng	aogu si ding	311	
+夾心餅乾	Sandwich biscuits	jiā xīn bǐng gān	jia xin bing gan	1131	
+天作之合	Days of the match	tiān zuò zhī hé	tian zuo zhi he	1412	
+天下無雙	second to none	tiān xià wú shuāng	tian xia wu shuang	1421	
+大隊接力	Brigade relay	dà duì jiē lì	da dui jie li	4414	
+多退少補	To make up less	duō tuì shǎo bǔ	duo tui shao bu	1433	
+地理位置	Location	dì lǐ wèi zhì	di li wei zhi	4344	
+地心引力	Gravity	dì xīn yǐn lì	di xin yin li	4134	
+土司麵包	Tusi bread	tǔ sī miàn bāo	tu si mian bao	3141	
+單身貴族	Single nobility	dān shēn guì zú	dan shen gui zu	1142	
+喜馬拉雅	Himalayan	xǐ mǎ lā yǎ	xi ma la ya	3313	
+咕嚕咕嚕	Grunt	gū lǔ gū lǔ	gu lu gu lu	1313	
+可口可樂	Coca Cola	kě kǒu kě lè	ke kou ke le	3334	
+十八羅漢	Eighteen Lohan	shí bā lǘ hàn	shi ba lu han	2124	
+十全十美	Perfect	shí quán shí měi	shi quan shi mei	2223	
+凍頂烏龍	Frozen top oolong	dòng dǐng wū lóng	dong ding wu long	4312	
+冬蟲夏草	Cordyceps sinensis	dōng chóng xià cǎo	dong chong xia cao	1243	
+八方美人	P Plus beauty	bā fāng měi rén	ba fang mei ren	1132	
+入口即化	The entrance is made	rù kǒu jí huà	ru kou ji hua	4324	
+什錦炒麵	Fried noodles	shí jǐn chǎo miàn	shi jin chao mian	2334	
+人魚公主	Mermaid Princess	rén yú gōng zhǔ	ren yu gong zhu	2213	
+亡命之徒	Desperado	wáng mìng zhī tú	wang ming zhi tu	2412	
+亞美利加	Ameriga	yà měi lì jiā	ya mei li jia	4341	
+五穀雜糧	Whole grains	wǔgǔ zá liáng	wugu za liang	322	
+五福臨門	Five Blessings	wǔ fú lín mén	wu fu lin men	3222	
+二氧化碳	carbon dioxide	èr yǎng huà tàn	er yang hua tan	4344	
+二八佳人	Twenty-eight beauty	èr bā jiā rén	er ba jia ren	4112	
+事事如意	Everything is good	shì shì rú yì	shi shi ru yi	4424	
+中華民國	Republic of China	zhōng huá mín guó	zhong hua min guo	1222	
+中秋月餅	Mid-Autumn moon cake	zhōng qiū yuè bǐng	zhong qiu yue bing	1143	
+不務正業	Do not work	bù wù zhèng yè	bu wu zheng ye	4444	
+三陽開泰	Sanyang Kai Tai	sān yáng kāi tài	san yang kai tai	1214	
+三姑六婆	Sangu six women	sāng ū liù pó	sang u liu po	1142	
+三國演義	Three Kingdoms	sān guó yǎn yì	san guo yan yi	1234	
+七上八下	Seven on eight	qī shàng bā xià	qi shang ba xia	1414	
+龍鬚菜	Gracilaria	lóng xū cài	long xu cai	214	
+龍虎鬥	Longhu bucket	lóng hǔ dòu	long hu dou	234	
+龍舌蘭	Agave	lóng shé lán	long she lan	222	
+龍眼乾	Longan dry	lóng yǎn gān	long yan gan	231	
+龍捲風	tornado	lóng juǎn fēng	long juan feng	231	
+龍井茶	Longjing tea	lóng jǐng chá	long jing cha	232	
+黑胡椒	Black pepper	hēi hú jiāo	hei hu jiao	121	
+黑森林	Black Forest	hēi sēn lín	hei sen lin	112	
+黃豆芽	Bean sprouts	huáng dòu yá	huang dou ya	242	
+麻醬麵	Mustard noodles	má jiàng miàn	ma jiang mian	244	
+麻油雞	Sesame chicken	má yóu jī	ma you ji	221	
+麥金塔	The Macintosh	mài jīn tǎ	mai jin ta	413	
+麥芽糖	maltose	mài yá táng	mai ya tang	422	
+麥當勞	McDonald's	mài dāng láo	mai dang lao	412	
+鹿谷鄉	Deer Valley Township	lù gǔ xiāng	lu gu xiang	431	
+鹹鴨蛋	Salted duck eggs	xián yā dàn	xian ya dan	214	
+鹹豬肉	Salted pork	xián zhū ròu	xian zhu rou	214	
+鸡腿饭	Chicken rice	jī tuǐ fàn	ji tui fan	134	
+鵪鶉蛋	quail eggs	ān chún dàn	an chun dan	124	
+鵝黃色	Goose yellow	éhuáng sè	ehuang se	24	
+鳳梨汁	Pineapple juice	fèng lí zhī	feng li zhi	421	
+鳳尾草	Pteris	fèng wěi cǎo	feng wei cao	433	
+鱈場蟹	Cod crabs	xuě chǎng xiè	xue chang xie	334	
+鮮奶油	fresh cream	xiān nǎi yóu	xian nai you	132	
+魷魚羹	Squid soup	yóu yú gēng	you yu geng	221	
+魷魚絲	Squid silk	yóu yú sī	you yu si	221	
+魯肉飯	Lu meat rice	lǔ ròu fàn	lu rou fan	344	
+魚骨頭	fish bones	yú gǔ tou	yu gu tou	231	
+魚肝油	Cod liver oil	yú gān yóu	yu gan you	212	
+魚翅羹	Shark fin soup	yú chì gēng	yu chi geng	241	
+魚子醬	caviar	yú zǐ jiàng	yu zi jiang	234	
+魚丸湯	Fish balls soup	yú wán tāng	yu wan tang	221	
+魁北克	Quebec	kuí běi kè	kui bei ke	234	
+鬱金香	tulip	yù jīn xiāng	yu jin xiang	411	
+高麗菜	Cabbage	gāo lí cài	gao li cai	124	
+高麗人	Korean people	gāo lí rén	gao li ren	122	
+高跟鞋	High heels	gāo gēn xié	gao gen xie	112	
+高粱酒	Sorghum wine	gāo liang jiǔ	gao liang jiu	113	
+高科技	high tech	gāo kē jì	gao ke ji	114	
+高爾夫	Golf	gāo ěr fū	gao er fu	131	
+高梁酒	Sorghum wine	gāo liáng jiǔ	gao liang jiu	123	
+高嶺土	Kaolin	gāo lǐng tǔ	gao ling tu	133	
+馬戲團	circus	mǎ xì tuán	ma xi tuan	342	
+馬德里	Madrid	mǎ dé lǐ	ma de li	323	
+馬克杯	Mugs	mǎ kè bēi	ma ke bei	341	
+香精油	Essential oil	xiāng jīng yóu	xiang jing you	112	
+香瓜汁	Melon juice	xiāng guā zhī	xiang gua zhi	111	
+香噴噴	Fragrant	xiāng pēn pēn	xiang pen pen	111	
+餛飩麵	Wonton noodles	hún tún miàn	hun tun mian	224	
+養樂多	Yakult	yǎng lè duō	yang le duo	341	
+飲用水	drinking water	yǐn yòng shuǐ	yin yong shui	343	
+飛行船	Flying ship	fēi xíng chuán	fei xing chuan	122	
+顯示器	monitor	xiǎn shì qì	xian shi qi	344	
+頭等艙	First class	tóu děng cāng	tou deng cang	231	
+預售票	Pre - sale tickets	yù shòu piào	yu shou piao	444	
+頂呱呱	Top quack	dǐng guā gū	ding gua gu	311	
+韭菜花	Leek flowers	jiǔ cài huā	jiu cai hua	341	
+青豌豆	Green peas	qīng wān dòu	qing wan dou	114	
+青蘋果	Green apple	qīng píng guǒ	qing ping guo	123	
+雷公根	Lei Gonggan	léi gōng gēn	lei gong gen	211	
+零售價	retail price	líng shòu jià	ling shou jia	244	
+雪裡紅	Snow red	xuě lǐ hóng	xue li hong	332	
+雞蛋糕	Chicken cake	jī dàng āo	ji dang ao	141	
+雞腿麵	Chicken face	jī tuǐ miàn	ji tui mian	134	
+雞腿飯	Chicken rice	jī tuǐ fàn	ji tui fan	134	
+雞腿肉	Chicken meat	jī tuǐ ròu	ji tui rou	134	
+雞胸肉	chicken breast	jī xiōng ròu	ji xiong rou	114	
+雞翅膀	Chicken wings	jī chì bǎng	ji chi bang	143	
+雞絲麵	Chicken face	jī sī miàn	ji si mian	114	
+雞屁股	Chicken ass	jī pì gu	ji pi gu	141	
+雞尾酒	cocktail	jī wěi jiǔ	ji wei jiu	133	
+雙子星	Gemini	shuāng zǐ xīng	shuang zi xing	131	
+雙人房	Double room	shuāng rén fáng	shuang ren fang	122	
+陽春麵	Yang Chun noodles	yáng chūn miàn	yang chun mian	214	
+陸海空	Land and sea	lù hǎi kōng	lu hai kong	431	
+陳皮梅	Chenpi Mei	chén pí méi	chen pi mei	222	
+除臭劑	Deodorant	chú chòu jì	chu chou ji	244	
+阿里山	Alishan	ā lǐ shān	a li shan	131	
+阿爾泰	Altai	ā ěr tài	a er tai	134	
+阿波羅	Apollo	ā bō lǘ	a bo lu	112	
+防腐劑	preservative	fáng fǔ jì	fang fu ji	234	
+開胃菜	appetizer	kāi wèi cài	kai wei cai	144	
+開瓶器	Opener	kāi píng qì	kai ping qi	124	
+長條形	Long stripes	cháng tiáo xíng	chang tiao xing	222	
+鑰匙圈	key ring	yào shi quān	yao shi quan	411	
+鐵觀音	Tieguanyin	tiě guān yīn	tie guan yin	311	
+鐵板燒	Teppanyaki	tiě bǎn shāo	tie ban shao	331	
+銅鑼燒	Gong burning	tóng luó shāo	tong luo shao	221	
+銀灰色	Silver gray	yín huī sè	yin hui se	214	
+金銀花	honeysuckle	jīn yín huā	jin yin hua	121	
+金盞花	Marigolds	jīn zhǎn huā	jin zhan hua	131	
+金牌獎	Gold Award	jīn pái jiǎng	jin pai jiang	123	
+重量級	Heavyweight	zhòng liàng jí	zhong liang ji	442	
+醬油膏	Soy sauce	jiàng yóu gāo	jiang you gao	421	
+醜小鴨	Ugly duckling	chǒu xiǎo yā	chou xiao ya	331	
+醍醐味	Bead flavor	tí hú wèi	ti hu wei	224	
+醃豬肉	Pickled pork	yān zhū ròu	yan zhu rou	114	
+酸辣湯	Hot and sour soup	suān là tāng	suan la tang	141	
+酸梅湯	Sour plum soup	suān méi tāng	suan mei tang	121	
+鄧麗君	Teresa Teng	dèng lì jūn	deng li jun	441	
+遮陽帽	Sun hat	zhē yáng mào	zhe yang mao	124	
+遊樂園	amusement park	yóu lè yuán	you le yuan	242	
+遊樂區	Play area	yóu lè qū	you le qu	241	
+速食麵	instant noodles	sù shí miàn	su shi mian	424	
+速溶茶	Instant tea	sù róng chá	su rong cha	422	
+通心麵	Macaroni	tōng xīn miàn	tong xin mian	114	
+通心粉	pasta	tōng xīn fěn	tong xin fen	113	
+迷你型	Mini type	mí nǐ xíng	mi ni xing	232	
+迴紋針	The needle	huí wén zhēn	hui wen zhen	221	
+迪士尼	Disney	dí shì ní	di shi ni	242	
+迪化街	Dihua Street	dí huà jiē	di hua jie	241	
+辣椒醬	chili sauce	là jiāo jiàng	la jiao jiang	414	
+轟炸機	bomber	hōng zhà jī	hong zha ji	141	
+輕量級	Lightweight	qīng liàng jí	qing liang ji	142	
+軟綿綿	soft	ruǎn mián mián	ruan mian mian	322	
+軟木塞	cork	ruǎn mù sāi	ruan mu sai	341	
+躲避球	To avoid the ball	duǒ bì qiú	duo bi qiu	342	
+趙子龍	Zhao zilong	zhào zi lóng	zhao zi long	412	
+超低溫	Ultra-low temperature	chāo dī wēn	chao di wen	111	
+超人氣	Super popular	chāo rén qì	chao ren qi	124	
+販賣機	vending machine	fàn mài jī	fan mai ji	441	
+財神爺	God of Wealth	cái shén yé	cai shen ye	222	
+負離子	Negative ions	fù lí zǐ	fu li zi	423	
+貝魯特	Beirut	bèi lǔ tè	bei lu te	434	
+貝多芬	Beethoven	bèi duō fēn	bei duo fen	411	
+豬肉乾	Pork dry	zhū ròu gān	zhu rou gan	141	
+豬八戒	Pigs	zhū bā jiè	zhu ba jie	114	
+豪華版	Deluxe Edition	háo huá bǎn	hao hua ban	223	
+豚カツ	Dolphin カ ツ	tún ka t su	tun ka t su	2111	
+豌豆莢	Pea pods	wān dòu jiá	wan dou jia	142	
+豆芽菜	Bean sprouts	dòu yá cài	dou ya cai	424	
+豆腐干	Tofu	dòu fu gān	dou fu gan	411	
+豆腐乳	fermented bean curd	dòu fu rǔ	dou fu ru	413	
+豆瓣醬	Bean paste	dòu bàn jiàng	dou ban jiang	444	
+豆沙餅	Red bean cake	dòu shā bǐng	dou sha bing	413	
+讀卡機	Card reader	dú kǎ jī	du ka ji	231	
+警報器	Alarm	jǐng bào qì	jing bao qi	344	
+諾曼地	Normandy	nuò màn de	nuo man de	441	
+諸葛亮	Zhuge Liang	zhū gé liàng	zhu ge liang	124	
+調味料	seasoning	tiáo wèi liào	tiao wei liao	244	
+計算機	computer	jì suàn jī	ji suan ji	441	
+訂購單	Purchase order	dìng gòu dān	ding gou dan	441	
+訂貨單	order form	dìng huò dān	ding huo dan	441	
+親愛的	Dear	qīn ài de	qin ai de	141	
+覆盆子	raspberry	fù pén zi	fu pen zi	421	
+西雅圖	Seattle	xī yǎ tú	xi ya tu	132	
+西谷米	West Valley rice	xī gǔ mǐ	xi gu mi	133	
+西西里	Sicily	xī xī lǐ	xi xi li	113	
+西紅柿	tomato	xī hóng shì	xi hong shi	124	
+西米露	Sago dew	xī mǐ lù	xi mi lu	134	
+西瓜汁	Watermelon juice	xī guā zhī	xi gua zhi	111	
+補給站	Supply station	bǔ jǐ zhàn	bu ji zhan	334	
+蠶豆酥	Vicia fruiting	cán dòu sū	can dou su	241	
+螢火蟲	firefly	yíng huǒ chóng	ying huo chong	232	
+蝴蝶結	Bow tie	hú dié jié	hu die jie	222	
+蝙蝠俠	Batman	biān fú xiá	bian fu xia	122	
+蜂王乳	Bee king milk	fēng wáng rǔ	feng wang ru	123	
+蛤蜊湯	Clam soup	gé lí tāng	ge li tang	221	
+蛋花湯	Egg soup	dàn huā tāng	dan hua tang	411	
+蛋包飯	Eggs and eggs	dàn bāo fàn	dan bao fan	414	
+虱目魚	Milkfish	shī mù yú	shi mu yu	142	
+處女座	Virgo	chǔn ǚ zuò	chun u zuo	334	
+虎頭蜂	Tiger head bee	hǔ tóu fēng	hu tou feng	321	
+蘿蔔乾	Radish dry	luó bo gān	luo bo gan	211	
+蘋果綠	Apple green	píng guǒ lǜ	ping guo lu	234	
+蘋果汁	Apple juice	píng guǒ zhī	ping guo zhi	231	
+蘇澳港	Port of Suao	sū ào gǎng	su ao gang	143	
+蘇格蘭	Scotland	sū gé lán	su ge lan	122	
+蘇打水	soda water	sū dǎ shuǐ	su da shui	133	
+蘆筍汁	Asparagus juice	lú sǔn zhī	lu sun zhi	231	
+薩摩芋	Samako	sà mó yù	sa mo yu	424	
+薄荷葉	Mint leaf	bò hé yè	bo he ye	424	
+薄荷糖	Mints	bòhé táng	bohe tang	22	
+蕃茄醬	ketchup	fān qié jiàng	fan qie jiang	124	
+蔥油餅	Onion cake	cōng yóu bǐng	cong you bing	123	
+蔥油雞	Scallion chicken	cōng yóu jī	cong you ji	121	
+蓮子湯	Lotus soup	lián zǐ tāng	lian zi tang	231	
+蒲公英	Dandelion	púgōng yīng	pugong ying	11	
+蒙特婁	Montréal	méng tè lóu	meng te lou	242	
+葡萄糖	glucose	pú táo táng	pu tao tang	222	
+葡萄柚	Grapefruit	pú táo yòu	pu tao you	224	
+葉綠素	Chlorophyll	yè lǜ sù	ye lu su	444	
+落花生	peanut	luòhuā shēng	luohua sheng	11	
+落磯山	Rocky Mountain	luò jī shān	luo ji shan	411	
+萬花筒	kaleidoscope	wàn huā tǒng	wan hua tong	413	
+華盛頓	Washington	huá shèng dùn	hua sheng dun	244	
+華爾滋	waltz	huá ěr zī	hua er zi	231	
+菜瓜布	Melon cloth	cài guā bù	cai gua bu	414	
+菜包子	Buns	cài bāo zi	cai bao zi	411	
+菊花茶	Chrysanthemum tea	jú huā chá	ju hua cha	212	
+莫札特	Mozart	mò zhá tè	mo zha te	424	
+莫扎特	Mozart	mò zhā tè	mo zha te	414	
+荷包蛋	Purse	hé bāo dàn	he bao dan	214	
+草莓醬	Strawberry jam	cǎo méi jiàng	cao mei jiang	324	
+茶葉蛋	Tea eggs	chá yè dàn	cha ye dan	244	
+茶碗蒸	Chawanmushi	chá wǎn zhēng	cha wan zheng	231	
+茉莉花	Jasmine	mò lì huā	mo li hua	441	
+英格蘭	England	yīng gé lán	ying ge lan	122	
+苗栗縣	Miaoli County	miáo lì xiàn	miao li xian	244	
+花青素	anthocyanin	huā qīng sù	hua qing su	114	
+花雕酒	Flower wine	huā diāo jiǔ	hua diao jiu	113	
+花蝴蝶	Flower butterfly	huā hú dié	hua hu die	122	
+花生醬	peanut butter	huā shēng jiàng	hua sheng jiang	114	
+花生糖	peanut candy	huā shēng táng	hua sheng tang	112	
+花生粉	peanut powder	huā shēng fěn	hua sheng fen	113	
+花生米	Peanuts	huā shēng mǐ	hua sheng mi	113	
+花生油	Peanut oil	huā shēng yóu	hua sheng you	112	
+花椰菜	cauliflower	huā yē cài	hua ye cai	114	
+花栗鼠	chipmunk	huā lì shǔ	hua li shu	143	
+花園大	Big garden	huā yuán dà	hua yuan da	124	
+芭蕾舞	ballet	bā lěi wǔ	ba lei wu	133	
+芭樂汁	Curry juice	bā lè zhī	ba le zhi	141	
+芥藍菜	Mustard	jiè lán cài	jie lan cai	424	
+芝麻醬	Sesame sauce	zhī ma jiàng	zhi ma jiang	114	
+芝麻街	Sesame Street	zhī ma jiē	zhi ma jie	111	
+芝麻油	Sesame oil	zhī ma yóu	zhi ma you	112	
+芝麻	zhī ma			1	
+芝加哥	Chicago	zhī jiā gē	zhi jia ge	111	
+芒果汁	mango juice	máng guǒ zhī	mang guo zhi	231	
+芒果乾	Mango dry	máng guǒ gān	mang guo gan	231	
+芋頭冰	Taro ice	yù tou bīng	yu tou bing	411	
+色鉛筆	Color pencils	sè qiān bǐ	se qian bi	413	
+航空機	Aircraft	háng kōng jī	hang kong ji	211	
+自家製	Ownership	zì jiā zhì	zi jia zhi	414	
+胺基酸	Amino acids	àn jī suān	an ji suan	411	
+胭脂红	Carmine	yān zhī hóng	yan zhi hong	112	
+胡蘿蔔	carrot	hú lǘ bo	hu lu bo	221	
+胡萝卜	carrot	hú lǘ bo	hu lu bo	221	
+胡椒粉	pepper	hú jiāo fěn	hu jiao fen	213	
+胚芽米	Germ rice	pēi yá mǐ	pei ya mi	123	
+肉羹麵	Meat noodles	ròu gēng miàn	rou geng mian	414	
+肉絲麵	Pork noodles	ròu sī miàn	rou si mian	414	
+肉包子	Meat buns	ròu bāo zi	rou bao zi	411	
+肉丸子	Meatballs	ròu wán zi	rou wan zi	421	
+聚光燈	spotlight	jù guāng dēng	ju guang deng	411	
+聖誕節	Christmas	shèng dàn jié	sheng dan jie	442	
+聖誕樹	Christmas tree	shèng dàn shù	sheng dan shu	444	
+聖保羅	Sao Paulo	shèng bǎo luó	sheng bao luo	432	
+耶誕夜	Christmas night	yé dàn yè	ye dan ye	244	
+老油條	Old fritters	lǎo yóu tiáo	lao you tiao	322	
+老奶奶	Grandmother	lǎo nǎi nai	lao nai nai	331	
+羽量級	Featherweight	yǔ liàng jí	yu liang ji	342	
+羽毛球	badminton	yǔ máo qiú	yu mao qiu	322	
+美人魚	Mermaid	měi rén yú	mei ren yu	322	
+羅宋湯	Luo Song Tang	luó sòng tāng	luo song tang	241	
+纖維素	Cellulose	xiān wéi sù	xian wei su	124	
+總動員	general mobilization	zǒng dòng yuán	zong dong yuan	342	
+維那斯	Venus	wéi nà sī	wei na si	241	
+維納斯	Venus	wéi nà sī	wei na si	241	
+維也納	Vienna	wéi yě nà	wei ye na	234	
+綠豆糕	green bean cake	lǜ dòu gāo	lu dou gao	441	
+綠豆湯	Green bean soup	lǜ dòu tāng	lu dou tang	441	
+綠豆沙	Green bean sand	lǜ dòu shā	lu dou sha	441	
+經常性	Regular	jīng cháng xìng	jing chang xing	124	
+統計表	Statistics table	tǒng jì biǎo	tong ji biao	343	
+紹興酒	Shaoxing wine	shào xīng jiǔ	shao xing jiu	413	
+紫葡萄	Purple grapes	zǐ pú táo	zi pu tao	322	
+紫羅蘭	Violet	zǐ luó lán	zi luo lan	322	
+素食麵	Vegetarian face	sù shí miàn	su shi mian	424	
+紐西蘭	New Zealand	niǔ xī lán	niu xi lan	312	
+紅豆湯	Red bean soup	hóng dòu tāng	hong dou tang	241	
+紅豆冰	Red bean ice	hóng dòu bīng	hong dou bing	241	
+紅蘿蔔	carrot	hóng luó bo	hong luo bo	221	
+紅珊瑚	Red Coral	hóng shān hú	hong shan hu	212	
+紅燒肉	Pork	hóng shāo ròu	hong shao rou	214	
+紅棗湯	Red dates soup	hóng zǎo tāng	hong zao tang	231	
+紅外線	infrared	hóng wài xiàn	hong wai xian	244	
+紅不讓	Red not let	hóng bu ràng	hong bu rang	214	
+糯米糕	Sticky rice cake	nuò mǐ gāo	nuo mi gao	431	
+糕餅類	Pastry class	gāo bǐng lèi	gao bing lei	134	
+粉臘筆	Pink pen	fěn là bǐ	fen la bi	343	
+粉紅色	Pink	fěn hóng sè	fen hong se	324	
+簽字筆	signing pen	qiān zì bǐ	qian zi bi	143	
+章魚燒	Takoyaki	zhāng yú shāo	zhang yu shao	121	
+立法院	Legislature	lì fǎ yuàn	li fa yuan	434	
+空心菜	Spinach	kōng xīn cài	kong xin cai	114	
+秋刀魚	Savannah	qiū dāo yú	qiu dao yu	112	
+禮拜五	Friday	lǐ bài wǔ	li bai wu	343	
+福祿壽	Fu Lu Shou	fú lù shòu	fu lu shou	244	
+福太郎	Futaro	fú tài láng	fu tai lang	242	
+神槍手	Sharpshooter	shén qiāng shǒu	shen qiang shou	213	
+礦物質	Mineral	kuàng wù zhí	kuang wu zhi	442	
+礦泉水	mineral water	kuàng quán shuǐ	kuang quan shui	423	
+碧螺春	Biluochun	bì luó chūn	bi luo chun	421	
+石榴裙	Pomegranate skirt	shí liú qún	shi liu qun	222	
+石榴花	Pomegranate flowers	shí liú huā	shi liu hua	221	
+石斑魚	Grouper	shí bān yú	shi ban yu	212	
+矢車菊	Cornflower	shǐ chē jú	shi che ju	312	
+睫毛膏	mascara	jié máo gāo	jie mao gao	221	
+睡美人	sleeping Beauty	shuì měi rén	shui mei ren	432	
+看守所	The detention center	kān shǒu suǒ	kan shou suo	133	
+相思豆	Acacia beans	xiāng sī dòu	xiang si dou	114	
+百香果	Passion fruit	bǎi xiāng guǒ	bai xiang guo	313	
+百里香	Thyme	bǎi lǐ xiāng	bai li xiang	331	
+百日草	Pine grass	bǎi rì cǎo	bai ri cao	343	
+白蘭地	Brandy	bái lán dì	bai lan di	224	
+白木耳	White fungus	bái mù ěr	bai mu er	243	
+白帶魚	White water	bái dài yú	bai dai yu	242	
+白居易	Bai Juyi	bái jū yì	bai ju yi	214	
+當歸鴨	Angelica ducks	dāng guī yā	dang gui ya	111	
+番茄醬	ketchup	fān qié jiàng	fan qie jiang	124	
+番石榴	Guava	fān shí liú	fan shi liu	122	
+畢卡索	Picasso	bì kǎ suǒ	bi ka suo	433	
+留言板	message board	liú yán bǎn	liu yan ban	223	
+生魚片	Sashimi	shēng yú piàn	sheng yu pian	124	
+甜麵醬	Sweet sauce	tián miàn jiàng	tian mian jiang	244	
+甜酒釀	Sweet wine brewed	tián jiǔniàng	tian jiuniang	23	
+甜蜜蜜	sweet	tián mì mì	tian mi mi	244	
+甘露煮	Mannose boiled	gān lù zhǔ	gan lu zhu	143	
+甘蔗汁	Sugar cane juice	gān zhè zhī	gan zhe zhi	141	
+甘納豆	Sweet bean	gān nà dòu	gan na dou	144	
+瓜子仁	Melon seeds	guā zǐ rén	gua zi ren	132	
+玻璃瓶	Glass bottles	bō lí píng	bo li ping	122	
+王八蛋	Son of a bitch	wáng bā dàn	wang ba dan	214	
+玉米粥	Polenta	yù mǐ zhōu	yu mi zhou	431	
+獨角獸	unicorn	dú jiǎo shòu	du jiao shou	234	
+狼牙棒	Mace	láng yá bàng	lang ya bang	224	
+狗尾草	Setaria	gǒu wěi cǎo	gou wei cao	333	
+特級品	Premium products	tè jí pǐn	te ji pin	423	
+牛舌餅	Beef tongue cake	niú shé bǐng	niu she bing	223	
+牛腩飯	Sirloin rice	niú nǎn fàn	niu nan fan	234	
+牛肉麵	beef noodles	niú ròu miàn	niu rou mian	244	
+牛肉乾	Beef jerky	niú ròu gān	niu rou gan	241	
+牛排館	Steakhouse	niú pái guǎn	niu pai guan	223	
+牛排餐	Steak meal	niú pái cān	niu pai can	221	
+牛奶糖	Milk candy	niúnǎi táng	niunai tang	22	
+爽身粉	Talcum powder	shuǎng shēn fěn	shuang shen fen	313	
+父親節	Father's Day	fù qīn jié	fu qin jie	412	
+爵士樂	jazz	jué shì yuè	jue shi yue	244	
+爱玉冰	Love jade ice	ài yù bīng	ai yu bing	441	
+爆米花	Popcorn	bào mǐ huā	bao mi hua	431	
+營養品	Nutrition	yíng yǎng pǐn	ying yang pin	233	
+燕麥粥	oatmeal	yàn mài zhōu	yan mai zhou	441	
+燕麥片	oatmeal	yàn mài piàn	yan mai pian	444	
+燒酒雞	Shochu chicken	shāo jiǔ jī	shao jiu ji	131	
+燉雞湯	Stewed chicken soup	dùn jī tāng	dun ji tang	411	
+燈心絨	corduroy	dēng xīn róng	deng xin rong	112	
+熱那亞	Genoa	rèn à yà	ren a ya	444	
+熱呼呼	Hot whirring	rè hū hū	re hu hu	411	
+照焼き	According to 焼 き	zhào shāo ki	zhao shao ki	411	
+無患子	Sapindus	wúhuàn zi	wuhuan zi	21	
+無尾熊	No bear bear	wú wěi xióng	wu wei xiong	232	
+烤雞肉	Grilled chicken	kǎo jī ròu	kao ji rou	314	
+烤肉醬	Barbecue sauce	kǎo ròu jiàng	kao rou jiang	344	
+烏龍麵	Oulong noodles	wū lóng miàn	wu long mian	124	
+烏魚子	Black roe	wū yú zǐ	wu yu zi	123	
+烏骨雞	Silky chicken	wū gǔ jī	wu gu ji	131	
+烏梅酒	Ebony wine	wū méi jiǔ	wu mei jiu	123	
+烏梅汁	Ebony juice	wū méi zhī	wu mei zhi	121	
+炸魚排	Fried fish	zhà yú pái	zha yu pai	422	
+炸雞腿	Fried chicken legs	zhá jī tuǐ	zha ji tui	213	
+炸雞塊	Fried chicken pieces	zhá jī kuài	zha ji kuai	214	
+炸醬麵	Fried noodles	zhá jiàng miàn	zha jiang mian	244	
+炸醬面	Fried noodles	zhá jiàng miàn	zha jiang mian	244	
+炒魷魚	Fried squid	chǎo yóu yú	chao you yu	322	
+炒栗子	Fried chestnuts	chǎo lì zǐ	chao li zi	343	
+火車頭	locomotive	huǒ chē tóu	huo che tou	312	
+火腿蛋	Ham eggs	huǒ tuǐ dàn	huo tui dan	334	
+火腿肉	Ham	huǒ tuǐ ròu	huo tui rou	334	
+火山岩	Volcanic rocks	huǒ shān shí	huo shan shi	312	
+漂白粉	bleaching powder	piǎo bái fěn	piao bai fen	323	
+滿天星	Sky stars	mǎn tiān xīng	man tian xing	311	
+溫體肉	Warm meat	wēn tǐ ròu	wen ti rou	134	
+溫度計	thermometer	wēn dù jì	wen du ji	144	
+湯豆腐	Soup tofu	tāng dòu fu	tang dou fu	141	
+湊熱鬧	join in the fun	còu rèn ào	cou ren ao	444	
+清蒸魚	steamed fish	qīng zhēng yú	qing zheng yu	112	
+清潔劑	detergent	qīng jié jì	qing jie ji	124	
+淺綠色	light green	qiǎn lǜ sè	qian lu se	344	
+深藍色	Navy blue	shēn lán sè	shen lan se	124	
+深綠色	dark green	shēn lǜ sè	shen lu se	144	
+深海魚	deep sea fish	shēn hǎi yú	shen hai yu	132	
+淡淡的	Faint	dàn dàn de	dan dan de	441	
+淡水魚	Freshwater fish	dàn shuǐ yú	dan shui yu	432	
+涮羊肉	Shabu mutton	shuài yáng ròu	shuai yang rou	424	
+消防車	Fire truck	xiāo fáng chē	xiao fang che	121	
+消消氣	calm down	xiāo xiāo qì	xiao xiao qi	114	
+海龍王	Dragon King	hǎi lóng wáng	hai long wang	322	
+海蜇皮	Jellyfish	hǎi zhē pí	hai zhe pi	312	
+海德堡	Heidelberg	hǎi dé bǎo	hai de bao	323	
+活性碳	Activated carbon	huó xìng tàn	huo xing tan	244	
+洋芋片	Potato chips	yáng yù piàn	yang yu pian	244	
+泥娃娃	Clay dolls	ní wá wá	ni wa wa	222	
+波羅蜜	Polo honey	bō lǘ mì	bo lu mi	124	
+波爾多	Bordeaux	bō ěr duō	bo er duo	131	
+波士頓	Boston	bō shì dùn	bo shi dun	144	
+泡泡糖	bubble gum	pào pao táng	pao pao tang	412	
+法蘭西	France	fǎ lán xī	fa lan xi	321	
+法蘭克	Frank	fǎ lán kè	fa lan ke	324	
+泉玉露	Quan Yu Lu	quán yù lù	quan yu lu	244	
+油菜花	Rape	yóu cài huā	you cai hua	241	
+沙拉吧	salad bar	shā lā ba	sha la ba	111	
+沙丁魚	sardine	shā dīng yú	sha ding yu	112	
+沒骨頭	No bones	méi gǔ tou	mei gu tou	231	
+水蜜桃	Peaches	shuǐ mì táo	shui mi tao	342	
+水煮蛋	Boiled eggs	shuǐ zhǔ dàn	shui zhu dan	334	
+水溶性	Water soluble	shuǐ róng xìng	shui rong xing	324	
+水果糖	fruit candy	shuǐ guǒ táng	shui guo tang	332	
+水彩筆	Watercolor pen	shuǐ cǎi bǐ	shui cai bi	333	
+水密桃	peach	shuǐ mì táo	shui mi tao	342	
+氨基酸	Amino acids	ān jī suān	an ji suan	111	
+毛毛蟲	Caterpillar	máo mao chóng	mao mao chong	212	
+比目魚	flounder	bǐ mù yú	bi mu yu	342	
+比基尼	Bikini	bǐ jīn í	bi jin i	312	
+每公斤	Per kilogram	měi gōng jīn	mei gong jin	311	
+每一件	Every one	měi yī jiàn	mei yi jian	314	
+母親節	Mother's Day	mǔ qīn jié	mu qin jie	312	
+武夷茶	Wuyi tea	wǔ yí chá	wu yi cha	322	
+櫻花戀	Cherry blossom love	yīng huā liàn	ying hua lian	114	
+檸檬酸	Citric acid	níng méng suān	ning meng suan	221	
+檸檬茶	lemon tea	níng méng chá	ning meng cha	222	
+檸檬汁	Lemon juice	níng méng zhī	ning meng zhi	221	
+橢圓形	Oval	tuǒ yuán xíng	tuo yuan xing	322	
+橡皮擦	Eraser	xiàng pí cā	xiang pi ca	421	
+橘子汁	Orange juice	jú zi zhī	ju zi zhi	211	
+樟腦油	Camphor oil	zhāng nǎo yóu	zhang nao you	132	
+榨甘蔗	Squeezed sugar cane	zhà gān zhè	zha gan zhe	414	
+楊貴妃	Yang Guifei	yáng guì fēi	yang gui fei	241	
+楊桃汁	Yang Tao juice	yáng táo zhī	yang tao zhi	221	
+椰子汁	Coconut juice	yē zi zhī	ye zi zhi	111	
+植物性	Plantability	zhí wù xìng	zhi wu xing	244	
+植物園	Botanical Garden	zhí wù yuán	zhi wu yuan	242	
+棒棒糖	Lollipop	bàng bàng táng	bang bang tang	442	
+梔子花	Gardenia flower	zhī zi huā	zhi zi hua	111	
+梅乾菜	Meijian cuisine	méi gān cài	mei gan cai	214	
+桃紅色	Pink	táo hóng sè	tao hong se	224	
+桃太郎	Momotaro	táo tài láng	tao tai lang	242	
+桂圓湯	Cinnamon soup	guì yuán tāng	gui yuan tang	421	
+桂圓乾	Longan dry	guì yuán gān	gui yuan gan	421	
+核桃糕	Walnut cake	hé táo gāo	he tao gao	221	
+核桃仁	Walnut	hé táo rén	he tao ren	222	
+栗饅頭	Chestnut bread	lì mán tou	li man tou	421	
+柳葉魚	Willow fish	liǔ yè yú	liu ye yu	342	
+枸杞茶	Wolfberry tea	gǒu qǐ chá	gou qi cha	332	
+果菜汁	Fruit juice	guǒ cài zhī	guo cai zhi	341	
+枕頭套	pillow case	zhěn tou tào	zhen tou tao	314	
+枇杷膏	Loquat cream	pí pá gāo	pi pa gao	221	
+杓文字	Scoop text	biāo wén zì	biao wen zi	124	
+杉林溪	Fir forest	shān lín xī	shan lin xi	121	
+本公司	Our company	běn gōng sī	ben gong si	311	
+木蘭花	Magnolia flower	mù lán huā	mu lan hua	421	
+木瓜原	Papaya original	mù guā yuán	mu gua yuan	412	
+有機米	Organic rice	yǒu jī mǐ	you ji mi	313	
+月見草	Evening grass	yuè jiàn cǎo	yue jian cao	443	
+會議室	meeting room	huì yì shì	hui yi shi	444	
+最低價	The lowest price	zuì dī jià	zui di jia	414	
+替代品	alternatives	tì dài pǐn	ti dai pin	443	
+曼特寧	Mandelin	màn tè níng	man te ning	442	
+曼哈頓	Manhattan	màn hā dùn	man ha dun	414	
+更年期	Menopause	gēng nián qí	geng nian qi	122	
+春日井	Spring well	chūn rì jǐng	chun ri jing	143	
+星期四	Thursday	xīng qí sì	xing qi si	124	
+星期二	Tuesday	xīng qí èr	xing qi er	124	
+星期三	Wednesday	xīng qí sān	xing qi san	121	
+星期一	Monday	xīng qí yī	xing qi yi	121	
+易開罐	Easy to open cans	yì kāi guàn	yi kai guan	414	
+明太子	Ming Prince	míng tài zǐ	ming tai zi	243	
+日耳曼	Germanic	rì ěr màn	ri er man	434	
+日本晴	Japan sunny	rì běn qíng	ri ben qing	432	
+日月潭	Sun Moon Lake	rì yuè tán	ri yue tan	442	
+日光浴	Sunbathing	rì guāng yù	ri guang yu	414	
+方塊酥	Box crisp	fāng kuài sū	fang kuai su	141	
+新鮮味	Fresh taste	xīn xiān wèi	xin xian wei	114	
+新竹縣	Hsinchu County	xīn zhú xiàn	xin zhu xian	124	
+教養院	Nursing home	jiào yǎng yuàn	jiao yang yuan	434	
+敏感性	Sensitivity	mǐn gǎn xìng	min gan xing	334	
+攜帶式	Portable	xié dài shì	xie dai shi	244	
+攜帶型	Carrying type	xié dài xíng	xie dai xing	242	
+擔擔麵	Dan dan noodles	dàn dàn miàn	dan dan mian	444	
+擔仔麵	Bear face	dān zǐ miàn	dan zi mian	134	
+撲克牌	Playing cards	pū kè pái	pu ke pai	142	
+摩天嶺	Matteo Ridge	mó tiān lǐng	mo tian ling	213	
+接力賽	Relay race	jiē lì sài	jie li sai	144	
+排骨麵	Ribs	pái gǔ miàn	pai gu mian	234	
+排骨饭	Ribs rice	pái gǔ fàn	pai gu fan	234	
+排骨飯	Ribs rice	pái gǔ fàn	pai gu fan	234	
+排行榜	Ranking	pái háng bǎng	pai hang bang	223	
+持久性	Persistence	chí jiǔ xìng	chi jiu xing	234	
+拿破崙	Napoleon	ná pò lún	na po lun	242	
+招待券	Voucher	zhāo dài quàn	zhao dai quan	144	
+折疊式	Folding	zhé dié shì	zhe die shi	224	
+折價券	Discount coupons	zhé jià quàn	zhe jia quan	244	
+找不到	Can not find it	zhǎo bù dào	zhao bu dao	344	
+打蛋器	Whisk	dǎ dàn qì	da dan qi	344	
+手續費	Fee	shǒu xù fèi	shou xu fei	344	
+手提袋	Handbag	shǒu tí dài	shou ti dai	324	
+手提式	Portable	shǒu tí shì	shou ti shi	324	
+手推車	trolley	shǒu tuī chē	shou tui che	311	
+手扒雞	Hand braised chicken	shǒu bā jī	shou ba ji	311	
+扁平足	flatfoot	biǎn píng zú	bian ping zu	322	
+慕尼黑	Munich	mì ní hēi	mi ni hei	421	
+愛玉凍	Love jade frozen	ài yù dòng	ai yu dong	444	
+愛玉冰	Love jade ice	ài yù bīng	ai yu bing	441	
+惡勢力	Evil forces	è shì lì	e shi li	444	
+恐龍蛋	Dinosaur Eggs	kǒng lóng dàn	kong long dan	324	
+德意志	Deutsche	dé yì zhì	de yi zhi	244	
+微波爐	Microwave oven	wéi bō lú	wei bo lu	212	
+彩色筆	Colour pencil	cǎi sè bǐ	cai se bi	343	
+帆立貝	Sail	fān lì bèi	fan li bei	144	
+布拉格	Prague	bù lā gé	bu la ge	412	
+巨無霸	Giant	jù wú bà	ju wu ba	424	
+工讀生	Work students	gōng dú shēng	gong du sheng	121	
+山葡萄	Mountain grapes	shān pú táo	shan pu tao	122	
+山茶花	Camellia	shān cháhuā	shan chahua	11	
+居酒屋	Izakaya	jū jiǔ wū	ju jiu wu	131	
+就不能	just can not	jiù bù néng	jiu bu neng	442	
+小蜜蜂	Little bee	xiǎo mì fēng	xiao mi feng	341	
+小蘇打	baking soda	xiǎo sū dǎ	xiao su da	313	
+小米粥	Millet gruel	xiǎo mǐ zhōu	xiao mi zhou	331	
+小白菜	Cabbage	xiǎo bái cài	xiao bai cai	324	
+小白臉	Little white face	xiǎo bái liǎn	xiao bai lian	323	
+小牛皮	Calfskin	xiǎo niú pí	xiao niu pi	322	
+小松菜	Komatsu	xiǎo sōng cài	xiao song cai	314	
+小小的	Small	xiǎo xiǎo de	xiao xiao de	331	
+小太鼓	Small drums	xiǎo tài gǔ	xiao tai gu	343	
+小太郎	Kotaro	xiǎo tài láng	xiao tai lang	342	
+小夜曲	serenade	xiǎo yè qǔ	xiao ye qu	343	
+小兩口	Small couple	xiǎo liǎng kǒu	xiao liang kou	333	
+小倆口	Small couple	xiǎo liǎng kǒu	xiao liang kou	333	
+小人國	Small country	xiǎo rén guó	xiao ren guo	322	
+小不點	little guy	xiǎo bu diǎn	xiao bu dian	313	
+專賣店	Store	zhuān mài diàn	zhuan mai dian	144	
+寶藍色	Royal blue	bǎo lán sè	bao lan se	324	
+寶特瓶	Porter bottles	bǎo tè píng	bao te ping	342	
+富士山	Mount Fuji	fù shì shān	fu shi shan	441	
+家常菜	Home cooking	jiā cháng cài	jia chang cai	124	
+安琪兒	Angel	ān qí ér	an qi er	122	
+安東尼	Anthony	ān dōng ní	an dong ni	112	
+安全帶	seat belt	ān quán dài	an quan dai	124	
+宅急便	Home delivery	zhái jí biàn	zhai ji bian	224	
+威靈頓	Wellington	wēi líng dùn	wei ling dun	124	
+威尼斯	Venice	wēi ní sī	wei ni si	121	
+威士忌	Whiskey	wēi shì jì	wei shi ji	144	
+姊妹花	Sister flower	zǐ mèi huā	zi mei hua	341	
+好朋友	good friend	hǎo péng yǒu	hao peng you	323	
+好幫手	good helper	hǎo bāng shǒu	hao bang shou	313	
+女兒紅	Daughter red	nǚ ér hóng	nu er hong	322	
+奧斯卡	Oscar	ào sī kǎ	ao si ka	413	
+奇萊山	Chilli Hill	qí lái shān	qi lai shan	221	
+太陽能	Solar energy	tài yáng néng	tai yang neng	422	
+太平洋	The Pacific Ocean	tài píng yáng	tai ping yang	422	
+天婦羅	Tempura	tiān fù luó	tian fu luo	142	
+大雜燴	Hodgepodge	dà zá huì	da za hui	424	
+大觀園	Grand View Garden	dà guān yuán	da guan yuan	412	
+大西洋	Atlantic	dà xī yáng	da xi yang	412	
+大腿骨	Thigh bone	dà tuǐ gǔ	da tui gu	433	
+大納言	Big words	dàn à yán	dan a yan	442	
+大禹嶺	Dayu Ridge	dà yǔ lǐng	da yu ling	433	
+大白菜	Cabbage	dà bái cài	da bai cai	424	
+大滷麵	Big noodles	dà lǔ miàn	da lu mian	434	
+大岡山	Okayama Castle	dà gāng shān	da gang shan	411	
+大嬸婆	Big aunt	dà shěn pó	da shen po	432	
+大力士	Hercules	dà lì shì	da li shi	444	
+多樣化	diversification	duō yàng huà	duo yang hua	144	
+多功能	Multifunction	duō gōng néng	duo gong neng	112	
+外交官	diplomat	wài jiāo guān	wai jiao guan	411	
+夏蜜柑	Summer mandarin orange	xià mìgān	xia migan	41	
+夏威夷	Hawaii	xià wēi yí	xia wei yi	412	
+墨綠色	Dark green	mò lǜ sè	mo lu se	444	
+墨爾本	Melbourne	mò ěr běn	mo er ben	433	
+塑膠瓶	Plastic bottles	sù jiāo píng	su jiao ping	412	
+垃圾桶	trash can	lè sè tǒng	le se tong	443	
+圖畫紙	Drawing paper	tú huà zhǐ	tu hua zhi	243	
+圓舞曲	Waltz	yuán wǔ qǔ	yuan wu qu	233	
+圓柱狀	Cylindrical	yuán zhù zhuàng	yuan zhu zhuang	244	
+國際牌	International card	guó jì pái	guo ji pai	242	
+回鍋肉	Papaya	huí guō ròu	hui guo rou	214	
+四物湯	Four things soup	sì wù tāng	si wu tang	441	
+四小龍	Four dragons	sì xiǎo lóng	si xiao long	432	
+四季豆	Four seasons beans	sì jì dòu	si ji dou	444	
+唐辛子	Tang Xinzi	táng xīn zi	tang xin zi	211	
+唐老鴨	Donald Duck	táng lǎo yā	tang lao ya	231	
+哈密瓜	cantaloupe	hā mì guā	ha mi gua	141	
+咖啡豆	Coffee beans	kā fēi dòu	ka fei dou	114	
+咖啡色	Brown	kā fēi sè	ka fei se	114	
+咖啡杯	Coffee cups	kā fēi bēi	ka fei bei	111	
+咖啡因	caffeine	kā fēi yīn	ka fei yin	111	
+咖哩飯	Curry rice	gā lí fàn	ga li fan	124	
+咖哩雞	Curry chicken	gā lí jī	ga li ji	121	
+咖哩粉	Curry powder	gā lí fěn	ga li fen	123	
+咕咾肉	Sweet and Sour Pork	gū lǎo ròu	gu lao rou	134	
+和菓子	And fruit	hé guǒ zi	he guo zi	231	
+和歌山	Wakayama	hé gē shān	he ge shan	211	
+吹風機	hair dryer	chuī fēng jī	chui feng ji	111	
+吸血鬼	vampire	xī xuè guǐ	xi xue gui	143	
+吸塵器	vacuum cleaner	xī chén qì	xi chen qi	124	
+吳郭魚	Wu Guo Yu	wú guō yú	wu guo yu	212	
+向日葵	sunflower	xiàng rì kuí	xiang ri kui	442	
+名間鄉	Famous Township	míng jiān xiāng	ming jian xiang	211	
+名古屋	Nagoya	míng gǔ wū	ming gu wu	231	
+吉普賽	Gypsy	jí pǔ sài	ji pu sai	234	
+合家歡	Carnival	hé jiā huān	he jia huan	211	
+吃不到	can not eat	chī bù dào	chi bu dao	144	
+史密斯	Smith	shǐ mì sī	shi mi si	341	
+台北市	Taipei City	tái běi shì	tai bei shi	234	
+可可豆	Cocoa beans	kě kě dòu	ke ke dou	334	
+可可粉	cocoa powder	kě kě fěn	ke ke fen	333	
+可可亞	Cocoa	kě kě yà	ke ke ya	334	
+口香糖	chewing gum	kǒu xiāng táng	kou xiang tang	312	
+叉燒包	Pork buns	chā shāo bāo	cha shao bao	111	
+原來是	The original is	yuán lái shì	yuan lai shi	224	
+厚臉皮	cheeky	hòu liǎn pí	hou lian pi	432	
+卵磷脂	Lecithin	luǎn lín zhī	luan lin zhi	321	
+印表機	Printer	yìn biǎo jī	yin biao ji	431	
+印第安	Indian	yìn dì ān	yin di an	441	
+卡路里	Calories	kǎ lù lǐ	ka lu li	343	
+卡夫卡	Kafka	kǎ fū kǎ	ka fu ka	313	
+南美洲	South America	nán měi zhōu	nan mei zhou	231	
+南庄鄉	Nanzhuang Township	nán zhuāng xiāng	nan zhuang xiang	211	
+半圓形	Semi-circular	bàn yuán xíng	ban yuan xing	422	
+十月份	October	shí yuè fèn	shi yue fen	244	
+十三間	Thirteen	shí sān jiān	shi san jian	211	
+北海道	Hokkaido	běi hǎi dào	bei hai dao	334	
+北極星	Polaris	běi jí xīng	bei ji xing	321	
+北日本	North Japan	běi rì běn	bei ri ben	343	
+包心菜	Cabbage	bāo xīn cài	bao xin cai	114	
+助消化	aid digestion	zhù xiāo huà	zhu xiao hua	414	
+加盟店	Franchise	jiā méng diàn	jia meng dian	124	
+加勒比	Caribbean	jiā lè bǐ	jia le bi	143	
+創辦人	founder	chuàng bàn rén	chuang ban ren	442	
+創始者	founder	chuàng shǐ zhě	chuang shi zhe	433	
+刀削麵	Cut face	dāo xiāo miàn	dao xiao mian	114	
+出版社	Press	chū bǎn shè	chu ban she	134	
+凡爾賽	Versailles	fán ěr sài	fan er sai	234	
+凍豆腐	frozen tofu	dòng dòu fu	dong dou fu	441	
+冷洗精	Cold scrub	lěng xǐ jīng	leng xi jing	331	
+冬瓜茶	Melon tea	dōng guā chá	dong gua cha	112	
+六道菜	Six dishes	liù dào cài	liu dao cai	444	
+六粒裝	Six packs	liù lì zhuāng	liu li zhuang	441	
+六本木	Roppongi	liù běn mù	liu ben mu	434	
+六張犁	Six plows	liù zhāng lí	liu zhang li	412	
+六人份	Six copies	liù rén fèn	liu ren fen	424	
+公賣局	Bureau	gōng mài jú	gong mai ju	142	
+八斗子	Eight bucket	bā dǒu zi	ba dou zi	131	
+八寶飯	Babao rice	bā bǎo fàn	ba bao fan	134	
+八寶粥	Eight treasure porridge	bā bǎo zhōu	ba bao zhou	131	
+兩大塊	Two blocks	liǎng dà kuài	liang da kuai	344	
+全粒粉	Full grain powder	quán lì fěn	quan li fen	243	
+全家福	Family portrait	quán jiā fú	quan jia fu	212	
+全壘打	Home run	quán lěi dǎ	quan lei da	233	
+內蒙古	Inner Mongolia	nèi méng gǔ	nei meng gu	423	
+充電器	charger	chōng diàn qì	chong dian qi	144	
+元宵節	Lantern Festival	yuán xiāo jié	yuan xiao jie	212	
+優酪乳	Yogurt	yōu lào rǔ	you lao ru	143	
+優惠價	Discounted price	yōu huì jià	you hui jia	144	
+優待券	Coupons	yōu dài quàn	you dai quan	144	
+價目表	Price list	jià mù biǎo	jia mu biao	443	
+備註欄	Remarks column	bèi zhù lán	bei zhu lan	442	
+值日生	The value of life	zhí rì shēng	zhi ri sheng	241	
+保麗龍	Styrofoam	bǎo lì lóng	bao li long	342	
+保養品	Care products	bǎo yǎng pǐn	bao yang pin	333	
+保溫杯	Insulation Cup	bǎo wēn bēi	bao wen bei	311	
+便當盒	Lunch Box	biàn dang hé	bian dang he	412	
+佛手柑	bergamot	fó shǒu gān	fo shou gan	231	
+何首烏	Polygonum multiflorum	hé shǒu wū	he shou wu	231	
+佐久間	Zuoji between	zuǒ jiǔ jiān	zuo jiu jian	331	
+低熱量	Low calorie	dī rè liàng	di re liang	144	
+伏特加	Vodka	fú tè jiā	fu te jia	241	
+伍子胥	Wu Zixu	wǔ zi xū	wu zi xu	311	
+仙人掌	cactus	xiān rén zhǎng	xian ren zhang	123	
+什錦麵	Assorted noodles	shí jǐn miàn	shi jin mian	234	
+五花肉	Pork	wǔ huā ròu	wu hua rou	314	
+五粒裝	Five packs	wǔ lì zhuāng	wu li zhuang	341	
+五星級	Five star	wǔ xīng jí	wu xing ji	312	
+五年級	Fifth grade	wǔ nián jí	wu nian ji	322	
+五十嵐	Fifty Lan	wǔ shí lán	wu shi lan	322	
+二氧化	Toxicize	èr yǎng huà	er yang hua	434	
+二年生	Two years old	èrnián shēng	ernian sheng	21	
+乳酸菌	Lactic acid bacteria	rǔ suān jùn	ru suan jun	314	
+乳製品	Dairy products	rǔ zhì pǐn	ru zhi pin	343	
+九宮格	Jiugongge	jiǔ gōng gé	jiu gong ge	312	
+久留米	Kurume	jiǔ liú mǐ	jiu liu mi	323	
+中量級	Middleweight	zhōng liàng jí	zhong liang ji	142	
+不鏽鋼	stainless steel	bù xiù gāng	bu xiu gang	441	
+不銹鋼	stainless steel	bù xiù gāng	bu xiu gang	441	
+不規則	irregular	bù guī zé	bu gui ze	412	
+不要臉	shameless	bù yào liǎn	bu yao lian	443	
+不思議	Do not think about it	bù sī yì	bu si yi	414	
+不定期	From time to time	bù dìng qí	bu ding qi	442	
+不倒翁	tumbler	bù dǎo wēng	bu dao weng	431	
+上班族	Office worker	shàng bān zú	shang ban zu	412	
+上海老	Shanghai old	shàng hǎi lǎo	shang hai lao	433	
+三重奏	trio	sān chóng zòu	san chong zou	124	
+三國志	Three Kingdoms	sān guó zhì	san guo zhi	124	
+三合一	triple	sān hé yī	san he yi	121	
+七里香	Qili incense	qī lǐ xiāng	qi li xiang	131	
+丁香花	Lilac flowers	dīng xiāng huā	ding xiang hua	111	
+一塊肉	a piece of meat	yī kuài ròu	yi kuai rou	144	
+一人份	per person	yī rén fèn	yi ren fen	124	
+龜裂	Cracked	jūn liè	jun lie	14	
+龜甲	Tortoise	guī jiǎ	gui jia	13	
+龍鬚	Longxu	lóng xū	long xu	21	
+龍骨	keel	lóng gǔ	long gu	23	
+龍頭	Leading	lóng tóu	long tou	22	
+龍蝦	lobster	lóng xiā	long xia	21	
+龍華	Longhua	lóng huá	long hua	22	
+龍眼	Longan	lóng yǎn	long yan	23	
+龍田	Longtian	lóng tián	long tian	22	
+龍珠	Dragon Ball	lóng zhū	long zhu	21	
+龍王	Dragon King	lóng wáng	long wang	22	
+龍涎	Long saliva	lóng xián	long xian	22	
+齋飯	Zhaifan	zhāi fàn	zhai fan	14	
+點綴	Embellishment	diǎn zhuì	dian zhui	34	
+黒糖	Black sugar	hēi táng	hei tang	12	
+黑龍	Black Dragon	hēi lóng	hei long	12	
+黑麥	rye	hēi mài	hei mai	14	
+黑魚	Blackfish	hēi yú	hei yu	12	
+黑頭	Blackhead	hēi tóu	hei tou	12	
+黑面	Blackface	hēi miàn	hei mian	14	
+黑金	black gold	hēi jīn	hei jin	11	
+黑道	Underworld	hēi dào	hei dao	14	
+黑輪	Black wheel	hēi lún	hei lun	12	
+黑豬	Black pig	hēi zhū	hei zhu	11	
+黑豆	Black beans	hēi dòu	hei dou	14	
+黑莓	blackberries	hēi méi	hei mei	12	
+黑糖	Black sugar	hēi táng	hei tang	12	
+黑石	Blackstone	hēi shí	hei shi	12	
+黑眼	Black eye	hēi yǎn	hei yan	13	
+黑皮	Black skin	hēi pí	hei pi	12	
+黑白	Black and white	hēi bái	hei bai	12	
+黑棗	Black dates	hēi zǎo	hei zao	13	
+黑松	Black pine	hēi sōng	hei song	11	
+黑晶	Black crystal	hēi jīng	hei jing	11	
+黑底	Black	hēi dǐ	hei di	13	
+黄金	gold	huáng jīn	huang jin	21	
+黄瓜	cucumber	huáng guā	huang gua	21	
+黃魚	Yellow croaker	huáng yú	huang yu	22	
+黃花	yellow flower	huáng huā	huang hua	21	
+黃牛	cattle	huáng niú	huang niu	22	
+黃梅	Huang Mei	huáng méi	huang mei	22	
+黃底	Yellow bottom	huáng dǐ	huang di	23	
+黃土	loess	huáng tǔ	huang tu	23	
+麻醬	Sesame	má jiàng	ma jiang	24	
+麻辣	Spicy	má là	ma la	24	
+麻豆	Matou	má dòu	ma dou	24	
+麻袋	sack	má dài	ma dai	24	
+麻花	Twist	má huā	ma hua	21	
+麻油	sesame oil	má yóu	ma you	22	
+麻將	Mahjong	má jiàng	ma jiang	24	
+麻子	pock	má zǐ	ma zi	23	
+麵食	pasta	miàn shí	mian shi	42	
+麵茶	seasoned millet mush	miàn chá	mian cha	42	
+麵糊	Batter	miàn hú	mian hu	42	
+麵筋	Gluten	miàn jīn	mian jin	41	
+麵皮	Dough	miàn pí	mian pi	42	
+麵團	Dough	miàn tuán	mian tuan	42	
+麩皮	Bran	fū pí	fu pi	12	
+麥麩	Wheat bran	mài fū	mai fu	41	
+麥角	Ergot	mài jiǎo	mai jiao	43	
+麥芽	malt	mài yá	mai ya	42	
+麥粥	Rice porridge	mài zhōu	mai zhou	41	
+麥片	oatmeal	mài piàn	mai pian	44	
+麥克	Mike	mài kè	mai ke	44	
+麝香	Musk	shè xiāng	she xiang	41	
+麗香	Li Xiang	lì xiāng	li xiang	41	
+麋鹿	elk	mí lù	mi lu	24	
+鹿野	Deer wild	lù yě	lu ye	43	
+鹿谷	Deer valley	lù gǔ	lu gu	43	
+鹿茸	Velvet	lù róng	lu rong	42	
+鹿港	Deer port	lù gǎng	lu gang	43	
+鹿原	Deer original	lù yuán	lu yuan	42	
+鹽田	Yantian	yán tián	yan tian	22	
+鹽滷	Salt brine	yán lǔ	yan lu	23	
+鹽水	brine	yán shuǐ	yan shui	23	
+鹽味	Salt flavor	yán wèi	yan wei	24	
+鹼性	Alkaline	jiǎn xìng	jian xing	34	
+鹹鹹	Salty salty	xián xián	xian xian	22	
+鹹魚	Salted fish	xián yú	xian yu	22	
+鹹蛋	Salted egg	xián dàn	xian dan	24	
+鹹菜	pickle	xián cài	xian cai	24	
+鹹肉	bacon	xián ròu	xian rou	24	
+鹹味	Salty	xián wèi	xian wei	24	
+鹵味	Lo mei	lǔ wèi	lu wei	34	
+鸡排	Chicken	jī pái	ji pai	12	
+鸚鵡	parrot	yīng wǔ	ying wu	13	
+鶴岡	Tsuruoka	hègāng	hegang	1	
+鵡川	Lo Chuan	wǔ chuān	wu chuan	31	
+鵝黃	Goose yellow	éhuáng	ehuang	2	
+鵝頭	Goose head	é tóu	e tou	22	
+鵝肉	goose	é ròu	e rou	24	
+鴻運	Fortune	hóng yùn	hong yun	24	
+鴨頭	Duck head	yā tóu	ya tou	12	
+鴨蛋	Ducks	yā dàn	ya dan	14	
+鴨舌	Tongue	yā shé	ya she	12	
+鴨腳	Duck feet	yā jiǎo	ya jiao	13	
+鴨肉	duck	yā ròu	ya rou	14	
+鴨掌	Duck palm	yā zhǎng	ya zhang	13	
+鴨下	Duck under	yā xià	ya xia	14	
+鴛鴦	mandarin duck	yuān yāng	yuan yang	11	
+鳴門	Naruto	míng mén	ming men	22	
+鳳蝶	Papilio	fèng dié	feng die	42	
+鳳眼	Eyebrows	fèng yǎn	feng yan	43	
+鳳爪	Feather claws	fèng zhuǎ	feng zhua	43	
+鱼排	Fish row	yú pái	yu pai	22	
+鱸魚	Striped bass	lú yú	lu yu	22	
+鱈魚	Codfish	xuě yú	xue yu	32	
+鰱魚	Silver carp	lián yú	lian yu	22	
+鯽魚	Carassius auratus	zéi yú	zei yu	22	
+鯷魚	Fish	tí yú	ti yu	22	
+鯧魚	Pomfret	chāng yú	chang yu	12	
+鯛魚	snapper	diāo yú	diao yu	12	
+鯖魚	mackerel	zhēng yú	zheng yu	12	
+鯊魚	shark	shā yú	sha yu	12	
+鮮魚	Fresh fish	xiān yú	xian yu	12	
+鮮食	Fresh	xiān shí	xian shi	12	
+鮮貨	Fresh goods	xiān huò	xian huo	14	
+鮮美	Delicious	xiān měi	xian mei	13	
+鮮綠	Bright green	xiān lǜ	xian lu	14	
+鮮湯	Fresh soup	xiān tāng	xian tang	11	
+鮮活	Fresh	xiān huó	xian huo	12	
+鮮果	Fresh fruit	xiān guǒ	xian guo	13	
+鮮嫩	Fresh	xiān nèn	xian nen	14	
+鮮味	Flavor	xiān wèi	xian wei	14	
+鮭魚	Salmon	guī yú	gui yu	12	
+鮪魚	tuna	wěi yú	wei yu	32	
+鮑魚	abalone	bào yú	bao yu	42	
+魚鬆	dried fish floss	yú sōng	yu song	21	
+魚骨	fish bone	yú gǔ	yu gu	23	
+魚頭	Head	yú tóu	yu tou	22	
+魚蝦	Fish and shrimp	yú xiā	yu xia	21	
+魚船	Fish ship	yú chuán	yu chuan	22	
+魚腹	Fish belly	yú fù	yu fu	24	
+魚腥	Fishy fishy	yú xīng	yu xing	21	
+魚肝	Fish liver	yú gān	yu gan	21	
+魚肚	fish maw	yú dù	yu du	24	
+魚肉	Fish	yú ròu	yu rou	24	
+魚翅	Shark fins	yú chì	yu chi	24	
+魚皮	Fish skin	yú pí	yu pi	22	
+魚片	fillet	yú piàn	yu pian	24	
+魚湯	Fish soup	yú tāng	yu tang	21	
+魚油	fish oil	yú yóu	yu you	22	
+魚池	Fish pond	yú chí	yu chi	22	
+魚板	Fish plate	yú bǎn	yu ban	23	
+魚排	Fish row	yú pái	yu pai	22	
+魚子	roe	yú zǐ	yu zi	23	
+魚塊	steak	yú kuài	yu kuai	24	
+魚卵	Eggs	yú luǎn	yu luan	23	
+魚刺	Fishbone	yú cì	yu ci	24	
+魚介	Fish	yú jiè	yu jie	24	
+魚井	Fish well	yú jǐng	yu jing	23	
+魚丸	Fish balls	yú wán	yu wan	22	
+魔球	Magic Ball	mó qi ú	mo qi u	212	
+魔王	The devil	mó wáng	mo wang	22	
+魔杖	Wand	mó zhàng	mo zhang	24	
+魔手	Magic hand	mó shǒu	mo shou	23	
+魔咒	Curse	mó zhòu	mo zhou	24	
+魔力	magic	mó lì	mo li	24	
+鬼頭	Ghosts	guǐ tóu	gui tou	32	
+鬼火	Devil fire	guǐ huǒ	gui huo	33	
+鬱金	Turmeric	yù jīn	yu jin	41	
+鬆鬆	Loose	sōng sōng	song song	11	
+鬆餅	muffin	sōng bǐng	song bing	13	
+鬆緊	Elastic	sōng jǐn	song jin	13	
+鬆弛	relaxation	sōng chí	song chi	12	
+髮菜	Nostrils	fà cài	fa cai	44	
+髮膠	Hair spray	fà jiāo	fa jiao	41	
+高麗	Korea	gāo lí	gao li	12	
+高達	Up to	gāo dá	gao da	12	
+高跟	High heel	gāo gēn	gao gen	11	
+高菜	High dish	gāo cài	gao cai	14	
+高義	High meaning	gāo yì	gao yi	14	
+高粱	Sorghum	gāo liang	gao liang	11	
+高溫	high temperature	gāo wēn	gao wen	11	
+高檔	Upscale	gāo dàng	gao dang	14	
+高樹	High tree	gāo shù	gao shu	14	
+高梨	High pear	gāo lí	gao li	12	
+高梁	Sorghum	gāo liáng	gao liang	12	
+高林	High forest	gāo lín	gao lin	12	
+高效	Efficient	gāo xiào	gao xiao	14	
+高嶺	Kaolin	gāo lǐng	gao ling	13	
+高取	High take	gāo qǔ	gao qu	13	
+高保	High security	gāo bǎo	gao bao	13	
+骨粉	bone meal	gǔ fěn	gu fen	33	
+骨盆	pelvis	gǔ pén	gu pen	32	
+骨牌	domino	gǔ pái	gu pai	32	
+驛站	Inn	yì zhàn	yi zhan	44	
+騷包	Sao Bao	sāo bāo	sao bao	11	
+駝鳥	Ostrich	tuó niǎo	tuo niao	23	
+馳名	Famous	chí míng	chi ming	22	
+馬鞭	Whip	mǎ biān	ma bian	31	
+馬靴	riding boots	mǎ xuē	ma xue	31	
+馬賽	Marseille	mǎ sài	ma sai	34	
+馬祖	Matsu	mǎ zǔ	ma zu	33	
+馬甲	Vest	mǎ jiǎ	ma jia	33	
+馬步	Horse step	mǎ bù	ma bu	34	
+馬斯	Maas	mǎ sī	ma si	31	
+馬克	mark	mǎ kè	ma ke	34	
+香魚	Fish	xiāng yú	xiang yu	12	
+香香	Fragrant	xiāng xiāng	xiang xiang	11	
+香餅	Cookies	xiāng bǐng	xiang bing	13	
+香雪	Hornsey	xiāng xuě	xiang xue	13	
+香野	Fragrant wild	xiāng yě	xiang ye	13	
+香里	Incense	xiāng lǐ	xiang li	13	
+香酥	Crisp	xiāng sū	xiang su	11	
+香蠟	Fragrant wax	xiāng là	xiang la	14	
+香蕈	Mushroom	xiāng xùn	xiang xun	14	
+香菇	Mushrooms	xiāng gū	xiang gu	11	
+香茶	Tea	xiāng chá	xiang cha	12	
+香茅	lemongrass	xiāng máo	xiang mao	12	
+香芹	Celery	xiāng qín	xiang qin	12	
+香花	fragrant flower	xiāng huā	xiang hua	11	
+香芝	Incense	xiāng zhī	xiang zhi	11	
+香肠	sausage	xiāng cháng	xiang chang	12	
+香美	Fragrant beauty	xiāng měi	xiang mei	13	
+香織	Fragrant weave	xiāng zhī	xiang zhi	11	
+香純	Fragrant pure	xiāng chún	xiang chun	12	
+香精	essence	xiāng jīng	xiang jing	11	
+香粉	face powder	xiāng fěn	xiang fen	13	
+香禮	Fragrant ceremony	xiāng lǐ	xiang li	13	
+香田	Incense	xiāng tián	xiang tian	12	
+香瓜	Melon	xiāng guā	xiang gua	11	
+香煙	cigarette	xiāng yān	xiang yan	11	
+香煎	Fragrant fried	xiāng jiān	xiang jian	11	
+香澄	Fragrant	xiāng chéng	xiang cheng	12	
+香油	sesame oil	xiāng yóu	xiang you	12	
+香樁	Fragrant piles	xiāng zhuāng	xiang zhuang	11	
+香椿	Toon	xiāng chūn	xiang chun	11	
+香川	Kagawa	xiāng chuān	xiang chuan	11	
+香山	Xiangshan	xiāng shān	xiang shan	11	
+香奈	Chanel	xiāng nài	xiang nai	14	
+香園	Fragrant garden	xiāng yuán	xiang yuan	12	
+香南	Incense south	xiāng nán	xiang nan	12	
+香包	Sachet	xiāng bāo	xiang bao	11	
+首創	First	shǒu chuàng	shou chuang	34	
+饗宴	Feast	xiǎng yàn	xiang yan	34	
+餡餅	pie	xiàn bǐng	xian bing	43	
+餡蜜	Stuffing honey	xiàn mì	xian mi	44	
+餛餛	Wonton ravioli	hún hún	hun hun	22	
+餛飩	ravioli	hún tún	hun tun	22	
+餐點	Meals	cān diǎn	can dian	13	
+餐飲	FOOD	cān yǐn	can yin	13	
+養顏	Beauty	yǎng yán	yang yan	32	
+養身	Keep fit	yǎng shēn	yang shen	31	
+養氣	Keep gas	yǎng qì	yang qi	34	
+養殖	Breeding	yǎng zhí	yang zhi	32	
+餅干	Biscuits	bǐng gàn	bing gan	34	
+飽餐	Full meal	bǎo cān	bao can	31	
+飽飽	Full	bǎo bǎo	bao bao	33	
+飽嗝	Burp	bǎo gé	bao ge	32	
+飲茶	Drinking tea	yǐn chá	yin cha	32	
+飯鍋	Rice cooker	fàn guō	fan guo	41	
+飯糰	Rice balls	fàn tuán	fan tuan	42	
+飯石	Stone	fàn shí	fan shi	42	
+飯盒	lunch box	fàn hé	fan he	42	
+飯桶	big eater	fàn tǒng	fan tong	43	
+飯尾	The end of the rice	fàn wěi	fan wei	43	
+飯團	Rice balls	fàn tuán	fan tuan	42	
+食肉	Carnivorous	shí ròu	shi rou	24	
+食用	edible	shí yòng	shi yong	24	
+食材	Ingredients	shí cái	shi cai	22	
+食堂	canteen	shí táng	shi tang	22	
+食器	Tableware	shí qì	shi qi	24	
+飛魚	flying fish	fēi yú	fei yu	12	
+飛舞	Dancing	fēi wǔ	fei wu	13	
+飛碟	UFO	fēi dié	fei die	12	
+飛天	Flying	fēi tiān	fei tian	11	
+飄浮	Floating	piāo fú	piao fu	12	
+風靡	Popular	fēng mí	feng mi	12	
+風車	windmill	fēng chē	feng che	11	
+風見	See the wind	fēng jiàn	feng jian	14	
+風華	Fenghua	fēng huá	feng hua	12	
+風扇	fan	fēng shàn	feng shan	14	
+風城	Windy City	fēng chéng	feng cheng	12	
+風味	Flavor	fēng wèi	feng wei	14	
+風乾	Air dried	fēng gān	feng gan	11	
+類別	category	lèi bié	lei bie	42	
+顆粒	Particles	kē lì	ke li	14	
+頭皮	scalp	tóu pí	tou pi	22	
+頭殼	Head shell	tóu ké	tou ke	22	
+頭條	Headlines	tóu tiáo	tou tiao	22	
+頭城	The first city	tóu chéng	tou cheng	22	
+領結	Tie	lǐng jié	ling jie	32	
+領巾	scarf	lǐng jīn	ling jin	31	
+頑童	urchin	wán tóng	wan tong	22	
+預購	pre order	yù gòu	yu gou	44	
+預設	Default	yù shè	yu she	44	
+須加	To be added	xū jiā	xu jia	11	
+項鍊	necklace	xiàng liàn	xiang lian	44	
+頂尖	top notch	dǐng jiān	ding jian	31	
+韭黃	Chive	jiǔhuáng	jiuhuang	2	
+韓製	Korean system	hán zhì	han zhi	24	
+韓式	Korean style	hán shì	han shi	24	
+韃靼	Tartar	dá dá	da da	22	
+鞋盒	Shoebox	xié hé	xie he	22	
+面食	pasta	miàn shí	mian shi	42	
+面霜	cream	miàn shuāng	mian shuang	41	
+面包	bread	miàn bāo	mian bao	41	
+靠墊	Cushion	kào diàn	kao dian	44	
+非力	Non-power	fēi lì	fei li	14	
+靜電	Static electricity	jìng diàn	jing dian	44	
+青龍	Dragon	qīng lóng	qing long	12	
+青魚	herring	qīng yú	qing yu	12	
+青豆	Haricot vert	qīng dòu	qing dou	14	
+青蒜	Garlic	qīng suàn	qing suan	14	
+青葉	Aoba leaves	qīng yè	qing ye	14	
+青苔	moss	qīng tái	qing tai	12	
+青花	Blue and white	qīng huā	qing hua	11	
+青色	blue	qīng sè	qing se	14	
+青江	Qingjiang	qīng jiāng	qing jiang	11	
+青椒	green pepper	qīng jiāo	qing jiao	11	
+青森	Aomori	qīng sēn	qing sen	11	
+青梅	Green plum	qīng méi	qing mei	12	
+青木	Aoki	qīng mù	qing mu	14	
+靈芝	Ganoderma lucidum	líng zhī	ling zhi	21	
+霸主	overlord	bà zhǔ	ba zhu	43	
+露西	Lucy	lù xī	lu xi	41	
+霧社	Fog society	wù shè	wu she	44	
+霞雲	Xia Yun	xiá yún	xia yun	22	
+霞彩	Xia Cai	xiá cǎi	xia cai	23	
+霜降	Frost	shuāng jiàng	shuang jiang	14	
+電鍍	plating	diàn dù	dian du	44	
+電鍋	Electric pot	diàn guō	dian guo	41	
+電源	power supply	diàn yuán	dian yuan	42	
+電洽	Electricity	diàn qià	dian qia	44	
+雷諾	Renault	léi nuò	lei nuo	24	
+雷根	Reagan	léi gēn	lei gen	21	
+零食	Snacks	líng shí	ling shi	22	
+零嘴	Zero mouth	líng zuǐ	ling zui	23	
+雲頂	Genting	yún dǐng	yun ding	23	
+雲吞	Wonton	yún tūn	yun tun	21	
+雲南	Yunnan	yún nán	yun nan	22	
+雪麗	Shirley	xuě lì	xue li	34	
+雪路	Snow road	xuě lù	xue lu	34	
+雪見	See snow	xuě jiàn	xue jian	34	
+雪茄	cigar	xuě jiā	xue jia	31	
+雪肌	Snow muscle	xuě jī	xue ji	31	
+雪糕	ice cream	xuě gāo	xue gao	31	
+雪球	Snowball	xuě qiú	xue qiu	32	
+雪片	Snowflakes	xuě piàn	xue pian	34	
+雪泥	Slush	xuě ní	xue ni	32	
+雪梨	Sydney	xuě lí	xue li	32	
+雪山	Snow Mountain	xuě shān	xue shan	31	
+雪中	Snowy	xuě zhōng	xue zhong	31	
+雨林	Rainforest	yǔ lín	yu lin	32	
+難吃	Unpalatable	nán chī	nan chi	21	
+離島	Outlying islands	lí dǎo	li dao	23	
+離子	ion	lí zǐ	li zi	23	
+雞鴨	Chicken and duck	jī yā	ji ya	11	
+雞骨	Chicken bone	jī gǔ	ji gu	13	
+雞頭	Head of the head	jī tóu	ji tou	12	
+雞腿	Chicken legs	jī tuǐ	ji tui	13	
+雞腳	Chicken feet	jī jiǎo	ji jiao	13	
+雞胸	Chicken breast	jī xiōng	ji xiong	11	
+雞肝	Chicken liver	jī gān	ji gan	11	
+雞肋	Tasteless	jī lèi	ji lei	14	
+雞肉	chicken	jī ròu	ji rou	14	
+雞翅	Chicken wings	jī chì	ji chi	14	
+雞絲	Chicken wire	jī sī	ji si	11	
+雞精	Chicken	jī jīng	ji jing	11	
+雞窩	Chicken coop	jī wō	ji wo	11	
+雞爪	Chicken feet	jī zhuǎ	ji zhua	13	
+雞湯	chicken soup	jī tāng	ji tang	11	
+雞汁	Chicken juice	jī zhī	ji zhi	11	
+雞排	Chicken	jī pái	ji pai	12	
+雞心	Chicken heart	jī xīn	ji xin	11	
+雞尾	Cocktail	jī wěi	ji wei	13	
+雞塊	Chicken pieces	jī kuài	ji kuai	14	
+雞冠	crest	jī guān	ji guan	11	
+雞丁	Chicken	jī dīng	ji ding	11	
+雜費	Miscellaneous fees	zá fèi	za fei	24	
+雜糧	Grains	zá liáng	za liang	22	
+雜碎	Chop suey	zá suì	za sui	24	
+雜拌	Mixed with	zá bàn	za ban	24	
+雙週	Biweekly	shuāng zhōu	shuang zhou	11	
+雙連	Double connection	shuāng lián	shuang lian	12	
+雙管	Double tube	shuāng guǎn	shuang guan	13	
+雙筒	Binoculars	shuāng tǒng	shuang tong	13	
+雙星	Double Star	shuāng xīng	shuang xing	11	
+雙料	double	shuāng liào	shuang liao	14	
+雙數	Double number	shuāng shù	shuang shu	14	
+雙喜	Double Happiness	shuāng xǐ	shuang xi	13	
+雙包	Double pack	shuāng bāo	shuang bao	11	
+雙人	Double	shuāng rén	shuang ren	12	
+雕花	Carved	diāo huā	diao hua	11	
+雅致	Elegant	yǎ zhì	ya zhi	34	
+雅緻	Elegant	yǎ zhi	ya zhi	31	
+雄飛	Xiongfei	xióng fēi	xiong fei	21	
+雀巢	Nestle	què cháo	que chao	42	
+隱形	Invisible	yǐn xíng	yin xing	32	
+隨緣	Revelation	suí yuán	sui yuan	22	
+隨機	random	suí jī	sui ji	21	
+隕石	Meteorite	yǔn shí	yun shi	32	
+隔間	Compartment	gé jiān	ge jian	21	
+隔熱	Insulation	gé rè	ge re	24	
+陶板	Pottery board	táo bǎn	tao ban	23	
+陳皮	Tangerine peel	chén pí	chen pi	22	
+陰陽	yin and yang	yīn yáng	yin yang	12	
+除臭	Deodorant	chú chòu	chu chou	24	
+除濕	Dehumidification	chú shī	chu shi	21	
+除塵	Dust removal	chú chén	chu chen	22	
+陜西	Shaanxi	xiá xī	xia xi	21	
+限時	Time limit	xiàn shí	xian shi	42	
+限外	Limited outside	xiàn wài	xian wai	44	
+附送	Included	fù sòng	fu song	44	
+附贈	Come with	fù zèng	fu zeng	44	
+附註	Notes	fù zhù	fu zhu	44	
+附有	Attached to	fù yǒu	fu you	43	
+附帶	Incidental	fù dài	fu dai	44	
+附小	With small	fù xiǎo	fu xiao	43	
+附圖	With photos	fù tú	fu tu	42	
+附件	annex	fù jiàn	fu jian	44	
+附中	Attached	fù zhōng	fu zhong	41	
+阿里	Ali	ā lǐ	a li	13	
+阿美	Ami	ā měi	a mei	13	
+阿東	A Dong	ā dōng	a dong	11	
+阿木	Amu	ā mù	a mu	14	
+阿嬤	Grandmother	ā mā	a ma	11	
+阿媽	Mother	ā mā	a ma	11	
+阿婆	Lady	ā pó	a po	12	
+防風	Windproof	fáng fēng	fang feng	21	
+防臭	Deodorant	fáng chòu	fang chou	24	
+防疫	Epidemic prevention	fáng yì	fang yi	24	
+防滑	Non-slip	fáng huá	fang hua	22	
+防曬	Sunscreen	fáng shài	fang shai	24	
+防塵	dust-proof	fáng chén	fang chen	22	
+關西	Kansai	guān xī	guan xi	11	
+關羽	Guan Yu	guān yǔ	guan yu	13	
+關東	Kanto	guān dōng	guan dong	11	
+關廟	Off temple	guān miào	guan miao	14	
+關山	Off the mountain	guān shān	guan shan	11	
+閹雞	Castrated chicken	yān jī	yan ji	11	
+閒情	Leisurely	xián qíng	xian qing	22	
+開陽	Open the sun	kāi yáng	kai yang	12	
+開關	switch	kāi guān	kai guan	11	
+開運	Lucky	kāi yùn	kai yun	14	
+開胃	Appetizer	kāi wèi	kai wei	14	
+開礦	Mining	kāi kuàng	kai kuang	14	
+開源	Open source	kāi yuán	kai yuan	12	
+開店	Shop	kāi diàn	kai dian	14	
+閉店	Closed shop	bì di àn	bi di an	414	
+長長	Long	zhǎng zhǎng	zhang zhang	33	
+長野	Nagano	zhǎng yě	zhang ye	33	
+長褲	trousers	cháng kù	chang ku	24	
+長袖	Long sleeves	cháng xiù	chang xiu	24	
+長芋	Long taro	zhǎng yù	zhang yu	34	
+長紅	Long red	zhǎng hóng	zhang hong	32	
+長竹	Long bamboo	zhǎng zhú	zhang zhu	32	
+長條	Strip	cháng tiáo	chang tiao	22	
+長崎	Nagasaki	cháng qí	chang qi	22	
+長島	Long Island	zhǎng dǎo	zhang dao	33	
+長堤	Long embankment	zhǎng dī	zhang di	31	
+鑲邊	Trim	xiāng biān	xiang bian	11	
+鑑賞	Appreciation	jiàn shǎng	jian shang	43	
+鐵餅	discus	tiě bǐng	tie bing	33	
+鐵道	railway	tiě dào	tie dao	34	
+鐵質	Iron	tiě zhì	tie zhi	34	
+鐵蛋	Iron eggs	tiě dàn	tie dan	34	
+鐵盒	Iron box	tiě hé	tie he	32	
+鐵灰	dark Grey	tiě huī	tie hui	31	
+鐵漿	Iron pulp	tiě jiāng	tie jiang	31	
+鐵板	iron plate	tiě bǎn	tie ban	33	
+鐵定	Ironclad	tiě dìng	tie ding	34	
+鐵塔	Tower	tiě tǎ	tie ta	33	
+鏡頭	Lens	jìng tóu	jing tou	42	
+鎮咳	Antitussive	zhèn ké	zhen ke	42	
+鍋貼	fried dumpling	guō tiē	guo tie	11	
+鍋物	Pots	guō wù	guo wu	14	
+鍋底	Bottom of the pot	guō dǐ	guo di	13	
+鍋巴	Pot	guō bā	guo ba	11	
+錫金	Sikkim	xí jīn	xi jin	21	
+錫蘭	Ceylon	xī lán	xi lan	12	
+錦花	Jinhua	jǐn huā	jin hua	31	
+錦繡	beautiful	jǐn xiù	jin xiu	34	
+鋼管	Steel Pipe	gāng guǎn	gang guan	13	
+鋁箔	Aluminum foil	lǚ bó	lu bo	32	
+銷魂	Ecstasy	xiāo hún	xiao hun	12	
+銅鑼	Gong	tóng luó	tong luo	22	
+銅盤	Copper plate	tóng pán	tong pan	22	
+銅板	Copper plate	tóng bǎn	tong ban	23	
+銀花	Silver flower	yín huā	yin hua	21	
+銀耳	Tremella	yín ěr	yin er	23	
+銀灰	silver gray	yín huī	yin hui	21	
+銀河	Galaxy	yín hé	yin he	22	
+銀杏	ginkgo	yín xìng	yin xing	24	
+銀座	Ginza	yín zuò	yin zuo	24	
+鉚釘	rivet	mǎo dīng	mao ding	31	
+鉄板	Plate	zhí bǎn	zhi ban	23	
+鈴蘭	Lily of the valley	líng lán	ling lan	22	
+鈣質	Calcium	gài zhí	gai zhi	42	
+鈕釦	Button	niǔ kòu	niu kou	34	
+釧路	Kushiro	chuàn lù	chuan lu	44	
+針織	knitting	zhēn zhī	zhen zhi	11	
+釜山	Busan	fǔ shān	fu shan	31	
+金黃	golden	jīn huáng	jin huang	12	
+金雞	Golden Rooster	jīn jī	jin ji	11	
+金鈴	Golden bells	jīn líng	jin ling	12	
+金針	Lily	jīn zhēn	jin zhen	11	
+金賞	Gold reward	jīn shǎng	jin shang	13	
+金蛋	Golden egg	jīn dàn	jin dan	14	
+金蘭	Jin Lan	jīn lán	jin lan	12	
+金磚	Gold brick	jīn zhuān	jin zhuan	11	
+金目	Gold head	jīn mù	jin mu	14	
+金瓜	Gold melon	jīn guā	jin gua	11	
+金獎	Gold Award	jīn jiǎng	jin jiang	13	
+金橘	kumquat	jīn jú	jin ju	12	
+金榜	Gold list	jīn bǎng	jin bang	13	
+金棗	Gold jujube	jīn zǎo	jin zao	13	
+金桔	Kumquat	jīn jú	jin ju	12	
+金星	Venus	jīn xīng	jin xing	11	
+金平	Jinping	jīn píng	jin ping	12	
+金峰	Jinfeng	jīn fēng	jin feng	11	
+金寶	Campbell	jīn bǎo	jin bao	13	
+金園	Gold garden	jīn yuán	jin yuan	12	
+金品	Gold	jīn pǐn	jin pin	13	
+金吉	Jinji	jīn jí	jin ji	12	
+金剛	King Kong	jīng āng	jing ang	11	
+量販	Trader	liàng fàn	liang fan	44	
+量杯	Measuring cups	liáng bēi	liang bei	21	
+量子	quantum	liàng zǐ	liang zi	43	
+野鴨	wild duck	yě yā	ye ya	31	
+野營	camping	yě yíng	ye ying	32	
+野山	Wild mountain	yě shān	ye shan	31	
+重裝	Reloading	zhòng zhuāng	zhong zhuang	41	
+重度	Severe	zhòng dù	zhong du	44	
+重奏	Re playing	chóng zòu	chong zou	24	
+重原	Heavy original	zhòng yuán	zhong yuan	42	
+里脊	Ridge	lǐ jí	li ji	32	
+里昂	Lyon	lǐ áng	li ang	32	
+里島	In the island	lǐ dǎo	li dao	33	
+里佳	Good luck	lǐ jiā	li jia	31	
+釋迦	Sakya	shì jiā	shi jia	41	
+釀蜜	Brewed honey	niàng mì	niang mi	44	
+醱酵	Fermented	fā jiào	fa jiao	14	
+醬鴨	Sauce duck	jiàng yā	jiang ya	41	
+醬菜	Pickles	jiàng cài	jiang cai	44	
+醬肉	Sauce	jiàng ròu	jiang rou	44	
+醬瓜	Jellya	jiàng guā	jiang gua	41	
+醬園	Sauce garden	jiàng yuán	jiang yuan	42	
+醣醋	Sweet and sour	táng cù	tang cu	24	
+醒著	Awake	xǐng zhe	xing zhe	31	
+醍醐	Daigo	tí hú	ti hu	22	
+醋酸	acetic acid	cù suān	cu suan	41	
+醉倒	Drunk	zuì dào	zui dao	44	
+醇香	Mellow	chún xiāng	chun xiang	21	
+醇釀	Alcohol brewed	chún niàng	chun niang	24	
+醃菜	Pickles	yān cài	yan cai	14	
+酸辣	Hot and sour	suān là	suan la	14	
+酸菜	Sauerkraut	suān cài	suan cai	14	
+酸甜	Sweet and sour	suān tián	suan tian	12	
+酸梅	Sour plum	suān méi	suan mei	12	
+酸度	acidity	suān dù	suan du	14	
+酸味	Sour taste	suān wèi	suan wei	14	
+酵素	Enzyme	xiào sù	xiao su	44	
+酪餅	Cheese cake	lào bǐng	lao bing	43	
+酥麻	grow numb	sū má	su ma	12	
+酥軟	melt	sū ruǎn	su ruan	13	
+酥脆	Crisp	sū cuì	su cui	14	
+酥糖	Crisp candy	sū táng	su tang	12	
+酥油	butter	sū yóu	su you	12	
+酒釀	Brewed	jiǔniàng	jiuniang	3	
+酒酿	Brewed	jiǔniàng	jiuniang	3	
+酒糟	Distiller's grains	jiǔ zāo	jiu zao	31	
+酒粕	Wine meal	jiǔ pò	jiu po	34	
+酒樓	Restaurant	jiǔ lóu	jiu lou	32	
+酒廠	winery	jiǔ chǎng	jiu chang	33	
+配送	Distribution	pèi sòng	pei song	44	
+配菜	Side dishes	pèi cài	pei cai	44	
+配色	Color matching	pèi sè	pei se	44	
+配線	Wiring	pèi xiàn	pei xian	44	
+配料	Ingredients	pèi liào	pei liao	44	
+鄉野	Countryside	xiāng yě	xiang ye	13	
+鄉情	Nostalgia	xiāng qíng	xiang qing	12	
+都有	There are	dōu yǒu	dou you	13	
+都會	Will be	dū huì	du hui	14	
+都是	Are all	dōu shì	dou shi	14	
+都好	all good	dōu hǎo	dou hao	13	
+都可	Can be	dōu kě	dou ke	13	
+都不	Do not	dōu bù	dou bu	14	
+郵寄	Mailing	yóu jì	you ji	24	
+郎君	Lang Jun	láng jūn	lang jun	21	
+那波	That wave	nà bō	na bo	41	
+邂逅	Encounter	xiè hòu	xie hou	44	
+選項	Option	xuǎn xiàng	xuan xiang	34	
+選好	Choose good	xuǎn hǎo	xuan hao	33	
+選單	Menu	xuǎn dān	xuan dan	31	
+適度	Moderate	shì dù	shi du	44	
+遠洋	Ocean	yuǎn yáng	yuan yang	32	
+達人	talent	dá rén	da ren	22	
+過橋	Bridge	guò qiáo	guo qiao	42	
+運費	Freight	yùn fèi	yun fei	44	
+運筆	Pen	yùn bǐ	yun bi	43	
+遇熱	In case of heat	yù rè	yu re	44	
+進擊	Attack	jìn jī	jin ji	41	
+週間	Week	zhōu jiān	zhou jian	11	
+週日	Sunday	zhōu rì	zhou ri	14	
+週二	on Tuesday	zhōu èr	zhou er	14	
+週一	on Monday	zhōu yī	zhou yi	11	
+造橋	Bridge	zào qiáo	zao qiao	42	
+造形	Shape	zào xíng	zao xing	42	
+通風	ventilation	tōng fēng	tong feng	11	
+通霄	Tong Xiao	tōng xiāo	tong xiao	11	
+通路	path	tōng lù	tong lu	14	
+這是	this is	zhè shì	zhe shi	44	
+透亮	bright	tòu liàng	tou liang	44	
+送貨	Delivery	sòng huò	song huo	44	
+退火	annealing	tuì huǒ	tui huo	43	
+退冰	Back ice	tuì bīng	tui bing	41	
+迷魂	Ecstasy	mí hún	mi hun	22	
+迷霧	Fog	mí wù	mi wu	24	
+迷倒	Captured	mí dào	mi dao	24	
+迷你	Mini	mí nǐ	mi ni	23	
+迴腸	Ileum	huí cháng	hui chang	22	
+迦納	Ghana	jiā nà	jia na	14	
+近江	Near river	jìn jiāng	jin jiang	41	
+近期	Recently	jìn qí	jin qi	42	
+近日	recently	jìn rì	jin ri	44	
+迎春	Spring	yíng chūn	ying chun	21	
+農法	Agricultural law	nóng fǎ	nong fa	23	
+農會	Farmers' Association	nóng huì	nong hui	24	
+農曆	Lunar calendar	nóng lì	nong li	24	
+農大	Agricultural University	nóng dà	nong da	24	
+辮子	braid	biàn zi	bian zi	41	
+辣醬	Chili sauce	là jiàng	la jiang	44	
+辣油	Spicy oil	là yóu	la you	42	
+辣子	Spicy	là zǐ	la zi	43	
+辣妹	Spice Girls	là mèi	la mei	44	
+辣味	Spicy	là wèi	la wei	44	
+辛辣	Spicy	xīn là	xin la	14	
+辛味	Tastes	xīn wèi	xin wei	14	
+辛口	Xinkou	xīn kǒu	xin kou	13	
+轉車	transfer	zhuǎn chē	zhuan che	31	
+輪替	Rotation	lún tì	lun ti	24	
+輕盈	Light	qīng yíng	qing ying	12	
+輕柔	gentle	qīng róu	qing rou	12	
+較佳	Better	jiào jiā	jiao jia	41	
+軟骨	Cartilage	ruǎn gǔ	ruan gu	33	
+軟膏	ointment	ruǎn gāo	ruan gao	31	
+軟毛	soft fur	ruǎn máo	ruan mao	32	
+軟式	Soft	ruǎn shì	ruan shi	34	
+車隊	The team	chē duì	che dui	14	
+踏雪	Snowing	tà xuě	ta xue	43	
+踏步	Step by step	tà bù	ta bu	44	
+跳牆	Jumping the wall	tiào qiáng	tiao qiang	42	
+路易	Louis	lù yì	lu yi	44	
+跨海	Cross the sea	kuà hǎi	kua hai	43	
+跨年	New Year	kuà nián	kua nian	42	
+足跟	Heel	zú gēn	zu gen	21	
+超高	Super high	chāo gāo	chao gao	11	
+超群	Superior	chāo qún	chao qun	12	
+超絕	superb	chāo jué	chao jue	12	
+超短	ultrashort	chāo duǎn	chao duan	13	
+超強	Super strong	chāo qiáng	chao qiang	12	
+超大	Oversized	chāo dà	chao da	14	
+超值	Value	chāo zhí	chao zhi	12	
+起跳	Take off	qǐ tiào	qi tiao	34	
+起毛	fluff	qǐ máo	qi mao	32	
+赤貝	Chibi	chì bèi	chi bei	44	
+赤羽	Red feathers	chì yǔ	chi yu	43	
+赤牛	Red cow	chì niú	chi niu	42	
+赤子	Pure child	chì zǐ	chi zi	43	
+赤化	Akira	chì huà	chi hua	44	
+賽車	Racing car	sài chē	sai che	41	
+購物	shopping	gòu wù	gou wu	44	
+賭城	Casino	dǔ chéng	du cheng	32	
+賣點	Selling point	mài diǎn	mai dian	43	
+賣價	Selling price	mài jià	mai jia	44	
+賞花	Flowers	shǎng huā	shang hua	31	
+賞味	Enjoyment	shǎng wèi	shang wei	34	
+貽貝	mussels	yí bèi	yi bei	24	
+貼紙	Stickers	tiē zhǐ	tie zhi	13	
+費城	Philadelphia	fèi chéng	fei cheng	42	
+買氣	Buy gas	mǎi qì	mai qi	34	
+買得	Buy it	mǎi dé	mai de	32	
+貴紀	Gui Ji	guì jì	gui ji	44	
+貴州	Guizhou	guì zhōu	gui zhou	41	
+貴妃	Princess	guì fēi	gui fei	41	
+販售	Sold	fàn shòu	fan shou	44	
+貨架	Shelf	huò jià	huo jia	44	
+貢丸	Tribute pills	gòng wán	gong wan	42	
+財運	Wealth	cái yùn	cai yun	24	
+財神	God of Wealth	cái shén	cai shen	22	
+貝柱	Shells	bèi zhù	bei zhu	44	
+貝拉	Bella	bèi lā	bei la	41	
+貝克	Baker	bèi kè	bei ke	44	
+貓肉	Cat meat	māo ròu	mao rou	14	
+貓王	Elvis Presley	māo wáng	mao wang	12	
+貓熊	Panda	māo xióng	mao xiong	12	
+貓咪	Cat	māo mī	mao mi	11	
+豹紋	Leopard	bào wén	bao wen	42	
+豬頭	Pig head	zhū tóu	zhu tou	12	
+豬蹄	Trotters	zhū tí	zhu ti	12	
+豬腳	Pig feet	zhū jiǎo	zhu jiao	13	
+豬肝	Liver	zhū gān	zhu gan	11	
+豬肚	Pork belly	zhū dù	zhu du	14	
+豬皮	Pig skin	zhū pí	zhu pi	12	
+豬油	lard	zhū yóu	zhu you	12	
+豬排	Pork chops	zhū pái	zhu pai	12	
+豬心	pig heart	zhū xīn	zhu xin	11	
+豬尾	Pigtail	zhū wěi	zhu wei	13	
+豬公	Pigs	zhū gōng	zhu gong	11	
+豬仔	Pigs	zhū zǎi	zhu zai	13	
+豚肉	Dolphin meat	tún ròu	tun rou	24	
+豐采	Harvest	fēng cǎi	feng cai	13	
+豐田	Toyota	fēng tián	feng tian	12	
+豐原	Fengyuan	fēng yuán	feng yuan	12	
+豌豆	pea	wān dòu	wan dou	14	
+豆餅	cake	dòu bǐng	dou bing	43	
+豆類	Beans	dòu lèi	dou lei	44	
+豆醬	Soy sauce	dòu jiàng	dou jiang	44	
+豆豉	Tempeh	dòu chǐ	dou chi	43	
+豆豆	Peas	dòu dòu	dou dou	44	
+豆菜	Bean	dòu cài	dou cai	44	
+豆苗	Bean sprouts	dòu miáo	dou miao	42	
+豆芽	Bean sprouts	dòu yá	dou ya	42	
+豆花	Douhua	dòu huā	dou hua	41	
+豆瓣	Watercress	dòu bàn	dou ban	44	
+豆油	Soybean oil	dòu yóu	dou you	42	
+豆沙	Bean paste	dòu shā	dou sha	41	
+豆汁	Bean juice	dòu zhī	dou zhi	41	
+豆板	Bean board	dòu bǎn	dou ban	43	
+豆乳	Soymilk	dòu rǔ	dou ru	43	
+護髮	Hair care	hù fà	hu fa	44	
+護膚	Skin care	hù fū	hu fu	41	
+護套	jacket	hù tào	hu tao	44	
+護墊	Pad	hù diàn	hu dian	44	
+諸葛	Zhuge	zhū gé	zhu ge	12	
+請說	Please say	qǐng shuō	qing shuo	31	
+請見	See also	qǐng jiàn	qing jian	34	
+請看	Please see	qǐng kàn	qing kan	34	
+請用	Please use	qǐng yòng	qing yong	34	
+請洽	Please contact	qǐng qià	qing qia	34	
+請在	please at	qǐng zài	qing zai	34	
+請勿	Please do not	qǐng wù	qing wu	34	
+調酒	Bartender	tiáo jiǔ	tiao jiu	23	
+調製	modulation	tiáo zhì	tiao zhi	24	
+調理	Conditioning	tiáo lǐ	tiao li	23	
+調光	Dimming	diào guāng	diao guang	41	
+認證	Certification	rèn zhèng	ren zheng	44	
+認知	Cognition	rèn zhī	ren zhi	41	
+詳情	Details	xiáng qíng	xiang qing	22	
+試賣	Try to sell	shì mài	shi mai	44	
+試用	try out	shì yòng	shi yong	44	
+試吃	Try to eat	shì chī	shi chi	41	
+註記	Mark	zhù jì	zhu ji	44	
+註解	annotation	zhù jiě	zhu jie	43	
+註明	Specify	zhù míng	zhu ming	42	
+計時	Timing	jì shí	ji shi	42	
+計價	valuation	jì jià	ji jia	44	
+訂貨	Order	dìng huò	ding huo	44	
+訂票	Booking	dìng piào	ding piao	44	
+訂單	Order	dìng dān	ding dan	41	
+訂價	Pricing	dìng jià	ding jia	44	
+訂做	Made to do	dìng zuò	ding zuo	44	
+觸媒	catalyst	chù méi	chu mei	42	
+解饞	Solve greedy	jiě chán	jie chan	32	
+解酒	Hangover	jiě jiǔ	jie jiu	33	
+解毒	Detoxification	jiě dú	jie du	32	
+解凍	thaw	jiě dòng	jie dong	34	
+角質	Horny	jiǎo zhì	jiao zhi	34	
+角切	Angle cut	jiǎo qiè	jiao qie	34	
+观音	Goddess of Mercy	guān yīn	guan yin	11	
+觀戰	Watch the war	guān zhàn	guan zhan	14	
+親親	Kissing	qīn qīn	qin qin	11	
+親子	Parenting	qīn zǐ	qin zi	13	
+覆盆	Tubing	fù pén	fu pen	42	
+西點	pastry	xī diǎn	xi dian	13	
+西螺	West Lo	xī luó	xi luo	12	
+西芹	Celery	xī qín	xi qin	12	
+西米	Sago	xī mǐ	xi mi	13	
+西施	Xi Shi	xī shī	xi shi	11	
+西式	Western style	xī shì	xi shi	14	
+西嶼	West Island	xī yǔ	xi yu	13	
+西島	West Island	xī dǎo	xi dao	13	
+西堤	Sai Di	xī dī	xi di	11	
+西京	Xijing	xī jīng	xi jing	11	
+褲襪	Pantyhose	kù wà	ku wa	44	
+褲帶	Belt	kù dài	ku dai	44	
+複選	Check	fù xuǎn	fu xuan	43	
+複合	complex	fù hé	fu he	42	
+製茶	Tea making	zhì chá	zhi cha	42	
+製法	Method	zhì fǎ	zhi fa	43	
+製油	Oil	zhì yóu	zhi you	42	
+裸麥	Rye	luǒ mài	luo mai	34	
+裝蒜	Garlic	zhuāng suàn	zhuang suan	14	
+補血	Blood	bǔ xuè	bu xue	34	
+補藥	tonic	bǔ yào	bu yao	34	
+補氣	Qi	bǔ qì	bu qi	34	
+裙帶	Crony	qún dài	qun dai	24	
+裕珍	Yuzhen	yù zhēn	yu zhen	41	
+裕子	Yuko	yù zi	yu zi	41	
+袖長	Sleeve Length	xiù cháng	xiu chang	42	
+袖珍	pocket	xiù zhēn	xiu zhen	41	
+袖口	cuff	xiù kǒu	xiu kou	43	
+衣領	collar	yī lǐng	yi ling	13	
+衣架	hanger	yī jià	yi jia	14	
+衝刺	Sprint	chōng cì	chong ci	14	
+血路	Trail	xuè lù	xue lu	44	
+血腸	Blood intestine	xuè cháng	xue chang	42	
+蠻牛	Bulls	mán niú	man niu	22	
+蠶豆	broad bean	cán dòu	can dou	24	
+蠶絲	silk	cán sī	can si	21	
+蠟筆	crayon	là bǐ	la bi	43	
+蠔油	Oyster sauce	háo yóu	hao you	22	
+蟹黃	Crab	xièhuáng	xiehuang	2	
+蟹肉	Crab meat	xiè ròu	xie rou	44	
+蟹殼	Crab shells	xiè ké	xie ke	42	
+螺絲	Screw	luó sī	luo si	21	
+融融	Melted	róng róng	rong rong	22	
+融入	assimilate into	róng rù	rong ru	24	
+蝦餅	Shrimp cake	xiā bǐng	xia bing	13	
+蝦餃	Shrimp dumplings	xiā jiǎo	xia jiao	13	
+蝦蟹	Shrimp and crabs	xiā xiè	xia xie	14	
+蝦肉	Shrimp	xiā ròu	xia rou	14	
+蝦球	Shrimp balls	xiā qiú	xia qiu	12	
+蝦排	Shrimp row	xiā pái	xia pai	12	
+蝦仁	Shrimp	xiā rén	xia ren	12	
+蝦丸	Shrimp pills	xiā wán	xia wan	12	
+蜻蜓	dragonfly	qīng tíng	qing ting	12	
+蜥蝪	Lizard	xī tāng	xi tang	11	
+蜜餞	Candied fruit	mì jiàn	mi jian	44	
+蜜豆	Honey bean	mì dòu	mi dou	44	
+蜜糖	Honey	mì táng	mi tang	42	
+蜜漬	Honey stains	mì zì	mi zi	44	
+蜜汁	Honey juice	mì zhī	mi zhi	41	
+蜜棗	Candied dates	mì zǎo	mi zao	43	
+蜜桃	Peach	mì táo	mi tao	42	
+蜜柑	Mandarin mandarin	mì gān	mi gan	41	
+蜂膠	Propolis	fēng jiāo	feng jiao	11	
+蛤蠣	Clams	há lì	ha li	24	
+蛤蜊	clams	gé lí	ge li	22	
+蛋黃	yolk	dàn huáng	dan huang	42	
+蛋花	Egg flowers	dàn huā	dan hua	41	
+蛋殼	eggshell	dàn ké	dan ke	42	
+蛋捲	Egg rolls	dàn juǎn	dan juan	43	
+蛋卷	Egg rolls	dàn juǎn	dan juan	43	
+蛋包	Egg bag	dàn bāo	dan bao	41	
+蚊香	Mosquito coils	wén xiāng	wen xiang	21	
+虹彩	Iridescence	hóng cǎi	hong cai	23	
+虹吸	Siphon	hóng xī	hong xi	21	
+虛線	dotted line	xū xiàn	xu xian	14	
+虎皮	Tiger skin	hǔ pí	hu pi	32	
+虎斑	Tabby	hǔ bān	hu ban	31	
+蘿蔔	radish	luó bo	luo bo	21	
+蘭陽	Lan Yang	lán yáng	lan yang	22	
+蘭花	orchid	lán huā	lan hua	21	
+蘑菇	mushroom	mó gū	mo gu	21	
+蘇杭	Suzhou and Hangzhou	sū háng	su hang	12	
+蘇打	soda	sū dǎ	su da	13	
+蘆薈	Aloe vera	lú huì	lu hui	24	
+蘆筍	asparagus	lú sǔn	lu sun	23	
+蘆竹	Arundo	lú zhú	lu zhu	22	
+藻類	Algae	zǎo lèi	zao lei	34	
+藥頭	Medicine head	yào tóu	yao tou	42	
+藥酒	Wine wine	yào jiǔ	yao jiu	43	
+藥草	Herbs	yào cǎo	yao cao	43	
+藥用	Medicinal	yào yòng	yao yong	44	
+藥材	Herbs	yào cái	yao cai	42	
+藤本	Fujimoto	téng běn	teng ben	23	
+藝妓	geisha	yì jì	yi ji	44	
+藍藻	Cyanobacteria	lán zǎo	lan zao	23	
+藍莓	blueberry	lán méi	lan mei	22	
+藍芽	Blue buds	lán yá	lan ya	22	
+藍綠	Blue and green	lán lǜ	lan lu	24	
+藍山	Blue Mountain	lán shān	lan shan	21	
+藍光	Blu-ray	lán guāng	lan guang	21	
+薩斯	Saas	sà sī	sa si	41	
+薩姆	Sam	sà mǔ	sa mu	43	
+薔薇	rose	qiáng wēi	qiang wei	21	
+薑餅	gingerbread	jiāng bǐng	jiang bing	13	
+薑絲	Ginger	jiāng sī	jiang si	11	
+薑糖	Ginger sugar	jiāng táng	jiang tang	12	
+薑片	Ginger	jiāng piàn	jiang pian	14	
+薑汁	Ginger juice	jiāng zhī	jiang zhi	11	
+薏仁	Barley	yì rén	yi ren	42	
+薄霧	mist	bó wù	bo wu	24	
+薄酒	Thin wine	bó jiǔ	bo jiu	23	
+薄肉	Thin meat	báo ròu	bao rou	24	
+薄皮	Thin skin	báo pí	bao pi	22	
+薄塩	Thin salt	báo yán	bao yan	22	
+蕾絲	Lace	lěi sī	lei si	31	
+蕪菁	turnip	wú jīng	wu jing	21	
+蕎麥	Buckwheat	qiáo mài	qiao mai	24	
+蕃茄	tomato	fān jiā	fan jia	11	
+蔬食	Vegetables	shū shí	shu shi	12	
+蔬果	Fruits and vegetables	shū guǒ	shu guo	13	
+蔥頭	onion	cōng tóu	cong tou	12	
+蔥蒜	Onion and garlic	cōng suàn	cong suan	14	
+蔥花	chopped green onion	cōng huā	cong hua	11	
+蔚藍	Blue	wèi lán	wei lan	42	
+蔗糖	sucrose	zhè táng	zhe tang	42	
+蓮霧	wax apple	lián wù	lian wu	24	
+蓮藕	Lotus root	lián ǒu	lian ou	23	
+蓮蓉	Lotus	lián róng	lian rong	22	
+蓮子	Lotus seeds	lián zǐ	lian zi	23	
+蓋頭	Hijab	gài tou	gai tou	41	
+蓋世	matchless	gài shì	gai shi	44	
+蒼翠	green	cāng cuì	cang cui	14	
+蒸魚	Steamed fish	zhēng yú	zheng yu	12	
+蒸饺	Steamed dumplings	zhēng jiǎo	zheng jiao	13	
+蒸餃	Steamed dumplings	zhēng jiǎo	zheng jiao	13	
+蒸飯	Steamed rice	zhēng fàn	zheng fan	14	
+蒸蛋	Steamed eggs	zhēng dàn	zheng dan	14	
+蒸肉	Steamed meat	zhēng ròu	zheng rou	14	
+蒸籠	Steamer	zhēng lóng	zheng long	12	
+蒟蒻	Konjac	jǔ ruò	ju ruo	34	
+蒜頭	Garlic	suàn tóu	suan tou	42	
+蒜苗	Garlic	suàn miáo	suan miao	42	
+蒜泥	Garlic	suàn ní	suan ni	42	
+蒙特	Monte	méng tè	meng te	24	
+葷食	Meat	hūn shí	hun shi	12	
+葵花	sunflower	kuí huā	kui hua	21	
+董卓	Dong Zhuo	dǒng zhuō	dong zhuo	31	
+葉蘭	Ye Lan	yè lán	ye lan	42	
+落花	Falling flowers	luò huā	luo hua	41	
+落果	Drop fruit	luò guǒ	luo guo	43	
+萵苣	lettuce	wō jù	wo ju	14	
+萬能	universal	wàn néng	wan neng	42	
+萬用	Universal use	wàn yòng	wan yong	44	
+萬巒	Wan Luan	wàn luán	wan luan	42	
+萃取	extraction	cuì qǔ	cui qu	43	
+菲國	Philippines	fēi guó	fei guo	12	
+菱角	water chestnut	líng jiǎo	ling jiao	23	
+華園	Huayuan	huá yuán	hua yuan	22	
+菩提	Bodhi	pú tí	pu ti	22	
+菠蘿	pineapple	bō lǘ	bo lu	12	
+菜飯	Rice dish	cài fàn	cai fan	44	
+菜薹	Vegetables and sprouts	cài tái	cai tai	42	
+菜色	Dishes	cài sè	cai se	44	
+菜湯	Vegetable soup	cài tāng	cai tang	41	
+菜根	Vegetables	cài gēn	cai gen	41	
+菜圃	vegetable garden	cài pǔ	cai pu	43	
+菓子	Fruit	guǒ zi	guo zi	31	
+菌種	Bacteria	jūn zhǒng	jun zhong	13	
+菊花	chrysanthemum	jú huā	ju hua	21	
+莧菜	Amaranth	xiàn cài	xian cai	44	
+莎拉	Sarah	shā lā	sha la	11	
+莊園	manor	zhuāng yuán	zhuang yuan	12	
+荸薺	Water chestnuts	bí jì	bi ji	24	
+荷風	The wind	hé fēng	he feng	21	
+荷葉	Lotus leaf	hé yè	he ye	24	
+荷包	Purse	hé bāo	he bao	21	
+荳蔻	Cardamom	dòu kòu	dou kou	44	
+荔枝	litchi	lì zhī	li zhi	41	
+草魚	grass carp	cǎo yú	cao yu	32	
+草香	Grass incense	cǎo xiāng	cao xiang	31	
+草餅	Grass cake	cǎo bǐng	cao bing	33	
+草飼	Grass feeding	cǎo sì	cao si	34	
+草雞	Grass chicken	cǎo jī	cao ji	31	
+草蝦	Grass shrimp	cǎo xiā	cao xia	31	
+草菇	straw mushroom	cǎo gū	cao gu	31	
+草莓	Strawberry	cǎo méi	cao mei	32	
+草花	Grass flowers	cǎo huā	cao hua	31	
+草綠	Grass green	cǎo lǜ	cao lu	34	
+草生	Grass	cǎo shēng	cao sheng	31	
+草根	Grass roots	cǎo gēn	cao gen	31	
+草本	Herbs	cǎo běn	cao ben	33	
+草嶺	Grassland	cǎo lǐng	cao ling	33	
+荀子	Xunzi	xún zi	xun zi	21	
+茶點	refreshments	chá diǎn	cha dian	23	
+茶飯	Tea rice	chá fàn	cha fan	24	
+茶話	Tea party	chá huà	cha hua	24	
+茶袋	Tea bag	chá dài	cha dai	24	
+茶茶	Tea tea	chá chá	cha cha	22	
+茶花	camellia	chá huā	cha hua	21	
+茶色	Brown color	chá sè	cha se	24	
+茶磚	brick tea	chá zhuān	cha zhuan	21	
+茶番	Tea fan	chá fān	cha fan	21	
+茶湯	Tea soup	chá tāng	cha tang	21	
+茶油	tea oil	chá yóu	cha you	22	
+茶水	Tea	chá shuǐ	cha shui	23	
+茶樹	tea tree	chá shù	cha shu	24	
+茶梅	Tea plum	chá méi	cha mei	22	
+茶杯	cup	chá bēi	cha bei	21	
+茶山	Dasan	chá shān	cha shan	21	
+茶園	tea garden	chá yuán	cha yuan	22	
+茶味	Tea flavor	chá wèi	cha wei	24	
+茶匙	teaspoon	chá chí	cha chi	22	
+茗茶	Tea	míng chá	ming cha	22	
+茉莉	Jasmine	mò lì	mo li	44	
+茅根	Chine	máo gēn	mao gen	21	
+茄子	eggplant	qié zi	qie zi	21	
+茂谷	Mau Valley	mào gǔ	mao gu	43	
+英法	Britain and France	yīng fǎ	ying fa	13	
+英式	British	yīng shì	ying shi	14	
+英倫	England	yīng lún	ying lun	12	
+苦瓜	Bitter gourd	kǔ guā	ku gua	31	
+苦味	bitterness	kǔ wèi	ku wei	34	
+若葉	If leaves	ruò yè	ruo ye	44	
+若芽	If buds	ruò yá	ruo ya	42	
+若竹	If bamboo	ruò zhú	ruo zhu	42	
+苜蓿	Alfalfa	mù xu	mu xu	41	
+苗條	slim	miáo tiáo	miao tiao	22	
+苑裡	Court	yuàn lǐ	yuan li	43	
+芳草	Grass	fāng cǎo	fang cao	13	
+花香	Floral	huā xiāng	hua xiang	11	
+花露	Flowers	huā lù	hua lu	14	
+花雕	Flower carving	huā diāo	hua diao	11	
+花開	bloom	huā kāi	hua kai	11	
+花語	Flower language	huā yǔ	hua yu	13	
+花見	See you	huā jiàn	hua jian	14	
+花菜	Cauliflower	huā cài	hua cai	14	
+花茶	scented tea	huā chá	hua cha	12	
+花紅	Bonus	huā hóng	hua hong	12	
+花粉	pollen	huā fěn	hua fen	13	
+花片	Flower pieces	huā piàn	hua pian	14	
+花椒	Pepper	huā jiāo	hua jiao	11	
+花栗	Chestnut	huā lì	hua li	14	
+花柳	Flowers	huā liǔ	hua liu	13	
+花枝	Squid	huā zhī	hua zhi	11	
+花旗	Citi	huā qí	hua qi	12	
+花捲	Hanamaki	huā juǎn	hua juan	13	
+花式	Fancy	huā shì	hua shi	14	
+花卷	Hanamaki	huā juǎn	hua juan	13	
+芭蕾	Ballet	bā lěi	ba lei	13	
+芭比	Barbie	bā bǐ	ba bi	13	
+芦笋	asparagus	lú sǔn	lu sun	23	
+芥藍	Kale blue	jiè lán	jie lan	42	
+芥末	mustard	jiè mò	jie mo	44	
+芥子	Mustard	jiè zǐ	jie zi	43	
+芙蓉	Hibiscus	fú róng	fu rong	22	
+芙美	Fu Mei	fú měi	fu mei	23	
+芋頭	taro	yù tou	yu tou	41	
+芋粥	Taro porridge	yù zhōu	yu zhou	41	
+艾草	Wormwood	ài cǎo	ai cao	43	
+色麻	Color hemp	sè má	se ma	42	
+色調	tone	sè diào	se diao	44	
+色素	pigment	sè sù	se su	44	
+色白	Color white	sè bái	se bai	42	
+良品	Good product	liáng pǐn	liang pin	23	
+良信	Good letter	liáng xìn	liang xin	24	
+船形	Boat shape	chuán xíng	chuan xing	22	
+船岡	Boat	chuáng āng	chuang ang	21	
+舞龍	Dragon dance	wǔ lóng	wu long	32	
+舒潔	Shu Jie	shū jié	shu jie	12	
+舊庄	Old village	jiù zhuāng	jiu zhuang	41	
+興南	Xingnan	xìng nán	xing nan	42	
+臺鐵	Taiwan Railway	tái tiě	tai tie	23	
+臭臭	Smelly	chòu chòu	chou chou	44	
+臭皮	Smelly skin	chòu pí	chou pi	42	
+臭味	Smell	chòu wèi	chou wei	44	
+自選	Optional	zì xuǎn	zi xuan	43	
+自訂	Customize	zì dìng	zi ding	44	
+自製	self made	zì zhì	zi zhi	44	
+自用	For personal use	zì yòng	zi yong	44	
+自營	Self-employed	zì yíng	zi ying	42	
+自拍	Self-timer	zì pāi	zi pai	41	
+自慢	Since the slow	zì màn	zi man	44	
+自宅	Since the house	zì zhái	zi zhai	42	
+自助	Self-help	zì zhù	zi zhu	44	
+自修	Self repair	zì xiū	zi xiu	41	
+臘肉	Bacon	là ròu	la rou	44	
+臘味	Lap flavor	là wèi	la wei	44	
+臉部	Face	liǎn bù	lian bu	34	
+膾飯	Cooking rice	kuài fàn	kuai fan	44	
+膨大	Swell	péng dà	peng da	24	
+膠鞋	shoes	jiāo xié	jiao xie	12	
+膠質	Glue	jiāo zhí	jiao zhi	12	
+膠水	glue	jiāo shuǐ	jiao shui	13	
+膠帶	tape	jiāo dài	jiao dai	14	
+膠布	Tape	jiāo bù	jiao bu	14	
+膠囊	capsule	jiāo náng	jiao nang	12	
+腸肚	Bowel belly	cháng dù	chang du	24	
+腳色	Role	jué sè	jue se	24	
+腳尖	Toe	jiǎo jiān	jiao jian	31	
+腰花	Waist flower	yāo huā	yao hua	11	
+腰果	Cashew nuts	yāo guǒ	yao guo	13	
+腦髓	brain	nǎo suǐ	nao sui	33	
+腐乳	Fermented bean curd	fǔ rǔ	fu ru	33	
+腊肉	Bacon	là ròu	la rou	44	
+腊味	Lap flavor	là wèi	la wei	44	
+脫水	Dehydrated	tuō shuǐ	tuo shui	13	
+脫光	Stripped off	tuō guāng	tuo guang	11	
+脣膏	Lipstick	chún gāo	chun gao	21	
+脆皮	Crisp	cuì pí	cui pi	42	
+胸骨	sternum	xiōng gǔ	xiong gu	13	
+胸章	Badge	xiōng zhāng	xiong zhang	11	
+胭脂	rouge	yān zhī	yan zhi	11	
+胡麻	flax	hú má	hu ma	22	
+胡瓜	cucumber	hú guā	hu gua	21	
+胡椒	pepper	hú jiāo	hu jiao	21	
+胡桃	walnut	hú táo	hu tao	22	
+胡同	alley	hú tòng	hu tong	24	
+胚芽	Germ	pēi yá	pei ya	12	
+胖胖	Fat	pàng pàng	pang pang	44	
+肯亞	Kenya	kěn yǎ	ken ya	33	
+肥貓	Fat cat	féi māo	fei mao	21	
+肥豬	Pigs	féi zhū	fei zhu	21	
+肥瘦	Fat and thin	féi shòu	fei shou	24	
+肉鬆	Flossing	ròu sōng	rou song	41	
+肉餡	Meat	ròu xiàn	rou xian	44	
+肉餅	meat pie	ròu bǐng	rou bing	43	
+肉食	meat	ròu shí	rou shi	42	
+肉雞	Broiler	ròu jī	rou ji	41	
+肉醬	Meat sauce	ròu jiàng	rou jiang	44	
+肉質	Fleshy	ròu zhì	rou zhi	44	
+肉腸	Sausage	ròu cháng	rou chang	42	
+肉羹	Meat soup	ròu gēng	rou geng	41	
+肉絲	Pork	ròu sī	rou si	41	
+肉粽	Meat dumplings	ròu zòng	rou zong	44	
+肉皮	pork skin	ròu pí	rou pi	42	
+肉片	Meat	ròu piàn	rou pian	44	
+肉汁	Gravy	ròu zhī	rou zhi	41	
+肉末	Minced meat	ròu mò	rou mo	44	
+肉干	Meat	ròu gān	rou gan	41	
+肉包	Meat bag	ròu bāo	rou bao	41	
+肉乾	Meat	ròu gān	rou gan	41	
+肉丸	meatball	ròu wán	rou wan	42	
+肉丁	Diced	ròu dīng	rou ding	41	
+職場	Workplace	zhí chǎng	zhi chang	23	
+職人	Personnel	zhí rén	zhi ren	22	
+聲帶	vocal cord	shēng dài	sheng dai	14	
+聲寶	Sound treasure	shēng bǎo	sheng bao	13	
+聖美	Holy beauty	shèng měi	sheng mei	43	
+聖石	Holy stone	shèng shí	sheng shi	42	
+聖心	Sacred Heart	shèng xīn	sheng xin	41	
+聖女	Saint	shèng nǚ	sheng nu	43	
+聖代	Sundae	shèng dài	sheng dai	44	
+耶誕	Christmas	yé dàn	ye dan	24	
+耳罩	Earmuffs	ěr zhào	er zhao	34	
+耳機	headset	ěr jī	er ji	31	
+耳套	earmuffs	ěr tào	er tao	34	
+耳塞	Earplugs	ěr sāi	er sai	31	
+老鷹	eagle	lǎo yīng	lao ying	31	
+老饕	Gluttonous	lǎo tāo	lao tao	31	
+老街	Street	lǎo jiē	lao jie	31	
+老薑	Ginger	lǎo jiāng	lao jiang	31	
+老莊	Laozhuang	lǎo zhuāng	lao zhuang	31	
+老牌	Old	lǎo pái	lao pai	32	
+老爺	master	lǎo yé	lao ye	32	
+老派	Old school	lǎo pài	lao pai	34	
+老樹	Old tree	lǎo shù	lao shu	34	
+老楊	Lao Yang	lǎo yáng	lao yang	32	
+老店	Old shop	lǎo diàn	lao dian	34	
+老媽	Mom	lǎo mā	lao ma	31	
+老娘	His aging mother	lǎoniáng	laoniang	2	
+老友	Old friend	lǎo yǒu	lao you	33	
+老兵	veteran	lǎo bīng	lao bing	31	
+翻掉	Turn over	fān diào	fan diao	14	
+翰林	Hanlin	hàn lín	han lin	42	
+翠玉	Cuiyu	cuì yù	cui yu	44	
+羽衣	Plumage	yǔ yī	yu yi	31	
+羹飯	Soup rice	gēng fàn	geng fan	14	
+羹湯	soup	gēng tāng	geng tang	11	
+羶腥	Smell of smell	shān xīng	shan xing	11	
+義賣	Charity sale	yì mài	yi mai	44	
+義美	Yimei	yì měi	yi mei	43	
+義盛	Yi Sheng	yì shèng	yi sheng	44	
+義法	Righteousness	yì fǎ	yi fa	43	
+義工	Volunteer	yì gōng	yi gong	41	
+義富	Righteousness	yì fù	yi fu	44	
+義士	righteous	yì shì	yi shi	44	
+義仁	Yi Ren	yì rén	yi ren	42	
+美香	Fragrant	měi xiāng	mei xiang	31	
+美金	US dollars	měi jīn	mei jin	31	
+美華	The U.S. and China	měi huá	mei hua	32	
+美肌	Beauty	měi jī	mei ji	31	
+美祿	Meilu	měi lù	mei lu	34	
+美濃	Mino	měi nóng	mei nong	32	
+美果	Beauty	měi guǒ	mei guo	33	
+美式	American style	měi shì	mei shi	34	
+美工	Artwork	měi gōng	mei gong	31	
+美姿	Beauty	měi zī	mei zi	31	
+美女	beauty	měi nǚ	mei nu	33	
+美乃	Beauty is	měi nǎi	mei nai	33	
+羊蹄	Sheep hoof	yáng tí	yang ti	22	
+羊腸	Sheep intestine	yáng cháng	yang chang	22	
+羊羹	Sheep soup	yáng gēng	yang geng	21	
+羊排	Lamb chops	yáng pái	yang pai	22	
+羅紋	Ribs	luó wén	luo wen	22	
+羅漢	Lohan	luó hàn	luo han	24	
+羅拉	Laura	luó lā	luo la	21	
+置物	Home	zhì wù	zhi wu	44	
+罗马	Rome	luó mǎ	luo ma	23	
+罈子	earthen jar	tán zi	tan zi	21	
+缺貨	out of stock	quē huò	que huo	14	
+绿茶	green tea	lǜ chá	lu cha	42	
+综合	Integrated	zòng hé	zong he	42	
+红豆	red beans	hóng dòu	hong dou	24	
+红茶	black tea	hóng chá	hong cha	22	
+红烧	Braised	hóng shāo	hong shao	21	
+红叶	Autumn leaves	hóng yè	hong ye	24	
+繽紛	Colorful	bīn fēn	bin fen	11	
+繡球	Hydrangea	xiù qiú	xiu qiu	42	
+繁複	complicated	fán fù	fan fu	24	
+總覽	Overview	zǒng lǎn	zong lan	33	
+總店	Head office	zǒng diàn	zong dian	34	
+總匯	Summary	zǒng huì	zong hui	34	
+縱谷	Rift Valley	zòng gǔ	zong gu	43	
+縣立	County	xiàn lì	xian li	44	
+練乳	Practicing milk	liàn rǔ	lian ru	43	
+編號	Numbering	biān hào	bian hao	14	
+線香	Line fragrance	xiàn xiāng	xian xiang	41	
+線條	line	xiàn tiáo	xian tiao	42	
+緑茶	green tea	lǜ chá	lu cha	42	
+綿綿	Sober	mián mián	mian mian	22	
+綿密	Dense	mián mì	mian mi	24	
+綺夢	Dream	qǐ mèng	qi meng	34	
+網頁	Web page	wǎng yè	wang ye	34	
+網狀	Mesh	wǎng zhuàng	wang zhuang	34	
+網址	URL	wǎng zhǐ	wang zhi	33	
+綠野	Green field	lǜ yě	lu ye	43	
+綠衣	Green	lǜ yī	lu yi	41	
+綠藻	Green algae	lǜ zǎo	lu zao	43	
+綠茶	green tea	lǜ chá	lu cha	42	
+綠水	Green water	lǜ shuǐ	lu shui	43	
+經絡	Meridian	jīng luò	jing luo	14	
+綁帶	Straps	bǎng dài	bang dai	34	
+絲路	Silk Road	sī lù	si lu	14	
+絲襪	Stockings	sī wà	si wa	14	
+絲絲	The slightest	sī sī	si si	11	
+絲絨	velvet	sī róng	si rong	12	
+絲瓜	Loofah	sī guā	si gua	11	
+絨毛	Fluff	róng máo	rong mao	22	
+絞肉	Meat	jiǎo ròu	jiao rou	34	
+絕配	Perfect match	jué pèi	jue pei	24	
+絕活	Unique skills	jué huó	jue huo	22	
+絕妙	excellent	jué miào	jue miao	24	
+絕品	Special product	jué pǐn	jue pin	23	
+絕倫	Exquisite	jué lún	jue lun	22	
+絕代	Peerless	jué dài	jue dai	24	
+絕世	Peerless	jué shì	jue shi	24	
+結石	stone	jié shí	jie shi	22	
+組合	combination	zǔ hé	zu he	32	
+細面	Fine surface	xì miàn	xi mian	44	
+細雪	Fine snow	xì xǚ	xi xu	43	
+細膩	exquisite	xìn ì	xin i	44	
+細縫	Slit	xì fèng	xi feng	44	
+細緻	meticulous	xì zhì	xi zhi	44	
+細絲	Filament	xì sī	xi si	41	
+細細	Fine	xì xì	xi xi	44	
+細紋	Fine lines	xì wén	xi wen	42	
+細嚼	Chew	xì jiáo	xi jiao	42	
+細口	Thin mouth	xì kǒu	xi kou	43	
+紫黑	Purple	zǐ hēi	zi hei	31	
+紫陽	Ziyang	zǐ yáng	zi yang	32	
+紫金	Zijin	zǐ jīn	zi jin	31	
+紫蘇	Basil	zǐ sū	zi su	31	
+紫菜	Seaweed	zǐ cài	zi cai	34	
+紫紅	Purple	zǐ hóng	zi hong	32	
+素麵	Plain	sù miàn	su mian	44	
+素餐	Vegetarian	sù cān	su can	41	
+素養	Literacy	sù yǎng	su yang	43	
+素面	Plain	sù miàn	su mian	44	
+素雅	Elegant	sù yǎ	su ya	43	
+素肌	Muscle	sù jī	su ji	41	
+素白	Plain white	sù bái	su bai	42	
+素描	sketch	sù miáo	su miao	42	
+紙質	Papery	zhǐ zhì	zhi zhi	34	
+紙袋	Paper bag	zhǐ dài	zhi dai	34	
+紙盒	Carton	zhǐ hé	zhi he	32	
+紙片	Paper	zhǐ piàn	zhi pian	34	
+紙巾	Paper towels	zhǐ jīn	zhi jin	31	
+紙屑	Scraps of paper	zhǐ xiè	zhi xie	34	
+紙包	Paper bag	zhǐ bāo	zhi bao	31	
+純金	Pure gold	chún jīn	chun jin	21	
+純菜	Pure vegetables	chún cài	chun cai	24	
+純綿	Pure cotton	chún mián	chun mian	22	
+純白	Pure white	chún bái	chun bai	22	
+純生	Purely	chún shēng	chun sheng	21	
+純棉	Cotton	chún mián	chun mian	22	
+純二	Pure two	chún èr	chun er	24	
+紐約	new York	niǔ yuē	niu yue	31	
+紐澳	New Zealand	niǔ ào	niu ao	34	
+納采	Nazai	nà cǎi	na cai	43	
+納豆	Natto	nà dòu	na dou	44	
+紅龍	Red Dragon	hóng lóng	hong long	22	
+紅鮭	Red salmon	hóng guī	hong gui	21	
+紅顏	Roots	hóng yán	hong yan	22	
+紅酒	Red wine	hóng jiǔ	hong jiu	23	
+紅蛋	Red eggs	hóng dàn	hong dan	24	
+紅蘭	Red orchid	hóng lán	hong lan	22	
+紅薯	sweet potato	hóng shǔ	hong shu	23	
+紅葉	Autumn leaves	hóng yè	hong ye	24	
+紅莓	Cranberry	hóng méi	hong mei	22	
+紅糖	brown sugar	hóng táng	hong tang	22	
+紅皮	Red skin	hóng pí	hong pi	22	
+紅白	Red and white	hóng bái	hong bai	22	
+紅火	Booming	hóng huo	hong huo	21	
+紅毛	Red hair	hóng máo	hong mao	22	
+紅椒	Red pepper	hóng jiāo	hong jiao	21	
+紅棗	Red dates	hóng zǎo	hong zao	23	
+紅梅	Red plum	hóng méi	hong mei	22	
+紅果	Red fruit	hóng guǒ	hong guo	23	
+紅心	Red heart	hóng xīn	hong xin	21	
+紅塵	Red dust	hóng chén	hong chen	22	
+紅土	Red clay	hóng tǔ	hong tu	23	
+紅了	famous	hóng le	hong le	21	
+約克	York	yuē kè	yue ke	14	
+紀錄	Record	jì lù	ji lu	44	
+糰子	Dumpling	tuán zi	tuan zi	21	
+糯米	Glutinous rice	nuò mǐ	nuo mi	43	
+糙米	brown rice	cāo mǐ	cao mi	13	
+糖類	carbohydrate	táng lèi	tang lei	24	
+糖醋	Sweet and sour	táng cù	tang cu	24	
+糖蜜	Molasses	táng mì	tang mi	24	
+糖膏	Sugar paste	táng gāo	tang gao	21	
+糖糕	Sugar cake	táng gāo	tang gao	21	
+糖漿	syrup	táng jiāng	tang jiang	21	
+糖漬	Candy	táng zì	tang zi	24	
+糖水	syrup	táng shuǐ	tang shui	23	
+糖度	Sugar content	táng dù	tang du	24	
+糖原	Glycogen	táng yuán	tang yuan	22	
+糖包	sugar bag	táng bāo	tang bao	21	
+糕點	pastry	gāo diǎn	gao dian	13	
+精鹽	Salt	jīng yán	jing yan	12	
+精靈	Wizard	jīng líng	jing ling	12	
+精選	Featured	jīng xuǎn	jing xuan	13	
+精製	refined	jīng zhì	jing zhi	14	
+精裝	hardcover	jīng zhuāng	jing zhuang	11	
+精致	Exquisite	jīng zhì	jing zhi	14	
+精肉	Fine meat	jīng ròu	jing rou	14	
+精純	Pure	jīng chún	jing chun	12	
+精糖	Refined sugar	jīng táng	jing tang	12	
+精粹	Essence	jīng cuì	jing cui	14	
+精油	Essential oil	jīng yóu	jing you	12	
+精梳	Combing	jīng shū	jing shu	11	
+精強	Strong and strong	jīng qiáng	jing qiang	12	
+精品	Fine	jīng pǐn	jing pin	13	
+粽子	Zongzi	zòng zi	zong zi	41	
+粗糧	Coarse grains	cū liáng	cu liang	12	
+粗大	Thick	cū dà	cu da	14	
+粕漬	Meal stains	pò zì	po zi	44	
+粒粒	Granules	lì lì	li li	44	
+粉藍	Pink blue	fěn lán	fen lan	32	
+粉色	Pink	fěn sè	fen se	34	
+粉腸	Fentia	fěn cháng	fen chang	32	
+粉絲	Fans	fěn sī	fen si	31	
+粉粒	Powder	fěn lì	fen li	34	
+粉盒	Powder box	fěn hé	fen he	32	
+粉白	Pink and white	fěn bái	fen bai	32	
+粉撲	Puff	fěn pū	fen pu	31	
+粉彩	Pastry	fěn cǎi	fen cai	33	
+粉底	Foundation	fěn dǐ	fen di	33	
+粉嫩	Matte finish	fěn nèn	fen nen	34	
+粉墨	Powder	fěn mò	fen mo	34	
+粉圓	Powder round	fěn yuán	fen yuan	32	
+粉刺	acne	fěn cì	fen ci	34	
+米食	Rice food	mǐ shí	mi shi	32	
+米酒	rice wine	mǐ jiǔ	mi jiu	33	
+米蝦	Rice shrimp	mǐ xiā	mi xia	31	
+米蘭	Milan	mǐ lán	mi lan	32	
+米色	Beige	mǐ sè	mi se	34	
+米糕	Rice cakes	mǐ gāo	mi gao	31	
+米粥	Rice gruel	mǐ zhōu	mi zhou	31	
+米爾	Mil	mǐ ěr	mi er	33	
+米漿	Rice pulp	mǐ jiāng	mi jiang	31	
+米果	Rice fruit	mǐ guǒ	mi guo	33	
+米妮	Minnie	mǐn ī	min i	31	
+米奇	Mickey	mǐ qí	mi qi	32	
+籤條	Signed	qiān tiáo	qian tiao	12	
+籚筍	Bamboo shoots	lú sǔn	lu sun	23	
+簡易	simple	jiǎn yì	jian yi	34	
+簡介	Introduction	jiǎn jiè	jian jie	34	
+築地	Tsukiji	zhú de	zhu de	21	
+範本	Template	fàn běn	fan ben	43	
+範例	example	fàn lì	fan li	44	
+節禮	Salute	jié lǐ	jie li	23	
+節氣	Solar terms	jié qì	jie qi	24	
+箭毒	Toxins	jiàn dú	jian du	42	
+管路	Piping	guǎn lù	guan lu	34	
+筒狀	Tube	tǒng zhuàng	tong zhuang	34	
+筒子	Cheese	tǒng zi	tong zi	31	
+筍絲	Bamboo shoots	sǔn sī	sun si	31	
+筍尖	Bamboo shoots	sǔn jiān	sun jian	31	
+筍子	Shoots	sǔn zi	sun zi	31	
+筍乾	Dried bamboo shoots	sǔn gān	sun gan	31	
+筋骨	Bones	jīng ǔ	jing u	13	
+筋肉	Muscle	jīn ròu	jin rou	14	
+等值	Equivalent	děng zhí	deng zhi	32	
+筆管	Pen tube	bǐ guǎn	bi guan	33	
+筆筒	Pen holder	bǐ tǒng	bi tong	33	
+筆尖	nib	bǐ jiān	bi jian	31	
+筆套	Pen loops	bǐ tào	bi tao	34	
+竹輪	Bamboo wheel	zhú lún	zhu lun	22	
+竹葉	Bamboo leaves	zhú yè	zhu ye	24	
+竹筒	Bamboo tube	zhú tǒng	zhu tong	23	
+竹筍	Bamboo shoots	zhú sǔn	zhu sun	23	
+竹田	Bamboo field	zhú tián	zhu tian	22	
+竹片	Bamboo	zhú piàn	zhu pian	24	
+竹東	Bamboo east	zhú dōng	zhu dong	21	
+竹山	Zhushan	zhú shān	zhu shan	21	
+競走	Walking away	jìng zǒu	jing zou	43	
+競標	Bid	jìng biāo	jing biao	41	
+端午	Dragon Boat Festival	duān wǔ	duan wu	13	
+章魚	octopus	zhāng yú	zhang yu	12	
+立地	Site	lì dì	li di	44	
+窩心	Hearty	wō xīn	wo xin	11	
+窈窕	Slim	yǎo tiǎo	yao tiao	33	
+穿著	Wearing	chuān zhuó	chuan zhuo	12	
+空白	blank	kòng bái	kong bai	42	
+空爆	Empty burst	kōng bào	kong bao	14	
+空格	Space	kòng gé	kong ge	42	
+究極	Extreme	jiū jí	jiu ji	12	
+積木	Building Blocks	jī mù	ji mu	14	
+穀類	cereal	gǔ lèi	gu lei	34	
+穀粉	Valley powder	gǔ fěn	gu fen	33	
+稻米	Rice	dào mǐ	dao mi	43	
+種菜	Vegetables	zhòng cài	zhong cai	44	
+種牛	Cattle	zhòng niú	zhong niu	42	
+稀釋	dilution	xī shì	xi shi	14	
+稀有	rare	xī yǒu	xi you	13	
+秘方	Recipe	mì fāng	mi fang	41	
+秋風	Autumn wind	qiū fēng	qiu feng	11	
+秋葉	Autumn leaves	qiū yè	qiu ye	14	
+私釀	Private	sī niàng	si niang	14	
+私藏	Private possession	sī cáng	si cang	12	
+私房	Private	sī fáng	si fang	12	
+禮餅	Gift cake	lǐ bǐng	li bing	33	
+禮讚	Praise	lǐ zàn	li zan	34	
+禮券	Gift certificate	lǐ quàn	li quan	34	
+福運	Blessing	fú yùn	fu yun	24	
+福袋	Blessing bag	fú dài	fu dai	24	
+福義	Fuyi	fú yì	fu yi	24	
+福爾	Welfare	fú ěr	fu er	23	
+福海	Fuhai	fúhǎi	fuhai	2	
+福森	Fusen	fú sēn	fu sen	21	
+福岡	Fukuoka	fúgāng	fugang	1	
+福丸	Blessing pills	fú wán	fu wan	22	
+禎祥	Zhenxiang	zhēn xiáng	zhen xiang	12	
+禁果	Forbidden fruit	jìn guǒ	jin guo	43	
+祭禮	Ritual	jì lǐ	ji li	43	
+票券	Ticket	piào quàn	piao quan	44	
+神龍	Dragon	shén lóng	shen long	22	
+神鬼	Ghosts	shén guǐ	shen gui	23	
+神風	Gods	shén fēng	shen feng	21	
+神迷	Gods	shén mí	shen mi	22	
+神祕	mysterious	shén mì	shen mi	24	
+神燈	The lamp	shén dēng	shen deng	21	
+神戶	Kobe	shén hù	shen hu	24	
+神州	Divine	shén zhōu	shen zhou	21	
+神器	Artifacts	shén qì	shen qi	24	
+神保	Gods	shén bǎo	shen bao	23	
+祖傳	Ancestral pass	zǔ chuán	zu chuan	32	
+祕魯	Peru	mì lǔ	mi lu	43	
+祕方	Recipe	mì fāng	mi fang	41	
+祈福	Blessing	qí fú	qi fu	22	
+祁門	Qimen	qí mén	qi men	22	
+礦質	Mineral	kuàng zhì	kuang zhi	44	
+礦物	mineral	kuàng wù	kuang wu	44	
+礦坑	Pit	kuàng kēng	kuang keng	41	
+礁岩	Reefs	jiāo yán	jiao yan	12	
+磨菇	Mushroom	mó gū	mo gu	21	
+磨砂	Scrub	mó shā	mo sha	21	
+磨出	Grind out	mó chū	mo chu	21	
+磁石	magnet	cí shí	ci shi	22	
+磁性	magnetic	cí xìng	ci xing	24	
+磁力	magnetic force	cí lì	ci li	24	
+碳酸	Carbonic acid	tàn suān	tan suan	41	
+碳烤	Baked	tàn kǎo	tan kao	43	
+碰碰	Touch	pèng pèng	peng peng	44	
+碧藍	Blue	bì lán	bi lan	42	
+碧綠	Green	bì lǜ	bi lu	44	
+碗豆	Bowl of beans	wǎn dòu	wan dou	34	
+碗糕	Bowl of cakes	wǎn gāo	wan gao	31	
+碗粿	Bowl cake	wǎn guǒ	wan guo	33	
+碗盤	Bowls	wǎn pán	wan pan	32	
+碎金	Broken gold	suì jīn	sui jin	41	
+碎肉	minced meat	suì ròu	sui rou	44	
+硬質	Hard	yìng zhì	ying zhi	44	
+砧板	Chopping board	zhēn bǎn	zhen ban	13	
+研磨	Grinding	yán mó	yan mo	22	
+砂鍋	Casserole	shā guō	sha guo	11	
+砂糖	granulated sugar	shā táng	sha tang	12	
+石鍋	Stone pot	shí guō	shi guo	21	
+石虎	Stone tiger	shí hǔ	shi hu	23	
+石花	Stone flower	shí huā	shi hua	21	
+石窯	Stone kiln	shí yáo	shi yao	22	
+石碇	Stone anchor	shí dìng	shi ding	24	
+石板	slate	shí bǎn	shi ban	23	
+石塚	Stone mound	shí zhǒng	shi zhong	23	
+石光	Stone light	shí guāng	shi guang	21	
+矯正	Correction	jiǎo zhèng	jiao zheng	34	
+短靴	Boots	duǎn xuē	duan xue	31	
+知心	Intimate	zhī xīn	zhi xin	11	
+知名	famous	zhī míng	zhi ming	12	
+睫毛	eyelash	jié máo	jie mao	22	
+眼霜	Eye cream	yǎn shuāng	yan shuang	31	
+眼部	Eyes	yǎn bù	yan bu	34	
+眼影	Eye shadow	yǎn yǐng	yan ying	33	
+眼力	eyesight	yǎn lì	yan li	34	
+眷村	Dependents village	juàn cūn	juan cun	41	
+真空	vacuum	zhēn kōng	zhen kong	11	
+真皮	Genuine Leather	zhēn pí	zhen pi	12	
+真珠	pearl	zhēn zhū	zhen zhu	11	
+真巧	Really clever	zhēn qiǎo	zhen qiao	13	
+真圓	Really round	zhēn yuán	zhen yuan	12	
+看護	care	kān hù	kan hu	14	
+省產	Provincial production	shěng chǎn	sheng chan	33	
+相逢	Meet	xiāng féng	xiang feng	12	
+相撲	Sumo	xiāng pū	xiang pu	11	
+相手	Hand in hand	xiāng shǒu	xiang shou	13	
+相思	Acacia	xiāng sī	xiang si	11	
+直送	Direct delivery	zhí sòng	zhi song	24	
+直直	Straight	zhí zhí	zhi zhi	22	
+直條	Straight	zhí tiáo	zhi tiao	22	
+盛合	Sheng Sheng	shèng hé	sheng he	42	
+盒裝	Boxed	hé zhuāng	he zhuang	21	
+盒內	Inside the box	hé nèi	he nei	24	
+盎司	ounce	àng sī	ang si	41	
+益生	Prebiotics	yì shēng	yi sheng	41	
+益智	Puzzle	yì zhì	yi zhi	44	
+盆栽	Potted plants	pén zāi	pen zai	21	
+皮黃	Skin yellow	píhuáng	pihuang	2	
+皮蛋	preserved egg	pí dàn	pi dan	24	
+皮皮	Pippi	pí pí	pi pi	22	
+皇族	royal	huáng zú	huang zu	22	
+皇宮	The palace	huáng gōng	huang gong	21	
+皇冠	Crown	huáng guàn	huang guan	24	
+皇上	emperor	huáng shàng	huang shang	24	
+皆為	All for	jiē wèi	jie wei	14	
+皆有	There are	jiē yǒu	jie you	13	
+皆宜	Safe	jiē yí	jie yi	12	
+百葉	Leaves	bǎi yè	bai ye	34	
+百草	Baicao	bǎi cǎo	bai cao	33	
+百果	Berry fruit	bǎi guǒ	bai guo	33	
+百束	Hundred buns	bǎi shù	bai shu	34	
+百利	Gabriel	bǎi lì	bai li	34	
+百元	Hundred dollars	bǎi yuán	bai yuan	32	
+百事	Pepsi	bǎi shì	bai shi	34	
+百世	The world	bǎi shì	bai shi	34	
+白麵	flour	bái miàn	bai mian	24	
+白鳳	Bai Feng	bái fèng	bai feng	24	
+白魚	whitefish	bái yú	bai yu	22	
+白飯	White rice	bái fàn	bai fan	24	
+白頭	White head	bái tóu	bai tou	22	
+白面	flour	bái miàn	bai mian	24	
+白露	White dew	bái lù	bai lu	24	
+白金	platinum	bái jīn	bai jin	21	
+白酒	White wine	bái jiǔ	bai jiu	23	
+白身	White body	bái shēn	bai shen	21	
+白話	vernacular	bái huà	bai hua	24	
+白虎	White Tiger	bái hǔ	bai hu	23	
+白蘭	Prynne	bái lán	bai lan	22	
+白茶	White tea	bái chá	bai cha	22	
+白花	White flowers	bái huā	bai hua	21	
+白肉	White meat	bái ròu	bai rou	24	
+白羽	White feathers	bái yǔ	bai yu	23	
+白糖	White sugar	bái táng	bai tang	22	
+白粥	Porridge	bái zhōu	bai zhou	21	
+白粉	White powder	bái fěn	bai fen	23	
+白米	White rice	bái mǐ	bai mi	23	
+白皙	White	bái xī	bai xi	21	
+白玉	White jade	bái yù	bai yu	24	
+白湯	White soup	bái tāng	bai tang	21	
+白淨	fair and clear	bái jìng	bai jing	24	
+白河	White River	bái hé	bai he	22	
+白毫	White	bái háo	bai hao	22	
+白樺	White birch	bái huà	bai hua	24	
+白梅	White plum	bái méi	bai mei	22	
+白桃	White peach	bái táo	bai tao	22	
+白板	Whiteboard	bái bǎn	bai ban	23	
+白旗	white flag	bái qí	bai qi	22	
+白帶	Leucorrhea	bái dài	bai dai	24	
+白口	White mouth	bái kǒu	bai kou	23	
+白兔	White rabbit	bái tù	bai tu	24	
+白光	White light	bái guāng	bai guang	21	
+白保	White security	bái bǎo	bai bao	23	
+發麵	Hair surface	fā miàn	fa mian	14	
+發酵	Fermenting	fā xiào	fa xiao	14	
+發賣	Sale	fā mài	fa mai	14	
+發糕	Made cake	fāgāo	fagao	1	
+發泡	Foaming	fā pào	fa pao	14	
+發售	Sale	fā shòu	fa shou	14	
+瘦身	Weight loss	shòu shēn	shou shen	41	
+瘦肉	Lean meat	shòu ròu	shou rou	44	
+疑似	Suspected	yí sì	yi si	24	
+疊疊	Stacked	dié dié	die die	22	
+當紅	Popular	dāng hóng	dang hong	12	
+畫冊	Album	huà cè	hua ce	44	
+番薯	Sweet potato	fān shǔ	fan shu	13	
+番茄	tomato	fān qié	fan qie	12	
+略帶	Slightly	lüè dài	lue dai	14	
+畚箕	dustpan	běn jī	ben ji	31	
+畚斗	Bucket	běn dǒu	ben dou	33	
+留在	Stay in	liú zài	liu zai	24	
+男用	Male	nán yòng	nan yong	24	
+男爵	baron	nán jué	nan jue	22	
+甲魚	Turtle	jiǎ yú	jia yu	32	
+甲蟲	beetle	jiǎ chóng	jia chong	32	
+甲級	Class A	jiǎ jí	jia ji	32	
+甲殼	Crustacean	jiǎ ké	jia ke	32	
+甲仙	A fairy	jiǎ xiān	jia xian	31	
+田螺	river snail	tián luó	tian luo	22	
+田尾	Tian Tou	tián wěi	tian wei	23	
+田寮	Tianliao	tián liáo	tian liao	22	
+用紙	Paper	yòng zhǐ	yong zhi	43	
+產茶	Tea production	chǎn chá	chan cha	32	
+產地	Origin	chǎn dì	chan di	34	
+產區	Producing areas	chǎn qū	chan qu	31	
+生鮮	Fresh	shēng xiān	sheng xian	11	
+生魚	Raw fish	shēng yú	sheng yu	12	
+生食	raw food	shēng shí	sheng shi	12	
+生蛋	lay egg	shēng dàn	sheng dan	14	
+生薑	Ginger	shēng jiāng	sheng jiang	11	
+生菜	lettuce	shēng cài	sheng cai	14	
+生猛	Vigorous	shēng měng	sheng meng	13	
+生津	Sheng Jin	shēng jīn	sheng jin	11	
+生技	life skill	shēng jì	sheng ji	14	
+生姜	Ginger	shēng jiāng	sheng jiang	11	
+生化	Biochemical	shēng huà	sheng hua	14	
+生乳	Raw milk	shēng rǔ	sheng ru	13	
+甜香	Sweet	tián xiāng	tian xiang	21	
+甜食	Sweets	tián shí	tian shi	22	
+甜薯	Sweet potato	tián shǔ	tian shu	23	
+甜菜	beet	tián cài	tian cai	24	
+甜筒	Sweet tube	tián tǒng	tian tong	23	
+甜的	Sweet	tián de	tian de	21	
+甜甜	Sweet	tián tián	tian tian	22	
+甜瓜	melon	tián guā	tian gua	21	
+甜心	Sweetheart	tián xīn	tian xin	21	
+甜味	Sweetness	tián wèi	tian wei	24	
+甘藷	sweet potato	gān shǔ	gan shu	13	
+甘藍	Cabbage	gān lán	gan lan	12	
+甘薯	sweet potato	gān shǔ	gan shu	13	
+甘菊	Chamomile	gān jú	gan ju	12	
+甘草	Licorice	gān cǎo	gan cao	13	
+甘茶	Sweet tea	gān chá	gan cha	12	
+甘泉	Oasis	gān quán	gan quan	12	
+甘寧	Ganning	gān níng	gan ning	12	
+甘味	Sweet taste	gān wèi	gan wei	14	
+瓶裝	bottled	píng zhuāng	ping zhuang	21	
+瓶蓋	Cap	píng gài	ping gai	24	
+瓦特	watt	wǎ tè	wa te	34	
+瓦全	Tile full	wǎ quán	wa quan	32	
+瓢蟲	ladybug	piáo chóng	piao chong	22	
+瓜肉	Melon meat	guā ròu	gua rou	14	
+瓜瓜	Melon melon	guā guā	gua gua	11	
+瓜片	Melon pieces	guā piàn	gua pian	14	
+瓜果	Melon fruit	guā guǒ	gua guo	13	
+璞玉	Raw and white	pú yù	pu yu	24	
+瑪麗	Mary	mǎ lì	ma li	34	
+瑪莎	Martha	mǎ shā	ma sha	31	
+瑪莉	Mary	mǎ lì	ma li	34	
+瑞穗	Mizuho	ruì suì	rui sui	44	
+瑞祥	Ruixiang	ruì xiáng	rui xiang	42	
+瑞峰	Ruifeng	ruì fēng	rui feng	41	
+瑞原	Rui Yuan	ruì yuán	rui yuan	42	
+瑜珈	Yoga	yú jiā	yu jia	21	
+琵琶	lute	pí pá	pi pa	22	
+琴酒	Wine	qín jiǔ	qin jiu	23	
+球形	spherical	qiú xíng	qiu xing	22	
+現貨	Spot	xiàn huò	xian huo	44	
+現況	situation	xiàn kuàng	xian kuang	44	
+珠貝	Bead	zhū bèi	zhu bei	14	
+珍妮	Jenny	zhēn nī	zhen ni	11	
+珍品	Treasures	zhēn pǐn	zhen pin	13	
+珍味	Jane taste	zhēn wèi	zhen wei	14	
+玲瓏	exquisite	líng lóng	ling long	22	
+玩火	Play with fire	wán huǒ	wan huo	23	
+玩味	Pondering	wàn wèi	wan wei	44	
+玩出	Play out	wán chū	wan chu	21	
+玩偶	doll	wán ǒu	wan ou	23	
+王牌	trump card	wáng pái	wang pai	22	
+王國	kingdom	wáng guó	wang guo	22	
+玉青	Yuqing	yù qīng	yu qing	41	
+玉露	Yulu	yù lù	yu lu	44	
+玉里	Yuli	yù lǐ	yu li	43	
+玉筍	Jade shoots	yù sǔn	yu sun	43	
+玉湯	Jade soup	yù tāng	yu tang	41	
+玉峰	Yufeng	yù fēng	yu feng	41	
+玉山	Yushan	yù shān	yu shan	41	
+玉子	Yuzi	yù zi	yu zi	41	
+玉女	Lady	yùn ǚ	yun u	43	
+玉兔	Rabbit	yù tù	yu tu	44	
+玉井	Yujing	yù jǐng	yu jing	43	
+玉乃	Jade is	yùn ǎi	yun ai	43	
+玄米	Mysterious rice	xuán mǐ	xuan mi	23	
+玄武	Basaltic	xuán wǔ	xuan wu	23	
+獨門	Alone	dú mén	du men	22	
+獨家	exclusive	dú jiā	du jia	21	
+獨奏	solo	dú zò u	du zo u	241	
+獨享	Exclusive	dú xiǎng	du xiang	23	
+猴頭	Hericium	hóu tóu	hou tou	22	
+猴年	Monkey years	hóu nián	hou nian	22	
+猪肉	pork	zhū ròu	zhu rou	14	
+猪排	Pork chops	zhū pái	zhu pai	12	
+猛男	Boy	měng nán	meng nan	32	
+犀牛	rhinoceros	xī niú	xi niu	12	
+特餐	Special meal	tè cān	te can	41	
+特配	Special match	tè pèi	te pei	44	
+特選	Featured	tè xǚn	te xun	43	
+特級	Premium	tè jí	te ji	42	
+特等	Special	tè děng	te deng	43	
+特產	specialty	tè chǎn	te chan	43	
+特有	Unique	tè yǒu	te you	43	
+特效	Special effects	tè xiào	te xiao	44	
+特大	Extra large	tè dà	te da	44	
+特務	spy	tè wù	te wu	44	
+特制	special	tè zhì	te zhi	44	
+特别	especially	tè bié	te bie	42	
+特優	Excellent	tè yōu	te you	41	
+特價	Special offer	tè jià	te jia	44	
+牲禮	Ritual	shēng lǐ	sheng li	13	
+物類	Species	wù lèi	wu lei	44	
+物語	Story	wù yǔ	wu yu	43	
+物腰	Waist	wù yāo	wu yao	41	
+牧草	grass	mù cǎo	mu cao	43	
+牧牛	Cattle	mùni ú	muni u	42	
+牡蠣	Oyster	mǔ lì	mu li	34	
+牛骨	Bones and bones	niú gǔ	niu gu	23	
+牛頭	Ngau Tau	niú tóu	niu tou	22	
+牛鍋	Cows	niú guō	niu guo	21	
+牛蒡	Burdock	niú bàng	niu bang	24	
+牛舌	Beef tongue	niú shé	niu she	22	
+牛腱	Bovine tendon	niú jiàn	niu jian	24	
+牛腩	Sirloin	niú nǎn	niu nan	23	
+牛肚	N	niú dǔ	niu du	23	
+牛筋	Tendon	niú jīn	niu jin	21	
+牛皮	Cowhide	niú pí	niu pi	22	
+牛津	Oxford	niú jīn	niu jin	21	
+牛油	butter	niú yóu	niu you	22	
+牛尾	Oxtail	niú wěi	niu wei	23	
+牛乳	Milk	niú rǔ	niu ru	23	
+牛丸	Cattle pill	niú wán	niu wan	22	
+片狀	Flake	piàn zhuàng	pian zhuang	44	
+片片	Film	piàn piàn	pian pian	44	
+爽脆	Crisp	shuǎng cuì	shuang cui	34	
+爽口	tasty	shuǎng kǒu	shuang kou	33	
+爵士	Jazz	jué shì	jue shi	24	
+爱玉	Love jade	ài yù	ai yu	44	
+爪哇	Javanese	zhǎo wā	zhao wa	31	
+爆炒	Stir fry	bào chǎo	bao chao	43	
+爆殺	Explosive	bào shā	bao sha	41	
+燻肉	bacon	xūn ròu	xun rou	14	
+燴飯	Risotto	huì fàn	hui fan	44	
+燭台	Candlestick	zhú tái	zhu tai	22	
+燕麥	oat	yàn mài	yan mai	44	
+燕巢	Yan nest	yàn cháo	yan chao	42	
+燒餅	Biscuits	shāo bǐng	shao bing	13	
+燒鍋	hot pot	shāo guō	shao guo	11	
+燒酒	Shochu	shāo jiǔ	shao jiu	13	
+燒起	Burn up	shāo qǐ	shao qi	13	
+燒賣	To sell	shāo mai	shao mai	11	
+燒茶	Burning tea	shāo chá	shao cha	12	
+燒片	Burned	shāo piàn	shao pian	14	
+燒燒	Burned	shāo shāo	shao shao	11	
+燒烤	barbecue	shāo kǎo	shao kao	13	
+燒去	Burned	shāo qù	shao qu	14	
+燉魚	Stewed fish	dùn yú	dun yu	42	
+燉雞	Stewed chicken	dùn jī	dun ji	41	
+燉菜	stew	dùn cài	dun cai	44	
+燉肉	stew	dùn ròu	dun rou	44	
+燉煮	Stewed	dùn zhǔ	dun zhu	43	
+熱點	Hot spot	rè diǎn	re dian	43	
+熱飲	Hot drink	rè yǐn	re yin	43	
+熱讚	Hot praise	rè zàn	re zan	44	
+熱能	Heat	rèn éng	ren eng	42	
+熱湯	Hot soup	rè tāng	re tang	41	
+熱戀	Love	rè liàn	re lian	44	
+熱壓	Hot pressing	rè yā	re ya	41	
+熱中	Hot	rè zhòng	re zhong	44	
+熬湯	Boil soup	áo tāng	ao tang	21	
+熟食	Delicatessen	shú shí	shu shi	22	
+熟料	Clinker	shú liào	shu liao	24	
+熟成	ripe	shú chéng	shu cheng	22	
+熔岩	Lava	róng yán	rong yan	22	
+熊本	Kumamoto	xióng běn	xiong ben	23	
+熊手	Bear hand	xióng shǒu	xiong shou	23	
+煮菜	Cooking	zhǔ cài	zhu cai	34	
+煮物	Cook	zhǔ wù	zhu wu	34	
+照護	Care	zhào hù	zhao hu	44	
+煎魚	Fried fish	jiān yú	jian yu	12	
+煎蛋	Omelette	jiān dàn	jian dan	14	
+煎茶	Fried tea	jiān chá	jian cha	12	
+煎肉	Fried meat	jiān ròu	jian rou	14	
+煉乳	condensed milk	liàn rǔ	lian ru	43	
+焦糖	caramel	jiāo táng	jiao tang	12	
+無骨	No bone	wú gǔ	wu gu	23	
+無血	No blood	wú xuè	wu xue	24	
+無蓋	No cover	wú gài	wu gai	24	
+無煙	Smoke free	wú yān	wu yan	21	
+無毒	Non-toxic	wú dú	wu du	22	
+無料	No material	wú liào	wu liao	24	
+焙茶	Roasted tea	bèi chá	bei cha	42	
+焙燒	Roasting	bèi shāo	bei shao	41	
+烹調	Cooking	pēng tiáo	peng tiao	12	
+烤鴨	roast duck	kǎo yā	kao ya	31	
+烤雞	roast chicken	kǎo jī	kao ji	31	
+烤紅	Roasted red	kǎo hóng	kao hong	32	
+烤箱	oven	kǎo xiāng	kao xiang	31	
+烙餅	Pancakes	lào bǐng	lao bing	43	
+烘烤	bake	hōng kǎo	hong kao	13	
+烘培	Baking	hōng péi	hong pei	12	
+烏魚	Mullet	wū yú	wu yu	12	
+烏金	Wujin	wū jīn	wu jin	11	
+烏賊	squid	wū zéi	wu zei	12	
+烏梅	Ebony	wū méi	wu mei	12	
+為限	Limited	wéi xiàn	wei xian	24	
+為你	For you	wèi nǐ	wei ni	43	
+炸魚	Fried fish	zhà yú	zha yu	42	
+炸醬	Fried sauce	zhá jiàng	zha jiang	24	
+炸起	Fried up	zhà qǐ	zha qi	43	
+炸肉	Fried meat	zhà ròu	zha rou	44	
+炸彈	bomb	zhà dàn	zha dan	44	
+炭素	Carbon	tàn sù	tan su	44	
+炭粉	Charcoal powder	tàn fěn	tan fen	43	
+炒麵	Fried noodles	chǎo miàn	chao mian	34	
+炒面	Fried noodles	chǎo miàn	chao mian	34	
+炒豆	Fried beans	chǎo dòu	chao dou	34	
+炒蛋	Scrambled eggs	chǎo dàn	chao dan	34	
+炒菜	Cooking	chǎo cài	chao cai	34	
+炒炒	Fried	chǎo chǎo	chao chao	33	
+炎夏	Summer	yán xià	yan xia	24	
+炊飯	Cooking rice	chuī fàn	chui fan	14	
+灰黑	Gray black	huī hēi	hui hei	11	
+火龍	Fire dragon	huǒ lóng	huo long	32	
+火雞	Turkey	huǒ jī	huo ji	31	
+火辣	Hot	huǒ là	huo la	34	
+火氣	anger	huǒ qì	huo qi	34	
+灣仔	Wan Chai	wān zǐ	wan zi	13	
+​灑	Sprinkle	​ sǎ	​ sa	13	
+瀏海	Banghai	liú hǎi	liu hai	23	
+濾紙	filter paper	lǜ zhǐ	lu zhi	43	
+濾器	filter	lǜ qì	lu qi	44	
+濃郁	Rich	nóng yù	nong yu	24	
+濃茶	Tea	nóng chá	nong cha	22	
+濃縮	concentrate	nóng suō	nong suo	21	
+濃濃	Thick	nóng nóng	nong nong	22	
+濃湯	Soup	nóng tāng	nong tang	21	
+濃度	concentration	nóng dù	nong du	24	
+濃味	Thick flavor	nóng wèi	nong wei	24	
+激辛	Excitement	jī xīn	ji xin	11	
+澱粉	starch	diàn fěn	dian fen	43	
+澎湖	Penghu	pēng hú	peng hu	12	
+潭底	Bottom	tán dǐ	tan di	23	
+潭子	Tamar	tán zi	tan zi	21	
+潤肺	Lungs	rùn fèi	run fei	44	
+潤喉	Throat	rùn hóu	run hou	42	
+漱口	gargle	shù kǒu	shu kou	43	
+漬物	Stains	zì wù	zi wu	44	
+漩渦	swirl	xuán wō	xuan wo	21	
+漣漪	ripple	lián yī	lian yi	21	
+漢方	Kampo	hàn fāng	han fang	41	
+演繹	Deduction	yǎn yì	yan yi	34	
+漂白	bleach	piǎo bái	piao bai	32	
+漂漂	Drift	piào piào	piao piao	44	
+漁翁	Fisherman	yú wēng	yu weng	21	
+漁會	Fishery	yú huì	yu hui	24	
+滿漢	Manchu	mǎn hàn	man han	34	
+滾邊	Piping	gǔn biān	gun bian	31	
+滾輪	Roller	gǔn lún	gun lun	32	
+滾球	Bowls	gǔn qiú	gun qiu	32	
+滷麵	Noodles	lǔ miàn	lu mian	34	
+滷雞	Roast chicken	lǔ jī	lu ji	31	
+滷製	Halogenated	lǔ zhì	lu zhi	34	
+滷蛋	spiced corned egg	lǔ dàn	lu dan	34	
+滷菜	Lucai	lǔ cài	lu cai	34	
+滷汁	Marinade	lǔ zhī	lu zhi	31	
+滷水	brine	lǔ shuǐ	lu shui	33	
+滷味	Lo mei	lǔ wèi	lu wei	34	
+滴滴	Drop	dī dī	di di	11	
+滋補	Nourishing	zī bǔ	zi bu	13	
+滇緬	Burma and Burma	diān miǎn	dian mian	13	
+溶岩	Lava	róng yán	rong yan	22	
+溫體	Temperature body	wēn tǐ	wen ti	13	
+溫馨	Warmth	wēn xīn	wen xin	11	
+溫熱	Warm	wēn rè	wen re	14	
+溫室	greenhouse	wēn shì	wen shi	14	
+溪頭	Creek head	xī tóu	xi tou	12	
+溪湖	Creek Lake	xī hú	xi hu	12	
+溜溜	Yo	liū liū	liu liu	11	
+源順	Source Shun	yuán shùn	yuan shun	24	
+湯麵	Soup noodles	tāng miàn	tang mian	14	
+湯餃	Soup dumplings	tāng jiǎo	tang jiao	13	
+湯頭	Soup head	tāng tóu	tang tou	12	
+湯鍋	Soup pot	tāng guō	tang guo	11	
+湯煎	Soup fried	tāng jiān	tang jian	11	
+湯湯	Soup soup	tāng tāng	tang tang	11	
+湯河	Tanghe	tāng hé	tang he	12	
+湯原	Tang Yuan	tāng yuán	tang yuan	12	
+湛藍	Blue	zhàn lán	zhan lan	42	
+湖南	Hunan	hún án	hun an	22	
+湖北	Hubei	hú běi	hu bei	23	
+湊到	Conspire	còu dào	cou dao	44	
+渾蛋	Bastard	hún dàn	hun dan	24	
+港澳	Hong Kong and Macao	gǎng ào	gang ao	34	
+港式	Hong Kong style	gǎng shì	gang shi	34	
+渡假	Vacation	dù jiǎ	du jia	43	
+減量	Reduction	jiǎn liàng	jian liang	34	
+減肥	lose weight	jiǎn féi	jian fei	32	
+減壓	stress reliever	jiǎn yā	jian ya	31	
+清蒸	Steamed	qīng zhēng	qing zheng	11	
+清茶	Tea	qīng chá	qing cha	12	
+清脆	Crisp	qīng cuì	qing cui	14	
+清爽	Refreshing	qīng shuǎng	qing shuang	13	
+清燉	Clear stew	qīng dùn	qing dun	14	
+清湯	broth	qīng tāng	qing tang	11	
+清油	Clear oil	qīng yóu	qing you	12	
+清查	Inventory	qīng chá	qing cha	12	
+清明	Ching Ming	qīng míng	qing ming	12	
+清心	Pure heart	qīng xīn	qing xin	11	
+清之	Clear it	qīng zhī	qing zhi	11	
+淺黃	Light yellow	qiǎn huáng	qian huang	32	
+淺藍	Light blue	qiǎn lán	qian lan	32	
+淺綠	Light green	qiǎn lǜ	qian lu	34	
+淺紫	Shallow purple	qiǎn zǐ	qian zi	33	
+混血	Mixed race	hùn xiě	hun xie	43	
+混蛋	Bastard	hún dàn	hun dan	24	
+混混	Bullying	hùn hun	hun hun	41	
+混和	Mix	hùn hé	hun he	42	
+深色	Dark	shēn sè	shen se	14	
+深灰	Dark gray	shēn huī	shen hui	11	
+深林	Deep forest	shēn lín	shen lin	12	
+深意	Deep meaning	shēn yì	shen yi	14	
+深情	deep feeling	shēn qíng	shen qing	12	
+深山	Mountains	shēn shān	shen shan	11	
+深層	Deep	shēn céng	shen ceng	12	
+深井	Deep well	shēn jǐng	shen jing	13	
+淨重	net weight	jìng zhòng	jing zhong	44	
+淡雅	Elegant	dàn yǎ	dan ya	43	
+淡菜	Mussels	dàn cài	dan cai	44	
+淡白	Pale	dàn bái	dan bai	42	
+淡淡	Faint	dàn dàn	dan dan	44	
+淑女	Ladies	shū nǚ	shu nu	13	
+涼麵	Cold noodles	liáng miàn	liang mian	24	
+涼糕	Cool cake	liáng gāo	liang gao	21	
+涼粉	Jelly	liáng fěn	liang fen	23	
+涼爽	cool	liáng shuǎng	liang shuang	23	
+涼涼	Cool	liáng liáng	liang liang	22	
+涼拌	Cold mix	liáng bàn	liang ban	24	
+涼感	Cool feeling	liáng gǎn	liang gan	23	
+消遙	Away from	xiāo yáo	xiao yao	12	
+消暑	Refreshing	xiāo shǔ	xiao shu	13	
+消光	extinction	xiāo guāng	xiao guang	11	
+浸泡	soak	jìn pào	jin pao	44	
+海龍	Dragon Dragon	hǎi lóng	hai long	32	
+海鹽	sea ​​salt	hǎi yán	hai yan	32	
+海鲜	seafood	hǎi xiān	hai xian	31	
+海鰻	Sea eel	hǎi mán	hai man	32	
+海魚	Sea fish	hǎi yú	hai yu	32	
+海霧	Sea fog	hǎi wù	hai wu	34	
+海陸	Land and sea	hǎi lù	hai lu	34	
+海路	Sea road	hǎi lù	hai lu	34	
+海賊	Pirates	hǎi zéi	hai zei	32	
+海裡	The sea	hǎi lǐ	hai li	33	
+海蟹	Sea crabs	hǎi xiè	hai xie	34	
+海螺	conch	hǎi luó	hai luo	32	
+海蝦	Shrimp	hǎi xiā	hai xia	31	
+海藻	Seaweed	hǎi zǎo	hai zao	33	
+海葵	sea ​​anemone	hǎi kuí	hai kui	32	
+海菜	seaweed	hǎi cài	hai cai	34	
+海苔	Seaweed	hǎi tái	hai tai	32	
+海膽	sea ​​urchin	hǎi dǎn	hai dan	33	
+海老	Sea old	hǎi lǎo	hai lao	33	
+海神	Poseidon	hǎi shén	hai shen	32	
+海盜	pirate	hǎi dào	hai dao	34	
+海田	Haitian	hǎi tián	hai tian	32	
+海產	Seafood	hǎi chǎn	hai chan	33	
+海獅	Sea lions	hǎi shī	hai shi	31	
+海派	Shanghai faction	hǎi pài	hai pai	34	
+海棠	Begonia	hǎi táng	hai tang	32	
+海捕	Sea catch	hǎi bǔ	hai bu	33	
+海帶	kelp	hǎi dài	hai dai	34	
+海味	Seafood	hǎi wèi	hai wei	34	
+海參	Sea cucumber	hǎi shēn	hai shen	31	
+海参	Sea cucumber	hǎi shēn	hai shen	31	
+海南	Hainan	hǎi nán	hai nan	32	
+海中	Sea	hǎi zhōng	hai zhong	31	
+浴缸	Bathtub	yù gāng	yu gang	41	
+浪人	Rumble	làng rén	lang ren	42	
+浦島	Pu Island	pǔ dǎo	pu dao	33	
+浣熊	Raccoon	huàn xióng	huan xiong	42	
+流蘇	tassel	liú sū	liu su	21	
+流沙	quicksand	liú shā	liu sha	21	
+派司	Send the division	pài sī	pai si	41	
+洽購	Buy	qià gòu	qia gou	44	
+洽詢	Contact	qià xún	qia xun	42	
+活性	active	huó xìng	huo xing	24	
+洞洞	Hole	dòng dòng	dong dong	44	
+洛神	Luo God	luò shén	luo shen	42	
+洛克	Locke	luò kè	luo ke	44	
+洗面	Wash the face	xǐ miàn	xi mian	34	
+洗碗	do the washing up	xǐ wǎn	xi wan	33	
+洗刷	wash	xǐ shuā	xi shua	31	
+洋食	Food	yáng shí	yang shi	22	
+洋風	Windy	yáng fēng	yang feng	21	
+洋裝	Dressing	yáng zhuāng	yang zhuang	21	
+洋蔥	onion	yáng cōng	yang cong	21	
+洋菜	agar	yáng cài	yang cai	24	
+洋菇	Mushroom	yáng gū	yang gu	21	
+洋芋	Potatoes	yáng yù	yang yu	24	
+洋梨	Pear	yáng lí	yang li	22	
+泰秀	Thai show	tài xiù	tai xiu	44	
+泰北	Northeast	tài běi	tai bei	43	
+泰勒	Taylor	tài lēi	tai lei	41	
+注明	Specify	zhù míng	zhu ming	42	
+泥球	Mud ball	ní qiú	ni qiu	22	
+泥炭	peat	ní tàn	ni tan	24	
+波特	Porter	bō tè	bo te	14	
+波根	Pogan	bōgēn	bogen	1	
+波昂	Boon	bō áng	bo ang	12	
+泡麵	Instant noodles	pào miàn	pao mian	44	
+泡飯	Rice	pào fàn	pao fan	44	
+泡菜	pickle	pào cài	pao cai	44	
+泡芙	Puffs	pào fú	pao fu	42	
+泡綿	Foam	pào mián	pao mian	42	
+泡澡	Bathing	pào zǎo	pao zao	43	
+泡泡	Bubble	pào pào	pao pao	44	
+法蘭	Flange	fǎ lán	fa lan	32	
+法式	French	fà shì	fa shi	44	
+油麵	Oil surface	yóu miàn	you mian	24	
+油飯	Oil rice	yóu fàn	you fan	24	
+油菜	rape	yóu cài	you cai	24	
+油膏	ointment	yóu gāo	you gao	21	
+油炸	Fried	yóu zhá	you zha	22	
+油漬	Grease	yóu zì	you zi	24	
+油木	Oil wood	yóu mù	you mu	24	
+油揚	Yulian	yóu yáng	you yang	22	
+油性	Oily	yóu xìng	you xing	24	
+河馬	hippo	hé mǎ	he ma	23	
+河豚	Puffer fish	hé tún	he tun	22	
+沙魚	Sand fish	shā yú	sha yu	12	
+沙鍋	casserole	shā guō	sha guo	11	
+沙茶	Sand tea	shā chá	sha cha	12	
+沙士	SARS	shā shì	sha shi	14	
+沙包	Sandbags	shā bāo	sha bao	11	
+沖繩	Okinawa	chōng shéng	chong sheng	12	
+沖澡	Take a shower	chōng zǎo	chong zao	13	
+沖泡	Brewing	chōng pào	chong pao	14	
+沒附	Not attached	méi fù	mei fu	24	
+沒變	Unchanged	méi biàn	mei bian	24	
+沒空	No time	méi kōng	mei kong	21	
+沏茶	Tea making	qī chá	qi cha	12	
+沈香	Incense	chén xiāng	chen xiang	21	
+池田	Ikeda	chí tián	chi tian	22	
+江浙	Jiangsu and Zhejiang	jiāng zhè	jiang zhe	14	
+江上	On the river	jiāng shàng	jiang shang	14	
+汐止	Tide	xī zhǐ	xi zhi	13	
+水魚	Water fish	shuǐ yú	shui yu	32	
+水飴	Water jelly	shuǐ yí	shui yi	32	
+水里	Water	shuǐ lǐ	shui li	33	
+水解	hydrolysis	shuǐ jiě	shui jie	33	
+水耕	Water plowing	shuǐ gēng	shui geng	31	
+水管	Water pipes	shuǐ guǎn	shui guan	33	
+水磨	Water mill	shuǐ mó	shui mo	32	
+水盆	basin	shuǐ pén	shui pen	32	
+水牛	buffalo	shuǐ niú	shui niu	32	
+水滴	Water droplets	shuǐ dī	shui di	31	
+水波	Water waves	shuǐ bō	shui bo	31	
+水槍	water gun	shuǐ qiāng	shui qiang	31	
+水梨	Water pear	shuǐ lí	shui li	32	
+水杯	Cups	shuǐ bēi	shui bei	31	
+水星	Mercury	shuǐ xīng	shui xing	31	
+水彩	watercolor	shuǐ cǎi	shui cai	33	
+水壺	kettle	shuǐ hú	shui hu	32	
+水垢	Scale	shuǐ gòu	shui gou	34	
+水保	Water conservation	shuǐ bǎo	shui bao	33	
+水份	Water	shuǐ fèn	shui fen	34	
+水仙	Narcissus	shuǐ xiān	shui xian	31	
+水亮	Water bright	shuǐ liàng	shui liang	34	
+氧化	Oxidation	yǎng huà	yang hua	34	
+氣質	temperament	qì zhí	qi zhi	42	
+氣泡	bubble	qì pào	qi pao	44	
+氣墊	air cushion	qì diàn	qi dian	44	
+民宿	Bed and breakfast	mín sù	min su	24	
+毽子	Shuttlecock	jiàn zi	jian zi	41	
+毫升	Ml	háo shēng	hao sheng	21	
+毛頭	Head	máo tóu	mao tou	22	
+毛豬	Hair pig	máo zhū	mao zhu	21	
+毛豆	Soybeans	máo dòu	mao dou	24	
+毛蟹	Hairy crabs	máo xiè	mao xie	24	
+毛毛	Plush	máo mao	mao mao	21	
+毛料	Wool	máo liào	mao liao	24	
+毛孔	Pores	máo kǒng	mao kong	23	
+比照	Cf	bǐ zhào	bi zhao	34	
+每罐	Per can	měi guàn	mei guan	34	
+每粒	Each grain	měi lì	mei li	34	
+每箱	Each box	měi xiāng	mei xiang	31	
+每碗	Each bowl	měi wǎn	mei wan	33	
+每瓶	Per bottle	měi píng	mei ping	32	
+每斤	Per catty	měi jīn	mei jin	31	
+每排	Each row	měi pái	mei pai	32	
+每套	Each set	měi tào	mei tao	34	
+每周	weekly	měi zhōu	mei zhou	31	
+每人	Per person	měi rén	mei ren	32	
+母魚	Mother fish	mǔ yú	mu yu	32	
+母奶	Mother milk	mǔ nǎi	mu nai	33	
+母乳	Breast milk	mǔ rǔ	mu ru	33	
+殺菌	Sterilization	shā jùn	sha jun	14	
+武則	Wu Zeyi	wǔ zé	wu ze	32	
+步鞋	Footwear	bù xié	bu xie	42	
+正餐	Dinner	zhèng cān	zheng can	41	
+正版	Genuine	zhèng bǎn	zheng ban	43	
+正宗	Authentic	zhèng zōng	zheng zong	41	
+正味	Positive flavor	zhèng wèi	zheng wei	44	
+正一	Positive one	zhèng yī	zheng yi	41	
+歐風	European style	ōu fēng	ou feng	11	
+歐陸	Europe	ōu lù	ou lu	14	
+歐盟	The European Union	ōu méng	ou meng	12	
+歐式	European style	ōu shì	ou shi	14	
+歐姆	ohm	ōu mǔ	ou mu	13	
+歇業	Out of business	xiē yè	xie ye	14	
+欣悅	Joyful	xīn yuè	xin yue	14	
+檸檸	Lemon	níng níng	ning ning	22	
+檸檬	lemon	níng méng	ning meng	22	
+檢測	Detection	jiǎn cè	jian ce	34	
+檜木	Cypress	guì mù	gui mu	44	
+檔期	Schedule	dàng qī	dang qi	41	
+檀香	sandalwood	tán xiāng	tan xiang	21	
+橫濱	Yokohama	hèng bīn	heng bin	41	
+橫山	Yokoyama	héng shān	heng shan	21	
+橢圓	oval	tuǒ yuán	tuo yuan	32	
+機油	Oil	jī yóu	ji you	12	
+橙黃	Orange	chéng huáng	cheng huang	22	
+橙色	Orange	chéng sè	cheng se	24	
+橙皮	Orange peel	chéng pí	cheng pi	22	
+橙汁	Orange juice	chéng zhī	cheng zhi	21	
+橘色	Orange	jú sè	ju se	24	
+橘紅	Orange	jú hóng	ju hong	22	
+橋田	Bridge field	qiáo tián	qiao tian	22	
+橋牌	Bridge	qiáo pái	qiao pai	22	
+樱桃	Cherry	yīng táo	ying tao	12	
+樣張	Proofs	yàng zhāng	yang zhang	41	
+樟腦	Camphor	zhāng nǎo	zhang nao	13	
+樂透	Lotto	lè tòu	le tou	44	
+樂見	Happy to see	lè jiàn	le jian	44	
+樂章	Movement	yuè zhāng	yue zhang	41	
+樂天	Rakuten	lè tiān	le tian	41	
+榴蓮	Durian	liú lián	liu lian	22	
+榴槤	Durian	liú lián	liu lian	22	
+榨菜	Mustard	zhà cài	zha cai	44	
+榨乾	Drained	zhà gān	zha gan	41	
+極道	Road	jí dào	ji dao	24	
+極致	The ultimate	jí zhì	ji zhi	24	
+極細	Very fine	jí xì	ji xi	24	
+極地	Polar	jí dì	ji di	24	
+極品	Need	jí pǐn	ji pin	23	
+極光	aurora	jí guāng	ji guang	21	
+極上	Pole	jí shàng	ji shang	24	
+楓葉	Maple Leaf	fēng yè	feng ye	14	
+楓糖	Maple sugar	fēng táng	feng tang	12	
+楊梅	Yangmei	yáng méi	yang mei	22	
+楊桃	Carambola	yáng táo	yang tao	22	
+楊枝	Yang Zhi	yáng zhī	yang zhi	21	
+椹原	Muluyuan	shèn yuán	shen yuan	42	
+椰肉	Coconut meat	yē ròu	ye rou	14	
+椰棗	Dates	yē zǎo	ye zao	13	
+椰子	coconut	yē zi	ye zi	11	
+椒鹽	Salt and pepper	jiāo yán	jiao yan	12	
+椎骨	vertebra	chuí gǔ	chui gu	23	
+椅背	Chair back	yǐ bèi	yi bei	34	
+森田	Morita	sēn tián	sen tian	12	
+森永	Sen Yong	sēn yǒng	sen yong	13	
+森森	dense	sēn sēn	sen sen	11	
+棗泥	Jujube mud	zǎo ní	zao ni	32	
+棗子	Date	zǎo zi	zao zi	31	
+棕色	brown	zōng sè	zong se	14	
+棋盤	checkerboard	qí pán	qi pan	22	
+棉質	Cotton	mián zhì	mian zhi	24	
+棉布	cotton	mián bù	mian bu	24	
+梵谷	Van Gogh	fàn gǔ	fan gu	43	
+梭魚	pike	suō yú	suo yu	12	
+梭哈	Stud	suō hā	suo ha	11	
+梨香	Pear incense	lí xiāng	li xiang	21	
+梨沙	Pear sand	lí shā	li sha	21	
+梨果	Pear fruit	lí guǒ	li guo	23	
+梨山	Lishan	lí shān	li shan	21	
+梟雄	Dignity	xiāo xióng	xiao xiong	12	
+條狀	Stripes	tiáo zhuàng	tiao zhuang	24	
+條形	Bar	tiáo xíng	tiao xing	22	
+梅香	Mei Xiang	méi xiāng	mei xiang	21	
+梅酒	Plum wine	méi jiǔ	mei jiu	23	
+梅爾	Mel	méi ěr	mei er	23	
+梅漬	Plum stains	méi zì	mei zi	24	
+梅汁	Plum juice	méi zhī	mei zhi	21	
+梅林	Merlin	méi lín	mei lin	22	
+梅干	prune	méi gān	mei gan	21	
+梅地	Plum	méi de	mei de	21	
+梅園	Plum garden	méi yuán	mei yuan	22	
+桶裝	Bottled	tǒng zhuāng	tong zhuang	31	
+桶子	Bucket	tǒng zi	tong zi	31	
+桔紅	Orange	jú hóng	ju hong	22	
+桑葚	Mulberry	sāng rèn	sang ren	14	
+桌面	desktop	zhuō miàn	zhuo mian	14	
+桃葉	Peach leaves	táo yè	tao ye	24	
+桃花	Peach blossom	táo huā	tao hua	21	
+桃紅	pink	táo hóng	tao hong	22	
+桃木	Peach	táo mù	tao mu	24	
+桃山	Momoyama	táo shān	tao shan	21	
+桂香	cinnamon	guì xiāng	gui xiang	41	
+桂葉	Grass leaves	guì yè	gui ye	44	
+桂花	Osmanthus	guì huā	gui hua	41	
+桂圓	Longan	guì yuán	gui yuan	42	
+桂園	Guiyuan	guì yuán	gui yuan	42	
+桂冠	Laurel	guì guàn	gui guan	44	
+格格	Princess	gé gé	ge ge	22	
+根菜	Root vegetables	gēn cài	gen cai	14	
+核果	Core fruit	hé guǒ	he guo	23	
+核仁	Nucleolus	hé rén	he ren	22	
+栗子	chestnut	lì zǐ	li zi	43	
+柿餅	Persimmon	shì bǐng	shi bing	43	
+柿霜	Persimmon cream	shì shuāng	shi shuang	41	
+柿子	persimmon	shì zi	shi zi	41	
+柳葉	Willow	liǔ yè	liu ye	34	
+柳條	wicker	liǔ tiáo	liu tiao	32	
+柳井	Yanjing	liǔ jǐng	liu jing	33	
+柳丁	Liu Ding	liǔ dīng	liu ding	31	
+查理	Charlie	chá lǐ	cha li	23	
+柚木	Teak	yòu mù	you mu	44	
+柚子	grapefruit	yòu zi	you zi	41	
+柔情	tenderness	róu qíng	rou qing	22	
+柔嫩	Soft and tender	róu nèn	rou nen	24	
+柑橘	Tangerine	gān jú	gan ju	12	
+柑桔	Citrus	gān jú	gan ju	12	
+柏林	Berlin	bó lín	bo lin	22	
+枸杞	Wolfberry	gǒu qǐ	gou qi	33	
+果醬	jam	guǒ jiàng	guo jiang	34	
+果酸	Acid	guǒ suān	guo suan	31	
+果菜	Fruit and vegetable	guǒ cài	guo cai	34	
+果肉	pulp	guǒ ròu	guo rou	34	
+果糖	fructose	guǒ táng	guo tang	32	
+果敢	Bold	guǒ gǎn	guo gan	33	
+果凍	jelly	guǒ dòng	guo dong	34	
+果仁	Nuts	guǒ rén	guo ren	32	
+林口	Linkou	lín kǒu	lin kou	23	
+枋寮	Fangliao	fāng liáo	fang liao	12	
+枇杷	Loquat	pí pá	pi pa	22	
+板橋	Board bridge	bǎn qiáo	ban qiao	32	
+板栗	Chestnut	bǎn lì	ban li	34	
+松鼠	squirrel	sōng shǔ	song shu	13	
+松露	Truffles	sōng lù	song lu	14	
+松阪	Matsusaka	sōng bǎn	song ban	13	
+松針	Pine needles	sōng zhēn	song zhen	11	
+松葉	Pine leaves	sōng yè	song ye	14	
+松花	Songhua	sōng huā	song hua	11	
+松柏	Pine and cypress	sōng bǎi	song bai	13	
+松村	Pine village	sōng cūn	song cun	11	
+松本	Matsumoto	sōng běn	song ben	13	
+松木	Pine	sōng mù	song mu	14	
+松尾	Matsuo	sōng wěi	song wei	13	
+松子	Pine nuts	sōng zǐ	song zi	13	
+松坂	Matsuzaka	sōng bǎn	song ban	13	
+松友	Songyou	sōng yǒu	song you	13	
+東風	Dongfeng	dōng fēng	dong feng	11	
+東都	East are	dōng dū	dong du	11	
+東洋	Toyo	dōng yáng	dong yang	12	
+東河	East River	dōng hé	dong he	12	
+東城	Dongcheng	dōng chéng	dong cheng	12	
+東坡	Dongpo	dōng pō	dong po	11	
+東京	Tokyo	dōng jīng	dong jing	11	
+束腹	Corset	shù fù	shu fu	44	
+村野	Village	cūn yě	cun ye	13	
+材質	Material	cái zhì	cai zhi	24	
+杏菜	Apricot	xìng cài	xing cai	44	
+杏核	Apricot	xìng hé	xing he	42	
+杏果	Apricot fruit	xìng guǒ	xing guo	43	
+李家	Lee	lǐ jiā	li jia	31	
+李子	Plum	lǐ zǐ	li zi	33	
+朵朵	Blossoming	duǒ duǒ	duo duo	33	
+朱雀	Suzaku	zhū què	zhu que	14	
+朱肉	Meat	zhū ròu	zhu rou	14	
+札幌	Sapporo	zháhuǎng	zhahuang	2	
+本色	True color	běn sè	ben se	34	
+本次	this time	běn cì	ben ci	34	
+本格	Ben grid	běn gé	ben ge	32	
+本店	OUR	běn diàn	ben dian	34	
+本季	This season	běn jì	ben ji	34	
+末代	The last generation	mò dài	mo dai	44	
+未附	Not attached	wèi fù	wei fu	44	
+未定	Undecided	wèi dìng	wei ding	44	
+木須	Woody	mù xū	mu xu	41	
+木蘭	Magnolia	mù lán	mu lan	42	
+木葉	Wood leaves	mù yè	mu ye	44	
+木片	Wood chips	mù piàn	mu pian	44	
+木炭	charcoal	mù tàn	mu tan	44	
+木槿	Hibiscus	mù jǐn	mu jin	43	
+木槌	Mallet	mù chuí	mu chui	42	
+木棉	Kapok	mù mián	mu mian	42	
+木星	Jupiter	mù xīng	mu xing	41	
+朝貢	Tribute	cháo gòng	chao gong	24	
+朝日	Asahi	zhāo rì	zhao ri	14	
+朝天	Overturned	cháo tiān	chao tian	21	
+有蓋	Covered	yǒu gài	you gai	34	
+有田	There is field	yǒu tián	you tian	32	
+有氧	Aerobic	yǒu yǎng	you yang	33	
+有情	Affectionate	yǒu qíng	you qing	32	
+有夠	There is enough	yǒu gòu	you gou	34	
+有加	There is a plus	yǒu jiā	you jia	31	
+​有	There is	​ yǒu	​ you	13	
+月桂	Laurel	yuè guì	yue gui	44	
+月曆	Calendar	yuè lì	yue li	44	
+會動	Will move	huì dòng	hui dong	44	
+最低	lowest	zuì dī	zui di	41	
+曾任	Previously	céng rèn	ceng ren	24	
+曼谷	Bangkok	màn gǔ	man gu	43	
+曹植	Cao Zhi	cáo zhí	cao zhi	22	
+曹操	Cao Cao	cáo cāo	cao cao	21	
+曹丕	Cao Pi	cáo pī	cao pi	21	
+更名	Renamed	gēng míng	geng ming	12	
+暹羅	Siam	xiān luó	xian luo	12	
+暫無	No time	zàn wú	zan wu	42	
+暫停	time out	zàn tíng	zan ting	42	
+暖冬	Warm winter	nuǎn dōng	nuan dong	31	
+晶圓	Wafer	jīng yuán	jing yuan	12	
+景山	Jingshan	jǐng shān	jing shan	31	
+普陀	Putuo	pǔ tuó	pu tuo	32	
+普羅	Pro	pǔ luó	pu luo	32	
+普爾	Poole	pǔ ěr	pu er	33	
+晨間	Morning	chén jiān	chen jian	21	
+晚霜	Night cream	wǎn shuāng	wan shuang	31	
+時速	Speed	shí sù	shi su	24	
+時計	Time meter	shí jì	shi ji	24	
+時段	Time period	shí duàn	shi duan	24	
+時尚	fashion	shí shàng	shi shang	24	
+昭和	Showa	zhāo hé	zhao he	12	
+春露	Spring dew	chūn lù	chun lu	14	
+春菊	Chrysanthemum	chūn jú	chun ju	12	
+春茶	Spring tea	chūn chá	chun cha	12	
+春秋	Spring and Autumn	chūn qiū	chun qiu	11	
+春捲	Spring rolls	chūn juǎn	chun juan	13	
+春川	Chuncheon	chūn chuān	chun chuan	11	
+春卷	Spring rolls	chūn juǎn	chun juan	13	
+春之	Spring	chūn zhī	chun zhi	11	
+星號	Asterisk	xīng hào	xing hao	14	
+星空	Stars	xīng kōng	xing kong	11	
+星球	Planet	xīng qiú	xing qiu	12	
+星洲	Star Island	xīng zhōu	xing zhou	11	
+明記	Ming mind	míng jì	ming ji	24	
+明蝦	prawn	míng xiā	ming xia	21	
+明細	Details	míng xì	ming xi	24	
+明眸	Bright eyes	míng móu	ming mou	22	
+明子	Akiko	míng zi	ming zi	21	
+昆布	Khumbu	kūn bù	kun bu	14	
+旺旺	Want Want	wàng wàng	wang wang	44	
+旭川	Asahikawa	xù chuān	xu chuan	41	
+早苗	Early seedlings	zǎo miáo	zao miao	32	
+日誌	Log	rì zhì	ri zhi	44	
+日系	Japanese	rì xì	ri xi	44	
+日曬	Sun	rì shài	ri shai	44	
+日幣	Japanese yen	rì bì	ri bi	44	
+日報	daily	rì bào	ri bao	44	
+日圓	Yen	rì yuán	ri yuan	42	
+旗魚	swordfish	qí yú	qi yu	22	
+旗艦	flagship	qí jiàn	qi jian	24	
+旗山	Qishan	qí shān	qi shan	21	
+族繁	Ethnicity	zú fán	zu fan	22	
+方塊	Box	fāng kuài	fang kuai	14	
+新進	New	xīn jìn	xin jin	14	
+新貨	new goods	xīn huò	xin huo	14	
+新裝	New equipment	xīn zhuāng	xin zhuang	11	
+新茶	New tea	xīn chá	xin cha	12	
+新知	New knowledge	xīn zhī	xin zhi	11	
+新疆	Xinjiang	xīn jiāng	xin jiang	11	
+新版	New version	xīn bǎn	xin ban	13	
+新片	New film	xīn piàn	xin pian	14	
+新歡	New love	xīn huān	xin huan	11	
+新星	Star	xīn xīng	xin xing	11	
+新屋	New house	xīn wū	xin wu	11	
+新型	New type	xīn xíng	xin xing	12	
+新品	New product	xīn pǐn	xin pin	13	
+新八	New eight	xīn bā	xin ba	11	
+斯頓	Stonton	sī dùn	si dun	14	
+斯堡	Fort	sī bǎo	si bao	13	
+斜角	bevel	xié jiǎo	xie jiao	23	
+斗六	Fight six	dòu liù	dou liu	44	
+斑魚	Spotted fish	bān yú	ban yu	12	
+文治	Wenzhi	wén zhì	wen zhi	24	
+文旦	Wendan	wén dàn	wen dan	24	
+數十	Dozens	shù shí	shu shi	42	
+敷面	Fumian	fū miàn	fu mian	14	
+敷臉	Attaining	fū liǎn	fu lian	13	
+整顆	Whole	zhěng kē	zheng ke	31	
+整粒	Whole grain	zhěng lì	zheng li	34	
+整箱	FCL	zhěng xiāng	zheng xiang	31	
+整盒	The whole box	zhěng hé	zheng he	32	
+整枝	Pruning	zhěng zhī	zheng zhi	31	
+整人	Whole people	zhěng rén	zheng ren	32	
+敬請	Please	jìng qǐng	jing qing	43	
+散裝	In bulk	sǎn zhuāng	san zhuang	31	
+散熱	Heat dissipation	sàn rè	san re	44	
+散光	astigmatism	sàn guāng	san guang	41	
+教程	Tutorial	jiào chéng	jiao cheng	42	
+教本	Teach this	jiào běn	jiao ben	43	
+救星	Savior	jiù xīng	jiu xing	41	
+救急	Emergency	jiù jí	jiu ji	42	
+救兵	reinforcement	jiù bīng	jiu bing	41	
+改用	Switch to use	gǎi yòng	gai yong	34	
+改到	Change to	gǎi dào	gai dao	34	
+攜帶	carry	xié dài	xie dai	24	
+擺夷	Pendulum	bǎi yí	bai yi	32	
+撲鼻	Nostrils	pū bí	pu bi	12	
+撲滿	Flotted	pū mǎn	pu man	13	
+撞球	Billiards	zhuàng qiú	zhuang qiu	42	
+摩起	Mo from	mó qǐ	mo qi	23	
+搶購	Snapped up	qiǎng gòu	qiang gou	34	
+搭好	Take a good job	dā hǎo	da hao	13	
+搭上	Catch it	dā shàng	da shang	14	
+搥背	Hammer back	chuí bèi	chui bei	24	
+搞砸	Screw up	gǎo zá	gao za	32	
+搗蛋	Mischief	dǎo dàn	dao dan	34	
+搖滾	Rocking	yáo gǔn	yao gun	23	
+揚物	Creatures	yáng wù	yang wu	24	
+揚げ	Yang げ	yáng ge	yang ge	21	
+插頭	plug	chā tóu	cha tou	12	
+插座	socket	chā zuò	cha zuo	14	
+提重	Pay attention to	tí zhòng	ti zhong	24	
+提貨	Pick up	tí huò	ti huo	24	
+提袋	Bag	tí dài	ti dai	24	
+提籃	Basket	tí lán	ti lan	22	
+提神	Refreshing	tí shén	ti shen	22	
+提盒	Box	tí hé	ti he	22	
+提燈	Lanterns	tí dēng	ti deng	21	
+揉合	Blend together	róu hé	rou he	22	
+推車	Carts	tuī chē	tui che	11	
+推桿	Putt	tuī gǎn	tui gan	13	
+推拿	Massage	tuī ná	tui na	12	
+探花	Third choice	tàn huā	tan hua	41	
+採茶	Picking tea	cǎi chá	cai cha	32	
+掛鐘	wall clock	guà zhōng	gua zhong	41	
+掛鉤	hook up	guà gōu	gua gou	41	
+掛勾	Hooks	guà gōu	gua gou	41	
+排骨	Ribs	pái gǔ	pai gu	23	
+排起	Lined up	pái qǐ	pai qi	23	
+排灣	Paiwan	pái wān	pai wan	21	
+排定	Scheduled	pái dìng	pai ding	24	
+排便	Defecation	pái biàn	pai bian	24	
+掃描	scanning	sǎo miáo	sao miao	32	
+捲筒	reel	juǎn tǒng	juan tong	33	
+捲煙	cigarette	juǎn yān	juan yan	31	
+捲尺	tape measure	juǎn chǐ	juan chi	33	
+捏合	Kneading	niē hé	nie he	12	
+挫冰	Ice setback	cuò bīng	cuo bing	41	
+按壓	Press	àn yā	an ya	41	
+指環	ring	zhǐ huán	zhi huan	32	
+拼貼	Collage	pīn tiē	pin tie	11	
+拼盤	Platter	pīn pán	pin pan	12	
+拼圖	Puzzle	pīn tú	pin tu	12	
+拼合	Flattened	pīn hé	pin he	12	
+拖把	mop	tuō bǎ	tuo ba	13	
+拐杖	crutch	guǎi zhàng	guai zhang	34	
+拋光	polishing	pāo guāng	pao guang	11	
+拉麵	Ramen	lā miàn	la mian	14	
+拉鍊	zipper	lā liàn	la lian	14	
+拉絲	Drawing	lā sī	la si	11	
+拉皮	Lapi	lā pí	la pi	12	
+拉桿	Rods	lā gǎn	la gan	13	
+抽絲	Spinning	chōu sī	chou si	11	
+抹香	Wiping incense	mǒ xiāng	mo xiang	31	
+抹茶	Green tea	mǒ chá	mo cha	32	
+抹布	rag	mā bù	ma bu	14	
+抱抱	Hugged	bào bào	bao bao	44	
+披薩	Pizza	pī sà	pi sa	14	
+折抵	Discounted	zhé dǐ	zhe di	23	
+折價	Discount	zhé jià	zhe jia	24	
+抗菌	Antibacterial	kàng jùn	kang jun	44	
+抗癌	Anti-cancer	kàng ái	kang ai	42	
+抗壓	Compressive	kàng yā	kang ya	41	
+投籃	Shots	tóu lán	tou lan	22	
+抄手	Replicas	chāo shǒu	chao shou	13	
+批次	batch	pī cì	pi ci	14	
+扶桑	Hibiscus	fú sāng	fu sang	21	
+扣子	button	kòu zi	kou zi	41	
+托盤	tray	tuō pán	tuo pan	12	
+打鐵	Blacksmith	dǎ tiě	da tie	33	
+打底	Rendering	dǎ dǐ	da di	33	
+打嗝	Hiccups	dǎ gé	da ge	32	
+打卡	Punch card	dǎ kǎ	da ka	33	
+扎實	solid	zhā shi	zha shi	11	
+手邊	Hand side	shǒu biān	shou bian	31	
+手製	handmade	shǒu zhì	shou zhi	34	
+手羽	Hand feathers	shǒu yǔ	shou yu	33	
+手環	wristband	shǒu huán	shou huan	32	
+手洗	Hand wash	shǒu xǐ	shou xi	33	
+手札	Hand	shǒu zhá	shou zha	32	
+手拿	Holding hands	shǒu ná	shou na	32	
+手感	Feel	shǒu gǎn	shou gan	33	
+扇雀	Fan bird	shàn què	shan que	44	
+扇形	sector	shàn xíng	shan xing	42	
+扁食	Flat food	biǎn shi	bian shi	31	
+扁柏	Cypress	biǎn bǎi	bian bai	33	
+所長	The director	suǒ cháng	suo chang	32	
+戳戳	Poke	chuō chuō	chuo chuo	11	
+戰神	Mars	zhàn shén	zhan shen	42	
+我要	I need to	wǒ yào	wo yao	34	
+我是	I'm	wǒ shì	wo shi	34	
+我家	my home	wǒ jiā	wo jia	31	
+我又	Me again	wǒ yòu	wo you	34	
+我不	I do not	wǒ bù	wo bu	34	
+成套	Complete sets	chéng tào	cheng tao	24	
+成份	Ingredients	chéng fèn	cheng fen	24	
+戀曲	Love song	liàn qū	lian qu	41	
+戀情	Romance	liàn qíng	lian qing	42	
+戀人	Lovers	liàn rén	lian ren	42	
+懷舊	Nostalgia	huái jiù	huai jiu	24	
+懷古	Nostalgia	huái gǔ	huai gu	23	
+懶懶	Lazy	lǎn lǎn	lan lan	33	
+慧星	Comet	huì xīng	hui xing	41	
+慣行	Custom	guàn xíng	guan xing	42	
+感應	induction	gǎn yìng	gan ying	34	
+感度	Sensitivity	gǎn dù	gan du	34	
+愛吃	Love to eat	ài chī	ai chi	41	
+愛上	Fell in love	ài shàng	ai shang	44	
+意麵	pasta	yì miàn	yi mian	44	
+惡魔	demon	è mó	e mo	42	
+惜福	Xi Fu	xī fú	xi fu	12	
+情懷	feelings	qíng huái	qing huai	22	
+情意	affection	qíng yì	qing yi	24	
+悠悠	long	yōu yōu	you you	11	
+恋人	Lovers	liàn rén	lian ren	42	
+性感	Sexy	xìng gǎn	xing gan	43	
+念念	Obsessed	niàn niàn	nian nian	44	
+快餐	fast food	kuài cān	kuai can	41	
+快車	express train	kuài chē	kuai che	41	
+快乾	Quick to dry	kuài gān	kuai gan	41	
+忠武	Zhongwu	zhōng wǔ	zhong wu	13	
+忘憂	Forgetfulness	wàng yōu	wang you	41	
+心細	Cautious	xīn xì	xin xi	14	
+心機	Effort	xīn jī	xin ji	11	
+心智	Mind	xīn zhì	xin zhi	14	
+心包	Pericardium	xīn bāo	xin bao	11	
+德文	German	dé wén	de wen	22	
+微醺	Drunk	wéi xūn	wei xun	21	
+微調	Fine tune	wéi tiáo	wei tiao	22	
+微波	microwave	wéi bō	wei bo	21	
+微晶	Microcrystalline	wéi jīng	wei jing	21	
+微型	miniature	wéi xíng	wei xing	22	
+微光	Shimmer	wéi guāng	wei guang	21	
+復古	Retro	fù gǔ	fu gu	43	
+復刻	Engraved engraved	fù kè	fu ke	44	
+御香	Royal fragrance	yù xiāng	yu xiang	41	
+御飯	Rice	yù fàn	yu fan	44	
+御堂	Royal Church	yù táng	yu tang	42	
+得利	Profit	dé lì	de li	24	
+後段	final part	hòu duàn	hou duan	44	
+後山	After the mountain	hòu shān	hou shan	41	
+後埔	After Po	hòu bù	hou bu	44	
+很香	good smell	hěn xiāng	hen xiang	31	
+很會	Will be	hěn huì	hen hui	34	
+很愛	Love it	hěn ài	hen ai	34	
+很小	Very small	hěn xiǎo	hen xiao	33	
+很像	Much like that	hěn xiàng	hen xiang	34	
+往下	down	wǎng xià	wang xia	34	
+影城	Studios	yǐng chéng	ying cheng	32	
+彩雲	Clouds	cǎi yún	cai yun	32	
+彌月	The moon	mí yuè	mi yue	24	
+彈珠	Marbles	dàn zhū	dan zhu	41	
+彈力	Elasticity	tán lì	tan li	24	
+強身	Physical	qiáng shēn	qiang shen	21	
+強打	Strong fight	qiáng dǎ	qiang da	23	
+弘前	Hiroshi	hóng qián	hong qian	22	
+弁当	Benten	biàn dāng	bian dang	41	
+廣記	Wide record	guǎng jì	guang ji	34	
+廣東	Guangdong	guǎng dōng	guang dong	31	
+廣島	Hiroshima	guǎng dǎo	guang dao	33	
+廠長	Director	chǎng zhǎng	chang zhang	33	
+廟口	Temple mouth	miào kǒu	miao kou	43	
+廚櫃	Kitchen cabinets	chú guì	chu gui	24	
+康熙	Kangxi	kāng xī	kang xi	11	
+座標	coordinate	zuò biāo	zuo biao	41	
+座椅	Seat	zuò yǐ	zuo yi	43	
+府城	City	fǔ chéng	fu cheng	32	
+店面	Storefront	diàn miàn	dian mian	44	
+店長	Manager	diàn zhǎng	dian zhang	43	
+店舖	Shop	diàn pù	dian pu	44	
+店家	Store	diàn jiā	dian jia	41	
+店名	Name of the store	diàn míng	dian ming	42	
+底止	At the end	dǐ zhǐ	di zhi	33	
+序號	Serial number	xù hào	xu hao	44	
+床罩	Bedspreads	chuáng zhào	chuang zhao	24	
+床墊	mattress	chuáng diàn	chuang dian	24	
+庄園	manor	zhuāng yuán	zhuang yuan	12	
+幾何	geometry	jǐ hé	ji he	32	
+幽香	delicate fragrance	yōu xiāng	you xiang	11	
+幽浮	UFO	yōu fú	you fu	12	
+幻夢	Dreaming	huàn mèng	huan meng	44	
+年輪	Rings	nián lún	nian lun	22	
+年糕	Rice cake	niáng āo	niang ao	21	
+年曆	Almanac	nián lì	nian li	24	
+年度	year	nián dù	nian du	24	
+平西	Pingxi	píng xī	ping xi	21	
+平裝	paperback	píng zhuāng	ping zhuang	21	
+平米	Square meters	píng mǐ	ping mi	23	
+平滑	smooth	píng huá	ping hua	22	
+平價	parity	píng jià	ping jia	24	
+干貝	Scallops	gān bèi	gan bei	14	
+干果	dried fruit	gān guǒ	gan guo	13	
+幕府	Shogunate	mù fǔ	mu fu	43	
+常溫	Room temperature	cháng wēn	chang wen	21	
+常態	normal	cháng tài	chang tai	24	
+帶點	A little bit	dài diǎn	dai dian	43	
+帶起	Bring up	dài qǐ	dai qi	43	
+帝王	emperor	dì wáng	di wang	42	
+帆船	sailboat	fān chuán	fan chuan	12	
+帆布	canvas	fān bù	fan bu	14	
+布雷	Mine	bù léi	bu lei	42	
+布里	Brie	bù lǐ	bu li	43	
+布袋	Bag	bù dài	bu dai	44	
+布穀	Valley	bù gǔ	bu gu	43	
+布朗	Brown	bù lǎng	bu lang	43	
+布希	Bush	bù xī	bu xi	41	
+布偶	Puppet	bù ǒu	bu ou	43	
+布丁	pudding	bù dīng	bu ding	41	
+巴黎	Paris	bā lí	ba li	12	
+巴里	Barry	bā lǐ	ba li	13	
+差價	Difference	chā jià	cha jia	14	
+巨峰	Kyoho	jù fēng	ju feng	41	
+巧手	Skillful	qiǎo shǒu	qiao shou	33	
+左岸	Left bank	zuǒ àn	zuo an	34	
+左下	Lower left	zuǒ xià	zuo xia	34	
+左上	Upper left	zuǒ shàng	zuo shang	34	
+工房	Studio	gōng fáng	gong fang	12	
+川芎	Chuanxiong	chuān xiōng	chuan xiong	11	
+川城	Chuancheng	chuān chéng	chuan cheng	12	
+川北	North Sichuan	chuān běi	chuan bei	13	
+嵐山	Arashiyama	lán shān	lan shan	21	
+崙背	Back	lún bèi	lun bei	24	
+岳飛	Yue Fei	yuè fēi	yue fei	41	
+岩鹽	Rock salt	yán yán	yan yan	22	
+岩漿	magma	yán jiāng	yan jiang	21	
+岩塩	Rock salt	yán yán	yan yan	22	
+岡崎	Okazaki	gāng qí	gang qi	12	
+山風	Mountain breeze	shān fēng	shan feng	11	
+山頭	Hills	shān tóu	shan tou	12	
+山雞	Pheasant	shān jī	shan ji	11	
+山賊	The bandits	shān zéi	shan zei	12	
+山豬	Mountain pig	shān zhū	shan zhu	11	
+山藥	Yam	shān yào	shan yao	14	
+山葵	Hills	shān kuí	shan kui	12	
+山菜	Mountain vegetables	shān cài	shan cai	14	
+山药	Yam	shān yào	shan yao	14	
+山茶	Camellia	shān chá	shan cha	12	
+山竹	Mangosteen	shān zhú	shan zhu	12	
+山珍	Shanzhen	shān zhēn	shan zhen	11	
+山水	landscape	shān shuǐ	shan shui	13	
+山椒	Pepper	shān jiāo	shan jiao	11	
+山梨	Yamanashi	shān lí	shan li	12	
+山東	Shandong	shān dōng	shan dong	11	
+山川	Mountains and rivers	shān chuān	shan chuan	11	
+山富	Shan Fu	shān fù	shan fu	14	
+屬性	Attributes	shǔ xìng	shu xing	34	
+層次	level	céng cì	ceng ci	24	
+屋瓦	Roof tile	wū wǎ	wu wa	13	
+居家	Home	jū jiā	ju jia	11	
+居多	Mostly	jū duō	ju duo	11	
+尿酸	Uric acid	niào suān	niao suan	41	
+尾牙	Tail teeth	wěi yá	wei ya	32	
+尾段	Tail section	wěi duàn	wei duan	34	
+尾椎	Caudal vertebrae	wěi chuí	wei chui	32	
+尼龍	nylon	ní lóng	ni long	22	
+就吃	Eat it	jiù chī	jiu chi	41	
+尚無	No yet	shàng wú	shang wu	42	
+尚浩	Shang Hao	shàng hào	shang hao	44	
+尚有	There are still	shàng yǒu	shang you	43	
+尖石	Sharp stone	jiān shí	jian shi	12	
+尖兵	vanguard	jiān bīng	jian bing	11	
+少許	a little	shǎo xǔ	shao xu	33	
+小鴨	Duckling	xiǎo yā	xiao ya	31	
+小骨	Small bone	xiǎo gǔ	xiao gu	33	
+小餅	Small cake	xiǎo bǐng	xiao bing	33	
+小食	Snacks	xiǎo shí	xiao shi	32	
+小青	Xiaoqing	xiǎo qīng	xiao qing	31	
+小雪	Snow	xiǎo xuě	xiao xue	33	
+小鍋	Small pot	xiǎo guō	xiao guo	31	
+小農	Small farmer	xiǎo nóng	xiao nong	32	
+小貓	kitten	xiǎo māo	xiao mao	31	
+小豬	piggy	xiǎo zhū	xiao zhu	31	
+小豆	Small beans	xiǎo dòu	xiao dou	34	
+小谷	Small valley	xiǎo gǔ	xiao gu	33	
+小話	Small words	xiǎo huà	xiao hua	34	
+小西	Little West	xiǎo xī	xiao xi	31	
+小袋	pouch	xiǎo dài	xiao dai	34	
+小蜜	Little honey	xiǎo mì	xiao mi	34	
+小菜	Side dishes	xiǎo cài	xiao cai	34	
+小肚	Small belly	xiǎo dù	xiao du	34	
+小粒	Small grain	xiǎo lì	xiao li	34	
+小箱	Small box	xiǎo xiāng	xiao xiang	31	
+小管	small tube	xiǎo guǎn	xiao guan	33	
+小童	Child	xiǎo tóng	xiao tong	32	
+小碟	Small dish	xiǎo dié	xiao die	32	
+小石	Small stone	xiǎo shí	xiao shi	32	
+小皺	Small wrinkle	xiǎo zhòu	xiao zhou	34	
+小町	Komachi	xiǎo tīng	xiao ting	31	
+小瓶	Vials	xiǎo píng	xiao ping	32	
+小玉	Xiaoyu	xiǎo yù	xiao yu	34	
+小物	Small Things	xiǎo wù	xiao wu	34	
+小片	Small pieces	xiǎo piàn	xiao pian	34	
+小炒	Fried	xiǎo chǎo	xiao chao	33	
+小樽	Otaru	xiǎo zūn	xiao zun	31	
+小梅	Xiaomei	xiǎo méi	xiao mei	32	
+小柴	Small firewood	xiǎo chái	xiao chai	32	
+小林	Kobayashi	xiǎo lín	xiao lin	32	
+小松	Komatsu	xiǎo sōng	xiao song	31	
+小春	Xiaochun	xiǎo chūn	xiao chun	31	
+小於	Less than	xiǎo yú	xiao yu	32	
+小文	Small text	xiǎo wén	xiao wen	32	
+小巧	Small size	xiǎo qiǎo	xiao qiao	33	
+小尾	Small tail	xiǎo wěi	xiao wei	33	
+小小	Small	xiǎo xiǎo	xiao xiao	33	
+小寶	Small treasure	xiǎo bǎo	xiao bao	33	
+小型	Small	xiǎo xíng	xiao xing	32	
+小圓	Small round	xiǎo yuán	xiao yuan	32	
+小品	Sketch	xiǎo pǐn	xiao pin	33	
+小吉	Small Kyrgyzstan	xiǎo jí	xiao ji	32	
+小口	Small mouth	xiǎo kǒu	xiao kou	33	
+小南	Small south	xiǎo nán	xiao nan	32	
+小包	packet	xiǎo bāo	xiao bao	31	
+小刀	Knife	xiǎo dāo	xiao dao	31	
+小兔	Bunny	xiǎo tù	xiao tu	34	
+小倉	Kokura	xiǎo cāng	xiao cang	31	
+導入	Import	dǎo rù	dao ru	34	
+對味	On the taste	duì wèi	dui wei	44	
+專線	Green line	zhuān xiàn	zhuan xian	14	
+專案	Project	zhuān àn	zhuan an	14	
+專屬	Exclusive	zhuān shǔ	zhuan shu	13	
+專區	Area	zhuān qū	zhuan qu	11	
+寶馬	BMW	bǎo mǎ	bao ma	33	
+寶藍	sapphire	bǎo lán	bao lan	32	
+寶蓋	Treasure cover	bǎo gài	bao gai	34	
+寶島	Treasure island	bǎo dǎo	bao dao	33	
+寶典	Collection	bǎo diǎn	bao dian	33	
+寮國	Laos	liáo guó	liao guo	22	
+寫的	written	xiě de	xie de	31	
+寫在	write on	xiě zài	xie zai	34	
+寫入	Write	xiě rù	xie ru	34	
+實心	solid	shí xīn	shi xin	21	
+寢具	bedding	qǐn jù	qin ju	34	
+寡糖	Oligosaccharides	guǎ táng	gua tang	32	
+寒天	cold day	hán tiān	han tian	21	
+寒士	Poor	hán shì	han shi	24	
+富麗	Wealthy	fù lì	fu li	44	
+富士	Fuji	fù shì	fu shi	44	
+密碼	password	mì mǎ	mi ma	43	
+宿便	Stool	sù biàn	su bian	44	
+家郷	Home volost	jiā xiāng	jia xiang	11	
+家老	Home old	jiā lǎo	jia lao	13	
+家用	Home	jiā yòng	jia yong	14	
+家常	Homemade	jiā cháng	jia chang	12	
+家傳	Home pass	jiā chuán	jia chuan	12	
+宮田	Miyada	gōng tián	gong tian	12	
+宮保	Gongbao	gōng bǎo	gong bao	13	
+室溫	Room temperature	shì wēn	shi wen	41	
+客家	Hakka	kè jiā	ke jia	41	
+定食	Fixed food	dìng shí	ding shi	42	
+定位	Positioning	dìng wèi	ding wei	44	
+定三	Set three	dìng sān	ding san	41	
+宗家	Zongjia	zōng jiā	zong jia	11	
+宗堂	Zongtang	zōng táng	zong tang	12	
+宏達	HTC	hóng dá	hong da	22	
+完熟	Mature	wán shú	wan shu	22	
+安養	Security	ān yǎng	an yang	13	
+安神	Soothe the nerves	ān shén	an shen	12	
+安溪	Anxi	ān xī	an xi	11	
+安東	Anton	ān dōng	an dong	11	
+安徽	Anhui	ān huī	an hui	11	
+安子	Anzi	ān zi	an zi	11	
+安井	Anjing	ān jǐng	an jing	13	
+宇治	Uji	yǔ zhì	yu zhi	34	
+宅配	Home delivery	zhái pèi	zhai pei	24	
+學童	Schoolchildren	xué tóng	xue tong	22	
+存錢	Save money	cún qián	cun qian	22	
+存褶	Pleated	cún zhě	cun zhe	23	
+字型	Font type	zì xíng	zi xing	42	
+嬤嬤	Mother	mā mā	ma ma	11	
+嫵媚	charming	wǔ mèi	wu mei	34	
+嫩膚	Rejuvenation	nèn fū	nen fu	41	
+嫩肉	Tender meat	nèn ròu	nen rou	44	
+媽咪	Mummy	mā mī	ma mi	11	
+威爾	Will	wēi ěr	wei er	13	
+姥姥	Grandma	lǎo lao	lao lao	31	
+妳是	You are	nǎi shì	nai shi	34	
+妙用	magical effect	miào yòng	miao yong	44	
+妖怪	monster	yāo guài	yao guai	14	
+妍麗	Yan Li	yán lì	yan li	24	
+如需	If needed	rú xū	ru xu	21	
+如有	If any	rú yǒu	ru you	23	
+如圖	Figure	rú tú	ru tu	22	
+如來	Come	rú lái	ru lai	22	
+好運	good luck	hǎo yùn	hao yun	34	
+好逑	Good	hǎo qiú	hao qiu	32	
+好評	Praise	hǎo píng	hao ping	32	
+好茶	Good tea	hǎo chá	hao cha	32	
+好的	Ok	hǎo de	hao de	31	
+好想	Think so	hǎo xiǎng	hao xiang	33	
+好壯	So strong	hǎo zhuàng	hao zhuang	34	
+好喝	Good drink	hǎo hē	hao he	31	
+她的	her	tā de	ta de	11	
+奶酥	Milk crisp	nǎi sū	nai su	31	
+奶糖	toffee	nǎi táng	nai tang	32	
+奶精	Creamer	nǎi jīng	nai jing	31	
+奶瓶	Bottle	nǎi píng	nai ping	32	
+奶汁	Milk	nǎi zhī	nai zhi	31	
+奶昔	milkshake	nǎi xī	nai xi	31	
+女郎	Girl	nǚ láng	nu lang	32	
+女裝	Women's clothing	nǚ zhuāng	nu zhuang	31	
+女童	Girl	nǚ tóng	nu tong	32	
+女皇	The empress	nǚhuáng	nuhuang	2	
+女用	Female	nǚ yòng	nu yong	34	
+套餐	Package	tào cān	tao can	41	
+套筒	Sleeve	tào tǒng	tao tong	43	
+奈良	Nara	nài liáng	nai liang	42	
+奇緣	Romance	qí yuán	qi yuan	22	
+奇摩	Kimo	qí mó	qi mo	22	
+夾著	Sandwiched	jiā zhe	jia zhe	11	
+夾心	Sandwich	jiā xīn	jia xin	11	
+夾層	Sandwich	jiā céng	jia ceng	12	
+夾克	jacket	jiá kè	jia ke	24	
+太郎	Taro	tài láng	tai lang	42	
+太祖	Taizu	tài zǔ	tai zu	43	
+太師	Taishi	tài shī	tai shi	41	
+太子	Prince	tài zǐ	tai zi	43	
+天鵝	swan	tiān é	tian e	12	
+天香	Tianxiang	tiān xiāng	tian xiang	11	
+天野	Amano	tiān yě	tian ye	13	
+天藍	Sky blue	tiān lán	tian lan	12	
+天皇	The emperor	tiān huáng	tian huang	12	
+天王	King of the King	tiān wáng	tian wang	12	
+天山	Tianshan	tiān shān	tian shan	11	
+天塩	Day salt	tiān yán	tian yan	12	
+天丼	Day day	tiān jǐng	tian jing	13	
+大餅	Pie	dà bǐng	da bing	43	
+大飯	Rice	dà fàn	da fan	44	
+大顆	Big stars	dà kē	da ke	41	
+大雪	Heavy snow	dà xǚ	da xu	43	
+大雁	Geese	dà yàn	da yan	44	
+大隻	big	dà zhī	da zhi	41	
+大阪	Osaka	dà bǎn	da ban	43	
+大金	Daikin	dà jīn	da jin	41	
+大象	Elephant	dà xiàng	da xiang	44	
+大豆	Soybeans	dà dòu	da dou	44	
+大蝦	Prawns	dà xiā	da xia	41	
+大蔥	Green onions	dà cōng	da cong	41	
+大葉	Big leaves	dà yè	da ye	44	
+大草	Big grass	dà cǎo	da cao	43	
+大腳	Big feet	dà jiǎo	da jiao	43	
+大罐	Big cans	dà guàn	da guan	44	
+大紅	Red	dà hóng	da hong	42	
+大粒	Big grain	dà lì	da li	44	
+大籠	Big cage	dà lóng	da long	42	
+大童	Big boy	dà tóng	da tong	42	
+大禹	Dayu	dà yǔ	da yu	43	
+大磯	Big day	dà jī	da ji	41	
+大盤	Market	dà pán	da pan	42	
+大發	Big hair	dà fā	da fa	41	
+大甲	Big armor	dà jiǎ	da jia	43	
+大瓶	Big bottle	dà píng	da ping	42	
+大牛	big cow	dà niú	da niu	42	
+大熊	Big bear	dà xióng	da xiong	42	
+大漢	Han	dàhàn	dahan	4	
+大漠	The desert	dà mò	da mo	44	
+大湯	Big soup	dà tāng	da tang	41	
+大桶	vat	dà tǒng	da tong	43	
+大根	Large root	dàgēn	dagen	1	
+大板	Slabs	dà bǎn	da ban	43	
+大木	Big wood	dà mù	da mu	44	
+大廚	Chef	dà chú	da chu	42	
+大嬸	Aunt	dà shěn	da shen	43	
+大坪	Daping	dà píng	da ping	42	
+大圓	Big round	dà yuán	da yuan	42	
+大吉	Downright	dà jí	da ji	42	
+大台	Big platform	dà tái	da tai	42	
+大叔	Uncle	dà shū	da shu	41	
+大包	Big bag	dà bāo	da bao	41	
+大切	Big cut	dà qi è	da qi e	414	
+大俠	Heroes	dà xiá	da xia	42	
+大伙	Everyone	dà huǒ	da huo	43	
+大仙	Daisen	dà xiān	da xian	41	
+大亨	Tycoon	dàhēng	daheng	1	
+大三	Junior year	dà sān	da san	41	
+夢露	Monroe	mèng lù	meng lu	44	
+夢幻	dream	mèng huàn	meng huan	44	
+夠味	Enough flavor	gòu wèi	gou wei	44	
+夜燈	Night light	yè dēng	ye deng	41	
+多醣	Polysaccharide	duō táng	duo tang	12	
+多變	changeable	duō biàn	duo bian	14	
+多肉	Succulents	duō ròu	duo rou	14	
+多種	Variety	duō zhǒng	duo zhong	13	
+多汁	Juicy	duō zhī	duo zhi	11	
+多拉	Dora	duō lā	duo la	11	
+多層	Multilayer	duō céng	duo ceng	12	
+多士	Toast	duō shì	duo shi	14	
+多功	Multiple power	duō gōng	duo gong	11	
+外賓	Foreign guests	wài bīn	wai bin	41	
+外省	Other provinces	wài shěng	wai sheng	43	
+外傳	Rumor	wài zhuàn	wai zhuan	44	
+夕陽	Sunset	xī yáng	xi yang	12	
+夕張	Sunset	xī zhāng	xi zhang	11	
+夏至	Summer solstice	xià zhì	xia zhi	44	
+夏原	Summer original	xià yuán	xia yuan	42	
+壽桃	Shou Tao	shòu táo	shou tao	42	
+壽司	Sushi	shòu sī	shou si	41	
+壩子	Bazi	bà zi	ba zi	41	
+壓頭	Indenter	yā tóu	ya tou	12	
+壁燈	wall lamp	bì dēng	bi deng	41	
+墨黑	Ink black	mò hēi	mo hei	41	
+墨魚	Cuttlefish	mò yú	mo yu	42	
+墨綠	Dark green	mò lǜ	mo lu	44	
+墨竹	Ink bamboo	mò zhú	mo zhu	42	
+墨汁	Ink	mò zhī	mo zhi	41	
+增高	Increased	zēng gāo	zeng gao	11	
+增量	Incremental	zēng liàng	zeng liang	14	
+墊板	Plate	diàn bǎn	dian ban	43	
+填寫	fill in	tián xiě	tian xie	23	
+塩水	Salt water	yán shuǐ	yan shui	23	
+塗鴉	Graffiti	tú yā	tu ya	21	
+塑身	Body sculpting	sù shēn	su shen	41	
+塊頭	Head	kuài tóu	kuai tou	42	
+塊狀	Block	kuài zhuàng	kuai zhuang	44	
+場景	Scenes	chǎng jǐng	chang jing	33	
+堪稱	Called	kān chēng	kan cheng	11	
+堂本	Domoto	táng běn	tang ben	23	
+堂島	Church Island	táng dǎo	tang dao	23	
+培根	Bacon	péi gēn	pei gen	21	
+埔里	Puli	bù lǐ	bu li	43	
+型錄	Catalog	xíng lù	xing lu	24	
+型號	model	xíng hào	xing hao	24	
+坪林	Ping Lin	píng lín	ping lin	22	
+均有	There are	jūn yǒu	jun you	13	
+均可	Can be	jūn kě	jun ke	13	
+均一	Homogeneous	jūn yī	jun yi	11	
+地雷	Landmines	dì léi	di lei	42	
+地瓜	Sweet potatoes	dì guā	di gua	41	
+在家	At home	zài jiā	zai jia	41	
+土豆	potato	tǔ dòu	tu dou	34	
+土製	Soil	tǔ zhì	tu zhi	34	
+土虱	Soil lice	tǔ shī	tu shi	31	
+土瓶	Soil bottle	tǔ píng	tu ping	32	
+土星	Saturn	tǔ xīng	tu xing	31	
+土司	Toast	tǔ sī	tu si	31	
+團隊	team	tuán duì	tuan dui	24	
+圖示	Icon	tú shì	tu shi	24	
+圖檔	Picture file	tú dàng	tu dang	24	
+圓領	Round neck	yuán lǐng	yuan ling	23	
+圓頂	Dome	yuán dǐng	yuan ding	23	
+圓錐	Cone	yuán zhuī	yuan zhui	21	
+圓筒	Cylinder	yuán tǒng	yuan tong	23	
+圓石	Round stone	yuán shí	yuan shi	22	
+圓盤	disc	yuán pán	yuan pan	22	
+圓桶	Drums	yuán tǒng	yuan tong	23	
+圓木	Roundwood	yuán mù	yuan mu	24	
+圓弧	Arc	yuán hú	yuan hu	22	
+圓山	Round mountain	yuán shān	yuan shan	21	
+圓圓	Round	yuán yuán	yuan yuan	22	
+園圃	Garden	yuán pǔ	yuan pu	23	
+國賓	National guest	guó bīn	guo bin	21	
+國宴	state banquet	guó yàn	guo yan	24	
+國姓	Surname	guó xìng	guo xing	24	
+圈圈	Circle	quān quān	quan quan	11	
+圆形	Round	yuán xíng	yuan xing	22	
+因應	In response	yīn yìng	yin ying	14	
+回饋	Feedback	huí kuì	hui kui	24	
+回味	Memorable	huí wèi	hui wei	24	
+四顆	Four	sì kē	si ke	41	
+四路	Four way	sì lù	si lu	44	
+四號	No. 4	sì hào	si hao	44	
+四色	Four-color	sì sè	si se	44	
+四粒	Four tablets	sì lì	si li	44	
+四節	Four sections	sì jié	si jie	42	
+四盒	Four boxes	sì hé	si he	42	
+四格	Four grid	sì gé	si ge	42	
+四支	Four	sì zhī	si zhi	41	
+四口	Four	sì kǒu	si kou	43	
+四兩	Four or two	sì liǎng	si liang	43	
+噴霧	spray	pēn wù	pen wu	14	
+噴火	Spitfire	pēn huǒ	pen huo	13	
+噴水	Water spray	pēn shuǐ	pen shui	13	
+噴槍	spray gun	pēn qiāng	pen qiang	11	
+噴噴	Spray	pēn pēn	pen pen	11	
+噗噗	Puff	pū pū	pu pu	11	
+嘴饞	Greedy	zuǐ chán	zui chan	32	
+嘟嘟	Beep	dū dū	du du	11	
+嘆息	sigh	tàn xí	tan xi	42	
+喳喳	Twitter	chā chā	cha cha	11	
+單體	monomer	dān tǐ	dan ti	13	
+單項	Single item	dān xiàng	dan xiang	14	
+單面	Single-sided	dān miàn	dan mian	14	
+單隻	single	dān zhī	dan zhi	11	
+單選	Radio	dān xuǎn	dan xuan	13	
+單片	Monolithic	dān piàn	dan pian	14	
+單月	Single month	dān yuè	dan yue	14	
+單排	single row	dān pái	dan pai	12	
+單層	Single layer	dān céng	dan ceng	12	
+單人	individual	dān rén	dan ren	12	
+單一	single	dān yī	dan yi	11	
+喫茶	Eat tea	chī chá	chi cha	12	
+喝茶	Drink tea	hē chá	he cha	12	
+喝到	Drink	hē dào	he dao	14	
+喜宴	Wedding banquet	xǐ yàn	xi yan	34	
+喜事	happy event	xǐ shì	xi shi	34	
+喜之	Happy	xǐ zhī	xi zhi	31	
+喉片	Throat pieces	hóu piàn	hou pian	24	
+啾啾	Tweeted	jiū jiū	jiu jiu	11	
+商家	Businessmen	shāng jiā	shang jia	11	
+商務	Business	shāng wù	shang wu	14	
+唱遊	Singing	chàng yóu	chang you	42	
+唱片	record	chàng piàn	chang pian	44	
+售完	Sold out	shòu wán	shou wan	42	
+售價	Price	shòu jià	shou jia	44	
+唇膏	Lipstick	chún gāo	chun gao	21	
+哨子	whistle	shào zi	shao zi	41	
+員外	Outside the staff	yuán wài	yuan wai	24	
+品類	Category	pǐn lèi	pin lei	34	
+品茶	Tea	pǐn chá	pin cha	32	
+品茗	Tea	pǐn míng	pin ming	32	
+品牌	Brand	pǐn pái	pin pai	32	
+品嚐	taste	pǐn cháng	pin chang	32	
+品名	Name	pǐn míng	pin ming	32	
+咬下	Bite under	yǎo xià	yao xia	34	
+咪咪	Mimi	mī mī	mi mi	11	
+咖哩	curry	gā lí	ga li	12	
+咕嚕	Grunt	gū lǔ	gu lu	13	
+和香	And incense	hé xiāng	he xiang	21	
+和風	Wind and wind	hé fēng	he feng	21	
+和牛	And cattle	hé niú	he niu	22	
+和漢	And Han	hé hàn	he han	24	
+和歌	Song and song	hé gē	he ge	21	
+和樂	And music	hé lè	he le	24	
+味香	Weixiang	wèi xiāng	wei xiang	41	
+味覺	Taste	wèi jué	wei jue	42	
+味蕾	Taste buds	wèi lěi	wei lei	43	
+味美	Delicious	wèi měi	wei mei	43	
+味噌	Miso	wèi zēng	wei zeng	41	
+呱呱	Quack	guā guā	gua gua	11	
+周瑜	Zhou yu	zhōu yú	zhou yu	12	
+周年	anniversary	zhōu nián	zhou nian	12	
+周四	On Thursday	zhōu sì	zhou si	14	
+周六	on Saturday	zhōu liù	zhou liu	14	
+周五	Friday	zhōu wǔ	zhou wu	13	
+周二	on Tuesday	zhōu èr	zhou er	14	
+周三	on Wednesday	zhōu sān	zhou san	11	
+周一	on Monday	zhōu yī	zhou yi	11	
+呂布	Lu Bu	lǚ bù	lu bu	34	
+呂宋	Luzon	lǚ sòng	lu song	34	
+吸管	straw	xī guǎn	xi guan	13	
+吸汗	Sweat	xī hàn	xi han	14	
+吸水	Water absorption	xī shuǐ	xi shui	13	
+含水	Water	hán shuǐ	han shui	23	
+吟香	Yin incense	yín xiāng	yin xiang	21	
+吐司	Toast	tǔ sī	tu si	31	
+名產	staple	míng chǎn	ming chan	23	
+名廚	Chefs	míng chú	ming chu	22	
+名媛	Ladies	míng yuàn	ming yuan	24	
+名品	Famous	míng pǐn	ming pin	23	
+同樂	Fun	tóng lè	tong le	24	
+同仁	Colleagues	tóng rén	tong ren	22	
+吉野	Yoshino	jí yě	ji ye	23	
+吉福	Gifford	jí fú	ji fu	22	
+吉田	Yoshida	jí tián	ji tian	22	
+吉川	Yoshikawa	jí chuān	ji chuan	21	
+吉島	Kishima	jí dǎo	ji dao	23	
+吉子	Jizi	jí zi	ji zi	21	
+吉事	Good luck	jí shì	ji shi	24	
+合購	Buy together	hé gòu	he gou	24	
+各半	Each half	gè bàn	ge ban	44	
+吃醋	Jealous	chī cù	chi cu	14	
+吃肉	Eat meat	chī ròu	chi rou	14	
+吃糖	Eat sugar	chī táng	chi tang	12	
+右下	Right lower	yòu xià	you xia	44	
+右上	Right upper	yòu shàng	you shang	44	
+台鐵	Taiwan Railway	tái tiě	tai tie	23	
+台製	Taiwan system	tái zhì	tai zhi	24	
+台糖	Taiwan sugar	tái táng	tai tang	22	
+台燈	table lamp	tái dēng	tai deng	21	
+台東	Taitung	tái dōng	tai dong	21	
+台斤	Pound	tái jīn	tai jin	21	
+台式	Desktop	tái shì	tai shi	24	
+台幣	NT	tái bì	tai bi	24	
+可放	Can put	kě fàng	ke fang	34	
+可可	cocoa	kě kě	ke ke	33	
+叮叮	Tinker	dīng dīng	ding ding	11	
+只裝	Only installed	zhǐ zhuāng	zhi zhuang	31	
+只做	Only to do	zhǐ zuò	zhi zuo	34	
+另議	Negotiable	lìng yì	ling yi	44	
+另計	Other terms	lìng jì	ling ji	44	
+另加	Plus	lìng jiā	ling jia	41	
+古銅	Bronze	gǔ tóng	gu tong	32	
+古都	Ancient capital	gǔ dū	gu du	31	
+古道	Trail	gǔ dào	gu dao	34	
+古色	Ancient color	gǔ sè	gu se	34	
+古法	Ancient law	gǔ fǎ	gu fa	33	
+古式	Ancient style	gǔ shì	gu shi	34	
+古味	Ancient taste	gǔ wèi	gu wei	34	
+古丁	Ancient ding	gǔ dīng	gu ding	31	
+口罩	Masks	kǒu zhào	kou zhao	34	
+口碑	Word of mouth	kǒu bēi	kou bei	31	
+口感	Taste	kǒu gǎn	kou gan	33	
+受賞	Rewarded	shòu shǎng	shou shang	43	
+反彈	Bounce	fǎn tán	fan tan	32	
+叉燒	Pork	chā shāo	cha shao	11	
+參閱	See also	cān yuè	can yue	14	
+去除	Removed	qù chú	qu chu	42	
+去污	Decontamination	qù wū	qu wu	41	
+去殼	Shelled	qù ké	qu ke	42	
+去年	last year	qù nián	qu nian	42	
+原裝	Original	yuán zhuāng	yuan zhuang	21	
+原色	primary color	yuán sè	yuan se	24	
+原生	Native	yuán shēng	yuan sheng	21	
+原爆	The original explosion	yuán bào	yuan bao	24	
+原液	Liquid	yuán yè	yuan ye	24	
+原宿	Harajuku	yuán sù	yuan su	24	
+原創	Original	yuán chuàng	yuan chuang	24	
+原價	Original price	yuán jià	yuan jia	24	
+厚道	kind	hòu dao	hou dao	41	
+厚薄	thickness	hòu báo	hou bao	42	
+厚禮	Gift	hòu lǐ	hou li	43	
+厚片	Thick slices	hòu piàn	hou pian	44	
+厚底	Thick bottom	hòu dǐ	hou di	43	
+厚實	thick	hòu shí	hou shi	42	
+厚原	Thick original	hòu yuán	hou yuan	42	
+卸妝	Makeup remover	xiè zhuāng	xie zhuang	41	
+卷裝	Package	juàn zhuāng	juan zhuang	41	
+卵黃	Yolk	luǎn huáng	luan huang	32	
+即為	That is	jí wèi	ji wei	24	
+即可	You can	jí kě	ji ke	23	
+印花	printing	yìn huā	yin hua	41	
+卡爾	Carl	kǎ ěr	ka er	33	
+卡洛	Carlo	kǎ luò	ka luo	34	
+卡拉	Karaoke	kǎ lā	ka la	31	
+卡式	Card type	kǎ shì	ka shi	34	
+卡啦	Karaoke	kǎ la	ka la	31	
+卡其	Khaki	kǎ qí	ka qi	32	
+博多	Hakata	bó duō	bo duo	21	
+南蠻	South Man	nán mán	nan man	22	
+南米	South meters	nán mǐ	nan mi	23	
+南瓜	pumpkin	nán guā	nan gua	21	
+南湖	South Lake	nán hú	nan hu	22	
+南洋	Nanyang	nán yáng	nan yang	22	
+南波	South Wave	nán bō	nan bo	21	
+南河	South River	nán hé	nan he	22	
+南歐	Southern Europe	nán ōu	nan ou	21	
+南庄	Nanzhuang	nán zhuāng	nan zhuang	21	
+南島	South Island	nán dǎo	nan dao	23	
+南境	Southbound	nán jìng	nan jing	24	
+南國	Southern country	nán guó	nan guo	22	
+協力	Work together	xié lì	xie li	24	
+卓蘭	Zhuo Lan	zhuō lán	zhuo lan	12	
+半顆	Half a star	bàn kē	ban ke	41	
+半面	Half face	bàn miàn	ban mian	44	
+半隻	Half only	bàn zhī	ban zhi	41	
+半熟	Half cooked	bàn shú	ban shu	42	
+半條	Half	bàn tiáo	ban tiao	42	
+半枝	Half sticks	bàn zhī	ban zhi	41	
+半斤	Half a catty	bàn jīn	ban jin	41	
+半圓	semicircle	bàn yuán	ban yuan	42	
+半包	Half packs	bàn bāo	ban bao	41	
+半切	Half cut	bàn qiè	ban qie	44	
+半價	Half price	bàn jià	ban jia	44	
+午後	Afternoon	wǔ hòu	wu hou	34	
+午后	Afternoon	wǔ hòu	wu hou	34	
+千鳥	Thousands of birds	qiān niǎo	qian niao	13	
+千葉	Chiba	qiān yè	qian ye	14	
+千草	Thousands of grass	qiān cǎo	qian cao	13	
+千島	Thousand Island	qiān dǎo	qian dao	13	
+十顆	Ten stars	shí kē	shi ke	21	
+十粒	Ten grain	shí lì	shi li	24	
+十種	Ten kinds	shí zhǒng	shi zhong	23	
+十盒	Ten boxes	shí hé	shi he	22	
+十枚	Ten	shí méi	shi mei	22	
+十斤	Ten pounds	shí jīn	shi jin	21	
+十大	Top Ten	shí dà	shi da	24	
+十台	Ten	shí tái	shi tai	22	
+十勝	Ten wins	shí shèng	shi sheng	24	
+十元	ten yuan	shí yuán	shi yuan	22	
+十份	Ten copies	shí fèn	shi fen	24	
+⼗件	The pieces	shí jiàn	shi jian	24	
+匠心	Ingenuity	jiàng xīn	jiang xin	41	
+北陸	Hokuriku	běi lù	bei lu	34	
+北路	North Road	běi lù	bei lu	34	
+北越	North Vietnam	běi yuè	bei yue	34	
+北田	Beitian	běi tián	bei tian	32	
+北港	North port	běigǎng	beigang	3	
+北歐	Nordic	běi ōu	bei ou	31	
+北極	Arctic	běi jí	bei ji	32	
+北城	North City	běi chéng	bei cheng	32	
+北口	North mouth	běi kǒu	bei kou	33	
+北一	North one	běi yī	bei yi	31	
+匏瓜	Melon	páo guā	pao gua	21	
+包包	Bag	bāo bāo	bao bao	11	
+勾芡	Thicken	gōu qiàn	gou qian	14	
+勾勾	Tick	gōu gōu	gou gou	11	
+勝博	Win	shèng bó	sheng bo	42	
+動感	Dynamic	dòng gǎn	dong gan	43	
+勇健	Yongjian	yǒng jiàn	yong jian	34	
+勁道	Freshness	jìn dào	jin dao	44	
+劣質	Poor quality	liè zhì	lie zhi	44	
+加點	add a bit	jiā diǎn	jia dian	13	
+加贈	Plus gift	jiā zèng	jia zeng	14	
+加菜	Add food	jiā cài	jia cai	14	
+加總	Summed up	jiā zǒng	jia zong	13	
+加糖	Add sugar	jiā táng	jia tang	12	
+加熱	heating	jiā rè	jia re	14	
+加法	addition	jiā fǎ	jia fa	13	
+加水	add water	jiā shuǐ	jia shui	13	
+加收	Additions	jiā shōu	jia shou	11	
+加州	California	jiā zhōu	jia zhou	11	
+加壓	Pressurized	jiā yā	jia ya	11	
+加味	Flavored	jiā wèi	jia wei	14	
+加厚	Thicker	jiā hòu	jia hou	14	
+加價	Increase the price	jiā jià	jia jia	14	
+加值	Bonus	jiā zhí	jia zhi	12	
+加侖	gallon	jiā lún	jia lun	12	
+力拼	Fight	lì pīn	li pin	41	
+劍道	kendo	jiàn dào	jian dao	44	
+劍客	swordsman	jiàn kè	jian ke	44	
+劇團	troupe	jù tuán	ju tuan	42	
+創意	Creative	chuàng yì	chuang yi	44	
+割稻	Cut rice	gē dào	ge dao	14	
+副食	Non-staple food	fù shí	fu shi	42	
+副總	Vice president	fù zǒng	fu zong	43	
+剪切	Cut	jiǎn qiè	jian qie	34	
+剝皮	Peeling	bāo pí	bao pi	12	
+前蹄	forepaw	qián tí	qian ti	22	
+前菜	Appetizer	qián cài	qian cai	24	
+前端	front end	qián duān	qian duan	21	
+前田	Maeda	qián tián	qian tian	22	
+剋星	Nemesis	kè xīng	ke xing	41	
+削皮	peel	xiāo pí	xiao pi	12	
+刻度	Scale	kè dù	ke du	44	
+刺身	Sashimi	cì shēn	ci shen	41	
+刷毛	Bristles	shuā máo	shua mao	12	
+制作	Making	zhì zuò	zhi zuo	44	
+刮刀	scraper	guā dāo	gua dao	11	
+刪除	delete	shān chú	shan chu	12	
+利香	Li Hong	lì xiāng	li xiang	41	
+利休	Li Xiu	lì xiū	li xiu	41	
+刨冰	Shaved ice	bào bīng	bao bing	41	
+初鹿	First deer	chū lù	chu lu	14	
+初露	Revealing	chū lù	chu lu	14	
+初雪	Early snow	chū xuě	chu xue	13	
+初戀	First love	chū liàn	chu lian	14	
+初心	At first	chū xīn	chu xin	11	
+初乳	colostrum	chū rǔ	chu ru	13	
+初一	The first day	chū yī	chu yi	11	
+划算	Cost-effective	huá suàn	hua suan	24	
+刈包	Mow	yì bāo	yi bao	41	
+切麵	section	qiē miàn	qie mian	14	
+切片	slice	qiē piàn	qie pian	14	
+切干	Cut dry	qiè gàn	qie gan	44	
+切塊	Cut	qiē kuài	qie kuai	14	
+分身	Avatar	fēn shēn	fen shen	11	
+分裝	Packing	fēn zhuāng	fen zhuang	11	
+刁蠻	Unruly	diāo mán	diao man	12	
+刀疤	Scars	dāo bā	dao ba	11	
+刀片	blade	dāo piàn	dao pian	14	
+函館	Hakodate	hán guǎn	han guan	23	
+出貨	Shipments	chū huò	chu huo	14	
+出芽	Budding	chū yá	chu ya	12	
+凱悅	Hyatt	kǎi yuè	kai yue	34	
+凍頂	Frozen top	dòng dǐng	dong ding	43	
+凉拌	Cold mix	liáng bàn	liang ban	24	
+冷風	Cold wind	lěng fēng	leng feng	31	
+冷藏	refrigeration	lěng cáng	leng cang	32	
+冷茶	Cold tea	lěng chá	leng cha	32	
+冷肉	Cold meat	lěng ròu	leng rou	34	
+冷盤	Cold plate	lěng pán	leng pan	32	
+冷熱	Hot and cold	lěng rè	leng re	34	
+冷泉	Cold spring	lěng quán	leng quan	32	
+冷敷	Cold	lěng fū	leng fu	31	
+冷光	Cold light	lěng guāng	leng guang	31	
+冰點	freezing point	bīng diǎn	bing dian	13	
+冰袋	ice bag	bīng dài	bing dai	14	
+冰糖	crystal sugar	bīng táng	bing tang	12	
+冰河	Glacier	bīng hé	bing he	12	
+冰棒	Popsicles	bīng bàng	bing bang	14	
+冰晶	ice crystals	bīng jīng	bing jing	11	
+冰心	Bing Xin	bīng xīn	bing xin	11	
+冰山	iceberg	bīng shān	bing shan	11	
+冰凍	Frozen	bīng dòng	bing dong	14	
+冰冷	Cold	bīng lěng	bing leng	13	
+冬青	holly	dōng qīng	dong qing	11	
+冬菇	Mushrooms	dōng gū	dong gu	11	
+冬至	Winter solstice	dōng zhì	dong zhi	14	
+冬筍	Winter bamboo shoots	dōng sǔn	dong sun	13	
+冬期	Winter	dōng qī	dong qi	11	
+冬日	Winter	dōng rì	dong ri	14	
+冬冬	Hasty	dōng dōng	dong dong	11	
+冬令	Winter order	dōng lìng	dong ling	14	
+再選	Re-election	zài xuǎn	zai xuan	43	
+再訂	Rebooking	zài dìng	zai ding	44	
+再現	Reproduction	zài xiàn	zai xian	44	
+兼得	Both	jiān dé	jian de	12	
+典藏	Collections	diǎn cáng	dian cang	32	
+其一	One of them	qí yī	qi yi	21	
+兵衛	Bing Wei	bīng wèi	bing wei	14	
+六龜	Six turtles	liù guī	liu gui	41	
+六顆	Six	liù kē	liu ke	41	
+六角	Hexagonal	liù jiǎo	liu jiao	43	
+六號	No.6	liù hào	liu hao	44	
+六粒	Six tablets	liù lì	liu li	44	
+六種	Six kinds	liù zhǒng	liu zhong	43	
+六條	Six	liù tiáo	liu tiao	42	
+六時	Six o'clock	liù shí	liu shi	42	
+六日	Six days	liù rì	liu ri	44	
+六斤	Six pounds	liù jīn	liu jin	41	
+六支	Six	liù zhī	liu zhi	41	
+六大	Six big	liù dà	liu da	44	
+六味	Six flavors	liù wèi	liu wei	44	
+六兩	Sixty-two	liù liǎng	liu liang	43	
+公雞	cock	gōng jī	gong ji	11	
+公爵	Duke	gōng jué	gong jue	12	
+公休	Public holiday	gōng xiū	gong xiu	11	
+八顆	Eight	bā kē	ba ke	11	
+八重	Eight heavy	bā chóng	ba chong	12	
+八里	Eight miles	bā lǐ	ba li	13	
+八角	star anise	bā jiǎo	ba jiao	13	
+八號	No. 8	bā hào	ba hao	14	
+八粒	Eight pieces	bā lì	ba li	14	
+八番	Eight times	bā fān	ba fan	11	
+八珍	Bazhen	bā zhēn	ba zhen	11	
+八條	Eight	bā tiáo	ba tiao	12	
+八折	20% discount	bā zhé	ba zhe	12	
+八川	Yichuan	bā chuān	ba chuan	11	
+八女	Eight women	bān ǚ	ban u	13	
+八塊	Eight pieces	bā kuài	ba kuai	14	
+八分	Eight points	bā fēn	ba fen	11	
+八代	Eight generations	bā dài	ba dai	14	
+八仙	the Eight Immortals	bā xiān	ba xian	11	
+兩顆	Two	liǎng kē	liang ke	31	
+兩項	Two items	liǎng xiàng	liang xiang	34	
+兩重	Double	liǎng chóng	liang chong	32	
+兩粒	Two pieces	liǎng lì	liang li	34	
+兩箱	Two boxes	liǎng xiāng	liang xiang	31	
+兩碗	Two bowls	liǎng wǎn	liang wan	33	
+兩用	Dual use	liǎng yòng	liang yong	34	
+兩桶	Two barrels	liǎng tǒng	liang tong	33	
+兩杯	Two cups	liǎng bēi	liang bei	31	
+兩台	Two sets	liǎng tái	liang tai	32	
+全脂	Whole fat	quán zhī	quan zhi	21	
+全米	Full meter	quán mǐ	quan mi	23	
+全票	Full vote	quán piào	quan piao	24	
+全店	The whole store	quán diàn	quan dian	24	
+全年	annual	quán nián	quan nian	22	
+全套	Full set	quán tào	quan tao	24	
+全品	Whole product	quán pǐn	quan pin	23	
+全台	Taiwan	quán tái	quan tai	22	
+全區	The whole area	quán qū	quan qu	21	
+內頁	Inside page	nèi yè	nei ye	44	
+內褲	Underwear	nèi kù	nei ku	44	
+內含	Included	nèi hán	nei han	42	
+入門	getting Started	rù mén	ru men	42	
+入庫	Warehousing	rù kù	ru ku	44	
+兔毛	Rabbit hair	tù máo	tu mao	42	
+兒茶	catechu	ér chá	er cha	22	
+克難	Difficult to do	kè nán	ke nan	42	
+克朗	Krone	kè lǎng	ke lang	43	
+克利	Kelly	kè lì	ke li	44	
+光泉	Light spring	guāng quán	guang quan	12	
+光武	Guangwu	guāng wǔ	guang wu	13	
+光大	Everbright	guāng dà	guang da	14	
+先覺	Foresight	xiān jué	xian jue	12	
+先看	Look ahead	xiān kàn	xian kan	14	
+充電	Charge	chōng diàn	chong dian	14	
+充氣	Inflated	chōng qì	chong qi	14	
+元金	Yuan gold	yuán jīn	yuan jin	21	
+元祖	Yuan Zu	yuán zǔ	yuan zu	23	
+元本	Yuan	yuán běn	yuan ben	23	
+元帥	marshal	yuán shuài	yuan shuai	24	
+元寶	Ingots	yuán bǎo	yuan bao	23	
+元宵	Lantern Festival	yuán xiāo	yuan xiao	21	
+優等	excellent	yōu děng	you deng	13	
+儘早	as soon as possible	jǐn zǎo	jin zao	33	
+價位	Price	jià wèi	jia wei	44	
+僅供	Only for	jǐn gōng	jin gong	31	
+傳輸	transmission	chuán shū	chuan shu	21	
+傳情	Teaser	chuán qíng	chuan qing	22	
+傳家	Chuanjia	chuán jiā	chuan jia	21	
+催芽	Germination	cuī yá	cui ya	12	
+傣族	Dai people	dǎi zú	dai zu	32	
+備註	Remarks	bèi zhù	bei zhu	44	
+備案	Filing	bèi àn	bei an	44	
+傑克	Jack	jié kè	jie ke	24	
+偶有	Occasional	ǒu yǒu	ou you	33	
+偶數	even	ǒu shù	ou shu	34	
+側邊	Side	cè biān	ce bian	41	
+停產	Stop production	tíng chǎn	ting chan	23	
+停業	Closed	tíng yè	ting ye	24	
+停售	Discontinued	tíng shòu	ting shou	24	
+做的	made	zuò de	zuo de	41	
+偏重	Emphasis on	piān zhòng	pian zhong	14	
+假面	Mask	jiǎ miàn	jia mian	34	
+假牙	denture	jiǎ yá	jia ya	32	
+倩影	Shadows	qiàn yǐng	qian ying	43	
+修身	Slim	xiū shēn	xiu shen	11	
+修護	Repair	xiū hù	xiu hu	14	
+修羅	Shura	xiū luó	xiu luo	12	
+修繕	Repair	xiū shàn	xiu shan	14	
+信州	Letter state	xìn zhōu	xin zhou	41	
+俠客	Knight	xiá kè	xia ke	24	
+保証	Guarantee	bǎo zhèng	bao zheng	34	
+保溼	Moisturizing	bǎo shī	bao shi	31	
+保溫	Insulation	bǎo wēn	bao wen	31	
+保利	Poly	bǎo lì	bao li	34	
+保冷	Cold	bǎo lěng	bao leng	33	
+保健	health care	bǎo jiàn	bao jian	34	
+保信	Security letter	bǎo xìn	bao xin	34	
+俏皮	Playful	qiào pí	qiao pi	42	
+俊宏	Junhong	jùn hóng	jun hong	42	
+便秘	constipation	biàn mì	bian mi	44	
+來電	Call	lái diàn	lai dian	24	
+來的	Come on	lái de	lai de	21	
+來去	Come and go	lái qù	lai qu	24	
+來個	Come on	lái gè	lai ge	24	
+使用	use	shǐ yòng	shi yong	34	
+你好	Hello there	nǐ hǎo	ni hao	33	
+佛陀	Buddha	fó tuó	fo tuo	22	
+佛寺	Temple	fó sì	fo si	24	
+佛光	Buddha light	fó guāng	fo guang	21	
+佐野	Sano	zuǒ yě	zuo ye	33	
+佐賀	Saga	zuǒ hè	zuo he	34	
+佐藤	Sato	zuǒ téng	zuo teng	32	
+佐料	Seasoning	zuǒ liào	zuo liao	34	
+低溫	Low temperature	dī wēn	di wen	11	
+伯爵	count	bó jué	bo jue	22	
+伊豆	Izu	yī dòu	yi dou	14	
+伊藤	Ito	yī téng	yi teng	12	
+伊勢	Ise	yī shì	yi shi	14	
+企劃	Planning	qǐ huà	qi hua	34	
+份量	Weight	fèn liàng	fen liang	44	
+任選	Optional	rèn xuǎn	ren xuan	43	
+代辦	Charge d'affaires	dài bàn	dai ban	44	
+代購	Purchasing	dài gòu	dai gou	44	
+代訂	On behalf of the set	dài dìng	dai ding	44	
+代目	On behalf of the purpose	dài mù	dai mu	44	
+代收	Collection	dài shōu	dai shou	41	
+仙波	Fairy wave	xiān bō	xian bo	11	
+仙果	Fairy fruit	xiān guǒ	xian guo	13	
+仙子	Fairy	xiān zǐ	xian zi	13	
+仙姑	Xiangu	xiāng ū	xiang u	11	
+仙女	fairy	xiān nǚ	xian nu	13	
+仙人	Fairy	xiān rén	xian ren	12	
+付印	Printed	fù yìn	fu yin	44	
+今川	Imagawa	jīn chuān	jin chuan	11	
+仁心	Benevolence	rén xīn	ren xin	21	
+什錦	Assorted	shí jǐn	shi jin	23	
+人魚	Mermaid	rén yú	ren yu	22	
+人蔘	Ginseng	rén shēn	ren shen	21	
+人緣	Popularity	rén yuán	ren yuan	22	
+人的	People 's	rén de	ren de	21	
+人氣	Popularity	rén qì	ren qi	24	
+人文	Humanities	rén wén	ren wen	22	
+亮片	Sequins	liàng piàn	liang pian	44	
+京都	Kyoto	jīng dū	jing du	11	
+京華	Jinghua	jīng huá	jing hua	12	
+亦可	Can also be	yì kě	yi ke	43	
+亞鉛	Lead lead	yà qiān	ya qian	41	
+亞哥	Yago	yà gē	ya ge	41	
+五香	Spiced	wǔ xiāng	wu xiang	31	
+五道	Five	wǔ dào	wu dao	34	
+五路	Five way	wǔ lù	wu lu	34	
+五角	Pentagon	wǔ jiǎo	wu jiao	33	
+五行	Five elements	wǔháng	wuhang	2	
+五菜	Five dishes	wǔ cài	wu cai	34	
+五色	Colored	wǔ sè	wu se	34	
+五股	Five shares	wǔ gǔ	wu gu	33	
+五粒	Five grains	wǔ lì	wu li	34	
+五種	Five kinds	wǔ zhǒng	wu zhong	33	
+五目	Five eyes	wǔ mù	wu mu	34	
+五木	Five woods	wǔ mù	wu mu	34	
+五更	Five more	wǔ gēng	wu geng	31	
+五星	Five Star	wǔ xīng	wu xing	31	
+五折	Fifty percent off	wǔ zhé	wu zhe	32	
+五彩	Multicolored	wǔ cǎi	wu cai	33	
+五層	Five layers	wǔ céng	wu ceng	32	
+五味	Five flavors	wǔ wèi	wu wei	34	
+五加	Five plus	wǔ jiā	wu jia	31	
+五兩	Five two	wǔ liǎng	wu liang	33	
+五億	500 million	wǔ yì	wu yi	34	
+五份	Five copies	wǔ fèn	wu fen	34	
+五件	five items	wǔ jiàn	wu jian	34	
+二重	double	èr chóng	er chong	42	
+二路	Second way	èr lù	er lu	44	
+二號	No.2	èr hào	er hao	44	
+二葉	Two leaves	èr yè	er ye	44	
+二色	Two colors	èr sè	er se	44	
+二粒	Two tablets	èr lì	er li	44	
+二種	Two kinds	èr zhǒng	er zhong	43	
+二瓶	Two bottles	èr píng	er ping	42	
+二段	Two sections	èr duàn	er duan	44	
+二樣	The same	èr yàng	er yang	44	
+二條	Two	èr tiáo	er tiao	42	
+二杯	Two cups	èr bēi	er bei	41	
+二姐	Sister	èr jiě	er jie	43	
+二份	Two copies	èr fèn	er fen	44	
+二代	Second generation	èr dài	er dai	44	
+二三	Twenty three	èr sān	er san	41	
+乾鮮	Dry and fresh	gān xiān	gan xian	11	
+乾飯	cooked rice	gān fàn	gan fan	14	
+乾絲	Dry silk	gān sī	gan si	11	
+乾粉	Dry powder	gān fěn	gan fen	13	
+乾洗	Dry cleaning	gān xǐ	gan xi	13	
+乾果	dried fruit	gān guǒ	gan guo	13	
+乾板	Dry plate	gān bǎn	gan ban	13	
+乾式	Dry type	gān shì	gan shi	14	
+乾坤	Heaven and earth	qián kūn	qian kun	21	
+乾冰	dry ice	gān bīng	gan bing	11	
+乾乾	Dry	gān gān	gan gan	11	
+乳餅	Milk cake	rǔ bǐng	ru bing	33	
+乳酸	Lactic acid	rǔ suān	ru suan	31	
+乳豬	Suckling pig	rǔ zhū	ru zhu	31	
+乳膠	emulsion	rǔ jiāo	ru jiao	31	
+乳脂	Milk fat	rǔ zhī	ru zhi	31	
+乳肉	Milky meat	rǔ ròu	ru rou	34	
+乳糖	lactose	rǔ táng	ru tang	32	
+乳牛	Dairy cow	rǔ niú	ru niu	32	
+乳液	Emulsion	rǔ yè	ru ye	34	
+乳兒	Baby	rǔ ér	ru er	32	
+也要	Also want to	yě yào	ye yao	34	
+九顆	Nine	jiǔ kē	jiu ke	31	
+九號	No.9	jiǔ hào	jiu hao	34	
+九華	Jiuhua	jiǔ huá	jiu hua	32	
+九洲	Jiuzhou	jiǔ zhōu	jiu zhou	31	
+九折	10% off	jiǔ zhé	jiu zhe	32	
+九成	Jiucheng	jiǔ chéng	jiu cheng	32	
+九州	Kyushu	jiǔ zhōu	jiu zhou	31	
+九尾	Nine tail	jiǔ wěi	jiu wei	33	
+九塊	Nine pieces	jiǔ kuài	jiu kuai	34	
+九分	Nine points	jiǔ fēn	jiu fen	31	
+九九	Ninety nine	jiǔ jiǔ	jiu jiu	33	
+乍現	Chou now	zhà xiàn	zha xian	44	
+之家	s home	zhī jiā	zhi jia	11	
+久久	A long time	jiǔ jiǔ	jiu jiu	33	
+主食	Staple food	zhǔ shí	zhu shi	32	
+主菜	main course	zhǔ cài	zhu cai	34	
+主恩	Lord grace	zhǔ ēn	zhu en	31	
+主廚	Chef	zhǔ chú	zhu chu	32	
+丹頂	Red top	dān dǐng	dan ding	13	
+丹青	Danqing	dān qīng	dan qing	11	
+丹波	Danbo	dān bō	dan bo	11	
+丸子	ball	wán zi	wan zi	21	
+丸一	Pill one	wán yī	wan yi	21	
+中青	In the green	zhōng qīng	zhong qing	11	
+中西	Chinese and Western	zhōng xī	zhong xi	11	
+中腹	In the abdomen	zhōng fù	zhong fu	14	
+中筋	In the tendons	zhōng jīn	zhong jin	11	
+中的	middle	zhōng de	zhong de	11	
+中泰	China and Thailand	zhōng tài	zhong tai	14	
+中條	In the article	zhōng tiáo	zhong tiao	12	
+中東	middle East	zhōng dōng	zhong dong	11	
+中性	neutral	zhōng xìng	zhong xing	14	
+中式	Chinese style	zhōng shì	zhong shi	14	
+中島	Nakajima	zhōng dǎo	zhong dao	13	
+中尾	In the end	zhōng wěi	zhong wei	13	
+中型	Medium type	zhōng xíng	zhong xing	12	
+世家	Family	shì jiā	shi jia	41	
+丐幫	Beggars	gài bāng	gai bang	41	
+不黏	Not sticky	bù nián	bu nian	42	
+不須	Not required	bù xū	bu xu	41	
+不輸	Do not lose	bù shū	bu shu	41	
+不買	Not buying	bú mǎi	bu mai	23	
+不老	Not old	bù lǎo	bu lao	43	
+不破	Not broken	bù pò	bu po	44	
+不敗	Undefeated	bù bài	bu bai	44	
+不挑	Not pick	bù tiāo	bu tiao	41	
+不抽	Do not smoke	bù chōu	bu chou	41	
+不想	Do not want to	bù xiǎng	bu xiang	43	
+不巧	unfortunately	bù qiǎo	bu qiao	43	
+不墜	Do not fall	bù zhuì	bu zhui	44	
+不含	Not included	bù hán	bu han	42	
+不加	do not add	bù jiā	bu jia	41	
+不佳	Bad	bù jiā	bu jia	41	
+不佔	not taking	bù zhàn	bu zhan	44	
+下載	download	xià zài	xia zai	44	
+下殺	Kill	xià shā	xia sha	41	
+上限	Upper limit	shàng xiàn	shang xian	44	
+上野	Ueno	shàng yě	shang ye	43	
+上河	On the river	shàng hé	shang he	42	
+上校	Colonel	shàng xiào	shang xiao	44	
+上智	On the wisdom	shàng zhì	shang zhi	44	
+上庄	On the village	shàng zhuāng	shang zhuang	41	
+三鮮	Three fresh	sān xiān	san xian	11	
+三餐	Three meals a day	sān cān	san can	11	
+三錢	Three money	sān qián	san qian	12	
+三號	No.3	sān hào	san hao	14	
+三葉	Three leaves	sān yè	san ye	14	
+三色	Tricolor	sān sè	san se	14	
+三腳	Three feet	sān jiǎo	san jiao	13	
+三義	Three meaning	sān yì	san yi	14	
+三節	Three sections	sān jié	san jie	12	
+三眼	Three eyes	sān yǎn	san yan	13	
+三盆	Three basins	sān pén	san pen	12	
+三瓶	Three bottles	sān píng	san ping	12	
+三杯	Three cups	sān bēi	san bei	11	
+三本	Three books	sān běn	san ben	13	
+三文	Three text	sān wèn	san wen	14	
+三彩	Three colors	sān cǎi	san cai	13	
+三幸	Three lucky	sān xìng	san xing	14	
+三巷	Three lanes	sān xiàng	san xiang	14	
+三峽	Three Gorges	sān xiá	san xia	12	
+三島	Mishima	sān dǎo	san dao	13	
+三岳	San Yue	sān yuè	san yue	14	
+三屆	Three times	sān jiè	san jie	14	
+三尺	Three feet	sān chǐ	san chi	13	
+三寶	Sambo	sān bǎo	san bao	13	
+三富	San Fu	sān fù	san fu	14	
+三字	Three words	sān zì	san zi	14	
+三好	Miyoshi	sān hǎo	san hao	13	
+三大	Three big	sān dà	san da	14	
+三塊	Three pieces	sān kuài	san kuai	14	
+三國	Three countries	sān guó	san guo	12	
+三喜	Three hi	sān xǐ	san xi	13	
+三味	Sanwei	sān wèi	san wei	14	
+三元	Ternary	sān yuán	san yuan	12	
+三倍	three times	sān bèi	san bei	14	
+三伯	Three Bo	sān bó	san bo	12	
+三代	Three generations	sān dài	san dai	14	
+三井	Mitsui	sān jǐng	san jing	13	
+三中	Three in the three	sān zhōng	san zhong	11	
+七里	Seven miles	qī lǐ	qi li	13	
+七號	No. 7	qī hào	qi hao	14	
+七色	Seven colors	qī sè	qi se	14	
+七美	Seven beautiful	qī měi	qi mei	13	
+七種	Seven kinds	qī zhǒng	qi zhong	13	
+七支	Seven	qī zhī	qi zhi	11	
+七彩	Colorful	qī cǎi	qi cai	13	
+七喜	Seven hi	qī xǐ	qi xi	13	
+七味	Seven flavors	qī wèi	qi wei	14	
+七分	Seven points	qī fēn	qi fen	11	
+丁香	clove	dīng xiāng	ding xiang	11	
+丁丁	Tintin	dīng dīng	ding ding	11	
+一餐	A meal	yī cān	yi can	11	
+一軒	A hin	yī xuān	yi xuan	11	
+一號	On the 1st	yī hào	yi hao	14	
+一葉	A leaf	yī yè	yi ye	14	
+一茶	A tea	yī chá	yi cha	12	
+一臉	A look of	yī liǎn	yi lian	13	
+一級	Level	yī jí	yi ji	12	
+一箱	One box	yī xiāng	yi xiang	11	
+一等	First class	yī děng	yi deng	13	
+一窩	A nest	yī wō	yi wo	11	
+一秒	One second	yī miǎo	yi miao	13	
+一磅	A pound	yī bàng	yi bang	14	
+一盒	A box	yī hé	yi he	12	
+一球	A ball	yī qiú	yi qiu	12	
+一極	A pole	yī jí	yi ji	12	
+一桶	A bucket	yī tǒng	yi tong	13	
+一斤	A pound	yī jīn	yi jin	11	
+一抹	A touch	yī mǒ	yi mo	13	
+一成	Yicheng	yī chéng	yi cheng	12	
+一尾	A tail	yī wěi	yi wei	13	
+一品	One product	yī pǐn	yi pin	13	
+一台	One	yī tái	yi tai	12	
+一包	A pack	yī bāo	yi bao	11	
+一元	One yuan	yī yuán	yi yuan	12	
+一保	A security	yī bǎo	yi bao	13	
+一休	A break	yī xiū	yi xiu	11	
+ㄧ	A	yī	yi	1	
+亞希雅	Ahijah	yà xī yǎ	ya xi ya	413	
+亞多尼蘭	Adoniram	yà duō ní lán	ya duo ni lan	4122	
+十八萬	180,000	shí bā wàn	shi ba wan	214	
+提斯比	Tishbe	tí sī bǐ	ti si bi	213	
+亞哈	Ahab	yà hā	ya ha	41	
+基立	Kerith	jī lì	ji li	14	
+俄巴底	Obadiah	é bā dǐ	e ba di	213	
+基順	Kishon	jī shùn	ji shun	14	
+孩子們	children	hái zi men	hai zi men	211	
+越照越亮	getting brighter	yuè zhào yuè liàng	yue zhao yue liang	4444	
+談怪論	talk about it	tán guài lùn	tan guai lun	244	

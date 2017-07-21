@@ -1,0 +1,99 @@
+.\"Modified from man(1) of FreeBSD, the NetBSD mdoc.template, and mdoc.samples.
+.\"See Also:
+.\"man mdoc.samples for a complete listing of options
+.\"man mdoc for the short list of editing options
+.\"/usr/share/misc/mdoc.template
+.Dd 1/1/13               \" DATE
+.Dt syn 1      \" Program name and manual section number 
+.Os Darwin
+.Sh NAME                 \" Section Header - required - don't modify 
+.Nm syn
+.\" The following lines are read in generating the apropos(man -k) database. Use only key
+.\" words here as the database is built based on the words here and in the .ND line. 
+.\" Use .Nm macro to designate other names for the documented program.
+.Nd Syntax control for the command line
+.\" .Nd macro parsed for whatis database.
+.Sh SYNOPSIS             \" Section Header - required - don't modify
+.Nm
+.Op tags
+.Op Fl f Ar formatter
+.Op Fl vh                \" [-vh]
+.Sh DESCRIPTION          \" Section Header - required - don't modify
+.Nm
+uses OS X's natural language processing tools to tokenize and highlight text (from standard input) that matches specified tags (passed in as flags).
+.\" Underlining is accomplished with the .Ar macro
+.Pp                      \" Inserts a space
+Tag-setting flags:
+.Bl -tag -width -indent  \" Differs from above in tag removed 
+.It Fl n, -nouns         \"-n flag as a list item
+Match nouns
+.It Fl V, -verbs
+Match verbs
+.It Fl a, -adjectives
+Match adjectives
+.It Fl A, -adverbs
+Match adverbs
+.It Fl N, -pronouns
+Match pronouns
+.It Fl d, -determiners
+Match determiners
+.It Fl p, -particles
+Match particles
+.It Fl P, -prepositions
+Match prepositions
+.It Fl 1, -numbers
+Match numbers
+.It Fl c, -conjunctions
+Match conjunctions
+.It Fl i, -interjections
+Match interjections
+.It Fl C, -classifiers
+Match classifiers
+.It Fl I, -idioms
+Match idioms
+.It Fl H, -personal-names
+Match personal (human) names
+.It Fl l, -place-names
+Match place names (locations)
+.El                      \" Ends the list
+.Pp
+Other flags:
+.Bl -tag -width -indent  \" Differs from above in tag removed
+.It Fl f, -formatter=<ansi>
+Use a different formatter. Default: term. Available: ansi, table, json.
+.El                      \" Ends the list
+.Pp
+Other flags:
+.Bl -tag -width -indent  \" Differs from above in tag removed 
+.It Fl v, -version
+Prints the current version
+.It Fl h, -help
+Prints a message decribing usage
+.El                      \" Ends the list
+.\" .Sh ENVIRONMENT      \" May not be needed
+.\" .Bl -tag -width "ENV_VAR_1" -indent \" ENV_VAR_1 is width of the string ENV_VAR_1
+.\" .It Ev ENV_VAR_1
+.\" Description of ENV_VAR_1
+.\" .It Ev ENV_VAR_2
+.\" Description of ENV_VAR_2
+.\" .El                      
+.\" .Sh FILES                \" File used or created by the topic of the man page
+.\" .Bl -tag -width "/Users/joeuser/Library/really_long_file_name" -compact
+.\" .It Pa /usr/share/file_name
+.\" FILE_1 description
+.\" .It Pa /Users/joeuser/Library/really_long_file_name
+.\" FILE_2 description
+.\" .El                      \" Ends the list
+.\" .Sh DIAGNOSTICS       \" May not be needed
+.\" .Bl -diaggg.\" .It Diagnostic Tag
+.\" Diagnostic informtion here.
+.\" .It Diagnostic Tag
+.\" Diagnostic informtion here.
+.\" .El
+.Sh SEE ALSO
+.\" List links in ascending order by section, alphabetically within a section.
+.\" Please do not reference files that do not exist without filing a bug report
+.Xr https://github.com/stephencelis/syn ,
+.Xr http://writer.pro
+.\" .Sh BUGS              \" Document known, unremedied bugs
+.\" .Sh HISTORY           \" Document history if command behaves in a unique manner

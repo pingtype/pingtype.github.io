@@ -1,0 +1,4123 @@
+<!--
+	Pingtype English-Chinese
+	Peter Burkimsher 2017-05-18, 2017-07-10
+	
+	A literal translator for English. 
+	
+	Dictionary must be in lower case with spaced punctuation. 
+	
+	Colours:
+	1. Other
+	2. Verb
+	3. Adjective
+	4. Noun
+	
+	+ Translate HTML
+	+ Translate text
+	+ IPA (KK yinbiao) from http://lingorado.com/ipa/
+	+ Phonics
+	+ Subtitles
+	+ Vocabulary
+	+ Print
+	+ CSS make Chinese larger
+	+ Chicken Run example
+	+ IPA to Phonics, Bopomofo http://localhost/pingtype/ipaToPhonics.html
+	+ Add words from Bible
+	+ Change spacing for idioms
+	+ Dictionary editor
+	+ Support for "something" e.g. "throw something up"
+	
+	To do:
+	- Support for "someone" and multi-word phrases e.g. "give someone a hand"
+	- Word frequency from https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Top_English_words_lists
+	- Documentation
+	- Go live
+	- Tell Joanne Wood about it
+	- File writing
+	- Syllable spacing instead of phonics
+	- https://github.com/dariusk/pos-js
+	- Classification from wiktionary is too large to load by default
+	
+	Data sources:
+	- Subtitles
+	- Bible
+	- TED
+	- marumaru translated song lyrics
+	https://www.jpmarumaru.com/tw/JPSongPlay-3794.html
+	https://www.jpmarumaru.com/tw/JPSongPlay-1668.html
+	- other blogs with song lyrics
+	http://hjk897456321.pixnet.net/blog/post/338820110
+	http://sini713510618.pixnet.net/blog/post/202736047
+	
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Pingtype English</title>
+		<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			.chinese_big {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 30px;
+			  display:inline;
+			}
+
+			.chinese_small {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+			.chinese_literal {
+			  font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+			table td {
+				white-space: nowrap;
+      		}
+
+			.english_1 {
+			  color:#000000;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.english_2 {
+			  color:#f82423;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.english_3 {
+			  color:#189c19;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.english_4 {
+			  color:#178FD1;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.ipa_1 {
+			  color:#000000;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.ipa_2 {
+			  color:#f82423;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.ipa_3 {
+			  color:#189c19;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.ipa_4 {
+			  color:#178FD1;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.phonics_1 {
+			  color:#000000;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.phonics_2 {
+			  color:#f82423;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.phonics_3 {
+			  color:#189c19;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.phonics_4 {
+			  color:#178FD1;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.bopomofo_1 {
+			  color:#000000;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.bopomofo_2 {
+			  color:#f82423;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.bopomofo_3 {
+			  color:#189c19;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.bopomofo_4 {
+			  color:#178FD1;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.literal {
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+			.chinese {
+			  color:#000000;
+			  font-size: 22px;
+			  display:inline;
+			}
+
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+    	</style>
+
+		<link rel="stylesheet" href="jquery-ui.css"/>
+
+    </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		翻譯 軟體 <b>Pingtype Parallel Translator</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+	  				<div id="subtitlesInputTitle" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden;width:0px" class="advanced">
+  						Subtitles
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+	  				<div id="englishSpacedTitle" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden;width:0px" class="advanced">
+  						English Spaced
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Chinese
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output 文本 輸出
+  					</div>
+    			</td>
+    		</tr>
+    		<tr>
+    			<td>
+  					<textarea id="subtitlesTextArea" class="advanced" rows="10" cols="30" style="visibility:hidden;width:0px" ></textarea>
+  				</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishSpacedTextArea" rows="10" cols="50" class="advanced" style="visibility:hidden;width:0px"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="chineseTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+  				
+    		</tr>
+    	</table>
+    	
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate 翻譯
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear 擦除
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearLocalStorage();" style="width:30px">
+						MC
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="memoryPlus();" style="width:30px">
+						M+
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="loadFromLocalStorage();" style="width:30px">
+						MR
+					</div>
+				</td>
+				<td>
+					<div id="editButton" class="ButtonInner" onclick="openDictionaryEditor();" style="width:60px">
+						Edit 編輯
+					</div>
+				</td>
+				<td>
+					<div id="advancedButton" class="ButtonInner" onclick="advancedButtonClicked();" style="width:90px">
+						Advanced 高級
+					</div>
+				</td>
+				<td>
+					<div id="helpButton" class="ButtonInner" onclick="helpButtonClicked();" style="width:20px">
+						?
+					</div>
+				</td>
+				<td>
+					<div id="printButton" class="ButtonInner" onclick="printButtonClicked();" style="width:60px">
+						Print 印表
+					</div>
+				</td>
+				<td>
+					<div id="googleTranslatePhraseButton" class="ButtonInner advanced" onclick="googleTranslatePhraseButtonClicked();" style="visibility:hidden;width:100px">
+	  					Google Translate
+					</div>
+				</td>
+				<td>
+					<div id="onlyTranslateButton" class="ButtonInner advanced" onclick="translateInterface();" style="visibility:hidden">
+	  					Translate 翻譯
+					</div>
+				</td>
+			</tr>
+    	</table>
+    	
+		<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations 註釋
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="englishPlainCheckbox" ><span onclick="toggleCheckbox('englishPlainCheckbox');">English Plain 純</span>
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
+						<input type="range" id="ipaOpacity" value="100" onclick="setIpaOpacity();">
+						<input type="checkbox" id="ipaCheckbox" checked="true"><span onclick="toggleCheckbox('ipaCheckbox');">IPA KK音標</span>
+						<input type="range" id="phonicsOpacity" value="100" onclick="setPhonicsOpacity();">
+						<input type="checkbox" id="phonicsCheckbox" checked="true"><span onclick="toggleCheckbox('phonicsCheckbox');">Phonics</span>
+						<input type="range" id="bopomofoOpacity" value="100" onclick="setBopomofoOpacity();">
+						<input type="checkbox" id="bopomofoCheckbox" checked="true"><span onclick="toggleCheckbox('bopomofoCheckbox');">ㄅㄆㄇㄈ</span>
+						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="range" id="chineseOpacity" value="100" onclick="setChineseOpacity();">
+						<input type="checkbox" id="chineseCheckbox" checked="true"><span onclick="toggleCheckbox('chineseCheckbox');">Chinese</span>
+					</td>
+					<td>
+						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+					</td>
+				</tr>
+			</table>
+			<table id="functionsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Functions
+						</div>
+					</td>
+					<td>
+						<div id="subtitlesButton" class="ButtonInner advanced" onclick="subtitlesButtonClicked();" style="width:65px;visibility:hidden">
+							Subtitles
+						</div>
+					</td>
+					<td>
+						<div id="shuffleButton" class="ButtonInner advanced" onclick="shuffleButtonClicked();" style="width:55px;visibility:hidden">
+							Shuffle
+						</div>
+					</td>
+					<td>
+						<div id="addWordsButton" class="ButtonInner advanced" onclick="addWordsButtonClicked();" style="visibility:hidden;width:100px">
+							Add Words
+						</div>
+					</td>
+				</tr>
+			</table>
+			
+		<table id="toneColoursTable" class="advanced" style="visibility:hidden;height:0px;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						Colours 顏色
+					</div>
+				</td>
+				<td>
+					<input class="jscolor" id="englishColourPickerOne" value="000000" onchange="updateColours();">
+				</td>
+				<td>
+					<input class="jscolor" id="englishColourPickerTwo" value="f82423" onchange="updateColours();">
+				</td>
+				<td>
+					<input class="jscolor" id="englishColourPickerThree" value="189c19" onchange="updateColours();">
+				</td>
+				<td>
+					<input class="jscolor" id="englishColourPickerFour" value="178FD1" onchange="updateColours();">
+				</td>
+				<td>
+					<div id="blackButton" class="ButtonInner advanced" onclick="blackColours();" style="visibility:hidden;width:50px">
+						Black
+					</div>
+				</td>
+				<td>
+					<div id="greyButton" class="ButtonInner advanced" onclick="greyColours();" style="visibility:hidden;width:40px">
+						Grey
+					</div>
+				</td>
+				<td>
+					<div id="peterButton" class="ButtonInner advanced" onclick="peterColours();" style="visibility:hidden;width:60px">
+						Pingtype
+					</div>
+				</td>
+			</tr>
+		</table>
+
+			<table id="wordListsTable" class="advanced" style="visibility:hidden;height:0px;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Word Lists
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="hashOutCheckbox" ><span onclick="toggleCheckbox('hashOutCheckbox');">Hash out</span>
+					</td>
+					<td>
+						<input type="checkbox" id="basicEnglishCheckbox" ><span onclick="toggleCheckbox('basicEnglishCheckbox');">BasicEnglish</span>
+					</td>
+					<td>
+						<div id="loadWordListsButton" class="ButtonInner advanced" onclick="loadWordLists();" style="visibility:hidden;width:100px">
+							Load Word Lists
+						</div>
+					</td>
+					<td>
+						<div id="wordListPercent"></div>
+					</td>
+				</tr>
+			</table>
+		
+		
+			<table id="filenameTable" class="advanced" style="visibility:hidden;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Filename 文件名
+						</div>
+					</td>
+					<td>
+						<textarea id="filenameTextArea" rows="1" cols="50" >filename.txt</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="useGithubCheckbox" ><span onclick="toggleCheckbox('useGithubCheckbox');">Use Github</span>
+					</td>
+					<td>
+						<div class="ButtonInner" onclick="saveHtml();">
+							Save HTML 保存
+						</div>
+					</td>
+					<td>
+						<div class="ButtonInner" onclick="saveText();">
+							Save Text 保存
+						</div>
+					</td>
+				</tr>
+			</table>
+			
+		</div>
+		
+		<table id="missingWordsTable" class="advanced" style="visibility:hidden;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;"></table>
+		
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output 彩色 輸出
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<div id="debugDiv" class="advanced" style="visibility:hidden">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug 調試</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+		
+		<!-- Dictionary editor dialog -->
+		<div id="dictionaryEditor" title="Dictionary Editor" style="visibility:hidden">
+
+			<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+				Upload
+			</div>
+		
+			<table style="width:100%">
+				<tr>
+					<td>
+						<div id="addedLabel">0 added</div>
+					</td>
+					<td>
+						<div id="editedLabel">0 edited</div>
+					</td>
+					<td>
+						<div id="deletedLabel">0 deleted</div>
+					</td>
+					<td>
+						<div id="uploadedLabel">0 uploaded</div>
+					</td>
+					<td>
+						<div id="uploadButtonTable" onclick="uploadButtonClicked();">
+							<table>
+								<tr>
+									<td>
+										<img src="sync.png"</img>
+									</td>
+									<td>
+										Upload
+									</td>
+								</tr>
+							</table>
+						</div>
+					</td>
+				</tr>
+			</table>
+		
+		   <div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+			   Add/Edit
+		   </div>
+
+			<table>
+				<tr>
+					<td>
+						English
+					</td>
+					<td>
+						<textarea id="dictionaryEditorEnglishTextArea" rows="1" cols="7" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 30px;"></textarea>
+					</td>
+					<td>
+						<table>
+							<tr>
+								<td>
+									<div id="dictionaryEditorIpaLowercaseButton" class="ButtonInner" onclick="dictionaryEditorIpaLowercaseButtonClicked();" style="width:70px">Lowercase</div>
+								</td>
+								<!--
+								<td>
+									<div id="dictionaryEditorWikButton" class="ButtonInner" onclick="dictionaryEditorWikButtonClicked();" style="width:30px">Wik</div>
+									<div id="dictionaryEditorODEButton" class="ButtonInner" onclick="dictionaryEditorODEButtonClicked();" style="width:30px">ODE</div>
+								</td>
+								-->
+								<td>
+									<div id="dictionaryEditorSearchKey" class="key" onclick="dictionaryEditorSearch();">🔍</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table>
+							<tr>
+								<td>
+									IPA
+								</td>
+							</tr>
+							<tr>
+								<td>
+									(e.g. pɪŋ taɪp)
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td>
+						<textarea id="dictionaryEditorIpaTextArea" rows="2" cols="19" style="background-color: #ffffff;resize: none;"></textarea>
+					</td>
+					<td>
+						<div id="dictionaryEditorIpaSearchButton" class="ButtonInner" onclick="dictionaryEditorIpaSearchButtonClicked();" style="width:100px">
+							English to IPA
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Phonics
+					</td>
+					<td>
+						<textarea id="dictionaryEditorPhonicsTextArea" rows="2" cols="19" style="background-color: #ffffff;resize: none;"></textarea>
+					</td>
+					<td>
+						<div id="dictionaryEditorIpaToPhonicsButton" class="ButtonInner" onclick="dictionaryEditorIpaToPhonicsButtonClicked();" style="width:100px">
+							IPA to Phonics
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Bopomofo
+					</td>
+					<td>
+						<textarea id="dictionaryEditorBopomofoTextArea" rows="2" cols="19" style="background-color: #ffffff;resize: none;"></textarea>
+					</td>
+					<td>
+						<div id="dictionaryEditorIpaToBopomofoButton" class="ButtonInner" onclick="dictionaryEditorIpaToBopomofoButtonClicked();" style="width:100px">
+							IPA to ㄅㄆㄇㄈ
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Chinese
+					</td>
+					<td>
+						<textarea id="dictionaryEditorChineseTextArea" rows="2" cols="19" style="background-color: #ffffff;resize: none;"></textarea>
+					</td>
+					<td>
+						<div id="dictionaryEditorGoogleTranslateButton" class="ButtonInner" onclick="dictionaryEditorGoogleTranslateButtonClicked();" style="width:100px">
+							Google Translate
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						POS
+					</td>
+					<td>
+						<select id="pos">
+							<option value="1">Other</option>
+							<option value="2">Verb</option>
+							<option value="3">Adjective</option>
+							<option value="4">Noun</option>
+						</select>
+					</td>
+					<td>
+						<div id="dictionaryEditorClassifyButton" class="ButtonInner" onclick="dictionaryEditorClassifyButtonClicked();" style="width:70px">
+							Classify
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
+					</td>
+					<td>
+						<div class="DefaultButtonOuter" style="margin-left:10px">
+							<div id="dictionaryEditorAddButton" class="ButtonInner" onclick="dictionaryEditorAddButtonClicked();">
+								Add
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		
+			<table>
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Remove
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<textarea id="dictionaryEditorRemoveTextArea" rows="1" cols="7" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 30px;"></textarea>
+					</td>
+					<td>
+						<div class="DefaultButtonOuter" style="margin-left:10px">
+							<div id="dictionaryEditorRemoveButton" class="ButtonInner" onclick="dictionaryEditorRemoveButtonClicked();">
+								Remove
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		
+			<div style="margin-left:120px">
+				<div id="defaultTranslateButton" class="DefaultButtonOuter">
+					<div id="retranslateButton" class="ButtonInner" onclick="translateButtonClicked();">
+						Retranslate
+					</div>
+				</div>
+			</div>
+			<!--
+			<table>
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Dictionary
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<textarea id="dictionaryEditorDictionaryTextArea" rows="5" cols="70" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 9px;"></textarea>
+					</td>
+				</tr>
+			</table>
+			-->
+		</div>
+	    	
+    </body>
+    
+	<!-- External scripts -->
+	<script src="leaflet/leaflet.js"></script>
+	<script src="jscolor.js"></script>
+	<script src="jquery-3.2.1.min.js"></script>
+	<script src="jquery-ui.js"></script>
+
+	<!-- Native scripts -->
+    <script>
+    	
+		var combinedDictionaryData = "";
+		var nounsData="";
+		var verbsData="";
+		var adjectivesData="";
+
+		var lastDictionary = false;
+		
+		var commonWords = "";
+    	
+	var Base64 = {
+		// private property
+		_keyStr : "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+
+		// public method for encoding
+		encode : function (input) {
+			var output = "";
+			var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+			var i = 0;
+
+			input = Base64._utf8_encode(input);
+
+			while (i < input.length) {
+
+				chr1 = input.charCodeAt(i++);
+				chr2 = input.charCodeAt(i++);
+				chr3 = input.charCodeAt(i++);
+
+				enc1 = chr1 >> 2;
+				enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+				enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+				enc4 = chr3 & 63;
+
+				if (isNaN(chr2)) {
+					enc3 = enc4 = 64;
+				} else if (isNaN(chr3)) {
+					enc4 = 64;
+				}
+
+				output = output +
+				Base64._keyStr.charAt(enc1) + Base64._keyStr.charAt(enc2) +
+				Base64._keyStr.charAt(enc3) + Base64._keyStr.charAt(enc4);
+
+			}
+
+			return output;
+		},
+
+		// public method for decoding
+		decode : function (input) {
+			var output = "";
+			var chr1, chr2, chr3;
+			var enc1, enc2, enc3, enc4;
+			var i = 0;
+
+			input = input.replace(/[^A-Za-z0-9\+\/\=]/g, "");
+
+			while (i < input.length) {
+
+				enc1 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc2 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc3 = Base64._keyStr.indexOf(input.charAt(i++));
+				enc4 = Base64._keyStr.indexOf(input.charAt(i++));
+
+				chr1 = (enc1 << 2) | (enc2 >> 4);
+				chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+				chr3 = ((enc3 & 3) << 6) | enc4;
+
+				output = output + String.fromCharCode(chr1);
+
+				if (enc3 != 64) {
+					output = output + String.fromCharCode(chr2);
+				}
+				if (enc4 != 64) {
+					output = output + String.fromCharCode(chr3);
+				}
+
+			}
+
+			output = Base64._utf8_decode(output);
+
+			return output;
+
+		},
+
+		// private method for UTF-8 encoding
+		_utf8_encode : function (string) {
+			string = string.replace(/\r\n/g,"\n");
+			var utftext = "";
+
+			for (var n = 0; n < string.length; n++) {
+
+				var c = string.charCodeAt(n);
+
+				if (c < 128) {
+					utftext += String.fromCharCode(c);
+				}
+				else if((c > 127) && (c < 2048)) {
+					utftext += String.fromCharCode((c >> 6) | 192);
+					utftext += String.fromCharCode((c & 63) | 128);
+				}
+				else {
+					utftext += String.fromCharCode((c >> 12) | 224);
+					utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+					utftext += String.fromCharCode((c & 63) | 128);
+				}
+
+			}
+
+			return utftext;
+		},
+
+		// private method for UTF-8 decoding
+		_utf8_decode : function (utftext) {
+			var string = "";
+			var i = 0;
+			var c = c1 = c2 = 0;
+
+			while ( i < utftext.length ) {
+
+				c = utftext.charCodeAt(i);
+
+				if (c < 128) {
+					string += String.fromCharCode(c);
+					i++;
+				}
+				else if((c > 191) && (c < 224)) {
+					c2 = utftext.charCodeAt(i+1);
+					string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+					i += 2;
+				}
+				else {
+					c2 = utftext.charCodeAt(i+1);
+					c3 = utftext.charCodeAt(i+2);
+					string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+					i += 3;
+				}
+
+			}
+			return string;
+		}
+		} // end Base64
+
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+    	
+		function sendGithubPutResponseHandler(request, thisData, thisUrl, filename)
+		{
+
+			var thisResponse = request.responseText;
+			//console.log(thisResponse);
+
+			if (request.readyState == 4)
+			{
+				// The request is done
+				if (request.status == 200)
+				{
+					// All is well
+										
+				} else {
+				
+					var thisResponseString = request.responseText;
+		
+					var thisResponse = JSON.parse(thisResponseString);
+		
+					var thisMessage = thisResponse.message;
+			
+					if (contains(thisMessage, "sha"))
+					{
+						// We need to overwrite, not write a new file
+  						readGithubFileToModify(thisData, thisUrl, filename, false);
+					}
+				
+				}
+			}
+		
+			return;
+		}  // end function sendGithubPutResponseHandler
+  
+		function sendGithubPut(thisString, thisUrl, thisData, filename)
+		{
+			var request = new XMLHttpRequest();
+			request.open('PUT', thisUrl, true);
+			request.setRequestHeader('Authorization', 'token ' + token);
+
+			request.onreadystatechange = function(e) { return sendGithubPutResponseHandler.call(e, request, thisData, thisUrl, filename); };
+
+			var requestData = thisString;
+
+			request.send(requestData);
+
+		} // end function sendGithubPut
+  
+		function sendGithubRequest(thisUrl)
+		{
+			var xmlhttp = new XMLHttpRequest();
+
+				xmlhttp.onreadystatechange = function() 
+				{
+					if (xmlhttp.readyState == XMLHttpRequest.DONE ) 
+					{
+						if (xmlhttp.status == 200)
+						{
+						
+							var thisResponse = xmlhttp.responseText;
+						
+							//console.log(thisResponse);
+						
+					   } // end if it loaded the KML
+					   else if (xmlhttp.status == 400) 
+					   {
+						  alert('There was an error 400');
+					   }
+					   else 
+					   {
+						   alert('error sending github request');
+					   }
+					}
+				};
+
+				xmlhttp.open("GET", thisUrl, true);
+				xmlhttp.send();
+				
+			} // end function sendGithubRequest
+  		
+		function githubModifyResponseHandler(request, thisData, filename, append)
+		{
+			if (request.readyState == 4)
+			{
+				// The request is done
+				if (request.status == 200)
+				{
+					// All is well
+					
+					var thisResponseString = request.responseText;
+		
+					var thisResponse = JSON.parse(thisResponseString);
+					
+					var thisSha = thisResponse.sha;
+					
+					var thisFileBase64 = thisResponse.content;
+					
+					var thisFileText = Base64.decode(thisFileBase64);
+					
+					// Append the data
+					if (append == true)
+					{
+						thisData = thisFileText + thisData;
+					}
+					
+					var thisDataBase64 = Base64.encode(thisData);
+					
+					//debugLog(thisSha + "<br></br>" + thisDataBase64);
+					
+					// Just append to the base64
+					//var newFileBase64 = thisFileBase64 + thisDataBase64;
+					
+					// Write the new file
+  					var message = "append";
+  					var committer = "Peter Burkimsher";
+  					var email = "peterburk@gmail.com";
+  			
+  					var thisString = "{\"path\": \"" + filename + "\", \"message\": \"" + message + "\", \"sha\":\"" + thisSha + "\", \"committer\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"content\": \"" + thisDataBase64 + "\", \"branch\": \"master\"}"
+  					
+  					//debugLog(thisString);
+		
+		  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  		
+  					sendGithubPut(thisString, thisUrl);
+										
+				} // end if request status is 200
+			} // end if request is ready
+		} // end function githubAppendResponseHandler
+		
+		function readGithubFileToModify(thisData, thisUrl, filename, append)
+		{
+			var request = new XMLHttpRequest();
+			request.open('GET', thisUrl, true);
+			request.setRequestHeader('Authorization', 'token ' + token);
+
+			request.onreadystatechange = function(e) { return githubModifyResponseHandler.call(e, request, thisData, filename, append); };
+
+			request.send();
+
+		} // end function readGithubFileToAppend
+
+  		function appendToGithub(filename, thisData)
+  		{
+  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  			
+  			readGithubFileToModify(thisData, thisUrl, filename, true);
+  		} // end function appendToGithub
+
+  		function writeToGithub(filename, thisData)
+  		{
+  			var thisUrl = "https://api.github.com/repos/" + githubUsername + "/" + githubRepo + "/contents/" + filename;
+  			
+  			var thisDataBase64 = Base64.encode(thisData);
+  			
+  			var message = "write";
+  			var committer = "peter";
+  			var email = "peter";
+  			
+  			var thisString = "{\"path\": \"" + filename + "\", \"message\": \"" + message + "\", \"committer\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"author\": {\"name\": \"" + committer + "\", \"email\": \"" + email + "\"}, \"content\": \"" + thisDataBase64 + "\", \"branch\": \"master\"}"
+  			
+  			sendGithubPut(thisString, thisUrl, thisData, filename);
+  		} // end function writeToGithub
+  				
+		// Write to file response handler
+		function writeToFileResponseHandler(e, request)
+		{
+		
+		} // end function writeToFile
+
+
+		// Write to file - call a PHP script to write a file
+		function writeToFile(filename, thisString)
+		{
+			//debugLog("writeToFile(" + filename + "," + thisString + ")");
+
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+
+			if (useGithub == false)
+			{
+				var request = new XMLHttpRequest();
+				request.open('POST', 'writeToFile.php', true);
+				request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+				thisString = replaceChars(thisString, "&", "and")
+
+				request.onreadystatechange = function(e) { return writeToFileResponseHandler.call(e, request); };
+				
+				var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+				request.send(requestData);
+			} else {
+				writeToGithub(filename, thisString);
+				
+			}
+
+		} // end function writeToFile
+
+		function appendToFileResponseHandler(request)
+		{
+		  //debugLog("appendToFileResponseHandler");
+		  if (request.readyState == 4)
+		  {
+			// The request is done
+			if (request.status == 200)
+			{
+			  // All is well	  
+			}
+		  }
+
+		  return;
+		}
+		  
+		function appendToFile(filename, thisString)
+		{
+			//debugLog("appendToFile(" + filename + "," + thisString + ")");
+			
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+			
+			if (useGithub == false)
+			{
+				var request = new XMLHttpRequest();
+				request.open('POST', 'appendToFile.php', true);
+				request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+				request.onreadystatechange =
+		  		function(e) { return appendToFileResponseHandler.call(e, request); };
+
+				var requestData = "filename=" + filename + "&" + "data=" + thisString;
+
+				request.send(requestData);
+			} else {
+				appendToGithub(filename, thisString);
+
+			}
+
+		} // end function appendToFile
+
+		function searchOxford(thisWord)
+		{
+			//debugLog("searchOxford(" + thisWord + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+			xmlhttp.withCredentials = true;
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						var thisDefinition = xmlhttp.responseText;
+												
+						debugLog(thisDefinition);
+						
+						document.getElementById("dictionaryEditorDictionaryTextArea").value = thisDefinition;
+						
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", "https://od-api.oxforddictionaries.com:443/api/v1/entries/en/" + thisWord, false);
+
+			xmlhttp.setRequestHeader('Accept', 'application/json');
+			xmlhttp.setRequestHeader('app_id', '40a8a91b');
+			xmlhttp.setRequestHeader('app_key', '7af4bb7559bda998c2d96d67e766884d');
+
+
+			xmlhttp.send();
+				
+		} // end function searchOxford
+
+		function searchWiktionary(thisWord)
+		{
+			//debugLog("searchWiktionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						var thisHtml = xmlhttp.responseText;
+						
+						document.getElementById("dictionaryEditorDictionaryTextArea").value = thisHtml;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", "http://en.wiktionary.org/wiki/"+thisWord, true);
+			xmlhttp.send();
+				
+		} // end function searchWiktionary
+		
+		function loadNouns(filename)
+		{
+			//debugLog("loadNouns(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						nounsData = nounsData + "\n" + xmlhttp.responseText;
+					    
+					    if (verbsData == "")
+					    {
+					    	loadVerbs("English/Classifications/verbs.txt");
+					    }
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadNouns
+
+		function loadVerbs(filename)
+		{
+			//debugLog("loadVerbs(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						verbsData = verbsData + "\n" + xmlhttp.responseText;
+					    					    
+					    if (adjectivesData == "")
+					    {
+					    	loadAdjectives("English/Classifications/adjectives.txt");
+					    }
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadVerbs
+
+		function loadAdjectives(filename)
+		{
+			//debugLog("loadAdjectives(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						verbsData = verbsData + "\n" + xmlhttp.responseText;
+					    
+					    classifyWord();
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadAdjectives
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("saving " + savedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+		
+		function loadChinese(filename)
+		{
+			//debugLog("loadChinese(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						chineseText = xmlhttp.responseText;
+						document.getElementById("chineseTextArea").value = chineseText;
+
+						translateButtonClicked();
+
+				   } // end if it loaded the file
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading chinese file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadChinese
+
+		function loadEnglish(filename)
+		{
+			//debugLog("loadEnglish(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						englishText = xmlhttp.responseText;
+						document.getElementById("englishTextArea").value = englishText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading english file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadEnglish
+				
+		function dictionariesLoaded()
+		{
+			//debugLog("dictionariesLoaded");
+
+			if ((combinedDictionaryData == "") || (combinedDictionaryData == undefined))
+			{
+				combinedDictionaryData = localStorage["dictionary"];
+			}
+
+			if ((combinedDictionaryData == "") || (combinedDictionaryData == undefined))
+			{
+			    document.getElementById("chineseTextArea").value = "Error loading dictionaries";
+			    
+			    return;
+			}
+
+			// If we have parameters
+			if ((QueryString.command != "") && (QueryString.command != undefined))
+			{
+			    eval(QueryString.command);
+			}
+
+			// If we have a word list
+			if ((QueryString.wordList != "") && (QueryString.wordList != undefined))
+			{
+				//var chineseUrl = encodeURI(QueryString.chineseFile);
+				var wordList = QueryString.wordList;
+				
+				//debugLog(wordList);
+				
+				if (wordList == "basic")
+				{
+					loadCommonWords("wordLists/English/ogdenBasicEnglish850.txt");
+				}
+
+				if (wordList == "wyabdc")
+				{
+					loadCommonWords("wordLists/English/wyabdc.txt");
+				}
+
+			}
+
+			// If we have an english file
+			if ((QueryString.englishFile != "") && (QueryString.englishFile != undefined))
+			{
+				//var englishUrl = encodeURI(QueryString.englishFile);
+				var englishUrl = QueryString.englishFile;
+			
+			    loadEnglish(englishUrl);
+			}
+			
+			// If we have a Chinese file
+			if ((QueryString.chineseFile != "") && (QueryString.chineseFile != undefined))
+			{
+				//var chineseUrl = encodeURI(QueryString.chineseFile);
+				var chineseUrl = QueryString.chineseFile;
+
+			    loadChinese(chineseUrl);
+			}
+
+			// If we have parameters
+			if ((QueryString.text != "") && (QueryString.text != undefined))
+			{
+			    document.getElementById("englishTextArea").value = QueryString.text;
+			    document.getElementById("chineseTextArea").value = "";
+			    
+			    wordSpaceButtonClicked();
+			    
+			    translateInterface();
+			}
+		
+		} // end function dictionariesLoaded
+    	
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+		
+		// isChinese - check if the character is in the unihan dictionary 
+		function isChinese(thisCharacter)
+		{
+			//debugLog("isChinese(" + thisCharacter + ")");
+			
+			// Pi-hahiroth
+			if (thisCharacter == "．")
+			{
+				return true;
+			}
+			
+			var charCode = thisCharacter.charCodeAt(0);
+		
+			if (charCode >= 13312)
+			{
+				if (charCode <= 64217)
+				{
+					return true;
+				}
+			}
+			
+			if (charCode >= 131072)
+			{
+				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			return false;
+			
+		} // end function isChinese
+		
+		function containsChineseString(thisString)
+		{
+			//debugLog("isChineseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsChinese = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isChinese(thisCharacter) == true)
+				{
+					stringIsChinese = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsChinese;
+		} // end function containsChineseString
+    	
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+    	
+		function cleanHtml(thisString)
+		{
+			//debugLog("cleanHtml(" + thisString + ")");
+			
+			var regex = /(<([^>]+)>)/ig;
+			
+			var cleanText = thisString.replace(regex, "");
+			
+			return cleanText;
+			
+		} // end function cleanHtml
+    	
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+    	
+		function openWindowWithPost(url, data) 
+		{
+			var form = document.createElement("form");
+			form.target = "_blank";
+			form.method = "POST";
+			form.action = url;
+			form.style.display = "none";
+
+			for (var key in data) {
+				var input = document.createElement("input");
+				input.type = "hidden";
+				input.name = key;
+				input.value = data[key];
+				form.appendChild(input);
+			}
+
+			document.body.appendChild(form);
+			form.submit();
+			document.body.removeChild(form);
+		} // end function openWindowWithPost
+    	
+    	function removePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", "");
+    		thisWord = replaceChars(thisWord, "' ", "");
+    		thisWord = replaceChars(thisWord, " ", "");
+
+    		thisWord = replaceChars(thisWord, "?", "");
+    		thisWord = replaceChars(thisWord, ",", "");
+    		thisWord = replaceChars(thisWord, "!", "");
+    		thisWord = replaceChars(thisWord, "\"", "");
+    		thisWord = replaceChars(thisWord, "(", "");
+    		thisWord = replaceChars(thisWord, ")", "");
+    		thisWord = replaceChars(thisWord, ".", "");
+    		
+    		return thisWord;
+    	} // end function removePunctuation
+
+		function showMissingWords(theseWords)
+		{
+			//debugLog("showMissingWords(" + theseWords + ")");
+
+			var missingWordsHtml = "";
+
+			var headers = "<tr><td><div style=\"font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;\">Missing words</div></td><td><textarea id=\"missingWordsTextArea\" rows=\"5\" cols=\"50\" >";
+		
+			var footers = "</textarea></td></tr>";
+			
+			var missingWordsArray = theseWords.split("\n");
+			
+			var missingWordsString = "";
+			
+			var numberWords = missingWordsArray.length;
+			
+			if (numberWords <= 1)
+			{
+				return;
+			}
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = missingWordsArray[currentWord];
+				
+				if (contains(missingWordsString,thisWord) == false)
+				{
+					missingWordsString = missingWordsString + thisWord + "\n";
+				}
+			} // end for every word
+			
+			missingWordsHtml = headers + missingWordsString + footers;
+		
+			var missingWordsTable = document.getElementById("missingWordsTable");
+			missingWordsTable.innerHTML = missingWordsHtml;
+		
+		} // end function showMissingWords
+
+
+    	function spacePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", " ' ");
+    		thisWord = replaceChars(thisWord, "' ", " ' ");
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");
+    		
+    		thisWord = replaceChars(thisWord, "0", " 0 ");
+    		thisWord = replaceChars(thisWord, "1", " 1 ");
+    		thisWord = replaceChars(thisWord, "2", " 2 ");
+    		thisWord = replaceChars(thisWord, "3", " 3 ");
+    		thisWord = replaceChars(thisWord, "4", " 4 ");
+    		thisWord = replaceChars(thisWord, "5", " 5 ");
+    		thisWord = replaceChars(thisWord, "6", " 6 ");
+    		thisWord = replaceChars(thisWord, "7", " 7 ");
+    		thisWord = replaceChars(thisWord, "8", " 8 ");
+    		thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+    	
+    	function wordSpace(thisText)
+    	{
+    		var thisText = spacePunctuation(thisText);
+    		
+    		thisText = replaceChars(thisText, " ", "§");
+    		
+    		// Remove double spacing
+    		while (contains(thisText, "§§"))
+    		{
+    			thisText = replaceChars(thisText, "§§", "§");
+    		}
+    		
+			var thisEnglishLines = thisText.split("\n");
+			
+			var numberLines = thisEnglishLines.length;
+			
+			var spacedEnglish = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisEnglishLine = thisEnglishLines[currentLine];
+				
+				var thisEnglishLineArray = thisEnglishLine.split("§");
+				
+				var lastWasNotEnglish = false;
+				var spacedEnglishLine = "";
+				
+				var lineIsEnglish = true;
+				
+				var lastWord = 0;
+
+				var numberWords = thisEnglishLineArray.length;
+
+
+				// Skip all non-English lines
+		   		if (containsEnglishString(thisEnglishLine) == false)
+				{
+					spacedEnglish = spacedEnglish + thisEnglishLine + "\n";
+				} else {
+				
+					for (var currentWord = 0; currentWord < numberWords; currentWord++)
+					{
+						var thisPhrase = "";
+					
+						var phraseFound = false;
+					
+						for (var phraseLength = 5; phraseLength >= 2; phraseLength--)
+						{
+							var lastWord = currentWord + phraseLength;
+					   
+							if (lastWord > numberWords)
+							{
+								lastWord = numberWords;
+							}
+						   	
+						   	thisPhrase = "";
+						   	
+						   	for (var thisWordOffset = currentWord; thisWordOffset < lastWord; thisWordOffset++)
+						   	{
+						   		thisPhrase = thisPhrase + thisEnglishLineArray[thisWordOffset] + "§";
+						   	}
+						   	
+						   	thisPhrase = replaceChars(thisPhrase, "§", " ");
+						   	
+						   	thisPhrase = thisPhrase.trim();
+						   	
+						   	//debugLog(thisPhrase);
+						    
+							var thisWord = thisEnglishLineArray[currentWord];
+							
+							//if (isEnglishString(thisWord) == false)
+							//{
+							//	phraseFound == false;
+							//} else {
+								
+							var inDictionary = false;
+							
+							var thisPhraseLowerCase = thisPhrase.toLowerCase();
+							 
+							inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseLowerCase + "	");
+							
+							// Search for "something" phrases
+							if (inDictionary == false)
+							{
+								var thisPhraseLowerCaseArray = thisPhraseLowerCase.split(" ");
+							
+								var thisPhraseLastWordOffset = thisPhraseLowerCaseArray.length - 1;
+							
+								var thisPhraseSomething = thisPhraseLowerCaseArray[0] + " something " + thisPhraseLowerCaseArray[thisPhraseLastWordOffset];
+
+								inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+							} // end search for something
+							
+							
+							if (inDictionary == true)
+							{
+								// Move the character along in the string
+								currentWord = currentWord + phraseLength - 1;
+					   
+								phraseFound = true;
+				   
+								// Exit the loop cleanly
+								phraseLength = 0;
+							} // end if the character is not Chinese
+							
+							//} // if the word exists
+							
+						} // end for every phrase length
+						
+						 // If the phrase is not found, just use the word
+						 if (phraseFound == false)
+						 {
+							 //var thisWord = thisEnglishLineArray[currentWord];
+					
+							 //if (isEnglishString(thisWord) == false)
+							 //{
+								 // Don't add spaces between non-English characters
+								 //spacedEnglishLine = spacedEnglishLine + thisWord;
+						
+								 //lastWasNotEnglish = true;
+								
+							 //} else {
+						
+								 // Add a space if we're back to parsing English
+								 //if (lastWasNotEnglish == true)
+								 //{
+								 //	 spacedEnglishLine = spacedEnglishLine + "§";
+								 //	 lastWasNotEnglish = false;
+								 //}
+						
+								 spacedEnglishLine = spacedEnglishLine + thisWord + "§";					
+
+							 //} // end if this character is not English
+					
+						 } else {
+
+							 // Add a space if we're back to parsing English
+							 //if (lastWasNotEnglish == true)
+							 //{
+								 //spacedEnglishLine = spacedEnglishLine + "§";
+								 //lastWasNotEnglish = false;
+							 //}
+
+							 spacedEnglishLine = spacedEnglishLine + thisPhrase + "§";
+
+						 } // end if the word was not found
+						
+					} // end for every word
+
+					spacedEnglish = spacedEnglish + spacedEnglishLine + "\n";
+					
+				} // end if skip all non-English lines
+				
+			} // end for every line    		
+    		    		
+    		return spacedEnglish;
+    	} // end function wordSpace
+    	
+    	function translateText(englishSpaced, chineseText)
+    	{
+			var addEnglishPlain = document.getElementById('englishPlainCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+			var addIpa = document.getElementById('ipaCheckbox').checked;
+			var addPhonics = document.getElementById('phonicsCheckbox').checked;
+			var addBopomofo = document.getElementById('bopomofoCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addChinese = document.getElementById('chineseCheckbox').checked;
+			var hashOut = document.getElementById('hashOutCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var englishSpacedArray = englishSpaced.split("\n");
+			var chineseArray = chineseText.split("\n");
+			
+			var numberEnglishLines = englishSpacedArray.length;
+			var numberChineseLines = chineseArray.length;
+			
+			var englishHtml = "";
+			var ipaHtml = "";
+			var phonicsHtml = "";
+			var bopomofoHtml = "";
+			var literalHtml = "";
+			
+			var englishText = "";
+			var ipaText = "";
+			var phonicsText = "";
+			var bopomofoText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+			
+			var addCommon = false;
+			
+			if (commonWords != "")
+			{
+				addCommon = true;
+			}
+			
+			for (var currentLine = 0; currentLine < numberEnglishLines; currentLine++)
+			{
+				var englishLine = englishSpacedArray[currentLine];
+				var chineseLine;
+								
+				if (currentLine < numberChineseLines)
+				{
+					chineseLine = chineseArray[currentLine];
+				} else {
+					chineseLine = "";
+				}
+				
+				var englishLineHtml = "";
+				var ipaLineHtml = "";
+				var phonicsLineHtml = "";
+				var bopomofoLineHtml = "";
+				var literalLineHtml = "";
+			
+				var englishLineText = "";
+				var ipaLineText = "";
+				var phonicsLineText = "";
+				var bopomofoLineText = "";
+				var literalLineText = "";
+				
+				var englishPlainLine = "";
+
+				if (addEnglishPlain == true)
+				{
+					englishPlainLine = englishLine;
+					englishPlainLine = replaceChars(englishLine, "§", " ");
+				} // end if addEnglishPlain
+				
+				var thisLineWords = englishLine.split("§");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWordOriginal = thisLineWords[currentLineWord];
+					
+					var thisWordLowercase = thisWordOriginal.toLowerCase();
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWordLowercase + "	");
+										
+					if (inDictionary == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWordLowercase + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisDefinition = "";
+						var thisIpa = "";
+						var thisPhonics = "";
+						var thisLiteral = "";
+						var thisPos = 1;
+						
+						thisIpa = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisPhonics = thisDictionaryLineArray[1];
+						}
+						
+						if (lineLength >= 2)
+						{
+							thisBopomofo = thisDictionaryLineArray[2];
+						}
+						
+						if (lineLength >= 3)
+						{
+							thisLiteral = thisDictionaryLineArray[3];
+						}
+
+						if (lineLength >= 4)
+						{
+							thisPos = thisDictionaryLineArray[4];
+						}
+						
+						//thisLiteral = "<div class=\"chinese_small\">" + thisLiteral + "</div>";
+						
+						var thisWordInDictionary = thisWordOriginal;
+						
+						if (hashOut == true)
+						{
+							if (contains(commonWords,thisWordOriginal) == false)
+							{
+								thisWordInDictionary = "#";
+								thisIpa = "#";
+								thisPhonics = "#";
+								thisBopomofo = "#";
+							}
+						}
+						
+						var thisWordOriginalHtml = "<div class=\"english_" + thisPos + "\">" + thisWordInDictionary + "</div>";
+						var thisIpaHtml = "<div class=\"ipa_" + thisPos + "\">" + thisIpa + "</div>";
+						var thisPhonicsHtml = "<div class=\"phonics_" + thisPos + "\">" + thisPhonics + "</div>";
+						var thisBopomofoHtml = "<div class=\"bopomofo_" + thisPos + "\">" + thisBopomofo + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+						if (addCommon == true)
+						{
+							if (thisWordOriginal != "")
+							{							
+								if (contains(commonWords,thisWordOriginal) == true)
+								{
+									thisWordOriginalHtml = "<b>" + thisWordOriginalHtml + "</b>";
+								}
+							} // end if the word is not blank
+						} // end if addCommon
+
+						englishLineHtml = englishLineHtml + "<td>" + thisWordOriginalHtml + "</td>";
+						ipaLineHtml = ipaLineHtml + "<td>" + thisIpaHtml + "</td>";
+						phonicsLineHtml = phonicsLineHtml + "<td>" + thisPhonicsHtml + "</td>";
+						bopomofoLineHtml = bopomofoLineHtml + "<td>" + thisBopomofoHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						englishLineText = englishLineText + thisWordOriginal;
+						ipaLineText = ipaLineText + thisIpa;
+						phonicsLineText = phonicsLineText + thisPhonics;
+						bopomofoLineText = bopomofoLineText + thisBopomofo;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+						
+						// Search for "something" phrases
+						var thisPhraseSomething = "";
+						var thisPhraseTheThing = "";
+
+						var thisPhraseLowerCaseArray = thisWordLowercase.split(" ");
+						
+						var thisPhraseLastWordOffset = thisPhraseLowerCaseArray.length - 1;
+						
+						thisPhraseSomething = thisPhraseLowerCaseArray[0] + " something " + thisPhraseLowerCaseArray[thisPhraseLastWordOffset];
+						
+						var somethingInDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+												
+						if (somethingInDictionary == true)
+						{
+							
+							// What is the thing we're looking for? e.g. "my dinner". Put spaces between "my" and "dinner". 
+							var thisPhraseTheThingArray = thisPhraseLowerCaseArray.slice(1, -1);
+							var thisPhraseTheThing = thisPhraseTheThingArray.join(" ");
+							thisPhraseTheThing = wordSpace(thisPhraseTheThing);
+						
+							// Get the translation of the "something" e.g. "throw something up"
+							var somethingArray = translateText(thisPhraseSomething, "");
+							var somethingHtml = somethingArray[0];
+							var somethingText = somethingArray[1];
+
+							// Get the translation of the "thing" e.g. "my dinner"
+							var theThingArray = translateText(thisPhraseTheThing, "");
+							var theThingHtml = theThingArray[0];
+							var theThingText = theThingArray[1];
+														
+							var somethingHtmlEnglish = textBetween(somethingHtml,"<tr class=\"englishLine\">","</tr>");
+							var somethingHtmlIpa = textBetween(somethingHtml,"<tr class=\"ipaLine\">","</tr>");
+							var somethingHtmlPhonics = textBetween(somethingHtml,"<tr class=\"phonicsLine\">","</tr>");
+							var somethingHtmlBopomofo = textBetween(somethingHtml,"<tr class=\"bopomofoLine\">","</tr>");
+							var somethingHtmlLiteral = textBetween(somethingHtml,"<tr class=\"literalLine\">","</tr>");
+							
+							var somethingHtmlPos = textBetween(somethingHtmlEnglish, "<div class=\"english_", "\">");
+							
+							var somethingTextArray = somethingText.split("\n");
+							
+							var somethingTextEnglish = "";
+							var somethingTextIpa = "";
+							var somethingTextPhonics = "";
+							var somethingTextBopomofo = "";
+							var somethingTextLiteral = "";
+							
+							var thisLineOffset = 0;
+							if (addEnglish == true)
+							{
+								somethingTextEnglish = somethingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+							
+							if (addIpa == true)
+							{
+								somethingTextIpa = somethingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addPhonics == true)
+							{
+								somethingTextPhonics = somethingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addBopomofo == true)
+							{
+								somethingTextBopomofo = somethingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addLiteral == true)
+							{
+								somethingTextLiteral = somethingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+							
+							
+							var theThingHtmlEnglish = textBetween(theThingHtml,"<tr class=\"englishLine\">","</tr>");
+							var theThingHtmlIpa = textBetween(theThingHtml,"<tr class=\"ipaLine\">","</tr>");
+							var theThingHtmlPhonics = textBetween(theThingHtml,"<tr class=\"phonicsLine\">","</tr>");
+							var theThingHtmlBopomofo = textBetween(theThingHtml,"<tr class=\"bopomofoLine\">","</tr>");
+							var theThingHtmlLiteral = textBetween(theThingHtml,"<tr class=\"literalLine\">","</tr>");
+							
+							var theThingTextArray = theThingText.split("\n");
+							
+							var theThingTextEnglish = "";
+							var theThingTextIpa = "";
+							var theThingTextPhonics = "";
+							var theThingTextBopomofo = "";
+							var theThingTextLiteral = "";
+							
+							thisLineOffset = 0;
+							if (addEnglish == true)
+							{
+								theThingTextEnglish = theThingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+							
+							if (addIpa == true)
+							{
+								theThingTextIpa = theThingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addPhonics == true)
+							{
+								theThingTextPhonics = theThingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addBopomofo == true)
+							{
+								theThingTextBopomofo = theThingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+
+							if (addLiteral == true)
+							{
+								theThingTextLiteral = theThingTextArray[thisLineOffset];
+								thisLineOffset = thisLineOffset + 1;
+							}
+							
+							somethingHtmlEnglish = replaceChars(somethingHtmlEnglish, "something", "</div></td>" + theThingHtmlEnglish + "<td>" + "<div class=\"english_" + somethingHtmlPos + "\">");
+							somethingHtmlIpa = replaceChars(somethingHtmlIpa, "ˈsʌmθɪŋ", "</div></td>" + theThingHtmlIpa + "<td>" + "<div class=\"ipa_" + somethingHtmlPos + "\">");
+							somethingHtmlPhonics = replaceChars(somethingHtmlPhonics, "s-u-m-th-i-ng", "</div></td>" + theThingHtmlPhonics + "<td>" + "<div class=\"phonics_" + somethingHtmlPos + "\">");
+							somethingHtmlBopomofo = replaceChars(somethingHtmlBopomofo, "ㄙㄨㄇㄊㄧㄥ", "</div></td>" + theThingHtmlBopomofo + "<td>" + "<div class=\"bopomofo_" + somethingHtmlPos + "\">");
+							somethingHtmlLiteral = replaceChars(somethingHtmlLiteral, "東西", theThingHtmlLiteral);
+							
+							somethingHtmlLiteral = somethingHtmlLiteral + "<td></td>";
+							
+							englishLineHtml = englishLineHtml + somethingHtmlEnglish;
+							ipaLineHtml = ipaLineHtml + somethingHtmlIpa;
+							phonicsLineHtml = phonicsLineHtml + somethingHtmlPhonics;
+							bopomofoLineHtml = bopomofoLineHtml + somethingHtmlBopomofo;
+							literalLineHtml = literalLineHtml + somethingHtmlLiteral;
+							
+							somethingTextEnglish = replaceChars(somethingTextEnglish, "something", theThingTextEnglish);
+							somethingTextIpa = replaceChars(somethingTextIpa, "ˈsʌmθɪŋ", theThingTextIpa);
+							somethingTextPhonics = replaceChars(somethingTextPhonics, "s-u-m-th-i-ng", theThingTextPhonics);
+							somethingTextBopomofo = replaceChars(somethingTextBopomofo, "ㄙㄨㄇㄊㄧㄥ", theThingTextBopomofo);
+							somethingTextLiteral = replaceChars(somethingTextLiteral, "東西", theThingTextLiteral);
+							
+							englishLineText = englishLineText + somethingTextEnglish;
+							ipaLineText = ipaLineText + somethingTextIpa;
+							phonicsLineText = phonicsLineText + somethingTextPhonics;
+							bopomofoLineText = bopomofoLineText + somethingTextBopomofo;
+							literalLineText = literalLineText + somethingTextLiteral;
+							
+						} else { 
+												
+							var thisWordNotInDictionary = thisWordOriginal;
+						
+							if (hashOut == true)
+							{
+								if (contains(commonWords,thisWordOriginal) == false)
+								{
+									thisWordNotInDictionary = "#";
+								}
+							}
+
+							var thisWordNotInDictionaryEnglishHtml = "<div class=\"english_1\">" + thisWordNotInDictionary + "</div>";
+							var thisWordNotInDictionaryIpaHtml = "<div class=\"ipa_1>" + thisWordNotInDictionary + "</div>";
+							var thisWordNotInDictionaryPhonicsHtml = "<div class=\"phonics_1\">" + thisWordNotInDictionary + "</div>";
+							var thisWordNotInDictionaryBopomofoHtml = "<div class=\"bopomofo_1\">" + thisWordNotInDictionary + "</div>";
+							var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+
+							englishLineHtml = englishLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+							ipaLineHtml = ipaLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+							phonicsLineHtml = phonicsLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+							bopomofoLineHtml = bopomofoLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+							literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						
+							englishLineText = englishLineText + thisWordNotInDictionary;
+							ipaLineText = ipaLineText + thisWordNotInDictionary;
+							phonicsLineText = phonicsLineText + thisWordNotInDictionary;
+							bopomofoLineText = bopomofoLineText + thisWordNotInDictionary;
+							literalLineText = literalLineText + thisWordNotInDictionary;
+						
+							if (isEnglishString(thisWordLowercase) == true)
+							{
+								missingWords = missingWords + thisWordLowercase + "\n";
+							}
+							
+						} // end if something is in the dictionary
+					} // end if the dictionary contains the word
+					
+					englishLineText = englishLineText + " ";
+					ipaLineText = ipaLineText + " ";
+					phonicsLineText = phonicsLineText + " ";
+					bopomofoLineText = bopomofoLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addEnglishPlain == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishPlainLine\">" + englishPlainLine + "</tr>";
+				}
+
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLineHtml + "</tr>";
+				}
+				
+				if (addIpa == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"ipaLine\">" + ipaLineHtml + "</tr>";
+				}
+				
+				if (addPhonics == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"phonicsLine\">" + phonicsLineHtml + "</tr>";
+				}
+				
+				if (addBopomofo == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"bopomofoLine\">" + bopomofoLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addChinese == true)
+				{
+					outputHtml = outputHtml + "<div class=\"chinese\">" + chineseLine + "</div>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+
+				if (addEnglishPlain == true)
+				{
+					outputText = outputText + englishPlainLine + "\n";
+				}
+
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLineText + "\n";
+				}
+				
+				if (addIpa == true)
+				{
+					outputText = outputText + ipaLineText + "\n";
+				}
+				
+				if (addPhonics == true)
+				{
+					outputText = outputText + phonicsLineText + "\n";
+				}
+				
+				if (addBopomofo == true)
+				{
+					outputText = outputText + bopomofoLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addChinese == true)
+				{
+					outputText = outputText + chineseLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var englishText = document.getElementById("englishTextArea").value;
+    		var chineseText = document.getElementById("chineseTextArea").value;
+    		
+			var englishSpaced = wordSpace(englishText);
+    		
+    		document.getElementById("englishSpacedTextArea").value = englishSpaced;
+    		
+			var translationOutput = translateText(englishSpaced, chineseText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		// translateInterface - Read values from the GUI, set them, and do a translation
+		function translateInterface()
+		{
+			//debugLog("translateInterface");
+		
+			var inputText = document.getElementById("englishSpacedTextArea").value;
+			
+			if (inputText == "")
+			{
+				inputText = document.getElementById("englishTextArea").value;
+				inputText = wordSpace(englishText);
+				
+    			document.getElementById("englishSpacedTextArea").value = inputText;
+			}
+			
+    		var chineseText = document.getElementById("chineseTextArea").value;
+						
+			var translationOutput = translateText(inputText, chineseText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+			
+			if (commonWords != "")
+			{
+				//var addCommon = true;
+				
+				commonStatistics();
+				
+			} // end if we should count common words
+			
+		} // end function translateInterface
+    	
+		function listOffset(thisArray, thisString)
+		{
+			//debugLog("listOffset(" + thisString + ")");
+			//debugLog("listOffset(" + thisArray.join("	") + "," + thisString + ")");
+			
+			thisString = " " + thisString + " ";
+			
+			thisString = thisString.toLowerCase();
+			
+			var foundOffset;
+			
+			var arrayLength = thisArray.length;
+			
+			for (var currentItem = 0; currentItem < arrayLength; currentItem++)
+			{
+				var thisItem = " " + thisArray[currentItem] + " ";
+				thisItem = thisItem.toLowerCase();
+				thisItem = spacePunctuation(thisItem);
+
+				if (contains(thisItem, thisString) == true)
+				{
+					foundOffset = currentItem;
+					break;
+				} // end
+				
+			} // end for every item in the array
+			
+			
+			//debugLog(foundOffset);
+			
+			return foundOffset;
+			
+		} // end function listOffset
+    	
+		function countWords(inputText)
+		{
+			//debugLog("countWords");
+		
+  			// Split after verse numbers
+  			/*
+  			inputText = inputText.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+  			inputText = replaceChars(inputText, "(", " ( ");
+  			inputText = replaceChars(inputText, ")", " ) ");
+  			inputText = replaceChars(inputText, ".", " . ");
+  			inputText = inputText.replace(/:/g, ' ');
+  			inputText = inputText.replace(/,/g, ' , ');
+  			inputText = inputText.replace(/  /g, ' ');
+  			*/
+  			
+  			inputText = replaceChars(inputText, "\n", " ");
+  			
+  			var inputWords = inputText.split(" ");
+  			
+  			var numberWords = inputWords.length;
+  			
+  			var uniqueWords = [];
+  			var uniqueWordsCounts = [];
+  			
+  			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+  			{
+  				var thisWord = inputWords[currentWord];
+  				
+    			thisWord = removePunctuation(thisWord);
+    			
+    			if (containsEnglishString(thisWord) == true)
+    			{
+    			
+  					var thisWordIndex = uniqueWords.indexOf(thisWord);
+  				
+  					if (thisWordIndex != -1)
+  					{
+  						var thisCount = uniqueWordsCounts[thisWordIndex];
+  						thisCount = thisCount + 1;
+  						uniqueWordsCounts[thisWordIndex] = thisCount;
+  					
+	  				} else {
+  						uniqueWords.push(thisWord);
+  						uniqueWordsCounts.push(1);
+  					} // end if the word is unique
+  				} // end if this is a word
+  				
+  			} // end for every word
+  			
+  			var numberUniqueWords = uniqueWords.length;
+  			
+  			var wordsArray = [];
+  			
+  			for (var currentWord = 0; currentWord < numberUniqueWords; currentWord++)
+  			{
+  				var thisWord = uniqueWords[currentWord];
+  				var thisWordCount = uniqueWordsCounts[currentWord];
+  				
+  				var outputLine = thisWordCount + " " + thisWord;
+  				
+  				if (thisWord != "")
+  				{
+  					wordsArray.push(outputLine);
+  				}
+  				
+  			} // end for every unique word
+  			
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			var outputText = outputArray.join("\n");
+			
+			return outputText;
+					
+		} // end function countWords
+
+		function commonStatistics()
+		{
+			//debugLog(commonStatistics);
+
+			var thisSpaced = document.getElementById("englishSpacedTextArea").value;
+			thisSpaced = thisSpaced.split("§");
+			var numberWords = thisSpaced.length;
+		   
+			var uniqueWordsArray = [];
+			var commonWordsUniqueArray = [];
+			var commonWordsTotalArray = [];
+		   
+			var totalWords = 0;
+		   
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWord = thisSpaced[currentWord];
+			   
+				if (isChineseString(thisWord) == true)
+				{
+					if (contains(uniqueWordsArray,thisWord) == false)
+					{
+						uniqueWordsArray.push(thisWord);
+					} // if the word is new
+
+					if (contains(commonWords,thisWord) == true)
+					{
+						if (contains(commonWordsUniqueArray,thisWord) == false)
+						{
+							commonWordsUniqueArray.push(thisWord);
+						}
+				   
+						commonWordsTotalArray.push(thisWord);
+					} // end if the word is common
+				   
+					totalWords = totalWords + 1;
+				   
+				} // if the word is Chinese
+			   
+			} // end for every word
+			
+			//debugLog(commonWordsUniqueArray.join(" "));
+		   
+			var commonWordsTotal = commonWordsTotalArray.length - 1;
+			var commonWordsUnique = commonWordsUniqueArray.length - 1;
+			var uniqueWordsCount = uniqueWordsArray.length - 1;
+		   
+			var commonPercentTotal = Math.floor((commonWordsTotal / totalWords) * 100);
+			var commonPercentUnique = Math.floor((commonWordsUnique / uniqueWordsCount) * 100);
+		   
+			var commonPercent = commonWordsTotal + "/" + totalWords + " = " + commonPercentTotal + "% Total";
+			commonPercent = commonPercent + ", " + commonWordsUnique + "/" + uniqueWordsCount + " = " + commonPercentUnique + "% Unique";
+			document.getElementById("wordListPercent").innerHTML = commonPercent;
+			
+		} // end function commonStatistics
+
+
+		function getVocabulary(thisText)
+		{
+			var thisTextSpaced = spacePunctuation(thisText);
+			
+			//debugLog("getVocabulary");
+			var wordFrequencies = countWords(thisTextSpaced);
+			
+			var wordFrequenciesArray = wordFrequencies.split("\n");
+			
+			var numberUniqueWords = wordFrequenciesArray.length;
+			
+			var vocabularyHtml = "";
+			var vocabularyText = "";
+			
+			for (var currentLine = 0; currentLine < numberUniqueWords; currentLine++)
+			{
+				var thisFrequencyWord = wordFrequenciesArray[currentLine];
+			
+				var thisFrequency = textBetween(thisFrequencyWord, "start", " ");
+				var thisWord = textBetween(thisFrequencyWord, " ", "end");
+								
+				var translationOutput = translateText(thisWord, "");
+				
+				var translatedHtml = translationOutput[0];
+				var translatedText = translationOutput[1];
+				
+				var translatedTextArray = translatedText.split("\n");
+				var translatedTextEnglish = translatedTextArray[0];
+				var translatedTextIpa = translatedTextArray[1];
+				var translatedTextPhonics = translatedTextArray[2];
+				var translatedTextBopomofo = translatedTextArray[3];
+				var translatedTextLiteral = translatedTextArray[3];
+				
+				vocabularyText = vocabularyText + thisFrequency + "	" + thisWord + "	" + translatedTextIpa + "	" + translatedTextPhonics + "	" + translatedTextBopomofo + "	" + translatedTextLiteral + "\n";
+				
+				translatedHtml = replaceChars(translatedHtml, "<p>", "");
+				translatedHtml = replaceChars(translatedHtml, "</p>", "");
+				translatedHtml = replaceChars(translatedHtml, "<table>", "");
+				translatedHtml = replaceChars(translatedHtml, "</table>", "");
+				
+				translatedHtml = replaceChars(translatedHtml, "<tr>", "");
+				var translatedHtmlArray = translatedHtml.split("</tr>");
+				var translatedHtmlEnglish = translatedHtmlArray[0];
+				var translatedHtmlIpa = translatedHtmlArray[1];
+				var translatedHtmlPhonics = translatedHtmlArray[2];
+				var translatedHtmlBopomofo = translatedHtmlArray[3];
+				var translatedHtmlLiteral = translatedHtmlArray[4];
+				
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<td>", " ");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</td>", " ");
+				
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "<td>", "");
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "</td>", "");
+				
+				translatedHtmlLiteral = "<div class=\"chinese_big\">" + translatedHtmlLiteral + "</div>";
+				
+				vocabularyHtml = vocabularyHtml + "<tr><td>" + thisFrequency + "</td><td>" + translatedHtmlEnglish + "</td><td>" + translatedHtmlIpa + "</td><td>" + translatedHtmlPhonics + "</td><td>" + translatedHtmlBopomofo + "</td><td>" + translatedHtmlLiteral + "</td>" + "</tr>\n";
+								
+			} // end for every word
+			
+			vocabularyHtml = "<table>" + vocabularyHtml + "</table>";
+			
+			return [vocabularyHtml, vocabularyText];
+		
+		} // end function getVocabulary
+    	
+    	function subtitlesButtonClicked()
+    	{
+			var addPageBreaks = document.getElementById('pageBreaksCheckbox').checked;
+
+			if (addPageBreaks == true)
+			{
+				var pageBreaksLine = pageBreaksTextArea.value;
+			} // end if addPageBreaks
+			
+			var subtitlesText = document.getElementById("subtitlesTextArea").value;
+			
+			var subtitlesLines = subtitlesText.split("\n");
+			
+			var numberLines = subtitlesLines.length;
+			
+			// Combine subtitles into correctly alternating lines
+			var numbersText = "";
+			var timesText = "";
+			var englishText = "";
+			var chineseText = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = subtitlesLines[currentLine];
+				
+				var lineLength = thisLine.length;
+				
+				if (thisLine == "")
+				{
+					numbersText = numbersText + "\n";
+					timesText = timesText + "\n";
+					englishText = englishText + "\n";
+					chineseText = chineseText + "\n";
+				} else {
+					if (isNumberString(thisLine) == true)
+					{
+						numbersText = numbersText + thisLine;
+					} else {
+						// If this line is a time
+						if (contains(thisLine, " --> ") == true)
+						{
+							timesText = timesText + thisLine;
+						} else {
+							var cleanText = cleanHtml(thisLine);
+							
+							if (containsChineseString(cleanText) == true)
+							{
+								chineseText = chineseText + cleanText + " ";
+							} else {
+								// extra spaces in case we concatenate two lines
+								englishText = englishText + cleanText + " ";
+							}
+						} // end if time
+					} // end if number string
+				} // end if blank line
+
+			} // end for every line in the subtitles
+			
+			chineseText = replaceChars(chineseText, " \n", "\n");
+			englishText = replaceChars(englishText, " \n", "\n");
+			
+			var numbersTextArray = numbersText.split("\n");
+			var timesTextArray = timesText.split("\n");
+			var englishTextArray = englishText.split("\n");
+			var chineseTextArray = chineseText.split("\n");
+			
+			numberLines = numbersTextArray.length;
+			
+			var subtitlesOutput = "";
+			
+			var englishHtmlArray = [];
+			
+			var ipaTextArray = [];
+			var ipaHtmlArray = [];
+
+			var phonicsTextArray = [];
+			var phonicsHtmlArray = [];
+
+			var bopomofoTextArray = [];
+			var bopomofoHtmlArray = [];
+			
+			var literalHtmlArray = [];
+			var literalTextArray = [];
+			
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var numbersTextLine = numbersTextArray[currentLine];
+				var timesTextLine = timesTextArray[currentLine];
+				var englishTextLine = englishTextArray[currentLine];				
+				var chineseTextLine = chineseTextArray[currentLine];
+				
+				var translationOutput = translateText(englishTextLine, chineseTextLine);
+				
+				var translatedHtml = translationOutput[0];
+				var translatedText = translationOutput[1];
+				
+				var translatedTextArray = translatedText.split("\n");
+				var translatedTextEnglish = translatedTextArray[0];
+				var translatedTextIpa = translatedTextArray[1];
+				var translatedTextPhonics = translatedTextArray[2];
+				var translatedTextBopomofo = translatedTextArray[3];
+				var translatedTextLiteral = translatedTextArray[4];
+				
+				ipaTextArray.push(translatedTextIpa);
+				phonicsTextArray.push(translatedTextPhonics);
+				bopomofoTextArray.push(translatedTextBopomofo);
+				
+				/*
+				translatedTextChinese = "<font size=\"17\">" + translatedTextChinese + "</font>";
+				
+				subtitlesOutput = subtitlesOutput + "\n" + numbersTextLine + "\n" + timesTextLine + "\n" + translatedTextChinese + "\n"  + translatedTextPinyin + "\n" + translatedTextLiteral + "\n" + translatedTextEnglish + "\n" + "\n";
+				*/
+				
+				translatedHtml = replaceChars(translatedHtml, "<p>", "");
+				translatedHtml = replaceChars(translatedHtml, "</p>", "");
+				translatedHtml = replaceChars(translatedHtml, "<table>", "");
+				translatedHtml = replaceChars(translatedHtml, "</table>", "");
+
+				//translatedHtml = replaceChars(translatedHtml, "</td><td>", " ");
+				//translatedHtml = replaceChars(translatedHtml, "<td>", "");
+				//translatedHtml = replaceChars(translatedHtml, "</td>", "");
+				
+				var translatedHtmlArray = translatedHtml.split("</tr><tr>");
+				var translatedHtmlEnglish = translatedHtmlArray[0];
+				var translatedHtmlIpa = translatedHtmlArray[1];
+				var translatedHtmlPhonics = translatedHtmlArray[2];
+				var translatedHtmlBopomofo = translatedHtmlArray[3];
+				var translatedHtmlLiteral = translatedHtmlArray[4];
+
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "<tr>", "");
+				translatedHtmlEnglish = replaceChars(translatedHtmlEnglish, "</tr>", "");
+
+				englishHtmlArray.push(translatedHtmlEnglish);
+
+				translatedHtmlIpa = replaceChars(translatedHtmlIpa, "<tr>", "");
+				translatedHtmlIpa = replaceChars(translatedHtmlIpa, "</tr>", "");
+
+				ipaHtmlArray.push(translatedHtmlIpa);
+
+				translatedHtmlPhonics = replaceChars(translatedHtmlPhonics, "<tr>", "");
+				translatedHtmlPhonics = replaceChars(translatedHtmlPhonics, "</tr>", "");
+
+				phonicsHtmlArray.push(translatedHtmlPhonics);
+
+				translatedHtmlBopomofo = replaceChars(translatedHtmlBopomofo, "<tr>", "");
+				translatedHtmlBopomofo = replaceChars(translatedHtmlBopomofo, "</tr>", "");
+
+				bopomofoHtmlArray.push(translatedHtmlBopomofo);
+				
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "<tr>", "");
+				translatedHtmlLiteral = replaceChars(translatedHtmlLiteral, "</tr>", "");
+				translatedHtmlLiteral = textBetween(translatedHtmlLiteral, "start", "<div class=\"chinese_literal\">");
+
+				literalHtmlArray.push(translatedHtmlLiteral);
+				
+				literalTextArray.push(translatedTextLiteral);
+				
+				//translatedTextLiteral = "<font size=\"18\">" + translatedTextLiteral + "</font>";
+				
+				//translatedTextChinese = "<font size=\"18\">" + translatedTextChinese + "</font>";
+				
+				var thisSubtitle = numbersTextLine + "\n" + timesTextLine + "\n" + translatedHtmlEnglish + "\n"  + translatedHtmlIpa + "\n"  + translatedHtmlPhonics + "\n"  + translatedHtmlBopomofo + "\n" + translatedHtmlLiteral + "\n" + chineseTextLine;
+				
+				subtitlesOutput = subtitlesOutput + "\n" + thisSubtitle + "\n" + "\n";
+				
+			} // end for every line
+			
+			document.getElementById("englishTextArea").value = englishText;
+			document.getElementById("chineseTextArea").value = chineseText;
+			document.getElementById("outputTextArea").value = subtitlesOutput;
+			
+			
+			var vocabularyArray = getVocabulary(englishText);
+			
+			var vocabularyHtml = vocabularyArray[0];
+			var vocabularyText = vocabularyArray[1];
+			
+			// Add examples to vocabulary
+			var vocabularyExamplesHtml = "";
+			var vocabularyExamplesText = "";
+			
+			vocabularyHtml = replaceChars(vocabularyHtml, "<table>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "\n", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "<tr>", "");
+			vocabularyHtml = replaceChars(vocabularyHtml, "</table>", "");
+			
+			var vocabularyHtmlArray = vocabularyHtml.split("</tr>");
+			
+			var vocabularyTextArray = vocabularyText.split("\n");
+			var numberLines = vocabularyTextArray.length;
+			
+			var addIpa = true;
+			var addPhonics = true;
+			var addBopomofo = true;
+			var addLiteral = true;
+			var addChinese = true;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLineHtml = vocabularyHtmlArray[currentLine];
+				var thisLineText = vocabularyTextArray[currentLine];
+				
+				var thisWord = textBetween(thisLineText, "	", "	");
+				
+				if (thisWord != "")
+				{
+					var wordSubtitleOffset = listOffset(englishTextArray, thisWord);
+								
+					var thisWordTime = timesTextArray[wordSubtitleOffset];
+					var thisWordSubtitleHtml = englishHtmlArray[wordSubtitleOffset];
+					var thisWordSubtitleText = englishTextArray[wordSubtitleOffset];
+					var thisWordExampleIpaHtml = ipaHtmlArray[wordSubtitleOffset];
+					var thisWordExampleIpaText = ipaTextArray[wordSubtitleOffset];
+					var thisWordExamplePhonicsHtml = phonicsHtmlArray[wordSubtitleOffset];
+					var thisWordExamplePhonicsText = phonicsTextArray[wordSubtitleOffset];
+					var thisWordExampleBopomofoHtml = bopomofoHtmlArray[wordSubtitleOffset];
+					var thisWordExampleBopomofoText = bopomofoTextArray[wordSubtitleOffset];
+					var thisWordExampleLiteralHtml = literalHtmlArray[wordSubtitleOffset];
+					var thisWordExampleLiteralText = literalTextArray[wordSubtitleOffset];
+					var thisWordExampleChinese = chineseTextArray[wordSubtitleOffset];
+				
+					thisWordTime = textBetween(thisWordTime, "start", " -->");
+					thisWordTime = textBetween(thisWordTime, "start", ",");
+				
+					var thisLineExampleHtml = thisLineHtml + "<td>" + thisWordTime + "</td><td>" + "<table><tr><td>" + "<table><tr>" + thisWordSubtitleHtml + "</tr>";
+					
+					if (addIpa == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleIpaHtml + "</tr>";
+					}
+
+					if (addPhonics == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExamplePhonicsHtml + "</tr>";
+					}
+
+					if (addBopomofo == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleBopomofoHtml + "</tr>";
+					}
+
+					if (addLiteral == true)
+					{
+						thisLineExampleHtml = thisLineExampleHtml + "<tr>" + thisWordExampleLiteralHtml + "</tr>";
+					}
+					
+					var thisWordExampleChineseHtml = "<div class=\"chinese_small\">" + thisWordExampleChinese + "</div>";
+					thisLineExampleHtml = thisLineExampleHtml + "</table></td></tr><tr><td>" + thisWordExampleChineseHtml + "</td></tr></table>" + "</td>";
+						
+					if (addChinese == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleChinese;
+					}
+						
+					var thisLineExampleText = thisLineText + "	" + thisWordTime + "	" + thisWordSubtitleText;
+				
+					if (addIpa == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleIpaText;
+					}
+					
+					if (addPhonics == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExamplePhonicsText;
+					}
+
+					if (addBopomofo == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleBopomofoText;
+					}
+					
+					if (addLiteral == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleLiteralText;
+					}
+
+					if (addChinese == true)
+					{
+						thisLineExampleText = thisLineExampleText + "	" + thisWordExampleChinese;
+					}
+
+				
+					vocabularyExamplesHtml = vocabularyExamplesHtml + "<tr>" + thisLineExampleHtml + "</tr>";
+					vocabularyExamplesText = vocabularyExamplesText + thisLineExampleText + "\n";
+					
+					if (addPageBreaks == true)
+					{
+						if ((currentLine % pageBreaksLine) == (pageBreaksLine - 1))
+						{
+							vocabularyExamplesHtml = vocabularyExamplesHtml + "</table><p></p><table>";
+						}
+					} // end if addPageBreaks
+					
+				} // end if the word is not blank
+			} // end for every line in the vocabulary
+			
+			vocabularyExamplesHtml = "<table>" + vocabularyExamplesHtml + "</table>";
+			
+			//debugLog(vocabularyExamplesHtml);
+			
+			document.getElementById("outputHtml").innerHTML = vocabularyExamplesHtml;
+			document.getElementById("outputTextArea").value = vocabularyExamplesText;
+			
+    	} // end function subtitlesButtonClicked
+    	
+		function b64EncodeUnicode(str) 
+		{
+			//debugLog("b64EncodeUnicode(" + str + ")");
+
+	    	return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, 
+	    		function(match, p1) 
+	    		{
+	        		return String.fromCharCode('0x' + p1);
+    			}));
+		} // end function b64EncodeUnicode
+    	
+		function printButtonClicked()
+		{
+			//debugLog ("printButtonClicked");
+
+			var thisString = document.getElementById("outputHtml").innerHTML;
+			
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n		<style>\n			body {\n				font-family: Tahoma, Geneva, sans-serif;\n			}\n		\n			.DefaultButtonOuter\n			{\n				border: 2px solid black ;\n				border-radius: 8px;\n				width: 96px;\n				height: 26px;\n				text-align: center;\n			\n				/*background-color: #99999a;*/\n				background: #99999a; /* For browsers that do not support gradients */\n				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n			}\n\n			.ButtonInner\n			{\n				border: 1px solid black ;\n				border-radius: 5px;\n				background-color: #dcdbde;\n				width: 88px;\n				height: 18px;\n				text-align: center;\n				margin: 3px;\n			\n				line-height: 18px;\n				font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n				font-size: 11px;\n				color: #000000;\n			}\n		\n			.ButtonInner:active\n			{\n				background:#666666;\n				color: #ffffff;\n			}\n			\n			.chinese_big {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 30px;\n			  display:inline;\n			}\n\n			.chinese_small {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			.chinese_literal {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			table td {\n				white-space: nowrap;\n      		}\n\n			.english_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.literal {\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			.chinese {\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n\n			.key\n			{\n				border: 1px solid black ;\n				border-radius: 5px;\n				background-color: #dcdbde;\n				width: 18px;\n				height: 18px;\n				text-align: center;\n				margin: 3px;\n			\n				line-height: 18px;\n				font-family: Geneva, sans-serif;\n				font-size: 11px;\n				color: #000000;\n			}\n\n			@media print {\n    			p {page-break-after: always;}\n    			table {page-break-inside: avoid;}\n			}\n\n    	</style>\n\n\n  </head>\n  <body>\n	";
+			
+			var htmlFooters = "\n  </body>\n</html>\n";
+			
+			var thisHtml = htmlHeaders + thisString + htmlFooters;
+			
+			var thisHtmlBase64 = b64EncodeUnicode(thisHtml);
+			
+			window.open("data:text/html;charset=UTF-8;base64," + thisHtmlBase64,'_blank');
+			
+		} // end function printButtonClicked
+    	
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+		
+		function dictionaryEditorEditCounts()
+		{
+			//debugLog("dictionaryEditorEditCounts()");
+			
+			var addWords = localStorage["addWordsEnglish"];
+			
+			if (addWords == undefined)
+			{
+				addWords = "";
+				localStorage["addWordsEnglish"] = "";
+			}
+			
+			var addWordsLength = addWords.split("\n").length - 1;
+			
+			document.getElementById("addedLabel").innerText = addWordsLength + " added";
+			
+			var editWords = localStorage["editWordsEnglish"];
+			
+			if (editWords == undefined)
+			{
+				editWords = "";
+				localStorage["editWordsEnglish"] = "";
+			}
+
+			var editWordsLength = editWords.split("\n").length - 1;
+			
+			document.getElementById("editedLabel").innerText = editWordsLength + " edited";
+			
+			var removeWords = localStorage["removeWordsEnglish"];
+
+			if (removeWords == undefined)
+			{
+				removeWords = "";
+				localStorage["removeWordsEnglish"] = "";
+			}
+
+			var removeWordsLength = removeWords.split("\n").length - 1;
+			
+			document.getElementById("deletedLabel").innerText = removeWordsLength + " deleted";
+			
+			var uploadedCount = localStorage["uploadedCountEnglish"];
+			
+			if (uploadedCount == undefined)
+			{
+				uploadedCount = 0;
+			}
+			
+			document.getElementById("uploadedLabel").innerText = uploadedCount + " uploaded";
+			
+		} // end function dictionaryEditorEditCounts
+		
+		function uploadButtonClicked()
+		{
+			//debugLog ("uploadButtonClicked");
+
+		} // end function uploadButtonClicked
+		
+		function dictionaryEditorWikButtonClicked()
+		{
+			//debugLog("dictionaryEditorODEButtonClicked");
+			
+			var thisEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			searchWiktionary(thisEnglish);
+			
+		} // end function dictionaryEditorWikiButtonClicked
+		
+		function dictionaryEditorSearch()
+		{
+			//debugLog("dictionaryEditorSearch");
+
+			var thisEnglishString = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			thisEnglishString = replaceChars(thisEnglishString, "	", "");
+			
+			document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglishString;
+			
+			var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisEnglishString + "	", "\n");
+				
+			var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+			var lineLength = thisDictionaryLineArray.length;
+			
+			var thisDefinition = "";
+			var thisIpa = "";
+			var thisPhonics = "";
+			var thisBopomofo = "";
+			var thisChinese = "";
+			var thisPos = "";
+			
+			thisIpa = thisDictionaryLineArray[0];
+
+			if (lineLength >= 1)
+			{
+				thisPhonics = thisDictionaryLineArray[1];
+			}
+			
+			if (lineLength >= 2)
+			{
+				thisBopomofo = thisDictionaryLineArray[2];
+			}
+			
+			if (lineLength >= 3)
+			{
+				thisChinese = thisDictionaryLineArray[3];
+			}
+
+			if (lineLength >= 4)
+			{
+				thisPos = thisDictionaryLineArray[4];
+			}
+			
+			document.getElementById("dictionaryEditorIpaTextArea").value = thisIpa;
+			document.getElementById("dictionaryEditorPhonicsTextArea").value = thisPhonics;
+			document.getElementById("dictionaryEditorBopomofoTextArea").value = thisBopomofo;
+			document.getElementById("dictionaryEditorChineseTextArea").value = thisChinese;
+			document.getElementById("pos").selectedIndex = thisPos - 1;
+
+
+		} // end function dictionaryEditorSearch
+		
+		function dictionaryEditorIpaLowercaseButtonClicked()
+		{
+			//debugLog ("dictionaryEditorIpaLowercaseButtonClicked");
+			
+			var thisEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			thisEnglish = thisEnglish.toLowerCase();
+			
+			document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
+			
+		} // end dictionaryEditorIpaLowercaseButtonClicked
+		
+		function dictionaryEditorIpaSearchButtonClicked()
+		{
+			//debugLog ("dictionaryEditorIpaSearchButtonClicked");
+			
+			var thisEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			openWindowWithPost("http://lingorado.com/ipa/", {
+				text_to_transcribe: thisEnglish
+			});
+
+		
+		} // end function dictionaryEditorIpaSearchButtonClicked		
+
+    	function ipaToPhonics(ipaWord)
+    	{
+    		var ipaAlphabet = ["aɪ", "aʊ", "eə", "eɪ", "ɪə", "ju", "oʊ", "ɔɪ", "ʊə", "æ", "ɑ", "ɒ", "b", "d", "ð", "ʤ", "ə", "ɛ", "ɜ", "f", "g", "h", "i", "ɪ", "j", "k", "l", "m", "n", "ŋ", "ɔ", "p", "r", "s", "ʃ", "t", "ʧ", "u", "ʊ", "v", "ʌ", "w", "z", "ʒ", "θ", "ː", "ˈ", "ˌ", "(", ")"];
+    		
+    		var phonicsAlphabet = ["ī", "ow", "ã", "ā", "ēə", "yü", "ō", "oi", "üə", "a", "ä", "o", "b", "d", "th", "j", "ə", "é", "û", "f", "g", "h", "ē", "i", "y", "k", "l", "m", "n", "ng", "ô", "p", "r", "s", "sh", "t", "ch", "ū", "oo", "v", "u", "w", "z", "zh", "th", "", "", "", "", ""];
+    		
+    		var alphabetLength = ipaAlphabet.length;
+    		
+    		var phonicsWord = ipaWord;
+    		
+    		for (var currentIpa = 0; currentIpa < alphabetLength; currentIpa++)
+    		{
+    			var thisIpa = ipaAlphabet[currentIpa];
+    			var thisPhonic = phonicsAlphabet[currentIpa];
+    			
+    			thisPhonic = "-" + thisPhonic + "-";
+    			
+    			phonicsWord = replaceChars(phonicsWord, thisIpa, thisPhonic);
+    		
+    			phonicsWord = replaceChars(phonicsWord, "--", "-");
+    		
+    		} // end for every sound in the alphabet
+    		
+    		phonicsWord = replaceChars(phonicsWord, "-\n-", "\n");
+    		
+    		return phonicsWord;
+    		
+    	} // end function ipaToPhonics
+    	
+    	function ipaToBopomofo(ipaWord)
+    	{
+    		var ipaAlphabet      = ["ʈʂʰ", "ɻ~ʐ", "tsʰ", "dʒ", "tʃ", "pʰ", "tʰ", "kʰ", "ʨʰ", "ʈʂ", "ts", "ai", "ei", "au", "ou", "an", "ən", "aŋ", "əŋ", "aɚ", "æ", "b", "ð", "d", "ə", "ɛ", "g", "h", "ɪ", "j", "ŋ", "ɔ", "r", "v", "w", "z", "θ", "p", "m", "f", "t", "n", "l", "k", "x", "ʨ", "ɕ", "ʂ", "s", "a", "o", "ɤ", "e", "i", "u", "y", "ɑ", "ɒ", "c", "ʤ", "ɜ", "ʃ", "ʧ", "ʊ", "ʌ", "ʒ", "q", "ː", "ˈ", "ˌ", "(", ")"];
+    		var bopomofoAlphabet = ["ㄔ", "ㄖ", "ㄘ", "ㄓ", "ㄔ", "ㄆ", "ㄊ", "ㄎ", "ㄑ", "ㄓ", "ㄗ", "ㄞ", "ㄟ", "ㄠ", "ㄡ", "ㄢ", "ㄣ", "ㄤ", "ㄥ", "ㄦ", "ㄚ", "ㄅ", "ㄘ", "ㄉ", "ㄦ", "ㄜ", "ㄍ", "ㄏ", "ㄧ", "ㄡ", "ㄥ", "ㄛ", "ㄖ", "ㄈ", "ㄨ", "ㄗ", "ㄊ", "ㄅ", "ㄇ", "ㄈ", "ㄉ", "ㄋ", "ㄌ", "ㄍ", "ㄏ", "ㄐ", "ㄒ", "ㄕ", "ㄙ", "ㄚ", "ㄛ", "ㄜ", "ㄝ", "ㄧ", "ㄨ", "ㄩ", "ㄚ", "ㄛ", "ㄕ", "ㄓ", "ㄦ", "ㄕ", "ㄓ", "ㄡ", "ㄨ", "ㄓ", "ㄎ", "", "", "", "", ""];
+    		
+    		var alphabetLength = ipaAlphabet.length;
+    		
+    		var bopomofoWord = ipaWord;
+    		
+    		for (var currentIpa = 0; currentIpa < alphabetLength; currentIpa++)
+    		{
+    			var thisIpa = ipaAlphabet[currentIpa];
+    			var thisBopomofo = bopomofoAlphabet[currentIpa];
+    			
+    			bopomofoWord = replaceChars(bopomofoWord, thisIpa, thisBopomofo);
+    			
+    		} // end for every sound in the alphabet
+    		
+    		return bopomofoWord;
+    		
+    	} // end function ipaToPhonics
+
+		function dictionaryEditorIpaToPhonicsButtonClicked()
+		{
+			//debugLog ("dictionaryEditorIpaToPhonicsButtonClicked");
+
+			var thisIpa = document.getElementById("dictionaryEditorIpaTextArea").value;
+			
+			var thisPhonics = ipaToPhonics(thisIpa);
+
+			thisPhonics = " " + thisPhonics + " ";
+			
+			thisPhonics = replaceChars(thisPhonics, " -", "");
+			thisPhonics = replaceChars(thisPhonics, "- ", "");
+			
+			thisPhonics = thisPhonics.trim();
+			
+			document.getElementById("dictionaryEditorPhonicsTextArea").value = thisPhonics;
+			
+		} // end function dictionaryEditorIpaToPhonicsButtonClicked
+
+		function dictionaryEditorIpaToBopomofoButtonClicked()
+		{
+			//debugLog ("dictionaryEditorIpaToBopomofoButtonClicked");
+
+			var thisIpa = document.getElementById("dictionaryEditorIpaTextArea").value;
+			
+			var thisBopomofo = ipaToBopomofo(thisIpa);
+
+			document.getElementById("dictionaryEditorBopomofoTextArea").value = thisBopomofo;
+
+		} // end function dictionaryEditorIpaToBopomofoButtonClicked
+
+		function dictionaryEditorGoogleTranslateButtonClicked()
+		{
+			//debugLog ("dictionaryEditorGoogleTranslateButtonClicked");
+
+			var thisEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			window.open("https://translate.google.com/#en/zh-TW/" + thisEnglish,'_blank');
+
+		} // end function dictionaryEditorGoogleTranslateButtonClicked
+		
+		function addWordAuto(thisWordEnglish, thisWordIpa, thisWordPhonics, thisWordBopomofo, thisWordChinese, thisWordPos)
+		{
+			//debugLog ("addWordUser");
+			
+			//var thisWordPhonics = ipaToPhonics(thisWordEnglish);
+			//var thisWordBopomofo = ipaToBopomofo(thisWordEnglish);
+			
+			var thisDefinition = thisWordEnglish + "	" + thisWordIpa + "	" + thisWordPhonics + "	" + thisWordBopomofo + "	" + thisWordChinese + "	" + thisWordPos;
+			
+			if (contains(combinedDictionaryData, "\n" + thisWordEnglish + "	") == false)
+			{
+				// Add the word to the dictionary
+				combinedDictionaryData = combinedDictionaryData + thisDefinition + "\n";
+				
+			} else {
+				// Edit the word
+			
+				// Get the existing word
+				var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordEnglish + "	", "\n");
+				
+				var oldDefinitionArray = oldDefinition.split("	");
+				var oldWordIpa = oldDefinitionArray[0];
+				var oldWordPhonics = oldDefinitionArray[1];
+				var oldWordBopomofo = oldDefinitionArray[2];
+				var oldWordChinese = oldDefinitionArray[3];
+				var oldWordPos = oldDefinitionArray[4];
+				
+				if (oldWordChinese.length > thisWordChinese.length)
+				{
+					// Set the new definition (without the headword)
+					var newDefinition = thisWordIpa + "	" + thisWordPhonics + "	" + thisWordBopomofo + "	" + thisWordChinese + "	" + thisWordPos;
+				
+					// Replace the definition in the dictionary
+					combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
+				}
+				
+				
+			} // if the dictionary contains the word already
+			
+		} // end function addWordAuto
+
+		function addWordUser(thisWordEnglish, thisWordIpa, thisWordPhonics, thisWordBopomofo, thisWordChinese, thisWordPos)
+		{
+			//debugLog ("addWordUser");
+			
+			var thisDefinition = thisWordEnglish + "	" + thisWordIpa + "	" + thisWordPhonics + "	" + thisWordBopomofo + "	" + thisWordChinese + "	" + thisWordPos;
+			
+			if (contains(combinedDictionaryData, "\n" + thisWordEnglish + "	") == false)
+			{
+				// Add the word to the dictionary
+				combinedDictionaryData = combinedDictionaryData + thisDefinition + "\n";
+				
+			} else {
+				// Edit the word
+			
+				// Get the existing word
+				var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordEnglish + "	", "\n");
+				
+				// Set the new definition (without the headword)
+				var newDefinition = thisWordIpa + "	" + thisWordPhonics + "	" + thisWordBopomofo + "	" + thisWordChinese + "	" + thisWordPos;
+				
+				// Replace the definition in the dictionary
+				combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
+				
+				
+			} // if the dictionary contains the word already
+			
+		} // end function addWordUser
+		
+		function addWordsButtonClicked()
+		{
+			//debugLog ("addWordsButtonClicked");
+			
+			var wordDefinitions = document.getElementById("englishTextArea").value;
+			
+			var wordDefinitionsLines = wordDefinitions.split("\n");
+			
+			var numberWords = wordDefinitionsLines.length;
+			
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisDefinition = wordDefinitionsLines[currentWord];
+				
+				var thisDefinitionArray = thisDefinition.split("	");
+				
+				var thisWordEnglish = thisDefinitionArray[0];
+				
+				var thisWordIpa = thisDefinitionArray[1];
+				var thisWordPhonics = thisDefinitionArray[2];
+				var thisWordBopomofo = thisDefinitionArray[3];
+				var thisWordChinese = thisDefinitionArray[4];
+				var thisWordPos = thisDefinitionArray[5];
+								
+				if ((thisWordEnglish != undefined) && (thisWordIpa != undefined) && (thisWordChinese != undefined))
+				{
+					addWordAuto(thisWordEnglish, thisWordIpa, thisWordPhonics, thisWordBopomofo, thisWordChinese, thisWordPos)
+				} // end if there is a valid definition
+				
+			} // end for every word
+			
+			writeToFile("English/EnglishIpaPhonicsBpmChinesePos.txt", combinedDictionaryData);
+			
+		} // end function addWordsButtonClicked
+		
+		function dictionaryEditorAddButtonClicked()
+		{
+			//debugLog ("dictionaryEditorAddButtonClicked");
+			
+			var thisWordEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			var thisWordIpa = document.getElementById("dictionaryEditorIpaTextArea").value;
+			var thisWordPhonics = document.getElementById("dictionaryEditorPhonicsTextArea").value;
+			var thisWordBopomofo = document.getElementById("dictionaryEditorBopomofoTextArea").value;
+			var thisWordChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
+			var thisWordPos = document.getElementById("pos").selectedIndex + 1;
+			
+			addWordUser(thisWordEnglish, thisWordIpa, thisWordPhonics, thisWordBopomofo, thisWordChinese, thisWordPos);
+			
+			// Save the new dictionary
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+
+			if (useGithub == false)
+			{
+				writeToFile("English/EnglishIpaPhonicsBpmChinesePos.txt", combinedDictionaryData);
+			} else {
+				saveDictionaryToLocalStorage(combinedDictionaryData.length);
+			}
+			
+			document.getElementById("dictionaryEditorEnglishTextArea").value = "";
+			document.getElementById("dictionaryEditorIpaTextArea").value = "";
+			document.getElementById("dictionaryEditorPhonicsTextArea").value = "";
+			document.getElementById("dictionaryEditorBopomofoTextArea").value = "";
+			document.getElementById("dictionaryEditorChineseTextArea").value = "";
+			document.getElementById("pos").selectedIndex = 0;
+
+			
+			dictionaryEditorEditCounts();
+
+
+		} // end function dictionaryEditorAddButtonClicked
+
+		function dictionaryEditorRemoveButtonClicked()
+		{
+			//debugLog ("dictionaryEditorRemoveButtonClicked");
+
+			var thisWord = document.getElementById("dictionaryEditorRemoveTextArea").value;
+			
+			if (thisWord != "")
+			{
+				var thisDefinition = textBetween(combinedDictionaryData,"\n"+thisWord+"	","\n");
+				
+				var thisDictionaryParts = combinedDictionaryData.split("\n"+thisWord+"	");
+				
+				var newDictionary = "";
+				
+				var numberParts = thisDictionaryParts.length - 1;
+				
+				for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+				{
+					var thisPart = thisDictionaryParts[currentPart];
+				
+					// Remove the first line if it's not the first part
+					if (currentPart != 0)
+					{
+						thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					} // end remove first lines
+
+					// Remove the last line if it's not the last part
+					if (currentPart != numberParts)
+					{
+						thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					} // end remove last lines
+					
+					newDictionary = newDictionary + "\n" + thisPart;
+					
+				} // end for every dictionary part
+				
+				combinedDictionaryData = newDictionary;
+				
+				// Update the user interface
+				//var removeAreaWords = document.getElementById("dictionaryRemoveArea").value;
+				//removeAreaWords = replaceChars(removeAreaWords,thisWord,"");
+				//document.getElementById("dictionaryRemoveArea").value = removeAreaWords;
+				
+				var removeText = thisWord + "	" + getDateString();
+
+				// Save to the file
+				//appendToFile("removeWords.txt", removeText);
+				saveToLocalStorage("removeWords", removeText);
+			} // end if the word is not blank
+
+		} // end function dictionaryEditorRemoveButtonClicked
+		
+		function classifyWord()
+		{
+			var thisWord = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			if (thisWord == "")
+			{
+				return;
+			}
+			
+			if (contains(nounsData, "\n" + thisWord + "\n") == true)
+			{
+				document.getElementById("pos").selectedIndex = 3;
+			} // end if the word is a noun
+
+			if (contains(verbsData, "\n" + thisWord + "\n") == true)
+			{
+				document.getElementById("pos").selectedIndex = 1;
+			} // end if the word is a verb
+
+			if (contains(adjectivesData, "\n" + thisWord + "\n") == true)
+			{
+				document.getElementById("pos").selectedIndex = 2;
+			} // end if the word is a adjective
+			
+		} // end function classifyWord
+		
+		function dictionaryEditorClassifyButtonClicked()
+		{
+			if (nounsData == "")
+			{
+				loadNouns("English/Classifications/nouns.txt");
+				
+			} else {
+				classifyWord();
+			}
+			
+		} // end function dictionaryEditorClassifyButtonClicked
+		
+		function loadCommonWords(filename)
+		{
+			//debugLog("loadCommonWords(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						commonWords = commonWords + "\n" + xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading common words');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadCommonWords
+
+		function loadWordLists()
+		{
+			//debugLog("loadWordLists");
+
+			commonWords = "";
+
+			var basicEnglishWords = document.getElementById('basicEnglishCheckbox').checked;
+
+			if (basicEnglishWords == true)
+			{
+				loadCommonWords("wordLists/English/ogdenBasicEnglish850.txt");
+			}
+
+			
+		} // end function loadWordLists
+		
+		function isPhpRunning()
+		{
+			//debugLog("isPhpRunning");
+			
+			var url = "whoami.php";
+
+			var thisRequest = new XMLHttpRequest();
+		    thisRequest.open("GET",url,true);
+    		thisRequest.send();
+
+    		thisRequest.onreadystatechange = function(){
+    			if (thisRequest.readyState== 4 && thisRequest.status == 200)
+    			{
+					//debugLog(thisRequest.responseText);
+
+    				if (contains(thisRequest.responseText, "php"))
+    				{
+    					document.getElementById("useGithubCheckbox").checked = true;
+    				} else {
+    					document.getElementById("useGithubCheckbox").checked = false;
+    				}
+                } else {
+    				document.getElementById("useGithubCheckbox").checked = true;
+                }
+            }
+		} // end function isPhpRunning
+		
+		function helpButtonClicked()
+		{
+			//debugLog("helpButtonClicked");
+			
+			var thisUrl = "docs/english.html";
+			window.open(thisUrl,'_blank');
+			
+		} // end function helpButtonClicked
+		
+		function setColour(thisClass, thisColour)
+		{
+			//debugLog("setColour(" + thisColour + ", " + thisClass + ")");
+			
+			var theseElements = document.getElementsByClassName(thisClass);
+		
+			var numberElements = theseElements.length;
+			
+			//debugLog(thisClass + " has " + numberElements);
+			
+			for (var currentElement = 0; currentElement < numberElements; currentElement++)
+			{
+				var thisElement = theseElements[currentElement];
+				thisElement.style.color = thisColour;
+			} // end for every element
+
+		} // end function setColour
+		
+		function setColours(theseClasses, theseColours)
+		{
+			//debugLog("setColours(theseColours, theseClasses)");
+			
+			var numberColours = theseColours.length;
+			
+			for (var currentColour = 0; currentColour < numberColours; currentColour++)
+			{
+				var thisColour = "#" + theseColours[currentColour];
+
+				var thisClass = theseClasses[currentColour];
+				
+				setColour(thisClass, thisColour);
+				
+			} // end for every class
+			
+		} // end function setColours
+		
+		function updateColours()
+		{
+			//debugLog("updateColours");
+			
+			var englishColourOne = document.getElementById("englishColourPickerOne").value;
+			var englishColourTwo = document.getElementById("englishColourPickerTwo").value;
+			var englishColourThree = document.getElementById("englishColourPickerThree").value;
+			var englishColourFour = document.getElementById("englishColourPickerFour").value;
+			
+			var theseClasses = ["english_1","english_2","english_3","english_4"];
+			var theseColours = [englishColourOne, englishColourTwo, englishColourThree, englishColourFour];
+			
+			setColours(theseClasses, theseColours);
+						
+		} // function updateColours
+		
+		function blackColours()
+		{
+			//debugLog("blackColours");
+			
+			var englishColourOne = "000000";
+			var englishColourTwo = "000000";
+			var englishColourThree = "000000";
+			var englishColourFour = "000000";
+			
+			var theseClasses = ["english_1","english_2","english_3","english_4"];
+			var theseColours = [englishColourOne, englishColourTwo, englishColourThree, englishColourFour];
+			
+			setColours(theseClasses, theseColours);
+		} // end function blackColours
+		
+		function greyColours()
+		{
+			//debugLog("greyColours");
+			
+			var englishColourOne = "000000";
+			var englishColourTwo = "929292";
+			var englishColourThree = "787878";
+			var englishColourFour = "505050";
+			
+			var theseClasses = ["english_1","english_2","english_3","english_4"];
+			var theseColours = [englishColourOne, englishColourTwo, englishColourThree, englishColourFour];
+			
+			setColours(theseClasses, theseColours);
+		} // end function greyColours
+		
+		function peterColours()
+		{
+			//debugLog("peterColours");
+			
+			var englishColourOne = "000000";
+			var englishColourTwo = "f82423";
+			var englishColourThree = "189c19";
+			var englishColourFour = "178FD1";
+
+			var theseClasses = ["english_1","english_2","english_3","english_4"];
+			var theseColours = [englishColourOne, englishColourTwo, englishColourThree, englishColourFour];
+			
+			setColours(theseClasses, theseColours);
+		} // end function peterColours
+		
+		function setIpaOpacity()
+		{
+			//debugLog("setIpaOpacity");
+
+			var ipaOpacityPercent = document.getElementById("ipaOpacity").value;
+			
+			var ipaOpacityValue = ipaOpacityPercent / 100;
+			
+			var theseClasses = "ipa_1,ipa_2,ipa_3,ipa_4".split(",");
+			
+			var numberClasses = theseClasses.length;
+			
+			for (var currentClass = 0; currentClass < numberClasses; currentClass++)
+			{
+				var thisClass = theseClasses[currentClass];
+			
+				var theseElements = document.getElementsByClassName(thisClass);
+			
+				var numberElements = theseElements.length;
+			
+				for (var currentElement = 0; currentElement < numberElements; currentElement++)
+				{
+					var thisElement = theseElements[currentElement];
+					thisElement.style.opacity = ipaOpacityValue;
+				} // end for every element
+				
+			} // end for every class
+			
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("phonicsOpacity").value = ipaOpacityPercent;
+				setPhonicsOpacity();
+			}
+			
+		} // end function setIpaOpacity
+
+		function setPhonicsOpacity()
+		{
+			//debugLog("setPhonicsOpacity");
+
+			var phonicsOpacityPercent = document.getElementById("phonicsOpacity").value;
+			
+			var phonicsOpacityValue = phonicsOpacityPercent / 100;
+			
+			var theseClasses = "phonics_1,phonics_2,phonics_3,phonics_4".split(",");
+			
+			var numberClasses = theseClasses.length;
+			
+			for (var currentClass = 0; currentClass < numberClasses; currentClass++)
+			{
+				var thisClass = theseClasses[currentClass];
+			
+				var theseElements = document.getElementsByClassName(thisClass);
+			
+				var numberElements = theseElements.length;
+			
+				for (var currentElement = 0; currentElement < numberElements; currentElement++)
+				{
+					var thisElement = theseElements[currentElement];
+					thisElement.style.opacity = phonicsOpacityValue;
+				} // end for every element
+				
+			} // end for every class
+			
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("bopomofoOpacity").value = phonicsOpacityPercent;
+				setBopomofoOpacity();
+			}
+			
+		} // end function setPhonicsOpacity
+
+		function setBopomofoOpacity()
+		{
+			//debugLog("setBopomofoOpacity");
+
+			var bopomofoOpacityPercent = document.getElementById("bopomofoOpacity").value;
+			
+			var bopomofoOpacityValue = bopomofoOpacityPercent / 100;
+			
+			var theseClasses = "bopomofo_1,bopomofo_2,bopomofo_3,bopomofo_4".split(",");
+			
+			var numberClasses = theseClasses.length;
+			
+			for (var currentClass = 0; currentClass < numberClasses; currentClass++)
+			{
+				var thisClass = theseClasses[currentClass];
+			
+				var theseElements = document.getElementsByClassName(thisClass);
+			
+				var numberElements = theseElements.length;
+			
+				for (var currentElement = 0; currentElement < numberElements; currentElement++)
+				{
+					var thisElement = theseElements[currentElement];
+					thisElement.style.opacity = bopomofoOpacityValue;
+				} // end for every element
+				
+			} // end for every class
+			
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("literalOpacity").value = bopomofoOpacityPercent;
+				setLiteralOpacity();
+			}
+			
+		} // end function setBopomofoOpacity
+
+		function setLiteralOpacity()
+		{
+			//debugLog("setLiteralOpacity");
+
+			var literalOpacityPercent = document.getElementById("literalOpacity").value;
+			
+			var literalOpacityValue = literalOpacityPercent / 100;
+			
+			var theseClasses = "literal".split(",");
+			
+			var numberClasses = theseClasses.length;
+			
+			for (var currentClass = 0; currentClass < numberClasses; currentClass++)
+			{
+				var thisClass = theseClasses[currentClass];
+			
+				var theseElements = document.getElementsByClassName(thisClass);
+			
+				var numberElements = theseElements.length;
+			
+				for (var currentElement = 0; currentElement < numberElements; currentElement++)
+				{
+					var thisElement = theseElements[currentElement];
+					thisElement.style.opacity = literalOpacityValue;
+				} // end for every element
+				
+			} // end for every class
+			
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("chineseOpacity").value = literalOpacityPercent;
+				setChineseOpacity();
+			}
+			
+		} // end function setLiteralOpacity
+
+		function setChineseOpacity()
+		{
+			//debugLog("setChineseOpacity");
+
+			var chineseOpacityPercent = document.getElementById("chineseOpacity").value;
+			
+			var chineseOpacityValue = chineseOpacityPercent / 100;
+			
+			var theseClasses = "chinese".split(",");
+			
+			var numberClasses = theseClasses.length;
+			
+			for (var currentClass = 0; currentClass < numberClasses; currentClass++)
+			{
+				var thisClass = theseClasses[currentClass];
+			
+				var theseElements = document.getElementsByClassName(thisClass);
+			
+				var numberElements = theseElements.length;
+			
+				for (var currentElement = 0; currentElement < numberElements; currentElement++)
+				{
+					var thisElement = theseElements[currentElement];
+					thisElement.style.opacity = chineseOpacityValue;
+				} // end for every element
+				
+			} // end for every class
+			
+			/*
+			var linkSliders = document.getElementById("linkSlidersCheckbox").checked;
+			
+			if (linkSliders == true)
+			{
+				document.getElementById("chineseOpacity").value = literalOpacityPercent;
+				setChineseOpacity();
+			}
+			*/
+			
+		} // end function setChineseOpacity
+
+		function clearButtonClicked()
+		{
+			//debugLog("clearButtonClicked");
+
+			document.getElementById("chineseTextArea").value = "";
+			document.getElementById("englishTextArea").value = "";
+
+			//document.getElementById("startCharacter").value = "";
+		} // end function clear
+
+		function saveToLocalStorage(key, thisText)
+		{
+			//debugLog("saveToLocalStorage(" + key + "," + thisText + ")");
+			
+			var oldText = localStorage[key];
+			
+			if (oldText == undefined)
+			{
+				oldText = "";
+			}
+			
+			localStorage[key] = oldText + thisText + "\n";
+			
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+
+			if (useGithub == false)
+			{
+				appendToFile(key + ".txt", thisText);
+			}
+		} // end function saveToLocalStorage
+		
+		function memoryPlus()
+		{
+			//debugLog("memoryPlus");
+
+			var thisPhrase = document.getElementById("englishTextArea").value;
+			
+			var thisKey = "phraseEnglish";
+			
+			saveToLocalStorage(thisKey, thisPhrase);
+			
+		} // end function memoryPlus
+
+		function loadFromLocalStorage()
+		{
+			//debugLog("loadFromLocalStorage");
+
+			document.getElementById("englishTextArea").value = localStorage["phraseEnglish"];
+		} // end function load
+
+		function shuffle(array) 
+		{
+			//debugLog("shuffle");
+
+			var newPosition;
+			var currentItem;
+			var thisItem;
+			
+			for (currentItem = array.length; currentItem; currentItem--) 
+			{
+				newPosition = Math.floor(Math.random() * currentItem);
+				thisItem = array[currentItem - 1];
+				array[currentItem - 1] = array[newPosition];
+				array[newPosition] = thisItem;
+			}
+			
+			return array;
+		} // end function function shuffle
+		
+		
+		function shuffleButtonClicked()
+		{
+			//debugLog("shuffleButtonClicked");
+			
+			var chineseText = document.getElementById("englishTextArea").value;
+			
+			var spacedText = document.getElementById("englishSpacedTextArea").value;
+			
+			if (spacedText == "")
+			{
+				spacedText = wordSpace(englishText);
+			}
+			
+			spacedText = replaceChars(spacedText, "§§", "§");
+			
+			var outputText = "";
+			
+			var spacedLines = spacedText.split("\n");
+			var numberLines = spacedLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = spacedLines[currentLine];
+			
+				var spacedArray = thisLine.split("§");
+			
+				spacedArray = shuffle(spacedArray);
+			
+				var shuffledLine = spacedArray.join("§");
+				
+				outputText = outputText + shuffledLine + "\n";
+			} // end for every line
+			
+			document.getElementById("englishSpacedTextArea").value = outputText;
+			
+			translateInterface();
+							
+		} // end function shuffleButtonClicked
+		
+		function googleTranslatePhraseButtonClicked()
+		{
+			//debugLog("googleTranslateButtonClicked");
+			var thisChinese = document.getElementById("englishTextArea").value;
+			
+			window.open("https://translate.google.com/#en/zh-TW/" + thisChinese,'_blank');
+		} // end function googleTranslatePhraseButtonClicked
+		
+		function advancedButtonClicked()
+		{
+			//debugLog ("advancedButtonClicked");
+			
+			document.getElementById("subtitlesInputTitle").style.width = "auto";
+			document.getElementById("subtitlesTextArea").style.width = "auto";
+
+			document.getElementById("englishSpacedTitle").style.width = "auto";
+			document.getElementById("englishSpacedTextArea").style.width = "auto";
+			
+			document.getElementById("advancedRows").style.height = "auto";
+
+			var thisClass = "advanced";
+			
+			var theseElements = document.getElementsByClassName(thisClass);
+			
+			var numberElements = theseElements.length;
+			
+			for (var currentElement = 0; currentElement < numberElements; currentElement++)
+			{
+				var thisElement = theseElements[currentElement];
+				thisElement.style.visibility = "visible";
+			} // end for every element
+			
+		} // end function advancedButtonClicked
+		
+		//loadDictionary("English/chickenRunEnglishIpaPhonicsBopomofoChinese.txt");
+		lastDictionary = true;
+		loadDictionary("English/EnglishIpaPhonicsBpmChinesePos.txt");
+
+		isPhpRunning();
+    	
+    </script>
+    
+	<!-- jQuery scripts -->
+	<script>
+		function openDictionaryEditor()
+		{
+			//debuglog("openDictionaryEditor");
+
+			document.getElementById("dictionaryEditor").style.visibility = "visible";
+
+			dictionaryEditorEditCounts();
+
+			var thisDialog = $( "#dictionaryEditor" ).dialog(
+			{
+				width: 450,
+				maxWidth: 768,
+				height: 510,
+				closeText: "",
+				position: 
+				{ 
+					my: 'left top',
+					at: 'right bottom',
+					of: $('#editButton')
+				},
+				dialogClass: 'dialogWithDropShadow'
+			}
+			); 
+
+			//dictionaryEditorDiv.dialog('open');
+
+		} // end function openDictionaryEditor
+
+		//openDictionaryEditor();
+
+	</script>
+	    
+</html>

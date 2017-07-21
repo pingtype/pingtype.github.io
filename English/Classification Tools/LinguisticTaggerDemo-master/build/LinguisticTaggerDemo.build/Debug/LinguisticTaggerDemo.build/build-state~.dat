@@ -1,0 +1,115 @@
+TLinguisticTaggerDemo
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005228143200000000000004B3
+t1378358322
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005227ECC800000000000001DE
+t1378348232
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch
+c0000000052BC93970000000000000158
+t1388090263
+s344
+
+N/var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch
+t2
+s0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppleTextKitDemo/TKDInteractiveTextColoringTextStorage.m
+r0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppleTextKitDemo/TKDTextViewController.m
+r0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerViewController.m
+r0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/SyntaxSelectorAccessoryView.m
+r0
+
+CBuild AST from /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8e57e0794a13bf41^b6a0f3794a13bf41^---0#1#1#--18"Check dependencies36"C268882E-4984-44DA-A588-81EECD9B3746-
+
+CCompileAssetCatalog /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/LinguisticTaggerDemo.app/Contents/Resources /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/Images.xcassets
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/AppDelegate.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/LinguisticTaggerViewController.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/SyntaxSelectorAccessoryView.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/SyntaxSelectorAccessoryView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/TKDInteractiveTextColoringTextStorage.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppleTextKitDemo/TKDInteractiveTextColoringTextStorage.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/TKDTextViewController.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/AppleTextKitDemo/TKDTextViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/Objects-normal/x86_64/main.o /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/Base.lproj/Main_iPad.storyboard
+r0
+
+CCompileStoryboard /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/Base.lproj/Main_iPhone.storyboard
+r0
+
+CCopyStringsFile /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/LinguisticTaggerDemo.app/Contents/Resources/en.lproj/InfoPlist.strings LinguisticTaggerDemo/en.lproj/InfoPlist.strings
+r0
+
+CCpResource LinguisticTaggerDemo/Alice.txt build/Debug/LinguisticTaggerDemo.app/Contents/Resources/Alice.txt
+r0
+
+CLd /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/LinguisticTaggerDemo.app/Contents/MacOS/LinguisticTaggerDemo normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/LinguisticTaggerDemo.app/Contents/Info.plist /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Info.plist
+r0
+
+CProcessPCH /Users/peter/Library/Developer/Xcode/DerivedData/LinguisticTaggerDemo-awzbagxzqnvqeehbbxcvwymnpqmd/Index/PrecompiledHeaders/LinguisticTaggerDemo-Prefix-dmvdmpgdwowvudezgmfjzztsckpq_ast/LinguisticTaggerDemo-Prefix.pch.pch LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s521357945.956838
+e521357946.836653
+r0
+xProcessPCH
+x/var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch
+xLinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch:14:13: fatal error: 'UIKit/UIKit.h' file not found
+o    #import <UIKit/UIKit.h>
+o            ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch344"ProcessPCH /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera169f5794a13bf41^a52dd67a4a13bf41^-229"/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch:14:13: fatal error: 'UIKit/UIKit.h' file not found    #import <UIKit/UIKit.h>            ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@30"'UIKit/UIKit.h' file not found-521357946#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@123"file:///Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch0000000000000000^13#12#13#12#283#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@123"file:///Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch0000000000000000^3826"ProcessPCH /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/peter/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/LinguisticTaggerDemo-generated-files.hmap -I/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/LinguisticTaggerDemo-own-target-headers.hmap -I/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/LinguisticTaggerDemo-all-target-headers.hmap -iquote /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/LinguisticTaggerDemo-project-headers.hmap -I/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/DerivedSources/x86_64 -I/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/LinguisticTaggerDemo.build/Debug/LinguisticTaggerDemo.build/DerivedSources -F/Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug --serialize-diagnostics /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.d -c /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/LinguisticTaggerDemo/LinguisticTaggerDemo-Prefix.pch -o /var/folders/k3/hj1khgld02380fcts0h5nb2c0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/LinguisticTaggerDemo-Prefix-dddaxsonqtuwnbbpwlcpnxyyjeom/LinguisticTaggerDemo-Prefix.pch.pch36"5FDEF765-4B85-4675-BA46-A442965E58C3-
+b08E87EE3-4A46-4FF2-BE01-11AF527BD298
+
+CTouch /Users/peter/Sites/pingtype/English/LinguisticTaggerDemo-master/build/Debug/LinguisticTaggerDemo.app
+r0
+

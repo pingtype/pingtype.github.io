@@ -50,9 +50,10 @@ How to make subtitles
 24. Copy words to level folders using wordsToLevelFolders.sh
 25. Rename to add level number and data source name
 26. Upload to Google Drive. There is a maximum upload limit of 50 per day to YouTube. 
-27. Put direct links to each video into the index HTML. 
-28. Upload HTML index file to website. 
-29. Marketing
+27. Get direct links to Google Drive using http://directlink.booogle.net/
+28. Put direct links to each video into the index HTML. 
+29. Upload HTML index file to website. 
+30. Marketing
 
 Runtime:
 5 + 1 + 1 + 1 + 1 + 5 + 30 + 25 + 24 + 9 + 3 + 4 + 1 + 1 + 44 + 10

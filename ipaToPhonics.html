@@ -5,9 +5,9 @@
 -->
 
 <!DOCTYPE html>
-<html manifest="pingtype.appcache">
+<html>
 	<head>
-		<title>Pingtype English</title>
+		<title>IPA to Phonics</title>
 		<meta charset="utf-8" />
 		<style>
 		.DefaultButtonOuter
@@ -51,7 +51,7 @@
     </head>
     <body>
     	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
-    		翻譯 軟體 <b>Pingtype Parallel Translator</b>
+    		<b>IPA to Phonics</b>
     	</div>
     	
     	<table>
@@ -131,8 +131,8 @@
     	
     	function ipaToBopomofo(ipaWord)
     	{
-    		var ipaAlphabet = ["ʈʂʰ", "ɻ~ʐ", "tsʰ", "dʒ", "tʃ", "pʰ", "tʰ", "kʰ", "ʨʰ", "ʈʂ", "ts", "ai", "ei", "au", "ou", "an", "ən", "aŋ", "əŋ", "aɚ", "æ", "b", "ð", "d", "ə", "ɛ", "g", "h", "ɪ", "j", "ŋ", "ɔ", "r", "v", "w", "z", "θ", "p", "m", "f", "t", "n", "l", "k", "x", "ʨ", "ɕ", "ʂ", "s", "a", "o", "ɤ", "e", "i", "u", "y", "ɑ", "ɒ", "c", "ʤ", "ɜ", "ʃ", "ʧ", "ʊ", "ʌ", "ʒ", "ː", "ˈ", "ˌ", "(", ")"];
-    		var bopomofoAlphabet = ["ㄔ", "ㄖ", "ㄘ", "ㄓ", "ㄔ", "ㄆ", "ㄊ", "ㄎ", "ㄑ", "ㄓ", "ㄗ", "ㄞ", "ㄟ", "ㄠ", "ㄡ", "ㄢ", "ㄣ", "ㄤ", "ㄥ", "ㄦ", "ㄚ", "ㄅ", "ㄘ", "ㄉ", "ㄦ", "ㄜ", "ㄍ", "ㄏ", "ㄧ", "ㄡ", "ㄥ", "ㄛ", "ㄖ", "ㄈ", "ㄨ", "ㄗ", "ㄊ", "ㄅ", "ㄇ", "ㄈ", "ㄉ", "ㄋ", "ㄌ", "ㄍ", "ㄏ", "ㄐ", "ㄒ", "ㄕ", "ㄙ", "ㄚ", "ㄛ", "ㄜ", "ㄝ", "ㄧ", "ㄨ", "ㄩ", "ㄚ", "ㄛ", "ㄕ", "ㄓ", "ㄦ", "ㄕ", "ㄓ", "ㄡ", "ㄨ", "ㄓ", "", "", "", "", ""];
+    		var ipaAlphabet      = ["ʈʂʰ", "ɻ~ʐ", "tsʰ", "dʒ", "tʃ", "pʰ", "tʰ", "kʰ", "ʨʰ", "ʈʂ", "ts", "ai", "ei", "au", "ou", "an", "ən", "aŋ", "əŋ", "aɚ", "æ", "b", "ð", "d", "ə", "ɛ", "g", "h", "ɪ", "j", "ŋ", "ɔ", "r", "v", "w", "z", "θ", "p", "m", "f", "t", "n", "l", "k", "x", "ʨ", "ɕ", "ʂ", "s", "a", "o", "ɤ", "e", "i", "u", "y", "ɑ", "ɒ", "c", "ʤ", "ɜ", "ʃ", "ʧ", "ʊ", "ʌ", "ʒ", "q", "ː", "ˈ", "ˌ", "(", ")"];
+    		var bopomofoAlphabet = ["ㄔ", "ㄖ", "ㄘ", "ㄓ", "ㄔ", "ㄆ", "ㄊ", "ㄎ", "ㄑ", "ㄓ", "ㄗ", "ㄞ", "ㄟ", "ㄠ", "ㄡ", "ㄢ", "ㄣ", "ㄤ", "ㄥ", "ㄦ", "ㄚ", "ㄅ", "ㄘ", "ㄉ", "ㄦ", "ㄜ", "ㄍ", "ㄏ", "ㄧ", "ㄡ", "ㄥ", "ㄛ", "ㄖ", "ㄈ", "ㄨ", "ㄗ", "ㄊ", "ㄅ", "ㄇ", "ㄈ", "ㄉ", "ㄋ", "ㄌ", "ㄍ", "ㄏ", "ㄐ", "ㄒ", "ㄕ", "ㄙ", "ㄚ", "ㄛ", "ㄜ", "ㄝ", "ㄧ", "ㄨ", "ㄩ", "ㄚ", "ㄛ", "ㄕ", "ㄓ", "ㄦ", "ㄕ", "ㄓ", "ㄡ", "ㄨ", "ㄓ", "ㄎ", "", "", "", "", ""];
     		
     		var alphabetLength = ipaAlphabet.length;
     		
@@ -157,6 +157,10 @@
   			var inputText = document.getElementById("inputTextArea").value;
   			
   			var outputText = ipaToPhonics(inputText);
+  			
+  			outputText=replaceChars(outputText," \n","\n");
+  			outputText=replaceChars(outputText,"\n-","\n");
+  			outputText=replaceChars(outputText,"-\n","\n");
   			
   			document.getElementById("outputTextArea").value = outputText;
     	

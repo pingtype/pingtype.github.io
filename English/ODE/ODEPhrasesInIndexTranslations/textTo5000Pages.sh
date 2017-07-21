@@ -1,0 +1,1 @@
+＃！/斌/慶典INPUTFILE=“ODEPhrasesInIndexC.txt”;thisPage=“”;PAGENUMBER= 1;而IFS = read -r thisWord;做newPage =;pageLength= $ {＃NEWPAGE};if（（$ pageLength> 5000））;然後OUTPUTFILE=“ODEPhrasesInIndexC$pageNumber.txt”;printf“$ thisPage”>“$ outputFile”;thisPage=“$thisWord”;PAGENUMBER= $（（PAGENUMBER+ 1））其他thisPage=“$NEWPAGE”;科幻完成<“$ inputFile”
