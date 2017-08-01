@@ -7031,6 +7031,8 @@ display:inline;
 			
 			var htmlFooters = "\n  </body>\n</html>\n";
 			
+			// Pingtype is a literal translator for Chinese. Pingtype 是 一個 中文 詞彙 翻譯. 
+			
 			var thisHtml = htmlHeaders + thisString + htmlFooters;
 			
 			writeToFile(filename, thisHtml);
@@ -14326,6 +14328,8 @@ display:inline;
   <!-- jQuery scripts -->
   <script>
   
+    var dictionaryEditorDialog;
+  
   	function openSlideViewer()
   	{
   		//debuglog("openSlideViewer");
@@ -14400,7 +14404,7 @@ display:inline;
 
 		dictionaryEditorEditCounts();
   		
-		var thisDialog = $( "#dictionaryEditor" ).dialog(
+		dictionaryEditorDialog = $( "#dictionaryEditor" ).dialog(
 			{
 				width: 450,
 				maxWidth: 768,
@@ -14412,7 +14416,10 @@ display:inline;
     				at: 'right bottom',
 				    of: $('#editButton')
 				},
-			    dialogClass: 'dialogWithDropShadow'
+			    dialogClass: 'dialogWithDropShadow',
+			    create: function (event) {
+		            $(event.target).parent().css({ 'position': 'fixed', "left": 50, "top": 150 });
+          		}
 			}
 		); 
 
@@ -14421,6 +14428,7 @@ display:inline;
   	} // end function openDictionaryEditor
   	
   	//openDictionaryEditor();
+  	
   	
   </script>
   
