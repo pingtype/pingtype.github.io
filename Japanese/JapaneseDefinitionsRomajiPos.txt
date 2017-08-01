@@ -1,0 +1,1014 @@
+アスファルト	asphalt	asufaruto	4
+ベテルギウス	Betelgeuse	beterugiusu	1
+あたたかい	warm	atatakai	1
+キャンドル	candle	kyandoru	4
+しょい込ん	Short rush	shoikon	2
+タイミング	timing	taimingu	4
+ダマせない	can't let go	damasenai	1
+なんとなく	somehow or other	nantonaku	1
+プレゼント	present	purezento	1
+うどいいや	it's bad	udo ī ya	1
+やまないな	won't stop	yamanaina	1
+やり過ごし	let something	yarisugoshi	2
+見つけたよ	I found it	mitsuketayo	1
+リスタート	restart	risutāto	4
+待ちこがれ	A long wait	machikogare	2
+立ち止まっ	stop	tachidoma’	2
+踏みつける	trample down	fumitsukeru	2
+顏を見せる	show your face	kaowomiseru	1
+あらわし	Representation	arawashi	2
+ありふれ	common	arifure	2
+いたずら	tease	itazura	1
+かかわり	affected	kakawari	2
+かき消さ	erase	kakikesa	2
+ガラクタ	junk	garakuta	1
+くり返し	repetition	kurikaeshi	1
+ささなく	sorry	sasanaku	1
+ささやい	whisper	sasayai	2
+ずいぶん	very	zuibun	1
+ストーン	stone	sutōn	4
+スピード	speed	supīdo	4
+すれ違い	passing each other	surechigai	4
+そういう	such	sōyuu	1
+そしたら	then	soshitara	1
+それから	and then	sorekara	1
+たとえば	for example	tatoeba	1
+はたまた	and	hatamata	1
+ちょうど	just	chōdo	1
+ちょっと	just a minute	chotto	1
+ついばむ	pick at	tsuibamu	2
+なくなん	No way	nakunan	2
+なんとか	something	nantoka	1
+にとって	for	nitotte	3
+はしゃい	make merry	hashai	2
+はっきり	clearly	hakkiri	1
+ひととき	moment	hitotoki	4
+ポンチョ	poncho	poncho	1
+むりやり	forcibly	muriyari	1
+やまない	we stop	yamanai	2
+やり過ご	overcome	yarikago	2
+やさしく	easily	yasashiku	1
+やってる	are doing	yatteru	1
+ゆっくり	slowly	yukkuri	1
+リセット	reset	risetto	4
+下らない	good-for-nothing	kudaranai	1
+付き合っ	associate with	tsukia’	2
+何気なく	casual	nanigenaku	1
+傷つける	wounded	kizutsukeru	2
+出し抜い	forestall	dashinui	2
+切り裂い	cut off	kirisai	2
+切り離し	detach	kirihanashi	2
+引き止め	detain	hikitome	2
+引き返し	repeat	hikikaeshi	2
+当たり前	natural	atarimae	1
+後ろ向き	back facing	ushiromuki	4
+心地よい	comfortable	kokochiyoi	1
+思い出す	recall	omoidasu	2
+投げ捨て	throw away	nagesute	2
+抱き合っ	embrace each other	dakia’	2
+掘り進ん	burrow through	horisusun	2
+数え切れ	Count	kazoekire	2
+気づきゃ	notice	kizukya	2
+焼き払う	clear away by burning	yakiharau	2
+焼け付く	burn	yaketsuku	2
+燃え盛れ	blaze	moesakare	2
+確かめる	ascertain	tashikameru	2
+積み重ね	pile up	tsumikasane	2
+立ち回っ	walk about	tachimawa’	2
+繰り返す	repeat	kurikaesu	2
+聞こえる	heard	kikoeru	2
+落とし穴	pitfall	otoshiana	4
+行き着く	arrive at	ikitsuku	2
+見つから	found	mitsukara	2
+見落とし	overlook	miotoshi	2
+語り継い	transmit	kataritsui	2
+走り出せ	begin to run	hashiridase	2
+道しるべ	guidepost	michishirube	4
+遠ざかる	go far off	tōzakaru	2
+重ね合わ	Superimposition	kasaneawa	2
+錆び付い	rust together	sabitsui	2
+集めりゃ	collect	atsumerya	2
+飲み込ま	gulp down	nomikoma	2
+あげる	raise	ageru	2
+あなた	you	anata	1
+いくつ	how many	ikutsu	1
+いける	To go	ikeru	2
+いつか	Some day	itsuka	4
+いっそ	much more	isso	1
+いつも	always	itsumo	1
+かすれ	grazed	kasure	2
+かっこ	parentheses	kakko	1
+かなり	considerably	kanari	1
+ガラス	Glass	garasu	4
+カラダ	Body	karada	1
+がれき	rubble	gareki	4
+かわり	A substitute	kawari	4
+きっと	surely	kitto	1
+笛吹き	whistling	fuefuki	2
+ぐらい	about	gurai	3
+この世	this world	konoyo	4
+こぼれ	Spill	kobore	2
+ころげ	roll over	koroge	2
+こんど	now	kondo	4
+こんな	such	konna	1
+サイズ	size	saizu	4
+しぐさ	action	shigusa	4
+しまっ	finish	shima’	2
+じゃあ	then	jā	1
+すごそ	pass	sugoso	2
+すすけ	sooty	susuke	2
+ずっと	continuously	zutto	1
+そっと	softly	sotto	1
+それで	and	sorede	1
+そんな	such	sonna	1
+だから	so	dakara	1
+たった	only	tatta	1
+だって	Because	datte	3
+たって	Because	tatte	3
+たどり	follow	tadori	2
+閉じた	closed	tojita	1
+たまに	sometimes	tamani	1
+ちゃち	cheap	chachi	4
+ちゃっ	do something completely	cha’	2
+つかえ	Substitute	tsukae	2
+つもり	intention	tsumori	4
+できれ	can	dekire	2
+でしょ	right	desho	1
+テレビ	television	terebi	4
+どうせ	anyhow	dōse	1
+ところ	place	tokoro	4
+とっさ	moment	tossa	4
+とても	very	totemo	1
+どんな	what	donna	1
+ナイフ	knife	naifu	4
+なかっ	Not	naka’	1
+なきゃ	Without me	nakya	1
+なくし	lose something	nakushi	2
+なぞる	trace	nazoru	2
+ならさ	Nara	narasa	2
+なんか	Something	nanka	3
+なんて	Why	nante	3
+にじみ	run	nijimi	2
+にじん	run	nijin	2
+のこし	leave	nokoshi	2
+のら犬	stray dog	norainu	4
+はずれ	end	hazure	4
+ピエロ	clown	piero	4
+ひどく	Badly	hidoku	1
+ひとつ	one	hitotsu	4
+ほしく	wanted	hoshiku	1
+ほんと	truth	honto	1
+ほんの	mere	honno	1
+マイル	mile	mairu	4
+まがい	mistaken for	magai	2
+まねる	mimic	maneru	2
+まるで	quite	marude	1
+みたい	like	mitai	4
+みんな	all	minna	1
+メイク	make	meiku	1
+めがけ	aim at	megake	2
+もっと	more	motto	1
+もはや	already	mohaya	1
+ものや	stuff	monoya	4
+癒やさ	healing	iyasa	1
+ゆれる	shake	yureru	2
+ライト	light	raito	4
+られる	potential	rareru	2
+レール	rail	rēru	4
+世の中	society	yononaka	4
+仕組ま	devise	shikuma	2
+会える	meet	aeru	2
+伸ばし	grow long	nobashi	2
+優しく	tender	yasashiku	1
+出会い	meeting	deai	4
+出会え	meet by chance	deae	2
+出会っ	meet by chance	dea’	2
+出逢い	meet by chance	deai	2
+分かっ	understood	waka’	2
+分から	understood	wakara	2
+分かり	understood	wakari	2
+分かる	understood	wakaru	2
+分かん	understood	wakan	2
+初めて	for the first time	hajimete	1
+向ける	face	mukeru	2
+向こう	opposite side	mukō	4
+哀れむ	commiserate	awaremu	2
+埋める	bury	umeru	2
+埋もれ	buried	uzumore	2
+変わっ	change	kawa’	2
+変わら	change	kawara	2
+変わる	change	kawaru	2
+始まり	origin	hajimari	4
+小さい	small	chīsai	1
+怖かっ	scary	kowaka’	1
+思い出	memories	omoide	4
+怯える	become frightened	obieru	2
+抜け殻	cast-off skin	nukegara	4
+新しい	new	atarashii	1
+日差し	sunlight	hizashi	4
+明かし	pass	akashi	2
+本当に	really	hontōni	1
+本当は	Actually	hontōwa	1
+止まら	stop	tomara	2
+気づい	notice	kizui	2
+気づけ	notice	kizuke	2
+気付か	notice	kizuka	2
+気休め	soothing	kiyasume	4
+気持ち	feeling	kimochi	4
+求める	want	motomeru	2
+流れる	stream	nagareru	2
+浮かべ	float	ukabe	2
+消える	go out	kieru	2
+減らし	abate	herashi	2
+温もり	warmth	nukumori	4
+満たし	satisfy	mitashi	2
+激しく	violent	hageshiku	1
+無くし	lose something	nakushi	2
+焦がし	burn	kogashi	2
+焦がす	burn	kogasu	2
+照らし	shine on	terashi	2
+物語っ	tell	monogata’	2
+生きる	live	ikiru	2
+生ける	arrange	ikeru	2
+目覚め	wake up	mezame	2
+空ける	open	akeru	2
+笑える	laugh	waraeru	2
+終わっ	finish	owa’	2
+終わら	finish	owara	2
+終わる	finish	owaru	2
+終われ	finish	oware	2
+結び目	knot	musubime	4
+続けよ	continue	tsuzukeyo	2
+続ける	continue	tsuzukeru	2
+綱渡り	tightrope walking	tsunawatari	4
+罪深き	sinful	tsumibukaki	1
+耳鳴り	buzzing in the ears	miminari	4
+良かっ	good	yoka’	1
+落とし	drop	otoshi	2
+行く先	one's destination	yukusaki	4
+行ける	good	ikeru	2
+見せる	show	miseru	2
+見つけ	discover	mitsuke	2
+見上げ	look up at	miage	2
+見守る	watch over	mimamoru	2
+赤信号	red light	akashingō	4
+起こし	raise	okoshi	2
+近づく	approach	chikazuku	2
+途切れ	pause	togire	2
+遠回り	detour	tōmawari	4
+間違い	mistake	machigai	4
+間違っ	make a mistake	machiga’	2
+集まる	gather	atsumaru	2
+飛べる	jump	toberu	2
+高架線	overhead wires	kōkasen	4
+っちゃ	tcha	Totally different	1
+あっ	be	a’	2
+あと	behind	ato	4
+あの	that	ano	1
+ある	be	aru	2
+いい	good	ii	1
+いう	is called	iu	2
+いか	go	ika	2
+いく	go	iku	2
+いけ	Go	ike	2
+いつ	when	itsu	1
+いま	now	ima	4
+いよ	There.	iyo	1
+いる	continuing	iru	2
+いん	avoid	in	2
+うい	unhappy	ui	1
+ウソ	Lie	uso	4
+エリ	Eli	eri	4
+おき	left	oki	2
+お前	you	omae	1
+かい	Welcome	kai	3
+かけ	Over	kake	2
+がっ	feel	ga’	2
+かも	maybe	kamo	3
+から	From	kara	3
+がり	feel	gari	2
+キス	kiss	kisu	1
+くち	rot	kuchi	2
+くも	A spider	kumo	4
+くれ	year end	kure	2
+けど	but	kedo	3
+ここ	here	koko	1
+こと	thing	koto	4
+ごと	with the rest	goto	4
+この	this	kono	1
+これ	this	kore	1
+ころ	time	koro	4
+さぁ	Come on.	sā	1
+さえ	even	sae	3
+じゃ	then	ja	3
+しよ	do	shiyo	2
+すぐ	immediately	sugu	1
+すむ	To live	sumu	2
+すら	Even	sura	3
+する	do	suru	2
+せい	Fault	sei	4
+そう	so	sō	4
+そこ	there	soko	1
+そっ	Along	so’	2
+その	that	sono	1
+ソレ	Sole	sore	1
+それ	that	sore	1
+たい	Want	tai	1
+たく	Want	taku	1
+だけ	Only	dake	3
+だし	Soup	dashi	2
+だす	Issuing	dasu	2
+ただ	However	tada	4
+たち	plural	tachi	4
+だっ	Is	da’	1
+ため	good	tame	4
+たら	After	tara	1
+たり	Or	tari	3
+だろ	You.	daro	1
+っけ	Ick	kke	3
+づけ	Wearing	zuke	2
+つけ	fixed	tsuke	2
+って	To	tte	3
+ツメ	close up	tsume	4
+でき	can	deki	2
+でも	but	demo	3
+でる	go out	deru	2
+てる	shine	teru	2
+とい	To	toi	2
+どう	how	dō	1
+とか	And	toka	3
+とき	time	toki	4
+とげ	thorn	toge	4
+どこ	where	doko	1
+とっ	take note	to’	2
+とれ	Whoops	tore	2
+どれ	which	dore	1
+ない	Absent	nai	1
+なく	Without	naku	1
+なぜ	why	naze	1
+なっ	become	na’	2
+なら	become	nara	2
+なり	become	nari	2
+なる	become	naru	2
+なれ	become	nare	2
+なん	what	nan	1
+ねぇ	Hey	nē	3
+のに	Although	noni	3
+はず	Be supposed to	hazu	4
+はも	eat	hamo	2
+ひと	People	hito	4
+フリ	free	furi	4
+ほど	About	hodo	3
+ほら	Here	hora	1
+ます	I will	masu	1
+また	again	mata	1
+まだ	as yet	mada	1
+まで	Until	made	3
+まま	as it is	mama	4
+みせ	show	mise	2
+みる	try	miru	2
+ムチ	Whip	muchi	4
+もう	already	mō	1
+もて	face	mote	2
+もの	thing	mono	4
+もん	gate	mon	4
+モン	Monday	mon	1
+して	do it	shite	2
+やっ	Doing	ya	2
+やま	mountain	yama	2
+ゆく	go	yuku	2
+ゆこ	go	yuko	2
+よう	appearing 	yō	4
+よく	nicely	yoku	1
+より	Than	yori	3
+られ	potential	rare	2
+れる	potential	reru	2
+わけ	conclude	wake	4
+一つ	one	hitotsu	4
+一切	all	issai	4
+一緒	together	issho	1
+不在	absence	fuzai	4
+不知	something unknown	fuchi	4
+不能	incompetency	funō	1
+世界	the world	sekai	4
+个世	Age	ka	1
+丸め	make round	marume	2
+乎我	Famine	koga	1
+乎要	Requirement	koyou	1
+乗る	get on	noru	2
+也想	Imagination	yasou	1
+也許	maybe	okinajiyakyo	1
+乾い	get dry	kawai	2
+事情	circumstances	jijō	4
+二つ	two	futatsu	4
+亡灵	Death	bou	1
+亡者	the dead	mōja	4
+人形	doll	ningyō	4
+人生	life	jinsei	4
+什么	Tying	shuueu	1
+今年	this year	kotoshi	4
+今日	today	kyō	4
+从来	Riku	juurai	1
+他人	another person	tanin	4
+代表	representative	daihyō	1
+以上	not less than	ijō	4
+以前	ago	izen	4
+以外	except	igai	4
+以看	From	ikan	1
+作ら	make	tsukura	2
+作る	make	tsukuru	2
+你可	Allow me	ji	1
+你變	Beyond change	jihen	1
+來的	Inviting	raiteki	1
+保持	retention	hoji	1
+信じ	believe	shinji	2
+修正	amendment	shūsei	1
+們就	Ties	monshuu	1
+假装	Accommodation	ka	1
+做的	Natural	sakuteki	1
+傷め	damaged	itame	2
+傷跡	scar	kizuato	4
+傾く	incline toward	katamuku	2
+僕ら	we	bokura	1
+光る	shine	hikaru	2
+入れ	get in	ire	2
+全て	all	subete	4
+全力	all one's power	zenryoku	4
+全部	all	zenbu	4
+其實	Fact	ki	1
+内部	interior	naibu	4
+冒険	risk	bōken	1
+凄い	terrible	sugoi	1
+凍え	freeze	kogoe	2
+出し	take out	dashi	2
+出す	take out	dasu	2
+出せ	take out	dase	2
+出来	able	deki	2
+初め	beginning	hajime	4
+別れ	parting	wakare	4
+刮風	Blunt wind	katsufuu	1
+割ら	divide	wara	2
+办法	One's way	henhou	1
+動い	move	ugoi	2
+匂い	odour	nioi	4
+包み	bundle	tsutsumi	4
+南北	south and north	nanboku	4
+卷入	Rolling in	kan	1
+去っ	leave	sa’	2
+古い	old	furui	1
+叫ん	shout	saken	2
+合え	come together	ae	2
+名前	name	namae	4
+向い	face	mui	2
+吹い	blow	fui	2
+周り	circumference	mawari	4
+咲い	bloom	sai	2
+哭和	Mourning	kokuwa	1
+哭泣	Crying	kokukyuu	1
+唯一	only	yuiitsu	4
+嘆い	sigh	nagei	2
+噛む	bite	kamu	2
+固く	hard	kataku	1
+圍看	Ceremony	ikan	1
+坏我	Scratch	haiga	1
+場所	place	basho	4
+変え	change	kae	2
+夕日	the evening sun	yūhi	4
+夕闇	dusk	yūyami	4
+夜行	walking around at night	yakō	4
+大事	important	daiji	1
+大人	adult	otona	4
+大切	important	taisetsu	1
+大声	large voice	ōgoe	4
+太陽	sun	taiyō	4
+失う	lose	ushinau	2
+失っ	lose	ushina’	2
+好き	liking	suki	1
+如何	how	ika	4
+如此	This way	joshi	1
+子供	child	kodomo	4
+它不	Misunderstanding	ta	1
+它也	Really	taya	1
+它放	Release	tahou	1
+它的	Falsified	tateki	1
+它里	Lily	tari	1
+安物	cheap article	yasumono	4
+実っ	bear fruit	mino’	2
+実際	practicality	jissai	1
+寂し	lonely	sabishi	1
+寂寞	loneliness	sekibaku	4
+寒い	cold	samui	1
+對待	Honor	tai	1
+對活	Romanticism	taikatsu	1
+少し	small quantity	sukoshi	1
+就全	Success	shuu	1
+就忘	Remember	shuubou	1
+就是	Outcome	shuu	1
+就會	Conference	shuu	1
+就試	A trial	shuushi	1
+届い	reach	todoi	2
+届く	reach	todoku	2
+屬於	In fact	zoku	1
+崩れ	collapse	kuzure	2
+崩潰	collapse	hōkai	1
+希望	hope	kibō	1
+帰る	return	kaeru	2
+帶著	A writer	taicho	1
+年初	beginning of the year	nensho	4
+引く	pull	hiku	2
+引け	pull	hike	2
+弱い	weak	yowai	1
+強い	strong	tsuyoi	1
+強く	strong	tsuyoku	1
+強迫	compelling	kyōhaku	1
+後悔	regret	kōkai	1
+從不	Obligatory	juu	1
+心理	mentality	shinri	4
+忘れ	lose something	wasure	2
+怎么	Foolishness	shineu	1
+怒り	anger	ikari	4
+思う	think	omou	2
+思え	think	omoe	2
+思っ	think	omo’	2
+思わ	think	omowa	2
+急い	hurry	isoi	2
+怯え	become frightened	obie	2
+恐く	scary	kowaku	1
+恨ま	resent	urama	2
+悪い	bad	warui	1
+悪く	bad	waruku	1
+悲し	sad	kanashi	1
+情熱	passion	jōnetsu	4
+意味	meaning	imi	1
+意義	meaning	igi	4
+意識	consciousness	ishiki	1
+愛し	love	aishi	2
+愛想	civility	aiso	4
+感じ	feel	kanji	2
+感覚	sense	kankaku	4
+所以	reason	yuen	4
+手紙	letter	tegami	4
+抖這	Crawl	tou	1
+抜け	extract	nuke	2
+抱い	embrace	dai	2
+拾い	pick up	hiroi	2
+持つ	hold	motsu	2
+指先	fingertip	yubisaki	4
+指輪	ring	yubiwa	4
+探し	search	sagashi	2
+探っ	search	sagu’	2
+接近	getting closer	sekkin	1
+描き	draw	egaki	2
+握り	grasp	nigiri	2
+揺れ	shake	yure	2
+操り	manipulation	ayatsuri	4
+支持	support	shiji	1
+故事	origin	koji	4
+救う	rescue from	sukuu	2
+救わ	rescue from	sukuwa	2
+数量	quantity	sūryō	4
+方角	direction	hōgaku	4
+日々	every day	hibi	4
+日子	days	nisshi	4
+早く	fast	hayaku	1
+昇っ	ascend	nobo’	2
+明日	tomorrow	ashita	4
+星空	starry sky	hoshizora	4
+映し	project	utsushi	2
+映る	reflected	utsuru	2
+時に	by the way	tokini	1
+時代	period	jidai	4
+時計	watch	tokei	4
+時間	time	jikan	4
+景色	scenery	keshiki	4
+晴れ	clear up	hare	2
+晴天	fine weather	seiten	4
+暗く	dark	kuraku	1
+暗闇	darkness	kurayami	4
+曇り	become cloudy	kumori	2
+書き	Writing	gaki	4
+最後	last	saigo	4
+會凍	Frozen	kaitou	1
+會害	Conviction	kai	1
+會曬	Meeting	kaisai	1
+會淋	Sunmonium	kairin	1
+會發	A meeting	kai	1
+未来	the future	mirai	4
+果て	the end	hate	4
+果実	fruit	kajitsu	4
+構わ	mind	kamawa	2
+欲し	wanted	hoshi	1
+正直	honesty	shōjiki	1
+此可	Here	shika	1
+歩き	walk	aruki	2
+歩く	walk	aruku	2
+残さ	leave	nokosa	2
+残っ	remain	noko’	2
+残る	remain	nokoru	2
+毎日	every day	mainichi	4
+每天	Extraordinary	maiten	1
+水面	water's surface	suimen	4
+永遠	eternity	eien	4
+求め	want	motome	2
+汚れ	get dirty	yogore	2
+決め	agreement	kime	4
+沈む	sink	shizumu	2
+沒關	Deceased	botsu	1
+泣い	cry	nai	2
+泥棒	thief	dorobō	4
+流し	drain	nagashi	2
+流れ	stream	nagare	2
+浜辺	beach	hamabe	4
+消え	go out	kie	2
+消さ	erase	kesa	2
+深層	depths	shinsō	4
+混ぜ	mix	maze	2
+清楚	neat and clean	seiso	1
+渡す	ferry across	watasu	2
+満ち	full	michi	2
+満天	the whole sky	manten	4
+満足	satisfaction	manzoku	1
+溫柔	Indifference	on	1
+溶け	dissolve	toke	2
+濡れ	get wet	nure	2
+灯り	lamp	akari	4
+無き	nonexistent	naki	1
+無く	nonexistent	naku	1
+片隅	corner	katasumi	4
+物事	things	monogoto	4
+犯し	commit	okashi	2
+狂っ	go mad	kuru’	2
+現実	reality	genjitsu	4
+甘い	sweet	amai	1
+當然	Honest	touzen	1
+疑い	doubt	utagai	4
+痛み	pain	itami	4
+痛む	hurt	itamu	2
+白い	white	shiroi	1
+盡情	Fondness	jinjou	1
+着く	arrive at	tsuku	2
+知っ	know	shi’	2
+知ら	know	shira	2
+知る	know	shiru	2
+知道	Intelligence	tomomichi	1
+知道	Intelligence	tomomichi	1
+立て	stand	tate	2
+笑い	laugh	warai	4
+笑う	laugh	warau	2
+笑っ	laugh	wara’	2
+笑顔	smiling face	egao	4
+笛吹	Fuefuki	usui	1
+答え	response	kotae	4
+簡単	simple	kantan	1
+細工	work	zaiku	4
+紺碧	deep blue	konpeki	4
+結ん	tie	musun	2
+絶対	absolutely	zettai	4
+続く	continue	tsuzuku	2
+綺麗	pretty	kirei	1
+置い	put	oi	2
+背中	back	senaka	4
+脆い	brittle	moroi	1
+脆弱	frail	zeijaku	4
+腐っ	rot	kusa’	2
+自分	myself	jibun	4
+自己	self	jiko	4
+自由	freedom	jiyū	1
+自身	by oneself	jishin	4
+航海	sail	kōkai	1
+草原	grass-covered plain	sōgen	4
+荷物	luggage	nimotsu	4
+落ち	fall down	ochi	2
+薄い	thin	usui	1
+虚ろ	blank	utsuro	1
+行か	go	ika	2
+行く	go	iku	2
+行こ	go	iko	2
+行っ	go	i’	2
+行っ	perform	okona’	2
+見え	seen	mie	2
+見せ	show	mise	2
+見れ	able to see	mire	2
+規則	rules	kisoku	4
+解け	solve	toke	2
+触れ	touch	fure	2
+言い	say	ii	2
+言う	say	iu	2
+言え	say	ie	2
+言わ	say	iwa	2
+言葉	language	kotoba	4
+記憶	memory	kioku	1
+許し	permit	yurushi	2
+許せ	permit	yuruse	2
+話し	speak	hanashi	2
+論争	controversy	ronsō	1
+諦め	give up	akirame	2
+變得	Misunderstanding	hentoku	1
+走っ	run	hashi’	2
+足下	at one's feet	ashimoto	4
+足元	at one's feet	ashimoto	4
+足跡	footprints	ashiato	4
+軌道	orbit	kidō	4
+辛い	painful	tsurai	1
+辛く	painful	tsuraku	1
+辺り	on the bank of	atari	4
+返す	return	kaesu	2
+迷え	lose one's way	mayoe	2
+迷っ	lose one's way	mayo’	2
+迷わ	lose one's way	mayowa	2
+退屈	tedium	taikutsu	1
+途中	on the way	tochū	4
+這是	Crawling	gen	1
+這樣	Crown	gen	1
+逢え	meet	ae	2
+運命	fate	unmei	4
+過ぎ	pass through	sugi	2
+遠く	far away	tōku	4
+避け	avoid	sake	2
+那么	Naka	daeu	1
+部屋	room	heya	4
+重ね	pile up	kasane	2
+長い	long	nagai	1
+閉じ	close	toji	2
+限り	limit	kagiri	4
+隐藏	Shrine	in	1
+隙間	crevice	sukima	4
+隠し	hide	kakushi	2
+隠す	hide	kakusu	2
+集め	collect	atsume	2
+離れ	separated from	hanare	2
+雨天	rainy weather	uten	4
+雨空	threatening sky	amazora	4
+需要	demand	juyō	4
+震え	shake	furue	2
+青い	blue	aoi	1
+非常	emergency	hijō	1
+響く	resound	hibiku	2
+願い	desire	negai	4
+願意	object of an application	gani	4
+飛ぼ	jump	tobo	2
+飛翔	flight	hishō	1
+飼い	keep	kai	2
+黄色	yellow	kiiro	4
+鼓動	beat	kodō	1
+ちゃ	cha	Tea	1
+ちょ	cho	cho	1
+白馬	hakuba	Hakuba	1
+走る	hashiru	Run	1
+邊り	shuri	Around	1
+−	-	hiku	1
+い	be	i	2
+う	Cormorant	u	1
+え	Huh	e	1
+お	honourable	o	1
+が	But	ga	3
+か	Or	ka	3
+き	come	ki	2
+く	To	ku	2
+さ	do	sa	2
+し	do	shi	2
+ず	To	zu	1
+せ	do	se	2
+だ	It is	da	1
+た	It was	ta	1
+つ	One	tsu	1
+で	so	de	3
+て	shine	te	2
+と	When	to	3
+な	What	na	3
+に	Into	ni	3
+ぬ	Unexpected	nu	1
+ね	It is	ne	3
+の	plain	no	4
+ば	The	ba	3
+は	topic	wa	3
+へ	What	e	3
+み	see	mi	2
+も	Also	mo	3
+ら	plural	ra	4
+れ	potential	re	2
+を	To	o	3
+ん	good	n	4
+一	one	ichi	4
+上	from the standpoint of	jō	4
+下	below	shita	4
+下	lower reaches	shimo	1
+下	under	ka	4
+不	un-	fu	1
+丑	zodiac	ushi	4
+个	Piece	ka	1
+中	inside	naka	4
+乾	northwest	inui	4
+了	Completion	ryō	1
+事	thing	koto	4
+二	two	ni	4
+亮	Ryo	akira	1
+人	man	jin	4
+人	man	hito	4
+人	people	nin	4
+今	now	ima	4
+今	now	kon	4
+伸	iron	shin	1
+但	ordinary	tadashi	1
+何	what	nan	4
+作	a work	saku	4
+使	Use	shi	4
+便	flight	bin	4
+係	official	gakari	4
+俺	I	ore	1
+個	articles	ko	4
+側	side	gawa	4
+偷	A	chuu	1
+像	statue	zō	4
+僕	I	boku	1
+億	10^8	oku	4
+先	previous	saki	4
+光	light	hikari	4
+光	light	kō	4
+其	That	ki	1
+写	copy	utsushi	4
+冬	winter	fuyu	4
+冷	cold water	hiya	4
+出	go out	de	2
+到	arrive at	ita	2
+前	ago	mae	4
+千	1	sen	4
+即	that is	soku	1
+去	leave	sa	2
+口	mouth	kuchi	4
+只	ordinary	tada	4
+可	passable	ka	1
+号	number	gō	4
+名	name	na	4
+君	you	kimi	1
+君	Mr	kun	1
+吧	Brief	ha	1
+告	A statement	tsuge	1
+周	circuit	shū	1
+嘘	lie	uso	4
+因	cause	in	1
+在	country	zai	1
+地	earth	chi	4
+埃	dust	hokori	4
+場	place	ba	4
+声	voice	koe	4
+外	outside	soto	4
+夜	evening	yoru	4
+夢	dream	yume	4
+天	sky	ten	4
+奥	interior	oku	4
+奴	servant	yakko	4
+好	good	kō	1
+姜	Kyou	kyō	1
+子	child	ko	4
+家	house	ie	4
+容	form	yō	4
+實	Fruit	minoru	1
+對	A dancer	tai	1
+小	smallness	shō	4
+屍	corpse	kabane	4
+川	river	kawa	4
+年	year	nen	4
+幾	some	iku	4
+店	store	mise	4
+度	time	tabi	4
+度	degree	do	4
+強	strong	tsuyo	1
+形	form	katachi	4
+影	shadow	kage	4
+後	rear	kō	1
+得	get	e	2
+得	profit	toku	4
+心	mind	kokoro	4
+怕	A	ha	1
+悪	evil	aku	4
+想	conception	sō	4
+愛	love	ai	4
+感	feeling	kan	4
+我	my	waga	4
+所	places	sho	4
+手	hand	te	4
+打	dozen	da	4
+把	bundles	wa	4
+抖	A	tou	1
+指	finger	yubi	4
+数	number	kazu	4
+方	side	hō	4
+日	day	hi	4
+昔	olden days	mukashi	4
+星	star	hoshi	4
+是	righteousness	ze	4
+時	time	toki	4
+更	new	sara	1
+月	moon	tsuki	4
+有	existence	yū	1
+朝	morning	asa	4
+木	tree	ki	4
+来	come	ki	2
+楽	comfort	raku	1
+樣	Like	you	1
+次	next	tsugi	4
+欲	greed	yoku	4
+気	spirit	ki	4
+氷	ice	kōri	4
+没	discard	botsu	4
+海	sea	umi	4
+涙	tear	namida	4
+濕	A	shitsu	1
+然	like that	shika	1
+物	thing	mono	4
+犯	perpetrators of	han	4
+玉	ball	dama	4
+理	reason	ri	4
+由	Reason	yukari	1
+甲	helmet	kabuto	4
+町	town	machi	4
+界	kingdom	kai	4
+癒	Healing	yu	1
+的	like	teki	4
+目	eye	me	4
+看	look after	mi	2
+真	truth	shin	4
+石	stone	ishi	4
+砂	sand	suna	4
+穴	hole	ana	4
+空	sky	sora	4
+窓	window	mado	4
+笑	Lol	emi	1
+第	ordinal	dai	1
+答	response	kotae	4
+純	pure	jun	1
+紙	paper	shi	4
+緑	green	midori	4
+總	General	satoshi	1
+罠	snare	wana	4
+罪	crime	tsumi	4
+罪	crime	zai	4
+胸	breast	mune	4
+能	talent	nō	4
+臉	A	ren	1
+至	From	itari	4
+花	flower	hana	4
+著	work	cho	1
+虹	rainbow	niji	4
+血	blood	chi	4
+行	Kou	kō	1
+街	town	machi	4
+被	target	hi	1
+裡	In general	ura	4
+要	cornerstone	yō	1
+見	see	mi	2
+記	account	ki	4
+訳	conclude	wake	4
+話	Story	banashi	4
+誰	who	dare	1
+赤	red	aka	4
+边	Bridging	hen	1
+道	road	dō	4
+道	road	michi	4
+都	metropolitan	to	4
+重	greater degree	jū	1
+金	gold	kin	4
+鏡	mirror	kagami	4
+陽	sun	hi	4
+雨	rain	ame	4
+雪	snow	yuki	4
+雲	cloud	kumo	4
+雷	thunder	kaminari	4
+青	blue	ao	4
+面	face	men	4
+音	sound	oto	4
+頃	time	koro	4
+頭	head	atama	4
+顔	face	kao	4
+風	wind	kaze	4
+飴	candy	ame	4
+骨	bone	hone	4
+黒	black	kuro	4
+點	В	ten	1
+け	ke	Over	1
+こ	ko	This	1
+づ	dzu	One	1
+ど	do	When	1
+ま	ma	Up	1
+ょ	yo	yo	1
+初	First	hatsu	1
+失	Loss	shitsu	1
+寒	Cold	samu	1
+昇	Rising	nobori	1
+残	Remaining	zan	1
+流	Flow	ryū	1
+當	The head	atari	1
+白	White	shiro	1
+知	Knowledge	chi	1
+腐	Rot	kusa	1
+許	Permission	moto	1
+走	Running	hashi	1
+辛	Spicy	karashi	1
+辺	Side	hen	1
+近	Near	kin	1
+迷	Straying	mai	1
+鐘	bell	kane	1
+長	Length	chō	1
+隠	Hidden	komo	1
+鳴	Sounding	Mei	1

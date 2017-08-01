@@ -1,0 +1,1466 @@
+set yubiwa_lyrics to \"君が以前ずっと欲しがってた指輪を見つけたよ
+
+町のはずれ
+
+知ってたけど行ったことない古い店
+
+指のサイズ9号で良かったっけ ねえ
+
+包み紙がちょっとちゃちいんだよね
+
+そんなこと
+
+
+
+ここに君がいなきゃなんの意味さえない
+
+沈む夕日にゆれる星空
+
+まるでガラクタだね
+
+君がくれた日々
+
+甘い記憶も残る言葉も
+
+
+
+そんなひともういないから
+
+本当に大切にしなきゃいけないもの
+
+僕自身に残された時間
+
+そんなもの
+
+
+
+ここに君がいなきゃなんの意味さえない
+
+朝の日差しに心地よい風
+
+みんなガラクタだね君がいないなんて
+
+世界はまるで抜け殻のよう
+
+
+
+夜を明かして語り継いでゆこう
+
+骨になるまで分かり合えたね
+
+なんのことはない出会い
+
+ひとときの別れ
+
+初めて知った胸焦がす日々
+
+
+
+ここに君がいなきゃなんの意味さえない
+
+あたたかい日々 新しい出会い
+
+全部ガラクタだね君だけでいいのに
+
+運命なんてひどく脆いもの
+
+
+
+こんどまた逢えたら
+
+指輪を渡すよ
+
+いつかまた逢えたらずっと ずっと	
+
+\"
+
+set granite_lyrics to \"ころげてはしゃいだ次の朝に
+
+誰かの手紙が届いていた
+
+こぼれて汚れた砂を噛むと
+
+キャンドルライトの匂いがした
+
+
+
+いつだってほらこんな風にさ
+
+
+
+そういう世界があるなら
+
+行ってみたいと思った
+
+ここは風が吹いていて
+
+
+
+走って来たのは急いだから
+
+明日でいいかは分からないと
+
+それから僕らは待ちこがれた
+
+ポンチョの雨には月が揺れた
+
+
+
+いつだってほらこんな風にさ
+
+
+
+そういう世界があるなら
+
+行ってみたいと思った
+
+ここは風が吹いていて
+
+いつか明日が終わるなら
+
+今日はここですごそう
+
+外は白い朝だ
+
+
+
+誰もが忘れていくものや
+
+誰もが変わってくことが
+
+なくした純木の時計
+
+いまでも見つからないけど
+
+
+
+そういう世界があるなら
+
+行ってみたいと思った
+
+ここは風が吹いていて
+
+いつか明日が終わるなら
+
+今日はここですごそう
+
+外は白い朝だ\"
+
+set unicorn to \"どれだけ笑ったの
+
+人に見せずに
+
+
+
+これだけ近くても
+
+気づきもせずに
+
+
+
+やまない夜に
+
+白馬は走る
+
+
+
+今なら言えたけど
+
+これでいいから
+
+
+
+海辺は寒いから
+
+好きになれずに
+
+
+
+鳴らない鐘と
+
+白夜をこえて
+
+\"
+
+set mighty_long_fall to \"When we met the pain stood still
+
+It was us
+
+
+
+Then suddenly it's where'd you go?
+
+The system blew I knew
+
+
+
+This side of me I want a little more
+
+But inside it seems I'm just a little boy
+
+Nothing else
+
+
+
+Don't go it's a mighty long fall
+
+When you thought love was the top
+
+Oh no it's a wake up call
+
+When your life went into shock
+
+It seems like gravity keeps pulling us back down
+
+Don't go it's a mighty long fall
+
+When you know time is up
+
+
+
+嘘を一つ　愛を二つ
+
+それでなんとかやり過ごしてきたでしょ？
+
+でもそれじゃもう僕をダマせないでしょ？
+
+じゃどうする？どうしよ！
+
+
+
+Don't go it's a mighty long fall
+
+When you thought love was the top
+
+Oh no it's a wake up call
+
+When your life went into shock
+
+描きたがりな未来に明日はない
+
+いっそどうせ痛むなら傷め続けよう
+
+
+
+Get up Get up Get up Get up
+
+Time to make amends for what you did
+
+Get up Get up Get up Get up
+
+Running with the demons in your head
+
+Let's shout it out completely
+
+You never really wanna know
+
+Let's shout it out were screaming oh oh
+
+
+
+Don't go it's a might long fall
+
+When you thought love was the top
+
+Oh no it's a wake up call
+
+When your life went into shock
+
+It seems like gravity keeps pulling us back down
+
+Don't go it's a mighty long fall
+
+When you know time is up\"
+
+set living_dolls to \"We are living in the same world?
+
+僕と君　答えはないけど
+
+運命の出逢いさえ　誰かの決めごとで
+
+ 
+
+If I can touch your heart
+
+I can tell how you feel
+
+全て作られている気がして
+
+名も無き人　僕以外は
+
+They are all the same, looking like dolls
+
+ 
+
+愛を知る事で　現実が見えてきた気がする
+
+生きる意味を側で　手を握り返す　君が
+
+ 
+
+錆び付いている世界に疑いを持つ自分がいたけど
+
+The answer you give me
+
+First love that you brought me...
+
+心の曇りはなぜ？
+
+ 
+
+太陽が昇っても君は鏡を閉じたまま
+
+この世で最後の涙をそっと流していたよ
+
+君は操り人形じゃなくて僕だけのものだったんだ
+
+この温もりは目では見れないよ
+
+ 
+
+If I can touch your heart
+
+I can tell how you feel
+
+全て作られている気がして
+
+名も無き人　僕以外は
+
+They are all the same, looking like dolls
+
+ 
+
+錆び付いている世界に疑いを持つ自分がいたけど
+
+The answer you gave me
+
+First love that you brought me...
+
+雨空に星たちが・・・\"
+
+set jitterbug to \"たった一つのことが今を迷わせてるんだ
+
+数え切れないほど無くしてまた拾い集めりゃいいさ
+
+
+
+遠回りする度に見えてきたこともあって
+
+早く着くことが全てと僕には思えなかった
+
+間違ったことがいつか君を救うから
+
+数え切れないほど無くしてまた拾い集めりゃいいさ
+
+
+
+一切の情熱がかき消されそうなときには
+
+
+
+いつだって君の声がこの暗闇を切り裂いてくれてる
+
+いつかそんな言葉が僕のものになりますように
+
+そうなりますように
+
+
+
+たった一つのことが今を迷わせてるんだ
+
+誰を信じたらいいのか気づけば楽なのに
+
+初めからずっと分かってたことがあって
+
+そのレールはまた途中で途切れていたりするんだ
+
+
+
+一切の情熱がかき消されそうなときには
+
+
+
+いつだって君の声がこの暗闇を切り裂いてくれてる
+
+いつかそんな言葉が僕のものになりますように
+
+そうなりますように
+
+
+
+目を閉じて指先に意識を集めて
+
+確かめる足元
+
+
+
+一切の現実に飲み込まれそうなときには
+
+
+
+いつだって君の声がこの暗闇を切り裂いてくれてる
+
+いつかそんな言葉が僕のものになりますように
+
+そうなりますように\"
+
+set venus to \"最後に笑うのは正直な奴だけだ
+
+出し抜いて 立ち回って
+
+手に入れたものはみんな
+
+すぐに消えた
+
+
+
+ねぇ この夜が終わる頃 僕らも消えていく
+
+そう思えば 僕にとって 大事なことなんて
+
+いくつもないと思うんだ
+
+
+
+はっきりと言わない言葉は傷つける
+
+恨まれることさえ出来ない
+
+そんな風になりたくないよ
+
+
+
+ねぇ この夜が終わる頃 僕らも消えていく
+
+そう思えば 僕にとって 大事なことなんて
+
+いくつもないと思うんだ
+
+
+
+今はもう ねぇ 今はもう
+
+ねぇ この夜が終わる頃 僕らも消えていく
+
+そう思えば 君にとって 大事なことなんて
+
+いくつもないと思うんだ\"
+
+set santa_claus to \"起こしちゃったかな じゃあちょうどいいや 
+
+朝まで付き合ってよ 
+
+窓の氷が溶け出すころにはきっと帰るからさ 
+
+子供たちには悪いけど今年は諦めてよ 
+
+これでもかなり迷ってずいぶんと減らしたんだけど 
+
+
+
+I'm Santa Claus 君に千個のプレゼント 
+
+どれもこれも安物なんだけど 
+
+Santa Claus 一年に一度だけだから 
+
+Santa Claus 君に全部あげるよ 
+
+
+
+青いガラス玉に僕らの冒険が 
+
+どこまでも続くように願いをかけといた 
+
+
+
+I'm Santa Claus 君に千個のプレゼント 
+
+どれもこれもまがいものだけど 
+
+Santa Claus 一年に一度だけなんて 
+
+Santa Claus 君に全部あげるよ 
+
+
+
+You're the whole audience when I sing 
+
+You're all the listeners when I speak 
+
+You're everyone surrounds me 
+
+You're all that matters to me 
+
+
+
+窓の氷が溶け出すころにはきっと帰るからさ 
+
+
+
+I'm Santa Claus 僕に最後のプレゼント 
+
+Santa Claus お別れのキスをしてくれよ 
+
+Santa Claus 
+
+I've got to go back to the place I'm living in 
+
+I'm living in the cold place\"
+
+set day_of_wind to \"こんな顏を見せるのは
+ほんとは好きじゃないけど
+僕だっていつも ピエロみたいに
+笑えるわけじゃないから
+
+雨の日には濡れて
+晴れた日には乾いて
+寒い日には震えてるのは当たり前だろ
+次の日には忘れて
+風の日には飛ぼうとしてみる
+そんなもんさ
+
+泣いたことのない君は
+とても弱い人だから
+誰かに見られて
+優しくされると
+崩れそうになるけど でも
+雨の日には濡れて
+晴れた日には乾いて
+寒い日には震えてるのが當たり前だろ
+次の日には忘れて
+風の日には飛ぼうとしてみる
+そんなもんさ 僕らはほら
+
+It's OK
+Go cry
+Go smile
+It's something good to do to live as you want
+I'm on your side
+Your life is all yours
+So don't let other people force you to be good
+Be kind to yourself
+雨の日には濡れて
+晴れた日には乾いて
+寒い日には震えてるのは當たり前だろ
+次の日には忘れて
+風の日には飛ぼうとしてみる
+だから
+雪の日には凍えて
+雷には怯えて
+月の日には邊りがよく見えたりもしてて
+次の日には忘れて
+風の日には飛ぼうとしてみる
+そんなもんさ 僕らはそんなもんさ\"
+
+set koukasen to \"ほんの少し前に 手に入れたような未来を
+
+思い出と一緒に 丸めて投げ捨てた
+
+
+
+まだ先は長いよ 荷物はもういいよ
+
+
+
+I am dreaming of a girl rocked my world
+
+南北へ続く高架線
+
+この先にはきっとあると
+
+ささやいてる
+
+
+
+ゆっくりと傾く 足元に気をつけて
+
+思うよりあなたは ずっと強いからね
+
+
+
+耳鳴りがやまないな 君の声がまだ聞こえるよ
+
+
+
+I am dreaming of a girl rocked my world
+
+南北へ続く高架線
+
+この先にはきっとあると
+
+ささやいてる
+
+
+
+何億年も前に つけた傷跡なら残って
+
+消えなくてもいいさ 痛みはもうないからね
+
+
+
+血のにじんだ足跡 置いていかれた記憶も
+
+誰にだってあるだろ 隠すつもりもないけど
+
+
+
+I am dreaming of a girl rocked my world
+
+南北へ続く高架線
+
+この先にはきっとあると
+
+ささやいてる
+
+
+
+Her name is Laura \"
+
+set niji to \"気休めぐらいになればいいよ 
+
+道に迷って引き返して 
+
+時間だけ過ぎて行くけど 
+
+
+
+積み重ねた思い出とか 
+
+音を立てて崩れたって 
+
+僕らはまた今日を記憶に変えていける 
+
+
+
+薄い氷を割らないように 
+
+下を向いて歩く僕は 
+
+簡単に虹を見落とした 
+
+
+
+迷わずにすむ道もあった 
+
+どこにでも行ける自由を 
+
+失う方がもっと怖かった 
+
+
+
+積み重ねた思い出とか 
+
+音を立てて崩れたって 
+
+僕らはまた今日を記憶に変えていける 
+
+間違いとかすれ違いが 
+
+僕らを切り離したって 
+
+僕らはまた今日を記億に変えていける 
+
+
+
+立ち止まって見上げた空に 
+
+今年初の星が流れる 
+
+なんとなくこれでいいと思った 
+
+
+
+積み重ねた思い出とか 
+
+音を立てて崩れたって 
+
+僕らはまた今日を記憶に変えていける 
+
+間違いとかすれ違いが 
+
+僕らを切り離したって 
+
+僕らはまた今日を記億に変えていける\"
+
+set betelgeuses_light to \"軌道上では
+
+ベテルギウスの灯りが
+
+夜行便に乗る背中を
+
+ついばむ
+
+
+
+見守るように
+
+踏みつけるように
+
+
+
+あの草原で出会った
+
+君の名前を
+
+思い出すことさえ
+
+できない
+
+
+
+アスファルトが
+
+焼け付く陽に溶け出し
+
+飴細工の形を
+
+まねる頃
+
+
+
+凍えた手を
+
+焼き払う頃
+
+
+
+あの草原で出会った
+
+君の言葉を
+
+思い出すことさえ
+
+できれば
+
+
+
+あの草原で
+
+出会えた
+
+君のその手を
+
+
+
+あのマイルストーンで出会った
+
+君の名前を
+
+この胸に抱いて
+
+いけたら
+
+いいのに\"
+
+set west_gate to \"がれきの海で
+
+夢を見ていた
+
+僕らが目覚めた
+
+その足下は
+
+ひどく汚れた
+
+川が流れて
+
+水面に映した
+
+顔も見えずに
+
+
+
+ただ少し笑って
+
+ただ少し叫んで
+
+ただ少し重ねて
+
+ただ少し抱き合って
+
+ただ少し許して
+
+ただ少し焦がして
+
+ただ少しやさしく
+
+夜が空ける
+
+
+
+笛吹きの目は
+
+いまも虚ろで
+
+ここにも昔は
+
+花が咲いたと
+
+哀れむように
+
+嘆いてみせた
+
+僕には名前も
+
+ないというのに
+
+
+
+ただ少し笑って
+
+ただ少し叫んで
+
+ただ少し重ねて
+
+ただ少し抱き合って
+
+ただ少し許して
+
+ただ少し焦がして
+
+ただ少しやさしく
+
+夜が空ける\"
+
+set daten to \"迷えば遠ざかるよ
+
+これ以上見せない
+
+
+
+このまま
+
+誰一人も救わず
+
+
+
+Catch me up
+
+届くなら
+
+向こうには
+
+誰かが行かなきゃ
+
+This time we fly
+
+果てまで行こう
+
+あと少し
+
+もてばいい
+
+
+
+激しく
+
+燃え盛れば
+
+痛みも
+
+消えてく
+
+
+
+明日には
+
+傷跡さえ
+
+残さず
+
+
+
+Catch me up
+
+届くなら
+
+向こうには
+
+誰かが
+
+行かなきゃ
+
+This time we fly
+
+果てまで行こう
+
+あと少し
+
+もてばいい
+
+
+
+Cold nights
+
+Bishops
+
+Silence
+
+Your dime
+
+Ghost town
+
+Gold mine
+
+Calm down
+
+Regret
+
+Boredom
+
+Hands down
+
+So great
+
+So bright
+
+Fall down\"
+
+set konpeki_yoru to \"きっと
+にじみだすような
+思い出の中に
+君がのこした
+かけらは咲いて
+
+
+ずっと
+忘れないように
+花の景色に
+消されないように
+Someday we're gonna find ourselves
+Holding the candles in our hands
+紺碧の夜を
+見上げて君に会える
+満天の星空も
+冬の日の夕闇も
+航海に浮かべて
+僕らは
+月の影にそって
+
+たった
+ひとつだけなんだ
+僕のこの胸に
+つかえてとれない
+とげみたいに
+
+遠く
+かすれた声なら
+今も響くよ
+変わらない強さで
+Someday we're gonna find ourselves
+Holding the candles in our hands
+紺碧の夜を
+見上げて君に会える
+満天の星空も
+冬の日の夕闇も
+航海に浮かべて
+僕らは
+月の影にそって
+歩き続けるんだ
+
+Someday we're gonna find ourselves
+Holding the candles in our hands
+紺碧の夜を
+見上げて君に会える
+満天の星空も
+冬の日の夕闇も
+航海に浮かべて
+僕らは
+青の浜辺を
+月の影にそって\"
+
+set vostok to \"流れる雲みたく
+
+なりたいと思った
+
+かっこつけていて
+
+ほら
+
+
+
+星の夜のした
+
+灯りに集まる
+
+のら犬のようでいて
+
+まだ
+
+僕らは
+
+
+
+ただすぐそこに見えた
+
+あの街をめがけ
+
+いたずらな日々を
+
+けどいつかは
+
+この街を離れ
+
+行く先も忘れ
+
+誰も知らない方へ
+
+走り出せ
+
+
+
+間違いの中に
+
+答えがあるなら
+
+悪くないかもね
+
+ほら
+
+
+
+埃にすすけた
+
+部屋の片隅
+
+忘れないでいて
+
+まだ
+
+僕らは
+
+
+
+ただすぐそこに見えた
+
+あの街をめがけ
+
+いたずらな日々を
+
+けどいつかは
+
+この街を離れ
+
+行く先も忘れ
+
+誰も知らない方へ
+
+走り出せ
+
+
+
+綺麗な
+
+虹のように
+
+たとえば
+
+血が乾いても
+
+たとえば
+
+少しだけ
+
+君と
+
+話したいけど
+
+綺麗な
+
+虹のように
+
+
+
+ただすぐそこに見えた
+
+あの街をめがけ
+
+いたずらな日々を
+
+けどいつかは
+
+この街を離れ
+
+行く先も忘れ
+
+誰も知らない方へ
+
+走り出せ
+
+
+
+誰も知らない方へ
+
+ガラクタの日々よ\"
+
+set ketsuraku_automation to \"いつ　どんな時　どんなタイミングで
+
+僕はそれを失ってしまったんでしょう?
+
+深層心理を探ったところで　何の意味も無くて
+
+
+
+腐って落ちた果実　狂って実った現実
+
+月が照らしだした方角　時に忘れそうな感覚
+
+
+
+みんな全部しょい込んで　気づきゃもう今日が終わっていて
+
+求めてた日々はこんなモンだっけ?
+
+
+
+With my speechless calm eyes
+
+Nothing is coming to rise
+
+道しるべにと落とした小さい石
+
+暗くて辺りが見えなくなりそうなとき　迷った僕を軌道修正さ!
+
+リセットなんてしなくたってリスタート
+
+
+
+Nothing there, no one there!
+
+
+
+ここはどこで僕はさぁ誰だ?
+
+たまに分かんなくなんだ!だってさ
+
+周りが思うよりもずっともっと凄いスピードで
+
+物事は動いているんだ　そうだ!これは罠だ!思わぬ落とし穴だ!
+
+自分の夢探しのために掘り進んできた穴はもはや
+
+
+
+光すらささなくなって　落ちたら最後
+
+生ける屍
+
+
+
+何気なくつけたテレビに映る愛想笑いしたその小さい子に
+
+僕は実際一切癒やされることなく
+
+自分を重ね合わせてみたりなんかしちゃったりして
+
+Ah
+
+
+
+With my speechless calm eyes
+
+Nothing is coming to rise
+
+道しるべにと落とした小さい石
+
+暗くて辺りが見えなくなりそうなとき　迷った僕を軌道修正さ!
+
+リセットなんてしなくたってリスタート\"
+
+set naihi_shinsho to \"犯した罪の数が 寂しさを物語ってんだよ
+そしたら大人はソレ見て 全てを悪く言うんだろ?
+言えない見えない見たくもなくない? だから飛べるはずない
+しょうがないっちゃしょうがないけど 本当はそうじゃない
+
+分かったようなフリで近づく金の亡者
+ツメを伸ばしたウソ書き人 こんな時代だから…
+
+I just keep it inside keep it inside 口には出せなくて
+I got something to hide something to hide 言うのが恐くて
+I just keep it inside keep it inside 誰も知らなくていい
+I got something to hide something to hide 俺に構わないで
+
+隠してきた数が赤信号を あらわしてんだよ
+ウソは泥棒の始まり? はたまた悲しさの始まり?
+分かる? 知らない?! 話にならない! それじゃ話したくない
+どうしょうもないちゃどうしょうもないけど 本当はそうじゃない
+
+
+分かったようなフリで近づく欲の亡者
+エリを立てた罪深き人 こんな時代だから…
+
+I just keep it inside keep it inside 口には出せなくて
+I got something to hide something to hide 言うのが恐くて
+I just keep it inside keep it inside 誰も知らなくていい
+I got something to hide something to hide 俺に構わないで
+
+本当は言葉で 大声で言いたくて
+誰か知っててほしくて 一人じゃ辛くて…
+
+I just keep it inside keep it inside この世の中だから
+I got something to hide something to hide 怯える毎日で
+I just keep it inside keep it inside かかわりたくもない
+I got something to hide, but never put it aside 気づいてこの気持ち    
+
+
+
+set heartache to \"So they say that time
+Takes away the pain
+But I'm still the same oh yeah
+And they say that I
+Will find another you
+That can't be true oh
+
+Why didn't I realize?
+Why did I tell lies?
+Yeah I wish that I could do it again
+Ooh Turnin' back the time
+Back when you were mine (all mine)
+
+So this is heartache?
+So this is heartache?
+
+あの日の君の笑顔は
+Hiroi atsumeta koukai wa,
+I gathered all that I've regretted
+
+思い出に変わる
+Namida e to kawari oh baby
+And they turned into my tears, oh baby
+
+So this is heartache?
+So this is heartache?
+
+あの日の君の笑顔は
+Ano hi no kimi no egao wa
+Your smile on that day,
+
+思い出に変わる
+Omoide ni kawaru
+I remembered how it changed,
+
+I miss you
+
+僕の心を唯一満たして去ってゆく君が
+Boku no kokoro o yuitsu mitashite satte yuku kimi ga
+You were the only thing in my heart, but you left
+
+僕の心に唯一触れられる事ができた君は
+Boku no kokoro ni yuitsu furerareru koto ga dekita kimi wa
+You were the only one who touched my heart, with things you did
+
+Oh baby, もういないよもう何もないよ
+Oh baby, mou inai yo mou nanimo nai yo
+Oh baby, you weren't there anymore, and nothing was there too.
+
+Yeah I wish that I could do it again
+Ooh Turnin' back the time
+Back when you were mine (all mine)
+
+So this is heartache?
+So this is heartache?
+
+拾い集めた後悔は
+Hiroi atsumeta koukai wa
+I gathered all that I've regretted
+
+涙へとかわりoh baby
+Namida e to kawari oh baby
+And they turned into my tears, oh baby
+
+So this is heartache?
+So this is heartache?
+
+あの日の君の笑顔は思い出に変わる
+Ano hi no kimi no egao wa omoide ni kawaru
+Your smile on that day, I remembered how it changed,
+
+I miss you
+
+It's so hard to forget
+
+固く結んだその結び目は
+Kataku musunda sono musubime wa
+It was so hard that we tied a knot in the end,
+
+Yeah, It's so hard to forget
+
+強く引けば引くほどに
+Tsuyoku hikeba hiku hodo ni
+My weakness strongly pushed me to my limits,
+
+You and all the regret
+
+解けなくなって離れれなくなった
+Hodokenaku natte hanare renaku natta
+We got separated as it got untied
+
+今は辛いよそれが辛いよ
+Ima wa tsurai yo, sore ga tsurai yo
+It hurts right now, that hurts,
+
+すぐ忘れたいよ君を
+Sugu wasuretai yo kimi wo
+I want to forget you right away.
+
+So this is heartache?
+So this is heartache?
+
+拾い集めた後悔は
+Hiroi atsumeta koukai wa
+I gathered all that I've regretted
+
+涙へとかわりoh baby
+Namida e to kawari oh baby
+And they turned into my tears, oh baby
+
+So this is heartache?
+So this is heartache?
+
+あの日の君の笑顔は思い出に変わる
+Ano hi no kimi no egao wa omoide ni kawaru
+Your smile on that day, I remembered how it changed,
+
+I miss you
+
+I miss you
+I miss you\"
+
+set decision to \"Another day
+
+Another life
+
+I wanna live it to the fullest
+
+A little work
+
+A lotta play
+
+Alright
+
+
+
+足跡たどり行き着く場所
+
+なぞるだけが僕の人生じゃない
+
+We'll never be as young as we are now
+
+
+
+You say it's all right
+
+You say it's OK
+
+It's up to you? Is that the truth? Tell me
+
+I'm feeling used with no one to save me
+
+You say it's all right
+
+Does that make it OK?
+
+What's best for you
+
+Is less for me
+
+It's my decision
+
+
+
+消える前　光る前　変わらない
+
+分からないままじゃ絶対終われない
+
+We'll never be as young as we are now
+
+
+
+You say it's all right
+
+You say it's OK
+
+It's up to you? Is that the truth? Tell me
+
+I'm feeling used with no one to save me
+
+You say it's all right
+
+Does that make it OK?
+
+What's best for you
+
+Is less for me
+
+It's my decision
+
+
+
+Never Never Never Never Again
+
+It's my life my life my life my life to live
+
+
+
+You say it's all right
+
+You say it's OK
+
+It's up to you? Is that the truth? Tell me
+
+I'm feeling used with no one to save me
+
+They say it's all right
+
+Does that make it OK?
+
+What's best for them
+
+Not listening
+
+It's my decision\"
+
+set and_i_know to \"And I know...
+
+
+
+いつものように君は家を出た　全部仕組まれた物とも知らず
+
+誰かが作る規則で君は悪に満ちた
+
+僕はとっさにナイフを持つ
+
+
+
+And I know so　全てさ　消えそうなものまで
+
+鼓動が聞こえるかい?　泣いてるよ
+
+
+
+下らない論争のせいで僕は悪に満ちた
+
+君はとっさにナイフを向ける
+
+
+
+And I know so　全てさ　消えそうなものまで
+
+鼓動が聞こえるかい?　泣いてるよ
+
+And I know so　全てさ　消えそうなものまで
+
+鼓動が聞こえるかい?　泣いてるよ
+
+
+
+赤・青・黄色・緑　全部混ぜたら黒になるでしょ？
+
+お前らがやってる事ってそういう事！
+
+
+
+And I know so　全てさ　消えそうなものまで
+
+鼓動が聞こえるかい?　泣いてるよ\"

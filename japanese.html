@@ -1,0 +1,1155 @@
+<!--
+	Pingtype Japanese
+	Peter Burkimsher 2017-07-26 to 2017-07-27
+	
+	A literal translator for Japanese-English.
+	
+	Colours:
+	1. Other
+	2. Verb
+	3. Particle
+	4. Noun
+	
+	Features:
+	+ AppleScript to find Hyogai Kanji (uncommon Chinese characters) - Japanese alphabet checker.scpt
+	+ Lyrics for all Japanese songs in music library from http://www.jpopasia.com/ellegarden/lyrics/138612/figureheads-compilation/windy-day/
+	+ Build a dictionary using http://nihongo.j-talk.com
+	+ Debug
+	+ Word spacing
+	+ Colours for info
+	+ Romaji reading
+	+ English translation
+
+	To Do:
+	- Dictionary Editor
+	- Advanced button
+	- Words from Bible
+	- Clear
+	- Memory
+	- Documentation
+	- Print
+	- Google Translate
+	- Word lists
+	- Missing words
+	- Multiple dictionary files
+	- Auto-translate on dictionariesLoaded
+	- All Hyogai Kanji (uncommon Chinese characters) from en-wiktionary
+	
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Japanese</title>
+  	  	
+	<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			table td {
+				white-space: nowrap;
+      		}
+
+			.japanese_1 {
+			  color:#000000;
+			  font-size: 32px;
+			  display:inline;
+			}
+
+			.japanese_2 {
+			  color:#f82423;
+			  font-size: 32px;
+			  display:inline;
+			}
+
+			.japanese_3 {
+			  color:#189c19;
+			  font-size: 32px;
+			  display:inline;
+			}
+
+			.japanese_4 {
+			  color:#178FD1;
+			  font-size: 32px;
+			  display:inline;
+			}
+
+			.romaji_1 {
+			  color:#000000;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.romaji_2 {
+			  color:#f82423;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.romaji_3 {
+			  color:#189c19;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+			.romaji_4 {
+			  color:#178FD1;
+			  font-size: 18px;
+			  display:inline;
+			}
+
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+    	</style>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<link rel="stylesheet" href="jquery-ui.css"/>
+
+  </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		<b>Pingtype Japanese</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Kanji
+  					</div>
+    			</td>
+    			<td>
+	  				<div id="kanjiSpacedTitle" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden;width:0px" class="advanced">
+  						Kanji Spaced
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Romaji
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output
+  					</div>
+    			</td>
+    		<tr>
+    			<td>
+  					<textarea id="kanjiTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<!--<textarea id="kanjiSpacedTextArea" rows="10" cols="50" class="advanced" style="visibility:hidden;width:0px"></textarea>-->
+  					<textarea id="kanjiSpacedTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="romajiTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+    		</tr>
+    	</table>
+
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear
+					</div>
+				</td>
+			</tr>
+    	</table>
+
+		<!--<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">-->
+		<div id="advancedRows" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="japanesePlainCheckbox" ><span onclick="toggleCheckbox('japanesePlainCheckbox');">Japanese Plain</span>
+						<input type="checkbox" id="japaneseCheckbox" checked="true"><span onclick="toggleCheckbox('japaneseCheckbox');">English</span>
+						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
+						<input type="range" id="romajiOpacity" value="100" onclick="setRomajiOpacity();">
+						<input type="checkbox" id="romajiCheckbox" checked="true"><span onclick="toggleCheckbox('romajiCheckbox');">Romaji</span>
+						<input type="range" id="romajiManualOpacity" value="100" onclick="setRomajiManualOpacity();">
+						<input type="checkbox" id="romajiManualCheckbox" checked="true"><span onclick="toggleCheckbox('romajiManualCheckbox');">Romaji Manual</span>
+						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="range" id="englishOpacity" value="100" onclick="setChineseOpacity();">
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					</td>
+					<td>
+						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+					</td>
+				</tr>
+			</table>
+
+
+		<table id="spaceButtonsTable" class="advanced" style="visibility:hidden;height:0px;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+			<tr>
+				<td>
+					<span onclick="toggleCheckbox('breakMissingWordsCheckbox');">
+					<table>
+						<tr>
+							<td>
+								<input type="checkbox" id="breakMissingWordsCheckbox" checked="true">
+							</td>
+							<td style="width:132px;white-space:normal">
+									Break missing words 打破 遺漏 的 單詞
+							</td>
+						</tr>
+						<tr>
+							<td>
+							</td>
+							<td>
+					 			
+							</td>
+						</tr>
+					</table>
+					</span>
+				</td>
+			</tr>
+		</table>
+
+
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<!--<div id="debugDiv" class="advanced" style="visibility:hidden">-->
+		<div id="debugDiv" class="advanced">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+    </body>
+    
+    
+	<!-- Native scripts -->
+    <script>
+    	
+		var combinedDictionaryData = "";
+		
+		var lastDictionary = false;
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("loaded " + combinedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// isChinese - check if the character is in the unihan dictionary 
+		function isJapanese(thisCharacter)
+		{
+			//debugLog("isJapanese(" + thisCharacter + ")");
+			
+			var joyoKanji = "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維慰遺緯域育一壱逸茨芋引印因咽姻員院淫陰飲隠韻右宇羽雨唄鬱畝浦運雲永泳英映栄営詠影鋭衛易疫益液駅悦越謁閲円延沿炎怨宴媛援園煙猿遠鉛塩演縁艶汚王凹央応往押旺欧殴桜翁奥横岡屋億憶臆虞乙俺卸音恩温穏下化火加可仮何花佳価果河苛科架夏家荷華菓貨渦過嫁暇禍靴寡歌箇稼課蚊牙瓦我画芽賀雅餓介回灰会快戒改怪拐悔海界皆械絵開階塊楷解潰壊懐諧貝外劾害崖涯街慨蓋該概骸垣柿各角拡革格核殻郭覚較隔閣確獲嚇穫学岳楽額顎掛潟括活喝渇割葛滑褐轄且株釜鎌刈干刊甘汗缶完肝官冠巻看陥乾勘患貫寒喚堪換敢棺款間閑勧寛幹感漢慣管関歓監緩憾還館環簡観韓艦鑑丸含岸岩玩眼頑顔願企伎危机気岐希忌汽奇祈季紀軌既記起飢鬼帰基寄規亀喜幾揮期棋貴棄毀旗器畿輝機騎技宜偽欺義疑儀戯擬犠議菊吉喫詰却客脚逆虐九久及弓丘旧休吸朽臼求究泣急級糾宮救球給嗅窮牛去巨居拒拠挙虚許距魚御漁凶共叫狂京享供協況峡挟狭恐恭胸脅強教郷境橋矯鏡競響驚仰暁業凝曲局極玉巾斤均近金菌勤琴筋僅禁緊錦謹襟吟銀区句苦駆具惧愚空偶遇隅串屈掘窟熊繰君訓勲薫軍郡群兄刑形系径茎係型契計恵啓掲渓経蛍敬景軽傾携継詣慶憬稽憩警鶏芸迎鯨隙劇撃激桁欠穴血決結傑潔月犬件見券肩建研県倹兼剣拳軒健険圏堅検嫌献絹遣権憲賢謙鍵繭顕験懸元幻玄言弦限原現舷減源厳己戸古呼固股虎孤弧故枯個庫湖雇誇鼓錮顧五互午呉後娯悟碁語誤護口工公勾孔功巧広甲交光向后好江考行坑孝抗攻更効幸拘肯侯厚恒洪皇紅荒郊香候校耕航貢降高康控梗黄喉慌港硬絞項溝鉱構綱酵稿興衡鋼講購乞号合拷剛傲豪克告谷刻国黒穀酷獄骨駒込頃今困昆恨根婚混痕紺魂墾懇左佐沙査砂唆差詐鎖座挫才再災妻采砕宰栽彩採済祭斎細菜最裁債催塞歳載際埼在材剤財罪崎作削昨柵索策酢搾錯咲冊札刷刹拶殺察撮擦雑皿三山参桟蚕惨産傘散算酸賛残斬暫士子支止氏仕史司四市矢旨死糸至伺志私使刺始姉枝祉肢姿思指施師恣紙脂視紫詞歯嗣試詩資飼誌雌摯賜諮示字寺次耳自似児事侍治持時滋慈辞磁餌璽鹿式識軸七𠮟失室疾執湿嫉漆質実芝写社車舎者射捨赦斜煮遮謝邪蛇尺借酌釈爵若弱寂手主守朱取狩首殊珠酒腫種趣寿受呪授需儒樹収囚州舟秀周宗拾秋臭修袖終羞習週就衆集愁酬醜蹴襲十汁充住柔重従渋銃獣縦叔祝宿淑粛縮塾熟出述術俊春瞬旬巡盾准殉純循順準潤遵処初所書庶暑署緒諸女如助序叙徐除小升少召匠床抄肖尚招承昇松沼昭宵将消症祥称笑唱商渉章紹訟勝掌晶焼焦硝粧詔証象傷奨照詳彰障憧衝賞償礁鐘上丈冗条状乗城浄剰常情場畳蒸縄壌嬢錠譲醸色拭食植殖飾触嘱織職辱尻心申伸臣芯身辛侵信津神唇娠振浸真針深紳進森診寝慎新審震薪親人刃仁尽迅甚陣尋腎須図水吹垂炊帥粋衰推酔遂睡穂随髄枢崇数据杉裾寸瀬是井世正生成西声制姓征性青斉政星牲省凄逝清盛婿晴勢聖誠精製誓静請整醒税夕斥石赤昔析席脊隻惜戚責跡積績籍切折拙窃接設雪摂節説舌絶千川仙占先宣専泉浅洗染扇栓旋船戦煎羨腺詮践箋銭潜線遷選薦繊鮮全前善然禅漸膳繕狙阻祖租素措粗組疎訴塑遡礎双壮早争走奏相荘草送倉捜挿桑巣掃曹曽爽窓創喪痩葬装僧想層総遭槽踪操燥霜騒藻造像増憎蔵贈臓即束足促則息捉速側測俗族属賊続卒率存村孫尊損遜他多汰打妥唾堕惰駄太対体耐待怠胎退帯泰堆袋逮替貸隊滞態戴大代台第題滝宅択沢卓拓託濯諾濁但達脱奪棚誰丹旦担単炭胆探淡短嘆端綻誕鍛団男段断弾暖談壇地池知値恥致遅痴稚置緻竹畜逐蓄築秩窒茶着嫡中仲虫沖宙忠抽注昼柱衷酎鋳駐著貯丁弔庁兆町長挑帳張彫眺釣頂鳥朝貼超腸跳徴嘲潮澄調聴懲直勅捗沈珍朕陳賃鎮追椎墜通痛塚漬坪爪鶴低呈廷弟定底抵邸亭貞帝訂庭逓停偵堤提程艇締諦泥的笛摘滴適敵溺迭哲鉄徹撤天典店点展添転塡田伝殿電斗吐妬徒途都渡塗賭土奴努度怒刀冬灯当投豆東到逃倒凍唐島桃討透党悼盗陶塔搭棟湯痘登答等筒統稲踏糖頭謄藤闘騰同洞胴動堂童道働銅導瞳峠匿特得督徳篤毒独読栃凸突届屯豚頓貪鈍曇丼那奈内梨謎鍋南軟難二尼弐匂肉虹日入乳尿任妊忍認寧熱年念捻粘燃悩納能脳農濃把波派破覇馬婆罵拝杯背肺俳配排敗廃輩売倍梅培陪媒買賠白伯拍泊迫剝舶博薄麦漠縛爆箱箸畑肌八鉢発髪伐抜罰閥反半氾犯帆汎伴判坂阪板版班畔般販斑飯搬煩頒範繁藩晩番蛮盤比皮妃否批彼披肥非卑飛疲秘被悲扉費碑罷避尾眉美備微鼻膝肘匹必泌筆姫百氷表俵票評漂標苗秒病描猫品浜貧賓頻敏瓶不夫父付布扶府怖阜附訃負赴浮婦符富普腐敷膚賦譜侮武部舞封風伏服副幅復福腹複覆払沸仏物粉紛雰噴墳憤奮分文聞丙平兵併並柄陛閉塀幣弊蔽餅米壁璧癖別蔑片辺返変偏遍編弁辛5便勉歩保哺捕補舗母募墓慕暮簿方包芳邦奉宝抱放法泡胞俸倣峰砲崩訪報蜂豊飽褒縫亡乏忙坊妨忘防房肪某冒剖紡望傍帽棒貿貌暴膨謀頰北木朴牧睦僕墨撲没勃堀本奔翻凡盆麻摩磨魔毎妹枚昧埋幕膜枕又末抹万満慢漫未味魅岬密蜜脈妙民眠矛務無夢霧娘名命明迷冥盟銘鳴滅免面綿麺茂模毛妄盲耗猛網目黙門紋問冶夜野弥厄役約訳薬躍闇由油喩愉諭輸癒唯友有勇幽悠郵湧猶裕遊雄誘憂融優与予余誉預幼用羊妖洋要容庸揚揺葉陽溶腰様瘍踊窯養擁謡曜抑沃浴欲翌翼拉裸羅来雷頼絡落酪辣乱卵覧濫藍欄吏利里理痢裏履璃離陸立律慄略柳流留竜粒隆硫侶旅虜慮了両良料涼猟陵量僚領寮療瞭糧力緑林厘倫輪隣臨瑠涙累塁類令礼冷励戻例鈴零霊隷齢麗暦歴列劣烈裂恋連廉練錬呂炉賂路露老労弄郎朗浪廊楼漏籠六録麓論和話賄脇惑枠湾腕々";
+			
+			var hyogaiKanji = "串丼乎乖乞于云些亢仄仇仔佃佇侘侶俄俠俣俤俯俱俺倦偈傭傲僅僑僻儘儲兎兜其冑冤冥凄几凧凰函刹剃剋剝劉劫勃勒勾勿匂匈卉卜卿厨厩厭叉叛叟叢叩吃吊吞吠吻吼呆呟呪呵呻咄咎咤咬咳咸咽哨哭哺唖唸唾啖啜啞啼喀喉喋喘喧喩喰嗅嗚嗜嗟嘔嘗嘩嘲嘴噂噌噓噛噺嚙嚥囀囁囃囊圃址坐坦垢埃埒埴埼堆堰堵堺塞塡塵墟壕壙壬壺夷奄套奢奸妓妖妬妾姑姥姦姪姸娑娩娶娼婉媚嫉嬌嬰孕孵宋宕宛宦宸寓寥寵尖尤尹尻屁屍屎屏屑屛屠屢屹岡峙峨崖崗嵌巫已巷巾帖帚帛帷幌幟幡并幷庇庖庚庵廂廓廟廬廻廿弄弛弯彎彙彷徊徘徽忽怨怯恍恢恣恰悉悍悶悸惚惧惹愈愕慄憐憑憚憫懺懼戊戌或戚戟截戮戴扁托扮抉抒拉拗拭拮拶拿按挨挫挺挽捉捌捏捗捧捲捻掟掠掬掻揃揄揆揉揶搔摑摯摺撒撚撞撥撫播撰撹擢擾攀攘攢攣攪敲斃斑斡斧斬斯旱昏昧晒晦晰暈曖曝曠曰曳曼曽曾朦朧杓杖杣杭杵杷枇枕枡柏柑柘柩柴柵柿栃栖桁桓桝桶梁梗梯梵梶棘棲棹椀椅椒楔楕楚楡楢楮楯榊榎榔榜榴槃槌槍樋樫樽橙橿檜檮檻櫂櫃櫓櫛櫟欅歎此歪殆殷毀毘毫毯氾汎汝汲沁沃沌沓沪沫泄洒洛洩浙涅涌涵涸淀淋淘淫淵渠渾湊湘湛溜溢溺滓滲漉漑漕漣漿潑潰澗澱濠濡濤濾瀆瀑瀕瀞瀦瀾灌灘灸灼炒炬炸烏焉焚焰煉煌煎煤煽熔熾燐燕燭燵爛爪爬爺牌牒牙牝牟牡牢牽犀狐狗狙狡狸狼狽猥猷獅玩珂珊珪琵琶瑕璧瓜瓢瓦甑甕甥甦畏畠畢畦畿疆疇疋疏疱疵疸疹疼疽痒痔痕痙痩痰痺瘍瘡瘤瘦瘻癌癬皺盂眩睨睫睾瞑瞞瞥瞰瞼砒砥砦硯碇碓碗磋磐礫祀祁祇祓祟祠祷禊禰禱禽禿秤稗稽穎穢穿窄窟窩窪窺竈竟竦竪竺竿笈笠笥筈筏筑筵箋箏箒箔箕箭箸篆篇篝篠簀簞簾籠籬籾粂粕粟粥糊糞糠紐紮絆絣絨綬綴綻綽緻縞繍繡繫纂纏罠罵罹羞羨翅翫翰翳耆而耽聊聘聚聳聾肋肘肛股肴胚胱脆脇脊脛脾腋腎腑腔腫腱腺腿膀膏膝膠膣膳膵膿臀臂臆臍臘臥臼舅舐舵舷艘芒芥芦芭芯芻苔苛苞苫茨茫茸荊荻荼莢莫菅菩菰菱萄萊萎萱萼葛葡葦葱葺蒋蒐蒙蒲蓋蓑蓬蓼蔑蔓蔣蔭蔽蕃蕎蕨蕩蕪蕭蕾薇薔薙薨薩薯藁藪藷蘆蘇虔虻蚤蛉蛋蛙蛛蛤蛭蛸蛾蜀蜂蜃蜘蜜蜻蝋蝕蝦蝸螺蟇蟬蟹蟻蠅蠟蠣衙袁袂袖袢袴裔裡裳裾褌褥襖襞襦襷覗訃訊訛訝訣訶註詣詫詮誅誦誰誹諏諜諤諦諧諫諱諷諺謂謎謔謗謬謳譚讃讐豹貌貪貰貼賂賑賤賭賽贄贅贋趙趨趾跋跏跨踪踵蹄蹊蹟蹴躁躇躊躬軀軋輯輿轍轟轢辣辻辿迂迄迦逍逗這逞逢逼遁遜遡遽邁邇邱鄙鄧鄭酋酎醍醐醒醤醬醱釉釘釜釧鈔鉗鉤鉦鉾銚鋏鋒鋤鋸錆錐錫鍋鍬鍵鍼鍾鎚鎧鐸鑓閃閏閤閨閻閾闇闊闍阜阪陀陝隈隋隕隙隧雀雁雉雖雫霰靄靡靱鞄鞋鞍鞘鞭韋韓韮頁頃頓頗頰頴頷頸頽顆顎顚飫飴餅餌餐饅饉饒饗馳馴駁駕騙驒骸髭髷髻鬘鬚鬢鬱魏魯鮒鮨鮫鮭鯖鰊鰐鰓鰯鰹鰺鰻鱒鱗鳶鴉鴎鴨鵜鵠鵡鶯鷗鷲鷺鸚鸞鹸鹼麓麴麵麹麺鼎鼠齟齬﨟𠮟嘘實讓你樣臉總丑帶會濕曬發抖當刮翔從只溫對變們沒關盡做屬於點吧怕亮來也圍碧綺诉寞么坏话吗办应该飞它现这说姜钱贩假发…为样谁骗时摆开什隐藏东í红谎伤偷个怎贪婪灵领复实让吓每卷瞒从边种觉顏邊";
+			
+			var hiragana = "゛゜ゝゞぁぃぅゔぇぉゕがきぎきゃぎゃきゅぎゅきょぎょくぐゖげこごさざしじしゃじゃしゅじゅしょじょすずせぜそぞただちぢちゃぢゃちゅぢゅちょぢょっづてでとどなににゃにゅにょぬねのはばぱひびぴひゃびゃぴゃひゅびゅぴゅひょびょぴょふぶぷへべぺほぼぽまみみゃみゅみょむめもゃゅょゟらりりゃりゅりょるれろゎゐゑをん";
+			
+			var katakana = "ーヽヾアイウエオカガキギキャギャキュギュキョギョクグケゲコゴサザシジシャジャシュジュショジョスズセゼソゾタダチヂチャヂャチュヂュチョヂョッヅテデトドナニニャニュニョヌネノハバパヒビピヒャビャピャヒュビュピュヒョビョピョフブプヘベペホボポマミミャミュミョムメモヤユヨラリリャリュリョルレロワヰヱヲン";
+
+			if (contains(joyoKanji,thisCharacter) == true)
+			{
+				return true;
+			}
+
+			if (contains(hyogaiKanji,thisCharacter) == true)
+			{
+				return true;
+			}
+
+			if (contains(hiragana,thisCharacter) == true)
+			{
+				return true;
+			}
+
+			if (contains(katakana,thisCharacter) == true)
+			{
+				return true;
+			}
+			
+			return false;
+			
+		} // end function isJapanese
+
+		function isJapaneseString(thisString)
+		{
+			//debugLog("isChineseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsJapanese = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isJapanese(thisCharacter) == false)
+				{
+					stringIsJapanese = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsJapanese;
+		} // end function isJapaneseString
+
+		function containsJapaneseString(thisString)
+		{
+			//debugLog("isJapaneseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsJapanese = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isJapanese(thisCharacter) == true)
+				{
+					stringIsJapanese = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsJapanese;
+		} // end function containsJapaneseString
+
+
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+
+    	function spacePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", " ' ");
+    		thisWord = replaceChars(thisWord, "' ", " ' ");
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");
+    		
+    		thisWord = replaceChars(thisWord, "0", " 0 ");
+    		thisWord = replaceChars(thisWord, "1", " 1 ");
+    		thisWord = replaceChars(thisWord, "2", " 2 ");
+    		thisWord = replaceChars(thisWord, "3", " 3 ");
+    		thisWord = replaceChars(thisWord, "4", " 4 ");
+    		thisWord = replaceChars(thisWord, "5", " 5 ");
+    		thisWord = replaceChars(thisWord, "6", " 6 ");
+    		thisWord = replaceChars(thisWord, "7", " 7 ");
+    		thisWord = replaceChars(thisWord, "8", " 8 ");
+    		thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+    	
+		function wordSpace(thisJapanese)
+		{
+			//debugLog("wordSpace(" + thisJapanese + ")");
+			
+			var breakMissingWords = document.getElementById('breakMissingWordsCheckbox').checked;
+			
+			var spacedJapanese = "";
+			
+			var thisJapaneseLines = thisJapanese.split("\n");
+			
+			for (var currentLine = 0; currentLine < thisJapaneseLines.length; currentLine++)
+			{
+			
+				var thisJapaneseLine = thisJapaneseLines[currentLine];
+								
+				var numberCharacters = thisJapaneseLine.length;
+				var lastWasNotJapanese = false;
+				var spacedJapaneseLine = "";
+				
+				var lineIsEnglish = true;
+				
+				// Skip non-Japanese character
+				/*
+				if (numberCharacters >= 1)
+				{
+					
+					for (var currentCharacter = 0; currentCharacter <= numberCharacters; currentCharacter++)
+					{	
+						
+						if (currentCharacter >= numberCharacters)
+						{
+							break;
+						}
+									
+						var thisCharacter = thisChineseLine[currentCharacter];
+						
+						if (isChinese(thisCharacter) == true)
+						{
+							lineIsEnglish = false;
+							break;
+						}
+					} // end for every non-Chinese character
+				} // end if there is more than one character on the line
+				*/
+				
+				// Skip all-English lines
+		   		if (containsJapaneseString(thisJapaneseLine) == false)
+				{
+					spacedJapanese = spacedJapanese + thisJapaneseLine + "\n";
+				} else {
+				
+					 for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+					 {
+						 var thisWord = "";
+				
+						 var wordFound = false;
+					
+						 for (var wordLength = 6; wordLength >= 2; wordLength--)
+						 {
+				
+							 var lastCharacter = currentCharacter + wordLength;
+						
+							 if (lastCharacter > numberCharacters)
+							 {
+								 lastCharacter = numberCharacters;
+							 }
+						
+							 thisWord = thisJapaneseLine.substring(currentCharacter, lastCharacter);
+							
+							 var thisCharacter = thisJapaneseLine[currentCharacter];
+
+							 if (isJapanese(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Japanese characters
+								 //spacedJapaneseLine = spacedJapaneseLine + thisCharacter;
+						
+								 //lastWasNotJapanese = true;
+							
+								 // Move the character along in the string
+								 //currentCharacter = currentCharacter + 1;
+							
+								 wordFound == false;
+							
+							 } else {
+
+								 //lastWasNotJapanese = false;
+							
+								 var inDictionary = false;
+							
+								 if (breakMissingWords == false)
+								 {
+									 inDictionary = contains(combinedDictionaryData, thisWord + "	");
+								 } else {
+									 inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+								 }
+							
+								 //if (contains(longWords, " " + thisWord) == true)
+								 if (inDictionary == true)
+								 {
+									 // Move the character along in the string
+									 currentCharacter = currentCharacter + wordLength - 1;
+							
+									 wordFound = true;
+						
+									 // Exit the loop cleanly
+									 wordLength = 0;
+								 } // end if the character is not Japanese
+							
+							 } // if the word exists
+					
+						 } // end for every word length
+				
+						 // If the word is not found, just use the character
+						 if (wordFound == false)
+						 {
+							 var thisCharacter = thisJapaneseLine[currentCharacter];
+					
+							 if (isJapanese(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Japanese characters
+								 spacedJapaneseLine = spacedJapaneseLine + thisCharacter;
+						
+								 lastWasNotJapanese = true;
+						
+							 } else {
+						
+								 // Add a space if we're back to parsing Japanese
+								 if (lastWasNotJapanese == true)
+								 {
+									 spacedJapaneseLine = spacedJapaneseLine + " ";
+									 lastWasNotJapanese = false;
+								 }
+						
+								 spacedJapaneseLine = spacedJapaneseLine + thisCharacter + " ";					
+
+							 } // end if this character is not Japanese
+					
+						 } else {
+
+							 // Add a space if we're back to parsing Japanese
+							 if (lastWasNotJapanese == true)
+							 {
+								 spacedJapaneseLine = spacedJapaneseLine + " ";
+								 lastWasNotJapanese = false;
+							 }
+
+							 spacedJapaneseLine = spacedJapaneseLine + thisWord + " ";
+
+						 } // end if the word was not found
+								
+				
+					 } // end for every character
+				
+					 spacedJapanese = spacedJapanese + spacedJapaneseLine + "\n";
+				} // end if the line is English
+				
+			} // end for every line
+			
+			
+			var spacedLines = "";
+		   
+			var spacedJapaneseLines = spacedJapanese.split("\n");
+			
+			var numberLines = spacedJapaneseLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+			
+				var spacedJapaneseLine = spacedJapaneseLines[currentLine];
+
+
+				if (containsJapaneseString(spacedJapaneseLine) == true)
+				{
+					var spacedLine = "";
+				
+					var numberLineCharacters = spacedJapaneseLine.length;
+		   			
+		   			// Add spaces for punctuation
+					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+					{
+						var thisLineCharacter = spacedJapaneseLine[currentLineCharacter];
+			   			
+						if (isJapanese(thisLineCharacter) == true)
+						{
+							spacedLine = spacedLine + thisLineCharacter;
+						} else {
+							if (isEnglish(thisLineCharacter) == true)
+							{
+								spacedLine = spacedLine + thisLineCharacter;
+							} else {
+								spacedLine = spacedLine + thisLineCharacter + " ";
+							}
+						}			   			
+					} // end add spaces after every non-Japanese character
+					
+					spacedLines = spacedLines + spacedLine + "\n";
+					
+				} else {
+					// Don't add spaces on English lines
+					spacedLines = spacedLines + spacedJapaneseLine + "\n";
+				
+				} // end if the line is english
+				
+			} // end for every line
+			
+			return spacedLines;
+			
+		} // end function wordSpace
+
+    	
+    	function translateText(kanjiSpaced, romajiManualText, englishText)
+    	{
+			var addJapanesePlain = document.getElementById('japanesePlainCheckbox').checked;
+			var addJapanese = document.getElementById('japaneseCheckbox').checked;
+			var addRomaji = document.getElementById('romajiCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addRomajiManual = document.getElementById('romajiManualCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var japaneseSpacedArray = kanjiSpaced.split("\n");
+			var romajiManualArray = romajiManualText.split("\n");
+			var englishArray = englishText.split("\n");
+			
+			var numberJapaneseLines = japaneseSpacedArray.length;
+			var numberEnglishLines = englishArray.length;
+			
+			var japaneseHtml = "";
+			var romajiHtml = "";
+			var romajiManualHtml = "";
+			var literalHtml = "";
+			
+			var japaneseText = "";
+			var romajiText = "";
+			var romajiManualText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+						
+			for (var currentLine = 0; currentLine < numberJapaneseLines; currentLine++)
+			{
+				var japaneseLine = japaneseSpacedArray[currentLine];
+
+				var romajiManualLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					romajiManualLine = romajiManualArray[currentLine];
+				} else {
+					romajiManualLine = "";
+				}
+
+				var englishLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					englishLine = englishArray[currentLine];
+				} else {
+					englishLine = "";
+				}
+				
+				var japaneseLineHtml = "";
+				var romajiLineHtml = "";
+				var romajiManualLineHtml = "";
+				var literalLineHtml = "";
+			
+				var japaneseLineText = "";
+				var romajiLineText = "";
+				var romajiManualLineText = romajiManualLine;
+				var literalLineText = "";
+				
+				var japanesePlainLine = "";
+
+				if (addJapanesePlain == true)
+				{
+					japanesePlainLine = replaceChars(japaneseLine, " ", "");
+				} // end if addJapanesePlain
+				
+				var thisLineWords = japaneseLine.split(" ");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				//var romajiManualLineArray;
+				
+				if (addRomajiManual == true)
+				{
+					//romajiManualLineArray = romajiManualLine.split(" ");
+					
+					romajiManualLineHtml = replaceChars(romajiManualLine, " ", "</td><td>");
+					
+					romajiManualLineHtml = "<tr class=\"romajiManualLine\"><td>" + romajiManualLineHtml + "</td></tr>";
+					
+				}
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWord = thisLineWords[currentLineWord];
+					
+					/*
+					var romajiManualWord = "";
+					
+					if (addRomajiManual == true)
+					{
+						if (romajiManualLineArray.length > currentLineWord)
+						{
+							romajiManualWord = romajiManualLineArray[currentLineWord];
+						}
+					}
+					*/
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+					
+					if (inDictionary == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisLiteral = "";
+						var thisRomaji = "";
+						var thisPos = 1;
+						
+						thisLiteral = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisRomaji = thisDictionaryLineArray[1];
+						}
+						
+						if (lineLength >= 2)
+						{
+							thisPos = thisDictionaryLineArray[2];
+						}
+																		
+						var thisWordHtml = "<div class=\"japanese_" + thisPos + "\">" + thisWord + "</div>";
+						var thisRomajiHtml = "<div class=\"romaji_" + thisPos + "\">" + thisRomaji + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+
+						japaneseLineHtml = japaneseLineHtml + "<td>" + thisWordHtml + "</td>";
+						romajiLineHtml = romajiLineHtml + "<td>" + thisRomajiHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						japaneseLineText = japaneseLineText + thisWord;
+						romajiLineText = romajiLineText + thisRomaji;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+																		
+						var thisWordNotInDictionary = thisWord;
+						
+						var thisWordNotInDictionaryJapaneseHtml = "<div class=\"japanese_1\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryRomajiHtml = "<div class=\"romaji_1>" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+						
+						japaneseLineHtml = japaneseLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						romajiLineHtml = romajiLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+					
+						japaneseLineText = japaneseLineText + thisWordNotInDictionary;
+						romajiLineText = romajiLineText + thisWordNotInDictionary;
+						literalLineText = literalLineText + thisWordNotInDictionary;
+					
+						if (isJapaneseString(thisWord) == true)
+						{
+							missingWords = missingWords + thisWord + "\n";
+						}
+					
+					} // end if the dictionary contains the word
+					
+					//romajiManualLineHtml = romajiManualLineHtml + "<td>" + "<div class=\"romajiManual>" + romajiManualWord + "</div>" + "</td>";
+					
+					japaneseLineText = japaneseLineText + " ";
+					romajiLineText = romajiLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addJapanesePlain == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"japanesePlainLine\">" + japanesePlainLine + "</tr>";
+				}
+				
+				if (addJapanese == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"japaneseLine\">" + japaneseLineHtml + "</tr>";
+				}
+				
+				if (addRomaji == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"romajiLine\">" + romajiLineHtml + "</tr>";
+				}
+				
+				if (addRomajiManual == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"romajiManualLine\">" + romajiManualLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+								
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLine + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+
+				if (addJapanesePlain == true)
+				{
+					outputText = outputText + japanesePlainLine + "\n";
+				}
+
+				if (addJapanese == true)
+				{
+					outputText = outputText + japaneseLineText + "\n";
+				}
+				
+				if (addRomaji == true)
+				{
+					outputText = outputText + romajiLineText + "\n";
+				}
+				
+				if (addRomajiManual == true)
+				{
+					outputText = outputText + romajiManualLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			//showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var kanjiText = document.getElementById("kanjiTextArea").value;
+    		var romajiText = document.getElementById("romajiTextArea").value;
+    		var englishText = document.getElementById("englishTextArea").value;
+    		
+			var kanjiSpaced = wordSpace(kanjiText);
+			
+    		
+    		document.getElementById("kanjiSpacedTextArea").value = kanjiSpaced;
+    		
+			var translationOutput = translateText(kanjiSpaced, romajiText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function dictionariesLoaded()
+		{
+		
+		} // end function dictionariesLoaded
+
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+
+
+		lastDictionary = true;
+    	loadDictionary("Japanese/JapaneseDefinitionsRomajiPos.txt");
+    	
+    </script>
+
+
+</html>
