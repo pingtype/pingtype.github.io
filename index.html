@@ -110,6 +110,7 @@
 	- server-side for automatic facebook chinese made larger and spaced
 	
 	Marketing:
+	- Chris Lonsdale https://www.youtube.com/watch?v=d0yGdNEWdn0
 	- http://www.chinesehorizon.com
 	- Taiwanese Tone Marks from #Author: Chen Yoxem <yoxem.tem98@nctu.edu.tw>
 	- Taiwanese to http://taigi.fhl.net/TaigiIME/ fhl_ime@googlegroups.com
@@ -244,7 +245,7 @@
 -->
 
 <!DOCTYPE html>
-<html manifest="pingtype.appcache">
+<html>
   <head>
   	<title>Pingtype</title>
   	  	
@@ -717,6 +718,70 @@ display:inline;
 <!--  <body onkeydown="keyDown();">-->
 <!--  <body onkeypress="keyPressed();">-->
   <body>
+		
+	<!-- Top navigation bar -->
+	<div style="padding-left:0.81em;padding-top:0.51em;padding-bottom:0.51em; background:#DDDDDD">
+		<table border="1" style="border-style: solid;border:1px; border-collapse: collapse;background:#FFFFFF;font-weight:bold;font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 12px;">
+			<tr>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="index.html" style="text-decoration: none;color: #000000;">
+						Home
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="docs/docs.html" style="text-decoration: none;color: #000000;" target=_blank>
+						Docs
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="docs/blog.html" style="text-decoration: none;color: #000000;" target=_blank>
+						Blog
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="http://peterburk.github.com/tra" style="text-decoration: none;color: #000000;" target=_blank>
+						Trains
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="bible.html" style="text-decoration: none;color: #000000;" target=_blank>
+						Bible
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="Data/Dinbendon/map/index.html" style="text-decoration: none;color: #000000;" target=_blank>
+						Food
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="Data/KHOP/index.html" style="text-decoration: none;color: #000000;" target=_blank>
+						Lyrics
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhpjdXOJLCm4uKQitetfaglBS" style="text-decoration: none;color: #000000;" target=_blank>
+						Music
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhphhT5nDdhK00wZuobGbMtO0" style="text-decoration: none;color: #000000;" target=_blank>
+						Movies
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="english.html" style="text-decoration: none;color: #000000;" target=_blank>
+						English
+					</a>
+				</td>
+				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+					<a href="http://peterburk.github.com/contact" style="text-decoration: none;color: #000000;" target=_blank>
+						Contact
+					</a>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!-- End heading row -->
 		
  	<table>
  		<tr>
@@ -2368,7 +2433,9 @@ display:inline;
 	</div>
 	
 	<!-- Start of SimpleHitCounter Code -->
+	<!--
 	<div align="left"><a href="http://simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2288206&f=0&b=16777215" border="0" height="18" width="83" alt=""></a><br><a href="http://simplehitcounter.com" target="_blank" style="text-decoration:none;"></a></div>
+	-->
 	<!-- End of SimpleHitCounter Code -->
 	
   </body>
@@ -9433,6 +9500,7 @@ display:inline;
 			
 			var htmlFooters = "\n  </body>\n</html>\n";
 			
+			// Pingtype is a literal translator for Chinese. Pingtype 是 一個 中文 詞彙 翻譯. 
 			var thisHtml = htmlHeaders + thisString + htmlFooters;
 			
 			var thisHtmlBase64 = b64EncodeUnicode(thisHtml);

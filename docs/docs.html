@@ -1,0 +1,277 @@
+<html>
+	<!-- Pingtype docs -->
+	<head>
+		<!-- Title -->
+		<title>
+			Pingtype Docs
+		</title>
+		
+		<!-- CSS style -->
+		<style>
+		body {
+     		   font-family: Tahoma, Geneva, sans-serif;
+  				background:#DDDDDD;
+			}
+			
+@font-face {
+    font-family: "Charcoal CY";
+    src: url("../fonts/Charcoal.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Virtue";
+    src: url("../fonts/virtue.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SimSun";
+    src: url("../fonts/SimSun.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Jhenghei";
+    src: url("../fonts/MicrosoftJhengHeiRegular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PingfangLocal";
+    src: local("../PingFang-TC-Regular");
+}
+
+@font-face {
+    font-family: "Pingfang";
+    src: url("../fonts/PingFang1.ttf") format("truetype");
+}			
+		</style>
+		
+	</head>
+	
+	<!-- Script to load the correct HTML files on page load -->
+	<script type="text/javascript">        
+
+		function htmlToDiv(thisUrl, thisDiv)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						document.getElementById(thisDiv).innerHTML = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('error loading dictionary');
+				   }
+				   else {
+					   alert('error loading dictionary');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", thisUrl, true);
+			xmlhttp.send();
+				
+		} // end function htmlToDiv
+		
+	</script>
+	
+	<!-- Body -->
+	<body>
+			
+		<!-- Heading -->
+		<h2>
+			Pingtype Docs
+		</h2>
+	
+		<!-- Top navigation bar -->
+		<div style="padding-left:0.81em;padding-top:0.51em;padding-bottom:0.51em; background:#DDDDDD">
+			<table border="1" style="border-style: solid;border:1px; border-collapse: collapse;background:#FFFFFF;font-weight:bold;font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="../index.html" style="text-decoration: none;color: #000000;">
+							Home
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="docs.html" style="text-decoration: none;color: #000000;" target=_blank>
+							Docs
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="blog.html" style="text-decoration: none;color: #000000;" target=_blank>
+							Blog
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="http://peterburk.github.com/tra" style="text-decoration: none;color: #000000;" target=_blank>
+							Trains
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="../bible.html" style="text-decoration: none;color: #000000;" target=_blank>
+							Bible
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="../Data/Dinbendon/map/index.html" style="text-decoration: none;color: #000000;" target=_blank>
+							Food
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="../Data/KHOP/index.html" style="text-decoration: none;color: #000000;" target=_blank>
+							Lyrics
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhpjdXOJLCm4uKQitetfaglBS" style="text-decoration: none;color: #000000;" target=_blank>
+							Music
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhphhT5nDdhK00wZuobGbMtO0" style="text-decoration: none;color: #000000;" target=_blank>
+							Movies
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="../english.html" style="text-decoration: none;color: #000000;" target=_blank>
+							English
+						</a>
+					</td>
+					<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
+						<a href="http://peterburk.github.com/contact" style="text-decoration: none;color: #000000;" target=_blank>
+							Contact
+						</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<!-- End heading row -->
+		
+	
+		<!-- One-column content -->
+		<table>
+			<tr>
+			
+				<!-- One column -->
+				<td valign="top">
+					<!-- One column items -->
+					<table border="1" style="border-style: solid;border:1px;width:70%;border-spacing: 10px;">
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="index" style="padding-left:0.5em">
+									Documentation
+								</div>
+							
+								<script>
+									htmlToDiv("index.html", "index");
+								</script>
+							</td>
+						</tr>
+
+						<tr style="background:#DDDDDD">
+							<td>
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="advanced" style="padding-left:0.5em">
+									Advanced
+								</div>
+							
+								<script>
+									htmlToDiv("advanced.html", "advanced");
+								</script>
+							</td>
+						</tr>
+
+						<tr style="background:#DDDDDD">
+							<td>
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="unitype" style="padding-left:0.5em">
+									Unitype
+								</div>
+							
+								<script>
+									htmlToDiv("unitype.html", "unitype");
+								</script>
+							</td>
+						</tr>
+
+						<tr style="background:#DDDDDD">
+							<td>
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="developerNotes" style="padding-left:0.5em">
+									Developer Notes
+								</div>
+							
+								<script>
+									htmlToDiv("developerNotes.html", "developerNotes");
+								</script>
+							</td>
+						</tr>
+						
+						<tr style="background:#DDDDDD">
+							<td>
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="scripting" style="padding-left:0.5em">
+									Scripting
+								</div>
+							
+								<script>
+									htmlToDiv("scripting.html", "scripting");
+								</script>
+							</td>
+						</tr>
+
+						<tr style="background:#DDDDDD">
+							<td>
+								&nbsp;
+							</td>
+						</tr>
+
+						<tr style="background:#FFFFFF">
+							<td style="text-align:left">
+								<div id="hubtext" style="padding-left:0.5em">
+									HubText
+								</div>
+							
+								<script>
+									htmlToDiv("hubtext.html", "hubtext");
+								</script>
+							</td>
+						</tr>
+
+
+					</table>
+					<!--  End one column items -->
+				
+				</td>
+				
+				<!-- End two-column content right -->
+			</tr>
+			<!-- End two column layout -->
+		</table>
+				
+	</body>
+</html>
