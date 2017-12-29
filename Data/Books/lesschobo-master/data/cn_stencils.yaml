@@ -1,0 +1,2748 @@
+# Chinese stencils for LessChobo
+
+# Missing words:
+# 跟 [gen1] /heel/to follow closely/to go with/to marry sb (of woman)/with/towards/as (compared to)/from (different from)/and (in addition to)/
+# 它 [ta1] /it/
+# 死 [si3] /to die/impassable/uncrossable/inflexible/rigid/extremely/
+# 次 [ci4] /next in sequence/second/the second (day, time etc)/secondary/vice-/sub-/infra-/inferior quality/substandard/order/sequence/hypo- (chemistry)/classifier for enumerated events: time/
+# 而 [er2] /and/as well as/and so/but (not)/yet (not)/(indicates causal relation)/(indicates change of state)/(indicates contrast)/
+# 孩子 [hai2 zi5] /child/
+# 所以 [suo3 yi3] /therefore/as a result/so/
+# 这些 [zhe4 xie1] /these/
+# 错 [cuo4] /mistake/wrong/bad/interlocking/complex/to grind/to polish/to alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or silver/
+# 该 [gai1] /should/ought to/probably/must be/to deserve/to owe/to be sb's turn to do sth/that/the above-mentioned/
+# 拿 [na2] /to hold/to seize/to catch/to apprehend/to take/
+# 然后 [ran2 hou4] /after/then (afterwards)/after that/afterwards/
+# 噢 [o1] /Oh!/
+# 一样 [yi1 yang4] /same/like/equal to/the same as/just like/
+# 事情 [shi4 qing5] /affair/matter/thing/business/CL:件[jian4],樁|桩[zhuang1]/
+# 非常 [fei1 chang2] /unusual/extraordinary/extreme/very/exceptional/
+# 希望 [xi1 wang4] /to wish for/to desire/hope/CL:個|个[ge4]/
+# 那些 [na4 xie1] /those/
+# 也许 [ye3 xu3] /perhaps/maybe/
+# 嗨 [hai1] /oh alas/hey!/hi! (loanword)/
+# 这儿 [zhe4 r5] /here/
+# 看看 [kan4 kan5] /to take a look at/to examine/to survey/(coll.) pretty soon/
+# 不过 [bu4 guo4] /only/merely/no more than/but/however/anyway (to get back to a previous topic)/
+# 呃 [e4] /(exclamation)/to hiccup/
+# 发生 [fa1 sheng1] /to happen/to occur/to take place/to break out/
+# 回来 [hui2 lai5] /to return/to come back/
+# 准备 [zhun3 bei4] /preparation/to prepare/to intend/to be about to/reserve (fund)/
+# 找到 [zhao3 dao4] /to find/
+# 后 [hou4] /back/behind/rear/afterwards/after/later/
+# 一切 [yi1 qie4] /everything/every/all/
+
+
+
+#####################################################################
+## Stencils by remote workers based on HSK word list.
+
+
+- type: chinese
+  chinese: 我爱你
+  english:
+    - I love you
+- type: chinese
+  chinese: 他爱唱歌
+  english:
+    - He is fond of singing
+    - He likes to sing
+    - He likes singing
+- type: chinese
+  chinese: 这是一个杯子
+  english:
+    - This is a cup
+- type: chinese
+  chinese: 她爱哭
+  english:
+    - She is a crybaby
+    - She's a crybaby
+    - She crys easily
+# - type: chinese
+#   chinese: 四面八方
+#   english:
+#     - In all directions
+#     - Far and near
+#     - All around
+#   comment: Is this a common expression? If so, how is it used?
+- type: chinese
+  chinese: 我爸爸很高
+  english:
+    - My father is very tall
+    - My daddy is very tall
+- type: chinese
+  chinese: 一杯茶
+  english:
+    - A cup of tea
+    - Cup of tea
+- type: chinese
+  chinese: 一杯水
+  english:
+    - A glass of water
+    - Glass of water
+- type: chinese
+  chinese: 北京欢迎你
+  english:
+    - Beijing welcomes you
+    - Welcome to Beijing
+- type: chinese
+  chinese: 北京是中国的首都
+  english:
+    - Beijing is the capital of China
+- type: chinese
+  chinese: 那|是一本书
+  english:
+    - That is a book
+    - That's a book
+- type: chinese
+  chinese: 她做的菜很好吃
+  english:
+    - The food she cooked is delicious
+    - She cooked delicious food
+- type: chinese
+  chinese: 茶色的杯子
+  english:
+    - Brown cups
+- type: chinese
+  chinese: 吃点儿东西
+  english:
+    - Grab something to eat
+
+
+
+############### New phrases
+
+
+- type: chinese
+  chinese: 你要爱惜身体
+  english:
+    - You should take good care of yourself.
+
+- type: chinese
+  chinese: 他原本要去北京
+  english:
+    - He originally planned to go to Beijing.
+
+- type: chinese
+  chinese: 我们要看事物的本质
+  english:
+    - We have to grasp the essence of material things.
+    - We must (see through the appearance to) perceive the essence.
+    - Don't be fooled by appearances.
+
+- type: chinese
+  chinese: 做人不能忘本
+  english:
+    - One can never forget his/her roots.
+
+- type: chinese
+  chinese: 做好本职工作是你的本分
+  english:
+    - It's your duty to do your job.
+    - It is only natural that you get your own work done.
+
+# 不客气
+# bù kè qi
+# you're welcome, impolite, rude, blunt, don't mention it,
+
+# 她买了几斤菜。
+# tā | mǎi | le | jǐ | jīn | cài
+# she/her | buy | to finish | several | catty/half a kilogramme | vegetables
+# She bought several catties of vegetables.
+
+# 喝茶
+# hē chá
+# have/drink tea
+
+# - type: chinese
+#   chinese: 茶杯
+#   english:
+#     - Tea cups
+#     - Tea cup
+#   comment: Give complete example phrases.
+
+- type: chinese
+  chinese: 这种菜很吃油
+  english:
+    - This vegetable soaks up a lot of oil.
+    - This kind of vegetable absorbs lots of oil.
+
+- type: chinese
+  chinese: 他的话我吃不准
+  english:
+    - I'm not sure what he means.
+
+# 出租车
+# chū zū chē
+# taxi, (Taiwan) rental car,
+
+- type: chinese
+  chinese: 坐出租车去火车站
+  english:
+    - Take a taxi to the train station
+
+# 打电话
+# dǎ diàn huà
+# call, phone, make a call
+
+- type: chinese
+  chinese: 给他打电话
+  english:
+    - Give him a call
+    - Give him a phone call
+    - Call him
+    - Phone him
+
+# 大 | 城市
+# big/large | city
+# big city, major city, metropolis
+
+# 大 | 风
+# big | wind
+# gale, strong wind
+
+# 大 | 不 | 一样
+# big | no/not | same/alike/equal
+# a big difference, quite different
+
+# 大 | 哥
+# big | brother
+# elder brother, eldest brother, eldest son
+
+# 你 | 的 | 孩子 | 多大 | 了?
+# you | of | children | how old | to finish
+# How old are your children?
+
+# 的
+# de
+# of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis),
+
+- type: chinese
+  chinese: 花是红色的
+  english:
+    - The flower is red.
+
+- type: chinese
+  chinese: 这本书是我的
+  english:
+    - This book is mine
+    - This is my book
+
+- type: chinese
+  chinese: 水是凉的
+  english:
+    - The water is cold
+
+# 点 | 菜
+# order | vegetable
+# to order (food in a restaurant)
+
+# 他 | 点了点头。
+# he/him | nodded
+# He nodded.  (点头 = to nod, 点点头 = nodding, 点了点头 = nodded)
+
+- type: chinese
+  chinese: 课前我要点名
+  english:
+    - I'll do a roll call before the class starts.
+
+- type: chinese
+  chinese: 点明重点
+  english:
+    - Point out an important issue.
+
+# 到 | 点 | 了，| 该 | 做饭 | 了。
+# arrive/go to | dot/point | to finish, | should/deserve | to cook/cooking | to finish
+# It's time to cook.
+
+# 电脑
+# diàn nǎo
+# computer, CL:臺|台[tái],
+
+- type: chinese
+  chinese: 一台电脑
+  english:
+    - A computer
+    - computer
+
+# 电视
+# diàn shì
+# television, TV, CL:臺|台,個|个[gè],
+
+- type: chinese
+  chinese: 一台电视
+  english:
+    - A television
+
+- type: chinese
+  chinese: 看电视
+  english:
+    - Watch TV
+    - Watch television
+
+# 电影
+# diàn yǐng
+# movie, film, CL:部,片,幕,場|场[chǎng],
+
+- type: chinese
+  chinese: 看一场电影
+  english:
+    - Watch a film
+    - Watch a movie
+
+- type: chinese
+  chinese: 这部电影很好看
+  english:
+    - This movie is great.
+    - This is a great movie.
+
+# 东西
+# dōng | xi
+# thing, stuff, person, CL:個|个,件[jiàn],
+
+# 写 | 东西
+# to write | thing/stuff
+# to write something
+
+- type: chinese
+  chinese: 这个小东西真可爱
+  english:
+    - This little thing (people, esp. children, or animal) is so cute.
+
+# 他 | 真 | 不 | 是 | 个 | 东西！
+# he/him | truely/really | no/not | be/exist | individual/piece | thing/stuff
+# He is no nice person.
+# He's so full of shit.
+
+# 都
+# dōu
+# all, both, entirely, (used for emphasis) even, already, (not) at all,
+
+- type: chinese
+  chinese: 大家都喜欢听我讲课
+  english:
+    - Everyone likes to attend my lectures
+    - Everyone likes to hear my lectures
+    - Everyone likes to hear me lecture
+
+- type: chinese
+  chinese: 你这个电影都没看过？
+  english:
+    - You haven't even seen this movie?
+
+- type: chinese
+  chinese: 都几点了还不睡觉去
+  english:
+    - Look at the time! You should have gone to the bed long ago.
+    - At this time of the day! You should go to bed.
+
+# 读
+# dú
+# to read, to study, reading of word (i.e. pronunciation), similar to 拼音[pīn yīn],
+
+- type: chinese
+  chinese: 我读了一本书
+  english:
+    - I read a book
+
+- type: chinese
+  chinese: 我弟弟读大学一年级
+  english:
+    - My little brother is freshman in college.
+
+- type: chinese
+  chinese: 好好读书长大才有工作
+  english:
+    - Only if you study hard, you can get a job when you grow up.
+
+# 对不起
+# duì bu qǐ
+# unworthy, to let down, I'm sorry, excuse me, pardon me, if you please, sorry? (please repeat),
+
+# 多
+# duō
+# many, much, a lot of, numerous, more, in excess, how (to what extent), multi-, Taiwan pr.  when it means "how",
+
+# 多 | 种 | 多 | 样
+# many/much | kind/type | many/much | style/pattern
+# various, wide variety, a variety of
+
+- type: chinese
+  chinese: 多一个杯子
+  english:
+    - There is one cup more.
+    - There is an additional cup.
+
+- type: chinese
+  chinese: 她胖多了
+  english:
+    - She's much more plump nowadays.
+    - She's much fatter now.
+    - She's put on a bit of weight.
+
+- type: chinese
+  chinese: 你有多高？
+  english:
+    - How tall are you?
+
+- type: chinese
+  chinese: 天气多好！
+  english:
+    - The weather is so wonderful!
+    - What a pleasant weather!
+    - What fine weather!
+
+# 多少
+# duō | shao
+# how much, how many, which (number), as much as,
+
+- type: chinese
+  chinese: 这菜多少钱？
+  english:
+    - How much are these vegetables?
+    - How much is this vegetable?
+
+- type: chinese
+  chinese: 他的|话多少有点道理
+  english:
+    - There's some truth in what he says.
+  comment: The tokenizer tries to group 的话 if the separator isn't there.
+
+- type: chinese
+  chinese: 你给多少钱我也不干
+  english:
+    - However much money you give me, I will never do it.
+
+# 儿子
+# ér | zi
+# son,
+
+# 二
+# èr
+# two, 2, stupid (Beijing dialect),
+
+# 饭馆
+# fàn | guǎn
+# restaurant, CL:家[jiā],
+
+- type: chinese
+  chinese: 这里有一家饭馆。
+  english:
+    - There is a restaurant
+
+- type: chinese
+  chinese: 来这家饭馆吃点东西。
+  english:
+    - Come and have some food at this restaurant.
+
+# 飞机
+# fēi | jī
+# airplane, CL:架[jià],
+
+- type: chinese
+  chinese: 天空中没有飞机
+  english:
+    - There is no airplane in the sky.
+
+- type: chinese
+  chinese: 火车没有飞机快
+  english:
+    - Trains do not travel faster than airplanes.
+    - Airplanes travels faster than trains.
+
+# 分钟
+# fēn | zhōng
+# minute,
+
+- type: chinese
+  chinese: 等我一分钟
+  english:
+    - Wait a minute
+    - Wait a moment
+    - One moment
+
+# 五分钟 | 热度
+# five minutes | heat/fever
+# brief period of enthusiasm
+
+# 高兴
+# gāo | xìng
+# happy, glad, willing (to do sth), in a cheerful mood,
+
+- type: chinese
+  chinese: 你要来，我们都很高兴
+  english:
+    - We all glad that you are coming.
+    - We're all pleased for your coming.
+
+- type: chinese
+  chinese: 他高兴看电影，对看电视不感兴趣
+  english:
+    - He feels like watching a movie, and is not interested in watching TV.
+
+# 个
+# gè
+# variant of 個|个[gè],
+
+# 工作
+# gōng | zuò
+# to work, (of a machine) to operate, job, work, task, CL:個|个,份,項|项[xiàng],
+
+- type: chinese
+  chinese: 工作没有高低之分
+  english:
+    - There is neither lowliness nor nobleness in careers.
+    - It is difficult to say which is the better trade.
+
+- type: chinese
+  chinese: 我有很多|工作要做
+  english:
+    - I have a lot of work to do.
+    - I have to do a lot of work.
+  comment: The cndict tokenizer is not working correctly on this string.
+           Will be fixed in a future version
+
+# 狗
+# gǒu
+# dog, CL:隻|只,條|条[tiáo],
+
+- type: chinese
+  chinese: 我喜欢狗，不喜欢猫
+  english:
+    - I like dogs, not cats.
+
+- type: chinese
+  chinese: 你这个狗东西！
+  english:
+    - You son of a bitch!
+
+- type: chinese
+  chinese: 我爸爸属狗
+  english:
+    - My father was born in the year of the dog.
+
+# 汉语
+# Hàn | yǔ
+# Chinese language, CL:門|门[mén],
+
+# 汉语 | 和 | 英语 | 在 | 拼写 | 上 | 大不相同。
+# Chinese language | and | English language | in/exist | spell | on | quite different/to differ greatly
+# Chinese differs greatly from English in spelling.
+
+# 普通话 | 也 | 叫 | 现代标准汉语，| 是 | 中华人民共和国 | 的 | 官方语言。
+# Standard Chinese/Mandarin/Putonghua | also | to be called | Modern Standard Chinese, | be | People's Republic of China (PRC) | of | official language
+# Standard Chinese, also known as Modern Standard Chinese, is the official language of the People's Republic of China (PRC).
+
+# 好
+# hǎo
+# good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness),
+
+# 与 | 朋友 | 好好 | 相处
+# and | friend | well | get along
+# get along well with friends
+
+- type: chinese
+  chinese: 作业做好了
+  english:
+    - The homework is finished
+    - The homework is completed
+
+# 这 | 话 | 不 | 好 | 说。
+# this/these | words/language/speech | no/not | good/well | to speak/to talk
+# This is difficult to say.
+# I don't know how to bring it up.
+
+- type: chinese
+  chinese: 带点钱好买东西
+  english:
+    - Take some money for shopping.
+
+# 喝
+# hē
+# to drink, My goodness!,
+
+# 喝 | 水
+# to drink | water
+# drink water
+
+# 喝 | 粥
+# to drink | porridge
+# eat porridge
+
+# 喝醉 | 了
+# to get drunk | to finish
+# drunk
+
+# 喝 | 多 | 了
+# to drink | many/excessive | to finish
+# drunk
+
+# 和
+# hé
+# and, together with, with, sum, union, peace, harmony, Japanese related, Taiwan pr. [hàn],
+
+- type: chinese
+  chinese: 他和她是朋友。
+  english:
+    - They are friends
+    - He and she are friends
+
+- type: chinese
+  chinese: 他与她是朋友。
+  english:
+    - They are friends
+    - He and she are friends
+
+# 中国 | 在 | 建设 | 和谐 | 社会。
+# China/middle kingdom | in/at | to construct/to build | harmony/accord | society
+# China is building Harmonious Society.
+
+# 中国人 | 以和为贵。
+# Chinese people | with/so as to | harmonious/harmony | for/serve as | expensive/precious/noble
+# The Chinese think Harmony is Precious (Yi He Wei Gui).
+
+# 两 | 人 | 讲和 | 了。
+# two | people/person | make peace | to finish
+# The two made peace with each other.
+# The two buried the hatchet
+
+# 她 | 和 | 我 | 说 | 过。
+# she/her | and/with | I/me | say/speak/talk | cross/pass
+# She spoke with me.
+
+# 很
+# hěn
+# (adverb of degree), quite, very, awfully,
+
+- type: chinese
+  chinese: 他看过很多书
+  english:
+    - He read many books.
+
+- type: chinese
+  chinese: 她做了很好吃的菜
+  english:
+    - She made some great dishes.
+
+- type: chinese
+  chinese: 我很喜欢看电视
+  english:
+    - I like to watch TV very much.
+    - I like to watch television very much.
+    - I'm very fond of watching TV
+    - I am very fond of watching TV
+    - I'm very fond of watching television
+    - I am very fond of watching television
+
+# 后面
+# hòu mian
+# rear, back, behind, later, afterwards,
+
+- type: chinese
+  chinese: 把电视搬到后面去
+  english:
+    - Move the TV to the back.
+
+- type: chinese
+  chinese: 这个我后面再说
+  english:
+    - I'll get back to this later.
+
+# 回
+# huí
+# to curve, to return, to revolve,
+
+# 回家
+# return home, go back home
+
+# 他 | 回 | 过 | 身 | 来。
+# he/him | to return/to revolve | pass/cross | body | to come/coming
+# He turned back.
+
+- type: chinese
+  chinese: 我没有收到回信
+  english:
+    - I haven't received any response/reply.
+
+# 他把从学校里拿的书放回了原处
+# 他 | 把 | 从 | 学校 | 里 | 拿 | 的 | 书 | 放回 | 了 | 原处。
+# he/him | handle/grasp | from | school | in/inside | take | of | book | restore/replace | to finish | original position
+# He restored the books he had taken from school.
+# Comment: He returned the books he had taken from school?
+
+# 她 | 把 | 菜 | 回 | 了 | 锅。
+# she/her | handle/grasp | dish/vegetables | to return | to finish | pot/pan/caldron
+# She cooked the dish a second time.
+# She twice-cooked the dish.
+
+# 会
+# huì
+# can, be possible, be able to, will, be likely to, be sure to, to assemble, to meet, to gather, to see, union, group, association, CL:個|个[gè], a moment (Taiwan pr. for this sense is ),
+
+# 会 | 诊
+# to assemble/to gather | examine medically
+# consultation
+
+# 医生 | 会诊。
+# doctor | consultation
+# The doctors held a consultation.
+
+# - type: chinese
+#   chinese: 后会有期
+#   english:
+#     - (Good-bye) until next time.
+#     - Until we meet again.
+#     - Good-bye, I will see you next time.
+#     - Bye for now.
+#   comment: Idiom, perhaps use in a conversation?
+
+
+- type: chinese
+  chinese: 我会跳舞。
+  english:
+    - I can dance
+    - I will dance
+
+# - type: chinese
+#   chinese: 等一会儿
+#   english:
+#     - Wait a moment.
+#     - Wait a little longer.
+#   comment: Idiom, perhaps use in a conversation?
+
+# 火车站
+# huǒ chē zhàn
+# train station,
+
+- type: chinese
+  chinese: 从这里到火车站坐出租车要五分钟
+  english:
+    - It takes five minutes by taxi from  here to the train station.
+
+# 几
+# jǐ
+# how much, how many, several, a few,
+
+- type: chinese
+  chinese: 这里有几本书
+  english:
+    - Here are some books.
+
+- type: chinese
+  chinese: 你有几本书？
+  english:
+    - How many books do you have?
+    - How many books have you?
+    - You have how many books?
+
+- type: chinese
+  chinese: 现在几点了？
+  english:
+    - What time is it?
+    - What's the time?
+
+# 家
+# jiā
+# home, family, classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for specialists in some activity such as musician or revolutionary, corresponds to English -ist, -er, -ary or -ian, CL:個|个[gè],
+
+- type: chinese
+  chinese: 我家有三口人
+  english:
+    - There are three people in my family.
+
+- type: chinese
+  chinese: 我家在北京
+  english:
+    - My home is in Beijing
+
+- type: chinese
+  chinese: 我长大了要当科学家
+  english:
+    - When I grow up, I want to be a scientist.
+
+# 叫
+# jiào
+# to shout, to call, to order, to ask, to be called, by (indicates agent in the passive mood),
+
+- type: chinese
+  chinese: 去叫爸爸吃饭
+  english:
+    - Go ask father to come to dinner.
+
+- type: chinese
+  chinese: 妈妈不叫我去
+  english:
+    - Mother won't let me go.
+
+- type: chinese
+  chinese: 他叫雨淋了
+  english:
+    - He was caught in the rain.
+
+- type: chinese
+  chinese: 他喝完了那杯啤酒又叫了一杯
+  english:
+    - He finished the beer and ordered another.
+
+# 今天
+# jīn tiān
+# today, at the present, now,
+
+- type: chinese
+  chinese: 今天天气很好
+  english:
+    - It's a nice day today
+    - The weather is nice today.
+    - The weather is nine.
+
+- type: chinese
+  chinese: 一个月前的今天
+  english:
+    - The same day a month ago
+
+- type: chinese
+  chinese: 全靠你|我才有今天
+  english:
+    - It all thanks to you that I'm standing where I am today.
+    - I owe you everything in life.
+
+# 九
+# jiǔ
+# nine, 9,
+
+# 九 | 死 | 一 | 生
+# nine/many | death/die | one | live/alive
+# a narrow escape from death
+# defied all the odds and survived
+# escaped by a hair's breadth
+
+# 九 | 牛 | 一 | 毛
+# nine/many | ox/cow/bull | one | hair/wool/feather
+# a drop in the bucket
+# very small, very little
+
+# 九 | 牛 | 二 | 虎 | 之 | 力
+# nine | cow/bull/ox | two | tiger | of | power/energy
+# tremendous effort
+
+# 开
+# kāi
+# to open, to start, to turn on, to boil, to write out (a medical prescription), to operate (vehicle), abbr. for 開爾文|开尔文 degrees Kelvin,
+
+- type: chinese
+  chinese: 花开了
+  english:
+    - The flowers bloom.
+
+- type: chinese
+  chinese: 今天我玩得很开心
+  english:
+    - Today I had a great time.
+    - I had so much fun.
+    - I enjoyed myself very much.
+
+- type: chinese
+  chinese: 他想开一家餐馆
+  english:
+    - He wants to open a restaurant.
+
+- type: chinese
+  chinese: 你开个价
+  english:
+    - Make an offer.
+    - You make an offer.
+
+# 跟 | 你 | 开个玩笑 | 你 | 都 | 受不了?
+# follow/with | you | make a joke/joking | you | all/entirely | cann't stand
+# Can't you take a joke?
+
+# 看
+# kàn
+# to see, to look at, to read, to watch, to consider, to regard as, to view as, to treat as, to judge, (after repeated verb) to give it a try, depending on (how you're judging), to visit, to call on, to treat (an illness), to look after, Watch out! (for a danger),
+
+- type: chinese
+  chinese: 她看了他一眼
+  english:
+    - He glanced at her.
+    - He gave her a glance.
+
+- type: chinese
+  chinese: 你看上去很热
+  english:
+    - You look hot.
+
+- type: chinese
+  chinese: 我很看重你的看法
+  english:
+    - I value your opinion very much.
+    - Your point of view is very dear to me.
+    - I have high regard for your opinion.
+
+- type: chinese
+  chinese: 医生把我的病看好了
+  english:
+    - The doctor cured my illness.
+
+- type: chinese
+  chinese: 先等一等看
+  english:
+    - Let's wait and see.
+
+# 看见
+# kàn jiàn
+# to see, to catch sight of,
+
+- type: chinese
+  chinese: 我看见他跳上出租车
+  english:
+    - I saw him hop in a taxi.
+
+- type: chinese
+  chinese: 你没看见我在工作吗?
+  english:
+    - Can't you see I'm working?
+
+# 块
+# kuài
+# lump (of earth), chunk, piece, classifier for pieces of cloth, cake, soap etc, colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc), usually as 塊錢|块钱,
+
+- type: chinese
+  chinese: 一块豆腐
+  english:
+    - A chunk of tofu
+
+- type: chinese
+  chinese: 一块糖
+  english:
+    - a lump of sugar
+    - a piece of candy
+
+- type: chinese
+  chinese: 两块钱
+  english:
+    - two yuan
+
+# 来
+# lái
+# to come, to arrive, to come round, ever since, next,
+
+# 来 | 年，| 我 | 还 | 会 | 来 | 这里。
+# next | year | I/me | also/still/yet | can/will/be likely to | to come | here
+# The coming year, I will also come here.
+
+- type: chinese
+  chinese: 大家来讨论
+  english:
+    - Everyone, let's discuss.
+
+# 把 | 车 | 开 | 过来
+# handle/grasp | car/vehicle | to drive | coming/coming over
+# pull over
+# to drive the car here
+
+- type: chinese
+  chinese: 看来要下雨了
+  english:
+    - It's going to rain.
+    - it looks like rain.
+
+# 老师
+# lǎo shī
+# teacher, CL:個|个,位[wèi],
+
+- type: chinese
+  chinese: 大学里有三百来个老师
+  english:
+    - There are about three hundred teacher in the university.
+
+- type: chinese
+  chinese: 兴趣是最好的老师
+  english:
+    - Interest is the best teacher.
+
+# 了
+# le
+# (modal particle intensifying preceding clause), (completed action marker),
+
+# 看 | 了 | 场 | 电影
+# to see | completed action marker | field | movie/film
+# watched a movie
+
+- type: chinese
+  chinese: 今天下雨了
+  english:
+    - It rained today.
+
+- type: chinese
+  chinese: 我明白了
+  english:
+    - I see.
+    - I understand.
+
+- type: chinese
+  chinese: 你早些来就好了
+  english:
+    - If you had only arrived earlier!
+
+# 冷
+# lěng
+# cold,
+
+- type: chinese
+  chinese: 这个菜需要冷藏
+  english:
+    - This dish need to be refrigerated.
+
+- type: chinese
+  chinese: 今天很冷
+  english:
+    - Today is very cold.
+
+- type: chinese
+  chinese: 他很冷淡
+  english:
+    - He is very cold.
+
+- type: chinese
+  chinese: 这部电影是个冷门
+  english:
+    - This film turns out to be unpopular.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################
+## Boya Chinese Elementary Starter 1
+#####################################################################
+
+# - type: chinese
+#   chinese: 早上好
+#   english:
+#     - Good morning.
+
+# - type: chinese
+#   chinese: 晚上好
+#   english:
+#     - Good evening.
+
+
+# - type: chinese
+#   chinese: 晚安
+#   english:
+#     - Good night.
+#     - Good evening.
+
+- type: chinese
+  chinese: |
+    {大卫}： 你好！
+    {利军}： 你好！
+    {大卫}： 你是老师吗？
+    {利军}： 不是，我不是老师。我是学生，她是老师回
+    {大卫}： 谢谢。
+    {利军}： 不在气。
+
+    {大卫}： 老师,也好！
+    {王}老师： 你好！ 你是留学生马？
+    {大卫}： 是,我是留学生。
+    {王}老师： 你叫什么名字?
+    {大卫}： 我叫{大卫}。
+  english:
+  comment: Copied from text book. Not error checked.
+
+- type: chinese
+  chinese: |
+    {刘明}： 同学们好？
+    {学生}： 老师好！
+    {刘明}： 我来介绍一下儿： 我姓刘,叫{刘明},是靠方大学的老师你叫什么名字？
+    {大卫}： 我叫大卫, 是革方大学的街 学生回
+    {刘明}： 你是哪国人？
+    {大卫}： 衣足美国人。
+    {大卫}： 我来介绍一下儿： 他叫{玛丽}，他叫{利军}。
+    {玛丽}： 认识你很高兴。
+    {利军}： 我也很高兴。你是美国人吗？
+    {玛丽}： 不，我不是卖国人，我是加拿大人。你呢？
+    {利军}： 我是中国人。
+  english:
+  comment: Copied from text book. Not error checked.
+
+- type: chinese
+  chinese: |
+    {大卫}： 玛丽，那|是谁的书？是你的书吗？
+    {玛丽}： 不是，是我同屋的书。
+    {大卫}： 是汉语课本吗？
+    {玛丽}： 不是，是汉日词典。
+    {大卫}： 设么词典？
+    {玛丽}： 汉日词典，就是汉语，日语词典。
+
+    {玛丽}： 这是什么磁带？
+    {中村}： 音乐磁带。
+    {玛丽}： 使日本音乐吗？
+    {中村}： 不是，使中国音乐。
+    {玛丽}： 这是你的磁带吗？
+    {中村}： 不是，是我的朋友的磁带。
+  english:
+  comment: Copied from text book. Not error checked.
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+# - type: chinese
+#   chinese:
+#   english:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################
+## Chinese for Dummies
+#####################################################################
+# Note: The phonetics are difficult to decode in this book.
+
+# - type: chinese
+#   chinese: |
+#     Susan: 这儿风景真漂亮
+#     Michael: 你看！那做山有那么多书，那么多话。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################
+## Making Out In Chinese
+#####################################################################
+
+- type: chinese
+  chinese: 听我说！
+  english:
+    - Listen to me!
+
+- type: chinese
+  chinese: 你看到李了吗？
+  english:
+    - Have you seen Lee?
+
+- type: chinese
+  chinese: 我想去看你！
+  english:
+    - I want to go and see you!
+
+- type: chinese
+  chinese: 我想|见你！
+  english:
+    - I want to meet you!
+
+- type: chinese
+  chinese: 我给你看
+  english:
+    - I'll show it to you.
+
+- type: chinese
+  chinese: 厕所在那儿？
+  english:
+    - Where is the toilet?
+
+- type: chinese
+  chinese: 洗手间在哪儿？
+  english:
+    - Where is the washroom?
+
+- type: chinese
+  chinese: 这是什么？
+  english:
+    - What is this?
+
+- type: chinese
+  chinese: 这个叫什么？
+  english:
+    - What is this called?
+
+- type: chinese
+  chinese: 那个叫什么？
+  english:
+    - What is that called?
+
+- type: chinese
+  chinese: 我有一个问题
+  english:
+    - I have a question.
+
+- type: chinese
+  chinese: 我不懂
+  english:
+    - I don't understand.
+
+- type: chinese
+  chinese: 请说明
+  english:
+    - Please clarify.
+
+- type: chinese
+  chinese: 请解释
+  english:
+    - Please explain.
+
+- type: chinese
+  chinese: 很明显
+  english:
+    - It's obvious.
+
+- type: chinese
+  chinese: 我不|知道
+  english:
+    - I don't know.
+
+- type: chinese
+  chinese: 我忘记了
+  english:
+    - I forgot.
+
+- type: chinese
+  chinese: 我记得
+  english:
+    - I remember.
+
+- type: chinese
+  chinese: 告诉我
+  english:
+    - Tell me.
+
+- type: chinese
+  chinese: 你说什么？
+  english:
+    - What did you say?
+
+- type: chinese
+  chinese: 我又麻烦了！
+  english:
+    - I'm in trouble!
+
+- type: chinese
+  chinese: 你怎么了？
+  english:
+    - What's wrong with you?
+
+- type: chinese
+  chinese: 有什么问题？
+  english:
+    - What's wrong?
+
+- type: chinese
+  chinese: 没问题吧
+  english:
+    - Nothing's wrong.
+
+- type: chinese
+  chinese: 你需要帮助吗？
+  english:
+    - Do you need help?
+
+- type: chinese
+  chinese: 我需要帮助
+  english:
+    - I need help.
+
+- type: chinese
+  chinese: 我不需要帮助
+  english:
+    - I don't need help.
+
+- type: chinese
+  chinese: 我帮你做
+  english:
+    - I'll help you do it.
+
+- type: chinese
+  chinese: 帮我一下
+  english:
+    - Help me.
+
+# - type: chinese
+#   chinese: 救命！
+#   english:
+#     - Help!
+#   comment: Single word entry. Delete and use in a sentence?
+
+- type: chinese
+  chinese: 我病了
+  english:
+    - I'm sick.
+
+- type: chinese
+  chinese: 医院在那儿？
+  english:
+    - Where's the hospital?
+
+- type: chinese
+  chinese: 我不|想买
+  english:
+    - I don't want to buy it.
+
+- type: chinese
+  chinese: 太贵了！
+  english:
+    - It's too expensive!
+
+- type: chinese
+  chinese: 算便宜点
+  english:
+    - Give me a better price.
+
+- type: chinese
+  chinese: 请给我换零钱
+  english:
+    - Please give me change.
+
+- type: chinese
+  chinese: 您贵姓？
+  english:
+    - What's your family name? (very polite)
+
+- type: chinese
+  chinese: 你叫什么名字？
+  english:
+    - What's your name?
+
+- type: chinese
+  chinese: 你最近怎么样？
+  english:
+    - How have you been lately?
+
+- type: chinese
+  chinese: 我很好
+  english:
+    - I'm fine.
+
+- type: chinese
+  chinese: 我很快乐
+  english:
+    - I'm happy.
+
+- type: chinese
+  chinese: 我觉得难过
+  english:
+    - I feel sad.
+
+- type: chinese
+  chinese: 我觉得累
+  english:
+    - I feel tired.
+
+- type: chinese
+  chinese: 我头疼
+  english:
+    - I've got a headache.
+
+- type: chinese
+  chinese: 我觉得不舒服
+  english:
+    - I feel sick.
+
+- type: chinese
+  chinese: 我想|睡觉
+  english:
+    - I want to sleep.
+    - I want to take a nap.
+    - I'm sleepy.
+
+- type: chinese
+  chinese: 最近忙什么？
+  english:
+    - What you have been up to lately?
+
+- type: chinese
+  chinese: 我的中文不好
+  english:
+    - My Chinese is poor.
+
+- type: chinese
+  chinese: 我的英文不好
+  english:
+    - My English is poor.
+
+- type: chinese
+  chinese: 请讲英文
+  english:
+    - Please speak in English.
+
+- type: chinese
+  chinese: 请讲中文
+  english:
+    - Please speak in Chinese.
+
+- type: chinese
+  chinese: 请说慢一点
+  english:
+    - Please speak slower.
+
+- type: chinese
+  chinese: 请再说一遍
+  english:
+    - Please say it again.
+
+- type: chinese
+  chinese: 您的意思是什么？
+  english:
+    - What do you mean?
+
+- type: chinese
+  chinese: 你要|说什么？
+  english:
+    - What do you want to say?
+
+- type: chinese
+  chinese: 你要做吗？
+  english:
+    - Do you want to sit down?
+
+- type: chinese
+  chinese: 我可以做吗？
+  english:
+    - May I sit down?
+
+- type: chinese
+  chinese: 这个位子有人做
+  english:
+    - Someone is sitting here.
+
+- type: chinese
+  chinese: 你从哪来的？
+  english:
+    - Where are you from?
+
+- type: chinese
+  chinese: 你做什么工作？
+  english:
+    - What do you do for a living?
+
+- type: chinese
+  chinese: 你几岁？
+  english:
+    - How old are you? (for children)
+
+- type: chinese
+  chinese: 你多大？
+  english:
+    - How old are you? (for adults)
+
+- type: chinese
+  chinese: 你在这多久了？
+  english:
+    - How long have you been here?
+
+- type: chinese
+  chinese: 你对什么兴趣？
+  english:
+    - What are you interested in?
+
+- type: chinese
+  chinese: 你有什么爱好？
+  english:
+    - What's your hobby?
+
+- type: chinese
+  chinese: 我对这个有兴趣
+  english:
+    - I'm interested in it.
+
+- type: chinese
+  chinese: 我没兴趣
+  english:
+    - I'm not interested in it.
+
+- type: chinese
+  chinese: 不算什么
+  english:
+    - It means nothing to me.
+
+- type: chinese
+  chinese: 你相信吗？
+  english:
+    - Do you believe it?
+
+- type: chinese
+  chinese: 可能是真的
+  english:
+    - It might be true.
+
+- type: chinese
+  chinese: 我相信！
+  english:
+    - I believe it!
+
+- type: chinese
+  chinese: 我不相信！
+  english:
+    - I don't believe it!
+
+- type: chinese
+  chinese: 那|是谎话！
+  english:
+    - That's a lie!
+
+- type: chinese
+  chinese: 你说谎！
+  english:
+    - You lied!
+
+- type: chinese
+  chinese: 说真的！
+  english:
+    - Tell the truth!
+
+- type: chinese
+  chinese: 你怎么知道？
+  english:
+    - How do you know?
+
+- type: chinese
+  chinese: 谁说的？
+  english:
+    - Who said it?
+
+- type: chinese
+  chinese: 我认识那个人
+  english:
+    - I know that person.
+
+- type: chinese
+  chinese: 我认识他
+  english:
+    - I know him.
+
+- type: chinese
+  chinese: 我认识她
+  english:
+    - I know her.
+
+- type: chinese
+  chinese: 我同意
+  english:
+    - I agree with you.
+
+- type: chinese
+  chinese: 我不|同意
+  english:
+    - I don't agree with you.
+
+- type: chinese
+  chinese: 我没想到
+  english:
+    - I didn't think of that.
+
+- type: chinese
+  chinese: 我没考虑过
+  english:
+    - I didn't consider that.
+
+- type: chinese
+  chinese: 我就知道
+  english:
+    - I figured that.
+
+- type: chinese
+  chinese: 我们的想法相同
+  english:
+    - Our thoughts are the same.
+
+- type: chinese
+  chinese: 你在乎吗？
+  english:
+    - Do you care?
+
+- type: chinese
+  chinese: 我不在乎
+  english:
+    - I don't care.
+
+- type: chinese
+  chinese: 谁在乎？
+  english:
+    - Who cares?
+
+- type: chinese
+  chinese: 你没办法！
+  english:
+    - There's no way you can do it.
+
+# - type: chinese
+#   chinese: 没办法
+#   english:
+#     - It can't be helped.
+#   comment: Single word entry. Delete and use in a sentence?
+
+- type: chinese
+  chinese: 你为什么这么做？
+  english:
+    - Why did you do that?
+
+- type: chinese
+  chinese: 开始吧
+  english:
+    - Let's start it.
+
+- type: chinese
+  chinese: 做好了吗？
+  english:
+    - Finished?
+
+- type: chinese
+  chinese: 做好了
+  english:
+    - Finished.
+
+- type: chinese
+  chinese: 有空吗？
+  english:
+    - Do you have free time?
+
+- type: chinese
+  chinese: 我们去看电影！
+  english:
+    - Let's go see a movie!
+
+- type: chinese
+  chinese: 请给我两张票
+  english:
+    - Two tickets, please.
+
+- type: chinese
+  chinese: 你喜欢看什么电影？
+  english:
+    - What kind of movie would you like to see?
+
+- type: chinese
+  chinese: 让我想一下
+  english:
+    - Let me think it over.
+
+- type: chinese
+  chinese: 你决定了吗？
+  english:
+    - Have you decided yet?
+
+- type: chinese
+  chinese: 随便你
+  english:
+    - It's up to you.
+
+- type: chinese
+  chinese: 你决定
+  english:
+    - You decide.
+
+- type: chinese
+  chinese: 你想去吗？
+  english:
+    - Do you want to go?
+
+- type: chinese
+  chinese: 我不能去
+  english:
+    - I can't go.
+
+- type: chinese
+  chinese: 你好了没有？
+  english:
+    - Are you ready?
+
+- type: chinese
+  chinese: 我|等你
+  english:
+    - I'll wait for you.
+
+- type: chinese
+  chinese: 请不要让我白等！
+  english:
+    - Please don't stand me up!
+
+- type: chinese
+  chinese: 我们走吧！
+  english:
+    - Let's go!
+
+- type: chinese
+  chinese: 你可以来这里吗？
+  english:
+    - Can you come here?
+
+- type: chinese
+  chinese: 你住哪儿？
+  english:
+    - Where do you live?
+
+- type: chinese
+  chinese: 你的地址是什么？
+  english:
+    - What's your address?
+
+- type: chinese
+  chinese: 请写下来
+  english:
+    - Please write it down.
+
+- type: chinese
+  chinese: 我送你回家
+  english:
+    - I'll see you home.
+
+- type: chinese
+  chinese: 我会写信给你
+  english:
+    - I'll write you a letter.
+
+- type: chinese
+  chinese: 有空见
+  english:
+    - If you have free time, let's get together.
+
+- type: chinese
+  chinese: 我先走
+  english:
+    - I'll leave first.
+
+# - type: chinese
+#   chinese: 回头见
+#   english:
+#     - See you in a while.
+
+- type: chinese
+  chinese: 改天见
+  english:
+    - See you later.
+
+# - type: chinese
+#   chinese: 明天见
+#   english:
+#     - See you tomorrow.
+#   comment: Single idiom, use in a phrase.
+
+- type: chinese
+  chinese: 晚上见
+  english:
+    - See you tonight.
+
+- type: chinese
+  chinese: 笑什么？
+  english:
+    - What are you laughting at?
+
+# - type: chinese
+#   chinese: 有意思！
+#   english:
+#     - That's really intersting!
+#   comment: Single idiom, use in a phrase.
+
+- type: chinese
+  chinese: 你饿了吗？
+  english:
+    - Are you hungry?
+
+- type: chinese
+  chinese: 我饿死了！
+  english:
+    - I'm starving!
+
+- type: chinese
+  chinese: 我肚子饿了
+  english:
+    - I'm hungry.
+
+- type: chinese
+  chinese: 我不饿
+  english:
+    - I'm not hungry.
+
+- type: chinese
+  chinese: 我不太饿
+  english:
+    - I'm not very hungry.
+    - I'm not all that hungry.
+
+- type: chinese
+  chinese: 我想吃
+  english:
+    - I want to eat.
+
+- type: chinese
+  chinese: 我不|想吃
+  english:
+    - I don't want to eat.
+
+- type: chinese
+  chinese: 你渴吗？
+  english:
+    - Are you thirsty?
+
+- type: chinese
+  chinese: 我渴了
+  english:
+    - I'm thirsty.
+
+- type: chinese
+  chinese: 我不渴
+  english:
+    - I'm not thirsty.
+
+- type: chinese
+  chinese: 我不太渴
+  english:
+    - I'm not very thirsty.
+
+- type: chinese
+  chinese: 我不|想喝
+  english:
+    - I don't want to drink.
+
+- type: chinese
+  chinese: 我想喝
+  english:
+    - I want to drink.
+
+- type: chinese
+  chinese: 你点菜了吗？
+  english:
+    - Have you ordered?
+
+- type: chinese
+  chinese: 请给我菜单
+  english:
+    - I'd like the menu, please.
+    - Menu please.
+
+- type: chinese
+  chinese: 我来点菜
+  english:
+    - I'll order for us.
+
+# - type: chinese
+#   chinese: 你想喝影了吗？
+#   english:
+#     - Would you like a drink?
+#   comment: Typo here? 影?
+
+- type: chinese
+  chinese: 你醉了吗？
+  english:
+    - Are you drunk?
+
+- type: chinese
+  chinese: 我醉了
+  english:
+    - I'm drunk.
+
+- type: chinese
+  chinese: 多喝一点
+  english:
+    - Drink more!
+
+- type: chinese
+  chinese: 我喝的太多了
+  english:
+    - I drank too much.
+
+- type: chinese
+  chinese: 少喝点儿！
+  english:
+    - Don't drink so much!
+
+- type: chinese
+  chinese: 闻起来很香
+  english:
+    - It smells delicious.
+
+- type: chinese
+  chinese: 看起来很好吃
+  english:
+    - It looks delicious.
+
+- type: chinese
+  chinese: 开吃了
+  english:
+    - Let's start eating!
+    - Let's eat!
+
+- type: chinese
+  chinese: 这个很好吃
+  english:
+    - This is delicious.
+
+- type: chinese
+  chinese: 吃吃看
+  english:
+    - Try eating some.
+
+- type: chinese
+  chinese: 我不太喜欢
+  english:
+    - I don't like it very much.
+    - I don't like it that much.
+
+- type: chinese
+  chinese: 你想喝点什么？
+  english:
+    - What would you like to drink?
+
+- type: chinese
+  chinese: 请给我多一点
+  english:
+    - Please give me a little more.
+
+- type: chinese
+  chinese: 你吃饱了吗？
+  english:
+    - Are you full?
+
+- type: chinese
+  chinese: 我包了
+  english:
+    - I'm full.
+
+- type: chinese
+  chinese: 我还没饱
+  english:
+    - I'm not full.
+
+- type: chinese
+  chinese: 我吃得太多了
+  english:
+    - I ate too much.
+
+- type: chinese
+  chinese: 请你原谅我
+  english:
+    - Please forgive me.
+
+- type: chinese
+  chinese: 我原谅你
+  english:
+    - I forgive you.
+
+- type: chinese
+  chinese: 我不能原谅你
+  english:
+    - I can't forgive you.
+
+- type: chinese
+  chinese: 我永远不会原谅你
+  english:
+    - I'll never forgive you.
+
+- type: chinese
+  chinese: 我想道歉
+  english:
+    - I want to apologize.
+
+- type: chinese
+  chinese: 你最好道歉
+  english:
+    - You'd better apologize.
+
+# - type: chinese
+#   chinese: 下不为例！
+#   english:
+#     - Don't do it again!
+#   comment: Single idiom, use in a phrase?
+
+- type: chinese
+  chinese: 你有|电话吗？
+  english:
+    - Do you have a phone?
+
+- type: chinese
+  chinese: 你的电话是多少？
+  english:
+    - What's your phone number?
+
+- type: chinese
+  chinese: 我可以给你打电话吗？
+  english:
+    - May I call you?
+    - Can I call you?
+
+- type: chinese
+  chinese: 请问，你是哪位？
+  english:
+    - Who's calling, please?
+
+- type: chinese
+  chinese: 请等一下
+  english:
+    - Please wait for a moment.
+    - Please hold on for a moment.
+
+- type: chinese
+  chinese: 我打电话给你
+  english:
+    - I'll call you.
+
+- type: chinese
+  chinese: 请打电话给我
+  english:
+    - Please call me.
+
+- type: chinese
+  chinese: 我给你回|电话
+  english:
+    - I'll call you back
+
+- type: chinese
+  chinese: 你很可爱
+  english:
+    - You're very cute.
+
+- type: chinese
+  chinese: 你很漂亮
+  english:
+    - You're very pretty.
+
+- type: chinese
+  chinese: 你很美
+  english:
+    - You're very beautiful.
+
+- type: chinese
+  chinese: 你很性感！
+  english:
+    - You're so sexy!
+
+- type: chinese
+  chinese: 你的身材很美！
+  english:
+    - You have a beautiful body!
+
+- type: chinese
+  chinese: 你变发型了
+  english:
+    - You changed your hairstyle.
+
+- type: chinese
+  chinese: 我想更了解你
+  english:
+    - I want to know more about you.
+
+- type: chinese
+  chinese: 我喜欢你
+  english:
+    - I like you.
+
+- type: chinese
+  chinese: 我为你疯狂！
+  english:
+    - I'm crazy about you!
+
+- type: chinese
+  chinese: 我想请你出来
+  english:
+    - I'd like to take you out (on a date).
+
+- type: chinese
+  chinese: 你想跳舞吗？
+  english:
+    - Would you like to dance?
+
+- type: chinese
+  chinese: 陪我好吗？
+  english:
+    - Would you accompany me?
+
+- type: chinese
+  chinese: 我送你回家
+  english:
+    - I'll see you home.
+
+- type: chinese
+  chinese: 我想你
+  english:
+    - I miss you.
+
+- type: chinese
+  chinese: 我要你
+  english:
+    - I want you.
+
+- type: chinese
+  chinese: 闭上眼睛
+  english:
+    - Close your eyes.
+
+- type: chinese
+  chinese: 睁开眼睛
+  english:
+    - Open your eyes.
+
+- type: chinese
+  chinese: 我很高兴
+  english:
+    - I'm so happy.
+
+- type: chinese
+  chinese: 留下来
+  english:
+    - Stay here.
+
+- type: chinese
+  chinese: 靠近我
+  english:
+    - Come close to me.
+
+- type: chinese
+  chinese: 你在做什么？
+  english:
+    - What are you doing?
+    - What are you up to?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####################################################################
+## ChinesePod
+#####################################################################
+# moved to file cn_stencils.chinesepod.basic.yaml
+
+# - type: chinese
+#   chinese: |
+#     Anna: 你好吗？
+#     Benny: 很好，谢谢。
+#     Anna: 你是中国人吗？
+#     Benny: 不是，我是美国人。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Anna: 他是美国人吗？
+#     Benny: 不是，他是英国人。
+#     Anna: 他很忙吗？
+#     Benny: 对，他很忙。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Li: 王先生，你好吗？
+#     Mr. Wang: 我很好，李小姐。你呢？
+#     Li: 我也很好，你去哪里？
+#     Mr. Wang: 我去学校。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Anna: 你今天好吗？
+#     Benny: 很好，谢谢。你呢？
+#     Anna: 马马虎虎。我今天很累。
+#     Benny: 真的吗？为什么？
+#     Anna: 因为我很忙。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Anna: 朱小姐，你好。
+#     Miss Zhu: 你好。
+#     Anna: 你昨天去哪里？
+#     Miss Zhu: 我昨天去学校。
+#     Anna: 你昨天开心吗？
+#     Miss Zhu: 不，我昨天很难过。
+#     Anna:真的吗？为什么？
+#     Miss Zhu: 对不起我不能说。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 你会说普通话吗？
+#     Ken: 我会说一点，你会说英语吗？
+#     Jenny: 英语？我不会说。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 普通话你听得懂吗？
+#     Ken: 我听得懂一点。
+#     Jenny: 你会说吗？
+#     Ken: 我不会说。
+#     Jenny: 你会唱歌吗？
+#     Ken: 我会唱歌，但是我不会跳舞。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 李先生不是美国人。
+#     Ken: 他是英国人。
+#     Jenny: 他不会讲普通话。
+#     Ken: 但是他听得懂。
+#     Jenny: 他今天在办公室。
+#     Ken: 他很忙。
+#     Ken: 他昨天在家。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 你好，你想买什么？
+#     Ken: 我想买笔，有没有？
+#     Jenny: 对不起，我没有笔。
+#     Ken: 没关系。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 先生，你想吃什么？
+#     Ken: 我想吃面。
+#     Jenny: 好的，等一下。
+#     Ken: 谢谢。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 你在吃什么？
+#     Ken: 我在吃水果。
+#     Jenny: 好吃吗？
+#     Ken: 好吃。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 李小姐是英国人。
+#     Ken: 他会说普通话。
+#     Jenny: 他喜欢吃面。
+#     Ken: 他不喜欢吃肉。
+#     Jenny: 陈小姐不喜欢吃面。
+#     Ken: 他很喜欢吃鸡肉。
+#     Jenny: 陈小姐喜欢喝果汁。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Anna: 喂？ 陈太太在不在？
+#     Mr. Wang: 他不在。
+#     Anna: 你是谁？
+#     Mr. Wang: 我是王先生。
+#     Anna: 他去哪里了？
+#     Mr. Wang: 他去北京了
+#     Anna: 好，谢谢。再见！
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Anna: 今天是国庆节吗？
+#     Benny: 是的。
+#     Anna: 10月1日是国庆节。
+#     Benny: 7月4日是美国的国庆节
+#     Anna: 是的，我知道。
+#     Benny: 国庆节快乐。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 你好，陈小姐。我叫王，这是我的名片。
+#     Ken: 你好，王先生。很高兴认识你。
+#     Jenny: 陈小姐，你有名片吗？
+#     Ken: 是的，我有，这是我的名片。
+#     Jenny: 谢谢你。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 这是谁的手机？
+#     Ken: 黑色的是我的。蓝色的是他的。
+#     Jenny: 我能解码？
+#     Ken: 可以，没问题。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 你像没什么？
+#     Ken: 对不起，我不明白。
+#     Jenny: 你会说普通话吗？
+#     Ken: 我会说一点。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 我想买笔，你有吗？
+#     Ken: 是的，我们有。这支笔好不好？
+#     Jenny: 多少钱？
+#   english:
+
+# # - type: chinese
+# #   chinese: |
+# #     Ken: 你叫什么名字？
+# #     Jenny: 我叫陈李梅。你呢？
+# #     Ken: 我叫李东。你住在哪里？
+# #     Jenny: 我住在上海。在南京路。
+# #   english:
+# #   comment: Dialog refers to Jenny as 'Chen Li Mei'.
+
+# - type: chinese
+#   chinese: |
+#     Jenny: 请问您贵姓？
+#     Ken: 我姓张。
+#     Jenny: 张先生，您从哪里来？
+#     Ken: 我是北京人。
+#   english:
+
+# - type: chinese
+#   chinese: |
+#     Ken: 李先生在不在？
+#     Jenny: 他不在。他到北京去了。
+#     Ken: 真的？他什么时候回来？
+#     Jenny: 他明天回上海。
+#   english:
+#   comment: chinesepod023
+
+
+
+
+
+
+
+
+#####################################################################
+## Extra vocab to support Chinese Reading Practice.
+#####################################################################
+
+
+
+
+- type: chinese
+  chinese: 请按门铃
+  english:
+    - Please use the doorbell.
+
+- type: chinese
+  chinese: 门铃坏了。请尝试敲门。
+  english:
+    - The doorbell doesn't work. Please try knocking.
+
+- type: chinese
+  chinese: 明天你想跟我野餐吗？
+  english:
+    - Would you like to have a picnic with me tomorrow?
+
+- type: chinese
+  chinese: 我建议我们在我家庆祝你的生日。
+  english:
+    - I suggest we celebrate your birthday at my place.
+
+- type: chinese
+  chinese: 那是一匹斑马，不是一匹马。
+  english:
+    - That is a zebra, not a horse.
+
+- type: chinese
+  chinese: 我弄丢我的斑马，怎么办！
+  english:
+    - I've lost my zebra, oh noes!
+
+- type: chinese
+  chinese: 我全家喜欢土豆饭。
+  english:
+    - My entire family loves potato dishes.
+
+- type: chinese
+  chinese: 为了庆祝过年我要台湾看望我的女朋友。
+  english:
+    - To celebrate the new year, I will visit my girlfriend in Taiwan.
+
+- type: chinese
+  chinese: 请不吃猪！它很可爱。
+  english:
+    - Please don’t eat pigs! They are very cute.
+
+- type: chinese
+  chinese: 今天早上我跟我的朋友吃早饭。后来我们去看一场电影。
+  english:
+    - This morning I had breakfast with my friend. Later we went to see a movie.
+
+- type: chinese
+  chinese: 请告诉我为什么你买了一艘小船。
+  english:
+    - Please tell me why you bought a boat.
+
+- type: chinese
+  chinese: 你喜欢苹果吗？
+  english:
+    - Do you like apples?
+
+- type: chinese
+  chinese: 我在哪里可以买报纸？
+  english:
+    - Where can I buy a newspaper?
+
+- type: chinese
+  chinese: 你如果给小孩子糖，他们就全天乱跳。
+  english:
+    - If you give candy to children, they will bounce around all day.
+
+- type: chinese
+  chinese: 啊呀，许多的糖果在我的帽子里！
+  english:
+    - Oh my, there’s a lot of candy in my hat!
+
+- type: chinese
+  chinese: |
+    Riddle: 有面没有口，有脚没有手，虽有四只脚，自己不会走。
+    Answer: 桌子
+  english:
+    - |
+      Riddle: It has a face but no mouth, it has feet but no hands, though it has four feet, it can’t walk by itself.
+      Answer: A table.
+
+- type: chinese
+  chinese: 你坏人！你没有一点爱心吗？
+  english:
+    - You evil person! Do you not have any compassion?
+
+- type: chinese
+  chinese: 我是全家中最年轻的。
+  english:
+    - I am the youngest in the family.
+
+- type: chinese
+  chinese: 我成了汉语课里最好学生。
+  english:
+    - I became the best student in the Chinese class.
+
+- type: chinese
+  chinese: 我扭伤了脚踝而不得不弃权了比赛.
+  english:
+    -  I sprained my ankle and had to abstain from the race.
+
+- type: chinese
+  chinese: 我数数，你记时，好吗？
+  english:
+    - |
+      (In the context of doing some activity, like jumping jacks)
+      I count and you record the time, ok?
+
+- type: chinese
+  chinese: 我小时候喜欢跳绳。
+  english:
+    - When I was little I liked to jump rope.
+
+- type: chinese
+  chinese: 我喜欢你的打扮.
+  english:
+    - I like the way you dress.
+
+- type: chinese
+  chinese: 我期待着再见到你.
+  english:
+    - I look forward to seeing you again.
+
+- type: chinese
+  chinese: 我的花园里有两朵花。
+  english:
+    - There are two flowers in my garden.
+
+- type: chinese
+  chinese: 我与你一起去游泳.
+  english:
+    - We will go swimming together.
+
+- type: chinese
+  chinese: 她的音乐打动了我。
+  english:
+    - Her music moved me (emotionally).
+
+- type: chinese
+  chinese: 我要住在美丽的国家.
+  english:
+    - I want to live in a beautiful country.
+
+- type: chinese
+  chinese: 我肯定要和你见面.
+  english:
+    - I definitely want to meet you.
+
+- type: chinese
+  chinese: 我絕對要和你见面.
+  english:
+    - I definitely want to meet you.
+
+- type: chinese
+  chinese: 中国没有野生狮子.
+  english:
+    - There are no wild lions in China.
+
+- type: chinese
+  chinese: 何其有幸可以遇見你.
+  english:
+    - How lucky I am to meet you!
+
+- type: chinese
+  chinese: 我先做|作业再吃晚饭。
+  english:
+    - I first do my homework and then eat dinner.
+
+- type: chinese
+  chinese: 我想念同学但是我不想念作业。
+  english:
+    - I miss my classmates but I do not miss the homework.
+
+- type: chinese
+  chinese: 我听见窗外吵闹的孩子。
+  english:
+    - I hear noisy children outside my window.
+
+- type: chinese
+  chinese: 你喜欢我们互相陪伴吗?
+  english:
+    - Would you like for us to spend time together?
+
+- type: chinese
+  chinese: 这些花是白色的。
+  english:
+    - These flowers are white.
+
+- type: chinese
+  chinese: 这些花是黄色的。
+  english:
+    - These flowers are yellow.
+
+- type: chinese
+  chinese: 这些花是紫色的。
+  english:
+    - These flowers are purple.
+
+- type: chinese
+  chinese: 这些花是灰色的。
+  english:
+    - These flowers are gray.
+
+- type: chinese
+  chinese: 你的女朋友叫什么名字？
+  english:
+    - What is the name of your girlfriend?
+
+- type: chinese
+  chinese: 你有很多好朋友吗?
+  english:
+    - Do you have a lot of good friends?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -

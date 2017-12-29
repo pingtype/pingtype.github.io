@@ -1,0 +1,199 @@
+<template name="studyMandarinCard">
+
+  <div class="modal fade mandarin-help" id="helpModal" tabindex="-1"
+    role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+            <span class="sr-only">Close</span>
+          </button>
+          <h4 class="modal-title" id="helpModalLabel"
+          >Mandarin cloze deletion exercise help</h4>
+        </div>
+        <div class="modal-body">
+          <dl>
+            <dt>What is this?</dt>
+            <dd>
+              This is an exercise aimed at improving your Chinese
+              reading comprehension. You will be quizzed on individual
+              words but they're always shown in a complete sentence.
+              This way you will not only learn how to recognize Chinese
+              characters, you will also see how they're used in real
+              day-to-day situations.
+            </dd>
+            
+            <dt>How do I complete the exercise?</dt>
+            <dd>
+              A few of the words in the Chinese sentence will be missing. It
+              is your task to fill in the missing pieces. It will look a bit
+              like this:
+              <blockquote>
+                This
+                <input
+                        type="text"
+                        data-placement="top"
+                        data-content="字 zì, word"
+
+                        class="mandarin-input mandarin-help"
+                        style="width: 5em;"/>
+                is missing.
+              </blockquote>
+              In the above example, you have to type in
+              <code>word</code>, <code>字</code>, <code>zi</code>
+              (without tone mark) or <code>zì</code> (with tone mark).
+              The four answers are all considered correct.
+            </dd>
+
+            <dt>Why is the English translation hidden?</dt>
+            <dd>
+              <p>
+                Translations are a crotch that will slow your learning if you're
+                not careful. While translations are immensely useful when you're
+                stuck, it is best to train your brain to think directly in
+                Chinese.
+              </p>
+              <p>
+                So, in short, use the translations when you're confused or in
+                doubt. But try to understand the meaning of the Chinese in its
+                own right
+              </p>
+            </dd>
+
+            <dt>Why are sometimes more than one pinyin spelling?</dt>
+            <dd>
+              Some Chinese words can be pronounced in different ways to give
+              different meanings. Selecting the right meaning automatically
+              is beyond the capabilities of this website but you can do it
+              manually. Simply click on the Chinese characters and select
+              the most sensible defintion from the pop-up dictionary.
+            </dd>
+
+            <dt>Do I have to use the mouse to continue to the next exercise?</dt>
+            <dd>
+              No, you can simply press <kbd>enter</kbd> to proceed to the next
+              exercise. The exercises have been designed such that you hands
+              never have to leave the keyboard.
+            </dd>
+
+            <dt>I don't know some of these words. Is there a dictionary?</dt>
+            <dd>
+              Yes, there's a built-in dictionary that you can open by clicking
+              on a given Chinese word. However, words that you are currently
+              practising will not show up in the dictionary because that would
+              be cheating.
+            </dd>
+          </dl>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default"
+            data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{#with card}}
+  <div class="container" style="width: 800px; padding-top: 2em;">
+    {{#each sentences}}
+      <div class="mandarin-sentence row">
+
+        {{! Chinese text on the left side. Main focus is here }}
+        <div class="mandarin-task col-xs-8">
+          {{#each blocks}}
+            <div class="mandarin-block">
+              <div class="mandarin-pinyin">
+                {{#if showPinyin ../..}}
+                  <ul class="pinyin-list">
+                    {{#each selectedPinyin}}<li>{{this}}</li>{{/each}}
+                  </ul>
+                  &nbsp; {{! FIXME. selectedPinyin can be empty }}
+                {{else}}
+                  &nbsp;
+                {{/if}}
+              </div>
+              <div class="mandarin-chinese">
+                {{#if isGap}}
+                  {{#if isActive}}
+                    {{#autofocus}}
+                      <input
+                        type="text"
+                        data-placement="top"
+                        data-content="{{chinese}}"
+                        data-answer-content="{{chinese}} {{selectedPinyin}}"
+
+                        class="mandarin-input active-input autofocus"
+                        style="width: {{len}}em;"
+                        />
+                      <span style="display: none; white-space: pre;"></span>
+                      {{/autofocus}}
+                  {{else}}
+                    {{chinese}}
+                    <!-- <input
+                      disabled
+                      placeholder="{{chinese}}"
+                      class="mandarin-input" style="width: {{len}}em;"/> -->
+                  {{/if}}
+                {{else}}
+                  {{#if isEscaped}}
+                    {{text}}
+                  {{else}}
+                    <div class="dropdown">
+                    <span class="dropdown-toggle"
+                            id="dropdownMenu{{chinese}}"
+                            data-toggle="dropdown" href="#">
+                      {{chinese}}
+                    </span>
+                    <ul class="dropdown-menu mandarin-dict" role="menu"
+                        aria-labelledby="dropdownMenu{{chinese}}">
+                      {{#each key_value definitions}}
+                        <li>{{value.pinyin}}
+                          {{#each key_value value.english}}
+                            <li>
+                              <a class="mandarin-dict-select"
+                                 data-sentence-id="{{../../sentenceId}}"
+                                 data-block-id="{{../../blockId}}"
+                                 data-pinyin-idx="{{ ../key }}"
+                                 data-english-idx="{{ key }}"
+                                 href="#">
+                                {{value}}
+                              </a>
+                            </li>
+                          {{/each}}
+                        </li>
+                      {{/each}}
+                    </ul>
+                    </div>
+                  {{/if}}
+                {{/if}}
+              </div>
+              <div class="mandarin-literal">
+                {{#if literal}}
+                  {{literal}}
+                {{else}}
+                  &nbsp;
+                {{/if}}
+              </div>
+            </div>
+          {{/each}}
+        </div>
+
+        {{! English translation on the right hand side. }}
+        <div class="col-xs-4">
+          {{#if showEnglish .. }}
+            <span>
+              {{english}}
+            </span>
+          {{else}}
+            <span class="mandarin-translation">
+              English translation hidden. Click to reveal.
+            </span>
+          {{/if}}
+        </div>
+      </div>
+    {{/each}}
+    
+  </div>
+  {{/with}}
+</template>

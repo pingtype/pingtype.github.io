@@ -1,0 +1,1387 @@
+
+# 菜鸟1 Basic Greetings
+- type: chinese
+  chinese: |
+    A: 你好吗?
+    B: (我)很好,谢谢。
+    A: 你是中国人吗?
+    B: 不是,我是美国人。
+  english:
+    - |
+      How are you?
+      Very well, thank you.
+      Are you Chinese?
+      No, I’m American.
+
+
+# 菜鸟2 Where are you from?
+- type: chinese
+  chinese: |
+    A: 他是美国人吗?
+    B: 不是,他是英国人。
+    A: 他很忙吗?
+    B: 对,他很忙。
+  english:
+    - |
+      Is he American?
+      No, He’s English.
+      Is he very busy?
+      Yes, he’s very busy.
+
+
+# 菜鸟3 Where are you Going?
+- type: chinese
+  chinese: |
+    A: 王先生,你好吗?
+    B: 我很好,李小姐,你呢?
+    A: 我也很好,你去哪里?
+    B: 我去学校。
+  english:
+    - |
+      Mr. Wang, how are you?
+      I’m fine, Miss Li. And you?
+      I’m fine too. Where are you going?
+      I’m going to school.
+
+
+# 菜鸟4 How are you feeling?
+- type: chinese
+  chinese: |
+    A: 你今天好吗?
+    B: 很好,谢谢。你呢?
+    A: 马马虎虎。 我今天很累。
+    B: 真的吗?为什么?
+    A: 因为我很忙。
+  english:
+    - |
+      How are you today?
+      Very well. And you?
+      So-so. Today, I am very tired.
+      Really? Why?
+      Because I am very busy.
+
+
+# 菜鸟5 More emotions and their explanations
+- type: chinese
+  chinese: |
+    A: 朱小姐,你好。
+    B: 你好。
+    A: 你昨天去哪里?
+    B: 我昨天去学校。
+    A: 你昨天开心吗?
+    B: 不,我昨天很难过。
+    A: 真的吗?为什么?
+    B: 对不起我不能说。
+  english:
+    - |
+      How are you Miss Zhu?
+      Hi/Hello.
+      Where did you go yesterday?
+      I went to the school yesterday.
+      Were you happy yesterday?
+      No. I was very upset yesterday.
+      Really? Why?
+      I can’t say/I can’t tell you.
+
+
+# 菜鸟6 Can you speak Chinese?
+- type: chinese
+  chinese: |
+    Jenny: 你会说普通话吗?
+    Ken: 我会说一点,你会说英语吗?
+    Jenny: 英语?我不会说。
+  english:
+    - |
+      Can you speak Mandarin?
+      I can speak a little. Can you speak English?
+      I can’t speak English.
+
+
+# 菜鸟7 Ken can’t dance!
+- type: chinese
+  chinese: |
+    Jenny: 普通话你听得懂吗?
+    Ken: 我听得懂一点。
+    Jenny: 你会说吗?
+    Ken: 我不会说。
+    Jenny: 你会唱歌吗?
+    Ken: 我会唱歌,但是我不会跳舞。
+  english:
+    - |
+      Do you understand Chinese?
+      I understand a little bit.
+      Can you speak?
+      I can’t speak.
+      Can you sing?
+      I can sing, but I can’t dance.
+
+
+# 菜鸟8 Mr Li
+- type: chinese
+  chinese: |
+    Jenny: 李先生不是美国人。
+    Ken: 他是英国人。
+    Jenny: 他不会讲普通话。
+    Ken: 但是他听得懂。
+    Jenny: 他今天在办公室。
+    Ken: 他很忙。
+    Ken: 他昨天在家。
+    Jenny: 他昨天不忙。
+  english:
+    - |
+      Mr Li is not America.
+      He is English.
+      He can’t speak Mandarin.
+      But he understands it.
+      He is in the office today.
+      He is very busy.
+      He was at home yesterday.
+      He wasn’t busy yesterday.
+
+
+# 菜鸟9 Shopping
+- type: chinese
+  chinese: |
+    Jenny: 你好,你想买什么?
+    Ken: 我想买笔,有没有?
+    Jenny: 对不起,我没有笔。
+    Ken: 没关系。
+  english:
+    - |
+      Hello. What would you like to buy?
+      I’d like to buy a pen. Do you have any?
+      Sorry, I don’t have any pens.
+      That’ Ok.
+
+
+# 菜鸟11 Ordering Food
+- type: chinese
+  chinese: |
+    Jenny: 先生,你想吃什么?
+    Ken: 我想吃面。
+    Jenny: 好的,等一下。
+    Ken: 谢谢。
+  english:
+    - |
+      What would you like to eat, sir?
+      I’d like to eat noodles.
+      Okay, just a second/moment.
+      Thanks.
+
+
+# 菜鸟12 Describing Food
+- type: chinese
+  chinese: |
+    Jenny: 你在吃什么?
+    Ken: 我在吃|水果。
+    Jenny: 好吃吗?
+    Ken: 好吃。
+  english:
+    - |
+      What are you eating?
+      I’m eating fruit.
+      Is it good?
+      It’s good.
+
+
+# 菜鸟13 Story time #1
+- type: chinese
+  chinese: |
+    Jenny: 李小姐是英国人。
+    Ken: 她会说普通话。
+    Jenny: 她喜欢吃面。
+    Ken: 她不喜欢吃肉。
+    Jenny: 陈小姐不喜欢吃面。
+    Ken: 她很喜欢吃鸡肉。
+    Jenny: 陈小姐喜欢喝果汁。
+    Ken: 她不喜欢喝酒。
+    Jenny: 李小姐喜欢喝酒。
+  english:
+    - |
+      Miss Li is English.
+      She can speak Mandarin.
+      She likes to eat noodles.
+      She doesn't like to eat meat.
+      Miss Chin doesn't like to eat noodles.
+      She really likes to eat chicken.
+      Miss Chin likes to drink juice.
+      She doesn't like to drink alcohol.
+      Miss Li likes to drink alcohol.
+
+
+# 菜鸟14 Phone Calls
+- type: chinese
+  chinese: |
+    A: 喂?陈太太在不在?
+    B: 她不在。
+    A: 你是谁?
+    B: 我是王先生。
+    A: 她去哪里了?
+    B: 她去北京了。
+    A: 好,谢谢。再见!
+  english:
+    - |
+      Hello? Is Miss Chin there, please?
+      She’s not here.
+      Who are you?
+      I’m Mr. Wang.
+      Where did she go?
+      She went to Beijing.
+      Okay, thanks. Bye!
+
+
+# 菜鸟15 Holidays and Celebrations
+- type: chinese
+  chinese: |
+    A: 今天是国庆节吗?
+    B: 是的。
+    A: 十月一日是国庆节。
+    B: 七月四日是美国的国庆节。
+    A: 是的,我知道。
+    B: 国庆节快乐。
+  english:
+    - |
+      Is today National Day?
+      Yes,it is.
+      October 1st is National Day.
+      The 4th of July is America's National Day.
+      Yes,I know.
+      Happy National Day!
+
+
+# 菜鸟16 Numbers
+
+
+# 菜鸟17 Initial Client Meetings
+- type: chinese
+  chinese: |
+    Jenny:你好,陈小姐。我叫王,这是我的名片。
+    Ken: 你好,王先生,很高兴认识你。
+    Jenny:陈小姐,你有名片吗?
+    Ken: 是的,我有。这是我的名片。
+    Jenny:谢谢你。
+  english:
+    - |
+      Hello, Miss Chen. My name is Wang, and this is my name card.
+      Hello Mr.Wang, nice to meet you.
+      Miss Chen, do you have a name card?
+      Yes I have, this is my card.
+      Thank you.
+
+
+# 菜鸟18 Cell phones
+- type: chinese
+  chinese: |
+    Jenny:这是谁的手机?
+    Ken: 黑色的是我的。蓝色的是他的。
+    Jenny:我能借吗?
+    Ken: 可以,没问题。
+  english:
+    - |
+      Whose mobile phone is this?
+      The black one is mine.The blue one is his.
+      Could I borrow it?
+      Of course, no problem.
+
+
+# 菜鸟19 Colors
+#    我的/你的/他的/她的/我们的/他们的头发是黑色的。
+#    天空是蓝色的。
+#    草/青蛙是绿色的。
+#    你想要白米饭吗?
+#    他是白领/蓝领吗? Tā shì bái lǐng/lán lǐng ma?
+# Wǒ de/nǐ de/tā de/tā de/wǒ men de/tā men de tóu fa shì hēi sè de.
+# My/your/his/her/our/their hair is black.
+# Tiān kōng shì lán sè de.
+# The sky is blue.
+# Cǎo/qīng wā shì lǜ sè de.
+# The grass/frog is green.
+# Nǐ xiǎng yào bái mǐ fàn ma?
+# Do you want white rice?
+# Is he a white/blue collar worker?
+
+
+# Comment: Break into two segments?
+# 菜鸟20 Shopping and Review
+# Jenny: 你想买什么?
+# Ken:   对不起,我不明白。
+# Jenny: 你会说普通话吗?
+# Ken:   我会说一点。
+# Jenny:  我想买笔,你有吗?
+# Ken:   是的,我们有。这支笔好不好?
+# Jenny: 多少钱?
+# Ken:   十块。
+# Jenny:  这支钢笔太贵。
+#     What would you like to buy?
+#     I'm sorry, I don't understand.
+#     Do you speak Mandarin?
+#     I speak a little.
+#     I'd like to buy a pen. Do you have any?
+#     Yes, we have. What do you think about this pen?
+#     How much is it?
+#     Ten Yuan.
+#     This pen is too expensive.
+
+
+# 菜鸟21 Exchanging Personal Info
+# Ken:  你叫什么名字?
+# Jenny: 我叫陈理美。你呢?
+# Ken:   我叫李东。你住在哪里?
+# Jenny:  我住在上海。在南京路。
+#     What is your name?
+#     ** MISSING LINE **
+#     My name is Li Dong. Where do you live?
+#     I live in Shanghai. On Nanjing Road.
+
+
+# 菜鸟22 Polite Introductions
+# Jenny: 请问您贵姓?
+# Ken:   我姓张。
+#     My family name is Zhang.
+# Jenny:  张先生,您从哪里来?
+# Ken:   我是北京人。
+# Wǒ xìng zhāng.
+#     Zhāng xiān shēng, nín cóng nǎ lǐ lái?    Mr.Zhang, where are you from?
+# Wǒ shì Běi jīng rén.
+#     I am from Beijing.
+
+
+# 菜鸟23 Call me!
+# Ken:   李先生在不在?
+# Jenny:  他不在。他到北京去了。
+# Ken:   真的?他什么时候回来?
+#     Really? When is he coming back? Jenny:  他明天回上海。
+# Lǐ xiān shēng zài bú zài?
+#     Is Mr. Li there?
+#     Tā bú zài. Tā dào běi jīng qù lē.    He is not here. He went to Beijing.
+# Zhēn de? Tā shén me shí hòu huí lái?
+#     Tā míng tiān huí shàng hǎi.
+#    He will come back to Shanghai tomorrow.
+
+# 菜鸟24 Where ya headed?
+- type: chinese
+  chinese: |
+    Jenny: 早。你去哪儿?
+    Ken:   我去办公室。
+    Jenny: 办公室在什么地方?
+    Ken:   在南京路一百号。
+  english:
+    - |
+       Morning. Where are you going?
+       I am going to the office.
+       Where is your office?
+       On Nanjing Road, number 100.
+
+# 菜鸟25 Sightseeing
+- type: chinese
+  chinese: |
+    Ken:   请问天安门广场在哪里?
+    Jenny: 天安门广场离这里不远。
+    Ken:   怎么走?
+    Jenny: 一直走,再右转。
+  english:
+    - |
+       Excuse me, where is Tiananmen Square?
+       It is not far from here.
+       How can I get there?
+       Walk straight then turn right.
+
+
+# 菜鸟26 Who’s That Girl?
+- type: chinese
+  chinese: |
+    Jenny:  她是谁?
+    Ken:   她是我的朋友。
+    Jenny:  真的吗?她很漂亮。
+    Ken:   我也觉得。因为她是我的女朋友。
+  english:
+    - |
+      Who is she?
+      She is my friend.
+      Really? She is really beautiful.
+      I think so, too. Because she is my girlfriend.
+
+
+# 菜鸟27 All in the Family    王小姐是英国人。
+#  Wáng xiǎo jiě shì yīng guó rén. Miss Wang is from England.
+#    她住在南京。
+# Tā zhù zài nán jīng.
+#  She lives in Nanjing.    她很喜欢南京。
+#  Tā hěn xǐ huān nán jīng. She really likes Nanjing.
+#    她有一个妹妹。
+# Tā yǒu yí gè mèi mei.
+#  She has a younger sister.
+#     她没有哥哥。  Tā méi yǒu gē ge.
+# She doesn’t have an elder brother.
+#     她有一个男朋友。
+# Tā yǒu yī gè nán péng yǒu.
+#   She has a boyfriend.     他叫John。
+#   Tā jiào John.
+# His name is John.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode cod   John是美国人。
+#     他很好看。 Tā hěn hǎo kàn.
+#   He is very good-looking.    他也住在南京。
+#    他们都很忙。
+#  They both very busy.    John喜欢吃鸡肉。
+#    王小姐喜欢吃水果。
+#  Miss Wang likes to eat fruit.     John很忙。
+#    但是他没有手机。
+#    他想买一个手机。
+#     她问John,“你为什么没有手机?”。     Tā wèn John, " nǐ wèi shén me méi yǒu shǒu jī ? "
+#    John说,“因为我没有钱”。
+# e: chinesepod027_A27_20051025
+# http://www.chinesepod.com
+# 1
+# ￼
+#     John shì měi guó rén.  John is American.
+#  Tā yě zhù zài nán jīng. He also lives in Nanjing.
+# Tā men dōu hěn máng.
+# John xǐ huān chī jī ròu.
+# John likes to eat chicken.
+# Wáng xiǎo jiě xǐ huān chī shuǐ guǒ.
+#     John hěn máng.     John is very busy.
+#     Dàn shì tā méi yǒu shǒu jī.     But he doesn’t have mobile phone.
+#     Tā xiǎng mǎi yí gè shǒu jī.     He wants to buy a mobile.
+#     Miss Wang asks John, “why don’t you have a mobile phone?”
+# episode code: chinesepod027_A27_20051025 http://www.chinesepod.com
+# 2
+# ￼
+# John shuō, " yīn wèi wǒ méi yǒu qián. "
+# John says, “I don’t have any money.”
+
+
+# 菜鸟28 Meet Market
+- type: chinese
+  chinese: |
+    Jenny:  什么时候开会?
+    Ken:    我们五点钟开会。现在几点?
+    Jenny:  现在四点。
+  english:
+    - |
+      When is the meeting?
+      The meeting starts at 5 o’clock. What time is it now?
+      It is 4 o’clock now.
+
+
+# 菜鸟29 The 9-to-5
+- type: chinese
+  chinese: |
+    Jenny: 你的工作是什么?
+    Ken:   我是老师。
+    Jenny: 你在哪里工作?
+    Ken:   我在大学工作。
+    Jenny: 我可以问你几岁吗?
+    Ken:   当然,我今年二十四岁。
+  english:
+    - |
+      What is your job?
+      I am a teacher.
+      Where do you work?
+      I work at the university.
+      Can I ask how old you are?
+      Of course. I am 24 this year.
+
+
+# 菜鸟30 Face Off
+- type: chinese
+  chinese: |
+    Ken:   服务员,买单。
+    Jenny: 我来付,好吗?
+    Ken:   不行,你为什么付?给我面子,我来付钱。
+    Jenny: 不可以,上次你已经付过了。下次你付。
+    Ken:   哎哟。
+  english:
+    - |
+      Waiter, the bill.
+      Please let me get this.
+      No. Why should you pay? Please give me face and let me get this.
+      Certainly not. You paid last time. You can get the bill next time.
+      Oh.
+
+# 菜鸟31 Tones Part II
+
+
+# 菜鸟33 I Gotta Go, Babe
+- type: chinese
+  chinese: |
+    Ken:   小朱,我要走。
+    Jenny: 为什么?再多坐一会儿。
+    Ken:   谢谢。但是我赶时间。
+    Jenny: 那么,再见。明天见。
+    Ken:   再见。
+  english:
+    - |
+      Little Zhu, I am leaving.
+      Why? Sit for another while.
+      Thanks. But I am in a hurry.
+      In that case, bye. See you tomorrow.
+      Bye
+
+
+# 菜鸟34 Family Ties
+- type: chinese
+  chinese: |
+    Ken:   你家有多少人?
+    Jenny: 一共有三个人。我爸爸,妈妈和我。
+    Ken:   你没有兄弟姐妹吗?
+    Jenny: 我没有。
+  english:
+    - |
+      How many people are there in your family?
+      There are three altogether. My father, mother and I.
+      Don’t you have brothers and sisters?
+      I don’t.
+
+
+# 菜鸟35 Dialect Party Mix
+
+
+# 菜鸟36 Professional Life
+- type: chinese
+  chinese: |
+    Sue:   你的工作是什么?
+    Jenny: 我是律师。你呢?
+    Sue:   我是记者。我能不能问你一些问题?
+    Jenny: 嗯,对不起。 我现在不太方便。再见。
+  english:
+    - |
+      What is your job?
+      I am a lawyer. And you?
+      I am a journalist. Could I ask you some questions?
+      Um, sorry. Now is not very convenient for me. Bye.
+
+
+# 菜鸟37 The Big Guy
+- type: chinese
+  chinese: |
+    Sue:   你喜欢你的工作吗?
+    Jenny: 喜欢。但是我不太喜欢我的老板。
+    Sue:   真的吗?你为什么不喜欢他?
+    Jenny: 因为他很凶。
+  english:
+    - |
+      Do you like your job?
+      I like it. But I don’t really like my boss.
+      Really? Why don’t you like him?
+      Because he is very bad-tempered.
+
+
+# 菜鸟38 Married... With Xiao Hai
+- type: chinese
+  chinese: |
+    Sue:   你结婚了吗?
+    Jenny: 没有。我是单身。你呢?
+    Sue:   我结婚了。我有两个小孩。
+    Jenny: 男的还是女的?
+    Sue:   一个男的,一个女的。
+  english:
+    - |
+      Are you married?
+      No. I am single. And you?
+      I am married. I have two kids.
+      Male or female?
+      A boy and a girl.
+
+
+# 菜鸟39 Working Time
+- type: chinese
+  chinese: |
+    Jenny: 你每天几点上班?
+    Bob:   我早上七点半出门。
+    Jenny: 你几点到公司?
+    Bob:   我差不多九点到。
+  english:
+    - |
+      What time do you go to work everyday?
+      I leave the house at 7:30 A.M.
+      What time do you arrive at the company?
+      I arrive at about 9’o clock.
+
+
+# 菜鸟40 What’ll It Be?
+- type: chinese
+  chinese: |
+    Jenny:        你想吃什么?要不要吃鱼?
+    DaiYun Jiang: 我不太喜欢鱼。我想吃古老肉。
+    Jenny:        好。想不想吃炒饭?
+    DaiYun Jiang: 炒饭可以。有汤吗?
+    Jenny:        有蔬菜汤。
+  english:
+    - |
+      What do you want to eat? (Do you) want fish?
+      I don’t like fish very much. I want to eat sweet and sour pork.
+      No problem. (Do you) want to eat fried rice?
+      Fried rice is fine. (Is there) have any soup?
+      There is vegetable soup.
+
+
+# 中级1 You Look Exhausted!
+- type: chinese
+  chinese: |
+    Smile:  王小姐你|好像很累。
+    Jenny:  对,我很累,我的工作很麻烦。我每天八点钟上班,六      点钟下班。
+    Smile:  哎呀!太忙了!工作差不多十个小时,你应该休息。
+    Jenny:  我没有办法休息。
+  english:
+    - |
+      Miss Wang you seem very tired.
+      Yes, I’m very tired. My work is very troublesome. Every day I start at eight o’clock and finish at six o’ clock.
+      Whoa! Way too busy! It is about ten hours of work. You should have a break.
+      I can’t really have a break.
+
+
+# 菜鸟41 Friends For Dinner
+
+
+# 菜鸟42 Where Have You Been Hiding?
+- type: chinese
+  chinese: |
+    Jenny: 嘿。好久不见。
+    Sue:   对啊,你怎么样?
+    Jenny: 不错不错,你在忙什么?
+    Sue:   我一直在工作,没办法。
+  english:
+    - |
+      Long time no see.
+      That’s right. How’s it going?
+      Not bad, not bad. What are you busy doing?
+      I’m still working. Not much I can do about that.
+
+
+# 菜鸟43 Weekend Warriors
+- type: chinese
+  chinese: |
+    Jenny: 你周末喜欢做什么?
+    Sue:   周末吗?我喜欢在家里休息。你呢?
+    Jenny: 我喜欢和朋友出去,我们今天晚上去酒吧。
+  english:
+    - |
+      What do you like to do on the weekend?
+      On the weekend? I like to stay at home and rest. How about you?
+      I’d like to go out with friends. We are going to a bar tonight.
+
+
+# 菜鸟44 Guess What I’m Learning?
+- type: chinese
+  chinese: |
+    Sue:   你在学中文吗?
+    Jenny: 对,我在大学学习。
+    Sue:   学中文难不难?
+    Jenny: 我觉得说还可以,写很难。
+  english:
+    - |
+      Are you studying in Chinese?
+      Yes, I'm studying in univrsity.
+      Is it difficult to study Chinese?
+      I think speaking is OK, but writing is very difficult.
+
+
+# 菜鸟45 A Correction of Tones Steve’s terrible pronunciation
+#    你在学中文吗?
+#   Nǐ zài xué zhōng wén ma?     Are you studying in Chinese?
+#    对,我在大学学习。
+# Duì,wǒ zài dà xué xué xí.     Yes, I'm studying in univrsity.
+#    学中文难不难?
+#   Xué zhōng wén nán bù nán?     Is it difficult to study Chinese?
+#    我觉得说还可以,写很难。
+# Wǒ jué de shuō hái kě yǐ,xiě hěn nán.
+#     I think speaking is OK, but writing is very difficult.
+# Jenny’s perfect pronunciation
+#    你在学中文吗?
+#   Nǐ zài xué zhōng wén ma?     Are you studying in Chinese?
+#    对,我在大学学习。
+# Duì,wǒ zài dà xué xué xí.     Yes, I'm studying in univrsity.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode cod   学中文难不难?
+#    我觉得说还可以,写很难。
+# 繁體中文对话文本 Dialogue in Traditional Characters Steve’s terrible pronunciation
+#    你在學中文嗎?
+#   Nǐ zài xué zhōng wén ma?    對,我在大學學習。
+#    學中文難不難?
+#   Xué zhōng wén nán bù nán?    我覺得說還可以,寫很難。
+#    你在學中文嗎?
+#   Nǐ zài xué zhōng wén ma?    對,我在大學學習。
+#    學中文難不難?
+#   Xué zhōng wén nán bù nán?    我覺得說還可以,寫很難。
+# e: chinesepod050_A45_20051121
+# http://www.chinesepod.com
+# 1
+# ￼
+#   Xué zhōng wén nán bù nán?     Is it difficult to study Chinese?
+# Wǒ jué de shuō hái kě yǐ,xiě hěn nán.
+#     I think speaking is OK, but writing is very difficult.
+# Duì,wǒ zài dà xué xué xí.
+# Wǒ jué de shuō hái kě yǐ,xiě hěn nán. Jenny’s perfect pronunciation
+# Duì,wǒ zài dà xué xué xí.
+# Wǒ jué de shuō hái kě yǐ,xiě hěn nán.
+# episode code: chinesepod050_A45_20051121
+# http://www.chinesepod.com
+# 2
+# ￼
+
+
+# 中级2 Weather, Man
+- type: chinese
+  chinese: |
+    A: 你明天干什么?
+    B: 不一定。如果下雨,我在家。
+    A: 如果天气好呢?
+    B: 我出去。
+  english:
+    - |
+      What are you doing tomorrow?
+      I'm not sure. If it rains, I will stay at home.
+      What if the weather is good?
+      I will go out.
+
+
+# 菜鸟46 Guess What I’m Learning?
+- type: chinese
+  chinese: |
+    A: 小姐,请问哪里有出租车?
+    B: 在前面。
+    A: 往那边,对吗?
+    B: 对。你一直走。
+  english:
+    - |
+      Excuse me, miss, where are taxis?
+      They are ahead.
+      In that direction,right?
+      Yes. Walk straight.
+
+
+# 中级3 You Got Schooled   介绍
+# jiè shào    introductio  大家好,我是Jenny. 今天,我和Ken 为大家准备了一个中级课   程.在以后的时间里,我们会为大家准备更多的中级课程。
+#   重点句式   zhòng diǎn jù shì
+# 老师,早上好。
+# 同学们,早上好。
+# 今天,我们要学什么呢?
+# 4. 今天,我们要学怎样学习中级中文。
+# 5. 老师,我怎么样能提高我的中文呢?
+# 建议
+#   现在你已经是中级学生了,你需要两样东西。第一是投入,就是
+#   学习资料。它必须是有意义的,难度适中的。如果太难,你不会
+#   懂;如果太简单,你不会学到新的东西。还有一个就是付出,也
+#   就是练习,比如口语练习。
+# n:
+# Dà jiā hǎo, wǒ shì Jenny. Jīn tiān, wǒ hé Ken wèi dà jiā zhǔn bèi le yí gè zhōng jí
+#    kè chéng.Zài yǐ hòu de shí jiān lǐ, wǒ men huì wèi dà jiā zhǔn bèi gèng duō de
+#    zhōng jí kè chéng.
+#    Hello, everyone. I am Jenny. Today, Ken and I prepared an intermediate lesson
+#    for you.From now on, we will prepare more intermediate lessons for you.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼   1.    2.    3.
+# core sentences:
+
+# Lǎo shī, zǎo shàng hǎo. Good morning, teacher.
+# Tóng xué men, zǎo shàng hǎo. Good morning, students.
+# Jīn tiān, wǒ men yào xué shén me ne? What are we going to study today?
+# episode code: chinesepod053_C03_20051124
+# http://www.chinesepod.com
+# 1
+# ￼
+# Jīn tiān, wǒ men yào xué zěn yàng xué xí zhōng jí zhōng wén.    Today, we are going to learn how to study intermediate Chinese.
+# Lǎo shī, wǒ zěn me yàng néng tí gāo wǒ de zhōng wén ne?    Teacher, how can I improve my Chinese?
+# jiàn yì
+#    suggestion:
+# Xiàn zài nǐ yǐ jīng shì zhōng jí xué shēng le, nǐ xū yào liǎng yàng dōng xī. Dì yī shì
+#    tóu rù,jiù shì xué xí zī liào. Tā bì xū shì yǒu yì yì de, nán dù shì zhōng de. Rú guǒ
+#    tài nán, nǐ bú huì dǒng; rú guǒ tài jiǎn dān, nǐ bú huì xué dào xīn de dōng xī. Hái
+#    yǒu yí gè jiù shì fù chū, yě jiù shì liàn xí, bǐ rú kǒu yǔ liàn xí.
+#    Now, you are an intermediate student. You need two things. The first is input,
+#    which is studying material. It has to be meaningful and at the right level. If it is too
+#    difficult, you won’t understand it; if it is too easy, you won’t learn anything new
+#    from it. The other is output, which is exercise, for example speaking practice.
+
+
+# 菜鸟47 How YOU doin’?
+# 1. 你很漂亮。
+# 2. 你很迷人。
+# 3. 你很帅。
+# 4. 你一个人吗?   Nǐ yí gè rén ma?
+# 5. 不是,我和朋友一起来。
+# 6. 走开,你臭美。
+#   Nǐ hěn piào liàng.   You are very beautiful.
+#   Nǐ hěn mí rén.   You are very charming.
+#   Nǐ hěn shuài.
+#   You are very handsome.
+#   Are you alone?
+#   Bú shì, wǒ hé péng yǒu yì qǐ lái.   No. I came with friends.
+#   Zǒu kāi, nǐ chòu měi.   Get lost. You smuch.
+
+
+# 菜鸟48 Athletic Supporters
+- type: chinese
+  chinese: |
+    A:  你的爱好是什么?
+    B:  我喜欢打篮球。你喜欢吗?
+    A:  我喜欢看,不喜欢打。
+  english:
+    - |
+      What are your hobbies?
+      I like playing basketball. Do you like it?
+      I like to watch it, but I don’t like to play it.
+
+
+# 中级4 Catching Up
+- type: chinese
+  chinese: |
+    A:  李小姐,你最近怎么样?
+    B:  还可以。你|好像比以前胖了一点了。是吗?
+    A:  对。我应该多运动。应该少吃。李小姐前面的那个人是谁?
+    B:  很高,穿黑衣服的那个人吗?他是陈先生。你不认识他吗?
+    A:  我们好像见过一次,但是我忘了他的名字。
+  english:
+    - |
+      Mr.Li, How are you doing?
+      Okay. It seems that you are a little fatter than before. Is that right?
+      Yes. I should exercise more. Eat less. Who is that person in front of Miss Li?
+      The very tall person wearing a black suit? He is Mr.Chen. You don't know him?
+      It seems that I met him once, but I forgot his name.
+
+
+# 菜鸟49 Mr. Cab Driver Part 2
+- type: chinese
+  chinese: |
+    A:  师傅你好。
+    B:  你要去哪里?
+    A:  我要去王府宾馆。
+    B:  好的。你想怎么走?
+    A:  随便你。走最快的。
+  english:
+    - |
+      Hello.
+      Where do you want to go?
+      I want to go to Palace Hotel.
+      No problem. Which route would you like to take?
+      It’s up to you. Take the fastest way.
+
+
+# 中级5 City Comparison
+- type: chinese
+  chinese: |
+    A:  我去年从上海搬到香港。但是我比较喜欢上海。
+    B:  你为什么比较喜欢上海?我认为香港比上海现代化。
+    A:  我不|同意。我认为上海比较好。上海比香港漂亮。天气也比较好。
+  english:
+    - |
+      Last year I moved from Shanghai to Hong Kong. But I prefer Shanghai.
+      Why do you prefer Shanghai? In my opinion Hong Kong is more modern than Shanghai.
+      I don’t agree. In my opinion Shanghai is better. Shanghai is more beautiful than Hong Kong. The weather is also better.
+
+
+# 初级1 Mild Swearing
+# 1.  不是很帅的小伙子:拿我的手机给你妈妈打个电话,说你今天
+#    会晚回家。
+#    很漂亮的女孩子:神经病!
+# 2.  你觉得新来的小王怎么样?
+#    What do you think of the new comer, Xiao Wang?    傻冒一个!
+# 3.  我这次肯定能通过考试!
+#    你不是白痴吧?没上过课就去考试还能通过?
+# 4.  我准备开古董店。    Wǒ zhǔn bèi kāi gǔ dǒng diàn .    I plan to open an antique shop.
+#    你脑子坏了吧?你一点也不懂古董啊!    Nǐ nǎo zi huài le ba ?Nǐ yì diǎn yě bù dǒng gǔ dǒng a !
+#    Is your brain broken down? You know nothing about antiques! 5.  你没长眼睛吗?踩到我的脚了!
+# 6.  李先生最近怎么样?
+#    戴了绿帽子啦!他漂亮的太太有情人的事大家都知道啦!
+#    Bù shì hěn shuài de xiǎo huǒ zi :Ná wǒ de shǒu jī gěi nǐ mā mā dǎ gè diàn    huà, shuō nǐ jīn tiān huì wǎn huí jiā.
+#    Not very handsome boy: Call your mum with my mobile phone. Say you gonna    be late to go home today.
+#    Hěn piào liàng de nǚ hái zi :shén jīng bìng !    Pretty girl: Do you have some mental illness?
+#    Nǐ jué de xīn lái de xiǎo wáng zěn me yàng ?
+#    Shǎ mào yí gè !    A dumb!
+#    Wǒ zhè cì kěn dìng néng tōng guò kǎo shì !    I’m sure I’ll pass the exam this time!
+#    Nǐ bú shì bái chī bā ?Méi shàng guò kè jiù qù kǎo shì hái néng tōng guò ?
+#    Are you an idiot? You can pass the exam without taking even one lesson?
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode code: chinesepod060_B1_20051202 http://www.chinesepod.com
+# 1
+# ￼
+#    Nǐ méi zhǎng yǎn jīng ma ?Cǎi dào wǒ de jiǎo le!    Didn't you grow eyes? You stepped on my toes!
+#    Lǐ xiān sheng zuì jìn zěn me yàng ?    How’s Mr. Li recently?
+#    Dài le lǜ mào zi la !Tā piào liàng de tài tai yǒu qíng rén de shì dà jiā dōu zhī    dào la !
+#    He’s wife cheats him. Everyone knows that his beautiful has a lover!
+
+
+# 菜鸟50 Mr. Cab Driver #3
+- type: chinese
+  chinese: |
+    A:  您第一次来中国吗?
+    B:  不是。这是我第二次来。
+    A:  您喜欢中国吗?
+    B:  我很喜欢。特别是中国文化和语言。
+  english:
+    - |
+      Is this your first time to come to China?
+      No. This is my second time here.
+      Do you like China?
+      I really like it, especially Chinese culture and language.
+
+
+# 中级6 Learning About Chinese’Guan Xi’
+#   当你听到人们谈论在中国做生意,他们一定会说关系。那么,
+#   什么是关系? 简单的说,关系就是你的朋友和熟人组成的人际网
+#   络。通过关系,大家互相帮助, 做生意,解决问题。
+#    Dāng nǐ tīng dào rén men tán lùn zài zhōng guó zuò shēng yì, tā men yí dìng huì    shuō guān xi. Nà me, shén me shì guān xi? Jiǎn dān de shuō, guān xi jiù shì nǐ
+#    de péng yǒu hé shú rén zǔ chéng de rén jì wǎng luò. Tōng guò guān xi, dà jiā hù    xiāng bāng zhù, zuò shēng yì, jiě jué wèn tí.
+#    When you hear people talking about doing business in China, they will certainly    talk about connections. So, what are connections? Simply put, connections are
+#    a human network made up by your friends and acquaintances. Through the use    of connections, people help each other to do business and solve problems.
+
+
+# 初级2 The Traffic Jam
+- type: chinese
+  chinese: |
+    A:  上海的交通怎么样?
+    B:  还可以。我每天做地铁去上班。
+    A:  你经常坐出租车吗?
+    B:  很少。虽然坐出租车很方便,但是很贵。
+    A:  哦。我明白你的意思。
+  english:
+    - |
+      What’s Shanghai's traffic Like?
+      It’s Okay. Every day I take the subway to work.
+      Do you often take a taxi?
+      Very little. Although taking a taxi is convenient, but it’s expensive.
+      Oh. I see what you mean.
+
+
+# 菜鸟51 Too Many Cooks
+- type: chinese
+  chinese: |
+    A:  你会做菜吗?
+    B:  会一点。你呢?
+    A:  我做得很好。我的拿手菜是番茄炒蛋。
+    B:  那你下次做给我吃。
+  english:
+    - |
+      Can you cook?
+      A little bit. What about you?
+      I cook very well. My specialty dish is tomatoes with fried eggs.
+      Well, cook it for me next time.
+
+
+# 中级7 Chinese Celebrity -Bruce Lee
+#    谁是中国最有名的电影明星?当然是Bruce Lee, 李小龙。他是
+#    香港人。他是功夫电影大师。他在好莱坞成为世界巨星。他的
+#    招牌是双节棍和他的叫声。
+#    shuí shì zhōng guó zuì yǒu míng de diàn yǐng míng xīng ? dāng rán shì Bruce    Lee, lǐ xiǎo long. tā shì xiāng gǎng rén. tā shì gōng fū diàn yǐng dà shī. tā zài    hǎo lái wù chéng wéi shì jiè jù xīng. tā de zhāo pai shì shuāng jié gùn hé tā de    jiào shēng.
+#    Who is China’s most famous movie star? Of course Bruce Lee, Li Xiao Long. He    is an ative of Hongkong. He is a master of kungfu movies. He became a world    superstar in Hollywood. His trademark was his nunchaku (double-sectioned
+#    stick) and his shout.
+
+
+# 中级8 China’s Supergirl
+#    今年,中国流行文化界最火的是一个电视节目,叫超级女生。
+#    就像美国偶像,超级女生是一个选秀节目,选出最出色的女歌
+#    手。最后的胜利者是李宇春。
+#    Jīn nián ,zhōng guó liú xíng wén huà jiè zuì huǒ de shì yí gè diàn shì jié mù,jiào    chāo jí nǚ shēng.jiù xiàng měi guó ǒu xiàng, chāo jí nǚ shēng shì yí gèxuǎn xiù    jié mù, xuǎn chū zuì chū sè de nǚ gē shǒu. Zuì hòu de shèng lì zhě shì lǐ yǔ    chūn.
+#    This year the hottest event in the world of Chinese popular culture is a TV    program callde Super Girl. Like American Idol, Super Girl is a talent contest to    choose the most brilliant female singer. The final winner was Li Yuchun.
+
+
+# 菜鸟52 Describing The Weather in Chinese
+- type: chinese
+  chinese: |
+    A:  上海今年冬天不太冷。
+    B:  是吗?温度怎么样?
+    A:  现在大约十五度。
+    B:  北京冷多了。
+  english:
+    - |
+      This winter is not very cold in Shanghai.
+      Is it? What kind of temperatures?
+      It is around 15 degrees now.
+      Beijing is much colder.
+
+
+# 菜鸟53 Mr. Cab Driver #4
+- type: chinese
+  chinese: |
+    A:  先生,我们走高速公路好吗?
+    B:  为什么?
+    A:  因为马路很堵。
+    B:  好,没问题。
+  english:
+    - |
+      Sir, is it ok if we take the highway?
+      Why?
+      Because the streets are very congested.
+      Fine, no problem.
+
+
+# 中级9 Talking About Illness in Mandarin
+- type: chinese
+  chinese: |
+    A:  你怎么了?哪里不舒服?
+    B:  我头疼,喉咙也疼。我感冒了。
+    A:  你吃药了吗?
+    B:  我吃了。
+    A:  我这里有很多感冒药。中药西药都有。我给你一些吧。
+    B:  太谢谢你了。
+  english:
+    - |
+      What's up with you? Are you not feeling well?
+      I have a headache and a sore throat.I have a flu.
+      Have you taken any medicines?
+      I have (taken.)
+      I've got a lot of flu medicines, both Chinese and Western medicines. I'll give you some.
+      Thank you so much.
+
+
+# 菜鸟54 Lying in Chinese
+- type: chinese
+  chinese: |
+    A:  你昨天晚上去哪里了?
+    B:  我哪里也没去。我一直在家,没离开。
+    A:  你说谎。我在酒吧看见你了。
+    B:  那不是我。你搞错了。
+  english:
+    - |
+      Where did you go last night?
+      I didn't go anywhere. I was home the entire time. I didn't leave.
+      You are lying. I saw you in the bar.
+      It wasn't me. You made a mistake.
+
+
+# 中级10 Future Plans
+- type: chinese
+  chinese: |
+    A:  李小姐,你大学毕业了吗?
+    B:  我刚毕业。我是从上海大学毕业的。我的专业是商务管理。
+    A:  好极了。你有什么打算?继续学习还是找工作?
+    B:  我不想继续学习。我打算在一家国际公司工作。
+    A:  这个打算不错。上海工作的机会很多。
+  english:
+    - |
+      Miss Lǐ have you graduated from university?
+      I’ve just graduated. I graduated from Shanghai Unǐversity. My major is Business administration.
+      Great. What are your plans? Do yǒu want to continue studying or find a job?
+      I don’t want to continue studying. My plan is to work in an international company.
+      That’s a pretty good plan. There are a lot of job opportunities in Shanghai.
+
+
+# 菜鸟56 Hotel, Motel, Holiday Inn
+- type: chinese
+  chinese: |
+    A:  你好,我是Smith 先生。我订了一个房间。
+    B:  Smith 先生,对吗?我看一下。
+    A:  这是我的护照。
+    B:  谢谢。您稍等。
+  english:
+    - |
+      I am Mr. Smith. I booked a room.
+      Mr. Smith, am I correct? I will have a look.
+      This is my passport.
+      Thank you. Please wait a moment.
+
+
+# 中级11 Shopping
+- type: chinese
+  chinese: |
+    A:  李太太,如果我搬到上海买东西方便不方便?
+    B:  上海的百货公司很多。在百货公司里什么东西都有。可是价钱贵了一点。
+    A:  除了百货公司以外还有其它的买东西的地方吗?
+    B:  在上海市场也很多。在那里价钱比较合理。
+    A:  在上海我必须用现金付款吗?可不可以用信用卡?
+    B:  现金,信用卡,都可以。
+  english:
+    - |
+      Mrs. Li, if I move to Shanghai is it convenient to go shopping?
+      There are many department stores in Shanghai. In the department stores they have everything. But the price is a bit expensive.
+      Except for department stores, is there any other places to shop?
+      There are many markets in Shanghai. The prices are more reasonable there.
+      In Shanghai must I use cash to pay? Can I use a credit card?
+      Cash, credit card, you can use both.
+
+
+# 中级12 Christmas
+- type: chinese
+  chinese: |
+    A:  我期盼着圣诞节,因为我所有的家人都将在家。
+    B:  真的吗?我不喜欢圣诞节,因为我要去拜访我的亲戚,那很无聊 。
+    A:  那太糟糕了,我喜欢圣诞节就是因为我亲戚会给我漂亮的礼物。去年我从我父母那得到了一个iPod。你得到了什么?
+    B:  我从我父母那得到了一把牙刷,我不喜欢圣诞节。
+  english:
+    - |
+      I’m looking forward to Christmas because all my family will be at home.
+      Really? I don’t like Christmas because I am going to visit my relatives and that’s boring.
+      That’s too bad! I like Christmas because my relatives give me nice gifts. Last year I got an iPod from my parents. What did you get?
+      I got a toothbrush from my parents. I don’t like Christmas.
+
+
+# 中级13 Discussing Work
+- type: chinese
+  chinese: |
+    A:  王先生,你|好像很忙。压力太大吗?
+    B:  有可能。我的老板给我很大压力。我很早上班,很晚下班。周    末经常加班。
+    A:  你在这家公司工做了多久?
+    B:  在这家公司做了八年多了。但是我对我的薪水不太满意。薪水    太低。
+    A:  你为什么不换个工作?像你这样工作经验丰富的人找工作很容    易。
+    B:  你说的对。我应该考虑一下。
+  english:
+    - |
+      Mr. Wang, you seem very tired. Are you under too much pressure?
+      Perhaps. My boss puts me under a lot of pressure. I start work very early and finish work late. I often work overtime on the weekend.
+      How long have you worked with this company?
+      I’ve worked with this company for over eight years. But I’m not satisfied with my salary. My salary is too low.
+      Why don’t you change your job? For someone like you with a lot of working experience finding a job is easy.
+      What you say is right. I should think about that.
+
+
+# 菜鸟57 Useful Sentences #1
+# A:  我来付钱。
+# A:  我请客。
+# A:  我明白。
+# A:  我明白你的意思。
+# A:  我不理解。
+# A:  我不理解你的意思。
+# A:  我不知道。
+# A:  我不清楚。
+# 繁體中文对话文本 Dialogue in Traditional Characters A:  我來付錢。
+#    Wǒ lái fù qián. A:  我請客。
+#    Wǒ qǐng kè. A:  我明白。
+# A:  我明白你的意思。
+#    Wǒ míng bai nǐ de yì si. A:  我不理解。
+# A:  我不理解你的意思。
+#    Wǒ bù lǐ jiě nǐ de yì si. A:  我不知道。
+#    Wǒ bù zhī dào. A:  我不清楚。
+#    Wǒ lái fù qián.    I’ll pay.
+#    Wǒ qǐng kè.
+#    It’s my treat. / It’s on me.
+#    Wǒ míng bai.    I see.
+#    Wǒ míng bai nǐ de yì si.    I know what you mean.
+#    Wǒ bù lǐ jiě.    I don’t understand.
+#    Wǒ bù lǐ jiě nǐ de yì si.
+#    I don’t understand your meaning.
+#    Wǒ bù zhī dào.    I don’t know.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode code: chinesepod085_A57_20051227
+# http://www.chinesepod.com
+# 1
+# ￼
+#    Wǒ bù qīng chǔ.    I’m not so clear on this.
+#    Wǒ míng bai.
+#    Wǒ bù lǐ jiě.
+#    Wǒ bù qīng chǔ.
+# episode code: chinesepod085_A57_20051227
+# http://www.chinesepod.com
+# 2
+# ￼
+
+
+# 初级3 Talking About Your Hometown
+- type: chinese
+  chinese: |
+    A:  你是哪个国家的?
+    B:  我生在英国,但是我是在美国长大的。
+    A:  这是你第一次到中国来吗?
+    B:  不是。我来过一次(了)。我以前在北京学中文。
+    A:  你去过香港吗?
+    B:  我还没去过。
+  english:
+    - |
+      Which country are you from?
+      I was born in England, but I grew up in America.
+      Is this your first time to come to China?
+      No. I already came once. Before I went to Beijing to study Chinese.
+      Have you been to Hong Kong?
+      I haven’t been yet.
+
+
+# 菜鸟58 New Year
+- type: chinese
+  chinese: |
+    A:  你怎么过新年?
+    B:  我和家人一起过。你呢?
+    A:  我和朋友去旅游。
+    B:  祝你新年快乐。
+    A:  谢谢。
+  english:
+    - |
+      How will you spend new year?
+      I will spend it together with my family. What about you?
+      I will go travelling with friends.
+      Happy new year to you.
+      Thank you.
+
+
+# 中级14 Celebration Plans & News Year's Resolutions
+# A:  新年夜是下个星期四,而我仍然没有决定怎么过。
+# B:  那你去年的新年夜是怎么过的?    Nà nǐ qù nián de xīn nián yè shì zěn me guò de?
+# A:  我和我的女朋友参加了一个市中心的聚会。我们喝了很多,并    且跳了整个晚上的舞。我们度过了一个美好的时光。但是,那    也非常昂贵。我没有钱再来一次了。今年我想做一些不一样
+#   的。
+# B:  为什么你不在你的公寓里举办一次聚会呢?在你的公寓举办新
+#    年聚会很合适的。你可以 邀请你所有的朋友来度过美好的时
+#    光。
+# A:  好主意。我会考虑的。那取决于我的女朋友。嘿,你的新年愿    望是什么?
+# B:  新年愿望?哦,是的。我已经决定照顾好自己的健康。我打算
+#    戒烟以及参加体育运动,我真的是要减肥了,所以我将制定一
+#    套有规律的锻炼计划 。
+# A:  我很高兴今年马上要结束了。今年对我来说是很艰难的一年。
+#    我一直在很多的压力下工作。实话说我考虑明年换个工作。我
+#    需要更多的放松以及享受我的生活。
+#    Xīn nián yè shì xià gè xīng qī sì , ér wǒ réng rán méi yǒu jué dìng zěn me guò.    New Year’s Eve is next Thursday and I still haven’t decided what to do.
+#    What did you do last year on New Year’s Eve?
+#    Wǒ hé wǒ de nǚ péng yǒu cān jiā le yí gè shì zhōng xīn de jù huì. Wǒ men hē le    hěn duō , bìn qiě tiào le zhěng gè wǎn shàng de wǔ, wǒ men dù guò le yí gè    měi hǎo dē shí guāng. Dàn shì, nà yě fēi cháng áng guì. Wǒ méi yǒu qián zài lái    yí cì le. Jīn nián wǒ xiǎng zuò yì xiē bù yí yàng de.
+#    I went to a party downtown with my girlfriend. We had a lot to drink and danced    all night. We had a great time. But it was very expensive. I can’t afford to do that    again. This year I want to do something different.
+#    Wèi shén me nǐ bú zài nǐ de gōng yù lǐ jǔ bàn yí cì jù huì ne?Zài nǐ de gōng yù    jǔ bàn xīn nián jù huì hěn hé shì de. Nǐ kě yǐ yāo qǐng nǐ suǒ yǒu de péng yǒu lái    dù guò měi hǎo de shí guāng.
+#    Why don’t you have a party in your apartment? Your apartment is perfect for a    New Year’s party. You could invite all your friends and have a great time.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode code: chinesepod088_C14_20051230 http://www.chinesepod.com
+# 1
+# ￼
+#    Hǎo zhú yì. wǒ huì kǎo lǜ de. Nà qǔ jué yú wǒ de nǚ péng yǒu. Hèi, nǐ de xīn    nián yuàn wàng shì shén me?
+#    That’s a great idea. I’ll think about it. It depends on my girlfriend. Hey, what are    your New Year’s resolutions?
+#    Xīn nián yuàn wàng?ò, shì de. wǒ yǐ jīng jué dìng yào zhào gù hǎo zì jǐ de jiàn    kāng. wǒ dǎ suàn jiè yān yǐ jí cān jiā tǐ yù yùn dòng, wǒ zhēn de shì yào jiǎn féi    le, suǒ yǐ wǒ jiāng zhì ding yí tào yǒu guī lǜ de duàn liàn jì huà.
+#    New year’s resolutions? Oh yeah. I’ve decided to take better care of my health.    I’m going to give up smoking and join a gym. I really need to lose weight, so I’m
+#    planning to work out regularly. How about you?
+#    Wǒ hěn gāo xìng jīn nián mǎ shàng yào jié shù le. Jīn nián duì wǒ lái shuō shì    hěn jiān nán de yì nián. Wǒ yì zhí zài hěn duō de yā lì xià gōng zuò. Shí huà    shuō wǒ kǎo lǜ míng nián huàn gè gōng zuò. Wǒ xū yào gèng duō de fàng sōng    yǐ jí xiǎng shòu wǒ de shēng huó.
+#    I’m glad that this year will soon be over. This year has been very difficult for me.    I’ve been under a lot of pressure at work. To be honest, I’m considering changing    my job next year. I need to relax more and enjoy my life.
+
+
+# 中级15 Comparing Cities
+# A:  嘿,很久没见了,我听说你在北京出差。
+# B:  对,我在北京有一个很重要的销售会议,我昨晚上刚回上海。    那是我第一次去北京,没想到北京和上海那么不同。
+# A:  什么意思。
+# B:  人们的饮食习惯不同,上海人喜欢吃米饭蔬菜还有海鲜,但是    北京人喜欢吃水饺和面条。
+# A:  说不定这就是为什么北京人都比上海人高。
+# B:  是的,北京的生活节奏比上海的慢。我原来都不知道上海被认    为是中国的经济中心而北京是中国的政治中心。
+# A:  我有从北京来的朋友,他们告诉我北京人和上海人相处不好,    是真的吗?
+# B:  可能是。北京人看不起上海人,因为他们认为上海人太 物质    化。上海人也看不起北京人因为他们认为北京人不够现实。
+#    Hey, long time no see. I heard you were in Beijing on business.
+#    Yeah. I had an important sales meeting there. I just got back to Shanghai last night. It was my first time in Beijing. I didn’t realize it was so different from Shanghai.
+#    What do you mean?
+#    Their eating habits are different. Shanghainese like to eat rice, vegetables and    seafood. But in Beijing, they eat noodles and dumplings.
+#    That’s probably why people in Beijing are taller than Shanghainese.
+#    Yeah. The pace of life in Beijing is slower than Shanghai. I didn’t realize that Shanghai is considered the business center of China while Beijing is the political center.
+#    I have some friends from Beijing. They have told me that Beijing people don’t get along with Shanghainese. Is that right?
+#    Probably. Beijing people look down on Shanghainese because they are too materialistic, but Shanghainese look down on people from Beijing because they are not practical.
+
+
+# 初级5 Useful Sentences #2
+# A:  等一下。/ 等一会儿。
+# A:  我听不懂。请再说一次。
+# A:  我听不懂。请说慢一点。
+# A:  我听不懂。你说得太快。
+# 繁體中文对话文本 Dialogue in Traditional Characters A:  等一下。/ 等一會兒。
+# A:  我聽不懂。請再說一次。
+#    Wǒ tīng bù dǒng. Qǐng Zài shuō yí cì. A:  我聽不懂。請說慢一點。
+#    Wǒ tīng bù dǒng. Qǐng shuō màn yì diǎn. A:  我聽不懂。你說得太快。
+#    Děng yí xià. / Děng yì huǐr.    Just a moment.
+#    Wǒ tīng bù dǒng. Qǐng Zài shuō yí cì.    I don’t understand. Please say it again.
+#    Wǒ tīng bù dǒng. Qǐng shuō màn yì diǎn.    I don’t understand. Please speak slowly.
+#    Wǒ tīng bù dǒng. Nǐ shuō de tài kuài.
+#    I don’t understand. You are speaking too fast.
+#    Děng yí xià. / Děng yì huǐr.
+#    Wǒ tīng bù dǒng. Nǐ shuō de tài kuài.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode code: chinesepod093_B5_20060104
+# http://www.chinesepod.com
+# 1
+# ￼
+
+
+# 中级16 Business Style
+# A: 下个月我去中国出差,我听说中国人喜欢边吃边做生意。
+# B: 没错。在中国,生意人喜欢在做生意之前花时间了解对方。那
+#    意味着你将花很多时间边吃边谈生意,还要和你的中国同事来
+#    往。
+# A: 我明白了,但是那样不是很花时间吗?
+# B: 对。但那很重要,因为在中国许多生意都依靠良好的关系来完
+#    成。你理解那一点很重要。
+# A: 好吧,我会确保在做生意之前建立起良好的关系。
+#    I’m going to China on a business trip next month. I’d heard that Chinese people like to do business over dinner.
+#    That’s right. In China business people spend time getting to know each other before doing business. That means that you will spend a lot of time talking business over dinner and socializing with your Chinese colleagues.
+#    I see. But doesn’t that take a lot of time.
+#    Yeah, it takes a lot of time, but it’s important. A lot of business in China depends on developing a good relationship before making any deals. It’s really important that you understand that.
+#    Okay. I’ll make sure to build a good relationship before talking about business.
+
+
+# 初级6 ChinA:  明年我有一个很好的机会去中国工作。但是我不确定应该在南
+#    方的广州工作还是在北方的北京工作。
+# B:  嗯,南方的气候比北方好一些。南方人吃很多米饭和海鲜。他    们说广东话而不是普通话。
+# A:  中国北方呢?    Zhōng guó běi fāng ne?
+# B:  在北京冬天很冷。北京人吃很多水饺和面条,他们说普通话。
+# A:  我不喜欢寒冷的天气,我会去广州。
+# a: North and South
+#    Míng nián wǒ yǒu yí gè hěn hǎo de jī huì qù zhōng guó gōng zuò. Dàn shì wǒ    bú què dìng yīng gāi zài nán fāng de guǎng zhōu gōng zuò hái shì zài běi fāng    de běi jīng gōng zuò.
+#    Next year I have a great chance to work in China, but I’m not sure if I should    work in Guangzhou in the south or Beijing in the north.
+#    Èn, nán fāng de qì hòu bǐ běi fāng hǎo yì xiē. Nán fāng rén chī hěn duō mǐ fàn    hé hǎi xiān. Tā men shuō guǎng dōng huà ér bù shì pǔ tōng huà.
+#    Well. The weather is better in the south. People in the south eat a lot of rice and    seafood. And they speak Cantonese, not Mandarin.
+#    How about the north of China?
+#    Zài běi jīng dōng tiān hěn lěng. Běi jīng rén chī hěn duō shuǐ jiǎo hé miàn tiáo,    tā men shuō pǔ tōng huà.
+#    In Beijing the weather is cold in the winter. The people eat more dumplings and    noodles. The people speak Mandarin in Beijing.
+#    Wǒ bù xǐ huān hán lěng de tiān qì, wǒ huì qù guǎng zhōu.    I don’t like cold weather. I’ll go to Guanzhou.
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼episode code: chinesepod095_B6_20060106 http://www.chinesepod.com
+# 1
+# ￼
+
+
+# 中级17 Business Introductions - Beginning
+# A: 你好,我叫李明。我是总经理。这是我的名片。这是我的助
+#    理,王茵。
+# B: 很高兴见到你,我叫Jack Jones。我是IBM 公司的市场部经
+#    理,这是我的名片,很高兴见到你。这是Walter Hess,他是
+#    销售经理。
+# A: 下午好,我叫陈华林,我是EBAY 的首席执行官。这是李小    姐。她是销售经理。非常感谢今天过来。
+# B: 下午好,陈先生,我是英特尔的副总裁。这是我的人事经理,    张浩先生。非常感谢抽空与我们见面。
+#    Hi my name is Li Ming. I’m the General Manager. Here is my name card. This is my assistant, Wang Yin.
+#    Nice to meet you. I’m Jack Jones. I’m the marketing manager of IBM. Here is my name card. Nice to meet you. This is Walter Hess. He is the sales manager.
+#    Good afternoon. My name is Chen Hua Lin. I’m the CEO of Ebay. This is Miss    Li. She is the sales manager. Thank you for coming today.
+#    Good afternoon Mr. Chen. I’m Wang Jia, the vice president of Intel. This is my    human resource manager, Mr. Zhang Hao. Thanks for taking time to meet us.
+
+
+# 菜鸟59 Explaining Your Occupation
+- type: chinese
+  chinese: |
+    A:  你是做什么的?
+    B:  我是老师。你呢?
+    A:  我是生意人。你喜欢你的工作吗?
+    B:  是的。我很喜欢。
+  english:
+    - |
+      What do you do?
+      I’m a teacher. How about you?
+      I’m a businessman. Do you like your job?
+      Yes. I really like it.
+
+
+# Borked!
+# 初级7 Talk About Your Secretary
+# A:  我有一个新秘书。
+# B:  是吗?她怎么样?
+# A:  她很友好也很善解人意。她能把字打得很快, (字打得很快。)
+#    英语说得很好,还会用电脑 。
+# B:  她工作努力吗?
+# A:  是,她很勤奋。
+#    Does she work hard?
+#    I have a new secretary at work.
+#    Really? What’s she like?
+#    She is friendly and considerate. She can type fast, speak good English and use a computer.
+#    Yes. She is very diligent.
+
+
+# 中级18 Describing Travels
+# A:  我下个月去中国度假两个星期。但是我还没决定去中国的哪
+#    里。
+# B:  真的吗?我两年前去过中国。我在那里玩得很开心。
+# A:  那你给我一些建议吧。哪里好玩?
+# B:  如果我是你,我会在北京待三天。因为北京有很多名胜古迹,    比如说长城,颐和园,天安门广场。
+# ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼A:  我听说上海也不错。应该去上海吗?
+# B:  一定要去。你应该在上海待三天因为上海是一个时尚都市,夜    生活和购物是很有名的。你还可以顺便去杭州。
+# A:  噢,听说杭州的风景很美而且还是个放松的好地方。
+# B:  最后,你还应该去香港因为香港是亚洲最有名的购物天堂。
+# A:  太好了。我等不及要去中国。
+#    Wǒ xià gè yuè qù zhōng guó dù jià liǎng gè xīng qī. Dàn shì wǒ hái méi jué dìng    qù zhōng guó de nǎ lǐ.
+#    I’m going to China next month for two weeks vacation, but I haven’t decided
+#    where to go yet.
+#    Zhēn de ma?Wǒ liǎng nián qián qù guò zhōng guó. Wǒ zài nà lǐ wán de hěn    kāi xīn.
+#    Really? I went to China two years ago. I had a great time.
+#    Nà nǐ gěi wǒ yì xiē jiàn yì ba. Nǎ lǐ hǎo wán?
+#    Then please give me some suggestions. For example, where should I go for    fun?
+#    Rú guǒ wǒ shì nǐ, wǒ huì zài běi jīng dāi sān tiān. Yīn wéi běi jīng yǒu hěn duō    míng shèng gǔ jì, bǐ rú shuō cháng chéng, yí hé yuán, tiān ān mén guǎng    chǎng.
+#    If I were you, I’d stay in Beijing for three days because there are many tourist      attractions in Beijing for example the Great Wall, the Summer Palace and    Tiananmen Square.
+#    Wǒ tīng shuō shàng hǎi yě bú cuò. Yīng gāi qù shàng hǎi ma?
+#    I’ve heard Shanghai is pretty good too. Should I go to Shanghai? episode code: chinesepod100_C18_20060112 http://www.chinesepod.com
+# 1
+# ￼
+#    Yí dìng yào qù. Nǐ yīng gāi zài shàng hǎi dāi sān tiān yīn wéi shàng hǎi shì yí gè    shí shàng dū shì, Yè shēng huó hé gòu wù shì hěn yǒu míng de. Nǐ hái kě yǐ    shùn biàn qù háng zhōu.
+#    You must go. You should spend three days in Shanghai because it is a    fashionable city. It’s famous for its night life and shopping. If you go to Shanghai,    why not go to Hangzhou?
+#    Ō, tīng shuō háng zhōu de fēng jǐng hěn měi ér qiě hái shì gè fàng sōng de hǎo    dì fāng.
+#    Oh, I’ve heard Hanghou’s scenery is very beautiful, and it’s also a good place to
+#    relax.
+#    Zuì hòu, nǐ hái yīng gāi qù xiāng gǎng yīn wéi xiāng gǎng shì yà zhōu zuì yǒu    míng de gòu wù tiān táng.
+#    Finally, you should go to Hong Kong because it’s the most famous shopping    center in Asia.
+#    Tài hǎo le. Wǒ děng bù jí yào qù zhōng guó.    Great. I can’t wait to go to China.
+
+

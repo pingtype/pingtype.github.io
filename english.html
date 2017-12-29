@@ -39,6 +39,7 @@
 	- https://github.com/dariusk/pos-js
 	- Classification from wiktionary is too large to load by default
 	- Multiple dictionary files
+	- Ludwig sentence examples https://ludwig.guru
 	
 	Data sources:
 	- Subtitles
@@ -50,6 +51,28 @@
 	- other blogs with song lyrics
 	http://hjk897456321.pixnet.net/blog/post/338820110
 	http://sini713510618.pixnet.net/blog/post/202736047
+	
+# also replace-all verb-ing, verb-ed, verb-en, adjective-er, adjective-est
+#
+# (.*)ing	(.*)	1
+# \1ing	\2	2
+#
+# (.*)ed	(.*)	1
+# \1ed	\2	2
+# 
+# (.*)en	(.*)	1
+# \1en	\2	2
+# 
+# (.*)er	(.*)	1
+# \1er	\2	3
+#
+# (.*)est	(.*)	1
+# \1est	\2	3
+#
+#	1. Other	
+#	2. Verb
+#	3. Adjective
+# 	4. Noun
 	
 -->
 
@@ -391,9 +414,9 @@
 						<input type="range" id="ipaOpacity" value="100" onclick="setIpaOpacity();">
 						<input type="checkbox" id="ipaCheckbox" checked="true"><span onclick="toggleCheckbox('ipaCheckbox');">IPA KK音標</span>
 						<input type="range" id="phonicsOpacity" value="100" onclick="setPhonicsOpacity();">
-						<input type="checkbox" id="phonicsCheckbox" checked="true"><span onclick="toggleCheckbox('phonicsCheckbox');">Phonics</span>
+						<input type="checkbox" id="phonicsCheckbox"><span onclick="toggleCheckbox('phonicsCheckbox');">Phonics</span>
 						<input type="range" id="bopomofoOpacity" value="100" onclick="setBopomofoOpacity();">
-						<input type="checkbox" id="bopomofoCheckbox" checked="true"><span onclick="toggleCheckbox('bopomofoCheckbox');">ㄅㄆㄇㄈ</span>
+						<input type="checkbox" id="bopomofoCheckbox"><span onclick="toggleCheckbox('bopomofoCheckbox');">ㄅㄆㄇㄈ</span>
 						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
 						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
 						<input type="range" id="chineseOpacity" value="100" onclick="setChineseOpacity();">
@@ -403,7 +426,7 @@
 						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
 					</td>
 					<td>
-						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+						<input type="checkbox" id="pageBreaksCheckbox"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
 					</td>
 				</tr>
 			</table>
@@ -772,6 +795,12 @@
 		var nounsData="";
 		var verbsData="";
 		var adjectivesData="";
+
+		var fiveWords = "\n";
+		var fourWords = "\n";
+		var threeWords = "\n";
+		var twoWords = "\n";
+		var oneWords = "\n";
 
 		var lastDictionary = false;
 		
@@ -1429,7 +1458,39 @@
 			xmlhttp.send();
 				
 		} // end loadEnglish
-				
+		
+		function dictionaryToWordLengths()
+		{
+			//debugLog("dictionaryToWordLengths");
+		
+			var combinedDictionaryDataLines = combinedDictionaryData.split("\n");
+			
+			var numberLines = combinedDictionaryDataLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedDictionaryDataLines[currentLine];
+			
+				if (thisLine != "")
+				{
+					var thisEnglish = textBetween(thisLine, "start", "	");
+					
+					var wordLength = thisEnglish.split(" ").length;
+		
+					switch (wordLength)
+					{
+						case 5: fiveWords = fiveWords + thisEnglish + "\n"; break;
+						case 4: fourWords = fourWords + thisEnglish + "\n"; break;
+						case 3: threeWords = threeWords + thisEnglish + "\n"; break;
+						case 2: twoWords = twoWords + thisEnglish + "\n"; break;
+						case 1: oneWords = oneWords + thisEnglish + "\n"; break;
+						default: break;
+					}
+					
+				} // end if the line is not blank
+			} // end for every line in the dictionary
+		} // end function dictionaryToWordLengths		
+
 		function dictionariesLoaded()
 		{
 			//debugLog("dictionariesLoaded");
@@ -1445,6 +1506,8 @@
 			    
 			    return;
 			}
+
+			dictionaryToWordLengths();
 
 			// If we have parameters
 			if ((QueryString.command != "") && (QueryString.command != undefined))
@@ -1810,6 +1873,26 @@
 		} // end function showMissingWords
 
 
+		
+		function searchDictionary(thisWord)
+		{
+			//debugLog("searchDictionary(" + thisWord + ")");
+
+			var wordLength = thisWord.split(" ").length;
+			//debugLog("wordLength " + wordLength);
+
+			switch (wordLength)
+			{
+				case 5: return contains(fiveWords, "\n" + thisWord + "\n"); break;
+				case 4: return contains(fourWords, "\n" + thisWord + "\n"); break;
+				case 3: return contains(threeWords, "\n" + thisWord + "\n"); break;
+				case 2: return contains(twoWords, "\n" + thisWord + "\n"); break;
+				case 1: return contains(oneWords, "\n" + thisWord + "\n"); break;
+				default: return contains(combinedDictionaryData, "\n" + thisWord + "	"); break;
+			}
+			
+		} // end function searchDictionary
+
     	function spacePunctuation(thisWord)
     	{
     		thisWord = " " + thisWord + " ";
@@ -1929,8 +2012,9 @@
 							
 							var thisPhraseLowerCase = thisPhrase.toLowerCase();
 							 
-							inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseLowerCase + "	");
-							
+							//inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseLowerCase + "	");
+							inDictionary = searchDictionary(thisPhraseLowerCase);
+
 							// Search for "something" phrases
 							if (inDictionary == false)
 							{
@@ -1940,7 +2024,8 @@
 							
 								var thisPhraseSomething = thisPhraseLowerCaseArray[0] + " something " + thisPhraseLowerCaseArray[thisPhraseLastWordOffset];
 
-								inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+								//inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+								inDictionary = searchDictionary(thisPhraseSomething);
 							} // end search for something
 							
 							
@@ -2094,7 +2179,8 @@
 					
 					//thisWord = removePunctuation(thisWord);
 					
-					var inDictionary = contains(combinedDictionaryData, "\n" + thisWordLowercase + "	");
+					//var inDictionary = contains(combinedDictionaryData, "\n" + thisWordLowercase + "	");
+					var inDictionary = searchDictionary(thisWordLowercase);
 										
 					if (inDictionary == true)
 					{
@@ -2188,8 +2274,9 @@
 						
 						thisPhraseSomething = thisPhraseLowerCaseArray[0] + " something " + thisPhraseLowerCaseArray[thisPhraseLastWordOffset];
 						
-						var somethingInDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
-												
+						//var somethingInDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+						var somethingInDictionary = searchDictionary(thisPhraseSomething);
+
 						if (somethingInDictionary == true)
 						{
 							
@@ -2307,7 +2394,14 @@
 							somethingHtmlBopomofo = replaceChars(somethingHtmlBopomofo, "ㄙㄨㄇㄊㄧㄥ", "</div></td>" + theThingHtmlBopomofo + "<td>" + "<div class=\"bopomofo_" + somethingHtmlPos + "\">");
 							somethingHtmlLiteral = replaceChars(somethingHtmlLiteral, "東西", theThingHtmlLiteral);
 							
-							somethingHtmlLiteral = somethingHtmlLiteral + "<td></td>";
+							//alert("theThingTextEnglish:" + theThingTextEnglish);
+							
+							//var numberThingWords = theThingTextEnglish.split(" ").length - 3;
+							
+							//for (var currentThingWord = 0; currentThingWord < numberThingWords; currentThingWord++)
+							//{
+								somethingHtmlLiteral = somethingHtmlLiteral + "<td></td>";
+							//}
 							
 							englishLineHtml = englishLineHtml + somethingHtmlEnglish;
 							ipaLineHtml = ipaLineHtml + somethingHtmlIpa;
@@ -3390,6 +3484,20 @@
 				// Add the word to the dictionary
 				combinedDictionaryData = combinedDictionaryData + thisDefinition + "\n";
 				
+
+				var wordLength = thisWordEnglish.split(" ").length;
+			   
+				switch (wordLength)
+				{
+					case 5: fiveWords = fiveWords + thisWordEnglish + "\n"; break;
+					case 4: fourWords = fourWords + thisWordEnglish + "\n"; break;
+					case 3: threeWords = threeWords + thisWordEnglish + "\n"; break;
+					case 2: twoWords = twoWords + thisWordEnglish + "\n"; break;
+					case 1: oneWords = oneWords + thisWordEnglish + "\n";break;
+					default: break;
+				}
+			    
+			    				
 			} else {
 				// Edit the word
 			
@@ -3515,6 +3623,166 @@
 				} // end for every dictionary part
 				
 				combinedDictionaryData = newDictionary;
+				
+				
+				var wordLength = thisWord.split(" ").length;
+				
+				if (wordLength == 5)
+				{
+					var thisSubdictionaryParts = fiveWords.split("\n"+thisWord+"\n");
+				
+					var newSubdictionary = "";
+				
+					var numberParts = thisDictionaryParts.length - 1;
+				
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisSubdictionaryParts[currentPart];
+				
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+					
+						newSubdictionary = newSubdictionary + "\n" + thisPart;
+					
+					} // end for every dictionary part
+				
+					fiveWords = newSubdictionary;
+				} // end if wordLength is 5
+
+				if (wordLength == 4)
+				{
+					var thisSubdictionaryParts = fourWords.split("\n"+thisWord+"\n");
+				
+					var newSubdictionary = "";
+				
+					var numberParts = thisDictionaryParts.length - 1;
+				
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisSubdictionaryParts[currentPart];
+				
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+					
+						newSubdictionary = newSubdictionary + "\n" + thisPart;
+					
+					} // end for every dictionary part
+				
+					fourWords = newSubdictionary;
+				} // end if wordLength is 4
+
+				if (wordLength == 3)
+				{
+					var thisSubdictionaryParts = threeWords.split("\n"+thisWord+"\n");
+				
+					var newSubdictionary = "";
+				
+					var numberParts = thisDictionaryParts.length - 1;
+				
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisSubdictionaryParts[currentPart];
+				
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+					
+						newSubdictionary = newSubdictionary + "\n" + thisPart;
+					
+					} // end for every dictionary part
+				
+					threeWords = newSubdictionary;
+				} // end if wordLength is 3
+
+				if (wordLength == 2)
+				{
+					var thisSubdictionaryParts = twoWords.split("\n"+thisWord+"\n");
+				
+					var newSubdictionary = "";
+				
+					var numberParts = thisDictionaryParts.length - 1;
+				
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisSubdictionaryParts[currentPart];
+				
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+					
+						newSubdictionary = newSubdictionary + "\n" + thisPart;
+					
+					} // end for every dictionary part
+				
+					twoWords = newSubdictionary;
+				} // end if wordLength is 2
+
+				if (wordLength == 1)
+				{
+					var thisSubdictionaryParts = oneWords.split("\n"+thisWord+"\n");
+				
+					var newSubdictionary = "";
+				
+					var numberParts = thisDictionaryParts.length - 1;
+				
+					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					{
+						var thisPart = thisSubdictionaryParts[currentPart];
+				
+						// Remove the first line if it's not the first part
+						if (currentPart != 0)
+						{
+							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+						} // end remove first lines
+
+						// Remove the last line if it's not the last part
+						if (currentPart != numberParts)
+						{
+							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+						} // end remove last lines
+					
+						newSubdictionary = newSubdictionary + "\n" + thisPart;
+					
+					} // end for every dictionary part
+				
+					oneWords = newSubdictionary;
+				} // end if wordLength is 1
+				
+				
 				
 				// Update the user interface
 				//var removeAreaWords = document.getElementById("dictionaryRemoveArea").value;
@@ -4005,6 +4273,32 @@
 			
 			return array;
 		} // end function function shuffle
+		
+		function saveHtml()
+		{
+			//debugLog("saveHtml");
+
+			var filename = document.getElementById("filenameTextArea").value;
+			var thisString = document.getElementById("outputHtml").innerHTML;
+			
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n		<style>\n			body {\n				font-family: Tahoma, Geneva, sans-serif;\n			}\n		\n			.DefaultButtonOuter\n			{\n				border: 2px solid black ;\n				border-radius: 8px;\n				width: 96px;\n				height: 26px;\n				text-align: center;\n			\n				/*background-color: #99999a;*/\n				background: #99999a; /* For browsers that do not support gradients */\n				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n			}\n\n			.ButtonInner\n			{\n				border: 1px solid black ;\n				border-radius: 5px;\n				background-color: #dcdbde;\n				width: 88px;\n				height: 18px;\n				text-align: center;\n				margin: 3px;\n			\n				line-height: 18px;\n				font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n				font-size: 11px;\n				color: #000000;\n			}\n		\n			.ButtonInner:active\n			{\n				background:#666666;\n				color: #ffffff;\n			}\n			\n			.chinese_big {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 30px;\n			  display:inline;\n			}\n\n			.chinese_small {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			.chinese_literal {\n			  font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			table td {\n				white-space: nowrap;\n      		}\n\n			.english_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.english_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.ipa_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.phonics_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_1 {\n			  color:#000000;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_2 {\n			  color:#f82423;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_3 {\n			  color:#189c19;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.bopomofo_4 {\n			  color:#178FD1;\n			  font-size: 18px;\n			  display:inline;\n			}\n\n			.literal {\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n			.chinese {\n			  color:#000000;\n			  font-size: 22px;\n			  display:inline;\n			}\n\n\n			.key\n			{\n				border: 1px solid black ;\n				border-radius: 5px;\n				background-color: #dcdbde;\n				width: 18px;\n				height: 18px;\n				text-align: center;\n				margin: 3px;\n			\n				line-height: 18px;\n				font-family: Geneva, sans-serif;\n				font-size: 11px;\n				color: #000000;\n			}\n\n			@media print {\n    			p {page-break-after: always;}\n    			table {page-break-inside: avoid;}\n			}\n\n    	</style>\n\n\n  </head>\n  <body>\n	";
+			
+			var htmlFooters = "\n  </body>\n</html>\n";
+			
+			// Pingtype is a literal translator for Chinese. Pingtype 是 一個 中文 詞彙 翻譯. 
+			
+			var thisHtml = htmlHeaders + thisString + htmlFooters;
+			
+			writeToFile(filename, thisHtml);
+			
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+
+			if (useGithub == true)
+			{
+				var thisUrl = "https://github.com/peterburk/pingxing/blob/master/" + filename;
+				window.open(thisUrl,'_blank');
+			}
+		} // end function saveHtml
 		
 		function shuffleButtonClicked()
 		{

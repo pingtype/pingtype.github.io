@@ -1,0 +1,276 @@
+<template name="landing">
+  {{> mainNav }}
+
+  <article class="sectioned">
+    <section>
+      <h1>
+        Learn Chinese by reading short-stories
+      </h1>
+      {{! List two or three courses. }}
+      <div class="new-browse body">
+        {{#each courses}}
+          <div class="row">
+            <div class="col-md-12">
+              {{> courseLine}}
+            </div>
+          </div>
+        {{/each}}
+      </div>
+    </section>
+
+    <section>
+      <div class="body clearfix">
+        <div class="screenshot">
+          <img src="exam.jpg" />
+        </div>
+        <div class="txt">
+          <h2>Practise with context</h2>
+          <p>
+            Learn Chinese words by seeing how they're using in sentences and
+            example dialog.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="body clearfix">
+        <div class="screenshot">
+          <img src="exam.jpg" />
+        </div>
+        <div class="txt">
+          <h2>Goal-driven learning</h2>
+          <p>
+            Learning Chinese can be a daunting task. However, with small and concrete goals - such as reading a short-story or poem - learning Chinese becomes manageable and fun.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="body clearfix">
+        <div class="screenshot">
+          <img src="exam.jpg" />
+        </div>
+        <div class="txt">
+          <h2>Built-in tools</h2>
+          <p>
+            Dictionary. Audio pronounciation. MGDB lookup.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="body clearfix">
+        <div class="screenshot">
+          <img src="exam.jpg" />
+        </div>
+        <div class="txt">
+          <h2>Adaptive courses</h2>
+          <p>
+            Courses written in stone are a thing of the past. With 10,000s of exercises to draw on, the Talent<sup>srs</sup> learning system adapts to your strenghts and weaknessess. The flash cards you see and the exercises you complete are tailored to bridge the gap between your knowledge and the course objectives.
+          </p>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="body clearfix">
+        <div class="screenshot">
+          <img src="exam.jpg" />
+        </div>
+        <div class="txt">
+          <h2>Mastery learning</h2>
+          <p>
+            
+          </p>
+        </div>
+      </div>
+    </section>
+  </article>
+
+  <!-- <article>
+    <section class="call-to-action">
+      <h1>Read a story, learn Chinese.</h1>
+
+      <a href="{{watermelonPath}}">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-5 col-sm-push-5">
+              <br/>
+              <ul>
+                <li>Beginner story, around 75 unique words.</li>
+                <li>See examples of each word as you practice.</li>
+                <li>Built-in dictionary to help when in doubt.</li>
+                <li>Never forget. Everything you learn will be reviewed.</li>
+              </ul>
+            </div>
+            <div class="col-sm-3 col-sm-offset-3 col-sm-pull-6 title">
+              <h1>西瓜</h1><br/>
+              Read story &ldquo;Watermelon&rdquo;
+            </div>
+          </div>
+        </div>
+      </a>
+
+      <a href="{{umbrellaPath}}">
+        <div class="container">
+          <br/><br/>
+
+          <div class="row">
+            <div class="col-sm-5 col-sm-push-5">
+              <br/>
+              <ul>
+                <li>Beginner story, around 85 unique words.</li>
+                <li>Re-use every relevant word from the previous story.</li>
+                <li>Gradually build your vocabulary.</li>
+                <li>Small, achievable goals - like reading a short story -
+                  help you feel motivated and productive.</li>
+              </ul>
+            </div>
+            <div class="col-sm-3 col-sm-offset-3 col-sm-pull-6 title">
+              <h1>小伞花</h1><br/>
+              Read story &ldquo;Umbrella Flowers&rdquo;
+            </div>
+          </div>
+        </div>
+      </a>
+
+      <br/><br/>
+      <center>
+        <h3>For the serious learner:</h3>
+      </center>
+
+      <a href="{{hskPath}}">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-5 col-sm-push-5">
+              <br/>
+              <ul>
+                <li>HSK: Chinese Proficieny Test (aka Chinese Standard Exam)</li>
+                <li>Vocabulary illustrated by 20,000+ example phrases.</li>
+                <li>Fastest and most challenging way to learn Mandarin Chinese.</li>
+              </ul>
+            </div>
+            <div class="col-sm-3 col-sm-offset-3 col-sm-pull-6 title">
+              <h1>汉语水平考试</h1><br/>
+              Study for the HSK exam
+            </div>
+          </div>
+        </div>
+      </a>      
+    </section>
+
+
+
+
+    {{! The Why of LC. Describe the problem. }}
+    <section class="card">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-2 col-sm-push-7 col-sm-offset-1">
+            <img class="media-svg" src="renren.svg"/>
+          </div>
+          <div class="col-sm-6 col-sm-offset-1 col-sm-pull-3">
+            <h2>Talent <sup>srs</sup></h2>
+            <p>
+              Talent is created and nurtured, not set at birth. With effort and
+              a strong environment, you can achieve the extraordinary.
+            </p>
+            {{#expandable}}
+              One-on-one tutoring is far more effective than classroom teaching
+              and the reasons have been uncovered by science. Use
+              <b>Talent<sup>srs</sup></b> to take advantage and get the
+              benefits of individualized and adaptive tutoring.
+            {{/expandable}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-2 col-sm-offset-1 col-sm-push-7">
+            <img class="media-svg" src="molecular.svg"/>
+          </div>
+          <div class="col-sm-6 col-sm-offset-1 col-sm-pull-3">
+            <h2>Inclusive</h2>
+            <p>
+              Get the most out of your time by combining text book study, tutor lessons, and deliberate practice.
+            </p>
+            {{#expandable}}
+              <b>Talent</b><sup>srs</sup> tracks proficiency at a granular
+              level and recognizes that most courses share common ground. This
+              means everything you learn in any course will automatically count
+              towards the completion and mastery of similar courses.
+            {{/expandable}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-2 col-sm-offset-1 col-sm-push-7">
+            <img class="media-svg" src="science.svg"/>
+          </div>
+          <div class="col-sm-6 col-sm-offset-1 col-sm-pull-3" id="parent">
+            <h2>Empirical</h2>
+            <p>
+              Research into learning and training has uncovered 5 proven
+              cornerstones to effective and efficient study. These techniques
+              will unlock your learning potential and leave you amazed of your
+              own talents.
+            </p>
+            {{#expandable}}
+              <ol>
+                <li>
+                  <b>Deliberate practice</b>
+                  <p></p>
+                </li>
+                <li>
+                  <b>Active recall</b>
+                  <p></p>
+                </li>
+                <li>
+                  <b>The Spacing Effect</b>
+                  <p></p>
+                </li>
+                <li>
+                  <b>Skill building</b>
+                  <p></p>
+                </li>
+                <li>
+                  <b>Skill mastery</b>
+                  <p></p>
+                </li>
+              </ol>
+            {{/expandable}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </article> -->
+  
+  <footer class="jumbotron" style="margin-bottom: 0px;">
+    <div class="row">
+      <div class="col-xs-2 col-xs-offset-4">
+        <ul class="list-unstyled">
+          <li><h3>Company</h3></li>
+          <li>About us</li>
+          <li>Privacy</li>
+          <li>&copy; L Foundation</li>
+        </ul>
+      </div>
+      <div class="col-xs-2">
+        <ul class="list-unstyled">
+          <li><h3>Support</h3></li>
+          <li>Contact: dh@talentsrs.com</li>
+          <li><a href="http://en.wikipedia.org/wiki/Pinyin">Pinyin</a></li>
+          <li><a href="http://www.pinyinjoe.com/">Chinese IME</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</template>

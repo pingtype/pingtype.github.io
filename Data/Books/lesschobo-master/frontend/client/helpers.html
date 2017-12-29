@@ -1,0 +1,20 @@
+<template name="autofocus">
+  {{> UI.contentBlock }}
+</template>
+
+<template name="expandable">
+  <div class="collapse" id="block{{unique}}">
+    {{> UI.contentBlock }}
+  </div>
+  {{#if toggle}}
+    <a style="text-align: center; display: block;" data-toggle="collapse"
+      href="#block{{unique}}">Show more</a>
+  {{else}}
+    <a style="text-align: center; display: block;" data-toggle="collapse"
+      href="#block{{unique}}">Show less</a>
+  {{/if}}
+</template>
+
+<template name="dotdotdot">
+  {{> UI.contentBlock }}
+</template>

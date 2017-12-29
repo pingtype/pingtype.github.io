@@ -1,0 +1,63 @@
+<template name="courseLine">
+  <div class="crop">
+    {{#if img}}
+      <img src="{{img}}"/>
+    {{else}}
+      <svg viewbox="-50 -50 100 100">
+        <text fill="#ccc" text-anchor="middle" dominant-baseline="middle" transform="scale(5)" x="0" y="0">☆</text>
+      </svg>
+    {{/if}}
+  </div>
+  <div class="info">
+    <div class="title">
+      <h2>
+        <a href="{{pathFor 'view' id=_id slug='slug' nth=0}}">
+          {{title}}
+        </a>
+      </h2>
+    </div>
+    <div class="sub-title">
+      <div class="meter-group">
+        <div class="meter"
+          data-toggle="tooltip"
+          data-placement="top"
+          title="You've started learning {{ofTotalPercent 'seen'}}% of the content in this course.">
+          <span class="started" style="width: {{ofTotalPercent 'seen'}}%"></span>
+        </div>
+        <div class="meter mastered"
+          data-toggle="tooltip"
+          data-placement="top"
+          title="You've mastered {{ofTotalPercent 'mastered'}}% of the content in this course.">
+          <span class="mastered" style="width: {{ofTotalPercent 'mastered'}}%"></span>
+        </div>
+      </div>
+      <span class="followers">
+        0 <span class="star">☆</span>
+      </span>
+      {{#each tags}}
+        <span class="label label-info">{{this}}</span>
+      {{/each}}
+    </div>
+    {{#dotdotdot}}
+      <div class="description dotdotdot">              
+        {{#if description}}
+          {{description}}
+        {{else}}
+          No description for this course.
+        {{/if}}
+      </div>
+    {{/dotdotdot}}
+  </div>
+</template>
+
+<template name="browseCourses">
+  <div class="new-browse container">
+    {{#each courses}}
+      <div class="row">
+        <div class="col-md-offset-1 col-md-9">
+          {{> courseLine}}
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</template>

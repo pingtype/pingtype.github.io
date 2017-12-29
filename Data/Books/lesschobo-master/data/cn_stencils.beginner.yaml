@@ -1,0 +1,3497 @@
+- chinese: 您好！
+  english:
+  - Hello!
+  type: chinese
+- chinese: 您贵姓？
+  english:
+  - What's your last (family) name?
+  type: chinese
+- chinese: 他姓王吗？
+  english:
+  - Is his last (family) name Wang?
+  type: chinese
+- chinese: 李先生好！
+  english:
+  - Hello, Mr. Li.
+  type: chinese
+- chinese: 我姓李。
+  english:
+  - My last (family) name is Li.
+  type: chinese
+- chinese: 他叫大卫。
+  english:
+  - His name is David.
+  type: chinese
+- chinese: 王先生，您好！
+  english:
+  - Hello, Mr. Wang!
+  type: chinese
+- chinese: 他是哪国人？
+  english:
+  - Which country is he from?
+  type: chinese
+- chinese: 李先生不是中国人，是美国人。
+  english:
+  - Mr. Li is not Chinese, he's American.
+  type: chinese
+- chinese: 她美吗？
+  english:
+  - Is she beautiful?
+  type: chinese
+- chinese: 她是中国人吗？
+  english:
+  - Is she Chinese?
+  type: chinese
+- chinese: 我不姓王。
+  english:
+  - My last (family) name is not Wang.
+  type: chinese
+- chinese: 他不是英国人。
+  english:
+  - He is not English.
+  type: chinese
+- chinese: 你是李爱美吗？
+  english:
+  - Are you Amy Li?
+  type: chinese
+- chinese: 他姓什么？
+  english:
+  - What is his last (family) name?
+  type: chinese
+- chinese: 我是台湾人。
+  english:
+  - I am Taiwanese.
+  type: chinese
+- chinese: 他不叫大卫。
+  english:
+  - His name is not David.
+  type: chinese
+- chinese: 他是中国人。
+  english:
+  - He is Chinese.
+  type: chinese
+- chinese: 她叫珍妮。
+  english:
+  - Her name is Jenny.
+  type: chinese
+- chinese: 谁是王先生？
+  english:
+  - Who is Mr. Wang?
+  type: chinese
+- chinese: 我姓王。
+  english:
+  - My last (family) name is Wang.
+  type: chinese
+- chinese: 他叫李大卫。
+  english:
+  - His name is David Li.
+  type: chinese
+- chinese: 李先生是台湾人。
+  english:
+  - Mr. Li is Taiwanese.
+  type: chinese
+- chinese: 你是李先生吗？
+  english:
+  - Are you Mr. Li?
+  type: chinese
+- chinese: 我是台湾人，你呢？
+  english:
+  - I'm Taiwanese, how about you?
+  type: chinese
+- chinese: 李先生，早。
+  english:
+  - Good morning, Mr. Li.
+  type: chinese
+- chinese: 赵小姐，您好。
+  english:
+  - Hello, Miss Zhao.
+  type: chinese
+- chinese: 谁是张先生？
+  english:
+  - Who is Mr. Zhang?
+  type: chinese
+- chinese: 王小姐，好久不见。
+  english:
+  - Miss Wang, long time no see.
+  type: chinese
+- chinese: 我好忙啊！
+  english:
+  - I'm so busy!
+  type: chinese
+- chinese: 王先生，您是英国人吗？
+  english:
+  - Mr. Wang, are you English?
+  type: chinese
+- chinese: 是啊，我是英国人。
+  english:
+  - Yes, I'm English.
+  type: chinese
+- chinese: 天气好冷啊！
+  english:
+  - The weather is so cold!
+  type: chinese
+- chinese: 你很忙吗？
+  english:
+  - Are you very busy?
+  type: chinese
+- chinese: 我很好，谢谢！
+  english:
+  - I'm fine, thank you!
+  type: chinese
+- chinese: 张太太也很忙。
+  english:
+  - Mrs. Zhang is also very busy.
+  type: chinese
+- chinese: 这是什么？
+  english:
+  - What is this?
+  type: chinese
+- chinese: 她是我太太。
+  english:
+  - She is my wife.
+  type: chinese
+- chinese: 天气好热啊！
+  english:
+  - The weather is so hot!
+  type: chinese
+- chinese: 你热不热？
+  english:
+  - Are you hot?
+  type: chinese
+- chinese: 你们好吗？
+  english:
+  - How are you all?
+  type: chinese
+- chinese: 我不太忙。
+  english:
+  - I am not too busy.
+  type: chinese
+- chinese: 天气太热！
+  english:
+  - The weather is too hot!
+  type: chinese
+- chinese: 李小姐，再见！
+  english:
+  - Good bye, Miss Li!
+  type: chinese
+- chinese: 你冷不冷？
+  english:
+  - Are you cold?
+  type: chinese
+- chinese: 你很忙，我也很忙。
+  english:
+  - You are busy, I'm also busy.
+  type: chinese
+- chinese: 天气不冷,也不热。
+  english:
+  - The weather is not cold and not hot.
+  type: chinese
+- chinese: 我喜欢他。
+  english:
+  - I like him.
+  type: chinese
+- chinese: 你看谁？
+  english:
+  - Who are you looking at?
+  type: chinese
+- chinese: 你喜欢看电影吗？
+  english:
+  - Do you like to watch movies?
+  type: chinese
+- chinese: 他不看电视。
+  english:
+  - He doesn't watch TV.
+  type: chinese
+- chinese: 他们都很忙。
+  english:
+  - They are both very busy.
+  type: chinese
+- chinese: 我们都不喜欢他。
+  english:
+  - We all don't like him.
+  type: chinese
+- chinese: 他们不都是日本人。
+  english:
+  - They aren't all Japanese.
+  type: chinese
+- chinese: 你有什么书？
+  english:
+  - What books do you have?
+  type: chinese
+- chinese: 我没有英文书。
+  english:
+  - I don't have English books.
+  type: chinese
+- chinese: 我要中文书。
+  english:
+  - I want Chinese books.
+  type: chinese
+- chinese: 你有没有英国汽车？
+  english:
+  - Do you have an English car?
+  type: chinese
+- chinese: 他没有车。
+  english:
+  - He doesn't have a car.
+  type: chinese
+- chinese: 你要买什么？
+  english:
+  - What do you want to buy?
+  type: chinese
+- chinese: 王小姐很好看。
+  english:
+  - Miss Wang is very good looking.
+  type: chinese
+- chinese: 我很忙，可是我不累。
+  english:
+  - I am very busy, but I'm not tired.
+  type: chinese
+- chinese: 英国车贵不贵？
+  english:
+  - Are English cars expensive?
+  type: chinese
+- chinese: 她是日本人。
+  english:
+  - She is Japanese.
+  type: chinese
+- chinese: 我要买日本笔。
+  english:
+  - I want to buy a Japanese pen.
+  type: chinese
+- chinese: 他喜欢德国车。
+  english:
+  - He likes German cars.
+  type: chinese
+- chinese: 你看什么报？
+  english:
+  - What newspaper(s) do you read?
+  type: chinese
+- chinese: 我没有法文书。
+  english:
+  - I don't have French books.
+  type: chinese
+- chinese: 你喜欢什么东西？
+  english:
+  - What (things) do you like?
+  type: chinese
+- chinese: 他不懂法文。
+  english:
+  - He doesn't understand French.
+  type: chinese
+- chinese: 英文报，我不看。
+  english:
+  - I don't read English newspapers.
+  type: chinese
+- chinese: 法文书，英文书，我都有。
+  english:
+  - I have both French and English books.
+  type: chinese
+- chinese: 你喜不喜欢他？
+  english:
+  - Do you like him (or not)?
+  type: chinese
+- chinese: 你有没有笔呢？
+  english:
+  - Do you have a pen (or not)?
+  type: chinese
+- chinese: 我不喜欢这枝笔。
+  english:
+  - I don't like this pen.
+  type: chinese
+- chinese: 你有多少钱？
+  english:
+  - How much money do you have?
+  type: chinese
+- chinese: 他有很多书。
+  english:
+  - He has a lot of books.
+  type: chinese
+- chinese: 我要买不少东西。
+  english:
+  - I want to buy quite a few things.
+  type: chinese
+- chinese: 这枝笔多少钱？
+  english:
+  - How much is this pen?
+  type: chinese
+- chinese: 这种笔很好。
+  english:
+  - This kind of pen is very good.
+  type: chinese
+- chinese: 她有一个英文名字。
+  english:
+  - She has an English name.
+  type: chinese
+- chinese: 我有二十块钱。
+  english:
+  - I have twenty dollars.
+  type: chinese
+- chinese: 王先生要买三枝笔。
+  english:
+  - Mr. Wang wants to buy three pens.
+  type: chinese
+- chinese: 这几本书都是中文书。
+  english:
+  - These books are all Chinese books.
+  type: chinese
+- chinese: 你有几枝笔？
+  english:
+  - How many pens do you have?
+  type: chinese
+- chinese: 我要买这两枝笔。
+  english:
+  - I want to buy these two pens.
+  type: chinese
+- chinese: 你有几块钱？
+  english:
+  - How much money do you have?
+  type: chinese
+- chinese: 他不要给我笔。
+  english:
+  - He doesn't want to give me a pen.
+  type: chinese
+- chinese: 请你给我一枝笔。
+  english:
+  - Please give me a pen.
+  type: chinese
+- chinese: 你请不请他？
+  english:
+  - Did you invite him?
+  type: chinese
+- chinese: 我没有零钱，请你找钱。
+  english:
+  - I don't have any coins, please give me change.
+  type: chinese
+- chinese: 他找你多少钱？
+  english:
+  - How much change did he give you?
+  type: chinese
+- chinese: 那几个人很忙。
+  english:
+  - Those people are very busy.
+  type: chinese
+- chinese: 我要一杯咖啡。
+  english:
+  - I want a cup of coffee.
+  type: chinese
+- chinese: 一枝笔，两本书，一共多少钱？
+  english:
+  - How much is it all together for one pen and two books?
+  type: chinese
+- chinese: 一枝笔三块半。
+  english:
+  - One pen is three and a half dollars.
+  type: chinese
+- chinese: 那位小姐很好看。
+  english:
+  - That girl is very good looking.
+  type: chinese
+- chinese: 这本书很好。
+  english:
+  - This book is very good.
+  type: chinese
+- chinese: 那三枝笔很贵。
+  english:
+  - Those three pens are very expensive.
+  type: chinese
+- chinese: 笔，一枝两块钱。
+  english:
+  - Pens are two dollars each.
+  type: chinese
+- chinese: 笔，几块钱一枝？
+  english:
+  - How much for a pen?
+  type: chinese
+- chinese: 你家有几个人？
+  english:
+  - How many people are in your family?
+  type: chinese
+- chinese: 我妈妈有中文书。
+  english:
+  - My mother has Chinese books.
+  type: chinese
+- chinese: 这是我的书。
+  english:
+  - This is my book.
+  type: chinese
+- chinese: 那不是我的像片。
+  english:
+  - That is not my photograph.
+  type: chinese
+- chinese: 那位是我的老师。
+  english:
+  - That person is my teacher.
+  type: chinese
+- chinese: 你很忙，对不对？
+  english:
+  - You're very busy, right?
+  type: chinese
+- chinese: 这张像片是谁的？
+  english:
+  - Who's picture is this?
+  type: chinese
+- chinese: 你哥哥叫什么？
+  english:
+  - What's your older brother's name?
+  type: chinese
+- chinese: 他是你哥哥还是你弟弟？
+  english:
+  - Is he your older or younger brother?
+  type: chinese
+- chinese: 他有两个弟弟。
+  english:
+  - ! 'He has two little brothers. '
+  type: chinese
+- chinese: 那个小孩子喜欢看电视。
+  english:
+  - That child likes to watch TV.
+  type: chinese
+- chinese: 我有三个日本朋友。
+  english:
+  - I have three Japanese friends.
+  type: chinese
+- chinese: 这些人都很好。
+  english:
+  - These people are all very nice.
+  type: chinese
+- chinese: 我有一些台湾朋友。
+  english:
+  - I have some Taiwanese friends.
+  type: chinese
+- chinese: 有的日本人不懂英文。
+  english:
+  - Some Japanese people don't understand English.
+  type: chinese
+- chinese: 王伯伯很喜欢孩子。
+  english:
+  - Uncle Wang really likes children.
+  type: chinese
+- chinese: 你的猫叫什么名字？
+  english:
+  - What's your cat's name?
+  type: chinese
+- chinese: 张伯伯有两个儿子，一个女儿。
+  english:
+  - Ungle Zhang has two sons and one daughter.
+  type: chinese
+- chinese: 你是他的学生吗？
+  english:
+  - Are you his student?
+  type: chinese
+- chinese: 我要学中文。
+  english:
+  - I want to learn Chinese.
+  type: chinese
+- chinese: 我没有姐姐妹妹。
+  english:
+  - I don't have any sisters.
+  type: chinese
+- chinese: 我这两本书。
+  english:
+  - These two books of mine.
+  type: chinese
+- chinese: 你那位朋友很忙。
+  english:
+  - That friend of yours is very busy.
+  type: chinese
+- chinese: 他那两个儿子都很喜欢看书。
+  english:
+  - Those two kids of his both like to read books.
+  type: chinese
+- chinese: 王先生那辆车很好看。
+  english:
+  - That car of Mr. Wang's is very good looking.
+  type: chinese
+- chinese: 我这三枝笔都不贵。
+  english:
+  - These three pens of mine are all inexpensive.
+  type: chinese
+- chinese: 这个杯子是谁的？
+  english:
+  - Whose cup is this?
+  type: chinese
+- chinese: 那些书，有的好看，有的不好看。
+  english:
+  - Of those books, some are good reads, some are not.
+  type: chinese
+- chinese: 那两本书，一本好看，一本不好看。
+  english:
+  - Of those two books, one is a good read and the other isn't.
+  type: chinese
+- chinese: 你们渴吗？
+  english:
+  - Are you all thirsty?
+  type: chinese
+- chinese: 你饿不饿？
+  english:
+  - Are you hungry?
+  type: chinese
+- chinese: 请问，您贵姓？
+  english:
+  - May I ask, what's your last (family) name?
+  type: chinese
+- chinese: 很高兴认识你。
+  english:
+  - I'm pleased to meet you.
+  type: chinese
+- chinese: 你认识王大年先生吗？
+  english:
+  - Do you know Mr. Wang Danian?
+  type: chinese
+- chinese: 她是张老师。
+  english:
+  - She is teacher Zhang.
+  type: chinese
+- chinese: 我是学生，你是老师。
+  english:
+  - I'm a student, you're a teacher.
+  type: chinese
+- chinese: 王先生是律师。
+  english:
+  - Mr. Wang is a lawyer.
+  type: chinese
+- chinese: 她不是老师，她是工程师。
+  english:
+  - She isn't a teacher, she's an engineer.
+  type: chinese
+- chinese: 张小姐是韩国人吗？
+  english:
+  - Is Miss Zhang Korean?
+  type: chinese
+- chinese: 李先生是不是工程师？
+  english:
+  - Is Mr. Li an engineer?
+  type: chinese
+- chinese: 我不是律师，也不是老师，我是工程师。
+  english:
+  - I am not a lawyer or a teacher, I'm an engineer.
+  type: chinese
+- chinese: 中文书和英文书，我都爱看。
+  english:
+  - I love to read both Chinese and English books.
+  type: chinese
+- chinese: 电影我喜欢看，可是电视我不喜欢看。
+  english:
+  - I like to watch movies, but I don't like to watch TV.
+  type: chinese
+- chinese: 日本车和德国车我都喜欢，可是都太贵！
+  english:
+  - I like both Japanese and German cars, but they are both too expensive!
+  type: chinese
+- chinese: 对不起，我们只卖报纸，不卖书。
+  english:
+  - Sorry, we only sell newspapers, we don't sell books.
+  type: chinese
+- chinese: 李小姐很爱看书。
+  english:
+  - Miss Li loves to read books.
+  type: chinese
+- chinese: 你想看什么电影？
+  english:
+  - Which movies do you want to see?
+  type: chinese
+- chinese: 德国车很贵，日本车也不便宜。
+  english:
+  - German cars are expensive, Japanese cars aren't cheap either.
+  type: chinese
+- chinese: 我只有中文书，没有日文书。
+  english:
+  - I only have Chinese books, I don't have Japanese books.
+  type: chinese
+- chinese: 请问，这是哪国地图？
+  english:
+  - May I ask, this is a map of what country?
+  type: chinese
+- chinese: 对不起，我不懂英文。
+  english:
+  - Sorry, I don't understand English.
+  type: chinese
+- chinese: 中文书和英文书，我都不卖。
+  english:
+  - I don't sell English books or Chinese books.
+  type: chinese
+- chinese: 我要买一枝原子笔。
+  english:
+  - I want to buy this ballpoint pen.
+  type: chinese
+- chinese: 这是铅笔，那是原子笔，你要哪种笔？
+  english:
+  - This is a pencil, that is a ballpoint pen, what kind of pen do you want?
+  type: chinese
+- chinese: 这两种水果都很新鲜。
+  english:
+  - These two kinds of fruit are very fresh.
+  type: chinese
+- chinese: 他要买两本英文杂志。
+  english:
+  - He wants to buy two English magazines.
+  type: chinese
+- chinese: 这两个法国人都喜欢那辆德国车。
+  english:
+  - These two Frenchmen both like those German cars.
+  type: chinese
+- chinese: 王先生，欢迎欢迎！请进！
+  english:
+  - Mr. Wang, welcome welcome! Please come in!
+  type: chinese
+- chinese: 这种东西很特别。
+  english:
+  - This kind of thing is very special.
+  type: chinese
+- chinese: 最近西瓜特别甜。
+  english:
+  - Recently watermellons are especially sweet.
+  type: chinese
+- chinese: 这种茶的味道真特别。
+  english:
+  - This kind of tea has a really special flavor.
+  type: chinese
+- chinese: 李小姐做什么工作？
+  english:
+  - What is Miss Li's occupation?
+  type: chinese
+- chinese: 陈老师教什么？
+  english:
+  - What does teacher Chen teach?
+  type: chinese
+- chinese: 这些法律太难，我不懂。
+  english:
+  - These laws are very difficult, I don't understand them.
+  type: chinese
+- chinese: 中文不难，很容易！
+  english:
+  - Chinese is not difficult, it's very easy!
+  type: chinese
+- chinese: 这辆车很好，一定不便宜。
+  english:
+  - This car is really good, it must not be cheap.
+  type: chinese
+- chinese: 你是律师，一定很聪明。
+  english:
+  - You are a lawyer, you must be very smart.
+  type: chinese
+- chinese: 哪里，你过奖了！
+  english:
+  - No, no, I'm flattered!
+  type: chinese
+- chinese: 我觉得这种茶的味道真好。
+  english:
+  - I think that the flavor of this kind of tea is really good.
+  type: chinese
+- chinese: 我像爸爸。
+  english:
+  - I look like my father.
+  type: chinese
+- chinese: 他们两个人很像，是兄弟吗？
+  english:
+  - Those two guys look very alike, are they brothers?
+  type: chinese
+- chinese: 这是你的相片吗？
+  english:
+  - Is this your picture?
+  type: chinese
+- chinese: 你儿子几岁？
+  english:
+  - How old is your son?
+  type: chinese
+- chinese: 请给我半个西瓜。
+  english:
+  - Please give me half of the watermelon.
+  type: chinese
+- chinese: 这些学生，一半是美国人，一半什么日本人。
+  english:
+  - Of these students, half of them are American, the other half are Japanese.
+  type: chinese
+- chinese: 这两个孩子真可爱。
+  english:
+  - These two kids are really cute.
+  type: chinese
+- chinese: 他家有不少外国东西。
+  english:
+  - His house has quite a few foreign things.
+  type: chinese
+- chinese: 我的钱很少，可是我的书很多。
+  english:
+  - I don't have much money, but I have a lot of books.
+  type: chinese
+- chinese: 这位是我的女朋友，她叫玛丽。
+  english:
+  - This is my girlfriend, her name is Mary.
+  type: chinese
+- chinese: 他认识很多中国朋友。
+  english:
+  - He knows many Chinese friends.
+  type: chinese
+- chinese: 王先生的女儿非常可爱。
+  english:
+  - Mr. Wang's daughter is very cute.
+  type: chinese
+- chinese: 李太太家的孩子都很聪明。
+  english:
+  - Mrs. Li's children are all very smart.
+  type: chinese
+- chinese: 我很喜欢看中国电影。
+  english:
+  - I really like to watch Chinese movies.
+  type: chinese
+- chinese: 我要一份中文报和一份英文报。
+  english:
+  - I want one Chinese newspaper and one English newspaper.
+  type: chinese
+- chinese: 你们这些书都很难。
+  english:
+  - Your books are all very difficult.
+  type: chinese
+- chinese: 你姐姐的男朋友叫什么名字？
+  english:
+  - What's your older sister's boyfriend's name?
+  type: chinese
+- chinese: 我的学生，有的是中国人，有的是外国人。
+  english:
+  - Of my students, some are Chinese, some are foreigners.
+  type: chinese
+- chinese: 他想买一枝美国笔。
+  english:
+  - He's thinking of buying an American pen.
+  type: chinese
+- chinese: 我想那个人不是中国人。
+  english:
+  - I think that person is not Chinese.
+  type: chinese
+- chinese: 我很想我妈妈。
+  english:
+  - I really miss my mother.
+  type: chinese
+- chinese: 我的笔是新的。
+  english:
+  - My pen is new.
+  type: chinese
+- chinese: 我没有照像机。
+  english:
+  - I don't have a camera.
+  type: chinese
+- chinese: 请问您是哪国人？
+  english:
+  - Excuse me, what country are you from?
+  type: chinese
+- chinese: 我问他这个叫什么。
+  english:
+  - I asked him what this is called.
+  type: chinese
+- chinese: 我想要买一辆旧车。
+  english:
+  - I'm want to buy a used car.
+  type: chinese
+- chinese: 天气太热了。
+  english:
+  - The weather is too hot.
+  type: chinese
+- chinese: 我家的电视机是日本货。
+  english:
+  - My family's TV is a Japanese product.
+  type: chinese
+- chinese: 我觉得他的车很好看。
+  english:
+  - I think that his car looks very nice.
+  type: chinese
+- chinese: 我的车很大。
+  english:
+  - My car is very big.
+  type: chinese
+- chinese: 我有一百块钱。
+  english:
+  - I have one hundred dollars.
+  type: chinese
+- chinese: 这枝笔很便宜，可是很好。
+  english:
+  - This pen is very cheap, but it's very good.
+  type: chinese
+- chinese: 他只有一个弟弟。
+  english:
+  - The only has one little brother.
+  type: chinese
+- chinese: 那辆车卖多少钱？
+  english:
+  - How much is that car selling for?
+  type: chinese
+- chinese: 我们大学有很多学生。
+  english:
+  - Our university has a lot of students.
+  type: chinese
+- chinese: 那辆车卖一万块钱。
+  english:
+  - That car sells for ten thousand dollars.
+  type: chinese
+- chinese: 我不知道那个英国人姓什么。
+  english:
+  - I don't know what that English man's family (last) name is.
+  type: chinese
+- chinese: 一个表一千块钱，贵不贵？
+  english:
+  - Is a thousand dollars for a watch expensive?
+  type: chinese
+- chinese: 他真是一个好人。
+  english:
+  - He really is a good person.
+  type: chinese
+- chinese: 那个学校很好。
+  english:
+  - That school is very good.
+  type: chinese
+- chinese: 他哥哥很有名。
+  english:
+  - His older brother is very famous.
+  type: chinese
+- chinese: 美国有几亿人？
+  english:
+  - How many hundreds of millions of people are there in the USA?
+  type: chinese
+- chinese: 他只给我五块钱，不够。
+  english:
+  - He only gave me five dollars, it isn't enough.
+  type: chinese
+- chinese: 三百多块钱。
+  english:
+  - More than three hundred dollars.
+  type: chinese
+- chinese: 李老师有一百多本中文书。
+  english:
+  - Teacher Li has over 100 Chinese books.
+  type: chinese
+- chinese: 那个小孩子只有一块多钱。
+  english:
+  - That little kid only has a little more than one dollar.
+  type: chinese
+- chinese: 我们一共有八块多钱，够不够？
+  english:
+  - We, together, have just over 8 dollars, is that enough?
+  type: chinese
+- chinese: 两本书一共三块多钱，真便宜。
+  english:
+  - Two books are just over three dollars, that's really cheap.
+  type: chinese
+- chinese: 有的人喜欢大车，有的人喜欢小车。
+  english:
+  - Some people like big cars, others like small cars.
+  type: chinese
+- chinese: 有名的人都很忙。
+  english:
+  - Famous people are all very busy.
+  type: chinese
+- chinese: 他们是很好的朋友。
+  english:
+  - They are good friends.
+  type: chinese
+- chinese: 我有很多的日本东西。
+  english:
+  - I have a lot of Japanese things.
+  type: chinese
+- chinese: 那两个人，高的姓张，矮的姓李。
+  english:
+  - Of those two people, the tall one is Zhang, the short one is Li.
+  type: chinese
+- chinese: 那两个表，小|的是我的，大的是我先生的。
+  english:
+  - Of those two watches, the small one is mine, the big one is my husband's.
+  type: chinese
+- chinese: 这两位小姐，一位高，一位矮，哪位是日本人？
+  english:
+  - Of these two ladies, one is tall, one is short, which one is Japanese?
+  type: chinese
+- chinese: 台湾的，日本的，韩国的，大部分牌子都有。
+  english:
+  - Of Taiwense ones, Japanese ones, and Korean ones, we have almost all brands.
+  type: chinese
+- chinese: 李先生做什么生意？
+  english:
+  - What business is Mr. Li in?
+  type: chinese
+- chinese: 张先生卖外国车，他的生意很好。
+  english:
+  - Mr Zhang sells foreign cars, he has a very good business.
+  type: chinese
+- chinese: 你的电脑是什么牌子的？
+  english:
+  - What brand is your computer?
+  type: chinese
+- chinese: 大部分的中国人都爱喝茶。
+  english:
+  - Most Chinese people love to drink tea.
+  type: chinese
+- chinese: 这个部分很难，我不太懂。
+  english:
+  - This part is hard, I don't really understand.
+  type: chinese
+- chinese: 这个牌子的电脑非常好，可是比较贵。
+  english:
+  - This brand of computer is very good, but it's more expensive.
+  type: chinese
+- chinese: 我比较喜欢看中文电影。
+  english:
+  - I prefer to watch Chinese movies.
+  type: chinese
+- chinese: 这两种水果，我比较喜欢这种。
+  english:
+  - Of these two kinds of fruit, I prefer this kind.
+  type: chinese
+- chinese: 外国东西贵，可是不一定好。
+  english:
+  - Foreign goods are expensive, but not necessarily good.
+  type: chinese
+- chinese: 客人都喜欢买便宜的吗？
+  english:
+  - Do all customers like to buy cheap ones?
+  type: chinese
+- chinese: 不一定，有的客人喜欢买好的。
+  english:
+  - It depends, some customers like to buy good ones.
+  type: chinese
+- chinese: 你觉得这个牌子的电脑怎么样？
+  english:
+  - What do you think of this brand of computer?
+  type: chinese
+- chinese: 你最近怎么样？
+  english:
+  - How have you been lately?
+  type: chinese
+- chinese: 陈先生的那个工作不错！
+  english:
+  - Mr. Chen has a pretty good job!
+  type: chinese
+- chinese: 这个牌子的东西真不错。
+  english:
+  - This company's products really aren't bad.
+  type: chinese
+- chinese: 对不起，这是我的错。
+  english:
+  - Sorry, this is my mistake.
+  type: chinese
+- chinese: 现在做什么生意比较好？
+  english:
+  - What's a good buisiness to be in now?
+  type: chinese
+- chinese: 现在卖车，卖电脑都不错。
+  english:
+  - These days, selling cars or computers are both not bad (jobs).
+  type: chinese
+- chinese: 大家都喜欢这个牌子的车。
+  english:
+  - Everybody likes this brand of car.
+  type: chinese
+- chinese: 你用什么牌子的电脑？
+  english:
+  - What brand of computer do you use?
+  type: chinese
+- chinese: 他们公司不大，可是生意很好。
+  english:
+  - Their company isn't big, but it's good.
+  type: chinese
+- chinese: 这些苹果比较大，那些比较小。
+  english:
+  - These apples are bigger, those are smaller.
+  type: chinese
+- chinese: 这台电脑要四万多块钱。
+  english:
+  - This computer costs over forty thousand dollars.
+  type: chinese
+- chinese: 这台电脑非常好，可是太贵了！
+  english:
+  - This computer is great, but it's too expensive!
+  type: chinese
+- chinese: 这张地图太旧了，我想买张新的。
+  english:
+  - This map is too old, I want to buy a new one.
+  type: chinese
+- chinese: 我想看一下那支手机。
+  english:
+  - I would like to take a look at that cell phone.
+  type: chinese
+- chinese: 这支手机的款式不错，我很喜欢。
+  english:
+  - This style of cell phone isn't bad, I like it a lot.
+  type: chinese
+- chinese: 大部分的客人喜欢新式的，不喜欢旧式的。
+  english:
+  - Most customers like the new styles, they don't like the old styles.
+  type: chinese
+- chinese: 这个黑的和那个白的，哪个好看？
+  english:
+  - Which is prettier, this black one or that white one?
+  type: chinese
+- chinese: 这本书很好看，你要不要看？
+  english:
+  - This book is very good, do you want to read it?
+  type: chinese
+- chinese: 年轻人都喜欢买新式的东西。
+  english:
+  - Young people all like to buy the latest styles.
+  type: chinese
+- chinese: 大家都很喜欢这首老歌。
+  english:
+  - Everyone likes this old song.
+  type: chinese
+- chinese: 这台笔记型电脑是最新的款式。
+  english:
+  - This laptop is currently the latest style.
+  type: chinese
+- chinese: 新的太贵了，我们买这辆旧的，好不好？
+  english:
+  - The new one is too expensive, let's buy this old one (car) instead, O.K.?
+  type: chinese
+- chinese: 这本书真便宜，只要五块多。
+  english:
+  - This book is really cheap, it's just over five dollars.
+  type: chinese
+- chinese: 一共两斤多，你给我六十块钱。
+  english:
+  - Together it's a little more than two jin, give me 60 dollars.
+  type: chinese
+- chinese: 这种葡萄比较便宜，一斤九块钱。
+  english:
+  - This kind of grape is cheaper, one jin is nine dollars.
+  type: chinese
+- chinese: 那个牌子的手机有九千多块钱。
+  english:
+  - That brand of cell phone costs over nine thousand dollars.
+  type: chinese
+- chinese: 有没有八，九百块钱的录音机？
+  english:
+  - Are there any $800-$900 tape recorders?
+  type: chinese
+- chinese: 这支手机是最新的样式。
+  english:
+  - This cell phone is the newest style.
+  type: chinese
+- chinese: 妈妈喜欢买新鲜的水果。
+  english:
+  - Mother likes to buy fresh fruit.
+  type: chinese
+- chinese: 张太太爱买便宜的东西。
+  english:
+  - Mrs. Zhang loves to buy cheap things.
+  type: chinese
+- chinese: 我有两个聪明的孩子。
+  english:
+  - I have two clever children.
+  type: chinese
+- chinese: 这几辆车都是旧的。
+  english:
+  - These cars are all used ones.
+  type: chinese
+- chinese: 我想买一个随身听。
+  english:
+  - I'm thinking of buying a walkman.
+  type: chinese
+- chinese: 这个随身听怎么样？
+  english:
+  - How is this walkman?
+  type: chinese
+- chinese: 你觉得这本中文杂志怎么样？
+  english:
+  - What do you think of this Chinese magazine?
+  type: chinese
+- chinese: 请你念。
+  english:
+  - Please read aloud.
+  type: chinese
+- chinese: 我不喜欢念书。
+  english:
+  - I don't like to study.
+  type: chinese
+- chinese: 他念书，念得很好。
+  english:
+  - He studies very well.
+  type: chinese
+- chinese: 那个歌很好听。
+  english:
+  - That song sounds very good.
+  type: chinese
+- chinese: 我喜欢听妹妹唱歌。
+  english:
+  - I like to listen to my younger sister sing.
+  type: chinese
+- chinese: 他在看报。
+  english:
+  - He is reading a newspaper.
+  type: chinese
+- chinese: 他在吃饭呢。
+  english:
+  - He is eating.
+  type: chinese
+- chinese: 我写字，写得不慢。
+  english:
+  - I don't write slowly.
+  type: chinese
+- chinese: 那本英文书很有意思。
+  english:
+  - That English book is very interesting.
+  type: chinese
+- chinese: 这个字有很多意思。
+  english:
+  - This character has a lot of meanings.
+  type: chinese
+- chinese: 学中文有一点难。
+  english:
+  - Studying Chinese is a little difficult.
+  type: chinese
+- chinese: 我只懂一点日文。
+  english:
+  - I only understand a little Japanese.
+  type: chinese
+- chinese: 学英文难不难？
+  english:
+  - Is studying English difficult?
+  type: chinese
+- chinese: 王先生要学德国话。
+  english:
+  - Mr. Wang wants to study German.
+  type: chinese
+- chinese: 你现在不可以说英文。
+  english:
+  - You are not allowed to speak English now.
+  type: chinese
+- chinese: 请你教我一点中国话，好吗？
+  english:
+  - Please teach me a little Chinese, OK?
+  type: chinese
+- chinese: 王老师教书，教得很好。
+  english:
+  - Teacher Wang teaches very well.
+  type: chinese
+- chinese: 你现在很忙吗？
+  english:
+  - Are you very busy now?
+  type: chinese
+- chinese: 他的英文还说的不好。
+  english:
+  - He still can't speak English very well.
+  type: chinese
+- chinese: 他说他很忙。
+  english:
+  - He says he's very busy.
+  type: chinese
+- chinese: 现在不可以说话。
+  english:
+  - Right now talking is not allowed.
+  type: chinese
+- chinese: 你能不能给我那本书吗？
+  english:
+  - Can you give me that book?
+  type: chinese
+- chinese: 他姐姐会说日本话。
+  english:
+  - His older sister can speak Japanese.
+  type: chinese
+- chinese: 我很喜欢唱歌。
+  english:
+  - I really like to sing.
+  type: chinese
+- chinese: 你要吃什么。
+  english:
+  - What do you want to eat?
+  type: chinese
+- chinese: 王先生要请我们吃饭。
+  english:
+  - Mr. Wang wants to invite us for a meal.
+  type: chinese
+- chinese: 我很喜欢吃法国菜。
+  english:
+  - I really like to eat French food.
+  type: chinese
+- chinese: 李先生喜欢喝酒吗？
+  english:
+  - Does Mr. Li like to drink (alcohol)?
+  type: chinese
+- chinese: 你喜不喜欢写中国字？
+  english:
+  - Do you like to write Chinese characters?
+  type: chinese
+- chinese: 他不会写你的名字。
+  english:
+  - He doesn't know how to write your name.
+  type: chinese
+- chinese: 他很能做事。
+  english:
+  - He is very capable of handing things.
+  type: chinese
+- chinese: 他在做什么？
+  english:
+  - What's he doing?
+  type: chinese
+- chinese: 你有什么事？
+  english:
+  - What can I do for you?
+  type: chinese
+- chinese: 王太太很会做饭。
+  english:
+  - Mrs. Wang really can cook.
+  type: chinese
+- chinese: 那个孩子很喜欢画画。
+  english:
+  - That kid really likes to draw/paint pictures.
+  type: chinese
+- chinese: 老师写字，写的很快。
+  english:
+  - The teacher writes very quickly.
+  type: chinese
+- chinese: 你唱歌，他跳舞，好不好？
+  english:
+  - You sing, he'll dance, OK?
+  type: chinese
+- chinese: 我不会写汉字。
+  english:
+  - I can't write Chinese characters.
+  type: chinese
+- chinese: 小狗在跳舞吗？
+  english:
+  - ! 'Is the dog dancing? '
+  type: chinese
+- chinese: 他觉得德国酒真好喝。
+  english:
+  - He thinks German liquor is very good.
+  type: chinese
+- chinese: 李老师的中国画，画得很好看。
+  english:
+  - Teacher Li's paintings are very good.
+  type: chinese
+- chinese: 你的舞，跳得怎么样？
+  english:
+  - How well do you dance?
+  type: chinese
+- chinese: 这个东西好看，可是不好吃。
+  english:
+  - This stuff looks good, but it's not delicious.
+  type: chinese
+- chinese: 你想吃什么饭？吃中国饭，好吗？
+  english:
+  - What do you want to eat?  Is Chinese food OK?
+  type: chinese
+- chinese: 我儿子爱吃苹果，女儿爱吃西瓜。
+  english:
+  - My son loves to eat apples, my daughter loves to eat watermelon.
+  type: chinese
+- chinese: 我每天只吃两顿饭。
+  english:
+  - I only eat two meals a day.
+  type: chinese
+- chinese: 你觉得牛肉面好吃还是排骨面好吃？
+  english:
+  - Do you think beef noodles or fried pork noodles are more delicious?
+  type: chinese
+- chinese: 我们没有牛肉面；排骨面行不行？
+  english:
+  - We don't have been noodles; are fried pork noodles OK?
+  type: chinese
+- chinese: 我可以用你的笔吗？
+  english:
+  - May I use your pen?
+  type: chinese
+- chinese: 如果没有白的，黑的也可以。
+  english:
+  - If there aren't any white ones, black ones are also fine.
+  type: chinese
+- chinese: 請给我们两碗饭。
+  english:
+  - Please give me two bowls of rice.
+  type: chinese
+- chinese: 我们要一碗酸辣汤。
+  english:
+  - We would like a bowl of hot and sour soup.
+  type: chinese
+- chinese: 我不能吃太辣的东西。
+  english:
+  - I can't eat food that's too spicy.
+  type: chinese
+- chinese: 你要喝什么饮料。
+  english:
+  - What would you like to drink?
+  type: chinese
+- chinese: 对不起，我要开车，不能喝酒。
+  english:
+  - Sorry, I have to drive, I can't drink alcohol.
+  type: chinese
+- chinese: 请给我一杯啤酒。
+  english:
+  - Please give me one cup of beer.
+  type: chinese
+- chinese: 现在年轻人都会用电脑。
+  english:
+  - The younger generations nowadays all know how to use computers.
+  type: chinese
+- chinese: 我是韩国人，当然会用筷子。
+  english:
+  - I'm Korean, of course I know how to use chopsticks.
+  type: chinese
+- chinese: 你能看这么难的书，一定非常聪明。
+  english:
+  - You can read such a hard book, you must be very smart.
+  type: chinese
+- chinese: 你会说哪国话？
+  english:
+  - What languages can you speak?
+  type: chinese
+- chinese: 李小姐很聪明，也很会说话。
+  english:
+  - Miss Li is very smart, she really knows how to talk.
+  type: chinese
+- chinese: 王先生说他要开车，不能喝酒。
+  english:
+  - Mr. Wang said he has to drive, he can't drink alcohol.
+  type: chinese
+- chinese: 他说什么我不太懂。
+  english:
+  - I don't really understand what he said.
+  type: chinese
+- chinese: 你会不会说中国话？我只会说几句。
+  english:
+  - Do you speak Chinese?  I can only speak a few words.
+  type: chinese
+- chinese: 我不懂中国话，还不能看中国电影。
+  english:
+  - I don't understand Chinese, so I can't watch Chinese movies yet.
+  type: chinese
+- chinese: 这本杂志很有意思，你要不要看？
+  english:
+  - This magazine is very interesting, would you like to read it?
+  type: chinese
+- chinese: 这句话是什么意思？
+  english:
+  - What does this sentence mean?
+  type: chinese
+- chinese: 我觉得学中国话很有意思。
+  english:
+  - I think studying Chinese is very interesting.
+  type: chinese
+- chinese: 大家都说：说中国话容易，写中国字比较难。
+  english:
+  - ! 'Everyone says: speaking chinese is easy, writing Chinese characters is more
+    difficult.'
+  type: chinese
+- chinese: 有的日本字跟中国字很像。
+  english:
+  - Some Japanese words look like Chinese words.
+  type: chinese
+- chinese: 我认识不少中国字，可是只会写六，七十个。
+  english:
+  - I know quite a few Chinese characters, but can only write sixty or seventy.
+  type: chinese
+- chinese: 我会唱好几首英文歌。
+  english:
+  - I can sing quite a few English songs.
+  type: chinese
+- chinese: 这首歌真好听，待会你教我唱，好吗？
+  english:
+  - This song is really good, can you teach me how to sing it later?
+  type: chinese
+- chinese: 请给我们一瓶啤酒，好吗？
+  english:
+  - Could you please give us a bottle of beer?
+  type: chinese
+- chinese: 好，没问题。
+  english:
+  - Sure, no problem.
+  type: chinese
+- chinese: 你们有什么问题？
+  english:
+  - Do you have any questions?
+  type: chinese
+- chinese: 我妈妈很会做饭，特别会做法国饭。
+  english:
+  - My mother can rally cook, especially French food.
+  type: chinese
+- chinese: 大家都喜欢喝这种酒。
+  english:
+  - Everyone likes to drink this kind of liquor.
+  type: chinese
+- chinese: 我吃一碗饭。
+  english:
+  - I eat one bowl of rice.
+  type: chinese
+- chinese: 写中国字很难。
+  english:
+  - Writing Chinese characters is very difficult.
+  type: chinese
+- chinese: 有的外国人不会用筷子。
+  english:
+  - Some foreigners can't use chopsticks.
+  type: chinese
+- chinese: 我只认识一百个中国字，还不能看中文报纸。
+  english:
+  - I just know 100 Chinese characters, I still can't read a Chinese newspaper.
+  type: chinese
+- chinese: 你能不能给我们一个汤匙？
+  english:
+  - Could you give us a spoon?
+  type: chinese
+- chinese: 这个西瓜太大，我不能拿。
+  english:
+  - This watermelon is too big, I can't take it.
+  type: chinese
+- chinese: 一碗饭太多了，我只能吃半碗。
+  english:
+  - A whole bowl of rice is too much, I can just heat half a bowl.
+  type: chinese
+- chinese: 现在不可以说英文，只可以说中国话。
+  english:
+  - Right now you may not speak English, you may only speak Chinese.
+  type: chinese
+- chinese: 如果你觉得渴，可以喝杯水。
+  english:
+  - If you feel thirsty, you can drink a glass of water.
+  type: chinese
+- chinese: 如果你不喜欢吃猪肉，我们可以吃牛肉。
+  english:
+  - If you don't like to eat pork, we can eat beef.
+  type: chinese
+- chinese: 这本书很好看。
+  english:
+  - This book is very good.
+  type: chinese
+- chinese: 这个小笼包真好吃。
+  english:
+  - This dumpling is really good.
+  type: chinese
+- chinese: 那首新歌很难听。
+  english:
+  - This new song sounds terrible.
+  type: chinese
+- chinese: 有人说：中国菜好吃，法国酒好喝。
+  english:
+  - ! 'Some people say: Chinese food is delicious, French wine is delicious.'
+  type: chinese
+- chinese: 有的中国字好写，有的中国自不好写。
+  english:
+  - Some Chinese characters are easy to write, some Chinese characters are not easy
+    to write.
+  type: chinese
+- chinese: 电脑生意不好做。
+  english:
+  - The computer business is a difficult one to be in.
+  type: chinese
+- chinese: 英文歌好听，可是很难唱。
+  english:
+  - English songs are nice to listen to, but are very hard to sing.
+  type: chinese
+- chinese: 这种车太贵了，不好卖。
+  english:
+  - This kind of car is very expensive, it's impractical to buy one.
+  type: chinese
+- chinese: 苹果好吃还是葡萄好吃？
+  english:
+  - Are apples good or are grapes good?
+  type: chinese
+- chinese: 你想喝啤酒还是想喝果汁？
+  english:
+  - Would you like to drink beer or juice?
+  type: chinese
+- chinese: 你喜欢王小姐还是张小姐？
+  english:
+  - Do you like Miss Wang or Miss Zhang?
+  type: chinese
+- chinese: 中国话难学还是中国字难学？
+  english:
+  - Is sproken or written Chinese difficult to study?
+  type: chinese
+- chinese: 王先生是律师还是工程师？
+  english:
+  - Is Mr Wang a lawyer or an engineer?
+  type: chinese
+- chinese: 你觉得中国话好学还是日本话好学？
+  english:
+  - Do you think Chinese or Japanese is easy to study?
+  type: chinese
+- chinese: 他常说他很忙。
+  english:
+  - He often says he's very busy.
+  type: chinese
+- chinese: 我很爱小孩子。
+  english:
+  - I really love children.
+  type: chinese
+- chinese: 她最爱吃台湾菜。
+  english:
+  - She loves Taiwanese food the most.
+  type: chinese
+- chinese: 他说他想学跳舞。
+  english:
+  - He said that he wants to learn how to dance.
+  type: chinese
+- chinese: 王先生唱歌，唱得不错。
+  english:
+  - Mr. Wang sings pretty well.
+  type: chinese
+- chinese: 这是我的错。
+  english:
+  - This is my fault.
+  type: chinese
+- chinese: 我没有很多衣服。
+  english:
+  - I don't have a lot of clothes.
+  type: chinese
+- chinese: 我听说他很会做饭。
+  english:
+  - I heard that he really knows how to cook.
+  type: chinese
+- chinese: 学外国话有意思吗？
+  english:
+  - Is studying foreign languages interesting?
+  type: chinese
+- chinese: 我想他一定是美国人。
+  english:
+  - I think he must be an American.
+  type: chinese
+- chinese: ! '请问，哪位是李小姐？
+
+    我就是。'
+  english:
+  - ! 'Excuse me, who is Miss Li?
+
+    I am. (I''m that very person.)'
+  type: chinese
+- chinese: 贵的东西不一定好。
+  english:
+  - Expensive things are not necessarily good.
+  type: chinese
+- chinese: 我就有一块钱。
+  english:
+  - I only have one dollar.
+  type: chinese
+- chinese: 我哥哥是一个画家。
+  english:
+  - My older brother is a painter.
+  type: chinese
+- chinese: 张小姐的书法写得很好。
+  english:
+  - Miss Zhang's calligraphy is really good.
+  type: chinese
+- chinese: ! '请问，您是张先生吗？
+
+    对了，我就是。'
+  english:
+  - ! 'Excuse me, are you Mr. Zhang?
+
+    Yes, I am.'
+  type: chinese
+- chinese: 他为什么不念书？
+  english:
+  - Why didn't he study?
+  type: chinese
+- chinese: 我不能写字，因为我没有笔。
+  english:
+  - I can't write characters because I don't have a pen.
+  type: chinese
+- chinese: 因为他是画家，所以他很会画画。
+  english:
+  - (Because) He's a painter, so he really knows how to paint pictures.
+  type: chinese
+- chinese: 我母亲很喜欢买外国东西。
+  english:
+  - My mother really likes to buy foreign things.
+  type: chinese
+- chinese: 我父母都很忙。
+  english:
+  - My parents are both very busy.
+  type: chinese
+- chinese: 那个人很会做生意。
+  english:
+  - That person can really do business.
+  type: chinese
+- chinese: 做生意的都有钱吗？
+  english:
+  - Are all businessmen rich?
+  type: chinese
+- chinese: 这件衣服很好看。
+  english:
+  - This outfit looks nice.
+  type: chinese
+- chinese: 外国人都喜欢喝台湾茶吗？
+  english:
+  - Do all foreigners like to drink Taiwanese tea?
+  type: chinese
+- chinese: 请给我一杯热水。
+  english:
+  - Please give me a cup of hot water.
+  type: chinese
+- chinese: 我觉得跳舞容易，唱歌难。
+  english:
+  - I think dancing is easy, but singing is hard.
+  type: chinese
+- chinese: 我的中文名字很容易写。
+  english:
+  - My Chinese name is very easy to write.
+  type: chinese
+- chinese: 他画的画。
+  english:
+  - The painting that he painted.
+  type: chinese
+- chinese: 小孩字看的书都不难。
+  english:
+  - The books that little children read are all not difficult.
+  type: chinese
+- chinese: 父母喜欢的东西，孩子不一定喜欢。
+  english:
+  - The things that parents like, children don't necessarily like.
+  type: chinese
+- chinese: 喜欢画画的人。
+  english:
+  - The person who likes to paint.
+  type: chinese
+- chinese: 爱看电视的孩子很多。
+  english:
+  - Many children love watching TV.
+  type: chinese
+- chinese: 做生意的人不都有钱。
+  english:
+  - Not all businessmen are rich.
+  type: chinese
+- chinese: 喜欢唱歌的人不都喜欢跳舞。
+  english:
+  - People who like to sing don't all like to dance.
+  type: chinese
+- chinese: 你最喜欢的台湾菜叫什么？
+  english:
+  - What's your favorite Taiwanese food called?
+  type: chinese
+- chinese: 会说中国话的人都会教中文吗？
+  english:
+  - Can everyone who speaks Chinese also teach Chinese?
+  type: chinese
+- chinese: 你唱的这个歌。
+  english:
+  - This song that you're singing.
+  type: chinese
+- chinese: 她穿的那件衣服很好看。
+  english:
+  - That outfit she's wearing looks very nice.
+  type: chinese
+- chinese: 你写的那两本书都不错。
+  english:
+  - Those two books you wrote are both not bad.
+  type: chinese
+- chinese: 我很喜欢你照的这张像片。
+  english:
+  - I really like this picture you took.
+  type: chinese
+- chinese: 我买的这个照像机是日本货。
+  english:
+  - This camera I bought is a Japanese product.
+  type: chinese
+- chinese: 爱唱歌的那两个孩子。
+  english:
+  - Those two children who like to sing.
+  type: chinese
+- chinese: 喝酒的那位先生要一个杯子。
+  english:
+  - That man drinking alcohol wants a glass.
+  type: chinese
+- chinese: 教书法的那位老师，画也画得不错。
+  english:
+  - That calligraphy teacher also paints pictures not badly.
+  type: chinese
+- chinese: 会说法国话的那个美国先生有很多法国朋友。
+  english:
+  - That French speaking American has a lot of French friends.
+  type: chinese
+- chinese: 听说那个卖报的有七个孩子。
+  english:
+  - I heard that newspaper vendor has seven cildren.
+  type: chinese
+- chinese: 那个唱歌的叫什么名字？
+  english:
+  - What's that singer's name?
+  type: chinese
+- chinese: 那个做饭的只会做台湾菜。
+  english:
+  - That cook can only cook Taiwanese food.
+  type: chinese
+- chinese: 那个卖书的，英文说得不错。
+  english:
+  - That book seller's English isn't bad.
+  type: chinese
+- chinese: 你为什么要买新电视机？
+  english:
+  - Why do you want to buy a new TV set?
+  type: chinese
+- chinese: 为什么你的钱常常不够？
+  english:
+  - Why do you often not have enough money?
+  type: chinese
+- chinese: 你最近在忙什么？
+  english:
+  - What have you been busy doing lately?
+  type: chinese
+- chinese: 他在看电视呢！
+  english:
+  - He is watching TV.
+  type: chinese
+- chinese: 中国书法很难学。
+  english:
+  - Chinese calligraphy is very hard to learn.
+  type: chinese
+- chinese: 你开车不要开得太快。
+  english:
+  - Don't drive too fast.
+  type: chinese
+- chinese: 赵老师是很有名的人。
+  english:
+  - Teacher Zhao is a very famous person.
+  type: chinese
+- chinese: 我知道他是老师，可是不知道他姓什么。
+  english:
+  - I know that he is a teacher, but I don't know his last (family) name.
+  type: chinese
+- chinese: 听说你们公司的生意非常好。
+  english:
+  - I've heard that your company has a very good business.
+  type: chinese
+- chinese: 那位年轻人的毛笔字写得不错。
+  english:
+  - That young guy's calligraphy isn't bad.
+  type: chinese
+- chinese: 我不会写毛笔字，因为我不会用毛笔。
+  english:
+  - I can't write calligraphy because I don't know how to use a calligraphy brush.
+  type: chinese
+- chinese: 因为他是法国人，所以学英文比较快。
+  english:
+  - Because he's French, he learns English more quickly.
+  type: chinese
+- chinese: 那个节目非常好，很多人爱看。
+  english:
+  - That show/program is very good, a lot of people love to watch it.
+  type: chinese
+- chinese: 王先生是美国人，可是他的中文非常棒。
+  english:
+  - Mr Wang is American, but his Chinese is excellent.
+  type: chinese
+- chinese: ! '这个餐厅的东西真好吃。
+
+    是啊！'
+  english:
+  - ! 'The food in this restaurant is really delicious.
+
+    Yes, it is!'
+  type: chinese
+- chinese: 他要练习唱中文歌。
+  english:
+  - He wants to practice singing Chinese songs.
+  type: chinese
+- chinese: 这个练习太难了，我不会写。
+  english:
+  - This exercise is too hard, I can't do it.
+  type: chinese
+- chinese: 我的钱不够，还不能买车。
+  english:
+  - I don't have enough money, I can't buy a car yet.
+  type: chinese
+- chinese: 一碗饭够不够？
+  english:
+  - Is one bowl of rice enough?
+  type: chinese
+- chinese: 真的吗？你学得怎么样？
+  english:
+  - Really?  How is the studying going?
+  type: chinese
+- chinese: 你是中国人，为什么不喜欢喝茶？
+  english:
+  - You are Chinese, why don't you like to drink tea?
+  type: chinese
+- chinese: 这个菜叫什么？
+  english:
+  - What's this dish called?
+  type: chinese
+- chinese: 李太太很会做韩国菜。
+  english:
+  - Mrs. Li can really cook Korean food.
+  type: chinese
+- chinese: 我买的这些青菜都非常新鲜。
+  english:
+  - These vegetables I bought are all very fresh.
+  type: chinese
+- chinese: 我会做几样日本菜。
+  english:
+  - I can cook some Japanese dishes.
+  type: chinese
+- chinese: 那个人的毛笔字写得那么好，大概是位书法家。
+  english:
+  - That person writes Chinese calligraphy so well, he's probably a calligrapher.
+  type: chinese
+- chinese: 我现在想看书，不想做事。
+  english:
+  - I want to read now, I don't want to work.
+  type: chinese
+- chinese: 张先生做什么事？
+  english:
+  - What work does Mr. Zhang do?
+  type: chinese
+- chinese: 这件事情不难，你一定能做。
+  english:
+  - This matter is not difficult, you can certainly do it.
+  type: chinese
+- chinese: 我在学中文。
+  english:
+  - I am studying Chinese.
+  type: chinese
+- chinese: 孩子们在跳舞呢！
+  english:
+  - The children are dancing!
+  type: chinese
+- chinese: 她在看做菜的节目。
+  english:
+  - She is watching a cooking show.
+  type: chinese
+- chinese: 你写的很好。
+  english:
+  - You write very well.
+  type: chinese
+- chinese: 你太太画得非常好。
+  english:
+  - Your wife paints very well.
+  type: chinese
+- chinese: 中国字，你写得很好。
+  english:
+  - You write Chinese characters very well.
+  type: chinese
+- chinese: 我练习得不够。
+  english:
+  - I don't practice enough.
+  type: chinese
+- chinese: 这辆车，你买得太贵了。
+  english:
+  - You paid too much for this car.
+  type: chinese
+- chinese: 你写中国字写得很好。
+  english:
+  - You write Chinese very well.
+  type: chinese
+- chinese: 你开车，开得太快了。
+  english:
+  - You drive too fast.
+  type: chinese
+- chinese: 我说中文，说得不太好。
+  english:
+  - I don't speak Chinese very well.
+  type: chinese
+- chinese: 你的中国字写得很好。
+  english:
+  - Your Chinese writing is very good.
+  type: chinese
+- chinese: 王老师的英文，教得很好。
+  english:
+  - Teacher Wang teaches English very well.
+  type: chinese
+- chinese: 他们的小笼包，做得特别好。
+  english:
+  - Their dumplings are especially good.
+  type: chinese
+- chinese: 你，中国字写得很好。
+  english:
+  - You write Chinese very well.
+  type: chinese
+- chinese: 他们，牛肉面做得特别好。
+  english:
+  - They make beef noodles especially well.
+  type: chinese
+- chinese: 这台电脑因为款式新，所以比较贵。
+  english:
+  - This computer is a new model, so it's more expensive.
+  type: chinese
+- chinese: 因为这个餐厅的菜非常好吃，所以生意特别好。
+  english:
+  - Because this restaurant's food is very delicious, buisiness is especially good.
+  type: chinese
+- chinese: 大概因为我爱吃中国菜，所以觉得做中国菜很有意思。
+  english:
+  - It's probably because I like Chinese food so much that I find cooking Chinese
+    food to be so interesting.
+  type: chinese
+- chinese: 为什么客人都爱买那个牌子的车？
+  english:
+  - Why do all the customers love to by that brand of car?
+  type: chinese
+- chinese: 你家在哪里？
+  english:
+  - Where is your home?
+  type: chinese
+- chinese: 这是东一路。
+  english:
+  - This is 1st East Road.
+  type: chinese
+- chinese: 她不在图书馆。
+  english:
+  - She isn't in the library.
+  type: chinese
+- chinese: 你后面是张先生。
+  english:
+  - Behind you is Mr. Zhang.
+  type: chinese
+- chinese: 他家在二楼。
+  english:
+  - His home is on the 2nd floor.
+  type: chinese
+- chinese: 图书馆里有很多书。
+  english:
+  - There are a lot of books in the library.
+  type: chinese
+- chinese: 谁在里面？
+  english:
+  - Who is inside?
+  type: chinese
+- chinese: 我家附近没有大学。
+  english:
+  - There aren't any universities near my house.
+  type: chinese
+- chinese: 那家书店里有很多学生。
+  english:
+  - There are a lot of students in that bookstore.
+  type: chinese
+- chinese: ''
+  english:
+  - He is outside.
+  type: chinese
+- chinese: 那家书店就卖中文书。
+  english:
+  - That bookstore only sells Chinese books.
+  type: chinese
+- chinese: 你的衣服不在那里。
+  english:
+  - Your clothes aren't there.
+  type: chinese
+- chinese: 呢麽，他一定在書房。
+  english:
+  - ne me tā yī dìng zài shū fáng
+  type: chinese
+- chinese: 我家附近有很多书店，所以买书很方便。
+  english:
+  - There are a lot of bookstores near my house, so buying books is really convenient.
+  type: chinese
+- chinese: 东一路有一所学校。
+  english:
+  - There is a school on First East Road.
+  type: chinese
+- chinese: 那房子很大。
+  english:
+  - That house is very big.
+  type: chinese
+- chinese: 我家的客厅不大。
+  english:
+  - The living room in my house is not very big.
+  type: chinese
+- chinese: 他们在饭厅吃饭呢。
+  english:
+  - They are eating in the dining room.
+  type: chinese
+- chinese: 那边没有房子。
+  english:
+  - There aren't any houses over there.
+  type: chinese
+- chinese: 她在我旁边。
+  english:
+  - She is beside me.
+  type: chinese
+- chinese: 那间是客厅。
+  english:
+  - That room is the living room.
+  type: chinese
+- chinese: 我的书房在楼上。
+  english:
+  - My study is upstairs.
+  type: chinese
+- chinese: 那间屋子里有人。
+  english:
+  - There are people in that room.
+  type: chinese
+- chinese: 上面有很多画。
+  english:
+  - There are many paintings up there.
+  type: chinese
+- chinese: 这是我妹妹的房间。
+  english:
+  - This is my younger sister's room.
+  type: chinese
+- chinese: 那个小学有很多学生。
+  english:
+  - That elementary school has many students.
+  type: chinese
+- chinese: 我家离他家很近。
+  english:
+  - My house is very close to his.
+  type: chinese
+- chinese: 台湾离美国很远。
+  english:
+  - Taiwan is far from America.
+  type: chinese
+- chinese: 你家在什么地方？
+  english:
+  - Where is your home?
+  type: chinese
+- chinese: 他在书房里看书呢。
+  english:
+  - He is reading in the study.
+  type: chinese
+- chinese: 你的笔在书下面。
+  english:
+  - Your pen is under the book.
+  type: chinese
+- chinese: 你的书在那张桌子上。
+  english:
+  - Your book is on that table.
+  type: chinese
+- chinese: 椅子底下没有东西。
+  english:
+  - There is nothing under the chair.
+  type: chinese
+- chinese: 我家就在前面。
+  english:
+  - My house is just ahead.
+  type: chinese
+- chinese: 他的书在这里。
+  english:
+  - His book is here.
+  type: chinese
+- chinese: 那家餐厅是新的。
+  english:
+  - That restaurant is new.
+  type: chinese
+- chinese: 我家附近有很多商店。
+  english:
+  - There are many stores near my house.
+  type: chinese
+- chinese: 書在桌子上。
+  english:
+  - shū zài zhuō zi shàng
+  type: chinese
+- chinese: 我父母都在日本。
+  english:
+  - My parents are both in Japan.
+  type: chinese
+- chinese: ! '请问，洗手间在哪里？
+
+    洗手间在那边。'
+  english:
+  - ! 'Excuse me, where is the washroom?
+
+    The washroom is on that side.'
+  type: chinese
+- chinese: 他的东西椅子底下。
+  english:
+  - His things are under the chair.
+  type: chinese
+- chinese: 你的笔在我这里。
+  english:
+  - Your pen is at my place.
+  type: chinese
+- chinese: 现在他不在家，他在学校里。
+  english:
+  - Right now he is not at home, he's in school.
+  type: chinese
+- chinese: 爸爸不在书房，也不在客厅。
+  english:
+  - Father is not in the study, he's also not in the living room.
+  type: chinese
+- chinese: 大卫在哪里？
+  english:
+  - Where is David?
+  type: chinese
+- chinese: 哪里有华文报？
+  english:
+  - Where are the Chinese newspapers?
+  type: chinese
+- chinese: 图书馆里有华文报。
+  english:
+  - In the library there are Chinese newspapers.
+  type: chinese
+- chinese: 楼上有三个房间。
+  english:
+  - Upstairs there are three rooms.
+  type: chinese
+- chinese: 我家那里没有好餐厅。
+  english:
+  - There aren't any good resturants in the area around my house.
+  type: chinese
+- chinese: 学校附近有很多商店。
+  english:
+  - Near the school there are a lot of shops.
+  type: chinese
+- chinese: 那间房子里没有人。
+  english:
+  - There aren't any people in that house.
+  type: chinese
+- chinese: 那边有很多房子。
+  english:
+  - That side has a lot of hosues.
+  type: chinese
+- chinese: 桌子旁边有几个人？
+  english:
+  - How many people are beside the table?
+  type: chinese
+- chinese: 他在大学念书。
+  english:
+  - He studies at university.
+  type: chinese
+- chinese: 父亲在书房里看书呢。
+  english:
+  - Father is in the study reading.
+  type: chinese
+- chinese: 我不常在餐厅吃饭。
+  english:
+  - I don't often eat at restaurants.
+  type: chinese
+- chinese: 妈妈在客厅里看电视呢。
+  english:
+  - Mother is in the living room watching TV.
+  type: chinese
+- chinese: 他哥哥姐姐都在美国念书。
+  english:
+  - His younger brother and sister are both in America studying.
+  type: chinese
+- chinese: 他们在大楼前面说话呢。
+  english:
+  - They are in front of the building talking.
+  type: chinese
+- chinese: 前面的那个人是我朋友。
+  english:
+  - That person in front is my friend.
+  type: chinese
+- chinese: 东一路的那些房子都很贵。
+  english:
+  - Those houses on First East Rd. are all very expensive.
+  type: chinese
+- chinese: 在你家前面的那辆汽车是我的。
+  english:
+  - That car in front of your house is mine.
+  type: chinese
+- chinese: 他家在学校后面那个大楼的五楼。
+  english:
+  - His home is on the fifth floor of that building behind the school.
+  type: chinese
+- chinese: 在桌子上的那本书。
+  english:
+  - That book on the table.
+  type: chinese
+- chinese: 我家离学校不很远。
+  english:
+  - My house is not very far from the school.
+  type: chinese
+- chinese: 台湾离美国真远。
+  english:
+  - From Taiwan to America is really far.
+  type: chinese
+- chinese: 他买的那所房子离学校不太远，也不太近。
+  english:
+  - The house he bought is not to far and not too close to a school.
+  type: chinese
+- chinese: 她说的故事很好听。
+  english:
+  - Her story is really good.
+  type: chinese
+- chinese: 这家店的生意真好！
+  english:
+  - What a busy restaurant!
+  type: chinese
+- chinese: 他们卖不卖三明治？
+  english:
+  - Do they sell sandwiches?
+  type: chinese
+- chinese: 卖，这家店卖的三明治很不错，我最喜欢吃他们的鸡肉三明治。
+  english:
+  - They sell them, this restaurant's sandwiches are really not bad, my favorite is
+    their chicken sandwich.
+  type: chinese
+- chinese: 饮料呢？
+  english:
+  - Anything to drink?
+  type: chinese
+- chinese: 我觉得他们做的奶茶又香又甜，很好喝。
+  english:
+  - I think their milk tea smells good and is sweet, it's very good.
+  type: chinese
+- chinese: 如果你想喝冰咖啡，穿花衬衫的那个年轻人，他做的冰咖啡非常好喝;戴帽子的那个女孩，她做的热咖啡味道最好，我常喝她的热咖啡。
+  english:
+  - If you want to drink iced coffee, that young guy with the spotted shirt makes
+    a great cup; that girl wearing the hat makes the best hot coffee, I normally drink
+    her hot coffee.
+  type: chinese
+- chinese: 戴眼镜的那位先生是我爸爸。
+  english:
+  - ! ' '
+  type: chinese
+- chinese: 你父亲戴的眼镜很时髦。
+  english:
+  - Your father wears very stylish glasses.
+  type: chinese
+- chinese: 穿蓝衣服的那位太太是你母亲吗？
+  english:
+  - Is that woman in the blue shirt your mother?
+  type: chinese
+- chinese: 你母亲又年轻又漂亮！
+  english:
+  - Your mother is both young and beautiful!
+  type: chinese
+- chinese: 很多人说她好像是我姐姐，不是我妈妈。
+  english:
+  - Many people say she looks more like my sister, and not like my mother.
+  type: chinese
+- chinese: 正在说话的那位小姐是我姐姐，她喝爱说话，而且很会说故事，大家都喜欢听她说故事。
+  english:
+  - The woman talking is my elder sister, she is very talktive, and is good at telling
+    stories, everyone likes to listen to the stories she tells.
+  type: chinese
+- chinese: 可是她不太会穿衣服，她穿的衣服样式都恨旧，所以有人说她好像是我妈妈！
+  english:
+  - But she is not well dressed, her clothes are always out dated, therefore people
+    say she looks like my mother!
+  type: chinese
+- chinese: 这家书店的生意很不错。
+  english:
+  - This bookshop has a good business.
+  type: chinese
+- chinese: 我想吃小笼包，你呢？
+  english:
+  - I want to eat Xiaolong Bao, how about you?
+  type: chinese
+- chinese: 你女儿又聪明又可爱。
+  english:
+  - You're daughter is both clever and cute.
+  type: chinese
+- chinese: 李先生又会说英文，有会说法文。
+  english:
+  - Mr. Li can speak both English and French.
+  type: chinese
+- chinese: 陈太太做的这道菜又香又好吃。
+  english:
+  - This dish that Mrs. Chen cooked both smells good and is delicious.
+  type: chinese
+- chinese: 我想喝杯冰啤酒。
+  english:
+  - I want to have a class of cold beer.
+  type: chinese
+- chinese: 那位老先生很喜欢穿花衬衫。
+  english:
+  - That old man likes to wear colorful shirts.
+  type: chinese
+- chinese: 卖菜的那位先生戴帽子。
+  english:
+  - The man selling vegetables likes to wear hats.
+  type: chinese
+- chinese: 我不能喝酒，请给我一杯热茶。
+  english:
+  - I can't drink alcohol, please give me a cup of hot tea.
+  type: chinese
+- chinese: 张小姐的日文很好，她常常看日文杂志。
+  english:
+  - Miss Zhang's Japanese is really good, she often reads Japanese magazines.
+  type: chinese
+- chinese: 你会说中文，那么你会不会唱中文歌？
+  english:
+  - You can speak Chinese, so can you sing Chinese songs?
+  type: chinese
+- chinese: 我今天太累了，你做饭吧！
+  english:
+  - I'm too tired today, you should cook!
+  type: chinese
+- chinese: 那个人的英文说得很好，大概是英国人吧！
+  english:
+  - That man speaks English very well, he is probably British!
+  type: chinese
+- chinese: 赵小姐今天穿的那件衬衫非常好看。
+  english:
+  - That shirt Miss Zhao is wearing today looks very nice.
+  type: chinese
+- chinese: 今天我请的客人大部分都是我的朋友。
+  english:
+  - Most of the guests I invited today are my friends.
+  type: chinese
+- chinese: 王先生说，他今天要请我吃饭。
+  english:
+  - Mr. Wang says that he wants to invite me out to eat today.
+  type: chinese
+- chinese: 我请他买些饮料。
+  english:
+  - I asked him to buy some drinks.
+  type: chinese
+- chinese: 今天我请客，你想吃什么？
+  english:
+  - It's my treat today, what would you like to eat?
+  type: chinese
+- chinese: 他给我两个苹果，还有一些葡萄。
+  english:
+  - He gave me two apples and some grapes.
+  type: chinese
+- chinese: 戴眼镜的那位小姐是我的老师。
+  english:
+  - That lady wearing glasses is my teacher.
+  type: chinese
+- chinese: 我不喜欢穿太花的衣服。
+  english:
+  - I don't like wearing clothes that are too colorful.
+  type: chinese
+- chinese: 时髦的衣服不一定好看。
+  english:
+  - Fashionable clothes aren't necessarily good looking.
+  type: chinese
+- chinese: 你今天穿的这件衣服非常漂亮。
+  english:
+  - The clothes you are wearing today are very pretty.
+  type: chinese
+- chinese: ! '你爸爸在做什么？
+
+    他好像看报。'
+  english:
+  - ! 'What is your father doing?
+
+    He seems to be reading the paper.'
+  type: chinese
+- chinese: 这个餐馆的东西好吃，而且很便宜。
+  english:
+  - The food in this restaurant is very delicious, and also very cheap.
+  type: chinese
+- chinese: 大家都爱听刘老师说故事。
+  english:
+  - Everyone likes to listen to the stories that Teacher Liu tells.
+  type: chinese
+- chinese: 说话的人是李先生。
+  english:
+  - The person talking is Mr. Li.
+  type: chinese
+- chinese: 现在戴眼镜的人真不少。
+  english:
+  - These days quite a few people wear glasses.
+  type: chinese
+- chinese: 抽烟的年轻人多不多？
+  english:
+  - Do many young people smoke?
+  type: chinese
+- chinese: 爱看电视的人都是小孩子吗？
+  english:
+  - Are those who love to watch TV all small children?
+  type: chinese
+- chinese: 会说中文的人不一定会教中文。
+  english:
+  - People who can speak Chinese can't necessarily teach Chinese.
+  type: chinese
+- chinese: 喜欢这个牌子的人，大部分都是年轻人。
+  english:
+  - The people who like this brand are mostly young.
+  type: chinese
+- chinese: 他说的话我不懂。
+  english:
+  - I don't understand what he said.
+  type: chinese
+- chinese: 你姐姐穿的衣服很时髦。
+  english:
+  - The clothes your sister is wearing are very fashionable.
+  type: chinese
+- chinese: 你今天买的青菜很新鲜。
+  english:
+  - The vegetables you bought today are very fresh.
+  type: chinese
+- chinese: 陈老板卖的橘子都很甜。
+  english:
+  - The oranges that Mr. Chen sells are all very sweet.
+  type: chinese
+- chinese: 你认识的中国字真不少。
+  english:
+  - You really know quite a few Chinese characters.
+  type: chinese
+- chinese: 说话的那个人是李先生。
+  english:
+  - That person talking is Mr. Li.
+  type: chinese
+- chinese: 戴眼镜的那个人是我的老师。
+  english:
+  - That person wearing glasses is my teacher.
+  type: chinese
+- chinese: 跳舞的那个男孩是我儿子。
+  english:
+  - That dancing boy is my son.
+  type: chinese
+- chinese: 戴帽子的那两位老太太会说法文。
+  english:
+  - Those two old ladies wearing hats can speak French.
+  type: chinese
+- chinese: 穿红衣服的那个人是我太太。
+  english:
+  - That person wearing red clothes is my wife.
+  type: chinese
+- chinese: 教书法的那位老师，也教画画。
+  english:
+  - That teacher teaching calligraphy also teaches painting.
+  type: chinese
+- chinese: 喝酒的那两位老先生，很爱唱歌。
+  english:
+  - Those two old men drinking liquor really love to sing.
+  type: chinese
+- chinese: 他说的那句话我不懂。
+  english:
+  - I don't understand the sentence he said.
+  type: chinese
+- chinese: 我的朋友，大部分都是教书的。
+  english:
+  - Of my friends, most of them teach.
+  type: chinese
+- chinese: 我认识一位卖电脑的，他卖的电脑都是旧的。
+  english:
+  - I know someone who sells computers, all the computers he sells are old.
+  type: chinese
+- chinese: 李先生的哥哥是开车的。
+  english:
+  - Mr. Li's older brother is a driver.
+  type: chinese
+- chinese: 那位先生很会说话，好像是做生意的。
+  english:
+  - That gentleman really knows how to talk, he seems to mean business.
+  type: chinese
+- chinese: 我又饿又累。
+  english:
+  - I'm hungry and tired.
+  type: chinese
+- chinese: 他又会说英文又会说日文。
+  english:
+  - He can speak both English and Japanese.
+  type: chinese
+- chinese: 这件衣服又好看又便宜。
+  english:
+  - These clothes are both good looking and cheap.
+  type: chinese
+- chinese: 这个餐馆的东西又贵又不好吃。
+  english:
+  - The food in this restaurant is both expensive and bad.
+  type: chinese
+- chinese: 我又想买衣服又想买帽子，可是我的钱不够。
+  english:
+  - I want to buy both clothes and a hat, but I don't have enough money.
+  type: chinese
+- chinese: 我又爱吃法国饭又爱吃韩国饭，可是我都不会做。
+  english:
+  - I love to eat both French food and Korean food, but I can't cook either.
+  type: chinese
+- chinese: 我觉得这件花的好看，你觉得呢？
+  english:
+  - I think this colorful one (clothing) looks good, what do you think?
+  type: chinese
+- chinese: 法国菜好吃，法国酒呢？
+  english:
+  - French food is very good, but how about French wine?
+  type: chinese
+- chinese: 我喜欢时髦的东西，你呢？
+  english:
+  - I like stylish things, how about you?
+  type: chinese
+- chinese: 戴眼镜的那个人是你爸爸，戴帽子的那位呢？
+  english:
+  - That person wearing glasses is your father, but how about that person wearing
+    a hat?
+  type: chinese
+- chinese: 你为什么不喜欢吃苹果呢？
+  english:
+  - Why don't you like to eat apples?
+  type: chinese
+- chinese: 这个牌子的电脑为什么这么贵呢？
+  english:
+  - Why is this brand of computer so expensive?
+  type: chinese
+- chinese: 我弟弟在练习写中国字呢！
+  english:
+  - My little brother is practicing writing Chinese characters!
+  type: chinese
+- chinese: 谁在抽烟？好像是你爸爸在抽烟呢！
+  english:
+  - Who is that smoking a cigarette? It really looks like your father smoking!
+  type: chinese
+- chinese: 他在看什么节目？
+  english:
+  - What TV program is he watching?
+  type: chinese
+- chinese: 你认识的中国朋友多不多？你认识的中国朋友大部分是男的还是女的？
+  english:
+  - Do you have a lot of Chinese friends?  Are you Chiense friends mostly guys or
+    girls?
+  type: chinese
+- chinese: 如果你是老板，你比较喜欢会做事的年轻人还是聪明的年轻人？
+  english:
+  - If you were a business owner, would you prefer diligent young people or smart
+    young people?
+  type: chinese
+- chinese: 他已经到家了。
+  english:
+  - He has arrived home already.
+  type: chinese
+- chinese: 我到学校去。
+  english:
+  - I am going to school.
+  type: chinese
+- chinese: 张太太到美国去了。
+  english:
+  - Mrs. Zhang went to America.
+  type: chinese
+- chinese: 小孩子都很喜欢玩。
+  english:
+  - Little children all like to play.
+  type: chinese
+- chinese: 我不要跟他一块去日本。
+  english:
+  - I don't want to go to Japan with him.
+  type: chinese
+- chinese: 你的名字真么写？
+  english:
+  - How do you write your name?
+  type: chinese
+- chinese: 我爸爸是坐飞机到法国去的。
+  english:
+  - My father with to France by airplane.
+  type: chinese
+- chinese: 他说坐飞机很有意思。
+  english:
+  - He said flying is very interesting.
+  type: chinese
+- chinese: 电影票一张多少钱？
+  english:
+  - How much is a movie ticket?
+  type: chinese
+- chinese: 那个餐厅的菜怎么样？
+  english:
+  - How is the food at that restaurant?
+  type: chinese
+- chinese: 他什么时候去美国？
+  english:
+  - When will he go to America?
+  type: chinese
+- chinese: 你现在要回去吗？
+  english:
+  - Do you want to go back now?
+  type: chinese
+- chinese: 我朋友很想到这里来。
+  english:
+  - My friend really wants to come here.
+  type: chinese
+- chinese: 他昨天没到学校来。
+  english:
+  - He didn't come to school yesterday.
+  type: chinese
+- chinese: 昨天晚上你念书了吗？
+  english:
+  - Did you study last night?
+  type: chinese
+- chinese: 王先生不常在家吃晚饭。
+  english:
+  - Mr. Wang doesn't eat dinner at home very often.
+  type: chinese
+- chinese: 今天我觉得很累。
+  english:
+  - Today I feel very tired.
+  type: chinese
+- chinese: 他很喜欢走路。
+  english:
+  - He really likes walking.
+  type: chinese
+- chinese: 他很累，所以走得很慢。
+  english:
+  - He is very tired, so he's walking very slowly.
+  type: chinese
+- chinese: 李小姐开车开得好快。
+  english:
+  - Miss Li drives very fast.
+  type: chinese
+- chinese: 这里不可以停车。
+  english:
+  - No parking is allowed here.
+  type: chinese
+- chinese: 你在找什么？
+  english:
+  - What are you looking for?
+  type: chinese
+- chinese: 王小姐找我一块去买东西。
+  english:
+  - Miss Wang asked me to go shopping with her.
+  type: chinese
+- chinese: 他明天早上不做事。
+  english:
+  - He is not working tomorrow morning.
+  type: chinese
+- chinese: 那个学生不是从日本来的。
+  english:
+  - That student is not from Japan.
+  type: chinese
+- chinese: 他明天上午不能来这里。
+  english:
+  - He can't come here tomorrow morning.
+  type: chinese
+- chinese: 我不喜欢坐船。
+  english:
+  - I don't like traveling by ship.
+  type: chinese
+- chinese: 我们要坐火车去。
+  english:
+  - We want to go by train.
+  type: chinese
+- chinese: 从我家到学校有很多公共汽车。
+  english:
+  - There are a lot of buses from my house to school.
+  type: chinese
+- chinese: 明天我不去他那里。
+  english:
+  - Tomorrow I'm not going to his place.
+  type: chinese
+- chinese: 王老师已经回国了。
+  english:
+  - Teacher Wang already returned to her country.
+  type: chinese
+- chinese: 你昨天看见珍妮了吗？
+  english:
+  - Did you see Jenny yesterday?
+  type: chinese
+- chinese: 我从家里来。
+  english:
+  - I came from home.
+  type: chinese
+- chinese: 你到哪里去？
+  english:
+  - Where are you going?
+  type: chinese
+- chinese: 请你到我这里来。
+  english:
+  - Please come to where I am.
+  type: chinese
+- chinese: 我们不从家里去，我们从学校去。
+  english:
+  - We aren't going from home, we are going from school.
+  type: chinese
+- chinese: 我从楼上到楼下来吃晚饭。
+  english:
+  - I cam from upstairs to downstairs to eat dinner.
+  type: chinese
+- chinese: 我坐火车去。
+  english:
+  - I will go by train.
+  type: chinese
+- chinese: 你们开车去还是坐飞机去？
+  english:
+  - Will you drive or go by plane?
+  type: chinese
+- chinese: 你坐公车到学校来吗？
+  english:
+  - Do you come to school by bus?
+  type: chinese
+- chinese: 我来学中文。
+  english:
+  - I came in order to study Chinese.
+  type: chinese
+- chinese: 我学中文来。
+  english:
+  - I came here to study Chinese.
+  type: chinese
+- chinese: 他买什么去？
+  english:
+  - What did he go to buy?
+  type: chinese
+- chinese: 她到你家来做什么？
+  english:
+  - What did she go to your house to do?
+  type: chinese
+- chinese: 我明天要到图书馆看书去，你去不去？
+  english:
+  - Tomorrow I want to go to the library to read books, will you go?
+  type: chinese
+- chinese: 他已经来了。
+  english:
+  - He has already come.
+  type: chinese
+- chinese: 我昨天看见他了。
+  english:
+  - I saw him yesterday.
+  type: chinese
+- chinese: 她已经走了。
+  english:
+  - She has already left.
+  type: chinese
+- chinese: 他们都已经回家了。
+  english:
+  - They all have already returned home.
+  type: chinese
+- chinese: 孩子昨天念书了，也写字了。
+  english:
+  - Yesterday the kids studied and wrote characters.
+  type: chinese
+- chinese: 我已经吃了饭了。
+  english:
+  - I have already eaten.
+  type: chinese
+- chinese: 你昨天已经给了我钱了。
+  english:
+  - You already gave me money yesterday.
+  type: chinese
+- chinese: 我今天没吃早饭。
+  english:
+  - I didn't eat breakfast today.
+  type: chinese
+- chinese: 他今天早上没到学校来。
+  english:
+  - He didn't come to school this morning.
+  type: chinese
+- chinese: 昨天我们没唱歌，也没跳舞。
+  english:
+  - Yesterday we didn't sing or dance.
+  type: chinese
+- chinese: 我还没吃午饭呢。
+  english:
+  - I haven't eaten lunch yet.
+  type: chinese
+- chinese: 今天的报，我还没看呢。
+  english:
+  - I haven't read todays paper yet.
+  type: chinese
+- chinese: 什么事是你要做，可是还没做的？
+  english:
+  - What things do you want to do, but haven't done yet?
+  type: chinese
+- chinese: 什么地方是你要去，可是还没去的？
+  english:
+  - What places do you want to go, but haven't been yet?
+  type: chinese
+- chinese: 你看书了吗？
+  english:
+  - Have/Did you read the book?
+  type: chinese
+- chinese: 你没看书吗？
+  english:
+  - Haven't/Didn't you read the book?
+  type: chinese
+- chinese: 你看书了没有？
+  english:
+  - Have/Did you read the book or not?
+  type: chinese
+- chinese: 你看书了没看？
+  english:
+  - Have/Did you read the book or not?
+  type: chinese
+- chinese: 我是昨天买的书。
+  english:
+  - I bought the book yesterday.
+  type: chinese
+- chinese: 我是在那家书店买的书。
+  english:
+  - I bought the book at that bookstore.
+  type: chinese
+- chinese: 我是跟我姐姐去买的书。
+  english:
+  - I went with my older sister to buy the book.
+  type: chinese
+- chinese: 这本书是我买的。
+  english:
+  - I bought this book.
+  type: chinese
+- chinese: 我是从法国来的，不是从英国来的。
+  english:
+  - I come from France, I don't come from England.
+  type: chinese
+- chinese: 我昨天是在餐厅吃的晚饭。
+  english:
+  - I ate dinner at a restaurant yesterday.
+  type: chinese
+- chinese: 今天我是跟朋友一块吃的中饭。
+  english:
+  - Today I ate lunch with my friend.
+  type: chinese
+- chinese: 你要不要到他那里去？
+  english:
+  - Do you want to go to his place or not?
+  type: chinese
+- chinese: 李先生家在美国。
+  english:
+  - Mr. Li's family is in America.
+  type: chinese
+- chinese: 他在台北工作。
+  english:
+  - He works in Taipei.
+  type: chinese
+- chinese: 他的手机号码是多少？
+  english:
+  - What's his mobile phone number?
+  type: chinese
+- chinese: 你的电话几号？
+  english:
+  - What's your telephone number?
+  type: chinese
+- chinese: 我觉得做饭真麻烦！
+  english:
+  - I think cooking is really troublesome!
+  type: chinese
+- chinese: 台北有不少外国人。
+  english:
+  - There are a lot of foreigners in Taipei.
+  type: chinese
+- chinese: 学校附近有很多不错的小馆子。
+  english:
+  - There are many nice small restaurants around the school.
+  type: chinese
+- chinese: 超级市场在我家附近，买东西非常方便。
+  english:
+  - The supermarket is close to my house, it is very convenient to buy things.
+  type: chinese
+- chinese: 这是我的房间。
+  english:
+  - This is my room.
+  type: chinese
+- chinese: 他在房间里看书。
+  english:
+  - He is reading in the room.
+  type: chinese
+- chinese: 筷子在你右边，汤匙在你左边。
+  english:
+  - The chopsticks are on your right, and the spoon is on your left.
+  type: chinese
+- chinese: 你的东西都在里面。
+  english:
+  - All your things are in there.
+  type: chinese
+- chinese: 今天市场里的人真不少。
+  english:
+  - There are a lot of people at the market today.
+  type: chinese
+- chinese: 我的车在外面。
+  english:
+  - My car is outside.
+  type: chinese
+- chinese: 在台北，有些咖啡店可以上网。
+  english:
+  - There are some coffee shops in Taipei that provide internet connections.
+  type: chinese
+- chinese: 我的杯子在哪里？
+  english:
+  - Where is my cup?
+  type: chinese
+- chinese: 这里有两双筷子，哪双是我的？
+  english:
+  - There are two pairs of chopsticks, which one is mine?
+  type: chinese
+- chinese: 听说那里的东西很便宜，是真的吗？
+  english:
+  - I heard the goods there are very cheap, is that so?
+  type: chinese
+- chinese: 我女儿想当老师。
+  english:
+  - My daughter wants to be a teacher.
+  type: chinese
+- chinese: 我儿子在电脑公司当工程师。
+  english:
+  - My son is an engineer at a computer company.
+  type: chinese
+- chinese: 这间屋子里有一张桌子和两把椅子。
+  english:
+  - There are one table and two chairs in this room.
+  type: chinese
+- chinese: 大的在上面，小|的在下面。
+  english:
+  - Big ones are on top, small ones are down below.
+  type: chinese
+- chinese: 你的眼镜在桌子上。
+  english:
+  - Your glasses are on the table.
+  type: chinese
+- chinese: 对了！她的名字是美玉。
+  english:
+  - Oh I remember!  Her name is Meiyu.
+  type: chinese
+- chinese: 你渴不渴？要不要喝点水？
+  english:
+  - Are you thirsty?  Would you like some water?
+  type: chinese
+- chinese: 每张桌子上都有菜单。
+  english:
+  - There is a menu on each table.
+  type: chinese
+- chinese: 果汁在这边，啤酒在那边。
+  english:
+  - Juice is here, and beer is over there.
+  type: chinese
+- chinese: 你家在哪边？
+  english:
+  - Where is your home?
+  type: chinese
+- chinese: 我家在公司旁边。
+  english:
+  - My house is next to my company.
+  type: chinese
+- chinese: 如果你喜欢吃鱼，我们可以点一条糖醋鱼。
+  english:
+  - If you like fish, we can order sweet and sour fish.
+  type: chinese
+- chinese: 这家餐馆的海鲜非常新鲜。
+  english:
+  - The seafood at this restaurant is very fresh.
+  type: chinese
+- chinese: 我朋友告诉我，他认识一位很有名的律师。
+  english:
+  - My friend told me that he knows a very famous lawyer.
+  type: chinese
+- chinese: 请告诉我你的电子信箱。
+  english:
+  - Please tell me your e-mail address.
+  type: chinese
+- chinese: 你在前面，我在你后面。
+  english:
+  - You are in front, and I am behind you.
+  type: chinese
+- chinese: 老板，我们要结帐。
+  english:
+  - Sir, we would like to pay the bill now.
+  type: chinese
+- chinese: 请问，洗手间在哪里？
+  english:
+  - Excuse me, where is teh washroom?
+  type: chinese
+- chinese: 右边的杯子是你的，左边的是我的，中间的这个杯子是谁的？
+  english:
+  - The cup on the right is yours, the one on the left is mine, but whose is this
+    middle cup?
+  type: chinese
+- chinese: 我不在台北。
+  english:
+  - I'm not in Taipei.
+  type: chinese
+- chinese: 我父母都在美国。
+  english:
+  - My parents are both in America.
+  type: chinese
+- chinese: 王先生不在家，他在公司。
+  english:
+  - Mr. Wang isn't at home, he's at the company.
+  type: chinese
+- chinese: 你的笔不在桌子上面。
+  english:
+  - Your pen isn't on the table.
+  type: chinese
+- chinese: 孩子在房间里。
+  english:
+  - The child is in the house.
+  type: chinese
+- chinese: 王先生家在公司附近。
+  english:
+  - Mr. Wang's house is close to the company.
+  type: chinese
+- chinese: 超级市场在前面。
+  english:
+  - The supermarket is in front.
+  type: chinese
+- chinese: 餐巾纸在那边。
+  english:
+  - The napkins are on that side.
+  type: chinese
+- chinese: 卫生纸在哪边？
+  english:
+  - On which side is the toilet paper?
+  type: chinese
+- chinese: 你的书不在我这里。
+  english:
+  - Your book is not here with me.
+  type: chinese
+- chinese: 我的钱都在我太太那里。
+  english:
+  - All of my money is with my wife.
+  type: chinese
+- chinese: 你的帽子不在这里，大概在李先生那里。
+  english:
+  - Your hat isn't here, it's probably with Mr. Li.
+  type: chinese
+- chinese: 妹妹在爸爸旁边，弟弟在妈妈后面。
+  english:
+  - My little sister is beside my father, my little brother is behind my mother.
+  type: chinese
+- chinese: 我的随身听在你那里。
+  english:
+  - My walkman is with you.
+  type: chinese
+- chinese: 前面的车。
+  english:
+  - The car in front.
+  type: chinese
+- chinese: 左边的汤匙是我的，右边的汤匙是你的。
+  english:
+  - The spoon on the left is mine, the spoon on the right is yours.
+  type: chinese
+- chinese: 上面的草莓大，下面的草莓比较小。
+  english:
+  - The upper strawberries are big, the lower strawberries are smaller.
+  type: chinese
+- chinese: 刘先生不喜欢英国，因为那里的人都不懂中文。
+  english:
+  - Mr Liu doesn't like England because none of the people there understand Chinese.
+  type: chinese
+- chinese: 旁边的那两位客人在吃什么？
+  english:
+  - What are those two customers beside me eating?
+  type: chinese
+- chinese: 我很喜欢公司后面的那个小馆子，那里的东西又好吃又便宜。
+  english:
+  - I really like that little restaurant in front of the company, their food is both
+    good and cheap.
+  type: chinese
+- chinese: 桌子上面的那本英文书是我爸爸的。
+  english:
+  - That English book on the table is my father's.
+  type: chinese
+- chinese: 你的那辆旧车不在我这里，在小王那里。
+  english:
+  - That old car of yours isn't with me, it's with the Wang boy.
+  type: chinese
+- chinese: 你买的那两件新衣服都在后面的房间里。
+  english:
+  - The two new pieces of clothing that you bought are both in the back room.
+  type: chinese
+- chinese: 台湾有很多水果。
+  english:
+  - Taiwan has a lot of fruit.
+  type: chinese
+- chinese: 桌子上没有笔。
+  english:
+  - There aren't any pens on the table.
+  type: chinese
+- chinese: 我们公司附近有一些不错的小馆子。
+  english:
+  - Near our company there are a some good little restaurants.
+  type: chinese
+- chinese: 你前面有餐巾纸。
+  english:
+  - There are napkins in front of you.
+  type: chinese
+- chinese: 教室里有地图。
+  english:
+  - There's a map in the classroom.
+  type: chinese
+- chinese: 你们家有泡面。
+  english:
+  - You have instant noodles at your house.
+  type: chinese
+- chinese: 你的书房里有电脑。
+  english:
+  - There's a computer in your den.
+  type: chinese
+- chinese: 洗手间有卫生纸。
+  english:
+  - There's toilet paper in the restroom.
+  type: chinese
+- chinese: 学校附近有速食店。
+  english:
+  - There's a fast food restaurant near the school.
+  type: chinese
+- chinese: 他在餐厅工作。
+  english:
+  - He works in a restaurant.
+  type: chinese
+- chinese: 我不常在家吃饭。
+  english:
+  - I don't often eat at home.
+  type: chinese
+- chinese: 我不在超级市场买青菜。
+  english:
+  - I don't buy vegetables at the supermarket.
+  type: chinese
+- chinese: 她在一家电脑公司当工程师。
+  english:
+  - She works as an engineer at a computer company.
+  type: chinese
+- chinese: 陈小姐在美国当律师。
+  english:
+  - Miss. Chen works as a lawyer in America.
+  type: chinese
+- chinese: 在台北，很多人会说英文。
+  english:
+  - In Taipei, a lot of people can speak English.
+  type: chinese
+- chinese: 在车上，你不可以抽烟。
+  english:
+  - You can't smoke in the car.
+  type: chinese
+- chinese: 您是张先生吧？
+  english:
+  - You must be Mr. Zhang?
+  type: chinese
+- chinese: 好久不见，你最近很忙吧？
+  english:
+  - Long time no see, you've been busy, haven't you?
+  type: chinese
+- chinese: 你在台湾工作，中文一定说得很好吧？
+  english:
+  - You work in Taiwan, you must speak Chinese very well, right?
+  type: chinese
+- chinese: 今天我不能喝酒，给我一瓶矿泉水吧！
+  english:
+  - I can't drink today, how about giving me a bottle of mineral water!
+  type: chinese
+- chinese: 我想吃点东西。
+  english:
+  - I want to eat something.
+  type: chinese
+- chinese: 我不太饿，只想喝点汤。
+  english:
+  - I'm not very hungry, I just want some soup.
+  type: chinese
+- chinese: 现在橘子都很甜，你买点橘子吧。
+  english:
+  - Oranges are all very sweet now, why don't you buy some oranges.
+  type: chinese
+- chinese: 陈老板卖报纸，也卖点小东西。
+  english:
+  - Boss Chen sells newspapers, and he also sells a few other things.
+  type: chinese
+- chinese: 你可以在学校前面做点小生意。
+  english:
+  - You can do a little business in front of the school.
+  type: chinese
+- chinese: 我今天下午一点钟有课。
+  english:
+  - I have class this afternoon at one o'clock.
+  type: chinese
+- chinese: 现在是三点半。
+  english:
+  - It's now three thirty.
+  type: chinese
+- chinese: 我们还没下课呢。
+  english:
+  - We haven't finished class yet.
+  type: chinese
+- chinese: 你在哪里下车？
+  english:
+  - Where do you get off?
+  type: chinese
+- chinese: 我明天没有课。
+  english:
+  - I don't have any classes tomorrow.
+  type: chinese
+- chinese: 这课不太难。
+  english:
+  - This lesson isn't very difficult.
+  type: chinese
+- chinese: 我每天学两个钟头的中文。
+  english:
+  - Every day I study Chiense for two hours.
+  type: chinese
+- chinese: 他是跟朋友一起来的。
+  english:
+  - He came together with his friends.
+  type: chinese
+- chinese: 现在是五点一刻。
+  english:
+  - It's now five fifteen.
+  type: chinese
+- chinese: 请等一会，他马上来。
+  english:
+  - Please wait a moment, he'll come right away.
+  type: chinese
+- chinese: 昨天你下了课，就回家了吗？
+  english:
+  - Yesterday after you finished class, did you then go home?
+  type: chinese
+- chinese: 现在是六点十分。
+  english:
+  - It's now six ten.
+  type: chinese
+- chinese: 她在那里等谁？
+  english:
+  - Who is she waiting for there?
+  type: chinese
+- chinese: 你们昨天玩得好吧？
+  english:
+  - You enjoyed yourself yesterday didn't you?
+  type: chinese
+- chinese: 现在是九点过三分。
+  english:
+  - It's now three minutes past nine o'clock.
+  type: chinese
+- chinese: 八点半到了吗？已经过了。
+  english:
+  - Is it 8:30 yet?It's already past.
+  type: chinese
+- chinese: 你上哪去？
+  english:
+  - Where are you going?
+  type: chinese
+- chinese: 我去上课。
+  english:
+  - I'm going to class.
+  type: chinese
+- chinese: 他已经上飞机了。
+  english:
+  - He already boarded the plane.
+  type: chinese
+- chinese: 我今天早上是六点起床的。
+  english:
+  - This morning I got up at six o'clock.
+  type: chinese
+- chinese: 我的钱不够，还差十块钱。
+  english:
+  - I don't have enough money, I'm still short ten dollars.
+  type: chinese
+- chinese: 现在是差十分五点。
+  english:
+  - It's now ten minutes to five.
+  type: chinese
+- chinese: 他说的话，我差不多都懂。
+  english:
+  - I almost understand all that he says.
+  type: chinese
+- chinese: 我家离火车站很远。
+  english:
+  - My home is very far from the train station.
+  type: chinese
+- chinese: 你明天能来吗？没问题，我一定能来。
+  english:
+  - Can you come tomorrow?No problem, I can definitely come.
+  type: chinese
+- chinese: 我有一个问题想请问您。
+  english:
+  - I have a question I want to ask you.
+  type: chinese
+- chinese: 我弟弟每天七点起床。
+  english:
+  - My little brother gets up every day at seven o'clock.
+  type: chinese
+- chinese: 他的公司在什么路？
+  english:
+  - What road is his company on?
+  type: chinese
+- chinese: 你每天几点上班？
+  english:
+  - What time do you go to work every day?
+  type: chinese
+- chinese: 我要休息十分钟。
+  english:
+  - I want to rest for 10 minutes.
+  type: chinese
+- chinese: 请你在这里等一会/一下。
+  english:
+  - Please wait here a moment.
+  type: chinese
+- chinese: 我就有一张桌子，没有别的。
+  english:
+  - I only have one table, I don't have other things.
+  type: chinese
+- chinese: 别说英文！
+  english:
+  - Don't speak English!
+  type: chinese
+- chinese: 你昨天睡了几个钟头的觉？
+  english:
+  - How many hours did you sleep yesterday?
+  type: chinese
+- chinese: 昨天夜里很冷。
+  english:
+  - Last night it was very cold.
+  type: chinese
+- chinese: 对不起，我不能去。
+  english:
+  - Sorry, I can't go.
+  type: chinese
+- chinese: 对不起，请问现在几点钟？
+  english:
+  - Excuse me, could you tell me what time it is?
+  type: chinese
+- chinese: 你什么时候吃晚饭？我六点半吃晚饭。
+  english:
+  - When do you eat dinner?I eat dinner at 6:30.
+  type: chinese
+- chinese: 昨天他是几点钟睡觉的？夜里一点多。
+  english:
+  - What time did he sleep yesterday?He went to sleep past 1am.
+  type: chinese
+- chinese: 请你坐一会。
+  english:
+  - Please have a seat for a moment.
+  type: chinese
+- chinese: 我每天写一个钟头的中国字。
+  english:
+  - Every day I practice writing Chinese characters for one hour.
+  type: chinese
+- chinese: 我每天写中国字，写一个钟头。
+  english:
+  - Every day I practice writing Chinese characters for one hour.
+  type: chinese
+- chinese: 现在你要休息几分钟？
+  english:
+  - How many minutes do you want to rest now?
+  type: chinese
+- chinese: 昨天我下了课，就回家了。
+  english:
+  - Yesterday after I gout out of class, I went straight home.
+  type: chinese
+- chinese: 每天我下了课，就回家。
+  english:
+  - Every day after I get out of class, I go straight home.
+  type: chinese
+- chinese: 今天我下了课，就要回家。
+  english:
+  - Today when I get out of class, I'll go straight home.
+  type: chinese
+- chinese: 现在是几月？
+  english:
+  - What month is it?
+  type: chinese
+- chinese: 明年我想到欧洲去。
+  english:
+  - Next year I want to go to Europe.
+  type: chinese
+- chinese: 美国是一个很大的国家。
+  english:
+  - America is a very large country.
+  type: chinese
+- chinese: 明年你要到哪里去？
+  english:
+  - Where do you want to go next year?
+  type: chinese
+- chinese: 一年有十二个月。
+  english:
+  - There are 12 months in a year.
+  type: chinese
+- chinese: 我很喜欢旅行。
+  english:
+  - I really like traveling.
+  type: chinese
+- chinese: 明天去，行不行？
+  english:
+  - Would it be OK to go tomorrow?
+  type: chinese
+- chinese: 美国冬天的天气怎么样？
+  english:
+  - What's the winter weather like in America?
+  type: chinese
+- chinese: 明年春天我要去法国旅行。
+  english:
+  - I want to travel to France next spring.
+  type: chinese
+- chinese: 外面在下雨呢。
+  english:
+  - It's raining outside.
+  type: chinese
+- chinese: 你每天应该念三个钟头的书。
+  english:
+  - You should study for three hours every day.
+  type: chinese
+- chinese: 夏天去旅行的人最多。
+  english:
+  - Summer time is when the most people go traveling.
+  type: chinese
+- chinese: 最近这里常下雨。
+  english:
+  - Recently it has rained a lot here.
+  type: chinese
+- chinese: 你是什​​么时候看到他的？
+  english:
+  - When did you see him?
+  type: chinese
+- chinese: 一个月有四个多星期。
+  english:
+  - One month has a little more than four weeks.
+  type: chinese
+- chinese: 那个学生刚从英国来。
+  english:
+  - That student just came from England.
+  type: chinese
+- chinese: 刚刚你说什么？
+  english:
+  - What did you say just now?
+  type: chinese
+- chinese: 学生都不喜欢考试。
+  english:
+  - All students dislike tests.
+  type: chinese
+- chinese: 我明天要考英文。
+  english:
+  - Tomorrow I have an English test.
+  type: chinese
+- chinese: 这枝笔很好，你试试看。
+  english:
+  - This pen is very good, try it.
+  type: chinese
+- chinese: 我的钱不够，怎么办？
+  english:
+  - I don't have enough money, what am I supposed to do now?
+  type: chinese
+- chinese: 这件事，你班得很好。
+  english:
+  - You handled this issue very well.
+  type: chinese
+- chinese: 因为钱不够，所以他很着急。
+  english:
+  - He didn't have enough money, so he was very nervous.
+  type: chinese
+- chinese: 还早呢，急什么？
+  english:
+  - It's still early, what are you rushing about for?
+  type: chinese
+- chinese: 一年有四季。
+  english:
+  - A year has four seasons.
+  type: chinese
+- chinese: 我很忙，没有时间看电视。
+  english:
+  - I'm very busy, I don't have time to watch TV.
+  type: chinese
+- chinese: 她说那里秋天的风景很美。
+  english:
+  - She said the fall scenery is very pretty there.
+  type: chinese
+- chinese: 今天是几月几号？
+  english:
+  - What is today's month and date?
+  type: chinese
+- chinese: 我有好几个法国朋友。
+  english:
+  - I have quite a few French friends.
+  type: chinese
+- chinese: 我在这里住了十年了。
+  english:
+  - I've been living here for ten years.
+  type: chinese
+- chinese: 我昨天学了二十个字。
+  english:
+  - Yesterday I learned 20 characters.
+  type: chinese
+- chinese: 我已经学了三百个字了。
+  english:
+  - I've already learned three hundred characters.
+  type: chinese
+- chinese: 我们只休息了十分钟。
+  english:
+  - We only rested for 10 minutes.
+  type: chinese
+- chinese: 我们已经休息了半个钟头了，你还累吗？
+  english:
+  - We've already rested for half an hour, are you still tired?
+  type: chinese
+- chinese: 我去年学了三个月的中文。
+  english:
+  - Last year I studied Chinese for three months.
+  type: chinese
+- chinese: 我们已经学了三个月的中文了。
+  english:
+  - We've already studied Chinese for three months.
+  type: chinese
+- chinese: 我去年学中文，学了三个月。
+  english:
+  - Last year I studeied Chinese for 3 months.
+  type: chinese
+- chinese: 我学中文，已经学了三个月了。
+  english:
+  - I've already studied Chinese for 3 months.
+  type: chinese
+- chinese: 一九〇〇年十二月二十二号早上八点钟
+  english:
+  - 8:00 a.m. December 22nd, 1900
+  type: chinese
+- chinese: 我星期六只做半天的事。
+  english:
+  - I only work half a day on Saturday.
+  type: chinese
+- chinese: 我说了半天，他还是不懂。
+  english:
+  - I talked to him for a long time, but he still didn't understand.
+  type: chinese
+- chinese: 今天我玩了一天，现在很想睡觉。
+  english:
+  - I played all day today and now I really want to go to sleep.
+  type: chinese
+- chinese: 外面有好几人。
+  english:
+  - There are quite a few people outside.
+  type: chinese

@@ -1,0 +1,33 @@
+<template name="home">
+  TDB. List of subscribed courses and their progress.
+</template>
+<template name="home-tmp">
+  {{#each units}}
+    <div class="panel panel-default">
+      <!-- <div class="panel-heading"> -->
+      <!-- href="{{pathFor 'study' id=this.id slug=this.unit.slug}}" -->
+        <a class="panel-heading study-link" style="display: block"
+          data-toggle="collapse" href="#collapse_{{unit.slug}}"
+          >{{unit.title}}
+          <span class="pull-right">
+            <!-- <a class="label label-info"
+              data-toggle="collapse" href="#collapse_{{unit.slug}}">Info</a> -->
+            <a class="label label-info"
+              href="{{pathFor 'study' id=this.id slug=this.unit.slug}}"
+              >Study</a>
+            <span class="label label-info">50% done</span>
+          </span>
+        </a>
+      <!-- </div> -->
+      <div id="collapse_{{unit.slug}}" class="panel-collapse collapse">
+        <div class="panel-body">
+          Body
+          <a class="btn btn-primary " role="botton"
+             href="{{pathFor 'viewCourse' id=this.id slug=this.unit.slug}}">
+             View details.
+           </a>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</template>

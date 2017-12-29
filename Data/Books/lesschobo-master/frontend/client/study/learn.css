@@ -1,0 +1,24 @@
+textarea.unit-content-editable {
+  width: 100%;
+  min-height: 15em;
+}
+input.unit-title-editable {
+  width: 100%;
+}
+.panel {
+  position: relative;
+}
+.panel .edit-options {
+  display: block;
+  position: absolute;
+  right: 0;
+}
+.panel .edit-options span {
+  padding: 0.7em;
+}
+#continueBtn {
+  min-width: 10em;
+}
+#showAnswerBtn {
+  min-width: 10em;
+}

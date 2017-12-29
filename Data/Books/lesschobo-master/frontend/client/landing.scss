@@ -1,0 +1,117 @@
+article.sectioned {
+  width: 100%;
+  height: 100%;
+  background: lightgrey;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1ex;
+  padding-right: 1ex;
+  section {
+    &:not(:first-child) {
+      margin-top: 1em;
+    }
+    // padding: 5px;
+    max-width: 768px;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #999;
+    background: white;
+    h1 {
+      text-align: center;
+      margin-top: 0;
+      padding: 5px;
+      
+
+      // border-bottom: 1px solid #999;
+      background: #0074d9;
+      color: white;
+    }
+    .body {
+      padding: 10px;
+      .screenshot {
+        float: left;
+        display: inline-block;
+        img {
+          width: 300px;
+          // height: 200px;
+        }
+      }
+      .txt {
+        h2 {
+          margin-top: 0;
+        }
+        padding-left: 1ex;
+        margin-left: 300px;
+      }
+    }
+  }
+}
+
+
+article {
+  width: 100%;
+  height: 100%;
+}
+section.call-to-action {
+  min-height: 95vh;
+  /*background: #0074d9;*/
+  color: #111;
+  background: #0074d9;
+  background: linear-gradient(135deg, #0074d9 0%,#7db9e8 100%);
+  /*margin-bottom: 50px;*/
+  padding-bottom: 20px;
+}
+section.call-to-action a {
+  color: #111;
+}
+section.call-to-action a:hover {
+  color: #333;
+}
+section.call-to-action .title {
+  text-align: center;
+}
+.call-to-action h1 {
+  margin-top: 0px;
+  padding-top: 1em;
+  text-align: center;
+}
+section.card:nth-child(2) {
+  /*background: #39CCCC;*/
+  /*background: #FFDC00;*/
+  /*background: #FFFF33;*/
+  /*background: #aaa;*/
+  /*background: #001F3F;*/
+  /*background: #1A8EF3;*/
+  /*background: #33A7FF;*/
+  background: #4DC1FF;
+}
+section.card:nth-child(3) {
+  background: #53E6E6;
+  background: #7FDBFF;
+  background: #33A7FF;
+  background: #4DC1FF;
+}
+section.card:nth-child(4) {
+  background: #6CFFFF;
+  background: #aaa;
+  background: #4DC1FF;
+  /*background: #33A7FF;*/
+}
+
+section.card {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+section.card:last-child {
+  margin-bottom: 0px;
+}
+section.card img.media-svg {
+  height: 9em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+section.card:nth-child(even) {
+  /*background-color: #ccc;*/
+}

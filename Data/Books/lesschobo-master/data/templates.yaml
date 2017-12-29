@@ -1,0 +1,97 @@
+# * Idiomatic translation.
+# * Cloze deletion.
+# * Cloze deletion with idiomatic context.
+# * Dictionary recall.
+- type: idiomatic
+  chinese: 我爱你
+  english:
+    - I love you
+- type: idiomatic
+  chinese: 他爱唱歌
+  english:
+    - He is fond of singing
+    - He likes to sing
+    - He likes singing
+- type: idiomatic
+  chinese: 这是一个杯子
+  english:
+    - This is a cup
+- type: idiomatic
+  chinese: 她爱哭
+  english:
+    - She is a crybaby
+    - She's a crybaby
+    - She crys easily
+- type: idiomatic
+  chinese: 四面八方
+  english:
+    - In all directions
+    - Far and near
+    - All around
+  comment: Is this a common expression? If so, how is it used?
+- type: idiomatic
+  chinese: 我爸爸很高
+  english:
+    - My father is very tall
+    - My daddy is very tall
+- type: idiomatic
+  chinese: 一杯茶
+  english:
+    - A cup of tea
+    - Cup of tea
+- type: idiomatic
+  chinese: 一杯水
+  english:
+    - A glass of water
+    - Glass of water
+- type: idiomatic
+  chinese: 北京欢迎你
+  english:
+    - Beijing welcomes you
+    - Welcome to Beijing
+- type: idiomatic
+  chinese: 北京是中国的首都
+  english:
+    - Beijing is the capital of China
+- type: idiomatic
+  chinese: 那是一本书
+  english:
+    - That is a book
+    - That's a book
+- type: idiomatic
+  chinese: 她做的菜很好吃
+  english:
+    - The food she cooked is delicious
+    - She cooked delicious food
+- type: idiomatic
+  chinese: 茶色的杯子
+  english:
+    - Brown cups
+- type: cloze
+  chinese: 吃点儿东西
+  english: Grab something to eat
+- type: cloze
+  chinese: 她做的菜好吃
+  english: Her cooking is delicious
+- type: cloze
+  chinese: 这是一个杯子
+  english: This is a cup.
+- type: idiomatic_chunked
+  chinese:
+    - "{教练}： 他是谁？"
+    - "{大卫}： 他是我的朋友{王家明}。"
+    - "{教练}： 他也打跟篮球吗？"
+    - "{大卫}： 不，他不打橄榄球，他打篮球"
+  english:
+    -
+      - Who is that?
+      - Who is he?
+    -
+      - That is my friend Wangjia Ming.
+      - That's my friend Wangjia Ming.
+      - He is my friend Wangjia Ming.
+      - He's my friend Wangjia Ming.
+    -
+      - Does he also play football?
+    -
+      - No, he doesn''t play football, he plays basketball.

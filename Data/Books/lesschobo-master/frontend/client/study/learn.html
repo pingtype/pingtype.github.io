@@ -1,0 +1,254 @@
+<template name="learnLayout">
+  <div class="modal fade" id="uploadModal" tabindex="-1"
+    role="dialog" aria-labelledby="helpModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          Upload JSON file containing stencils.
+        </div>
+        <div class="modal-body">
+          <div class="fileupload fileupload-new" data-provides="fileupload">
+            <span class="btn btn-file">
+              <input name="stencils"
+                class="file-upload-input"
+                method="file-upload.method"
+                accept="text/json"
+                type="file"/>
+            </span>
+          </div>
+          {{#if jsonError}}
+            Parse error: {{jsonError}}
+          {{else}}
+            {{#if jsonUpload}}
+              File accepted.
+            {{else}}
+            {{/if}}
+          {{/if}}
+        </div>
+        <div class="modal-footer">
+          {{#if jsonUpload}}
+            <button type="button" class="btn btn-success activate-stencils"
+              data-loading-text="Uploading..."
+              >Upload stencils: {{jsonUpload.nStencils}}</button>
+          {{/if}}
+          <button type="button" class="btn btn-default"
+            data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  {{> mainNav }}
+
+  <div class="container" style="padding-top: 1em">
+    <div class="col-md-3">
+      <div class="list-group unit-list">
+        <span class="list-group-item list-group-item-info">
+          <strong>{{course.title}}</strong>
+        </span>
+        {{! Only show the Review button when we actually have something
+            to review. }}
+        <a 
+          data-toggle="tooltip" data-placement="top"
+          title="Review of previously studied material."
+          href="{{pathFor 'review' id=courseId slug=slug}}"
+          class="list-group-item list-group-item-success">
+          <center>
+            Review
+            <span class="badge pull-right">
+              {{nReviewConcepts}}
+            </span>
+          </center>
+        </a>
+      </div>
+
+      <div class="list-group unit-list">
+        {{#each key_value course.units}}
+          {{! How do we highlight the active unit when reviewing? }}
+          <a class="unit list-group-item {{activeWhenEq key ../unitIndex}}"
+            id="{{value._id}}"
+            href="{{pathFor 'view' id=../courseId slug=../slug nth=key}}">
+            {{value.title}}
+          </a>
+        {{/each}}
+      </div>
+    </div>
+    <div class="col-md-9">
+      {{#unless currentUser}}
+        <div class="alert alert-warning">
+          You are using <b>Talent<sup>srs</sup></b> anonymously. Sign in or create an account
+          to save your progress.
+        </div>
+      {{/unless}}
+      {{> yield }}
+    </div>
+  </div>
+</template>
+
+<template name="learnToolbar">
+  <div class="btn-toolbar" role="toolbar">
+    <div class="btn-group">
+      {{#if isCompleted}}
+        {{#autofocus}}
+          <button class="btn btn-success autofocus" id="continueBtn">
+            Continue
+          </button>
+        {{/autofocus}}
+      {{else}}
+        <button class="btn btn-warning" id="showAnswerBtn">
+          Show Hint
+        </button>
+      {{/if}}
+      <button class="btn btn-info"
+        data-toggle="modal" data-target="#helpModal">
+        Help
+      </button>
+    </div>
+
+    <div class="btn-group btn-group">
+      {{#each key_value cards}}
+        <button
+          class="btn btn-default learn-toolbar-card {{cardClass}}">
+          {{key}}
+        </button>
+      {{/each}}
+      <button class="btn btn-default learn-toolbar-final {{final}}">
+        <span class="glyphicon glyphicon-certificate"></span>
+      </button>
+    </div>
+
+    <div class="btn-group">
+      <div class="btn-group">
+        <button class="btn btn-default dropdown-toggle disabled"
+          data-toggle="dropdown">
+          Options
+          <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#" class="disabled">Report</a></li>
+          <li><a href="#" class="disabled">Block</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</template>
+
+<template name="studyNav">
+  <ul class="pager">
+    <li>
+      <div class="btn-group">
+        <a class="btn btn-default {{prevActive}}"
+          href="{{pathFor 'view' id=courseId slug='slug' nth=prevIdx}}"
+          >&larr; Previous</a>
+        <a class="btn btn-default"
+          href="{{pathFor 'study' id=courseId slug='slug' nth=unitIndex}}"
+          >Study</a>
+        <a class="btn btn-default {{nextActive}}"
+          href="{{pathFor 'view' id=courseId slug='slug' nth=nextIdx}}"
+          >Next &rarr;</a>
+      </div>
+    </li>
+  </ul>
+</template>
+
+<template name="final">
+  <!-- <ul class="pager">
+    <li>
+      {{#autofocus}}
+        <button
+          class="btn btn-primary continue autofocus"
+          >Continue</button>
+      {{/autofocus}}
+    </li>
+  </ul> -->
+  <br/><br/>
+  <p>
+    This page is reserved for showing a summary of your progress.
+    There's nothing here right now so just hit 'Continue' (or <code>enter</code>
+    or <code>space</code>) to advance to more exercises.
+  </p>
+</template>
+
+<template name="study">
+  {{> learnToolbar }}
+  {{! studyMandarinCard }}
+  {{> UI.dynamic template=cardTemplate }}
+</template>
+
+<template name="studyLoading">
+  Loading...
+</template>
+
+<template name="studyFinished">
+  Congratulations. You have finished all the exercises in this unit.
+  You can either continue with more advance units in this course or
+  you can choose a new course to study.
+</template>
+
+<template name="studyFinishedReview">
+  There are no more items you need to review for this course. You can
+  study new items by selecting a unit and clicking the 'study' button.
+</template>
+
+<template name="view">
+  {{> studyNav }}
+  <div class="panel panel-default">
+    {{#if isInRole 'editor'}}
+    <div class="edit-options">
+      <div class="dropdown">
+        <span class="dropdown-toggle glyphicon glyphicon-cog"
+          data-toggle="dropdown"></span>
+        <ul class="dropdown-menu dropdown-menu-right" role="menu">
+          {{#if editable}}
+            <li><a href="#" id="lock-edit">Lock edit mode</a></li>
+          {{else}}
+            <li><a href="#" id="unlock-edit">Unlock edit mode</a></li>
+          {{/if}}
+          <li><a href="#" id="upload-stencils"
+            data-toggle="modal" data-target="#uploadModal"
+            >Upload stencils</a></li>
+          <li class="divider"></li>
+          <li><a href="#" id="delete-unit">Delete unit</a></li>
+        </ul>
+      </div>
+    </div>
+    {{/if}}
+    <div class="panel-heading">
+      {{#if editTitle}}
+        {{#autofocus}}
+          <input class="autofocus unit-title-editable"
+              type="text" value="{{title}}"/>
+        {{/autofocus}}
+      {{else}}
+        <strong class="unit-title">{{ title }}</strong>
+      {{/if}}
+    </div>
+    <div class="panel-body">
+      {{#if editContent}}
+        {{#autofocus}}
+          <textarea class="unit-content-editable autofocus"
+            >{{content}}</textarea>
+        {{/autofocus}}
+      {{else}}
+        <div class="unit-content">
+
+          {{#if content}}
+            {{#markdown}}{{content}}{{/markdown}}
+          {{else}}
+            <p>No content written for unit.</p>
+          {{/if}}
+        </div>
+      {{/if}}
+    </div>
+  </div>
+  {{> studyNav }}
+</template>
+
+<template name="review">
+  {{> UI.dynamic template=studyTemplate }}
+</template>
+<template name="studyCourse">
+  {{> UI.dynamic template=studyTemplate }}
+</template>

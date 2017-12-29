@@ -1,0 +1,599 @@
+# Rocket Chinese 1
+
+- type: chinese
+  chinese: |
+    Dave: 你好吗?
+    Lin: 我很好。谢谢。你呢?
+    Dave: 我也很好。谢谢。
+    Lin: 再见!
+    Dave: 再见!
+  english:
+    - |
+      Dave: How are you?
+      Lin: I'm very good. Thanks. What about you?
+      Dave: I'm also very good.
+      Lin: See you.
+      Dave: Bye.
+
+- type: chinese
+  chinese: |
+    Lin: 你好吗?
+    Dave: 我很好。谢谢。
+    Lin: 你姓什么?
+    Dave: 我姓 Lewis。
+    Lin: 你叫什么名字?
+    Dave: 我叫 Dave,你呢?
+    Lin: 我叫林萍。你是哪国人?
+    Dave: 我是美国人。你呢?
+    Lin: 我是中国人。见到你很高兴。
+    Dave: 见到你|我也很高兴。
+  english:
+    - |
+      Lin: How are you?
+      Dave: I'm very well. Thank you.
+      Lin: What is your surname?
+      Dave: My name is Lewis.
+      Lin: What are you called?
+      Dave: My name is Dave. And yours?
+      Lin: My name is Lin. Where are you from?
+      Dave: I'm American. And you?
+      Lin: I'm Chinese. Nice to meet you.
+      Dave: Nice to meet you too.
+
+- type: chinese
+  chinese: |
+    Lin: 你会说汉语吗?
+    Dave: 会,可是我只会说一点儿。
+    Lin: 你学习汉语多长时间了?
+    Dave: 对不起,请你说慢一点儿,好吗?
+    Lin: 当然可以。你学习汉语多长时间了?
+    Dave: 谢谢。我学习汉语已经一个月了。
+    Lin: 你的汉语很棒!
+    Dave: 不如你的汉语棒!
+  english:
+    - |
+      Lin: Can you speak Chinese?
+      Dave: Yes, but just a little bit.
+      Lin: How long have you been studying Chinese for?
+      Dave: Excuse me, a little bit more slowly please?
+      Lin: Of course. How long have you been studying Chinese for?
+      Dave: Thanks. I have been studying Chinese for a month.
+      Lin: Your Chinese is wonderful.
+      Dave: Not as good as yours!
+
+- type: chinese
+  chinese: |
+    Lin: 大为,今天几月几号?
+    Dave: 今天是十月十四号星期二。这个星期你忙吗?
+    Lin: 不太忙。我星期五休息。我们一起喝咖啡,好吗?
+    Dave: 好。我们什么时候见?
+    Lin: 下午三点怎么样?
+    Dave: 好。星期五下午三点我接你。
+    Lin: 再见!
+  english:
+    - |
+      Lin: Dave, what is today’s date?
+      Dave: It’s Tuesday, the 14th of October. Are you busy this week?
+      Lin: Not really. I have a day off on Friday. Shall we have coffee together?
+      Dave: Ok, what time shall we meet?
+      Lin: How about 3pm?
+      Dave: Ok, I'll pick you up at 3pm on Friday!
+      Lin: See you then!
+
+- type: chinese
+  chinese: |
+    Dave: 请问,我可以点饮料吗?
+    Lin: 我们有咖啡、英国茶和中国茶。
+    Dave: 我要一杯中国茶。多少钱?
+    Lin: 二十元。
+    Dave: 给你五十元。
+    Lin: 找您三十元。谢谢。
+  english:
+    - |
+      Dave: Excuse me, could I have something to drink?
+      Lin: We have coffee, English tea, and Chinese tea.
+      Dave: I would like a cup of Chinese tea. How much is it?
+      Lin: It’s twenty yuan.
+      Dave: Here you are, fifty yuan.
+      Lin: Thirty yuan change, thank you very much.
+
+- type: chinese
+  chinese: |
+    Dave: 我计划下个月去中国旅行。你愿意和我一起去吗?
+    Lin: 是的。我非常愿意。你想去中国什么地方?
+    Dave: 我想去北京看一看。
+    Lin: 我小时候住在北京。我可以做你的导游。
+    Dave: 太棒了!
+  english:
+    - |
+      Dave: I am planning to travel to China next month. Would you like to join me?
+      Lin: Yes, I'd love to. Where in China do you want to go?
+      Dave: I want to have a look around Beijing.
+      Lin: I lived in Beijing when I was small. I can be your tour guide.
+      Dave: Great! I'm looking forward to it.
+
+- type: chinese
+  chinese: |
+    Dave: 我要买两张去北京的飞机票。
+    Lin: 您要买单程票还是双程票?
+    Dave: 双程票。一个星期以后回来。
+    Lin: 什么时候出发?
+    Dave: 越早越好。
+    Lin: 下一个航班是在明天上午八点。正好一个星期以后回来。
+    Dave: 飞机票多少钱?
+    Lin: 您要商务舱还是经济舱?
+    Dave: 经济舱。
+    Lin: 七百二十元一张。
+  english:
+    - |
+      Dave: I would like to book two tickets to Beijing.
+      Lin: One way or return tickets?
+      Dave: Return tickets. We would like to stay for one week.
+      Lin: When do you want to depart?
+      Dave: The sooner, the better.
+      Lin: The next flight is at 8am tomorrow morning and the return flight is exactly a week later.
+      Dave: How much is it?
+      Lin: Do you want economy class or business class?
+      Dave: Economy class please.
+      Lin: 720 yuan each.
+
+- type: chinese
+  chinese: |
+    Lin: 请出示您的飞机票。
+    Dave: 小姐,请给我靠窗口的座位。
+    Lin: 当然可以。您有行李要托运吗?
+    Dave: 没有。我只有一个背包。
+    Lin: 您要买航空保险吗?
+    Dave: 不用了。谢谢。
+    Lin: 这是你的登机牌。请去六号登机口等候。
+    Dave: 你知道洗手间在哪儿吗?
+    Lin: 在那儿。
+  english:
+    - |
+      Lin: Your tickets, please.
+      Dave: Could I please have a seat by the window, Miss.
+      Lin: Certainly. Do you have any luggage to check in?
+      Dave: No, I only have a small backpack.
+      Lin: Do you want to buy travel insurance?
+      Dave: No need, thank you.
+      Lin: This is your boarding pass. Please go to gate six and wait.
+      Dave: Do you know where the bathroom is?
+      Lin: They are over there.
+
+- type: chinese
+  chinese: |
+    Lin: 女士们先生们,欢迎乘坐中国东方航空公司的班机。祝大家旅途愉 快。
+    Dave: 我太兴奋了。我等不及去北京。
+    Lin: 飞机就要起飞了,请大家系好安全带。先生,请您关上您的手机。
+    Dave: 小姐,我们要飞几个小时?
+    Lin: 十二个小时十分钟。
+      女士们先生们,飞机已经准时在北京机场降落了。请大家等飞机停稳
+      再解开安全带。
+  english:
+    - |
+      Lin: Ladies and gentlemen, welcome aboard China Eastern Airline. We hope you have a pleasant journey.
+      Dave: This is exciting. I can't wait to get to Beijing.
+      Lin: The plane is about to take off. Please fasten your seat belts. Mister,
+           please turn off your cell phone. Dave: How many hours is the flight, Miss?
+      Lin: Twelve hours and ten minutes.
+      Lin: Ladies and gentlemen, our plane has landed at Beijing Airport on
+           time. Please keep your seatbelts tightly fastened until the plane has completely stopped.
+
+- type: chinese
+  chinese: |
+    Dave: 请开车送我们去北京王府井饭店。谢谢。
+    Lin: 没问题。这是你第一次来中国吗?
+    Dave: 是的,以前只在电视上看过北京。北京看起来真大。
+    Lin: 北京是中国的首都,也是政治和文化中心。
+    Dave: 你可以向我推荐应该参观的地方吗?
+    Lin: 你应该参观天安门广场。很有名。
+    Dave: 非常感谢。
+    Lin: 欢迎来到中国北京!祝你玩得开心!
+  english:
+    - |
+      Dave: Please drive us to the Wángfujing Hotel. Thanks!
+      Lin: Certainly. Is this your first time in China?
+      Dave: Yes, I only know Beijing from TV programs. It looks really big.
+      Lin: It is the capital of China, as well as the political and cultural center.
+      Dave: Can you recommend anything that I should visit?
+      Lin: You should visit the Tiananmen Square. It's very famous.
+      Dave: Thank you very much.
+      Lin: Welcome to Beijing and enjoy your stay.
+
+- type: chinese
+  chinese: |
+    Lin: 先生,您好。有什么需要帮忙的吗?
+    Dave: 还有空房间吗?
+    Lin: 有。单人间一个晚上四百元。双人间一个晚上六百元。
+    Dave: 请给我们两个单人间。
+    Lin: 您住几天?
+    Dave: 我们住一个星期。
+    Lin: 每个人要付一千六百元的押金。另外请您出示您的护照。
+    Dave: 这是我们的护照和一千六百元。
+    Lin: 谢谢。您的房间号是 1506 和 1507。这是您的钥匙。
+    Dave: 谢谢。
+  english:
+    - |
+      Lin: Hello, sir. What can I do for you?
+      Dave: Have you got spare rooms?
+      Lin: Yes. Single rooms cost 400 yuan per night. Double rooms cost 600 yuan per night.
+      Dave: Can we have two single rooms, please.
+      Lin: How many days are you staying?
+      Dave: We'll stay for one week.
+      Lin: Both of you need to pay 1,600 yuan deposit. And I need your passports.
+      Dave: Here is 1,600 yuan and the passports.
+      Lin: Thanks. Your rooms are room 1506 and room 1507. Here are the keys. Dave: Thanks.
+
+- type: chinese
+  chinese: |
+    Lin: 王府井饭店是北京最好的宾馆之一。
+    Dave: 窗外的景色也很美。那里怎么有那么多人?
+    Lin: 那|是王府井大街。是北京有名的商业中心。改天你可以好好看一下。
+    Dave: 好主意。我们先休息一下,洗个澡,然后出去吃饭。
+    Lin: 今天晚上我请你吃饭。我们试一下有名的北京烤鸭。
+    Dave: 你真好。
+  english:
+    - |
+      Lin: Wángfujing Hotel is one of the best hotels in Beijing.
+      Dave: It has also got a beautiful view outside the windows. How come
+            there are so many people down there?
+      Lin: That is Wángfujing Avenue, the famous shopping center, famous
+            for both inexpensive and good quality products. You can have a
+            good look around sometime.
+      Dave: Good idea. First let's have a rest and a shower and then go out for
+            dinner.
+      Lin: I’ll treat you for dinner tonight. We’ll try the famous Beijing Roasted
+            Duck!
+      Dave: That’s very nice of you!
+
+- type: chinese
+  chinese: |
+    Dave: 喂,这是 1506 房间。我要打一个国际长途电话。
+    Lin: 我可以帮您拨。您要先交钱。
+    Dave: 可以。
+    Lin: 您要打到哪儿?
+    Dave: 美国纽约。
+    Lin: 电话号码是多少?
+    Dave: 001-55-2643-5781.
+    Lin: 您的电话接通了。
+    Dave: 谢谢。
+  english:
+    - |
+      Dave: Hello, this is room 1506. I want to make an international phone call.
+      Lin: I can put you through. You need to pay in advance.
+      Dave: That’s ok.
+      Lin: Where do you want to call?
+      Dave: New York.
+      Lin: What is the number?
+      Dave: 001-55-2643-5781.
+      Lin: It has been put through now.
+      Dave: Thank you.
+
+- type: chinese
+  chinese: |
+    Dave: 你好。我和我的朋友要去你们的饭店吃晚饭。我可以订一张桌子吗?
+    Lin: 没问题。您几位?
+    Dave: 两位。
+    Lin: 您什么时候到?
+    Dave: 大概七点。可以吗?
+    Lin: 可以。请问您怎么称呼?
+    Dave: 我姓 Lewis.
+    Lin: Lewis 先生,请留下您的电话号码。
+    Dave: 87764321 转 1506.
+    Lin: 好的。桌子已经为您预订好了。今天晚上七点见!
+    Dave: 谢谢。
+  english:
+    - |
+      Dave: Hello. Can I book a table for dinner at your restaurant tonight for my friend and me please?
+      Lin: No problem. How many people?
+      Dave: Two.
+      Lin: What time?
+      Dave: Around 7pm. Is it ok?
+      Lin: Sure. What name do you want to book under?
+      Dave: My surname is Lewis.
+      Lin: Mr. Lewis, can I have your contact number please.
+      Dave: 87764321 extension 1506.
+      Lin: Ok. A table has been booked for you. See you at 7.
+      Dave: Thank you!
+
+- type: chinese
+  chinese: |
+    Lin: Dave, 这是菜单。你看一下,想点什么菜?
+    Dave: 这个餐厅有什么特色菜?
+    Lin: 这里的烤鸭做得很好。北京有很多烤鸭店,可是这里的烤鸭最好吃。
+    Dave: 那我一定要尝一下。
+    Lin: 你还想点什么其它的菜?
+    Dave: 我不太了解中国菜。随便。
+    Lin: 你喝什么?
+    Dave: 我要一瓶啤酒。你呢?
+    Lin: 我要一壶绿茶。
+  english:
+    - |
+      Lin: Dave, here is the menu. Have a look please. What do you want to have?
+      Dave: Any special recommendation?
+      Lin: This restaurant is good at cooking Beijing Roasted duck. Beijing
+           has got many restaurants that offer this dish, but this restaurant is
+           the best.
+      Dave: Then I’ll definitely try the duck.
+      Lin: What else do you want to order?
+      Dave: I don’t know much about Chinese dishes. You make the decision.
+      Lin: What about drinks?
+      Dave: Yes, I’ll have a bottle of beer. What about you?
+      Lin: I’ll have some green tea.
+
+- type: chinese
+  chinese: |
+    Dave: 这里的烤鸭真是好吃。
+    Lin: 你喜欢我很高兴。我们结账吧。
+    Dave: Lín, 我们 AA 制吧。
+    Lin: 不,说好了我请客。我会结帐。
+    Dave: 那谢谢你。下次我请你。
+    Lin: 谢谢。
+    Dave: 我们去享受北京的夜生活好吗?
+    Lin: 听起来不错。我们去俱乐部吧!
+  english:
+    - |
+      Dave: The duck here is delicious indeed.
+      Lin: I am happy you liked it. Let's pay.
+      Dave: Lín, I'll pay for half of it.
+      Lin: No, I said it is my treat. I will pay.
+      Dave: Thanks a lot then. I will treat you next time.
+      Lin: Thank you.
+      Dave: Shall we go and enjoy the night life of Beijing?
+      Lin: That sounds good. Let's go to a club.
+
+- type: chinese
+  chinese: |
+    Lin: 你想进这个俱乐部吗?
+    Dave: 是的。进去要花钱吗?
+    Lin: 是免费的!
+    Dave: 在中国很多人去俱乐部吗?
+    Lin: 是的。大为,你喜欢跳舞吗?
+    Dave: 是的,很喜欢。你愿意和我一起跳舞吗?
+    Lin: 我们试一下吧!
+  english:
+    - |
+      Lin: Do you want to go into this club?
+      Dave: Yes. Does it cost money to get in?
+      Lin: It is free!
+      Dave: Do many people go to clubs in China?
+      Lin: Yes they do. Do you like dancing Dave?
+      Dave: Oh yes, very much. Would you like to dance with me?
+      Lin: Let's give it a try.
+
+- type: chinese
+  chinese: |
+    Lin: 早上好,大为。昨天晚上睡得好吗?
+    Dave: 很好,谢谢。我们今天去哪儿?
+    Lin: 我带你参观北京的名胜古迹—故宫。
+    Dave: 故宫离这儿远吗?
+    Lin: 不远。坐公共汽车三十分钟左右就到了。那|是以前皇帝住的地方。那 个时候又叫紫禁城。
+    Dave: 我们要坐几路公共汽车?
+    Lin: 我也不太清楚。我们看一下地图吧!
+  english:
+    - |
+      Lin: Good morning, Dave. Did you sleep well last night?
+      Dave: Very well. Thanks. Where do we go today?
+      Lin: I’ll show you around a famous historical place in Beijing - the Place
+            Museum.
+      Dave: Is it far from here?
+      Lin: No, it takes about thirty minutes by bus. That was the place where emperors used to live. It was called the Forbidden City at that time.
+      Dave: Which bus shall we take?
+      Lin: I am not quite sure. Let’s have a look at the map.
+
+- type: chinese
+  chinese: |
+    Lin: 故宫在北边。我们应该坐 103 路公共汽车。
+    Dave: 要换车吗?
+    Lin: 要。我们应该在天安门广场换车。
+    Dave: 换几路车?
+    Lin: 换 331 路公共汽车。或者在那儿换地铁。
+    Dave: 地铁比公共汽车快,所以我们还是换地铁吧。
+    Lin: 我同意。
+  english:
+    - |
+      Lin: The Palace Museum is in the north. We should take Bus number 103.
+      Dave: Do we need to change to another bus?
+      Lin: Yes. We need to change to another bus at Tiananmen Square.
+      Dave: To which number?
+      Lin: Number 331. Or we can change to the underground there.
+      Dave: Underground is faster than buses, so let’s choose the underground.
+      Lin: Sounds good to me!
+
+- type: chinese
+  chinese: |
+    Dave: 请问,这路车去天安门广场吗?
+    Lin: 去,请上车。
+    Dave: 我买两张票。多少钱一张?
+    Lin: 七毛。
+    Dave: 给你两块钱。
+    Lin: 找你六毛钱。
+    Dave: 请问从这儿到天安门广场有几站?
+    Lin: 三站。你说汉语说得很好。发音很清楚。
+    Dave: 谢谢。
+  english:
+    - |
+      Dave: Excuse me, do you go to Tiananmen Square?
+      Lin: Yes, please get in the bus.
+      Dave: Two tickets please. How much is it?
+      Lin: 0.7 yuan.
+      Dave: Here is two yuan.
+      Lin: 0.6 yuan change.
+      Dave: How many bus stops are there before Tiananmen Square?
+      Lin: Three. You speak very good Chinese. Your pronunciation is clear.
+      Dave: Thank you.
+
+- type: chinese
+  chinese: |
+    Dave: Lin, 谢谢你带我来参观故宫。故宫真是一个引人入胜的地方。
+    Lin: 不客气。
+    Dave: 怪不得人们叫它紫禁城。它真得像一座城市一样。
+    Lin: 我们花了整整一天的时间,也只是看了个大概。
+    Dave: 明天我们做什么?
+    Lin: 对不起,明天我不能陪你了。我和一个老朋友约好了见面。
+    Dave: 没关系。我可以自己出去买点儿东西。
+  english:
+    - |
+      Dave: Lín, thanks for showing me around the Palace Museum. It's a fascinating place.
+      Lin: You are welcome.
+      Dave: No wonder people call it Forbidden City. It is really as big as a city.
+      Lin: We spent a whole day there and didn't even see everything.
+      Dave: What are we going to do tomorrow?
+      Lin: I am sorry, but I can’t spend time with you tomorrow. I’ve will met
+            up with an old friend.
+      Dave: That’s ok. I can do some shopping by myself.
+
+- type: chinese
+  chinese: |
+    Dave: 小姐,那件毛衣很好看。我可以试一下吗?
+    Lin: 可以。你穿多大号?
+    Dave: 我穿八十号。
+    Lin: 给。这款毛衣是纯毛的,很暖和。
+    Dave: 穿起来很舒服,只是有点儿短。
+    Lin: 你试一下这一件。这一件大一号。
+    Dave: 这一件大小正合适。我买这一件。
+  english:
+    - |
+      Dave: Miss, that sweater looks good. Can I try it on?
+      Lin: Certainly. What size are you?
+      Dave: Size 80.
+      Lin: There you go. It is pure wool and keeps you warm.
+      Dave: It is comfy, except that it’s a bit short.
+      Lin: Please try this one on. It is one size bigger.
+      Dave: This one suits me. I’ll take it.
+
+- type: chinese
+  chinese: |
+    Dave: 请问,去邮局怎么走?
+    Lin: 沿着这条路一直往前走。
+    Dave: 然后呢?
+    Lin: 看见红绿灯往右拐,再一直往前走。马路左边有一个公共电话亭。邮
+         局就在电话亭的旁边。
+    Dave: 离这儿远吗?
+    Lin: 不太远。走路需要十分钟就到了。
+  english:
+    - |
+      Dave: Excuse me, how do I get to a post office?
+      Lin: Go straight ahead along this street.
+      Dave: And then?
+      Lin: Turn right when you see the traffic lights. And then walk straight
+           ahead. On the left hand side of the street, there is a public phone
+           booth. The post office is right beside it.
+      Dave: Is it far from here?
+      Lin: Not very. Ten minutes by foot.
+
+- type: chinese
+  chinese: |
+    Dave: 小姐,我要把这个包裹寄到英国。
+    Lin: 里面是什么?请打开让我看一看。
+    Dave: 里面是我给家人买的礼物。
+    Lin: 可以了。请填一下这张包裹单。
+    Dave: 需要多长时间能够寄到?
+    Lin: 十个工作日。
+    Dave: 我还要把这封信寄到美国。
+    Lin: 你寄平信还是寄挂号信?
+    Dave: 寄挂号信。
+    Lin: 一共是一百三十八元。
+  english:
+    - |
+      Dave: I would like to post this parcel to the UK, Miss.
+      Lin: What is inside? Please open it and let me have a look.
+      Dave: These are the presents I have bought for family members.
+      Lin: Ok. Please fill in this slip.
+      Dave: How long will it take?
+      Lin: Ten working days.
+      Dave: I also want to post this letter to America.
+      Lin: Do you want to post it as plain mail or as registered mail?
+      Dave: As registered mail.
+      Lin: It is 138 yuan all together.
+
+- type: chinese
+  chinese: |
+    Lin: 你的脸色很苍白。你怎么了?
+    Dave: 我觉得不舒服,头疼。还咳嗽。
+    Lin: 你感冒了。发烧吗?
+    Dave: 好像有一点儿。我全身都觉得冷。
+    Lin: 我给医生打电话。我们约时间去看医生吧。
+    Dave: 不用。我自己吃点儿药就行了。
+    Lin: 好吧。我马上去药店。
+  english:
+    - |
+      Lin: You look pale. What’s wrong with you?
+      Dave: I feel uncomfortable. I have a headache and I'm also coughing.
+      Lin: You’ve got a cold. Do you have a temperature?
+      Dave: A little bit, I think. I feel cold all over the body.
+      Lin: I'll ring the doctor and make an appointment for you.
+      Dave: No need. I’ll take some medicine and I'll be fine.
+      Lin: Alright. I'll go to the pharmacy right now.
+
+- type: chinese
+  chinese: |
+    Dave: 你看天气预报了吗?
+    Lin: 今天和明天会很冷。
+    Dave: 会下雨吗?
+    Lin: 可能,可是周末天气会很好。
+    Dave: 我不太习惯这里的天气。
+    Lin: 我们最好给你买一些暖和的衣服。这样你不会再感冒。
+  english:
+    - |
+      Dave: Did you see the weather forecast?
+      Lin: It is supposed to be quite cold today and tomorrow.
+      Dave: Is it going to rain?
+      Lin: It might be, but the weekend is supposed to be nice and sunny.
+      Dave: I am really not used to the weather here.
+      Lin: We better get you some warmer clothes, so you don't get another cold.
+
+- type: chinese
+  chinese: |
+    Dave: Lin, 你做运动吗?
+    Lin: 是的。我爱踢足球,你呢?
+    Dave: 我很懒,所以我喜欢看别人做运动。
+    Lin: 真的吗?
+    Dave: 不,我开玩笑。我很喜欢跳舞和打羽毛球。
+    Lin: 太好了。
+  english:
+    - |
+      Dave: Do you play any sports, Lin?
+      Lin: Yes, I love playing soccer. What about you?
+      Dave: I'm quite lazy so I prefer watching other people do sports.
+      Lin: Really?
+      Dave: No, I'm only joking. I really enjoy dancing and badminton.
+      Lin: Great.
+
+- type: chinese
+  chinese: |
+    Dave: 你做什么工作?
+    Lin: 我是大学老师。
+    Dave: 听起来很有意思。你喜欢你的工作吗?
+    Lin: 是的。这个工作很有挑战性,也很有意思。
+    Dave: 那么,你一定有很多假期。
+    Lin: 是的,可是工作也很辛苦。
+  english:
+    - |
+      Dave: What kind of job do you do?
+      Lin: I work as a teacher at university.
+      Dave: That sounds interesting. Do you enjoy it?
+      Lin: Yes, it's very challenging and a lot of fun.
+      Dave: You get a lot of holidays then.
+      Lin: True, but it's also hard work.
+
+- type: chinese
+  chinese: |
+    Lin: 请进。我想把你介绍给我的家人。
+    Dave: 我需要脱鞋吗?
+    Lin: 是的,请把鞋脱掉。这是我的妈妈。她叫佳。
+    Dave: 见到你|我很高兴。
+    Lin: 我爸爸叫方。
+    Dave: 见到你|我也很高兴。
+    Lin: 这是我们的小狗。
+    Dave: 真可爱。
+  english:
+    - |
+      Lin: Come in. I would like to introduce you to my family.
+      Dave: Do I need to take my shoes off?
+      Lin: Yes, please. This is my mother. Her name is Jia.
+      Dave: It's a pleasure to meet you.
+      Lin: My father's name is Fang.
+      Dave: Nice to meet you, too.
+      Lin: And this is our little puppy.
+      Dave: How cute!

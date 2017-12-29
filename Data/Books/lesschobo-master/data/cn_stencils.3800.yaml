@@ -1,0 +1,4546 @@
+# - type: chinese
+#   chinese: 早晨好
+#   english:
+#     - Good morning.
+
+- type: chinese
+  chinese: 闹钟响了吗?
+  english:
+    - Did the alarm clock go off?
+
+- type: chinese
+  chinese: 该起床了!
+  english:
+    - It's time to get up!
+
+- type: chinese
+  chinese: 快点儿起床!
+  english:
+    - Get up soon.
+
+- type: chinese
+  chinese: 你醒了吗?
+  english:
+    - Are you awake?
+
+- type: chinese
+  chinese: 你不舒服吗?
+  english:
+    - Are you feeling sick?
+
+- type: chinese
+  chinese: 睡得好吗?
+  english:
+    - Did you sleep well?
+
+- type: chinese
+  chinese: 能帮我关掉闹钟吗?
+  english:
+    - Would you turn off the alarm clock?
+
+- type: chinese
+  chinese: 你终于起来了
+  english:
+    - You finally got up. (from sleeping)
+
+- type: chinese
+  chinese: 今天是个好天!
+  english:
+    - It's a nice day!
+
+- type: chinese
+  chinese: 昨晚你熬夜了?
+  english:
+    - Did you stay up late last night?
+
+- type: chinese
+  chinese: 把被子叠好
+  english:
+    - Let's fold up the futon.
+
+- type: chinese
+  chinese: 昨天晚上你打呼噜了
+  english:
+    - You were snoring last night.
+
+- type: chinese
+  chinese: 我做了个可怕的梦
+  english:
+    - I had a nightmare.
+
+- type: chinese
+  chinese: 你一直没关灯啊
+  english:
+    - You left the light on.
+
+- type: chinese
+  chinese: 我得洗脸了
+  english:
+    - I have to go wash my face.
+
+- type: chinese
+  chinese: 该吃早饭了
+  english:
+    - It's time to eat breakfast.
+
+- type: chinese
+  chinese: 我还困着呢。
+  english:
+    - I'm still sleepy.
+
+- type: chinese
+  chinese: 我还打哈欠呢
+  english:
+    - I'm still yawning.
+
+- type: chinese
+  chinese: 昨天的酒还没醒呢。
+  english:
+    - I have a hangover.
+
+- type: chinese
+  chinese: 我是个夜猫子。
+  english:
+    - I'm a night person.
+
+- type: chinese
+  chinese: 我是用咖啡来提神的。
+  english:
+    - Coffee wakes me up.
+
+- type: chinese
+  chinese: 刷牙了吗?
+  english:
+    - Did you brush your teeth?
+
+- type: chinese
+  chinese: 我得梳梳头了。
+  english:
+    - I have to comb my hair.
+
+- type: chinese
+  chinese: 穿什么好呢?
+  english:
+    - What should I wear?
+
+- type: chinese
+  chinese: 快换衣服。
+  english:
+    - Hurry up and get dressed.
+
+- type: chinese
+  chinese: 把睡衣收好。
+  english:
+    - Put those pajamas away!
+
+- type: chinese
+  chinese: 我走了。妈妈再见!
+  english:
+    - I'm leaving. Bye mom!
+
+- type: chinese
+  chinese: 今天我们逃学吧
+  english:
+    - Let's play hooky today!
+
+- type: chinese
+  chinese: 你毛衣穿反了
+  english:
+    - You're wearing your sweater inside out.
+
+- type: chinese
+  chinese: 上下颠倒了。
+  english:
+    - It's upside down.
+
+- type: chinese
+  chinese: 可别忘了扔垃圾!
+  english:
+    - Don't forget to take out the garbage.
+
+- type: chinese
+  chinese: 今天该你扔垃圾了。
+  english:
+    - It's your turn to take out the garbage.
+
+- type: chinese
+  chinese: 今天你们干嘛?
+  english:
+    - What are you (plural) doing today?
+
+- type: chinese
+  chinese: 你快点儿, 我们该迟到了!
+  english:
+    - If you don't hurry, we'll be late.
+
+- type: chinese
+  chinese: 快点儿, 上学该迟到了。
+  english:
+    - Hurry or you'll be late for school.
+
+- type: chinese
+  chinese: 你锁门了吗?
+  english:
+    - Did you lock the door?
+
+- type: chinese
+  chinese: 没忘了什么东西吧?
+  english:
+    - Aren't you forgetting something?
+
+- type: chinese
+  chinese: 都已经8点了!
+  english:
+    - It's already 8:00.
+
+- type: chinese
+  chinese: 我晚了!
+  english:
+    - I'm late!
+
+- type: chinese
+  chinese: 我得赶紧走!
+  english:
+    - I have to rush!
+
+- type: chinese
+  chinese: 你今天会回来得晚吗?
+  english:
+    - Are you gonna be late today?
+
+- type: chinese
+  chinese: 几点回来?
+  english:
+    - What time are you coming home?
+
+- type: chinese
+  chinese: 饭盒带了吗?
+  english:
+    - Have you got your lunch box?
+
+- type: chinese
+  chinese: 今天好像要下雨。
+  english:
+    - It might rain today.
+
+- type: chinese
+  chinese: 出门的时候, 可别忘了锁门。
+  english:
+    - Don't forget to lock the door when you leave.
+
+- type: chinese
+  chinese: 我回来了。
+  english:
+    - I'm home.
+
+- type: chinese
+  chinese: 你回来了。
+  english:
+    - Welcome home!
+
+- type: chinese
+  chinese: 今天过得愉快吗?
+  english:
+    - Did you have a good time?
+
+- type: chinese
+  chinese: 今天怎么样?
+  english:
+    - How did it go today?
+
+- type: chinese
+  chinese: 我可以出去玩儿会儿吗?
+  english:
+    - Can I go out to play?
+
+- type: chinese
+  chinese: 我饿了。
+  english:
+    - I'm hungry.
+
+- type: chinese
+  chinese: 点心在哪儿?
+  english:
+    - Where are the snacks?
+
+- type: chinese
+  chinese: 我去补习学校了啊。
+  english:
+    - I'm going to cram school now.
+
+- type: chinese
+  chinese: 能给我点儿零花钱吗?
+  english:
+    - May I have my allowance?
+
+- type: chinese
+  chinese: 真累啊!
+  english:
+    - I'm tired.
+
+- type: chinese
+  chinese: 晚饭你想吃什么?
+  english:
+    - What would you like for dinner?
+
+- type: chinese
+  chinese: 你能帮我准备餐具吗?
+  english:
+    - Would you help me set the table?
+
+- type: chinese
+  chinese: 晚饭做什么好呢?
+  english:
+    - What should I make for dinner?
+
+- type: chinese
+  chinese: 还是家好哇。
+  english:
+    - It's good to be home.
+
+- type: chinese
+  chinese: 你能不能快点儿去趟商?
+  english:
+    - Would you run to the store?
+
+- type: chinese
+  chinese: 洗澡水烧好了。
+  english:
+    - The bath is ready.
+
+- type: chinese
+  chinese: 我要冲个澡。
+  english:
+    - I'm taking a shower.
+
+- type: chinese
+  chinese: 晚饭好了吗?
+  english:
+    - Is dinner ready?
+
+- type: chinese
+  chinese: 妈妈, 今天晚饭吃什么?
+  english:
+    - Mom, what's for dinner tonight?
+
+- type: chinese
+  chinese: 晚饭吃什么?
+  english:
+    - What's for dinner?
+
+- type: chinese
+  chinese: 今天吃咖哩饭。
+  english:
+    - Today, we're having curry.
+
+- type: chinese
+  chinese: 还要多久才能做好呀?
+  english:
+    - How soon can you get it ready?
+
+- type: chinese
+  chinese: 我吃了啊。
+  english:
+    - Let's eat.
+
+- type: chinese
+  chinese: 请先吃吧。
+  english:
+    - Please go ahead (and eat).
+
+- type: chinese
+  chinese: 这刀挺好使的, 是不是?
+  english:
+    - This knife cuts well, doesn't it?
+
+- type: chinese
+  chinese: 水开啦!
+  english:
+    - The water is boiling!
+
+- type: chinese
+  chinese: 开饭啦!
+  english:
+    - Come and eat!
+
+- type: chinese
+  chinese: 该吃饭啦!
+  english:
+    - It's time to eat.
+
+- type: chinese
+  chinese: 这就来啦!
+  english:
+    - I'm coming.
+
+- type: chinese
+  chinese: 手洗干净了吗?
+  english:
+    - Did you wash your hands well?
+
+- type: chinese
+  chinese: 别弄洒了。
+  english:
+    - Don't spill it!
+
+- type: chinese
+  chinese: 把碗里的菜吃光。
+  english:
+    - Eat all of your vegetables.
+
+- type: chinese
+  chinese: 把碗里的饭吃干净。
+  english:
+    - Finish up your plate.
+
+- type: chinese
+  chinese: 我不喜欢吃芦笋。
+  english:
+    - I don't like asparagus.
+
+- type: chinese
+  chinese: 谢谢您的|款待。
+  english:
+    - It was very delicious. Thank you.
+
+- type: chinese
+  chinese: 能帮我收拾盘子吗?
+  english:
+    - Would you clear the table?
+
+- type: chinese
+  chinese: 把盘子洗了。
+  english:
+    - Do the dishes!
+
+- type: chinese
+  chinese: 我擦盘子。
+  english:
+    - I'll dry the dishes.
+
+- type: chinese
+  chinese: 你干什么呢?
+  english:
+    - What are you doing?
+
+- type: chinese
+  chinese: 我看电视呢。
+  english:
+    - I'm watching TV.
+
+- type: chinese
+  chinese: 有什么好看的节目吗?
+  english:
+    - Are there any good programs on TV?
+
+# - type: chinese
+#   chinese: 野茂上电视了。
+#   english:
+#     - Nomo is on TV.
+#   comment: What is Nomo?
+
+- type: chinese
+  chinese: 8频道演什么呢?
+  english:
+    - What's on Channel 8?
+
+- type: chinese
+  chinese: 能不能帮我换个台?
+  english:
+    - Would you change the channel?
+
+- type: chinese
+  chinese: 我还想看电视。
+  english:
+    - I want to watch more TV.
+
+- type: chinese
+  chinese: 铺床吧。
+  english:
+    - Let's spread out the futon.
+
+- type: chinese
+  chinese: 我困了。
+  english:
+    - I'm sleepy.
+
+- type: chinese
+  chinese: 作业做了吗?
+  english:
+    - Did you do your homework?
+
+- type: chinese
+  chinese: 好好学习。
+  english:
+    - Study hard.
+
+- type: chinese
+  chinese: 快点睡觉。
+  english:
+    - Hurry up and go to sleep.
+
+- type: chinese
+  chinese: 游戏玩够了吧。
+  english:
+    - Enough with your video games.
+
+- type: chinese
+  chinese: 一定要刷牙噢。
+  english:
+    - Make sure you brush your teeth.
+
+- type: chinese
+  chinese: 明天的东西都准备好了吗?
+  english:
+    - Are you ready for tomorrow?
+
+- type: chinese
+  chinese: 我去洗个澡。
+  english:
+    - I'm going to take a bath.
+
+- type: chinese
+  chinese: 该睡觉了。
+  english:
+    - Time to go to sleep.
+
+- type: chinese
+  chinese: 电视还开着呢。
+  english:
+    - You left the TV on.
+
+- type: chinese
+  chinese: 别把你的东西都摊在这儿。
+  english:
+    - Don't leave your stuff here.
+
+- type: chinese
+  chinese: 把闹钟定在8点了。
+  english:
+    - I set the alarm clock for 8:00.
+
+- type: chinese
+  chinese: 明天7点叫醒我。
+  english:
+    - Wake me up at seven tomorrow.
+
+# - type: chinese
+#   chinese: 晚安。
+#   english:
+#     - Good night.
+#   comment: Need longer phrase.
+
+- type: chinese
+  chinese: 做个好梦。
+  english:
+    - Sweet dreams.
+
+- type: chinese
+  chinese: 我真想睡个午觉。
+  english:
+    - I want to take a nap.
+
+- type: chinese
+  chinese: 我去躺一会儿。
+  english:
+    - I'm going to lie down.
+
+- type: chinese
+  chinese: 你在装睡啊!
+  english:
+    - You're pretending to be asleep.
+
+- type: chinese
+  chinese: 你睡着了吗?
+  english:
+    - Were you sleeping?
+
+- type: chinese
+  chinese: 没有, 还没睡呢。
+  english:
+    - No, I was awake.
+  comment: Do these phrases make enough sense outside of the conversation?
+
+- type: chinese
+  chinese: 你能给孩子换块尿布吗?
+  english:
+    - Will you change the baby's diaper?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# Do you need to pee?
+# xiǎnɡ niào niào mɑ ?
+# 想 尿 尿 吗?
+# * zhǔ yào duì xiǎo hái zi yònɡ 。 *主 要 对 小 孩 子用 。
+
+- type: chinese
+  chinese: 我们来投球吧。
+  english:
+    - Let's play catch.
+
+- type: chinese
+  chinese: 漏水了。
+  english:
+    - The water is leaking.
+
+- type: chinese
+  chinese: 全是灰呀。
+  english:
+    - It's so dusty.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# It's stuffy in this room.
+# 想 尿 尿 吗?
+# * zhǔ yào duì xiǎo hái zi yònɡ 。 *主 要 对 小 孩 子用 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# It's time to go wee-wee.
+# ɡāi niào niào le 。 该 尿 尿 了。
+# * zhǔ yào duì xiǎo hái *主 要 对 小 孩
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: ??
+# Peekaboo! *
+# hái zi men zài wán cánɡ
+# ě bàn dài wán lè dì shǐ
+# 孩 子们 在 玩 藏
+# 半 带 玩 乐地使 用 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: ??
+# Kuchi-kuchi-koo.
+# 儿 时 用
+# 。大 人 有 时 开 玩 笑
+# 时 也 用 。
+# zhè jiān wū zi tōnɡ fēnɡ zhēn chà 。 这 间 屋子通 风 真 差 。
+
+- type: chinese
+  chinese: 这个房间很通风。
+  english:
+    - It's drafty in this room.
+
+- type: chinese
+  chinese: 你能去喂喂狗吗?
+  english:
+    - Will you feed the dog?
+
+- type: chinese
+  chinese: 你去遛遛狗吧?
+  english:
+    - Will you take the dog for a walk?
+
+- type: chinese
+  chinese: 帮我照看一下弟弟和妹妹。
+  english:
+    - Take care of my brother and sister.
+
+- type: chinese
+  chinese: 请给植物浇点水。
+  english:
+    - Please water the plants.
+
+- type: chinese
+  chinese: 啊! 怎么这么乱呀!
+  english:
+    - What a mess!
+
+- type: chinese
+  chinese: 帮帮我吧。
+  english:
+    - Help me.
+
+- type: chinese
+  chinese: 把你的屋子收拾收拾。
+  english:
+    - Clean up your room.
+
+- type: chinese
+  chinese: 帮我打扫打扫卫生。
+  english:
+    - Help me clean up the house.
+
+- type: chinese
+  chinese: 洗涤灵用完啦。
+  english:
+    - We're out of dish detergent.
+
+- type: chinese
+  chinese: 你能把衣服晾上吗?
+  english:
+    - Would you put up the clothes to dry?
+
+- type: chinese
+  chinese: 你能帮我把衣服叠起来吗?
+  english:
+    - Will you help me fold up the clothes?
+
+- type: chinese
+  chinese: 把地扫扫。
+  english:
+    - Please sweep the floor.
+
+- type: chinese
+  chinese: 把厨房的池子洗干净。
+  english:
+    - Please scrub the sink.
+
+- type: chinese
+  chinese: 我得用吸尘器吸吸我房间了。
+  english:
+    - I have to vacuum my room 。
+
+- type: chinese
+  chinese: 掸掸柜子上的土。
+  english:
+    - Please dust the shelves.
+
+- type: chinese
+  chinese: 请拖拖地。
+  english:
+    - Please mop the floor.
+
+- type: chinese
+  chinese: 你能把那件衬衫熨熨吗?
+  english:
+    - Will you iron the shirt?
+
+- type: chinese
+  chinese: 我的裙子得熨了。
+  english:
+    - I have to iron my skirt.
+
+- type: chinese
+  chinese: 我们去超市买东西吧。
+  english:
+    - Let's go grocery shopping.
+
+- type: chinese
+  chinese: 公园里人挤人。
+  english:
+    - The park was crowded.
+
+- type: chinese
+  chinese: 今晚能帮我照看一下孩子吗?
+  english:
+    - Can you baby-sit tonight?
+
+- type: chinese
+  chinese: 这是送给你的。
+  english:
+    - This is for you.
+
+- type: chinese
+  chinese: 这是你的那份。
+  english:
+    - This is your share.
+
+- type: chinese
+  chinese: 过生日想要什么礼物?
+  english:
+    - What do you want for your birthday?
+
+- type: chinese
+  chinese: 我经常下班以后运动。
+  english:
+    - I usually work out after work 。
+
+- type: chinese
+  chinese: 我开始慢跑锻炼。
+  english:
+    - I've started jogging.
+
+- type: chinese
+  chinese: 我戒烟了。
+  english:
+    - I quit smoking.
+
+- type: chinese
+  chinese: 你常做梦吗?
+  english:
+    - Do you dream often?
+
+- type: chinese
+  chinese: 最近我总是丢三落四的。
+  english:
+    - I've been forgetful lately.
+
+- type: chinese
+  chinese: 什么时候到期?
+  english:
+    - When is this due?
+
+- type: chinese
+  chinese: 交费日期截止到30号。
+  english:
+    - It's due on the thirtieth.
+  comment: Do these phrases make sense outside of a conversation?
+
+- type: chinese
+  chinese: 能帮我换一下零钱吗?
+  english:
+    - Could you give me change?
+
+- type: chinese
+  chinese: 能帮我换开100日元吗?
+  english:
+    - Do you have change for one hundred yen?
+
+- type: chinese
+  chinese: 我要存5000日元在我的账户上。
+  english:
+    - I need to deposit five thousand yen in my savings account
+
+- type: chinese
+  chinese: 我要取5000日元从我的账户上。
+  english:
+    - I need to withdraw ¥ 5,000 from my savings account。
+
+- type: chinese
+  chinese: 我是自己掏的腰包。
+  english:
+    - I paid out of my own pocket 。
+
+- type: chinese
+  chinese: 我没带现金。
+  english:
+    - I'm out of cash.
+
+- type: chinese
+  chinese: 我现在没有多少现金。
+  english:
+    - I don't have much money on me now.
+
+- type: chinese
+  chinese: 身无分文。
+  english:
+    - I'm broke.
+
+- type: chinese
+  chinese: 现在我有很多现金。
+  english:
+    - I have a lot of money on me now.
+
+- type: chinese
+  chinese: 我可没有|时间闲呆着。
+  english:
+    - I can't afford to be lazy.
+
+- type: chinese
+  chinese: 多浪费呀!
+  english:
+    - What a waste!
+
+- type: chinese
+  chinese: 他因为还不上债而躲了起来。
+  english:
+    - He didn't pay the debt and disappeared.
+
+- type: chinese
+  chinese: 这个周末你有空吗?
+  english:
+    - Are you free this weekend?
+
+- type: chinese
+  chinese: 我们还可以再见面吗?
+  english:
+    - Could I see you again?
+
+- type: chinese
+  chinese: 能给我你的电话号码吗?
+  english:
+    - Could you give me your phone number?
+
+- type: chinese
+  chinese: 我们在哪儿见面?
+  english:
+    - Where shall we meet?
+
+- type: chinese
+  chinese: 要我开车去接你吗?
+  english:
+    - Shall I come to pick you up?
+
+- type: chinese
+  chinese: 你今天下午有安排吗?
+  english:
+    - Are you doing anything this afternoon?
+
+- type: chinese
+  chinese: 和我一起吃晚饭, 好吗?
+  english:
+    - How about having dinner with me?
+
+- type: chinese
+  chinese: 我们干嘛不去看棒球比赛呢?
+  english:
+    - Why don't we go to see a baseball game?
+
+- type: chinese
+  chinese: 真对不起, 我另
+  english:
+    - Sorry, I'm tied up.
+
+- type: chinese
+  chinese: 实在对不起, 恐
+  english:
+    - I'm afraid I can't.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Thanks for asking, but...
+# yǒu ān pái 。 有 安排 。
+# pà bù xínɡ 。 怕不 行 。
+# xiè xiè nín de yāo qǐnɡ , kě shì ... ... 谢 谢 您 的邀 请 ,可是 ......
+
+- type: chinese
+  chinese: 另找时间可以吗?
+  english:
+    - How about a rain check?
+
+- type: chinese
+  chinese: 我希望你能来。
+  english:
+    - I hope you can come.
+
+- type: chinese
+  chinese: 你什么时候方便?
+  english:
+    - When is it convenient for you?
+
+- type: chinese
+  chinese: 什么时候?
+  english:
+    - About what time?
+  comment: Figure out more idiomatic translation?
+
+- type: chinese
+  chinese: 那天我不行。
+  english:
+    - That's a bad day for me.
+
+- type: chinese
+  chinese: 那天我可以。
+  english:
+    - That day is fine.
+  comment: Use in conversation?
+
+- type: chinese
+  chinese: 我什么时候去合适 ?
+  english:
+    - When can I come over?
+
+- type: chinese
+  chinese: 你定|时间吧。
+  english:
+    - You decide when.
+
+- type: chinese
+  chinese: 你定地点吧。
+  english:
+    - You decide where.
+
+- type: chinese
+  chinese: 7点行吗?
+  english:
+    - Is seven convenient for you?
+  comment: Seven what? Seven o'clock? Seven am?
+
+- type: chinese
+  chinese: 你几点能来?
+  english:
+    - When can you come over?
+
+- type: chinese
+  chinese: 太早了吗?
+  english:
+    - Is it too early?
+
+- type: chinese
+  chinese: 太晚了吗?
+  english:
+    - Is it too late?
+
+- type: chinese
+  chinese: 就那个时间吧。
+  english:
+    - It's a date.
+
+# - type: chinese
+#   chinese: 回头见。
+#   english:
+#     - See you then.
+#   comment: Use in phrase?
+
+- type: chinese
+  chinese: 准备好了吗?
+  english:
+    - Are you ready?
+
+# - type: chinese
+#   chinese: 准备好了。
+#   english:
+#     - Ready.
+#   comment: Use in a phrase?
+
+- type: chinese
+  chinese: 还没准备好呢。
+  english:
+    - I'm not ready.
+
+- type: chinese
+  chinese: 我们什么时候出发。
+  english:
+    - What time shall we leave?
+
+- type: chinese
+  chinese: 我们几点能到?
+  english:
+    - What time do we arrive?
+
+- type: chinese
+  chinese: 那我们走吧。
+  english:
+    - Let's get going.
+
+- type: chinese
+  chinese: 你想去看电影吗?
+  english:
+    - Would you like to go to a movie?
+
+- type: chinese
+  chinese: 今天晚上放什么电影?
+  english:
+    - What's on tonight?
+
+- type: chinese
+  chinese: 你想看什么电影?
+  english:
+    - What movie do you want to see?
+
+# - type: chinese
+#   chinese: 我想看 《××》
+#   english:
+#     - I want to see...
+#   comment: Complete template?
+
+# - type: chinese
+#   chinese: 哪儿演 《××》?
+#   english:
+#     - Where is... playing?
+#   comment: Complete template?
+
+# - type: chinese
+#   chinese: 《××》演 到 什 么时 候 ?
+#   english:
+#     - How long is... playing?
+#   comment: Complete template?
+
+- type: chinese
+  chinese: 这部电影是谁演的?
+  english:
+    - Who is in this movie?
+
+- type: chinese
+  chinese: 演多长时间?
+  english:
+    - How long does it last? (the movie)
+
+- type: chinese
+  chinese: 下一场几点开演?
+  english:
+    - What time is the next showing? (of the movie)
+
+- type: chinese
+  chinese: 几点演完?
+  english:
+    - What time will it be over?
+
+- type: chinese
+  chinese: 我买两张成人票。
+  english:
+    - Two tickets, please.
+
+- type: chinese
+  chinese: 前边的人挡着, 我看不见。
+  english:
+    - I can't see because of the person in front of me.
+
+- type: chinese
+  chinese: 我们怎么坐得这么靠后呀?
+  english:
+    - We are way in the back, aren't we?
+
+- type: chinese
+  chinese: 我们坐到前面的座位上吧。
+  english:
+    - Let's sit closer up front.
+
+- type: chinese
+  chinese: 真太有意思了, 是不是?
+  english:
+    - That was interesting, wasn't it?
+
+- type: chinese
+  chinese: 太让人感动了。
+  english:
+    - I was moved. (emotionally)
+
+- type: chinese
+  chinese: 我买两张十月三号的票。
+  english:
+    - I'd like two tickets for October 3rd, please.
+
+- type: chinese
+  chinese: 对不起, 卖完了。
+  english:
+    - Sorry, we're sold out.
+
+- type: chinese
+  chinese: 有什么时候的票?
+  english:
+    - When do you have tickets?
+
+
+- type: chinese
+  chinese: 几点开始?
+  english:
+    - What time does it start?
+
+- type: chinese
+  chinese: 可以预订吗?
+  english:
+    - Can I make a reservation?
+
+- type: chinese
+  chinese: 在哪儿买票?
+  english:
+    - Where can I buy a ticket?
+
+- type: chinese
+  chinese: 这|位子有人吗?
+  english:
+    - Is this seat taken?
+
+- type: chinese
+  chinese: 我们这个位子真棒。
+  english:
+    - We have great seats, don't we?
+
+- type: chinese
+  chinese: 再来一个!
+  english:
+    - Encore!
+
+# - type: chinese
+#   chinese: ××加 油!
+#   english:
+#     - Go for it,...!
+#   comment: Complete template?
+
+- type: chinese
+  chinese: 我想打高尔夫球。
+  english:
+    - I'd like to play golf.
+
+- type: chinese
+  chinese: 明天打高尔夫球, 好吗?
+  english:
+    - Would you like to golf tomorrow?
+
+- type: chinese
+  chinese: 愿意和我一起打高尔夫球吗?
+  english:
+    - Do you want to join me for golf?
+
+- type: chinese
+  chinese: 这附近有高尔夫球场地吗?
+  english:
+    - Are there any golf courses around here?
+
+- type: chinese
+  chinese: 一个人多少钱?
+  english:
+    - How much is it per person?
+
+- type: chinese
+  chinese: 一天多少钱?
+  english:
+    - How much is it per day?
+
+- type: chinese
+  chinese: 此外还有其它的花费吗?
+  english:
+    - Are there any extra charges?
+
+- type: chinese
+  chinese: 我可以租用用具吗?
+  english:
+    - Can I rent the equipment?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# Please make a reservation for golf.
+# qǐnɡ bānɡ wǒ yù yuē ɡāo ěr fū qiú 。 请 帮 我预约 高 尔夫球 。 qǐnɡ bié rén yù yuē shí
+# 请 别 人 预约 时
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# I'd like to make golf reservations.
+# wǒ xiǎnɡ yù yuē ɡāo ěr fū qiú 。 我想 预约 高 尔夫球 。 yóu zì jǐ tí chū qǐnɡ qiú shí
+# 由 自己提出 请 求 时
+
+- type: chinese
+  chinese: 要什么时间的?
+  english:
+    - When would you like to play?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# This Friday, if possible.
+# rú ɡuǒ ké yǐ de huà ,
+# 如果 可以的话 ,
+# qǐnɡ dìnɡ zhè ɡe xīnɡ qī wǔ de 。 请 订 这 个星 期五的。
+
+- type: chinese
+  chinese: 我们一共4个人。
+  english:
+    - There are four of us.
+
+- type: chinese
+  chinese: 我们几点开始?
+  english:
+    - What time are we starting?
+
+- type: chinese
+  chinese: 去喝一杯怎么样?
+  english:
+    - How about a drink?
+
+- type: chinese
+  chinese: 我想去喝一杯。
+  english:
+    - I need a drink.
+
+- type: chinese
+  chinese: 下班以后去喝一杯怎么样?
+  english:
+    - Would you like to have a drink after work?
+
+- type: chinese
+  chinese: 有啤酒吗?
+  english:
+    - Do you have any beer?
+
+- type: chinese
+  chinese: 请来两瓶啤酒。
+  english:
+    - Two bottles of beer, please.
+
+- type: chinese
+  chinese: 请来杯掺水的威士忌。
+  english:
+    - One whiskey with water, please.
+
+- type: chinese
+  chinese: 要什么下酒菜呢?
+  english:
+    - What kind of snacks should we have?
+
+- type: chinese
+  chinese: 让我们忘了工作, 痛快一会儿吧。
+  english:
+    - Let's forget about work and have some fun.
+
+- type: chinese
+  chinese: 干杯!
+  english:
+    - Cheers!
+
+- type: chinese
+  chinese: 喝什么呢?
+  english:
+    - What are you drinking?
+
+- type: chinese
+  chinese: 我喜欢换酒馆喝。
+  english:
+    - I like to go barhopping.
+
+- type: chinese
+  chinese: 第一口最舒坦了。
+  english:
+    - The first sip is the best!
+
+- type: chinese
+  chinese: 这个最好!
+  english:
+    - Nothing beats this!
+
+- type: chinese
+  chinese: 再来一杯, 怎么样?
+  english:
+    - Would you like a refill?
+
+- type: chinese
+  chinese: 再来一瓶啤酒!
+  english:
+    - Another beer, please.
+
+- type: chinese
+  chinese: 这种威士忌挺冲。
+  english:
+    - This whiskey is strong.
+
+- type: chinese
+  chinese: 日本酒怎么样?
+  english:
+    - How do you like sake?
+
+- type: chinese
+  chinese: 酒劲大。
+  english:
+    - It's strong.
+  comment: What is strong? The alcohol?
+
+- type: chinese
+  chinese: 我喝醉了。
+  english:
+    - I'm drunk.
+
+- type: chinese
+  chinese: 我觉得有点儿醉了。
+  english:
+    - I feel a little tipsy.
+
+# - type: chinese
+#   chinese: 酩酊大醉。
+#   english:
+#     - I'm loaded.
+#   comment: Too vague?
+
+- type: chinese
+  chinese: 喝酒要适可而止。
+  english:
+    - Drink moderately.
+
+- type: chinese
+  chinese: 我的酒量小。
+  english:
+    - I get drunk easily.
+
+- type: chinese
+  chinese: 我喝的太多了。
+  english:
+    - I drank too much.
+
+- type: chinese
+  chinese: 我不该喝这么多的。
+  english:
+    - I should have drunk less.
+  comment: Should this be 我不该喝什么多的？
+
+- type: chinese
+  chinese: 头天的酒还没醒。
+  english:
+    - I have a hangover.
+
+- type: chinese
+  chinese: 我们去唱卡拉OK吧。
+  english:
+    - Let's go to karaoke!
+
+- type: chinese
+  chinese: 什么是卡拉OK?
+  english:
+    - What is karaoke?
+
+- type: chinese
+  chinese: 就是合着录音带的音乐一起唱歌。
+  english:
+    - Singing along with recorded music.
+
+- type: chinese
+  chinese: 你唱歌拿手吗?
+  english:
+    - Are you good at singing?
+
+- type: chinese
+  chinese: 我想点首歌。
+  english:
+    - I'd like to request a song.
+
+- type: chinese
+  chinese: 你先唱。
+  english:
+    - You sing first.
+
+- type: chinese
+  chinese: 大家高兴地玩吧!
+  english:
+    - Let's enjoy ourselves.
+
+- type: chinese
+  chinese: 约翰, 你来唱一首吧。
+  english:
+    - How about a song, John?
+
+- type: chinese
+  chinese: 你打算唱什么歌?
+  english:
+    - What are you going to sing?
+
+- type: chinese
+  chinese: 来个二重唱吧。
+  english:
+    - Let's sing a duet.
+
+- type: chinese
+  chinese: 现在轮到我了。
+  english:
+    - Now it's my turn.
+
+- type: chinese
+  chinese: 我不敢在大家面前唱歌。
+  english:
+    - I don't have the nerve to sing in front of people.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's going on here?
+# I can't keep up with the new songs.
+# wǒ ɡēn bú shànɡ xīn ɡē de sù dù
+# 我跟 不上 新 歌的速度
+# wǒ bú huì chànɡ xīn ɡē 。
+# 我不会 唱 新 歌。
+
+
+# - type: chinese
+#   chinese: 我五音不全 。
+#   english:
+#     - I'm tone-deaf.
+#   comment: Hm, this does not seem very useful.
+
+- type: chinese
+  chinese: 你唱卡拉OK有什么拿手的歌吗?
+  english:
+    - What's your karaoke specialty?
+
+- type: chinese
+  chinese: 我从来没听说过那首歌。
+  english:
+    - I've never heard of that song.
+
+- type: chinese
+  chinese: 你唱的真好!
+  english:
+    - You're a good singer!
+
+- type: chinese
+  chinese: 用叫医生吗?
+  english:
+    - Do you need a doctor?
+
+- type: chinese
+  chinese: 请叫救护车。
+  english:
+    - Please call an ambulance.
+
+- type: chinese
+  chinese: 我要|看病。
+  english:
+    - I'd like to see a doctor.
+
+- type: chinese
+  chinese: 我觉得身体不舒服。
+  english:
+    - I'm not feeling well.
+
+- type: chinese
+  chinese: 你能帮我请位医生吗?
+  english:
+    - Could you send me a doctor?
+
+- type: chinese
+  chinese: 你怎么啦?
+  english:
+    - What's wrong with you? (medically)
+
+- type: chinese
+  chinese: 是什么症状?
+  english:
+    - What are your symptoms?
+
+- type: chinese
+  chinese: 量一下体温吧。
+  english:
+    - Let me check your temperature.
+
+- type: chinese
+  chinese: 吃了什么不对劲的东西没有?
+  english:
+    - Did you eat something unusual?
+
+- type: chinese
+  chinese: 量一下血压吧。
+  english:
+    - Let me check your blood pressure.
+
+- type: chinese
+  chinese: 你常服用什么药?
+  english:
+    - Are you taking any medication regularly?
+
+- type: chinese
+  chinese: 我没服用任何药。
+  english:
+    - I'm not taking any medication.
+
+- type: chinese
+  chinese: 我哪儿不好?
+  english:
+    - What's wrong with me? (medically)
+
+- type: chinese
+  chinese: 严重吗?
+  english:
+    - Is it serious?
+
+- type: chinese
+  chinese: 你不舒服吗?
+  english:
+    - Are you feeling okay?
+
+# - type: chinese
+#   chinese: 你怎么了?
+#   english:
+#     - What's wrong?
+#   comment: Duplicate in cn_stencils.yaml
+
+- type: chinese
+  chinese: 你的脸色真不好。
+  english:
+    - You look pale.
+
+- type: chinese
+  chinese: 我觉得难受。
+  english:
+    - I don't feel well.
+
+- type: chinese
+  chinese: 你|好像不太舒服。
+  english:
+    - You don't look well.
+
+- type: chinese
+  chinese: 她昏过去了。
+  english:
+    - She passed out.
+
+- type: chinese
+  chinese: 我觉得难受。
+  english:
+    - I feel sick.
+
+- type: chinese
+  chinese: 我肚子疼。
+  english:
+    - I have a stomachache.
+
+- type: chinese
+  chinese: 隐隐作痛。
+  english:
+    - I have a dull pain.
+
+- type: chinese
+  chinese: 钻心地疼。
+  english:
+    - I have a sharp pain.
+
+- type: chinese
+  chinese: 一跳一跳地疼。
+  english:
+    - I have a throbbing pain.
+
+- type: chinese
+  chinese: 我感到巨痛。
+  english:
+    - I have a piercing pain.
+
+- type: chinese
+  chinese: 像针扎似地疼。
+  english:
+    - I have a stabbing pain.
+
+- type: chinese
+  chinese: 我拉肚子了。
+  english:
+    - I have diarrhea.
+
+- type: chinese
+  chinese: 我食物中毒了。
+  english:
+    - I have food poisoning.
+
+- type: chinese
+  chinese: 血压高。
+  english:
+    - I have high blood pressure.
+
+- type: chinese
+  chinese: 血压低。
+  english:
+    - I have low blood pressure.
+
+- type: chinese
+  chinese: 我头疼。
+  english:
+    - I have a headache.
+
+- type: chinese
+  chinese: 我牙疼
+  english:
+    - I have a toothache.
+
+- type: chinese
+  chinese: 我头晕目眩。
+  english:
+    - I feel dizzy.
+
+- type: chinese
+  chinese: 我浑身没劲。
+  english:
+    - I feel sluggish.
+
+- type: chinese
+  chinese: 我没有一点儿食欲。
+  english:
+    - I don't have any appetite.
+
+- type: chinese
+  chinese: 我有点儿感冒。
+  english:
+    - I have a slight cold.
+
+- type: chinese
+  chinese: 我浑身发冷。
+  english:
+    - I feel chilly.
+
+- type: chinese
+  chinese: 我的了重感冒。
+  english:
+    - I have a bad cold.
+
+- type: chinese
+  chinese: 鼻子堵了。
+  english:
+    - I have a stuffy nose.
+
+- type: chinese
+  chinese: 我在流鼻涕。
+  english:
+    - I have a runny nose.
+
+- type: chinese
+  chinese: 我有点儿发烧。
+  english:
+    - I have a bit of a fever.
+
+- type: chinese
+  chinese: 我好像发烧了。
+  english:
+    - I think I have a fever.
+
+- type: chinese
+  chinese: 我在发高烧。
+  english:
+    - I have a high temperature.
+
+- type: chinese
+  chinese: 我想吐。
+  english:
+    - I feel like throwing up.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: How to deal with this?
+# Ouch!
+# hǎo ténɡ!/ hǎo tànɡ! 好 疼 !/ 好 烫 !
+
+# - type: chinese
+#   chinese: 痒痒。
+#   english:
+#     - It's itchy.
+#   comment: Use in a longer phrase.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: Not sure how to use this.
+# Ahchoo! (sneeze)
+# ā tì!
+# 啊 嚏!
+
+
+- type: chinese
+  chinese: 我腿骨折了。
+  english:
+    - I broke my leg.
+
+- type: chinese
+  chinese: 要打多长时间石膏?
+  english:
+    - How long will the cast be on?
+
+- type: chinese
+  chinese: 我把手给烫了。
+  english:
+    - I burned my hand.
+
+# - type: chinese
+#   chinese: 我崴脚了。
+#   english:
+#     - I sprained my ankle.
+#   comment: Is this really correct? Or typo?
+
+- type: chinese
+  chinese: 你把感冒传染给我了。
+  english:
+    - I caught a cold from you.
+
+- type: chinese
+  chinese: 我必须静 养 。
+  english:
+    - I must stay in bed.
+
+- type: chinese
+  chinese: 我肩膀酸痛。
+  english:
+    - I have stiff shoulders.
+
+- type: chinese
+  chinese: 我眼睛发酸。
+  english:
+    - My eyes are tired.
+
+- type: chinese
+  chinese: 有谁受伤了?
+  english:
+    - Is somebody hurt?
+
+- type: chinese
+  chinese: 我退烧了。
+  english:
+    - My fever has gone down.
+
+- type: chinese
+  chinese: 我咳嗽不止。
+  english:
+    - I can't stop coughing.
+
+- type: chinese
+  chinese: 我嗓子疼。
+  english:
+    - My throat's sore.
+
+- type: chinese
+  chinese: 我流血了。
+  english:
+    - It's bleeding.
+
+- type: chinese
+  chinese: 我这儿割破了。
+  english:
+    - I've got a cut here.
+
+- type: chinese
+  chinese: 好疼。
+  english:
+    - It hurts.
+
+- type: chinese
+  chinese: 我被蜜蜂蜇了。
+  english:
+    - I got stung by a bee.
+
+- type: chinese
+  chinese: 我需要动手术吗?
+  english:
+    - Do I need an operation?
+
+- type: chinese
+  chinese: 要花很长时间吗?
+  english:
+    - Will it take long?
+
+- type: chinese
+  chinese: 我可以洗澡吗?
+  english:
+    - Can I take a bath?
+
+- type: chinese
+  chinese: 我可以喝酒吗?
+  english:
+    - Is it okay to drink?
+
+- type: chinese
+  chinese: 我一定要住院吗?
+  english:
+    - Should I be hospitalized?
+
+- type: chinese
+  chinese: 你发烧吗?
+  english:
+    - Do you have a fever?
+
+- type: chinese
+  chinese: 我觉得好多了。
+  english:
+    - I feel better.
+
+- type: chinese
+  chinese: 我觉得没什么好转。
+  english:
+    - I don't feel any better.
+
+- type: chinese
+  chinese: 你的病好了吗?
+  english:
+    - Are you alright again?
+
+- type: chinese
+  chinese: 他去世了。
+  english:
+    - He passed away.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Tom is a lady-killer.
+# tānɡ mǔ shì ɡè měi nán zǐ 。 汤 姆是 个美 男 子。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Tom really turns me on.
+# tānɡ mǔ zhēn rànɡ wǒ shén hún diān dǎo 。 汤 姆真 让 我神 魂 颠 倒 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Chris is really a heartbreaker.
+# kè lǐ sī zhǎnɡ dé zhēn shuài 。 克里斯长 得真 帅 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Janet is a knockout.
+# zhēn nī tè zhēn mí rén yɑ 。 珍 妮特真 迷人 呀。
+
+- type: chinese
+  chinese: 他好像看上你了。
+  english:
+    - I think he has a crush on you.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Jane seems to like me. jiǎn hǎo xiànɡ xǐ huɑn shànɡ wǒ le 。
+# 简 好 像 喜欢 上 我了。
+
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Diana's been coming on to Jack.
+# dài ān nà duì jié kè yǒu yì si 。 戴 安娜对 杰 克有 意思。
+
+
+- type: chinese
+  chinese: 我不敢打像她那样的姑娘的主意。
+  english:
+    - I can't handle a girl like her.
+
+- type: chinese
+  chinese: 我非常想|见到她。
+  english:
+    - I'm dying to see her.
+
+- type: chinese
+  chinese: 我想追求她。
+  english:
+    - I'm trying to make a pass at her.
+
+- type: chinese
+  chinese: 你也太狠心了。
+  english:
+    - You broke my heart.
+
+- type: chinese
+  chinese: 今晚有空吗?
+  english:
+    - Are you free tonight?
+
+- type: chinese
+  chinese: 今晚你能和我约会吗?
+  english:
+    - Do you want to go out with me tonight?
+
+- type: chinese
+  chinese: 愿意和我一起去看电影吗?
+  english:
+    - Would you like to go to the movies with me?
+
+- type: chinese
+  chinese: 我们喝点茶什么的吧。
+  english:
+    - Let's have tea or something.
+
+- type: chinese
+  chinese: 能陪陪我吗?
+  english:
+    - Please keep me company for a while.
+
+- type: chinese
+  chinese: 我想请你去看演出。
+  english:
+    - I'd like to invite you to a show.
+
+- type: chinese
+  chinese: 我能和你约会吗?
+  english:
+    - May I ask you out?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Are you trying to pick me up?
+# nǐ shì xiǎnɡ hé wǒ yuē huì mɑ ? 你是 想 和我约 会 吗? nǐ xiǎnɡ ɡōu yǐn wǒ mɑ ?
+# 你想 勾 引 我吗?
+
+- type: chinese
+  chinese: 在哪儿见面?
+  english:
+    - Where do you want to meet?
+
+- type: chinese
+  chinese: 我们几点见面?
+  english:
+    - What time should we meet?
+
+- type: chinese
+  chinese: 我有话要对你说。
+  english:
+    - I want to talk to you.
+
+- type: chinese
+  chinese: 你现在有朋友吗?
+  english:
+    - Are you seeing anyone now?
+
+- type: chinese
+  chinese: 你觉得我怎么样?
+  english:
+    - What do you think of me?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I love you.
+# wǒ ài nǐ 。 我爱你 。
+
+- type: chinese
+  chinese: 你是我见到过的最美的女人。
+  english:
+    - You're the most beautiful woman I've ever seen.
+
+- type: chinese
+  chinese: 你使我发疯。
+  english:
+    - I'm crazy for you.
+
+- type: chinese
+  chinese: 别装腔作势。
+  english:
+    - Don't play hard to get.
+
+- type: chinese
+  chinese: 我还不|想太认真。
+  english:
+    - I don't want to get serious yet.
+
+- type: chinese
+  chinese: 我是一见钟情。
+  english:
+    - It was love at first sight.
+
+- type: chinese
+  chinese: 我真希望我从来都没遇到过你。
+  english:
+    - I wish I had never met you.
+
+- type: chinese
+  chinese: 你是我喜欢的那种类型。
+  english:
+    - You're my type.
+
+- type: chinese
+  chinese: 你使我感到幸福。
+  english:
+    - You make me happy.
+
+- type: chinese
+  chinese: 能认识你|我非常幸福。
+  english:
+    - I'm happy to have known you.
+
+- type: chinese
+  chinese: 你的眼睛真美。
+  english:
+    - You have beautiful eyes.
+
+- type: chinese
+  chinese: 你真好。
+  english:
+    - You're sweet.
+
+- type: chinese
+  chinese: 你真性感。
+  english:
+    - You're sexy.
+
+- type: chinese
+  chinese: 我们拉着手走吧。
+  english:
+    - Let's walk hand in hand.
+
+- type: chinese
+  chinese: 我可以牵你的手吗?
+  english:
+    - May I hold your hand?
+
+- type: chinese
+  chinese: 你真漂亮。
+  english:
+    - You're beautiful.
+
+- type: chinese
+  chinese: 我想知道你的一切。
+  english:
+    - I want to know all about you.
+
+# - type: chinese
+#   chinese: 我想要你。
+#   english:
+#     - I want you.
+#   comment: Need to differentiate this from 我要你
+
+- type: chinese
+  chinese: 我需要你。
+  english:
+    - I need you.
+
+- type: chinese
+  chinese: 你是我的一切。
+  english:
+    - You're everything to me.
+
+- type: chinese
+  chinese: 你是我的。
+  english:
+    - You're mine.
+
+- type: chinese
+  chinese: 我是你的。
+  english:
+    - I'm yours.
+
+- type: chinese
+  chinese: 没有你|我无法活下去。
+  english:
+    - I can't live without you.
+
+- type: chinese
+  chinese: 再靠近我些。
+  english:
+    - Come closer.
+
+- type: chinese
+  chinese: 你想什么呢?
+  english:
+    - What's on your mind?
+
+- type: chinese
+  chinese: 我时时刻刻都想着你。
+  english:
+    - I think of you night and day.
+
+- type: chinese
+  chinese: 你是这个世界上独一无二的人。
+  english:
+    - There will never be another you.
+
+- type: chinese
+  chinese: 你的连衣裙真漂亮。
+  english:
+    - I like your dress.
+
+- type: chinese
+  chinese: 为你|我在所不惜。
+  english:
+    - Nothing is too good for you.
+
+- type: chinese
+  chinese: 你在引诱我吗?
+  english:
+    - Are you seducing me?
+
+- type: chinese
+  chinese: 抱紧我。
+  english:
+    - Hold me tight.
+
+- type: chinese
+  chinese: 别离开我。
+  english:
+    - Don't go away.
+
+- type: chinese
+  chinese: 我无法不爱你。
+  english:
+    - I can't help falling in love with you.
+
+- type: chinese
+  chinese: 我从来没有过这种感觉。
+  english:
+    - I've never felt like this before.
+
+- type: chinese
+  chinese: 你是我的惟一。
+  english:
+    - You're the one for me.
+
+- type: chinese
+  chinese: 我永远爱你。
+  english:
+    - I'll love you forever.
+
+- type: chinese
+  chinese: 我一直都说的是真心话。
+  english:
+    - I always speak my mind.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What does this mean?
+# Love me, love my dog.
+# jì rán nà yànɡ , nà nǐ yě yào ài wū jí wū ō 。 既然 那样 ,那你也要 爱屋及乌噢。
+
+- type: chinese
+  chinese: 请温柔些。
+  english:
+    - Be gentle.
+
+- type: chinese
+  chinese: 再多爱我一些。
+  english:
+    - Love me more.
+
+- type: chinese
+  chinese: 看着我!
+  english:
+    - Look at me!
+
+- type: chinese
+  chinese: 我爱上了罗丝。
+  english:
+    - I fell in love with Rose.
+
+- type: chinese
+  chinese: 我深深地爱着罗丝。
+  english:
+    - I'm deeply in love with Rose.
+
+- type: chinese
+  chinese: 愿意和我结婚吗?
+  english:
+    - Will you marry me?
+
+- type: chinese
+  chinese: 我还不|想订婚。
+  english:
+    - I don't want to get engaged yet.
+
+- type: chinese
+  chinese: 我还不|想结婚。
+  english:
+    - I don't want to get married yet.
+
+- type: chinese
+  chinese: 结婚, 我还没想过呢。
+  english:
+    - I haven't thought about marriage yet.
+
+- type: chinese
+  chinese: 我爱你, 可是不能和你结婚。
+  english:
+    - I love you but I can't marry you.
+
+- type: chinese
+  chinese: 我还下不了决心和她结婚。
+  english:
+    - I hesitate to marry her.
+
+- type: chinese
+  chinese: 他刚刚结婚。
+  english:
+    - He's a newlywed.
+
+- type: chinese
+  chinese: 婚后|生活怎么样?
+  english:
+    - How's your married life?
+    - How's married life?
+
+- type: chinese
+  chinese: 我们俩都感到很幸福。
+  english:
+    - We're happy together now.
+
+- type: chinese
+  chinese: 我很爱我的妻子。
+  english:
+    - I love my wife.
+
+- type: chinese
+  chinese: 我们夫妻俩性格相似。
+  english:
+    - We're two of a kind.
+
+- type: chinese
+  chinese: 我们俩很般配。
+  english:
+    - We're a well-matched couple.
+
+- type: chinese
+  chinese: 我是个顾家|的人。
+  english:
+    - I'm a family-centered person.
+
+- type: chinese
+  chinese: 她想要个孩子。
+  english:
+    - She wants to start a family.
+
+- type: chinese
+  chinese: 我怀孕了。
+  english:
+    - I'm pregnant.
+
+- type: chinese
+  chinese: 怀的是男孩还是女孩?
+  english:
+    - What did she have?
+
+- type: chinese
+  chinese: 问题总会解决的。
+  english:
+    - We can work it out.
+
+- type: chinese
+  chinese: 我首先想到的是我妻子。
+  english:
+    - I think of my wife first.
+
+- type: chinese
+  chinese: 我们夫妻从不吵架。
+  english:
+    - We as a husband and a wife don't have any fights.
+
+# - type: chinese
+#   chinese: 拖家带口的人。
+#   english:
+#     - Family man.
+#   comment: How is this used?
+
+- type: chinese
+  chinese: 我们经常吵架。
+  english:
+    - We fight a lot.
+
+- type: chinese
+  chinese: 我不再爱我的妻子了。
+  english:
+    - I don't love my wife any more.
+
+- type: chinese
+  chinese: 我老婆有外遇。
+  english:
+    - My wife's cheating on me.
+
+- type: chinese
+  chinese: 我们感情不和。
+  english:
+    - We had a falling-out.
+
+- type: chinese
+  chinese: 我已经改变心意了。
+  english:
+    - I've changed my mind.
+
+- type: chinese
+  chinese: 你变了。
+  english:
+    - You have changed.
+
+- type: chinese
+  chinese: 你现在是不是和谁交往呢?
+  english:
+    - Are you seeing someone now?
+
+- type: chinese
+  chinese: 我和妻子没什么共同语言。
+  english:
+    - I don't see eye to eye with my wife.
+
+- type: chinese
+  chinese: 我们俩合不来了。
+  english:
+    - We just don't get along.
+
+- type: chinese
+  chinese: 我想我很了解你。
+  english:
+    - I thought I knew you.
+
+- type: chinese
+  chinese: 我和我的秘书有了婚外情。
+  english:
+    - I had an affair with my secretary.
+
+- type: chinese
+  chinese: 和你在一起没意思。
+  english:
+    - I don't enjoy being with you.
+
+- type: chinese
+  chinese: 我们离婚吧。
+  english:
+    - Let's get divorced.
+
+- type: chinese
+  chinese: 现在我和我妻子分居了。
+  english:
+    - I'm separated from my wife.
+
+- type: chinese
+  chinese: 我不能失去你。
+  english:
+    - I can't get over losing you.
+
+- type: chinese
+  chinese: 和你分手是我最大的痛苦。
+  english:
+    - Breaking up is hard to do.
+
+- type: chinese
+  chinese: 请不要伤我的心。
+  english:
+    - Don't break my heart.
+
+- type: chinese
+  chinese: 我们争论了好几个小时。
+  english:
+    - We argued for hours.
+
+- type: chinese
+  chinese: 我赶上了!
+  english:
+    - I made it!
+
+- type: chinese
+  chinese: 要严格遵守时间。
+  english:
+    - Be punctual!
+
+- type: chinese
+  chinese: 你又迟到了。
+  english:
+    - You are late again.
+
+- type: chinese
+  chinese: 我只迟到了五分钟。
+  english:
+    - I was only late by five minutes.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Did you punch in?
+# dǎ chū qín kǎ le mɑ ? * shànɡ bān shí 。 打出勤卡了吗?*上 班时。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Did you punch out?
+# dǎ chū qín kǎ le mɑ ?* xià bān shí 。 打 出 勤 卡 了 吗 ?* 下 班 时 。
+
+- type: chinese
+  chinese: 让我看看我的日程安排。
+  english:
+    - Let me check my schedule.
+
+- type: chinese
+  chinese: 我有好多|事要干。
+  english:
+    - I've got so much to do.
+
+- type: chinese
+  chinese: 我的时间安排很紧。
+  english:
+    - I'm pressed for time.
+
+- type: chinese
+  chinese: 我是个普通的公司职员。
+  english:
+    - I'm an ordinary office worker.
+
+- type: chinese
+  chinese: 这工作不􏰀费事。
+  english:
+    - The work doesn't need much effort.
+
+- type: chinese
+  chinese: 干活􏰁偷懒。
+  english:
+    - Don't neglect your duties!
+
+- type: chinese
+  chinese: 西区由我负责。
+  english:
+    - I take charge of the west side.
+
+- type: chinese
+  chinese: 我已结束那项工作了。
+  english:
+    - I'm done with the work.
+
+- type: chinese
+  chinese: 我还能工作好长时间呢。
+  english:
+    - I can still work for a long time.
+
+- type: chinese
+  chinese: 我们的上司被解雇了。
+  english:
+    - Our boss has been fired.
+
+- type: chinese
+  chinese: 请把这个订在一起。
+  english:
+    - Please staple these together.
+
+- type: chinese
+  chinese: 能帮我复印一下这份材料吗?
+  english:
+    - Would you copy these papers?
+
+- type: chinese
+  chinese: 复印机有毛病了。
+  english:
+    - This copy machine doesn't work.
+
+- type: chinese
+  chinese: 我想复印机是没纸了。
+  english:
+    - I think it ran out of paper.
+
+- type: chinese
+  chinese: 付款截止到什么时候?
+  english:
+    - When is this due?
+
+- type: chinese
+  chinese: 付款日期截止到30号。
+  english:
+    - It's due on the thirtieth.
+
+- type: chinese
+  chinese: 我们休息一会儿吧。
+  english:
+    - Let's take a break.
+
+- type: chinese
+  chinese: 能帮我倒杯咖啡吗?
+  english:
+    - Get me a cup of coffee, will you?
+
+- type: chinese
+  chinese: 您想喝杯咖啡吗?
+  english:
+    - Would you like some coffee?
+
+- type: chinese
+  chinese: 那真是太好了。
+  english:
+    - That would be great.
+  comment: Use in a phrase?
+
+- type: chinese
+  chinese: 快到午饭时间了。
+  english:
+    - It's almost lunchtime.
+
+- type: chinese
+  chinese: 我们有一小时的午休时间。
+  english:
+    - We took an hour lunch break.
+
+- type: chinese
+  chinese: 我们开始吧。
+  english:
+    - Let's get started.
+
+- type: chinese
+  chinese: 现在我不能放下这个工作。
+  english:
+    - I can't leave this job at the moment.
+
+- type: chinese
+  chinese: 我太忙了, 顾不上那么琐碎的事。
+  english:
+    - I'm too busy to bother with such details.
+
+# - type: chinese
+#   chinese: 我忙得四脚朝􏰂。
+#   english:
+#     - I'm so busy, I'd really appreciate any help I could get.
+# wǒ mánɡ dé sì jiǎo cháo tiān 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Don't slack off!
+# bié tōu lǎn! 􏰁偷懒!
+
+- type: chinese
+  chinese: 尽你的全力!
+  english:
+    - Do your best!
+
+- type: chinese
+  chinese: 悠着点儿。
+  english:
+    - Don't work too hard.
+
+- type: chinese
+  chinese: 打起精神来。
+  english:
+    - Pull yourself together.
+
+- type: chinese
+  chinese: 你可以找我呀!
+  english:
+    - You can count on me.
+
+# - type: chinese
+#   chinese: 连喘口气的工􏰃都没有。
+#   english:
+#     - I don't even have time to catch my breath.
+# lián chuǎn kǒu qì de ɡōnɡ fu dōu méi yǒu 。
+
+- type: chinese
+  chinese: 你怎么耽搁了?
+  english:
+    - What's keeping you?
+
+- type: chinese
+  chinese: 换个工作是惟一的解决办法。
+  english:
+    - Changing jobs is the only way out.
+
+- type: chinese
+  chinese: 你应该更加努力工作。
+  english:
+    - You'd better work harder.
+
+- type: chinese
+  chinese: 我是个工作狂。
+  english:
+    - I'm a workaholic.
+
+- type: chinese
+  chinese: 我不|知道这张表怎么填。
+  english:
+    - I don't know how to fill out this form.
+
+- type: chinese
+  chinese: 这张表怎么填?
+  english:
+    - How do I fill out this form?
+
+- type: chinese
+  chinese: 您能帮我填一下这张表吗?
+  english:
+    - Can you help me with this form?
+
+- type: chinese
+  chinese: 看来会议要开长时间了, 是吧?
+  english:
+    - It looks like it's going to be a long meeting, doesn't it?
+
+- type: chinese
+  chinese: 会议开得很成功。
+  english:
+    - The meeting went well.
+
+- type: chinese
+  chinese: 我已经尽了最大的努力了。
+  english:
+    - I did all I could do.
+
+- type: chinese
+  chinese: 你觉得印象深刻吗?
+  english:
+    - Are you impressed?
+
+- type: chinese
+  chinese: 请在重要事项的下面划线。
+  english:
+    - Please underline the important items.
+
+# - type: chinese
+#   chinese: 好, 没问题!
+#   english:
+#     - Check.
+#   comment: What does this mean?
+
+- type: chinese
+  chinese: 你能把要点说得再清楚点儿吗?
+  english:
+    - Would you get to the point?
+
+- type: chinese
+  chinese: 全部重做。
+  english:
+    - Please do it all over again.
+
+# - type: chinese
+#   chinese: 把这个给田中先生传真过去。
+#   english:
+#     - Fax this paper to Mr. Tanaka.
+#   comment: What to do about names?
+
+- type: chinese
+  chinese: 请把那份文件交给我。
+  english:
+    - Please hand the document in to me.
+
+- type: chinese
+  chinese: 这是我的得意之作。
+  english:
+    - This is a piece of work I can be proud of.
+
+- type: chinese
+  chinese: 我找不到我的涂改液了。
+  english:
+    - I can't find my white-out.
+
+- type: chinese
+  chinese: 今晚你加班吗?
+  english:
+    - Are you working overtime tonight?
+
+# - type: chinese
+#   chinese: 工作就是工作, 不能讲私情。
+#   english:
+#     - Business is business.
+#   comment: Idiom?
+
+- type: chinese
+  chinese: 他是个努力工 作的人。
+  english:
+    - He's a hard worker.
+
+- type: chinese
+  chinese: 你超负荷工作了。
+  english:
+    - You're overworking.
+
+# - type: chinese
+#   chinese: 今􏰂必须完成这份报告。
+#   english:
+#     - Finish this report today!
+
+- type: chinese
+  chinese:  报告截止到几号?
+  english:
+    - When is the paper due?
+
+- type: chinese
+  chinese: 我有很多|事要做。
+  english:
+    - I've got so much to do.
+
+- type: chinese
+  chinese: 瞧我桌上堆了一堆的事儿。
+  english:
+    - There's a lot of work piled up on my desk.
+
+- type: chinese
+  chinese: 差不多就得了。
+  english:
+    - We'll fake it.
+
+- type: chinese
+  chinese: 全都做完了。
+  english:
+    - All done!
+
+# - type: chinese
+#   chinese: 今􏰂忙了一􏰂。
+#   english:
+#     - It's been a long day.
+
+- type: chinese
+  chinese: 我不能为你破例。
+  english:
+    - I can't make an exception for you.
+
+# - type: chinese
+#   chinese: 外边􏰂都黑了。
+#   english:
+#     - It's dark outside already.
+
+- type: chinese
+  chinese: 就干到这儿吧。
+  english:
+    - Let's finish up.
+
+- type: chinese
+  chinese: 正好工作刚做完。
+  english:
+    - I've just finished work.
+
+- type: chinese
+  chinese: 今天发工资。
+  english:
+    - Today's payday!
+
+- type: chinese
+  chinese: 我们一起去喝一杯吧。
+  english:
+    - Let's have a drink.
+
+- type: chinese
+  chinese: 你辛苦了。
+  english:
+    - Thanks for your hard work.
+
+- type: chinese
+  chinese: 我先走了。
+  english:
+    - I'm leaving now. (earlier than expected)
+
+- type: chinese
+  chinese: 对不起, 打断一下。
+  english:
+    - Sorry for interrupting.
+
+- type: chinese
+  chinese: 打扰一下可以吗?
+  english:
+    - May I interrupt you?
+
+# - type: chinese
+#   chinese: 史密斯先生在一号线听电话。
+#   english:
+#     - Mr. Smith is on line one.
+#   comment: What to do about names?
+
+# - type: chinese
+#   chinese: 我已经和青木先生约好了。
+#   english:
+#     - I have an appointment with Mr. Aoki.
+#   comment: What to do about names?
+
+- type: chinese
+  chinese: ABC公司在几楼?
+  english:
+    - What floor is ABC on?
+
+- type: chinese
+  chinese:  电梯在哪儿?
+  english:
+    - Where are the elevators?
+
+- type: chinese
+  chinese: 我和他很合得来。
+  english:
+    - I get along well with him.
+
+- type: chinese
+  chinese: 我跟她合不来。
+  english:
+    - I don't get along well with her.
+
+- type: chinese
+  chinese: 我很尊敬他。
+  english:
+    - I respect him.
+
+- type: chinese
+  chinese: 我瞧不起他。
+  english:
+    - I despise him.
+
+- type: chinese
+  chinese: 我想和大家和睦相处。
+  english:
+    - I want to get along with everyone.
+
+- type: chinese
+  chinese: 你跟她合得来吗?
+  english:
+    - Are you getting along with her?
+
+- type: chinese
+  chinese: 她根本不搭理我。
+  english:
+    - She ignored me.
+
+- type: chinese
+  chinese: 我不|知道他在想什么。
+  english:
+    - I don't know what he's really thinking.
+
+- type: chinese
+  chinese: 我没有理由让人嫉妒。
+  english:
+    - I have no reason to be envied.
+
+- type: chinese
+  chinese: 我讨厌爱拍马屁的人。
+  english:
+    - I don't like brownnosers.
+
+- type: chinese
+  chinese: 我是个不顾家|的人。
+  english:
+    - I'm neglecting my family.
+
+# - type: chinese
+#   chinese: 你站在哪一方?
+#   english:
+#     - Which side are you on?
+#   comment: What does this mean exactly?
+
+- type: chinese
+  chinese: 我是站在你这边的。
+  english:
+    - I'm on your side.
+
+- type: chinese
+  chinese: 他对我很不客气的。
+  english:
+    - He's very hard on me.
+
+- type: chinese
+  chinese: 他总把我当作眼中钉。
+  english:
+    - He always treats me like an enemy.
+
+- type: chinese
+  chinese: 他对我很蛮横。
+  english:
+    - He treated me badly.
+
+- type: chinese
+  chinese: 我欠他的情。
+  english:
+    - I'm obligated to him.
+
+- type: chinese
+  chinese: 我们很熟, 互相直呼其名。
+  english:
+    - We're on a first name basis.
+
+- type: chinese
+  chinese: 他的理解力很强。
+  english:
+    - He's quick on the uptake.
+
+- type: chinese
+  chinese: 他不会让你失望的。
+  english:
+    - He'll never let you down.
+
+- type: chinese
+  chinese: 他很能干。
+  english:
+    - He's efficient.
+
+- type: chinese
+  chinese: 他是个好人。
+  english:
+    - He's a good guy.
+
+- type: chinese
+  chinese: 他显老。
+  english:
+    - He looks old for his age.
+
+- type: chinese
+  chinese: 你看上去比我年轻。
+  english:
+    - You look younger than me.
+
+- type: chinese
+  chinese: 他就是那种人。
+  english:
+    - That's the way he is.
+
+- type: chinese
+  chinese: 他长得像谁?
+  english:
+    - Who is he like?
+
+- type: chinese
+  chinese: 他有丰富的常识。
+  english:
+    - He has a lot of common sense.
+
+- type: chinese
+  chinese: 他虽年轻, 却很博学。
+  english:
+    - He's wise for his age.
+
+- type: chinese
+  chinese: 他交际很广。
+  english:
+    - He knows a lot of people.
+
+- type: chinese
+  chinese: 他是个有才干的人。
+  english:
+    - He's a go-getter.
+
+- type: chinese
+  chinese: 你真体谅人。
+  english:
+    - You're so sympathetic.
+
+- type: chinese
+  chinese: 他是守信用的人。
+  english:
+    - He's faithful.
+
+- type: chinese
+  chinese: 他的嗓音低沉。
+  english:
+    - He has a deep voice.
+
+- type: chinese
+  chinese: 他发福了。
+  english:
+    - He has put on weight.
+
+- type: chinese
+  chinese: 他太胖了。
+  english:
+    - He's overweight.
+
+- type: chinese
+  chinese: 你真有|胆量。
+  english:
+    - You have a lot of nerve.
+
+- type: chinese
+  chinese: 他是个很谦虚的人。
+  english:
+    - He's a very modest man.
+
+- type: chinese
+  chinese: 他有个好脾气。
+  english:
+    - He has a good temper.
+
+- type: chinese
+  chinese: 他这个人脾气暴躁。
+  english:
+    - He has a bad temper.
+
+- type: chinese
+  chinese: 她不知哪儿有点怪。
+  english:
+    - There's something strange about her.
+
+- type: chinese
+  chinese: 她有点不太对劲儿。
+  english:
+    - She's not herself.
+
+- type: chinese
+  chinese: 她真让人捉摸不透。
+  english:
+    - She's so weird.
+
+- type: chinese
+  chinese: 塔米饭量很小。
+  english:
+    - Tammy eats like a bird.
+
+- type: chinese
+  chinese: 她的身材很好。
+  english:
+    - She has a nice figure.
+
+- type: chinese
+  chinese: 他已过壮年。
+  english:
+    - His best days are gone.
+
+- type: chinese
+  chinese: 我父亲上年纪了。
+  english:
+    - My father's getting on in years.
+
+- type: chinese
+  chinese: 他长得什么样?
+  english:
+    - What does he look like?
+
+- type: chinese
+  chinese: 他们闹得天翻地覆。
+  english:
+    - They're making a big fuss.
+
+- type: chinese
+  chinese: 他抽烟抽得没完没了。
+  english:
+    - He's a chain smoker.
+
+- type: chinese
+  chinese: 他很自私。
+  english:
+    - He's selfish.
+
+- type: chinese
+  chinese: 他总把问题想得过于严重 。
+  english:
+    - He takes things too seriously.
+
+- type: chinese
+  chinese: 他头脑简单。
+  english:
+    - He's simpleminded.
+
+- type: chinese
+  chinese: 今天他情绪烦躁。
+  english:
+    - He's on edge today.
+
+- type: chinese
+  chinese: 他真是个多嘴多舌的人。
+  english:
+    - He's talkative.
+
+- type: chinese
+  chinese: 他非常有钱。
+  english:
+    - He's quite well off.
+
+- type: chinese
+  chinese: 他很好色。
+  english:
+    - He's very lecherous.
+
+- type: chinese
+  chinese: 他的嘴甜着呢。
+  english:
+    - He's a smooth talker.
+
+- type: chinese
+  chinese: 他是个不可小看的人。
+  english:
+    - He's nobody's fool.
+
+- type: chinese
+  chinese: 他净说些傻话。
+  english:
+    - He often says absurd things.
+
+- type: chinese
+  chinese: 他一点儿责任心都没有。
+  english:
+    - He has no sense of responsibility.
+
+- type: chinese
+  chinese: 他真是个让人讨厌的人。
+  english:
+    - He's very offensive.
+
+- type: chinese
+  chinese: 他这人很难对付。
+  english:
+    - He's a difficult man to deal with.
+
+- type: chinese
+  chinese: 他是个倔老头。
+  english:
+    - He's a stubborn old man.
+
+- type: chinese
+  chinese: 他总是好高骛远。
+  english:
+    - He's aiming too high.
+
+- type: chinese
+  chinese: 他从不认输。
+  english:
+    - That man never admits defeat.
+
+- type: chinese
+  chinese: 他是个难以捉摸的人。
+  english:
+    - He's very vague.
+
+- type: chinese
+  chinese: 他性格乖张。
+  english:
+    - He's crooked.
+
+- type: chinese
+  chinese: 他一无是处。
+  english:
+    - He's good for nothing.
+
+- type: chinese
+  chinese: 她认生。
+  english:
+    - She's shy around strangers.
+
+- type: chinese
+  chinese: 你是个胆小鬼。
+  english:
+    - You're too timid.
+
+- type: chinese
+  chinese: 他在逞强。
+  english:
+    - He's acting big.
+
+- type: chinese
+  chinese: 他动不动就生气。
+  english:
+    - He has a short temper.
+
+- type: chinese
+  chinese: 他很能吃。
+  english:
+    - He eats like a horse.
+
+- type: chinese
+  chinese: 你的香水味真够呛人的。
+  english:
+    - Your perfume is strong.
+
+- type: chinese
+  chinese: 我的心还很年轻。
+  english:
+    - I'm young in spirit.
+
+- type: chinese
+  chinese: 我笨手笨脚的。
+  english:
+    - I'm all thumbs.
+
+- type: chinese
+  chinese: 我喜欢独处。
+  english:
+    - I like being alone.
+
+- type: chinese
+  chinese: 我这个人比较随和。
+  english:
+    - I'm easygoing.
+
+- type: chinese
+  chinese: 我遇事就慌。
+  english:
+    - I get embarrassed easily.
+
+- type: chinese
+  chinese: 我做什么事都很现实。
+  english:
+    - I'm practical about everything.
+
+- type: chinese
+  chinese: 我是一根筋。
+  english:
+    - I have a one-track mind.
+
+- type: chinese
+  chinese: 我看人很准。
+  english:
+    - I'm a good judge of character.
+
+- type: chinese
+  chinese: 我爱吃甜食。
+  english:
+    - I have a sweet tooth.
+
+# - type: chinese
+#   chinese: 我是个酒鬼。
+#   english:
+#     - I prefer wine to sweets.
+#   comment: Literal translation: I'm an alcoholic?
+
+- type: chinese
+  chinese: 我过着悲惨的生活。
+  english:
+    - I have led a dog's life.
+
+- type: chinese
+  chinese: 我的视力不好。
+  english:
+    - I have poor eyesight.
+
+########## Section 6-1 and 6-2 omitted.
+
+
+
+- type: chinese
+  chinese: |
+    Q: 今天几号?
+    A: 八月 十三日。
+  english:
+    - |
+      What's today's date?
+      It's August thirteenth.
+
+- type: chinese
+  chinese: |
+    Q: 今天星期几?
+    A: 星期四。
+  english:
+    - |
+      What day is it?
+      It's Thursday.
+
+- type: chinese
+  chinese: |
+    Q: 现在几点?
+    A: 快到中午了。
+  english:
+    - |
+      Do you have the time?
+      It's almost noon.
+
+- type: chinese
+  chinese: |
+    Q: 现在几点?
+    A: 现在一|点钟了。
+  english:
+    - |
+      Do you have the time?
+      It's one o'clock.
+
+- type: chinese
+  chinese: |
+    Q: 现在几点?
+    A: 一点四十五分。
+  english:
+    - |
+      Do you have the time?
+      It's a quarter to two.
+
+- type: chinese
+  chinese: |
+    Q: 现在几点?
+    A: 一点五分。
+  english:
+    - |
+      Do you have the time?
+      It's five after one.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# The clock says 3 ∶ 15 three fifteen
+# zhǐ zhēn zhènɡ zhǐ dào 3 diǎn 15 fēn 。 指 针 正 指 到 3点 15分 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# It's a quarter after three.
+# 3 diǎn 15 fēn 。 3点 15分 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# It's ten to two.
+# chà 10 fēn 2 diǎn 。 差 10分 2点 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# It's nine thirty.
+# 9 diǎn bàn 。 9点半。
+
+
+- type: chinese
+  chinese: 那只表慢五分钟。
+  english:
+    - The clock is five minutes slow.
+
+- type: chinese
+  chinese: 该走了。
+  english:
+    - Well, time to go.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's the best translation here?
+# About when?
+# dà yuē shén me shí hou ? 大约什 么时候?
+
+- type: chinese
+  chinese: 大约几点?
+  english:
+    - About what time?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's the best translation here?
+# How's the time?
+# hái lái dé jí mɑ ? 还来得及吗?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+#   comment: What's the best translation here?
+# I have no time.
+# wǒ méi yǒu shí jiān 。 我没有时间。
+
+- type: chinese
+  chinese: 你的再等五天。
+  english:
+    - You must wait for five more days.
+
+- type: chinese
+  chinese: 怎么花那么长时间?
+  english:
+    - What is taking so long?
+
+- type: chinese
+  chinese: 白白浪费了一整天。
+  english:
+    - I wasted a whole day.
+
+- type: chinese
+  chinese: 到|时间了。
+  english:
+    - The time has come.
+
+- type: chinese
+  chinese: 时间就是金钱。
+  english:
+    - Time is money.
+
+- type: chinese
+  chinese: 我看了两个小时的电视以打发时间。
+  english:
+    - I killed two hours watching TV.
+
+- type: chinese
+  chinese: 没有|时间了。
+  english:
+    - The time is up.
+
+- type: chinese
+  chinese: 你有空闲的时间吗?
+  english:
+    - Do you have some free time?
+
+- type: chinese
+  chinese: 我看时间差不多了。
+  english:
+    - It's about time.
+
+- type: chinese
+  chinese: 电脑能帮我们省时间。
+  english:
+    - Computers save us time.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Hi!
+# hēi! nǐ hǎo! 嗨!你好!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Hello.
+# nǐ hǎo! 你好!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Good afternoon.
+# nǐ hǎo!/ xià wǔ hǎo! 你好!/下 午好!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Good evening.
+# wǎn shɑnɡ hǎo! 晚上好!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# How are you?
+# nǐ hǎo mɑ ? 你好 吗?
+
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Fine, thank you.
+# wǒ hěn hǎo , xiè xiè 。 我很好,谢谢。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Not so good.
+# bù zěn me hǎo 。 不怎么好。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Nothing much.
+# lǎo yànɡ zi 。 老样子。
+
+- type: chinese
+  chinese: 认识您我很高兴。
+  english:
+    - Glad to meet you.
+
+- type: chinese
+  chinese: 出什么事啦?
+  english:
+    - What's up?
+
+- type: chinese
+  chinese: 你的家人怎么样 ?
+  english:
+    - How's your family?
+
+- type: chinese
+  chinese: 还好吧?
+  english:
+    - How's everything?
+
+# - type: chinese
+#   chinese: 工作怎么样?
+#   english:
+#     - How's business?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Not bad.
+# hái ké yǐ 。 还 可以。
+
+- type: chinese
+  chinese: 今天怎么样?
+  english:
+    - How did it go today?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Oh, same as usual.
+# hé wǎnɡ chánɡ yí yànɡ 。 和往常一样。
+
+
+- type: chinese
+  chinese: 急着干什么去呀?
+  english:
+    - What's the hurry?
+
+- type: chinese
+  chinese: 你去哪儿?
+  english:
+    - Where are you headed?
+
+- type: chinese
+  chinese: 你干吗呢?
+  english:
+    - What are you doing?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I was just thinking.
+# wǒ zài xiǎnɡ diǎn shì ér 。 我在想点事儿。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I was just daydreaming.
+# wǒ zhǐ shì fā le huì ér dāi 。 我只是发了会儿呆。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I'm just killing time.
+# wǒ zhǐ shì zài xiāo mó shí jiān 。 我只是在消磨时间。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# What's on your mind?
+# nǐ xiǎnɡ shén me ne ? 你想什么呢?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Nothing.
+# méi xiǎnɡ shén me 。 / méi shén me 。 没想什么。/没什么。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Another day, another dollar.
+# hé wǎnɡ chánɡ yí yànɡ 。 和往常一样。
+
+- type: chinese
+  chinese: 你来的正是时候。
+  english:
+    - You've come just in time.
+
+- type: chinese
+  chinese: 原来你在这儿啊!
+  english:
+    - There you are!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Is Jeff around?
+# jié fū zài mɑ ? 杰夫在吗?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Have you seen Scott?
+# nǐ jiàn dào sī kē tè mɑ ? 你见 到 斯科特吗?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I ran into him.
+# wǒ ǒu rán pènɡ dào le tā 。 我偶然碰到了他。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Guess who I bumped into yesterday?
+# āi , nǐ cāi wǒ zuó tiān yù jiàn shuí le ? 哎,你猜我昨天 遇见 谁 了?
+
+- type: chinese
+  chinese: 我跟他素不相识。
+  english:
+    - He's a stranger to me.
+
+# - type: chinese
+#   chinese: 好久不见。
+#   english:
+#     - It's been a long time.
+#   comment: Long time no see?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# It's been so long.
+# háo jiǔ bú jiàn 。 好久不见。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Long time no see.
+# háo jiǔ méi jiàn le 。 好久没见了。
+
+- type: chinese
+  chinese: 还好吧?
+  english:
+    - How have you been?
+
+- type: chinese
+  chinese: 最近怎么样?
+  english:
+    - How have you been doing?
+
+- type: chinese
+  chinese: 忙什么呢?
+  english:
+    - What have you been doing?
+
+- type: chinese
+  chinese: 你去哪儿了?
+  english:
+    - Where have you been?
+
+- type: chinese
+  chinese: 很高兴又见到你。
+  english:
+    - I'm glad to see you again.
+
+- type: chinese
+  chinese: 你一点儿都没变。
+  english:
+    - You haven't changed at all.
+
+- type: chinese
+  chinese: 你没怎么变。
+  english:
+    - You haven't changed much.
+
+- type: chinese
+  chinese: 你变样了。
+  english:
+    - You've really changed.
+
+- type: chinese
+  chinese: 你长大了。
+  english:
+    - You've grown up.
+
+- type: chinese
+  chinese: 你越来越漂亮了。
+  english:
+    - You've become so beautiful.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Is John okay?
+# yuē hàn tā hǎo mɑ ? 约翰他好吗?
+
+- type: chinese
+  chinese: 你看上去不错。
+  english:
+    - You look great.
+
+- type: chinese
+  chinese: 你感觉怎么样 ?
+  english:
+    - How are you feeling?
+
+- type: chinese
+  chinese: 他这些日子过得怎么样?
+  english:
+    - How's he getting along these days?
+
+- type: chinese
+  chinese: 最近你是不是胖了?
+  english:
+    - Are you gaining weight?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Goodbye.
+# zài jiàn! 再见!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Bye.
+# zài jiàn! 再见!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# See you.
+# huí tóu jiàn! 回头见!
+
+- type: chinese
+  chinese: 我去了啊。
+  english:
+    - I'm off now.
+
+- type: chinese
+  chinese: 我得告辞了。
+  english:
+    - I have to go.
+
+- type: chinese
+  chinese: 祝你|好运!
+  english:
+    - Good luck!
+
+- type: chinese
+  chinese: 祝你愉快!
+  english:
+    - Have a nice day!
+
+- type: chinese
+  chinese: 祝你周末愉快!
+  english:
+    - Have a nice weekend.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Good luck.
+# jiā yóu ā ! zhù nǐ hǎo yùn! 加 油 啊! 祝 你 好 运 !
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Have fun!
+# zhù nǐ wán dé yú kuài 。 祝你玩得愉快 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Keep it up!
+# jiù zhè yànɡ , jiān chí xià qu 。 就这样 ,坚 持下去。
+
+- type: chinese
+  chinese: 别干得太猛。
+  english:
+    - Don't work too hard.
+
+- type: chinese
+  chinese: 旅途愉快!
+  english:
+    - Have a nice trip.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Have a good one!
+# nà duō bǎo zhònɡ! 那多保重!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I hate to run, but...
+# zhēn shě bù dé zǒu , dàn shì ... ... 真 舍不得走,但是......
+
+- type: chinese
+  chinese: 认识你|我非常高兴。
+  english:
+    - It was nice meeting you.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Please say hello to John for me
+# qǐnɡ dài wǒ xiànɡ yuē hàn wèn hǎo 。 请代我向约翰问好。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Good night.
+# wǎn ān! 晚 安!
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Come again.
+# zài lái ā ! 再 来 啊!
+
+
+- type: chinese
+  chinese: 别忘了给我带点儿什么。
+  english:
+    - Don't forget to bring something back for me.
+
+- type: chinese
+  chinese: 放松点儿!
+  english:
+    - Take it easy.
+
+- type: chinese
+  chinese: 希望不久能再见到你。
+  english:
+    - I hope to see you again soon.
+
+- type: chinese
+  chinese: 给我打电话。
+  english:
+    - Call me later.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Take care.
+# duō bǎo zhònɡ! 多保重!
+
+- type: chinese
+  chinese: 你自己多保重!
+  english:
+    - Take care of yourself.
+
+- type: chinese
+  chinese: 我还会来的。
+  english:
+    - I'll be back.
+
+- type: chinese
+  chinese: 天不早了。
+  english:
+    - It's getting late.
+
+- type: chinese
+  chinese: 我得走了。
+  english:
+    - I've got to go.
+
+- type: chinese
+  chinese: 我会想你的。
+  english:
+    - I'll miss you.
+
+- type: chinese
+  chinese: 我真希望能和你在一起。
+  english:
+    - I wish I could go with you.
+
+- type: chinese
+  chinese: 请代我向你的家人问好。
+  english:
+    - Please give my regards to your family.
+
+- type: chinese
+  chinese: 你一定回来啊!
+  english:
+    - You must come back.
+
+- type: chinese
+  chinese: 有空给我打电话。
+  english:
+    - Give me a call sometime.
+
+- type: chinese
+  chinese: 我们什么时候再聚聚吧。
+  english:
+    - Let's get together again sometime.
+
+- type: chinese
+  chinese: 请给我写信。
+  english:
+    - Please write me a letter
+
+- type: chinese
+  chinese: 我会给你写信的。
+  english:
+    - I'll write you a letter.
+
+- type: chinese
+  chinese: 让我们保持联系。
+  english:
+    - Let's keep in touch.
+
+- type: chinese
+  chinese: 别忘了写信。
+  english:
+    - Don't forget to write.
+
+- type: chinese
+  chinese: 喂, 有人吗?
+  english:
+    - Hello! Anyone home?
+
+- type: chinese
+  chinese: 欢迎, 请进!
+  english:
+    - Please come in!
+
+- type: chinese
+  chinese: 你能来, 太好啦。
+  english:
+    - How nice of you to come!
+
+- type: chinese
+  chinese: 你有事吗?
+  english:
+    - What do you want?
+
+- type: chinese
+  chinese: 别客气, 像在自己家一样。
+  english:
+    - Please feel free to make yourself at home.
+
+- type: chinese
+  chinese: 请坐吧。
+  english:
+    - Have a seat.
+
+- type: chinese
+  chinese: 您尽兴。
+  english:
+    - Enjoy yourself!
+
+- type: chinese
+  chinese: 您喝点什么吗?
+  english:
+    - Would you care for something to drink?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Don't mind me.
+# méi ɡuān xi 。 没关系。
+# bú yònɡ dān xīn wǒ 。 不用担心我。
+
+- type: chinese
+  chinese: 我可以用洗手间吗?
+  english:
+    - May I use your bathroom?
+
+- type: chinese
+  chinese: 洗手间在哪儿?
+  english:
+    - Where's the bathroom?
+
+- type: chinese
+  chinese: 可以借用 一下您的电话吗?
+  english:
+    - May I use your phone?
+
+- type: chinese
+  chinese: 我得告辞了。
+  english:
+    - I'd better get going now.
+
+- type: chinese
+  chinese: 非常感谢您的盛情款待。
+  english:
+    - Thank you for inviting me.
+
+- type: chinese
+  chinese: 有空再来串门吧。
+  english:
+    - Drop by sometime.
+
+- type: chinese
+  chinese: 他亲自来看我。
+  english:
+    - He came to see me himself.
+
+- type: chinese
+  chinese: 您介意我抽烟吗?
+  english:
+    - Do you mind if I smoke?
+
+- type: chinese
+  chinese: 您的房子真好。
+  english:
+    - I like your house.
+
+- type: chinese
+  chinese: 我很喜欢你的公寓。
+  english:
+    - I really like your apartment.
+
+- type: chinese
+  chinese: 小心脚下。
+  english:
+    - Watch your step.
+
+- type: chinese
+  chinese: 地上很滑。
+  english:
+    - The floor is slippery.
+
+- type: chinese
+  chinese: 请打开电视。
+  english:
+    - Please turn on the TV.
+
+- type: chinese
+  chinese: 我可以把车停这儿吗?
+  english:
+    - Can I park my car here?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Ms. Kane, this is Mr. Sato, my boss.
+# kǎi ēn nǚ shì , zhè wèi shì wǒ de shànɡ sī zuǒ ténɡ xiān shenɡ 。 凯恩女士,这位是我的上 司佐藤 先 生 。
+
+- type: chinese
+  chinese: 很高兴认识您。
+  english:
+    - Nice to meet you.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Nice to meet you, too.
+# bí cǐ bí cǐ 。 彼此彼此。
+
+- type: chinese
+  chinese: 您贵姓?
+  english:
+    - May I have your name, please?
+
+- type: chinese
+  chinese: 我给你介绍一下我的朋友。
+  english:
+    - I'd like you to meet a friend of mine.
+
+- type: chinese
+  chinese: 他是个好人。
+  english:
+    - He's a nice guy.
+
+- type: chinese
+  chinese: 见到您我很高兴。
+  english:
+    - I'm glad to meet you.
+
+- type: chinese
+  chinese: 能认识您我感到非常荣幸。
+  english:
+    - It's an honor for me to meet you.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Please call me...
+# qǐnɡ jiào wǒ ... ... 请叫我......
+
+
+- type: chinese
+  chinese: 我们是不是在哪儿见过面?
+  english:
+    - Don't I know you from somewhere?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Remember?
+# xiǎnɡ qǐ lái le mɑ ? 想起来了吗?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Oh, yeah, you're Mr. Smith!
+# ā ! duì le , nǐ shì shǐ mì sī xiān shenɡ 。 啊!对 了,你是 史 密斯先 生 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I'm not sure. Maybe.
+# wǒ bù ɡǎn kěn dìnɡ , yé xǔ zài nǎ ér jiàn ɡuò 。 我不敢肯定 ,也许在哪儿见 过。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# No, I don't think so.
+# bú , wǒ xiǎnɡ bú shì zhè yànɡ de 。 不,我想不是这样的。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# This is the first time we have met.
+# zhè shì wǒ men dì yí cì jiàn miàn 。 这是我们第一次见 面 。
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Is Bob an old friend of yours?
+# bào bó shì nǐ de lǎo pénɡ you mɑ ? 鲍勃是你的老朋 友吗?
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I can't remember his name.
+# wǒ xiǎnɡ bù qǐ lái tā jiào shén me mínɡ zi le 。 我想 不起来他叫 什 么名 字了。
+
+- type: chinese
+  chinese: 这事全拜托你了。
+  english:
+    - I leave it entirely to your kind consideration.
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# I'm John Sheehan.
+# wǒ jiào yuē hàn · xī ēn 。 我叫约翰·希恩。
+
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Where are you from?
+# nín shì nǎ lǐ rén ? 您是哪里人?
+# I'm from Canada.
+# wǒ shì jiā ná dà rén 。 我是加拿大人。
+# I come from Canada.
+# wǒ cónɡ jiā ná dà lái 。 我从 加拿大来。
+# How do you like Japan?
+# nǐ jué dé rì běn zěn me yànɡ ? 你觉得日本怎么样 ?
+# I like it.
+# wǒ hěn xǐ huɑn 。 我很喜欢。
+# It's a good place.
+# shì ɡè hǎo dì fɑnɡ 。 是个好地方。
+# Where have you been in Japan?
+# nǐ dōu qù ɡuò rì běn de nǎ xiē dì fɑnɡ ? 你都去过日本的哪些地方 ?
+# Where do you live now?
+# nǐ xiàn zài zhù zài nǎ ér ? 你现 在住在哪儿?
+# I live in Tokyo.
+# wǒ zhù zài dōnɡ jīnɡ 。 我住在东京。
+# Are you here on vacation? nín shì lái dù jiǎ de mɑ ? 您是来度假的吗?
+# I'm here on business.
+# wǒ shì lái ɡōnɡ zuò de 。 我是来工 作的。
+
+# How long have you been in Japan?
+# nín lái rì běn duō chánɡ shí jiān le ? 您来日本多长时间了?
+# About four months. 4 ɡè yuè zuǒ yòu 。 4个月左右。
+# Are you used to life in Japan?
+# nǐ xí ɡuàn rì běn de shēnɡ huó le mɑ ? 你习惯日本的生活了吗?
+# How long will you be in Japan?
+# nǐ zài rì běn dāi dào shén me shí hou ? 你在日本呆到什 么时候?
+# Until December. dāi dào 12 yuè 。 呆 到 12 月 。
+# Do you speak Japanese? nǐ shuō rì yǔ mɑ ? 你说 日语吗?
+# A little.
+# zhǐ huì yì dián ér 。 只会一点儿。
+# I can't speak Japanese at all. wǒ yì dián ér dōu bú huì shuō 。 我一点 儿都不会说 。
+# I know everyday conversational Japanese. wǒ huì yì dián ér rì chánɡ huì huà 。 我会一点儿日常会话。
+# Where did you learn Japanese? nǐ shì zài nǎ ér xué de rì yǔ ? 你是 在 哪儿学 的日语?
+# At school.
+# zài xué xiào 。 在学校。
+
+# I learned it on my own. wǒ zì xué de 。 我自学 的。
+# When's your birthday?
+# nǐ shén me shí hou ɡuò shēnɡ rì ? 你什么时候过生日?
+
+# Do you know his background?
+# nǐ liáo jiě tā de bèi jǐnɡ mɑ ? 你了 解他的背景 吗?
+# I work for a computer company.
+# wǒ zài yì jiā diàn nǎo ɡōnɡ sī ɡōnɡ zuò 。 我在一家电 脑公 司工 作。
+# I'm a government employee.
+# wǒ shì ɡuó jiā ɡōnɡ wù yuán 。 我是国家公 务员 。
+# I'm self-employed.
+# wǒ shì ɡè tǐ jīnɡ yínɡ zhě 。 我是个体经 营 者。
+# Which department do you work for? nǐ zài nǎ ɡè bù mén ɡōnɡ zuò ? 你在哪个部门工 作?
+# Sales.
+# ɡǎo xiāo shòu de 。 搞销售的。
+# How long have you been doing that job?
+# zhè ɡe ɡōnɡ zuò nǐ zuò le duō chánɡ shí jiān le ? 这个工 作你做了多长 时间 了?
+# For 10 years. 10 nián le 。 10年 了。
+# Where is your company?
+# nǐ de ɡōnɡ sī zài nǎ ér ? 你的公 司在 哪儿?
+# In Shinjuku. zài xīn sù 。 在新宿。
+# How long does it take You to commute?
+# shànɡ xià bān lù shɑnɡ yào huā duō chánɡ shí jiān ? 上 下班路上 要花多长 时间?
+# About one hour.
+# 1 ɡè xiǎo shí zuǒ yòu 。 1个小 时左右。
+# How do you get to work? nǐ zěn me qù shànɡ bān ? 你怎么去上 班?
+# I ride the subway. wǒ zuò dì tiě 。 我坐地铁。
+# I'm changing jobs.
+# wǒ zhènɡ zài diào ɡōnɡ zuò 。 我正在调工作。
+# I'm job hunting now.
+# wǒ zhènɡ zài zhǎo ɡōnɡ zuò 。 我正在找工作。
+# I'm retiring next year. wǒ mínɡ nián tuì xiū 。 我明年退休。
+# I'm out of work now.
+# wǒ xiàn zài shī yè le 。 我现 在失业了。
+
+
+
+# - type: chinese
+#   chinese:
+#   english:
+#     -
+# Are you a student?
+# nǐ shì xué shenɡ mɑ ? 你是学生吗?
+# I'm a college student.
+# wǒ shì ɡè dà xué shenɡ 。 我是个大学生 。
+# I'm studying English.
+# wǒ zhènɡ zài xué xí yīnɡ wén 。 我正在学习英文。
+# I went to Meiji University. wǒ bì yè yú mínɡ zhì dà xué 。 我毕业于明治大学。
+# Where did you go to college? nǐ shànɡ de nǎ suǒ dà xué ? 你上的哪所大学?
+# What school do you go to? nǐ shànɡ shén me xué xiào ? 你上什么学校?
+# I go to...university.
+# wǒ shànɡ ... ... dà xué 。 我上 ......大学 。
+# What year are you in?
+# nǐ shànɡ jǐ nián jí le ? 你上 几年 级了?
+# I'm a freshman.
+# wǒ shànɡ yì nián jí 。 我上一年级。
+# I'll graduate next year. wǒ mínɡ nián bì yè 。我明年毕业。
+
+# What's your major?
+# nǐ de zhuān yè shì shén me ? 你的专业是什么?
+# I'm an English major.
+# wǒ de zhuān yè shì yīnɡ yǔ 。 我的专业是英语。
+# What club are you in?
+# nǐ cān jiā nǎ ɡè jù lè bù ? 你参 加 哪个俱乐部?
+# I'm in the ski club.
+# wǒ zài huá xuě jù lè bù 。 我在滑雪俱乐部。
+# Do you have a part-time job? nǐ zài dǎ ɡōnɡ mɑ ? 你在打工吗?
+# I work at a bookstore as a cashier once a week.
+# wǒ yí ɡè xīnɡ qī qù yí cì shū diàn zuò shōu yín yuán 。 我一个星 期去一次书店 做收 银员 。
+# What are your plans after graduation? bì yè yǐ hòu nǐ dǎ suɑn zuò shén me ? 毕业以后你打算做什么?
+
+# How many people are in your family? nǐ jiā yǒu jǐ kǒu rén ? 你家有几口人?
+# Four people. sì kǒu rén 。 四口人。
+# My parents and my younger sister. fù mǔ hé wǒ de mèi mei 。父母和我的妹 妹 。
+
+# Any brothers or sisters?
+# nǐ yǒu xiōnɡ di jiě mèi mɑ ? 你有兄 弟姐妹吗?
+# Just one brother. zhí yǒu yí ɡè ɡē ɡe 只有一个哥哥 dì di
+# 弟弟
+# Do you live with your parents? nǐ hé fù mǔ zhù zài yì qǐ mɑ ? 你和父母住 在 一起吗?
+# I live alone.
+# wǒ yí ɡè rén zhù 。 我一个人住。
+# I live in an apartment. wǒ zhù zài ɡōnɡ yù lǐ 。
+# Are you married? nǐ jié hūn le mɑ ? 你结婚了吗?
+# No, not yet.
+# bú , hái méi yǒu 。 不,还没有。
+# I have a fianc é.
+# wǒ yǒu duì xiànɡ le 。 我有对象了。
+# I'm going to get married next year. wǒ dǎ suɑn mínɡ nián jié hūn 。 我打算明年结婚。
+# I'm married.
+# wǒ jié hūn le 。 我结婚了。
+# I'm engaged.
+# wǒ dìnɡ hūn le 。我订婚了。
+
+# Any children? yǒu hái zi mɑ ? 有孩子吗?
+# I have two boys.
+# wǒ yǒu liǎnɡ ɡè nán hái 。 我有两 个男孩。
+# I have one daughter in elementary school. wǒ yǒu yí ɡè nǚ ér , zài shànɡ xiǎo xué 。 我有一个女儿,在上 小 学。
+# I don't have any children. wǒ méi yǒu hái zi 。 我没有孩子。
+
+# What are your hobbies? nǐ yǒu shén me ài hào ? 你有什 么爱好?
+# Do you have any hobbies?
+# nǐ yóu diǎn shén me ài hào mɑ ? 你有点 什 么爱好吗?
+# What do you do when you have free time? yè yú shí jiān nǐ dōu ɡān shén me ? 业余时间 你都干什 么?
+# I like to watch movies.
+# wǒ xǐ huɑn kàn diàn yǐnɡ 。 我喜欢看电影。
+# What kind of movies do you like?
+# nǐ xǐ huɑn kàn shén me yànɡ de diàn yǐnɡ ? 你喜欢看什么样的电影?
+# You're a good pianist.
+# nǐ de ɡānɡ qín dàn dé zhēn hǎo 。你的钢 琴弹得真 好。
+
+# What kind of sports do you like? nǐ xǐ huɑn nǎ zhǒnɡ yùn dònɡ ? 你喜欢哪种运动?
+# How long have you been skiing?
+# nǐ huá le duō chánɡ shí jiān xuě le ? 你滑了多长时间雪了?
+# I just like to watch.
+# wǒ zhǐ shì xǐ huɑn kàn 。 我只是喜欢 看。
+# I'm a baseball fan. wǒ shì bànɡ qiú mí 。 我是棒球迷。
+# I like to play golf.
+# wǒ xǐ huɑn dǎ ɡāo ěr fū qiú 。 我喜欢打高尔夫球。
+# Have you ever done aerobics? nǐ liàn ɡuò jiàn měi cāo mɑ ? 你练 过健 美操吗?
+# What are your interests?
+# nǐ duì shén me ɡǎn xìnɡ qù ? 你对什 么感兴 趣?
+# I've never done that. wǒ cónɡ méi zuò ɡuò 。 我从没做过。
+# Have you ever traveled abroad? nǐ qù ɡuó wài lǚ xínɡ ɡuò mɑ ? 你去国外旅行 过吗?
+# Where have you been? nǐ qù nǎ ér le ? 你去哪儿了?
+
+# I've been to the U.S. and Germany.
+# wǒ qù měi ɡuó hé dé ɡuó le 。我去美国和德国了。
+# Where do you want to go next?
+# xià cì nǐ xiǎnɡ qù nǎ ér ? 下 次你想 去哪儿?
+
+# How old are you? nǐ duō dà le ? 你多 大了?
+# I'm forty-eight. wǒ 48 suì 。
+# 我 48 岁 。
+# How much do you weigh?
+# nǐ de tǐ zhònɡ shì duō shǎo ? 你的体重是多少?
+# About seventy-five kilograms. 75 ɡōnɡ jīn zuǒ yòu 。
+# 75 公 斤 左 右 。
+# I weigh a-hundred-sixty-four pounds. wǒ zhònɡ 164 bànɡ 。
+# 我重 164磅 。
+# How tall are you? nǐ yǒu duō ɡāo ? 你有多高?
+# About one-hundred-eighty centimeters. 1 mǐ 80 zuǒ yòu 。
+# 1米80左 右 。
+# I'm five feet three inches tall. wǒ shēn ɡāo 5 yīnɡ chǐ 3 cùn 。 我身 高5英 尺3寸。
+
+
+- type: chinese
+  chinese: 今天真热呀!
+  english:
+    - It's very hot today, isn't it?
+
+- type: chinese
+  chinese: 天气炎热。
+  english:
+    - It's blistering hot.
+
+- type: chinese
+  chinese: 今天的天气真好!
+  english:
+    - It's a fine day today.
+
+- type: chinese
+  chinese: 明天的天气怎么样?
+  english:
+    - What's the forecast for tomorrow?
+
+- type: chinese
+  chinese: 今天的天气怎么样?
+  english:
+    - How's the weather today?
+
+- type: chinese
+  chinese: 今天会下雨吗?
+  english:
+    - Is it going to rain today?
+
+- type: chinese
+  chinese: 好像要下雨。
+  english:
+    - We're expecting some rain.
+
+- type: chinese
+  chinese: 下雨了。
+  english:
+    - It's raining.
+
+- type: chinese
+  chinese: 今天会下雨吧!
+  english:
+    - It's going to rain today.
+
+- type: chinese
+  chinese: 今天很热。
+  english:
+    - It's hot today.
+
+- type: chinese
+  chinese: 今天很暖和。
+  english:
+    - It's warm today.
+
+- type: chinese
+  chinese: 今天很冷。
+  english:
+    - It's cold today.
+
+- type: chinese
+  chinese: 今天冷嗖嗖的。
+  english:
+    - It's chilly today.
+
+- type: chinese
+  chinese: 今天风很大。
+  english:
+    - It's windy today.
+
+- type: chinese
+  chinese: 今天很闷热。
+  english:
+    - It's humid.
+
+- type: chinese
+  chinese: 气候干燥。
+  english:
+    - It's dry. (weather)
+
+- type: chinese
+  chinese: 暴风雨天气。
+  english:
+    - It's stormy.
+
+- type: chinese
+  chinese: 下雪了。
+  english:
+    - It's snowing.
+
+- type: chinese
+  chinese: 天阴沉沉的。
+  english:
+    - It's gloomy. (weather)
+
+- type: chinese
+  chinese: 看样子我们会遇上雷阵雨。
+  english:
+    - It looks like we are going to have a thunder shower.
+
+- type: chinese
+  chinese: 台风快到了。
+  english:
+    - A typhoon is coming.
+
+- type: chinese
+  chinese: 起雾了。
+  english:
+    - It's foggy.
+
+- type: chinese
+  chinese: 冷得像要结冰了。
+  english:
+    - It's freezing.
+
+- type: chinese
+  chinese: 快要下暴风雨了。
+  english:
+    - We're going to have a blizzard.
+
+- type: chinese
+  chinese: 这天真舒服。
+  english:
+    - It's pleasant. (weather)
+
+- type: chinese
+  chinese: 今天风和日丽。
+  english:
+    - It's mild today. (weather)
+  comment: 风和日丽 is an idiom.
+
+- type: chinese
+  chinese: 雾蒙蒙的。
+  english:
+    - It's misty. (weather)
+
+- type: chinese
+  chinese: 今天阴天。
+  english:
+    - It's overcast today.
+
+- type: chinese
+  chinese: 糟糕的天气。
+  english:
+    - It's miserable. (weather)
+
+- type: chinese
+  chinese: 我怕热。
+  english:
+    - I'm sensitive to heat.
+
+- type: chinese
+  chinese: 今天风和日丽。
+  english:
+    - It's breezy today.
+
+- type: chinese
+  chinese: 今天的天气让人不舒服。
+  english:
+    - It's uncomfortable today.
+
+- type: chinese
+  chinese: 热死我了。
+  english:
+    - The heat is killing me.
+
+- type: chinese
+  chinese: 下了瓢泼大雨。
+  english:
+    - It's raining cats and dogs!
+
+- type: chinese
+  chinese: 下霜了。
+  english:
+    - It's frosty today.
+

@@ -1,0 +1,74 @@
+<head>
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <title>Talent</title>
+</head>
+
+<template name="mainNav">
+  <nav
+    class="navbar navbar-default navbar-static-top navbar-inverse"
+    role="navigation"
+    style="margin-bottom: 0px">
+    <div class="container">
+      {{! Brand and toggle get grouped for better mobile display }}
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle"
+          data-toggle="collapse" data-target="#navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{pathFor 'landing'}}">
+          Talent <sup>srs</sup>
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          {{! Home link temporarily disabled }}
+          <!-- <li class="{{isOnPage 'home'}}">
+            <a href="{{pathFor 'home'}}">Home</a>
+          </li> -->
+          <li class="{{isOnPage 'browseCourses'}}">
+            <a href="{{pathFor 'browseCourses'}}">Courses</a>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a>{{> loginButtons align="right"}}</a>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+
+    </div>
+  </nav>
+</template>
+
+<template name="layout">
+  {{> mainNav }}
+
+  <div class="container" style="padding-top: 1em">
+    {{> yield}}
+  </div>
+
+  <!-- <footer style="clear: both;">Footer</footer> -->
+</template>
+
+<template name="loading">
+  Loading data...
+</template>

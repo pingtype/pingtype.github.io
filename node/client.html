@@ -1,0 +1,212 @@
+<!--
+	Pingtype
+	Peter Burkimsher 2017-12-27
+	
+	Connects to the Pingtype Node server
+	
+Server's output:
+
+$ node server.js
+Listening on port 5373
+{ msg: 'hello world' }
+Client's output:
+
+$ node client.js
+STATUS: 200
+HEADERS: {"content-type":"text/plain","date":"Wed, 17 Aug 2016 09:22:04 GMT","connection":"close","transfer-encoding":"chunked"}
+BODY: Hello World
+
+No more data in response.	
+
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Node Client</title>
+  	  	
+	<meta charset="utf-8" />
+    <style>
+    </style>
+		
+	</head>
+	
+	<body>
+  		<div id="outputHtml"></div>
+	</body>
+	
+	<script>
+
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+
+		function sendToNodeServer(thisText)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   //if (xmlhttp.status == 200) 
+				   if (xmlhttp.status != 400) 
+				   {
+						
+						document.getElementById("outputHtml").innerHTML = xmlhttp.responseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('error sending to server');
+				   }
+				   else {
+					   alert('error sending to server');
+				   }
+				}
+			};
+
+
+			var url = "http://127.0.0.1:5373";
+			//var url = "server.js";
+			//var params = "lorem=ipsum&name=binny";
+			//var params = "text=hello world";
+			//var params = "text=" + thisText;
+			var params = thisText;
+			xmlhttp.open("POST", url, true);
+
+			//Send the proper header information along with the request
+			xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+			xmlhttp.send(params);
+				
+		} // end function sendToNodeServer
+	
+		function translateQuery()
+		{
+			var thisPostData = "";
+			
+			if ((QueryString.chineseFile != "") && (QueryString.chineseFile != undefined))
+			{
+				//var chineseUrl = encodeURI(QueryString.chineseFile);
+				var chineseFile = QueryString.chineseFile;
+
+				thisPostData = thisPostData + "&chineseFile=" + chineseFile;
+			}
+
+			// If we have an English file
+			if ((QueryString.englishFile != "") && (QueryString.englishFile != undefined))
+			{
+				//var englishUrl = encodeURI(QueryString.englishFile);
+				var englishFile = QueryString.englishFile;
+			
+				thisPostData = thisPostData + "&englishFile=" + englishFile;
+			}
+
+			// If we have a bilingual file
+			if ((QueryString.bilingualFile != "") && (QueryString.bilingualFile != undefined))
+			{
+				var bilingualFile = QueryString.bilingualFile;
+			
+				thisPostData = thisPostData + "&bilingualFile=" + bilingualFile;
+			}
+			
+			// If we have a word list
+			if ((QueryString.wordList != "") && (QueryString.wordList != undefined))
+			{
+				var thisWordList = QueryString.wordList;
+			
+				thisPostData = thisPostData + "&wordList=" + thisWordList;
+			} // end if there is text
+						
+			// If we have text
+			if ((QueryString.text != "") && (QueryString.text != undefined))
+			{
+				var thisText = QueryString.text;
+			
+				thisPostData = thisPostData + "&text=" + thisText;
+			} // end if there is text
+
+			// If we have a command
+			if ((QueryString.command != "") && (QueryString.command != undefined))
+			{
+				var thisCommand = QueryString.command;
+			
+				thisPostData = thisPostData + "&command=" + thisCommand;
+			} // end if there is a command
+			
+			if (thisPostData != "")
+			{
+				//thisPostData = textBetween(thisPostData, "&", "end");
+			
+				sendToNodeServer(thisPostData);
+			} // end if the url is not blank
+
+	
+		} // end function translateQuery
+		
+		
+		translateQuery();
+	
+	</script>
+</html>

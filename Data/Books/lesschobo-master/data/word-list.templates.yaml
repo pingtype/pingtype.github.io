@@ -1,0 +1,938 @@
+- type: cloze
+  chinese: 我(爱)你
+  english: I love you
+
+- type: idiomatic
+  chinese: 我爱你
+  english:
+    - I love you
+
+- type: idiomatic
+  chinese: 他爱唱歌
+  english:
+    - He is fond of singing
+    - He likes to sing
+    - He likes singing
+
+- type: idiomatic
+  chinese: 她爱哭
+  english:
+    - She is a crybaby
+    - She's a crybaby
+    - She crys easily
+
+- type: cloze
+  chinese: 你要爱惜(身体)
+  english: You should take good care of yourself.
+
+# 十分之八
+# shí | fēn | zhī | bā
+# ten | minute/apart | go/sb./sth. | eight
+# eight out of ten, 8/10, 80%
+
+- type: idiomatic
+  chinese: 四面八方
+  english:
+    - In all directions
+    - Far and near
+    - All around
+  comment: Is this a common expression? If so, how is it used?
+
+- type: idiomatic
+  chinese: 我爸爸很高
+  english:
+    - My father is very tall
+    - My daddy is very tall
+
+- type: cloze
+  chinese: 这是一个(杯子)
+  english: This is a cup.
+
+- type: idiomatic
+  chinese: 一杯茶
+  english:
+    - A cup of tea
+    - Cup of tea
+
+- type: idiomatic
+  chinese: 一杯水
+  english:
+    - A glass of water
+    - Glass of water
+
+- type: idiomatic
+  chinese: 北京欢迎你
+  english:
+    - Beijing welcomes you
+    - Welcome to Beijing
+
+- type: idiomatic
+  chinese: 北京是中国的首都
+  english:
+    - Beijing is the capital of China
+    - Beijing is China's capital
+
+- type: idiomatic
+  chinese: 那是一本书
+  english:
+    - That is a book
+    - That's a book
+
+# 他原本要去北京。
+# tā | yuán běn | yào | qù | Běi jīng
+# he/him | originally | want/must | go | Běi jīng
+# He originally planned to go to Beijing.
+
+# 我们要看事物的本质。
+# wǒ mén | yào | kān | shì wù | de | běn zhì
+# we/us | want/must | look/to see | things/matter/object | of | quality/nature
+# We have to grasp the essence of material things.
+# We must (see through the appearance to) perceive the essence.
+# Don't be fooled by appearances.
+
+# 做人不能忘本。
+# zuò | rén | bù | néng | wàng | běn
+# do | people/person | no/not | can/able | forget | root
+# One can never forget his/her roots.
+
+# 做好本职工作是你的本分。
+# zuò | hǎo | běn zhí | gōng zuò | shì | nǐ | de | běn fèn
+# do | good/well | one's own job | work/job | be/exist | you | of | duty
+# It's your duty to do your job.
+# It is only natural that you get your own work done.
+
+
+# 不客气
+# bù kè qi
+# you're welcome, impolite, rude, blunt, don't mention it,
+
+# 她买了几斤菜。
+# tā | mǎi | le | jǐ | jīn | cài
+# she/her | buy | to finish | several | catty/half a kilogramme | vegetables
+# She bought several catties of vegetables.
+
+- type: idiomatic
+  chinese: 她做的菜很好吃
+  english:
+    - The food she cooked is delicious
+    - She cooked delicious food
+
+
+# 喝茶
+# hē chá
+# have/drink tea
+
+- type: idiomatic
+  chinese: 茶杯
+  english:
+    - Tea cups
+    - Tea cup
+
+- type: idiomatic
+  chinese: 茶色的杯子
+  english:
+    - Brown cups
+    - Brown cup
+
+- type: cloze
+  chinese: 吃点儿(东西)
+  english: Grab something to eat
+
+- type: cloze
+  chinese: (吃)点儿东西
+  english: Grab something to eat
+
+# 这种菜很吃油。
+# zhè | zhǒng | cài | hěn | chī | yóu
+# this/these | kind/type | vegetables/dish | very/much | eat | oil
+# This vegetable soaks up a lot of oil.
+# This kind of vegetable absorbs lots of oil.
+
+# 他的话我吃不准。
+# tā de | huà | wǒ | chī | bù | zhǔn
+# his | words/language/speech | I/me | eat | accurate/exact
+# I'm not sure what he means.
+
+# 出租车
+# chū zū chē
+# taxi, (Taiwan) rental car,
+
+# 坐出租车去火车站
+# zuò | chū zū chē | qù | huǒ chē zhàn
+# sit | taxi | go/leave | train station
+# take a taxi to the train station
+
+# 打电话
+# dǎ diàn huà
+# call, phone, make a call
+
+- type: idiomatic
+  chinese: 给他打电话
+  english:
+    - Give him a call
+    - Give him a phone call
+    - Call him
+    - Phone him
+
+# 大 | 城市
+# big/large | city
+# big city, major city, metropolis
+
+# 大 | 风
+# big | wind
+# gale, strong wind
+
+# 大 | 不 | 一样
+# big | no/not | same/alike/equal
+# a big difference, quite different
+
+# 大 | 哥
+# big | brother
+# elder brother, eldest brother, eldest son
+
+# 你 | 的 | 孩子 | 多大 | 了?
+# you | of | children | how old | to finish
+# How old are your children?
+
+# 的
+# de
+# of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis),
+
+# 花 | 是 | 红色 | 的。
+# flower | be | color red | used to form a nominal expression
+# The flower is red.
+
+- type: idiomatic
+  chinese: 这本书是我的
+  english:
+    - This book is mine
+    - This is my book
+
+- type: idiomatic
+  chinese: 水是凉的
+  english:
+    - The water is cold
+    - Water is cold
+    - Water's cold
+
+# 点 | 菜
+# order | vegetable
+# to order (food in a restaurant)
+
+# 他 | 点了点头。
+# he/him | nodded
+# He nodded.  (点头 = to nod, 点点头 = nodding, 点了点头 = nodded)
+
+# 课 | 前 | 我 | 要 | 点名。
+# class | before/front | I/me | want | call the roll
+# I'll do a roll call before the class starts.
+
+# 点明 | 重点
+# point out/hint | emphasis/focal point/main point
+# point out an important issue
+
+# 到 | 点 | 了，| 该 | 做饭 | 了。
+# arrive/go to | dot/point | to finish, | should/deserve | to cook/cooking | to finish
+# It's time to cook.
+
+# 电脑
+# diàn nǎo
+# computer, CL:臺|台[tái],
+
+- type: idiomatic
+  chinese: 一台电脑
+  english:
+    - A computer
+    - computer
+
+# 电视
+# diàn shì
+# television, TV, CL:臺|台,個|个[gè],
+
+- type: idiomatic
+  chinese: 一台电视
+  english:
+    - A television
+    - A TV
+    - television
+    - TV
+
+- type: idiomatic
+  chinese: 看电视
+  english:
+    - Watch TV
+    - Watch television
+
+# 电影
+# diàn yǐng
+# movie, film, CL:部,片,幕,場|场[chǎng],
+
+- type: idiomatic
+  chinese: 看一场电影
+  english:
+    - Watch a film
+    - Watch a movie
+
+# 这部电影很好看。
+# zhè | bù | diàn yǐng | hěn | hǎo | kàn
+# this/these | department/part/division | movie/film | very/much | good/well | look/to see
+# This movie is great.
+# This is a great movie.
+
+# 东西
+# dōng | xi
+# thing, stuff, person, CL:個|个,件[jiàn],
+
+# 写 | 东西
+# to write | thing/stuff
+# to write something
+
+# 这 | 个 | 小 | 东西 | 真 | 可爱。
+# this | individual/piece | small/little | thing/stuff | true/real | cute/pretty
+# This little thing (people, esp. children, or animal) is so cute.
+
+# 他 | 真 | 不 | 是 | 个 | 东西！
+# he/him | truely/really | no/not | be/exist | individual/piece | thing/stuff
+# He is no nice person.
+# He's so full of shit.
+
+# 都
+# dōu
+# all, both, entirely, (used for emphasis) even, already, (not) at all,
+
+- type: idiomatic
+  chinese: 大家都喜欢听我讲课
+  english:
+    - Everyone likes to attend my lectures
+    - Everyone likes to hear my lectures
+    - Everyone likes to hear me lecture
+
+# 你 | 这个 | 电影 | 都 | 没 | 看过？
+# you | this | movie/flim | even | no/not | seen
+# You haven't even seen this movie?
+
+# 都 | 几 | 点 | 了 | 还 | 不 | 睡觉 | 去。
+# Look at the time! You should have gone to the bed long ago.
+# At this time of the day! You should go to bed.
+
+# 读
+# dú
+# to read, to study, reading of word (i.e. pronunciation), similar to 拼音[pīn yīn],
+
+- type: idiomatic
+  chinese: 我读了一本书
+  english:
+    - I read a book
+
+# 我 | 弟弟 | 读 | 大学 | 一 | 年级。
+# I/me | younger brother/little brother | to attend school | university | first/one | grade
+# My little brother is freshman in college.
+
+# 好好 | 读书 | 长大 | 才 | 有 | 工作。
+# well/good | reading/learning | to grow up | only/just | have | work/job
+# Only if you study hard, you can get a job when you grow up.
+
+# 对不起
+# duì bu qǐ
+# unworthy, to let down, I'm sorry, excuse me, pardon me, if you please, sorry? (please repeat),
+
+# 多
+# duō
+# many, much, a lot of, numerous, more, in excess, how (to what extent), multi-, Taiwan pr.  when it means "how",
+
+# 多 | 种 | 多 | 样
+# many/much | kind/type | many/much | style/pattern
+# various, wide variety, a variety of
+
+# 多 | 一个 | 杯子。
+# more/in excess | a/one | glass/cup
+# There is one cup more.
+# There is an additional cup.
+
+# 她 | 胖 | 多了。
+# she/her | plump/fat | more/in excess
+# She's much more plump nowadays.
+# She's much fatter now.
+# She's put on a bit of weight.
+
+- type: idiomatic
+  chinese: 你有多高？
+  english:
+    - How tall are you?
+
+# 天气 | 多好！
+# weather | how good/how nice
+# The weather is so wonderful!
+# What a pleasant weather!
+# What fine weather!
+
+# 多少
+# duō | shao
+# how much, how many, which (number), as much as,
+
+- type: idiomatic
+  chinese: 这菜多少钱？
+  english:
+    - How much are these vegetables?
+    - How much is this vegetable?
+
+# 他的 | 话 | 多少 | 有点 | 道理。
+# his | words/speech | more or less | a little | sense/reason
+# There's some truth in what he says.
+
+# 你 | 给 | 多少 | 钱 | 我 | 也 | 不 | 干。
+# you | give | how much | money | I/me | also | no/not | do
+# However much money you give me, I will never do it.
+
+# 儿子
+# ér | zi
+# son,
+
+# 二
+# èr
+# two, 2, stupid (Beijing dialect),
+
+# 饭馆
+# fàn | guǎn
+# restaurant, CL:家[jiā],
+
+- type: idiomatic
+  chinese: 这里有一家饭馆。
+  english:
+    - There is a restaurant
+
+# 来 | 这家 | 饭馆 | 吃点东西。
+# to come | this | restaurant | eat sth.
+# Come and have some food at this restaurant.
+
+# 飞机
+# fēi | jī
+# airplane, CL:架[jià],
+
+# 天空 | 中 | 没有 | 飞机。
+# sky/air | central/middle/amist | have not/not to exist | airplane
+# There is no airplane in the sky.
+
+# 火车 | 没有 | 飞机 | 快。
+# train | no/not | airplane | quick/fast
+# Trains do not travel faster than airplanes.
+# Airplanes travels faster than trains.
+
+# 分钟
+# fēn | zhōng
+# minute,
+
+- type: idiomatic
+  chinese: 等我一分钟。
+  english:
+    - Wait a minute
+    - Wait a moment
+    - One moment
+
+# 五分钟 | 热度
+# five minutes | heat/fever
+# brief period of enthusiasm
+
+# 高兴
+# gāo | xìng
+# happy, glad, willing (to do sth), in a cheerful mood,
+
+# 你 | 要 | 来，我们 | 都 | 很 | 高兴。
+# you | want | to come | we/us | all/entirely | very/quite | happy/glad
+# We all glad that you are coming.
+# We're all pleased for your coming.
+
+# 他 | 高兴 | 看电影，对 | 看电视 | 不 | 感兴趣。
+# he/him | happy/glad/joy | see a film | to/toward | watch TV | no/not | interested
+# He feels like watching a movie, and is not interested in watching TV.
+
+# 个
+# gè
+# variant of 個|个[gè],
+
+# 工作
+# gōng | zuò
+# to work, (of a machine) to operate, job, work, task, CL:個|个,份,項|项[xiàng],
+
+# 工作 | 没有 | 高低 | 之 | 分。
+# work/job | have not/don't exist | high and low | of | separate/divide
+# There is neither lowliness nor nobleness in careers.
+# It is difficult to say which is the better trade.
+
+# 我 | 有 | 很多 | 工作 | 要 | 做。
+# I/me | have | many/much | work | need | to do
+# I have a lot of work to do.
+# I have to do a lot of work.
+
+# 狗
+# gǒu
+# dog, CL:隻|只,條|条[tiáo],
+
+# 我 | 喜欢 | 狗，| 不喜欢 | 猫。
+# I/me | to like/fond of | dog | dislike/not like | cat
+# I like dogs, not cats.
+
+# 你 | 这个 | 狗东西！
+# you | this/these | son of a bitch/bastard]
+# You son of a bitch!
+
+# 我 | 爸爸 | 属狗。
+# I/me | father | born in the year of dog
+# My father is born in the year of dog.
+
+# 汉语
+# Hàn | yǔ
+# Chinese language, CL:門|门[mén],
+
+# 汉语 | 和 | 英语 | 在 | 拼写 | 上 | 大不相同。
+# Chinese language | and | English language | in/exist | spell | on | quite different/to differ greatly
+# Chinese differs greatly from English in spelling.
+
+# 普通话 | 也 | 叫 | 现代标准汉语，| 是 | 中华人民共和国 | 的 | 官方语言。
+# Standard Chinese/Mandarin/Putonghua | also | to be called | Modern Standard Chinese, | be | People's Republic of China (PRC) | of | official language
+# Standard Chinese, also known as Modern Standard Chinese, is the official language of the People's Republic of China (PRC).
+
+# 好
+# hǎo
+# good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness),
+
+# 与 | 朋友 | 好好 | 相处
+# and | friend | well | get along
+# get along well with friends
+
+- type: idiomatic
+  chinese: 作业做好了。
+  english:
+    - The homework is finished
+    - The homework is completed
+
+# 这 | 话 | 不 | 好 | 说。
+# this/these | words/language/speech | no/not | good/well | to speak/to talk
+# This is difficult to say.
+# I don't know how to bring it up.
+
+# 带 | 点 | 钱 | 好 | 买 | 东西。
+# to bring/to take | drop | money/cash | easy to | buy | thing
+# Take some money for shopping.
+
+# 喝
+# hē
+# to drink, My goodness!,
+
+# 喝 | 水
+# to drink | water
+# drink water
+
+# 喝 | 粥
+# to drink | porridge
+# eat porridge
+
+# 喝醉 | 了
+# to get drunk | to finish
+# drunk
+
+# 喝 | 多 | 了
+# to drink | many/excessive | to finish
+# drunk
+
+# 和
+# hé
+# and, together with, with, sum, union, peace, harmony, Japanese related, Taiwan pr. [hàn],
+
+- type: idiomatic
+  chinese: 他和她是朋友。
+  english:
+    - They are friends
+    - He and she are friends
+
+# 中国 | 在 | 建设 | 和谐 | 社会。
+# China/middle kingdom | in/at | to construct/to build | harmony/accord | society
+# China is building Harmonious Society.
+
+# 中国人 | 以和为贵。
+# Chinese people | with/so as to | harmonious/harmony | for/serve as | expensive/precious/noble
+# The Chinese think Harmony is Precious (Yi He Wei Gui).
+
+# 两 | 人 | 讲和 | 了。
+# two | people/person | make peace | to finish
+# The two made peace with each other.
+# The two buried the hatchet
+
+# 她 | 和 | 我 | 说 | 过。
+# she/her | and/with | I/me | say/speak/talk | cross/pass
+# She spoke with me.
+
+# 很
+# hěn
+# (adverb of degree), quite, very, awfully,
+
+# 他 | 看 | 过 | 很多 | 书。
+# he/him | look/to see | pass/cross | very much/great quantity | book
+# He read many books.
+
+# 她 | 做 | 了 | 很 | 好吃的 | 菜。
+# she/her | do/make | to finish | quite/very | delicious/tasty | dish/vegetables
+# She made some great dishes.
+
+- type: idiomatic
+  chinese: 我很喜欢看电视。
+  english:
+    - I like to watch TV very much.
+    - I like to watch television very much.
+    - I'm very fond of watching TV
+    - I am very fond of watching TV
+    - I'm very fond of watching television
+    - I am very fond of watching television
+
+# 后面
+# hòu mian
+# rear, back, behind, later, afterwards,
+
+# 把 | 电视 | 搬 | 到 | 后面 | 去。
+# handle/grasp | TV | move/transport | reach/arrive | rear/back | go/leave
+# Move the TV to the back.
+
+# 这个 | 我 | 后面 | 再 | 说。
+# this | I/me | back/rear | again | talk/speak
+# I'll get back to this later.
+
+# 回
+# huí
+# to curve, to return, to revolve,
+
+# 回家
+# return home, go back home
+
+# 他 | 回 | 过 | 身 | 来。
+# he/him | to return/to revolve | pass/cross | body | to come/coming
+# He turned back.
+
+# 我 | 没有 | 收到 | 回信。
+# I/me | have not/no | receive/get/obtain | letter in reply/write in reply
+# I haven't received any response/reply.
+
+# 他 | 把 | 从 | 学校 | 里 | 拿 | 的 | 书 | 放回 | 了 | 原处。
+# he/him | handle/grasp | from | school | in/inside | take | of | book | restore/replace | to finish | original position
+# He restored the books he had taken from school.
+
+# 她 | 把 | 菜 | 回 | 了 | 锅。
+# she/her | handle/grasp | dish/vegetables | to return | to finish | pot/pan/caldron
+# She cooked the dish a second time.
+# She twice-cooked the dish.
+
+# 会
+# huì
+# can, be possible, be able to, will, be likely to, be sure to, to assemble, to meet, to gather, to see, union, group, association, CL:個|个[gè], a moment (Taiwan pr. for this sense is ),
+
+# 会 | 诊
+# to assemble/to gather | examine medically
+# consultation
+
+# 医生 | 会诊。
+# doctor | consultation
+# The doctors held a consultation.
+
+# 后 | 会 | 有 | 期。
+# later/rear | to meet/to see | have | period/phase
+# (Good-bye) until next time.
+# Until we meet again.
+# Good-bye, I'll see you next time.
+# Bye for now.
+
+- type: idiomatic
+  chinese: 我会跳舞。
+  english:
+    - I can dance
+    - I will dance
+
+# 等 | 一会儿。
+# wait/rank | awhile/in a moment
+# Wait a moment.
+# Wait a little longer.
+
+# 火车站
+# huǒ chē zhàn
+# train station,
+
+# 从 | 这里 | 到 | 火车站 | 坐 | 出租车 | 要 | 五 | 分钟。
+# from | here | to arrive/ to reach | train station | sit | taxi | want/must | five | minute
+# It takes five minutes by taxi from  here to the train station.
+
+# 几
+# jǐ
+# how much, how many, several, a few,
+
+# 这里 | 有 | 几 | 本 | 书。
+# here | exsit/have | several | root | book
+# Here are some books.
+
+- type: idiomatic
+  chinese: 你有几本书？
+  english:
+    - How many books do you have?
+    - How many books have you?
+    - You have how many books?
+
+- type: idiomatic
+  chinese: 现在几点了？
+  english:
+    - What time is it?
+    - What's the time?
+    - What's the time now?
+
+# 家
+# jiā
+# home, family, classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for specialists in some activity such as musician or revolutionary, corresponds to English -ist, -er, -ary or -ian, CL:個|个[gè],
+
+# 我 | 家 | 有 | 三 | 口人。
+# I/me | family/home | have | three | person/people
+# There are three people in my family.
+
+- type: idiomatic
+  chinese: 我家在北京。
+  english:
+    - My home is in Beijing
+
+# 我 | 长大 | 了 | 要 | 当 | 科学家。
+# I/me | grow up | to finish | want/must | when/work as | scientist
+# When I grow up, I want to be a scientist.
+
+# 叫
+# jiào
+# to shout, to call, to order, to ask, to be called, by (indicates agent in the passive mood),
+
+# 去 | 叫 | 爸爸 | 吃饭。
+# to go/leave | to shout/to call | father | eat
+# Go ask father to come to dinner.
+
+# 妈妈 | 不 | 叫 | 我 | 去。
+# mother | no/not | call/make | I/me | to go
+# Mother won't let me go.
+
+# 他 | 叫 | 雨 | 淋 | 了。
+# he/him | by (indicates agent in the passive mood) | rain | drench/drip | to finish
+# He was caught in the rain.
+
+# 他 | 喝 | 完了 | 那 | 杯 | 啤酒 | 又 | 叫 | 了 | 一杯。
+# he/him | to drink | finished/end | that/those | cup/glass | beer | again | to order | to finish | a cup/glass (of)
+# He finished the beer and ordered another.
+
+# 今天
+# jīn tiān
+# today, at the present, now,
+
+- type: idiomatic
+  chinese: 今天天气很好。
+  english:
+    - It's a nice day today
+    - The weather is nice today.
+    - The weather is nine.
+  comment: Are these answers predictable enough? Switch to cloze deletion?
+
+# 一个月 | 前 | 的 | 今天
+# a month | front/before/ago | of | today
+# the same day a month ago
+
+# 全 | 靠 | 你 | 我 | 才 | 有 | 今天。
+# all/whole | depend/alongside | you | I/me | only/just | have | today
+# I owe you everything in life.
+# It all thanks to you that I'm standing where I am today.
+
+# 九
+# jiǔ
+# nine, 9,
+
+# 九 | 死 | 一 | 生
+# nine/many | death/die | one | live/alive
+# a narrow escape from death
+# defied all the odds and survived
+# escaped by a hair's breadth
+
+# 九 | 牛 | 一 | 毛
+# nine/many | ox/cow/bull | one | hair/wool/feather
+# a drop in the bucket
+# very small, very little
+
+# 九 | 牛 | 二 | 虎 | 之 | 力
+# nine | cow/bull/ox | two | tiger | of | power/energy
+# tremendous effort
+
+# 开
+# kāi
+# to open, to start, to turn on, to boil, to write out (a medical prescription), to operate (vehicle), abbr. for 開爾文|开尔文 degrees Kelvin,
+
+- type: cloze
+  chinese: 花(开)了。
+  english: The flowers bloom.
+
+- type: cloze
+  chinese: (花)开了。
+  english: The flowers bloom.
+
+# 今天 | 我 | 玩 | 得 | 很 | 开心。
+# today | I/me | play | get/gain/finished | very/quite | feel happy/rejoice
+# Today I had a great time.
+# I had so much fun.
+# I enjoyed myself very much.
+
+# 他 | 想 | 开 | 一家 | 餐馆。
+# he/him | want/desire | to open/to start | a/one | restaurant
+# He wants to open a restaurant.
+
+# 你 | 开 | 个 | 价。
+# you | open/to write out | peice/individual | value/price
+# You name your price.
+# You make an offer.
+
+# 跟 | 你 | 开个玩笑 | 你 | 都 | 受不了?
+# follow/with | you | make a joke/joking | you | all/entirely | cann't stand
+# Can't you take a joke?
+
+# 看
+# kàn
+# to see, to look at, to read, to watch, to consider, to regard as, to view as, to treat as, to judge, (after repeated verb) to give it a try, depending on (how you're judging), to visit, to call on, to treat (an illness), to look after, Watch out! (for a danger),
+
+# 她 | 看 | 了 | 他 | 一 | 眼。
+# she/her | to look at | to finish | he/him | a/one | eye/look
+# He glanced/glimpsed at her.
+# He gave her a glance.
+
+# 你 | 看上去 | 很 | 热。
+# you | look like/seem to | very/quite | hot/heat/fever
+# You look hot.
+
+# 我 | 很 | 看重 | 你的 | 看法。
+# I/me | very/quite | value | your | view/opinion
+# I value your opinion very much.
+# Your point of view is very dear to me.
+# I have high regard for your opinion.
+
+# 医生 | 把 | 我的 | 病 | 看 | 好了。
+# doctor | handle/grasp | my/mine | disease/illness/sickness | to treat | well
+# The doctor cured my illness.
+
+# 先 | 等一等 | 看。
+# first/before/front | wait | to give it a try
+# Let's wait and see.
+
+# 看见
+# kàn jiàn
+# to see, to catch sight of,
+
+# 我 | 看见 | 他 | 跳 | 上 | 出租车。
+# I/me | to catch sight of | he/him | to hop/to jump/to leap  | on/onto | taxi
+# I saw him hop on a taxi.
+
+# 你 | 没 | 看见 | 我 | 在 | 工作 | 吗?
+# you | no/not | to see | I/me | exist | work/to work | mood auxiliary
+# Can't you see I'm working?
+
+# 块
+# kuài
+# lump (of earth), chunk, piece, classifier for pieces of cloth, cake, soap etc, colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc), usually as 塊錢|块钱,
+
+# 一 | 块 | 豆腐
+# one/a | chunk/piece | tofu/bean curd
+# a chunk of tofu
+
+# 一 | 块 | 糖
+# one/a | lump/piece | sugar/candy
+# a lump of sugar
+# a piece of candy
+
+# 两 | 块 | 钱
+# two | colloquial word for yuan | money
+# two yuan
+
+# 来
+# lái
+# to come, to arrive, to come round, ever since, next,
+
+# 来 | 年，| 我 | 还 | 会 | 来 | 这里。
+# next | year | I/me | also/still/yet | can/will/be likely to | to come | here
+# The coming year, I will also come here.
+
+# 大家 | 来 | 讨论。
+# everyone | to take place | to discuss/discussion
+# Everyone, let's discuss.
+
+# 把 | 车 | 开 | 过来
+# handle/grasp | car/vehicle | to drive | coming/coming over
+# pull over
+# to drive the car here
+
+# 看来 | 要 | 下雨 | 了。
+# look like/seem | want/will | to rain/raining | to finish
+# It's going to rain.
+# it looks like rain.
+
+# 老师
+# lǎo shī
+# teacher, CL:個|个,位[wèi],
+
+# 大学 | 里 | 有 | 三百来个 | 老师。
+# university/college | in/inside | have | about three hundred | teacher
+# There are about three hundred teacher in the university.
+
+# 兴趣 | 是 | 最好的 | 老师。
+# interest | be/exist | best | teacher
+# Interest is the best teacher.
+
+# 了
+# le
+# (modal particle intensifying preceding clause), (completed action marker),
+
+# 看 | 了 | 场 | 电影
+# to see | completed action marker | field | movie/film
+# watched a movie
+
+# 今天 | 下雨 | 了。
+# today | to rain | completed action marker
+# It rained today.
+
+# 我 | 明白 | 了。
+# I | to understand/clear | completed action marker
+# I see.
+# I understand.
+
+# 你 | 早些 | 来 | 就 | 好了。
+# you | earlier | to come/to arrive | just/only
+# If you had only arrived earlier!
+
+# 冷
+# lěng
+# cold,
+
+# 这个 | 菜 | 需要 | 冷 | 藏。
+# this/these | dish/vegetables | must/need | cold/to chill | to store/lay by
+# This dish need to be refrigerated.
+
+# 今天 | 很 | 冷。
+# today | quite/very | cold
+# Today is very cold.
+
+# 他 | 很 | 冷淡。
+# he/him | quite/very | cold/indifferent
+# He is very cold.
+
+# 这部 | 电影 | 是 | 个 | 冷门。
+# this | movie/flim | be | a/one | unpopular
+# This flim turns out to be unpopular.
+
+# 里
+# lǐ
+# li (Chinese mile), 500 meters (modern), home, hometown, village, neighborhood, administrative unit,
+
+# 零
+# líng
+# zero, nought, zero sign, fractional, fragmentary, odd (of numbers), (placed between two numbers to indicate a smaller quantity followed by a larger one), fraction, (in mathematics) remainder (after division), extra, to wither and fall, to wither,
+
+# 我没有零钱。
+
+# 这还不及我的一个零头。
+
+# 这样做效果等于零。
+
+# 花朵凋零了。
+
+
