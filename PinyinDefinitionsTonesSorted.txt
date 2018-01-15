@@ -968,6 +968,56 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 都	All	dōu	dou	1	
 了	is	le	le	1	
 年	year	nián	nian	2	
@@ -982,7 +1032,8 @@
 還	also	hái	hai	2	
 道	way	dào	dao	4	
 
-過	Too	guò	guo	4	
+過	for	guò	guo	4	
+
 這	This	zhè	zhe	4	
 这	this	zhè	zhe	4	9	
 还	still	hái	hai	2	9	
@@ -1009,7 +1060,8 @@
 
 看	Look	kàn	kan	4	
 的	of	de	de	1	
-發	hair	fā	fa	1	
+發	ray	fā	fa	1	
+
 當	when	dāng	dang	1	
 电	electricity	diàn	dian	4	9	
 用	use	yòng	yong	4	
@@ -1049,7 +1101,8 @@
 想	think	xiǎng	xiang	3	
 
 心	heart	xīn	xin	1	
-得	Get it	de	de	1	
+得	Get it	dé	de	2	
+
 
 後	after	hòu	hou	4	
 
@@ -1099,7 +1152,8 @@
 出	Out	chū	chu	1	
 們	plural	men	men	1	9	
 個	One	ge	ge	5	
-信	letter	xìn	xin	4	
+信	faith	xìn	xin	4	
+
 來	come	lái	lai	2	
 你	you	nǐ	ni	3	
 何	what	hé	he	2	
@@ -1108,12 +1162,14 @@
 以	to	yǐ	yi	3	
 他	he	tā	ta	1	
 人	people	rén	ren	2	
-交	cross	jiāo	jiao	1	
+交	meet	jiāo	jiao	1	
+
 了	is	le	le	1	
 也	and also	yě	ye	3	
 之	it	zhī	zhi	1	9	
 为	do	wèi	wei	4	9	
 中	in	zhōng	zhong	1	
+
 个	piece	gè	ge	4	9	
 不	Do not	bù	bu	4	
 下	under	xià	xia	4	
@@ -1125,6 +1181,8 @@
 者	by	zhě	zhe	3	8	
 神	God	shén	shen	2	
 見	see	jiàn	jian	4	
+
+
 行	do	xíng	xing	2	
 
 度	degree	dù	du	4	
@@ -1141,7 +1199,8 @@
 便	Then	biàn	bian	4	
 論	s	lùn	lun	4	
 錄	record	lù	lu	4	
-路	road	lù	lu	4	
+路	way	lù	lu	4	
+
 老	old	lǎo	lao	3	
 樂	happy	lè	le	4	8	
 金	gold	jīn	jin	1	8	
@@ -1151,6 +1210,8 @@
 龍	dragon	lóng	long	2	8	
 黨	gang	dǎng	dang	3	8	
 點	point	diǎn	dian	3	
+
+
 黃	yellow	huáng	huang	2	
 鳳	phoenix	fèng	feng	4	8	
 高	high	gāo	gao	1	
@@ -1168,7 +1229,8 @@
 題	question	tí	ti	2	
 頭	head	tóu	tou	2	
 音	sound	yīn	yin	1	8	
-面	surface	miàn	mian	4	
+面	face	miàn	mian	4	
+
 非	not	fēi	fei	1	8	
 需	need	xū	xu	1	8	
 難	difficult	nán	nan	2	
@@ -1222,7 +1284,8 @@
 转	turn	zhuàn	zhuan	4	
 车	car	chē	che	1	
 轉	turn	zhuǎn	zhuan	3	
-較	More	jiào	jiao	4	
+較	more	jiào	jiao	4	
+
 軍	army	jūn	jun	1	8	
 車	car	chē	che	1	
 身	body	shēn	shen	1	8	
@@ -1264,7 +1327,7 @@
 讀	read	dú	du	2	
 議	consult	yì	yi	4	8	
 識	recognize	shí	shi	2	8	
-謝	thank	xiè xiè xie	xie xie xie	44	
+謝	thank	xiè xiè xie	xie	44	
 講	speak	jiǎng	jiang	3	
 論	s	lùn	lun	4	
 課	class	kè	ke	4	
@@ -1275,7 +1338,9 @@
 話	speech	huà	hua	4	8	
 試	test	shì	shi	4	
 訴	accuse	sù	su	4	8	
-許	Xu	xǔ	xu	3	
+許	say	xǔ	xu	3	
+
+
 設	Set	shè	she	4	
 記	Remember	jì	ji	4	
 討	beg	tǎo	tao	3	8	
@@ -1285,12 +1350,13 @@
 觉	conscious	jué	jue	2	8	
 视	inspect	shì	shi	4	8	
 观	see	guān	guan	1	8	
-见	see	jiàn	jian	4	8	
+见	see	jiàn	jian	4		
 觀	view	guān	guan	1	
 
 覺	conscious	jué	jue	2	8	
 視	inspect	shì	shi	4	8	
-見	see	jiàn	jian	4	
+見	jiàn	jian	4	
+
 西	west	xī	xi	1	
 裡	in	lǐ	li	3	
 裝	Installed	zhuāng	zhuang	1	
@@ -1336,7 +1402,8 @@
 组	class	zǔ	zu	3	8	
 级	level	jí	ji	2	8	
 總	total	zǒng	zong	3	
-線	thread	xiàn	xian	4	8	
+線	line	xiàn	xian	4	
+
 網	net	wǎng	wang	3	8	
 經	through	jīng	jing	1	
 統	govern	tǒng	tong	3	8	
@@ -1391,6 +1458,8 @@
 片	sheet	piàn	pian	4	
 爱	love	ài	ai	4	8	
 点	point	diǎn	dian	3	
+
+
 灣	bay	wān	wan	1	
 滿	full	mǎn	man	3	
 满	fill	mǎn	man	3	8	
@@ -1400,7 +1469,8 @@
 流	flow	liú	liu	2	
 活	live	huó	huo	2	
 決	decide	jué	jue	2	8	
-求	seek	qiú	qiu	2	
+求	ask	qiú	qiu	2	
+
 
 水	water	shuǐ	shui	3	
 氣	air	qì	qi	4	
@@ -1456,7 +1526,8 @@
 教	teach	jiāo	jiao	1	
 故	Therefore	gù	gu	4	
 政	government	zhèng	zheng	4	8	
-放	put	fàng	fang	4	
+放	set free	fàng	fang	4	
+
 改	change	gǎi	gai	3	
 收	draw in	shōu	shou	1	
 
@@ -1490,7 +1561,7 @@
 总	always	zǒng	zong	3	
 怪	strange	guài	guai	4	
 性	nature	xìng	xing	4	8	
-思	think	sī	si	lustre	lín	lin	2	8	
+思	think	sī	si	1	8	
 怎	what	zěn	zen	3	8	
 念	Read	niàn	nian	4	
 快	fast	kuài	kuai	4	
@@ -1505,7 +1576,7 @@
 引	lead	yǐn	yin	3	
 式	style	shì	shi	4	8	
 开	open	kāi	kai	1	8	
-建	build	jiàn	jian	4	8	
+建	build	jiàn	jian	4		
 度	degree	dù	du	4	
 应	should	yīng	ying	1	8	
 幾	a few	jǐ	ji	3	
@@ -1526,7 +1597,8 @@
 
 山	mountain	shān	shan	1	
 少	less	shǎo	shao	3	
-專	monopolize	zhuān	zhuan	1	8	
+專	focus on	zhuān	zhuan	1	
+
 將	will	jiāng	jiang	1	
 将	will	jiāng	jiang	1	8	
 寫	write	xiě	xie	3	
@@ -1629,7 +1701,8 @@
 
 制	system	zhì	zhi	4	8	
 利	gains	lì	li	4	8	
-別	do not	bié	bie	2	
+別	other	bié	bie	2	
+
 则	then	zé	ze	2	
 
 分	Minute	fēn	fen	1	
@@ -1676,6 +1749,7 @@
 任	let	rèn	ren	4	
 
 件	Pieces	jiàn	jian	4	
+
 代	generation	dài	dai	4	
 从	from	cóng	cong	2	8	
 今	now	jīn	jin	1	8	
@@ -1697,7 +1771,8 @@
 业	profession	yè	ye	4	8	
 世	generation	shì	shi	4	8	
 且	even	qiě	qie	3	
-专	monopolize	zhuān	zhuan	1	8	
+专	focus on	zhuān	zhuan	1	
+
 三	three	sān	san	1	
 善	good	shàn	shan	4	7	
 免	Free	miǎn	mian	3	7	
@@ -1728,7 +1803,8 @@
 浪	wave	làng	lang	4	7	
 拉	Pull	lā	la	1	
 爛	bad	làn	lan	4	
-落	fall	luò	luo	4	
+落	drop	luò	luo	4	
+
 
 黑	black	hēi	hei	1	
 麻	hemp	má	ma	2	7	
@@ -1793,13 +1869,14 @@
 阳	light	yáng	yang	2	7	
 防	defend	fáng	fang	2	7	
 闻	hear	wén	wen	2	7	
-键	key	jiàn	jian	4	7	
+键	key	jiàn	jian	4		
 铭	inscribe	míng	ming	2	7	
 铁	iron	tiě	tie	3	7	
-钟	clock	zhōng	zhong	1	7	
+钟	clock	zhōng	zhong	1		
 鐵	iron	tiě	tie	3	7	
 鐘	bell	zhōng	zhong	1	
-鍵	key	jiàn	jian	4	7	
+
+鍵	key	jiàn	jian	4		
 銘	inscribe	míng	ming	2	7	
 野	field	yě	ye	3	7	
 里	in	lǐ	li	3	
@@ -1863,7 +1940,7 @@
 诸	various	zhū	zhu	1	7	
 误	err	wù	wu	4	7	
 详	detailed	xiáng	xiang	2	7	
-诚	sincere	cheer	zhèn	zhen	4	7	
+诚	sincere	zhèn	zhen	4	7	
 词	words	cí	ci	2	7	
 评	appraise	píng	ping	2	7	
 证	prove	zhèng	zheng	4	7	
@@ -1876,7 +1953,7 @@
 談	talk	tán	tan	2	
 調	Tune	diào	diao	4	
 誤	err	wù	wu	4	7	
-誠	sincere	cheer	zhèn	zhen	4	7	
+誠	sincere	zhèn	zhen	4	7	
 詳	detailed	xiáng	xiang	2	7	
 詞	word	cí	ci	2	
 評	appraise	píng	ping	2	7	
@@ -1900,10 +1977,10 @@
 蘭	orchid	lán	lan	2	7	
 藝	art	yì	yi	4	7	
 藍	blue	lán	lan	2	
-薦	offer	jiàn	jian	4	7	
+薦	offer	jiàn	jian	4		
 蓝	blue	lán	lan	2	7	
 葉	leaf	yè	ye	4	
-落	fall	luò	luo	4	7	
+落	drop	luò	luo	4		
 营	encampment	yíng	ying	2	7	
 萤	glow-worm	yíng	ying	2	7	
 莫	negative	mò	mo	4	7	
@@ -1928,7 +2005,8 @@
 聖	holy	shèng	sheng	4	7	
 职	duty	zhí	zhi	2	7	
 聊	chat	liáo	liao	2	
-翻	cross	fān	fan	1	
+翻	turn	fān	fan	1	
+
 習	practice	xí	xi	2	7	
 群	group	qún	qun	2	
 羅	Romans	luó	luo	2	
@@ -1946,7 +2024,7 @@
 继	continue	jì	ji	4	7	
 络	enmesh	luò	luo	4	7	
 绍	continue	shào	shao	4	7	
-终	end	zhōng	zhong	1	7	
+终	end	zhōng	zhong	1		
 细	careful	xì	xi	4	
 练	practice	liàn	lian	4	7	
 纸	paper	zhǐ	zhi	3	7	
@@ -1962,7 +2040,7 @@
 維	maintain	wéi	wei	2	7	
 絡	enmesh	luò	luo	4	7	
 絕	cut	jué	jue	2	7	
-終	end	zhōng	zhong	1	7	
+終	end	zhōng	zhong	1		
 紹	continue	shào	shao	4	7	
 細	fine	xì	xi	4	
 素	plain	sù	su	4	7	
@@ -1972,12 +2050,12 @@
 約	approximately	yuē	yue	1	
 紀	record	jì	ji	4	7	
 精	fine	jīng	jing	1	
-簽	humble	qiān	qian	1	
+簽		qiān	qian	1	
 簡	simple	jiǎn	jian	3	7	
 篇	Articles	piān	pian	1	
 節	Section	jié	jie	2	
 简	simple	jiǎn	jian	3	7	
-签	humble	qiān	qian	1		
+签		qiān	qian	1		
 策	scheme	cè	ce	4	7	
 答	answer	dá	da	2	7	
 筆	pen	bǐ	bi	3	
@@ -2019,7 +2097,8 @@
 田	field	tián	tian	2	7	
 產	produce	chǎn	chan	3	
 甚	very	shèn	shen	4	
-環	ring	huán	huan	2	7	
+環	around	huán	huan	2	
+
 琴	Piano	qín	qin	2	
 环	ring	huán	huan	2	7	
 率	rate	shuài	shuai	4	
@@ -2069,7 +2148,8 @@
 況	condition	kuàng	kuang	4	7	
 治	cure	zhì	zhi	4	
 油	oil	yóu	you	2	
-江	yangzi	jiāng	jiang	1	7	
+江	River	jiāng	jiang	1	
+
 永	long	yǒng	yong	3	7	
 毛	hair	máo	mao	2	
 毕	end	bì	bi	4	7	
@@ -2078,14 +2158,17 @@
 殺	kill	shā	sha	1	
 段	part	duàn	duan	4	
 
-歸	Go back	guī	gui	1	
+歸	believe	guī	gui	1	
+
+
 歷	past	lì	li	4	7	
 歲	year old	suì	sui	4	
 武	military	wǔ	wu	3	7	
 步	step	bù	bu	4	7	
 止	only	zhǐ	zhi	3	
 歉	deficient	qiàn	qian	4	7	
-欲	desire	yù	yu	4	7	
+欲	want	yù	yu	4	
+
 欣	happy	xīn	xin	1	7	
 檢	check	jiǎn	jian	3	7	
 樹	tree	shù	shu	4	
@@ -2094,7 +2177,8 @@
 構	frame	gòu	gou	4	7	
 榮	glory	róng	rong	2	7	
 概	Probably	gài	gai	4	
-極	extreme	jí	ji	2	7	
+極	very	jí	ji	2	
+
 楚	clear	chǔ	chu	3	7	
 楊	willow	yáng	yang	2	7	
 棒	Baton	bàng	bang	4	
@@ -2153,7 +2237,8 @@
 按	push	àn	an	4	7	
 择	select	zé	ze	2	7	
 拜	bow	bài	bai	4	7	
-招	tease	zhāo	zhao	1	
+招	attract	zhāo	zhao	1	
+
 
 
 拉	Ezra	lā	la	1	
@@ -2250,7 +2335,8 @@
 宜	suitable	yí	yi	2	7	
 官	official	guān	guan	1	
 宗	lineage	zōng	zong	1	7	
-守	Shou	shǒu	shou	3	
+守	observe	shǒu	shou	3	
+
 存	exist	cún	cun	2	7	
 媽	mother	mā	ma	1	7	
 威	power	wēi	wei	1	
@@ -2325,7 +2411,7 @@
 半	half	bàn	ban	4	
 午	noon	wǔ	wu	3	7	
 升	arise	shēng	sheng	1	7	
-千	thousandhumble	qiān	qian	1	
+千	thousand	qiān	qian	1	
 
 医	cure	yī	yi	1	7	
 包	package	bāo	bao	1	
@@ -2334,14 +2420,14 @@
 势	power	shì	shi	4	7	
 努	strive	nǔ	nu	3	7	
 助	help	zhù	zhu	4	7	
-劍	sword	jiàn	jian	4	7	
+劍	sword	jiàn	jian	4	
 劉	surname	liú	liu	2	7	
 劇	opera	mountain	jù	ju	4	
 劃	divide	huà	hua	4	7	
 創	Create	chuàng	chuang	4	
 剧	opera	mountain	jù	ju	4	
 剛	just	gāng	gang	1	
-剑	sword	jiàn	jian	4	7	
+剑	sword	jiàn	jian	4	
 刻	engraved	kè	ke	4	
 判	Judgment	pàn	pan	4	
 初	beginning	chū	chu	1	7	
@@ -2354,7 +2440,7 @@
 击	hit	jí	ji	2	
 冷	cold	lěng	leng	3	
 养	raise	yǎng	yang	3	7	
-典	law	diǎn	dian	3	7	
+典	law	stay	diǎn	dian	3	
 具	tool	jù	ju	4	
 兵	Soldiers	bīng	bing	1	
 兰	orchid	lán	lan	2	7	
@@ -2450,7 +2536,7 @@
 魂	soul	hún	hun	2	6	
 鬱	luxuriant	yù	yu	4	6	
 鬧	trouble	nào	nao	4	
-鬥	struggle	measures	dòu	dou	4	
+鬥	measures	dòu	dou	4	
 鬆	lax	sōng	song	1	6	
 髮	hair	fà	fa	4	6	
 骨	bone	gǔ	gu	3	6	
@@ -2534,7 +2620,8 @@
 阴	dark	yīn	yin	1	6	
 阔	broad	kuò	kuo	4	6	
 阐	explain	chǎn	chan	3	6	
-阁	chamber	gé	ge	2	6	
+阁	who	gé	ge	2	
+
 闹	trouble	nào	nao	4	
 闷	gloomy	mèn	men	4	6	
 闭	shut	bì	bi	4	6	
@@ -2543,13 +2630,14 @@
 闊	broad	kuò	kuo	4	6	
 闆	boss	bǎn	ban	3	6	
 閱	examine	yuè	yue	4	6	
-閣	chamber	gé	ge	2	6	
+閣	who	gé	ge	2	
+
 閒	leisure	xián	xian	2	6	
 閉	shut	bì	bi	4	6	
 閃	flash	shǎn	shan	3	6	
 镜	mirror	jìng	jing	4	6	
 镇	town	zhèn	zhen	4	6	
-锺	cup	zhōng	zhong	1	6	
+锺	cup	zhōng	zhong	1		
 锦	beautiful	jǐn	jin	3	
 锅	cooking-pot	guō	guo	1	6	
 锁	lock	suǒ	suo	3	6	
@@ -2561,11 +2649,11 @@
 钢	steel	gāng	gang	1	6	
 钓	fish	diào	diao	4	6	
 针	Proverbs	zhēn	zhen	1	6	
-鑑	mirror	jiàn	jian	4	6	
+鑑	mirror	jiàn	jian	4	
 鏡	mirror	jìng	jing	4	6	
 鎮	town	zhèn	zhen	4	6	
 鎖	lock	suǒ	suo	3	6	
-鍾	cup	zhōng	zhong	1	6	
+鍾	cup	zhōng	zhong	1		
 鍋	saucepan	guō	guo	1	6	
 錦	beautiful	jǐn	jin	3	
 鋼	steel	gāng	gang	1	6	
@@ -2579,7 +2667,8 @@
 針	Proverbs	zhēn	zhen	1	6	
 采	collect	cǎi	cai	3	6	
 醜	ugly	chǒu	chou	3	
-醒	startle	xǐng	xing	3	6	
+醒	wake up	xǐng	xing	3	
+
 醉	drunk	zuì	zui	4	
 酸	acid	suān	suan	1	
 酷	cool	kù	ku	4	
@@ -2600,7 +2689,7 @@
 避	avoid	bì	bi	4	6	
 遺	lose	yí	yi	2	
 
-遷	humble	qiān	qian	1		
+遷		qiān	qian	1		
 遲	late	chí	chi	2	6	
 遭	By being	zāo	zao	1	
 遜	humble	xùn	xun	4	6	
@@ -2626,7 +2715,7 @@
 迟	late	chí	chi	2	6	
 违	disobey	wéi	wei	2	6	
 迅	quick	xùn	xun	4	6	
-迁	humble	qiān	qian	1	
+迁		qiān	qian	1	
 農	agriculture	nóng	nong	2	6	
 辱	humiliate	rǔ	ru	3	6	
 辯	debate	biàn	bian	4	
@@ -2660,8 +2749,8 @@
 距	distance	jù	ju	4	
 跌	fall	dié	die	2	
 跃	skip	yuè	yue	4	6	
-趨	hasten	take	qū	qu	1	6	
-趋	hasten	take	qū	qu	1	6	
+趨	hasten	qū	qu	1	6	
+趋	hasten	qū	qu	1	6	
 赤	red	chì	chi	4	6	
 赢	win	yíng	ying	2	6	
 赠	present	zèng	zeng	4	
@@ -2672,7 +2761,7 @@
 赌	bet	dǔ	du	3	6	
 赋	tax	fù	fu	4	6	
 贺	congratulate	hè	he	4	6	
-贱	mean	jiàn	jian	4	6	
+贱	mean	jiàn	jian	4	
 购	buy	gòu	gou	4	6	
 贪	covet	tān	tan	1	6	
 货	goods	huò	huo	4	6	
@@ -2681,7 +2770,8 @@
 贡	tribute	gòng	gong	4	6	
 贞	virtuous	zhēn	zhen	1	6	
 贝	seshell	bèi	bei	4	6	
-贏	win	yíng	ying	2	6	
+贏	attack	yíng	ying	2	
+
 贊	help	zàn	zan	4	6	
 贈	Gift	zèng	zeng	4	
 購	purchase	gòu	gou	4	
@@ -2690,6 +2780,7 @@
 賭	bet	dǔ	du	3	6	
 賦	tax	fù	fu	4	6	
 賤	cheap	jiàn	jian	4	
+
 賢	virtuous	xián	xian	2	6	
 賜	Give	cì	ci	4	
 賓	guest	bīn	bin	1	6	
@@ -2805,9 +2896,9 @@
 芳	fragrant	fāng	fang	1	6	
 芬	fragrance	fēn	fen	1	6	
 艾	Ai	ài	ai	4	
-艦	warship	jiàn	jian	4	6	
+艦	warship	jiàn	jian	4		
 船	ferry	chuán	chuan	2	
-舰	warship	jiàn	jian	4	6	
+舰	warship	jiàn	jian	4		
 航	sail	háng	hang	2	6	
 舟	boat	give	zhōu	zhou	1	6	
 舒	unfold	shū	shu	1	6	
@@ -2900,12 +2991,13 @@
 範	pattern	fàn	fan	4	6	
 箱	box	xiāng	xiang	1	
 
-箭	arrow	jiàn	jian	4	6	
+箭	arrow	jiàn	jian	4		
 筹	chip	chóu	chou	2	6	
 筋	muscles	jīn	jin	1	6	
 笨	stupid	bèn	ben	4	
 符	tally	fú	fu	2	6	
-笛	whistle	dí	di	2	6	
+笛	flute	dí	di	2	
+
 競	contend	jìng	jing	4	6	
 端	end	duān	duan	1	6	
 童	child	tóng	tong	2	6	
@@ -2967,14 +3059,16 @@
 盾	shield	dùn	dun	4	6	
 盼	Hope	pàn	pan	4	
 盤	plate	pán	pan	2	
-監	supervise	jiān	jian	1	6	
+監	prison	jiān	jian	1	
+
 盟	swear	méng	meng	2	6	
 盜	rob	dào	dao	4	6	
 盛	Sheng	shèng	sheng	4	
 盘	tray	pán	pan	2	6	
 盖	build	gài	gai	4	
 
-监	supervise	jiān	jian	1	6	
+监	prison	jiān	jian	1	
+
 盃	glass	bēi	bei	1	6	
 皇	royal	huáng	huang	2	6	
 癡	silly	chī	chi	1	6	
@@ -3022,10 +3116,10 @@
 犯	criminal	fàn	fan	4	
 
 犧	sacrifice	xī	xi	1	6	
-牽	holdhumble	qiān	qian	1	
+牽	hold	qiān	qian	1	
 
 牺	sacrifice	xī	xi	1	6	
-牵	holdhumble	qiān	qian	1	
+牵	hold	qiān	qian	1	
 
 牲	animal	shēng	sheng	1	6	
 牧	shepherd	mù	mu	4	6	
@@ -3066,6 +3160,7 @@
 潛	hide	qián	qian	2	6	
 潔	clean	jié	jie	2	6	
 漸	gradually	jiàn	jian	4	
+
 漲	inflation	zhǎng	zhang	3	6	
 漏	leak	lòu	lou	4	
 漂	float	piào	piao	4	6	
@@ -3083,7 +3178,7 @@
 港	port	gǎng	gang	3	6	
 渡	Crossing	dù	du	4	
 減	decrease	jiǎn	jian	3	6	
-渐	gradually	jiàn	jian	4	6	
+渐	gradually	jiàn	jian	4		
 淺	shallow	qiǎn	qian	3	
 混	mix	hùn	hun	4	
 淨	net	jìng	jing	4	
@@ -3121,7 +3216,7 @@
 沖	pour	chōng	chong	1	6	
 沉	sink	chén	chen	2	6	
 沈	sink	chén	chen	2	6	
-汽	steam	laugh	qì	qi	4	6	
+汽	steam	qì	qi	4		
 汪	vast	wāng	wang	1	6	
 汤	soup	tāng	tang	1	6	
 污	filthy	wū	wu	1	6	
@@ -3136,7 +3231,8 @@
 残	injure	cán	can	2	6	
 殊	different	shū	shu	1	6	
 歐	ohm	ōu	ou	1	
-款	paragraph	kuǎn	kuan	3	
+款	custom	kuǎn	kuan	3	
+
 欽	respect	qīn	qin	1	6	
 欺	cheat	qī	qi	1	6	
 欧	ohm	ōu	ou	1	
@@ -3219,7 +3315,8 @@
 擦	rub	cā	ca	1	
 擠	squeeze	jǐ	ji	3	
 擎	support	qíng	qing	2	6	
-操	fuck	cāo	cao	1	
+操	speak	cāo	cao	1	
+
 擋	obstruct	dǎng	dang	3	6	
 擁	embrace	yōng	yong	1	6	
 撿	pick up	jiǎn	jian	3	6	
@@ -3269,7 +3366,8 @@
 拖	drag	tuō	tuo	1	
 拔	uproot	bá	ba	2	6	
 拒	Refused	jù	ju	4	
-拍	Shoot	pāi	pai	1	
+拍	beat	pāi	pai	1	
+
 拋	throw	pāo	pao	1	
 拆	tear	chāi	chai	1	
 抽	Pumping	chōu	chou	1	
@@ -3281,7 +3379,8 @@
 折	snap	zhé	zhe	2	6	
 抗	resist	kàng	kang	4	6	
 抄	copy	chāo	chao	1	6	
-批	batch	pī	pi	1	
+批	job	pī	pi	1	
+
 扯	raise	chě	che	3	6	
 扬	scatter	yáng	yang	2	6	
 扫	sweep	sǎo	sao	3	6	
@@ -3294,7 +3393,8 @@
 
 截	cut	jié	jie	2	
 戒	Quit	jiè	jie	4	
-懼	fear	mountain	jù	ju	4	
+懼	fear	jù	ju	4	
+
 懶	lazy	lǎn	lan	3	6	
 懒	lazy	lǎn	lan	3	6	
 憾	remorse	hàn	han	4	6	
@@ -3313,7 +3413,8 @@
 愉	pleasant	yú	yu	2	6	
 愈	more	yù	yu	4	6	
 愁	worry	chóu	chou	2	
-惹	irritate	rě	re	3	6	
+惹	ask	rě	re	3	
+
 惱	angered	nǎo	nao	3	6	
 惯	habit	guàn	guan	4	6	
 惨	sad	cǎn	can	3	6	
@@ -3340,7 +3441,7 @@
 怒	anger	nù	nu	4	6	
 忽	suddenly	hū	hu	1	6	
 忧	sad	yōu	you	1	6	
-忠	loyalty	zhōng	zhong	1	6	
+忠	loyalty	zhōng	zhong	1		
 忍	endure	rěn	ren	3	6	
 忌	jealous	jì	ji	4	6	
 徹	penetrate	chè	che	4	6	
@@ -3356,7 +3457,8 @@
 彭	surname	péng	peng	2	6	
 彬	cultivated	bīn	bin	1	6	
 彥	elegant	yàn	yan	4	6	
-彎	bend	wān	wan	1	6	
+彎	corner	wān	wan	1	
+
 彌	extensive	mí	mi	2	6	
 弱	weak	ruò	ruo	4	6	
 弯	bend	wān	wan	1	6	
@@ -3439,7 +3541,8 @@
 审	examine	shěn	shen	3	6	
 宙	universe	zhòu	zhou	4	6	
 宏	wide	hóng	hong	2	6	
-宋	surname	sòng	song	4	6	
+宋	Song	sòng	song	4	
+
 宇	house	yǔ	yu	3	6	
 孫	grandchild	sūn	sun	1	6	
 孤	solitary	gū	gu	1	
@@ -3572,7 +3675,8 @@
 危	dangerous	wēi	wei	1	6	
 卒	soldier	zú	zu	2	6	
 勿	without	wù	wu	4	6	
-勸	encourage	quàn	quan	4	
+勸	persuade	quàn	quan	4	
+
 勵	strive	lì	li	4	6	
 勤	industrious	qín	qin	2	6	
 勞	labor	láo	lao	2	6	
@@ -3630,7 +3734,7 @@
 偶	chance	ǒu	ou	3	
 偵	spy	zhēn	zhen	1	6	
 側	side	cè	ce	4	6	
-健	strong	jiàn	jian	4	6	
+健	strong	jiàn	jian	4	
 偏	slanting	piān	pian	1	6	
 倾	upset	qīng	qing	1	6	
 倫	relationships	lún	lun	2	6	
@@ -3672,7 +3776,8 @@
 亨	smoothly	hēng	heng	1	6	
 亡	death	wáng	wang	2	6	
 井	well	jǐng	jing	3	
-互	mutually	hù	hu	4	6	
+互	each other	hù	hu	4	
+
 云	say	yún	yun	2	6	
 亏	lose	kuī	kui	1	6	
 于	in	yú	yu	2	
@@ -3774,7 +3879,8 @@
 骷	skeleton	kū	ku	1	
 骰	die	tóu	tou	2	
 骯	dirty	āng	ang	1	
-骤	procedure	zhòu	zhou	4	
+骤	sudden	zhòu	zhou	4	
+
 骋	hasten	chěng	cheng	3	
 骇	terrify	hài	hai	4	
 骆	camel	luò	luo	4	
@@ -3786,7 +3892,8 @@
 驰	hurry	chí	chi	2	
 驯	tame	xún	xun	2	
 驢	donkey	lǘ	lu	2	
-驟	procedure	zhòu	zhou	4	
+驟	sudden	zhòu	zhou	4	
+
 驕	haughty	jiāo	jiao	1	
 驀	suddenly	mò	mo	4	
 騰	fly	téng	teng	2	
@@ -3900,7 +4007,9 @@
 陡	steep	dǒu	dou	3	
 陋	narrow	lòu	lou	4	
 阱	pitfall	jǐng	jing	3	
-阮	ruan	ruǎn	ruan	3	
+阮	so	ruǎn	ruan	3	
+
+
 阪	slope	bǎn	ban	3	
 阙	palace	quē	que	1	
 阕	close	què	que	4	
@@ -3943,7 +4052,7 @@
 铜	copper	tóng	tong	2	
 铐	shackles	kào	kao	4	
 铎	bell	duó	duo	2	
-铅	lead	leadhumble	qiān	qian	1	
+铅	lead	qiān	qian	1	
 
 
 钻	drill	zuān	zuan	1	
@@ -3964,6 +4073,7 @@
 鑼	gong	luó	luo	2	
 鑰	key	yào	yao	4	
 鑒	mirror	jiàn	jian	4	
+
 鑄	melt	zhù	zhu	4	
 鐸	bell	duó	duo	2	
 鏽	rust	xiù	xiu	4	
@@ -3992,6 +4102,7 @@
 銓	weigh	quán	quan	2	
 銅	copper	tóng	tong	2	
 鉴	mirror	jiàn	jian	4	
+
 鉤	hook	gōu	gou	1	
 鉗	pincers	qián	qian	2	
 鉅	steel	mountain	jù	ju	4	
@@ -4038,7 +4149,8 @@
 遣	send	qiǎn	qian	3	
 遞	deliver	dì	di	4	
 遑	leisure	huáng	huang	2	
-遐	afar	xiá	xia	2	
+遐	there	xiá	xia	2	
+
 遂	thereupon	suì	sui	4	
 遁	hide	dùn	dun	4	
 逾	Over	yú	yu	2	
@@ -4055,7 +4167,8 @@
 迢	far	tiáo	tiao	2	
 返	return	fǎn	fan	3	
 迋	travel	wàng	wang	4	
-迄	extend	laugh	qì	qi	4	
+迄	extend	qì	qi	4	
+
 迂	doctrinaire	yū	yu	1	
 辽	distant	liáo	liao	2	
 辰	morning	chén	chen	2	
@@ -4077,9 +4190,9 @@
 輾	roll	niǎn	nian	3	
 輻	spokes	fú	fu	2	
 軸	axle	zhóu	zhou	2	
-軀	body	take	qū	qu	1	
+軀	body	qū	qu	1	
 躺	lie down	tǎng	tang	3	
-躯	body	take	qū	qu	1	
+躯	body	qū	qu	1	
 躬	body	gōng	gong	1	
 躪	oppress	lìn	lin	4	
 躏	oppress	lìn	lin	4	
@@ -4095,9 +4208,11 @@
 踹	trample	chuài	chuai	4	
 踴	leap	yǒng	yong	3	
 踐	trample	jiàn	jian	4	
+
 踌	hesitate	chóu	chou	2	
 踅	stroll	xué	xue	2	
 践	trample	jiàn	jian	4	
+
 跪	kneel	guì	gui	4	
 跨	step	kuā	kua	1	
 跤	stumble	jiāo	jiao	1	
@@ -4152,7 +4267,7 @@
 谬	error	miù	miu	4	
 谩	deceive	mán	man	2	
 谨	prudent	jǐn	jin	3	
-谦	humble	qiān	qian	1	
+谦		qiān	qian	1	
 
 
 
@@ -4177,7 +4292,7 @@
 诟	abuse	gòu	gou	4	
 诛	execute	zhū	zhu	1	
 诘	question	jí	ji	2	
-诏	decree	dog	zhào	zhao	4	
+诏	decree	zhào	zhao	4	
 诊	diagnose	zhěn	zhen	3	
 诈	cheat	zhà	zha	4	
 诅	curse	zǔ	zu	3	
@@ -4230,7 +4345,7 @@
 詠	sing	yǒng	yong	3	
 詛	curse	zǔ	zu	3	
 詗	shrewd	xiòng	xiong	4	
-詔	decree	dog	zhào	zhao	4	
+詔	decree	zhào	zhao	4	
 詐	cheat	zhà	zha	4	
 診	diagnose	zhěn	zhen	3	
 訶	curse	hē	he	1	
@@ -4262,7 +4377,8 @@
 裳	clothes	shang	shang	1	
 裙	skirt	qún	qun	2	
 裘	surname	qiú	qiu	2	
-裔	progeny	station	yì	yi	4	
+裔	offspring	yì	yi	4	
+
 裊	delicate	niǎo	niao	3	
 袭	raid	xí	xi	2	
 袜	socks	wà	wa	4	
@@ -4272,6 +4388,7 @@
 袂	sleeves	mèi	mei	4	
 袁	robe	yuán	yuan	2	
 衷	heart	zhōng	zhong	1	
+
 衰	decline	shuāi	shuai	1	
 衬	underwear	chèn	chen	4	
 衫	shirt	shān	shan	1	
@@ -4418,6 +4535,7 @@
 荫	shade	yīn	yin	1	
 荡	pond	dàng	dang	4	
 荐	repeat	jiàn	jian	4	
+
 荊	thorns	jīng	jing	1	
 茹	roots	rú	ru	2	
 茵	mattress	yīn	yin	1	
@@ -4582,7 +4700,8 @@
 绰	graceful	chuò	chuo	4	
 绮	elegant	qǐ	qi	3	
 绞	twist	jiǎo	jiao	3	
-绚	variegated	xuàn	xuan	4	
+绚	variegated	Render	xuàn	xuan	4	
+
 绒	silk	róng	rong	2	
 绑	tie	bǎng	bang	3	
 绎	interpret	station	yì	yi	4	
@@ -4625,7 +4744,8 @@
 綁	tie	bǎng	bang	3	
 絮	cotton	xù	xu	4	
 絨	silk	róng	rong	2	
-絢	variegated	xuàn	xuan	4	
+絢	variegated	Render	xuàn	xuan	4	
+
 絞	twist	jiǎo	jiao	3	
 絆	loop	bàn	ban	4	
 紳	girdle	shēn	shen	1	
@@ -4652,7 +4772,7 @@
 籽	seed	zǐ	zi	3	
 籲	appeal	yù	yu	4	
 籬	hedge	lí	li	2	
-籤	tally	leadhumble	qiān	qian	1	
+籤	tally	qiān	qian	1	
 
 
 籠	cage	lóng	long	2	
@@ -4746,7 +4866,8 @@
 磊	great	lěi	lei	3	
 磅	pound	bàng	bang	4	
 碳	carbon	tàn	tan	4	
-碘	iodine	diǎn	dian	3	
+碘	iodine	stay	diǎn	dian	3	
+
 碑	monument	bēi	bei	1	
 碌	rough	lù	lu	4	
 硷	alkaline	jiǎn	jian	3	
@@ -4758,7 +4879,8 @@
 砰	bang!	pēng	peng	1	
 砗	tridacngigas	chē	che	1	
 砖	tile	zhuān	zhuan	1	
-砌	build	laugh	qì	qi	4	
+砌	build	qì	qi	4	
+
 矿	mine	kuàng	kuang	4	
 矽	silicon	xì	xi	4	
 矶	jetty	jī	ji	1	
@@ -4792,7 +4914,8 @@
 眺	scan	tiào	tiao	4	
 眸	eye	móu	mou	2	
 眶	orbit	kuàng	kuang	4	
-眩	dizzy	xuàn	xuan	4	
+眩	dizzy	Render	xuàn	xuan	4	
+
 眨	wink	zhǎ	zha	3	
 眛	dim	mèi	mei	4	
 盲	blind	máng	mang	2	
@@ -4861,7 +4984,8 @@
 甩	discard	shuǎi	shuai	3	
 甦	resuscitate	sū	su	1	
 甄	discern	zhēn	zhen	1	
-瓷	crockery	cí	ci	2	
+瓷	porcelain	cí	ci	2	
+
 瓣	petal	bàn	ban	4	
 瓊	jade	qióng	qiong	2	
 璋	jade	zhāng	zhang	1	
@@ -4953,7 +5077,8 @@
 炭	charcoal	tàn	tan	4	
 炬	torch	mountain	jù	ju	4	
 
-炫	show off	xuàn	xuan	4	
+炫	show off	Render	xuàn	xuan	4	
+
 炜	glowing	wěi	wei	3	
 炙	roast	zhì	zhi	4	
 炒	fry	chǎo	chao	3	
@@ -5153,7 +5278,7 @@
 檯	table	tái	tai	2	
 檀	sandalwood	tán	tan	2	
 橡	rubber	xiàng	xiang	4	
-橙	orange	cheer	zhèn	zhen	4	
+橙	orange	zhèn	zhen	4	
 橘	orange	jú	ju	2	
 橄	olive	gǎn	gan	3	
 樽	goblet	zūn	zun	1	
@@ -5301,7 +5426,8 @@
 攜	carry	xié	xie	2	
 攘	seize	rǎng	rang	3	
 攔	bar	lán	lan	2	
-攏	collect	lǒng	long	3	
+攏	approach	lǒng	long	3	
+
 攀	climb	pān	pan	1	
 擻	shake	sǒu	sou	3	
 擷	collect	xié	xie	2	
@@ -5353,7 +5479,8 @@
 掳	capture	lǔ	lu	3	
 掰	rip	bāi	bai	1	
 掩	shut	yǎn	yan	3	
-掠	rob	lüè	lue	4	
+掠	take	lüè	lue	1	
+
 掙	earn	zhèng	zheng	4	
 掘	dig	jué	jue	2	
 掏	scoop	tāo	tao	1	
@@ -5382,7 +5509,8 @@
 拯	help	zhěng	zheng	3	
 拦	obstruct	lán	lan	2	
 拣	choose	jiǎn	jian	3	
-拢	collect	lǒng	long	3	
+拢	approach	lǒng	long	3	
+
 拚	risk	pàn	pan	4	
 拙	stupid	zhuō	zhuo	1	
 拘	restrain	jū	ju	1	
@@ -5400,7 +5528,9 @@
 抚	pat	fǔ	fu	3	
 抖	shake	dǒu	dou	3	
 抒	express	shū	shu	1	
-抑	repress	station	yì	yi	4	
+抑	or	yì	yi	4	
+
+
 抉	choose	jué	jue	2	
 扼	grasp	è	e	4	
 扶	support	fú	fu	2	
@@ -5420,7 +5550,7 @@
 懿	virtuous	yì	yi	4	
 懺	regret	chàn	chan	4	
 懸	hang	xuán	xuan	2	
-懲	punish	cheer	zhèn	zhen	4	
+懲	punish	zhèn	zhen	4	
 懦	weak	nuò	nuo	4	
 懋	splendid	mào	mao	4	
 懊	vexed	ào	ao	4	
@@ -5428,7 +5558,8 @@
 懇	sincere	kěn	ken	3	
 憬	rouse	jǐng	jing	3	
 憫	pity	mǐn	min	3	
-憩	rest	laugh	qì	qi	4	
+憩	rest	qì	qi	4	
+
 憨	foolish	hān	han	1	
 憧	irresolute	chōng	chong	1	
 憤	resent	fèn	fen	4	
@@ -5457,7 +5588,7 @@
 惮	dread	dàn	dan	4	
 惭	ashamed	cán	can	2	
 惫	tired	bèi	bei	4	
-惩	punish	cheer	zhèn	zhen	4	
+惩	punish	zhèn	zhen	4	
 惦	remember	diàn	dian	4	
 惟	but	wéi	wei	2	
 惚	absent-minded	hū	hu	1	
@@ -5585,7 +5716,7 @@
 屐	clogs	jī	ji	1	
 屎	feces	shǐ	shi	3	
 屍	corpse	shī	shi	1	
-屈	bend	take	qū	qu	1	
+屈	bend	qū	qu	1	
 尿	urine	niào	niao	4	
 尹	govern	yǐn	yin	3	
 尸	corpse	shī	shi	1	
@@ -5765,7 +5896,8 @@
 嗜	fancy	shì	shi	4	
 嗔	scold	chēn	chen	1	
 嗓	voice	sǎng	sang	3	
-嗆	choke	qiāng	qiang	1	
+嗆	irritate	qiāng	qiang	1	
+
 嗅	smell	xiù	xiu	4	
 喻	metaphor	yù	yu	4	
 喲	ah	yō	yo	1	
@@ -5878,7 +6010,8 @@
 劑	medicine	jì	ji	4	
 劈	split	pī	pi	1	
 剿	destroy	jiǎo	jiao	3	
-剝	peel	bō	bo	1	
+剝	strip	bō	bo	1	
+
 剖	slice	pōu	pou	1	
 剔	tick	tī	ti	1	
 剎	temple	shā	sha	1	
@@ -5993,16 +6126,18 @@
 伪	false	wěi	wei	3	
 伞	umbrella	sǎn	san	3	
 伐	subjugate	fá	fa	2	
-伏	crouch	fú	fu	2	
+伏	fell down	fú	fu	2	
+
 仿	imitate	fǎng	fang	3	
-仟	thousand	leadhumble	qiān	qian	1	
+仟	thousand	qiān	qian	1	
 
 
 仝	same	tóng	tong	2	
 仗	protector	zhàng	zhang	4	
 仕	official	shì	shi	4	
 仓	granary	cāng	cang	1	
-仆	prone	pū	pu	1	
+仆	fall	pū	pu	1	
+
 仄	slanting	zè	ze	4	
 亵	slight	xiè	xie	4	
 亭	pavilion	tíng	ting	2	
@@ -10948,7 +11083,7 @@
 𪛆	
 𪛅	
 𪛄	
-𪛃	take	qū	qu	1	
+𪛃	qū	qu	1	
 𪛂	huí	hui	2	
 𪛁	
 𪛀	xiào	xiao	4	
@@ -11040,6 +11175,7 @@
 𪙪	
 𪙩	
 𪙨	jiàn	jian	4	
+
 𪙧	qí	qi	2	
 𪙦	
 𪙥	xiè	xie	4	
@@ -11357,7 +11493,8 @@
 𪔭	
 𪔬	sāng	sang	1	
 𪔫	
-𪔪	laugh	qì	qi	4	
+𪔪	qì	qi	4	
+
 𪔩	xián	xian	2	
 𪔨	
 𪔧	
@@ -11808,7 +11945,8 @@
 𪍪	bì	bi	4	
 𪍩	mán	man	2	
 𪍨	suǒ	suo	3	
-𪍧	xuàn	xuan	4	
+𪍧	Render	xuàn	xuan	4	
+
 𪍦	liǎn	lian	3	
 𪍥	
 𪍤	mò	mo	4	
@@ -11867,7 +12005,7 @@
 𪌯	
 𪌮	shā	sha	1	
 𪌭	
-𪌬	take	qū	qu	1	
+𪌬	qū	qu	1	
 𪌫	chí	chi	2	
 𪌪	tiào	tiao	4	
 𪌩	tián	tian	2	
@@ -11975,6 +12113,7 @@
 𪋃	
 𪋂	
 𪋁	jiàn	jian	4	
+
 𪋀	
 𪊿	
 𪊾	
@@ -12044,7 +12183,7 @@
 𪉾	
 𪉽	
 𪉼	
-𪉻humble	qiān	qian	1	
+𪉻	qiān	qian	1	
 
 𪉺	
 𪉹	
@@ -12067,6 +12206,7 @@
 𪉨	chāng	chang	1	
 𪉧	tàn	tan	4	
 𪉦	jiàn	jian	4	
+
 𪉥	
 𪉤	
 𪉣	lǔ	lu	3	
@@ -12225,7 +12365,7 @@
 𪇊	pì	pi	4	
 𪇉	
 𪇈	ài	ai	4	
-𪇇humble	qiān	qian	1	
+𪇇	qiān	qian	1	
 
 𪇆	chù	chu	4	
 𪇅	
@@ -12235,6 +12375,7 @@
 𪇁	dāng	dang	1	
 𪇀	
 𪆿	jiàn	jian	4	
+
 𪆾	
 𪆽	
 𪆼	
@@ -12463,6 +12604,7 @@
 𪃝	
 𪃜	
 𪃛	jiàn	jian	4	
+
 𪃚	
 𪃙	
 𪃘	
@@ -12608,7 +12750,7 @@
 
 𪁍	jié	jie	2	
 𪁌	
-𪁋	cheer	zhèn	zhen	4	
+𪁋	zhèn	zhen	4	
 𪁊	zhì	zhi	4	
 𪁉	jiāo	jiao	1	
 𪁈	zhuàng	zhuang	4	
@@ -12985,6 +13127,7 @@
 𩻚	wú	wu	2	
 𩻙	
 𩻘	jiàn	jian	4	
+
 𩻗	bù	bu	4	
 𩻖	yǎn	yan	3	
 𩻕	
@@ -13766,7 +13909,7 @@
 𩯑	sān	san	1	
 𩯐	
 𩯏	bǔ	bu	3	
-𩯎	cheer	zhèn	zhen	4	
+𩯎	zhèn	zhen	4	
 𩯍	cóng	cong	2	
 𩯌	bō	bo	1	
 𩯋	jǐ	ji	3	
@@ -13979,7 +14122,7 @@
 𩫼	
 𩫻	
 𩫺	nǎo	nao	3	
-𩫹	cheer	zhèn	zhen	4	
+𩫹	zhèn	zhen	4	
 𩫸	
 𩫷	
 𩫶	
@@ -14068,7 +14211,7 @@
 𩪥	líng	ling	2	
 𩪤	è	e	4	
 𩪣	yì	yi	4	
-𩪢humble	qiān	qian	1	
+𩪢	qiān	qian	1	
 
 𩪡	
 𩪠	
@@ -14090,7 +14233,7 @@
 𩪐	guó	guo	2	
 𩪏	
 𩪎	mǎng	mang	3	
-𩪍	take	qū	qu	1	
+𩪍	qū	qu	1	
 𩪌	fèng	feng	4	
 𩪋	
 𩪊	biāo	biao	1	
@@ -14207,12 +14350,13 @@
 𩨛	
 𩨚	wā	wa	1	
 𩨙	yú	yu	2	
-𩨘	arm	laugh	qì	qi	4	
+𩨘	arm	qì	qi	4	
+
 𩨗	yú	yu	2	
 𩨖	
 𩨕	
 𩨔	hú	hu	2	
-𩨓humble	qiān	qian	1	
+𩨓	qiān	qian	1	
 
 𩨒	jī	ji	1	
 𩨑	tīng	ting	1	
@@ -14226,7 +14370,7 @@
 𩨉	lā	la	1	
 𩨈	yú	yu	2	
 𩨇	lóu	lou	2	
-𩨆	cheer	zhèn	zhen	4	
+𩨆	zhèn	zhen	4	
 𩨅	wèi	wei	4	
 𩨄	sōu	sou	1	
 𩨃	qián	qian	2	
@@ -14286,7 +14430,8 @@
 𩧏	jué	jue	2	
 𩧎	
 𩧍	
-𩧌	laugh	qì	qi	4	
+𩧌	qì	qi	4	
+
 𩧋	lí	li	2	
 𩧊	xiòng	xiong	4	
 𩧉	guāng	guang	1	
@@ -14465,7 +14610,7 @@
 𩤜	zhě	zhe	3	
 𩤛	yóng	yong	2	
 𩤚	duān	duan	1	
-𩤙	cheer	zhèn	zhen	4	
+𩤙	zhèn	zhen	4	
 𩤘	nǎo	nao	3	
 𩤗	zòng	zong	4	
 𩤖	chī	chi	1	
@@ -14497,7 +14642,7 @@
 𩣼	qiāng	qiang	1	
 𩣻	ǎo	ao	3	
 𩣺	bēn	ben	1	
-𩣹	take	qū	qu	1	
+𩣹	qū	qu	1	
 𩣸	fù	fu	4	
 𩣷	zuī	zui	1	
 𩣶	mǐng	ming	3	
@@ -15155,7 +15300,7 @@
 𩙬	tuí	tui	2	
 𩙫	sōu	sou	1	
 𩙪	biāo	biao	1	
-𩙩	dog	zhào	zhao	4	
+𩙩	zhào	zhao	4	
 𩙨	sù	su	4	
 𩙧	táo	tao	2	
 𩙦	bó	bo	2	
@@ -15191,7 +15336,7 @@
 𩙉	
 𩙈	sāo	sao	1	
 𩙇	suí	sui	2	
-𩙆	cheer	zhèn	zhen	4	
+𩙆	zhèn	zhen	4	
 𩙅	
 𩙄	liú	liu	2	
 𩙃	
@@ -15261,7 +15406,7 @@
 𩘃	
 𩘂	
 𩘁	liáng	liang	2	
-𩘀	dog	zhào	zhao	4	
+𩘀	zhào	zhao	4	
 𩗿	
 𩗾	liǎng	liang	3	
 𩗽	wù	wu	4	
@@ -15334,7 +15479,7 @@
 𩖺	hàn	han	4	
 𩖹	yí	yi	2	
 𩖸	háo	hao	2	
-𩖷	take	qū	qu	1	
+𩖷	qū	qu	1	
 𩖶	xuè	xue	4	
 𩖵	líng	ling	2	
 𩖴	liǔ	liu	3	
@@ -15652,7 +15797,8 @@
 𩑼	pō	po	1	
 𩑻	bì	bi	4	
 𩑺	
-𩑹	xuàn	xuan	4	
+𩑹	Render	xuàn	xuan	4	
+
 𩑸	hē	he	1	
 𩑷	mò	mo	4	
 𩑶	hú	hu	2	
@@ -16050,7 +16196,8 @@
 𩋮	fěng	feng	3	
 𩋭	
 𩋬	yáng	yang	2	
-𩋫	xuàn	xuan	4	
+𩋫	Render	xuàn	xuan	4	
+
 𩋪	nǐ	ni	3	
 𩋩	zhì	zhi	4	
 𩋨	fú	fu	2	
@@ -16059,7 +16206,8 @@
 𩋥	
 𩋤	yù	yu	4	
 𩋣	tí	ti	2	
-𩋢	xuàn	xuan	4	
+𩋢	Render	xuàn	xuan	4	
+
 𩋡	shì	shi	4	
 𩋠	miǎn	mian	3	
 𩋟	fú	fu	2	
@@ -16088,7 +16236,7 @@
 𩋉	yù	yu	4	
 𩋈	nào	nao	4	
 𩋇	
-𩋆humble	qiān	qian	1	
+𩋆	qiān	qian	1	
 
 𩋅	tà	ta	4	
 𩋄	chǒu	chou	3	
@@ -16187,7 +16335,8 @@
 𩉨	
 𩉧	fēng	feng	1	
 𩉦	
-𩉥	xuàn	xuan	4	
+𩉥	Render	xuàn	xuan	4	
+
 𩉤	
 𩉣	
 𩉢	jǐ	ji	3	
@@ -16205,6 +16354,7 @@
 𩉖	
 𩉕	guó	guo	2	
 𩉔	jiàn	jian	4	
+
 𩉓	
 𩉒	
 𩉑	
@@ -16442,6 +16592,7 @@
 𩅩	lì	li	4	
 𩅨	cén	cen	2	
 𩅧	zhōng	zhong	1	
+
 𩅦	wān	wan	1	
 𩅥	duì	dui	4	
 𩅤	
@@ -16451,6 +16602,7 @@
 𩅠	nàn	nan	4	
 𩅟	
 𩅞	zhōng	zhong	1	
+
 𩅝	ǎn	an	3	
 𩅜	
 𩅛	
@@ -16582,7 +16734,8 @@
 𩃝	
 𩃜	lā	la	1	
 𩃛	
-𩃚	xuàn	xuan	4	
+𩃚	Render	xuàn	xuan	4	
+
 𩃙	gōng	gong	1	
 𩃘	tuán	tuan	2	
 𩃗	
@@ -17192,7 +17345,7 @@
 𨹻	tiǎn	tian	3	
 𨹺	
 𨹹	bēng	beng	1	
-𨹸	dog	zhào	zhao	4	
+𨹸	zhào	zhao	4	
 𨹷	
 𨹶	jī	ji	1	
 𨹵	juǎn	juan	3	
@@ -17222,7 +17375,7 @@
 𨹝	yì	yi	4	
 𨹜	dòu	dou	4	
 𨹛	
-𨹚	cheer	zhèn	zhen	4	
+𨹚	zhèn	zhen	4	
 𨹙	tūn	tun	1	
 𨹘	xù	xu	4	
 𨹗	bīng	bing	1	
@@ -17242,7 +17395,8 @@
 𨹉	
 𨹈	shǎn	shan	3	
 𨹇	
-𨹆	xuàn	xuan	4	
+𨹆	Render	xuàn	xuan	4	
+
 𨹅	duì	dui	4	
 𨹄	
 𨹃	duǒ	duo	3	
@@ -17282,7 +17436,7 @@
 𨸢	
 𨸡	
 𨸠	
-𨸟	take	qū	qu	1	
+𨸟	qū	qu	1	
 𨸞	
 𨸝	shì	shi	4	
 𨸜	hāi	hai	1	
@@ -17359,6 +17513,7 @@
 𨷕	
 𨷔	xù	xu	4	
 𨷓	jiàn	jian	4	
+
 𨷒	fēn	fen	1	
 𨷑	
 𨷐	yūn	yun	1	
@@ -17463,6 +17618,7 @@
 𨵯	
 𨵮	xù	xu	4	
 𨵭	jiàn	jian	4	
+
 𨵬	xiàn	xian	4	
 𨵫	nüè	nue	4	
 𨵪	xié	xie	2	
@@ -17501,7 +17657,8 @@
 𨵉	yǔ	yu	3	
 𨵈	fēi	fei	1	
 𨵇	
-𨵆	laugh	qì	qi	4	
+𨵆	qì	qi	4	
+
 𨵅	
 𨵄	guǎn	guan	3	
 𨵃	guā	gua	1	
@@ -17616,6 +17773,7 @@
 𨳙	ruì	rui	4	
 𨳘	tún	tun	2	
 𨳗	zhōng	zhong	1	
+
 𨳖	
 𨳕	yuè	yue	4	
 𨳔	mén	men	2	
@@ -17756,7 +17914,7 @@
 𨱍	láng	lang	2	
 𨱌	guàn	guan	4	
 𨱋	líng	ling	2	
-𨱊	take	qū	qu	1	
+𨱊	qū	qu	1	
 𨱉	liàng	liang	4	
 𨱈	sù	su	4	
 𨱇	qiú	qiu	2	
@@ -18210,6 +18368,7 @@
 𨪇	
 𨪆	
 𨪅	jiàn	jian	4	
+
 𨪄	yìng	ying	4	
 𨪃	
 𨪂	
@@ -18318,7 +18477,7 @@
 𨨛	hé	he	2	
 𨨚	chào	chao	4	
 𨨙	yā	ya	1	
-𨨘humble	qiān	qian	1	
+𨨘	qiān	qian	1	
 
 𨨗	quàn	quan	4	
 𨨖	
@@ -18358,7 +18517,7 @@
 𨧴	
 𨧳	chì	chi	4	
 𨧲	
-𨧱	take	qū	qu	1	
+𨧱	qū	qu	1	
 𨧰	zú	zu	2	
 𨧯	
 𨧮	
@@ -18467,7 +18626,7 @@
 𨦇	
 𨦆	yín	yin	2	
 𨦅	
-𨦄humble	qiān	qian	1	
+𨦄	qiān	qian	1	
 
 𨦃	duǒ	duo	3	
 𨦂	lǎi	lai	3	
@@ -18968,7 +19127,7 @@
 𨞓	yù	yu	4	
 𨞒	zuó	zuo	2	
 𨞑	wèng	weng	4	
-𨞐	cheer	zhèn	zhen	4	
+𨞐	zhèn	zhen	4	
 𨞏	
 𨞎	lìng	ling	4	
 𨞍	
@@ -19036,7 +19195,7 @@
 𨝐	shēn	shen	1	
 𨝏	lí	li	2	
 𨝎	kāng	kang	1	
-𨝍humble	qiān	qian	1	
+𨝍	qiān	qian	1	
 
 𨝌	gān	gan	1	
 𨝋	zhài	zhai	4	
@@ -19640,7 +19799,7 @@
 𨓵	
 𨓴	yà	ya	4	
 𨓳	yāo	yao	1	
-𨓲humble	qiān	qian	1	
+𨓲	qiān	qian	1	
 
 𨓱	
 𨓰	jié	jie	2	
@@ -19750,7 +19909,8 @@
 𨒈	
 𨒇	jiá	jia	2	
 𨒆	rǒng	rong	3	
-𨒅	laugh	qì	qi	4	
+𨒅	qì	qi	4	
+
 𨒄	yǎn	yan	3	
 𨒃	pàn	pan	4	
 𨒂	
@@ -19783,7 +19943,8 @@
 𨑧	
 𨑦	
 𨑥	wù	wu	4	
-𨑤	laugh	qì	qi	4	
+𨑤	qì	qi	4	
+
 𨑣	xuè	xue	4	
 𨑢	
 𨑡	
@@ -19842,7 +20003,7 @@
 𨐬	
 𨐫	
 𨐪	
-𨐩humble	qiān	qian	1	
+𨐩	qiān	qian	1	
 
 𨐨	bì	bi	4	
 𨐧	
@@ -19873,7 +20034,7 @@
 𨐎	
 𨐍	shēn	shen	1	
 𨐌	
-𨐋humble	qiān	qian	1	
+𨐋	qiān	qian	1	
 
 𨐊	xiàn	xian	4	
 𨐉	zǎo	zao	3	
@@ -19940,6 +20101,7 @@
 𨏌	
 𨏋	
 𨏊	jiàn	jian	4	
+
 𨏉	shuàn	shuan	4	
 𨏈	yǐn	yin	3	
 𨏇	
@@ -19971,6 +20133,7 @@
 𨎭	nuó	nuo	2	
 𨎬	jiào	jiao	4	
 𨎫	jiàn	jian	4	
+
 𨎪	ér	er	2	
 𨎩	guāng	guang	1	
 𨎨	
@@ -20105,7 +20268,7 @@
 𨌧	è	e	4	
 𨌦	
 𨌥	fú	fu	2	
-𨌤	cheer	zhèn	zhen	4	
+𨌤	zhèn	zhen	4	
 𨌣	rǒng	rong	3	
 𨌢	zhēng	zheng	1	
 𨌡	
@@ -20209,7 +20372,8 @@
 𨊿	jué	jue	2	
 𨊾	
 𨊽	
-𨊼	xuàn	xuan	4	
+𨊼	Render	xuàn	xuan	4	
+
 𨊻	jī	ji	1	
 𨊺	dài	dai	4	
 𨊹	bā	ba	1	
@@ -20221,7 +20385,8 @@
 𨊳	xīn	xin	1	
 𨊲	
 𨊱	yú	yu	2	
-𨊰	laugh	qì	qi	4	
+𨊰	qì	qi	4	
+
 𨊯	
 𨊮	
 𨊭	
@@ -20561,7 +20726,7 @@
 𨅠	
 𨅟	
 𨅞	
-𨅝	kick	cheer	zhèn	zhen	4	
+𨅝	kick	zhèn	zhen	4	
 𨅜	
 𨅛	
 𨅚	
@@ -20649,7 +20814,7 @@
 𨄈	liáng	liang	2	
 𨄇	dèng	deng	4	
 𨄆	
-𨄅	take	qū	qu	1	
+𨄅	qū	qu	1	
 𨄄	luán	luan	2	
 𨄃	
 𨄂	
@@ -20830,9 +20995,10 @@
 𨁓	
 𨁒	fū	fu	1	
 𨁑	yuè	yue	4	
-𨁐	laugh	qì	qi	4	
+𨁐	qì	qi	4	
+
 𨁏	pū	pu	1	
-𨁎	cheer	zhèn	zhen	4	
+𨁎	zhèn	zhen	4	
 𨁍	yàn	yan	4	
 𨁌	nuó	nuo	2	
 𨁋	dōu	dou	1	
@@ -20845,7 +21011,8 @@
 𨁄	hàn	han	4	
 𨁃	tī	ti	1	
 𨁂	xié	xie	2	
-𨁁	xuàn	xuan	4	
+𨁁	Render	xuàn	xuan	4	
+
 𨁀	shū	shu	1	
 𨀿	
 𨀾	
@@ -20984,7 +21151,7 @@
 𧾹	
 𧾸	
 𧾷	
-𧾶	take	qū	qu	1	
+𧾶	qū	qu	1	
 𧾵	jué	jue	2	
 𧾴	
 𧾳	fēng	feng	1	
@@ -21032,7 +21199,8 @@
 𧾉	
 𧾈	
 𧾇	líng	ling	2	
-𧾆	xuàn	xuan	4	
+𧾆	Render	xuàn	xuan	4	
+
 𧾅	
 𧾄	
 𧾃	
@@ -21083,10 +21251,11 @@
 𧽖	hái	hai	2	
 𧽕	
 𧽔	jūn	jun	1	
-𧽓	laugh	qì	qi	4	
+𧽓	qì	qi	4	
+
 𧽒	xiòng	xiong	4	
 𧽑	jí	ji	2	
-𧽐humble	qiān	qian	1	
+𧽐	qiān	qian	1	
 
 𧽏	sōu	sou	1	
 𧽎	yáo	yao	2	
@@ -21146,7 +21315,8 @@
 𧼘	qǐ	qi	3	
 𧼗	fú	fu	2	
 𧼖	lán	lan	2	
-𧼕	laugh	qì	qi	4	
+𧼕	qì	qi	4	
+
 𧼔	léng	leng	2	
 𧼓	dōng	dong	1	
 𧼒	qǐn	qin	3	
@@ -21210,7 +21380,8 @@
 𧻘	qiè	qie	4	
 𧻗	jú	ju	2	
 𧻖	give	zhōu	zhou	1	
-𧻕	laugh	qì	qi	4	
+𧻕	qì	qi	4	
+
 𧻔	basket	kuāng	kuang	1	
 𧻓	bèng	beng	4	
 𧻒	xiàn	xian	4	
@@ -21340,7 +21511,7 @@
 𧹖	tiǎn	tian	3	
 𧹕	jū	ju	1	
 𧹔	
-𧹓	cheer	zhèn	zhen	4	
+𧹓	zhèn	zhen	4	
 𧹒	
 𧹑	guì	gui	4	
 𧹐	luò	luo	4	
@@ -21532,7 +21703,7 @@
 𧶗	
 𧶖	xī	xi	1	
 𧶕	wǒ	wo	3	
-𧶔	cheer	zhèn	zhen	4	
+𧶔	zhèn	zhen	4	
 𧶓	
 𧶒	
 𧶑	
@@ -21716,7 +21887,7 @@
 𧳠	bì	bi	4	
 𧳟	lái	lai	2	
 𧳞	wéi	wei	2	
-𧳝	dog	zhào	zhao	4	
+𧳝	zhào	zhao	4	
 𧳜	zhǒu	zhou	3	
 𧳛	shà	sha	4	
 𧳚	cuǐ	cui	3	
@@ -21811,7 +21982,7 @@
 𧲃	mǐn	min	3	
 𧲂	lín	lin	2	
 𧲁	
-𧲀humble	qiān	qian	1	
+𧲀	qiān	qian	1	
 
 𧱿	
 𧱾	guāi	guai	1	
@@ -22022,7 +22193,7 @@
 𧮱	fén	fen	2	
 𧮰	hān	han	1	
 𧮯	
-𧮮humble	qiān	qian	1	
+𧮮	qiān	qian	1	
 
 𧮭	jí	ji	2	
 𧮬	zhēn	zhen	1	
@@ -22809,7 +22980,7 @@
 𧢡	
 𧢠	
 𧢟	
-𧢞humble	qiān	qian	1	
+𧢞	qiān	qian	1	
 
 𧢝	lì	li	4	
 𧢜	fán	fan	2	
@@ -22880,7 +23051,8 @@
 𧡛	
 𧡚	xuǎn	xuan	3	
 𧡙	lián	lian	2	
-𧡘	laugh	qì	qi	4	
+𧡘	qì	qi	4	
+
 𧡗	
 𧡖	
 𧡕	
@@ -22934,7 +23106,7 @@
 𧠥	cī	ci	1	
 𧠤	
 𧠣	shū	shu	1	
-𧠢	take	qū	qu	1	
+𧠢	qū	qu	1	
 𧠡	shī	shi	1	
 𧠠	
 𧠟	mí	mi	2	
@@ -23015,7 +23187,7 @@
 𧟔	
 𧟓	
 𧟒	
-𧟑humble	qiān	qian	1	
+𧟑	qiān	qian	1	
 
 𧟐	
 𧟏	
@@ -23271,7 +23443,7 @@
 𧛖	
 𧛕	
 𧛔	dú	du	2	
-𧛓humble	qiān	qian	1	
+𧛓	qiān	qian	1	
 
 𧛒	tì	ti	4	
 𧛑	
@@ -23315,7 +23487,8 @@
 𧚫	qiàn	qian	4	
 𧚪	qiè	qie	4	
 𧚩	lí	li	2	
-𧚨	laugh	qì	qi	4	
+𧚨	qì	qi	4	
+
 𧚧	
 𧚦	
 𧚥	cuì	cui	4	
@@ -23381,6 +23554,7 @@
 𧙩	
 𧙨	
 𧙧	jiàn	jian	4	
+
 𧙦	
 𧙥	lóng	long	2	
 𧙤	duǒ	duo	3	
@@ -23389,7 +23563,8 @@
 𧙡	yì	yi	4	
 𧙠	
 𧙟	
-𧙞	laugh	qì	qi	4	
+𧙞	qì	qi	4	
+
 𧙝	ché	che	2	
 𧙜	
 𧙛	pù	pu	4	
@@ -23444,7 +23619,8 @@
 𧘪	
 𧘩	diāo	diao	1	
 𧘨	diāo	diao	1	
-𧘧	laugh	qì	qi	4	
+𧘧	qì	qi	4	
+
 𧘦	
 𧘥	niǔ	niu	3	
 𧘤	
@@ -23455,7 +23631,7 @@
 𧘟	pō	po	1	
 𧘞	dǒu	dou	3	
 𧘝	
-𧘜humble	qiān	qian	1	
+𧘜	qiān	qian	1	
 
 𧘛	
 𧘚	
@@ -23493,6 +23669,7 @@
 𧗺	
 𧗹	xìn	xin	4	
 𧗸	jiàn	jian	4	
+
 𧗷	art	
 𧗶	gē	ge	1	
 𧗵	
@@ -23928,6 +24105,7 @@
 𧑈	fèi	fei	4	
 𧑇	lí	li	2	
 𧑆	zhōng	zhong	1	
+
 𧑅	
 𧑄	
 𧑃	
@@ -24237,7 +24415,7 @@
 𧌔	zhī	zhi	1	
 𧌓	grasshopper	fù	fu	4	
 𧌒	
-𧌑	take	qū	qu	1	
+𧌑	qū	qu	1	
 𧌐	cì	ci	4	
 𧌏	tà	ta	4	
 𧌎	tiǎn	tian	3	
@@ -24546,7 +24724,8 @@
 𧇟	give	zhōu	zhou	1	
 𧇞	qiāng	qiang	1	
 𧇝	shú	shu	2	
-𧇜	laugh	qì	qi	4	
+𧇜	qì	qi	4	
+
 𧇛	hū	hu	1	
 𧇚	bó	bo	2	
 𧇙	nan	nán	nan	2	
@@ -24580,6 +24759,7 @@
 𧆾	
 𧆽	
 𧆼	zhōng	zhong	1	
+
 𧆻	gū	gu	1	
 𧆺	líng	ling	2	
 𧆹	wū	wu	1	
@@ -24892,10 +25072,12 @@
 𧂈	jiǎo	jiao	3	
 𧂇	tán	tan	2	
 𧂆	jiàn	jian	4	
+
 𧂅	sēn	sen	1	
 𧂄	dàn	dan	4	
 𧂃	hàn	han	4	
 𧂂	jiàn	jian	4	
+
 𧂁	zhàn	zhan	4	
 𧂀	
 𧁿	dú	du	2	
@@ -24973,6 +25155,7 @@
 𧀷	
 𧀶	dì	di	4	
 𧀵	jiàn	jian	4	
+
 𧀴	fū	fu	1	
 𧀳	
 𧀲	yuè	yue	4	
@@ -25100,6 +25283,7 @@
 𦾸	duān	duan	1	
 𦾷	lù	lu	4	
 𦾶	jiàn	jian	4	
+
 𦾵	qióng	qiong	2	
 𦾴	
 𦾳	liē	lie	1	
@@ -25431,7 +25615,7 @@
 𦹮	
 𦹭	
 𦹬	
-𦹫	dog	zhào	zhao	4	
+𦹫	zhào	zhao	4	
 𦹪	
 𦹩	
 𦹨	
@@ -25484,7 +25668,7 @@
 𦸹	
 𦸸	
 𦸷	sī	si	1	
-𦸶	take	qū	qu	1	
+𦸶	qū	qu	1	
 𦸵	
 𦸴	
 𦸳	
@@ -26287,6 +26471,7 @@
 𦬗	guō	guo	1	
 𦬖	qiú	qiu	2	
 𦬕	zhōng	zhong	1	
+
 𦬔	zhǎo	zhao	3	
 𦬓	
 𦬒	
@@ -26425,7 +26610,8 @@
 𦪍	dāi	dai	1	
 𦪌	
 𦪋	xiū	xiu	1	
-𦪊	laugh	qì	qi	4	
+𦪊	qì	qi	4	
+
 𦪉	
 𦪈	kneel	áo	ao	2	
 𦪇	lù	lu	4	
@@ -26447,6 +26633,7 @@
 𦩷	gōu	gou	1	
 𦩶	
 𦩵	jiàn	jian	4	
+
 𦩴	ái	ai	2	
 𦩳	
 𦩲	yǒu	you	3	
@@ -26464,7 +26651,8 @@
 𦩦	
 𦩥	
 𦩤	tū	tu	1	
-𦩣	laugh	qì	qi	4	
+𦩣	qì	qi	4	
+
 𦩢	xiàn	xian	4	
 𦩡	fú	fu	2	
 𦩠	xīng	xing	1	
@@ -26580,7 +26768,8 @@
 𦧲	spit	
 𦧱	tà	ta	4	
 𦧰	
-𦧯	laugh	qì	qi	4	
+𦧯	qì	qi	4	
+
 𦧮	jiá	jia	2	
 𦧭	
 𦧬	huài	huai	4	
@@ -26618,7 +26807,8 @@
 𦧌	
 𦧋	qìn	qin	4	
 𦧊	
-𦧉	laugh	qì	qi	4	
+𦧉	qì	qi	4	
+
 𦧈	jìn	jin	4	
 𦧇	
 𦧆	
@@ -26657,7 +26847,7 @@
 𦦥	
 𦦤	
 𦦣	cuì	cui	4	
-𦦢	cheer	zhèn	zhen	4	
+𦦢	zhèn	zhen	4	
 𦦡	
 𦦠	
 𦦟	
@@ -26954,7 +27144,8 @@
 𦡼	níng	ning	2	
 𦡻	bìng	bing	4	
 𦡺	yǐng	ying	3	
-𦡹	laugh	qì	qi	4	
+𦡹	qì	qi	4	
+
 𦡸	
 𦡷	duì	dui	4	
 𦡶	
@@ -27348,8 +27539,9 @@
 𦛴	
 𦛳	
 𦛲	jué	jue	2	
-𦛱	take	qū	qu	1	
-𦛰	laugh	qì	qi	4	
+𦛱	qū	qu	1	
+𦛰	qì	qi	4	
+
 𦛯	dǔ	du	3	
 𦛮	
 𦛭	
@@ -27376,8 +27568,9 @@
 𦛘	hé	he	2	
 𦛗	lǚ	lu	3	
 𦛖	chè	che	4	
-𦛕	take	qū	qu	1	
-𦛔	xuàn	xuan	4	
+𦛕	qū	qu	1	
+𦛔	Render	xuàn	xuan	4	
+
 𦛓	jū	ju	1	
 𦛒	
 𦛑	
@@ -27451,7 +27644,8 @@
 𦚍	
 𦚌	
 𦚋	
-𦚊	laugh	qì	qi	4	
+𦚊	qì	qi	4	
+
 𦚉	
 𦚈	tuò	tuo	4	
 𦚇	
@@ -27515,7 +27709,8 @@
 𦙍	
 𦙌	
 𦙋	dū	du	1	
-𦙊	laugh	qì	qi	4	
+𦙊	qì	qi	4	
+
 𦙉	zuǎn	zuan	3	
 𦙈	zuì	zui	4	
 𦙇	tān	tan	1	
@@ -27533,7 +27728,8 @@
 𦘻	
 𦘺	
 𦘹	shàn	shan	4	
-𦘸	laugh	qì	qi	4	
+𦘸	qì	qi	4	
+
 𦘷	
 𦘶	xūn	xun	1	
 𦘵	wǎ	wa	3	
@@ -27704,7 +27900,7 @@
 𦖑	
 𦖐	xiè	xie	4	
 𦖏	
-𦖎humble	qiān	qian	1	
+𦖎	qiān	qian	1	
 
 𦖍	huà	hua	4	
 𦖌	
@@ -27916,7 +28112,8 @@
 𦒾	
 𦒽	
 𦒼	
-𦒻	diǎn	dian	3	
+𦒻	stay	diǎn	dian	3	
+
 𦒺	dào	dao	4	
 𦒹	
 𦒸	
@@ -28553,6 +28750,7 @@
 𦉄	
 𦉃	
 𦉂	zhōng	zhong	1	
+
 𦉁	
 𦉀	
 𦈿	
@@ -28580,7 +28778,8 @@
 𦈩	gǒng	gong	3	
 𦈨	xíng	xing	2	
 𦈧	bēi	bei	1	
-𦈦	laugh	qì	qi	4	
+𦈦	qì	qi	4	
+
 𦈥	
 𦈤	xiòng	xiong	4	
 𦈣	yú	yu	2	
@@ -28589,7 +28788,8 @@
 𦈠	yǐn	yin	3	
 𦈟	jīn	jin	1	
 𦈞	bó	bo	2	
-𦈝	xuàn	xuan	4	
+𦈝	Render	xuàn	xuan	4	
+
 𦈜	jié	jie	2	
 𦈛	zuǒ	zuo	3	
 𦈚	cù	cu	4	
@@ -29271,7 +29471,8 @@
 𥽶	hé	he	2	
 𥽵	
 𥽴	
-𥽳	laugh	qì	qi	4	
+𥽳	qì	qi	4	
+
 𥽲	
 𥽱	
 𥽰	mí	mi	2	
@@ -29283,7 +29484,7 @@
 𥽪	
 𥽩	
 𥽨	
-𥽧	take	qū	qu	1	
+𥽧	qū	qu	1	
 𥽦	
 𥽥	huò	huo	4	
 𥽤	
@@ -29307,6 +29508,7 @@
 𥽒	fèn	fen	4	
 𥽑	
 𥽐	jiàn	jian	4	
+
 𥽏	xiàn	xian	4	
 𥽎	
 𥽍	
@@ -29459,7 +29661,7 @@
 𥺺	
 𥺹	
 𥺸	
-𥺷	take	qū	qu	1	
+𥺷	qū	qu	1	
 𥺶	
 𥺵	jī	ji	1	
 𥺴	niān	nian	1	
@@ -29699,7 +29901,9 @@
 𥷊	
 𥷉	
 𥷈	zhōng	zhong	1	
-𥷇	laugh	qì	qi	4	
+
+𥷇	qì	qi	4	
+
 𥷆	hú	hu	2	
 𥷅	lì	li	4	
 𥷄	nǐ	ni	3	
@@ -29716,7 +29920,7 @@
 𥶹	jìng	jing	4	
 𥶸	
 𥶷	xuǎn	xuan	3	
-𥶶	take	qū	qu	1	
+𥶶	qū	qu	1	
 𥶵	huǐ	hui	3	
 𥶴	
 𥶳	
@@ -29798,7 +30002,7 @@
 𥵧	qǐn	qin	3	
 𥵦	shǎo	shao	3	
 𥵥	
-𥵤	dog	zhào	zhao	4	
+𥵤	zhào	zhao	4	
 𥵣	duān	duan	1	
 𥵢	
 𥵡	
@@ -29850,6 +30054,7 @@
 𥴳	
 𥴲	
 𥴱	jiàn	jian	4	
+
 𥴰	
 𥴯	huì	hui	4	
 𥴮	bó	bo	2	
@@ -29993,7 +30198,7 @@
 𥲥	lián	lian	2	
 𥲤	
 𥲣	tuì	tui	4	
-𥲢humble	qiān	qian	1	
+𥲢	qiān	qian	1	
 
 𥲡	chuāng	chuang	1	
 𥲠	wàng	wang	4	
@@ -30035,7 +30240,7 @@
 𥱽	juàn	juan	4	
 𥱼	pái	pai	2	
 𥱻	chì	chi	4	
-𥱺humble	qiān	qian	1	
+𥱺	qiān	qian	1	
 
 𥱹	mò	mo	4	
 𥱸	ōu	ou	1	
@@ -30185,6 +30390,7 @@
 𥯨	sī	si	1	
 𥯧	
 𥯦	jiàn	jian	4	
+
 𥯥	chè	che	4	
 𥯤	wěi	wei	3	
 𥯣	
@@ -30271,7 +30477,8 @@
 𥮒	qián	qian	2	
 𥮑	
 𥮐	diāo	diao	1	
-𥮏	diǎn	dian	3	
+𥮏	stay	diǎn	dian	3	
+
 𥮎	mǎng	mang	3	
 𥮍	yín	yin	2	
 𥮌	
@@ -30395,7 +30602,7 @@
 𥬗	
 𥬖	
 𥬕	rǎn	ran	3	
-𥬔	take	qū	qu	1	
+𥬔	qū	qu	1	
 𥬓	yào	yao	4	
 𥬒	pō	po	1	
 𥬑	
@@ -30814,7 +31021,7 @@
 𥥴	yì	yi	4	
 𥥳	kēng	keng	1	
 𥥲	
-𥥱	cheer	zhèn	zhen	4	
+𥥱	zhèn	zhen	4	
 𥥰	
 𥥯	
 𥥮	
@@ -31005,7 +31212,7 @@
 𥢵	
 𥢴	
 𥢳	
-𥢲	cheer	zhèn	zhen	4	
+𥢲	zhèn	zhen	4	
 𥢱	
 𥢰	
 𥢯	
@@ -31387,7 +31594,7 @@
 𥜷	
 𥜶	kuí	kui	2	
 𥜵	què	que	4	
-𥜴humble	qiān	qian	1	
+𥜴	qiān	qian	1	
 
 𥜳	
 𥜲	xiǎn	xian	3	
@@ -31723,6 +31930,7 @@
 𥗨	
 𥗧	xiē	xie	1	
 𥗦	zhōng	zhong	1	
+
 𥗥	
 𥗤	
 𥗣	
@@ -31954,7 +32162,8 @@
 𥔁	pǐ	pi	3	
 𥔀	roar	hōng	hong	1	
 𥓿	weight	tuó	tuo	2	
-𥓾	laugh	qì	qi	4	
+𥓾	qì	qi	4	
+
 𥓽	
 𥓼	
 𥓻	zōng	zong	1	
@@ -32235,7 +32444,7 @@
 𥏨	zhāo	zhao	1	
 𥏧	
 𥏦	
-𥏥humble	qiān	qian	1	
+𥏥	qiān	qian	1	
 
 𥏤	kuà	kua	4	
 𥏣	
@@ -32420,7 +32629,8 @@
 𥌰	wéi	wei	2	
 𥌯	méng	meng	2	
 𥌮	lì	li	4	
-𥌭	xuàn	xuan	4	
+𥌭	Render	xuàn	xuan	4	
+
 𥌬	
 𥌫	
 𥌪	xiū	xiu	1	
@@ -32464,7 +32674,8 @@
 𥌄	kū	ku	1	
 𥌃	zhěn	zhen	3	
 𥌂	mián	mian	2	
-𥌁	laugh	qì	qi	4	
+𥌁	qì	qi	4	
+
 𥌀	chá	cha	2	
 𥋿	hè	he	4	
 𥋾	
@@ -32598,7 +32809,8 @@
 𥉾	qiāo	qiao	1	
 𥉽	kāng	kang	1	
 𥉼	jiāo	jiao	1	
-𥉻	laugh	qì	qi	4	
+𥉻	qì	qi	4	
+
 𥉺	dié	die	2	
 𥉹	
 𥉸	kēng	keng	1	
@@ -32951,7 +33163,8 @@
 𥄟	
 𥄞	
 𥄝	miàn	mian	4	
-𥄜	laugh	qì	qi	4	
+𥄜	qì	qi	4	
+
 𥄛	xī	xi	1	
 𥄚	
 𥄙	
@@ -33177,7 +33390,8 @@
 𥀾	xiàng	xiang	4	
 𥀽	
 𥀼	
-𥀻	laugh	qì	qi	4	
+𥀻	qì	qi	4	
+
 𥀺	xiè	xie	4	
 𥀹	jiǎn	jian	3	
 𥀸	
@@ -33245,9 +33459,10 @@
 𤿺	
 𤿹	
 𤿸	
-𤿷humble	qiān	qian	1	
+𤿷	qiān	qian	1	
 
-𤿶	diǎn	dian	3	
+𤿶	stay	diǎn	dian	3	
+
 𤿵	què	que	4	
 𤿴	lù	lu	4	
 𤿳	qǐn	qin	3	
@@ -33266,7 +33481,7 @@
 𤿦	
 𤿥	
 𤿤	
-𤿣	cheer	zhèn	zhen	4	
+𤿣	zhèn	zhen	4	
 𤿢	
 𤿡	guì	gui	4	
 𤿠	jí	ji	2	
@@ -33489,7 +33704,8 @@
 𤼈	
 𤼇	
 𤼆	
-𤼅	laugh	qì	qi	4	
+𤼅	qì	qi	4	
+
 𤼄	
 𤼃	lòng	long	4	
 𤼂	xiǎn	xian	3	
@@ -33599,7 +33815,8 @@
 𤺚	
 𤺙	
 𤺘	
-𤺗	laugh	qì	qi	4	
+𤺗	qì	qi	4	
+
 𤺖	mǐn	min	3	
 𤺕	fèi	fei	4	
 𤺔	shè	she	4	
@@ -33814,6 +34031,7 @@
 𤷅	yì	yi	4	
 𤷄	quán	quan	2	
 𤷃	jiàn	jian	4	
+
 𤷂	féi	fei	2	
 𤷁	bēi	bei	1	
 𤷀	wāng	wang	1	
@@ -34304,6 +34522,7 @@
 𤯜	shì	shi	4	
 𤯛	
 𤯚	zhōng	zhong	1	
+
 𤯙	
 𤯘	
 𤯗	
@@ -34807,6 +35026,7 @@
 𤧥	
 𤧤	
 𤧣	jiàn	jian	4	
+
 𤧢	
 𤧡	
 𤧠	ruǎn	ruan	3	
@@ -35229,7 +35449,7 @@
 𤡂	léi	lei	2	
 𤡁	
 𤡀	
-𤠿humble	qiān	qian	1	
+𤠿	qiān	qian	1	
 
 𤠾	
 𤠽	cù	cu	4	
@@ -35483,6 +35703,7 @@
 𤝇	yè	ye	4	
 𤝆	
 𤝅	zhōng	zhong	1	
+
 𤝄	máo	mao	2	
 𤝃	
 𤝂	mù	mu	4	
@@ -35723,7 +35944,7 @@
 𤙗	
 𤙖	xīn	xin	1	
 𤙕	huā	hua	1	
-𤙔	dog	zhào	zhao	4	
+𤙔	zhào	zhao	4	
 𤙓	
 𤙒	xié	xie	2	
 𤙑	
@@ -35852,7 +36073,7 @@
 𤗖	
 𤗕	
 𤗔	
-𤗓	cheer	zhèn	zhen	4	
+𤗓	zhèn	zhen	4	
 𤗒	
 𤗑	
 𤗐	
@@ -36962,7 +37183,7 @@
 𤆄	huǒ	huo	3	
 𤆃	
 𤆂	kuì	kui	4	
-𤆁	cheer	zhèn	zhen	4	
+𤆁	zhèn	zhen	4	
 𤆀	biāo	biao	1	
 𤅿	
 𤅾	
@@ -37156,7 +37377,8 @@
 𤃂	
 𤃁	
 𤃀	lì	li	4	
-𤂿	xuàn	xuan	4	
+𤂿	Render	xuàn	xuan	4	
+
 𤂾	
 𤂽	
 𤂼	yào	yao	4	
@@ -37307,6 +37529,7 @@
 𤀫	biǎn	bian	3	
 𤀪	pō	po	1	
 𤀩	jiàn	jian	4	
+
 𤀨	dòu	dou	4	
 𤀧	
 𤀦	là	la	4	
@@ -37439,7 +37662,8 @@
 𣾧	
 𣾦	zhǎng	zhang	3	
 𣾥	
-𣾤	laugh	qì	qi	4	
+𣾤	qì	qi	4	
+
 𣾣	
 𣾢	
 𣾡	
@@ -37502,6 +37726,7 @@
 𣽨	téng	teng	2	
 𣽧	
 𣽦	jiàn	jian	4	
+
 𣽥	àn	an	4	
 𣽤	sè	se	4	
 𣽣	
@@ -37891,6 +38116,7 @@
 𣷣	
 𣷢	
 𣷡	zhōng	zhong	1	
+
 𣷠	mín	min	2	
 𣷟	
 𣷞	
@@ -38098,6 +38324,7 @@
 𣴕	
 𣴔	
 𣴓	北𣴓省	jiàn	jian	4	
+
 𣴒	
 𣴑	
 𣴐	
@@ -38492,7 +38719,7 @@
 𣮋	
 𣮊	dé	de	2	
 𣮉	lí	li	2	
-𣮈	take	qū	qu	1	
+𣮈	qū	qu	1	
 𣮇	
 𣮆	tuò	tuo	4	
 𣮅	
@@ -38643,7 +38870,8 @@
 𣫴	xié	xie	2	
 𣫳	jiǎng	jiang	3	
 𣫲	
-𣫱	laugh	qì	qi	4	
+𣫱	qì	qi	4	
+
 𣫰	
 𣫯	
 𣫮	
@@ -39218,14 +39446,14 @@
 𣢵	
 𣢴	kēng	keng	1	
 𣢳	dìng	ding	4	
-𣢲humble	qiān	qian	1	
+𣢲	qiān	qian	1	
 
 𣢱	
 𣢰	zú	zu	2	
 𣢯	
 𣢮	
 𣢭	yí	yi	2	
-𣢬humble	qiān	qian	1	
+𣢬	qiān	qian	1	
 
 𣢫	wǎng	wang	3	
 𣢪	guǐ	gui	3	
@@ -39370,7 +39598,7 @@
 𣠟	
 𣠞	zhé	zhe	2	
 𣠝	
-𣠜	dog	zhào	zhao	4	
+𣠜	zhào	zhao	4	
 𣠛	
 𣠚	liú	liu	2	
 𣠙	
@@ -39452,7 +39680,7 @@
 𣟎	
 𣟍	
 𣟌	lì	li	4	
-𣟋humble	qiān	qian	1	
+𣟋	qiān	qian	1	
 
 𣟊	niǎo	niao	3	
 𣟉	huài	huai	4	
@@ -39883,7 +40111,7 @@
 𣘠	gǎn	gan	3	
 𣘟	qiā	qia	1	
 𣘞	hán	han	2	
-𣘝humble	qiān	qian	1	
+𣘝	qiān	qian	1	
 
 𣘜	
 𣘛	dōu	dou	1	
@@ -40146,7 +40374,8 @@
 𣔛	kǎng	kang	3	
 𣔚	pán	pan	2	
 𣔙	xiān	xian	1	
-𣔘	laugh	qì	qi	4	
+𣔘	qì	qi	4	
+
 𣔗	shēn	shen	1	
 𣔖	
 𣔕	
@@ -40981,7 +41210,8 @@
 𣇙	zǔ	zu	3	
 𣇘	
 𣇗	shēn	shen	1	
-𣇖	diǎn	dian	3	
+𣇖	stay	diǎn	dian	3	
+
 𣇕	
 𣇔	
 𣇓	
@@ -41436,7 +41666,7 @@
 𣀒	nod	zòng	zong	4	
 𣀑	
 𣀐	gū	gu	1	
-𣀏	cheer	zhèn	zhen	4	
+𣀏	zhèn	zhen	4	
 𣀎	
 𣀍	chén	chen	2	
 𣀌	
@@ -41476,8 +41706,8 @@
 𢿪	
 𢿩	
 𢿨	
-𢿧	cheer	zhèn	zhen	4	
-𢿦	cheer	zhèn	zhen	4	
+𢿧	zhèn	zhen	4	
+𢿦	zhèn	zhen	4	
 𢿥	
 𢿤	dèng	deng	4	
 𢿣	qiāo	qiao	1	
@@ -41569,7 +41799,7 @@
 𢾍	
 𢾌	
 𢾋	
-𢾊	cheer	zhèn	zhen	4	
+𢾊	zhèn	zhen	4	
 𢾉	
 𢾈	
 𢾇	pì	pi	4	
@@ -41659,7 +41889,7 @@
 𢼳	basket	kuāng	kuang	1	
 𢼲	zhòu	zhou	4	
 𢼱	zì	zi	4	
-𢼰	take	qū	qu	1	
+𢼰	qū	qu	1	
 𢼯	
 𢼮	
 𢼭	
@@ -41752,7 +41982,7 @@
 𢻖	
 𢻕	
 𢻔	huì	hui	4	
-𢻓	cheer	zhèn	zhen	4	
+𢻓	zhèn	zhen	4	
 𢻒	
 𢻑	
 𢻐	
@@ -41766,7 +41996,8 @@
 𢻈	
 𢻇	hāo	hao	1	
 𢻆	
-𢻅	diǎn	dian	3	
+𢻅	stay	diǎn	dian	3	
+
 𢻄	
 𢻃	
 𢻂	guī	gui	1	
@@ -41782,7 +42013,8 @@
 𢺸	
 𢺷	qí	qi	2	
 𢺶	
-𢺵	laugh	qì	qi	4	
+𢺵	qì	qi	4	
+
 𢺴	yù	yu	4	
 𢺳	pull	
 𢺲	
@@ -42174,7 +42406,7 @@
 𢴱	léi	lei	2	
 𢴰	qī	qi	1	
 𢴯	
-𢴮	take	qū	qu	1	
+𢴮	qū	qu	1	
 𢴭	juē	jue	1	
 𢴬	bàn	ban	4	
 𢴫	
@@ -42280,7 +42512,8 @@
 𢳇	zhuó	zhuo	2	
 𢳆	rattle	ào	ao	4	
 𢳅	
-𢳄	xuàn	xuan	4	
+𢳄	Render	xuàn	xuan	4	
+
 𢳃	yìn	yin	4	
 𢳂	piē	pie	1	
 𢳁	fèi	fei	4	
@@ -42943,6 +43176,7 @@
 𢨳	yì	yi	4	
 𢨲	
 𢨱	zhōng	zhong	1	
+
 𢨰	xū	xu	1	
 𢨯	mǎo	mao	3	
 𢨮	yī	yi	1	
@@ -43018,7 +43252,7 @@
 𢧨	
 𢧧	gé	ge	2	
 𢧦	hàn	han	4	
-𢧥humble	qiān	qian	1	
+𢧥	qiān	qian	1	
 
 𢧤	zhì	zhi	4	
 𢧣	
@@ -43346,7 +43580,8 @@
 𢢡	
 𢢠	
 𢢟	
-𢢞	laugh	qì	qi	4	
+𢢞	qì	qi	4	
+
 𢢝	
 𢢜	yè	ye	4	
 𢢛	
@@ -43354,7 +43589,8 @@
 𢢙	
 𢢘	
 𢢗	zhuó	zhuo	2	
-𢢖	laugh	qì	qi	4	
+𢢖	qì	qi	4	
+
 𢢕	
 𢢔	
 𢢓	yōng	yong	1	
@@ -43392,7 +43628,7 @@
 𢡳	
 𢡲	
 𢡱	
-𢡰	dog	zhào	zhao	4	
+𢡰	zhào	zhao	4	
 𢡯	
 𢡮	
 𢡭	
@@ -43614,7 +43850,8 @@
 𢞕	huò	huo	4	
 𢞔	
 𢞓	
-𢞒	laugh	qì	qi	4	
+𢞒	qì	qi	4	
+
 𢞑	
 𢞐	hài	hai	4	
 𢞏	qióng	qiong	2	
@@ -43711,7 +43948,8 @@
 𢜴	hóu	hou	2	
 𢜳	chì	chi	4	
 𢜲	ná	na	2	
-𢜱	laugh	qì	qi	4	
+𢜱	qì	qi	4	
+
 𢜰	yàn	yan	4	
 𢜯	mú	mu	2	
 𢜮	wǔ	wu	3	
@@ -43719,7 +43957,7 @@
 𢜬	estimate	duó	duo	2	
 𢜫	intelligent	xǐng	xing	3	
 𢜪	nuò	nuo	4	
-𢜩humble	qiān	qian	1	
+𢜩	qiān	qian	1	
 
 𢜨	xiè	xie	4	
 𢜧	
@@ -44242,7 +44480,8 @@
 𢔣	chā	cha	1	
 𢔢	yú	yu	2	
 𢔡	kāi	kai	1	
-𢔠	laugh	qì	qi	4	
+𢔠	qì	qi	4	
+
 𢔟	rǒu	rou	3	
 𢔞	
 𢔝	
@@ -44268,7 +44507,8 @@
 𢔉	
 𢔈	hán	han	2	
 𢔇	táo	tao	2	
-𢔆	laugh	qì	qi	4	
+𢔆	qì	qi	4	
+
 𢔅	dōng	dong	1	
 𢔄	
 𢔃	
@@ -44501,7 +44741,7 @@
 𢐡	
 𢐠	
 𢐟	qiāo	qiao	1	
-𢐞	cheer	zhèn	zhen	4	
+𢐞	zhèn	zhen	4	
 𢐝	
 𢐜	
 𢐛	
@@ -44674,7 +44914,7 @@
 𢍴	
 𢍳	
 𢍲	
-𢍱humble	qiān	qian	1	
+𢍱	qiān	qian	1	
 
 𢍰	yì	yi	4	
 𢍯	
@@ -44718,7 +44958,8 @@
 𢍉	
 𢍈	yuān	yuan	1	
 𢍇	jì	ji	4	
-𢍆	laugh	qì	qi	4	
+𢍆	qì	qi	4	
+
 𢍅	
 𢍄	
 𢍃	
@@ -44733,7 +44974,7 @@
 𢌺	
 𢌹	fú	fu	2	
 𢌸	
-𢌷	take	qū	qu	1	
+𢌷	qū	qu	1	
 𢌶	
 𢌵	
 𢌴	
@@ -44775,7 +45016,7 @@
 𢌐	
 𢌏	
 𢌎	
-𢌍humble	qiān	qian	1	
+𢌍	qiān	qian	1	
 
 𢌌	
 𢌋	
@@ -44833,7 +45074,7 @@
 𢋗	
 𢋖	
 𢋕	
-𢋔humble	qiān	qian	1	
+𢋔	qiān	qian	1	
 
 𢋓	
 𢋒	huó	huo	2	
@@ -45137,6 +45378,7 @@
 𢆨	
 𢆧	
 𢆦	jiàn	jian	4	
+
 𢆥	
 𢆤	
 𢆣	biè	bie	4	
@@ -45322,6 +45564,7 @@
 𢃯	guǐ	gui	3	
 𢃮	miǎn	mian	3	
 𢃭	zhōng	zhong	1	
+
 𢃬	jiān	jian	1	
 𢃫	
 𢃪	
@@ -45329,7 +45572,7 @@
 𢃨	
 𢃧	
 𢃦	guǒ	guo	3	
-𢃥humble	qiān	qian	1	
+𢃥	qiān	qian	1	
 
 𢃤	
 𢃣	
@@ -45427,7 +45670,8 @@
 𢂇	
 𢂆	fù	fu	4	
 𢂅	
-𢂄	xuàn	xuan	4	
+𢂄	Render	xuàn	xuan	4	
+
 𢂃	zuó	zuo	2	
 𢂂	
 𢂁	kōu	kou	1	
@@ -45441,6 +45685,7 @@
 𢁹	huāng	huang	1	
 𢁸	
 𢁷	zhōng	zhong	1	
+
 𢁶	wǎng	wang	3	
 𢁵	
 𢁴	
@@ -45691,7 +45936,8 @@
 𡽿	
 𡽾	
 𡽽	
-𡽼	laugh	qì	qi	4	
+𡽼	qì	qi	4	
+
 𡽻	zhǎn	zhan	3	
 𡽺	
 𡽹	
@@ -45832,7 +46078,8 @@
 𡻳	
 𡻲	
 𡻱	léi	lei	2	
-𡻰	laugh	qì	qi	4	
+𡻰	qì	qi	4	
+
 𡻯	chuǎng	chuang	3	
 𡻮	hù	hu	4	
 𡻭	lěi	lei	3	
@@ -45841,7 +46088,8 @@
 𡻪	liáo	liao	2	
 𡻩	màn	man	4	
 𡻨	gùn	gun	4	
-𡻧	laugh	qì	qi	4	
+𡻧	qì	qi	4	
+
 𡻦	
 𡻥	
 𡻤	má	ma	2	
@@ -45967,7 +46215,8 @@
 𡹬	tuó	tuo	2	
 𡹫	
 𡹪	jí	ji	2	
-𡹩	laugh	qì	qi	4	
+𡹩	qì	qi	4	
+
 𡹨	zè	ze	4	
 𡹧	
 𡹦	
@@ -45989,7 +46238,8 @@
 𡹖	suì	sui	4	
 𡹕	yáng	yang	2	
 𡹔	
-𡹓	laugh	qì	qi	4	
+𡹓	qì	qi	4	
+
 𡹒	
 𡹑	
 𡹐	
@@ -46387,7 +46637,7 @@
 𡳉	
 𡳈	
 𡳇	
-𡳆	take	qū	qu	1	
+𡳆	qū	qu	1	
 𡳅	
 𡳄	bǐ	bi	3	
 𡳃	
@@ -46493,7 +46743,7 @@
 𡱟	
 𡱞	
 𡱝	
-𡱜	dog	zhào	zhao	4	
+𡱜	zhào	zhao	4	
 𡱛	
 𡱚	
 𡱙	
@@ -46516,7 +46766,7 @@
 𡱈	
 𡱇	diān	dian	1	
 𡱆	allied	shǔ	shu	3	
-𡱅	take	qū	qu	1	
+𡱅	qū	qu	1	
 𡱄	
 𡱃	
 𡱂	
@@ -47462,7 +47712,8 @@
 𡢙	
 𡢘	yùn	yun	4	
 𡢗	
-𡢖	laugh	qì	qi	4	
+𡢖	qì	qi	4	
+
 𡢕	huǐ	hui	3	
 𡢔	
 𡢓	
@@ -47779,7 +48030,7 @@
 𡝝	wāng	wang	1	
 𡝜	dù	du	4	
 𡝛	yáo	yao	2	
-𡝚	cheer	zhèn	zhen	4	
+𡝚	zhèn	zhen	4	
 𡝙	chá	cha	2	
 𡝘	
 𡝗	
@@ -48242,6 +48493,7 @@
 𡖎	zhāo	zhao	1	
 𡖍	
 𡖌	zhōng	zhong	1	
+
 𡖋	
 𡖊	
 𡖉	kūn	kun	1	
@@ -48788,7 +49040,8 @@
 𡍭	
 𡍬	
 𡍫	cè	ce	4	
-𡍪	laugh	qì	qi	4	
+𡍪	qì	qi	4	
+
 𡍩	
 𡍨	dù	du	4	
 𡍧	
@@ -49945,7 +50198,7 @@
 𠻨	qǐn	qin	3	
 𠻧	gǔ	gu	3	
 𠻦	chuǎ	chua	3	
-𠻥	dog	zhào	zhao	4	
+𠻥	zhào	zhao	4	
 𠻤	yǎn	yan	3	
 𠻣	
 𠻢	
@@ -50312,7 +50565,8 @@
 𠵺	bā	ba	1	
 𠵹	gāng	gang	1	
 𠵸	hān	han	1	
-𠵷	xuàn	xuan	4	
+𠵷	Render	xuàn	xuan	4	
+
 𠵶	
 𠵵	
 𠵴	
@@ -50374,7 +50628,8 @@
 𠴼	dào	dao	4	
 𠴻	tuō	tuo	1	
 𠴺	wā	wa	1	
-𠴹	laugh	qì	qi	4	
+𠴹	qì	qi	4	
+
 𠴸	bò	bo	4	
 𠴷	
 𠴶	
@@ -50434,7 +50689,7 @@
 𠴀	
 𠳿	wēi	wei	1	
 𠳾	
-𠳽	cheer	zhèn	zhen	4	
+𠳽	zhèn	zhen	4	
 𠳼	sòng	song	4	
 𠳻	
 𠳺	
@@ -50881,7 +51136,7 @@
 𠭁	
 𠭀	
 𠬿	
-𠬾humble	qiān	qian	1	
+𠬾	qiān	qian	1	
 
 𠬽	
 𠬼	
@@ -51081,7 +51336,8 @@
 𠩺	split	xī	xi	1	
 𠩹	
 𠩸	
-𠩷	diǎn	dian	3	
+𠩷	stay	diǎn	dian	3	
+
 𠩶	
 𠩵	lì	li	4	
 𠩴	
@@ -51708,8 +51964,8 @@
 𠠇	
 𠠆	
 𠠅	
-𠠄	dog	zhào	zhao	4	
-𠠃humble	qiān	qian	1	
+𠠄	zhào	zhao	4	
+𠠃	qiān	qian	1	
 
 𠠂	
 𠠁	xiǎn	xian	3	
@@ -51772,7 +52028,7 @@
 𠟈	piē	pie	1	
 𠟇	
 𠟆	
-𠟅	dog	zhào	zhao	4	
+𠟅	zhào	zhao	4	
 𠟄	
 𠟃	zǔn	zun	3	
 𠟂	cèng	ceng	4	
@@ -52034,6 +52290,7 @@
 𠛂	
 𠛁	
 𠛀	zhōng	zhong	1	
+
 𠚿	
 𠚾	
 𠚽	jī	ji	1	
@@ -52374,7 +52631,7 @@
 𠕰	
 𠕯	
 𠕮	
-𠕭	dog	zhào	zhao	4	
+𠕭	zhào	zhao	4	
 𠕬	
 𠕫	
 𠕪	
@@ -52387,7 +52644,7 @@
 𠕣	qià	qia	4	
 𠕢	
 𠕡	
-𠕠	cheer	zhèn	zhen	4	
+𠕠	zhèn	zhen	4	
 𠕟	niǎn	nian	3	
 𠕞	
 𠕝	
@@ -52425,7 +52682,7 @@
 𠔽	
 𠔼	mǎo	mao	3	
 𠔻	zhèng	zheng	4	
-𠔺humble	qiān	qian	1	
+𠔺	qiān	qian	1	
 
 𠔹	
 𠔸	
@@ -52626,7 +52883,7 @@
 𠑵	
 𠑴	qīng	qing	1	
 𠑳	
-𠑲humble	qiān	qian	1	
+𠑲	qiān	qian	1	
 
 𠑱	jǐng	jing	3	
 𠑰	xīn	xin	1	
@@ -53106,9 +53363,11 @@
 𠊗	
 𠊖	
 𠊕	
-𠊔	laugh	qì	qi	4	
+𠊔	qì	qi	4	
+
 𠊓	
 𠊒	jiàn	jian	4	
+
 𠊑	
 𠊐	
 𠊏	yù	yu	4	
@@ -54336,6 +54595,7 @@
 鼪	weasel	shēng	sheng	1	
 鼩	qú	qu	2	
 鼨	zhōng	zhong	1	
+
 鼧	marmot	tuó	tuo	2	
 鼦	diāo	diao	1	
 鼥	bá	ba	2	
@@ -54347,7 +54607,8 @@
 鼟	tēng	teng	1	
 鼞	tāng	tang	1	
 鼝	yuān	yuan	1	
-鼜	laugh	qì	qi	4	
+鼜	qì	qi	4	
+
 鼛	drum	gāo	gao	1	
 鼚	drumming	chāng	chang	1	
 鼙	pí	pi	2	
@@ -54416,7 +54677,7 @@
 黥	tattoo	qíng	qing	2	
 黤	blue-black	yǎn	yan	3	
 黣	měi	mei	3	
-黢	black	take	qū	qu	1	
+黢	black	qū	qu	1	
 黡	mole	yǎn	yan	3	
 黠	sly	xiá	xia	2	
 黟	ebony	yī	yi	1	
@@ -54516,19 +54777,19 @@
 麻布	linen	má bù 	ma bu 	24	
 麻一	Ma one	má yī	ma yi	21	
 麺	flour	miàn	mian	4	
-麹	yeast	take	qū	qu	1	
+麹	yeast	qū	qu	1	
 麸	bran	fū	fu	1	
 麷	fēng	feng	1	
 麶	chi	chi	1	
 麵餅	Bread	miàn bǐng	mian bing	43	
 麵酵	Leaven	miàn jiào	mian jiao	44	
 麵包	bread	miàn bāo	mian bao	41	
-麴	yeast	take	qū	qu	1	
+麴	yeast	qū	qu	1	
 麳	lái	lai	2	
 麲	xiàn	xian	4	
 麱	fū	fu	1	
 麰	barley	móu	mou	2	
-麯	yeast	take	qū	qu	1	
+麯	yeast	qū	qu	1	
 麮	porridge	qù	qu	4	
 麭	pào	pao	4	
 麬	fū	fu	1	
@@ -54631,7 +54892,7 @@
 鹓	co-worker	yuān	yuan	1	
 鹒	oriole	gēng	geng	1	
 鹑	quail	chún	chun	2	
-鹐	peckhumble	qiān	qian	1	
+鹐	peck	qiān	qian	1	
 
 鹏	péng	peng	2	
 鹎	bird	bēi	bei	1	
@@ -54843,7 +55104,7 @@
 鵳	jiān	jian	1	
 鵱	lù	lu	4	
 鵯	bēi	bei	1	
-鵮	peckhumble	qiān	qian	1	
+鵮	peck	qiān	qian	1	
 
 鵭	qín	qin	2	
 鵬	péng	peng	2	
@@ -55125,7 +55386,7 @@
 鱎	jiǎo	jiao	3	
 鱍	bō	bo	1	
 鱌	xiàng	xiang	4	
-鱋	take	qū	qu	1	
+鱋	qū	qu	1	
 鱊	yù	yu	4	
 鱈	codfish	xuě	xue	3	
 鱇	anglerfish	kāng	kang	1	
@@ -55142,7 +55403,7 @@
 鰼	xí	xi	2	
 鰺	shēn	shen	1	
 鰹	skipjack	jiān	jian	1	
-鰸	take	qū	qu	1	
+鰸	qū	qu	1	
 鰷	minnow	tiáo	tiao	2	
 鰶	jì	ji	4	
 鰵	codfish	mǐn	min	3	
@@ -55292,7 +55553,7 @@
 鮤	liè	lie	4	
 鮣	yìn	yin	4	
 鮢	zhū	zhu	1	
-鮡	dog	zhào	zhao	4	
+鮡	zhào	zhao	4	
 鮠	wéi	wei	2	
 鮟	anglerfish	àn	an	4	
 鮞	roe	ér	er	2	
@@ -55329,7 +55590,7 @@
 魿	líng	ling	2	
 魾	pī	pi	1	
 魽	hán	han	2	
-魼	take	qū	qu	1	
+魼	qū	qu	1	
 魻	xiá	xia	2	
 魺	hé	he	2	
 魹	mo	mo	1	
@@ -55435,9 +55696,9 @@
 鬠	鬅鬠	kuò	kuo	4	
 鬟	maid	huán	huan	2	
 鬞	náng	nang	2	
-鬝humble	qiān	qian	1	
+鬝	qiān	qian	1	
 
-鬜humble	qiān	qian	1	
+鬜	qiān	qian	1	
 
 鬛	mane	liè	lie	4	
 鬙	sēng	seng	1	
@@ -55477,7 +55738,7 @@
 髺	kuò	kuo	4	
 髹	lacquer	xiū	xiu	1	
 髸	gōng	gong	1	
-髷	topknot	take	qū	qu	1	
+髷	topknot	qū	qu	1	
 髶	róng	rong	2	
 髵	whiskers	ér	er	2	
 髴	buddha	fú	fu	2	
@@ -55645,7 +55906,7 @@
 骡	mule	luó	luo	2	
 骠	charger	biāo	biao	1	
 骟	geld	shàn	shan	4	
-骞	raisehumble	qiān	qian	1	
+骞	raise	qiān	qian	1	
 
 骝	liú	liu	2	
 骜	mustang	ào	ao	4	
@@ -55795,8 +56056,8 @@
 騯	loud	péng	peng	2	
 騮	liú	liu	2	
 騭	stallion	zhì	zhi	4	
-騬	cheer	zhèn	zhen	4	
-騫	raisehumble	qiān	qian	1	
+騬	zhèn	zhen	4	
+騫	raise	qiān	qian	1	
 
 騪	sōu	sou	1	
 騩	guī	gui	1	
@@ -55917,9 +56178,9 @@
 駋	zhāo	zhao	1	
 駊	pǒ	po	3	
 駉	big	jiōng	jiong	1	
-駈	expel	take	qū	qu	1	
+駈	expel	qū	qu	1	
 駇	wén	wen	2	
-駆	expel	take	qū	qu	1	
+駆	expel	qū	qu	1	
 駅	yì	yi	4	
 駄	pack-horse	tuó	tuo	2	
 駃	gallop	jué	jue	2	
@@ -56060,6 +56321,7 @@
 饳	duò	duo	4	
 饱	bǎo	bao	3	6	
 饯	jiàn	jian	4	
+
 饬	order	chì	chi	4	
 饫	surfeited	yù	yu	4	
 饪	rèn	ren	4	
@@ -56140,6 +56402,7 @@
 餠	rice-cakes	bǐng	bing	3	
 餟	libation	zhuì	zhui	4	
 餞	preserves	jiàn	jian	4	
+
 餝	shì	shi	4	
 餜	cakes	guǒ	guo	3	
 餛	wonton	hún	hun	2	
@@ -56298,7 +56561,8 @@
 飄盪	drift	piāo dàng 	piao dang 	14	
 飄渺	Misty	piāo miǎo 	piao miao 	13	
 飄流	Drift	piāo liú	piao liu	12	
-飄散	drift	piāo sàn	piao san 	14	
+飄散	dissipates	piāo sàn	piao san	14	
+
 飄搖	sway in the wind	piāo yáo	piao yao 	12	
 飄揚	Fluttering	piāo yáng	piao yang 	12	
 飄向	Drifting toward	piāo xiàng	piao xiang 	14	
@@ -56318,7 +56582,8 @@
 颶	cyclone	mountain	jù	ju	4	
 
 颵	shāo	shao	1	
-颴	whirlwind	xuàn	xuan	4	
+颴	whirlwind	Render	xuàn	xuan	4	
+
 颳起	Blowing up	guā qǐ	gua qi 	13	
 颳走	Scrape away	guā zǒu	gua zou 	13	
 颳倒	Scraping down	guā dào	gua dao 	14	
@@ -56380,7 +56645,8 @@
 顯露出來	Reveal it	xiǎn lù chū lái	xian  chu  	3412	
 顯露出	Revealing	xiǎn lù chū 	xian  chu 	341	
 顯露	Revealed	xiǎn lù	xian  	34	
-顯赫	splendour	xiǎn hè	xian he	34	
+顯赫	prominent	xiǎn hè	xian he	34	
+
 
 顯貴	Appreciation	xiǎn guì	xian gui 	34	
 顯要	Apparently	xiǎn yào	xian yao 	34	
@@ -56466,7 +56732,7 @@
 顆堅果	Nuts	kē jiāng uǒ	ke jiang uo	113	
 顆圖釘	Pin nails	kē tú dīng 	ke tu ding 	121	
 顆咖喱魚蛋	Curry fish eggs	kē gā lí yú dàn 	ke ga li yu dan 	11224	
-顅humble	qiān	qian	1	
+顅	qiān	qian	1	
 
 顄	hàn	han	4	
 顃	tán	tan	2	
@@ -56570,7 +56836,8 @@
 頖	disperse	pàn	pan	4	
 頕	dān	dan	1	
 頔	dí	di	2	
-頓飯	Dayton	dùn fàn 	dun fan 	44	
+頓飯	meal	dùn fàn 	dun fan 	441	
+
 頓足	stamp	dùn zú	dun zu 	42	
 頓時	Suddenly	dùn shí	dun shi	42	
 頓便飯	Dayton meal	dùn biàn fàn 	dun bian fan 	444	
@@ -56717,7 +56984,7 @@
 韉	jiān	jian	1	
 韈	socks	wà	wa	4	
 韇	dú	du	2	
-韆	swinghumble	qiān	qian	1	
+韆	swing	qiān	qian	1	
 
 韅	harness	xiǎn	xian	3	
 韄	hù	hu	4	
@@ -56764,7 +57031,8 @@
 鞜	shoes	tà	ta	4	
 鞛	běng	beng	3	
 鞚	bridle	kòng	kong	4	
-鞙	scabbard	xuàn	xuan	4	
+鞙	scabbard	Render	xuàn	xuan	4	
+
 鞗	reins	tiáo	tiao	2	
 鞖	suī	sui	1	
 鞕	yìng	ying	4	
@@ -56772,7 +57040,8 @@
 鞓	tīng	ting	1	
 鞒	qiáo	qiao	2	
 鞐	qia	qia	1	
-鞏固	Consolidate	gǒng gù	gong gu	34	
+鞏固	strengthen	gǒng gù	gong gu	34	
+
 鞎	hén	hen	2	
 鞌	ān	an	1	
 鞋帶	shoelace	xié dài	xie dai 	24	
@@ -57239,7 +57508,8 @@
 雅則	Ya	yā zé	ya ze 	12	
 雅利	Yali	yā lì	ya li	14	
 雅列	Yale	yā liè	ya lie	14	
-雅典	Athens	yā diǎn 	ya dian 	13	
+雅典	Athens	yǎ diǎn 	ya dian 	331	
+
 雅其	Ya yi	yā qí	ya qi	12	
 雅八	Ya eight	yā bā	ya ba	11	
 雅兒	Ya children	yā er	ya er	11	
@@ -57255,7 +57525,7 @@
 雄師	Masters	xióng shī	xiong shi 	21	
 雄壯	Magnificent	xióng zhuàng 	xiong zhuang 	24	
 雄偉	majestic	xióng wěi	xiong wei	23	
-雃humble	qiān	qian	1	
+雃	qiān	qian	1	
 
 雂	qín	qin	2	
 雁	yàn	yan	4	
@@ -57613,7 +57883,7 @@
 阻擋	Block	zǔ dǎng	zu dang	33	
 阻撓	Obstructed	zǔ náo	zu nao	32	
 阺	dǐ	di	3	
-阹	pen	take	qū	qu	1	
+阹	pen	qū	qu	1	
 阸	distress	è	e	4	
 阷	chēng	cheng	1	
 防道	Defense	fáng dào	fang dao	24	
@@ -57639,7 +57909,7 @@
 阤	hill	zhì	zhi	4	
 阣	gài	gai	4	
 阢	wù	wu	4	
-阡	pathshumble	qiān	qian	1	
+阡	paths	qiān	qian	1	
 
 阠	xìn	xin	4	
 阞	vein	lè	le	4	
@@ -57704,7 +57974,8 @@
 關愛	Love	guān ài	guan ai 	14	
 關心	concern	guān xīn	guan xin	11	
 關口	pass	guān kǒu	guan kou 	13	
-關卡	Level	guān kǎ	guan ka 	13	
+關卡	guard post	guān qiǎ	guan qia	13	
+
 關切	Concern	guān qiè	guan qie	14	
 關係	relationship	guān xì	guan xi	14	
 關了	closed	guān le	guan  	1
@@ -57918,7 +58189,8 @@
 門栓	bolt	mén shuān	men shuan 	21	
 門柱	post	mén zhù	men zhu 	24	
 門扇	Door leaf	mén shàn 	men shan 	24	
-門戶	Portal	mén hù	men hu	24	
+門戶	entrance	mén hù	men hu	24	
+
 門徒	disciple	mén tú	men tu 	22	
 門徑	doorway	mén jìng 	men jing 	24	
 門廊	porch	mén láng 	men  	22	
@@ -57928,7 +58200,7 @@
 門下	Under the door	mén xià	men xia 	24	
 镾	mí	mi	2	
 镽	liǎo	liao	3	
-镼	take	qū	qu	1	
+镼	qū	qu	1	
 镻	dié	die	2	
 镺	ǎo	ao	3	
 镹	jiǔ	jiu	3	
@@ -57966,7 +58238,8 @@
 長得	Grow up	zhǎng de	chang de 	31	
 長度	length	cháng dù	chang du	24	
 長幼	Long and young	zhǎng yòu	chang you 	34	
-長官	superior	zhǎng guān	zhang guan	31	
+長官	mayor	zhǎng guān	zhang guan	31	
+
 長存	Keep alive	cháng cún	chang cun	22	
 長子	eldest son	zhǎng zǐ	zhang zi	33	
 長女	Eldest daughter	zhǎng nǚ	zhang nu  	33	
@@ -58003,7 +58276,8 @@
 镢	hoe	jué	jue	2	
 镡	dagger	chán	chan	2	
 镠	liú	liu	2	
-镟	lathe	xuàn	xuan	4	
+镟	lathe	Render	xuàn	xuan	4	
+
 镞	arrowhead	zú	zu	2	
 镝	dysprosium	dī	di	1	
 镛	yōng	yong	1	
@@ -58113,7 +58387,7 @@
 铙	cymbals	náo	nao	2	
 铘	sword	yé	ye	2	
 铗	tongs	jiá	jia	2	
-铖	cheer	zhèn	zhen	4	
+铖	zhèn	zhen	4	
 铕	europium	yǒu	you	3	
 铔	ammonium	yà	ya	4	
 铓	máng	mang	2	
@@ -58124,7 +58398,8 @@
 铌	niobium	ní	ni	2	
 铋	bismuth	bì	bi	4	
 铊	thallium	tā	ta	1	
-铉	xuàn	xuan	4	
+铉	Render	xuàn	xuan	4	
+
 铈	cerium	shì	shi	4	
 铇	bào	bao	4	
 铆	rivet	mǎo	mao	3	
@@ -58166,7 +58441,7 @@
 钑	spear	jí	ji	2	
 钐	samarium	shān	shan	1	
 钏	bracelet	chuàn	chuan	4	
-钎humble	qiān	qian	1	
+钎	qiān	qian	1	
 
 钌	ruthenium	liǎo	liao	3	
 钋	polonium	pō	po	1	
@@ -58192,6 +58467,7 @@
 鑵	jar	guàn	guan	4	
 鑴	xī	xi	1	
 鑳	jiàn	jian	4	
+
 鑲板	panel	xiāng bǎn	xiang ban 	13	
 鑲嵌	mosaic	xiāng qiàn	xiang qian 	14	
 鑲上	Inlaid	xiāng shàng	xiang shang 	14	
@@ -58202,6 +58478,7 @@
 鑮	bó	bo	2	
 鑭	lanthanum	làn	lan	4	
 鑬	jiàn	jian	4	
+
 鑫	xīn	xin	1	
 鑪	fireplace	lú	lu	2	
 鑩	è	e	4	
@@ -58282,6 +58559,7 @@
 鐲子	bracelet	zhuó zi	zhuo zi 	21	
 鐲	bracelet	zhuó	zhuo	2	
 鐱	jiàn	jian	4	
+
 鐰	qiāo	qiao	1	
 鐯	zhuó	zhuo	2	
 鐮刀	sickle	lián dāo	lian dao 	21	
@@ -58355,6 +58633,7 @@
 鏫	lí	li	2	
 鏪	cáo	cao	2	
 鏩	jiàn	jian	4	
+
 鏨	chisel	zàn	zan	4	
 鏧	lóng	long	2	
 鏦	cōng	cong	1	
@@ -58388,7 +58667,8 @@
 鏉	shòu	shou	4	
 鏈條	Chain	liàn tiáo	lian tiao 	42	
 鏈子	chain	liàn zǐ	lian zi	43	
-鏇	lathe	xuàn	xuan	4	
+鏇	lathe	Render	xuàn	xuan	4	
+
 鏆	guàn	guan	4	
 鏅	xiū	xiu	1	
 鏄	tuán	tuan	2	
@@ -58477,6 +58757,7 @@
 鍶	strontium	sōng	song	1	
 鍴	duān	duan	1	
 鍳	jiàn	jian	4	
+
 鍲	mín	min	2	
 鍱	yè	ye	4	
 鍰	measure	huán	huan	2	
@@ -58560,7 +58841,8 @@
 錨	anchor	máo	mao	2	
 錧	guǎn	guan	3	
 錦衣玉食	Food and clothing	jǐn yī yù shí	jin yi yu shi 	3142	
-錦衣	Jin Yi	jǐn yī	jin yi 	31	
+錦衣	fine clothing	jǐn yī	jin yi	31	
+
 錥	yù	yu	4	
 錤	hoe	jī	ji	1	
 錣	zhuì	zhui	4	
@@ -58610,6 +58892,7 @@
 鋾	táo	tao	2	
 鋽	diào	diao	4	
 鋻	jiàn	jian	4	
+
 鋺	yuǎn	yuan	3	
 鋹	sharp	chǎng	chang	3	
 鋸鋸	Saws	jù jù	ju ju 	44	
@@ -58623,7 +58906,7 @@
 鋱	terbium	tè	te	4	
 鋰	lithium	lǐ	li	3	
 鋯	zirconium	gào	gao	4	
-鋮	cheer	zhèn	zhen	4	
+鋮	zhèn	zhen	4	
 鋭	sharp	ruì	rui	4	
 鋬	pàn	pan	4	
 鋫	lí	li	2	
@@ -58682,6 +58965,7 @@
 鋂	méi	mei	2	
 鋀	tōu	tou	1	
 銿	zhōng	zhong	1	
+
 銾	hòng	hong	4	
 銽	guā	gua	1	
 銼	cuò	cuo	4	
@@ -58802,7 +59086,7 @@
 鉞	broad-axe	yuè	yue	4	
 鉝	lì	li	4	
 鉜	fú	fu	2	
-鉛	leadhumble	qiān	qian	1	
+鉛	lead	qiān	qian	1	
 
 
 鉚	rivet	liǔ	liu	3	
@@ -58822,7 +59106,8 @@
 鉌	hé	he	2	
 鉋	bào	bao	4	
 鉊	zhāo	zhao	1	
-鉉	xuàn	xuan	4	
+鉉	Render	xuàn	xuan	4	
+
 鉈	thallium	shī	shi	1	
 鉇	shī	shi	1	
 鉆	tweezers	chān	chan	1	
@@ -58862,6 +59147,7 @@
 鈤	rì	ri	4	
 鈢	xǐ	xi	3	
 鈡	zhōng	zhong	1	
+
 鈠	yì	yi	4	
 鈟	shī	shi	1	
 鈞	jūn	jun	1	
@@ -58884,7 +59170,7 @@
 鈉	sodium	nà	na	4	
 鈈	plutonium	pī	pi	1	
 鈇	ax	fū	fu	1	
-鈆	leadhumble	qiān	qian	1	
+鈆	lead	qiān	qian	1	
 
 鈅	yuè	yue	4	
 鈄	dǒu	dou	3	
@@ -58896,8 +59182,9 @@
 釾	yé	ye	2	
 釽	pì	pi	4	
 釼	sword	jiàn	jian	4	
+
 釻	qiu	qiu	1	
-釺humble	qiān	qian	1	
+釺	qiān	qian	1	
 
 釹	neodymium	nǚ	nu	3	
 釸	xī	xi	1	
@@ -59140,7 +59427,7 @@
 酵母	yeast	jiào mǔ	jiao mu 	43	
 酴	leaven	tú	tu	2	
 酳	yìn	yin	4	
-酲	hangover	cheer	zhèn	zhen	4	
+酲	hangover	zhèn	zhen	4	
 酱	jiàng	jiang	4	
 酰	acyl	xiān	xian	1	
 酯	ester	zhǐ	zhi	3	
@@ -59350,7 +59637,7 @@
 郘	lǘ	lu	2	
 郗	xī	xi	1	
 郖	dòu	dou	4	
-郕	cheer	zhèn	zhen	4	
+郕	zhèn	zhen	4	
 郔	yán	yan	2	
 郓	surname	yùn	yun	4	
 郒	lang	lang	1	
@@ -59410,7 +59697,8 @@
 那是	That is	nà shì	na shi	44	
 那天	that day	nà tiān	na tian	41	
 
-那個	that one	nà gè	na ge	44	
+那個	that one	nà ge	na ge	41	
+
 那位	that	nà wèi	na wei	44	
 
 邢	surname	xíng	xing	2	
@@ -59447,7 +59735,8 @@
 邊蔭	Shade	biān yīn	bian yin	11	
 邊緣	edge	biān yuán	bian yuan	12	
 邊看	Look at it	biān kàn	bian kan 	14	
-邊界	boundary	biān jiè	bian jie	14	
+邊界	border	biān jiè	bian jie	14	
+
 邊洗	Side wash	biān xǐ	bian xi	13	
 邊框	frame	biān kuāng 	bian kuang 	11	
 邊格拉	Side grader	biān gé lā	bian ge la	121	
@@ -59501,7 +59790,8 @@
 避難所	refuge	bìn àn suǒ	bi  suo 	443	
 避難	Asylum	bìn àn	bin an	44	
 避開	To avoid	bì kāi	bi kai 	41	
-避諱	taboo	bì huì 	bi hui 	44	
+避諱	evade	bì huì 	bi hui 	441	
+
 避惡	Avoid evil	bì è	bi  	44	
 避免	avoid	bì miǎn 	bi mian 	431	
 遾	shì	shi	4	
@@ -59545,6 +59835,7 @@
 遵循	follow	zūn xún	zun xun	12	
 遵從	To comply with	zūn cóng 	zun cong 	12	
 遵守	comply with	zūn shǒu 	zun shou 	131	
+
 遵命	Obey	zūn mìng 	zun ming 	14	
 遳	cuō	cuo	1	
 遲鈍	slow	chí dùn	chi dun	24	
@@ -60149,7 +60440,8 @@
 辱罵	abuse	rǔ mà 	ru ma 	34	
 辱沒	Disgrace	rǔ mò 	ru mei 	34	
 辯護	defend	biàn hù	bian hu	44	
-辯論	debate	biàn lùn	bian lun	44	
+辯論	preach	biàn lùn	bian lun	44	
+
 辯解	excuse	biàn jiě	bian jie 	43	
 辯白	Argue	biàn bái	bian bai 	42	
 辭行	Resignation	cí xíng 	ci xing 	221	
@@ -60160,7 +60452,8 @@
 辨認出來	Identified	biàn rèn chū lái	bian ren chu  	4412	
 辨認	identify	biàn rèn	bian ren	44	
 辨明	Identify	biàn míng	bian ming 	42	
-辨屈	Flexor	biàn qū	bian qu	41	
+辨屈	distortion	biàn qū	bian qu	41	
+
 辨別	distinguish	biàn bié	bian bie 	42	
 辧	manage	biàn	bian	4	
 辦理	To handle	bàn lǐ	ban li	43	
@@ -60229,6 +60522,7 @@
 轟動	stir	hōng dòng 	hong dong 	141	
 
 轞	jiàn	jian	4	
+
 轝	envy	yù	yu	4	
 轜	hearse	ér	er	2	
 轛	zhuì	zhui	4	
@@ -60305,7 +60599,8 @@
 輬	hearse	liáng	liang	2	
 輫	pái	pai	2	
 輪軸	axle	lún zhóu 	 zhou 	22	
-輪流	turn	lún liú 	lun liu 	221	
+輪流	take turns	lún liú 	lun liu 	221	
+
 輪明月	Round moon	lún míng yuè 	lún míng yuè 	224	
 輪換	Rotation	lún huàn 	 huan 	24	
 輪廓	contour	lún kuò 	lun kuo 	241	
@@ -60606,6 +60901,7 @@
 蹳	bō	bo	1	
 蹲伏	crouch	dūn fú	dun fu	12	
 蹱	fall	zhōng	zhong	1	
+
 蹰	hesitate	chú	chu	2	
 蹯	fán	fan	2	
 蹮	whirl	xiān	xian	1	
@@ -60660,6 +60956,7 @@
 踼	táng	tang	2	
 踻	guā	gua	1	
 踺	jiàn	jian	4	
+
 踸	chěn	chen	3	
 踷	zhǎ	zha	3	
 踶	paw	dì	di	4	
@@ -60671,7 +60968,8 @@
 踱	stroll	duó	duo	2	
 踰	exceed	yú	yu	2	
 踯	waver	zhí	zhi	2	
-踮	diǎn	dian	3	
+踮	stay	diǎn	dian	3	
+
 踭	elbow	zhēng	zheng	1	
 踬	stumble	zhì	zhi	4	
 踫	collide	pèng	peng	4	
@@ -60808,7 +61106,8 @@
 跘	pán	pan	2	
 跗	instep	fū	fu	1	
 跖	zhí	zhi	2	
-跕	shuffle	diǎn	dian	3	
+跕	shuffle	stay	diǎn	dian	3	
+
 跔	limp	jū	ju	1	
 跓	zhù	zhu	4	
 跒	qiǎ	qia	3	
@@ -60877,6 +61176,7 @@
 趟火車	Train	tàng huǒ chē 	tang huo che 	431	
 趞	què	que	4	
 趝	pursue	jiàn	jian	4	
+
 趜	suffocate	jú	ju	2	
 趛	yǐn	yin	3	
 趚	sù	su	4	
@@ -61073,7 +61373,8 @@
 贜	booty	zāng	zang	1	
 贛	place	gàn	gan	4	
 贚	lòng	long	4	
-贙	xuàn	xuan	4	
+贙	Render	xuàn	xuan	4	
+
 贘	shǎng	shang	3	
 贗	counterfeit	yàn	yan	4	
 贖金	ransom	shú jīn 	shu  	21	
@@ -61197,6 +61498,7 @@
 賐	xùn	xun	4	
 賏	yīng	ying	1	
 賎	mean	jiàn	jian	4	
+
 賍	booty	zāng	zang	1	
 賌	gài	gai	4	
 賋	jiǎo	jiao	3	
@@ -61446,7 +61748,7 @@
 谻	jí	ji	2	
 谺	xiā	xia	1	
 谹	hóng	hong	2	
-谸humble	qiān	qian	1	
+谸	qiān	qian	1	
 
 谷歌	Google	gǔ gē 	gu ge 	31	
 谷何西是	Valley Hexi is	gǔ hé xi shì	gu he xi shi	3214	
@@ -61474,6 +61776,7 @@
 谒	visit	yè	ye	4	
 谑	jeer	xuè	xue	4	
 谏	remonstrate	jiàn	jian	4	
+
 谌	sincere	chén	chen	2	
 谉	shěn	shen	3	
 谇	vilify	suì	sui	4	
@@ -61501,7 +61804,7 @@
 诓	cheat	basket	kuāng	kuang	1	
 诒	bequeath	yí	yi	2	
 诐	argue	bì	bi	4	
-诎	bend	take	qū	qu	1	
+诎	bend	qū	qu	1	
 诌	quip	give	zhōu	zhou	1	
 诋	slander	dǐ	di	3	
 诇	spy	xiòng	xiong	4	
@@ -61514,7 +61817,8 @@
 讴	sing	ōu	ou	1	
 讱	rèn	ren	4	
 讬	entrust	tuō	tuo	1	
-讫	finish	laugh	qì	qi	4	
+讫	finish	qì	qi	4	
+
 讧	confusion	hòng	hong	4	
 讣	obituary	fù	fu	4	
 讠	yán	yan	2	
@@ -61577,7 +61881,8 @@
 讅	shěn	shen	3	
 讄	lěi	lei	3	
 讃	praise	zàn	zan	4	
-讂	xuàn	xuan	4	
+讂	Render	xuàn	xuan	4	
+
 讁	punish	zhé	zhe	2	
 讀過	Read it	dú guò 	 guo 	24	
 讀者	reader	dú zhě 	du zhe 	231	
@@ -61590,6 +61895,7 @@
 譾	shallow	jiǎn	jian	3	
 譽為	Reputation as	yù wèi	yu wei 	44	
 譼	jiàn	jian	4	
+
 譻	yīng	ying	1	
 譺	ài	ai	4	
 譹	shout	háo	hao	2	
@@ -61816,6 +62122,7 @@
 諭旨	decree	yù zhǐ 	yu zhi 	43	
 諬	qǐ	qi	3	
 諫	remonstrate	jiàn	jian	4	
+
 諪	tíng	ting	2	
 諩	pǔ	pu	3	
 諨	fú	fu	2	
@@ -61842,9 +62149,10 @@
 諕	intimidate	háo	hao	2	
 諔	chù	chu	4	
 諓	flattering	jiàn	jian	4	
+
 諒必	Will understand	liàng bì	liang bi	44	
 諑	slander	zhuó	zhuo	2	
-諐	faulthumble	qiān	qian	1	
+諐	fault	qiān	qian	1	
 
 諏	consult	zōu	zou	1	
 諎	zé	ze	2	
@@ -61868,7 +62176,8 @@
 談起	Talk about	tán qǐ	tan qi 	23	
 談論著	Talked about	tán lùn zhù	tan  jiao 	244	
 談論	talk	tán lùn 	tan lun 	241	
-談談	Talk about	tán tán	tan tan 	22	
+談談	Talk about	tán tan	tan tan	21	
+
 談話	conversation	tán huà 	tan hua 	241	
 談吐	Talk	tán tǔ	tan tu 	23	
 談及	Talk about	tán jí	tan ji 	22	
@@ -61907,7 +62216,7 @@
 誶	vilify	suì	sui	4	
 誵	xiáo	xiao	2	
 誴	cóng	cong	2	
-誳	take	qū	qu	1	
+誳	qū	qu	1	
 
 
 誰會	who will	sheí huì	shei hui	24	
@@ -62050,7 +62359,8 @@
 該隱	Cain	gāi yǐn	gai yin 	13	
 該說	That said	gāi shuō	gai  	11	
 該親	pro	gāi qīn	gai qin	11	
-該猶	Utah	gāi yóu	gai you	12	
+該猶	Gaius	gāi yóu	gai you	12	
+
 該死	Damn	gāi sǐ	gai si	13	
 該曉	dawn	gāi xiǎo	gai xiao	13	
 該撒利亞	Caesarea	gāi sā lì yǎ	gai sa li ya	1143	
@@ -62107,7 +62417,7 @@
 詛你	Curse you	zǔ nǐ	zu ni	33	
 詚	dá	da	2	
 詙	bá	ba	2	
-詘	bend	take	qū	qu	1	
+詘	bend	qū	qu	1	
 詖	argue	bì	bi	4	
 評論	comment	píng lùn	ping lun	24	
 評評理	Commentary	píng píng lǐ	ping ping  	223	
@@ -62169,7 +62479,8 @@
 訮	xiān	xian	1	
 設餅	Set cake	shè bǐng	she bing	43	
 設計師	Designer	shè jì shī	she ji shi 	441	
-設計	design	shè jì	she ji	44	
+設計	plan	shè jì	she ji	44	
+
 設置	Set up	shè zhì	she zhi	44	
 設立	set up	shè lì	she li	44	
 設法	try	shè fǎ	she fa 	43	
@@ -62206,7 +62517,8 @@
 記下來	record	jì xià lái 	ji xia  	442	
 託付給	Entrusted to	tuō fù gěi 	tuo fu gei 	143	
 託付	Entrusted	tuō fù	tuo fu 	14	
-訖	finish	laugh	qì	qi	4	
+訖	finish	qì	qi	4	
+
 訔	yín	yin	2	
 訓誨	law	xun huì 	xun hui 	141	
 訓誡	rebuke	xùn jiè 	xun jie 	441	
@@ -62353,7 +62665,7 @@
 覿	see	dí	di	2	
 覾	shěn	shen	3	
 覼	luó	luo	2	
-覻	take	qū	qu	1	
+覻	qū	qu	1	
 覺慚	Feel ashamed	jué cán	jué cán	22	
 覺悟	consciousness	jué wù	jue wu	24	
 覺得很	Feel very	jué dé hěn 	jue de hen 	223	
@@ -62364,12 +62676,13 @@
 覷	watch	qù	qu	4	
 覶	order	luó	luo	2	
 覵	jiàn	jian	4	
+
 覴	dēng	deng	1	
 観	see	guān	guan	1	
 覲見	Meet	jìn jiàn 	jin  	44	
 覲	jìn	jin	4	
 覱	zhàn	zhan	4	
-覰	spy	take	qū	qu	1	
+覰	spy	qū	qu	1	
 覯	gòu	gou	4	
 覮	yíng	ying	2	
 覭	míng	ming	2	
@@ -62400,7 +62713,8 @@
 親密	close	qīn mì	qin mi 	14	
 親大	Pro	qīn dà	qin da	14	
 親嘴問	Kiss asked	qīn zuǐ wèn	qin zui wen	134	
-親嘴	kiss	qīn zuǐ	qin zui 	13	
+親嘴	greet	qīn zuǐ	qin zui	13	
+
 親吻	kiss	qīn wěn	qin wen 	13	
 親名	Name	qīn míng	qin ming	12	
 親友	Friends and relatives	qīn yǒu	qin you 	13	
@@ -62468,8 +62782,6 @@
 見就	See it	jiàn jiù	jian jiu	44	
 見太	See too	jiàn tài	jian tai	44	
 見地	See the ground	jiàn dì	 de 	44	
-見到	saw	jiàn dào	jian dao	44	
-見使	See	jiàn shǐ	jian shi	43	
 見你	meet you	jiàn nǐ	jian ni	43	
 見亞比米	See Abimei	jiàn yǎ bǐ mǐ	jian ya bi mi	4333	
 見亞	See sub	jiàn yà	jian ya	44	
@@ -62530,7 +62842,8 @@
 西接	West	xi jiē	xi jie	11	
 西拿	Sina	xi ná	xi na	12	
 西拉希	Silas	xi lā xī	xi la xi	111	
-西拉	Xira	xi lā	xi la	11	
+西拉	Silas	xi lā	xi la	11	
+
 西打	West to play	xi dǎ	xi da	13	
 西戰	West war	xi zhàn	xi zhan	14	
 西心裡	West heart	xi xīn lǐ	xi xin li	113	
@@ -62649,7 +62962,7 @@
 褳	purse	lián	lian	2	
 褲子	pants	kù zi	ku zi	4	
 褱	wrap	huái	huai	2	
-褰	underclothinghumble	qiān	qian	1	
+褰	underclothing	qiān	qian	1	
 
 褯	jiè	jie	4	
 褮	yīng	ying	1	
@@ -62815,7 +63128,7 @@
 裏打	Playing in	lǐ dǎ 	 da 	33	
 裏側	Inside side	lǐ cè 	 ce 	34	
 裏	in	lǐ	li	3	
-裎	cheer	zhèn	zhen	4	
+裎	zhèn	zhen	4	
 裍	kǔn	kun	3	
 裌	jiá	jia	2	
 裋	shù	shu	4	
@@ -62841,6 +63154,7 @@
 袺	jié	jie	2	
 袹	bó	bo	2	
 袸	jiàn	jian	4	
+
 袷	jiá	jia	2	
 袶	jiàng	jiang	4	
 袵	lapel	rèn	ren	4	
@@ -62868,9 +63182,10 @@
 被刀砍	Knocked	bèi dāo kǎn	bei dao kan	413	
 被刀	Was knife	bèi dāo	bei dao	41	
 被世	Was the world	bèi shì	bei shi	44	
-袪	sleeves	take	qū	qu	1	
+袪	sleeves	qū	qu	1	
 袩	zhé	zhe	2	
-袨	xuàn	xuan	4	
+袨	Render	xuàn	xuan	4	
+
 袧	gōu	gou	1	
 袦	nà	na	4	
 袥	tuō	tuo	1	
@@ -62924,6 +63239,7 @@
 衵	chemise	yì	yi	4	
 衴	dǎn	dan	3	
 衳	zhōng	zhong	1	
+
 衲	mend	nà	na	4	
 衱	jié	jie	2	
 衰老	senescence	shuāi lǎo	shuai  	13	
@@ -62994,7 +63310,8 @@
 衛兵	guard	wèi bīng	wei bing	41	
 衚	lane	hú	hu	2	
 衙門	yamen	yá mén 	ya men 	22	
-衙役	Runners	yá yi	ya yi	21	
+衙役	messenger	yá yi	ya yi	21	
+
 衙	office	yá	ya	2	
 衘	xián	xian	2	
 街頭巷尾	Street lanes	jiē tóu xiàng wěi	jie tou xiang wei 	1243	
@@ -63002,14 +63319,16 @@
 街道	street	jiē dào 	jie dao 	141	
 街角	Corner corner	jiē jiǎo 	jie jiao 	13	
 街市	Market	jiē shì	jie shi	14	
-街上	Street	jiē shàng	jie shang 	14	
+街上	Street	jiē shang	jie shang	11	
+
 衖	lane	xiàng	xiang	4	
 衕	alley	tòng	tong	4	
 術迷	Surgery fans	shù mí	shu mi	42	
 術誘	Surgery	shù yòu	shu you	44	
 術士們	magicians	shù shì men	shu shi men	441	
 術士	magician	shù shì 	shu shi 	441	
-衒	brag	xuàn	xuan	4	
+衒	brag	Render	xuàn	xuan	4	
+
 衑	líng	ling	2	
 衐	qu	qu	1	
 衏	yuàn	yuan	4	
@@ -63035,8 +63354,6 @@
 行程	stroke	xíng chéng 	xing cheng 	221	
 行為	behavior	xíng wéi	xing wei	22	
 行滅	Off the line	xíng miè	xing mie	24	
-行淫	Adultery	xíng yín	xing yin	22	
-行法	Line law	xíng fǎ	xing fa	23	
 行毀	Off the line	xíng huǐ	xing hui	23	
 行業	industry	háng yè	hang ye	24	
 行李	Baggage	xíng lǐ	xing li	23	
@@ -63149,7 +63466,8 @@
 蠂	shè	she	4	
 蠁	larvae	xiǎng	xiang	3	
 蠀	cī	ci	1	
-蟿	acridchinensis	laugh	qì	qi	4	
+蟿	acridchinensis	qì	qi	4	
+
 蟽	dá	da	2	
 蟼	jǐng	jing	3	
 蟺	earthworm	shàn	shan	4	
@@ -63213,10 +63531,12 @@
 螿	jiāng	jiang	1	
 螾	earthworm	yǐn	yin	3	
 螽	katydid	zhōng	zhong	1	
+
 螼	qǐn	qin	3	
 螻	Gryllotalporientalis	lóu	lou	2	
 螺旋	spiral	luó xuán 	luo xuan 	22	
 螹	jiàn	jian	4	
+
 螸	yú	yu	2	
 螷	pí	pi	2	
 螶	qú	qu	2	
@@ -63238,6 +63558,7 @@
 螦	sao	sao	1	
 螥	house-fly	cāng	cang	1	
 螤	zhōng	zhong	1	
+
 螣	tè	te	4	
 螡	wén	wen	2	
 螠	yì	yi	4	
@@ -63436,7 +63757,7 @@
 蛓	caterpillar	cì	ci	4	
 蛒	gé	ge	2	
 蛑	móu	mou	2	
-蛐	cricket	take	qū	qu	1	
+蛐	cricket	qū	qu	1	
 蛏	chēng	cheng	1	
 蛍	glow-worm	yíng	ying	2	
 蛌	cricket	gǔ	gu	3	
@@ -63505,7 +63826,7 @@
 蚋	gnat	ruì	rui	4	
 蚊子	Mosquito	wén zi	wen zi	21	
 蚉	mosquito	wén	wen	2	
-蚈humble	qiān	qian	1	
+蚈	qiān	qian	1	
 
 蚇	chǐ	chi	3	
 蚆	bā	ba	1	
@@ -63897,7 +64218,8 @@
 蕊目珠	Core beads	ruǐ mù zhū 	rui mu zhu 	341	
 蕊	ruǐ	rui	3	
 蕈	mushrooms	xùn	xun	4	
-蕇	diǎn	dian	3	
+蕇	stay	diǎn	dian	3	
+
 蕆	finish	chǎn	chan	3	
 蕅	ǒu	ou	3	
 蕄	méng	meng	2	
@@ -63926,6 +64248,7 @@
 蔬菜	vegetables	shū cài 	shu cai 	141	
 蔫	withered	niān	nian	1	
 蔪	jiàn	jian	4	
+
 蔩	yín	yin	2	
 蔨	juàn	juan	4	
 蔧	huì	hui	4	
@@ -63934,12 +64257,14 @@
 蔤	mì	mi	4	
 蔢	pó	po	2	
 蔠	zhōng	zhong	1	
+
 蔟	cù	cu	4	
 蔞	Artemisistelleriana	lóu	lou	2	
 蔝	mǐ	mi	3	
 蔜	áo	ao	2	
 蔛	hú	hu	2	
-蔙	xuàn	xuan	4	
+蔙	Render	xuàn	xuan	4	
+
 蔘	ginseng	shēn	shen	1	
 蔖	cuó	cuo	2	
 蔕	dì	di	4	
@@ -64060,7 +64385,8 @@
 蒪	pò	po	4	
 蒩	zū	zu	1	
 蒨	qiàn	qian	4	
-蒧	diǎn	dian	3	
+蒧	stay	diǎn	dian	3	
+
 蒦	measure	huò	huo	4	
 蒥	liú	liu	2	
 蒤	tú	tu	2	
@@ -64110,7 +64436,8 @@
 葽	Polygaljaponica	yāo	yao	1	
 葼	zōng	zong	1	
 葻	lán	lan	2	
-葺	thatch	laugh	qì	qi	4	
+葺	thatch	qì	qi	4	
+
 葹	xanthium	shī	shi	1	
 葸	afraid	xǐ	xi	3	
 葶	tíng	ting	2	
@@ -64131,6 +64458,7 @@
 葧	bó	bo	2	
 葦子	Reed	wěi zi	wei zi	31	
 葥	jiàn	jian	4	
+
 葤	grass	zhòu	zhou	4	
 葢	cover	gài	gai	4	
 葡萄酒	wine	pú táo jiǔ 	pu tao jiu 	223	
@@ -64243,8 +64571,6 @@
 萯	fù	fu	4	
 萮	yú	yu	2	
 萭	yǔ	yu	3	
-萬馬奔騰	Wanma Pentium	wàn mǎ bēn téng 	wan ma ben teng 	4312	
-萬邦	Wanbang	wàn bāng	wan bang 	41	
 萬軍	Million army	wàn jūn	wan jun	41	
 萬萬	absolutely	wàn wàn	wan wan	44	
 萬籟俱寂	Utterly silent	wàn lài jù jì	wan lai ju ji 	4444	
@@ -64457,7 +64783,7 @@
 莂	bié	bie	2	
 莁	wú	wu	2	
 莀	farm	chén	chen	2	
-荿	cheer	zhèn	zhen	4	
+荿	zhèn	zhen	4	
 荾	suī	sui	1	
 荽	coriander	suī	sui	1	
 荼	tú	tu	2	
@@ -64537,7 +64863,7 @@
 荁	celery	huán	huan	2	
 荀	surname	xún	xun	2	
 茿	zhú	zhu	2	
-茾humble	qiān	qian	1	
+茾	qiān	qian	1	
 
 茽	zhòng	zhong	4	
 茼	tóng	tong	2	
@@ -64760,7 +65086,8 @@
 芡	qiàn	qian	4	
 芠	wén	wen	2	
 芟	mow	shān	shan	1	
-芞	laugh	qì	qi	4	
+芞	qì	qi	4	
+
 芜	wú	wu	2	
 芛	wěi	wei	3	
 芚	foolish	tún	tun	2	
@@ -64776,7 +65103,7 @@
 芎	herb	qiōng	qiong	1	
 芍	peony	sháo	shao	2	
 芌	yù	yu	4	
-芊humble	qiān	qian	1	
+芊	qiān	qian	1	
 
 芉	gān	gan	1	
 芈	surname	mǐ	mi	3	
@@ -64894,6 +65221,7 @@
 舳	zhú	zhu	2	
 舲	houseboat	líng	ling	2	
 舯	zhōng	zhong	1	
+
 舮	lu	lu	1	
 舭	bǐ	bi	3	
 舫	yacht	fǎng	fang	3	
@@ -65022,6 +65350,7 @@
 臸	zhī	zhi	1	
 臷	dié	die	2	
 臶	jiàn	jian	4	
+
 臵	gé	ge	2	
 致靈	Ling Ling	zhì líng	zhi ling	42	
 致死	lethal	zhì sǐ	zhi si 	43	
@@ -65139,7 +65468,7 @@
 臥房	bedroom	wò fáng 	wo fang 	421	
 臥室	bedroom	wò shì 	wo shi 	441	
 臥倒	Lying down	wò dǎo	wo dao 	43	
-臤	hardhumble	qiān	qian	1	
+臤	hard	qiān	qian	1	
 
 臣照	Minister photo	chén zhào	chen zhao	24	
 臣民	Subjects	chén mín	chen min 	22	
@@ -65294,6 +65623,7 @@
 腳上	Feet	jiǎo shàng	jiao shang 	34	
 腲	wěi	wei	3	
 腱	tendons	jiàn	jian	4	
+
 腰間	Waist	yāo jiān	yao jian 	11	
 腰部	waist	yāo bù	yao bu 	14	
 腰身	waist	yāo shēn 	yao shen 	11	
@@ -65377,7 +65707,7 @@
 脰	neck	dòu	dou	4	
 脯	breast	pú	pu	2	
 脮	něi	nei	3	
-脭	cheer	zhèn	zhen	4	
+脭	zhèn	zhen	4	
 脬	bladder	pāo	pao	1	
 脫鞋	Take off your shoes	tuō xié	tuo xie 	12	
 脫離	separate	tuō lí	tuo li	12	
@@ -65385,8 +65715,6 @@
 脫軌	Derailment	tuō guǐ 	tuo gui 	13	
 脫身	Get out	tuō shēn	tuo shen	11	
 脫落	Fall off	tuō luò 	tuo  	14	
-脫臼	dislocation	tuō jiù 	tuo jiu 	14	
-脫罪	Off the crime	tuō zuì	tuo zui 	14	
 脫穎而出	stand out	tuō yǐng ér chū 	tuo ying er chu 	1321	
 脫掉	Take off	tuō diào	tuo diao 	14	
 脫口	Blurt	tuō kǒu 	tuo kou 	13	
@@ -65436,7 +65764,7 @@
 脂粉	cosmetics	zhī fěn 	zhi fen 	13	
 脂油	Grease	zhī yóu 	zhi you 	12	
 脁	tiǎo	tiao	3	
-脀	cheer	zhèn	zhen	4	
+脀	zhèn	zhen	4	
 胿	guī	gui	1	
 胾	zì	zi	4	
 能賜	Can give	néng cì	neng ci	24	
@@ -65504,7 +65832,7 @@
 胡說八道	Nonsense	hú shuō bā dào 	hu  ba dao 	2114	
 胡言亂語	nonsense	hú yán luàn yǔ	hu yan  yu 	2243	
 胡亂	casually	hú luàn 	hu luan 	241	
-胠	open	take	qū	qu	1	
+胠	open	qū	qu	1	
 胟	mǔ	mu	3	
 胞衣	afterbirth	bāo yī	bao yi 	11	
 胝	callous	zhī	zhi	1	
@@ -65628,7 +65956,7 @@
 肉身	Flesh	ròu shēn 	rou shen 	41	
 肉桂	cinnamon	ròu guì	rou gui 	44	
 肉也	Meat also	ròu yě	rou ye	43	
-肈	commence	dog	zhào	zhao	4	
+肈	commence	zhào	zhao	4	
 肆虐	Raging	sì nüè	si  	44	
 肆無忌憚	Unscrupulous	sì wú jì dàn 	si wu ji dan 	4244	
 肆意	Wantonly	sì yì	si yi 	44	
@@ -65644,7 +65972,8 @@
 聾人	Deaf	lóng rén	 ren 	22	
 聽過	Heard of it	tīng guò	ting guo 	14	
 聽起來	sound	tīng qǐ lái 	ting qi lai 	1321	
-聽說	It is said that	tīng shuō	ting shuo	11	
+聽說	heard	tīng shuō	ting shuo	11	
+
 聽訟	Hearing	tìng sòng 	ting song 	44	
 聽見了	heard	tīng jiàn le	ting jian le	14
 聽見	hear	tīng jiàn 	ting jian 	141	
@@ -65726,12 +66055,14 @@
 聚集	Gather	jù jí 	ju ji 	421	
 聚精會神	attentively	jù jīng huì shén 	ju jing hui shen 	41421	
 聚眾	Gather together	jù zhòng 	ju zhong 	44	
-聚會	get together	jù huì 	ju hui 	44	
+聚會	meetup	jù huì 	ju hui 	441	
+
 聚斂	To converge	jù liǎn 	ju lian 	43	
 聚攏	Gather together	jù lǒng 	ju long 	43	
 聚居地	Settlements	jù jū de 	ju ju de 	411	
 聚居	Living together	jù jū	ju ju 	41	
-聚在一起	gather together	jù zài yī qǐ	ju zai yi qi	4413	
+聚在一起	gather together	jù zài yì qǐ	ju zai yi qi	4443	
+
 聙	jīng	jing	1	
 聘金	Hired gold	pìn jīn 	pin jin 	41	
 聘請	hire	pìn qǐng 	pin qing 	431	
@@ -66123,7 +66454,8 @@
 美人	beauty	měi rén	mei ren 	32	
 美事	Good things	měi shì	mei shi	34	
 羍	dá	da	2	
-羌	surname	qiāng	qiang	1	
+羌	Qiang	qiāng	qiang	1	
+
 羋	surname	mǐ	mi	3	
 羊頭	Sheep head	yáng tóu	yang tou 	22	
 羊面	Sheep face	yáng miàn	yang mian	24	
@@ -66160,7 +66492,7 @@
 羅坍	Collusion	luó tān	luó tān	21	
 羅同	Luo Tong	luó tóng	luó tóng	22	
 羅列	List	luó liè 	  	24	
-羄	dog	zhào	zhao	4	
+羄	zhào	zhao	4	
 羃	cover-cloth	mì	mi	4	
 羂	trap	juàn	juan	4	
 羀	liǔ	liu	3	
@@ -66194,7 +66526,8 @@
 罪責	Guilt	zuì zé	zui ze 	42	
 罪證	Evidence	zuì zhèng 	zui zheng 	44	
 罪該處死	Sin to death	zuì gāi chǔ sǐ	zui gai chu si 	4133	
-罪行	offense	zuì xíng 	zui xing 	421	
+罪行	sins	zuì xíng 	zui xing 	421	
+
 罪耶和	Sin yeah	zuì yē hé	zuì yē hé	412	
 罪祭	Sin offering	zuì jì	zuì jì	44	
 罪疚	Guilt	zuì jiù	zuì jiù	44	
@@ -66204,7 +66537,8 @@
 罪惡感	Guilty	zuì è gǎn 	zui  gan 	443	
 罪惡	sin	zuì è	zui e	44	
 罪孽深重	Sinful	zuì niè shēn zhòng 	zui nie shen zhong 	4414	
-罪孽	Iniquity	zuì niè 	zui nie 	44	
+罪孽	sin	zuì niè	zui nie	44	
+
 罪大惡極	Sinful	zuì dà è jí 	zui da  ji 	4442	
 罪名	Charges	zuì míng	zui ming	42	
 罪又活了	Sin is alive again	zuì yòu huó le	zuì yòu huó le	442
@@ -66239,7 +66573,8 @@
 罍	léi	lei	2	
 罌	yīng	ying	1	
 罋	urn	wèng	weng	4	
-罊	laugh	qì	qi	4	
+罊	qì	qi	4	
+
 罉	pot	cang	cang	1	
 罈	jug	tán	tan	2	
 罇	goblet	zūn	zun	1	
@@ -66432,6 +66767,7 @@
 繞道而行	Bypass the line	rào dào ér xíng 	rao dao er  	4422	
 繞道	detour	rào dào 	rao dao 	44	
 繝	jiàn	jian	4	
+
 繜	zūn	zun	1	
 繛	chuò	chuo	4	
 繚繞	Shrouded	liáo rào	liao rao 	24	
@@ -66449,7 +66785,8 @@
 繒	surname	zēng	zeng	1	
 繑	qiāo	qiao	1	
 繐	suì	sui	4	
-繏	xuàn	xuan	4	
+繏	Render	xuàn	xuan	4	
+
 繎	rán	ran	2	
 繍	embroider	xiù	xiu	4	
 繌	sha	sha	1	
@@ -66499,7 +66836,8 @@
 總共有	There are	zǒng gòng yǒu	zong gong you 	343	
 總共	In total	zǒng gòng 	zong gong 	341	
 總之	In short	zǒng zhī	zong zhi	31	
-縼	xuàn	xuan	4	
+縼	Render	xuàn	xuan	4	
+
 縻	harness	mí	mi	2	
 縺	tangle	lián	lian	2	
 縹	dim	piǎo	piao	3	
@@ -66731,7 +67069,8 @@
 經四	By four	jīng sì	jing si	14	
 經商	Business	jīng shāng 	jing shang 	11	
 經受	To suffer	jīng shòu	jing shou 	14	
-經上	By the upper	jīng shàng	jing shang	14	
+經上	Scripture	jīng shàng	jing shang	14	
+
 綒	fū	fu	1	
 綑綁	Tied up	kǔn bǎng 	kun bang 	33	
 綑	coil	kǔn	kun	3	
@@ -66757,7 +67096,7 @@
 綁上	Tied up	bǎng shàng	bang shang 	34	
 綀	sackcloth	shū	shu	1	
 絿	urgent	qiú	qiu	2	
-絾	cheer	zhèn	zhen	4	
+絾	zhèn	zhen	4	
 絽	lǚ	lu	3	
 絼	zhěn	zhen	3	
 絻	mourning	miǎn	mian	3	
@@ -66877,7 +67216,8 @@
 終歸	After all	zhōng guī	zhong gui 	11	
 終止	termination	zhōng zhǐ	zhong zhi 	13	
 終日	All day long	zhōng rì	zhong ri 	14	
-終於	at last	zhōng yū	zhong yu	11	
+終於	at last	zhōng yú	zhong yu	12	
+
 
 終成泡影	Bubble	zhōng chéng pào yǐng	zhong cheng pao ying 	1243	
 終局	Final	zhōng jú	zhong ju 	12	
@@ -66893,7 +67233,7 @@
 紺	gàn	gan	4	
 紸	zhù	zhu	4	
 紷	líng	ling	2	
-紶	take	qū	qu	1	
+紶	qū	qu	1	
 紵	ramie	zhù	zhu	4	
 紴	bō	bo	1	
 紲	bridle	xiè	xie	4	
@@ -67109,6 +67449,7 @@
 糍	cí	ci	2	
 糌	zān	zan	1	
 糋	jiàn	jian	4	
+
 糊塗	fool	hú tú	hu tu	22	
 糊口	Make a living	hú kǒu 	hu kou 	23	
 糉	zòng	zong	4	
@@ -67164,7 +67505,7 @@
 粰	fú	fu	2	
 粯	xiàn	xian	4	
 粭	he	he	1	
-粬	take	qū	qu	1	
+粬	qū	qu	1	
 粫	ér	er	2	
 粩	lao	lao	1	
 粨	hectometre	bǎi	bai	3	
@@ -67240,7 +67581,7 @@
 粄	bǎn	ban	3	
 粃	bǐ	bi	3	
 粂	surname	zhai	zhai	1	
-粁	kilometrehumble	qiān	qian	1	
+粁	kilometre	qiān	qian	1	
 
 粀	zhang	zhang	1	
 籿	cùn	cun	4	
@@ -67317,6 +67658,7 @@
 籨	trousseau	lián	lian	2	
 籧	qú	qu	2	
 籦	zhōng	zhong	1	
+
 籥	key	yuè	yue	4	
 籣	lán	lan	2	
 籢	lián	lian	2	
@@ -67561,7 +67903,7 @@
 管以薩	Tube to Sa	guǎn yǐ sà	guan yi sa	334	
 箠	flog	chuí	chui	2	
 箟	jùn	jun	4	
-箞humble	qiān	qian	1	
+箞	qiān	qian	1	
 
 箝	tweezers	qián	qian	2	
 箜	kōng	kong	1	
@@ -67619,7 +67961,7 @@
 筯	chopsticks	zhù	zhu	4	
 筮	divination	shì	shi	4	
 筭	count	suàn	suan	4	
-筬	cheer	zhèn	zhen	4	
+筬	zhèn	zhen	4	
 筫	zhì	zhi	4	
 筪	xiá	xia	2	
 筩	pipe	tóng	tong	2	
@@ -67702,7 +68044,7 @@
 筄	yào	yao	4	
 筃	yīn	yin	1	
 筂	chí	chi	2	
-筁	take	qū	qu	1	
+筁	qū	qu	1	
 筀	guì	gui	4	
 笿	luò	luo	4	
 笾	biān	bian	1	
@@ -67802,7 +68144,7 @@
 笍	zhuì	zhui	4	
 笌	bird	yá	ya	2	
 笋	sǔn	sun	3	
-笊	ladle	dog	zhào	zhao	4	
+笊	ladle	zhào	zhao	4	
 笉	qǐn	qin	3	
 笈	jí	ji	2	
 笇	suàn	suan	4	
@@ -67976,7 +68318,7 @@
 窟窿	hole	kū long	ku long	11	
 窞	pit	dàn	dan	4	
 窛	kòu	kou	4	
-窚	cheer	zhèn	zhen	4	
+窚	zhèn	zhen	4	
 窙	flute	xiāo	xiao	1	
 
 窗簾	curtain	chuāng lián	chuang  	12	
@@ -68151,10 +68493,9 @@
 稱頌	praise	chēng sòng	cheng song 	14	
 稱霸	dominate	chēng bà	cheng ba 	14	
 稱這	Called this	chēng zhè	cheng zhe	14	
-稱讚	praise	chēng zàn	cheng zan 	14	
-稱謝	Thank you	chēng xiè	cheng xie 	14	
 稱謂	title	chēng wèi	cheng wei 	14	
-稱為	Called	chēng wèi	cheng wei 	14	
+稱為	Called	chēng wéi	cheng wei	12	
+
 稱得上	Called it	chēng de shàng	cheng de shang 	114	
 稱善	Say good	chēng shàn	cheng  	14	
 稱呼	call	chēng hū	cheng hu	11	
@@ -68434,8 +68775,6 @@
 祭品	Sacrifice	jì pǐn	ji pin 	43	
 祭和	Sacrifice and	jì hé	ji he	42	
 祭司們	priests	jì sī men	ji si men	411	
-祭司	priest	jì sī	ji si 	41	
-祭偶	Only	jì ǒu	ji ou	43	
 祭便	Sacrifice	jì biàn	ji bian	44	
 祬	zhī	zhi	1	
 祫	xiá	xia	2	
@@ -68492,7 +68831,7 @@
 祝福	blessing	zhù fú	zhu fu	42	
 祝你	Wish you	zhù nǐ	zhu ni 	43	
 祜	blessing	hù	hu	4	
-祛	expel	take	qū	qu	1	
+祛	expel	qū	qu	1	
 祚	throne	zuò	zuo	4	
 祙	demon	mèi	mei	4	
 祘	calculate	suàn	suan	4	
@@ -68541,7 +68880,8 @@
 示米	Shimi	shì mǐ	shi mi	43	
 示篩	Sheshai	shì shāi	shi shai	41	
 示範	demonstration	shì fàn	shi fan	44	
-示眾	Show the public	shì zhòng 	shi zhong 	44	
+示眾	show the crowd	shì zhòng 	shi zhong 	441	
+
 示瑪雅	Shemaiah	shì mǎ yā	shi ma ya	431	
 示瑪利雅	Chalie ya	shì mǎ lì yā	shi ma li ya	4341	
 示瑪	Shima	shì mǎ	shi ma	43	
@@ -68636,6 +68976,7 @@
 磸	dìng	ding	4	
 磶	xì	xi	4	
 磵	brook	jiàn	jian	4	
+
 磴	cliff	dèng	deng	4	
 磳	zēng	zeng	1	
 磲	qú	qu	2	
@@ -68648,7 +68989,8 @@
 磬	chime	qìng	qing	4	
 磫	zōng	zong	1	
 磪	precipitous	cuī	cui	1	
-磩	laugh	qì	qi	4	
+磩	qì	qi	4	
+
 磨難	Hardships	mó nàn 	mo  	24	
 磨磨	Grinding	mó mó	mo mo 	22	
 磨碎	grinding	mó suì	mo sui 	24	
@@ -68663,7 +69005,8 @@
 磨得	Grinding up	mò de	mo de 	41	
 磨子	mill	mó zi	mo zi	21	
 磨亮	Polished	mó liàng	mo  	24	
-磧	crush	laugh	qì	qi	4	
+磧	crush	qì	qi	4	
+
 磦	biāo	biao	1	
 磥	boulders	lěi	lei	3	
 磤	yǐn	yin	3	
@@ -68674,7 +69017,8 @@
 磟	mediocre	liù	liu	4	
 磞	pēng	peng	1	
 磝	áo	ao	2	
-磜	laugh	qì	qi	4	
+磜	qì	qi	4	
+
 磛	cliff	chán	chan	2	
 磚窰	brick kiln	zhuān yáo	zhuan yao	12	
 磚瓦	tile	zhuān wǎ	zhuan wa 	13	
@@ -68719,10 +69063,12 @@
 確切	exact	què qiè 	que qie 	441	
 確信	Convinced	què xìn	que xin 	44	
 確保	make sure	què bǎo	que bao	43	
-碹	xuàn	xuan	4	
+碹	Render	xuàn	xuan	4	
+
 碸	fēng	feng	1	
 碷	dun	dun	1	
-碶	flood-gate	laugh	qì	qi	4	
+碶	flood-gate	qì	qi	4	
+
 碵	tian	tian	1	
 碴	chá	cha	2	
 碲	dì	di	4	
@@ -68753,7 +69099,8 @@
 碞	watchtower	yán	yan	2	
 碝	ruǎn	ruan	3	
 碜	gritty	chěn	chen	3	
-碛	laugh	qì	qi	4	
+碛	qì	qi	4	
+
 碚	suburb	bèi	bei	4	
 碙	náo	nao	2	
 碗靚仔	Bowl handsome	wǎn liàng zǎi 	wan liang zai 	343	
@@ -68783,7 +69130,7 @@
 碃	qìng	qing	4	
 碂	zòng	zong	4	
 碁	chess	qí	qi	2	
-碀	cheer	zhèn	zhen	4	
+碀	zhèn	zhen	4	
 硿	kōng	kong	1	
 硾	weight	zhuì	zhui	4	
 硽	yān	yan	1	
@@ -68954,7 +69301,8 @@
 矹	wù	wu	4	
 矸	gān	gan	1	
 矷	zǐ	zi	3	
-矵	laugh	qì	qi	4	
+矵	qì	qi	4	
+
 矴	anchor	dìng	ding	4	
 石頭	stone	shí tou	shi tou	21	
 
@@ -69006,8 +69354,6 @@
 知易	Easy to understand	zhī yì	zhi yi	14	
 知情	Knowing	zhī qíng 	zhi qing 	12	
 知如	Know if	zhī rú	zhi ru	12	
-知以賽	Know the match	zhī yǐ sài	zhi yi sai	134	
-知以	Know to	zhī yǐ	zhi yi	13	
 矤	shěn	shen	3	
 矢口否認	Denied	shǐ kǒu fǒu rèn 	shi kou fou ren 	3334	
 矡	jué	jue	2	
@@ -69045,7 +69391,7 @@
 矁	gaze	chǒu	chou	3	
 矀	méi	mei	2	
 瞿	surname	qú	qu	2	
-瞾	dog	zhào	zhao	4	
+瞾	zhào	zhao	4	
 瞽	blind	gǔ	gu	3	
 瞼	eyelid	jiǎn	jian	3	
 瞻仰	Pay attention to	zhān yǎng 	zhan yang 	13	
@@ -69053,6 +69399,7 @@
 瞹	clouded	ài	ai	4	
 瞸	yè	ye	4	
 瞷	jiàn	jian	4	
+
 瞶	dim	guì	gui	4	
 瞵	lín	lin	2	
 瞴	móu	mou	2	
@@ -69193,8 +69540,6 @@
 睃	suō	suo	1	
 睂	méi	mei	2	
 着魔	magic	zháo mó	zhao mo	22	
-着衣	Clothing	zhuó yī	zhuó yī	21	
-着花	With flowers	zhe huā	zhe hua	11	
 着眼	Focus on	zhuó yǎn	 yan 	23	
 着用	Use it	zhe yòng 	 yong 	14	
 着火	on fire	zháo huǒ	 huo 	23	
@@ -69256,7 +69601,8 @@
 眷屬	Dependents	juàn shǔ	juàn shǔ	43	
 眷	juàn	juan	4	
 眵	chī	chi	1	
-眴	dazzled	xuàn	xuan	4	
+眴	dazzled	Render	xuàn	xuan	4	
+
 眳	míng	ming	2	
 眲	nè	ne	4	
 眱	dì	di	4	
@@ -69331,7 +69677,8 @@
 看著	Look at	kàn zhe	kan zhe	41	
 看管	Care	kān guǎn 	kan guan 	13	
 看祭	See a sacrifice	kàn jì	kan ji	44	
-看看	Look at it	kàn kàn	kan kan	44	
+看看	look	kàn kàn	kan kan	44	
+
 看瑪哈	See Maha	kàn mǎ hā	kan ma ha	431	
 看準	Spotted	kàn zhǔn	kan zhun 	43	
 看清楚	See clearly	kàn qīng chu	kan qing chu 	411	
@@ -69372,8 +69719,6 @@
 省會	provincial capital	shěng huì	 hui 	34	
 省悟	Enlightenment	xǐng wù	xing wu	34	
 省得	Save	shěng de	sheng de	31	
-省察	Inspection	xǐng chá	 cha 	32	
-省去	Save away	shěng qù	 qu 	34	
 省區	Provinces	shěng qū	 qu 	31	
 省份	province	shěng fèn	 fen 	34	
 眀	míng	ming	2	
@@ -69385,7 +69730,8 @@
 盻	glare	xì	xi	4	
 盺	xīn	xin	1	
 盹	doze	dǔn	dun	3	
-相離	Phase away from	xiāng lí	xiang li	12	
+相離	go away from	xiāng lí	xiang li	12	
+
 相隔	Separated by	xiāng gé	xiang ge 	12	
 相關	Related	xiāng guān	xiang guan	11	
 相鄰	Adjacent	xiāng lín	xiang lin 	12	
@@ -69428,7 +69774,8 @@
 相互	mutual	xiāng hù	xiang hu	14	
 盷	tián	tian	2	
 盶	yuǎn	yuan	3	
-盵	laugh	qì	qi	4	
+盵	qì	qi	4	
+
 直降	fall	zhí jiàng	zhi jiang	24	
 直闖	Straight break	zhí chuǎng	 chuang 	23	
 直達	Direct	zhí dá	 da 	22	
@@ -69579,6 +69926,7 @@
 盆花	Potted flowers	pén huā 	pen hua 	21	
 盆子	Pots	pén zi	pen zi 	21	
 盅	zhōng	zhong	1	
+
 盄	zhāo	zhao	1	
 盂	basin	yú	yu	2	
 盁	yíng	ying	2	
@@ -70078,7 +70426,7 @@
 畾	léi	lei	2	
 畽	ground	tǔn	tun	3	
 畼	chàng	chang	4	
-畻	cheer	zhèn	zhen	4	
+畻	zhèn	zhen	4	
 畺	boundary	jiāng	jiang	1	
 畹	wǎn	wan	3	
 畸形	deformity	jī xíng	ji xing	12	
@@ -70092,8 +70440,6 @@
 當讚	When praise	dāng zàn	dang zan	14	
 當稱	When said	dāng chēng	dang cheng	11	
 當知	Know when	dāng zhī	dang zhi	11	
-當着	in front	dāng zhe	dang  	11	
-當眾	in public	dāng zhòng 	dang zhong 	14	
 當瘟	When the plague	dāng wēn	dang wen	11	
 當當	Dangdang	dàng dàng 	dang dang 	44	
 當用	When used	dāng yòng	dang yong	14	
@@ -70441,7 +70787,8 @@
 甋	dì	di	4	
 甊	lǒu	lou	3	
 甉	xián	xian	2	
-甈	laugh	qì	qi	4	
+甈	qì	qi	4	
+
 甇	jar	yīng	ying	1	
 甆	cí	ci	2	
 甅	centigram	
@@ -70472,7 +70819,7 @@
 瓬	fǎng	fang	3	
 瓫	pén	pen	2	
 瓪	bǎn	ban	3	
-瓩	kilowatthumble	qiān	qian	1	
+瓩	kilowatt	qiān	qian	1	
 
 瓨	xiáng	xiang	2	
 瓧	decagram	
@@ -70538,7 +70885,8 @@
 環顧四周	look around	huán gù sì zhōu	huan gu si zhou 	2441	
 環顧	Look around	huán gù	huan gu 	24	
 環視	Look around	huán shì	huan  	24	
-環繞著	Surrounded by	huá n ràozhe	huan rao jiao 	214	
+環繞著	Surrounded by	huán rào zhe	huan rao zhe	241	
+
 環繞	surround	huán rào	huan rao 	24	
 環抱	Surrounded by	huán bào	huan bao 	24	
 環子	Ring son	huán zi	huán zi	21	
@@ -70776,7 +71124,8 @@
 理基伊	Rationale	lǐ jī yī	li ji yi	311	
 理你	Care for you	lǐ nǐ	li ni	33	
 琅	pure	láng	lang	2	
-琄	scabbard	xuàn	xuan	4	
+琄	scabbard	Render	xuàn	xuan	4	
+
 琂	yán	yan	2	
 琁	star	xuán	xuan	2	
 琀	hán	han	2	
@@ -70794,11 +71143,11 @@
 珼	bèi	bei	4	
 珻	méi	mei	2	
 珺	jùn	jun	4	
-珹	pearl	cheer	zhèn	zhen	4	
+珹	pearl	zhèn	zhen	4	
 珸	wú	wu	2	
 珷	wǔ	wu	3	
 珶	dì	di	4	
-珵	cheer	zhèn	zhen	4	
+珵	zhèn	zhen	4	
 珴	é	e	2	
 珳	wén	wen	2	
 珲	bright	huī	hui	1	
@@ -70844,6 +71193,7 @@
 珖	carat	guàng	guang	4	
 珕	lì	li	4	
 珔	jiàn	jian	4	
+
 珓	jiào	jiao	4	
 珒	jīn	jin	1	
 珑	lóng	long	2	
@@ -71060,7 +71410,8 @@
 獅子吼	Lion roar	shī zi hǒu 	shi zi hou 	113	
 獅子	lion	shī zi	shi zi	11	
 獅吼	Lion roar	shī hǒu	shi hou 	13	
-獄卒	jailer	yù cù 	yu zu 	44	
+獄卒	jailer	yù zú	yu zu	42	
+
 獄中	In prison	yù zhōng 	yu zhong 	41	
 獃	dull	dāi	dai	1	
 獂	yuán	yuan	2	
@@ -71085,7 +71436,8 @@
 猶太人	Jews	yóu tài rén 	you tai ren 	242	
 猶太	Judea	yóu tài 	you tai 	241	
 猶大	Judah	yóu dà	you da 	24	
-猶原	Utah	yóu yuán 	you yuan 	22	
+猶原	remain	yóu yuán 	you yuan 	221	
+
 猶八	Still eight	yóu bā	you ba	21	
 猵	biān	bian	1	
 猳	jiā	jia	1	
@@ -71106,7 +71458,8 @@
 猣	zōng	zong	1	
 猢	hú	hu	2	
 猡	pig	luó	luo	2	
-猠	diǎn	dian	3	
+猠	stay	diǎn	dian	3	
+
 猟	hunt	lie	lie	1	
 猞	猞猁	shē	she	1	
 猝不及防	Caught off guard	cù bù jí fáng 	cu  ji fang 	4422	
@@ -71179,7 +71532,7 @@
 狦	shān	shan	1	
 狥	follow	xùn	xun	4	
 狤	jí	ji	2	
-狣	dog	zhào	zhao	4	
+狣	zhào	zhao	4	
 狢	hé	he	2	
 狡詐	cunning	jiǎo zhà	jiao zha 	34	
 狡猾	cunning	jiǎo huá	jiao hua 	32	
@@ -71346,6 +71699,7 @@
 牰	yòu	you	4	
 牯	cow	gǔ	gu	3	
 牮	jiàn	jian	4	
+
 牭	sì	si	4	
 牬	bèi	bei	4	
 牫	gē	ge	1	
@@ -71555,7 +71909,7 @@
 燶	burn	nóng	nong	2	
 燵	foot-warmer	da	da	1	
 燴	ragout	huì	hui	4	
-燳	dog	zhào	zhao	4	
+燳	zhào	zhao	4	
 燲	xié	xie	2	
 燱	yì	yi	4	
 燰	wēi	wei	1	
@@ -71630,7 +71984,8 @@
 燈臺	lampstand	dēng tái	deng tai 	12	
 燈籠	lantern	dēng lóng	deng long	12	
 燈盞	Lamp light	dēng zhǎn	deng zhan 	13	
-燈火通明	Brightly lit.	dēng huǒ tōng míng 	deng huo tong ming 	1312	
+燈火通明	flickering lamps	dēng huǒ tōng míng 	deng huo tong ming 	13121	
+
 燈火	lights	dēng huǒ	deng huo	13	
 燈油	kerosene	dēng yóu	deng you 	12	
 燈柱	lamp post	dēng zhù	deng zhu 	14	
@@ -72176,7 +72531,7 @@
 炧	ashes	xiè	xie	4	
 炦	bá	ba	2	
 炥	fú	fu	2	
-炤	illumine	dog	zhào	zhao	4	
+炤	illumine	zhào	zhao	4	
 炣	kě	ke	3	
 炢	zhú	zhu	2	
 炡	zhēng	zheng	1	
@@ -72209,7 +72564,9 @@
 炄	niǔ	niu	3	
 炃	fén	fen	2	
 炂	zhōng	zhong	1	
-炁	breath	laugh	qì	qi	4	
+
+炁	breath	qì	qi	4	
+
 炀	roast	yáng	yang	2	
 灾	calamity	zāi	zai	1	
 災難	disaster	zāi nàn 	zai nan 	141	
@@ -72338,6 +72695,7 @@
 瀵	fèn	fen	4	
 瀴	yíng	ying	2	
 瀳	jiàn	jian	4	
+
 瀲	waves	liàn	lian	4	
 瀱	jì	ji	4	
 瀰漫	fill	mí màn 	mi man 	241	
@@ -72365,7 +72723,7 @@
 瀕臨	On the verge of	bīn lín	bin  	12	
 瀕死	Dying	bīn sǐ	bin si 	13	
 瀔	river	gǔ	gu	3	
-瀓	cheer	zhèn	zhen	4	
+瀓	zhèn	zhen	4	
 瀒	coarse	sè	se	4	
 瀑布	waterfall	pù bù 	pu bu 	441	
 瀐	jiān	jian	1	
@@ -72389,6 +72747,7 @@
 濼	river	luò	luo	4	
 濻	wěi	wei	3	
 濺	splash	jiàn	jian	4	
+
 濹	me	me	1	
 濸	cang	cang	1	
 濷	fèi	fei	4	
@@ -72497,6 +72856,7 @@
 澙	xì	xi	4	
 澘	shān	shan	1	
 澗	brook	jiàn	jian	4	
+
 澖	xián	xian	2	
 澕	hé	he	2	
 澔	hào	hao	4	
@@ -72517,7 +72877,7 @@
 澅	huà	hua	4	
 澄清	clarify	chéng qīng	cheng qing 	21	
 澃	jiǒng	jiong	3	
-澂	cheer	zhèn	zhen	4	
+澂	zhèn	zhen	4	
 澁	astringent	sè	se	4	
 潿	wéi	wei	2	
 潾	lín	lin	2	
@@ -72692,8 +73052,6 @@
 滿月	Full moon	mǎn yuè	man yue 	34	
 滿懷信心	Full of confidence	mǎn huái xìn xīn	man huai xin xin 	3241	
 滿懷	Full of	mǎn huái	man huai	32	
-滿意	satisfaction	mǎn yì	man yi	34	
-滿城	Full city	mǎn chéng	man cheng 	32	
 滿地	Montreal	mǎn dì	man de 	34	
 滿口	Mouthful	mǎn kǒu 	man kou 	33	
 滿人	Manchu	mǎn rén	man ren	32	
@@ -72834,7 +73192,7 @@
 溚	drip	tǎ	ta	3	
 溙	tài	tai	4	
 溘	abruptly	kè	ke	4	
-溗	cheer	zhèn	zhen	4	
+溗	zhèn	zhen	4	
 準繩	criterion	zhǔn shéng 	zhun sheng 	32	
 準確	accurate	zhǔn què	zhun que	34	
 準則	Guidelines	zhǔn zé	zhun ze	32	
@@ -72859,6 +73217,7 @@
 溇	lóu	lou	2	
 溆	river	xù	xu	4	
 溅	sprinkle	jiàn	jian	4	
+
 溄	feng	feng	1	
 溃	kuì	kui	4	
 溂	la	la	1	
@@ -72925,8 +73284,10 @@
 湋	river	wéi	wei	2	
 湉	tián	tian	2	
 湈	méi	mei	2	
-湇	laugh	qì	qi	4	
-湆	slow	laugh	qì	qi	4	
+湇	qì	qi	4	
+
+湆	slow	qì	qi	4	
+
 湅	liàn	lian	4	
 湃	turbulent	pài	pai	4	
 湂	è	e	4	
@@ -72958,7 +73319,8 @@
 渴得	Thirsty	kě de	ke de 	31	
 渴了	thirsty	kě le	ke le	3
 渳	mǐ	mi	3	
-渲	xuàn	xuan	4	
+渲	Render	xuàn	xuan	4	
+
 渱	hóng	hong	2	
 渰	yǎn	yan	3	
 港灣	Harbor	gǎng wān	gang wan 	31	
@@ -73052,7 +73414,8 @@
 混合	mixing	hùn hé	hun he	42	
 混入	Mixed with	hùn rù	hun ru 	44	
 混了	Mixed up	hùn le	hun le	4
-混亂	confusion	hǔn luàn 	hun luan 	341	
+混亂	confusion	hùn luàn 	hun luan 	441	
+
 淶	creek	lái	lai	2	
 淵博	Profound	yuān bó	yuan bo 	12	
 淴	hū	hu	1	
@@ -73186,6 +73549,7 @@
 涪	river	fú	fu	2	
 涨	zhǎng	zhang	3	6	
 涧	brook	jiàn	jian	4	
+
 涥	heng	heng	1	
 涤	wash	dí	di	2	
 涣	scatter	huàn	huan	4	
@@ -73356,7 +73720,7 @@
 流便	Flow	liú biàn	liu bian	24	
 流亡	exile	liú wáng 	liu wang 	22	
 流下	Shed	liú xià	liu xia 	24	
-浀	take	qū	qu	1	
+浀	qū	qu	1	
 洿	impure	wū	wu	1	
 派駐	Stationed	pài zhù	pai zhu 	44	
 派遣	send	pài qiǎn	pai qian	43	
@@ -73465,10 +73829,11 @@
 洋溢	Filled with	yáng yì	yang yi 	24	
 洋洋得意	Triumphantly	yáng yáng dé yì 	yang yang de yi 	2224	
 洊	jiàn	jian	4	
+
 洉	hòu	hou	4	
 洈	wéi	wei	2	
 洇	yīn	yin	1	
-洆	cheer	zhèn	zhen	4	
+洆	zhèn	zhen	4	
 洅	zài	zai	4	
 洄	back-water	huí	hui	2	
 洃	huī	hui	1	
@@ -73491,7 +73856,8 @@
 泮	disperse	pàn	pan	4	
 泭	raft	fú	fu	2	
 泬	jué	jue	2	
-泫	weep	xuàn	xuan	4	
+泫	weep	Render	xuàn	xuan	4	
+
 泪	tears	lèi	lei	4	
 泩	shēng	sheng	1	
 注重	Pay attention to	zhù zhòng	zhu zhong	44	
@@ -73575,6 +73941,7 @@
 泉源	source	quán yuán	quan yuan	22	
 泉水	spring	quán shuǐ	quan shui 	23	
 泈	zhōng	zhong	1	
+
 泇	jiā	jia	1	
 泆	licentious	yì	yi	4	
 泅	swim	qiú	qiu	2	
@@ -73764,6 +74131,7 @@
 汹	turbulent	xiōng	xiong	1	
 汸	fāng	fang	1	
 汷	zhōng	zhong	1	
+
 汵	gàn	gan	4	
 汴	Henan	biàn	bian	4	
 汳	biàn	bian	4	
@@ -73781,7 +74149,7 @@
 汪洋	Wang Yang	wāng yáng	wang yang 	12	
 汩	gǔ	gu	3	
 汨	sink	mì	mi	4	
-汧	marshhumble	qiān	qian	1	
+汧	marsh	qiān	qian	1	
 
 汦	zhǐ	zhi	3	
 汥	zhī	zhi	1	
@@ -73806,13 +74174,14 @@
 汜	sì	si	4	
 汛	Sin	xùn	xun	4	
 汚	filthy	wū	wu	1	
-汘humble	qiān	qian	1	
+汘	qiān	qian	1	
 
 汗珠	Sweat	hàn zhū	han zhu 	41	
 汗流滿面	Sweat	hàn liú mǎn miàn 	han liu man mian 	4234	
 汖	pìn	pin	4	
 汕	bamboo	shàn	shan	4	
-汔	laugh	qì	qi	4	
+汔	qì	qi	4	
+
 汓	qiú	qiu	2	
 汒	máng	mang	2	
 汑	tuō	tuo	1	
@@ -73937,7 +74306,8 @@
 氣得	Angry	qì de	qi de 	41	
 氣孔	Stomata	qì kǒng 	qi kong 	43	
 氣喘	asthma	qì chuǎn 	qi chuan 	43	
-氣味	odor	qì wèi 	qi wei 	441	
+氣味	scent	qì wèi 	qi wei 	441	
+
 氣力	strength	qì lì	qi  	44	
 氣來	Come on	qì lái	qi  	42	
 氡	radon	dōng	dong	1	
@@ -73949,10 +74319,12 @@
 氚	tritium	chuān	chuan	1	
 氙	xenon	xiān	xian	1	
 氘	deuterium	dāo	dao	1	
-気	air	laugh	qì	qi	4	
+気	air	qì	qi	4	
+
 氖	neon	nǎi	nai	3	
 氕	hydrogen-1	piē	pie	1	
-气	steam	laugh	qì	qi	4	
+气	steam	qì	qi	4	
+
 氒	jué	jue	2	
 民間	folk	mín jiān 	min jian 	211	
 民覺	People feel	mín jué	mín jué	22	
@@ -73986,6 +74358,7 @@
 毿	scraggy	sān	san	1	
 毾	coarse	tà	ta	4	
 毽	shuttlecock	jiàn	jian	4	
+
 毼	hé	he	2	
 毻	molt	tuò	tuo	4	
 毺	yū	yu	1	
@@ -74126,7 +74499,8 @@
 每秒	Per second	měi miǎo	mei miao 	33	
 每盞	Every one	měi zhǎn	mei zhan 	33	
 每當	whenever	měi dāng	mei dang 	31	
-每班	Each class	měi bān	mei ban 	31	
+每班	Each group	měi bān	mei ban	31	
+
 每次	Each	měi cì	mei ci 	34	
 每樣	every	měi yàng	mei yang 	34	
 每棵	Each tree	měi kē	mei ke 	31	
@@ -74414,7 +74788,8 @@
 正義	justice	zhèng yì	zheng yi	44	
 正確	correct	zhèng què	zheng que	44	
 正直	Upright	zhèng zhí	zheng  	42	
-正當	Justified	zhèng dāng	zheng dang	41	
+正當	when	zhèng dāng	zheng dang	41	
+
 正殿	main hall	zhèng diàn	zheng dian 	44	
 正步	Step forward	zhèng bù	zheng bu 	44	
 正正	Just right	zhèng zhèng	zheng zheng 	44	
@@ -74533,11 +74908,12 @@
 欮	hiccough	jué	jue	2	
 欭	yì	yi	4	
 欬	cough	kài	kai	4	
-欫	laugh	qì	qi	4	
+欫	qì	qi	4	
+
 欪	chù	chu	4	
 欩	chāo	chao	1	
 欨	smile	xū	xu	1	
-欦humble	qiān	qian	1	
+欦	qiān	qian	1	
 
 欥	yì	yi	4	
 欤	doubt	yú	yu	2	
@@ -74567,8 +74943,6 @@
 次安排	Times arrangement	cì ān pái 	ci an pai 	412	
 次子	Second son	cì zǐ	ci zi	43	
 次婚姻	Marriage	cì hūn yīn 	ci hun yin 	411	
-次女	Second woman	cì nǚ	ci  	43	
-次大	Big times	cì dà	ci da	44	
 次可	Times can be	cì kě	ci ke	43	
 次又	Times again	cì yòu	ci you	44	
 欠缺	Lack of	qiàn quē	qian que 	41	
@@ -74663,7 +75037,7 @@
 櫒	sà	sa	4	
 櫑	léi	lei	2	
 櫐	lěi	lei	3	
-櫏humble	qiān	qian	1	
+櫏	qiān	qian	1	
 
 櫎	huǎng	huang	3	
 櫍	zhì	zhi	4	
@@ -74677,7 +75051,7 @@
 櫅	jī	ji	1	
 櫄	chūn	chun	1	
 櫃子	cabinet	guì zi	gui zi	41	
-櫂	oar	dog	zhào	zhao	4	
+櫂	oar	zhào	zhao	4	
 櫁	mì	mi	4	
 櫀	qí	qi	2	
 檿	mulberry	yǎn	yan	3	
@@ -74687,7 +75061,7 @@
 檺	gǎo	gao	3	
 檹	yī	yi	1	
 檷	nǐ	ni	3	
-檶humble	qiān	qian	1	
+檶	qiān	qian	1	
 
 檵	jì	ji	4	
 檴	tree	huò	huo	4	
@@ -74718,7 +75092,7 @@
 檜	guì	gui	4	
 檛	switch	zhuā	zhua	1	
 檚	chǔ	chu	3	
-檙	cheer	zhèn	zhen	4	
+檙	zhèn	zhen	4	
 檘	píng	ping	2	
 檗	tree	bò	bo	4	
 檖	suì	sui	4	
@@ -75064,6 +75438,7 @@
 榙	tā	ta	1	
 榘	ruler	jǔ	ju	3	
 榗	jiàn	jian	4	
+
 榖	gǔ	gu	3	
 榔	láng	lang	2	
 榓	mì	mi	4	
@@ -75121,8 +75496,10 @@
 楩	tree	pián	pian	2	
 楨	hardwood	zhēn	zhen	1	
 楧	yǎng	yang	3	
-楦	xuàn	xuan	4	
-楥	tool	xuàn	xuan	4	
+楦	Render	xuàn	xuan	4	
+
+楥	tool	Render	xuàn	xuan	4	
+
 楤	sǒng	song	3	
 楣	pieces	méi	mei	2	
 楢	tinder	yóu	you	2	
@@ -75137,6 +75514,7 @@
 楙	lush	mào	mao	4	
 楘	band	mù	mu	4	
 楗	jiàn	jian	4	
+
 楖	zhì	zhi	4	
 楕	oval-shaped	tuǒ	tuo	3	
 楔	wedge	xiē	xie	1	
@@ -75214,7 +75592,7 @@
 椌	instrument	qiāng	qiang	1	
 椋	fruit	liáng	liang	2	
 椊	zuó	zuo	2	
-椉	cheer	zhèn	zhen	4	
+椉	zhèn	zhen	4	
 椈	cedar	jú	ju	2	
 椇	jǔ	ju	3	
 椆	chóu	chou	2	
@@ -75231,7 +75609,7 @@
 棻	fēn	fen	1	
 棺材	coffin	guān cái	guan cai	12	
 棺前	Before the coffin	guān qián	guan qian	12	
-棹	oar	dog	zhào	zhao	4	
+棹	oar	zhào	zhao	4	
 棸	surname	zōu	zou	1	
 棷	zōu	zou	1	
 棶	lái	lai	2	
@@ -75273,7 +75651,7 @@
 棙	obstinate	lì	li	4	
 棘手	Tricky	jí shǒu 	ji shou 	23	
 棗	dates	zǎo	zao	3	
-棖	touch	cheer	zhèn	zhen	4	
+棖	touch	zhèn	zhen	4	
 棕櫚樹	Palm tree	zōng lú shù	zong lu shu 	124	
 棕櫚	palm	zōng lú	zong lu 	12	
 棕樹	Palm trees	zōng shù	zong shu 	14	
@@ -75566,6 +75944,7 @@
 栭	king-post	ér	er	2	
 栬	zuì	zui	4	
 栫	fence	jiàn	jian	4	
+
 株麥子	Plant wheat	zhū mài zi	zhu mai zi	141	
 栩	oak	xǔ	xu	3	
 栨	cì	ci	4	
@@ -75586,7 +75965,8 @@
 栘	yí	yi	2	
 栖	perch	qī	qi	1	
 栕	zhēn	zhen	1	
-栔	carve	laugh	qì	qi	4	
+栔	carve	qì	qi	4	
+
 栓	shuān	shuan	1	
 栒	xún	xun	2	
 栐	yǒng	yong	3	
@@ -75686,6 +76066,7 @@
 柌	cí	ci	2	
 柋	dài	dai	4	
 柊	holly	zhōng	zhong	1	
+
 柉	fán	fan	2	
 柈	container	bàn	ban	4	
 柇	hé	he	2	
@@ -75755,7 +76136,7 @@
 
 枫	fēng	feng	1	6	
 枩	song	song	1	
-枨	touch	cheer	zhèn	zhen	4	
+枨	touch	zhèn	zhen	4	
 枧	spout	jiǎn	jian	3	
 枦	lu	lu	1	
 枥	stable	lì	li	4	
@@ -75787,7 +76168,7 @@
 果實	fruit	guǒ shí	guo shi	32	
 果子	Fruit	guǒ zi	guo zi 	31	
 果園	orchard	guǒ yuán 	guo yuan 	32	
-枛	dog	zhào	zhao	4	
+枛	zhào	zhao	4	
 枚鐵針	Iron needle	méi tiě zhēn 	mei tie zhen 	231	
 枚紀念章	Medallion	méi jìn iàn zhāng 	mei jin ian zhang 	2441	
 枚硬幣	Coin	méi yìng bì 	mei ying bi 	244	
@@ -75921,11 +76302,11 @@
 杇	loquat	wū	wu	1	
 杆子	Pole	gān zi	gan zi 	11	
 杅	tub	yú	yu	2	
-杄humble	qiān	qian	1	
+杄	qiān	qian	1	
 
 杁	ru	ru	1	
 朿	stab	cì	ci	4	
-朾	bump	cheer	zhèn	zhen	4	
+朾	bump	zhèn	zhen	4	
 朽木	Rotten wood	xiǔ mù	xiu mu 	34	
 朽敗	Defeated	xiǔ bài	xiu bai 	34	
 朽壞	Rotten	xiǔ huài 	xiu huai 	34	
@@ -76235,7 +76616,8 @@
 更衣	Changing clothes	gēng yī	 yi 	11	
 更能	More capable	gèng néng	 neng 	42	
 更美	More beautiful	gèng měi	 mei 	43	
-更為	More	gèng wèi	 wei 	44	
+更為	More	gèng wéi	geng wei	42	
+
 更深	Deeper	gēng shēn	 shen 	11	
 更有	More	gèng yǒu	 you 	43	
 更是	even more	gèng shì	 shi 	44	
@@ -76288,7 +76670,7 @@
 曏	xiǎng	xiang	3	
 曎	yì	yi	4	
 曍	bright	hào	hao	4	
-曌	dog	zhào	zhao	4	
+曌	zhào	zhao	4	
 曋	shěn	shen	3	
 曊	fèi	fei	4	
 曉諭	Allegory	xiǎo yù	xiao yu	34	
@@ -76348,7 +76730,8 @@
 暦	calendar	lì	li	4	
 暥	yàn	yan	4	
 暤	hào	hao	4	
-暣	laugh	qì	qi	4	
+暣	qì	qi	4	
+
 暢飲	Drink	chàng yǐn	chang yin 	43	
 暡	wěng	weng	3	
 暠	daybreak	gǎo	gao	3	
@@ -76483,8 +76866,6 @@
 時間	time	shí jiān	shi jian	21	
 時辰	Hour	shí chén 	shi chen 	22	
 時興	Fashionable	shí xīng 	shi xing 	21	
-時至今日	Today	shí zhì jīn rì	shi zhi jin ri 	2414	
-時給	When to give	shí gěi 	shi gei 	23	
 時節	season	shí jié 	shi jie 	221	
 時知	Know when	shí zhī	shi zhi	21	
 時機	opportunity	shí jī	shi ji	21	
@@ -76540,7 +76921,8 @@
 昤	sunshine	líng	ling	2	
 昣	zhěn	zhen	3	
 昢	pò	po	4	
-昡	extended	xuàn	xuan	4	
+昡	extended	Render	xuàn	xuan	4	
+
 映襯	Against the background	yìng chèn 	ying chen 	44	
 星體	Stars	xīng tǐ	xing ti 	13	
 星辰	Stars	xīng chén 	xing chen 	121	
@@ -76691,7 +77073,8 @@
 日曆	calendar	rì lì 	ri  	44	
 日晷	Sundial	rì guǐ 	ri gui 	43	
 日日夜夜	Day and night	rì rì yè yè	ri ri ye ye 	4444	
-日日	Day	rì rì	ri ri	44	
+日日	daily	rì rì	ri ri	44	
+
 日教	Day to teach	rì jiào	ri jiao	44	
 日復一日	day to day	rì fù yī rì	ri  yi ri 	4414	
 日後	Future	rì hòu 	ri hou 	441	
@@ -76734,10 +77117,11 @@
 旖	romantic	yǐ	yi	3	
 旕	yú	yu	2	
 旔	jiàn	jian	4	
+
 旓	shāo	shao	1	
 旒	liú	liu	2	
 旑	yǐ	yi	3	
-旐	dog	zhào	zhao	4	
+旐	zhào	zhao	4	
 族長	Patriarch	zú zhǎng 	zu chang 	23	
 族譜	Genealogy	zú pǔ 	zu pu 	23	
 族耶孚	family of Yevo	zú yē fú	zu ye fu	212	
@@ -76788,7 +77172,8 @@
 施壓	Pressure	shī yā	shi ya 	11	
 施基崙	Shi Kilun	shī jī lún	shi ji lun	112	
 施喜列	Shi Xi Lie	shī xǐ liè	shi xi lie	134	
-施以	To apply	shī yǐ	shi yi 	13	
+施以	impose	shī yǐ	shi yi	13	
+
 於詭	In sly	wū guǐ	wu gui	13	
 於甘	In the sweet	wū gān	wu gan	11	
 於死	Die	wū sǐ	wu si	13	
@@ -76940,7 +77325,7 @@
 敽	bind	jiǎo	jiao	3	
 敼	yǐ	yi	3	
 敻	long	xiòng	xiong	4	
-敺	expel	take	qū	qu	1	
+敺	expel	qū	qu	1	
 敹	sew	liáo	liao	2	
 數點	number of points	shù diǎn	 dian 	43	
 數額	Amount of money	shù é	 e 	42	
@@ -77036,12 +77421,14 @@
 敢不	Dare not	gǎn bù	gan  	34	
 敡	rebuke	yì	yi	4	
 敠	weigh	duō	duo	1	
-敟	diǎn	dian	3	
+敟	stay	diǎn	dian	3	
+
 敞開	Open	chǎng kāi	chang kai 	31	
 敜	niè	nie	4	
 敚	duó	duo	2	
 教誨	Teach	jiào huǐ	jiao hui	43	
-教訓	lesson	jiào xun	jiao xun	41	
+教訓	lesson	jiào xùn	jiao xun	44	
+
 教育	education	jiào yù	jiao yu	44	
 教派	sect	jiào pài	jiao pai 	44	
 教會	church	jiào huì	jiao hui	44	
@@ -77049,7 +77436,8 @@
 教授	professor	jiào shòu	jiao shou	44	
 教師	teacher	jiào shī	jiao shi	41	
 教導	teach	jiào dǎo	jiao dao	43	
-教唆	Abetting	jiào suō	jiao suo 	41	
+教唆	start	jiào suō	jiao suo	41	
+
 敘利亞	Syria	xù lì yà	xu li ya	444	
 敗類	Scum	bài lèi	bai  	44	
 敗陣	Defeated	bài zhèn 	bai zhen 	44	
@@ -77169,7 +77557,8 @@
 改換	Change	gǎi huàn 	gǎi huàn 	34	
 改成	Changed to	gǎi chéng	gai cheng 	32	
 改嫁	Remarried	gǎi jià	gai jia	34	
-改天	Change day	gǎi tiān 	gai tian 	311	
+改天	another day	gǎi tiān 	gai tian 	311	
+
 改善	improve	gǎi shàn 	gai shan 	341	
 改名	Renamed	gǎi míng 	gai ming 	32	
 改作	Change	gǎi zuò	gai zuo 	34	
@@ -77273,12 +77662,12 @@
 攔王	Stop the king	lán wáng	lan wang	22	
 攔截	Interception	lán jié 	lan jie 	22	
 攔住	stop	lán zhù	lan zhu 	24	
-攓humble	qiān	qian	1	
+攓	qiān	qian	1	
 
 攒	save	zǎn	zan	3	
-攑humble	qiān	qian	1	
+攑	qiān	qian	1	
 
-攐humble	qiān	qian	1	
+攐	qiān	qian	1	
 
 攎	lú	lu	2	
 攍	yíng	ying	2	
@@ -77312,6 +77701,7 @@
 擹	tān	tan	1	
 擸	hold	liè	lie	4	
 擶	jiàn	jian	4	
+
 擵	touch	mó	mo	2	
 擴散	diffusion	kuò sàn	kuo san	44	
 擴張	expansion	kuò zhāng	kuo zhang	41	
@@ -77564,7 +77954,7 @@
 撄	oppose	yīng	ying	1	
 撃	strike	jí	ji	2	
 撂	drop	liào	liao	4	
-撁humble	qiān	qian	1	
+撁	qiān	qian	1	
 
 撀	gòu	gou	4	
 摿	yīn	yin	1	
@@ -77624,7 +78014,8 @@
 摘下來	Take off	zhāi xià lái 	zhai xia  	142	
 摘下	Take off	zhāi xià	zhai xia 	14	
 摗	sōu	sou	1	
-摖	laugh	qì	qi	4	
+摖	qì	qi	4	
+
 摕	hit	dì	di	4	
 摔跤	Wrestling	shuāi jiāo	shuai jiao 	11	
 摔碎	Broken	shuāi suì	shuai sui 	14	
@@ -77675,7 +78066,7 @@
 搶來	Robbed	qiǎng lái	qiang  	32	
 搶了	Robbed	qiǎng le	qiang le	31	
 搵	immerse	wèn	wen	4	
-搴	extracthumble	qiān	qian	1	
+搴	extract	qiān	qian	1	
 
 搳	huá	hua	2	
 搲	seize	wā	wa	1	
@@ -78020,7 +78411,7 @@
 掗	take	yà	ya	4	
 掖	hold	yē	ye	1	
 掕	líng	ling	2	
-掔	sturdyhumble	qiān	qian	1	
+掔	sturdy	qiān	qian	1	
 
 掓	shū	shu	1	
 排除	exclude	pái chú	pai chu	22	
@@ -78085,7 +78476,7 @@
 掃地	sweep the floor	sǎo dì	sao de 	34	
 掃來	Sweep	sǎo lái	sao  	32	
 掂	heft	diān	dian	1	
-掁	cheer	zhèn	zhen	4	
+掁	zhèn	zhen	4	
 掀開	Opened	xiān kāi	xian kai 	11	
 掀起	set off	xiān qǐ	xian qi 	13	
 掀翻	Overturned	xiān fān	xian fan	11	
@@ -78208,11 +78599,12 @@
 挳	kēng	keng	1	
 挲	sā	sa	1	
 挱	sā	sa	1	
-挰	cheer	zhèn	zhen	4	
+挰	zhèn	zhen	4	
 振興	Revitalize	zhèn xīng 	zhen xing 	41	
 振奮起來	Excited up	zhèn fèn qǐ lái 	zhen fen qi  	4432	
 振奮	Excited	zhèn fèn	zhen fen 	44	
-振動	vibration	zhèn dòng	zhen dong	44	
+振動	move	zhèn dòng	zhen dong	44	
+
 振作起來	Cheer up	zhèn zuò qǐ lái 	zhen zuo qi  	4432	
 振作	Cheer up	zhèn zuò	zhen zuo 	44	
 挮	tǐ	ti	3	
@@ -78285,7 +78677,8 @@
 按月	On a monthly basis	àn yuè	àn yuè	44	
 按時	on time	àn shí	an shi	42	
 按摩	massage	àn mó	an mo	42	
-按捺不住	Intolerable	àn nà bú zhù 	an na  zhu 	4424	
+按捺不住	Intolerable	àn nà bu zhù 	an na bu zhu 	44141	
+
 按家	By home	àn jiā	an jia	41	
 按季	Quarterly	àn jì	an ji	44	
 按兵不動	Do not move	àn bīng bù dòng 	an bing  dong 	4144	
@@ -78391,7 +78784,7 @@
 拭去	Wipe off	shì qù	shi qu 	44	
 拭	shì	shi	4	
 拫	pull	hén	hen	2	
-拪humble	qiān	qian	1	
+拪	qiān	qian	1	
 
 拧	pinch	níng	ning	2	
 拤	qiá	qia	2	
@@ -78446,7 +78839,8 @@
 拔掉	Unplugged	bá diào	ba diao 	24	
 拔去	Pull out	bá qù	ba qu 	24	
 拔刀相助	Pull the knife to help	bá dāo xiāng zhù	ba dao xiang zhu 	2114	
-拔刀	Pull the knife	bá dāo	ba dao 	21	
+拔刀	drew a sword	bá dāo	ba dao	21	
+
 拔出來	Pull out	bá chū lái	ba chu  	212	
 拔出	Pull out	bá chū	ba chu 	21	
 拔了	Pulled out	bá le	ba le	2
@@ -78461,7 +78855,8 @@
 拍掌	Clap your hands	pāi zhǎng	pai zhang 	13	
 拍拍⼿	Clap your hands	pāi pāi shǒu	pai pai shou 	113	
 拍拍	Pat	pāi pāi	pai pai 	11	
-拍打	Beat	pāi dǎ	pai da 	13	
+拍打	tapped	pāi dǎ	pai da	13	
+
 拍手稱快	Clap hands fast	pāi shǒu chēng kuài	pai shou cheng kuai 	1314	
 拍岸	Shore	pāi àn	pai an	14	
 拍⼿	Clap your hands	pāi shǒu	pai shou 	13	
@@ -78537,7 +78932,7 @@
 拁	jiā	jia	1	
 拀	chù	chu	4	
 抿	press	mǐn	min	3	
-抾	take	qū	qu	1	
+抾	qū	qu	1	
 抽籤	Draw lots	chōu qiān	chou qian 	11	
 抽搐	convulsion	chōu chù	chou chu	14	
 抽打	whip	chōu da	chou da 	11	
@@ -78764,7 +79159,8 @@
 找來	Come back	zhǎo lái	zhao  	32	
 找作	Looking for	zhǎo zuò	zhǎo zuò	34	
 找人	Find someone	zhǎo rén	zhao ren 	32	
-找不着	Could not find it	zhǎo bù zháo 	zhao bu zhao 	342	
+找不着	Could not find it	zhǎo bu zháo 	zhao bu zhao 	3121	
+
 找不出	Can not find out	zhǎo bù chū	zhao  chu 	341	
 找上	Find on	zhǎo shàng	zhao shang 	34	
 扽	move	dèn	den	4	
@@ -78801,7 +79197,7 @@
 扭動	Twist	niǔ dòng	niu dong 	34	
 扭傷	sprain	niǔ shāng 	niu shang 	31	
 扨	rèn	ren	4	
-扦	probehumble	qiān	qian	1	
+扦	probe	qiān	qian	1	
 
 扥	dèn	den	4	
 扤	thrust	wù	wu	4	
@@ -78843,8 +79239,6 @@
 打通	get through	dǎ tōng 	da tong 	31	
 打退	beat back	dǎ tuì	dǎ tuì	34	
 打轉	Turn around	dǎ zhuàn 	da zhuan 	34	
-打起精神	cheer	dǎ qǐ jīng shén	da qi   	3312	
-打起瞌睡	Playing drowsiness	dǎ qǐ kē shuì 	da qi ke shui 	3314	
 打起	Playing	dǎ qǐ	da qi 	33	
 打聽	inquire about	dǎ tīng 	da ting 	311	
 打結	tie	dǎ jié	da jie 	32	
@@ -78944,7 +79338,8 @@
 手打	hand type	shǒu dǎ	shou da 	33	
 手心	Palms	shǒu xīn	shou xin 	31	
 手帕	handkerchief	shǒu pà	shou pa 	34	
-手巾	Hand towel	shǒu jīn	shou jin	31	
+手巾	handkerchief	shǒu jīn	shou jin	31	
+
 手工造	Hand made	shǒu gōng zào	shou gong zao	314	
 手工繡	Hand embroidery	shǒu gōng xiù	shou gong xiu	314	
 手工織	Hand weave	shǒu gōng zhī	shou gong zhi	311	
@@ -79343,7 +79738,7 @@
 憘	like	xǐ	xi	3	
 憗	yìn	yin	4	
 憖	cautious	yìn	yin	4	
-憕	cheer	zhèn	zhen	4	
+憕	zhèn	zhen	4	
 憔悴	Haggard	qiáo cuì	qiao cui 	24	
 憓	huì	hui	4	
 憒	confused	kuì	kui	4	
@@ -79366,8 +79761,9 @@
 憍	proud	jiāo	jiao	1	
 憌	qióng	qiong	2	
 憉	péng	peng	2	
-憈	take	qū	qu	1	
-憇	rest	laugh	qì	qi	4	
+憈	qū	qu	1	
+憇	rest	qì	qi	4	
+
 憆	chēng	cheng	1	
 憅	tòng	tong	4	
 憄	zhì	zhi	4	
@@ -79401,7 +79797,7 @@
 慶幸	Fortunately,	qìng xìng	qing xing	44	
 慶典	celebration	qìng diǎn 	qing dian 	43	
 慴	fear	shè	she	4	
-慳	miserlyhumble	qiān	qian	1	
+慳	miserly	qiān	qian	1	
 
 慲	mán	man	2	
 慱	sad	tuán	tuan	2	
@@ -79525,8 +79921,6 @@
 愛許	Love promise	ài xǔ	ai xu	43	
 愛虛	Love virtual	ài xū	ai xu	41	
 愛葡	Love Portuguese	ài pú	ai pu	42	
-愛良	Love good	ài liáng	ai liang	42	
-愛至	Love to	ài zhì	ai zhi	44	
 愛耶和	Love the Lord	ài yē hé	ai ye he	412	
 愛約	Love about	ài yuē	ai yue	41	
 愛管閒事	Nosy	ài guǎn jiān shì	ai guan xian shi 	4314	
@@ -79605,7 +79999,7 @@
 愉快	happy	yú kuài 	yu kuai 	241	
 愈合	heal	yù hé 	yu he 	42	
 愇	wěi	wei	3	
-愆	faulthumble	qiān	qian	1	
+愆	fault	qiān	qian	1	
 
 愅	gé	ge	2	
 愄	wēi	wei	1	
@@ -79754,7 +80148,7 @@
 悱	fěi	fei	3	
 悰	enjoy	cóng	cong	2	
 悮	impede	wù	wu	4	
-悭	miserlyhumble	qiān	qian	1	
+悭	miserly	qiān	qian	1	
 
 悫	sincerity	què	que	4	
 悪	evil	è	e	4	
@@ -79924,7 +80318,8 @@
 怳	wild	huǎng	huang	3	
 怲	bǐng	bing	3	
 怱	hastily	cōng	cong	1	
-怰	xuàn	xuan	4	
+怰	Render	xuàn	xuan	4	
+
 怮	yōu	you	1	
 怭	rude	bì	bi	4	
 怬	xì	xi	4	
@@ -79954,7 +80349,8 @@
 急轉直下	Worsened	jí zhuǎn zhí xià 	ji zhuan  xia 	2324	
 急躁	impatient	jí zào	ji zao	24	
 急着	Anxious	jí zhuó	ji  	22	
-急於	eager	jí wū	ji yu 	21	
+急於	eager	jí yú	ji yu	22	
+
 急忙	hastily	jí máng 	ji mang 	221	
 急報	Urgent report	jí bào 	ji bao 	24	
 急匆匆	Hurriedly	jí cōng cōng 	ji cong cong 	211	
@@ -80052,7 +80448,8 @@
 念這	Read this	niàn zhè	nian zhe	44	
 念跳	Read the jump	niàn tiào	nian tiao	44	
 念起	Read up	niàn qǐ	 qi 	43	
-念咒	execration	niàn zhòu	 zhou 	44	
+念咒	mantra	niàn zhòu	nian zhou	44	
+
 念到	Read to	niàn dào	 dao 	44	
 念你	miss you	niàn nǐ	nian ni	43	
 念主	Read the Lord	niàn zhǔ	nian zhu	43	
@@ -80093,7 +80490,8 @@
 忠貞	loyalty	zhōng zhēn	zhong zhen 	11	
 忠誠	loyalty	zhōng chéng 	zhong cheng 	12	
 忠臣	Loyalty	zhōng chén	zhong chen	12	
-忠於	loyal to	zhōng wū	zhong yu 	11	
+忠於	loyal to	zhōng yú	zhong yu	12	
+
 忠心耿耿	Loyal to each other	zhōng xīn gěng gěng 	zhong xin geng geng 	1133	
 忠心	loyalty	zhōng xīn	zhong xin 	11	
 忠實	loyal	zhōng shí	zhong shi	12	
@@ -80120,7 +80518,8 @@
 志向	ambition	zhì xiàng	zhi xiang	44	
 忖	guess	cǔn	cun	3	
 忕	shì	shi	4	
-忔	laugh	qì	qi	4	
+忔	qì	qi	4	
+
 忓	gān	gan	1	
 忒	excessive	tè	te	4	
 忑	fearful	tè	te	4	
@@ -80255,7 +80654,8 @@
 心忍	Endure	xīn rěn	xin ren	13	
 心得	Experience	xīn dé	xin de	12	
 心底	Heart	xīn dǐ	xin di 	13	
-心平氣和	Calm and calm	xīn píng qì hé	xin ping qi han 	1242	
+心平氣和	calm down	xīn píng qì hé	xin ping qi he	1242	
+
 心就	Hearts	xīn jiù	xin jiu	14	
 心尋	Heart to find	xīn xún	xin xun	12	
 心安	Peace of mind	xīn ān	xin an 	11	
@@ -80337,6 +80737,7 @@
 徦	jiǎ	jia	3	
 徥	shì	shi	4	
 徤	strong	jiàn	jian	4	
+
 徣	jiè	jie	4	
 御膳房	royal kitchen	yù shàn fáng 	yu shan fang 	4421	
 御膳	Royal meal	yù shàn 	yu shan 	44	
@@ -80349,7 +80750,9 @@
 從屬	subordinate	cóng shǔ	cong shu 	23	從容	Calmly	cóng róng	cong rong 	22	
 從不	Never	cóng bù	cong bu	24	
 徝	zhì	zhi	4	
-徛	jì	ji	4	
+徛	stand	jì	ji	4	
+
+
 徚	dōng	dong	1	
 徘徊	Wandering	pái huái 	pai huai 	22	
 得釋	Release	de shì	de shi	14	
@@ -80490,8 +80893,6 @@
 律例	Law	lǜ lì	lu li	44	
 律令	Law	lǜ lìng 	  	14	
 律人沙瑪	Sharma	lǜ rén shā mǎ	lu ren sha ma	1213	
-律上加律	Law plus law	lǜ shàng jiā lǜ	lu shang jia lu	1411	
-很能	Very can	hěn néng	hen neng 	32	
 很歡	Very happy	hěn huan	hen huan	31	
 很有	Very much	hěn yǒu	hen you 	33	
 很是	Very much	hěn shì	hen shi 	34	
@@ -80549,6 +80950,7 @@
 彼土利	Pitti	bǐ tǔ lì	bi tu li	334	
 彺	wáng	wang	2	
 彸	restless	zhōng	zhong	1	
+
 彷彿刻	As if engraved	fǎng fú kè	fang fu ke	324	
 彷彿	as if	fǎng fú	fang fu 	32	
 彶	jí	ji	2	
@@ -81109,7 +81511,8 @@
 平民	civilian	píng mín	ping min 	22	
 平時	usually	píng shí	ping shi	22	
 平日	Weekdays	píng rì	ping ri 	24	
-平息	calm	píng xí	ping xi 	22	
+平息	calm	píng xī	ping xi	21	
+
 平復	calm	píng fù	ping  	24	
 平底鍋	Pans	píng dǐ guō	ping di guo 	231	
 平底	flat	píng dǐ	ping di 	23	
@@ -81166,6 +81569,7 @@
 幔	curtain	màn	man	4	
 幓	shān	shan	1	
 幒	zhōng	zhong	1	
+
 幑	huī	hui	1	
 幐	téng	teng	2	
 幏	jià	jia	4	
@@ -81378,7 +81782,8 @@
 市場	market	shì chǎng	shi chang	43	
 市內	City	shì nèi	shi nei 	44	
 市價	market price	shì jià 	shi jia 	44	
-市井無賴	Market rogue	shì jǐng wú lài 	shi jing wu lai 	4324	
+市井無賴	gangsters	shì jǐng wú lài 	shi jing wu lai 	43241	
+
 帀	zā	za	1	
 巿	revolve	fú	fu	2	
 巼	bā	ba	1	
@@ -81436,8 +81841,6 @@
 已躺	Has been lying	yǐ tǎng	yi tang	33	
 已謝	Thanks	yǐ xiè	yi xie	34	
 已見	See	yǐ jiàn	yi jian	34	
-已經	already	yǐ jīng	yi jing	31	
-已盡	Has done	yǐ jìn	yi jin 	34	
 已為	Has been done	yǐ wèi	yi wei	34	
 已止	Has been stopped	yǐ zhǐ	yi zhi	33	
 已有	Already available	yǐ yǒu	yi you 	33	
@@ -81611,7 +82014,7 @@
 嶊	zuǐ	zui	3	
 嶉	cuī	cui	1	
 嶈	qiāng	qiang	1	
-嶇	steep	take	qū	qu	1	
+嶇	steep	qū	qu	1	
 嶆	cáo	cao	2	
 嶅	áo	ao	2	
 嶄新	Brand new	zhǎn xīn	zhan xin	31	
@@ -81757,7 +82160,7 @@
 峼	hào	hao	4	
 峺	stem	gěng	geng	3	
 峹	tú	tu	2	
-峸	cheer	zhèn	zhen	4	
+峸	zhèn	zhen	4	
 峷	shēn	shen	1	
 島民	Islanders	dǎo mín	dao min 	32	
 島所	Island	dǎo suǒ	dao suo	33	
@@ -81824,7 +82227,7 @@
 岷	mín	min	2	
 岶	pò	po	4	
 岵	hill	hù	hu	4	
-岴	take	qū	qu	1	
+岴	qū	qu	1	
 岳父	father in law	yuè fù	yue fu 	44	
 岳母	mother in law	yuè mǔ	yue mu 	43	
 岲	kuàng	kuang	4	
@@ -81837,7 +82240,7 @@
 岩穴	Cave	yán xué 	yan xue 	22	
 岩石	rock	yán shí	yan shi	22	
 岩洞	Cave	yán dòng 	yan  	24	
-岨	uneven	take	qū	qu	1	
+岨	uneven	qū	qu	1	
 岧	peak	tiáo	tiao	2	
 岦	lì	li	4	
 岥	pō	po	1	
@@ -81854,7 +82257,7 @@
 岚	lán	lan	2	6	
 岙	island	ào	ao	4	
 岘	xiàn	xian	4	
-岖	steep	take	qū	qu	1	
+岖	steep	qū	qu	1	
 岕	jiè	jie	4	
 岔路	Fork in the road	chà lù	cha  	44	
 岓	qí	qi	2	
@@ -81862,7 +82265,7 @@
 岑	steep	cén	cen	2	
 岏	wán	wan	2	
 岎	fén	fen	2	
-岍humble	qiān	qian	1	
+岍	qiān	qian	1	
 
 岌	perilous	jí	ji	2	
 岋	è	e	4	
@@ -81914,8 +82317,6 @@
 山地	Mountain	shān dì	shan di	14	
 山南	Shannan	shān nán	shan nan	12	
 山區	Mountain area	shān qū	shan qu	11	
-山北	Mountain north	shān běi	shan bei 	13	
-山中	Mountain	shān zhōng	shan zhong 	11	
 山丘	Hills	shān qiū	shan qiu 	11	
 山下	Yamashita	shān xià	shan xia 	14	
 屰	disobedient	nì	ni	4	
@@ -81923,7 +82324,8 @@
 屭	xì	xi	4	
 屬靈	Spirituality	shǔ líng	shu ling	32	
 屬自	Is self	shǔ zì	shu zi	34	
-屬於	belong	shǔ wū	shu wu	31	
+屬於	belong	shǔ yú	shu yu	32	
+
 屬拉吉	Raji	shǔ lā ji	shu la ji	311	
 屬實	true	shǔ shí 	shu shi 	32	
 屬地	Territorial	shǔ dì	shu de 	34	
@@ -82214,7 +82616,8 @@
 尊為	Respect for	zūn wèi	zun wei 	14	
 尊榮	Honorable	zūn róng	zun rong 	12	
 尊敬	respect	zūn jìng 	zun jing 	141	
-尊崇	Respected	zūn chóng 	zun chong 	12	
+尊崇	exalt	zūn chóng 	zun chong 	121	
+
 尊大	Respectfully	zūn dà	zun da 	14	
 尊嚴	dignity	zūn yán	zun yan	12	
 尊卑	respected	zūn bēi	zun bei	11	
@@ -82252,8 +82655,6 @@
 將為	Will be	jiāng wèi	jiang wei 	14	
 將殘	Will be disabled	jiāng cán	jiang can	12	
 將死	Will die	jiàng sǐ	jiang si	43	
-將橛	Will be the prong	jiāng jué	jiāng jué	12	
-將榮	Will be honored	jiāng róng	jiang rong	12	
 將有	will have	jiāng yǒu	jiang you 	13	
 將會	will	jiāng huì	jiang hui 	14	
 將書	Will book	jiāng shū	jiang shu	11	
@@ -82424,6 +82825,7 @@
 富庶	Rich	fù shù 	fu  	44	
 富人	Rich man	fù rén 	fu ren 	42	
 寋	jiàn	jian	4	
+
 寊	zhēn	zhen	1	
 寉	què	que	4	
 寈	qīng	qing	1	
@@ -82476,8 +82878,6 @@
 家鄉	hometown	jiā xiāng 	jia xiang 	111	
 家郵局	Home post office	jiā yóu jú 	jia you ju 	122	
 家道	family financial situation	jiā dào	jia dao	14	
-家運	Home delivery	jiā yùn	jia yun 	14	
-家這	Home this	jiā zhè	jia zhe	14	
 家農戶	Home farmer	jiā nóng hù 	jia nong hu 	124	
 家農場	Home farm	jiā nóng chǎng 	jia nong chang 	123	
 家賭場	Home casino	jiā dǔ chǎng 	jia du chang 	133	
@@ -82570,7 +82970,7 @@
 宮殿	palace	gōng diàn	gong dian	14	
 宮中	palace	gōng zhōng 	gong zhong 	11	
 宭	qún	qun	2	
-宬	archives	cheer	zhèn	zhen	4	
+宬	archives	zhèn	zhen	4	
 宫	palace	gōng	gong	1	
 宩	shǐ	shi	3	
 宨	tiǎo	tiao	3	
@@ -82742,8 +83142,6 @@
 守節	Keep the festival	shǒu jié	shou  	32	
 守神	Keep the gods	shǒu shén	shou shen	32	
 守法	Law-abiding	shǒu fǎ	shou fa 	33	
-守望	Watch the watch	shǒu wàng	shou wang 	34	
-守摩	Shou Mo	shǒu mó	shou mo	32	
 守我	Keep me	shǒu wǒ	shou wo	33	
 守寡	Widowed	shǒu guǎ	shou gua 	33	
 守妥	Keep it	shǒu tuǒ	shou tuo	33	
@@ -82790,7 +83188,7 @@
 孱弱	Weak	càn ruò	can ruo 	44	
 孱	weak	càn	can	4	
 孰	shú	shu	2	
-孯humble	qiān	qian	1	
+孯	qiān	qian	1	
 
 孮	cóng	cong	2	
 孭	miē	mie	1	
@@ -82944,7 +83342,7 @@
 孈	huì	hui	4	
 孇	shuāng	shuang	1	
 孆	yīng	ying	1	
-孅	slenderhumble	qiān	qian	1	
+孅	slender	qiān	qian	1	
 
 孄	lǎn	lan	3	
 孃	troubled	niáng	niang	2	
@@ -83165,7 +83563,8 @@
 婳	tranquil	huà	hua	4	
 婲	hua	hua	1	
 婱	xián	xian	2	
-婰	diǎn	dian	3	
+婰	stay	diǎn	dian	3	
+
 婯	lì	li	4	
 婮	jū	ju	1	
 婭	brother-in-law	yà	ya	4	
@@ -83190,7 +83589,7 @@
 婟	hù	hu	4	
 婞	hate	xìng	xing	4	
 婝	diàn	dian	4	
-婜humble	qiān	qian	1	
+婜	qiān	qian	1	
 
 婛	jīng	jing	1	
 婚約	engagement	hūn yuē	hun yue 	11	
@@ -83277,7 +83676,7 @@
 娐	fū	fu	1	
 娏	máng	mang	2	
 娎	xiè	xie	4	
-娍	cheer	zhèn	zhen	4	
+娍	zhèn	zhen	4	
 娌	lǐ	li	3	
 娋	shào	shao	4	
 娊	xiàn	xian	4	
@@ -83440,6 +83839,7 @@
 妒嗎	Are you jealous?	dù ma	du ma	41	
 妑	pā	pa	1	
 妐	zhōng	zhong	1	
+
 妏	wèn	wen	4	
 妎	hài	hai	4	
 妍	beautiful	yán	yan	2	
@@ -83470,7 +83870,8 @@
 如水	Such as water	rú shuǐ 	ru shui 	23	
 如死	Die	rú sǐ	ru si	23	
 如此說	Say so	rú cǐ shuō 	ru ci shuo 	231	
-如此一來	That's it	rú cǐ yī lái 	ru ci yi  	2312	
+如此一來	That's it	rú cǐ yì lái 	ru ci yi lai 	23421	
+
 如此	in this way	rú cǐ	ru ci	23	
 如橡	Such as rubber	rú xiàng	ru xiang	24	如果	in case	rú guǒ 	ru guo 	23	
 如月	Month	rú yuè 	ru yue 	24	
@@ -83482,7 +83883,8 @@
 如常	usual	rú cháng 	ru chang 	22	
 如己	As usual	rú jǐ	ru ji	23	
 如實	Truthful	rú shí 	ru shi 	22	
-如夢初醒	Wake up	rú mèng chū xǐng	ru meng chu xing 	2413	
+如夢初醒	dawned on	rú mèng chū xǐng	ru meng chu xing	2413	
+
 如吹	Such as blowing	rú chuī	ru chui	21	
 如同	as	rú tóng 	ru tong 	221	
 如出一轍	same	rú chū yī zhé 	ru chu yi zhe 	2112	
@@ -83559,7 +83961,7 @@
 奸詐	treacherous	jiān zhà	jian zha 	14	
 奸計	Treacherous	jiān jì	jian ji 	14	
 奸細	spy	jiān xì	jian xi 	14	
-奷humble	qiān	qian	1	
+奷	qiān	qian	1	
 
 奶酪	cheese	nǎi lào 	nai lao 	34	
 奶牛	Cows	nǎi niú	nai niu 	32	
@@ -83702,7 +84104,8 @@
 奏效	Work	zòu xiào 	zou xiao 	44	
 奏出	Played out	zòu chū	zou chu 	41	
 奍	yang	yang	1	
-奌	dot	diǎn	dian	3	
+奌	dot	stay	diǎn	dian	3	
+
 奊	xié	xie	2	
 奉耶和	Lord of the Lord	fèng yē hé	feng ye he	412	
 奉神	God of God	fèng shén	feng shen	42	
@@ -83953,8 +84356,6 @@
 大民	Great people	dà mín	da min	42	
 大毀	Big destroyed	dà huǐ	da hui	43	
 大殿	Basilica	dà diàn 	da dian 	44	
-大步	Big step	dà bù	da bu 	44	
-大歡	Happy	dà huān	da huan	41	
 大欺	Big bullying	dà qī	da qi	41	
 大權	power	dà quán 	da quan 	42	
 大樹	Big tree	dà shù 	da shu 	44	
@@ -84003,8 +84404,6 @@
 大害	Damage	dà hài	da hai	44	
 大宮	Big palace	dà gōng 	da gong 	41	
 大宅	Mansion	dà zhái 	da  	42	
-大婚	Marry	dà hūn	da hun 	41	
-大女	Big girl	dà nǚ	da nu	43	
 大大干犯	Greatly committed	dà dà gān fàn 	da da gan fan 	4414	
 大大	Greatly	dà dà 	da da 	441	
 大多數	most	dà duō shù	da duo shu	414	
@@ -84063,7 +84462,8 @@
 夢想	dream	mèng xiǎng 	meng xiang 	431	
 夢境	Dream	mèng jìng 	meng jing 	44	
 夢中	Dream	mèng zhōng 	meng zhong 	41	
-夡	laugh	qì	qi	4	
+夡	qì	qi	4	
+
 夠大	Big enough	gòu dà	gou da 	44	
 夠多	Much more	gòu duō	gou duo 	41	
 夠吃	Enough to eat	gòu chī	gou chi 	41	
@@ -84434,7 +84834,8 @@
 塞進	Stuffed into	sāi jìn	 jin 	14	
 塞特	Seth	sāi tè	sai te	14	
 塞滿	Stuffed	sāi mǎn	 man 	13	
-塞浦路斯	Cyprus	sè pǔ lù sī	se pu lu si	4341	
+塞浦路斯	Cyprus	sài pǔ lù sī	sai pu lu si	4341	
+
 塞住	Stuffed	sāi zhù	 zhu 	14	
 塝	plateau	bàng	bang	4	
 塜	dusty	zhǒng	zhong	3	
@@ -84443,7 +84844,7 @@
 塗滿	Painted full	tú mǎn	tu man 	23	
 塗掉	erased	tú diào	tu diao 	24	
 塗抹	anoint	tú mǒ 	tu mo 	231	
-塖	cheer	zhèn	zhen	4	
+塖	zhèn	zhen	4	
 塕	wěng	weng	3	
 塓	plaster	mì	mi	4	
 塒	roost	shí	shi	2	
@@ -84452,7 +84853,7 @@
 塐	sculpt	sù	su	4	
 塏	kǎi	kai	3	
 塎	yǒng	yong	3	
-塍	dike	cheer	zhèn	zhen	4	
+塍	dike	zhèn	zhen	4	
 塌陷	Collapse	tā xiàn 	ta xian 	14	
 塌下來	Fall down	tā xià lái 	ta xia  	142	
 塌下	collapse	tā xià	ta xia 	14	
@@ -84565,7 +84966,7 @@
 堛	bì	bi	4	
 堚	hún	hun	2	
 堙	bury	yīn	yin	1	
-堘	cheer	zhèn	zhen	4	
+堘	zhèn	zhen	4	
 堗	tū	tu	1	
 堖	small	nǎo	nao	3	
 堔	shen	shen	1	
@@ -84807,7 +85208,7 @@
 垛	heap	duǒ	duo	3	
 垙	guāng	guang	1	
 垘	fú	fu	2	
-垗	sacrifice	dog	zhào	zhao	4	
+垗	sacrifice	zhào	zhao	4	
 垖	duī	dui	1	
 垕	name	hòu	hou	4	
 垔	restrain	yīn	yin	1	
@@ -84868,7 +85269,7 @@
 坦白	frank	tǎn bái 	tan bai 	32	
 坦然	calm	tǎn rán	tan ran	32	
 坦接	Tanzania	tǎn jiē	tan jie	31	
-坥	take	qū	qu	1	
+坥	qū	qu	1	
 坣	tāng	tang	1	
 坢	bàn	ban	4	
 坡道	Ramp	pō dào	po dao 	14	
@@ -84923,9 +85324,9 @@
 圵	dàng	dang	4	
 圴	zhuó	zhuo	2	
 圳	zhèn	zhen	4	
-圲humble	qiān	qian	1	
+圲	qiān	qian	1	
 
-圱humble	qiān	qian	1	
+圱	qiān	qian	1	
 
 地點	place	dì diǎn 	di dian 	431	
 地面上	on the ground	dì miàn shàng 	de mian shang 	444	
@@ -85202,7 +85603,8 @@
 四腳	Four feet	sì jiǎo	si jiao 	43	
 四肢	Limbs	sì zhī	si zhi 	41	
 四百	Four hundred	sì bǎi 	si bai 	43	
-四班	Four classes	sì bān	si ban 	41	
+四班	Four groups	sì bān	si ban	41	
+
 四濺	Splash	sì jiàn	si jian 	44	
 四海	Universal	sì hǎi 	si hai 	43	
 四段	Four sections	sì duàn	si duan 	44	
@@ -85273,7 +85675,8 @@
 
 嚺	tà	ta	4	
 嚹	certainty	lá	la	2	
-嚸	diǎn	dian	3	
+嚸	stay	diǎn	dian	3	
+
 嚷起	Shouting	rǎng qǐ	rang qi	33	
 嚶	trained	yīng	ying	1	
 嚵	gluttonous	chán	chan	2	
@@ -85402,7 +85805,8 @@
 噔	syllable	dēng	deng	1	
 噒	lián	lian	2	
 噑	howl	háo	hao	2	
-噐	receptacle	laugh	qì	qi	4	
+噐	receptacle	qì	qi	4	
+
 噏	inhale	xī	xi	1	
 噍	chew	jiào	jiao	4	
 噌	scold	cēng	ceng	1	
@@ -85460,7 +85864,8 @@
 嘳	kuì	kui	4	
 嘲諷	ridicule	cháo fèng	chao feng 	24	嘲弄	Mocking	cháo nòng	chao nong 	24	
 嘰嘰咕咕	Jijiu Cuckoo	jī ji gu gu	ji ji gu gu 	1111	
-嘮嘮叨叨	Nagging	láo láo dāo dāo 	lao lao dao dao 	2211	
+嘮嘮叨叨	Nagging	láo lao dāo dāo 	lao lao dao dao 	21111	
+
 嘮叨	nagging	láo dāo	lao dao	21	
 嘮	chat	láo	lao	2	
 嘭	syllable	pēng	peng	1	
@@ -85673,7 +86078,8 @@
 喛	huàn	huan	4	
 喚醒	wake	huàn xǐng	huan xing 	43	
 喚起	arouse	huàn qǐ	huan qi 	43	喚作	Call for	huàn zuò	huan zuo 	44	
-喘氣	pant	chuǎn qì	chuan qi 	34	
+喘氣	breath	chuǎn qì	chuan qi	34	
+
 喘息	respite	chuǎn xi	chuan xi 	31	
 喗	yǔn	yun	3	
 喖	hú	hu	2	
@@ -85735,7 +86141,8 @@
 啴	pant	chǎn	chan	3	
 啳	quán	quan	2	
 啲仔女	Aberdeen	dī zǐ nǚ	di zi nu	133	
-啲	few	dì	di	4	
+啲	while	dī	di	1	
+
 啱	right	yān	yan	1	
 啰	phonetic	luō	luo	1	
 啯	guō	guo	1	
@@ -85822,6 +86229,7 @@
 唰	swish	shuā	shua	1	
 唯有	Only	wéi yǒu	wei you 	23	
 唭	laugh	qì	qi	4	
+
 唫	hum	jìn	jin	4	
 唪	recite	fěng	feng	3	
 唩	wō	wo	1	
@@ -85923,7 +86331,8 @@
 哥賴雅	Goliath	gē lài yā	ge lai ya	141	
 哥西	Cousin	gē xi	ge xi	11	
 哥桑	Cousin	gē sāng	ge sang	11	
-哥林多	Corinthia	gē lín duō	ge lin duo	121	
+哥林多	Corinth	gē lín duō	ge lin duo	121	
+
 哥拉汛	Korazin	gē lā xùn	ge la xun	114	
 哥拉	Gora	gē lā	ge la	11	
 哥押沙	Goya sand	gē yā shā	ge ya sha	111	
@@ -86093,7 +86502,8 @@
 咣	guāng	guang	1	
 咢	sound	è	e	4	
 咡	èr	er	4	
-咠	laugh	qì	qi	4	
+咠	qì	qi	4	
+
 咟	huò	huo	4	
 咞	xiàn	xian	4	
 咝	hiss	sī	si	1	
@@ -86176,7 +86586,8 @@
 呲	cī	ci	1	
 呰	slander	zǐ	zi	3	
 呯	onomatopoetic	píng	ping	2	
-呮	sit	laugh	qì	qi	4	
+呮	sit	qì	qi	4	
+
 呭	talkative	yì	yi	4	
 呬	rest	xì	xi	4	
 呫	whisper	tiè	tie	4	
@@ -86194,7 +86605,9 @@
 呦	yōu	you	1	
 呥	rán	ran	2	
 呤	purine	lìng	ling	4	
-呣	ḿ	m	2	
+呣	not	ḿ	m	2	
+
+
 呢喃	Whispering	ní nán 	ne nan 	22	
 呡	wěn	wen	3	
 呠	spurt	pěn	pen	3	
@@ -86332,8 +86745,6 @@
 向後	backward	xiàng hòu	xiang hou 	44	
 向希伯	To Hebrew	xiàng xī bó	xiang xi bo 	412	
 向左	left	xiàng zuǒ	xiang zuo 	43	
-向學	To learn	xiàng xué	xiang xue 	42	
-向外	outward	xiàng wài	xiang wai 	44	
 向右	To the right	xiàng yòu	xiang you 	44	
 向博	To Bo	xiàng bó	xiang bo 	42	
 向南走	Go south	xiàng nán zǒu	xiang nan zou 	423	
@@ -86664,8 +87075,6 @@
 叫去	Called to go	jiào qù	jiao qu 	44	
 叫到	Called to	jiào dào	jiao dao 	44	
 叫利	Called profit	jiào lì	jiao  	44	
-叫做	Called it	jiào zuò	jiao zuo	44	
-叫保	Called Paul	jiào bǎo	jiao bao 	43	
 叫便雅	Called elegance	jiào biàn yā	jiao  ya 	403	
 叫便亞米	Called Yami	jiào biàn yà mǐ	jiao  ya mi 	4043	
 叫作	Called	jiào zuò	jiao zuo 	44	
@@ -86691,8 +87100,6 @@
 只能	Can only	zhǐ néng	zhi neng 	32	
 只聽到	Only to hear	zhǐ tīng dào	zhi ting dao 	314	
 只管	Just	zhǐ guǎn 	zhi guan 	33	
-只看到	Only to see	zhǐ kàn dào	zhi kan dao 	344	
-只看	Just look	zhǐ kàn	zhi kan 	34	
 只當	Only when	zhǐ dāng	zhi dang 	31	
 只留下	only left	zhǐ liú xià	zhi  xia 	324	
 只用	Only use	zhǐ yòng	zhi yong 	34	
@@ -86734,7 +87141,8 @@
 另一種	another	lìng yī zhǒng 	ling yi zhong 	413	
 另一方面	on the other hand	lìng yī fāng miàn	ling yi fang mian 	4114	
 另一半	other half	lìng yī bàn 	ling yi ban 	414	
-另一	another	lìng yī	ling yi 	41	
+另一	another	lìng yì	ling yi	44	
+
 句謊話	A lie	jù huǎng huà 	jù huǎng huà 	434	
 句話	sentence	jù huà	ju hua	44	
 句空話	Empty words	jù kōng huà 	jù kōng huà 	414	
@@ -86834,8 +87242,6 @@
 受夠了	enough	shòu gòu le	shou gou  	44
 受壓迫	Oppressed	shòu yā pò 	shou ya po 	414	
 受困	Trapped	shòu kùn	shou kun 	44	
-受咒	By curse	shòu zhòu	shou zhou 	44	
-受割	Be cut	shòu gē	shou ge 	41	
 受制	Controlled	shòu zhì	shou zhi 	44	
 受到	By	shòu dào 	shou dao 	441	
 受刑者	torturer	shòu xíng zhě	shou xing  	423	
@@ -86915,10 +87321,6 @@
 及群	And groups	jí qún	ji qun 	22	
 及第	And the first	jí dì	ji di	24	
 及甲	And a	jí jiǎ	ji jia 	23	
-及時	timely	jí shí 	ji shi 	221	
-及地	And land	jí de	ji de 	21	
-及出	And out	jí chū	ji chu 	21	
-及其	and	jí qí	ji qi 	22	
 叉滿	Fork full	chā mǎn	cha man 	13	
 叉子	fork	chā zi	cha zi	1	
 又默	And silent	yòu mò	you mo 	44	
@@ -86990,8 +87392,6 @@
 去到	go to	qù dào	qu dao 	44	
 去借	To borrow	qù jiè	qu jie 	44	
 去住	To live	qù zhù	qu zhu 	44	
-去休	To break	qù xiū	qu xiu	1	
-去以	Go to	qù yǐ	qu yi 	43	
 去事	Go to work	qù shì	qu shi 	44	
 去了	went	qù le 	qu le	4
 去世	Died	qù shì 	qu shi 	441	
@@ -87331,7 +87731,7 @@
 匧	trunk	qiè	qie	4	
 匦	chest	guǐ	gui	3	
 匥	biàn	bian	4	
-匤	take	qū	qu	1	
+匤	qū	qu	1	
 匣子	box	xiá zi	xia zi 	21	
 匢	hū	hu	1	
 匠鑿	Carpenter chisel	jiang záo	jiang zao 	42	
@@ -87501,7 +87901,9 @@
 勍	strong	qíng	qing	2	
 勌	tired	juàn	juan	4	
 勊	kè	ke	4	
-勉強	reluctantly	miǎn qiáng 	mian qiang 	321	
+勉強	barely	miǎn qiǎng	mian qiang	33	
+
+
 勉勵	Encouragement	miǎn lì	mian  	34	
 勈	yǒng	yong	3	
 勇者	Brave man	yǒng zhě	yong  	33	
@@ -87612,11 +88014,14 @@
 劖	cut	chán	chan	2	
 劕	zhì	zhi	4	
 劔	sword	jiàn	jian	4	
+
 劓	yì	yi	4	
 劒	sword	jiàn	jian	4	
+
 劐	destroy	huō	huo	1	
 劏	butcher	tāng	tang	1	
 劎	sword	jiàn	jian	4	
+
 劍鞘	Scabbard	jiàn qiào	jian qiao 	44	
 劍柄	Hilt	jiàn bǐng	jian bing 	43	
 劍拔弩張	Swaggering	jiàn bá nǔ zhāng 	jian ba nu zhang 	4231	
@@ -87672,6 +88077,7 @@
 割傷	Cut	gē shāng	ge shang 	11	
 割下	Cut off	gē xià	ge xia 	14	
 剱	sword	jiàn	jian	4	
+
 剰	leftovers	shèng	sheng	4	
 副筷子	Vice chopsticks	fù kuài zi	fù kuài zi	441	
 副眼鏡	Vice glasses	fù yǎn jìng 	fu yan jing 	434	
@@ -87701,9 +88107,11 @@
 剩下	rest	shèng xià	sheng xia	44	
 剨	huō	huo	1	
 剦	castrate	yān	yan	1	
-剥	peel	bō	bo	1	
+剥	strip	bō	bo	1	
+
 剤	jì	ji	4	
 剣	sword	jiàn	jian	4	
+
 剢	dū	du	1	
 剡	sharp	shàn	shan	4	
 剠	brand	qíng	qing	2	
@@ -87781,7 +88189,8 @@
 前人	Predecessors	qián rén	qian ren	22	
 前亞	Before Asia	qián yà	qian ya 	24	
 前事	Predecessor	qián shì	qian shi 	24	
-前一天	day before	qián yī tiān 	qian yi tian 	211	
+前一天	day before	qián yì tiān 	qian yi tian 	2411	
+
 前一	Previous	qián yī	qian yi 	21	
 剌	slash	lá	la	2	
 剋制	restraint	kè zhì 	ke zhi 	441	
@@ -87967,7 +88376,8 @@
 判斷	judgment	pàn duàn 	pan duan 	441	
 判定	determination	pàn dìng 	pan ding 	44	
 判令	Order	pàn lìng	pan ling	44	
-刣	zhōng	zhong	1	
+刣	die	zhōng	zhong	1	
+
 刢	líng	ling	2	
 刡	scrape	mǐn	min	3	
 删去	Deleted	shān qù	shan qu	14	
@@ -88059,7 +88469,8 @@
 分道揚鑣	Parted ways	fēn dào yáng biāo 	fen dao yang biao 	1421	
 分辨	Distinguish	fēn biàn 	fen bian 	141	
 分贓	Spoils	fēn zāng 	fen zang 	11	
-分訴	Subcontract	fēn su	fen su 	14	
+分訴	speak	fēn su	fen su	11	
+
 分裂	divide	fēn liè	fen lie	14	
 
 分行	Branch	fēn háng 	fen  	12	
@@ -88157,8 +88568,6 @@
 出大痲	Out of marijuana	chū dà má	chu da ma 	142	
 出大	Big out	chū dà	chu da 	14	
 出外邦	Out of the state	chū wài bāng 	chu wai bang 	141	
-出外	Go out	chū wài	chu wai	14	
-出城	Out of town	chū chéng 	chu cheng 	12	
 出埃及記	Exodus	chū āi jí jì	chu ai ji ji	1124	
 出國	Go abroad	chū guó	chu guo	12	
 出售	sell	chū shòu	chu shou	14	
@@ -88198,7 +88607,8 @@
 凳子	stool	dèng zǐ	deng zi	43	
 凲	gān	gan	1	
 凱旋	Triumphant	kǎi xuán 	kai xuan 	32	
-凱撒	Caesar	kǎi sǎ	kai sa 	33	
+凱撒	Caesar	kǎi sā	kai sa	31	
+
 凮	wind	fēng	feng	1	
 凬	fēng	feng	1	
 凫	teal	fú	fu	2	
@@ -88671,7 +89081,7 @@
 兞	milligram	máo	mao	2	
 兝	decigram	fēn	fen	1	
 兜着	Pocketed	dōu zhe	dou  	11	
-兛	kilogramhumble	qiān	qian	1	
+兛	kilogram	qiān	qian	1	
 
 党	gang	dǎng	dang	3	
 兙	decagram	
@@ -88930,6 +89340,7 @@
 僮	page	tóng	tong	2	
 僭妄	Blasphemy	jiàn wàng	jian wang 	44	
 僭	assume	jiàn	jian	4	
+
 僬	clever	jiāo	jiao	1	
 僫	è	e	4	
 僪	jú	ju	2	
@@ -88978,7 +89389,7 @@
 僌	yíng	ying	2	
 僋	tàn	tan	4	
 僊	transcendent	xiān	xian	1	
-僉	allhumble	qiān	qian	1	
+僉	all	qiān	qian	1	
 
 僈	negligent	mán	man	2	
 僇	humiliate	lù	lu	4	
@@ -89037,14 +89448,13 @@
 傳遞	transfer	chuán dì	chuan di	24	
 傳達	convey	chuán dá	chuan da	22	
 傳道	Preaching	chuán dào	chuan dao 	24	
-傳過	Pass through	chuán guò	chuan guo 	24	
+傳過	passed	chuán guo	chuan guo	21	
+
 傳遍	Spread all over	chuán biàn	chuan bian 	24	
 傳送	Send	chuán sòng	chuan song	24	
 傳說	legend	chuán shuō	chuan shuo	21	
 傳話	pass on message	chuán huà	chuan hua	24	
 傳言	Rumors	chuán yán	chuan yan 	22	
-傳聞	rumor	chuán wén	chuan wen 	22	
-傳耶	Pass by	chuán yē	chuan ye 	22	
 傳統	Tradition	chuán tǒng	chuan tong	23	
 傳給	Pass to	chuán gěi	chuan gei 	23	
 傳福音	Evangelism	chuán fú yīn	chuan  yin 	221	
@@ -89135,7 +89545,8 @@
 偹	prepare	bèi	bei	4	
 偸	steal	tōu	tou	1	
 偷錢	Stealing money	tōu qián	tou qian 	12	
-偷過	Stolen	tōu guò 	tou guo 	14	
+偷過	stolen	tōu guo	tou guo	11	
+
 偷走	Stolen	tōu zǒu	tou zou 	13	
 偷襲	Attack	tōu xí	tou xi 	12	
 偷聽	Eavesdropping	tōu tīng	tou ting 	11	
@@ -89681,6 +90092,7 @@
 俶	start	chù	chu	4	
 俵	divide	biào	biao	4	
 俴	thin	jiàn	jian	4	
+
 俳	actor	pái	pai	2	
 俲	imitate	xiào	xiao	4	
 俱全	All	jù quán 	ju quan 	421	
@@ -89995,7 +90407,7 @@
 佨	bao	bao	1	
 佧	kǎ	ka	3	
 佦	shi	shi	1	
-佥	allhumble	qiān	qian	1	
+佥	all	qiān	qian	1	
 
 佤	nationality	wǎ	wa	3	
 佣	commission	yōng	yong	1	
@@ -90009,8 +90421,6 @@
 作首	For the first time	zuò shǒu 	zuo shou 	43	
 作風	style	zuò fēng	zuo feng	41	
 作響	Sounded	zuò xiǎng	zuo  	43	
-作阿	For a	zuò ā	zuo a 	41	
-作長	For long	zuò zhǎng	zuo chang 	43	
 作過	Made it	zuò guò 	zuo guo 	44	
 作走	Go away	zuò zǒu	zuo zou 	43	
 作贖	Redemption	zuò shú	zuo shu 	42	
@@ -90074,8 +90484,6 @@
 作以土利	For the soil	zuò yǐ tǔ lì	zuo yi tu  	4334	
 作交易	For trading	zuò jiāo yì	zuò jiāo yì	414	
 作了	made	zuò le	zuo le	41	
-作亂	Chaos	zuò luàn 	zuo  	44	
-作主	Owners	zuò zhǔ	zuo zhu 	43	
 作不	Do not	zuò bù	zuo  	44	
 佚	flee	yì	yi	4	
 佘	surname	shé	she	2	
@@ -90185,7 +90593,7 @@
 佌	small	cǐ	ci	3	
 佋	continue	zhāo	zhao	1	
 佊	bǐ	bi	3	
-佉	surname	take	qū	qu	1	
+佉	surname	qū	qu	1	
 佈置	arranged	bù zhì 	bu zhi 	441	
 
 佈滿	Full of	bù mǎn 	bu man 	43	
@@ -90208,7 +90616,7 @@
 伻	messenger	bēng	beng	1	
 伺機	Waiting for an opportunity	sì jī 	ci ji 	41	
 伺候	Wait	cì hou	ci hou	41	
-伹	dull	take	qū	qu	1	
+伹	dull	qū	qu	1	
 伸生	Stretch life	shēn shēng 	shen sheng 	11	
 伸手	Reach out	shēn shǒu	shen shou	13	
 伸張正義	Justice	shēn zhāng zhèng yì	shen zhang zheng yi 	1144	
@@ -90330,6 +90738,7 @@
 企盼	Hope	qǐ pàn 	qi pan 	34	
 企圖	attempt	qì tú	qi tu	42	
 伀	excited	zhōng	zhong	1	
+
 仿造	counterfeit	fǎng zào	fang zao	34	
 仿製	Imitation	fǎng zhì	fang zhi 	34	
 仿照	Imitate	fǎng zhào	fang zhao 	34	
@@ -90442,8 +90851,6 @@
 以謝	Thank you	yǐ xiè	yi xie 	34	
 以諾	Enoch	yǐ nuò	yi nuo 	34	
 以設	To set up	yǐ shè	yi she 	34	
-以西	Westward	yǐ xi	yi xi 	31	
-以製	To system	yǐ zhì	yi zhi 	34	
 以蘭	To blue	yǐ lán	yi  	30	
 以薩迦	Issachar	yǐ sà jiā	yi sa jia 	341	
 以色列人	Israelites	yǐ sè liè rén	yi se  ren 	3442	
@@ -90469,8 +90876,6 @@
 以法	To law	yǐ fǎ	yi fa 	33	
 以沾	To dip	yǐ zhān	yi zhan 	31	
 以沒	To no	yǐ méi	yi mei 	32	
-以此	And so on	yǐ cǐ	yi ci 	33	
-以歡	To Huan	yǐ huan	yi huan 	31	
 以森	To sen	yǐ sēn	yi sen 	31	
 以東	East	yǐ dōng	yi dong 	31	
 以未	To never	yǐ wèi	yi wei 	34	
@@ -90594,7 +90999,8 @@
 仏	Buddha	fó	fo	2	
 仍要	Still want to	réng yào	reng yao 	24	
 仍舊是	Still still	réng jiù shì	reng jiu shi 	244	
-仍舊	Still still	réng jiù	reng jiu 	24	
+仍舊	Still	réng jiù	reng jiu	24	
+
 仍能	Still can	réng néng	reng neng 	22	
 仍然是	is still	réng rán shì	reng ran shi 	224	
 仍然	still	réng rán	reng ran	22	
@@ -90648,8 +91054,6 @@
 人選	Candidate	rén xuǎn 	ren xuan 	231	
 人遇	People encounter	rén yù	ren yu 	24	
 人造	Artificial	rén zào	ren zao	24	
-人逃	People fled	rén táo	ren tao 	22	
-人辯	People argue	rén biàn	ren bian 	24	
 人質	hostage	rén zhì	ren zhi 	24	
 人若遵行就	If people do it	rén ruò zūn háng jiù	ren  zun  jiu 	24124	
 人肺	Human lungs	rén fèi	ren fei 	24	
@@ -90688,8 +91092,6 @@
 人口	population	rén kǒu 	ren kou 	231	
 人參巴	Ginsengba	rén shēn ba	ren  ba 	201	
 人像	Portrait	rén xiàng 	ren xiang 	24	
-人傾覆	People overturned	rén qīng fù	ren qing fu 	214	
-人保	Human security	rén bǎo 	ren bao 	23	人以	People to	rén yǐ	ren yi 	23	
 人人	Everyone	rén rén	ren ren	22	
 人世	All the world	rén shì	ren shi	24	
 人丁	People	rén dīng	ren ding	21	
@@ -90735,7 +91137,8 @@
 交配	mating	jiāo pèi	jiao pei 	14	
 交還	To surrender	jiāo huán 	jiao hai 	12	
 交迫	Forced	jiāo pò	jiao po	14	
-交賬	To pay	jiāo zhàng 	jiao zhang 	14	
+交賬	give an account	jiāo zhàng 	jiao zhang 	141	
+
 交談	chat	jiāo tán	jiao tan	12	
 交託	Entrusted	jiāo tuō	jiao tuo 	11	
 交與伶	Hand in hand	jiāo yǔ ling	jiao yu ling 	132	
@@ -90876,7 +91279,8 @@
 亞奈	Yannai	yà nài	ya nai 	44	
 亞太	Asia Pacific	yà tài 	ya tai 	44	
 亞大雅	Yatai Ya	yà dà yā	ya da ya 	443	
-亞大利	Albanian	yà dà lì	ya da  	444	
+亞大利	Attalia	yà dà lì	ya da li	444	
+
 亞大	Yada	yà dà	ya da 	44	
 亞多萊音	Adolfo	yà duō lái yīn	ya duo lai yin 	4121	
 亞多尼．洗德	Adoni-zedek	yà duō ní  xǐ dé	ya duo ni  xi de	412132	
@@ -91119,11 +91523,12 @@
 乛	kwukyel	ya	ya	1	
 乚	hidden	yǐn	yin	3	
 乘虛而入	Take advantage of	chéng xū ér rù	cheng xu er ru 	2124	
-乘船	By boat	chéng chuán	cheng chuan 	22	
+乘船	sailed	chéng chuán	cheng chuan	22	
+
 乘客	passenger	chéng kè	cheng ke	24	
 乘坐	Ride	chéng zuò	cheng zuo 	24	
 乘其不備	By its not prepared	chéng qí bù bèi	cheng qi  bei 	2244	
-乗	ride	cheer	zhèn	zhen	4	
+乗	ride	zhèn	zhen	4	
 乖謬	Perverse	guāi miù	guai miu 	14	
 乖巧	clever	guāi qiǎo	guai qiao 	13	
 乖乖	Obediently	guāi guāi 	guai guai 	11	
@@ -91207,7 +91612,8 @@
 主指	Main finger	zhǔ zhǐ	zhu zhi 	33	
 主持	Presided over	zhǔ chí 	zhu chi 	321	
 主意	idea	zhǔ yì	zhu yi	34	
-主張	Advocate	zhǔ zhāng 	zhu zhang 	311	
+主張	claim	zhǔ zhāng 	zhu zhang 	311	
+
 主宰	dominate	zhǔ zǎi 	zhu zai 	331	
 主因	Main reason	zhǔ yīn 	zhu yin 	31	
 主唱	Lead singer	zhǔ chàng 	zhu chang 	34	
@@ -91230,8 +91636,6 @@
 串咖喱魚蛋	String curry fish	chuàn gā lí yú dàn 	chuàn gā lí yú dàn 	41224	
 丱	ore	guàn	guan	4	
 丯	dense	jiè	jie	4	
-丮	catch	jǐ	ji	3	
-中香	In the incense	zhōng xiāng	zhong xiang 	11	
 中風	Stroke	zhòng fēng	zhong feng	41	
 中頭	In the head	zhōng tóu	zhong tou 	12	
 中非	Central Africa	zhōng fēi	zhong fei	11	
@@ -91328,7 +91732,8 @@
 並事	And things together	bìng shì	bing shi 	44	
 並且	and	bìng qiě	bing qie	43	
 並不會	And will not	bìng bù huì	bing  hui 	444	
-並不是	It is not	bìng bù shì	bing  shi 	444	
+並不是	It is not	bìng bú shì	bing bu shi	424	
+
 丣	yǒu	you	3	
 両	two	liǎng	liang	3	
 丠	hill	qiū	qiu	1	
@@ -91487,12 +91892,14 @@
 不期	Not expect	bù qī	bu qi	41	
 不服	Disagree	bù fú	bu fu	42	
 不會有	will not have	bù huì yǒu	 hui you 	443	
-不會	will not	bù huì	bu hui	44	
+不會	will not	bú huì	bu hui	24	
+
 不曾有過	Never had	bù céng yǒu guò 	 ceng you guo 	4234	
 不曾	Not ever	bù céng 	 ceng 	42	
 不曉得	do not know	bù xiǎo de	bu xiao de	431	
 不智	Unwise	bù zhì	bu zhi	44	
-不是	not	bù shì 	bu shi 	441	
+不是	not	bú shì 	bu shi 	241	
+
 不易	Not easy	bù yì	  	44	
 不明	unknown	bù míng 	bu ming 	42	
 不早了	It is late	bù zǎo le	bu zao le 	43
@@ -91531,7 +91938,8 @@
 不忠	Infidelity	bù zhōng	 zhong 	41	
 不忘	Do not forget	bù wàng	 wang 	44	
 不忍心	Could not bear	bù rěn xīn	 ren xin 	431	
-不必	Don't need	bù bì 	bu bi 	441	
+不必	Don't need	bú bì	bu bi	24	
+
 不復	No longer	bù fù	  	44	
 不得歸還	Not to be returned	bù dé guī huán 	 de gui hai 	4212	
 不得已	Last resort	bù dé yǐ	bu de yi	423	
@@ -91613,7 +92021,8 @@
 不准	Not allowed	bù zhǔn	 zhun 	43	
 不冷不熱	neither cold nor hot	bù lěng bù rè	   re 	4344	
 不再是	Is no longer	bù zài shì	 zai shi 	444	
-不再	no longer	bù zài	bu zai	44	
+不再	no longer	bú zài	bu zai	24	
+
 不公正	injustice	bù gōng zhèng 	bu gong zheng 	414	
 不公平	unfair	bù gōng píng	 gong ping 	412	
 不公	unfair	bù gōng 	bu gong 	411	
@@ -91641,7 +92050,8 @@
 不便	inconvenient	bù biàn	bu bian	44	
 不來	Not coming	bù lái	  	42	
 不作罪孽	Not sin	bù zuò zuì niè 	 zuo zui nie 	4444	
-不住	Can not live	bù zhù	 zhu 	44	
+不住	Can not live	bú zhù	bu zhu	24	
+
 不但	Not only	bù dàn 	bu dan 	441	
 不休	endlessly	bù xiū 	 xiu 	41	
 不以	Not to	bù yǐ	 yi 	43	
@@ -91929,7 +92339,8 @@
 
 一過	Over once	yī guò 	yi guo 	14	
 一遍	Again	yī biàn 	yi bian 	14	
-一週	One week	yī zhōu 	yi zhou 	11	
+一週	One week	yì zhōu 	yi zhou 	411	
+
 一連串	A series	yī lián chuàn 	yi lian chuan 	1241	
 一連	in succession	yì lián	yi lian	42	
 
@@ -91942,7 +92353,8 @@
 一蹶不振	Depressed	yī jué bù zhèn 	yi jue  zhen 	1244	
 一路平安	All the way to peace	yī lù píng ān	yi  ping an 	1421	
 一路上	Along the way	yī lù shàng 	yi lu shang 	1441	
-一路	All the way	yī lù 	yi  	14	
+一路	All the way	yí lù 	yi lu 	241	
+
 一趟	A trip	yī tàng	yi tang 	14	
 一起去	go together	yì qǐ qù	yi qi qu	434	
 
@@ -92004,15 +92416,18 @@
 一百萬	one million	yī bǎi wàn 	yi bai wan 	134	
 一百	hundred	yī bǎi 	yi bai 	13	
 一病不起	A sick can not afford	yī bìng bù qǐ	yi bing  qi 	1443	
-一番	Some	yī fān	yi fan 	11	
+一番	Some	yì fān	yi fan	41	
+
 一生一世	For the rest of my life	yī shēng yī shì	yi sheng yi shi 	1114	
 一生	lifetime	yī shēng	yi sheng	11	
-一片漆黑	darkness	yī piàn qī hēi 	yi pian qi hei 	14111	
+一片漆黑	darkness	yí piàn qī hēi	yi pian qi hei	2411	
+
 一片	one	yí piàn	yi pian	24	
 
 
 一無是處	Nothing at all	yī wú shì chù 	yi wu shi chu 	1244	
-一無所缺	Nothing missing	yī wú suǒ quē	yi wu suo que 	1231	
+一無所缺	Nothing missing	yì wú suǒ quē	yi wu suo que	4231	
+
 一無所知	Ignorant	yī wú suǒ zhī	yi wu suo zhi 	1231	
 一無所獲	Nothing	yī wú suǒ huò 	yi wu suo huo 	1234	
 一滴水	A drop of water	yī dī shuǐ 	yi di shui 	113	
@@ -92022,12 +92437,14 @@
 一派胡言	Nonsense nonsense	yī pài hú yán 	yi pai hu yan 	1422	
 一氣	Be angry	yī qì 	yi qi 	14	
 一比	One by one	yī bǐ	yi bi 	13	
-一段	a section	yī duàn 	yi duan 	141	
+一段	a section	yí duàn	yi duan	24	
+
 一死	Die	yī sǐ 	yi si 	13	
 一歲	One year old	yī suì	yi sui 	14	
 一步	step	yī bù	yi bu 	14	
 一次又一次	again and again	yī cì yòu yī cì 	yi ci you yi ci 	14414	
-一次	once	yī cì 	yi ci 	14	
+一次	once	yí cì 	yi ci 	241	
+
 一樣	same	yí yàng	yi yang	24	
 
 一模一樣	Exactly the same	yī mú yī yàng 	yi mo yi yang 	1214	
@@ -92051,7 +92468,8 @@
 一會	a while	yī huǐ	yi hui 	13	
 一更	One more	yī gèng	yi geng	14	
 一晚	one night	yī wǎn	yi wan 	13	
-一時	A moment	yī shí 	yi shi 	121	
+一時	hours	yī shí 	yi shi 	121	
+
 一是	One is	yī shì 	yi shi 	14	
 一星期	A week	yī xīng qí	yi xing qi 	112	
 一早	Early in the morning	yī zǎo 	yi zao 	13	
@@ -92059,7 +92477,8 @@
 一日	Day	yī rì	yi ri 	14	
 一族	Family	yī zú	yi zu 	12	
 一旁	Side	yī páng 	yi pang 	121	
-一方	One side	yī fāng 	yi fang 	11	
+一方	side	yì fāng 	yi fang 	411	
+
 一文錢	A money	yī wén qián	yi wen qian 	122	
 一支	One	yī zhī	yi zhi 	11	
 一摸	Touched	yī mō	yi mo 	11	
@@ -92092,7 +92511,8 @@
 一年四季	All year round	yī nián sì jì 	yi  si ji 	1244	
 一年半	A year and a half	yī nián bàn	yi  ban 	124	
 一年中	in a year	yī nián zhōng	yi  zhong 	121	
-一年	A year	yī nián	yi nian	12	
+一年	A year	yì nián	yi nian	42	
+
 一幫	A bunch	yī bāng	yi bang 	11	
 一幅	One	yī fú	yi fu 	12	
 一帶	Area	yī dài 	yi dai 	141	
@@ -92104,7 +92524,8 @@
 一封信	A letter	yī fēng xìn	yi feng xin 	114	
 一封	One	yī fēng	yi feng 	11	
 一家	One	yī jiā 	yi jia 	11	
-一定	for sure	yī dìng 	yi ding 	141	
+一定	for sure	yí dìng 	yi ding 	241	
+
 一字不漏	Wordless	yī zì bù lòu	yi zi   	1444	
 一字	word	yī zì	yi zi 	14	
 一如既往	as always	yī rú jì wǎng 	yi ru ji wang 	1243	
@@ -92116,18 +92537,22 @@
 一夥	A group	yī huǒ	yi huo 	13	
 一夜	All night	yí yè 	yi ye 	241	
 
-一場	a	yī chǎng 	yi chang 	131	
+一場	a	yì chǎng 	yi chang 	431	
+
 一堆堆	Piles of piles	yī duī duī	yi dui dui 	111	
 一堆	pile	yī duī	yi dui 	11	
 一團	A group	yī tuán	yi tuan 	12	
 一國	A country	yī guó	yi guo 	12	
 一圈	A circle	yī quān	yi quan 	11	
-一回事	same thing	yī huí shì	yi hui shi 	124	
+一回事	it is	yì huí shì	yi hui shi	424	
+
+
 一員	A member	yī yuán 	yi yuan 	12	
 一命	A life	yī mìng	yi ming 	14	
 一周	One week	yī zhōu	yi zhou 	11	
 一吹	A blow	yī chuī	yi chui	11	
-一向	Always	yī xiàng 	yi xiang 	141	
+一向	Always	yí xiàng 	yi xiang 	241	
+
 一名	One	yī míng	yi ming 	12	
 一同	together	yì tóng	yi tong	42	
 
@@ -92569,7 +92994,8 @@
 䰷	fish	bàng	bang	4	
 䰶	
 䰵	fish	zī	zi	1	
-䰴	fish	laugh	qì	qi	4	
+䰴	fish	qì	qi	4	
+
 䰳	
 䰲	sheat-fish	yà	ya	4	
 䰱	líng	ling	2	
@@ -92653,6 +93079,7 @@
 䯣	kneecap	kuì	kui	4	
 䯢	diminutive	mó	mo	2	
 䯡	jiàn	jian	4	
+
 䯠	ǎo	ao	3	
 䯟	bone	duì	dui	4	
 䯞	kuā	kua	1	
@@ -92707,7 +93134,7 @@
 䮭	gnaw	mì	mi	4	
 䮬	abrupt	mò	mo	4	
 䮫	donkey	lóu	lou	2	
-䮪	etc.	cheer	zhèn	zhen	4	
+䮪	etc.	zhèn	zhen	4	
 䮩	gú	gu	2	
 䮨	particoloured	zǎi	zai	3	
 䮧	hàn	han	4	
@@ -92806,6 +93233,7 @@
 䭊	etc.)	yǐng	ying	3	
 䭉	suǐ	sui	3	
 䭈	congee	jiàn	jian	4	
+
 䭇	decayed	yē	ye	1	
 䭆	nè	ne	4	
 䭅	cakes	hú	hu	2	
@@ -92819,6 +93247,7 @@
 䬽	cakes	shuì	shui	4	
 䬼	satiated	yuàn	yuan	4	
 䬻	jiàn	jian	4	
+
 䬺	cakes	yàng	yang	4	
 䬹	sickle	zhì	zhi	4	
 䬸	eat	
@@ -92922,7 +93351,8 @@
 䫗	reckless	xiá	xia	2	
 䫖	timid	chěn	chen	3	
 䫕	dié	die	2	
-䫔	servant	laugh	qì	qi	4	
+䫔	servant	qì	qi	4	
+
 䫓	wú	wu	2	
 䫒	disease	mén	men	2	
 䫑	good	yī	yi	1	
@@ -92936,7 +93366,7 @@
 䫉	manner	mào	mao	4	
 䫈	ugly	chěn	chen	3	
 䫇	beard	rán	ran	2	
-䫆	cheer	zhèn	zhen	4	
+䫆	zhèn	zhen	4	
 䫅	sàn	san	4	
 䫄	chuà	chua	4	
 䫃	lips	chún	chun	2	
@@ -93022,7 +93452,8 @@
 䩳	tanning	sōu	sou	1	
 䩲	dū	du	1	
 䩱	scabbard	shù	shu	4	
-䩰	scabbard	xuàn	xuan	4	
+䩰	scabbard	Render	xuàn	xuan	4	
+
 䩯	anxious	jí	ji	2	
 䩮	quiver	lù	lu	4	
 䩭	restrain	
@@ -93045,7 +93476,8 @@
 䩜	posterity	zhòu	zhou	4	
 䩛	bridle	bì	bi	4	
 䩚	patchings	dì	di	4	
-䩙	scabbard	xuàn	xuan	4	
+䩙	scabbard	Render	xuàn	xuan	4	
+
 䩘	patchings	dì	di	4	
 䩗	bà	ba	4	
 䩖	shoes	
@@ -93165,7 +93597,7 @@
 䧥	border	huì	hui	4	
 䧤	river	pú	pu	2	
 䧣	gag	
-䧢	rugged	take	qū	qu	1	
+䧢	rugged	qū	qu	1	
 䧡	wall	yōng	yong	1	
 䧠	shuàn	shuan	4	
 䧟	involve	xiàn	xian	4	
@@ -93178,14 +93610,16 @@
 䧘	wall	zhuàn	zhuan	4	
 䧗	land-slide	bì	bi	4	
 䧖	jiàn	jian	4	
-䧕	frontier	cheer	zhèn	zhen	4	
+
+䧕	frontier	zhèn	zhen	4	
 䧔	shore	niàn	nian	4	
 䧓	abundant	give	zhōu	zhou	1	
 䧒	lái	lai	2	
 䧑	dike	dī	di	1	
 䧐	
 䧏	
-䧎	pit	xuàn	xuan	4	
+䧎	pit	Render	xuàn	xuan	4	
+
 䧍	crevice	xì	xi	4	
 䧌	suī	sui	1	
 䧋	boundary	xiǎn	xian	3	
@@ -93300,6 +93734,7 @@
 䥞	jiǎo	jiao	3	
 䥝	áo	ao	2	
 䥜	jiàn	jian	4	
+
 䥛	carve	jiē	jie	1	
 䥚	first	
 䥙	suì	sui	4	
@@ -93372,6 +93807,7 @@
 䤖	wine	bào	bao	4	
 䤕	vinegar	xuè	xue	4	
 䤔	tasteless	jiàn	jian	4	
+
 䤓	méng	meng	2	
 䤒	jì	ji	4	
 䤑	wine	wàng	wang	4	
@@ -93497,7 +93933,7 @@
 䢚	path	gēng	geng	1	
 䢙	destroy	bài	bai	4	
 䢘	
-䢗	take	qū	qu	1	
+䢗	qū	qu	1	
 䢖	spread	yù	yu	4	
 䢕	xù	xu	4	
 䢔	mixed	hé	he	2	
@@ -93520,7 +93956,8 @@
 䢃	administer	yì	yi	4	
 䢂	
 䢁	yuè	yue	4	
-䢀	laugh	qì	qi	4	
+䢀	qì	qi	4	
+
 䡿	líng	ling	2	
 䡾	niè	nie	4	
 䡽	zuān	zuan	1	
@@ -93708,12 +94145,14 @@
 䟇	walk	jī	ji	1	
 䟆	bì	bi	4	
 䟅	proceed	jiàn	jian	4	
-䟄	deceitful	laugh	qì	qi	4	
+
+䟄	deceitful	qì	qi	4	
+
 䟃	run	cān	can	1	
 䟂	slow	mán	man	2	
 䟁	foot-race	xiáo	xiao	2	
 䟀	walk	cāi	cai	1	
-䞿	crippledhumble	qiān	qian	1	
+䞿	crippled	qiān	qian	1	
 
 䞾	frivolous	chí	chi	2	
 䞽	stiff	suǒ	suo	3	
@@ -93795,7 +94234,8 @@
 䝱	trouble	xié	xie	2	
 䝰	zhì	zhi	4	
 䝯	shift	yì	yi	4	
-䝮	boast	xuàn	xuan	4	
+䝮	boast	Render	xuàn	xuan	4	
+
 䝭	wages	gòu	gou	4	
 䝬	zhù	zhu	4	
 䝫	money	zuó	zuo	2	
@@ -93804,6 +94244,7 @@
 䝨	worthy	xián	xian	2	
 䝧	mín	min	2	
 䝦	zhōng	zhong	1	
+
 䝥	háo	hao	2	
 䝤	lǎo	lao	3	
 䝣	animal	qú	qu	2	
@@ -93986,7 +94427,8 @@
 䚴	anger	wà	wa	4	
 䚳	quickly	zhì	zhi	4	
 䚲	sneer	shàn	shan	4	
-䚱	letter	xìn	xin	4	
+䚱	faith	xìn	xin	4	
+
 䚰	prepare	pǐ	pi	3	
 䚯	rebellion	tǎo	tao	3	
 䚮	thicker	réng	reng	2	
@@ -94011,7 +94453,7 @@
 䚛	regulate	hú	hu	2	
 䚚	xiǎn	xian	3	
 䚙	xuān	xuan	1	
-䚘	cheer	zhèn	zhen	4	
+䚘	zhèn	zhen	4	
 䚗	lift	gāng	gang	1	
 䚖	líng	ling	2	
 䚕	lì	li	4	
@@ -94022,11 +94464,13 @@
 䚐	jí	ji	2	
 䚏	love	lìn	lin	4	
 䚎	
-䚍	see	laugh	qì	qi	4	
+䚍	see	qì	qi	4	
+
 䚌	
 䚋	yùn	yun	4	
 䚊	jiǎn	jian	3	
-䚉	see	laugh	qì	qi	4	
+䚉	see	qì	qi	4	
+
 䚈	see	juàn	juan	4	
 䚇	observe	shěng	sheng	3	
 䚆	see	yǐng	ying	3	
@@ -94095,7 +94539,8 @@
 䙇	seams	ruán	ruan	2	
 䙆	kuì	kui	4	
 䙅	pleat	yāo	yao	1	
-䙄	adjust	laugh	qì	qi	4	
+䙄	adjust	qì	qi	4	
+
 䙃	duò	duo	4	
 䙂	trousers	
 䙁	cán	can	2	
@@ -94253,7 +94698,7 @@
 䖩	bee	bì	bi	4	
 䖨	mantis	shí	shi	2	
 䖧	scorpion	nà	na	4	
-䖦	scorpion	take	qū	qu	1	
+䖦	scorpion	qū	qu	1	
 䖥	lí	li	2	
 䖤	wriggle	wǎn	wan	3	
 䖣	scratch	zǎo	zao	3	
@@ -94357,7 +94802,8 @@
 䕁	suddenly	fěi	fei	3	
 䕀	Compositae	kuǎn	kuan	3	
 䔿	zǔn	zun	3	
-䔾	laugh	qì	qi	4	
+䔾	qì	qi	4	
+
 䔽	cover	ài	ai	4	
 䔼	parsley	sè	se	4	
 䔻	luxuriant	dūn	dun	1	
@@ -94446,7 +94892,8 @@
 䓩	
 䓨	yīng	ying	1	
 䓧	pressing	cì	ci	4	
-䓦	law	diǎn	dian	3	
+䓦	law	stay	diǎn	dian	3	
+
 䓥	là	la	4	
 䓤	vegetation	hū	hu	1	
 䓣	liǎng	liang	3	
@@ -94457,8 +94904,8 @@
 䓞	edible	lì	li	4	
 䓝	mèng	meng	4	
 䓜	zhī	zhi	1	
-䓛	brush	take	qū	qu	1	
-䓚	water-plant	take	qū	qu	1	
+䓛	brush	qū	qu	1	
+䓚	water-plant	qū	qu	1	
 䓙	slanting	kuā	kua	1	
 䓘	plant	gāo	gao	1	
 䓗	leeks	cōng	cong	1	
@@ -94488,7 +94935,7 @@
 䒿	liáo	liao	2	
 䒾	yī	yi	1	
 䒽	wǎng	wang	3	
-䒼	take	qū	qu	1	
+䒼	qū	qu	1	
 䒻	poisonless	qǐ	qi	3	
 䒺	clay	jǐn	jin	3	
 䒹	grassy	lèi	lei	4	
@@ -94509,7 +94956,7 @@
 䒪	biàn	bian	4	
 䒩	not	hé	he	2	
 䒨	vegetable	shǐ	shi	3	
-䒧	grass	take	qū	qu	1	
+䒧	grass	qū	qu	1	
 䒦	fàn	fan	4	
 䒥	corresponding	mán	man	2	
 䒤	rì	ri	4	
@@ -94525,7 +94972,8 @@
 䒚	shǎo	shao	3	
 䒙	
 䒘	pistil	
-䒗	vanilla	laugh	qì	qi	4	
+䒗	vanilla	qì	qi	4	
+
 䒖	xìn	xin	4	
 䒕	luxuriant	xiǎo	xiao	3	
 䒔	bài	bai	4	
@@ -94562,7 +95010,7 @@
 䑵	mù	mu	4	
 䑴	boat	qí	qi	2	
 䑳	boat	lún	lun	2	
-䑲	oar	dog	zhào	zhao	4	
+䑲	oar	zhào	zhao	4	
 䑱	boat	wǎn	wan	3	
 䑰	bù	bu	4	
 䑯	boat	dì	di	4	
@@ -94708,7 +95156,8 @@
 䏣	maggot	jué	jue	2	
 䏢	meat	bǐ	bi	3	
 䏡	Proteose	shì	shi	4	
-䏠	laugh	qì	qi	4	
+䏠	qì	qi	4	
+
 䏟	big	bié	bie	2	
 䏞	belly	mò	mo	4	
 䏝	earnest	zhuān	zhuan	1	
@@ -94728,14 +95177,16 @@
 䏏	moan	xū	xu	1	
 䏎	milk	féng	feng	2	
 䏍	empty	yuàn	yuan	4	
-䏌	vibrate	laugh	qì	qi	4	
+䏌	vibrate	qì	qi	4	
+
 䏋	solemn	sù	su	4	
 䏊	deaf	lóng	long	2	
 䏉	waver	shī	shi	1	
 䏈	connect	lián	lian	2	
 䏇	hear	piào	piao	4	
 䏆	cáo	cao	2	
-䏅	hear	laugh	qì	qi	4	
+䏅	hear	qì	qi	4	
+
 䏄	unresponsive)	dǐ	di	3	
 䏃	hear	mián	mian	2	
 䏂	clever	sǒu	sou	3	
@@ -94810,7 +95261,8 @@
 䍾	flying	yǎn	yan	3	
 䍽	lì	li	4	
 䍼	zān	zan	1	
-䍻	xuàn	xuan	4	
+䍻	Render	xuàn	xuan	4	
+
 䍺	huàn	huan	4	
 䍹	
 䍸	bó	bo	2	
@@ -94823,7 +95275,7 @@
 䍱	xú	xu	2	
 䍰	black	
 䍯	guǐ	gui	3	
-䍮	dog	zhào	zhao	4	
+䍮	zhào	zhao	4	
 䍭	
 䍬	use	pēng	peng	1	
 䍫	tuó	tuo	2	
@@ -94841,12 +95293,13 @@
 䍟	zòng	zong	4	
 䍞	drag-net	yù	yu	4	
 䍝	net	tà	ta	4	
-䍜	dog	zhào	zhao	4	
+䍜	zhào	zhao	4	
 䍛	gù	gu	4	
 䍚	vast	làng	lang	4	
 䍙	net	méi	mei	2	
 䍘	mí	mi	2	
-䍗	bind	xuàn	xuan	4	
+䍗	bind	Render	xuàn	xuan	4	
+
 䍖	fú	fu	2	
 䍕	net	dī	di	1	
 䍔	cable	gōng	gong	1	
@@ -94865,7 +95318,8 @@
 䍇	jug	tà	ta	4	
 䍆	zhù	zhu	4	
 䍅	líng	ling	2	
-䍄	diǎn	dian	3	
+䍄	stay	diǎn	dian	3	
+
 䍃	vase	yóu	you	2	
 䍂	yú	yu	2	
 䍁	tassel	suì	sui	4	
@@ -94921,7 +95375,8 @@
 䌏	mì	mi	4	
 䌎	connect	lüè	lue	4	
 䌍	jǐn	jin	3	
-䌌	lace	laugh	qì	qi	4	
+䌌	lace	qì	qi	4	
+
 䌋	dā	da	1	
 䌊	aides	yáo	yao	2	
 䌉	principle	
@@ -95088,7 +95543,7 @@
 䉩	cradle	
 䉨	yì	yi	4	
 䉧	liú	liu	2	
-䉦humble	qiān	qian	1	
+䉦	qiān	qian	1	
 
 䉥	sǒng	song	3	
 䉤	sǒu	sou	3	
@@ -95134,6 +95589,7 @@
 䈼	etc.	miè	mie	4	
 䈻	pú	pu	2	
 䈺	bamboo	zhōng	zhong	1	
+
 䈹	sǒu	sou	3	
 䈸	hú	hu	2	
 䈷	luò	luo	4	
@@ -95180,12 +95636,12 @@
 䈏	báo	bao	2	
 䈎	leaf	yè	ye	4	
 䈍	máng	mang	2	
-䈌	submerged	take	qū	qu	1	
+䈌	submerged	qū	qu	1	
 䈋	tà	ta	4	
 䈊	䈊仔	líng	ling	2	
 䈉	fan	shà	sha	4	
 䈈	mat	féi	fei	2	
-䈇	shade	dog	zhào	zhao	4	
+䈇	shade	zhào	zhao	4	
 䈆	dài	dai	4	
 䈅	yù	yu	4	
 䈄	hán	han	2	
@@ -95200,7 +95656,7 @@
 䇻	broom	wěi	wei	3	
 䇺	bronze	dòu	dou	4	
 䇹	bamboo	jùn	jun	4	
-䇸	bamboo	cheer	zhèn	zhen	4	
+䇸	bamboo	zhèn	zhen	4	
 䇷	bié	bie	2	
 䇶	bamboo	jué	jue	2	
 䇵	yí	yi	2	
@@ -95226,6 +95682,7 @@
 䇡	zhù	zhu	4	
 䇠	zhù	zhu	4	
 䇟	tendon	jiàn	jian	4	
+
 䇞	gān	gan	1	
 䇝	sever	
 䇜	bamboo	qiǎn	qian	3	
@@ -95234,6 +95691,7 @@
 䇙	yǐn	yin	3	
 䇘	hù	hu	4	
 䇗	zhōng	zhong	1	
+
 䇖	yǔn	yun	3	
 䇕	wait	
 䇔	atrophy	luò	luo	4	
@@ -95254,7 +95712,7 @@
 䇅	fá	fa	2	
 䇄	
 䇃	until	sì	si	4	
-䇂	sinhumble	qiān	qian	1	
+䇂	sin	qiān	qian	1	
 
 䇁	cave	sī	si	1	
 䇀	róng	rong	2	
@@ -95268,7 +95726,7 @@
 䆸	spacious	zhēng	zheng	1	
 䆷	hole	xuè	xue	4	
 䆶	jiū	jiu	1	
-䆵	echo	cheer	zhèn	zhen	4	
+䆵	echo	zhèn	zhen	4	
 䆴	
 䆳	remote	qióng	qiong	2	
 䆲	emptiness	kāng	kang	1	
@@ -95304,7 +95762,7 @@
 䆔	thread	chōng	chong	1	
 䆓	hole	è	e	4	
 䆒	study	jiù	jiu	4	
-䆑	cheer	zhèn	zhen	4	
+䆑	zhèn	zhen	4	
 䆐	nation	guó	guo	2	
 䆏	fèi	fei	4	
 䆎	xiān	xian	1	
@@ -95349,7 +95807,8 @@
 䅧	shade	yān	yan	1	
 䅦	feeble	máo	mao	2	
 䅥	husks	jié	jie	2	
-䅤	plant	laugh	qì	qi	4	
+䅤	plant	qì	qi	4	
+
 䅣	huáng	huang	2	
 䅢	corns	jiù	jiu	4	
 䅡	grains	xǔ	xu	3	
@@ -95442,7 +95901,7 @@
 䄊	
 䄉	beautiful	é	e	2	
 䄈	dòu	dou	4	
-䄇	cheer	zhèn	zhen	4	
+䄇	zhèn	zhen	4	
 䄆	worship	huó	huo	2	
 䄅	worship	juàn	juan	4	
 䄄	achievement	yīn	yin	1	
@@ -95481,7 +95940,8 @@
 䃣	destroy	huǐ	hui	3	
 䃢	qīn	qin	1	
 䃡	jīn	jin	1	
-䃠	xuàn	xuan	4	
+䃠	Render	xuàn	xuan	4	
+
 䃟	䃟頭窰	
 䃞	stone	shú	shu	2	
 䃝	qiào	qiao	4	
@@ -95500,7 +95960,7 @@
 䃐	
 䃏	rock	xīng	xing	1	
 䃎	zhà	zha	4	
-䃍	sink	dog	zhào	zhao	4	
+䃍	sink	zhào	zhao	4	
 䃌	zhēn	zhen	1	
 䃋	yú	yu	2	
 䃊	rub	jǔ	ju	3	
@@ -95627,13 +96087,15 @@
 䁑	praise	yáng	yang	2	
 䁐	inspect	yīng	ying	1	
 䁏	hypermetropia	yǎo	yao	3	
-䁎	cheer	zhèn	zhen	4	
+䁎	zhèn	zhen	4	
 䁍	blind	qià	qia	4	
 䁌	yù	yu	4	
 䁋	xiè	xie	4	
 䁊	block	wò	wo	4	
-䁉	survey	laugh	qì	qi	4	
-䁈	examine	laugh	qì	qi	4	
+䁉	survey	qì	qi	4	
+
+䁈	examine	qì	qi	4	
+
 䁇	mì	mi	4	
 䁆	eyes	yè	ye	4	
 䁅	rage	měng	meng	3	
@@ -95681,18 +96143,20 @@
 䀜	down	gǔ	gu	3	
 䀛	daybreak	mèi	mei	4	
 䀚	áng	ang	2	
-䀙	examine	laugh	qì	qi	4	
+䀙	examine	qì	qi	4	
+
 䀘	xié	xie	2	
 䀗	dislike	jué	jue	2	
 䀖	respect	tiān	tian	1	
 䀕	eyeballs	zhèn	zhen	4	
 䀔	look	rèn	ren	4	
 䀓	huàn	huan	4	
-䀒	gloomyhumble	qiān	qian	1	
+䀒	gloomy	qiān	qian	1	
 
 䀑	wò	wo	4	
 䀐	regard	shān	shan	1	
-䀏	giddy	xuàn	xuan	4	
+䀏	giddy	Render	xuàn	xuan	4	
+
 䀎	ogle	miǎn	mian	3	
 䀍	vessel	kàn	kan	4	
 䀌	xì	xi	4	
@@ -95923,7 +96387,7 @@
 㼬	pot	xìng	xing	4	
 㼫	huàn	huan	4	
 㼪	jié	jie	2	
-㼩	utensil	cheer	zhèn	zhen	4	
+㼩	utensil	zhèn	zhen	4	
 㼨	hán	han	2	
 㼧	tóng	tong	2	
 㼦	earthenware	gǒng	gong	3	
@@ -96025,7 +96489,7 @@
 㻆	
 㻅	huì	hui	4	
 㻄	precious	bǎo	bao	3	
-㻃	crooked	take	qū	qu	1	
+㻃	crooked	qū	qu	1	
 㻂	pearls	píng	ping	2	
 㻁	extraordinary	
 㻀	yú	yu	2	
@@ -96124,6 +96588,7 @@
 㹥	zhù	zhu	4	
 㹤	cowardly	qiè	qie	4	
 㹣	dog	zhōng	zhong	1	
+
 㹢	jiā	jia	1	
 㹡	quick-tempered	xuán	xuan	2	
 㹠	tún	tun	2	
@@ -96200,7 +96665,7 @@
 㸙	father	zhē	zhe	1	
 㸘	all	wàn	wan	4	
 㸗	tóng	tong	2	
-㸖	take	qū	qu	1	
+㸖	qū	qu	1	
 㸕	snatch	jué	jue	2	
 㸔	
 㸓	avoid	mì	mi	4	
@@ -96219,7 +96684,8 @@
 㸆	
 㸅	ashes	jié	jie	2	
 㸄	jì	ji	4	
-㸃	spot	diǎn	dian	3	
+㸃	spot	stay	diǎn	dian	3	
+
 㸂	
 㸁	burn	hǎn	han	3	
 㸀	tái	tai	2	
@@ -96229,7 +96695,7 @@
 㷼	comfort	yàn	yan	4	
 㷻	none	wú	wu	2	
 㷺	
-㷹	dog	zhào	zhao	4	
+㷹	zhào	zhao	4	
 㷸	splendid	dié	die	2	
 㷷	broth	juǎn	juan	3	
 㷶	bèi	bei	4	
@@ -96264,7 +96730,7 @@
 㷙	cook	
 㷘	coal	tái	tai	2	
 㷗	jiǒng	jiong	3	
-㷖	dog	zhào	zhao	4	
+㷖	zhào	zhao	4	
 㷕	qiú	qiu	2	
 㷔	blaze	yàn	yan	4	
 㷓	chimney	zǒng	zong	3	
@@ -96401,6 +96867,7 @@
 㵐	river	jué	jue	2	
 㵏	sharp	cuǐ	cui	3	
 㵎	river	jiàn	jian	4	
+
 㵍	annoyed	mèn	men	4	
 㵌	flow	xún	xun	2	
 㵋	river	mì	mi	4	
@@ -96517,7 +96984,8 @@
 㳜	xiū	xiu	1	
 㳛	dirty	yú	yu	2	
 㳚	xù	xu	4	
-㳙	eliminate	xuàn	xuan	4	
+㳙	eliminate	Render	xuàn	xuan	4	
+
 㳘	chōng	chong	1	
 㳗	chài	chai	4	
 㳖	river	yī	yi	1	
@@ -96605,7 +97073,7 @@
 㲅	bind	jì	ji	4	
 㲄	jué	jue	2	
 㲃	jiù	jiu	4	
-㲂	push	cheer	zhèn	zhen	4	
+㲂	push	zhèn	zhen	4	
 㲁	beat	kōng	kong	1	
 㲀	beat	zhēn	zhen	1	
 㱿	insects	què	que	4	
@@ -96732,6 +97200,7 @@
 㰆	etc.	bèi	bei	4	
 㰅	brim	dí	di	2	
 㰄	fruit	jiàn	jian	4	
+
 㰃	tree	mián	mian	2	
 㰂	tree	shěn	shen	3	
 㰁	luǒ	luo	3	
@@ -96742,6 +97211,7 @@
 㯼	
 㯻	bind	gǔn	gun	3	
 㯺	cabinet	jiàn	jian	4	
+
 㯹	exhibit	biǎo	biao	3	
 㯸	basin	jǐn	jin	3	
 㯷	dates	pú	pu	2	
@@ -96799,7 +97269,8 @@
 㯃	paint	
 㯂	dài	dai	4	
 㯁	flail	péi	pei	2	
-㯀	xuàn	xuan	4	
+㯀	Render	xuàn	xuan	4	
+
 㮿	tree	bì	bi	4	
 㮾	lǎng	lang	3	
 㮽	
@@ -96906,7 +97377,7 @@
 㭘	scabbard	gé	ge	2	
 㭗	
 㭖	
-㭕	saddle	take	qū	qu	1	
+㭕	saddle	qū	qu	1	
 㭔	tree	lú	lu	2	
 㭓	biàn	bian	4	
 㭒	spade	sì	si	4	
@@ -97089,7 +97560,7 @@
 
 㪢	strike	shǎo	shao	3	
 㪡	quell	kài	kai	4	
-㪠	povertyhumble	qiān	qian	1	
+㪠	poverty	qiān	qian	1	
 
 㪟	honest	
 㪞	resist	mào	mao	4	
@@ -97131,7 +97602,7 @@
 㩺	
 㩹	dié	die	2	
 㩸	collect	dié	die	2	
-㩷humble	qiān	qian	1	
+㩷	qiān	qian	1	
 
 㩶	hold	niè	nie	4	
 㩵	beat	è	e	4	
@@ -97185,7 +97656,7 @@
 㩆	grasp	jiù	jiu	4	
 㩅	sprout	
 㩄	strike	shāi	shai	1	
-㩃	etc.)humble	qiān	qian	1	
+㩃	etc.)	qiān	qian	1	
 
 㩂	
 㩁	knock	què	que	4	
@@ -97204,6 +97675,7 @@
 㨶	beat	dǎo	dao	3	
 㨵	eliminate	jiǎn	jian	3	
 㨴	collapse	jiàn	jian	4	
+
 㨳	closet	guǐ	gui	3	
 㨲	support	cè	ce	4	
 㨱	shake	yáo	yao	2	
@@ -97281,7 +97753,8 @@
 㧩	dispel	pèi	pei	4	
 㧨	gradual	qiú	qiu	2	
 㧧	comb	
-㧦	strike	xuàn	xuan	4	
+㧦	strike	Render	xuàn	xuan	4	
+
 㧥	xiǎn	xian	3	
 㧤	leap	chòng	chong	4	
 㧣	stop	zhū	zhu	1	
@@ -97531,7 +98004,8 @@
 㣯	shake	xiè	xie	4	
 㣮	
 㣭	number	zōng	zong	1	
-㣬	walk	laugh	qì	qi	4	
+㣬	walk	qì	qi	4	
+
 㣫	follow	zhǒng	zhong	3	
 㣪	huǎn	huan	3	
 㣩	
@@ -97540,6 +98014,7 @@
 㣦	wēi	wei	1	
 㣥	all	zhì	zhi	4	
 㣤	trample	jiàn	jian	4	
+
 㣣	doubt	shàn	shan	4	
 㣢	tí	ti	2	
 㣡	
@@ -97642,7 +98117,7 @@
 㢀	cì	ci	4	
 㡿	blame	chì	chi	4	
 㡾	threshold	xiàn	xian	4	
-㡽	dog	zhào	zhao	4	
+㡽	zhào	zhao	4	
 㡼	granary	yì	yi	4	
 㡻	liào	liao	4	
 㡺	cottage	dàn	dan	4	
@@ -97758,7 +98233,7 @@
 㠍	lofty	jí	ji	2	
 㠌	high	qī	qi	1	
 㠋	è	e	4	
-㠊	rugged	take	qū	qu	1	
+㠊	rugged	qū	qu	1	
 㠉	mountain	tóng	tong	2	
 㠈	rùn	run	4	
 㠇	jiù	jiu	4	
@@ -97836,7 +98311,7 @@
 㞿	diverge	chì	chi	4	
 㞾	nun	ní	ni	2	
 㞽	mountain	xuè	xue	4	
-㞼	flatter	cheer	zhèn	zhen	4	
+㞼	flatter	zhèn	zhen	4	
 㞻	hào	hao	4	
 㞺	clan	zú	zu	2	
 㞹	kě	ke	3	
@@ -97871,14 +98346,16 @@
 㞝	
 㞜	boots	tuī	tui	1	
 㞛	shoes	jǐ	ji	3	
-㞚	wedge	laugh	qì	qi	4	
+㞚	wedge	qì	qi	4	
+
 㞙	urinate	niào	niao	4	
 㞘	bottom	dū	du	1	
 㞗	qiú	qiu	2	
 㞖	this	cí	ci	2	
 㞕	crumbs	xiè	xie	4	
 㞔	yí	yi	2	
-㞓	buttocks	laugh	qì	qi	4	
+㞓	buttocks	qì	qi	4	
+
 㞒	strong	xiè	xie	4	
 㞑	rear	wěi	wei	3	
 㞐	dwell	jū	ju	1	
@@ -98260,7 +98737,7 @@
 㘚	angry	hǎn	han	3	
 㘙	groan	yán	yan	2	
 㘘	
-㘗	whisper	take	qū	qu	1	
+㘗	whisper	qū	qu	1	
 㘖	quarrel	yán	yan	2	
 㘕	halloo	hǎn	han	3	
 㘔	eat	sǎi	sai	3	
@@ -98328,7 +98805,7 @@
 㗗	separate	bēi	bei	1	
 㗖	chew	dàn	dan	4	
 㗕	gòu	gou	4	
-㗔	happinesshumble	qiān	qian	1	
+㗔	happiness	qiān	qian	1	
 
 㗓	mouthful	zhuī	zhui	1	
 㗒	interjection	ài	ai	4	
@@ -98542,7 +99019,8 @@
 㔃	interrupt	jué	jue	2	
 㔂	pare	lín	lin	2	
 㔁	hook	dēng	deng	1	
-㔀	rob	lüè	lue	4	
+㔀	take	lüè	lue	1	
+
 㓿	
 㓾	ripped	xī	xi	1	
 㓽	spade	chóng	chong	2	
@@ -98672,7 +99150,7 @@
 㒂	bestow	zhuó	zhuo	2	
 㒁	stalwart	yǔ	yu	3	
 㒀	zhāi	zhai	1	
-㑿	long	dog	zhào	zhao	4	
+㑿	long	zhào	zhao	4	
 㑾	delight	yáo	yao	2	
 㑽	parry	táng	tang	2	
 㑼	lüè	lue	4	
@@ -98883,7 +99361,8 @@
 勃起	boner	bó qǐ	bo qi	23	
 張惠妹	Chang Hui-mei	zhāng huì mèi	zhang hui mei	144	
 為什麼	why	wèi shé me	wei she me	42	
-學校	SCHOOL	xué xiào	xue xiao	24	
+學校	school	xué xiào	xue xiao	24	
+
 大學	university	dà xué	da xue	42	
 課本	textbook	kè běn	ke ben	43	
 演唱會	concert	yǎn chàng huì	yan chang hui	344	
@@ -99295,7 +99774,8 @@
 膽小鬼	coward	dǎn xiǎo guǐ	dan xiao gui	333	
 偷看	peep	tōu kàn	tou kan	14	
 一千萬	much	yī qiān wàn	yi qian wan	114	
-每一個	every	měi yī gè	mei yi ge	314	
+每一個	every	měi yí gè	mei yi ge	324	
+
 心上人	Sweetheart	xīn shàng rén	xin shang ren	142	
 尿尿	pee	niào niào	niao niao	44	
 有沒有人	Anyone	yǒu méi yǒu rén	you mei you ren	3232	
@@ -99413,7 +99893,9 @@
 請假	Leave	qǐng jià	qing jia	34	
 假日	holiday	jià rì	jia ri	44	
 國定假日	national holiday	guó dìng jià rì	guo ding jia ri	2444	
-很長	very long	hěn zhǎng	hen zhang	33	
+很長	very long	hěn cháng	hen chang	32	
+
+
 為此而	for this purpose	wèi cǐ ér	wei ci er	432	
 歡慶	to celebrate	huān qìng	huan qing	14	
 就在	at	jiù zài	jiu zai	44	
@@ -99519,7 +100001,8 @@
 紅茶	black tea	hóng chá	hong cha	22	
 紅綠燈	traffic light	hóng lǜ dēng	hong lu deng	241	
 計程車	taxi	jì chéng chē	ji cheng che	421	
-風景	landscape	fēng jǐng	feng jing	13	
+風景	view	fēng jǐng	feng jing	13	
+
 飛機	aircraft	fēi jī	fei ji	11	
 旁邊兒	Next to children	páng biān ér	pang bian er	212	
 旅遊	tourism	lǚ yóu	lu you	32	
@@ -99638,7 +100121,8 @@
 石油	oil	shí yóu	shi you	22	
 丟1	throw	diū	diu	1	
 丟2	Lost 2	diū	diu	1	
-交1	cross	jiāo	jiao	1	
+交1	meet	jiāo	jiao	1	
+
 交2	Pay 2	jiāo	jiao	1	
 冰塊兒	Ice cubes	bīng kuài ér	bing kuai er	142	
 名詞	noun	míng cí	ming ci	22	
@@ -101287,8 +101771,6 @@
 味兒	Taste	wèi er	wei er	41	
 味精	MSG	wèi jīng	wei jing	41	
 和平	peace	hé píng	he ping	22	
-和好	reconcile	hé hǎo	he hao	23	
-和氣	And gas	hé qì	he qi	24	
 周週	weekly	give	zhōu	zhou	1	
 夜市	night market	yè shì	ye shi	44	
 委員	Members	wěi yuán	wei yuan	32	
@@ -102497,7 +102979,8 @@
 大中	Dà zhōng 	dà zhōng 	da zhong 	411	
 大仁	Dà rén 	dà rén 	da ren 	421	
 大元	Dà yuán 	dà yuán 	da yuan 	421	
-大光	Dà guāng 	dà guāng 	da guang 	411	
+大光	bright light	dà guāng	da guang	41	
+
 大公	Dà gōng 	dà gōng 	da gong 	411	
 大勇	Dà yǒng 	dà yǒng 	da yong 	431	
 大原	Dà yuán 	dà yuán 	da yuan 	421	
@@ -102797,7 +103280,8 @@
 成德	Chéng dé 	chéng dé 	cheng de 	221	
 成泰	Chéng tài 	chéng tài 	cheng tai 	241	
 成福	Chéng fú 	chéng fú 	cheng fu 	221	
-成都	Chéng dū 	chéng dū 	cheng du 	211	
+成都	Chengdu	chéng dū 	cheng du 	211	
+
 承天	Chéng tiān 	chéng tiān 	cheng tian 	211	
 承德	Chéng dé 	chéng dé 	cheng de 	221	
 振平	Zhèn píng 	zhèn píng 	zhen ping 	421	
@@ -105316,7 +105800,8 @@
 成分	ingredient	chéng fèn 	cheng fen 	241	
 捷運	MRT	jié yùn 	jie yun 	241	
 散布	spread	sàn bù 	san bu 	441	
-有所	have something to do	yǒu suǒ 	you suo 	331	
+有所	need something	yǒu suǒ 	you suo 	331	
+
 桌球	snooker	zhuō qiú 	zhuo qiu 	121	
 櫃臺	counter	guì tái 	gui tai 	421	
 歐洲	europe	ōu zhōu 	ou zhou 	111	
@@ -105410,7 +105895,8 @@
 我的	my	wǒ de	wo de	31	
 
 心切	eager	xīn qiè	xin qie	14	
-另一個	the other	lìng yī gè	ling yi ge	414	
+另一個	the other	lìng yí gè	ling yi ge	424	
+
 分了	separated	fēn le	fen le	11	
 心生	heart	xīn shēng	xin sheng	11	
 霸王	despot	bà wáng	ba wang	42	
@@ -107278,8 +107764,6 @@
 艾草	Wormwood	ài cǎo	ai cao	43	
 色麻	Color hemp	sè má	se ma	42	
 色調	tone	sè diào	se diao	44	
-色素	pigment	sè sù	se su	44	
-色白	Color white	sè bái	se bai	42	
 良品	Good product	liáng pǐn	liang pin	23	
 良信	Good letter	liáng xìn	liang xin	24	
 船形	Boat shape	chuán xíng	chuan xing	22	
@@ -107478,7 +107962,8 @@
 組合	combination	zǔ hé	zu he	32	
 細面	Fine surface	xì miàn	xi mian	44	
 細雪	Fine snow	xì xǚ	xi xu	43	
-細膩	exquisite	xìn ì	xin i	44	
+細膩	exquisite	xì nì	xi ni	44	
+
 細縫	Slit	xì fèng	xi feng	44	
 細緻	meticulous	xì zhì	xi zhi	44	
 細絲	Filament	xì sī	xi si	41	
@@ -108370,8 +108855,6 @@
 榨菜	Mustard	zhà cài	zha cai	44	
 榨乾	Drained	zhà gān	zha gan	41	
 極道	Road	jí dào	ji dao	24	
-極致	The ultimate	jí zhì	ji zhi	24	
-極細	Very fine	jí xì	ji xi	24	
 極地	Polar	jí dì	ji di	24	
 極品	Need	jí pǐn	ji pin	23	
 極光	aurora	jí guāng	ji guang	21	
@@ -109879,7 +110362,8 @@
 過著	living	guò zhe	guo zhe	41	
 蹛著	live	dài zhe	dai zhe	41	
 
-家己	myself	jiā jǐ	jia ji	13	
+家己	self	jiā jǐ	jia ji	13	
+
 懷抱著	embrace	huái bào zhe	huai bao zhe	241	
 五點外	after 5 am	wǔ diǎn wài	wu dian wai	334	
 街仔路	road	jiē zǐ lù	jie zi lu	134	
@@ -110092,7 +110576,8 @@
 星象家	astrologers	xīng xiàng jiā	xing xiang jia	141	
 亞蘭語	Aramaic	yà lán yǔ	ya lan yu	423	
 大發雷霆	furious	dà fā léi tíng	da fa lei ting	4122	
-亞略	Arioch	yà lüè	ya lue	44	
+亞略	Ariopagus	yà lüè	ya lue	41	
+
 護衞長	captain of the guard	hù wèi cháng	hu wei chang	442	
 智士	wise men	zhì shì	zhi shi	44	
 占卜師	fortune-teller	zhān bǔ shī	zhan bu shi	131	
@@ -110135,7 +110620,8 @@
 咬斷	bite off	yǎo duàn	yao duan	34	
 十二萬	120,000	shí èr wàn	shi er wan	244	
 從頭到尾	from beginning to end	cóng tóu dào wěi	cong tou dao wei	2243	
-不認識	do not know	bù rèn shi	bu ren shi	441	
+不認識	do not know	bú rèn shi	bu ren shi	241	
+
 新生命	new life	xīn shēng mìng	xin sheng ming	114	
 指的	means	zhǐ de	zhi de	31	
 龍飛虎	Chris Lonsdale	lóng fēi hǔ	long fei hu	213	
@@ -110249,7 +110735,8 @@
 稅官	tax collector	shuì guān	shui guan	41	
 稅關	tax-collection booth	shuì guān	shui guan	41	
 病的人	sick people	bìng de rén	bing de ren	412	
-打了	told	dǎ le	da le	31	
+打了	beat	dǎ le	da le	31	
+
 利物浦	Liverpool	lì wù pǔ	li wu pu	443	
 巡演	tour	xún yǎn	xun yan	23	
 阿姆斯特丹	Amsterdam	ā mǔ sī tè dān	a mu si te dan	13141	
@@ -110791,7 +111278,8 @@ PK	fight	PK	PK	1
 不著	fail	bù zháo	bu zhao	42	
 結果子	bear fruit	jié guǒ zi	jie guo zi	231	
 說過	said	shuō guò	shuo guo	14	
-行過	did	xíng guò	xing guo	24	
+行過	did	xíng guo	xing guo	21	
+
 
 行的	do it	xíng de	xing de	21	
 相見	meet	xiāng jiàn	xiang jian	14	
@@ -111092,7 +111580,8 @@ PK	fight	PK	PK	1
 前呼後擁	all around	qián hū hòu yōng	qian hu hou yong	2141	
 金康辛	Jin Kang-Xin	jīn kāng xīn	jin kang xin	111	
 中廣	widely	zhōng guǎng	zhong guang	13	
-得救	receive	dé jiù	de jiu	24	
+得救	be saved	dé jiù	de jiu	24	
+
 
 車頭	engine	chē tóu	che tou	12	
 培增	more	péi zēng	pei zeng	21	
@@ -111225,7 +111714,8 @@ PK	fight	PK	PK	1
 琬筑	Alice	wǎn zhù	wan zhu	34	
 同時教	and teaching	tóng shí jiào	tong shi jiao	224	
 聚精會神地	attentively	jù jīng huì shén de	ju jing hui shen de	41421	
-看他	see his	kàn tā	kan ta	41	
+看他	see him	kàn tā	kan ta	41	
+
 大喊大叫着	shouting	dà hǎn dà jiào zhe	da han da jiao zhe	43441	
 言聽計從	influential	yán tīng jì cóng	yan ting ji cong	2142	
 跟從着	followed	gēn cóng zhe	gen cong zhe	121	
@@ -111292,3 +111782,443 @@ PK	fight	PK	PK	1
 像大衛	Like David	xiàng dà wèi	xiang da wei	444	
 不好	bad	bù hǎo	bu hao	43	
 送給	give to	sòng gěi	song gei	43	
+人家裏	man's house	rén jiā lǐ	ren jia li	213	
+也賜給	also gave	yě cì gěi	ye ci gei	343	
+歸信了	brought to	guī xìn le	gui xin le	141	
+亞迦布	Agabus	yà jiā bù	ya jia bu	414	
+聚會中	in meeting	jù huì zhōng	ju hui zhong	441	
+革老丟	Claudius	gé lǎo diū	ge lao diu	231	
+竭盡所能地	did everything we could	jié jìn suǒ néng de	jie jin suo neng de	24321	
+
+亞基帕	Agrippa	yà jī pà	ya ji pa	414	
+迫切地	urgently	pò qiè de	po qie de	441	
+衞兵	guards	wèi bīng	wei bing	41	
+肋旁	side	lèi páng	lei pang	42	
+為他們	for them	wèi tā men	wei ta men	411	
+離開了	left	lí kāi le	li kai le	211	
+羅大	Rhoda	luó dà	luo da	24	
+女僕	servant girl	nǚ pú	nu pu	32	
+應門	answer door	yìng mén	ying men	42	
+
+門外	outside the door	mén wài	men wai	24	
+內臣	personal assistant	nèi chén	nei chen	42	
+伯拉斯都	Blastus	bó lā sī dū	bo la si du	2111	
+王袍	royal robes	wáng páo	wang pao	22	
+王座	throne	wáng zuò	wang zuo	24	
+廣傳	spread widely	guǎng chuán	guang chuan	32	
+路求	Lucius	lù qiú	lu qiu	42	
+馬念	Manaen	mǎ niàn	ma nian	34	
+西流基	Seleucia	xī liú jī	xi liu ji	121	
+撒拉米	Salamis	sā lā mǐ	sa la mi	113	
+帕弗	Paphos	pà fú	pa fu	42	
+巴．耶穌	Bar-Jesus	bā  yé sū	ba  ye su	1121	
+士求	Sergius	shì qiú	shi qiu	42	
+以呂馬	Elymas	yǐ lǚ mǎ	yi lu ma	333	
+作梗	obstruct	zuò gěng	zuo geng	43	
+歸信	believe	guī xìn	gui xin	14	
+還不肯	still refuse to	hái bù kěn	hai bu ken	243	
+從中作梗	interfered	cóng zhōng zuò gěng	cong zhong zuo geng	2143	
+幾若	a few	jǐ ruò	ji ruo	34	
+歹人	wicked	dǎi rén	dai ren	32	
+落來	arrived	luò lái	luo lai	42	
+教示	teach	jiāo shì	jiao shi	14	
+遵趁	obey	zūn chèn	zun chen	14	
+聖誕節	Christmas	shèng dàn jié	sheng dan jie	442	
+合群	friendly	hé qún	he qun	22	
+班上	class	bān shàng	ban shang	14	
+網吧	internet cafe	wǎng ba	wang ba	31	
+郵箱	mailbox	yóu xiāng	you xiang	21	
+電子郵箱	email	diàn zǐ yóu xiāng	dian zi you xiang	4321	
+
+服務器	server	fú wù qì	fu wu qi	244	
+幹些	do	gàn xiē	gan xie	41	
+衝浪	surfing	chōng làng	chong lang	14	
+因特網	internet	yīn tè wǎng	yin te wang	143	
+傑夫	Jeff	jié fū	jie fu	21	
+滑稽	funny	huá jī	hua ji	21	
+吉姆	Jim	jí mǔ	ji mu	23	
+阿爾夫瑞德	Alfred	ā ěr fū ruì dé	a er fu rui de	13142	
+海克特	Hector	hǎi kè tè	hai ke te	344	
+差勁	worst	chai jìn	chai jin	14	
+馬丁	Martin	mǎ dīng	ma ding	31	
+路德．金	Luther King	lù dé  jīn	lu de  jin	4211	
+蘇珊	Susan	sū shān	su shan	11	
+凱倫	Karen	kǎi lún	kai lun	32	
+非裔	African	fēi yì	fei yi	14	
+免了	free	miǎn liǎo	mian liao	33	
+以哥念	Iconium	yǐ gē niàn	yi ge nian	314	
+大膽地	boldly	dà dǎn de	da dan de	431	
+分裂成	divided	fēn liè chéng	fen lie cheng	142	
+呂高尼	Lycaonia	lǚ gāo ní	lu gao ni	312	
+路司得	Lystra	lù sī dé	lu si de	412	
+特庇	Derbe	tè bì	te bi	44	
+希耳米	Hermes	xī ěr mǐ	xi er mi	133	
+人羣	crowd	rén qún	ren qun	22	
+永活	eternal life	yǒng huó	yong huo	32	
+偏行己路	go your own way	piān xíng jǐ lù	pian xing ji lu	1234	
+彼西底	Pisidia	bǐ xī dǐ	bi xi di	313	
+所信靠	believe in	suǒ xìn kào	suo xin kao	344	
+別加	Perga	bié jiā	bie jia	21	
+按呢	them	àn ne	an ne	41	
+
+
+歸正	convert	guī zhèng	gui zheng	14	
+法利賽	Pharisee	fǎ lì sài	fa li sai	344	
+參詳	decide	shen xiáng	shen xiang	12	
+
+參詳	judge	shen xiáng	shen xiang	12	
+列位	dear	liè wèi	lie wei	44	
+早上帝	that God	zǎo shàng dì	zao shang di	344	
+干證	Gentile	gàn zhèng	gan zheng	44	
+親像	relative	qīn xiàng	qin xiang	14	
+清氣	cleansed	qīng qì	qing qi	14	
+啥事	why	shà shì	sha shi	44	
+頷頸	bear	hàn jǐng	han jing	43	
+起頭	visit	qǐ tóu	qi tou	32	
+相合	agree	xiāng hé	xiang he	12	
+代誌	action	dài zhì	dai zhi	44	
+
+倒轉來	restore	dǎo zhuǎn lái	dao zhuan lai	332	
+
+倒落去	fallen	dào luò qù	dao luo qu	444	
+
+了後	After	le hòu	le hou	14	
+布棚	ruins	bù péng	bu peng	42	
+見若	might	jiàn ruò	jian ruo	44	
+拍算	choose	pāi suàn	pai suan	14	
+呣通	stop	ḿ tōng	m tong	21	
+禁戒	Forbidden	jìn jiè	jin jie	44	
+出擢	chosen	chū zhuó	chu zhuo	12	
+老兄弟	brother	lǎo xiōng dì	lao xiong di	314	
+請安	peace	qǐng ān	qing an	31	
+拍亂	trouble	pāi luàn	pai luan	14	
+諸個	All	zhū gè	zhu ge	14	
+落去	Go away	luò qù	luo qu	44	
+倒去	Down	dǎo qù	dao qu	34	
+相及	assist	xiāng jí	xiang ji	12	
+相激	disagreement	xiāng jī	xiang ji	11	
+致到	To	zhì dào	zhi dao	44	
+居比路	Cyprus	jū bǐ lù	ju bi lu	134	
+就近	nearby	jiù jìn	jiu jin	44	
+不認同	disagree	bú rèn tóng	bu ren tong	242	
+激烈地	forcefully	jī liè de	ji lie de	141	
+歸主	turn to the Lord	guī zhǔ	gui zhu	13	
+會中	Will be	huì zhōng	hui zhong	41	
+在會中	In the meeting	zài huì zhōng	zai hui zhong	441	
+信主	believe in the Lord	xìn zhǔ	xin zhu	43	
+承受不了	cannot bear	chéng shòu bu liǎo	cheng shou bu liao	2413	
+不配	unworthy	bú pèi	bu pei	24	
+
+安靜地	quietly	ān jìng de	an jing de	141	
+記着	Remember	jì zhe	ji zhe	41	
+祭過	offered to	jì guò	ji guo	44	
+選派	Selected	xuǎn pài	xuan pai	34	
+信上	Letter	xìn shàng	xin shang	44	
+啓程	departure	qǐ chéng	qi cheng	32	
+眾教會	the churches	zhòng jiào huì	zhong jiao hui	444	
+得到了	got	dé dào le	de dao le	241	
+加拉太	Galatia	jiā lā tài	jia la tai	114	
+每西亞	Mysia	měi xī yà	mei xi ya	314	
+
+庇推尼	Bithynia	bì tuī ní	bi tui ni	412	
+特羅亞	Troas	tè luó yà	te luo ya	424	
+撒摩特喇	Samothrace	sā mó tè lǎ	sa mo te la	1243	
+一個主要	a major	yí gè zhǔ yào	yi ge zhu yao	2434	
+
+呂底亞	Lydia	lǚ dǐ yà	lu di ya	334	
+受了洗	got baptized	shòu le xǐ	shou le xi	413	
+盛情難卻	persistence	shèng qíng nán què	sheng qing nan que	4224	
+主人們	masters	zhǔ rén men	zhu ren men	321	
+大喊着	shouting	dà hǎn zhe	da han zhe	431	
+特來	come	tè lái	te lai	42	
+地方官員	local officials	dì fāng guān yuán	di fang guan yuan	4112	
+嚴密地	closely	yán mì de	yan mi de	241	
+跑光了	escaped	pǎo guāng le	pao guang le	311	
+戰戰兢兢地	Trembling	zhàn zhàn jīng jīng de	zhan zhan jing jing de	44111	
+必得救	Will be saved	bì dé jiù	bi de jiu	424	
+照料	Care	zhào liào	zhao liao	44	
+警衞	guards	jǐng wèi	jing wei	34	
+平平安安地	peacefully	píng píng ān ān de	ping ping an an de	22111	
+暗地裏	secretly	àn dì lǐ	an di li	443	
+素胚	porcelain	sù pēi	su pei	41	
+瓶身	bottle	píng shēn	ping shen	21	
+牡丹	peony	mǔ dān	mu dan	31	
+冉冉	slowly	rǎn rǎn	ran ran	33	
+了然	sure enough	liǎo rán	liao ran	32	
+宣紙	painting	xuān zhǐ	xuan zhi	13	
+釉色	glazing	yòu sè	you se	44	
+渲染	makes	xuàn rǎn	xuan ran	43	
+韻味	charm	yùn wèi	yun wei	44	
+嫣然	sweet	yān rán	yan ran	12	
+含苞	budding	hán bāo	han bao	21	
+裊裊	curl	niǎo niǎo	niao niao	33	
+昇起	rising	shēng qǐ	sheng qi	13	
+隔江	across the river	gé jiāng	ge jiang	21	
+漢隸	Han Dynasty	hàn lì	han li	44	
+伏筆	foreshadow	fú bǐ	fu bi	23	
+煙雨	misty rain	yān yǔ	yan yu	13	
+月色	Moonlight	yuè sè	yue se	44	
+打撈	salvage	dǎ lāo	da lao	31	
+傳世	handed down	chuán shì	chuan shi	24	
+落款	inscription	luò kuǎn	luo kuan	43	
+宋體	Song Dynasty	sòng tǐ	song ti	43	
+臨摹	copy	lín mó	lin mo	22	
+繡花針	embroidery needle	xiù huā zhēn	xiu hua zhen	411	
+芭蕉	banana	bā jiāo	ba jiao	11	
+門環	door knocker	mén huán	men huan	22	
+江南	Jiangnan	jiāng nán	jiang nan	12	
+隱去	fade away	yǐn qù	yin qu	34	
+幾華裡	A few miles	jǐ huá lǐ	ji hua li	323	
+塞外	Beyond the Great Wall	sài wài	sai wai	44	
+武俠	martial arts	wǔ xiá	wu xia	32	
+狼煙	smoke signals	láng yān	lang yan	21	
+敏銳	keen	mǐn ruì	min rui	34	
+抵當	Arrived	dǐ dāng	di dang	31	
+謳咾	glorify	ōu lǎo	ou lao	13	
+
+定著	decided	dìng zhe	ding zhe	41	
+人額	Amount	rén é	ren e	22	
+傳道理	preaching in	chuán dào lǐ	chuan dao li	243	
+暝時	at night	míng shí	ming shi	22	
+連鞭	conclude	lián biān	lian bian	21	
+婦仁人	woman	fù rén rén	fu ren ren	422	
+平素	usually	píng sù	ping su	24	
+厭恨	hate	yàn hèn	yan hen	44	
+越轉身	turned around	yuè zhuǎn shēn	yue zhuan shen	431	
+歸群	group	guī qún	gui qun	12	
+顧監	jailer	gù jiān	gu jian	41	
+柴楗	stocks	chái jiàn	chai jian	24	
+半暝	midnight	bàn míng	ban ming	42	
+監門	prison gates	jiān mén	jian men	12	
+監囚	Prisoners	jiān qiú	jian qiu	12	
+莫得	don't	mò dé	mo de	42	
+攑	hand	qiān	qian	1	
+愕愕惙	trembling	è è chuò	e e chuo	444	
+家內	household	jiā nèi	jia nei	14	
+攏總	all	lǒng zǒng	long zong	33	
+上司官	city officials	shàng si guān	shang si guan	411	
+公刑	Public punishment	gōng xíng	gong xing	12	
+暗靜	secretly	àn jìng	an jing	44	
+苦勸	persuade	kǔ quàn	ku quan	34	
+
+見著	See you	jiàn zhe	jian zhe	41	
+老母	mother	lǎo mǔ	lao mu	33	
+希利尼	Greek	xī lì ní	xi li ni	142	
+老父	father	lǎo fù	lao fu	34	
+徛啲	pleading	jì dī	ji di	41	
+意愛	want	yì ài	yi ai	44	
+尼亞坡里	Neapolis	ní yǎ pō lǐ	ni ya po li	2313	
+分設	colony	fēn shè	fen she	14	
+坐啲	sat down	zuò dī	zuo di	41	
+受洗禮	baptized	shòu xǐ lǐ	shou xi li	433	
+強強	strongly	qiáng qiáng	qiang qiang	22	
+女婢	slave girl	nǚ bì	nu bi	34	
+抵著	met	dǐ zhe	di zhe	31	
+卜卦	fortune-teller	bo guà	bo gua	14	
+向望	hopes	xiàng wàng	xiang wang	44	
+規例	regulation	guī lì	gui li	14	
+嚴謹	rigorous	yán jǐn	yan jin	23	
+顧守	watch	gù shǒu	gu shou	43	
+內庭	inner dungeon	nèi tíng	nei ting	42	
+刑具	chains	xíng jù	xing ju	24	
+一盡	did	yī jǐn	yi jin	13	
+備辦	prepared	bèi bàn	bei ban	44	
+信上帝	believe in God	xìn shàng dì	xin shang di	444	
+掠做	conclude	lüè zuò	lue zuo	14	
+解送	delivered	jièsòng	jiesong	4	
+通家	household	tōng jiā	tong jia	11	
+有司官	authorities	yǒu sī guān	you si guan	311	
+地頭	landed	dì tóu	di tou	42	
+城店	city	chéng diàn	cheng dian	24	
+暗妃坡里	Amphipolis	àn fēi pō lǐ	an fei po li	4113	
+亞波羅尼亞	Apollonia	yà bō luó ní yǎ	ya bo luo ni ya	41223	
+入去	went to	rù qù	ru qu	44	
+開拆	prophecy	kāi chāi	kai chai	11	
+耶孫	Jason	yē sūn	ye sun	11	
+
+庇哩亞	Berea	bì lǐ yà	bi li ya	434	
+
+聽眾	audience	tīng zhòng	ting zhong	14	
+糾集了	gathered	jiū jí le	jiu ji le	121	
+一羣	a group	yì qún	yi qun	42	
+聽眾中	in the audience	tīng zhòng zhōng	ting zhong zhong	141	
+生事	make trouble	shēng shì	sheng shi	14	
+送往	sent to	sòng wǎng	song wang	43	
+是不是	whether it	shì bu shì	shi bu shi	414	
+伊壁鳩魯	Epicurean	yī bì jiū lǔ	yi bi jiu lu	1413	
+斯多亞	Stoic	sī duō yà	si duo ya	114	
+嘮嘮叨叨地	babbling	láo lao dāo dāo de	lao lao dao dao de	21111	
+花在	spend	huā zài	hua zai	14	
+一個人	one man	yí gè rén	yi ge ren	242	
+
+萬族	every tribe	wàn zú	wan zu	42	
+
+遍滿	fill	biàn mǎn	bian man	43	
+定下	set	dìng xià	ding xia	44	
+所指派	assigned	suǒ zhǐ pài	suo zhi pai	334	
+按公義	with justice	àn gōng yì	an gong yi	414	
+輕蔑地	scornfully	qīng miè de	qing mie de	141	
+丟尼修	Dionysius	diū ní xiū	diu ni xiu	121	
+大馬哩	Damaris	dà mǎ lǐ	da ma li	433	
+歸倚	follow	guī yǐ	gui yi	13	
+
+受苦勸	persuaded	shòu kǔ quàn	shou ku quan	434	
+怨妒	resentful	yuàn dù	yuan du	44	
+匪類	gangster	fěi lèi	fei lei	34	
+擾動	disturbed	rǎo dòng	rao dong	34	
+違逆	violate	wéi nì	wei ni	24	
+保狀	bail	bǎo zhuàng	bao zhuang	34	
+透暝	that night	tòu míng	tou ming	42	
+查甫人	famous people	chá fǔ rén	cha fu ren	232	
+聽候	waiting	tīng hòu	ting hou	14	
+街市裡	marketplace	jiē shì lǐ	jie shi li	143	
+彼壁古羅	Epicurean	bǐ bì gǔ luó	bi bi gu luo	3432	
+教門	school	jiào mén	jiao men	42	
+話粕	babbling	huà pò	hua po	44	
+耳孔	hear	ěr kǒng	er kong	33	
+出外人	foreigner	chū wài rén	chu wai ren	142	
+顧得	Take care	gù dé	gu de	42	
+若定	ideas	ruò dìng	ruo ding	44	
+嶄然	very	zhǎn rán	zhan ran	32	
+行遊	travel	xíng yóu	xing you	22	
+頂面	top	dǐng miàn	ding mian	34	
+徛起	live	jì qǐ	ji qi	43	
+代先	On behalf of	dài xiān	dai xian	41	
+豈採	thus	qǐ cǎi	qi cai	33	
+來得著	come and get	lái dé zhe	lai de zhe	221	
+店佇	inside	diàn zhù	dian zhu	44	
+佇啲	exist	zhù dī	zhu di	41	
+子類	offspring	zi lèi	zi lei	14	
+知影	knowing	zhī yǐng	zhi ying	13	
+無窮勘	overlooked	wú qióng kān	wu qiong kan	221	
+攻入	attacked	gōng rù	gong ru	14	
+鬼神	spirits	guǐ shén	gui shen	32	
+許個	spoken	xǔ gè	xu ge	34	
+
+此個	this	cǐ gè	ci ge	34	
+派偉俊	Patrick Brasca	pài wěi jùn	pai wei jun	434	
+億萬	billions	yì wàn	yi wan	44	
+重來	try again	chóng lái	chong lai	22	
+每一刻	every moment	měi yī kè	mei yi ke	314	
+校花	prettiest girl in school	xiào huā	xiao hua	41	
+可取代	can replace	kě qǔ dài	ke qu dai	334	
+亞波羅	Apollos	yà bō luó	ya bo luo	412	
+光浪	rays of light	guāng làng	guang lang	14	
+無涯	no boundaries	wú yá	wu ya	22	
+福難	blessing	fú nán	fu nan	22	
+澆奠	poured out	jiāo diàn	jiao dian	14	
+腳前	at your feet	jiǎo qián	jiao qian	32	
+盡美	perfect	jìn měi	jin mei	43	
+盡善	perfect	jìn shàn	jin shan	44	
+廣洲	Guangzhou	guǎng zhōu	guang zhou	31	
+老弟兄	brothers	lǎo dì xiōng	lao di xiong	341	
+機位	seat	jī wèi	ji wei	14	
+武康	Wukang	wǔ kāng	wu kang	31	
+鞭傷	whipped	biān shāng	bian shang	11	
+吐辱	stigma	tǔ rǔ	tu ru	33	
+湧流	flow	yǒng liú	yong liu	32	
+勺子	spoon	sháo zi	shao zi	21	
+頂勢	travel	dǐng shì	ding shi	34	
+許個人	the people	xǔ gè rén	xu ge ren	342	
+腔口	spoke	qiāng kǒu	qiang kou	13	
+約略	about	yuē lüè	yue lue	11	
+好膽	boldly	hǎo dǎn	hao dan	33	
+歷過	elapsed	lì guò	li guo	44	
+三月日	three months	sān yuè rì	san yue ri	144	
+硬心	hard heart	yìng xīn	ying xin	41	
+當眾	in public	dāng zhòng	dang zhong	14	
+罕得	very rare	hǎn dé	han de	32	
+抑是	was	yì shì	yi shi	44	
+祭司頭	leading priest	jì sī tóu	ji si tou	412	
+圍身裙	placed on	wéi shēn qún	wei shen qun	212	
+四界	four corners	sì jiè	si jie	44	
+唸咒	exorcising	niàn zhòu	nian zhou	44	
+士基瓦	Sceva	shì jī wǎ	shi ji wa	413	
+推喇奴	Tyrannus	tuī lǎ nú	tui la nu	132	
+褪腹裼	stripped	tuì fù tì	tui fu ti	444	
+榮顯	honored	róng xiǎn	rong xian	23	
+亞該亞	Achaia	yà gāi yà	ya gai ya	414	
+從中	from	cóng zhōng	cong zhong	21	
+以拉都	Erastus	yǐ lā dū	yi la du	311	
+
+底米丟	Demetrius	dǐ mǐ diū	di mi diu	331	
+銀龕	silver shrines	yín kān	yin kan	21	
+亞底米	Artemis	yà dǐ mǐ	ya di mi	433	
+當眾人	when everyone	dāng zhòng rén	dang zhong ren	142	
+惡神	evil spirit	è shén	e shen	42	
+看輕	underestimate	kàn qīng	kan qing	41	
+目底無	lose its influence	mù dǐ wú	mu di wu	432	
+受氣	angry	shòu qì	shou qi	44	
+
+亞里達古	Aristarchus	yà lǐ dá gǔ	ya li da gu	4323	
+戲園	amphitheater	xì yuán	xi yuan	42	
+順趁	obedient	shùn chèn	shun chen	44	
+呣若	not only	ḿ ruò	m ruo	24	
+衝莽	rash	chōng mǎng	chong mang	13	
+偷提	stolen	tōu tí	tou ti	12	
+廟內	in temple	miào nèi	miao nei	44	
+謗瀆	slander	bàng dú	bang du	42	
+合例	court	hé lì	he li	24	
+今仔日	happened today	jīn zǐ rì	jin zi ri	134	
+驚了	worried	jīng le	jing le	11	
+自專	use	zì zhuān	zi zhuan	41	
+書記官	mayor	shū jì guān	shu ji guan	141	
+帶到遮	happened	dài dào zhē	dai dao zhe	441	
+擬斷	settled	nǐ duàn	ni duan	34	
+對訊	hearing	duì xùn	dui xun	44	
+出眾人	crowd	chū zhòng rén	chu zhong ren	142	
+
+辯駁	refute	biàn bó	bian bo	42	
+降落	fell down	jiàng luò	jiang luo	44	
+受著	receive	shòu zhe	shou zhe	41	
+聖神	Holy Spirit	shèng shén	sheng shen	42	
+隨尾	come later	suí wěi	sui wei	23	
+約量	about two	yuē liàng	yue liang	14	
+降臨到	came into	jiàng lín dào	jiang lin dao	424	
+有力地	powerfully	yǒu lì de	you li de	341	
+接觸過	been touched	jiē chù guo	jie chu guo	141	
+
+所傳講	preached	suǒ chuán jiǎng	suo chuan jiang	323	
+撲過去	pounce	pū guò qù	pu guo qu	144	
+猛烈地	violently	měng liè de	meng lie de	341	
+受傷	injured	shòu shāng	shou shang	41	
+為業	business	wéi yè	wei ye	24	
+人手造	man-made	rén shǒu zào	ren shou zao	234	
+廟裏	in the temple	miào lǐ	miao li	43	
+褻瀆過	profanity	xiè dú guo	xie du guo	421	
+密契	secret deeds	mì qì	mi qi	44	
+屬我	it mine	shǔ wǒ	shu wo	33	
+藤牌	shield	téng pái	teng pai	22	
+萬代	all generations	wàn dài	wan dai	44	
+美麗地	beautifully	měi lì de	mei li de	341	
+歌詞	lyrics	gē cí	ge ci	12	
+不分離	not separated	bù fēn lí	bu fen li	412	
+哈雷路亞	hallelujah	hā léi lù yà	ha lei lu ya	1244	
+白鷺鷥	white heron	bái lù sī	bai lu si	241	
+心肝	darling	xīn gān	xin gan	11	
+畢羅斯	Pyrrhus	bì luó sī	bi luo si	421	
+所巴特	Sopater	suǒ bā tè	suo ba te	314	
+西公都	Secundus	xī gōng dū	xi gong du	111	
+
+推基古	Tychicus	tuī jī gǔ	tui ji gu	113	
+特羅非摩	Trophimus	tè luó fēi mó	te luo fei mo	4212	
+猶推古	Eutychus	yóu tuī gǔ	you tui gu	213	
+打起瞌睡	became drowsy	dǎ qǐ kē shuì	da qi ke shui	3314	
+懷裏	in his arms	huái lǐ	huai li	23	
+亞朔	Assos	yà shuò	ya shuo	44	
+米推利尼	Mitylene	mǐ tuī lì ní	mi tui li ni	3142	
+基阿島	island of Kios	jī ā dǎo	ji a dao	113	
+撒摩島	island of Samos	sā mó dǎo	sa mo dao	123	
+米利都	Miletus	mǐ lì dū	mi li du	341	
+不想	do not want to	bù xiǎng	bu xiang	43	
+派了	sent	pài le	pai le	41	
+請教會	ask the church	qǐng jiào huì	qing jiao hui	344	
+長老們	elders	zhǎng lǎo men	zhang lao men	331	
+會面	meet	huì miàn	hui mian	44	
+謙卑地	humbly	qiān bēi de	qian bei de	111	
+保留地	reserved	bǎo liú de	bao liu de	321	
+羣羊	flock	qún yáng	qun yang	22	
+假教師	false teachers	jiǎ jiào shī	jia jiao shi	341	
+
+貪圖過	coveted	tān tú guo	tan tu guo	121	
+萬邦	all nations	wàn bāng	wan bang	41	
