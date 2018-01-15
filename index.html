@@ -84,6 +84,7 @@
 	+ Song to Slide Pictures.scpt to split bilingual song text file into slides saved as a folder of PNGs
 		
 	To do:
+	- documentation 求 + 和 ≠ 求和
 	- OCR https://blog.algorithmia.com/advanced-image-manipulation-and-data-extraction/
 	- blog editor with https://www.netlifycms.org/docs/ https://github.com/netlify/netlify-cms/tree/master/example https://www.netlify.com/blog/2017/08/17/a-complete-cms-with-no-server-and-18-lines-of-code/
 	- search entire index for words
@@ -466,7 +467,7 @@ display:inline;
 
       .taiwanese_1 {
         font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
-        color:#787878;
+        color:#797986;
 		display:inline;
       }
 
@@ -502,7 +503,7 @@ display:inline;
       
       .taiwanese_8 {
         font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
-color:#929292;
+color:#707070;
 display:inline;
       }
 
@@ -520,7 +521,7 @@ display:inline;
 
       .cantonese_3 {
         font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
-color:#787878;
+color:#797986;
 font-size: 30px;
 display:inline;
       }
@@ -1047,7 +1048,7 @@ display:inline;
 					</div>
 				</td>
 				<td>
-					<input type="checkbox" id="monospaceTextCheckbox" checked="true"><span onclick="toggleCheckbox('monospaceTextCheckbox');">Monospace text</span>
+					<input type="checkbox" id="monospaceTextCheckbox"><span onclick="toggleCheckbox('monospaceTextCheckbox');">Monospace text</span>
 				</td>
 				<td>
 					<span onclick="toggleCheckbox('breakMissingWordsCheckbox');">
@@ -1139,6 +1140,11 @@ display:inline;
 				<td>
 					<div id="mediaViewerButton" class="ButtonInner advanced" onclick="mediaViewerButtonClicked();" style="width:90px;visibility:hidden">
 						Media Viewer
+					</div>
+				</td>
+				<td>
+					<div id="alignLiteralButton" class="ButtonInner advanced" onclick="alignLiteralButtonClicked();" style="width:90px;visibility:hidden">
+						Align Literal
 					</div>
 				</td>
 			</tr>
@@ -1500,7 +1506,7 @@ display:inline;
 						Taiwanese
 					</td>
 					<td>
-						<input class="jscolor" id="taiwaneseColourPickerOne" value="787878" onchange="updateColours();">
+						<input class="jscolor" id="taiwaneseColourPickerOne" value="797986" onchange="updateColours();">
 					</td>
 					<td>
 						<input class="jscolor" id="taiwaneseColourPickerTwo" value="178FD1" onchange="updateColours();">
@@ -1532,7 +1538,7 @@ display:inline;
 						<input class="jscolor" id="cantoneseColourPickerTwo" value="f82423" onchange="updateColours();">
 					</td>
 					<td>
-						<input class="jscolor" id="cantoneseColourPickerThree" value="787878" onchange="updateColours();">
+						<input class="jscolor" id="cantoneseColourPickerThree" value="797986" onchange="updateColours();">
 					</td>
 					<td>
 						<input class="jscolor" id="cantoneseColourPickerFour" value="0000ff" onchange="updateColours();">
@@ -2382,9 +2388,14 @@ display:inline;
 			    	</div>
 			    </td>
 			    <td>
-					<select id="definitionDropdown" onchange="taiwaneseDictionaryEditorDropdownChanged();">
+					<select id="taiwaneseDefinitionDropdown" onchange="taiwaneseDictionaryEditorDropdownChanged();">
 						<option value="1"></option>
 					</select>
+			    </td>
+			    <td>
+					<div id="taiwaneseDictionaryEditorTopButton" class="ButtonInner" onclick="taiwaneseMoveDefinitionToTop();" style="width:25px">
+						Top
+					</div>
 			    </td>
 			    <td>
 					<div id="taiwaneseDictionaryEditorUpButton" class="ButtonInner" onclick="taiwaneseMoveDefinitionUp();" style="width:25px">
@@ -2416,6 +2427,11 @@ display:inline;
 				<td>
 					<table>
 						<tr>
+							<td>
+								<div id="taiwaneseDictionaryEditorCharsToPojButton" class="ButtonInner" onclick="taiwaneseCharsToPoj();" style="width:70px">
+									Chars to POJ
+								</div>
+							</td>
 							<td>
 								<div id="taiwaneseDictionaryEditorSearchKey" class="key" onclick="taiwaneseDictionaryEditorSearch()">🔍</div>
 							</td>
@@ -2522,7 +2538,7 @@ display:inline;
 			    	</div>
 			    </td>
 			    <td>
-					<select id="definitionDropdown" onchange="cantoneseDictionaryEditorDropdownChanged();">
+					<select id="cantoneseDefinitionDropdown" onchange="cantoneseDictionaryEditorDropdownChanged();">
 						<option value="1"></option>
 					</select>
 			    </td>
@@ -2714,47 +2730,63 @@ display:inline;
 					<table>
 						<tr>
 							<td>
-								<div id="previousPageButton" class="ButtonInner" style="width:60px" onclick="previousPageButtonClicked();">
-									Previous
+								<div id="imageControls">
+									<table>
+										<tr>
+										   <td>
+											   <div id="previousPageButton" class="ButtonInner" style="width:60px" onclick="previousPageButtonClicked();">
+												   Previous
+											   </div>
+										   </td>
+										   <td>
+											   <div id="nextPageButton" class="ButtonInner" style="width:60px" onclick="nextPageButtonClicked();">
+												   Next
+											   </div>
+										   </td>
+										   <td>
+											   Open JPG
+											   <input type="file" id="imageLoaderMediaViewer" name="imageLoaderMediaViewer"/>
+										   </td>
+										   <td>
+											   <div id="imagePath">JPG Path</div>
+										   </td>
+										</tr>
+									</table>
 								</div>
 							</td>
 							<td>
-								<div id="nextPageButton" class="ButtonInner" style="width:60px" onclick="nextPageButtonClicked();">
-									Next
-								</div>
-							</td>
-							<td>
-								Open JPG
-								<input type="file" id="imageLoaderMediaViewer" name="imageLoaderMediaViewer"/>
-							</td>
-							<td>
-								<div id="imagePath">JPG Path</div>
-							</td>
-							<td>
-								Open MP3
-								<input type="file" id="audioLoaderMediaViewer" name="audioLoaderMediaViewer"/>
-							</td>
-							<td>
-								<div id="audioPath">MP3 Path</div>
-							</td>
-							<td>
-								<div id="rewindPauseTimesButton" class="ButtonInner" style="width:30px" onclick="rewindPauseTimesButtonClicked();">
-									<<
-								</div>
-							</td>
-							<td>
-								<div id="deleteLastPauseTimeButton" class="ButtonInner" style="width:30px" onclick="deleteLastPauseTimeButtonClicked();">
-									⌫
-								</div>
-							</td>
-							<td>
-								<div id="savePauseTimesButton" class="ButtonInner" style="width:90px" onclick="savePauseTimesButtonClicked();">
-									Save Timings
-								</div>
-							</td>
-							<td>
-								<div id="nextPauseTimesButton" class="ButtonInner" style="width:30px" onclick="nextPauseTimesButtonClicked();">
-									>>
+								<div id="audioControls">
+									<table>
+										<tr>
+											<td>
+												Open MP3
+												<input type="file" id="audioLoaderMediaViewer" name="audioLoaderMediaViewer"/>
+											</td>
+											<td>
+												<div id="audioPath">MP3 Path</div>
+											</td>
+											<td>
+												<div id="rewindPauseTimesButton" class="ButtonInner" style="width:30px" onclick="rewindPauseTimesButtonClicked();">
+													<<
+												</div>
+											</td>
+											<td>
+												<div id="deleteLastPauseTimeButton" class="ButtonInner" style="width:30px" onclick="deleteLastPauseTimeButtonClicked();">
+													⌫
+												</div>
+											</td>
+											<td>
+												<div id="savePauseTimesButton" class="ButtonInner" style="width:90px" onclick="savePauseTimesButtonClicked();">
+													Save Timings
+												</div>
+											</td>
+											<td>
+												<div id="nextPauseTimesButton" class="ButtonInner" style="width:30px" onclick="nextPauseTimesButtonClicked();">
+													>>
+											</div>
+											</td>
+										</tr>
+									</table>
 								</div>
 							</td>
 						</tr>
@@ -2816,11 +2848,19 @@ display:inline;
 
   
 		var combinedDictionaryData = "";
+		
 		var fiveWords = "\n";
 		var fourWords = "\n";
 		var threeWords = "\n";
 		var twoWords = "\n";
 		var oneWords = "\n";
+
+		var fiveWordsTaiwanese = "\n";
+		var fourWordsTaiwanese = "\n";
+		var threeWordsTaiwanese = "\n";
+		var twoWordsTaiwanese = "\n";
+		var oneWordsTaiwanese = "\n";
+
 		var longWords;
 		var radicals;
 		var toneNumbersMarks;
@@ -3476,6 +3516,8 @@ display:inline;
 				   {
 						
 						var thisEnglish = xmlhttp.responseText;
+						
+						thisEnglish = thisEnglish.toLowerCase();
 						
 						document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
 					    
@@ -4172,6 +4214,8 @@ display:inline;
 						
 						taiwaneseData = xmlhttp.responseText;
 					    
+					    taiwaneseToWordLengths();
+					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
 					  alert('There was an error 400');
@@ -4199,6 +4243,8 @@ display:inline;
 				   {
 
 						taiwaneseData = xmlhttp.responseText;
+						
+						taiwaneseToWordLengths();
 						
 						loadTaiwaneseFile(inputFilename);
 
@@ -5133,13 +5179,30 @@ display:inline;
 			
 		} // end function getWadeGiles
 		
+		function dictionaryContainsTaiwanese(thisWordChinese)
+		{
+			//debugLog("dictionaryContainsTaiwanese");
+			
+			var wordLength = thisWordChinese.length;
+			
+			switch (wordLength)
+			{
+				case 5: return contains(fiveWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 4: return contains(fourWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 3: return contains(threeWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 2: return contains(twoWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 1: return contains(oneWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				default: return false; break;
+			}		
+		} // end function dictionaryContainsTaiwanese
+		
 		function dictionarySearchTaiwanese(thisWordChinese)
 		{
 			//debugLog("dictionarySearchTaiwanese");
 			
 			var searchResults = [];
 			
-			if (contains(taiwaneseData, "\n" + thisWordChinese + "	") == false)
+			if (dictionaryContainsTaiwanese(thisWordChinese) == false)
 			{
 				return searchResults;
 			}
@@ -5734,7 +5797,7 @@ display:inline;
 					
 					var thisTaiwaneseHtmlWord = "";
 										
-					if (contains(taiwaneseData, "\n" + thisCharacterChinese + "	"))
+					if (dictionaryContainsTaiwanese(thisCharacterChinese) == true)
 					{
 						thisTaiwaneseTone = textBetween(taiwaneseData, "\n" + thisCharacterChinese + "	","\n");
 						thisTaiwaneseTone = textBetween(thisTaiwaneseTone, "	","end");
@@ -6841,7 +6904,7 @@ display:inline;
 				case 3: return contains(threeWords, "\n" + thisWord + "\n"); break;
 				case 2: return contains(twoWords, "\n" + thisWord + "\n"); break;
 				case 1: return contains(oneWords, "\n" + thisWord + "\n"); break;
-				default: return contains(combinedDictionaryData, "\n" + thisWord + "	"); break;
+				default: return false; break;
 			}
 			
 		} // end function searchDictionary
@@ -7507,6 +7570,8 @@ display:inline;
 							if (addTaiwanese == true)
 							{
 								taiwaneseHtmlWord = taiwaneseHtmlWord + thisWord;
+
+								taiwaneseText = taiwaneseText + thisWord + "	";
 							} // end if addTaiwanese
 							
 							if (addCantonese == true)
@@ -7592,8 +7657,8 @@ display:inline;
 
 					if (addTaiwanese == true)
 					{
-						taiwaneseHtml = taiwaneseHtml + taiwaneseHtmlWord+ "</td><td>";
-						taiwaneseText = taiwaneseText + "  ";
+						taiwaneseHtml = taiwaneseHtml + taiwaneseHtmlWord + "</td><td>";
+						taiwaneseText = taiwaneseText + "	";
 					} // end if addTaiwanese
 					
 					if (addCantonese == true)
@@ -8233,7 +8298,7 @@ display:inline;
 			var filename = document.getElementById("filenameTextArea").value;
 			var thisString = document.getElementById("outputHtml").innerHTML;
 			
-			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#787878;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#929292;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#787878;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n    </style>\n\n  </head>\n  <body>\n	";
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#797986;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#707070;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#797986;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n    </style>\n\n  </head>\n  <body>\n	";
 			
 			var htmlFooters = "\n  </body>\n</html>\n";
 			
@@ -8532,7 +8597,8 @@ display:inline;
 								 {
 									 inDictionary = contains(taiwaneseData, thisWord + "	");
 								 } else {
-									 inDictionary = contains(taiwaneseData, "\n" + thisWord + "	");
+								 	inDictionary = dictionaryContainsTaiwanese(thisWord);
+									//inDictionary = contains(taiwaneseData, "\n" + thisWord + "	");
 								 }
 							
 								 //if (contains(longWords, " " + thisWord) == true)
@@ -10269,7 +10335,7 @@ display:inline;
 
 			if (useGithub == false)
 			{
-				appendToFile(key + ".txt", thisText);
+				//appendToFile(key + ".txt", thisText);
 				localStorage[key] = oldText + thisText + "\n";
 			} else {
 				localStorage[key] = oldText + thisText + "\n";
@@ -10639,7 +10705,7 @@ display:inline;
 
 			var thisString = document.getElementById("outputHtml").innerHTML;
 			
-			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#787878;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#929292;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#787878;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n    </style>\n\n  </head>\n  <body>\n	";
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#797986;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#707070;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#797986;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n    </style>\n\n  </head>\n  <body>\n	";
 			
 			var htmlFooters = "\n  </body>\n</html>\n";
 			
@@ -11370,7 +11436,7 @@ display:inline;
 			
 			var flatColour = "000000";
 			var upColour = "929292";
-			var downUpColour = "787878";
+			var downUpColour = "797986";
 			var downColour = "505050";
 			var fiveColour = "000000";
 			var sixColour = "000000";
@@ -11396,7 +11462,7 @@ display:inline;
 			var sixColour = "000000";
 			var sevenColour = "000000";
 
-			var taiwaneseOneColour = "787878";
+			var taiwaneseOneColour = "797986";
 			var taiwaneseTwoColour = "178FD1";
 			var taiwaneseThreeColour = "0000FF";
 			var taiwaneseFourColour = "505050";
@@ -11406,7 +11472,7 @@ display:inline;
 
 			var cantonneseOneColour = "929292";
 			var cantoneseTwoColour = "F82423";
-			var cantoneseThreeColour = "787878";
+			var cantoneseThreeColour = "797986";
 			var cantoneseFourColour = "0000FF";
 			var cantoneseFiveColour = "F82423";
 			var cantoneseSixColour = "000000";
@@ -11698,6 +11764,51 @@ display:inline;
 			document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
 			
 		} // end function dictionaryEditorCharsButtonClicked
+		
+		function taiwaneseCharsToPoj()
+		{
+			//debugLog("dictionaryEditorCharsButtonClicked");
+			
+			var thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+						
+			var numberCharacters = thisChineseString.length;
+			
+			var thisPojArray = [];
+			var thisTones = "";
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisChineseString[currentCharacter];
+								
+				var thisDictionaryLine = textBetween(taiwaneseData, "\n" + thisCharacter + "	", "\n");
+								
+				var thisDictionaryLineArray = thisDictionaryLine.split("	");
+				
+				var lineLength = thisDictionaryLineArray.length;
+				
+				var thisDefinition = "";
+				var thisCharacterPoj = "";
+				var thisTone = "";
+				
+				thisCharacterPoj = thisDictionaryLineArray[0];
+
+				if (lineLength >= 1)
+				{
+					thisTone = thisDictionaryLineArray[1];
+				}
+				
+				thisPojArray.push(thisCharacterPoj);
+				
+				thisTones = thisTones + thisTone;
+			} // end for every character
+			
+			var thisPoj = thisPojArray.join(" ");
+			
+			document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
+			
+			document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
+			
+		} // end function taiwaneseCharsToPoj
 		
 		function typeBopomofo(thisCharacter)
 		{
@@ -12573,9 +12684,9 @@ display:inline;
 				// Edit the word
 			
 				// Get the existing word
-				var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
+				var oldDefinition = thisWordChinese + "	" + textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
 						
-				var newDefintion = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" + "\n";
+				var newDefintion = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" + "\n";
 						
 				// Replace the definition in the dictionary
 				combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefintion);
@@ -13093,11 +13204,13 @@ display:inline;
 			
 			thisChineseString = replaceChars(thisChineseString, "	", "");
 
-			document.getElementById("dictionaryEditorChineseTextArea").value = thisChineseString;
+			document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisChineseString;
 			
 			var dictionaryResultsArray = dictionarySearchTaiwanese(thisChineseString);
 			
 			var numberResults = dictionaryResultsArray.length;
+			
+			//debugLog(numberResults);
 			
 			if (numberResults == 0)
 			{
@@ -13118,10 +13231,12 @@ display:inline;
 						
 					} // end for every other result
 					
-					document.getElementById("definitionDropdown").innerHTML = definitionDropdownInnerHtml;
+					//debugLog(definitionDropdownInnerHtml);
+					
+					document.getElementById("taiwaneseDefinitionDropdown").innerHTML = definitionDropdownInnerHtml;
 					
 				} else {
-					document.getElementById("definitionDropdown").innerHTML = "";
+					document.getElementById("taiwaneseDefinitionDropdown").innerHTML = "";
 				} // end if there is more than one result
 				
 				// First result is at index 1 because index 0 is the first part of the dictionary before the first search result
@@ -13168,7 +13283,7 @@ display:inline;
 				return;
 			} else {
 				
-				var definitionNumber = document.getElementById('definitionDropdown').value;
+				var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
 				
 				// Show the user's requested definition number
 				var thisDictionaryLine = dictionaryResultsArray[definitionNumber];
@@ -13195,11 +13310,60 @@ display:inline;
 			
 		} // end function taiwaneseDictionaryEditorDropdownChanged
 		
+		function taiwaneseMoveDefinitionToTop()
+		{
+			//debugLog("taiwaneseMoveDefinitionToTop");
+			
+			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+			definitionNumber = definitionNumber * 1;
+				
+			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			
+			var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
+			
+			var numberResults = dictionaryResultsArray.length;
+			
+			if (numberResults == 0)
+			{
+				return;
+			} else {
+				
+				if (definitionNumber == 1)
+				{
+					return;
+				} else {
+					
+					var thisDefinition = dictionaryResultsArray[definitionNumber];
+										
+					var taiwaneseDataArray = taiwaneseData.split("\n" + thisWordChinese + "	");
+					
+					var thisDefintionItem = taiwaneseDataArray[definitionNumber];
+										
+					thisDefintionItem = textBetween(thisDefintionItem, "start", "\n");
+					//thisDefintionItem = textBetween(thisDefintionItem, "\n", "end");
+					
+					thisDefintionItem = "\n" + thisWordChinese + "	" + thisDefintionItem;
+					
+					taiwaneseData = replaceChars(taiwaneseData, thisDefintionItem, "");
+					
+					taiwaneseData = thisDefintionItem + "\n" + taiwaneseData;
+					
+					writeToFile("TaiwaneseDictionaryTaiyuNumbers.txt", taiwaneseData);
+					
+					taiwaneseDictionaryEditorSearch();
+
+				} // end if this is already the first definition
+				
+			} // end if there are search results
+			
+		} // end function taiwaneseMoveDefinitionToTop
+		
+
 		function taiwaneseMoveDefinitionUp()
 		{
 			//debugLog("taiwaneseMoveDefinitionUp");
 			
-			var definitionNumber = document.getElementById('definitionDropdown').value;
+			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
 			definitionNumber = definitionNumber * 1;
 				
 			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
@@ -13264,7 +13428,7 @@ display:inline;
 		{
 			//debugLog("taiwaneseMoveDefinitionDown");
 			
-			var definitionNumber = document.getElementById('definitionDropdown').value;
+			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
 			definitionNumber = definitionNumber * 1;
 				
 			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
@@ -13336,7 +13500,20 @@ display:inline;
 			
 			var thisDefinition = "\n" + thisWordChinese + "	" + thisWordPoj + "	" + thisWordTones + "\n";
 			
-			taiwaneseData = taiwaneseData + thisDefinition;
+			var wordLength = thisWordChinese.length;
+		   
+			switch (wordLength)
+			{
+				case 5: fiveWordsTaiwanese = "\n" + thisWordChinese + "\n" + fiveWordsTaiwanese; break;
+				case 4: fourWordsTaiwanese = "\n" + thisWordChinese + "\n" + fourWordsTaiwanese; break;
+				case 3: threeWordsTaiwanese = "\n" + thisWordChinese + "\n" + threeWordsTaiwanese; break;
+				case 2: twoWordsTaiwanese = "\n" + thisWordChinese + "\n" + twoWordsTaiwanese; break;
+				case 1: oneWordsTaiwanese = "\n" + thisWordChinese + "\n" + oneWordsTaiwanese;break;
+				default: break;
+			}
+			
+			// Append to top
+			taiwaneseData = thisDefinition + taiwaneseData;
 			
 			writeToFile("TaiwaneseDictionaryTaiyuNumbers.txt", taiwaneseData);
 							
@@ -13377,10 +13554,10 @@ display:inline;
 						
 					} // end for every other result
 					
-					document.getElementById("definitionDropdown").innerHTML = definitionDropdownInnerHtml;
+					document.getElementById("cantoneseDefinitionDropdown").innerHTML = definitionDropdownInnerHtml;
 					
 				} else {
-					document.getElementById("definitionDropdown").innerHTML = "";
+					document.getElementById("cantoneseDefinitionDropdown").innerHTML = "";
 				} // end if there is more than one result
 				
 				// First result is at index 1 because index 0 is the first part of the dictionary before the first search result
@@ -13427,7 +13604,7 @@ display:inline;
 				return;
 			} else {
 				
-				var definitionNumber = document.getElementById('definitionDropdown').value;
+				var definitionNumber = document.getElementById('cantoneseDefinitionDropdown').value;
 				
 				// Show the user's requested definition number
 				var thisDictionaryLine = dictionaryResultsArray[definitionNumber];
@@ -13458,7 +13635,7 @@ display:inline;
 		{
 			//debugLog("cantoneseMoveDefinitionUp");
 			
-			var definitionNumber = document.getElementById('definitionDropdown').value;
+			var definitionNumber = document.getElementById('cantoneseDefinitionDropdown').value;
 			definitionNumber = definitionNumber * 1;
 				
 			var thisWordChinese = document.getElementById("cantoneseDictionaryEditorChineseTextArea").value;
@@ -13523,7 +13700,7 @@ display:inline;
 		{
 			//debugLog("cantoneseMoveDefinitionDown");
 			
-			var definitionNumber = document.getElementById('definitionDropdown').value;
+			var definitionNumber = document.getElementById('cantoneseDefinitionDropdown').value;
 			definitionNumber = definitionNumber * 1;
 				
 			var thisWordChinese = document.getElementById("cantoneseDictionaryEditorChineseTextArea").value;
@@ -13665,7 +13842,7 @@ display:inline;
 			
 			if (numberResults == 0)
 			{
-				taiwaneseDictionaryEditorAddButtonClicked();
+				cantoneseDictionaryEditorAddButtonClicked();
 			} else {
 			
 				// Edit the word
@@ -13673,22 +13850,22 @@ display:inline;
 				var definitionNumber = document.getElementById('definitionDropdown').value;
 				definitionNumber = definitionNumber * 1;
 				
-				var taiwaneseDataArray = taiwaneseData.split("\n" + thisWordChinese + "	");
+				var cantoneseDataArray = cantoneseData.split("\n" + thisWordChinese + "	");
 				
-				var thisDefintionItem = taiwaneseDataArray[definitionNumber];
+				var thisDefintionItem = cantoneseDataArray[definitionNumber];
 									
 				thisDefintionItem = textBetween(thisDefintionItem, "\n", "end");
 				
 				thisDefintionItem = thisDefinition + "\n" + thisDefintionItem;
 				
-				taiwaneseDataArray[definitionNumber] = thisDefintionItem;
+				cantoneseDataArray[definitionNumber] = thisDefintionItem;
 				
-				taiwaneseData = taiwaneseDataArray.join("\n" + thisWordChinese + "	");
+				cantoneseData = cantoneseDataArray.join("\n" + thisWordChinese + "	");
 				
 			} // end if the word isn't already in the dictionary
 			
 			
-			writeToFile("cantoneseChineseWordsTones.txt", taiwaneseData);
+			writeToFile("cantoneseChineseWordsTones.txt", cantoneseData);
 							
 			cantoneseDictionaryEditorSearch();
 			
@@ -13727,6 +13904,41 @@ display:inline;
 			
 
 		} // end function dictionaryToWordLengths
+
+		function taiwaneseToWordLengths()
+		{
+			//debugLog("taiwaneseToWordLengths");
+		
+			var taiwaneseDataLines = taiwaneseData.split("\n");
+			
+			var numberLines = taiwaneseDataLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = taiwaneseDataLines[currentLine];
+			
+				if (thisLine != "")
+				{
+					var thisChinese = textBetween(thisLine, "start", "	");
+					
+					var wordLength = thisChinese.length;
+					
+					switch (wordLength)
+					{
+						case 5: fiveWordsTaiwanese = fiveWordsTaiwanese + thisChinese + "\n"; break;
+						case 4: fourWordsTaiwanese = fourWordsTaiwanese + thisChinese + "\n"; break;
+						case 3: threeWordsTaiwanese = threeWordsTaiwanese + thisChinese + "\n"; break;
+						case 2: twoWordsTaiwanese = twoWordsTaiwanese + thisChinese + "\n"; break;
+						case 1: oneWordsTaiwanese = oneWordsTaiwanese + thisChinese + "\n"; break;
+						default: break;
+					}
+					
+				} // end if the line is not blank
+			} // end for every line in the dictionary
+			
+
+		} // end function taiwaneseToWordLengths
+
 		
 		function dictionariesLoaded()
 		{
@@ -13785,6 +13997,12 @@ display:inline;
 			    document.getElementById('litManCheckbox').checked = true;
 			}
 
+			// If we want to edit
+			if ((QueryString.edit != "") && (QueryString.edit != undefined))
+			{
+				openDictionaryEditor();
+			}
+
 			// If we have a Taiwanese file
 			if ((QueryString.taiwaneseFile != "") && (QueryString.taiwaneseFile != undefined))
 			{
@@ -13795,6 +14013,12 @@ display:inline;
 				document.getElementById('taiwaneseCheckbox').checked = true;
 				
 				loadTaiwaneseAndFile("TaiwaneseDictionaryTaiyuNumbers.txt", taiwaneseUrl);
+				
+				// If we want to edit
+				if ((QueryString.edit != "") && (QueryString.edit != undefined))
+				{
+					openTaiwaneseDictionaryEditor();
+				}
 				
 			    //loadTaiwaneseFile(taiwaneseUrl);
 			}
@@ -13849,8 +14073,11 @@ display:inline;
 				
 			    loadImageMediaViewer(imageUrl);
 			    openMediaViewer();
+			} else {
+				document.getElementById("imageControls").style.visibility = "hidden";
+				document.getElementById("imageControls").style.width = "0px";
+				$("#mediaViewer").dialog( "option", "width", 620 );
 			}
-
 
 			// If we have parameters
 			if ((QueryString.text != "") && (QueryString.text != undefined))
@@ -14483,8 +14710,8 @@ display:inline;
 			
 			var thisTimeNumber = thisTimeHours * 3600 + thisTimeMinutes * 60 + thisTimeSeconds * 1 + thisTimeMilliseconds / 1000;
 			
-			debugLog(thisTimeString);
-			debugLog(thisTimeNumber);
+			//debugLog(thisTimeString);
+			//debugLog(thisTimeNumber);
 			
 			return thisTimeNumber;
 			
@@ -17104,6 +17331,205 @@ display:inline;
 			document.getElementById("outputHtml").innerHTML = outputHtml;
 			
 		} // end function dictionaryButtonClicked
+		
+		/*
+		* alignLiteralButtonClicked - add punctuation to literal text to make it fit
+		*/
+		function alignLiteralButtonClicked()
+		{
+			//debugLog("alignLiteralButtonClicked");
+			
+			var alignedText = "";
+			
+			var literalText = document.getElementById("simplifiedInputTextArea").value;
+			
+			literalText = replaceChars(literalText, " in ", "-in ");
+			literalText = replaceChars(literalText, " In ", " In-");
+			literalText = replaceChars(literalText, "chiah ê", "chiah-ê");
+			literalText = replaceChars(literalText, "Iû-thài lâng", "Iû-thài-lâng");
+			literalText = replaceChars(literalText, "khì kàu", "khì-kàu");
+			literalText = replaceChars(literalText, "tōe-hng koaⁿ", "tōe-hng-koaⁿ");
+			literalText = replaceChars(literalText, "lâng ê", "lâng-ê");
+			literalText = replaceChars(literalText, "ê lâng", "ê-lâng");
+			literalText = replaceChars(literalText, "chèng lâng", "chèng-lâng");
+			literalText = replaceChars(literalText, "chhut-gōa lâng", "chhut-gōa-lâng");
+			literalText = replaceChars(literalText, "chi̍t chō", "chi̍t-chō");
+			literalText = replaceChars(literalText, "bān mi̍h", "bān-mi̍h");
+			literalText = replaceChars(literalText, "chi̍t ê", "chi̍t-ê");
+			literalText = replaceChars(literalText, "lâi tit-tio̍h", "lâi-tit-tio̍h");
+			literalText = replaceChars(literalText, "kì-jiân sī", "kì-jiân-sī");
+			literalText = replaceChars(literalText, "lia̍h chòe", "lia̍h-chòe");
+			literalText = replaceChars(literalText, "bô khêng-khàm", "bô-khêng-khàm");
+			literalText = replaceChars(literalText, "chi̍t ji̍t", "chi̍t-ji̍t");
+			literalText = replaceChars(literalText, "chèng lâng", "chèng-lâng");
+			literalText = replaceChars(literalText, "miâ kiò", "miâ-kiò");
+			literalText = replaceChars(literalText, "nn̄g lâng", "nn̄g-lâng");
+			literalText = replaceChars(literalText, "lâi kóng", "lâi-kóng");
+			literalText = replaceChars(literalText, "kì-jiân sī", "kì-jiân-sī");
+			literalText = replaceChars(literalText, "ū só͘", "ū-só͘");
+			literalText = replaceChars(literalText, "thang sìn", "thang-sìn");
+			literalText = replaceChars(literalText, "pa̍t lâng", "pa̍t-lâng");
+			literalText = replaceChars(literalText, "thiⁿ tōe", "thiⁿ-tōe");
+			literalText = replaceChars(literalText, "Hiah ê", "Hiah-ê");
+			literalText = replaceChars(literalText, "siū sóe-lé", "siū-sóe-lé");
+			literalText = replaceChars(literalText, "hōaⁿ chhiú", "hōaⁿ-chhiú");
+			literalText = replaceChars(literalText, "saⁿ ge̍h ji̍t", "saⁿ-ge̍h-ji̍t");
+			literalText = replaceChars(literalText, "tng chèng-lâng-ê", "tng-chèng-lâng-ê");
+			literalText = replaceChars(literalText, "ê-lâng", "ê lâng");
+			literalText = replaceChars(literalText, "ū lâng", "ū-lâng");
+			literalText = replaceChars(literalText, ", -in", ", ");
+			literalText = replaceChars(literalText, "bē bat", "bē-bat");
+			literalText = replaceChars(literalText, "chit ê", "chit-ê");
+			literalText = replaceChars(literalText, "ū ê", "ū-ê");
+			literalText = replaceChars(literalText, "chhit ê", "chhit-ê");
+			literalText = replaceChars(literalText, "-lâng-ê ", "-lâng ê ");
+			literalText = replaceChars(literalText, "só͘ kiâⁿ", "só͘-kiâⁿ");
+			literalText = replaceChars(literalText, "Chiah ê", "Chiah-ê");
+			literalText = replaceChars(literalText, "Tng sî", "Tng-sî");
+			literalText = replaceChars(literalText, "Hiah-ê lâng", "Hiah-ê-lâng");
+			literalText = replaceChars(literalText, "hiah ê", "hiah-ê");
+			literalText = replaceChars(literalText, "gō͘ bān", "gō͘-bān");
+			literalText = replaceChars(literalText, "kóng , ", "kóng ,  ");
+			literalText = replaceChars(literalText, "tâng kiâⁿ", "tâng-kiâⁿ");
+			literalText = replaceChars(literalText, "sim siūⁿ", "sim-siūⁿ");
+			literalText = replaceChars(literalText, "kúi ê", "kúi-ê");
+			literalText = replaceChars(literalText, "chi̍t lâng", "chi̍t-lâng");
+			literalText = replaceChars(literalText, "bô lūn", "bô-lūn");
+			literalText = replaceChars(literalText, "tōa pòaⁿ", "tōa-pòaⁿ");
+			literalText = replaceChars(literalText, "Ū lâng", "Ū-lâng");
+			literalText = replaceChars(literalText, "chhut chèng-lâng", "chhut-chèng-lâng");
+			literalText = replaceChars(literalText, "sòaⁿ hōe", "sòaⁿ-hōe");
+			literalText = replaceChars(literalText, "Chèng lâng", "Chèng-lâng");
+			literalText = replaceChars(literalText, "lán ê", "lán-ê");
+			literalText = replaceChars(literalText, "hōe lâi", "hōe-lâi");
+			literalText = replaceChars(literalText, "só͘ thoân", "só͘-thoân");
+			literalText = replaceChars(literalText, "iô chhiú", "iô-chhiú");
+			literalText = replaceChars(literalText, "chi̍t sî", "chi̍t-sî");
+			literalText = replaceChars(literalText, "Sèng Sîn", "Sèng-Sîn");
+			literalText = replaceChars(literalText, "(", "( ");
+			literalText = replaceChars(literalText, ")", " )");
+			literalText = replaceChars(literalText, "?", " ?");
+			literalText = replaceChars(literalText, ":", " :");
+			//var generatedWordsExtraSpace = "「()。";
+			var generatedWordsExtraSpace = "：「()。 ";
+			
+			var outputText = document.getElementById("outputTextArea").value;
+			
+			var taiwaneseText = "";
+			
+			var outputTextArray = outputText.split("\n");
+			
+			var numberLines = outputTextArray.length;
+			
+			for (var currentLine = 2; currentLine < numberLines; currentLine = currentLine + 6)
+			{
+				var thisLine = outputTextArray[currentLine];
+				
+				taiwaneseText = taiwaneseText + thisLine + "\n";
+			} // end for every line
+		
+			//document.getElementById("outputTextArea").value = taiwaneseText;
+		
+			var literalTextArray = literalText.split("\n");
+			var taiwaneseTextArray = taiwaneseText.split("\n");
+			
+			numberLines = literalTextArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLiteralLine = literalTextArray[currentLine];
+				var thisGeneratedLine = taiwaneseTextArray[currentLine];
+				
+				var thisLiteralLineNoDashes = replaceChars(thisLiteralLine, "-", "");
+				
+				var thisLiteralLineArray = thisLiteralLine.split(" ");
+				
+				var thisGeneratedLineArray = thisGeneratedLine.split("	");
+				
+				var thisAlignedLiteralLine = "";
+				
+				var numberLiteralWords = thisLiteralLineArray.length;
+				var numberGeneratedWords = thisGeneratedLineArray.length;
+				
+				//debugLog(numberLiteralWords + "	" + thisLiteralLine + "\n" + numberGeneratedWords + "	" + thisGeneratedLine);
+				
+				var currentLiteralWord = 0;
+				
+				for (var currentWord = 0; currentWord < numberGeneratedWords; currentWord++)
+				{
+					if (currentLiteralWord > numberLiteralWords)
+					{
+						currentWord = numberGeneratedWords;
+						break;
+					}
+
+					var thisGeneratedWord = thisGeneratedLineArray[currentWord];
+					
+					/*
+					if (thisGeneratedWord != "")
+					{
+						if (contains(generatedWordsExtraSpace,thisGeneratedWord))
+						{
+							thisAlignedLiteralLine = thisAlignedLiteralLine + " ";
+						}
+					}
+					*/
+					
+					thisGeneratedWord = replaceChars(thisGeneratedWord, " ", "");
+					
+					// If the generated word is in the LitMan input, make sure it lines up
+					if (contains(thisLiteralLineNoDashes,thisGeneratedWord) == true)
+					{
+						for (var incrementWord = currentLiteralWord; incrementWord < numberLiteralWords; incrementWord++)
+						{
+							currentLiteralWord = currentLiteralWord + 1;
+							
+							var thisLiteralWord = thisLiteralLineArray[incrementWord];
+														
+							thisAlignedLiteralLine = thisAlignedLiteralLine + thisLiteralWord + " ";
+
+							thisLiteralWord = replaceChars(thisLiteralWord, "-", "");
+							
+							if (incrementWord > numberLiteralWords)
+							{
+								currentWord = numberGeneratedWords;
+							}
+							
+							if (contains(thisGeneratedWord, thisLiteralWord))
+							{
+								//currentLiteralWord = incrementWord + 1;
+								break;
+							}
+						} // for every word until we reach a match
+						
+					} else {
+						var thisLiteralWord = thisLiteralLineArray[currentLiteralWord];
+						
+						if (thisLiteralWord == undefined)
+						{
+							currentWord = numberGeneratedWords;
+							break;
+						}
+
+						thisAlignedLiteralLine = thisAlignedLiteralLine + thisLiteralWord + " ";
+						
+						currentLiteralWord = currentLiteralWord + 1;
+						
+					} // end if the generated word is in the LitMan input
+					
+					
+					
+				} // end for every generated word
+				
+				alignedText = alignedText + thisAlignedLiteralLine + "\n";
+				
+			} // end for every line
+		
+			document.getElementById("simplifiedInputTextArea").value = alignedText;
+			
+			translateButtonClicked();
+		
+		} // end function alignLiteralButtonClicked
 
 		function advancedButtonClicked()
 		{
