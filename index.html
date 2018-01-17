@@ -1147,6 +1147,11 @@ display:inline;
 						Align Literal
 					</div>
 				</td>
+				<td>
+					<div id="memorySearchButton" class="ButtonInner advanced" onclick="memorySearchButtonClicked();" style="width:100px;visibility:hidden">
+						Memory search
+					</div>
+				</td>
 			</tr>
 		</table>
 	
@@ -2132,6 +2137,8 @@ display:inline;
 		<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug 調試</p>
   		<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
 	</div>
+
+  	<div id="resultsHtml"></div>
 	
 	<!-- Dictionary editor dialog -->
 	<div id="dictionaryEditor" title="Dictionary Editor" style="visibility:hidden">
@@ -3319,6 +3326,31 @@ display:inline;
 		
 		/* File readers */
 		
+		function saveIndexToLocalStorage(dictionaryLength)
+		{
+			//debugLog("saveDictionaryToLocalStorage(" + dictionaryLength + ")");
+			
+			var indexText = document.getElementById("chineseTextArea").value;
+			
+			var savedIndex = indexText.substring(0,dictionaryLength);
+
+			try 
+			{
+				localStorage.setItem("indexText", indexText);
+			} catch (error) {
+				if (contains(error.name,"Quota"))
+				{
+					dictionaryLength = dictionaryLength * 0.9;
+					dictionaryLength = Math.floor(dictionaryLength);
+					saveIndexToLocalStorage(dictionaryLength);
+				} else {
+					debugLog("error saving to localstorage");
+					console.log("error saving to localstorage");
+				}
+			}
+
+		} // end function saveIndexToLocalStorage
+
 		function saveDictionaryToLocalStorage(dictionaryLength)
 		{
 			//debugLog("saveDictionaryToLocalStorage(" + dictionaryLength + ")");
@@ -8077,6 +8109,17 @@ display:inline;
 			return thisText;
 			
 		} // end function deradicalize
+		
+		function dehomonym(thisText)
+		{
+			thisText = replaceChars(thisText, "祢", "你");
+			thisText = replaceChars(thisText, "妳", "你");
+			thisText = replaceChars(thisText, "禰", "你");
+			thisText = replaceChars(thisText, "她", "他");
+			thisText = replaceChars(thisText, "祂", "他");
+
+			return thisText;
+		} // end function dehomonym
 		
 		function deradicalizeButtonClicked()
 		{
@@ -13942,7 +13985,7 @@ display:inline;
 		
 		function dictionariesLoaded()
 		{
-			//debugLog("dictionariesLoaded");
+			debugLog("dictionariesLoaded");
 
 			if ((combinedDictionaryData == "") || (combinedDictionaryData == undefined))
 			{
@@ -13957,7 +14000,7 @@ display:inline;
 			}
 
 			dictionaryToWordLengths();
-					
+			
 			// If we have parameters
 			if ((QueryString.command != "") && (QueryString.command != undefined))
 			{
@@ -14076,18 +14119,22 @@ display:inline;
 			} else {
 				document.getElementById("imageControls").style.visibility = "hidden";
 				document.getElementById("imageControls").style.width = "0px";
-				$("#mediaViewer").dialog( "option", "width", 620 );
+				//$("#mediaViewer").dialog( "option", "width", 620 );
 			}
-
+			
 			// If we have parameters
 			if ((QueryString.text != "") && (QueryString.text != undefined))
 			{
-			    document.getElementById("chineseTextArea").value = QueryString.text;
+				var thisText = QueryString.text;
+				
+				thisText = replaceChars(thisText, "§", "\n");
+			
+			    document.getElementById("chineseTextArea").value = thisText;
 			    document.getElementById("englishTextArea").value = "";
 			    
 			    wordSpaceButtonClicked();
 			    
-			    translateInterface();
+			    translateBilingualInterface();
 			}
 			
 			// If we have simplified
@@ -17530,7 +17577,91 @@ display:inline;
 			translateButtonClicked();
 		
 		} // end function alignLiteralButtonClicked
+		
+		function searchLyrics(searchText)
+		{
+			var resultsHtml = "";
+		
+			var lyricsData = localStorage["phrase"];
+		
+			var songsArray = lyricsData.split("\n");
+		
+			var lyricsDataDespacedDeradicalised = replaceChars(lyricsData, " ", "");
+			lyricsDataDespacedDeradicalised = deradicalize(lyricsDataDespacedDeradicalised);
+			lyricsDataDespacedDeradicalised = dehomonym(lyricsDataDespacedDeradicalised);
+		
+			var songsDespacedDeradicalisedArray = lyricsDataDespacedDeradicalised.split("\n");
+		
+			var numberSongs = songsArray.length - 1;
+		
+			var searchInEnglish = isEnglishString(searchText);
+		
+			for (var currentSong = 0; currentSong < numberSongs; currentSong++)
+			{
+				var thisSongText = songsArray[currentSong];
+			
+				var thisSongTextDespacedDeradicalised = songsDespacedDeradicalisedArray[currentSong];
+			
+				var thisSongHtml = replaceChars(thisSongText, "§", "<br></br>");
+				var thisSongTitle = textBetween(thisSongHtml, "start", "	");
+				thisSongHtml = textBetween(thisSongHtml, "	", "end");
+				
+				thisSongTitle = "<a href=\"../index.html?chineseFile=Data/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
 
+				//thisSongTitle = replaceChars(thisSongTitle, ".txt", ".html") 
+				//var thisSongHtml = "<a href=\"Cache/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
+				thisSongHtml = thisSongTitle + thisSongHtml;
+
+				if (contains(thisSongText, searchText) == true)
+				{
+				
+					resultsHtml = resultsHtml + thisSongHtml;
+				} else {
+				
+					if (searchInEnglish == true) 
+					{
+						var searchTextLowercase = searchText.toLowerCase();
+						var thisSongHtmlLowercase = thisSongHtml.toLowerCase();
+	
+						if (contains(thisSongHtmlLowercase, searchTextLowercase) == true)
+						{
+							resultsHtml = resultsHtml + thisSongHtml;
+						}
+					} else {
+						var searchTextDespace = replaceChars(searchText, " ", "");
+						searchTextDespace = dehomonym(searchTextDespace);
+	
+						if (contains(thisSongTextDespacedDeradicalised, searchTextDespace) == true)
+						{
+							resultsHtml = resultsHtml + thisSongHtml;
+						} // end if despaced & deradicalised contains
+					
+					} // end if search in english
+			
+				} // if the song (or the name) contains the search string
+			
+			} // end for every song
+		
+			document.getElementById("resultsHtml").innerHTML = resultsHtml;
+		
+		} // end function searchLyrics
+		
+		
+		function memorySearchButtonClicked()
+		{
+			//debugLog("memorySearchButtonClicked");
+			
+			var searchText = prompt("Search memory");
+			
+			searchText = deradicalize(searchText);
+			searchText = dehomonym(searchText);
+			
+			searchLyrics(searchText);
+			
+			//document.getElementById("chineseTextArea").value = songText;
+			
+		} // end function memorySearchButtonClicked
+		
 		function advancedButtonClicked()
 		{
 			//debugLog("advancedButtonClicked");

@@ -1,0 +1,361 @@
+<!--
+	Lyrics search local filenames
+	Peter Burkimsher 2018-01-17
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Lyrics Search Local Filenames</title>
+  	  	
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+
+    </style>
+  </head>
+  
+  <body>
+  	<div id="resultsHtml"></div>
+  </body>
+  
+  <script>
+
+	var lyricsData = "";
+	var radicals = "";
+	
+	function replaceChars(thisString, searchString, replaceString)
+	{
+		//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+		return thisString.split(searchString).join(replaceString);
+	} // end function replaceChars
+
+	function textBetween(thisText, startString, endString)
+	{
+		//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+		
+		if (thisText == undefined)
+		{
+			return "";
+		}
+		
+		var start_pos = 0;
+		if (startString != 'start')
+		{
+			start_pos = thisText.indexOf(startString);
+
+			// If the text does not contain the start string, return a blank string
+			if (start_pos < 0)
+			{
+				return '';
+			}
+
+			// Skip the first startString characters
+			start_pos = start_pos + startString.length;
+		}
+
+		var end_pos = thisText.length;
+		if (endString != 'end')
+		{
+			end_pos = thisText.indexOf(endString,start_pos);
+		}
+
+		// If the text does not have the end string after the start string, return the whole string after the start
+		if (end_pos < start_pos)
+		{
+			end_pos = thisText.length;
+		}
+
+		var newText = thisText.substring(start_pos,end_pos);
+
+		return newText;
+	} // end textBetween
+	
+	function contains(thisText, searchString)
+	{
+		//debugLog("contains(" + thisText + "," + searchString + ")");
+
+		if (thisText == null)
+		{
+			return false;
+		}
+		
+		return thisText.indexOf(searchString) != -1;
+	} // end function contains
+
+	function isEnglish(thisCharacter)
+	{
+		//debugLog("isEnglish(" + thisCharacter + ")");
+
+		var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890";
+		
+		if (contains(alphabet, thisCharacter) == true)
+		{
+			return true;
+		} else {
+			return false;
+		}
+		
+	} // end function isEnglish
+	
+	function isEnglishString(thisString)
+	{
+		//debugLog("isEnglishString(" + thisString + ")");
+
+		var numberCharacters = thisString.length;
+		
+		var stringIsEnglish = true;
+		
+		for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+		{
+			var thisCharacter = thisString[currentCharacter];
+			
+			if (isEnglish(thisCharacter) == false)
+			{
+				stringIsEnglish = false;
+				break;
+			}
+		} // end for every character
+		
+		return stringIsEnglish;
+	} // end function isEnglishString
+
+	function deradicalize(thisText)
+	{
+		//debugLog("deradicalize(" + thisText + ")");
+
+		var radicalLines = radicals.split("\n");
+		var numberLines = radicalLines.length;
+		
+		for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
+		{
+			var thisLine = radicalLines[currentLine];
+			
+			var thisLineArray = thisLine.split(" ");
+			
+			var thisRadical = thisLineArray[0];
+			var thisIdeograph = thisLineArray[1];
+			
+			//thisText = thisText.replace(/thisRadical/g, thisIdeograph);
+			//thisText = thisText.split(thisRadical).join(thisIdeograph);
+			thisText = replaceChars(thisText, thisRadical, thisIdeograph)
+
+		} // end for every radical
+		
+		return thisText;
+		
+	} // end function deradicalize
+
+	function dehomonym(thisText)
+	{
+		thisText = replaceChars(thisText, "祢", "你");
+		thisText = replaceChars(thisText, "妳", "你");
+		thisText = replaceChars(thisText, "禰", "你");
+		thisText = replaceChars(thisText, "她", "他");
+		thisText = replaceChars(thisText, "祂", "他");
+
+		return thisText;
+	} // end function dehomonym
+
+	function searchLyrics(searchText)
+	{
+		var resultsHtml = "";
+		
+		var songsArray = lyricsData.split("\n");
+		
+		var lyricsDataDespacedDeradicalised = replaceChars(lyricsData, " ", "");
+		lyricsDataDespacedDeradicalised = deradicalize(lyricsDataDespacedDeradicalised);
+		lyricsDataDespacedDeradicalised = dehomonym(lyricsDataDespacedDeradicalised);
+		
+		var songsDespacedDeradicalisedArray = lyricsDataDespacedDeradicalised.split("\n");
+		
+		var numberSongs = songsArray.length - 1;
+		
+		var searchInEnglish = isEnglishString(searchText);
+		
+		for (var currentSong = 0; currentSong < numberSongs; currentSong++)
+		{
+			var thisSongText = songsArray[currentSong];
+			
+			var thisSongTextDespacedDeradicalised = songsDespacedDeradicalisedArray[currentSong];
+			var thisSongTitleDespacedDeradicalised = textBetween(thisSongTextDespacedDeradicalised, "start", "	");
+
+			var thisSongHtml = replaceChars(thisSongText, "§", "<br></br>");
+			
+			var thisDelimiter = "	";
+			
+			if (contains(thisSongHtml, thisDelimiter) == false)
+			{
+				thisDelimiter = ".txt";
+			}
+
+			var thisSongTitle = textBetween(thisSongHtml, "start", thisDelimiter);
+
+			thisSongHtml = textBetween(thisSongHtml, thisDelimiter, "end");
+				
+			thisSongHtml = "<a href=\"../index.html?text=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
+
+			//thisSongTitle = replaceChars(thisSongTitle, ".txt", ".html") 
+			//var thisSongHtml = "<a href=\"Cache/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
+			//thisSongHtml = thisSongTitle + thisSongHtml;
+
+			if (contains(thisSongTitle, searchText) == true)
+			{
+				
+				resultsHtml = resultsHtml + thisSongHtml;
+			} else {
+				
+				if (searchInEnglish == true) 
+				{
+					var searchTextLowercase = searchText.toLowerCase();
+					var thisSongHtmlLowercase = thisSongTitle.toLowerCase();
+	
+					if (contains(thisSongHtmlLowercase, searchTextLowercase) == true)
+					{
+						resultsHtml = resultsHtml + thisSongHtml;
+					}
+				} else {
+					var searchTextDespace = replaceChars(searchText, " ", "");
+					searchTextDespace = dehomonym(searchTextDespace);
+					
+					if (contains(thisSongTitleDespacedDeradicalised, searchTextDespace) == true)
+					{
+						resultsHtml = resultsHtml + thisSongHtml;
+					} // end if despaced & deradicalised contains
+					
+				} // end if search in english
+			
+			} // if the song (or the name) contains the search string
+			
+		} // end for every song
+		
+		document.getElementById("resultsHtml").innerHTML = resultsHtml;
+		
+	} // end function searchLyrics
+	
+	function deradicaliseAndSearch(filename, searchText)
+	{
+		var xmlhttp = new XMLHttpRequest();
+
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+			   if (xmlhttp.status == 200) 
+			   {
+					
+					radicals = xmlhttp.responseText;
+					
+					searchText = deradicalize(searchText);
+					searchText = dehomonym(searchText);
+					
+					searchLyrics(searchText);
+					
+			   } // end if it loaded the KML
+			   else if (xmlhttp.status == 400) {
+				  alert('error loading radicals');
+			   }
+			   else {
+				   alert('error loading radicals');
+			   }
+			}
+		};
+
+		xmlhttp.open("GET", filename, true);
+		xmlhttp.send();
+	
+	} // end function deradicaliseAndSearch
+	
+	function searchLocalStorage(searchText)
+	{
+		lyricsData = localStorage["lyricsData"];
+		
+		if ((lyricsData == "") || (lyricsData == undefined))
+		{
+			document.write("Paste lyrics index into the text field and click Save<p></p><textarea id=\"lyricsArea\"></textarea><p></p><div class=\"ButtonInner\" onclick=\"var lyricsData=document.getElementById('lyricsArea').value;localStorage['lyricsData']=lyricsData;\" style=\"width:70px\">Save</div>");
+		} else {
+			deradicaliseAndSearch("../radicals.txt", searchText);
+		}
+		
+	} // end function searchFile
+
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+	
+	var searchText = "";
+
+	if ((QueryString.q == "") || (QueryString.q == undefined))
+	{
+		var searchText = prompt("Search");
+		
+		// Redirect
+		var thisUrl = window.location.href;
+		
+		thisUrl = thisUrl + "?q=" + searchText;
+		
+		if (searchText == "")
+		{
+			document.write("cancelled");
+		} else {
+			window.location = thisUrl;
+		}
+	} else {
+		searchText = QueryString.q;
+		
+		if (searchText == "reload")
+		{
+			localStorage["lyricsData"] = "";
+			searchLocalStorage(searchText);
+		} else {
+			searchLocalStorage(searchText);
+		}
+	}
+	
+	
+  </script>
+  
+</html>
