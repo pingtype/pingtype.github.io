@@ -217,9 +217,13 @@
 			var thisSongTitle = textBetween(thisSongHtml, "start", thisDelimiter);
 
 			thisSongHtml = textBetween(thisSongHtml, thisDelimiter, "end");
-				
-			thisSongHtml = "<a href=\"../index.html?text=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
-
+			
+			if (contains(thisSongTitle, "Taiwanese"))
+			{
+				thisSongHtml = "<a href=\"../index.html?taiwaneseText=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";				
+			} else {
+				thisSongHtml = "<a href=\"../index.html?text=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
+			}
 			//thisSongTitle = replaceChars(thisSongTitle, ".txt", ".html") 
 			//var thisSongHtml = "<a href=\"Cache/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
 			//thisSongHtml = thisSongTitle + thisSongHtml;

@@ -236,6 +236,7 @@
 	- http://jayko.pixnet.net/blog
 
 	Data sources:
+	- wikipedia character decomposition https://commons.wikimedia.org/wiki/Commons:Chinese_characters_decomposition
 	- How to become a Christian - https://web.archive.org/web/20170108111016/http://www.treeoflife.org.tw/front/bin/ptlist.phtml?Category=2808
 	- https://en.wikipedia.org/wiki/Compendium_of_Materia_Medica	https://zh.wikisource.org/zh/本草綱目
 	- http://www.hitutor.com.tw/english-news-chinese.php
@@ -379,56 +380,56 @@
 	}
 		
       .chinese_1 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
         color:#000000;
 		font-size: 30px;
 		display:inline;
       }
 
       .chinese_2 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#f82423;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_3 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#189c19;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_4 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#178FD1;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_5 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_6 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_7 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
       
       .chinese_8 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
@@ -1223,7 +1224,7 @@ display:inline;
 						<input type="checkbox" id="cantoneseCheckbox" ><span onclick="toggleCheckbox('cantoneseCheckbox');">Cantonese 粵語</span>
 					</td>
 					<td>
-						<input type="checkbox" id="taiwaneseCheckbox" ><span onclick="toggleCheckbox('taiwaneseCheckbox');">Taiwanese 台語</span>
+						<input type="checkbox" id="taiwaneseCheckbox" ><span onclick="taiwaneseCheckboxClicked('taiwaneseCheckbox');">Taiwanese 台語</span>
 					</td>
 					<td>
 						<div id="editTaiyuButton" class="ButtonInner" onclick="openTaiwaneseDictionaryEditor();" style="width:60px">
@@ -3004,7 +3005,7 @@ display:inline;
 			string = string.replace(/\r\n/g,"\n");
 			var utftext = "";
 
-			for (var n = 0; n < string.length; n++) {
+			for (var n = 0; n < stringLength(string); n++) {
 
 				var c = string.charCodeAt(n);
 
@@ -3032,7 +3033,7 @@ display:inline;
 			var i = 0;
 			var c = c1 = c2 = 0;
 
-			while ( i < utftext.length ) {
+			while ( i < stringLength(utftext) ) {
 
 				c = utftext.charCodeAt(i);
 
@@ -4263,6 +4264,40 @@ display:inline;
 				
 		} // end loadTaiwanese
 
+		function loadTaiwaneseAndTranslate(filename)
+		{
+			//debugLog("loadTaiwaneseAndTranslate(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						taiwaneseData = xmlhttp.responseText;
+					    
+					    taiwaneseToWordLengths();
+
+					    wordSpaceButtonClicked();
+			    
+					    translateBilingualInterface();
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading taiwanese');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadTaiwaneseAndTranslate
+
 		function loadTaiwaneseAndFile(dictionaryFilename, inputFilename)
 		{
 			//debugLog("loadTaiwaneseAndFile(" + filename + ")");
@@ -4529,7 +4564,41 @@ display:inline;
 
 		
 		/* Library functions */
+		
+		// From https://mathiasbynens.be/notes/javascript-unicode
+		function stringLength(thisString)
+		{
+			var regexAstralSymbols = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
 
+			return thisString
+			// Replace every surrogate pair with a BMP symbol.
+			.replace(regexAstralSymbols, '_')
+			// …and *then* get the length.
+			.length;
+		} // end function stringLength
+		
+		// From https://mathiasbynens.be/notes/javascript-unicode
+		function stringToCharacterArray(string) 
+		{
+			var index = 0;
+			var length = string.length;
+			var output = [];
+			for (; index < length - 1; ++index) {
+				var charCode = string.charCodeAt(index);
+				if (charCode >= 0xD800 && charCode <= 0xDBFF) {
+					charCode = string.charCodeAt(index + 1);
+					if (charCode >= 0xDC00 && charCode <= 0xDFFF) {
+						output.push(string.slice(index, index + 2));
+						++index;
+						continue;
+					}
+				}
+				output.push(string.charAt(index));
+			}
+			output.push(string.charAt(index));
+			return output;
+		} // end function stringToCharacterArray
+		
 		function replaceChars(thisString, searchString, replaceString)
 		{
 			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
@@ -4561,7 +4630,7 @@ display:inline;
 				start_pos = start_pos + startString.length;
 			}
 
-			var end_pos = thisText.length;
+			var end_pos = stringLength(thisText);
 			if (endString != 'end')
 			{
 				end_pos = thisText.indexOf(endString,start_pos);
@@ -4693,7 +4762,7 @@ display:inline;
 		{
 			//debugLog("isChineseString(" + thisString + ")");
 
-			var numberCharacters = thisString.length;
+			var numberCharacters = stringLength(thisString);
 			
 			var stringIsChinese = true;
 			
@@ -4715,7 +4784,7 @@ display:inline;
 		{
 			//debugLog("isChineseString(" + thisString + ")");
 
-			var numberCharacters = thisString.length;
+			var numberCharacters = stringLength(thisString);
 			
 			var stringIsChinese = false;
 			
@@ -4753,7 +4822,7 @@ display:inline;
 		{
 			//debugLog("isEnglishString(" + thisString + ")");
 
-			var numberCharacters = thisString.length;
+			var numberCharacters = stringLength(thisString);
 			
 			var stringIsEnglish = true;
 			
@@ -4790,7 +4859,7 @@ display:inline;
 		{
 			//debugLog("isBopomofoString(" + thisString + ")");
 
-			var numberCharacters = thisString.length;
+			var numberCharacters = stringLength(thisString);
 			
 			var stringIsBopomofo = true;
 			
@@ -4820,7 +4889,7 @@ display:inline;
 		{
 			//debugLog("isNumberString(" + thisString + ")");
 
-			var numberCharacters = thisString.length;
+			var numberCharacters = stringLength(thisString);
 			
 			var stringIsNumber = true;
 			
@@ -5139,9 +5208,9 @@ display:inline;
 
 
 			
-			var thisBopomofoArray = thisBopomofoString.split("");
+			var thisBopomofoArray = stringToCharacterArray(thisBopomofoString);
 			
-			var numberBopomofo = thisBopomofoArray.length;
+			var numberBopomofo = stringLength(thisBopomofoArray);
 			
 			for (var currentBopomofo = 0; currentBopomofo < numberBopomofo; currentBopomofo++)
 			{
@@ -5215,7 +5284,7 @@ display:inline;
 		{
 			//debugLog("dictionaryContainsTaiwanese");
 			
-			var wordLength = thisWordChinese.length;
+			var wordLength = stringLength(thisWordChinese);
 			
 			switch (wordLength)
 			{
@@ -5343,10 +5412,10 @@ display:inline;
 				thisTaiwaneseTones = textBetween(thisTaiwanese, "	","end");
 				thisTaiwanese = textBetween(thisTaiwanese, "start", "	");
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				var thisTaiwaneseWordsArray = thisTaiwanese.split(" ");
-				thisTaiwaneseTonesArray = thisTaiwaneseTones.split("");
+				thisTaiwaneseTonesArray = stringToCharacterArray(thisTaiwaneseTones);
 				
 				thisTaiwanese = "";
 				
@@ -5382,7 +5451,7 @@ display:inline;
 			} else {
 				// try to get each character
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -5445,7 +5514,7 @@ display:inline;
 				return thisWord;
 			}
 			
-			var thisWordArray = thisWord.split("");
+			var thisWordArray = stringToCharacterArray(thisWord);
 			
 			var numberCharacters = thisWordArray.length;
 			
@@ -5767,90 +5836,112 @@ display:inline;
 				//var thisTaiwaneseTones = textBetween(taiwaneseData, "\n" + theseWordsChinese + "	","\n");
 				var thisTaiwaneseTones = thisResult;
 				thisTaiwaneseTones = textBetween(thisTaiwaneseTones, "	", "end");
+				var numberTones = thisTaiwaneseTones.length;
 				
-				var theseWordsChineseArray = theseWordsChinese.split("");
+				var theseWordsChineseArray = stringToCharacterArray(theseWordsChinese);
 				var thisTaiwaneseArray = theseWordsTaiwanese.split(" ");
-				var thisTaiwaneseTonesArray = thisTaiwaneseTones.split("");
+				var thisTaiwaneseTonesArray = stringToCharacterArray(thisTaiwaneseTones);
 				var numberWords = theseWordsChineseArray.length;
 				var numberTaiwaneseWords = thisTaiwaneseArray.length;
 				
-				for (var currentWord = 0; currentWord < numberWords; currentWord++)
+				if (numberTones < numberWords)
 				{
-					var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
-					var thisCharacterTaiwaneseTone = thisTaiwaneseTonesArray[currentWord];
-					
-					//debugLog(thisCharacterTaiwanese + "," + thisCharacterTaiwaneseTone);
-					
-					if (currentWord >= numberTaiwaneseWords)
+					taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese);
+				} else {
+					for (var currentWord = 0; currentWord < numberWords; currentWord++)
 					{
-						thisCharacterTaiwanese = "";
-					}
+						var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
+						var thisCharacterTaiwaneseTone = thisTaiwaneseTonesArray[currentWord];
 					
-					var thisTaiwaneseHtmlWordTonesHtml = getTaiwaneseTonesHtml(thisCharacterTaiwanese, thisCharacterTaiwaneseTone);
+						//debugLog(thisCharacterTaiwanese + "," + thisCharacterTaiwaneseTone);
 					
-					// Default to black
-					if (thisCharacterTaiwaneseTone == undefined)
-					{
-						thisCharacterTaiwaneseTone = 7;
-					}
+						if (currentWord >= numberTaiwaneseWords)
+						{
+							thisCharacterTaiwanese = "";
+						}
 					
-					thisTaiwaneseHtmlWord = "<div ";
+						var thisTaiwaneseHtmlWordTonesHtml = getTaiwaneseTonesHtml(thisCharacterTaiwanese, thisCharacterTaiwaneseTone);
+					
+						// Default to black
+						if (thisCharacterTaiwaneseTone == undefined)
+						{
+							thisCharacterTaiwaneseTone = 7;
+						}
+					
+						thisTaiwaneseHtmlWord = "<div ";
 					
 					
-					if (mouseoverText != "")
-					{
-						thisTaiwaneseHtmlWord = thisTaiwaneseHtmlWord + "title=\"" + mouseoverText + "\" ";
-					} // if there are other options
+						if (mouseoverText != "")
+						{
+							thisTaiwaneseHtmlWord = thisTaiwaneseHtmlWord + "title=\"" + mouseoverText + "\" ";
+						} // if there are other options
 					
 					
-					thisTaiwaneseHtmlWord = thisTaiwaneseHtmlWord + "class=\"taiwanese_" + thisCharacterTaiwaneseTone + "\">" + thisTaiwaneseHtmlWordTonesHtml + "</div>";
+						thisTaiwaneseHtmlWord = thisTaiwaneseHtmlWord + "class=\"taiwanese_" + thisCharacterTaiwaneseTone + "\">" + thisTaiwaneseHtmlWordTonesHtml + "</div>";
 					
-					taiwaneseHtmlWords = taiwaneseHtmlWords + thisTaiwaneseHtmlWord + " ";
-				} // end for every character in the Taiwanese
-				
+						taiwaneseHtmlWords = taiwaneseHtmlWords + thisTaiwaneseHtmlWord + " ";
+					} // end for every character in the Taiwanese
+					
+				} // end if numberTones < numberTaiwaneseWords then automatically charsToPoj
 				
 			} else {
-				var thisChineseArray = theseWordsChinese.split("");
-				var thisTaiwaneseArray = theseWordsTaiwanese.split(" ");
-				var numberWords = thisChineseArray.length;
-				var numberTaiwaneseWords = thisTaiwaneseArray.length;
-								
-				for (var currentWord = 0; currentWord < numberWords; currentWord++)
-				{
-					var thisCharacterChinese = thisChineseArray[currentWord];
-					var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
-					
-					if (currentWord >= numberTaiwaneseWords)
-					{
-						thisCharacterTaiwanese = "";
-					}
-					
-					var thisTaiwaneseTone = 1;
-					
-					var thisTaiwaneseHtmlWord = "";
-										
-					if (dictionaryContainsTaiwanese(thisCharacterChinese) == true)
-					{
-						thisTaiwaneseTone = textBetween(taiwaneseData, "\n" + thisCharacterChinese + "	","\n");
-						thisTaiwaneseTone = textBetween(thisTaiwaneseTone, "	","end");
-						
-						thisTaiwaneseHtmlWord = getTaiwaneseTonesHtml(thisCharacterTaiwanese, thisTaiwaneseTone);
-						
-						thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisTaiwaneseHtmlWord + "</div>";
-						
-					} else {
-						thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisCharacterTaiwanese + "</div>";
-					}
-										
-					taiwaneseHtmlWords = taiwaneseHtmlWords + thisTaiwaneseHtmlWord + " ";
-					
-				} // end for every character in the word
-				
+				taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese);
 			} // end if the word is in the dictionary	
 						
 			return taiwaneseHtmlWords;
 			
 		} // end function getTaiwaneseHtml
+		
+		function getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese)
+		{
+			debugLog("getTaiwaneseHtmlCharacters(" + theseWordsChinese + ", " + theseWordsTaiwanese + ")");
+
+			var taiwaneseHtmlWords = "";
+
+			var thisChineseArray = stringToCharacterArray(theseWordsChinese);
+			var thisTaiwaneseArray = theseWordsTaiwanese.split(" ");
+			var numberWords = thisChineseArray.length;
+			var numberTaiwaneseWords = thisTaiwaneseArray.length;
+							
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisCharacterChinese = thisChineseArray[currentWord];
+				var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
+				
+				//debugLog(thisCharacterChinese);
+				
+				if (currentWord >= numberTaiwaneseWords)
+				{
+					thisCharacterTaiwanese = "";
+				}
+				
+				var thisTaiwaneseTone = 1;
+				
+				var thisTaiwaneseHtmlWord = "";
+									
+				if (dictionaryContainsTaiwanese(thisCharacterChinese) == true)
+				{
+					thisTaiwaneseTone = textBetween(taiwaneseData, "\n" + thisCharacterChinese + "	","\n");
+					thisCharacterTaiwanese = textBetween(thisTaiwaneseTone, "start", "	");
+					thisTaiwaneseTone = textBetween(thisTaiwaneseTone, "	","end");
+					
+					thisTaiwaneseHtmlWord = getTaiwaneseTonesHtml(thisCharacterTaiwanese, thisTaiwaneseTone);
+					
+					thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisTaiwaneseHtmlWord + "</div>";
+					
+				} else {
+					thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisCharacterTaiwanese + "</div>";
+				}
+				
+				//debugLog(thisTaiwaneseHtmlWord);
+				
+				taiwaneseHtmlWords = taiwaneseHtmlWords + thisTaiwaneseHtmlWord + " ";
+				
+			} // end for every character in the word
+			
+			return taiwaneseHtmlWords;
+			
+		} // end function getTaiwaneseHtmlCharacters
 
 		function getCantonese(thisWordChinese, thisPinyinWord)
 		{
@@ -5895,10 +5986,10 @@ display:inline;
 				thisCantoneseTones = textBetween(thisCantonese, "	","end");
 				thisCantonese = textBetween(thisCantonese, "start", "	");
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				var thisCantoneseWordsArray = thisCantonese.split(" ");
-				thisCantoneseTonesArray = thisCantoneseTones.split("");
+				thisCantoneseTonesArray = stringToCharacterArray(thisCantoneseTones);
 				
 				thisCantonese = "";
 				
@@ -5947,7 +6038,7 @@ display:inline;
 			} else {
 				// try to get each character
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -6000,7 +6091,7 @@ display:inline;
 				return thisWord;
 			}
 
-			var thisWordArray = thisWord.split("");
+			var thisWordArray = stringToCharacterArray(thisWord);
 			
 			var numberCharacters = thisWordArray.length;
 			
@@ -6274,7 +6365,7 @@ display:inline;
 				//debugLog(theseWordsChinese + "," + thisCantoneseTones);
 				
 				var thisCantoneseArray = theseWordsCantonese.split(" ");
-				var thisCantoneseTonesArray = thisCantoneseTones.split("");
+				var thisCantoneseTonesArray = stringToCharacterArray(thisCantoneseTones);
 				var numberWords = thisCantoneseArray.length;
 				
 				for (var currentWord = 0; currentWord < numberWords; currentWord++)
@@ -6294,7 +6385,7 @@ display:inline;
 				
 				
 			} else {
-				var thisChineseArray = theseWordsChinese.split("");
+				var thisChineseArray = stringToCharacterArray(theseWordsChinese);
 				var thisCantoneseArray = theseWordsCantonese.split(" ");
 				var numberWords = thisCantoneseArray.length;
 								
@@ -6341,7 +6432,7 @@ display:inline;
 				
 			} else {
 					
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -6365,7 +6456,7 @@ display:inline;
 
 		function getHangulHtml(thisWordHangul)
 		{
-			var thisHangulArray = thisWordHangul.split("");
+			var thisHangulArray = stringToCharacterArray(thisWordHangul);
 			var numberWords = thisHangulArray.length;
 			
 			var hangulHtmlWords = "";
@@ -6395,7 +6486,7 @@ display:inline;
 				thisTang = textBetween(tangData, "\n" + thisWordChinese + "	","\n");
 				thisTang = textBetween(thisTang, "start", "	");
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				var thisTangWordsArray = thisTang.split(" ");
 				
@@ -6413,7 +6504,7 @@ display:inline;
 			} else {
 				// try to get each character
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -6476,7 +6567,7 @@ display:inline;
 				thisJapanese = textBetween(japaneseData, "\n" + thisWordChinese + "	","\n");
 				thisJapanese = textBetween(thisJapanese, "start", "	");
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				var thisJapaneseWordsArray = thisJapanese.split(" ");
 				
@@ -6494,7 +6585,7 @@ display:inline;
 			} else {
 				// try to get each character
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -6557,7 +6648,7 @@ display:inline;
 				thisVietnamese = textBetween(vietnameseData, "\n" + thisWordChinese + "	","\n");
 				thisVietnamese = textBetween(thisVietnamese, "start", "	");
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				var thisVietnameseWordsArray = thisVietnamese.split(" ");
 				
@@ -6575,7 +6666,7 @@ display:inline;
 			} else {
 				// try to get each character
 				
-				var numberCharacters = thisWordChinese.length;
+				var numberCharacters = stringLength(thisWordChinese);
 				
 				if (numberCharacters == 1)
 				{
@@ -6666,7 +6757,7 @@ display:inline;
 			var hexCharacters = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f"];
 			var unitypeCodes =  ["e", "r", "t", "y", "u", "i", "o", "p", "a", "s", "d", "f", "h", "j", "k", "l"];
 
-			var thisUnitypeArray = thisUnitype.split("");
+			var thisUnitypeArray = stringToCharacterArray(thisUnitype);
 			
 			if (thisUnitypeArray == null)
 			{
@@ -6746,7 +6837,7 @@ display:inline;
 				return "<span style=\"font-size:16px\">" + thisPinyin + "</span>";
 			}
 			
-			var thisPinyinArray = thisPinyin.split("");
+			var thisPinyinArray = stringToCharacterArray(thisPinyin);
 			
 			var numberCharacters = thisPinyinArray.length;
 			
@@ -6927,7 +7018,7 @@ display:inline;
 		{
 			//debugLog("searchDictionary(" + thisWord + ")");
 
-			var wordLength = thisWord.length;
+			var wordLength = stringLength(thisWord);
 			
 			switch (wordLength)
 			{
@@ -7238,7 +7329,7 @@ display:inline;
 						//var thisDefinition = textBetween(thisDefinitionTone, "start", "	");
 						//var thisTone = textBetween(thisDefinitionTone, "	", "end");
 						
-						var thisWordLength = thisWord.length;
+						var thisWordLength = stringLength(thisWord);
 						
 						var thisPinyinArray = [];
 						
@@ -7308,12 +7399,13 @@ display:inline;
 							
 							cantoneseText = cantoneseText + thisCantoneseWord + " ";
 						} // end if addCantonese
-
-
+						
+						var thisWordArray = stringToCharacterArray(thisWord);
+						
 						// For every character in the word
 						for (var currentWordCharacter = 0; currentWordCharacter < thisWordLength; currentWordCharacter++)
 						{
-							var thisCharacterChinese = thisWord[currentWordCharacter];
+							var thisCharacterChinese = thisWordArray[currentWordCharacter];
 							
 							var thisCharacterPinyin = "";
 							
@@ -7525,7 +7617,7 @@ display:inline;
 						
 						translatedHtml = translatedHtml + " " + "<div class=\"literal\">" + thisDefinition + "</div>";
 						
-						chineseLength = chineseTextWord.length * 2;
+						chineseLength = stringLength(chineseTextWord) * 2;
 						
 						//pinyinText = pinyinText + pinyinWord + " ";
 						//pinyinText = pinyinText + pinyinWord;
@@ -7587,7 +7679,7 @@ display:inline;
 							pinyinTextWord = thisWord;
 							translatedTextWord = thisWord;
 							
-							chineseLength = thisWord.length;
+							chineseLength = stringLength(thisWord);
 							
 							if (addSimplified == true)
 							{
@@ -7755,8 +7847,8 @@ display:inline;
 					{
 						//var chineseLength = chineseTextWord.length * 2;
 						//var chineseLength = chineseTextWord.length;
-						var pinyinLength = pinyinTextWord.length;
-						var translatedLength = translatedTextWord.length;
+						var pinyinLength = stringLength(pinyinTextWord);
+						var translatedLength = stringLength(translatedTextWord);
 						
 						//debugLog("thisWord" + thisWord);
 						
@@ -8058,6 +8150,9 @@ display:inline;
 				
 			} // end if we should count common words
 			
+			// Load Pingfang slower
+			updateFont();
+			
 			var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 			if (addTaiwanese == true)
 			{
@@ -8070,8 +8165,6 @@ display:inline;
 				cantoneseColours();
 			} // end if addCantonese
 
-			// Load Pingfang slower
-			updateFont();
 		} // end function translateInterface
 
 		function translateHtml()
@@ -8522,7 +8615,7 @@ display:inline;
 			
 			var spacedLine = "";
 		   
-			var numberLineCharacters = spacedChinese.length;
+			var numberLineCharacters = stringLength(spacedChinese);
 		   
 			// Add spaces for punctuation
 			for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
@@ -8723,7 +8816,7 @@ display:inline;
 				{
 					var spacedLine = "";
 				
-					var numberLineCharacters = spacedChineseLine.length;
+					var numberLineCharacters = stringLength(spacedChineseLine);
 		   			
 		   			// Add spaces for punctuation
 					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
@@ -8946,7 +9039,7 @@ display:inline;
 				{
 					var spacedLine = "";
 				
-					var numberLineCharacters = spacedChineseLine.length;
+					var numberLineCharacters = stringLength(spacedChineseLine);
 		   			
 		   			// Add spaces for punctuation
 					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
@@ -9003,9 +9096,9 @@ display:inline;
 			
 			var spacedChinese = "";
 			
-			var thisChineseCharacters = thisChinese.split("");
+			var thisChineseCharacters = stringToCharacterArray(thisChinese);
 			
-			var numberCharacters = thisChineseCharacters.length;
+			var numberCharacters = stringLength(thisChineseCharacters);
 
 			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 			{
@@ -9030,7 +9123,7 @@ display:inline;
 			
 				var thisChineseLine = thisChineseLines[currentLine];
 				
-				var numberCharacters = thisChineseLine.length;
+				var numberCharacters = stringLength(thisChineseLine);
 				var lastWasNotChinese = false;
 				
 				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
@@ -9564,7 +9657,7 @@ display:inline;
 				return;
 			} // end if the dictionary contains the character already
 			
-			if (thisCharacter.length > 1)
+			if (stringLength(thisCharacter) > 1)
 			{
 				return;
 			}
@@ -9676,7 +9769,7 @@ display:inline;
 					return searchBopomofo(inputCharacters);
 				} // end if thisString is bopomofo
 				
-				var numberInput = inputCharacters.length;
+				var numberInput = stringLength(inputCharacters);
 				
 				var startCharacter = inputCharacters[0];
 				
@@ -9793,7 +9886,7 @@ display:inline;
 
 			var inputCharacters = document.getElementById("startCharacter").value;
 						
-			var numberInput = inputCharacters.length;
+			var numberInput = stringLength(inputCharacters);
 			
 			if (numberInput == 0)
 			{
@@ -10004,7 +10097,7 @@ display:inline;
 
 			if (thisCharacter == "delete")
 			{
-				var inputLength = inputCharacters.length;
+				var inputLength = stringLength(inputCharacters);
 				
 				if (inputLength == 1)
 				{
@@ -10437,7 +10530,7 @@ display:inline;
 		{
 			//debugLog("buildMatrix(" + thisPhrase + ")");
 
-			var thisPhraseArray = thisPhrase.split("");
+			var thisPhraseArray = stringToCharacterArray(thisPhrase);
 			
 			var numberCharacters = thisPhraseArray.length;
 			
@@ -10917,6 +11010,23 @@ display:inline;
 			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
 		} // end function toggleCheckbox
 		
+		function taiwaneseCheckboxClicked(checkboxId)
+		{
+			//debugLog("taiwaneseCheckboxClicked");
+			
+			var newState = !document.getElementById(checkboxId).checked;
+			
+			document.getElementById(checkboxId).checked = newState;
+			
+			if (newState == true)
+			{
+				document.getElementById("pinyinCheckbox").checked = false;
+			} else {
+				document.getElementById("pinyinCheckbox").checked = true;
+			}
+		
+		} // end function taiwaneseCheckboxClicked
+		
 		function toggleReviewingTheHanzi(checkboxId)
 		{
 			//debugLog("toggleReviewingTheHanzi");
@@ -10941,7 +11051,7 @@ display:inline;
 		
 			var thisText = document.getElementById("chineseTextArea").value;
 			
-			numberCharacters = thisText.length;
+			numberCharacters = stringLength(thisText);
 
 			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 			{
@@ -11012,6 +11122,18 @@ display:inline;
 			
 			// Load Pingfang slower
 			updateFont();
+			
+			var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+			if (addTaiwanese == true)
+			{
+				taiwaneseColours();
+			} // end if addTaiwanese
+
+			var addCantonese = document.getElementById('cantoneseCheckbox').checked;
+			if (addCantonese == true)
+			{
+				cantoneseColours();
+			} // end if addCantonese
 			
 		} // end function translateButtonClicked
 		
@@ -11758,7 +11880,7 @@ display:inline;
 			
 			var thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
 						
-			var numberCharacters = thisChineseString.length;
+			var numberCharacters = stringLength(thisChineseString);
 			
 			var thisPinyinArray = [];
 			var thisTones = "";
@@ -11814,7 +11936,7 @@ display:inline;
 			
 			var thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
 						
-			var numberCharacters = thisChineseString.length;
+			var numberCharacters = stringLength(thisChineseString);
 			
 			var thisPojArray = [];
 			var thisTones = "";
@@ -11861,7 +11983,7 @@ display:inline;
 
 			if (thisCharacter == "delete")
 			{
-				var inputLength = thisPinyin.length;
+				var inputLength = stringLength(thisPinyin);
 				
 				if (inputLength == 1)
 				{
@@ -12547,7 +12669,7 @@ display:inline;
 				// Add the word to the dictionary
 				combinedDictionaryData = combinedDictionaryData + thisDefinition + "\n";
 				
-				var wordLength = thisWordChinese.length;
+				var wordLength = stringLength(thisWordChinese);
 				
 				if (wordLength == 5)
 				{
@@ -12703,7 +12825,7 @@ display:inline;
 				
 				//var addText = thisDefinition + "	" + getDateString();
 				
-				var wordLength = thisWordChinese.length;
+				var wordLength = stringLength(thisWordChinese);
 			   
 				switch (wordLength)
 				{
@@ -12845,7 +12967,7 @@ display:inline;
 				combinedDictionaryData = newDictionary;
 				
 				
-				var wordLength = thisWord.length;
+				var wordLength = stringLength(thisWord);
 				
 				if (wordLength == 5)
 				{
@@ -13051,7 +13173,7 @@ display:inline;
 				combinedDictionaryData = newDictionary;
 				
 				
-				var wordLength = thisWord.length;
+				var wordLength = stringLength(thisWord);
 				
 				if (wordLength == 5)
 				{
@@ -13543,7 +13665,7 @@ display:inline;
 			
 			var thisDefinition = "\n" + thisWordChinese + "	" + thisWordPoj + "	" + thisWordTones + "\n";
 			
-			var wordLength = thisWordChinese.length;
+			var wordLength = stringLength(thisWordChinese);
 		   
 			switch (wordLength)
 			{
@@ -13930,7 +14052,7 @@ display:inline;
 				{
 					var thisChinese = textBetween(thisLine, "start", "	");
 					
-					var wordLength = thisChinese.length;
+					var wordLength = stringLength(thisChinese);
 					
 					switch (wordLength)
 					{
@@ -13964,7 +14086,7 @@ display:inline;
 				{
 					var thisChinese = textBetween(thisLine, "start", "	");
 					
-					var wordLength = thisChinese.length;
+					var wordLength = stringLength(thisChinese);
 					
 					switch (wordLength)
 					{
@@ -13985,7 +14107,7 @@ display:inline;
 		
 		function dictionariesLoaded()
 		{
-			debugLog("dictionariesLoaded");
+			//debugLog("dictionariesLoaded");
 
 			if ((combinedDictionaryData == "") || (combinedDictionaryData == undefined))
 			{
@@ -14122,7 +14244,23 @@ display:inline;
 				//$("#mediaViewer").dialog( "option", "width", 620 );
 			}
 			
-			// If we have parameters
+			// If we have Taiwanese text
+			if ((QueryString.taiwaneseText != "") && (QueryString.taiwaneseText != undefined))
+			{
+				var thisText = QueryString.taiwaneseText;
+				
+				thisText = replaceChars(thisText, "§", "\n");
+			
+			    document.getElementById("chineseTextArea").value = thisText;
+			    document.getElementById("englishTextArea").value = "";
+			    
+			    document.getElementById('pinyinCheckbox').checked = false;
+				document.getElementById('taiwaneseCheckbox').checked = true;
+				
+				loadTaiwaneseAndTranslate("TaiwaneseDictionaryTaiyuNumbers.txt");
+			}
+
+			// If we have Chinese text
 			if ((QueryString.text != "") && (QueryString.text != undefined))
 			{
 				var thisText = QueryString.text;
@@ -14284,7 +14422,7 @@ display:inline;
 			
 				var thisChineseLine = thisChineseLines[currentLine];
 				
-				var numberCharacters = thisChineseLine.length;
+				var numberCharacters = stringLength(thisChineseLine);
 				var lastWasNotChinese = false;
 				var traditionalChineseLine = "";
 				
@@ -14447,7 +14585,7 @@ display:inline;
 					
 					// Translate the characters
 					
-					var thisWordCharacters = thisWord.split("");
+					var thisWordCharacters = stringToCharacterArray(thisWord);
 					var numberCharacters = thisWordCharacters.length;
 					
 					var thisWordSimplified = "";
@@ -14790,7 +14928,7 @@ display:inline;
 			{
 				var thisLine = subtitlesLines[currentLine];
 				
-				var lineLength = thisLine.length;
+				var lineLength = stringLength(thisLine);
 				
 				if (thisLine == "")
 				{
@@ -15100,9 +15238,9 @@ display:inline;
 						
 						var thisPinyinArray = thisCharacterPinyin.split(" ");
 						var thisTonelessArray = thisToneless.split(" ");
-						var thisTonesArray = thisTone.split("");
+						var thisTonesArray = stringToCharacterArray(thisTone);
 						
-						var numberCharacters = thisWordChinese.length;
+						var numberCharacters = stringLength(thisWordChinese);
 						
 						var thisAudioCommand = "";
 						
@@ -15345,7 +15483,7 @@ display:inline;
 			{
 				var thisLine = subtitlesLines[currentLine];
 				
-				var lineLength = thisLine.length;
+				var lineLength = stringLength(thisLine);
 				
 				if (thisLine == "")
 				{
@@ -15763,9 +15901,9 @@ display:inline;
 						
 						var thisPinyinArray = thisCharacterPinyin.split(" ");
 						var thisTonelessArray = thisToneless.split(" ");
-						var thisTonesArray = thisTone.split("");
+						var thisTonesArray = stringToCharacterArray(thisTone);
 						
-						var numberCharacters = thisWordChinese.length;
+						var numberCharacters = stringLength(thisWordChinese);
 						
 						var thisAudioCommand = "";
 						
@@ -16427,9 +16565,9 @@ display:inline;
 					   
 							var thisPinyinArray = thisCharacterPinyin.split(" ");
 							var thisTonelessArray = thisToneless.split(" ");
-							var thisTonesArray = thisTone.split("");
+							var thisTonesArray = stringToCharacterArray(thisTone);
 					   
-							var numberCharacters = thisWordChinese.length;
+							var numberCharacters = stringLength(thisWordChinese);
 					   
 							var thisAudioCommand = "";
 					   

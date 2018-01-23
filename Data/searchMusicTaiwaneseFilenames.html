@@ -1,45 +1,20 @@
 <!--
-	Lyrics search local
-	Peter Burkimsher 2018-01-16
+	Music Filenames search
+	Peter Burkimsher 2017-11-30
+	update using ./musicIndex.sh 
 -->
 
 <!DOCTYPE html>
 <html>
   <head>
-  	<title>Lyrics Search Local</title>
+  	<title>Music Filenames Search</title>
   	  	
 	<meta charset="utf-8" />
     <style>
       body {
         font-family: Tahoma, Geneva, sans-serif;
       }
-
-			.ButtonInner
-			{
-				border: 1px solid black ;
-				border-radius: 5px;
-				background-color: #dcdbde;
-				width: 88px;
-				height: 18px;
-				text-align: center;
-				margin: 3px;
-			
-				line-height: 18px;
-				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
-				font-size: 11px;
-				color: #000000;
-			}
-		
-			.ButtonInner:active
-			{
-				background:#666666;
-				color: #ffffff;
-			}
-
     </style>
-    
-	<link rel="apple-touch-icon-precomposed" href="../images/pingtypeLogo256.png" />
-    
   </head>
   
   <body>
@@ -181,16 +156,17 @@
 		thisText = replaceChars(thisText, "禰", "你");
 		thisText = replaceChars(thisText, "她", "他");
 		thisText = replaceChars(thisText, "祂", "他");
-
+		
 		return thisText;
 	} // end function dehomonym
+
 
 	function searchLyrics(searchText)
 	{
 		var resultsHtml = "";
 		
 		var songsArray = lyricsData.split("\n");
-		
+
 		var lyricsDataDespacedDeradicalised = replaceChars(lyricsData, " ", "");
 		lyricsDataDespacedDeradicalised = deradicalize(lyricsDataDespacedDeradicalised);
 		lyricsDataDespacedDeradicalised = dehomonym(lyricsDataDespacedDeradicalised);
@@ -203,34 +179,14 @@
 		
 		for (var currentSong = 0; currentSong < numberSongs; currentSong++)
 		{
-			var thisSongText = songsArray[currentSong];
+			var thisSongTitle = songsArray[currentSong];
+			var thisSongTitleDespacedDeradicalised = songsDespacedDeradicalisedArray[currentSong];
 			
-			var thisSongTextDespacedDeradicalised = songsDespacedDeradicalisedArray[currentSong];
-			
-			var thisSongHtml = replaceChars(thisSongText, "§", "<br></br>");
-
-			var thisDelimiter = "	";
-			
-			if (contains(thisSongHtml, thisDelimiter) == false)
-			{
-				thisDelimiter = ".txt";
-			}
-
-			var thisSongTitle = textBetween(thisSongHtml, "start", thisDelimiter);
-
-			thisSongHtml = textBetween(thisSongHtml, thisDelimiter, "end");
-			
-			if (contains(thisSongTitle, "Taiwanese"))
-			{
-				thisSongTitle = "<a href=\"../index.html?taiwaneseText=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
-			} else {
-				thisSongTitle = "<a href=\"../index.html?text=" + thisSongText + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
-			}
+			var thisSongHtml = "<a href=\"../index.html?taiwaneseFile=Data/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
 			//thisSongTitle = replaceChars(thisSongTitle, ".txt", ".html") 
 			//var thisSongHtml = "<a href=\"Cache/" + thisSongTitle + "\" target=_blank>" + thisSongTitle + "</a><br></br>";
-			thisSongHtml = thisSongTitle + thisSongHtml;
 
-			if (contains(thisSongText, searchText) == true)
+			if (contains(thisSongTitle, searchText) == true)
 			{
 				
 				resultsHtml = resultsHtml + thisSongHtml;
@@ -247,9 +203,8 @@
 					}
 				} else {
 					var searchTextDespace = replaceChars(searchText, " ", "");
-					searchTextDespace = dehomonym(searchTextDespace);
-	
-					if (contains(thisSongTextDespacedDeradicalised, searchTextDespace) == true)
+					
+					if (contains(thisSongTitleDespacedDeradicalised, searchTextDespace) == true)
 					{
 						resultsHtml = resultsHtml + thisSongHtml;
 					} // end if despaced & deradicalised contains
@@ -263,7 +218,7 @@
 		document.getElementById("resultsHtml").innerHTML = resultsHtml;
 		
 	} // end function searchLyrics
-	
+
 	function deradicaliseAndSearch(filename, searchText)
 	{
 		var xmlhttp = new XMLHttpRequest();
@@ -294,18 +249,34 @@
 		xmlhttp.send();
 	
 	} // end function deradicaliseAndSearch
-	
-	function searchLocalStorage(searchText)
+
+
+	function searchFile(filename, searchText)
 	{
-		lyricsData = localStorage["lyricsData"];
-		
-		if ((lyricsData == "") || (lyricsData == undefined))
-		{
-			document.write("Paste lyrics index into the text field and click Save<p></p><textarea id=\"lyricsArea\"></textarea><p></p><div class=\"ButtonInner\" onclick=\"var lyricsData=document.getElementById('lyricsArea').value;localStorage['lyricsData']=lyricsData;\" style=\"width:70px\">Save</div>");
-		} else {
-			deradicaliseAndSearch("../radicals.txt", searchText);
-		}
-		
+		var xmlhttp = new XMLHttpRequest();
+
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+			   if (xmlhttp.status == 200) 
+			   {
+					
+					lyricsData = xmlhttp.responseText;
+										
+					deradicaliseAndSearch("../radicals.txt", searchText);
+					
+			   } // end if it loaded the KML
+			   else if (xmlhttp.status == 400) {
+				  alert('error loading index');
+			   }
+			   else {
+				   alert('error loading index');
+			   }
+			}
+		};
+
+		xmlhttp.open("GET", filename, true);
+		xmlhttp.send();
+			
 	} // end function searchFile
 
 		var QueryString = function () 
@@ -333,7 +304,7 @@
 		}();
 	
 	var searchText = "";
-
+	
 	if ((QueryString.q == "") || (QueryString.q == undefined))
 	{
 		var searchText = prompt("Search");
@@ -351,16 +322,8 @@
 		}
 	} else {
 		searchText = QueryString.q;
-		
-		if (searchText == "reload")
-		{
-			localStorage["lyricsData"] = "";
-			searchLocalStorage(searchText);
-		} else {
-			searchLocalStorage(searchText);
-		}
+		searchFile("musicFilenamesTaiwanese.txt", searchText);
 	}
-	
 	
   </script>
   
