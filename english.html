@@ -1444,6 +1444,12 @@
 						englishText = xmlhttp.responseText;
 						document.getElementById("englishTextArea").value = englishText;
 					    
+					    englishText=replaceChars(englishText, "\r", "\n");
+					    
+					    //translateInterface();
+					    
+					    translateBilingualInterface();
+					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
 					  alert('There was an error 400');
@@ -1458,6 +1464,88 @@
 			xmlhttp.send();
 				
 		} // end loadEnglish
+		
+		function loadBilingual(filename)
+		{
+			//debugLog("loadChinese(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						var bilingualFileText = xmlhttp.responseText;
+						
+						var chineseFileText = "";
+						var englishFileText = "";
+						
+						var inputLines = bilingualFileText.split("\n");
+		   
+						var numberLines = inputLines.length;
+		   
+						var outputHtml = "";
+						var outputText = "";
+		   
+						var lastEnglishLine = "";
+		   
+						var lastWasEnglish = false;
+
+						for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
+						{
+							var thisLine = inputLines[currentLine];
+			   
+							if (thisLine == "")
+							{
+								if (lastWasEnglish == false)
+								{
+									chineseFileText = chineseFileText + "\n";
+									englishFileText = englishFileText + "\n";
+								}
+				   
+								outputHtml = outputHtml + "\n<br></br>";
+								outputText = outputText + "\n";
+				   
+							} else {
+								if (containsChineseString(thisLine) == true)
+								{
+									lastWasEnglish = false;
+
+									chineseFileText = chineseFileText + thisLine + "\n";
+
+								} else {
+				   
+									englishFileText = englishFileText + thisLine + "\n";
+				   
+									lastWasEnglish = true;
+				   
+								} // end if the line contains chinese
+							} // end if the line is not blank
+							   
+						} // end for every line
+						
+						document.getElementById("chineseTextArea").value = chineseFileText;
+						document.getElementById("englishTextArea").value = englishFileText;
+
+						translateButtonClicked();
+
+				   } // end if it loaded the file
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading bilingual file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadBilingual
+
+
 		
 		function dictionaryToWordLengths()
 		{
@@ -1552,6 +1640,16 @@
 
 			    loadChinese(chineseUrl);
 			}
+
+			// If we have a bilingual file
+			if ((QueryString.bilingualFile != "") && (QueryString.bilingualFile != undefined))
+			{
+				//var chineseUrl = encodeURI(QueryString.chineseFile);
+				var bilingualUrl = QueryString.bilingualFile;
+
+			    loadBilingual(bilingualUrl);
+			}
+
 
 			// If we have parameters
 			if ((QueryString.text != "") && (QueryString.text != undefined))
@@ -1721,7 +1819,7 @@
 		{
 			//debugLog("isEnglish(" + thisCharacter + ")");
 
-			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-";
 			
 			if (contains(alphabet, thisCharacter) == true)
 			{
@@ -2576,6 +2674,144 @@
 
     	} // end function translateButtonClicked
     	
+		function translateBilingual(inputText)
+		{
+			//debugLog("translateBilingual");
+			
+			var inputLines = inputText.split("\n");
+			
+			var numberLines = inputLines.length;
+			
+			var outputHtml = "";
+			var outputText = "";
+			
+			var lastEnglishLine = "";
+			
+			var lastWasEnglish = false;
+
+			for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
+			{
+				var thisLine = inputLines[currentLine];
+								
+				if (thisLine == "")
+				{
+					if (lastWasEnglish == false)
+					{
+						outputHtml = outputHtml + "</p>";
+					}
+					
+					outputHtml = outputHtml + "\n<br></br>";
+					outputText = outputText + "\n";
+					
+				} else {
+					if (containsEnglishString(thisLine) == true)
+					{
+						lastWasEnglish = false;
+
+						var translationOutput = translateText(thisLine, "");
+						
+						var translationHtmlEnglish = translationOutput[0];
+						
+						translationHtmlEnglish = replaceChars(translationHtmlEnglish, "</p>", "");
+					
+						outputHtml = outputHtml + "\n" + translationHtmlEnglish;
+						outputText = outputText + "\n" + translationOutput[1];	
+					} else {
+						if (thisLine == "§")
+						{
+							thisLine = "";
+						}
+						
+						var thisChineseHtml = "<div class=\"chinese\">" + thisLine + "</div></p>";
+											
+						outputHtml = outputHtml + "\n" + thisChineseHtml;
+						outputText = outputText + "\n" + thisLine;
+					
+						lastWasEnglish = true;
+					
+					} // end if the line contains english
+				} // end if the line is not blank
+				
+				/*
+				var thisLineCharacters = thisLine.split("");
+				var numberCharacters = thisLineCharacters.length;
+				
+				var lineHasChinese = false;
+
+				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+				{
+					var thisCharacter = thisLineCharacters[currentCharacter];
+					
+					if (isChinese(thisCharacter))
+					{
+						lineHasChinese = true;
+						
+						// Exit the loop
+						currentCharacter = numberCharacters;
+					} // end if the character is Chinese
+				} // end for every character on the line
+				
+				if (lineHasChinese == true)
+				{
+					var translationOutput = translateText(thisLine, lastEnglishLine);
+					
+					outputHtml = outputHtml + "\n" + translationOutput[0];
+					outputText = outputText + "\n" + translationOutput[1];			
+					
+					lastEnglishLine = "";
+					
+				} else {
+					
+					if (thisLine == "")
+					{
+						outputHtml = outputHtml + "\n" + "<br></br><br></br>";
+						outputText = outputText + "\n\n";
+					}
+					
+					if (lastEnglishLine == "")
+					{
+						lastEnglishLine = thisLine;
+					} else {
+						outputHtml = outputHtml + "\n" + "<p>" + lastEnglishLine + "</p>";
+						outputText = outputText + "\n" + lastEnglishLine;
+						
+						lastEnglishLine = thisLine;
+					}
+				} // end if the line has a Chinese character
+				*/
+				
+			} // end for every line
+			
+			//outputText = replaceChars(outputText, "\n\n", "\n");
+			
+			return [outputHtml, outputText];
+			
+		} // end function translateBilingual
+		
+		function translateBilingualInterface()
+		{
+			//debugLog("translateBilingualInterface");
+			
+			var inputText = document.getElementById("englishSpacedTextArea").value;
+			
+			if (inputText == "")
+			{
+				inputText = document.getElementById("englishTextArea").value;
+				inputText = wordSpace(inputText);
+			}
+			
+			var translations = translateBilingual(inputText);
+			
+			var outputHtml=translations[0];
+			var outputText=translations[1];
+			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+			
+		} // end function translateBilingualInterface 
+
+    	
 		// translateInterface - Read values from the GUI, set them, and do a translation
 		function translateInterface()
 		{
@@ -2586,7 +2822,7 @@
 			if (inputText == "")
 			{
 				inputText = document.getElementById("englishTextArea").value;
-				inputText = wordSpace(englishText);
+				inputText = wordSpace(inputText);
 				
     			document.getElementById("englishSpacedTextArea").value = inputText;
 			}
@@ -4347,6 +4583,7 @@
 			window.open("https://translate.google.com/#en/zh-TW/" + thisChinese,'_blank');
 		} // end function googleTranslatePhraseButtonClicked
 		
+
 		
 		function advancedButtonClicked()
 		{
