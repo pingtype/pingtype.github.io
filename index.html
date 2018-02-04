@@ -588,7 +588,6 @@ color:#000000;
 display:inline;
       }
 
-
 		.DefaultButtonOuter
 		{
 			border: 2px solid black ;
@@ -1153,6 +1152,11 @@ display:inline;
 						Memory search
 					</div>
 				</td>
+				<td>
+					<div id="cursorButton" class="ButtonInner advanced" onclick="showCursorButtonClicked();" style="width:60px;visibility:hidden">
+						Cursor
+					</div>
+				</td>
 			</tr>
 		</table>
 	
@@ -1512,7 +1516,7 @@ display:inline;
 						Taiwanese
 					</td>
 					<td>
-						<input class="jscolor" id="taiwaneseColourPickerOne" value="797986" onchange="updateColours();">
+						<input class="jscolor" id="taiwaneseColourPickerOne" value="999999" onchange="updateColours();">
 					</td>
 					<td>
 						<input class="jscolor" id="taiwaneseColourPickerTwo" value="178FD1" onchange="updateColours();">
@@ -1637,7 +1641,7 @@ display:inline;
 
 	<div id="drawing" style="width: 0px; height: 0px;"></div>
 
-	<table id="decomposeTable" style="font-size: 32px;">
+	<table id="decomposeTable" style="font-size: 32px;font-family: 'Pingfang', 'Jhenghei', 'HanaMinB', 'Heiti TC Light', 'Tahoma', 'Geneva', sans-serif;">
 
 		
 
@@ -1724,7 +1728,7 @@ display:inline;
 									<td><div class="key" onclick="typeCharacter('n')">n</div></td>
 									<td><div class="key" onclick="typeCharacter('m')">m</div></td>
 									<td><div class="key" onclick="typeCharacter('delete')">⌫</div></td>
-									<td><div class="key" onclick="searchCharacter()">⏎</div></td>
+									<td><div class="key" onclick="searchPinyinButtonClicked()">⏎</div></td>
 								</tr>
 							</table>
 							<table style="margin-left:90px">
@@ -1734,7 +1738,6 @@ display:inline;
 							</table>
 						 </div>
 					</td>
-					
 					
 					<td>
 						<div id="radicalKeyboard" style="width:0px;height:0px;visibility:hidden">
@@ -1917,6 +1920,23 @@ display:inline;
 							   <td><div onclick="typeCharacter('虜')">虜</div></td>
 							   <td><div onclick="typeCharacter('𦵏')">𦵏</div></td>
 							 </tr>
+						   <tr>
+							   <td><div onclick="typeCharacterBefore('⿰')">⿰</div></td>
+							   <td><div onclick="typeCharacterBefore('⿱')">⿱</div></td>
+							   <td><div onclick="typeCharacterBefore('⿲')">⿲</div></td>
+							   <td><div onclick="typeCharacterBefore('⿳')">⿳</div></td>
+							   <td><div onclick="typeCharacterBefore('⿴')">⿴</div></td>
+							   <td><div onclick="typeCharacterBefore('⿵')">⿵</div></td>
+							   <td><div onclick="typeCharacterBefore('⿶')">⿶</div></td>
+							   <td><div onclick="typeCharacterBefore('⿷')">⿷</div></td>
+							   <td><div onclick="typeCharacterBefore('⿸')">⿸</div></td>
+							   <td><div onclick="typeCharacterBefore('⿹')">⿹</div></td>
+							   <td><div onclick="typeCharacterBefore('⿺')">⿺</div></td>
+							   <td><div onclick="typeCharacterBefore('⿻')">⿻</div></td>
+							   <td><div onclick="typeCharacterBefore('.')">.</div></td>
+							   <td><div onclick="typeCharacterBefore('.*')">.*</div></td>
+						   </tr>
+							
 					  </table>
 						 </div>
     				</td>
@@ -1999,7 +2019,7 @@ display:inline;
 				<table>
 					<tr>
 						<td>	
-							<textarea id="startCharacter" name="startCharacter" rows="2" cols="5" style="font-size: 32px;">隹</textarea>
+							<textarea id="startCharacter" name="startCharacter" rows="2" cols="6" style="font-size: 32px;font-family: 'Pingfang', 'Jhenghei', 'HanaMinB', 'Heiti TC Light', 'Tahoma', 'Geneva', sans-serif;">隹</textarea>
 						</td>
 						
 						<td>
@@ -2014,18 +2034,18 @@ display:inline;
 										</div>
 									</td>
 									<td>
+										<div id="searchPinyinButton" class="ButtonInner advanced" onclick="searchPinyinButtonClicked();" style="visibility:hidden">
+										Pinyin
+										</div>
+									</td>
+									<td>
 										<div id="drawGenealogyButton" class="ButtonInner advanced" onclick="drawGenealogyButtonClicked();" style="visibility:hidden">
 										Genealogy 家譜
 										</div>
 									</td>
 									<td>
-										<div id="hexButton" class="ButtonInner regional" onclick="searchHexButtonClicked();" style="visibility:hidden">
-											Hex
-										</div>
-									</td>
-									<td>
-										<div id="hangulButton" class="ButtonInner regional" onclick="searchHangulButtonClicked();" style="visibility:hidden">
-											Hangul
+										<div id="wadeGilesButton" class="ButtonInner regional" onclick="searchWadeGilesButtonClicked();" style="visibility:hidden">
+											Wade-Giles
 										</div>
 									</td>
 									<td>
@@ -2048,13 +2068,13 @@ display:inline;
 										</div>
 									</td>
 									<td>
-										<div id="unitypeButton" class="ButtonInner regional" onclick="searchUnitypeButtonClicked();" style="visibility:hidden">
-											Unitype
+										<div id="hexButton" class="ButtonInner regional" onclick="searchHexButtonClicked();" style="visibility:hidden">
+											Hex
 										</div>
 									</td>
 									<td>
-										<div id="japaneseButton" class="ButtonInner regional" onclick="searchJapaneseButtonClicked();" style="visibility:hidden">
-											Japanese
+										<div id="hangulButton" class="ButtonInner regional" onclick="searchHangulButtonClicked();" style="visibility:hidden">
+											Hangul
 										</div>
 									</td>
 									<td>
@@ -2076,8 +2096,13 @@ display:inline;
 										</div>
 									</td>
 									<td>
-										<div id="wadeGilesButton" class="ButtonInner regional" onclick="searchWadeGilesButtonClicked();" style="visibility:hidden">
-											Wade-Giles
+										<div id="unitypeButton" class="ButtonInner regional" onclick="searchUnitypeButtonClicked();" style="visibility:hidden">
+											Unitype
+										</div>
+									</td>
+									<td>
+										<div id="japaneseButton" class="ButtonInner regional" onclick="searchJapaneseButtonClicked();" style="visibility:hidden">
+											Japanese
 										</div>
 									</td>
 									<td>
@@ -2106,7 +2131,7 @@ display:inline;
 							<div id="charCode"></div>
 						</td>
 						<td>
-							<div id="pinyin"></div>
+							<div id="pinyin" style="font-family: 'Heiti TC Light', 'Tahoma', 'Geneva', sans-serif;"></div>
 						</td>
 						<td>
 							<div id="definition"></div>
@@ -2118,7 +2143,7 @@ display:inline;
     	
 		<tr>
 			<td>
-				<div id="childCharacters">
+				<div id="childCharacters" style="font-family: 'Pingfang', 'Jhenghei', 'HanaMinB', 'Heiti TC Light', 'Tahoma', 'Geneva', sans-serif;">
 				
 				</div>
 			</td>
@@ -2126,7 +2151,7 @@ display:inline;
 
 		<tr>
 			<td>
-				<div id="characterWords">
+				<div id="characterWords" style="font-family: 'Pingfang', 'Jhenghei', 'HanaMinB', 'Heiti TC Light', 'Tahoma', 'Geneva', sans-serif;">
 				
 				</div>
 			</td>
@@ -2676,6 +2701,10 @@ display:inline;
 		
 	</div>
 
+	<!-- Cursor dialog -->
+	<div id="cursor" title="cursor" style="visibility:hidden">
+	
+	</div>
 
 	<!-- Slide viewer dialog -->
 	<div id="slideViewer" title="Slide Viewer" style="visibility:hidden">
@@ -2791,7 +2820,61 @@ display:inline;
 											<td>
 												<div id="nextPauseTimesButton" class="ButtonInner" style="width:30px" onclick="nextPauseTimesButtonClicked();">
 													>>
-											</div>
+												</div>
+											</td>
+											<td>
+												<textarea id="dictionaryEditorMediaViewerChineseTextArea" rows="1" cols="6" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 20px;"></textarea>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerCharsButton" class="ButtonInner" onclick="dictionaryEditorCharsButtonClicked();" style="width:100px">
+													Chars to Pinyin
+												</div>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerSearchKey" class="key" onclick="dictionaryEditorSearch()">🔍</div>
+											</td>
+											<td>
+												<textarea id="dictionaryEditorMediaViewerPinyinTextArea" rows="2" cols="12" style="background-color: #ffffff;resize: none;"></textarea>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerNumbersToMarksButton" class="ButtonInner" onclick="toneNumbersToToneMarks();" style="width:70px">
+													# to marks
+												</div>
+											</td>
+											<td>
+												<textarea id="dictionaryEditorMediaViewerEnglishTextArea" rows="2" cols="12" style="background-color: #ffffff;resize: none;"></textarea>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerGoogleTranslateButton" class="ButtonInner" onclick="dictionaryEditorGoogleTranslateButtonClicked();" style="width:60px">
+													Google
+												</div>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerGoogleTransPyButton" class="ButtonInner" onclick="dictionaryEditorGoogleTransPyButtonClicked();" style="width:40px" style="visibility:hidden">
+													GtPy
+												</div>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerGoogleTransProxyButton" class="ButtonInner" onclick="dictionaryEditorGoogleTransProxyButtonClicked();" style="width:40px" style="visibility:hidden">
+													GtPx
+												</div>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerAddButton" class="ButtonInner" onclick="dictionaryEditorAddButtonClicked();" style="width:40px">
+													Add
+												</div>
+											</td>
+											<td>
+												<div id="dictionaryEditorMediaViewerRemoveButton" class="ButtonInner" onclick="dictionaryEditorRemoveButtonClicked();" style="width:70px">
+													Remove
+												</div>
+											</td>
+											<td>
+												<div id="defaultRetranslateButtonMediaViewer" class="DefaultButtonOuter">
+													<div id="retranslateMediaViewerButton" class="ButtonInner" style="width:88px" onclick="translateButtonClicked();">
+														Retranslate
+													</div>
+												</div>
 											</td>
 										</tr>
 									</table>
@@ -2885,6 +2968,7 @@ display:inline;
 		var commonWords = "";
 		var bopomofoData;
 		var reviewingTheHanziData = "\n";
+		var idsData;
 		
 		var taiwaneseData = "";
 		var cantoneseData = "";
@@ -2923,7 +3007,8 @@ display:inline;
 		var addWords = localStorage["addWords"];
 		var editWords = localStorage["editWords"];
 		var removeWords = localStorage["removeWords"];
-
+		
+		var cursorTargetElementId;
 
 		var Base64 = {
 		// private property
@@ -3553,6 +3638,7 @@ display:inline;
 						thisEnglish = thisEnglish.toLowerCase();
 						
 						document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
+						document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
@@ -3586,6 +3672,7 @@ display:inline;
 						thisPinyin = thisPinyin.toLowerCase();
 						
 						document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+						document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
 					    
 					    loadGoogleTransPyTranslation(thisChinese);
 					    
@@ -3621,8 +3708,13 @@ display:inline;
 						var thisPinyin = textBetween(thisResponse, "transliteration\":\"", "\"");
 						var thisEnglish = textBetween(thisResponse, "translation\":\"", "\"");
 						
+						thisPinyin = thisPinyin.toLowerCase();
+						
 						document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
 						document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
+
+						document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+						document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
 					    
 					    loadGoogleTransPyTranslation(thisChinese);
 					    
@@ -3660,7 +3752,7 @@ display:inline;
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('error loading taiwanese');
+					   alert('error loading taiwan regional');
 				   }
 				}
 			};
@@ -3782,6 +3874,34 @@ display:inline;
 			xmlhttp.send();
 				
 		} // end loadBopomofo
+
+		function loadIds(filename)
+		{
+			//debugLog("loadIds(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						idsData = xmlhttp.responseText;
+					    
+				   } // end if it loaded the file
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading ids');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadIds
 		
 		function loadReviewingTheHanzi(filename)
 		{
@@ -4568,6 +4688,11 @@ display:inline;
 		// From https://mathiasbynens.be/notes/javascript-unicode
 		function stringLength(thisString)
 		{
+			if (thisString.length == 0)
+			{
+				return 0;
+			}
+		
 			var regexAstralSymbols = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
 
 			return thisString
@@ -4876,6 +5001,27 @@ display:inline;
 			
 			return stringIsBopomofo;
 		} // end function isBopomofoString
+		
+		function isIdsString(thisString)
+		{
+			//debugLog("isIdsString(" + thisString + ")");
+			
+			var idsCharacters = "⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻";
+			
+			var numberCharacters = idsCharacters.length;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisIdsCharacter = idsCharacters[currentCharacter];
+				
+				if (contains(thisString, thisIdsCharacter) == true)
+				{
+					return true;
+				}
+			} // end for every IDS character
+			
+			return false;
+		} // end function isIdsString
 		
 		// Check if a value is a number
 		function isNumeric(n) 
@@ -5210,7 +5356,7 @@ display:inline;
 			
 			var thisBopomofoArray = stringToCharacterArray(thisBopomofoString);
 			
-			var numberBopomofo = stringLength(thisBopomofoArray);
+			var numberBopomofo = thisBopomofoArray.length;
 			
 			for (var currentBopomofo = 0; currentBopomofo < numberBopomofo; currentBopomofo++)
 			{
@@ -5796,7 +5942,7 @@ display:inline;
 			
 		} // end function getTaiwaneseTonesHtml
 		
-		function getTaiwaneseHtml(theseWordsChinese, theseWordsTaiwanese)
+		function getTaiwaneseHtml(theseWordsChinese, theseWordsTaiwanese, currentLine, currentLineTaiwaneseWord)
 		{
 			//debugLog("getTaiwaneseHtml(" + theseWordsChinese + "," + theseWordsTaiwanese + ")");
 			
@@ -5846,16 +5992,16 @@ display:inline;
 				
 				if (numberTones < numberWords)
 				{
-					taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese);
+					taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese, currentLine, currentLineTaiwaneseWord);
 				} else {
-					for (var currentWord = 0; currentWord < numberWords; currentWord++)
+					for (var currentCharacter = 0; currentCharacter < numberWords; currentCharacter++)
 					{
-						var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
-						var thisCharacterTaiwaneseTone = thisTaiwaneseTonesArray[currentWord];
+						var thisCharacterTaiwanese = thisTaiwaneseArray[currentCharacter];
+						var thisCharacterTaiwaneseTone = thisTaiwaneseTonesArray[currentCharacter];
 					
 						//debugLog(thisCharacterTaiwanese + "," + thisCharacterTaiwaneseTone);
 					
-						if (currentWord >= numberTaiwaneseWords)
+						if (currentCharacter >= numberTaiwaneseWords)
 						{
 							thisCharacterTaiwanese = "";
 						}
@@ -5869,7 +6015,10 @@ display:inline;
 						}
 					
 						thisTaiwaneseHtmlWord = "<div ";
-					
+						
+						var pojId = "pojLine" + currentLine + "Word" + currentLineTaiwaneseWord + "Character" + currentCharacter;
+						
+						thisTaiwaneseHtmlWord = thisTaiwaneseHtmlWord + "id=\"" + pojId + "\" ";
 					
 						if (mouseoverText != "")
 						{
@@ -5885,16 +6034,16 @@ display:inline;
 				} // end if numberTones < numberTaiwaneseWords then automatically charsToPoj
 				
 			} else {
-				taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese);
+				taiwaneseHtmlWords = getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese, currentLine, currentLineTaiwaneseWord);
 			} // end if the word is in the dictionary	
 						
 			return taiwaneseHtmlWords;
 			
 		} // end function getTaiwaneseHtml
 		
-		function getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese)
+		function getTaiwaneseHtmlCharacters(theseWordsChinese, theseWordsTaiwanese, currentLine, currentLineTaiwaneseWord)
 		{
-			debugLog("getTaiwaneseHtmlCharacters(" + theseWordsChinese + ", " + theseWordsTaiwanese + ")");
+			//debugLog("getTaiwaneseHtmlCharacters(" + theseWordsChinese + ", " + theseWordsTaiwanese + ")");
 
 			var taiwaneseHtmlWords = "";
 
@@ -5903,14 +6052,14 @@ display:inline;
 			var numberWords = thisChineseArray.length;
 			var numberTaiwaneseWords = thisTaiwaneseArray.length;
 							
-			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			for (var currentCharacter = 0; currentCharacter < numberWords; currentCharacter++)
 			{
-				var thisCharacterChinese = thisChineseArray[currentWord];
-				var thisCharacterTaiwanese = thisTaiwaneseArray[currentWord];
+				var thisCharacterChinese = thisChineseArray[currentCharacter];
+				var thisCharacterTaiwanese = thisTaiwaneseArray[currentCharacter];
 				
 				//debugLog(thisCharacterChinese);
 				
-				if (currentWord >= numberTaiwaneseWords)
+				if (currentCharacter >= numberTaiwaneseWords)
 				{
 					thisCharacterTaiwanese = "";
 				}
@@ -5918,7 +6067,9 @@ display:inline;
 				var thisTaiwaneseTone = 1;
 				
 				var thisTaiwaneseHtmlWord = "";
-									
+
+				var pojId = "pojLine" + currentLine + "Word" + currentLineTaiwaneseWord + "Character" + currentCharacter;
+
 				if (dictionaryContainsTaiwanese(thisCharacterChinese) == true)
 				{
 					thisTaiwaneseTone = textBetween(taiwaneseData, "\n" + thisCharacterChinese + "	","\n");
@@ -5926,11 +6077,11 @@ display:inline;
 					thisTaiwaneseTone = textBetween(thisTaiwaneseTone, "	","end");
 					
 					thisTaiwaneseHtmlWord = getTaiwaneseTonesHtml(thisCharacterTaiwanese, thisTaiwaneseTone);
-					
-					thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisTaiwaneseHtmlWord + "</div>";
+
+					thisTaiwaneseHtmlWord = "<div id=\"" + pojId + "\" class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisTaiwaneseHtmlWord + "</div>";
 					
 				} else {
-					thisTaiwaneseHtmlWord = "<div class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisCharacterTaiwanese + "</div>";
+					thisTaiwaneseHtmlWord = "<div id=\"" + pojId + "\" class=\"taiwanese_" + thisTaiwaneseTone + "\">" + thisCharacterTaiwanese + "</div>";
 				}
 				
 				//debugLog(thisTaiwaneseHtmlWord);
@@ -7032,6 +7183,47 @@ display:inline;
 			
 		} // end function searchDictionary
 		
+		
+		function litManLineToHtml(litManLine, currentLitManLine)
+		{
+			// debugLog(litManLineToHtml)
+			
+			var litManHtmlLine = "";
+			
+			var litManLineWords = litManLine.split(" ");
+			var numberLitManLineWords = litManLineWords.length;
+			
+			for (var currentLitManLineWord = 0; currentLitManLineWord < numberLitManLineWords; currentLitManLineWord++)
+			{
+				var thisLitManLineWord = litManLineWords[currentLitManLineWord];
+				
+				litManHtmlLine = litManHtmlLine + "<td>";
+				
+				var litManLineWordCharacters = thisLitManLineWord.split("-");
+				var numberthisLitManLineWordCharacters = litManLineWordCharacters.length;
+				
+				for (var currentLitManLineWordCharacter = 0; currentLitManLineWordCharacter < numberthisLitManLineWordCharacters; currentLitManLineWordCharacter++)
+				{
+					 var thisLitManLineWordCharacter = litManLineWordCharacters[currentLitManLineWordCharacter];
+				
+					litManHtmlLine = litManHtmlLine + "<span id=\"litManLine" + currentLitManLine + "Word" + currentLitManLineWord + "Character" + currentLitManLineWordCharacter + "\">" + thisLitManLineWordCharacter;
+					
+					if (numberthisLitManLineWordCharacters > (currentLitManLineWordCharacter + 1))
+					{
+						litManHtmlLine = litManHtmlLine + "-";
+					}
+					
+					litManHtmlLine = litManHtmlLine + "</div>";
+				}
+
+				litManHtmlLine = litManHtmlLine + "</td>";
+				
+			} // end for every litMan word
+			
+			return litManHtmlLine;
+		
+		} // end function litManLineToHtml
+		
 		// translateText - translate Chinese to English
 		function translateText(inputText, englishText)
 		{		
@@ -7108,6 +7300,8 @@ display:inline;
 				var pageBreaksLine = pageBreaksTextArea.value;
 			} // end if addPageBreaks
 			
+			var currentLitManLine = 0;
+			
 			for (var currentLine = 0; currentLine < numberLines; currentLine++)
 			{
 				var thisLine = inputArray[currentLine];
@@ -7131,7 +7325,7 @@ display:inline;
 				
 				if (addLitMan == true)
 				{
-					var litManLine = litManArray[currentLine];
+					var litManLine = litManArray[currentLitManLine];
 				} // end if litMan
 				
 				var chinesePlainLine = "";
@@ -7202,6 +7396,9 @@ display:inline;
 					var thisSimplifiedWords = simplifiedLine.split(" ");
 				} // end if addSimplified
 				
+				var currentLineChineseWord = 0;
+				var currentLineTaiwaneseWord = 0;
+				
 				var numberLineWords = thisLineWords.length;
 				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
 				{
@@ -7251,6 +7448,7 @@ display:inline;
 					if (addTaiwanese == true)
 					{
 						var taiwaneseHtmlWord = "";
+						
 					} // end if addTaiwanese
 					
 					if (addCantonese == true)
@@ -7373,7 +7571,8 @@ display:inline;
 								thisTaiwaneseWordArray = thisTaiwaneseWord.split(" ");
 							}
 							
-							taiwaneseHtmlWord = getTaiwaneseHtml(thisWord, thisTaiwaneseWord);
+							taiwaneseHtmlWord = getTaiwaneseHtml(thisWord, thisTaiwaneseWord, currentLine, currentLineTaiwaneseWord);
+							currentLineTaiwaneseWord = currentLineTaiwaneseWord + 1;
 							
 							taiwaneseText = taiwaneseText + thisTaiwaneseWord + " ";
 						} // end if addTaiwanese
@@ -7443,7 +7642,8 @@ display:inline;
 								}
 							} // end set the tone
 							
-							var chineseCharacterHtml = "<div class=\"chinese_" + thisCharacterTone + "\">" + thisCharacterChinese + "</div>";
+							var chineseCharacterId = "chineseLine" + currentLine + "Word" + currentLineChineseWord + "Character" + currentWordCharacter;
+							var chineseCharacterHtml = "<div id=\"" + chineseCharacterId + "\" class=\"chinese_" + thisCharacterTone + "\">" + thisCharacterChinese + "</div>";
 							
 							if (hashOut == true)
 							{
@@ -7496,13 +7696,15 @@ display:inline;
 								
 							} // end if addBopomofo
 							
+							var pinyinId = "pinyinLine" + currentLine + "Word" + currentLineChineseWord + "Character" + currentWordCharacter;
+
 							if (pinyinSize == true)
 							{
 								var pinyinSized = getPinyinSized(thisCharacterPinyin, thisCharacterTone);
-								pinyinHtmlWord = pinyinHtmlWord + "<div class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
+								pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
 								
 							} else {
-								pinyinHtmlWord = pinyinHtmlWord + "<div class=\"pinyin_" + thisCharacterTone + "\">" + thisCharacterPinyin + "</div> ";
+								pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + thisCharacterPinyin + "</div> ";
 							}
 														
 							if (addWadeGiles == true)
@@ -7615,7 +7817,19 @@ display:inline;
 						} // end if addVietnamese
 						
 						
-						translatedHtml = translatedHtml + " " + "<div class=\"literal\">" + thisDefinition + "</div>";
+						
+						var thisDefinitionWordsArray = thisDefinition.split(" ");
+						var numberDefinitionWords = thisDefinitionWordsArray.length;
+						
+						for (var currentDefinitionWord = 0; currentDefinitionWord < numberDefinitionWords; currentDefinitionWord++)
+						{
+							var thisDefinitionWord = thisDefinitionWordsArray[currentDefinitionWord];
+							
+							var literalId = "literalLine" + currentLine + "Word" + currentLineChineseWord + "Character" + currentDefinitionWord;
+							translatedHtml = translatedHtml + " " + "<div id=\"" + literalId + "\"class=\"literal\">" + thisDefinitionWord + "</div>";
+							
+						} // end for every english word in the literal translation
+						
 						
 						chineseLength = stringLength(chineseTextWord) * 2;
 						
@@ -7659,6 +7873,9 @@ display:inline;
 								}
 							} // end if the word is not blank
 						} // end if addCommon
+						
+						currentLineChineseWord = currentLineChineseWord + 1;
+						
 					} else {
 						
 						// If the word is not blank
@@ -8050,8 +8267,15 @@ display:inline;
 				{
 					if (litManLine != undefined)
 					{
-						var litManHtml = "<tr><td>" + replaceChars(litManLine, " ", "</td><td>") + "</td></tr>";
+						var litManHtml = "<tr id=\"litManLine" + currentLitManLine + "\" class=\"litManLine\">";
+						
+						litManHtml = litManHtml + litManLineToHtml(litManLine, currentLitManLine);
+						
+						litManHtml = litManHtml + "</tr>";
+						
 						outputHtml = outputHtml + litManHtml + "\n";
+						
+						currentLitManLine = currentLitManLine + 1;
 					}
 				} // end if litMan
 
@@ -8099,7 +8323,29 @@ display:inline;
 
 				if (addEnglish == true)
 				{
-					outputHtml = outputHtml + "<div class=\"english\">" + englishLine + "</div>\n";
+				
+					var englishLineArray = englishLine.split(" ");
+					var numberEnglishWords = englishLineArray.length;
+					
+					for (var currentEnglishWord = 0; currentEnglishWord < numberEnglishWords; currentEnglishWord++)
+					{
+						var thisEnglishWord = englishLineArray[currentEnglishWord];
+						
+						var thisEnglishWordArray = thisEnglishWord.split("");
+						var thisEnglishWordLength = thisEnglishWord.length;
+
+						for (var currentEnglishWordCharacter = 0; currentEnglishWordCharacter < thisEnglishWordLength; currentEnglishWordCharacter++)
+						{
+							var thisEnglishWordCharacter = thisEnglishWordArray[currentEnglishWordCharacter];
+						
+							var englishId = "englishLine" + currentLine + "Word" + currentEnglishWord + "Character" + currentEnglishWordCharacter;
+							outputHtml = outputHtml + "<div id=\"" + englishId + "\"class=\"english\">" + thisEnglishWordCharacter + "</div>";
+						}
+						
+						outputHtml = outputHtml + " ";
+					} // end for every english word in the literal translation
+				
+					//outputHtml = outputHtml + "<div class=\"english\">" + englishLine + "</div>\n";
 				} // end if addEnglish
 				
 				outputHtml = outputHtml + "</p>";
@@ -8241,6 +8487,8 @@ display:inline;
 			var lastEnglishLine = "";
 			
 			var lastWasEnglish = false;
+			
+			var currentChineseLine = 0;
 
 			for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
 			{
@@ -8266,9 +8514,16 @@ display:inline;
 						var translationHtmlChinese = translationOutput[0];
 						
 						translationHtmlChinese = replaceChars(translationHtmlChinese, "</p>", "");
-					
+						
+						if (contains(translationHtmlChinese, "id=\"chineseLine0") == true)
+						{
+							translationHtmlChinese = replaceChars(translationHtmlChinese, "id=\"chineseLine0", "id=\"chineseLine" + currentChineseLine);
+							currentChineseLine = currentChineseLine + 1;
+						}
+						
 						outputHtml = outputHtml + "\n" + translationHtmlChinese;
 						outputText = outputText + "\n" + translationOutput[1];			
+
 					} else {
 					
 						var thisEnglishHtml = "<div class=\"english\">" + thisLine + "</div></p>";
@@ -9516,7 +9771,61 @@ display:inline;
 			wordsTable.innerHTML = characterWords;
 
 		} // end function searchCantoneseButtonClicked
+	
+		function searchPinyinButtonClicked()
+		{
+			//debugLog("searchPinyinButtonClicked");
 
+			var inputWord = document.getElementById("startCharacter").value;
+
+			var searchRegexString = "^(.*" + "	" + inputWord + ".*)$";
+
+			var searchRegex = new RegExp(searchRegexString, "gm");
+
+			var characterWordsArray = combinedDictionaryData.match(searchRegex);
+	   
+			if (characterWordsArray == null)
+			{
+				characterWords = "<table></table>";
+				var wordsTable = document.getElementById("characterWords");
+				wordsTable.innerHTML = characterWords;
+				return;
+			}
+	   
+			var characterWords = "<tr>";
+
+			var numberWords = 0;
+
+			for (var currentItem = 0; currentItem < characterWordsArray.length; currentItem++)
+			{
+				var thisItem = characterWordsArray[currentItem];
+
+				var thisItemLines = thisItem.split(/\r?\n/);
+
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+
+				var thisWord = textBetween(lastLine, "start", "	");
+
+   
+				var thisWordHtml = "<div onclick='clickCharacter(\"" + thisWord + "\")'>" + thisWord + "</div>";
+
+				characterWords = characterWords + "<td>" + thisWordHtml + "</td>";
+
+				numberWords = numberWords + 1;
+
+				if ((numberWords % 3) == 0)
+				{
+					characterWords = characterWords + "</tr><tr class='children'>";
+				}
+			} // end for every search result
+
+			characterWords = "<table>" + characterWords + "</table>";
+	
+			var wordsTable = document.getElementById("characterWords");
+			wordsTable.innerHTML = characterWords;
+			
+		} // end function searchPinyinButtonClicked
+		
 		function searchTaiwaneseButtonClicked()
 		{
 			//debugLog("searchTaiwaneseButtonClicked");
@@ -9526,8 +9835,12 @@ display:inline;
 			var searchRegexString = "^(.*" + "	" + inputWord + ".*)$";
 
 			var searchRegex = new RegExp(searchRegexString, "gm");
-
-			var characterWordsArray = taiwaneseData.match(searchRegex);
+			
+			var tonelessTaiwaneseData = removeTones(taiwaneseData);
+			
+			
+			
+			var characterWordsArray = tonelessTaiwaneseData.match(searchRegex);
 	   
 			if (characterWordsArray == null)
 			{
@@ -9711,7 +10024,7 @@ display:inline;
 				
 				var childCharacterArray = bopomofoData.match(searchRegex);
 				
-				console.log(childCharacterArray);
+				//console.log(childCharacterArray);
 				
 				var numberChildren = 0;
 				
@@ -9755,10 +10068,77 @@ display:inline;
 			} // end if the bopomofo data contains the word
 			
 		} // end function searchBopomofo
+
+		function searchIds(thisWord)
+		{
+			//debugLog("searchIds(" + thisWord + ")");
+			
+			// Don't use contains to speed it up, because you want to be able to use regex "."
+			//if (contains(idsData, thisWord) == true)
+			//{
+				var searchRegexString = "^";
+				searchRegexString = searchRegexString + "(.*" + thisWord + ".*)";
+				searchRegexString = searchRegexString + "$";
+				var searchRegex = new RegExp(searchRegexString, "gm");
+				
+				var childCharacterArray = idsData.match(searchRegex);
+				
+				//console.log(childCharacterArray);
+				
+				var numberChildren = 0;
+				
+				childCharacters = "";
+				
+				// If no children were found, skip the rest
+				if (childCharacterArray == null)
+				{
+					//debugLog("childCharacterArray is null");
+					return;
+				}
+				
+				var childrenArrayLength = childCharacterArray.length;
+								
+				for (var currentItem = 0; currentItem < childrenArrayLength; currentItem++)
+				{
+					var thisItem = childCharacterArray[currentItem];
+				
+					var thisItemLines = thisItem.split(/\r?\n/);
+				
+					var lastLine = thisItemLines[thisItemLines.length - 1];
+					
+					var thisChild = textBetween(lastLine, "	", "	");
+					
+					thisChild = "<div onclick='clickCharacter(\"" + thisChild + "\")'>" + thisChild + "</div>";
+
+					childCharacters = childCharacters + "<td>" + thisChild + "</td>";
+		   
+					numberChildren = numberChildren + 1;
+		   
+					if ((numberChildren % 3) == 0)
+					{
+						childCharacters = childCharacters + "</tr><tr class='children'>";
+					}
+					
+				} // end for every child
+				
+				childCharacters = "<table>" + childCharacters + "</table>";
+			
+				var childTable = document.getElementById("childCharacters");
+				childTable.innerHTML = childCharacters;
+			//} // end if the ids data contains the word
+
+			
+		} // end function searchIds
 		
 		function searchManyCharacters(inputCharacters)
 		{
 				//debugLog("searchManyCharacters(" + inputCharacters + ")");
+				
+				// If the characters are an IDS code, search the IDS table instead
+				if (isIdsString(inputCharacters) == true)
+				{
+					return searchIds(inputCharacters);
+				}
 				
 				// If the word is in the dictionary, find the definition and pinyin
 				dictionaryCharacter(inputCharacters);
@@ -10088,6 +10468,25 @@ display:inline;
 			} // if we should add reviewing the hanzi
 			
 		} // end function searchCharacter
+
+		function typeCharacterBefore(thisCharacter)
+		{
+			//debugLog("typeCharacterBefore(" + thisCharacter + ")");
+
+			var inputCharacters = document.getElementById("startCharacter").value;
+			inputCharacters = thisCharacter + inputCharacters;
+
+			document.getElementById("startCharacter").value = inputCharacters;
+			
+			var childTable = document.getElementById("childCharacters");
+			childTable.innerHTML = "";
+			
+			if (inputCharacters != "")
+			{
+				//searchCharacter();
+			}
+			
+		} // end function typeCharacterBefore
 
 		function typeCharacter(thisCharacter)
 		{
@@ -10880,6 +11279,26 @@ display:inline;
 			thisString = replaceChars(thisString, "ň", "n");
 			thisString = replaceChars(thisString, "ê", "e");
 			thisString = replaceChars(thisString, "ü", "u");
+			thisString = replaceChars(thisString, "â", "a");
+			thisString = replaceChars(thisString, "ä", "a");
+			thisString = replaceChars(thisString, "ã", "a");
+			thisString = replaceChars(thisString, "ç", "c");
+			thisString = replaceChars(thisString, "ê", "e");
+			thisString = replaceChars(thisString, "ë", "e");
+			thisString = replaceChars(thisString, "ĥ", "h");
+			thisString = replaceChars(thisString, "î", "i");
+			thisString = replaceChars(thisString, "ⁿ", "n");
+			thisString = replaceChars(thisString, "ń", "n");
+			thisString = replaceChars(thisString, "ó", "o");
+			thisString = replaceChars(thisString, "ò", "o");
+			thisString = replaceChars(thisString, "ô", "o");
+			thisString = replaceChars(thisString, "ö", "o");
+			thisString = replaceChars(thisString, "õ", "o");
+			thisString = replaceChars(thisString, "ō", "o");
+			thisString = replaceChars(thisString, "ŝ", "s");
+			thisString = replaceChars(thisString, "û", "u");
+			thisString = replaceChars(thisString, "ü", "u");
+			thisString = replaceChars(thisString, "ý", "y");
 			thisString = replaceChars(thisString, "̄", "");
 			thisString = replaceChars(thisString, "̄", "");
 
@@ -11316,7 +11735,14 @@ display:inline;
 		
 		function dictionaryEditorGoogleTransPyButtonClicked()
 		{
-			var thisChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
+			var thisChinese = "";
+			
+			thisChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisChinese == "")
+			{
+				thisChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
+			}
 			
 			loadGoogleTransPy(thisChinese);
 			
@@ -11324,8 +11750,15 @@ display:inline;
 		
 		function dictionaryEditorGoogleTransProxyButtonClicked()
 		{
-			var thisChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
-
+			var thisChinese = "";
+			
+			thisChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisChinese == "")
+			{
+				thisChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
+			}
+			
 			loadGoogleTransProxy(thisChinese);
 		} // end function dictionaryEditorGoogleTransProxyButtonClicked
 		
@@ -11877,8 +12310,16 @@ display:inline;
 		function dictionaryEditorCharsButtonClicked()
 		{
 			//debugLog("dictionaryEditorCharsButtonClicked");
+			var thisChineseString = "";
+			var useMediaViewer = true;
 			
-			var thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
+			thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisChineseString == "")
+			{
+				thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
+				useMediaViewer = false;
+			}
 						
 			var numberCharacters = stringLength(thisChineseString);
 			
@@ -11926,7 +12367,12 @@ display:inline;
 			
 			var thisPinyin = thisPinyinArray.join(" ");
 			
-			document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+			} else {
+				document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+			}
 			
 		} // end function dictionaryEditorCharsButtonClicked
 		
@@ -12053,7 +12499,16 @@ display:inline;
 		{
 			//debugLog("toneNumbersToToneMarks");
 
-			var thisPinyinString = document.getElementById("dictionaryEditorPinyinTextArea").value;
+			var thisPinyinString = "";
+			
+			var useMediaViewer = true;
+			
+			thisPinyinString = document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value;
+			
+			if (thisPinyinString == "")
+			{
+				thisPinyinString = document.getElementById("dictionaryEditorPinyinTextArea").value;
+			}
 			
 			var thisPinyinArray = thisPinyinString.split(" ");
 			
@@ -12073,8 +12528,12 @@ display:inline;
 			
 			thisPinyinString = thisPinyinArray.join(" ");
 			
-			document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyinString;
-		
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyinString;			
+			} else {
+				document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyinString;
+			}
 		} // end function toneNumbersToToneMarks
 		
 		function bopomofoToPinyin()
@@ -12108,12 +12567,22 @@ display:inline;
 		{
 			//debugLog("dictionaryEditorSearch");
 			
-			var thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
+			var thisChineseString = "";
+			var useMediaViewer = true;
+			
+			thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisChineseString == "")
+			{
+				thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
+				useMediaViewer = false;
+			}
 			
 			thisChineseString = replaceChars(thisChineseString, "	", "");
 			
 			document.getElementById("dictionaryEditorChineseTextArea").value = thisChineseString;
-			
+			document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisChineseString;
+
 			var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisChineseString + "	", "\n");
 				
 			var thisDictionaryLineArray = thisDictionaryLine.split("	");
@@ -12142,9 +12611,15 @@ display:inline;
 				thisTone = thisDictionaryLineArray[3];
 			}
 			
-			document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
-			document.getElementById("dictionaryEditorEnglishTextArea").value = thisDefinition;
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+				document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisDefinition;
 			
+			} else {
+				document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+				document.getElementById("dictionaryEditorEnglishTextArea").value = thisDefinition;
+			}
 		} // end function dictionaryEditorSearch
 		
 		function dictionaryEditorEditCounts()
@@ -12888,10 +13363,23 @@ display:inline;
 		function dictionaryEditorAddButtonClicked()
 		{
 			//debugLog("dictionaryEditorAddButtonClicked");
-
-			var thisWordChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
-			var thisWordPinyin = document.getElementById("dictionaryEditorPinyinTextArea").value;
-			var thisWordEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+			
+			var thisWordChinese = "";
+			var thisWordPinyin = "";
+			var thisWordEnglish = "";
+			var useMediaViewer = true;
+			
+			thisWordChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			thisWordPinyin = document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value;
+			thisWordEnglish = document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value;			
+			
+			if (thisWordChinese == "")
+			{
+				thisWordChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
+				thisWordPinyin = document.getElementById("dictionaryEditorPinyinTextArea").value;
+				thisWordEnglish = document.getElementById("dictionaryEditorEnglishTextArea").value;
+				useMediaViewer = false;
+			}
 			
 			var edited = addWord(thisWordChinese, thisWordPinyin, thisWordEnglish);
 			
@@ -12924,9 +13412,16 @@ display:inline;
 				saveDictionaryToLocalStorage(combinedDictionaryData.length);
 			}
 			
-			document.getElementById("dictionaryEditorChineseTextArea").value = "";
-			document.getElementById("dictionaryEditorPinyinTextArea").value = "";
-			document.getElementById("dictionaryEditorEnglishTextArea").value = "";
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = "";
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = "";
+				document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = "";
+			} else {
+				document.getElementById("dictionaryEditorChineseTextArea").value = "";
+				document.getElementById("dictionaryEditorPinyinTextArea").value = "";
+				document.getElementById("dictionaryEditorEnglishTextArea").value = "";
+			}
 			
 			dictionaryEditorEditCounts();
 			
@@ -13138,7 +13633,16 @@ display:inline;
 		{
 			//debugLog("dictionaryEditorRemoveButtonClicked");
 			
-			var thisWord = document.getElementById("dictionaryEditorRemoveTextArea").value;
+			var thisWord = "";
+			var useMediaViewer = true;
+			
+			thisWord = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisWord == "")
+			{
+				thisWord = document.getElementById("dictionaryEditorRemoveTextArea").value;
+				useMediaViewer = false;
+			}
 			
 			if (thisWord != "")
 			{
@@ -13355,8 +13859,15 @@ display:inline;
 				saveDictionaryToLocalStorage(combinedDictionaryData.length);
 			}
 			
-			document.getElementById("dictionaryEditorRemoveTextArea").value = "";
-						
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = "";
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = "";
+				document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = "";
+			} else {
+				document.getElementById("dictionaryEditorRemoveTextArea").value = "";
+			}
+				
 			dictionaryEditorEditCounts();
 			
 		} // end function dictionaryEditorRemoveButtonClicked
@@ -14658,36 +15169,38 @@ display:inline;
 		{
 			//debugLog("taiwanButtonClicked");
 			
-			var spacedChinese = document.getElementById("chineseSpacedTextArea").value;
+			//debugLog(taiwanData);
 			
-			var spacedChineseWordsArray = spacedChinese.split(" ");
+			var chineseCharacters = document.getElementById("chineseTextArea").value;
 			
-			var numberWords = spacedChineseWordsArray.length;
+			var chineseCharactersArray = stringToCharacterArray(chineseCharacters);
+			
+			var numberCharacters = chineseCharactersArray.length;
 			
 			var taiwaneseChinese = "";
 			
-			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 			{
-				var thisWord = spacedChineseWordsArray[currentWord];
+				var thisCharacter = chineseCharactersArray[currentCharacter];
 			
-				if (contains(taiwanData, "\n" + thisWord + "	"))
+				if (contains(taiwanData, "\n" + thisCharacter + "	"))
 				{
-					var thisTaiwaneseWord = textBetween(taiwanData, "\n" + thisWord + "	", "\n");
-					thisTaiwaneseWord = textBetween(thisTaiwaneseWord, "start", " ");
+					var thisTaiwaneseCharacter = textBetween(taiwanData, "\n" + thisCharacter + "	", "\n");
+					thisTaiwaneseCharacter = textBetween(thisTaiwaneseCharacter, "start", " ");
 					
-					taiwaneseChinese = taiwaneseChinese + thisTaiwaneseWord + " ";
+					taiwaneseChinese = taiwaneseChinese + thisTaiwaneseCharacter;
 				} else {
-					taiwaneseChinese = taiwaneseChinese + thisWord + " ";
+					taiwaneseChinese = taiwaneseChinese + thisCharacter;
 				}
 			} // end for every word
 			
-			document.getElementById("chineseSpacedTextArea").value = taiwaneseChinese;
+			document.getElementById("chineseTextArea").value = taiwaneseChinese;
 			
 			document.getElementById('simplifiedSpacedCheckbox').checked = false;
 
 			document.getElementById('chineseCheckbox').checked = true;
 			
-			translateInterface();
+			//translateInterface();
 			
 		} // end function taiwanButtonClicked
 
@@ -17805,6 +18318,7 @@ display:inline;
 			//debugLog("advancedButtonClicked");
 			
 			loadBopomofo("zhuyin.txt");
+			loadIds("ids.txt");
 			
 			document.getElementById("translateButton").innerText = "Deradicalize, Space, and Translate";
 			document.getElementById("translateButton").style.width = "193px";
@@ -17828,7 +18342,7 @@ display:inline;
 				var thisElement = theseElements[currentElement];
 				thisElement.style.visibility = "visible";
 			} // end for every element
-			
+						
 		} // end function advancedButtonClicked
 		
 		function keyPressed()
@@ -17859,6 +18373,605 @@ display:inline;
 				} // end if this key is return
 				
 		} // end function keyPressed
+		
+		function moveCursorToElement(newTargetElementId)
+		{
+			//debugLog("moveCursorToElement(" + newTargetElementId + ")");
+
+			var newPosition = $("#" + newTargetElementId).position();
+			var newPositionTop = newPosition.top;
+			var newPositionLeft = newPosition.left;
+			var newPositionBottom = newPosition.bottom;
+
+			//$("#cursor").parent().css({position: 'relative'});
+			$("#cursor").css({top: newPositionTop, left: newPositionLeft, position:'absolute'});
+			
+			cursorTargetElementId = newTargetElementId;
+			
+			
+			if (contains(newTargetElementId, "chinese") == true)
+			{
+				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+			
+				document.getElementById("dictionaryEditorChineseTextArea").value = thisWord;
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisWord;
+				//dictionaryEditorSearch();
+
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisWord;
+					taiwaneseDictionaryEditorSearch();
+				}
+
+			} // end if the cursor word is chinese
+			
+			
+			if (contains(newTargetElementId, "pinyin") == true)
+			{
+				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+				
+				document.getElementById("dictionaryEditorPinyinTextArea").value = thisWord;
+				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisWord;
+			} // end if the cursor word is pinyin
+
+			if (contains(newTargetElementId, "literal") == true)
+			{
+				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+				
+				document.getElementById("dictionaryEditorEnglishTextArea").value = thisWord;
+				document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisWord;
+			} // end if the cursor word is pinyin
+
+
+			if (contains(newTargetElementId, "litMan") == true)
+			{
+				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+			
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					thisWord = replaceChars(thisWord, "-", " ");
+					document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisWord;
+					//taiwaneseDictionaryEditorSearch();
+				}
+			} // end if the cursor word is litMan
+
+			
+		} // end function moveCursorToElement
+		
+		function cursorLeft()
+		{
+			//debugLog("cursorLeft");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			var elementExists = false;
+			var newTargetElementId = cursorTargetElementId;
+			
+			// Move left in the word
+			var newData = currentData;
+			var newLine = currentLine;
+			var newWord = currentWord;
+			var newCharacter = currentCharacter - 1;
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+			
+			// If there aren't earlier characters in the word, go to the previous word
+
+			// Move to the previous word
+			var newData = currentData;
+			var newLine = currentLine;
+			var newWord = currentWord - 1;
+			var newCharacter = 0;
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId + "	" + elementExists);
+			
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+
+			// If there aren't later words in the line, go to the previous line
+			
+			// Move to the previous line
+			var newData = currentData;
+			var newLine = currentLine - 1;
+			var newWord = 0;
+			var newCharacter = 0;
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId + "	" + elementExists);
+			
+			
+			while (elementExists != null)
+			{
+				newWord = newWord + 1;
+				newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+				elementExists = document.getElementById(newTargetElementId);
+			} // end if new target element exists
+			
+			newWord = newWord - 1;
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			while (elementExists != null)
+			{
+				newCharacter = newCharacter + 1;
+				var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+				elementExists = document.getElementById(newTargetElementId);
+			} // end if new target element exists
+			
+			newCharacter = newCharacter - 1;
+			
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+
+		} // end function cursorLeft
+
+		function cursorUp()
+		{
+			//debugLog("cursorUp");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			var elementExists = false;
+			var newTargetElementId = cursorTargetElementId;
+			
+			var outputHtml = document.getElementById("outputHtml").innerHTML;
+			
+			// Move to the next line
+			var newData = currentData;
+			var newLine = currentLine;
+			
+			if (currentData == "chinese")
+			{
+				newData = "english";
+				newLine = newLine - 1;
+			}
+
+			if (currentData == "litMan")
+			{
+				newData = "chinese";
+			}
+
+			if (currentData == "pinyin")
+			{
+				newData = "chinese";
+				
+				if (contains(outputHtml, "litMan") == true)
+				{
+					newData = "litMan";
+				}
+			}
+
+			if (currentData == "poj")
+			{
+				newData = "litMan";
+			}
+			
+			if (currentData == "literal")
+			{
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					newData = "poj";
+				}
+			}
+
+			if (currentData == "english")
+			{
+				newData = "literal";
+			}
+			
+			var newWord = currentWord;
+			var newCharacter = currentCharacter;
+			
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId);
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			}
+			
+			newCharacter = "0";
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			}
+
+			newWord = "0";
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			}
+			
+		} // end function cursorUp
+
+		function cursorRight()
+		{
+			//debugLog("cursorRight");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			var elementExists = false;
+			var newTargetElementId = cursorTargetElementId;
+			
+			// Move right in the word
+			var newData = currentData;
+			var newLine = currentLine;
+			var newWord = currentWord;
+			var newCharacter = currentCharacter + 1;
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+			
+			// If there aren't later characters in the word, go to the next word
+			
+			// Move to the next word
+			var newData = currentData;
+			var newLine = currentLine;
+			var newWord = currentWord + 1;
+			var newCharacter = 0;
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId + "	" + elementExists);
+			
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+
+			// If there aren't later words in the line, go to the next line
+			
+			// Move to the next line
+			var newData = currentData;
+			var newLine = currentLine + 1;
+			var newWord = 0;
+			var newCharacter = 0;
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId + "	" + elementExists);
+			
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+
+			
+		} // end function cursorRight
+
+		function cursorDown()
+		{
+			//debugLog("cursorDown");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			var elementExists = false;
+			var newTargetElementId = cursorTargetElementId;
+			
+			var outputHtml = document.getElementById("outputHtml").innerHTML;
+			
+			// Move to the next line
+			var newData = currentData;
+			var newLine = currentLine;
+			
+			if (currentData == "chinese")
+			{
+				newData = "pinyin";
+				
+				if (contains(outputHtml, "litMan") == true)
+				{
+					newData = "litMan";
+				}
+			}
+
+			if (currentData == "litMan")
+			{
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					newData = "poj";
+				}
+			}
+
+			if (currentData == "pinyin")
+			{
+				newData = "literal";
+			}
+
+			if (currentData == "poj")
+			{
+				newData = "literal";
+			}
+
+			if (currentData == "literal")
+			{
+				newData = "english";
+			}
+
+			if (currentData == "english")
+			{
+				newData = "chinese";
+				newLine = newLine + 1;
+			}
+			
+			//debugLog(currentData + " -> " + newData);
+			
+			var newWord = currentWord;
+			var newCharacter = currentCharacter;
+			
+			var newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+			
+			//debugLog(newTargetElementId);
+			
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			} // end if new target element exists
+			
+			newCharacter = "0";
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			}
+
+			newWord = "0";
+			newTargetElementId = newData + "Line" + newLine + "Word" + newWord + "Character" + newCharacter;
+			elementExists = document.getElementById(newTargetElementId);
+
+			if (elementExists != null)
+			{
+				moveCursorToElement(newTargetElementId);
+				return;
+			}
+			
+		} // end function cursorDown
+		
+		function deleteKeyDown()
+		{
+			//debugLog("deleteKeyDown");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			if (currentData == "litMan")
+			{
+				var litManText = document.getElementById('simplifiedInputTextArea').value;
+				var litManArray = litManText.split("\n");
+				
+				var litManLine = litManArray[currentLine];
+				
+				var litManLineWords = litManLine.split(" ");
+				var numberLitManLineWords = litManLineWords.length;
+				
+				var newLitManLine = "";
+				
+				for (var currentLitManLineWord = 0; currentLitManLineWord < numberLitManLineWords; currentLitManLineWord++)
+				{
+					var thisLitManLineWord = litManLineWords[currentLitManLineWord];
+					
+					newLitManLine = newLitManLine + thisLitManLineWord;
+					
+					if (currentLitManLineWord != (currentWord - 1))
+					{
+						newLitManLine = newLitManLine + " ";
+					} else {
+						newLitManLine = newLitManLine + "-";
+					} // end if this word is not the word we're deleting in front of
+					
+				} // end for every word on the line
+				
+				litManArray[currentLine] = newLitManLine;
+				litManText = litManArray.join("\n");
+				document.getElementById('simplifiedInputTextArea').value = litManText;
+				
+				//var newLitManHtml = "<tr id=\"litManLine" + currentLine + "\" class=\"litManLine\">";
+				var newLitManHtml = litManLineToHtml(newLitManLine, currentLine);
+				//litManHtml = litManHtml + "</tr>";
+				
+				document.getElementById("litManLine" + currentLine).innerHTML = newLitManHtml;
+				
+			} // end if we should delete from litMan
+
+			if (currentData == "chinese")
+			{
+				var rightWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+
+				cursorLeft();
+				
+				var leftWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+				
+				var newWord = leftWord + rightWord;
+				
+				document.getElementById("dictionaryEditorChineseTextArea").value = newWord;
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = newWord;
+				dictionaryEditorCharsButtonClicked();
+
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = newWord;
+					taiwaneseCharsToPoj();
+				}
+			} // end if we should delete from chinese
+		
+		} // end function deleteKeyDown
+
+		function spaceKeyDown()
+		{
+			//debugLog("spaceKeyDown");
+			
+			var currentData = textBetween(cursorTargetElementId, "start", "Line");
+			var currentLine = textBetween(cursorTargetElementId, "Line", "Word") * 1;
+			var currentWord = textBetween(cursorTargetElementId, "Word", "Character") * 1;
+			var currentCharacter = textBetween(cursorTargetElementId, "Character", "end") * 1;
+			
+			if (currentData == "litMan")
+			{
+				var litManText = document.getElementById('simplifiedInputTextArea').value;
+				var litManArray = litManText.split("\n");
+				
+				var litManLine = litManArray[currentLine];
+				
+				var litManLineWords = litManLine.split(" ");
+				var numberLitManLineWords = litManLineWords.length;
+				
+				var newLitManLine = "";
+				
+				for (var currentLitManLineWord = 0; currentLitManLineWord < numberLitManLineWords; currentLitManLineWord++)
+				{
+					var thisLitManLineWord = litManLineWords[currentLitManLineWord];
+					
+					newLitManLine = newLitManLine + thisLitManLineWord;
+					
+					if (currentLitManLineWord != (currentWord - 1))
+					{
+						newLitManLine = newLitManLine + " ";
+					} else {
+						newLitManLine = newLitManLine + "  ";
+					} // end if this word is not the word we're adding a space in front of
+					
+				} // end for every word on the line
+				
+				litManArray[currentLine] = newLitManLine;
+				litManText = litManArray.join("\n");
+				document.getElementById('simplifiedInputTextArea').value = litManText;
+				
+				//var newLitManHtml = "<tr id=\"litManLine" + currentLine + "\" class=\"litManLine\">";
+				var newLitManHtml = litManLineToHtml(newLitManLine, currentLine);
+				//litManHtml = litManHtml + "</tr>";
+				
+				document.getElementById("litManLine" + currentLine).innerHTML = newLitManHtml;
+			} // end if we should add a space to litMan
+
+			if (currentData == "chinese")
+			{
+				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
+				
+				dictionaryEditorRemoveTextArea.value = thisWord;
+
+				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
+
+				if (addTaiwanese == true)
+				{
+					taiwaneseDictionaryEditorRemoveTextArea.value = thisWord;
+				}
+			} // end if we should add a space to chinese
+
+		
+		} // end function spaceKeyDown
+
+
+		function cursorKeyDown()
+		{
+			//debugLog("cursorKeyDown");
+			
+    		var key = window.event.keyCode;
+    		    		
+			// If the user has pressed the left arrow
+			if (key === 37) 
+			{
+				cursorLeft();
+			} // end if this key is the left arrow
+
+			// If the user has pressed the up arrow
+			if (key === 38) 
+			{
+				cursorUp();
+			} // end if this key is the up arrow
+
+			// If the user has pressed the right arrow
+			if (key === 39) 
+			{
+				cursorRight();
+			} // end if this key is the right arrow
+			
+			// If the user has pressed the up arrow
+			if (key === 40) 
+			{
+				cursorDown();
+			} // end if this key is the down arrow
+
+			// If the user has pressed the delete key
+			if (key === 8) 
+			{
+				deleteKeyDown();
+			} // end if this key is the delete key
+
+			// If the user has pressed the spacebar
+			if (key === 32) 
+			{
+				spaceKeyDown();
+			} // end if this key is the space
+
+
+		} // end function cursorKeyDown
 
 		function keyDown()
 		{
@@ -17885,7 +18998,6 @@ display:inline;
 				nextButtonClicked();
 			} // end if this key is the right arrow
 
-				
 		} // end function keyDown
 
 		
@@ -17940,15 +19052,15 @@ display:inline;
   		
 		var thisDialog = $( "#mediaViewer" ).dialog(
 			{
-				width: 1690,
+				width: 1900,
 				maxWidth: 3000,
 				height: 300,
 			    closeText: "",
 			    position: 
 			    { 
     				my: 'left top',
-    				at: 'right bottom',
-				    of: $('#translateButton')
+    				at: 'left bottom',
+				    of: $('#htmlTable')
 				},
 			    dialogClass: 'mediaViewer',
 			    create: function (event) {
@@ -17995,6 +19107,80 @@ display:inline;
 		
   	} // end function openSlideViewer
   	
+  	function showCursorButtonClicked()
+  	{
+  		//debuglog("showCursorButtonClicked");
+		
+		var cursorId = "cursor";
+		var cursorIdJQuery = "#" + cursorId;
+		
+		var cursorDiv = document.createElement('div');
+		cursorDiv.id = cursorId;
+		cursorDiv.className = 'event ui-draggable';
+		document.getElementById('outputHtml').appendChild(cursorDiv);
+		
+		document.getElementById(cursorId).innerHTML = "|";
+		
+		cursorTargetElementId = "chineseLine0Word0Character0";
+		
+		var startPosition = $("#" + cursorTargetElementId).position();
+		var startPositionTop = startPosition.top;
+		var startPositionLeft = startPosition.left;
+		var startPositionBottom = startPosition.bottom;
+		
+		//var startPositionHeight = startPositionBottom - startPositionTop;
+		//startPositionTop = startPositionBottom - (startPositionHeight / 2);
+		startPositionTop = startPositionTop - 37;
+		startPositionLeft = startPositionLeft - 6;
+		
+		$(cursorIdJQuery).css({ 'background-color':'#FFFFFF', 'width':'3px', 'height': '20px', 'font-size': '20px', 'position': 'fixed', "left": startPositionLeft, "top": startPositionTop });
+		//$(newEventIdJQuery).draggable({ snap: ".fifteenMinutes" }).trigger( 'mouseup' );
+		//$(cursorIdJQuery).draggable({ snap: ".fifteenMinutes" , stop: function() { dragStopped(this.id);} });
+
+		//$(cursorIdJQuery).resizable( {'handles': 'n, s', 'grid': '18'});
+		
+		//$(cursorIdJQuery).position.top = startPositionTop;
+		//$(cursorIdJQuery).position.left = startPositionLeft;
+				
+		$('body').keydown(function(e) 
+		{
+			cursorKeyDown();
+		});
+		
+		// Disable default arrow keys actions
+		window.addEventListener("keydown", function(e) {
+			// space and arrow keys
+			if([32, 37, 38, 39, 40, 8].indexOf(e.keyCode) > -1) {
+				e.preventDefault();
+			}
+		}, false);
+
+  		/*
+		document.getElementById("cursor").style.visibility = "visible";
+  		
+		var thisDialog = $( "#cursor" ).dialog(
+			{
+				width: 10,
+				maxWidth: 10,
+				height: 20,
+			    closeText: "",
+			    position: 
+			    { 
+    				my: 'left top',
+    				at: 'right bottom',
+				    of: $('#lyricsButton')
+				},
+			    dialogClass: 'cursor',
+			    
+			    open: function() {
+			    
+           		}
+			    
+			}
+		); 
+		*/
+  		
+  	} // end function showCursorButtonClicked
 
   	function openTaiwaneseDictionaryEditor()
   	{
