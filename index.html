@@ -82,6 +82,8 @@
 	+ Node server
 	+ Client side converting to PDF and JPG using wkhtmltopdf and wkhtmltoimage
 	+ Song to Slide Pictures.scpt to split bilingual song text file into slides saved as a folder of PNGs
+	+ Verse number next to lrc in media viewer
+	+ English button to quickly move to Pingtype English
 		
 	To do:
 	- documentation 求 + 和 ≠ 求和
@@ -1118,6 +1120,16 @@ display:inline;
 					</div>
 				</td>
 				<td>
+					<div id="splitButton" class="ButtonInner advanced" onclick="splitButtonClicked();" style="width:55px;visibility:hidden">
+						Split
+					</div>
+				</td>
+				<td>
+					<div id="englishButton" class="ButtonInner advanced" onclick="englishButtonClicked();" style="width:55px;visibility:hidden">
+						English
+					</div>
+				</td>
+				<td>
 					<div id="lyricsButton" class="ButtonInner advanced" onclick="lyricsButtonClicked();" style="width:55px;visibility:hidden">
 						Lyrics
 					</div>
@@ -1363,6 +1375,9 @@ display:inline;
 					<input type="checkbox" id="hskAllCheckbox" ><span onclick="toggleCheckbox('hskAllCheckbox');">HSK</span>
 				</td>
 				<td>
+					<input type="checkbox" id="fireExCheckbox" ><span onclick="toggleCheckbox('fireExCheckbox');">Fire Ex</span>
+				</td>
+				<td>
 					<div id="loadWordListsButton" class="ButtonInner advanced" onclick="loadWordLists();" style="visibility:hidden;width:100px">
 						Load Word Lists
 					</div>
@@ -1577,6 +1592,11 @@ display:inline;
 					<input type="checkbox" id="useGithubCheckbox" ><span onclick="toggleCheckbox('useGithubCheckbox');">Use Github</span>
 				</td>
 				<td>
+					<div class="ButtonInner" onclick="saveLitMan();">
+						Save LitMan
+					</div>
+				</td>
+				<td>
 					<div class="ButtonInner" onclick="saveHtml();">
 						Save HTML 保存
 					</div>
@@ -1588,7 +1608,7 @@ display:inline;
 				</td>
 			</tr>
 		</table>
-	
+		
 	
 		<table id="missingWordsTable" class="advanced" style="visibility:hidden;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;"></table>
 	
@@ -2782,10 +2802,10 @@ display:inline;
 										   </td>
 										   <td>
 											   Open JPG
-											   <input type="file" id="imageLoaderMediaViewer" name="imageLoaderMediaViewer"/>
+											   <input type="file" id="imageLoaderMediaViewer" name="imageLoaderMediaViewer" style="width:90px;overflow:hidden"/>
 										   </td>
 										   <td>
-											   <div id="imagePath">JPG Path</div>
+											   <div id="imagePath" style="width:90px;overflow:hidden">JPG Path</div>
 										   </td>
 										</tr>
 									</table>
@@ -2797,10 +2817,10 @@ display:inline;
 										<tr>
 											<td>
 												Open MP3
-												<input type="file" id="audioLoaderMediaViewer" name="audioLoaderMediaViewer"/>
+												<input type="file" id="audioLoaderMediaViewer" name="audioLoaderMediaViewer" style="width:90px;overflow:hidden"/>
 											</td>
 											<td>
-												<div id="audioPath">MP3 Path</div>
+												<div id="audioPath" style="width:90px;overflow:hidden">MP3 Path</div>
 											</td>
 											<td>
 												<div id="rewindPauseTimesButton" class="ButtonInner" style="width:30px" onclick="rewindPauseTimesButtonClicked();">
@@ -2876,6 +2896,35 @@ display:inline;
 													</div>
 												</div>
 											</td>
+											<td>
+												<select id="taiwaneseMediaViewerDefinitionDropdown" onchange="taiwaneseDictionaryEditorDropdownChanged();">
+													<option value="1"></option>
+												</select>
+											</td>
+											<td>
+												<div id="taiwaneseDictionaryEditorMediaViewerTopButton" class="ButtonInner" onclick="taiwaneseMoveDefinitionToTop();" style="width:25px">
+													Top
+												</div>
+											</td>
+											<td>
+												<div id="taiwaneseDictionaryEditorMediaViewerAddButton" class="ButtonInner" onclick="taiwaneseDictionaryEditorAddButtonClicked();" style="width:70px">
+													Append
+												</div>
+											</td>
+											<td>
+												<textarea id="dictionaryEditorMediaViewerPojTextArea" rows="1" cols="6" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 20px;"></textarea>
+											</td>
+											<td>
+												<div id="taiwaneseDictionaryEditorMediaViewerSearchKey" class="key" onclick="taiwaneseDictionaryEditorSearch()">🔍</div>
+											</td>
+											<td>
+												<div id="taiwaneseDictionaryEditorMediaViewerCharsToPojButton" class="ButtonInner" onclick="taiwaneseCharsToPoj();" style="width:70px">
+													Chars to POJ
+												</div>
+											</td>
+											<td>
+												<textarea id="dictionaryEditorMediaViewerTonesTextArea" rows="1" cols="6" style="background-color: #ffffff;resize: none;overflow:hidden;font-size: 20px;"></textarea>
+											</td>
 										</tr>
 									</table>
 								</div>
@@ -2895,6 +2944,9 @@ display:inline;
 						<tr>
 							<td>
 								<textarea id="lrcTextArea" style="width:180px;height:105px"></textarea>
+							</td>
+							<td>
+								<div id="verseCountDiv" style="width:20px;height:15px"></div>
 							</td>
 						</tr>
 						<tr>
@@ -3007,6 +3059,11 @@ display:inline;
 		var addWords = localStorage["addWords"];
 		var editWords = localStorage["editWords"];
 		var removeWords = localStorage["removeWords"];
+		
+		var useMediaViewer = false;
+		
+		var useCursor = false;
+		var cursorEventListener;
 		
 		var cursorTargetElementId;
 
@@ -3637,8 +3694,12 @@ display:inline;
 						
 						thisEnglish = thisEnglish.toLowerCase();
 						
-						document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
-						document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
+						if (useMediaViewer == true)
+						{
+							document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
+						} else {
+							document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
+						}
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
@@ -3671,8 +3732,38 @@ display:inline;
 						
 						thisPinyin = thisPinyin.toLowerCase();
 						
-						document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
-						document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+						// auto-split the words using ToneNumbersMarks.txt - not working reliably
+						/*
+						var toneNumbersMarksArray = toneNumbersMarks.split("\n");
+						var numberPinyin = toneNumbersMarksArray.length;
+						
+						
+						for (var currentPinyin = 0; currentPinyin < numberPinyin; currentPinyin++)
+						{
+							var thisPinyinLine = toneNumbersMarksArray[currentPinyin];
+							var thisPinyinSyllable = textBetween(thisPinyinLine, "	", "end");
+							
+							if (thisPinyinSyllable.length >= 3)
+							{
+								thisPinyin = replaceChars(thisPinyin, thisPinyinSyllable, " " + thisPinyinSyllable + " ");
+							}
+							
+						} // end for every pinyin syllable
+						
+						while (contains(thisPinyin, "  ") == true)
+						{
+							thisPinyin = replaceChars(thisPinyin, "  ", " ");
+						}
+						
+						thisPinyin = thisPinyin.trim();
+					   */						
+						
+						if (useMediaViewer == true)
+						{
+							document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+						} else {
+							document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+					    }
 					    
 					    loadGoogleTransPyTranslation(thisChinese);
 					    
@@ -3710,11 +3801,14 @@ display:inline;
 						
 						thisPinyin = thisPinyin.toLowerCase();
 						
-						document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
-						document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
-
-						document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
-						document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
+						if (useMediaViewer == true)
+						{
+							document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisPinyin;
+							document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisEnglish;
+						} else {
+							document.getElementById("dictionaryEditorPinyinTextArea").value = thisPinyin;
+							document.getElementById("dictionaryEditorEnglishTextArea").value = thisEnglish;
+						}
 					    
 					    loadGoogleTransPyTranslation(thisChinese);
 					    
@@ -3989,6 +4083,11 @@ display:inline;
 						}
 						
 						document.getElementById("lrcTextArea").value = lrcText;
+						
+						var lrcArray = lrcText.split("\n");
+						var verseNumber = lrcArray.length - 1;
+						document.getElementById("verseCountDiv").innerHTML = verseNumber;
+						
 
 				   } // end if it loaded the file
 				   else if (xmlhttp.status == 400) {
@@ -4855,6 +4954,12 @@ display:inline;
 		{
 			//debugLog("isChinese(" + thisCharacter + ")");
 			
+			// Shem, Ham
+			if (thisCharacter == "、")
+			{
+				return true;
+			}
+
 			// Pi-hahiroth
 			if (thisCharacter == "．")
 			{
@@ -7204,9 +7309,11 @@ display:inline;
 				
 				for (var currentLitManLineWordCharacter = 0; currentLitManLineWordCharacter < numberthisLitManLineWordCharacters; currentLitManLineWordCharacter++)
 				{
-					 var thisLitManLineWordCharacter = litManLineWordCharacters[currentLitManLineWordCharacter];
+					var thisLitManLineWordCharacter = litManLineWordCharacters[currentLitManLineWordCharacter];
+					 
+					var thisLitManLineWordId = "litManLine" + currentLitManLine + "Word" + currentLitManLineWord + "Character" + currentLitManLineWordCharacter;
 				
-					litManHtmlLine = litManHtmlLine + "<span id=\"litManLine" + currentLitManLine + "Word" + currentLitManLineWord + "Character" + currentLitManLineWordCharacter + "\">" + thisLitManLineWordCharacter;
+					litManHtmlLine = litManHtmlLine + "<span onclick=\"moveCursorToElement('" + thisLitManLineWordId + "')\" class=\"litManWord\" id=\"" + thisLitManLineWordId + "\">" + thisLitManLineWordCharacter;
 					
 					if (numberthisLitManLineWordCharacters > (currentLitManLineWordCharacter + 1))
 					{
@@ -7871,6 +7978,7 @@ display:inline;
 								{
 									pinyinHtmlWord = "<b>" + pinyinHtmlWord + "</b>";
 								}
+
 							} // end if the word is not blank
 						} // end if addCommon
 						
@@ -7998,6 +8106,18 @@ display:inline;
 
 					if (addTaiwanese == true)
 					{
+						if (addCommon == true)
+						{
+							if (thisWord != "")
+							{							
+								if (contains(commonWords,thisWord) == true)
+								{
+									taiwaneseHtmlWord = "<b>" + taiwaneseHtmlWord + "</b>";
+								}
+
+							} // end if the word is not blank
+						} // end if addCommon
+
 						taiwaneseHtml = taiwaneseHtml + taiwaneseHtmlWord + "</td><td>";
 						taiwaneseText = taiwaneseText + "	";
 					} // end if addTaiwanese
@@ -8681,6 +8801,23 @@ display:inline;
 
 			document.getElementById("filenameTextArea").value = thisFilename;
 		} // end function setFilename
+		
+		function saveLitMan()
+		{
+			var literalFilePath = "";
+		
+			// If we have a literal file
+			if ((QueryString.literalFile != "") && (QueryString.literalFile != undefined))
+			{
+				var literalUrl = QueryString.literalFile;
+				
+				var literalFilePath = replaceChars(literalUrl, "%20", " ");
+				
+				var litManText = document.getElementById('simplifiedInputTextArea').value;
+				
+				writeToFile(literalFilePath, litManText);
+			}
+		} // end function saveLitMan
 		
 		function saveHtml()
 		{
@@ -12311,7 +12448,6 @@ display:inline;
 		{
 			//debugLog("dictionaryEditorCharsButtonClicked");
 			var thisChineseString = "";
-			var useMediaViewer = true;
 			
 			thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
 			
@@ -12380,7 +12516,18 @@ display:inline;
 		{
 			//debugLog("dictionaryEditorCharsButtonClicked");
 			
-			var thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			var thisChineseString = "";
+			
+			if (useMediaViewer == true)
+			{
+				thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			}
+			
+			if (thisChineseString == "")
+			{
+				thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+				useMediaViewer = false;
+			}
 						
 			var numberCharacters = stringLength(thisChineseString);
 			
@@ -12415,10 +12562,14 @@ display:inline;
 			
 			var thisPoj = thisPojArray.join(" ");
 			
-			document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
-			
-			document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
-			
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerPojTextArea").value = thisPoj;
+				document.getElementById("dictionaryEditorMediaViewerTonesTextArea").value = thisTones;
+			} else {
+				document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
+				document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
+			}
 		} // end function taiwaneseCharsToPoj
 		
 		function typeBopomofo(thisCharacter)
@@ -12501,8 +12652,6 @@ display:inline;
 
 			var thisPinyinString = "";
 			
-			var useMediaViewer = true;
-			
 			thisPinyinString = document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value;
 			
 			if (thisPinyinString == "")
@@ -12568,8 +12717,7 @@ display:inline;
 			//debugLog("dictionaryEditorSearch");
 			
 			var thisChineseString = "";
-			var useMediaViewer = true;
-			
+
 			thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
 			
 			if (thisChineseString == "")
@@ -12580,9 +12728,13 @@ display:inline;
 			
 			thisChineseString = replaceChars(thisChineseString, "	", "");
 			
-			document.getElementById("dictionaryEditorChineseTextArea").value = thisChineseString;
-			document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisChineseString;
-
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisChineseString;
+			} else {
+				document.getElementById("dictionaryEditorChineseTextArea").value = thisChineseString;
+			}
+			
 			var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisChineseString + "	", "\n");
 				
 			var thisDictionaryLineArray = thisDictionaryLine.split("	");
@@ -13367,7 +13519,6 @@ display:inline;
 			var thisWordChinese = "";
 			var thisWordPinyin = "";
 			var thisWordEnglish = "";
-			var useMediaViewer = true;
 			
 			thisWordChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
 			thisWordPinyin = document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value;
@@ -13634,7 +13785,6 @@ display:inline;
 			//debugLog("dictionaryEditorRemoveButtonClicked");
 			
 			var thisWord = "";
-			var useMediaViewer = true;
 			
 			thisWord = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
 			
@@ -13876,11 +14026,28 @@ display:inline;
 		{
 			//debugLog("taiwaneseDictionaryEditorSearch");
 			
-			var thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			var thisChineseString = "";
+			
+			if (useMediaViewer == true)
+			{
+				thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			}
+			
+			if (thisChineseString == "")
+			{
+				thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+				
+				useMediaViewer = false;
+			}
 			
 			thisChineseString = replaceChars(thisChineseString, "	", "");
 
-			document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisChineseString;
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisChineseString;
+			} else {
+				document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisChineseString;
+			}
 			
 			var dictionaryResultsArray = dictionarySearchTaiwanese(thisChineseString);
 			
@@ -13909,10 +14076,21 @@ display:inline;
 					
 					//debugLog(definitionDropdownInnerHtml);
 					
-					document.getElementById("taiwaneseDefinitionDropdown").innerHTML = definitionDropdownInnerHtml;
+					if (useMediaViewer == true)
+					{
+						document.getElementById("taiwaneseMediaViewerDefinitionDropdown").innerHTML = definitionDropdownInnerHtml;
+					} else {
+						document.getElementById("taiwaneseDefinitionDropdown").innerHTML = definitionDropdownInnerHtml;
+					}
 					
 				} else {
-					document.getElementById("taiwaneseDefinitionDropdown").innerHTML = "";
+					if (useMediaViewer == true)
+					{
+						document.getElementById("taiwaneseMediaViewerDefinitionDropdown").innerHTML = "";
+					} else {
+						document.getElementById("taiwaneseDefinitionDropdown").innerHTML = "";
+					}
+					
 				} // end if there is more than one result
 				
 				// First result is at index 1 because index 0 is the first part of the dictionary before the first search result
@@ -13931,9 +14109,14 @@ display:inline;
 					thisTones = thisDictionaryLineArray[1];
 				}
 				
-				document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
-				document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
-				
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerPojTextArea").value = thisPoj;
+					document.getElementById("dictionaryEditorMediaViewerTonesTextArea").value = thisTones;
+				} else {
+					document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
+					document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
+				}
 				
 			} // end if there are search results
 			
@@ -13944,13 +14127,26 @@ display:inline;
 		{
 			//debugLog("taiwaneseDictionaryEditorDropdownChanged");
 			
-			var thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			var thisChineseString = "";
+			
+			thisChineseString = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			
+			if (thisChineseString == "")
+			{
+				thisChineseString = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+				useMediaViewer = false;
+			}
 			
 			thisChineseString = replaceChars(thisChineseString, "	", "");
-
-			document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisChineseString;
 			
-			var dictionaryResultsArray = dictionarySearchTaiwanese(thisChineseString);
+			if (useMediaViewer == true)
+			{
+				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisChineseString;
+			} else {
+				document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisChineseString;
+			}
+			
+		   var dictionaryResultsArray = dictionarySearchTaiwanese(thisChineseString);
 			
 			var numberResults = dictionaryResultsArray.length;
 			
@@ -13959,7 +14155,16 @@ display:inline;
 				return;
 			} else {
 				
-				var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+				var definitionNumber = -1;
+				
+				if (useMediaViewer == true)
+				{
+					definitionNumber = document.getElementById('taiwaneseMediaViewerDefinitionDropdown').value;
+					definitionNumber = definitionNumber * 1;
+				} else {
+					definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+					definitionNumber = definitionNumber * 1;
+				}
 				
 				// Show the user's requested definition number
 				var thisDictionaryLine = dictionaryResultsArray[definitionNumber];
@@ -13977,9 +14182,14 @@ display:inline;
 					thisTones = thisDictionaryLineArray[1];
 				}
 				
-				document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
-				document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
-				
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerPojTextArea").value = thisPoj;
+					document.getElementById("dictionaryEditorMediaViewerTonesTextArea").value = thisTones;
+				} else {
+					document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisPoj;
+					document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = thisTones;
+				}
 				
 			} // end if there are search results
 			
@@ -13990,10 +14200,30 @@ display:inline;
 		{
 			//debugLog("taiwaneseMoveDefinitionToTop");
 			
-			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
-			definitionNumber = definitionNumber * 1;
-				
-			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			var definitionNumber = -1;
+			
+			if (useMediaViewer == true)
+			{
+				definitionNumber = document.getElementById('taiwaneseMediaViewerDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			} else {
+				definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			}
+			
+			
+			var thisWordChinese = "";
+			
+			if (useMediaViewer == true)
+			{
+				thisWordChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+			}
+			
+			if (thisWordChinese == "")
+			{
+				thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+				useMediaViewer = false;
+			}
 			
 			var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
 			
@@ -14039,10 +14269,21 @@ display:inline;
 		{
 			//debugLog("taiwaneseMoveDefinitionUp");
 			
-			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
-			definitionNumber = definitionNumber * 1;
+			var definitionNumber = -1;
+			
+			if (useMediaViewer == true)
+			{
+				definitionNumber = document.getElementById('taiwaneseMediaViewerDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			}
+			
+			if (definitionNumber == -1)
+			{
+				definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			}
 				
-			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+			document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
 			
 			var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
 			
@@ -14104,9 +14345,20 @@ display:inline;
 		{
 			//debugLog("taiwaneseMoveDefinitionDown");
 			
-			var definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
-			definitionNumber = definitionNumber * 1;
-				
+			var definitionNumber = -1;
+			
+			if (useMediaViewer == true)
+			{
+				definitionNumber = document.getElementById('taiwaneseMediaViewerDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			}
+			
+			if (definitionNumber == -1)
+			{
+				definitionNumber = document.getElementById('taiwaneseDefinitionDropdown').value;
+				definitionNumber = definitionNumber * 1;
+			}
+			
 			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
 			
 			var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
@@ -14170,9 +14422,25 @@ display:inline;
 		{
 			//debugLog("taiwaneseDictionaryEditorAddButtonClicked");
 			
-			var thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
-			var thisWordPoj = document.getElementById("taiwaneseDictionaryEditorPojTextArea").value;
-			var thisWordTones = document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value;
+			var thisWordChinese = "";
+			var thisWordPoj = "";
+			var thisWordTones = "";
+			
+			if (useMediaViewer == true)
+			{
+				thisWordChinese = document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value;
+				thisWordPoj = document.getElementById("dictionaryEditorMediaViewerPojTextArea").value;
+				thisWordTones = document.getElementById("dictionaryEditorMediaViewerTonesTextArea").value;
+			}
+			
+			if (thisWordChinese == "")
+			{
+				useMediaViewer = false;
+				
+				thisWordChinese = document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value;
+				thisWordPoj = document.getElementById("taiwaneseDictionaryEditorPojTextArea").value;
+				thisWordTones = document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value;
+			}
 			
 			var thisDefinition = "\n" + thisWordChinese + "	" + thisWordPoj + "	" + thisWordTones + "\n";
 			
@@ -14652,6 +14920,12 @@ display:inline;
 				{
 					loadCommonWords("wordLists/TOCFL/tocfl.txt");
 				}
+				
+				if (wordList == "fireEx")
+				{
+					loadCommonWords("wordLists/fireExWords.txt");
+				}
+				
 			}
 
 			// If we have an English file
@@ -15400,13 +15674,39 @@ display:inline;
 		
 		function timeToNumber(thisTimeString)
 		{
+			//debugLog("timeToNumber " + thisTimeString);
+		
 			var thisTimeHours = textBetween(thisTimeString, "start", ":");
 			var thisTimeMinutesSeconds = textBetween(thisTimeString, ":", ",");
 			var thisTimeMinutes = textBetween(thisTimeMinutesSeconds, "start", ":");
 			var thisTimeSeconds = textBetween(thisTimeMinutesSeconds, ":", "end");
 			var thisTimeMilliseconds = textBetween(thisTimeString, ",", "end");
 			
-			var thisTimeNumber = thisTimeHours * 3600 + thisTimeMinutes * 60 + thisTimeSeconds * 1 + thisTimeMilliseconds / 1000;
+			var thisTimeHoursInteger = 0;
+			if (thisTimeHours != "")
+			{
+				thisTimeHoursInteger = thisTimeHours * 1;
+			}
+			
+			var thisTimeMinutesInteger = 0;
+			if (thisTimeMinutes != "")
+			{
+				thisTimeMinutesInteger = thisTimeMinutes * 1;
+			}
+			
+			var thisTimeSecondsInteger = 0;
+			if (thisTimeSeconds != "")
+			{
+				thisTimeSecondsInteger = thisTimeSeconds * 1;
+			}
+			
+			var thisTimeMillisecondsInteger = thisTimeMilliseconds;
+			if (thisTimeMilliseconds != "")
+			{
+				thisTimeMillisecondsInteger = thisTimeMilliseconds * 1;
+			}
+			
+			var thisTimeNumber = thisTimeHoursInteger * 3600 + thisTimeMinutesInteger * 60 + thisTimeSecondsInteger * 1 + thisTimeMillisecondsInteger / 1000;
 			
 			//debugLog(thisTimeString);
 			//debugLog(thisTimeNumber);
@@ -17270,6 +17570,8 @@ display:inline;
 			var hskSixWords = document.getElementById('hskSixCheckbox').checked;
 			var hskAllWords = document.getElementById('hskAllCheckbox').checked;
 			
+			var fireExWords = document.getElementById('fireExCheckbox').checked;
+			
 			if (bibleWords == true)
 			{
 				loadCommonWords("wordLists/bibleWords.txt");
@@ -17348,6 +17650,11 @@ display:inline;
 			if (hskAllWords == true)
 			{
 				loadCommonWords("wordLists/HSK/hsk.txt");
+			}
+
+			if (fireExWords == true)
+			{
+				loadCommonWords("wordLists/fireExWords.txt");
 			}
 			
 		} // end function loadWordLists
@@ -17437,6 +17744,10 @@ display:inline;
 				audioPausePositions = audioPausePositions + pauseTime + "\n";
 				
 				document.getElementById("lrcTextArea").value = audioPausePositions;
+				
+				var lrcArray = audioPausePositions.split("\n");
+				var verseNumber = lrcArray.length - 1;
+				document.getElementById("verseCountDiv").innerHTML = verseNumber;				
 			}
 		
 		} // end function videoMediaViewerPlayPause
@@ -17447,7 +17758,7 @@ display:inline;
 				
 			var pauseTime = getAudioTime("mediaViewerVideo");
 			
-			var pauseTimeNumber = timeToNumber(pauseTime);
+			var pauseTimeNumber = timeToNumberLrc(pauseTime);
 			
 			var theseTimes = audioPausePositions.split("\n");
 			
@@ -17460,7 +17771,7 @@ display:inline;
 			{
 				var thisTime = theseTimes[currentTime];
 				
-				var thisTimeNumber = timeToNumber(thisTime);
+				var thisTimeNumber = timeToNumberLrc(thisTime);
 				
 				if (thisTimeNumber > pauseTimeNumber)
 				{
@@ -17489,9 +17800,13 @@ display:inline;
 			
 			document.getElementById("lrcTextArea").value = newAudioPausePositions;
 			
+			var lrcArray = newAudioPausePositions.split("\n");
+			var verseNumber = lrcArray.length - 1;
+			document.getElementById("verseCountDiv").innerHTML = verseNumber;				
+			
 			var lastPauseTime = audioPausePositionsArray.pop();
 			
-			var lastPauseTimeNumber = timeToNumber(lastPauseTime);
+			var lastPauseTimeNumber = timeToNumberLrc(lastPauseTime);
 			
 			document.getElementById("mediaViewerVideo").currentTime = lastPauseTimeNumber;
 			
@@ -17514,7 +17829,7 @@ display:inline;
 				
 			var pauseTime = getAudioTime("mediaViewerVideo");
 			
-			var pauseTimeNumber = timeToNumber(pauseTime);
+			var pauseTimeNumber = timeToNumberLrc(pauseTime);
 			
 			var theseTimes = audioPausePositions.split("\n");
 			
@@ -17525,7 +17840,7 @@ display:inline;
 			{
 				var thisTime = theseTimes[currentTime];
 				
-				var thisTimeNumber = timeToNumber(thisTime);
+				var thisTimeNumber = timeToNumberLrc(thisTime);
 				
 				if (thisTimeNumber > pauseTimeNumber)
 				{
@@ -17562,7 +17877,8 @@ display:inline;
 			
 		} // end function showSlide
 		
-		function timeToNumber(thisTime)
+		
+		function timeToNumberLrc(thisTime)
 		{
 			var thisTimeMinutes = textBetween(thisTime, "[", ":");
 			var thisTimeSeconds = textBetween(thisTime, ":", ".");
@@ -17576,7 +17892,8 @@ display:inline;
 			
 			return thisTimeNumber;
 			
-		} // end function timeToNumber
+		} // end function timeToNumberLrc
+		
 		
 		function numberToTime(thisEndTimeNumber)
 		{
@@ -17721,6 +18038,8 @@ display:inline;
 		
 		function durationsButtonClicked()
 		{
+			//debugLog("durationsButtonClicked");
+		
 			var thisSubtitlesText = document.getElementById("thisSubtitlesTextArea").value;
 			
 			var thisSubtitlesLines = thisSubtitlesText.split("\n");
@@ -17730,7 +18049,7 @@ display:inline;
 			var durationsText = "";
 			var currentSubtitle = 1;
 			
-			var subtitleDuration = "";
+			var subtitleDuration = 0;
 			
 			for (var currentLine = 0; currentLine < numberLines; currentLine++)
 			{
@@ -17766,7 +18085,6 @@ display:inline;
 		function mediaViewerButtonClicked()
 		{
 			openMediaViewer();
-			
 		} // end function mediaViewerButtonClicked
 		
 		function lyricsButtonClicked()
@@ -17856,7 +18174,7 @@ display:inline;
 			} // make a new page of 10 new lines
 			
 			outputHtml = replaceChars(outputHtml, "<table>", "<table style=\"margin-left: 400px;\">");
-			outputHtml = replaceChars(outputHtml, "<div class=\"english\">", "<div class=\"english\" style=\"margin-left: 400px;\">");
+			outputHtml = replaceChars(outputHtml, "<div class=\"english\"", "<div class=\"english\" style=\"margin-left: 400px;\"");
 			outputHtml = replaceChars(outputHtml, "<br>", newPageHtml);
 			
 			// Start with enough space to cover the control buttons
@@ -17927,6 +18245,64 @@ display:inline;
 			translateButtonClicked();
 
 		} // end function swapButtonClicked
+		
+		function splitButtonClicked()
+		{
+			var bilingualText = document.getElementById("chineseTextArea").value;
+			
+			var bilingualArray = bilingualText.split("\n");
+			
+			var numberLines = bilingualArray.length;
+			
+			var lastEnglishString = "";
+			
+			var chineseText = "";
+			var englishText = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = bilingualArray[currentLine];
+				
+				if (thisLine == "")
+				{
+					chineseText = chineseText + thisLine + "\n";
+				
+					englishText = englishText + thisLine + "\n";
+				} else {
+				
+					var lineIsChinese = containsChineseString(thisLine);
+				
+					if (lineIsChinese == true)
+					{
+						chineseText = chineseText + thisLine + "\n";
+						
+					} else {
+					
+						englishText = englishText + thisLine + "\n";
+					
+					} // end if the line is chinese
+					
+				} // end if the line is not blank
+				
+			} // end for every line
+			
+			document.getElementById("chineseTextArea").value = chineseText;
+			document.getElementById("englishTextArea").value = englishText;
+			
+			translateButtonClicked();
+		} // end function splitButtonClicked
+		
+		function englishButtonClicked()
+		{
+			var chineseText = document.getElementById("chineseTextArea").value;
+			chineseText = replaceChars(chineseText, "\n", "§");
+			
+			var englishText = document.getElementById("englishTextArea").value;
+			englishText = replaceChars(englishText, "\n", "§");
+			
+			window.open("english.html?text=" + englishText + "&chineseText=" + chineseText, '_blank');
+			
+		} // end function englishButtonClicked
 		
 		function shuffle(array) 
 		{
@@ -18104,6 +18480,62 @@ display:inline;
 			literalText = replaceChars(literalText, "iô chhiú", "iô-chhiú");
 			literalText = replaceChars(literalText, "chi̍t sî", "chi̍t-sî");
 			literalText = replaceChars(literalText, "Sèng Sîn", "Sèng-Sîn");
+			literalText = replaceChars(literalText, "gō͘ ji̍t", "gō͘-ji̍t");
+			literalText = replaceChars(literalText, "chhit ji̍t", "chhit-ji̍t");
+			literalText = replaceChars(literalText, "saⁿ chàn lâu", "saⁿ-chàn-lâu");
+			literalText = replaceChars(literalText, "Chhit ji̍t", "Chhit-ji̍t");
+			literalText = replaceChars(literalText, "chiūⁿ chûn", "chiūⁿ-chûn");
+			literalText = replaceChars(literalText, "tiàm tī", "tiàm-tī");
+			literalText = replaceChars(literalText, "chhiáⁿ kàu-hōe", "chhiáⁿ-kàu-hōe");
+			literalText = replaceChars(literalText, "góa ê", "góa-ê");
+			literalText = replaceChars(literalText, "ta̍k ê", "ta̍k-ê");
+			literalText = replaceChars(literalText, "khòaⁿ chòe", "khòaⁿ-chòe");
+			literalText = replaceChars(literalText, "Siōng-tè ê kok", "Siōng-tè-ê-kok");
+			literalText = replaceChars(literalText, "kìⁿ góa-ê", "kìⁿ-góa-ê");
+			literalText = replaceChars(literalText, "lī-khui liáu-āu", "lī-khui-liáu-āu");
+			literalText = replaceChars(literalText, "saⁿ nî", "saⁿ-nî");
+			literalText = replaceChars(literalText, "tē it", "tē-it");
+			literalText = replaceChars(literalText, "hoān sū", "hoān-sū");
+			literalText = replaceChars(literalText, "bô ēng", "bô-ēng");
+			literalText = replaceChars(literalText, "tē jī", "tē-jī");
+			literalText = replaceChars(literalText, "hoān sū", "hoān-sū");
+			literalText = replaceChars(literalText, "lâi sìn", "lâi-sìn");
+			literalText = replaceChars(literalText, "lī-khui liáu-āu", "lī-khui-liáu-āu");
+			literalText = replaceChars(literalText, "chi̍t chiah", "chi̍t-chiah");
+			literalText = replaceChars(literalText, "chiūⁿ soaⁿ", "chiūⁿ-soaⁿ");
+			literalText = replaceChars(literalText, "sià chāi", "sià-chāi");
+			literalText = replaceChars(literalText, "chi̍t chiah", "chi̍t-chiah");
+			literalText = replaceChars(literalText, "chiūⁿ chûn", "chiūⁿ-chûn");
+			literalText = replaceChars(literalText, "tiong chi̍t-ê", "tiong-chi̍t-ê");
+			literalText = replaceChars(literalText, "sì ê", "sì-ê");
+			literalText = replaceChars(literalText, "thoân hok-im", "thoân-hok-im");
+			literalText = replaceChars(literalText, "siū khó͘-khǹg", "siū-khó͘-khǹg");
+			literalText = replaceChars(literalText, "ji̍p khì", "ji̍p-khì");
+			literalText = replaceChars(literalText, "chi̍t hāng", "chi̍t-hāng");
+			literalText = replaceChars(literalText, "chòe kang", "chòe-kang");
+			literalText = replaceChars(literalText, "m̄ nā", "m̄-nā");
+			literalText = replaceChars(literalText, "gōa-pang lâng", "gōa-pang-lâng");
+			literalText = replaceChars(literalText, "hiah-ê lâng", "hiah-ê-lâng");
+			literalText = replaceChars(literalText, "lâi ê", "lâi-ê");
+			literalText = replaceChars(literalText, "tē jī", "tē-jī");
+			literalText = replaceChars(literalText, "hē chhiú", "hē-chhiú");
+			literalText = replaceChars(literalText, "Í-sek-lia̍t lâng", "Í-sek-lia̍t-lâng");
+			literalText = replaceChars(literalText, "thoân kàu", "thoân-kàu");
+			literalText = replaceChars(literalText, "thì thâu-mn̂g", "thì-thâu-mn̂g");
+			literalText = replaceChars(literalText, "sìn Chú", "sìn-Chú");
+			literalText = replaceChars(literalText, "nn̄g tiâu", "nn̄g-tiâu");
+			literalText = replaceChars(literalText, "chi̍t-kù-ōe", "chi̍t kù ōe");
+			literalText = replaceChars(literalText, "Ai-ki̍p lâng", "Ai-ki̍p-lâng");
+			literalText = replaceChars(literalText, "Góa sī", "Góa-sī");
+			literalText = replaceChars(literalText, "lí ê", "lí-ê");
+			literalText = replaceChars(literalText, "góa ê", "góa-ê");
+			literalText = replaceChars(literalText, "iā tùi", "iā-tùi");
+			literalText = replaceChars(literalText, "tio̍h kiâⁿ", "tio̍h-kiâⁿ");
+			literalText = replaceChars(literalText, "hē goān", "hē-goān");
+			literalText = replaceChars(literalText, "hit ê", "hit-ê");
+			literalText = replaceChars(literalText, "thang mah", "thang-mah");
+			literalText = replaceChars(literalText, "in- ", "in ");
+			literalText = replaceChars(literalText, " -in", " in");
 			literalText = replaceChars(literalText, "(", "( ");
 			literalText = replaceChars(literalText, ")", " )");
 			literalText = replaceChars(literalText, "?", " ?");
@@ -18387,22 +18819,32 @@ display:inline;
 			$("#cursor").css({top: newPositionTop, left: newPositionLeft, position:'absolute'});
 			
 			cursorTargetElementId = newTargetElementId;
-			
-			
+						
 			if (contains(newTargetElementId, "chinese") == true)
 			{
 				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
-			
-				document.getElementById("dictionaryEditorChineseTextArea").value = thisWord;
-				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisWord;
+				
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisWord;
+				} else {
+					document.getElementById("dictionaryEditorChineseTextArea").value = thisWord;
+				}
+				
 				//dictionaryEditorSearch();
 
 				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 
 				if (addTaiwanese == true)
 				{
-					document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisWord;
-					taiwaneseDictionaryEditorSearch();
+					if (useMediaViewer == true)
+					{
+						document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = thisWord;
+					} else {
+						document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = thisWord;
+					}
+					
+					//taiwaneseDictionaryEditorSearch();
 				}
 
 			} // end if the cursor word is chinese
@@ -18412,16 +18854,26 @@ display:inline;
 			{
 				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
 				
-				document.getElementById("dictionaryEditorPinyinTextArea").value = thisWord;
-				document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisWord;
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerPinyinTextArea").value = thisWord;
+				} else {
+					document.getElementById("dictionaryEditorPinyinTextArea").value = thisWord;
+				}
+				
 			} // end if the cursor word is pinyin
 
 			if (contains(newTargetElementId, "literal") == true)
 			{
 				var thisWord = document.getElementById(cursorTargetElementId).parentElement.innerText;
 				
-				document.getElementById("dictionaryEditorEnglishTextArea").value = thisWord;
-				document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisWord;
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerEnglishTextArea").value = thisWord;
+				} else {
+					document.getElementById("dictionaryEditorEnglishTextArea").value = thisWord;
+				}
+				
 			} // end if the cursor word is pinyin
 
 
@@ -18434,7 +18886,14 @@ display:inline;
 				if (addTaiwanese == true)
 				{
 					thisWord = replaceChars(thisWord, "-", " ");
-					document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisWord;
+					
+					if (useMediaViewer == true)
+					{
+						document.getElementById("dictionaryEditorMediaViewerPojTextArea").value = thisWord;
+					} else {
+						document.getElementById("taiwaneseDictionaryEditorPojTextArea").value = thisWord;
+					}
+					
 					//taiwaneseDictionaryEditorSearch();
 				}
 			} // end if the cursor word is litMan
@@ -18828,6 +19287,10 @@ display:inline;
 				
 				litManArray[currentLine] = newLitManLine;
 				litManText = litManArray.join("\n");
+				
+				litManText = replaceChars(litManText, "- ", " ");
+				litManText = replaceChars(litManText, " -", " ");
+				
 				document.getElementById('simplifiedInputTextArea').value = litManText;
 				
 				//var newLitManHtml = "<tr id=\"litManLine" + currentLine + "\" class=\"litManLine\">";
@@ -18848,15 +19311,25 @@ display:inline;
 				
 				var newWord = leftWord + rightWord;
 				
-				document.getElementById("dictionaryEditorChineseTextArea").value = newWord;
-				document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = newWord;
+				if (useMediaViewer == true)
+				{
+					document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = newWord;
+				} else {
+					document.getElementById("dictionaryEditorChineseTextArea").value = newWord;
+				}
+				
 				dictionaryEditorCharsButtonClicked();
 
 				var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 
 				if (addTaiwanese == true)
 				{
-					document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = newWord;
+					if (useMediaViewer == true)
+					{
+						document.getElementById("dictionaryEditorMediaViewerChineseTextArea").value = newWord;
+					} else {
+						document.getElementById("taiwaneseDictionaryEditorChineseTextArea").value = newWord;
+					}
 					taiwaneseCharsToPoj();
 				}
 			} // end if we should delete from chinese
@@ -19046,6 +19519,8 @@ display:inline;
   	{
   		//debuglog("openSlideViewer");
   		
+		useMediaViewer = true;
+
 		document.getElementById("mediaViewer").style.visibility = "visible";
 
 		dictionaryEditorEditCounts();
@@ -19111,6 +19586,8 @@ display:inline;
   	{
   		//debuglog("showCursorButtonClicked");
 		
+		useCursor = !useCursor;
+		
 		var cursorId = "cursor";
 		var cursorIdJQuery = "#" + cursorId;
 		
@@ -19141,20 +19618,61 @@ display:inline;
 		
 		//$(cursorIdJQuery).position.top = startPositionTop;
 		//$(cursorIdJQuery).position.left = startPositionLeft;
-				
+		
+		
+			
 		$('body').keydown(function(e) 
 		{
-			cursorKeyDown();
+			if (!$(e.target).is("textarea"))
+			{
+				cursorKeyDown();
+			}
 		});
 		
 		// Disable default arrow keys actions
-		window.addEventListener("keydown", function(e) {
-			// space and arrow keys
-			if([32, 37, 38, 39, 40, 8].indexOf(e.keyCode) > -1) {
+		cursorEventListener = function(e) {
+			// space, delete, and arrow keys
+			if ( ([32, 37, 38, 39, 40, 8].indexOf(e.keyCode) > -1) && !$(e.target).is("textarea") )
+			{
 				e.preventDefault();
 			}
-		}, false);
+		};
+		
+		
+		window.addEventListener("keydown", cursorEventListener, false);
+		
+		// Move the cursor to the line clicked
+		
+		var thisClass = "litManWord";
 
+		var theseElements = document.getElementsByClassName(thisClass);
+   
+		var numberElements = theseElements.length;
+	   
+		//debugLog(thisClass + " has " + numberElements);
+	   
+		if (numberElements > 0)
+		{
+			for (var currentElement = 0; currentElement < numberElements; currentElement++)
+			{
+				var thisElement = theseElements[currentElement];
+			   
+				if (thisElement != undefined)
+				{
+					//debugLog(thisElement.id);
+					var targetId = thisElement.id.toString();
+					//debugLog(targetId);
+					//thisElement.setAttribute("onclick", moveCursorToElement(targetId));
+					thisElement.setAttribute("onclick", "moveCursorToElement(\"" + targetId + "\")");
+					
+    				//$("#" + thisElement.id).attr('onclick', '').click("alert(\"hello\")");
+					
+					//window.addEventListener("onclick", cursorEventListener, false);
+				} // end if the element is not undefined
+			} // end for every element
+		} // end if there are elements
+
+	 	
   		/*
 		document.getElementById("cursor").style.visibility = "visible";
   		
