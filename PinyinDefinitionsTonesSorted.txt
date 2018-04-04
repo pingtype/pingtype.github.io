@@ -1036,6 +1036,88 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 都	All	dōu	dou	1	
 了	is	le	le	1	
 年	year	nián	nian	2	
@@ -1118,10 +1200,13 @@
 我	I	wǒ	wo	3	
 成	to make	chéng	cheng	2	
 意	thought	yì	yi	4	9	
-想	think	xiǎng	xiang	3	
+想	want	xiǎng	xiang	3	
+
+
 
 心	heart	xīn	xin	1	
-得	Get it	dé	de	2	
+得	get	dé	de	2	
+
 
 
 後	after	hòu	hou	4	
@@ -1157,7 +1242,8 @@
 嗎	?	ma	ma	1	
 
 問	ask	wèn	wen	4	
-和	and	hàn	han	4	
+和	and	hé	he	2	
+
 
 
 
@@ -1282,7 +1368,8 @@
 錄	record	lù	lu	4	
 金	gold	jīn	jin	1	8	
 量	quantity	liàng	liang	4	
-重	weight	zhòng	zhong	4	
+重	heavy	zhòng	zhong	4	
+
 部	unit	bù	bu	4	
 邊	side	biān	bian	1	
 選	selected	xuǎn	xuan	3	
@@ -1313,6 +1400,9 @@
 身	body	shēn	shen	1	8	
 路	Luke	lù	lu	4	
 跟	with	gēn	gen	1	
+
+
+
 超	super	chāo	chao	1	
 起	From	qǐ	qi	3	
 走	go	zǒu	zou	3	
@@ -1440,7 +1530,8 @@
 算	Count	suàn	suan	4	
 等	Wait	děng	deng	3	
 第	First	dì	di	4	
-笑	smile	xiào	xiao	4	
+笑	laugh	xiào	xiao	4	
+
 
 竹	bamboo	zhú	zhu	2	8	
 立	made	lì	li	4	
@@ -1566,7 +1657,8 @@
 投	throw	tóu	tou	2	8	
 把	put	bǎ	ba	3	
 
-找	Find	zhǎo	zhao	3	
+找	search	zhǎo	zhao	3	
+
 打	hit	dǎ	da	3	
 才	only	cái	cai	2	
 手	hand	shǒu	shou	3	
@@ -1592,7 +1684,8 @@
 從	From	cóng	cong	2	
 影	shadow	yǐng	ying	3	8	
 形	form	xíng	xing	2	8	
-強	strong	qiáng	qiang	2	8	
+強	better	qiáng	qiang	2	
+
 張	Zhang	zhāng	zhang	1	
 张	stretch	zhāng	zhang	1	8	
 弟	junior	dì	di	4	8	
@@ -1606,7 +1699,8 @@
 平	level	píng	ping	2	
 幫	help	bāng	bang	1	
 常	often	cháng	chang	2	
-帶	lead	dài	dai	4	
+帶	bring	dài	dai	4	
+
 
 帮	help	bāng	bang	1	8	
 師	teacher	shī	shi	1	8	
@@ -1616,7 +1710,10 @@
 市	city	shì	shi	4	
 已	Has been	yǐ	yi	3	
 己	self	jǐ	ji	3	8	
-差	sent	chai	chai	1	
+差	send	chāi	chai	1	
+
+
+
 
 山	mountain	shān	shan	1	
 少	less	shǎo	shao	3	
@@ -1765,7 +1862,8 @@
 住	live	zhù	zhu	4	
 位	one	wèi	wei	4	
 
-似	resemble	shì	shi	4	8	
+似	like	sì	si	4	
+
 传	Ecclesiastes	chuán	chuan	2	
 份	share	fèn	fen	4	
 
@@ -1826,7 +1924,8 @@
 浪	wave	làng	lang	4	7	
 拉	Pull	lā	la	1	
 爛	bad	làn	lan	4	
-落	drop	luò	luo	4	
+落	fall	luò	luo	4	
+
 
 
 黑	black	hēi	hei	1	
@@ -1873,7 +1972,8 @@
 雜	mixed	zá	za	2	7	
 雙	double	shuāng	shuang	1	
 集	set	jí	ji	2	
-雄	hero	xióng	xiong	2	7	
+雄	mighty	xióng	xiong	2	
+
 隻	only	zhī	zhi	1	
 險	dangerous	xiǎn	xian	3	7	
 隨	With	suí	sui	2	
@@ -1980,7 +2080,8 @@
 詳	detailed	xiáng	xiang	2	7	
 詞	word	cí	ci	2	
 評	appraise	píng	ping	2	7	
-註	explain	zhù	zhu	4	7	
+註	note	zhù	zhu	4	
+
 訓	Training	xùn	xun	4	
 角	corner	jiǎo	jiao	3	
 规	rules	guī	gui	1	7	
@@ -1992,7 +2093,8 @@
 衛	guard	wèi	wei	4	7	
 術	art	shù	shu	4	7	
 衆	crowd	zhòng	zhong	4	
-血	blood	xiè	xie	4	7	
+血	blood	xiě	xie	3	
+
 蠻	quite	mán	man	2	
 螢	glow-worm	yíng	ying	2	7	
 蛮	barbarians	mán	man	2	7	
@@ -2003,7 +2105,8 @@
 薦	offer	jiàn	jian	4		
 蓝	blue	lán	lan	2	7	
 葉	leaf	yè	ye	4	
-落	drop	luò	luo	4		
+落	fall	luò	luo	4	
+	
 营	encampment	yíng	ying	2	7	
 萤	glow-worm	yíng	ying	2	7	
 莫	no	mò	mo	4	
@@ -2035,7 +2138,8 @@
 群	group	qún	qun	2	
 羅	Romans	luó	luo	2	
 罷	stop	bà	ba	4	
-罵	curse	mà	ma	4	
+罵	scold	mà	ma	4	
+
 置	place	zhì	zhi	4	7	
 罪	sin	zuì	zui	4	7	
 罢	cease	bà	ba	4	7	
@@ -2105,7 +2209,8 @@
 睡	sleep	shuì	shui	4	
 眾	all	zhòng	zhong	4	
 省	province	shěng	sheng	3	7	
-盡	try your best	jǐn	jin	3	
+盡	try your best	jìn	jin	4	
+
 
 益	profit	yì	yi	4	7	
 皮	skin	pí	pi	2	
@@ -2127,7 +2232,8 @@
 环	ring	huán	huan	2	7	
 率	rate	shuài	shuai	4	
 狗	dog	gǒu	gou	3	
-狂	insane	kuáng	kuang	2	7	
+狂	crazy	kuáng	kuang	2	
+
 狀	form	zhuàng	zhuang	4	7	
 状	form	zhuàng	zhuang	4	7	
 牛	Cattle	niú	niu	2	
@@ -2156,7 +2262,8 @@
 漢	Chinese	hàn	han	4	7	
 演	perform	yǎn	yan	3	7	
 溫	temperature	wēn	wen	1	
-準	quasi-	zhǔn	zhun	3	
+準	probably	zhǔn	zhun	3	
+
 源	spring	yuán	yuan	2	7	
 湖	lake	hú	hu	2	
 測	Measurement	cè	ce	4	
@@ -2205,15 +2312,18 @@
 
 楚	clear	chǔ	chu	3	7	
 楊	willow	yáng	yang	2	7	
-棒	Baton	bàng	bang	4	
+棒	staff	bàng	bang	4	
+
 检	check	jiǎn	jian	3	7	
-條	Article	tiáo	tiao	2	
+條	one	tiáo	tiao	2	
+
 梅	plums	méi	mei	2	7	
 根	root	gēn	gen	1	
 核	seed	hé	he	2	7	
 树	tree	shù	shu	4	7	
 查	check	chá	cha	2	
-某	that	mǒu	mou	3	7	
+某	wife	mǒu	mou	3	
+
 架	frame	jià	jia	4	
 杨	willow	yáng	yang	2	7	
 条	item	tiáo	tiao	2	
@@ -2225,7 +2335,8 @@
 暴	violent	bào	bao	4	7	
 暗	dark	àn	an	4	7	
 智	wisdom	zhì	zhi	4	7	
-景	scenery	jǐng	jing	3	7	
+景	scene	jǐng	jing	3	
+
 普	universal	pǔ	pu	3	7	
 晚	late	wǎn	wan	3	
 显	show	xiǎn	xian	3	
@@ -2307,7 +2418,8 @@
 微	small	wēi	wei	1	7	
 復	return	fù	fu	4	7	
 律	statute	lǜ	lu	4	7	
-待	To be	dāi	dai	1	
+待	treat	dài	dai	4	
+
 往	to	wǎng	wang	3	
 彩	hue	cǎi	cai	3	7	
 归	return	guī	gui	1	7	
@@ -2395,7 +2507,8 @@
 嚴	strict	yán	yan	2	7	
 嘿	hey	hēi	hei	1	
 嘻	mirthful	xī	xi	1	7	
-嗚	sobbing	wū	wu	1	7	
+嗚	wu	wū	wu	1	
+
 善	good	shàn	shan	4	7	
 啥	what	shà	sha	4	
 啟	start	qǐ	qi	3	
@@ -2406,7 +2519,8 @@
 哦	Oh	ó	o	2	7	
 哥	older brother	gē	ge	1	7	
 响	sound	xiǎng	xiang	3	7	
-哇	wow	wa	wa	1	
+哇	wa	wa	wa	1	
+
 呼	exhale	hū	hu	1	7	
 味	taste	wèi	wei	4	7	
 周	week	zhōu	zhou	1	7	
@@ -2586,7 +2700,8 @@
 饮	drink	yǐn	yin	3	6	
 饭	food	fàn	fan	4	6	
 餘	I	yú	yu	2	
-餅	cake	bǐng	bing	3	
+餅	bread	bǐng	bing	3	
+
 飾	decorate	shì	shi	4	6	
 飽	full	bǎo	bao	3	
 飲	drink	yǐn	yin	3	6	
@@ -2659,7 +2774,9 @@
 
 閒	leisure	xián	xian	2	6	
 閉	shut	bì	bi	4	6	
-閃	flash	shǎn	shan	3	6	
+閃	flash	shǎn	shan	3	
+
+
 镜	mirror	jìng	jing	4	6	
 镇	town	zhèn	zhen	4	6	
 锺	cup	zhōng	zhong	1		
@@ -2758,7 +2875,8 @@
 轨	track	guǐ	gui	3	6	
 轟	rumble	hōng	hong	1	6	
 輪	wheel	lún	lun	2	6	
-輩	generation	bèi	bei	4	6	
+輩	like	bèi	bei	4	
+
 輝	brightness	huī	hui	1	6	
 輛	Car	liàng	liang	4	
 輔	protective	fǔ	fu	3	6	
@@ -2922,10 +3040,12 @@
 芬	fragrance	fēn	fen	1	6	
 艾	Ai	ài	ai	4	
 艦	warship	jiàn	jian	4		
-船	ferry	chuán	chuan	2	
+船	ship	chuán	chuan	2	
+
 舰	warship	jiàn	jian	4		
 航	sail	háng	hang	2	6	
-舟	boat	give	zhōu	zhou	1	6	
+舟	boat	zhōu	zhou	1	
+
 舒	unfold	shū	shu	1	6	
 舍	house	shě	she	3	6	
 臭	smelly	chòu	chou	4	
@@ -3074,7 +3194,8 @@
 砍	cut	kǎn	kan	3	
 砂	sand	shā	sha	1	6	
 短	short	duǎn	duan	3	
-矣	Carry on	yǐ	yi	3	6	
+矣	hey	yǐ	yi	3	
+
 矛	spear	máo	mao	2	6	
 瞭	bright	liǎo	liao	3	6	
 瞧	see	qiáo	qiao	2	6	
@@ -3088,7 +3209,8 @@
 
 盟	swear	méng	meng	2	6	
 盜	rob	dào	dao	4	6	
-盛	Sheng	shèng	sheng	4	
+盛	fill	chéng	cheng	2	
+
 盘	tray	pán	pan	2	6	
 盖	build	gài	gai	4	
 
@@ -3138,7 +3260,8 @@
 狠	ruthless	hěn	hen	3	
 狐	fox	hú	hu	2	6	
 犹	Jude	yóu	you	2	
-犯	criminal	fàn	fan	4	
+犯	sinning	fàn	fan	4	
+
 
 犧	sacrifice	xī	xi	1	6	
 牽	hold	qiān	qian	1	
@@ -3166,7 +3289,8 @@
 煙	smoke	yān	yan	1	6	
 焦	burned	jiāo	jiao	1	6	
 烧	fever	shāo	shao	1	
-烤	grilled	kǎo	kao	3	
+烤	bake	kǎo	kao	3	
+
 烏	crow	wū	wu	1	6	
 烈	fiery	liè	lie	4	6	
 炸	scald	zhà	zha	4	6	
@@ -3188,7 +3312,8 @@
 
 漲	inflation	zhǎng	zhang	3	6	
 漏	leak	lòu	lou	4	
-漂	float	piào	piao	4	6	
+漂	fall	piào	piao	4	
+
 滾	turn	gǔn	gun	3	6	
 滴	drop	dī	di	1	
 滥	flood	làn	lan	4	6	
@@ -3242,7 +3367,8 @@
 沉	sink	chén	chen	2	6	
 沈	sink	chén	chen	2	6	
 汽	steam	qì	qi	4		
-汪	vast	wāng	wang	1	6	
+汪	woof	wāng	wang	1	
+
 汤	soup	tāng	tang	1	6	
 污	filthy	wū	wu	1	6	
 池	pool	chí	chi	2	6	
@@ -3346,7 +3472,8 @@
 擁	embrace	yōng	yong	1	6	
 撿	pick up	jiǎn	jian	3	6	
 撥	dial	bō	bo	1	
-撞	bump	zhuàng	zhuang	4	
+撞	collide	zhuàng	zhuang	4	
+
 撐	support	chēng	cheng	1	6	
 摸	touch	mō	mo	1	6	
 摩	rub	mó	mo	2	6	
@@ -3360,7 +3487,8 @@
 搖	wag	yáo	yao	2	6	
 損	damage	sǔn	sun	3	
 揮	direct	huī	hui	1	6	
-握	grasp	wò	wo	4	6	
+握	hold	wò	wo	4	
+
 揚	scatter	yáng	yang	2	6	
 插	insert	chā	cha	1	6	
 描	copy	miáo	miao	2	6	
@@ -3446,7 +3574,8 @@
 惧	fear	mountain	jù	ju	4	
 惠	favor	huì	hui	4	6	
 惑	confuse	huò	huo	4	6	
-悶	stuffy	mēn	men	1	
+悶	boring	mēn	men	1	
+
 悠	long	yōu	you	1	6	
 悟	realize	wù	wu	4	6	
 悔	repent	huǐ	hui	3	6	
@@ -3455,7 +3584,8 @@
 恼	angered	nǎo	nao	3	6	
 恰	just	qià	qia	4	6	
 恭	respectful	gōng	gong	1	6	
-恩	kindness	ēn	en	1	6	
+恩	grace	ēn	en	1	
+
 恨	hate	hèn	hen	4	
 恥	shame	chǐ	chi	3	6	
 恢	restore	huī	hui	1	6	
@@ -3531,7 +3661,8 @@
 崇	esteem	chóng	chong	2	6	
 島	island	dǎo	dao	3	6	
 峰	peak	fēng	feng	1	6	
-岸	bank	àn	an	4	6	
+岸	shore	àn	an	4	
+
 岛	island	dǎo	dao	3	6	
 層	storey	céng	ceng	2	6	
 屠	butcher	tú	tu	2	6	
@@ -3620,7 +3751,8 @@
 墨	ink	mò	mo	4	
 塵	dust	chén	chen	2	6	
 填	fill	tián	tian	2	
-塞	Stuffed	sāi	sai	1	6	
+塞	tucked in	sāi	sai	1	
+
 塗	Painted	tú	tu	2	
 塔	tower	tǎ	ta	3	
 堪	worthy	kān	kan	1	6	
@@ -3741,7 +3873,8 @@
 兽	beast	shòu	shou	4	6	
 兼	unite	jiān	jian	1	6	
 兔	rabbit	tù	tu	4	6	
-兇	atrocious	xiōng	xiong	1	6	
+兇	terrible	xiōng	xiong	1	
+
 允	grant	yǔn	yun	3	6	
 儘	utmost	jǐn	jin	3	6	
 儒	Confucischolar	rú	ru	2	6	
@@ -4117,7 +4250,8 @@
 錫	tin	xí	xi	2	
 錚	clang	zhēng	zheng	1	
 錐	gimlet	zhuī	zhui	1	
-鋸	amputate	mountain	jù	ju	4	
+鋸	saw	jù	ju	4	
+
 
 鋪	lay	pū	pu	1	
 
@@ -4495,7 +4629,7 @@
 薯	yam	shǔ	shu	3	
 薛	grass	xuē	xue	1	
 薔	rose	qiáng	qiang	2	
-薑	ginger	stiff	jiāng	jiang	1	
+薑	ginger	jiāng	jiang	1	
 薇	Osmundregalis	wēi	wei	1	
 蕾	buds	lěi	lei	3	
 蕪	weeds	wú	wu	2	
@@ -4553,7 +4687,8 @@
 莹	bright	yíng	ying	2	
 莘	long	shēn	shen	1	
 莖	stem	jīng	jing	1	
-莓	moss	pieces	méi	mei	2	
+莓	berry	méi	mei	2	
+
 莒	taro	jǔ	ju	3	
 荻	reed	dí	di	2	
 荳	beans	dòu	dou	4	
@@ -4606,7 +4741,8 @@
 舌	tongue	shé	she	2	
 舆	cart	yú	yu	2	
 舅	uncle	jiù	jiu	4	
-臼	mortar	jiù	jiu	4	
+臼	joint	jiù	jiu	4	
+
 臻	reach	zhēn	zhen	1	
 臣	minister	chén	chen	2	
 臟	viscera	zàng	zang	4	
@@ -4792,7 +4928,7 @@
 粵	guangdong	yuè	yue	4	
 粮	food	liáng	liang	2	
 粪	manure	fèn	fen	4	
-粥	congee	give	zhōu	zhou	1	
+粥	congee	zhōu	zhou	1	
 粘	stick	nián	nian	2	
 粒	grain	lì	li	4	
 籽	seed	zǐ	zi	3	
@@ -4998,7 +5134,7 @@
 疋	roll	pǐ	pi	3	
 疊	Stack	dié	die	2	
 疇	farmland	chóu	chou	2	
-疆	boundary	stiff	jiāng	jiang	1	
+疆	boundary	jiāng	jiang	1	
 畸	odd	jī	ji	1	
 畴	farmland	chóu	chou	2	
 畜	livestock	chù	chu	4	
@@ -5261,7 +5397,8 @@
 汲	imbibe	jí	ji	2	
 汰	excessive	tài	tai	4	
 汙	filthy	wū	wu	1	
-汗	perspiration	hàn	han	4	
+汗	sweat	hàn	han	4	
+
 汎	float	fàn	fan	4	
 汇	concourse	huì	hui	4	
 汁	juice	zhī	zhi	1	
@@ -5474,7 +5611,8 @@
 撕	rip	sī	si	1	
 撓	scratch	náo	nao	2	
 撒	spread	sā	sa	1	
-撈	dredge	lāo	lao	1	
+撈	pick up	lāo	lao	1	
+
 撇	discard	piē	pie	1	
 摺	fold	zhé	zhe	2	
 摹	trace	mó	mo	2	
@@ -5489,7 +5627,8 @@
 搜	search	sōu	sou	1	
 搗	hull	dǎo	dao	3	
 搔	scratch	sāo	sao	1	
-搏	seize	bó	bo	2	
+搏	gamble	bó	bo	2	
+
 搅	disturb	jiǎo	jiao	3	
 搂	hug	lǒu	lou	3	
 搁	place	gē	ge	1	
@@ -5542,7 +5681,8 @@
 拘	restrain	jū	ju	1	
 拗	pull	ǎo	ao	3	
 拓	expand	tà	ta	4	
-拐	Shui	guǎi	guai	3	
+拐	crutch	guǎi	guai	3	
+
 拌	mix	bàn	ban	4	
 拈	twist	niān	nian	1	
 拇	thumb	mǔ	mu	3	
@@ -5810,7 +5950,7 @@
 姨	concubine	yí	yi	2	
 姦	adultery	jiān	jian	1	
 姥	midwife	lǎo	lao	3	
-姜	surname	stiff	jiāng	jiang	1	
+姜	surname	jiāng	jiang	1	
 姚	handsome	yáo	yao	2	
 妾	concubine	qiè	qie	4	
 妞	girl	niū	niu	1	
@@ -6086,7 +6226,7 @@
 儉	temperate	jiǎn	jian	3	
 儂	I	nóng	nong	2	
 僻	remote	pì	pi	4	
-僵	still	stiff	jiāng	jiang	1	
+僵	still	jiāng	jiang	1	
 僱	employ	gù	gu	4	
 僧	monk	sēng	seng	1	
 僥	fool	jiǎo	jiao	3	
@@ -6421,7 +6561,8 @@
 瓊	
 璅	
 瑱	
-瑜	4	
+瑜	yoga	yú	yu	2	
+
 瑇	
 㺸	
 㺸	
@@ -12466,7 +12607,7 @@
 𪆃	
 𪆂	qú	qu	2	
 𪆁	sī	si	1	
-𪆀	give	zhōu	zhou	1	
+𪆀	zhōu	zhou	1	
 𪅿	
 𪅾	qī	qi	1	
 𪅽	
@@ -13465,7 +13606,7 @@
 𩶦	guài	guai	4	
 𩶥	huǐ	hui	3	
 𩶤	xiǎn	xian	3	
-𩶣	give	zhōu	zhou	1	
+𩶣	zhōu	zhou	1	
 𩶢	móu	mou	2	
 𩶡	méng	meng	2	
 𩶠	
@@ -14417,7 +14558,7 @@
 𩧶	
 𩧵	jié	jie	2	
 𩧴	quān	quan	1	
-𩧳	give	zhōu	zhou	1	
+𩧳	zhōu	zhou	1	
 𩧲	dòng	dong	4	
 𩧱	jì	ji	4	
 𩧰	hún	hun	2	
@@ -14735,7 +14876,7 @@
 𩢻	shú	shu	2	
 𩢺	
 𩢹	jiù	jiu	4	
-𩢸	give	zhōu	zhou	1	
+𩢸	zhōu	zhou	1	
 𩢷	mò	mo	4	
 𩢶	yú	yu	2	
 𩢵	tuō	tuo	1	
@@ -18628,7 +18769,7 @@
 𨦡	yóng	yong	2	
 𨦠	
 𨦟	
-𨦞	give	zhōu	zhou	1	
+𨦞	zhōu	zhou	1	
 𨦝	
 𨦜	máo	mao	2	
 𨦛	fù	fu	4	
@@ -20080,7 +20221,7 @@
 𨏽	
 𨏼	
 𨏻	
-𨏺	give	zhōu	zhou	1	
+𨏺	zhōu	zhou	1	
 𨏹	jué	jue	2	
 𨏸	
 𨏷	
@@ -20499,7 +20640,7 @@
 𨉟	
 𨉞	
 𨉝	wān	wan	1	
-𨉜	give	zhōu	zhou	1	
+𨉜	zhōu	zhou	1	
 𨉛	
 𨉚	ā	a	1	
 𨉙	
@@ -21407,7 +21548,7 @@
 𧻙	轉灣𧻙角	mò	mo	4	
 𧻘	qiè	qie	4	
 𧻗	jú	ju	2	
-𧻖	give	zhōu	zhou	1	
+𧻖	zhōu	zhou	1	
 𧻕	qì	qi	4	
 
 𧻔	basket	kuāng	kuang	1	
@@ -22696,7 +22837,7 @@
 𧧗	
 𧧖	
 𧧕	zì	zi	4	
-𧧔	give	zhōu	zhou	1	
+𧧔	zhōu	zhou	1	
 𧧓	xù	xu	4	
 𧧒	cì	ci	4	
 𧧑	
@@ -22918,7 +23059,7 @@
 𧣺	nuò	nuo	4	
 𧣹	tán	tan	2	
 𧣸	jué	jue	2	
-𧣷	give	zhōu	zhou	1	
+𧣷	zhōu	zhou	1	
 𧣶	
 𧣵	lùn	lun	4	
 𧣴	cup	
@@ -24749,7 +24890,7 @@
 𧇢	
 𧇡	gū	gu	1	
 𧇠	yào	yao	4	
-𧇟	give	zhōu	zhou	1	
+𧇟	zhōu	zhou	1	
 𧇞	qiāng	qiang	1	
 𧇝	shú	shu	2	
 𧇜	qì	qi	4	
@@ -26403,7 +26544,7 @@
 𦭷	móu	mou	2	
 𦭶	xiǎn	xian	3	
 𦭵	yáng	yang	2	
-𦭴	give	zhōu	zhou	1	
+𦭴	zhōu	zhou	1	
 𦭳	yǔ	yu	3	
 𦭲	qí	qi	2	
 𦭱	
@@ -26707,7 +26848,7 @@
 𦩋	bài	bai	4	
 𦩊	
 𦩉	
-𦩈	give	zhōu	zhou	1	
+𦩈	zhōu	zhou	1	
 𦩇	
 𦩆	
 𦩅	
@@ -29384,7 +29525,7 @@
 𥿩	zì	zi	4	
 𥿨	míng	ming	2	
 𥿧	xiǎng	xiang	3	
-𥿦	give	zhōu	zhou	1	
+𥿦	zhōu	zhou	1	
 𥿥	
 𥿤	
 𥿣	
@@ -29573,7 +29714,7 @@
 𥼮	tán	tan	2	
 𥼭	lín	lin	2	
 𥼬	róng	rong	2	
-𥼫	give	zhōu	zhou	1	
+𥼫	zhōu	zhou	1	
 𥼪	zǔ	zu	3	
 𥼩	zī	zi	1	
 𥼨	
@@ -29714,8 +29855,8 @@
 𥺡	
 𥺠	
 𥺟	
-𥺞	give	zhōu	zhou	1	
-𥺝	give	zhōu	zhou	1	
+𥺞	zhōu	zhou	1	
+𥺝	zhōu	zhou	1	
 𥺜	nì	ni	4	
 𥺛	
 𥺚	xí	xi	2	
@@ -32325,7 +32466,7 @@
 𥑻	xiān	xian	1	
 𥑺	ē	e	1	
 𥑹	kuā	kua	1	
-𥑸	give	zhōu	zhou	1	
+𥑸	zhōu	zhou	1	
 𥑷	
 𥑶	lěi	lei	3	
 𥑵	duī	dui	1	
@@ -32697,7 +32838,7 @@
 𥌉	
 𥌈	jiān	jian	1	
 𥌇	
-𥌆	give	zhōu	zhou	1	
+𥌆	zhōu	zhou	1	
 𥌅	yè	ye	4	
 𥌄	kū	ku	1	
 𥌃	zhěn	zhen	3	
@@ -41862,7 +42003,7 @@
 𢽪	
 𢽩	pēng	peng	1	
 𢽨	hū	hu	1	
-𢽧	give	zhōu	zhou	1	
+𢽧	zhōu	zhou	1	
 𢽦	kōng	kong	1	
 𢽥	
 𢽤	
@@ -44756,7 +44897,7 @@
 𢐮	
 𢐭	
 𢐬	
-𢐫	give	zhōu	zhou	1	
+𢐫	zhōu	zhou	1	
 𢐪	
 𢐩	qiǎng	qiang	3	
 𢐨	
@@ -44834,7 +44975,7 @@
 𢏠	
 𢏟	
 𢏞	jí	ji	2	
-𢏝	give	zhōu	zhou	1	
+𢏝	zhōu	zhou	1	
 𢏜	tuó	tuo	2	
 𢏛	
 𢏚	
@@ -49926,7 +50067,7 @@
 𡀔	lu	lù	lu	4	
 𡀓	
 𡀒	
-𡀑	give	zhōu	zhou	1	
+𡀑	zhōu	zhou	1	
 𡀐	
 𡀏	
 𡀎	
@@ -50881,7 +51022,7 @@
 𠱜	zùn	zun	4	
 𠱛	bǐng	bing	3	
 𠱚	lòng	long	4	
-𠱙	give	zhōu	zhou	1	
+𠱙	zhōu	zhou	1	
 𠱘	opposing	nì	ni	4	
 𠱗	suō	suo	1	
 𠱖	
@@ -51727,7 +51868,7 @@
 𠤐	
 𠤏	tithing	bǎo	bao	3	
 𠤎	huà	hua	4	
-𠤍	give	zhōu	zhou	1	
+𠤍	zhōu	zhou	1	
 𠤌	
 𠤋	
 𠤊	qióng	qiong	2	
@@ -51780,7 +51921,7 @@
 𠣛	
 𠣚	
 𠣙	
-𠣘	give	zhōu	zhou	1	
+𠣘	zhōu	zhou	1	
 𠣗	
 𠣖	xuán	xuan	2	
 𠣕	jūn	jun	1	
@@ -52331,7 +52472,7 @@
 𠚶	
 𠚵	mountain	jù	ju	4	
 
-𠚴	give	zhōu	zhou	1	
+𠚴	zhōu	zhou	1	
 𠚳	kuò	kuo	4	
 𠚲	
 𠚱	zhé	zhe	2	
@@ -54833,7 +54974,8 @@
 麥穗	Wheat	mài suì	mai sui 	44	
 麥稈	Straw	mài gǎn	mai gan 	43	
 麥田	Wheat field	mài tián 	mai tian 	42	
-麥比拉	Mabila	mài bǐ lā	mai bi la	431	
+麥比拉	Machpelah	mài bǐ lā	mai bi la	431	
+
 麥子	wheat	mài zi	mai zi	4	
 麥基洗德	Melchizeda	mài jī xǐ dé	mai ji xi de	4132	
 麥基	McKee	mài jī	mai ji	41	
@@ -54936,7 +55078,7 @@
 鹁	bó	bo	2	
 鹀	wú	wu	2	
 鸾	luán	luan	2	
-鸼	give	zhōu	zhou	1	
+鸼	zhōu	zhou	1	
 鸻	héng	heng	2	
 鸺	xiū	xiu	1	
 鸹	crow	guā	gua	1	
@@ -55175,11 +55317,12 @@
 鵆	heng	heng	1	
 鵅	luò	luo	4	
 鵄	kite	zhī	zhi	1	
-鵃	give	zhōu	zhou	1	
+鵃	zhōu	zhou	1	
 鵂	owl	xiū	xiu	1	
 鵁	jiāo	jiao	1	
 鵀	hoopoe	rén	ren	2	
-鴿子	pigeon	gē zi	ge zi	1	
+鴿子	dove	gē zi	ge zi	11	
+
 鴾	móu	mou	2	
 鴽	rú	ru	2	
 鴼	luò	luo	4	
@@ -55827,7 +55970,8 @@
 高歌	Singing	gāo gē	gao ge 	11	
 高樓	High rise	gāo lóu	gao  	12	
 高明	clever	gāo míng 	gao ming 	121	
-高於	Above	gāo wū	gao yu 	11	
+高於	above	gāo yú	gao yu	12	
+
 高抬	High lift	gāo tái	gao tai 	12	
 高手	Master	gāo shǒu 	gao shou 	131	
 高度	height	gāo dù	gao du	14	
@@ -55840,7 +55984,8 @@
 高塔	Towers	gāo tǎ	gao ta 	13	
 高地	Highland	gāo dì	gao de 	14	
 高喊	Shouting	gāo hǎn	gao han 	13	
-高唱	chant	gāo chàng	gao chang 	14	
+高唱	sing	gāo chàng	gao chang	14	
+
 高呼	Shouting	gāo hū	gao hu 	11	
 高原	plateau	gāo yuán 	gao yuan 	121	
 高升	exalt	gāo shēng 	gao sheng 	111	
@@ -56131,7 +56276,7 @@
 騉	kūn	kun	1	
 騈	associate	pián	pian	2	
 騇	shè	she	4	
-騆	give	zhōu	zhou	1	
+騆	zhōu	zhou	1	
 騅	zhuī	zhui	1	
 騄	lù	lu	4	
 騃	stupid	ái	ai	2	
@@ -56178,7 +56323,8 @@
 駜	bì	bi	4	
 駛近	Approaching	shǐ jìn	shi jin 	34	
 駛向	Heading towards	shǐ xiàng	shi xiang 	34	
-駛去	Drove down	shǐ qù	shi qu 	34	
+駛去	headed	shǐ qù	shi qu	34	
+
 駚	yǎng	yang	3	
 駙	extrhorse	fù	fu	4	
 駘	tired	tái	tai	2	
@@ -56228,7 +56374,8 @@
 馷	pèi	pei	4	
 馶	zhī	zhi	1	
 馵	zhù	zhu	4	
-馴養	Domesticated	xún yǎng 	xun yang 	23	
+馴養	domesticated	xùn yǎng 	xun yang 	431	
+
 馴良	docile	xùn liáng 	xun liang 	421	
 馴服	tame	xùn fú	xun fu 	42	
 馳騁	gallop	chí chěng 	chi cheng 	23	
@@ -56243,7 +56390,8 @@
 馬門	Horse gate	mǎ mén 	ma men 	32	
 馬車	carriage	mǎ chē 	ma  	31	
 馬蹄聲	Hoof sound	mǎ tí shēng 	ma ti sheng 	321	
-馬蹄	Horseshoe	mǎ tí	ma ti 	32	
+馬蹄	horse's hooves	mǎ tí	ma ti	32	
+
 馬路	road	mǎ lù	ma lu	34	
 馬耳他	Malta	mǎ ěr tā	ma er ta	331	
 馬槽	manger	mǎ cáo	ma cao 	32	
@@ -56525,7 +56673,8 @@
 飣	sacrifice	dìng	ding	4	
 飢餓	hunger	jī è	ji e	14	
 飢荒	famine	jī huang	ji huang 	11	
-飢腸轆轆	Hungry	jī cháng lùlù	ji chang lu lu 	124	
+飢腸轆轆	hungry	jī cháng lù lù	ji chang lu lu	1244	
+
 飢渴	Hungry	jī kě	ji ke 	13	
 飡	meal	cān	can	1	
 飠	eat	shí	shi	2	
@@ -56692,7 +56841,8 @@
 顮	bīn	bin	1	
 顭	méng	meng	2	
 顬	rú	ru	2	
-顫抖	Trembling	zhàn dǒu	zhan dou	43	
+顫抖	trembling	chàn dǒu	chan dou	43	
+
 顫慄	trembling	chàn lì	chan  	44	
 顪	huì	hui	4	
 顩	yǎn	yan	3	
@@ -56752,7 +56902,8 @@
 顆白果	Pine fruit	kē bái guǒ 	ke bai guo 	123	
 顆瓜子	Melon seeds	kē guā zǐ 	ke gua zi 	113	
 顆珠	Beads	kē zhū 	ke zhu 	11	
-顆珍珠	Pearl pearl	kē zhēn zhū 	ke zhen zhu 	111	
+顆珍珠	pearl	kē zhēn zhū 	ke zhen zhu 	1111	
+
 顆恆星	Stars	kē héng xīng 	ke heng xing 	121	
 顆心	Heart	kē xīn 	ke xin 	11	
 顆平常心	Fairness	kē píng cháng xīn 	ke ping chang xin 	1221	
@@ -56875,7 +57026,8 @@
 頑強	tenacious	wán qiáng	wan qiang	22	
 頑固	stubborn	wán gù	wan gu 	24	
 預警	Early warning	yù jǐng 	yu jing 	3	
-預謀	Premeditated	yù móu 	yu mou 	42	
+預謀	scheme	yù móu 	yu mou 	421	
+
 預計	Expected	yù jì 	yu ji 	441	
 預言	prophecy	yù yán 	yu yan 	42	
 預見	Foreseen	yù jiàn 	yu  	44	
@@ -57117,7 +57269,8 @@
 靤	bào	bao	4	
 靣	miàn	mian	4	
 面頰	Cheek	miàn jiá	mian jia 	42	
-面面相覷	Looked at each other	miàn miàn xiàng qù	mian mian xiang qu 	4444	
+面面相覷	looked at each other	miàn miàn xiāng qù	mian mian xiang qu	4414	
+
 面鑼	Gong	miàn luó 	miàn luó 	42	
 面鏡子	Face mirror	miàn jìng zi	mian jing zi	441	
 面貌	face	miàn mào	mian mao	44	
@@ -57293,7 +57446,7 @@
 霑	soaked	zhān	zhan	1	
 霐	hóng	hong	2	
 霏	fēi	fei	1	
-霌	give	zhōu	zhou	1	
+霌	zhōu	zhou	1	
 霋	slight	qī	qi	1	
 霊	spirit	líng	ling	2	
 霉菌	Mold	méi jūn 	mei jun 	21	
@@ -57401,8 +57554,6 @@
 難以形容	Indescribable	nán yǐ xíng róng 	 yi xing rong 	2322	
 難以	difficult	nán yǐ	nan yi	23	
 難事	Difficult	nán shì	 shi 	24	
-離非利	From non-profit	lí fēi lì	li fei li	214	
-離陸	From the land	lí lù	  	24	
 離間	Separated from the room	lí jiàn 	 jian 	24	
 離開	go away	lí kāi 	li kai 	211	
 離火	From the fire	lí huǒ	li huo	23	
@@ -57526,11 +57677,13 @@
 雅哈謝	Ya ha xue	yā hā xiè	ya ha xie	114	
 雅哈悉	Ya xa	yā hā xī	ya ha xi	111	
 雅和	Ya and	yā hé	ya he	12	
-雅各	Jacob	yā gè	ya ge	14	
+雅各	Jacob	yǎ gè	ya ge	34	
 
 
 
-雅博	Yabo	yā bó 	ya bo 	12	
+
+雅博	Jabbok	yǎ bó	ya bo	32	
+
 雅則	Ya	yā zé	ya ze 	12	
 雅利	Yali	yā lì	ya li	14	
 雅列	Yale	yā liè	ya lie	14	
@@ -57669,7 +57822,8 @@
 隩	profound	ào	ao	4	
 隨風	wind	suí fēng	sui feng 	21	
 隨身	Carry it	suí shēn	sui shen	21	
-隨行	Accompanied by	suí háng	sui  	22	
+隨行	accompanied by	suí xíng	sui xing	22	
+
 隨處	everywhere	suí chù 	sui chu 	24	
 隨著	along with	suí zhe	sui zhe	25	
 隨耶	With yeah	suí yē	suí yē	21	
@@ -57803,7 +57957,8 @@
 除我	Except me	chú wǒ	chu wo	23	
 除外	except	chú wài	chu wai 	24	
 除名	Deleted	chú míng 	chu ming 	22	
-除去	Removed	chù qú	chu qu 	42	
+除去	remove	chú qù	chu qu	24	
+
 除你	Except you	chú nǐ	chu ni	23	
 除了	apart from	chú le	chu le	21	
 陣鼓聲	Array drums	zhèn gǔ shēng 	zhen gu sheng 	431	
@@ -57846,7 +58001,8 @@
 降雪	Snowfall	jiàng xuě	 xue 	43	
 降雨	Rainfall	jiàng yǔ	 yu 	43	
 降與	Down and down	jiàng yǔ	jiang yu	43	
-降臨	Come on	jiàng lín	  	42	
+降臨	come	jiàng lín	jiang lin	42	
+
 降福	Blessing	jiàng fú	  	42	
 降生	Born	jiàng shēng	 sheng 	41	
 降服	surrender	xiáng fú	 fu 	22	
@@ -58238,7 +58394,8 @@
 長驅直入	Drive straight ahead	cháng qū zhí rù	chang qu  ru 	2124	
 長遠	long	cháng yuǎn	chang yuan	23	
 長達	Up to	cháng dá	chang da 	22	
-長進	Grow into	zhǎng jìn	zhang jin	34	
+長進	progress	zhǎng jìn	zhang jin	34	
+
 長途跋涉	Travel long distances	cháng tú bá shè	chang tu ba she 	2224	
 長輩	elder	zhǎng bèi	zhang bei	34	
 長起	Grow up	zhǎng qǐ	zhang qi	33	
@@ -59062,7 +59219,7 @@
 銅匠	Coppersman	tóng jiang	tong jiang 	21	
 銄	xiǎng	xiang	3	
 銃	blunderbuss	chòng	chong	4	
-銂	give	zhōu	zhou	1	
+銂	zhōu	zhou	1	
 銁	jūn	jun	1	
 銀錢	money	yín qián 	yin qian 	22	
 銀製	Silver	yín zhì	yin zhi 	24	
@@ -59286,12 +59443,14 @@
 金匠	goldsmith	jīn jiang	 jiang 	11	
 金冠	Golden Crown	jīn guān 	 guan 	11	
 量強	Strong	liàng qiáng	liang qiang	42	
-量度	Measure	liàng dù	  	44	
+量度	measure	liáng dù	liang du	24	
+
 量器	Measuring device	liáng qì	liang qi	24	
 野長	Wild long	yě zhǎng	ye zhang	33	
 野貓	wildcat	yě māo 	ye mao 	31	
 野豬	Wild boar	yě zhū 	ye zhu 	31	
-野蠻	brutal	yě mán 	ye man 	32	
+野蠻	barbaric	yě mán 	ye man 	321	
+
 野菜	Wild vegetables	yě cài 	ye cai 	34	
 野草	weed	yě cǎo 	ye cao 	33	
 野花	Wildflowers	yě huā 	ye hua 	31	
@@ -59620,7 +59779,7 @@
 郱	píng	ping	2	
 郰	zōu	zou	1	
 郯	tán	tan	2	
-郮	give	zhōu	zhou	1	
+郮	zhōu	zhou	1	
 郬	qīng	qing	1	
 郫	pí	pi	2	
 郪	qī	qi	1	
@@ -59703,7 +59862,8 @@
 
 邬	surname	wū	wu	1	
 邫	bāng	bang	1	
-邪術	Sorcerer	xié shù	xie shu 	24	
+邪術	witchcraft	xié shù	xie shu	24	
+
 邪蕩	Evil	xié dàng	xie dang	24	
 邪惡	evil	xié è	xie  	24	
 邪情	Evil	xié qíng	xie qing	22	
@@ -59769,8 +59929,6 @@
 邊洗	Side wash	biān xǐ	bian xi	13	
 邊框	frame	biān kuāng 	bian kuang 	11	
 邊格拉	Side grader	biān gé lā	bian ge la	121	
-邊挪	Move around	biān nuó	biān nuó	12	
-邊打	Playing side by side	biān dǎ	bian da 	13	
 邊多	Side more	biān duō	bian duo	11	
 邊境	border	biān jìng	bian jing 	14	
 邊做	Do it	biān zuò	bian zuo 	14	
@@ -60010,7 +60168,8 @@
 過書	Booked	guò shū	guò shū	41	
 過時	Out of date	guò shí	guo shi 	42	
 過日子	Live a day	guò rì zi	guo ri zi	441	
-過於	too	guò wū	guo yu 	41	
+過於	too	guò yú	guo yu	42	
+
 過愛	Love too	guò ài	guò ài	44	
 過必	Too must	guò bì	guò bì	44	
 過得	was	guò de	guo de	41	
@@ -60052,7 +60211,10 @@
 遊牧民族	Nomadic people	yóu mù mín zú	you mu min zu 	2422	
 遊牧民	Nomads	yóu mù mín 	you mu min 	242	
 遊牧	Nomadic	yóu mù	you mu 	24	
-遊手好閒	Go hand in hand	yóu shǒu hào jiān 	you shou hao xian 	2341	
+遊手好閒	lazy	yóu shǒu hào xián	you shou hao xian	2342	
+
+
+
 遉	spy	zhēn	zhen	1	
 遈	shí	shi	2	
 遇難	Was killed	yùn àn 	yu  	44	
@@ -60215,7 +60377,8 @@
 通知	Notice	tōng zhī	tong zhi	11	
 通病	Common disease	tōng bìng 	tong bing 	14	
 通用	General	tōng yòng	tong yong	14	
-通曉	Familiarity	tōng xiǎo	tong xiao 	13	
+通曉	be good at	tōng xiǎo	tong xiao	13	
+
 通情達理	Reasonable	tōng qíng dá lǐ	tong qing da  	1223	
 通往	Leading to	tōng wǎng	tong wang 	13	
 通常	usually	tōng cháng 	tong chang 	121	
@@ -60261,7 +60424,8 @@
 逋	flee	bū	bu	1	
 逈	distant	jiǒng	jiong	3	
 逇	dùn	dun	4	
-逆風而行	Against the wind and the line	nì fēng ér xíng 	ni feng er  	4122	
+逆風而行	turn into the wind	nì fēng ér xíng 	ni feng er xing 	41221	
+
 逆風	against the wind	nì fēng 	ni feng 	41	
 逆耶和	Against the Lord	nì yē hé	ni ye he	412	
 逆境	adversity	nì jìng 	ni jing 	44	
@@ -60388,7 +60552,8 @@
 迦散	Cassia	jiā sàn	jia san	14	
 迦拜	Cappa	jiā bài	jia bai	14	
 迦拉	Cala	jiā lā	jia la	11	
-迦得	Gad	jiā de	jia de	11	
+迦得	Gad	jiā dé	jia de	12	
+
 迦底	Gaddi	jiā dǐ	jia di	13	
 迦巴勒	Gabriel	jiā bā lè	jia ba le	114	
 迦巴	Geba	jiā ba	jia ba	11	
@@ -60496,7 +60661,8 @@
 辢	bitter	là	la	4	
 辡	recrimination	biàn	bian	4	
 辠	crime	zuì	zui	4	
-辟拉	Pilate	pì lā	pi la	41	
+辟拉	Bilhah	pì lā	pi la	41	
+
 辝	cí	ci	2	
 辜負	betray	gū fù 	gu fu 	141	
 
@@ -60520,7 +60686,7 @@
 辄	zhé	zhe	2	
 辂	chariot	lù	lu	4	
 辁	quán	quan	2	
-辀	shaft	give	zhōu	zhou	1	
+辀	shaft	zhōu	zhou	1	
 轾	zhì	zhi	4	
 轼	shì	shi	4	
 轺	yáo	yao	2	
@@ -60668,7 +60834,7 @@
 輙	zhé	zhe	2	
 輘	car-rut	léng	leng	2	
 輗	beam	ní	ni	2	
-輖	give	zhōu	zhou	1	
+輖	zhōu	zhou	1	
 輕鬆	Easy	qīng sōng	qing song	11	
 輕風	Breeze	qīng fēng	qing feng 	11	
 輕重	Severity	qīng zhòng 	qing zhong 	14	
@@ -60701,7 +60867,7 @@
 輊	zhì	zhi	4	
 載滿	Full of	zài mǎn	zai man 	43	
 載歌載舞	Singing and dancing	zài gē zài wǔ	zai ge zai wu 	4143	
-輈	shaft	give	zhōu	zhou	1	
+輈	shaft	zhōu	zhou	1	
 輇	quán	quan	2	
 輆	kǎi	kai	3	
 輅	carriage	hé	he	2	
@@ -60747,8 +60913,6 @@
 軣	rumble	hōng	hong	1	
 転	shift	zhuǎn	zhuan	3	
 軡	qián	qian	2	
-軠	rèn	ren	4	
-軟弱變	Weak change	ruǎn ruò biàn 	ruǎn ruò biàn 	344	
 軟弱被	Weak	ruǎn ruò bèi	ruǎn ruò bèi	344	
 軟弱總	Weak total	ruǎn ruò zǒng	ruǎn ruò zǒng	343	
 軟弱無能	Weak and incompetent	ruǎn ruò wú néng 	ruan ruo wu neng 	3422	
@@ -61376,7 +61540,7 @@
 赗	gift	fèng	feng	4	
 赕	fine	dǎn	dan	3	
 赓	continue	gēng	geng	1	
-赒	give	zhōu	zhou	1	
+赒	zhōu	zhou	1	
 赑	strong	bì	bi	4	
 赍	present	jī	ji	1	
 赊	distant	shē	she	1	
@@ -61512,7 +61676,7 @@
 賜力	Give power	cì lì	ci li	44	
 賜予	Give	cì yǔ	ci yu 	43	
 賛	help	zàn	zan	4	
-賙	give	zhōu	zhou	1	
+賙	zhōu	zhou	1	
 賘	zāng	zang	1	
 賗	chuàn	chuan	4	
 賖	shē	she	1	
@@ -61590,8 +61754,6 @@
 責任	responsibility	zé rèn 	ze ren 	241	
 貫穿	Through	guàn chuān 	guan chuan 	41	
 貪食	Bulimia	tān shí 	tan shi 	12	
-貪贓枉法	Bribery	tān zāng wǎng fǎ	tan zang wang fa 	1133	
-貪財	Greedy money	tān cái 	tan cai 	12	
 貪睡	Snooze	tān shuì	tan shui 	14	
 貪生怕死	Greedy fear of death	tān shēng pà sǐ	tan sheng pa si 	1143	
 貪求	Greedy	tān qiú 	tan qiu 	12	
@@ -61737,7 +61899,8 @@
 豐滿	full	fēng mǎn	feng man 	13	
 豐沛	Abundant	fēng pèi	feng pei 	14	
 豐收	Harvest	fēng shōu	feng shou	11	
-豐年	Year of the harvest	fēng nián	feng  	12	
+豐年	abundant year	fēng nián	feng nian	12	
+
 豐富	rich	fēng fù	feng fu	14	
 豐厚	rich	fēng hòu	feng hou 	14	
 豐功偉績	Great achievements	fēng gōng wěi jī	feng gong wei ji 	1131	
@@ -61821,7 +61984,7 @@
 诳	deceive	kuáng	kuang	2	
 诰	inform	gào	gao	4	
 诮	criticize	qiào	qiao	4	
-诪	deceive	give	zhōu	zhou	1	
+诪	deceive	zhōu	zhou	1	
 诩	boast	xǔ	xu	3	
 诨	jokes	hùn	hun	4	
 诧	chà	cha	4	
@@ -61834,7 +61997,7 @@
 诒	bequeath	yí	yi	2	
 诐	argue	bì	bi	4	
 诎	bend	qū	qu	1	
-诌	quip	give	zhōu	zhou	1	
+诌	quip	zhōu	zhou	1	
 诋	slander	dǐ	di	3	
 诇	spy	xiòng	xiong	4	
 诂	exegesis	gǔ	gu	3	
@@ -61891,7 +62054,8 @@
 變色	Discoloration	biàn sè	bian se 	44	
 變臉	Change face	biàn liǎn	bian lian 	43	
 變紅	Turn red	biàn hóng	bian hong 	42	
-變為	Change to	biàn wèi	bian wei 	44	
+變為	changed to	biàn wéi	bian wei	42	
+
 變淡	Fade	biàn dàn	bian dan 	44	
 變本加厲	Intensified	biàn běn jiā lì	bian ben jia li 	4314	
 變更	change	biàn gēng	bian geng	41	
@@ -61928,7 +62092,7 @@
 譻	yīng	ying	1	
 譺	ài	ai	4	
 譹	shout	háo	hao	2	
-譸	deceive	give	zhōu	zhou	1	
+譸	deceive	zhōu	zhou	1	
 護送	escort	hù sòng 	hu song 	44	
 護衛	Guarding	hù wèi 	hu wei 	44	
 護自	Protect themselves	hù zì	hu zi	44	
@@ -62000,7 +62164,8 @@
 譊	wrangling	náo	nao	2	
 證詞	testimony	zhèng cí	zheng ci 	42	
 證是	Yes	zhèng shì	zheng shi	44	
-證明	prove	zhèng míng	zheng ming	42	
+證明	proof	zhèng míng	zheng ming	42	
+
 證據	evidence	zhèng jù	zheng ju	44	
 證控告	Evidence against	zhèng kòng gào	zheng kong gao	444	
 證控	Evidence control	zhèng kòng	zheng kong	44	
@@ -62106,7 +62271,7 @@
 謈	pó	po	2	
 謇	stutter	jiǎn	jian	3	
 謆	beguile	shàn	shan	4	
-謅	quip	give	zhōu	zhou	1	
+謅	quip	zhōu	zhou	1	
 謄	copy	téng	teng	2	
 謃	xing	xing	1	
 謁見	See you	yè jiàn 	  	44	
@@ -62124,7 +62289,8 @@
 謀士	Counselor	móu shì	mou shi 	24	
 謀取	seek	móu qǔ	mou qu 	23	
 謀反	rebellion	móu fǎn 	mou fan 	23	
-謀劃	Plan	móu huá 	mou hua 	22	
+謀劃	plan	móu huà	mou hua	24	
+
 謀利	Profit	móu lì	mou  	24	
 諿	qī	qi	1	
 諾言	promise	nuò yán	nuo yan	42	
@@ -62134,7 +62300,8 @@
 諺語	proverb	yàn yǔ	yan yu 	43	
 諹	yáng	yang	2	
 諸王	king	zhū wáng 	 wang 	12	
-諸如此類	And so on	zhū rúcǐ lèi 	 ru ci  	124	
+諸如此類	and so on	zhū rú cǐ lèi 	zhu ru ci lei 	12341	
+
 諸多	Many	zhū duō 	zhu duo 	111	
 諸侯	Princes	zhū hóu 	zhu hou 	12	
 諸位	You	zhū wèi 	 wei 	14	
@@ -62282,8 +62449,6 @@
 說完	Finished	shuō wán	 wan 	12	
 說和	Say and	shuō he	shuo he	11	
 說到	Speaking of	shuō dào	shuo dao	14	
-說出話來	Speak out	shuō chū huà lái	 chu hua  	1142	
-說出來	speak out	shuō chū lái	 chu  	112	
 說出	Speak out	shuō chū	 chu 	11	
 說僭	Said the arrogance	shuō jiàn	shuo jian	14	
 說以	Said to	shuō yǐ	shuo yi	13	
@@ -62346,7 +62511,8 @@
 誏	lǎng	lang	3	
 誎	cù	cu	4	
 認錯	Admit it	rèn cuò	ren cuo	44	
-認識	understanding	rèn shì	ren shi	44	
+認識	know	rèn shì	ren shi	44	
+
 認自	Recognize	rèn zì	ren zi	44	
 認耶	Recognize yeah	rèn yē	ren ye	41	
 認罪	Plead guilty	rèn zuì	ren zui 	44	
@@ -62356,7 +62522,8 @@
 認定	Identified	rèn dìng	ren ding	44	
 認同	Agree with	rèn tóng 	ren tong 	42	
 認可	Recognized	rèn kě	ren ke 	43	
-認不出	can not recognize	rèn bù chū	ren  chu 	441	
+認不出	can not recognize	rèn bu chū	ren bu chu	411	
+
 誋	jì	ji	4	
 誊	copy	téng	teng	2	
 誈	wú	wu	2	
@@ -62404,7 +62571,8 @@
 
 話題	topic	huà tí	hua ti	42	
 話說	Words	huà shuō 	hua  	41	
-話語	Discourse	huà yǔ	hua yu 	43	
+話語	words	huà yǔ	hua yu	43	
+
 話臨	Words Pro	huà lín	huà lín	42	
 話柄	handle	huà bǐng	huà bǐng	43	
 話吩	Words	huà fēn	huà fēn	41	
@@ -62541,7 +62709,8 @@
 記述	Description	jì shù 	ji shu 	44	
 記載	Record	jì zǎi 	ji zai 	431	
 記賬	Accounting	jì zhàng	ji zhang 	44	
-記號	mark	jì hào 	ji hao 	44	
+記號	mark	jì hao 	ji hao 	411	
+
 記憶	memory	jì yì	ji yi	44	
 記念	Remember	jì niàn 	ji  	44	
 記得	remember	jì dé	ji de	42	
@@ -62810,8 +62979,6 @@
 見易	See easy	jiàn yì	jian yi	44	
 見方	See square	jiàn fāng 	 fang 	41	
 見撒母	See Samuel	jiàn sā mǔ	jian sa mu	413	
-見掃羅	See Saul	jiàn sǎo luó	jiàn sǎo luó	432	
-見我	see me	jiàn wǒ	jian wo	43	
 見希伯	See Hebrew	jiàn xī bó	jian xi bo	412	
 見就	See it	jiàn jiù	jian jiu	44	
 見太	See too	jiàn tài	jian tai	44	
@@ -62906,7 +63073,8 @@
 西哈	Westha	xi hā	xi ha	11	
 西和	West and west	xi hé	xi he	12	
 西古	West ancient	xi gǔ	xi gu	13	
-西南	southwest	xīn án 	xin an 	121	
+西南	southwest	xī nán	xi nan	12	
+
 西北部	Northwest	xī běi bù 	xi bei bu 	134	
 西北	northwest	xī běi	xi bei	13	
 西兒	West children	xi er	xi er	11	
@@ -63013,7 +63181,9 @@
 褤	yuàn	yuan	4	
 褣	róng	rong	2	
 褢	wrap	huái	huai	2	
-褡褳	sheepfolds	dā lián	da lian 	12	
+褡褳	saddlepacks	dā lian	da lian	11	
+
+
 褡	girdle	dā	da	1	
 褠	gōu	gou	1	
 褟	tā	ta	1	
@@ -63295,7 +63465,8 @@
 表示	Said	biǎo shì	biao shi	34	
 表白	Confession	biǎo bái	biao bai	32	
 表現出來	Show it	biǎo xiàn chū lái	biao xian chu  	3412	
-表現	which performed	biǎo xiàn	biao xian	34	
+表現	perform	biǎo xiàn	biao xian	34	
+
 表樣	Table	biǎo yàng	biao yang	34	
 表明	show	biǎo míng	biao ming	32	
 表情	expression	biǎo qíng	biao qing	32	
@@ -63367,9 +63538,8 @@
 衐	qu	qu	1	
 衏	yuàn	yuan	4	
 衎	pleased	kàn	kan	4	
-行駛	Driving	xíng shǐ	 shi 	23	
-行邪	Evil	xíng xié	xing xie	22	
-行道	street	xíng dào	 dao 	24	
+行道	follow way	xíng dào	xing dao	24	
+
 行逼	Line	xíng bī	xing bi	21	
 行進	Travel	xíng jìn	 jin 	24	
 行逃	Fled	xíng táo	xing tao	22	
@@ -63422,10 +63592,13 @@
 衁	blood	huāng	huang	1	
 血跡	Blood	xiě jī	xie ji	31	
 血腥	bloody	xuè xīng 	xue xing 	41	
-血肉之軀	warm bodies	xiě ròu zhī qū	xue rou zhi qu 	3411	
-血肉	flesh	xiě ròu 	xue rou 	34	
+血肉之軀	flesh and blood	xuè ròu zhī qū	xue rou zhi qu	4411	
+
+血肉	flesh	xuè ròu	xue rou	44	
+
 血統	Descent	xuè tǒng 	xue tong 	43	
-血紅	Blood red	xiě hóng 	xue hong 	32	
+血紅	blood red	xuè hóng 	xue hong 	421	
+
 血祭	Blood sacrifice	xuè jì	xue ji 	44	
 血田	Field of Blood	xuè tián	xue tian	42	
 
@@ -63958,7 +64131,8 @@
 虒	horned tiger	sī	si	1	
 虑	lǜ	lu	4	7	
 虐待過誰	Who has been abused?	nüè dài guò shuí 	nüè dài guò shuí 	4442	
-虐待	Abuse	nüè dài 	nue dai 	141	
+虐待	abuse	nüè dài 	nue dai 	44
+
 虎口	jaws of death	hǔ kǒu 	hu kou 	33	
 虍	tiger	hū	hu	1	
 虌	biē	bie	1	
@@ -64115,7 +64289,8 @@
 藉着	By	jiè zhe	jie zhe	41	
 
 藉由	By	jíe yóu	jie you	22	
-藉此	Take this	jí cǐ	ji ci 	23	
+藉此	take this	jiè cǐ	jie ci	43	
+
 藉摩	By the friction	jí mó	ji mo	22	
 藉口	Excuse	jiè kǒu	jie kou	43	
 藈	kuí	kui	2	
@@ -64498,7 +64673,8 @@
 葡萄酒	wine	pú táo jiǔ 	pu tao jiu 	223	
 葡萄藤	Vines	pú táo téng 	pu tao teng 	222	
 葡萄汁	Grape juice	pú táo zhī 	pu tao zhi 	221	
-葡萄樹	Vines	pú táo shù 	pu tao shu 	224	
+葡萄樹	grapevine	pú tao shù 	pu tao shu 	2141	
+
 葡萄園	vineyard	pú táo yuán 	pu tao yuan 	222	
 葡萄乾	raisin	pú táo gān 	pu tao gan 	221	
 葡萄	grape	pú táo	pu tao	22	
@@ -64516,15 +64692,14 @@
 著迷	Fascinated	zháo mí	jiao mi 	22	
 著起	Started	zhe qǐ	zhe qi	13	
 著說	Said	zhe shuō	zhe shuo	11	
-著行	line	zhe xíng	zhe xing	12	
+著行	way	zhe xíng	zhe xing	12	
+
 著良	Good	zhe liáng	zhe liang	12	
 著自	From the self	zhe zì	zhe zi	14	
 著肉	With meat	zhe ròu	zhe rou	14	
 著耶穌	With Jesus	zhe yē sū	zhe ye su	111	
 著耶和	Lord	zhe yē hé	zhe ye he	112	
 著耶	Yeah	zhe yē	zhe ye	11	
-著罪	Be guilty	zhe zuì	zhe zuì	14	
-著稱	Known	zhù chēng	zhu cheng	41	
 著福	Blessing	zhe fú	zhe fu	12	
 著眾	public	zhe zhòng	zhe zhong	14	
 著益	Benefit	zhe yì	zhe yi	14	
@@ -64607,8 +64782,6 @@
 萭	yǔ	yu	3	
 萬軍	Million army	wàn jūn	wan jun	41	
 萬萬	absolutely	wàn wàn	wan wan	44	
-萬籟俱寂	Utterly silent	wàn lài jù jì	wan lai ju ji 	4444	
-萬福	Wanfu	wàn fú	wan  	42	
 萬眾一心	Everyone	wàn zhòng yī xīn 	wan zhong yi xin 	4411	
 萬眾	All the people	wàn zhòng	wan zhong 	44	
 萬物	All things	wàn wù	wan wu	44	
@@ -64653,12 +64826,11 @@
 萐	shà	sha	4	
 萏	lotus	dàn	dan	4	
 萎靡不振	Dull	wěi mí bù zhèn 	wei mi  zhen 	3244	
-萎縮	Atrophy	wēi suō	wei suo	11	
+萎縮	shrivel	wēi suō	wei suo	11	
+
 萌芽	bud	méng yá	meng ya 	22	
 萋	crowded	qī	qi	1	
 萊煞	Leisha	lái shā	lai sha	21	
-萊居	Laiju	lái jū	lai ju	21	
-萊回來	Levin back	lái huí lái	lái huí lái	222	
 萉	fèi	fei	4	
 萈	huán	huan	2	
 萇	surname	cháng	chang	2	
@@ -64999,7 +65171,8 @@
 苦痛	pain	kǔ tòng 	ku tong 	34	
 苦澀	Bitter	kǔ sè	ku se 	34	
 苦海	sea ​​of ​​bitterness	kǔ hǎi 	ku hai 	33	
-苦水	Grievances	kǔ shuǐ 	ku shui 	33	
+苦水	bitter water	kǔ shuǐ 	ku shui 	331	
+
 苦楚	suffering	kǔ chǔ 	ku chu 	33	
 苦果	Bitter fruit	kǔ guǒ 	ku guo 	33	
 苦杯	bitter cup	kǔ bēi 	ku bei 	311	
@@ -65298,7 +65471,8 @@
 舏	jiǔ	jiu	3	
 舎	house	she	she	1	
 舍說	Said	shě shuō	she shuo	31	
-舍客勒	Shekler	shě kè lēi	she ke lei	341	
+舍客勒	shekels	shě kè lēi	she ke lei	341	
+
 舍下	Down	shè xià	she xia 	44	
 舌頭	tongue	shé tou	she tou	21	
 舌尖	Tongue	shé jiān 	she jian 	21	
@@ -65448,14 +65622,16 @@
 自此	Since then	zì cǐ	zi ci 	43	
 自歎	Sigh	zì tàn	zi tan	44	
 自欺欺人	Self-deception	zì qī qī rén 	zi qi qi ren 	4112	
-自欺	Self-bullying	zì qī	zi qi 	41	
+自欺	fooling yourself	zì qī	zi qi	41	
+
 自有	Own	zì yǒu	zi you 	43	
 自救	Self-help	zì jiù 	zi jiu 	44	
 自找麻煩	Asking for trouble	zì zhǎo má fan	zi zhao ma fan 	4321	
 自我	self	zì wǒ 	zi wo 	431	
 自愛	Self-love	zì ài 	zi ai 	44	
 自從	since	zì cóng 	zi cong 	421	
-自律	Self-discipline	zì lǜ	zi lu	44	
+自律	self-control	zì lǜ	zi lu	44	
+
 自幼	Since childhood	zì yòu	zi you 	44	
 自己人	Own people	zì jǐ rén 	zi ji ren 	432	
 自己	self	zì jǐ	zi ji	43	
@@ -65483,7 +65659,8 @@
 自以為是	opinionated	zì yǐ wéi shì 	zi yi wei shi 	4324	
 自主	Autonomous	zì zhǔ 	zi zhu 	431	
 臩	guǎng	guang	3	
-臨風	Lin Feng	lín fēng 	 feng 	21	
+臨風	exposed	lín fēng 	lin feng 	211	
+
 臨頭	Come to an end	lín tóu	 tou 	22	
 臨門	door	lín mén	 men 	22	
 臨近	Near	lín jìn 	 jin 	24	
@@ -65509,7 +65686,8 @@
 臣服於	Surrender	chén fú wū	chen fu yu 	221	
 臣服	Surrender	chén fú	chen fu 	22	
 臣宰	Slaughter	chén zǎi	chen zai	23	
-臣子	Courtiers	chén zǐ	chen zi 	23	
+臣子	officer	chén zǐ	chen zi	23	
+
 臣僕	Servant	chén pú	chen pu 	22	
 臢	dirty	zā	za	1	
 臡	ní	ni	2	
@@ -65590,7 +65768,8 @@
 膣	vagina	zhì	zhi	4	
 膢	lǘ	lu	2	
 膡	yìng	ying	4	
-膠着	Sticking	jiāo zhe	jiao  	11	
+膠着	stuck	jiāo zhuó	jiao zhuo	12	
+
 膟	fat	lǜ	lu	4	
 膞	zhuān	zhuan	1	
 膝蓋	knee	xī gài 	xi gai 	14	
@@ -65632,7 +65811,8 @@
 腽	fat	wà	wa	4	
 腼	modest	miǎn	mian	3	
 腹部	abdomen	fù bù 	fu bu 	44	
-腹中	Belly	fù zhōng	fu zhong 	41	
+腹中	womb	fù zhōng	fu zhong	41	
+
 腸胃	stomach	cháng wèi	chang wei 	24	
 腸戀	Intestines	cháng liàn	chang lian	24	
 腸子	Intestines	cháng zi	chang zi 	21	
@@ -65812,8 +65992,6 @@
 能站	Can stand	néng zhàn	neng zhan	24	
 能為	Can be	néng wèi	neng wei	24	
 
-能有	can have	néng yǒu	neng you 	23	
-能拯	Can save	néng zhěng	neng zheng	23	
 能手	expert	néng shǒu	neng shou 	23	
 能帶	Can bring	néng dài	neng dai 	24	
 能工巧匠	Craftsmen	néng gōng qiǎo jiàng 	neng gong qiao jiang 	2134	
@@ -65983,7 +66161,8 @@
 肍	qiú	qiu	2	
 肌腱	tendon	jī jiàn 	ji jian 	14	
 肌肉	muscle	jī ròu 	ji rou 	141	
-肋骨	rib cage	lèi gǔ	le gu 	43	
+肋骨	rib	lèi gǔ	lei gu	43	
+
 肊	yì	yi	4	
 肉體	flesh	ròu tǐ	rou ti	43	
 肉類	meat	ròu lèi 	rou  	44	
@@ -66016,7 +66195,8 @@
 聽耶和	Listen to yeah	tīng yē hé	ting ye he	112	
 聽懂	Understand	tīng dǒng	ting dong 	13	
 聽從	obey	tīng cóng 	ting cong 	12	
-聽得懂	can understand	tīng dé dǒng	ting de dong 	123	
+聽得懂	can understand	tīng de dǒng	ting de dong	113	
+
 聽得	Hear it	tīng dé	ting de 	12	
 聽完	After listening	tīng wán	ting wan 	12	
 聽命	Obey	tīng mìng 	ting ming 	14	
@@ -66061,11 +66241,13 @@
 聰慧	intelligent	cōng huì	cong hui 	14	
 聯軍	Coalition	lián jūn	 jun 	21	
 聯絡	connection	lián luò	lian luo	24	
-聯結	coupling	lián jié	 jie 	22	
+聯結	bound	lián jié	lian jie	22	
+
 聯盟	alliance	lián méng	lian meng	22	
 聯手	Join hands together	lián shǒu	 shou 	23	
 聯姻	Marriage	lián yīn	 yin 	21	
-聯合	joint	lián hé	lian he	22	
+聯合	unite	lián hé	lian he	22	
+
 聮	connect	lián	lian	2	
 聭	kuì	kui	4	
 聬	wěng	weng	3	
@@ -66264,8 +66446,7 @@
 而且跌碎	And broken down	ér qiě diē suì 	ér qiě diē suì 	2314	
 而且	and	ér qiě 	er qie 	231	
 而不能	And not	ér bù néng 	er  neng 	242	
-而不是	Not for	ér bù shì 	er  shi 	244	
-而不	And not	ér bù	er  	24	
+而不是	Not for	ér bú shì 	er bu shi 	2241	
 而下	And the next	ér xià	er xia	24	
 耋	aged	dié	die	2	
 耊	diè	die	4	
@@ -66321,7 +66502,8 @@
 翿	dào	dao	4	
 翾	fly	xuān	xuan	1	
 翽	whir	huì	hui	4	
-翻騰	Somersault	fān téng 	fan teng 	12	
+翻騰	tossed	fān téng 	fan teng 	121	
+
 翻飛	Fly over	fān fēi	fan fei 	11	
 翻過	Turned over	fān guò	fan guo	14	
 翻轉	Flip over	fān zhuǎn 	fan zhuan 	13	
@@ -66505,7 +66687,8 @@
 羊平	Yang Ping	yáng píng	yang ping	22	
 羊宰	Sheep slaughter	yáng zǎi	yang zai	23	
 羊奶	Goat milk	yáng nǎi	yang nai 	23	
-羊圈	sheep pen	yáng juàn	yáng juàn	24	
+羊圈	sheepfolds	yáng juàn	yang juan	24	
+
 羉	luán	luan	2	
 羇	inn	jī	ji	1	
 羆	pí	pi	2	
@@ -66520,7 +66703,8 @@
 羅斯	Ross	luó sī	 si 	21	
 羅忽	Luo suddenly	luó hū	luó hū	21	
 羅德	Rhodes	luó dé	luó dé	22	
-羅得	Lot	luó de	luó de	21	
+羅得	Lot	luó dé	luo de	22	
+
 羅尼	Ronnie	luó ní	luó ní	22	
 羅實	Luo real	luó shí	luó shí	22	
 羅坍	Collusion	luó tān	luó tān	21	
@@ -66550,7 +66734,8 @@
 罯	ǎn	an	3	
 置軍	Set the army	zhì jūn	zhi jun	41	
 置產	Production	zhì chǎn	zhi chan	43	
-置信	Confidence	zhì xìn 	zhi xin 	44	
+置信	believe	zhì xìn 	zhi xin 	441	
+
 置之度外	disregard	zhì zhī dù wài 	zhi zhi  wai 	4144	
 置之不理	Ignore it	zhì zhī bù lǐ	zhi zhi   	4143	
 罭	yù	yu	4	
@@ -67193,8 +67378,10 @@
 絕交	Cut off	jué jiāo 	jué jiāo 	21	
 絕了	Absolutely	jué le	jué le	2
 絕不能	Must not	jué bù néng 	jue  neng 	242	
-絕不會	Never will	jué bù huì	jue  hui 	244	
-絕不是	It is not	jué bù shì 	jue  shi 	244	
+絕不會	never will	jué bú huì	jue bu hui	224	
+
+絕不是	It is not	jué bú shì 	jue bu shi 	2241	
+
 絕不	no way	jué bù	jue bu	24	
 絔	bǎi	bai	3	
 絓	obstructed	guà	gua	4	
@@ -67218,7 +67405,8 @@
 結實	solid	jié shí	jie shi	22	
 結婚	marry	jié hūn	jie hun	21	
 結夥	gang	jié huǒ 	jie huo 	23	
-結合	Combination	jié hé	jie he	22	
+結合	united	jié hé	jie he	22	
+
 結冰	freeze	jié bīng	jie bing 	21	
 結作	Knot	jié zuò	jié zuò	24	
 結伴	Go hand in hand	jié bàn 	jie ban 	24	
@@ -67277,7 +67465,8 @@
 細軟	Soft	xì ruǎn 	xi ruan 	43	
 細說	Elaborate	xì shuō	xi  	41	
 細語	Whisper	xì yǔ	xi yu 	43	
-細羅	Fine Luo	xì luó	xì luó	42	
+細羅	Shiloh	xì luó	xi luo	42	
+
 細繩	String	xì shéng	xi sheng 	42	
 細線	thread	xì xiàn 	xi xian 	441	
 細節	detail	xì jié 	xi jie 	421	
@@ -67388,7 +67577,8 @@
 約珥所	Joel	yuē ěr suǒ	yue er suo	133	
 約珥和	Joel and	yuē ěr hé	yue er he	132	
 約珥	Joel	yuē ěr	yue er	13	
-約珊	Yosan	yuē shān	yue shan	11	
+約珊	Jokshan	yuē shān	yue shan	11	
+
 約版	tablet	yuē bǎn	yue ban	13	
 約櫃	ark of the covenant	yuē guì	yuē guì	14	
 約束	constraint	yuē shù	yue shu	14	
@@ -67448,7 +67638,8 @@
 糩	kuài	kuai	4	
 糨	starch	jiàng	jiang	4	
 糧餉	Rates	liáng xiǎng	 xiang 	23	
-糧草	forage	liáng cǎo	 cao 	23	
+糧草	straw	liáng cǎo	liang cao	23	
+
 糧倉	barn	liáng cāng	liang cang	21	
 糦	xī	xi	1	
 糥	nuò	nuo	4	
@@ -67561,7 +67752,8 @@
 粘住	stick to	zhān zhù	zhan zhu 	14	
 粗麥	spelt	cū mài	cu mai	14	
 粗魯	Rude	cū lǔ	cu lu	13	
-粗野	rough	cū yě	cu ye 	13	
+粗野	rude	cū yě	cu ye	13	
+
 粗重	Heavy	cū zhòng 	cu zhong 	14	
 粗鄙	vulgar	cū bǐ 	cu bi 	13	
 粗莽	Reckless	cū mǎng 	cu mang 	13	
@@ -67645,11 +67837,13 @@
 米法押	Michigan	mǐ fǎ yā	mi fa ya	331	
 米沙利	Mishael	mǐ shā lì	mi sha li	314	
 米沙	Misha	mǐ shā	mi sha	31	
-米比衫	Mibi shirt	mǐ bǐ shān	mi bi shan	331	
+米比衫	Mibsam	mǐ bǐ shān	mi bi shan	331	
+
 米比薩	Mizza	mǐ bǐ sà	mi bi sa	334	
 米母干	Rice mother dry	mǐ mǔ gàn	mi mu gan	334	
 米書蘭	Mishu Lan	mǐ shū lán	mi shu lan	312	
-米施瑪	Mishima	mǐ shī mǎ	mi shi ma	313	
+米施瑪	Mishma	mǐ shī mǎ	mi shi ma	313	
+
 米斯毗列	Misipolan	mǐ sī pí liè	mi si pi lie	3124	
 米斯拔	Misi pull	mǐ sī bá	mi si ba	312	
 米斯巴	Mizpah	mǐ sī bā	mi si ba	311	
@@ -67678,7 +67872,8 @@
 米利亞	Milia	mǐ lì yǎ	mi li ya	343	
 米利	Milley	mǐ lì 	mi li 	34	
 米倫	Milan	mǐ lún	mi lun	32	
-米但	Rice	mǐ dàn	mi dan	34	
+米但	Medan	mǐ dàn	mi dan	34	
+
 米亞拉	Miyala	mǐ yà lā	mi ya la	341	
 籱	zhuó	zhuo	2	
 籰	yuè	yue	4	
@@ -67884,7 +68079,8 @@
 節日	festival	jié rì	jie ri	24	
 節慶	festival	jié qìng 	jie qing 	241	
 節奏	Rhythm	jié zòu	 zou 	24	
-節制	control	jié zhì	 zhi 	24	
+節制	self-control	jié zhì	jie zhi	24	
+
 節令	Season order	jié lìng 	  	24	
 箿	jí	ji	2	
 箾	shuò	shuo	4	
@@ -67926,7 +68122,8 @@
 管牙膏	Tube toothpaste	guǎn yá gāo 	guan ya gao 	321	
 管治	Governance	guǎn zhì	guan zhi	34	
 管樂	pipes	guǎn yuè	guan yue	34	
-管束	Tube bundle	guǎn shù	guan shu 	34	
+管束	control	guǎn shù	guan shu	34	
+
 管會	Management	guǎn kuài	guǎn kuài	34	
 管教	Discipline	guǎn jiào	guan jiao	34	
 管家	housekeeper	guǎn jiā	guan jia 	31	
@@ -68396,7 +68593,8 @@
 穿透	penetrate	chuān tòu	chuan tou 	14	
 穿越	Through	chuān yuè	chuan yue 	14	
 穿起	Wear it	chuān qǐ	chuan qi 	13	穿行	Walk through	chuān xíng	chuan xing	12	
-穿着	Wearing	chuān zhuó	chuan  	12	
+穿着	wearing	chuān zhe	chuan zhe	11	
+
 穿戴	Wear	chuān dài	chuan dai 	14	
 穿得	Dressed	chuān de	chuan de 	11	
 穿好	Put on	chuān hǎo	chuan hao	13	
@@ -68510,7 +68708,8 @@
 穂	tassel	suì	sui	4	
 穁	róng	rong	2	
 穀粒	Grain	gǔ lì	  	34	
-穀物	cereals	gǔ wù	 wu 	34	
+穀物	crops	gǔ wù	gu wu	34	
+
 穀吧	Valley it	gǔ ba	gu ba	31	
 穀倉	barn	gǔ cāng 	 cang 	31	
 稾	draft	gǎo	gao	3	
@@ -68840,7 +69039,8 @@
 神殿	Temple	shén diàn 	 dian 	24	
 神智清醒	Sober and sober	shén zhì qīng xǐng	 zhi qing xing 	2413	
 神智	Sanity	shén zhì	 zhi 	24	
-神明	Gods	shén míng 	 ming 	22	
+神明	gods	shén míng 	shen ming 	221	
+
 神揀	God picks up	shén jiǎn	shen jian	23	
 神所定	God is appointed	shén suǒ dìng 	shen suo ding 	234	
 神所	God	shén suǒ	 suo 	23	
@@ -69372,7 +69572,7 @@
 短少	lack	duǎn shǎo	duan shao 	33	
 短信	SMS	duǎn xìn	duan xin 	34	
 矬	dwarf	cuó	cuo	2	
-矪	give	zhōu	zhou	1	
+矪	zhōu	zhou	1	
 矩形	rectangle	jǔ xíng 	ju xing 	32	
 矨	yǐng	ying	3	
 矧	gums	shěn	shen	3	
@@ -69381,7 +69581,8 @@
 知道	know	zhī dào	zhi dao	14	
 知這	Know this	zhī zhè	zhi zhe	14	
 知足	Contentment	zhī zú	zhi zu	12	
-知識	know how	zhī shì 	zhi shi 	141	
+知識	knowledge	zhī shì 	zhi shi 	141	
+
 知耶利	Jeremy	zhī yē lì	zhi ye li	114	
 知耶	Know ye	zhī yē	zhi ye	11	
 知終	Know the end	zhī zhōng	zhi zhong	11	
@@ -69476,7 +69677,8 @@
 瞕	zhàng	zhang	4	
 瞔	zé	ze	2	
 瞓	sleep	shuì	shui	4	
-瞑	míng	ming	2	
+瞑	meditation	míng	ming	2	
+
 瞐	mò	mo	4	
 瞏	round	qióng	qiong	2	
 瞎眼	Blind	xiā yǎn	xia yan 	13	
@@ -69531,8 +69733,11 @@
 睡覺	go to bed	shuì jiào	shui jiao	44	
 睡著	sleep	shuì zháo	shui zhao	42	
 
-睡着了	Fell asleep	shuì zhe le 	shui zhe le	41
-睡着	sleep	shuì zhe	shui  	41	
+睡着了	fell asleep	shuì zháo le 	shui zhao le 	4211	
+
+
+睡着	sleep	shuì zháo	shui zhao	42	
+
 睡眠	Sleep	shuì mián	shui mian	42	
 睡得	Sleep well	shuì de	shui de 	41	
 睡夢中	Sleepy	shuì mèng zhōng 	shui meng zhong 	441	
@@ -69590,7 +69795,8 @@
 眾門	All doors	zhòng mén	zhong men	42	
 眾目睽睽	In full view	zhòng mù kuí kuí 	zhong mu kui kui 	4422	
 眾百夫	All the centuries	zhòng bǎi fu	zhong bai fu	431	
-眾生	Sentient beings	zhòng shēng 	zhong sheng 	41	
+眾生	all people	zhòng shēng 	zhong sheng 	411	
+
 眾民說	Everyone said	zhòng mín shuō	zhong min shuo	421	
 眾民所	All the people	zhòng mín suǒ	zhong min suo	423	
 眾敵	Public enemy	zhòng dí	zhong di	42	
@@ -69611,8 +69817,6 @@
 眼瞎	blindness	yǎn xiā	yan xia 	31	
 眼睜睜	Helplessly	yǎn zhēng zhēng	yan zheng zheng 	311	
 眼睛	eye	yǎn jīng	yan jing	31	
-眼眶	Eyes	yǎn kuàng 	yan kuang 	34	
-眼看	Seeing	yǎn kàn	yan kan	34	
 眼目失明	Eyes are blind	yǎn mù shī míng 	yan mu shi ming 	3412	
 眼目	Eyes	yǎn mù	yan mu 	34	
 眼皮底下	Under the eyes	yǎn pí dǐ xia	yan pi di xia	3231	
@@ -69670,7 +69874,8 @@
 真理	truth	zhēn lǐ	zhen li	13	
 真正	real	zhēn zhèng	zhen zheng	14	
 真有	Really	zhēn yǒu	zhen you 	13	
-真是	Really	zhēn shi	zhen shi	11	
+真是	really	zhēn shì	zhen shi	14	
+
 真摯	sincere	zhēn zhì	zhen zhi 	14	
 真愛	Love	zhēn ài	zhen ai 	14	
 真想	Really want to	zhēn xiǎng	zhen xiang 	13	
@@ -69712,7 +69917,8 @@
 看著	Look at	kàn zhe	kan zhe	41	
 看管	Care	kān guǎn 	kan guan 	13	
 看祭	See a sacrifice	kàn jì	kan ji	44	
-看看	look	kàn kàn	kan kan	44	
+看看	look	kàn kan	kan kan	41	
+
 
 看瑪哈	See Maha	kàn mǎ hā	kan ma ha	431	
 看準	Spotted	kàn zhǔn	kan zhun 	43	
@@ -69735,9 +69941,11 @@
 看作	As	kàn zuò	kan zuo 	44	
 看住	See live	kàn zhù	kan zhu 	44	
 看似	Looks like	kàn shì	kan shi 	44	
-看了	Read it	kàn le	kan zhe	4
+看了	see it	kàn le	kan le	41	
+
 看不起	despise	kàn bù qǐ	kan bu qi	443	
-看不出來	can not tell	kàn bù chū lái	kan  chu  	4412	
+看不出來	cannot tell	kàn bu chū lái	kan bu chu lai	4112	
+
 看不出	Unrecognizable	kàn bù chū	kan  chu 	441	
 看一看	Take a look	kàn yī kàn	kan yi kan 	414	
 看一下	take a look	kàn yī xià 	kan yi xia 	414	
@@ -69821,7 +70029,8 @@
 直起	Straight up	zhí qǐ	zhi qi	23	
 直講	Speak straight	zhí jiǎng	zhi jiang	23	
 直說	Straight to say	zhí shuō	  	21	
-直言	Bluntly	zhí yán 	 yan 	22	
+直言	frankly	zhí yán 	zhi yan 	221	
+
 直覺	intuition	zhí jué 	 jue 	22	
 直視	Look straight	zhí shì 	  	24	
 直衝	Straight	zhí chōng	 chong 	21	
@@ -69849,7 +70058,8 @@
 盯	stare	dīng	ding	1	
 目空一切	Nothing in mind	mù kōng yī qiè 	mu kong yi  	4114	
 目瞪口呆	stunned	mù dèng kǒu dāi 	mu deng kou dai 	4431	
-目睹	witness	mù dǔ	mu du	43	
+目睹	seen	mù dǔ	mu du	43	
+
 目眩	dizzy	mù xuàn 	mu xuan 	44	
 目無法紀	No law	mù wú fǎ jì 	mu wu fa ji 	4234	
 目標	purpose	mù biāo 	mu biao 	411	
@@ -69862,7 +70072,7 @@
 盬	leisure	gǔ	gu	3	
 盫	ān	an	1	
 盪來盪去	Swing to swing	dàng lái dàng qù	dang  dang qu 	4244	
-盩	callus	give	zhōu	zhou	1	
+盩	callus	zhōu	zhou	1	
 盨	xǔ	xu	3	
 盦	lid	ān	an	1	
 盥	wash	guàn	guan	4	
@@ -69950,7 +70160,8 @@
 盍	hé	he	2	
 盌	bowl	wǎn	wan	3	
 盋	bō	bo	1	
-益處	benefit	yì chu	yi chu 	41	
+益處	benefit	yì chù	yi chu	44	
+
 益蘭	Yilan	yì lán	yi lan	42	
 益拉	Yi La	yì lā	yi la	41	
 益城	Yi City	yì chéng 	yi cheng 	42	
@@ -69985,7 +70196,8 @@
 皯	gǎn	gan	3	
 皮鞋	leather shoes	pí xié 	pi xie 	221	
 皮革	leather	pí gé 	pi ge 	22	
-皮開肉綻	Skin open bloom	pí kāi ròu zhàn 	pi kai rou zhan 	2144	
+皮開肉綻	skin cut open	pí kāi ròu zhàn 	pi kai rou zhan 	21441	
+
 皮製品	Leather product	pí zhì pǐn 	pi zhi pin 	243	
 皮製	Leather system	pí zhì	pi zhi 	24	
 皮袋	skin	pí dài 	pi dai 	241	
@@ -70057,7 +70269,8 @@
 百歲	Hundred years old	bǎi suì	bai sui 	34	
 百年	century	bǎi nián 	bai  	32	
 百家	Hundreds	bǎi jiā	bai jia 	31	
-百官	Baiguan	bǎi guān	bai guan 	31	
+百官	other officials	bǎi guān	bai guan	31	
+
 百姓	People	bǎi xìng 	bai xing 	34	
 百夫長	Centurion	bǎi fu zhǎng	bai fu chang 	313	
 百基	Baidu	bǎi jī	bai ji	31	
@@ -70084,7 +70297,8 @@
 白神	White God	bái shén 	bai shen 	22	
 白石	Whitehead	bái shí	bai shi 	22	
 白眼	White eyes	bái yǎn	bai yan 	23	
-白白	in vain	bái bái 	bai bai 	22	
+白白	for nothing	bái bái 	bai bai 	221	
+
 白痴	moron	bái chī	bai chi 	21	
 白沫	White foam	bái mò	bai mo 	24	
 白毛	White hair	bái máo	bai mao 	22	
@@ -70103,8 +70317,6 @@
 發酸	Sour	fā suān 	fa suan 	11	
 發達	developed	fā dá 	fa da 	121	
 發過	Sent a	fā guò 	fa guo 	14	
-發軟	Softened	fā ruǎn	fa ruan 	13	
-發起燒來	Start burning	fā qǐ shāo lái 	fa qi shao  	1312	
 發起	Initiated	fā qǐ	fa qi	13	
 發財	Make a fortune	fā cái 	fa cai 	121	
 發讚	Praise	fā zàn	fa zan	14	
@@ -70315,7 +70527,8 @@
 痥	duó	duo	2	
 痤	cuó	cuo	2	
 痣	spots	zhì	zhi	4	
-痢疾	Dysentery	lì jí 	li ji 	42	
+痢疾	dysentery	lì ji	li ji	41	
+
 痢	dysentery	lì	li	4	
 痡	disease	fū	fu	1	
 痠	ache	suān	suan	1	
@@ -70513,8 +70726,6 @@
 當作	As	dàng zuò	dang zuo	44	
 當令	Make the order	dāng lìng	dang  	14	
 當中	among	dāng zhōng	dang zhong	11	
-當下	immediately	dāng xià	dang xia	14	
-當上	When on	dāng shàng	dang shang 	14	
 當一回事	When one thing	dāng yī huí shì	dang yi hui shi 	1124	
 畵	delineate	huà	hua	4	
 畳	repeat	dié	die	2	
@@ -70669,7 +70880,8 @@
 田野上	On the field	tián yě shàng 	tian ye shang 	2341	
 田野	field	tián yě	tian ye	23	
 田邊	Tanabe	tián biān 	tian bian 	21	
-田產	Production	tián chǎn 	tian chan 	23	
+田產	estate	tián chǎn 	tian chan 	231	
+
 田港	Tian Gang	tián gǎng 	tian gang 	23	
 田地	field	tián dì	tian di	24	
 田園	rural	tián yuán	tian yuan 	22	
@@ -70783,14 +70995,16 @@
 生了	gave birth	shēng le	sheng le	1
 生之	healthy	shēng zhī	sheng zhi	11	
 生下	Gave birth	shēng xià	sheng xia	14	
-生一個	Give birth to one	shēng yī gè	sheng yi ge	114	
+生一個	give birth to a	shēng yí gè	sheng yi ge	124	
+
 甞	taste	cháng	chang	2	
 甝	hán	han	2	
 甜酒	sweet wine	tián jiǔ	tian jiu 	23	
 甜言蜜語	sweet Nothing	tián yán mì yǔ	tian yan mi yu 	2243	
 甜蜜	sweet	tián mì	tian mi 	24	
 甜美	sweet	tián měi	tian mei	23	
-甜水	Sweet water	tián shuǐ 	tian shui 	23	
+甜水	fresh water	tián shuǐ 	tian shui 	231	
+
 甛	sweet	tián	tian	2	
 甚麼	what	shén me	shen me 	2
 甚至	even	shèn zhì	shen zhi	44	
@@ -70905,7 +71119,8 @@
 瓀	gem	ruǎn	ruan	3	
 璿	xuán	xuan	2	
 璾	zī	zi	1	
-璽	xǐ	xi	3	
+璽	seal	xǐ	xi	3	
+
 璼	lán	lan	2	
 璻	zuǐ	zui	3	
 璺	crack	wèn	wen	4	
@@ -71001,12 +71216,14 @@
 瑪西亞	Marcia	mǎ xī yǎ	ma xi ya	313	
 瑪艾	May	mǎ ài	ma ai	34	
 瑪結	Margaret	mǎ jié	ma jie	32	
-瑪瑙	agate	mǎn ǎo	ma nao 	33	
+瑪瑙	agate	mǎ nǎo	ma nao	33	
+
 瑪特列	Martie	mǎ tè liè	ma te lie	344	
 瑪特乃	Matt is	mǎ tè nǎi	ma te nai	343	
 瑪沙	Masha	mǎ shā	ma sha 	31	
 瑪施	Ma Shi	mǎ shī	ma shi	31	
-瑪撒	Masa	mǎ sā	ma sa	31	
+瑪撒	Massa	mǎ sā	ma sa	31	
+
 瑪挪	Marathon	mǎ nuó	mǎ nuó	32	
 瑪拿轄	Mana	mǎ ná xiá	ma na xia	322	
 瑪拿西	Manasseh	mǎ ná xi	ma na xi	321	
@@ -71023,8 +71240,10 @@
 瑪基	Maki	mǎ jī	ma ji	31	
 瑪土撒拉	Marathon	mǎ tǔ sā lā 	ma tu sa la 	3311	
 瑪土撒利	Marathon	mǎ tǔ sā lì	ma tu sa li	3314	
-瑪哈拉	Mahalah	mǎ hā lā	ma ha la	311	
-瑪哈念	Mahan read	mǎ hā niàn	ma ha nian	314	
+瑪哈拉	Mahalath	mǎ hā lā	ma ha la	311	
+
+瑪哈念	Mahanaim	mǎ hā niàn	ma ha nian	314	
+
 瑪吉	Makir	mǎ jí	ma ji	32	
 瑪各	Margaret	mǎ gè	ma ge	34	
 瑪勒列	Marlie	mǎ lēi liè	ma lei lie	314	
@@ -71171,7 +71390,8 @@
 現有	existing	xiàn yǒu	xian you 	43	
 現實	reality	xiàn shí	xian shi	42	
 現場	on site	xiàn chǎng 	xian chang 	431	
-現在	just now	xiàn zài	xian zai	44	
+現在	right now	xiàn zài	xian zai	44	
+
 現出	Present	xiàn chū	xian chu 	41	
 現值	Present value	xiàn zhí	xian zhi 	42	
 現今	now	xiàn jīn	xian jin	41	
@@ -71224,7 +71444,7 @@
 珛	xiù	xiu	4	
 珚	yān	yan	1	
 珙	gem	gǒng	gong	3	
-珘	give	zhōu	zhou	1	
+珘	zhōu	zhou	1	
 珗	xiān	xian	1	
 珖	carat	guàng	guang	4	
 珕	lì	li	4	
@@ -71354,8 +71574,6 @@
 獻給	Dedicated to	xiàn gěi	xian gei 	43	
 獻策	Advice	xiàn cè	xian ce 	44	
 獻禮	Gift	xiàn lǐ	xian  	43	
-獻祭	Sacrifice	xiàn jì	xian ji	44	
-獻燔	Burnt	xiàn fán	xian fan	42	
 獻媚	Flattery	xiàn mèi	xian mei 	44	
 獻出	Give out	xiàn chū	xian chu 	41	
 獻上	Offer	xiàn shàng	xian shang 	44	
@@ -71822,7 +72040,8 @@
 片麵包	Slice bread	piàn miàn bāo 	pian mian bao 	441	
 片鱗	Scales	piàn lín	pian  	42	
 片高原	Plateau plateau	piàn gāo yuán 	piàn gāo yuán 	412	
-片面	One-sided	piàn miàn 	pian mian 	441	
+片面	limited	piàn miàn	pian mian	44	
+
 片電影	Film	piàn diàn yǐng 	pian dian ying 	443	
 片甲骨	Sliced ​​bones	piàn jiǎ gǔ 	pian jia gu 	433	
 片森林	Forest	piàn sēn lín 	pian sen lin 	412	
@@ -72008,7 +72227,8 @@
 燑	tóng	tong	2	
 燐	phosphorus	lín	lin	2	
 燏	blaze	yù	yu	4	
-燎原	A prairie fire	liáo yuán	liao yuan 	22	
+燎原	forest fire	liáo yuán	liao yuan	22	
+
 燎	burn	liáo	liao	2	
 燍	sī	si	1	
 燌	fén	fen	2	
@@ -72093,7 +72313,8 @@
 熟練	skilled	shú liàn 	shu lian 	241	
 熟知	Familiar	shuó zhī	shuo zhi 	21	
 熟睡	fast asleep	shuó shuì 	shuo shui 	241	
-熟悉	Familiar with	shuó xī	shuo xi	21	
+熟悉	familiar with	shú xī	shu xi	21	
+
 熟地	Rehmannia	shuó dì	shuo di	24	
 熟了	ripe	shuó le	shuo le	21	
 熞	jiān	jian	1	
@@ -72153,7 +72374,9 @@
 煪	qiú	qiu	2	
 煩死了	Sick of it	fán sǐ le	fan si le	23
 煩擾	Annoying	fán rǎo	fan rao 	23	
-煩惱	upset	fán nǎo	fan nao	23	
+煩惱	troubled	fán nǎo	fan nao	23	
+
+
 煩亂	upset	fán luàn 	fan  	24	
 煨	stew	wēi	wei	1	
 照顧	Take care of	zhào gù	zhao gu	44	
@@ -72303,7 +72526,9 @@
 無稽	Nonsense	wú jī 	wu ji 	21	
 無私	Selfless	wú sī 	wu si 	21	
 無禮	rude	wú lǐ 	wu  	23	
-無神	No god	wú shén	wu  	22	
+無神	no god	wú shén	wu shen	22	
+
+
 無知	ignorance	wú zhī 	wu zhi 	21	
 無盡	Endless	wú jìn 	wu jin 	24	
 無益	No benefit	wú yì	wu yi 	24	
@@ -72480,7 +72705,7 @@
 烓	stove	wēi	wei	1	
 烒	shì	shi	4	
 烑	yáo	yao	2	
-烐	give	zhōu	zhou	1	
+烐	zhōu	zhou	1	
 烏黑	Black	wū hēi 	wu hei 	11	
 烏鴉	crow	wū yā	wu ya	11	
 烏雲密佈	heavily clouded	wū yún mì bù 	wu yun mi bu 	1244	
@@ -72548,8 +72773,6 @@
 為伍	company	wéi wǔ	wei wu 	23	
 為了	in order to	wèi le	wei le	41	
 為之	For whom	wéi zhī	wei zhi 	21	
-為主	Mainly	wéi zhǔ	wei zhu	23	
-為三	For three	wèi sān	wei san 	41	
 為一	For one	wéi yī	wei yi 	21	
 為⼰	For yourself	wèi jǐ	wei ji 	43	
 炷	cone	zhù	zhu	4	
@@ -72559,7 +72782,8 @@
 炲	tái	tai	2	
 炱	soot	tái	tai	2	
 炰	roast	páo	pao	2	
-炭火	charcoal fire	tàn huǒ 	tan huo 	43	
+炭火	burning coals	tàn huǒ 	tan huo 	431	
+
 炫耀	show off	xuàn yào	xuan yao 	44	
 炫目	Dazzling	xuàn mù	xuan mu 	44	
 炪	zhuō	zhuo	1	
@@ -73066,7 +73290,8 @@
 漂浮	float	piāo fú	piao fu 	12	
 漂流	wandering	piāo liú	piao liu	12	
 
-漂泊	drift	piāo bó	piao po 	12	
+漂泊	wander	piāo bó	piao bo	12	
+
 漂亮	Pretty	piào liàng	piao liang	44	
 漁船	Fishing boat	yú chuán 	yu chuan 	22	
 漁網	Fishing net	yú wǎng 	yu wang 	23	
@@ -73243,7 +73468,8 @@
 源自	From	yuán zì	yuan zi 	24	
 源源不斷	Steady stream	yuán yuán bù duàn 	yuan yuan  duan 	2244	
 源泉	Source	yuán quán 	yuan quan 	22	
-源於	From	yuán wū	yuan yu 	21	
+源於	from	yuán yú	yuan yu	22	
+
 溏	pool	táng	tang	2	
 溎	river	yàn	yan	4	
 溍	water	jìn	jin	4	
@@ -73465,7 +73691,8 @@
 深藏	Deep	shēn cáng	shen cang 	12	
 深藍	Dark blue	shēn lán	shen  	12	
 深紅	Crimson	shēn hóng 	shen hong 	12	
-深淵	abyss	shēn yuān	shen yuan	11	
+深淵	gulf	shēn yuān	shen yuan	11	
+
 深深地	Deeply	shēn shēn de	shen shen de 	111	
 深深	deeply	shēn shēn	shen shen 	11	
 深海	deep sea	shēn hǎi	shen hai 	13	
@@ -73545,7 +73772,7 @@
 淐	chāng	chang	1	
 淏	hào	hao	4	
 淎	pěng	peng	3	
-淍	give	zhōu	zhou	1	
+淍	zhōu	zhou	1	
 淌下	Drip down	tǎng xià	tang xia	34	
 淋濕	Wetting	lín shī	 shi 	21	
 淋漓	Dripping	lín lí	 li 	22	
@@ -73731,7 +73958,8 @@
 流逝	Passing	liú shì	liu shi 	24	
 流言	gossip	liú yán	liu yan 	22	
 流血犧牲	Bloody sacrifice	liú xuè xī shēng 	liu xue xi sheng 	2411	
-流血	bleed	liú xuè	liu xue	24	
+流血	bleed	liú xiě	liu xie	23	
+
 流著	Flowing	liú zhe	liu jiao 	21	
 流落異鄉	Exotic	liú luò yì xiāng 	liu   xiang 	2441	
 流落	Flowing	liú luò	liu luo	24	
@@ -73742,7 +73970,8 @@
 流珥	Reuel	liú ěr	liu er	23	
 流淚	cry	liú lèi 	liu lei 	241	
 流淌	Flowing	liú tǎng 	liu tang 	23	
-流浪者	Rangers	liú làng zhě	liu lang zhe	243	
+流浪者	wanderer	liú làng zhě	liu lang zhe	243	
+
 流浪	Wandering	liú làng 	liu  	24	
 流派	school	liú pài	liu pai 	24	
 流水	Water	liú shuǐ	liu shui	23	
@@ -73768,16 +73997,19 @@
 派到	Sent to	pài dào	pai dao 	44	
 派來	Sent to	pài lái	pai  	42	洼	hollow	wā	wa	1	
 活著	Alive	huó zhe	huo jiao 	21	
-活祭	Live sacrifice	huó jì	huo ji 	24	
+活祭	living sacrifice	huó jì	huo ji	24	
+
 活着	Alive	huó zhe	huo  	21	
 活生	Live	huó shēng	huó shēng	21	
 活物	Living thing	huó wù	huó wù	24	
 活潑	Lively	huó pō	huo po	21	
 活活	Live	huó huó 	huo huo 	22	
-活泉	Live spring	huó quán	huo quan 	22	
+活泉	spring of life	huó quán	huo quan	22	
+
 活水	living water	huó shuǐ 	huo shui 	231	
 活捉	Keep alive	huó zhuō 	huo zhuo 	21	
-活得	life	huó de	huo de	21	
+活得	live	huó de	huo de	21	
+
 活埋	Live buried	huó mái	huo mai 	22	
 活命	Live	huó mìng 	huo ming 	24	
 活口	Live mouth	huó kǒu	huo kou 	23	
@@ -73802,8 +74034,6 @@
 洬	sù	su	4	
 洫	ditch	xù	xu	4	
 洪濤	waves	hóng tāo	hong tao 	21	
-洪流	Torrent	hóng liú	hong liu 	22	
-洪水期	Flood period	hóng shuǐ qī	hong shui qi	231	
 洪水	flood	hóng shuǐ	hong shui	23	
 洪亮	loud	hóng liàng 	hong  	24	
 洩露	reveal	xiè lòu 	xie lou 	441	
@@ -73925,8 +74155,10 @@
 波浪	wave	bō làng 	bo lang 	141	
 波斯拉	Persa	bō sī lā	bo si la	111	
 波斯	Persia	bō sī	bo si 	11	
-波提非拉	Podiella	bō tí fēi lā	bo ti fei la	1211	
-波提乏	Potiah	bō tí fá	bo ti fa	122	
+波提非拉	Potiphera	bō tí fēi lā	bo ti fei la	1211	
+
+波提乏	Potiphar	bō tí fá	bo ti fa	122	
+
 波山	Poshan	bō shān 	bo shan 	11	
 泡沫	foam	pào mò	pao mo	44	
 泠	líng	ling	2	
@@ -74121,7 +74353,8 @@
 沒來	not coming	méi lái	mei  	22	
 沒人	no one	méi rén	mei ren 	22	
 沒事	Nothing	méi shì	mei shi 	24	
-沒了	Gone	méi liǎo 	mei liao 	231	
+沒了	gone	méi le	mei le	21	
+
 沑	nǜ	nu	4	
 沐浴	Bathing	mù yù	mu yu	44	
 沏	infuse	qī	qi	1	
@@ -74275,6 +74508,8 @@
 永久	permanent	yǒng jiǔ	yong jiu 	33	
 永世	forever	yǒng shì	yong shi 	34	
 永不	never	yǒng bù	yong bu	34	
+
+
 氷	ice	bīng	bing	1	
 氶	river	zhěng	zheng	3	
 氵	water	shui	shui	1	
@@ -74291,19 +74526,19 @@
 水蒸氣	water vapor	shuǐ zhēng qì	shui zheng qi	314	
 水花	Water spray	shuǐ huā	shui hua	1	
 水能	Water energy	shuǐ néng	shui neng	32	
-水罐	Water tank	shuǐ guàn	shui guan 	34	
+水罐	water jug	shuǐ guàn	shui guan	34	
+
 水缸	Water tank	shuǐ gāng	shui gang 	31	
 水潭	Pool	shuǐ tán	shui tan 	32	
 水溝	Ditch	shuǐ gōu	shui gou 	31	
 水源	Water source	shuǐ yuán	shui yuan	32	
-水渠	Drains	shuǐ qú	shui qu 	32	
-水淹	Flooding	shuǐ yān	shui yan 	31	
 水深	Water depth	shuǐ shēn 	shui shen 	31	
 水流	Water flow	shuǐ liú	shui liu 	32	
 水洗	Washed	shuǐ xǐ	shui xi 	33	
 水泉	Water springs	shuǐ quán 	shui quan 	32	
 水池	pool	shuǐ chí	shui chi 	32	
-水槽	sink	shuǐ cáo	shui cao 	32	
+水槽	trough	shuǐ cáo	shui cao	32	
+
 水桶	bucket	shuǐ tǒng	shui tong 	33	
 水果	fruit	shuǐ guǒ	shui guo	33	
 水晶	crystal	shuǐ jīng	shui jing	31	
@@ -74503,8 +74738,6 @@
 比先	Than first	bǐ xiān	bi xian	31	
 比倫其	Billy it	bǐ lún qí	bi lun qi	322	
 比倫全	Billon Full	bǐ lún quán	bǐ lún quán	322	
-比例	proportion	bǐ lì	bi li	34	
-比你軟	Harder than you	bǐ nǐ ruǎn	bi ni ruan	333	比作	Compare	bǐ zuò	bi zuo 	34	
 比亞綠	Biya Green	bǐ yǎ lǜ	bi ya lu	331	
 比亞	Biya	bǐ yǎ	bi ya 	33	
 比上	Than on	bǐ shàng	bi shang 	34	
@@ -74549,8 +74782,6 @@
 每支	Each one	měi zhī	mei zhi 	31	
 每張	Each one	měi zhāng	mei zhang 	31	
 每年	Per year	měi nián 	mei  	32	
-每對	Each pair	měi duì	mei dui 	34	
-每封	Every seal	měi fēng	mei feng 	31	
 每家	Each home	měi jiā	mei jia 	31	
 每季	Quarterly	měi jì	mei ji 	34	
 每天	every day	měi tiān 	mei tian 	31	
@@ -74565,7 +74796,9 @@
 每件事	Everything	měi jiàn shì	mei jian shi 	344	
 每件	Every	měi jiàn	mei jian 	34	
 每串	Each string	měi chuàn	mei  	34	
-每一	Each one	měi yī	mei yi	31	
+每一	each one	měi yì	mei yi	34	
+
+
 每⾸歌	Every song	měi shǒu gē	mei shou ge 	331	
 毎	every	měi	mei	3	
 母鹿	Deer	mǔ lù	mu  	34	
@@ -74579,8 +74812,6 @@
 母示	Mother show	mǔ shì	mu shi	34	
 母獅	Lioness	mǔ shī	mu shi 	31	
 母牛	cow	mǔ niú	mu niu 	32	
-母平	Mother level	mǔ píng	mu ping	32	
-母山	Mother mountain	mǔ shān	mu shan	31	
 母子	Mother and son	mǔ zǐ	mu zi 	33	
 母后	After the mother	mǔ hòu 	mu hou 	34	
 母亞	Mother	mǔ yà	mu ya	34	
@@ -74628,7 +74859,8 @@
 殹	echo	yì	yi	4	
 殸	qìng	qing	4	
 殷勤	attentive	yān qín 	yin qin 	12	
-殷切	Earnestly	yān qiè 	yin  	14	
+殷切	earnestly	yīn qiè 	yin qie 	141	
+
 殶	zhù	zhu	4	
 段音樂	Music	duàn yīn yuè 	duàn yīn yuè 	414	
 段落	paragraph	duàn luò	duan  	44	
@@ -74643,7 +74875,7 @@
 殯葬	Funeral	bìn zàng 	bin zang 	44	
 殯	encoffin	bìn	bin	4	
 殮	liàn	lian	4	
-殭	stiff	jiāng	jiang	1	
+殭	jiāng	jiang	1	
 殬	dù	du	4	
 殫	utmost	dān	dan	1	
 殪	die	yì	yi	4	
@@ -74672,7 +74904,8 @@
 殘破	broken	cán pò	can po 	24	
 殘疾	Disability	cán jí	can ji 	22	
 殘殺	To kill	cán shā	can sha	21	
-殘暴	brutal	cán bào 	can bao 	241	
+殘暴	cruel	cán bào 	can bao 	241	
+
 殘忍	cruel	cán rěn	can ren 	23	
 殘廢	Disability	cán fèi	can fei 	24	
 殘害	Harm	cán hài	can hai 	24	
@@ -74727,8 +74960,6 @@
 死地	Deadly	sǐ dì 	si de 	34	
 死去	Die	sǐ qù 	si qu 	34	
 死別	Death	sǐ bié 	si bie 	32	
-死刑	death penalty	sǐ xíng 	si xing 	32	
-死光	Dead light	sǐ guāng	si guang 	31	
 死兄	Die brother	sǐ xiōng	si xiong	31	
 死人	dead	sǐ rén 	si ren 	32	
 死亡	death	sǐ wáng 	si wang 	321	
@@ -74746,13 +74977,17 @@
 歸與	Return to	guī yǔ	gui yu	13	
 歸給耶	To the Lord	guī gěi yē	gui gei ye	131	
 歸給	Give it to	guī gěi	gui gei	13	
-歸於	Attribution	guī wū	gui yu 	11	
-歸屬	Attribution	guī shǔ	gui shu 	13	
+歸於	attribute	guī yú	gui yu	12	
+
+歸屬	belong to	guī shǔ	gui shu	13	
+
 歸宿	Destination	guī sù	gui su 	14	
 歸大	Go big	guī dà	gui da	14	
 歸回本城	Return to the city	guī huí běn chéng 	guī huí běn chéng 	1232	
 歸向	Return to	guī xiàng 	gui xiang 	14	
-歸功於	Thanks to	guī gōng wū	gui gong yu 	111	
+歸功於	take credit	guī gōng yú	gui gong yu	112	
+
+
 歸到	Return to	guī dào	gui dao 	14	
 歸入	included	guī rù	gui ru	14	
 
@@ -74788,7 +75023,8 @@
 武裝	weapon	wǔ zhuāng 	wu zhuang 	311	
 
 武士	warrior	wǔ shì	wu shi	34	
-武器	arms	wǔ qì 	wu qi 	341	
+武器	weapons	wǔ qì 	wu qi 	341	
+
 武力	force	wǔ lì 	wu li 	341	
 步驟	step	bù zòu	bu zou	44	
 步行	walk	bù xíng 	bu  	42	
@@ -74846,7 +75082,8 @@
 正在	Is on	zhèng zài	zheng zai	44	
 正因	Reason	zhèng yīn	zheng yin 	41	
 正和	Positive and	zhèng hé	zheng han 	42	
-正向	Positive	zhèng xiàng	zheng xiang 	44	正午	noon	zhèng wǔ	zheng wu 	43	
+正向	forward	zhèng xiàng	zheng xiang	44	
+
 正像	Just as	zhèng xiàng	zheng xiang 	44	
 正值	harvest	zhèng zhí	zheng zhi	42	
 正中	middle	zhèng zhòng	zheng zhong	44	
@@ -74911,7 +75148,8 @@
 歇息	Rest	xiē xi	xie xi 	11	
 歇工	knock off	xiē gōng	xie gong 	11	
 歇你	Break you	xiē nǐ	xie ni	13	
-歇了	Break out	xiē le	xie le	1
+歇了	rested	xiē le	xie le	11	
+
 歆	like	xīn	xin	1	
 歅	yīn	yin	1	
 歄	guā	gua	1	
@@ -74980,8 +75218,6 @@
 次序	order	cì xù	ci xu 	44	
 次安排	Times arrangement	cì ān pái 	ci an pai 	412	
 次子	Second son	cì zǐ	ci zi	43	
-次婚姻	Marriage	cì hūn yīn 	ci hun yin 	411	
-次可	Times can be	cì kě	ci ke	43	
 次又	Times again	cì yòu	ci you	44	
 欠缺	Lack of	qiàn quē	qian que 	41	
 欠債	Debt	qiàn zhài	qian zhai 	44	
@@ -75229,7 +75465,8 @@
 橇	qiāo	qiao	1	
 橆	without	wǔ	wu	3	
 橅	mó	mo	2	
-橄欖石	Olivine	gǎn lǎn shí	gan lan shi 	332	
+橄欖石	chrysolite	gǎn lǎn shí	gan lan shi	332	
+
 橄欖油	olive oil	gǎn lǎn yóu	gan lan you 	332	
 橄欖樹	olive tree	gǎn lǎn shù	gan lan shu 	334	
 橄欖山	Mount of Olives	gǎn lǎn shān 	gan lan shan 	331	
@@ -75357,7 +75594,8 @@
 樂趣	pleasure	lè qù	le qu	44	
 樂聲	Music	yuè shēng	 sheng 	41	
 樂歌	Music	yuè gē	 ge 	41	
-樂於	glad to	lè wū	 yu 	41	
+樂於	glad to	lè yú	le yu	42	
+
 樂手	Musician	yuè shǒu	 shou 	43	
 樂意	be happy to	lè yì	le yi	44	
 
@@ -76094,7 +76332,8 @@
 某人	Someone	mǒu rén	mou ren 	32	
 某些	some	mǒu xiē	mou xie	31	
 某一	A certain one	mǒu yī	mou yi 	31	
-柏油	Asphalt	bó yóu 	bai you 	22	
+柏油	tar	bǎi yóu 	bai you 	321	
+
 柏樹	Cypress	bó shù 	bai shu 	24	
 柏木	Cedar	bǎi mù	bai mu 	34	
 柎	fū	fu	1	
@@ -76160,7 +76399,8 @@
 枯萎	withered	kū wěi 	ku wei 	13	
 枯竭	exhausted	kū jié 	ku jie 	12	
 枯瘦	skinny	kū shòu 	ku shou 	14	
-枯焦	Dry coke	kū jiāo 	ku jiao 	11	
+枯焦	mouldy	kū jiāo 	ku jiao 	111	
+
 枯死	Withering	kū sǐ	ku si 	13	
 枯樹	Dead tree	kū shù	ku shu 	14	
 枯枝	Dead branches	kū zhī	ku zhi 	11	
@@ -76376,7 +76616,8 @@
 本能	instinct	běn néng 	ben neng 	32	
 本聖經	The Bible	běn shèng jīng 	ben sheng jing 	341	
 本章	This chapter	běn zhāng 	ben zhang 	31	
-本着	In the book	běn zhe	ben  	31	
+本着	because of	běn zhe	ben zhe	31	
+
 本物	object	běn wù	ben wu	34	
 本源	origin	běn yuán 	ben yuan 	32	
 本期刊	This journal	běn qí kān 	ben qi kan 	321	
@@ -76483,7 +76724,8 @@
 期獻	Period offer	qī xiàn	qi xian	14	
 期滿	Expired	qí mǎn	qi man 	23	
 期望	expect	qí wàng	qi wang	24	
-期待	look forward to	qí dài 	qi dai 	241	
+期待	look forward to	qī dài 	qi dai 	141	
+
 期中	Period	qí zhōng 	qi zhong 	21	
 朞	anniversary	jī	ji	1	
 朝露	To the dew	zhāo lù	chao  	14	
@@ -76626,7 +76868,8 @@
 曾拆	Have been demolished	céng chāi	ceng chai	21	
 曾將	Have ever been	céng jiāng	ceng jiang	21	
 曾孫	Great grandchildren	zēng sūn	ceng sun 	11	曾創	Was created	céng chuàng	céng chuàng	24	
-曾使	Had to make	céng shǐ	ceng shi	23	
+曾使	made	céng shǐ	ceng shi	23	
+
 曽	already	cēng	ceng	1	
 曻	sheng	sheng	1	
 曺	cáo	cao	2	
@@ -76637,7 +76880,8 @@
 書珊	Shushan	shū shān	shu shan	11	
 書念	Shunem	shū niàn	shu nian	14	
 書信	letter	shū xìn	shu xin 	14	
-書亞	Book ya	shū yà	shu ya	14	
+書亞	Shuah	shū yà	shu ya	14	
+
 書一	Book one	shū yī	shu yi	11	
 曷拉	Haura	hé lā	he la	21	
 曷	hé	he	2	
@@ -76853,7 +77097,8 @@
 晪	tiǎn	tian	3	
 晩	night	wǎn	wan	3	
 晨起	Morning	chen qǐ	chen qi	13	
-晨曦	Dawn	chén xī	chen xi 	21	
+晨曦	coming	chén xī	chen xi	21	
+
 晨星	Morning Star	chén xīng	chen xing 	21	
 晨光	Dawn	chén guāng	chen guang 	21	
 晧	daybreak	hào	hao	4	
@@ -77080,7 +77325,8 @@
 早春	early spring	zǎo chūn 	zao chun 	31	
 早早	Early	zǎo zǎo 	zao zao 	33	
 早日	early	zǎo rì	zao ri	34	
-早於	Earlier than	zǎo wū	zao yu 	31	
+早於	before	zǎo yú	zao yu	32	
+
 早年	Early years	zǎo nián 	zao  	32	
 早已	Long ago	zǎo yǐ	zao yi	33	
 早就	Long ago	zǎo jiù	zao jiu 	34	
@@ -77275,7 +77521,8 @@
 新聞	news	xīn wén	xin wen	12	
 新綠	New green	xīn lǜ	xin  	11	
 新約	New Covenant	xīn yuē	xin yue 	11	
-新生	newborn	xīn shēng 	xin sheng 	111	
+新生	new life	xīn shēng 	xin sheng 	111	
+
 新歌	New song	xīn gē	xin ge 	11	
 新月	new moon	xīn yuè	xīn yuè	14	
 新教	Protestant	xīn jiào 	xin jiao 	14	
@@ -77283,14 +77530,18 @@
 新建	New	xīn jiàn 	xin jian 	14	
 新年	new Year	xīn nián 	xin nian 	121	
 新居	new home	xīn jū	xin ju	11	
-新婦	New woman	xīn fù	xin fu 	14	
+新婦	bride	xīn fù	xin fu	14	
+
+
 新婚	Newly married	xīn hūn 	xin hun 	11	
 新娘	bride	xīn niáng	xin niang	12	
 新奇	novel	xīn qí	xin qi 	12	
 新天地	New world	xīn tiān dì	xin tian de 	114	
-新天	New days	xīn tiān	xin tian 	11	
+新天	new heaven	xīn tiān	xin tian	11	
+
 新城	New town	xīn chéng 	xin cheng 	12	
-新地	New land	xīn dì	xin de 	14	
+新地	new earth	xīn dì	xin di	14	
+
 新兵	Recruits	xīn bīng 	xin bing 	11	
 新修	New repair	xīn xiū	xin xiu	11	
 新任	new	xīn rèn 	xin ren 	14	
@@ -77377,7 +77628,8 @@
 
 數以萬計	Tens of thousands	shù yǐ wàn jì	 yi wan ji 	4344	
 數以千計	Thousands of dollars	shù yǐ qiān jì	 yi qian ji 	4314	
-數不盡	Countless	shǔ bù jìn	  jin 	344	
+數不盡	countless	shǔ bu jìn	shu bu jin	314	
+
 敶	zhèn	zhen	4	
 敵進	Enemy	dí jìn	di jin	24	
 敵軍	enemy	dí jūn	di jun 	21	
@@ -77543,12 +77795,15 @@
 放走	Let go	fàng zǒu	fang zou 	43	
 放血	bloodletting	fàng xiě	fang xue 	43	
 放蕩不羈	Bohemian	fàng dàng bù jī	fang dang  ji 	4441	
-放蕩	debauchery	fàng dàng	fang dang	44	
+放蕩	promiscuity	fàng dàng	fang dang	44	
+
 放膽	Bold	fàng dǎn	fang dan 	43	
 放肆	presumptuous	fàng sì	fang si 	44	
 放聲大哭	Burst into tears	fàng shēng dà kū	fang sheng da ku 	4141	
-放聲	Sound up	fàng shēng 	fang sheng 	41	
-放羊	Sheep	fàng yáng	fang yang 	42	
+放聲	cried out	fàng shēng 	fang sheng 	411	
+
+放羊	pasture flocks	fàng yáng	fang yang	42	
+
 放置	place	fàng zhì	fang zhi 	44	
 放縱	indulgence	fàng zòng	fang zong 	44	
 放盡	Let go	fàng jǐn	fang jin 	43	
@@ -77805,7 +78060,8 @@
 擐	huàn	huan	4	
 擏	qíng	qing	2	
 操縱	manipulate	cāo zòng	cao zong	14	
-操練	practice	cāo liàn 	cao  	14	
+操練	exercise	cāo liàn 	cao lian 	141	
+
 操控	Control	cāo kòng 	cao kong 	14	
 操持家務	Hold the housework	cāo chí jiā wù	cao chi jia wu 	1214	
 操心	worry	cāo xīn	cao xin	11	
@@ -77839,7 +78095,8 @@
 擉	pierce	chuò	chuo	4	
 擈	pū	pu	1	
 擆	zhuó	zhuo	2	
-擅長	Good at	shàn cháng	shan chang	42	
+擅長	skill	shàn cháng	shan chang	42	
+
 擅自	unauthorized	shàn zì	shan zi 	44	
 擅於	Good at	shàn wū	shan yu 	41	
 擅入	Trespassing	shàn rù	shan ru 	44	
@@ -77854,7 +78111,8 @@
 擁擠不堪	Crowded	yǒng jǐ bù kān 	yong ji  kan 	3341	
 擁擠	Crowded	yǒng jǐ	yong ji	33	
 擁抱著	Hugged	yǒng bào zhe	yong bao jiao 	341	
-擁抱	embrace	yǒng bào	yong bao	34	
+擁抱	embrace	yōng bào	yong bao	14	
+
 擁戴	support	yōng dài	yong dai 	14	
 擀	gǎn	gan	3	
 撿起來	pick it up	jiǎn qǐ lái	jian qi  	332	
@@ -78001,7 +78259,8 @@
 摼	hit	kēng	keng	1	
 摻	mix	càn	can	4	
 摺疊	fold	zhé dié 	zhe die 	22	
-摸過	Touched	mō guò 	mo guo 	14	
+摸過	touched	mō guo	mo guo	11	
+
 摸索	Groping	mō suǒ 	mo  	13	
 摸摸	Touch	mō mō	mo mo 	11	
 摸到	Touch it	mō dào	mo dao 	14	
@@ -78156,7 +78415,8 @@
 搖著	Shaking	yáo zhe	yao jiao 	21	
 搖祭	Wave festival	yáo jì	yao ji	24	
 搖晃	shake	yáo huàng	yao huang	24	
-搖擺不定	indecisive	yáo bǎi bù dìng 	yao bai  ding 	2344	
+搖擺不定	indecisive	yáo bǎi bú dìng 	yao bai bu ding 	23241	
+
 搖擺	swing	yáo bǎi 	yao bai 	231	
 搖撼	Shake down	yáo hàn 	yao han 	24	
 搖搖晃晃	Staggered	yáo yáo huàng huang	yao yao huang huang 	2241	
@@ -78261,7 +78521,9 @@
 插翅	Wings	chā chì	cha chi 	14	
 揑	fabricate	niē	nie	1	
 提阿非羅	Theophilus	tí ā fēi luó	ti a fei luo	2112	
-提防	beware	tí fáng 	ti fang 	22	
+提防	beware	dī fáng 	di fang 	121	
+
+
 提鍊	To mention the chain	tí liàn	ti lian	24	
 提醒	remind	tí xǐng 	ti xing 	231	
 提達	To mention	tí dá	ti da	22	
@@ -78270,7 +78532,8 @@
 提起	Filed	tí qǐ 	ti qi 	231	
 提議	proposal	tí yì	ti yi	24	
 提聯	Together	tí lián	ti lian	22	
-提瑪	Tima	tí mǎ	ti ma	23	
+提瑪	Tema	tí mǎ	ti ma	23	
+
 提煉	refining	tí liàn 	ti lian 	24	
 提法	formulation	tí fǎ	ti fa 	23	
 提比哩亞	Tiberias	tí bǐ li yà	ti bi li ya	2314	
@@ -78332,7 +78595,7 @@
 掮	qián	qian	2	
 掭	manipulate	tiàn	tian	4	
 掬	jū	ju	1	
-掫	grasp	give	zhōu	zhou	1	
+掫	grasp	zhōu	zhou	1	
 措詞	Wording	cuò cí	cuo ci 	42	
 措施	Measures	cuò shī	cuo shi	41	
 措手不及	Caught by surprise	cuò shǒu bù jí	cuo shou  ji 	4342	
@@ -78340,7 +78603,8 @@
 掩面	Hide the face	yǎn miàn	yan mian 	34	
 掩藏	hide	yǎn cáng 	yan cang 	32	
 掩蔽	masking	yǎn bì	yan bi 	34	
-掩蓋	cover	yǎng ài	yang ai	34	
+掩蓋	cover	yǎn gài	yan gai	34	
+
 掩耳	So that	yǎn ěr	yan er 	33	
 掩着	Cover up	yǎn zhe	yan  	31	
 掩沒	Cover up	yǎn méi	yan mei 	32	
@@ -78441,7 +78705,8 @@
 掛念	miss	guàn iàn	guàn iàn	44	
 掚	liǎng	liang	3	
 掙開	Break away	zhēng kāi	zheng kai 	11	
-掙脫	Break free	zhēng tuō	zheng tuo 	11	
+掙脫	break free	zhèng tuō	zheng tuo	41	
+
 掙扎	struggle	zhēng zhá	zheng zha	12	
 掘地	Digging	jué dì	jue de 	24	
 掗	take	yà	ya	4	
@@ -78638,7 +78903,8 @@
 挰	zhèn	zhen	4	
 振興	Revitalize	zhèn xīng 	zhen xing 	41	
 振奮起來	Excited up	zhèn fèn qǐ lái 	zhen fen qi  	4432	
-振奮	Excited	zhèn fèn	zhen fen 	44	
+振奮	inspired	zhèn fèn	zhen fen	44	
+
 振動	move	zhèn dòng	zhen dong	44	
 
 振作起來	Cheer up	zhèn zuò qǐ lái 	zhen zuo qi  	4432	
@@ -78651,7 +78917,8 @@
 挪開了	Moved away	nuó kāi le	nuó kāi le	21
 挪開	Move away	nuó kāi	nuo kai 	21	
 挪移	Diverted	nuó yí	nuo yi 	22	
-挪得	Norway	nuó de	nuó de	21	
+挪得	Nod	nuó dé	nuo de	22	
+
 挪伯	Norbert	nuó bó	nuó bó	22	
 挪亞	Noah	nuó yà	nuó yà	24	
 挩	tuō	tuo	1	
@@ -78713,7 +78980,8 @@
 按月	On a monthly basis	àn yuè	àn yuè	44	
 按時	on time	àn shí	an shi	42	
 按摩	massage	àn mó	an mo	42	
-按捺不住	Intolerable	àn nà bu zhù 	an na bu zhu 	44141	
+按捺不住	overcome	àn nà bu zhù 	an na bu zhu 	44141	
+
 
 按家	By home	àn jiā	an jia	41	
 按季	Quarterly	àn jì	an ji	44	
@@ -78736,7 +79004,8 @@
 指斥	Denounced	zhǐ chì 	zhi chi 	34	
 指教	take care of	zhǐ jiào 	zhi jiao 	341	
 
-指摘	Accuse	zhǐ zhāi 	zhi zhai 	31	
+指摘	blame	zhǐ zé	zhi ze	32	
+
 指揮官	commander	zhǐ huī guān 	zhi hui guan 	311	
 指揮	command	zhǐ huī	zhi hui	31	
 指控	accuse	zhǐ kòng 	zhi kong 	341	
@@ -78761,7 +79030,8 @@
 拿鶴	Nahor	ná hè	na he	24	
 拿鴻	Take hong	ná hóng	na hong	22	
 拿順	Nahshon	ná shùn	na shun	24	
-拿非施	Do not apply	ná fēi shī	na fei shi	211	
+拿非施	Naphish	ná fēi shī	na fei shi	211	
+
 拿酒	Take the wine	ná jiǔ	na jiu 	23	
 拿達	Nada	ná dá	na da	22	
 拿起來	pick up	ná qǐ lái 	na qi  	232	
@@ -78844,7 +79114,8 @@
 招搖過市	Swagger	zhāo yáo guò shì 	zhao yao guo shi 	1244	
 招搖	Swagger	zhāo yáo	zhao yao 	12	
 招惹	provoke	zhāo rě	zhao re 	13	
-招待	entertain	zhāo dài	zhao dai	14	
+招待	host	zhāo dài	zhao dai	14	
+
 招展	Fluttering	zhāo zhǎn 	zhao zhan 	13	
 招募	recruit	zhāo mù	zhao mu 	14	
 招到	Move to	zhāo dào	zhao dao 	14	
@@ -78885,7 +79156,8 @@
 拒母	Refuses to refuse	jù mǔ	ju mu	43	
 拑	clamp	qián	qian	2	
 拐角	corner	guǎi jiǎo	guai jiao 	33	
-拐來	Shui Lai	guǎi lái	guai  	32	
+拐來	come	guǎi lái	guai lai	32	
+
 拏	take	ná	na	2	
 拎	haul	līn	lin	1	
 拍掌	Clap your hands	pāi zhǎng	pai zhang 	13	
@@ -79116,7 +79388,8 @@
 抓住	seize	zhuā zhù	zhua zhu	14	
 抒發	express	shū fā	shu fa 	11	
 抑或	or	yì huò 	yi huo 	44	
-抑制	inhibition	yì zhì	yi zhi	44	
+抑制	control	yì zhì	yi zhi	44	
+
 抐	nè	ne	4	
 抏	wán	wan	2	
 抎	yǔn	yun	3	
@@ -79152,8 +79425,6 @@
 把掃帚	Put a broom	bǎ sào zhǒu 	ba sao zhou 	343	
 把尺子	The ruler	bǎ chǐ zi	ba chi zi	331	
 把尺	The ruler	bǎ chǐ 	ba chi 	33	
-把安樂椅	Put an easy chair	bǎ ān lè yǐ 	ba an le yi 	3143	
-把口	The mouth	bǎ kǒu 	ba kou 	33	
 把匙子	Put the spoon	bǎ chí zi	ba chi zi	321	
 把匕首	The dagger	bǎ bǐ shǒu 	ba bi shou 	333	
 把勺子	Put the spoon	bǎ sháo zi	ba shao zi	321	
@@ -79187,7 +79458,8 @@
 找見	Find it	zhǎo jiàn	zhao jian	34	
 找著了	Looking for it	zhǎo zhe le	zhao zhe le	31
 找著	Looking for	zhǎo zhe	zhao zhe	31	
-找着	Looking for	zhǎo zhe	zhao  	31	
+找着	find it	zhǎo zháo	zhao zhao	32	
+
 找得	Find it	zhǎo de	zhao de 	31	找到	found	zhǎo dào	zhao dao 	34	
 找出來	find out	zhǎo chū lái	zhao chu  	312	
 找出	Find out	zhǎo chū	zhao chu 	31	
@@ -79288,7 +79560,8 @@
 打發	To send	dǎ fā	da fa	31	
 打球	play ball	dǎ qiú	da qiu	32	
 打獵	hunt	dǎ liè 	da lie 	341	
-打滿	Play full	dǎ mǎn	da man	33	
+打滿	filled	dǎ mǎn	da man	33	
+
 打死	Killed	dǎ sǐ	da si 	33	
 打架	fight	dǎ jià 	da jia 	341	
 打斷	interrupt	dǎ duàn	da duan	34	
@@ -79325,7 +79598,8 @@
 打下	Lay down	dǎ xià 	da xia 	34	
 扐	divine	lè	le	4	
 扏	qiú	qiu	2	
-扎根	roots	zhá gēn 	zha gen 	211	
+扎根	be rooted	zhā gēn 	zha gen 	111	
+
 才跟	Only with it	cái gēn	cai gen 	21	
 才要	Only to be	cái yào	cai yao 	24	
 才表	Only table	cái biǎo	cai biao	23	
@@ -79340,7 +79614,8 @@
 才智	Talented	cái zhì	cai zhi	24	
 才是	Is it	cái shì	cai shi 	24	
 才敢	dare	cái gǎn	cai gan	23	
-才得	Only have to	cái de	cai de 	21	
+才得	Only have to	cái dé	cai de	22	
+
 才好	To be good	cái hǎo	cai hao 	23	
 才可以	Can it be	cái kě yǐ	cai ke yi 	233	
 才去	just went	cái qù	cai qu 	24	
@@ -79449,7 +79724,8 @@
 所大學	University	suǒ dà xué 	suǒ dà xué 	342	
 所多瑪	Sodom	suǒ duō mǎ	suo duo ma	313	
 所告	report	suǒ gào	suo gao	34	
-所吩咐	Commanded	suǒ fēn fu	suo fen fu	311	
+所吩咐	commanded	suǒ fēn fù	suo fen fu	314	
+
 所吩	The	suǒ fēn	suo fen	31	
 所向無敵	Invincible	suǒ xiàng wú dí	suo xiang wu di 	3422	
 所向披靡	Invincible	suǒ xiàng pī mí	suo xiang pi mi 	3412	
@@ -79589,7 +79865,8 @@
 成長	growing up	chéng zhǎng	cheng zhang	23	
 成群	In groups	chéng qún	cheng qun	22	
 成真	come true	chéng zhēn	cheng zhen 	21	
-成熟	mature	chéng shuó	cheng shuo	22	
+成熟	mature	chéng shú	cheng shu	22	
+
 成為	become	chéng wéi	cheng wei	22	
 成果	Results	chéng guǒ	cheng guo	23	
 成效	Effectiveness	chéng xiào	cheng xiao	24	
@@ -79718,7 +79995,9 @@
 應對得體	Coping properly	yìng duì dé tǐ	ying dui de ti 	4423	
 應對	response	yìng duì	ying dui 	44	
 應分	Should be divided	yīng fèn	ying fen	14	
-應允	Promise	yìng yǔn	ying yun 	43	
+應允	answered	yīng yǔn	ying yun	13	
+
+
 應你	Should you	yīng nǐ	ying ni	13	
 應付	Handle	yìng fù	ying fu	44	
 應了	Should be	yīng le	ying le	1
@@ -79780,8 +80059,6 @@
 憑證	certificate	píng zhèng 	ping zheng 	24	
 憑誠	Honesty	píng chéng	ping cheng	22	
 憑藉	By virtue of	píng jí	ping ji 	22	
-憑著	With	píng zhe	ping zhe	21	
-憑良心	With conscience	píng liáng xīn	ping  xin 	221	
 憑自	With self	píng zì	ping zi	24	
 憑甚麼	how can you	píng shén me	ping shen me	221	
 憑據	Credentials	píng jù	ping ju 	24	
@@ -79947,7 +80224,8 @@
 感恩	Thanksgiving	gǎn ēn	gan en	31	
 感受到	Feel it	gǎn shòu dào 	gan shou dao 	344	
 感受	Feelings	gǎn shòu	gan shou	34	
-感化	Probation	gǎn huà	gan hua 	34	
+感化	reformed	gǎn huà	gan hua	34	
+
 感動	Moving	gǎn dòng 	gan dong 	341	
 感到	feel	gǎn dào 	gan dao 	341	
 愞	timid	nuò	nuo	4	
@@ -79957,9 +80235,8 @@
 愛許	Love promise	ài xǔ	ai xu	43	
 愛虛	Love virtual	ài xū	ai xu	41	
 愛葡	Love Portuguese	ài pú	ai pu	42	
-愛耶和	Love the Lord	ài yē hé	ai ye he	412	
-愛約	Love about	ài yuē	ai yue	41	
-愛管閒事	Nosy	ài guǎn jiān shì	ai guan xian shi 	4314	
+愛管閒事	nosy	ài guǎn xián shì	ai guan xian shi	4324	
+
 愛筵	Love feast	ài yán	ai yan	42	
 愛祭	Love offering	ài jì	ai ji	44	
 愛着	Love it	ài zhe	ai  	41	
@@ -80065,7 +80342,8 @@
 惷	wriggle	chǔn	chun	3	
 惶惶	Panic	huáng huáng 	huang huang 	22	
 惶惑	Bewildered	huáng huò	huang huo 	24	
-惶恐不安	Fearless	huáng kǒng bù ān	huáng kǒng bù ān	2341	
+惶恐不安	fearful	huáng kǒng bù ān	huang kong bu an	2341	
+
 惶恐	Fear	huáng kǒng	huang kong	23	
 惵	dié	die	2	
 惴惴不安	Uneasy	zhuì zhuì bù ān 	zhui zhui  an 	4441	
@@ -80205,7 +80483,8 @@
 悡	lí	li	2	
 悠閒	laid back	yōu xián	you xian	12	
 悠久	long	yōu jiǔ	you jiu	13	
-悟性	Savvy	wù xìng 	wu xing 	44	
+悟性	understanding	wù xìng 	wu xing 	441	
+
 悞	impede	wù	wu	4	
 悝	afflicted	kuī	kui	1	
 悜	obscure	chěng	cheng	3	
@@ -80233,14 +80512,16 @@
 悋	stingy	lìn	lin	4	
 悊	zhé	zhe	2	
 悉心	Careful	xī xīn 	xi xin 	11	
-悉帕	Sipa	xī pà	xi pa	14	
+悉帕	Zilpah	xī pà	xi pa	14	
+
 悈	urgent	jiè	jie	4	
 悇	tú	tu	2	
 悆	happy	yù	yu	4	
 悅耶	Wyatt	yuè yē	yuè yē	41	
 悅耳動聽	Pleasant	yuè ěr dòng tīng 	yue er dong ting 	4341	
 悅耳	Sweet	yuè ěr	yue er 	43	
-悅納	Acceptance	yuè nà	yuè nà	44	
+悅納	accepted	yuè nà	yue na	44	
+
 悅目	Pleasing to the eye	yuè mù	yue mu 	44	
 悅歸	Yue return	yuè guī	yuè guī	41	
 悄然	Quietly	qiǎo rán	qiao ran 	32	
@@ -80290,8 +80571,6 @@
 恩寵	Grace	ēn chǒng 	en chong 	13	
 恩報	newspaper	ēn bào	en bao	14	
 恩准	Grace	ēn zhǔn	en zhun 	13	
-恩典	grace	ēn diǎn 	en dian 	13	
-恨約	Hate about	hèn yuē	hen yue	41	
 恨不能	Hate can not	hèn bu néng	hen bu neng	412	
 恨不得	Wait for it	hèn bu de 	hen bu de 	4111	
 恧	nǜ	nu	4	
@@ -80445,8 +80724,10 @@
 怐	mountain	jù	ju	4	
 
 怏	discontented	yàng	yang	4	
-怎麼辦	How to do	zěn me bàn	zen me ban	34	
-怎麼樣	how is it	zěn me yàng	zen me yang	34	
+怎麼辦	how to do	zěn me bàn	zen me ban	314	
+
+怎麼樣	how is it	zěn me yàng	zen me yang	314	
+
 怎麼會	how come	zěn me huì 	zen me hui 	314	
 怎麼奉	How	zěn me fèng 	zen me feng 	314	
 怎麼回事	what happened	zěn me huí shì 	zen me hui shi 	3124	
@@ -80471,7 +80752,8 @@
 忿忿	Anger	fèn fèn 	fen fen 	4	
 忾	anger	kài	kai	4	
 忽視	Ignore	hū shì 	hu shi 	141	
-忽略	ignore	hū lüè	hu lue	11	
+忽略	ignore	hū lüè	hu lue	14	
+
 忽然	suddenly	hū rán	hu ran	12	
 忼	ardent	kāng	kang	1	
 忻	delightful	xīn	xin	1	
@@ -80568,7 +80850,8 @@
 忍心	Be patient	rěn xīn	ren xin	31	
 忍受	endure	rěn shòu 	ren shou 	341	
 忍住	Hold back	rěn zhù	ren zhu 	34	
-忍不住	Could not help	rěn bù zhù	ren bu zhu	344	
+忍不住	can not help it	rěn bu zhù	ren bu zhu	314	
+
 忌恨	hate	jì hèn	ji hen	44	
 忌妒	Jealousy	jì dù	ji du 	44	
 忋	gǎi	gai	3	
@@ -80605,12 +80888,14 @@
 必承	Must inherit	bì chéng	bi cheng	42	
 必成	Will become	bì chéng	bi cheng 	42	
 必從	Must from	bì cóng	bi cong 	42	
-必得	must	bì dě	bi de	43	
+必得	must	bì dé	bi de	42	
+
 
 必幫	Will help	bì bāng	bi bang	41	
 必尋	Will find	bì xún	bi xun	42	
 必將	Will be	bì jiāng	bi jiang 	41	
-必定會	Will certainly be	bì dìng huì 	bi ding hui 	444	
+必定會	will certainly	bì dìng huì 	bi ding hui 	4441	
+
 必定是	Must be	bì dìng shì 	bi ding shi 	444	
 必定存活	Must survive	bì dìng cún huó 	bì dìng cún huó 	4422	
 必定	Must be	bì dìng	bi ding	44	
@@ -80634,8 +80919,6 @@
 必伸	Will stretch	bì shēn	bi shen	41	
 必交刀殺	Will kill and kill	bì jiāo dāo shā	bi jiao dao sha	4111	
 必交付	Will be delivered	bì jiāo fù	bi jiao fu	414	
-必交	Must pay	bì jiāo	bi jiao	41	
-必不	Will not	bì bù	bi bu	44	
 必一	Will one	bì yī	bi yi	41	
 心驚膽顫	Frightened	xīn jīng dǎn zhàn 	xin jing dan chan 	1134	
 心驚膽戰	Frightened	xīn jīng dǎn zhàn	xin jing dan zhan 	1134	
@@ -80654,7 +80937,8 @@
 心術不正	heart is not right	xīn shù bú zhèng 	xin shu bu zheng 	14241	
 
 
-心蘭	Heart blue	xīn lán	xin lan	12	
+心蘭	Zimran	xīn lán	xin lan	12	
+
 心花怒放	Elated	xīn huā nù fàng 	xin hua  fang 	1144	
 心臟	heart	xīn zàng 	xin zang 	141	
 心腹	Confidant	xīn fù	xin fu 	14	
@@ -80704,10 +80988,6 @@
 心力交瘁	Physically and mentally exhausted	xīn lì jiāo cuì 	xin  jiao cui 	1414	
 心力	Effort	xīn lì	xin  	14	
 心創	Heart hit	xīn chuàng	xīn chuàng	14	
-心利	Zimri	xīn lì	xin li	14	
-心充	Heart charge	xīn chōng	xin chong	11	
-心像	Heart like	xīn xiàng 	xin xiang 	14	
-心以	Heart to	xīn yǐ	xin yi	13	
 心事	Mind	xīn shì	xin shi	14	
 忂	qú	qu	2	
 忁	bào	bao	4	
@@ -80826,7 +81106,8 @@
 得名	Named	de míng	de ming	12	
 得合	Get together	de hé	de he	12	
 得吃	Eat it	de chī	de chi	11	
-得勝	To win	de shèng 	de sheng 	141	
+得勝	win	dé shèng 	de sheng 	241	
+
 
 得力	Effective	dé lì	de  	24	
 得到	get	dé dào	de dao	24	
@@ -80838,7 +81119,8 @@
 得以為	To be done	dé yǐ wéi 	de yi wei 	232	
 得以	To be able to	dé yǐ	de yi	23	
 得什	What is it?	de shén	de shen	12	
-得了	Got it	dé liǎo 	de liao 	231	
+得了	got	dé le	de le	21	
+
 得不可開交	Elusive	dé bù kě kāi jiāo 	de  ke kai jiao 	24311	
 得一樣	Get the same	dé yī yàng 	de yi yang 	214	
 徖	cóng	cong	2	
@@ -80903,7 +81185,8 @@
 律法萬條	Law of the law	lǜ fǎ wàn tiáo	lu fa wan tiao	1342	
 律法而行	law line	lǜ fǎ ér xíng	lu fa er xing	1322	
 律法約束	Law restraint	lǜ fǎ yuē shù 	lu fa yue shu 	1314	
-律法禁止	law is forbidden	lǜ fǎ jìn zhǐ	lu fa jin zhi	1343	
+律法禁止	illegal	lǜ fǎ jìn zhǐ	lu fa jin zhi	4343	
+
 律法熱心	law is enthusiastic	lǜ fǎ rè xīn 	lu fa re xin 	1341	
 律法書	Law book	lǜ fǎ shū	lu fa shu	431	
 
@@ -80956,8 +81239,6 @@
 征收	collection	zhēng shōu	zheng shou	11	
 征戰	campaign	zhēng zhàn	zheng zhan 	14	
 往返	round trip	wǎng fǎn	wang fan	33	
-往西	Westward	wǎng xi	wang xi 	31	
-往示	To show	wǎng shì	wang shi	34	
 往洗	To wash	wǎng xǐ	wang xi	33	
 往東	Eastward	wǎng dōng	wang dong 	31	
 往昔	Past	wǎng xī	wang xi 	31	
@@ -80974,15 +81255,14 @@
 往上	Go up	wǎng shàng	wang shang 	34	
 彿鴿	Buddha dove	fú gē	fu ge	21	
 彾	líng	ling	2	
-彽	low	dī	di	1	
-彼此之間	Between each other	bǐ cǐ zhī jiān 	bi ci zhi jian 	3311	
 彼此	each other	bǐ cǐ	bi ci	33	
 彼拉多	Pilate	bǐ lā duō	bi la duo	311	
 彼拉	Pilate	bǐ lā	bi la	31	
 彼得	Peter	bǐ dé	bi de	32	
 
 彼岸	other side	bǐ àn 	bi an 	34	
-彼土利	Pitti	bǐ tǔ lì	bi tu li	334	
+彼土利	Bethuel	bǐ tǔ lì	bi tu li	334	
+
 彺	wáng	wang	2	
 彸	restless	zhōng	zhong	1	
 
@@ -81390,7 +81670,8 @@
 座不夜城	Block never sleeps	zuò búyè chéng 	zuò búyè chéng 	422	
 度量	measure	dù liàng 	  	44	
 度過	Spent on	dù guò 	du guo 	441	
-度瑪	Degree horse	dù mǎ	du ma	43	
+度瑪	Dumah	dù mǎ	du ma	43	
+
 度日	Date	dù rì	du ri	44	
 度容	Degrees	dù róng	du rong	42	
 度囑	Expectation	dù zhǔ	du zhu	43	
@@ -81600,7 +81881,8 @@
 幕後	Behind the scenes	mù hòu 	mu hou 	44	
 幔幕	Mantle curtain	màn mù	man mu	44	
 幔子	veil	màn zi	man zi	41	
-幔利	Mantle	màn lì	man li	44	
+幔利	Mamre	màn lì	man li	44	
+
 幔	curtain	màn	man	4	
 幓	shān	shan	1	
 幒	zhōng	zhong	1	
@@ -81637,8 +81919,6 @@
 常青	evergreen	cháng qīng	chang qing 	21	
 常遵	Often	cháng zūn	chang zun	21	
 常這	Often this	cháng zhè	chang zhe	24	
-常迷	Often fans	cháng mí	chang mi	22	
-常讚	Often praise	cháng zàn	chang zan	24	
 常識	common sense	cháng shì	chang shi	24	
 常記	Often remember	cháng jì	chang ji	24	
 常規	conventional	cháng guī	chang gui 	21	
@@ -81869,7 +82149,8 @@
 巴力洗分	Barley wash	ba lì xǐ fēn	ba li xi fen	1431	
 巴力	Baal	ba lì	ba li	14	
 巴利	Bally	ba lì	ba li	14	
-巴別	Babel	ba bié	ba bie	12	
+巴別	Babel	bā bié	ba bie	12	
+
 巴以	Bar	bā yǐ	ba yi	13	
 巴不得	anxious	bā bude 	ba  de 	11	
 巳初	At the beginning of the day	sì chū	si chu	41	
@@ -82363,7 +82644,8 @@
 
 屬拉吉	Raji	shǔ lā ji	shu la ji	311	
 屬實	true	shǔ shí 	shu shi 	32	
-屬地	Territorial	shǔ dì	shu de 	34	
+屬地	earthly	shǔ dì	shu di	34	
+
 屬伯特	Burt	shǔ bó tè	shu bo te	324	
 屬下	Under the	shǔ xià	shu xia 	34	
 屫	jué	jue	2	
@@ -82434,7 +82716,8 @@
 居里	Curie	jū lǐ	ju li 	13	
 居然	Actually	jū rán 	ju ran 	121	
 居民	Residents	jū mín 	ju min 	121	
-居於	Living in	jū wū	ju yu 	11	
+居於	living in	jū yú	ju yu	12	
+
 居所	residence	jū suǒ 	ju suo 	13	
 居卑	Humble	jū bēi	ju bei	11	
 居住地	Place of residence	jū zhù dì 	ju zhu di 	144	
@@ -82464,7 +82747,8 @@
 尼斯	Nice	ní sī	ni si 	21	
 尼斐	Nifei	ní fěi	ni fei	23	
 尼提寧	Nitinin	ní tí níng	ni ti ning	222	
-尼拜約	Nibayo	ní bài yuē	ni bai yue	241	
+尼拜約	Nebaioth	ní bài yuē	ni bai yue	241	
+
 尼拜	Nibai	ní bài	ni bai	24	
 尼弗多亞	Neferdo	ní fú duō yà	ni fu duo ya	2214	
 尼希米	Nehemiah	ní xī mǐ	ni xi mi	213	
@@ -82544,7 +82828,8 @@
 小鹿	Deer	xiǎo lù	xiao  	34	
 小鳥	Birdie	xiǎo niǎo 	xiao niao 	33	
 小魚	Small fish	xiǎo yú	xiao yu 	32	
-小驢	Little donkey	xiǎo lǘ	xiao lu 	32	
+小驢	foal	xiǎo lǘ	xiao lu	32	
+
 小雞	chick	xiǎo jī	xiao ji 	31	
 小雅	Xiaoya	xiǎo yā	xiao ya	31	
 小錢	penny	xiǎo qián 	xiao qian 	321	
@@ -82573,8 +82858,6 @@
 小段	small part	xiǎo duàn 	xiao duan 	341	
 小時候	A child	xiǎo shí hou	xiao shi hou 	321	
 小時	hour	xiǎo shí	xiao shi	32	
-小指	Little finger	xiǎo zhǐ	xiao zhi 	33	
-小心謹慎	Be careful	xiǎo xīn jǐn shèn 	xiao xin  shen 	3134	
 小心翼翼	Be careful	xiǎo xīn yì yì	xiao xin yi yi 	3144	
 小心	Be careful	xiǎo xīn	xiao xin	31	
 小徑	Trails	xiǎo jìng	xiao jing 	34	
@@ -82619,9 +82902,8 @@
 對策	Countermeasure	duì cè	dui ce	44	
 對答	Answer	duì dá	duì dá	42	
 對稱	symmetry	duì chèn 	dui cheng 	44	
-對準	alignment	duì zhǔn	dui zhun 	43	
-對法	On the law	duì fǎ	duì fǎ	43	
-對於	for	duì wū	dui wu	41	
+對於	for	duì yú	dui yu	42	
+
 對方	other side	duì fāng	dui fang	41	
 對收	Confrontation	duì shōu	duì shōu	41	
 對抗	confront	duì kàng 	dui kang 	441	
@@ -82844,7 +83126,8 @@
 寔	real	shí	shi	2	
 寒霜	Frost	hán shuāng	han shuang 	21	
 寒酸	Shabby	hán suān 	han suan 	21	
-寒舍	Cold	hán shè	han she 	24	
+寒舍	refresh	hán shè	han she	24	
+
 寒暑	Cold and heat	hán shǔ	han shu 	23	
 寒冷	cold	hán lěng 	han leng 	231	
 寑	qǐn	qin	3	
@@ -82856,7 +83139,8 @@
 富貴	Wealthy	fù guì	fu gui	44	
 富豪	Regal	fù háo 	fu hao 	42	
 富裕	rich	fù yù	fu yu	44	
-富翁	Rich man	fù wēng 	fu weng 	41	
+富翁	rich man	fù wēng 	fu weng 	411	
+
 富有	rich	fù yǒu	fu you	43	
 富庶	Rich	fù shù 	fu  	44	
 富人	Rich man	fù rén 	fu ren 	42	
@@ -82865,7 +83149,8 @@
 寊	zhēn	zhen	1	
 寉	què	que	4	
 寈	qīng	qing	1	
-密迦	Micah	mì jiā	mi jia	41	
+密迦	Milcah	mì jiā	mi jia	41	
+
 密謀	plot	mì móu 	mi mou 	42	
 密林	Jungle	mì lín 	mi  	42	
 密抹	Micmash	mì mǒ	mi mo	43	
@@ -83068,7 +83353,8 @@
 宙斯	Zeus	zhòu sī	zhou si 	41	
 官長	Commander	guān zhǎng	guan zhang	13	
 官邸	official residence	guān dǐ	guan di 	13	
-官職	Official office	guān zhí	guan zhi 	12	
+官職	position	guān zhí	guan zhi	12	
+
 官看	Look at the official	guān kàn	guan kan	14	
 官方	official	guān fāng 	guan fang 	111	
 官復原職	Official reinstatement	guān fù yuán zhí	guan  yuan zhi 	1422	
@@ -83156,20 +83442,21 @@
 安定	stable	ān dìng 	an ding 	141	
 安好	well	ān hǎo	an hao	13	
 安多	Amdo	ān duō	an duo	11	
-安城	Ancheng	ān chéng 	an cheng 	12	
+安城	city of On	ān chéng 	an cheng 	121	
+
 安危	safety	ān wéi 	an wei 	12	
 安則	Anze	ān zé	an ze 	12	
-安分守己	To keep yourself	ān fèn shǒu jǐ	an fen shou ji 	1433	
+安分守己	behave yourself	ān fèn shǒu jǐ	an fen shou ji	1433	
+
 安分	Ann	ān fèn	an fen	14	
 安全措施	Safety measures	ān quán cuò shī 	ān quán cuò shī 	1241	
-安全	Safety	ān quán	an quan	12	
+安全	safe	ān quán	an quan	12	
+
 安享晚年	Enjoy old age	ān xiǎng wǎn nián 	an xiang wan  	1332	
 安享	Enjoy it	ān xiǎng 	an xiang 	13	
 安上	on	ān shàng	an shang	14	
 守除酵	Keep the yeast	shǒu chú jiào	shou chu jiao	324	
 守門	Gatekeeper	shǒu mén	shou men 	32	
-守遵	Keep compliance	shǒu zūn	shou zun	31	
-守逾越	Keep more than	shǒu yú yuè 	shǒu yú yuè 	324	
 守護者	protector	shǒu hù zhě	shou hu  	343	
 守護	guard	shǒu hù	shou hu	34	
 守規矩	Observe the rules	shǒu guī jǔ	shou gui ju 	313	
@@ -83220,7 +83507,9 @@
 孴	nǐ	ni	3	
 孳	zī	zi	1	
 孲	yā	ya	1	
-孱弱	Weak	càn ruò	can ruo 	44	
+孱弱	frail	chán ruò	chan ruo	24	
+
+
 孱	weak	càn	can	4	
 孰	shú	shu	2	
 孯	qiān	qian	1	
@@ -83250,7 +83539,8 @@
 孤立	isolated	gū lì	gu li	14	
 孤獨	lonely	gū dú	gu du	12	
 孤城	Lonely city	gū chéng 	gu cheng 	12	
-孤兒寡婦	Orphans and widows	gū ér guǎ fù 	gu er gua fu 	1234	
+孤兒寡婦	orphans and widows	gū ér guǎ fu	gu er gua fu	1231	
+
 孤兒	orphan	gū ér	gu er	12	
 孤僻	Eccentric	gū pì	gu pi 	14	
 季節	season	jì jié 	ji jie 	421	
@@ -83326,7 +83616,8 @@
 子流	Subflow	zǐ liú	zi liu	32	
 子活	Live	zi huó	zi huó	12	
 子沙	Sub-sand	zi shā	zi sha	11	
-子民	People	zǐ mín	zi min	32	
+子民	people	zī mín	zi min	12	
+
 
 子比拿	Son than	zi bǐ ná	zi bi na	132	
 子撒迦利	Son of Zechariah	zi sā jiā lì	zi sa jia li	1114	
@@ -83752,7 +84043,8 @@
 姭	xiàn	xian	4	
 姫	beauty	jī	ji	1	
 姪孫	grandniece	zhí sūn	zhi sun 	21	
-姪兒	姪 child	zhí ér	zhi er 	22	
+姪兒	nephew	zhí ér	zhi er	22	
+
 姪	niece	zhí	zhi	2	
 姩	breast	niàn	nian	4	
 姨母	aunt	yí mǔ 	yi mu 	23	
@@ -83899,8 +84191,6 @@
 如米吉	Such as Mickey	rú mǐ jí 	ru mi ji 	232	
 如灰	Such as gray	rú huī	ru hui	21	
 如火如荼	In full swing	rú huǒ rú tú	ru huo ru tu 	2322	
-如火	Such as fire	rú huǒ	ru huo 	23	
-如水	Such as water	rú shuǐ 	ru shui 	23	
 如死	Die	rú sǐ	ru si	23	
 如此說	Say so	rú cǐ shuō 	ru ci shuo 	231	
 如此一來	That's it	rú cǐ yì lái 	ru ci yi lai 	23421	
@@ -83986,7 +84276,8 @@
 好了	All right	hǎo le	hao le	31	
 好久	Long time	hǎo jiǔ	hao jiu	33	
 好主意	good idea	hǎo zhǔ yì	hao zhu yi 	334	
-好不容易	really hard	hǎo bù róng yì	hao bu rong yi	3424	
+好不容易	really hard	hǎo bu róng yì	hao bu rong yi	3124	
+
 好不好	ok	hǎo bù hǎo	hao bu hao	343	
 奼	beautiful	chà	cha	4	
 奻	nuán	nuan	2	
@@ -84043,8 +84334,6 @@
 女士	Ms	nǚ shì 	nu shi 	341	
 女喇	Female la	nǚ lǎ	nu la	33	
 女哀	Female sorrow	nǚ āi	nu ai	31	
-女兒巴	Daughter bar	nǚ ér ba	nu er ba	321	女兒哈	Daughter ha	nǚ ér hā 	nu er ha 	321	
-女兒亞	Daughter daughter	nǚ ér yà 	nu er ya 	324	
 女兒	daughter	nǚ ér 	nu er 	321	
 女們	Women	nǚ men	nu men	31	
 女人	woman	nǚ rén 	nu ren 	321	
@@ -84128,7 +84417,8 @@
 奓	extravagant	zhā	zha	1	
 奒	kāi	kai	1	
 契約	contract	qì yuē 	 yue 	41	
-契合相交	fellowship	qì hé xiàng jiāo	qi he xiang jiao 	4241	
+契合相交	fellowship	qì hé xiāng jiāo	qi he xiang jiao	4211	
+
 契合	Fit	qì hé 	 he 	42	
 奐	brilliant	huàn	huan	4	
 奏樂	play music	zòu yuè 	zou  	44	
@@ -84264,8 +84554,6 @@
 天然	natural	tiān rán	tian ran	12	
 天涯海角	Ends of the earth	tiān yá hǎi jiǎo 	tian ya hai jiao 	1233	
 天求	Day seeking	tiān qiú	tian qiu	12	
-天氣	weather	tiān qì	tian qi	14	
-天晴	Sunny	tiān qíng	tian qing 	12	
 天明	Dawn	tiān míng	tian ming 	12	
 天教	Heaven to teach	tiān jiào	tian jiao	14	
 天才	genius	tiān cái	tian cai	12	
@@ -84305,8 +84593,6 @@
 大餐	Feast	dà cān	da can	41	
 大顯	Big show	dà xiǎn	da xian 	43	
 大面	Big face	dà miàn	da mian	44	
-大震	Earthquake	dà zhèn	da zhen	44	
-大雨傾盆	Heavy rain	dà yǔ qīng pén 	da yu qing pen 	4312	
 大雅	Daya	dà yā	da ya 	41	
 大隊人馬	Brigade	dà duì rén mǎ	da dui ren ma 	4423	
 大隊	Brigade	dà duì	da dui	44	
@@ -84480,7 +84766,8 @@
 大全	Daquan	dà quán	da quan 	42	大光	Big light	dà guāng	da guang 	41	
 大使	ambassador	dà shǐ 	da shi 	431	
 大作	great work	dà zuò 	da zuo 	441	
-大人	grown ups	dà rén 	da ren 	421	
+大人	grown-ups	dà rén 	da ren 	421	
+
 大井	Big well	dà jǐng 	da jing 	43	
 大事	big thing	dà shì	da shi	44	
 
@@ -84548,7 +84835,8 @@
 多方面	Multifaceted	duō fāng miàn	duo fang mian 	114	
 多方	Multi-party	duō fāng 	duo fang 	11	
 多收	Overcharged	duō shōu	duo shou 	11	
-多得	get more	duō dé	duo de 	12	
+多得	get more	duō de	duo de	11	
+
 多彼	Multi he	duō bǐ	duo bi	13	
 多年來	Over the years	duō nián lái	duo   	122	
 多年	for many years	duō nián 	duo nian 	121	
@@ -84558,7 +84846,8 @@
 多子	Many children	duō zi	duo zi	11	
 多大	How big	duō dà	duo da 	14	
 多多	Much more	duō duō 	duo duo 	111	
-多坍	Doran	duō tān	duo tan	11	
+多坍	Dothan	duō tān	duo tan	11	
+
 多國	Multinational	duō guó	duo guo 	12	
 多單	More than one	duō dān	duo dan	11	
 多加	More	duō jiā	duo jia 	11	
@@ -84866,7 +85155,8 @@
 塡	tián	tian	2	
 塠	duī	dui	1	
 塟	bury	zàng	zang	4	
-塞進	Stuffed into	sāi jìn	 jin 	14	
+塞進	stuff into	sāi jìn	sai jin	14	
+
 塞特	Seth	sāi tè	sai te	14	
 塞滿	Stuffed	sāi mǎn	 man 	13	
 塞浦路斯	Cyprus	sài pǔ lù sī	sai pu lu si	4341	
@@ -84977,7 +85267,8 @@
 報名	Sign up	bào míng 	bao ming 	421	
 報到	check in	bào dào	bao dao	44	
 報償	reward	bào cháng 	bao chang 	42	
-報信	Messenger	bào xìn	bao xin	44	
+報信	delivered message	bào xìn	bao xin	44	
+
 報仇	revenge	bào chóu 	bao chou 	421	
 堰	dam	yàn	yan	4	
 堯	yáo	yao	2	
@@ -85092,13 +85383,15 @@
 基得	Base	jī de	ji de	11	
 基座	Base	jī zuò	ji zuo 	14	
 基底莫	Base	jī dǐ mò	ji di mo	134	
-基底瑪	Base horse	jī dǐ mǎ	ji di ma	133	
+基底瑪	Kedemah	jī dǐ mǎ	ji di ma	133	
+
 基底	Base	jī dǐ 	ji di 	13	
 基帖	Kitty	jī tiē	ji tie	11	
 基尼洗	Gini wash	jī ní xǐ	ji ni xi	123	
 基尼	Gini	jīn í	jin i	12	
 基多	Quito	jī duō	ji duo	11	
-基土拉	Ki tula	jī tǔ lā	ji tu la	131	
+基土拉	Keturah	jī tǔ lā	ji tu la	131	
+
 基善	Basic good	jī shàn	ji shan	14	
 基利心	Gerizim	jī lì xīn	ji li xin	141	
 基利	Kelly	jī lì	ji li	14	
@@ -85405,10 +85698,6 @@
 
 地圖	map	dì tú	di tu	42	
 地图	map	dì tú	di tu	42	
-地區	area	dì qū	di qu	41	
-地勢	terrain	dì shì 	di shi 	441	
-地勞	To labor	de láo	de lao	12	
-地保	To protect	dì bǎo	di bao	43	
 地主	Landlord	dì zhǔ 	di zhu 	431	
 地中海	Mediterranean	dì zhōng hǎi 	de zhong hai 	413	
 地下	underground	dì xià 	di xia 	441	
@@ -85598,7 +85887,8 @@
 因丈	Due to Zhang	yīn zhàng	yin zhang	14	
 囟	skull	xìn	xin	4	
 回顧	review	huí gù	hui gu 	24	
-回頭一看	Look back	huí tóu yī kàn	hui tou yi kan 	2214	
+回頭一看	look back	huí tóu yí kàn	hui tou yi kan	2224	
+
 回頭	Back	huí tóu	hui tou	22	
 回響	echo	huí xiǎng 	hui xiang 	231	
 回鄉	Return home	huí xiāng	hui xiang 	21	
@@ -85608,7 +85898,8 @@
 回答	Reply	huí dá	hui da	22	
 回流	Backflow	huí liú	hui liu 	22	
 回歸	return	huí guī 	hui gui 	21	
-回應	Response	huí yīng 	hui ying 	21	
+回應	respond	huí yìng	hui ying	24	
+
 回憶錄	Memoirs	huí yì lù 	hui yi  	244	
 回憶	Memories	huí yì	hui yi	24	
 回想	recall	huí xiǎng 	hui xiang 	231	
@@ -85705,7 +85996,8 @@
 嚾	huān	huan	1	
 嚽	chuò	chuo	4	
 嚼環	Chew ring	jué huán	jué huán	22	
-嚼子	Chew	jiáo zi	jiao zi	21	
+嚼子	bit	jiáo zi	jiao zi	21	
+
 嚻	flute	xiāo	xiao	1	
 
 嚺	tà	ta	4	
@@ -86126,7 +86418,7 @@
 喏	nuò	nuo	4	
 喎	quotation	wāi	wai	1	
 喍	chái	chai	2	
-喌	syllable	give	zhōu	zhou	1	
+喌	syllable	zhōu	zhou	1	
 喋喋不休	chatter	dié dié bù xiū 	die die  xiu 	2241	
 喋	nag	dié	die	2	
 喊道	Shouted	hǎn dào	han dao	34	
@@ -86189,7 +86481,8 @@
 啩	guà	gua	4	
 啨	yīng	ying	1	
 啧	zé	ze	2	
-啦	La	la	la	5	
+啦	la	la	la	1	
+
 啣	harbor	xián	xian	2	
 啢	ounce	liǎng	liang	3	
 啠	zhé	zhe	2	
@@ -86314,7 +86607,8 @@
 哾	shuō	shuo	1	
 哽	stem	gěng	geng	3	
 哻	hàn	han	4	
-哺養	feed	bǔ yǎng	bu yang 	33	
+哺養	breasts	bǔ yǎng	bu yang	33	
+
 哺育	Nurture	bǔ yù	bu yu 	34	
 哺乳	breast-feeding	bǔ rǔ	bu ru 	33	
 哹	fú	fu	2	
@@ -86354,7 +86648,8 @@
 哪樣	What	nǎ yàng 	na yang 	34	
 哪有	How can there be	nǎ yǒu	na you 	33	
 哪怕	Even if	nǎ pà	na pa	34	
-哪兒	where	nǎ er	na er	31	
+哪兒	where	nǎr	nar	3	
+
 哪個	Which one	nǎ ge	na ge 	31	
 哪位	Which one	nǎ wèi	na wei 	34	
 哪些	What	nǎ xiē 	na xie 	311	
@@ -86420,7 +86715,8 @@
 哈賽雅	Hassay	hā sài yā	ha sai ya	141	
 哈諾	Hanoi	hā nuò	hā nuò	14	
 哈說	He said	hā shuō	ha shuo	11	
-哈該	Haggie	hā gāi	ha gai	11	
+哈該	Haggai	hā gāi	ha gai	11	
+
 哈西努	Hasinu	hā xi nǔ	ha xi nu	113	
 哈蘭	Haran	hā lán	ha lan	12	
 
@@ -86468,7 +86764,8 @@
 哈尼	Hani	hān í	han i	12	
 哈嫩	Hannen	hā nèn	ha nen	14	
 哈大沙	Kazakhstan sand	hā dà shā	ha da sha	141	
-哈大	Kazakhstan	hā dà	ha da	14	
+哈大	Hadad	hā dà	ha da	14	
+
 哈多蘭	Hadoran	hā duō lán	ha duo lan	112	
 哈基多琳	Haji Dorian	hā jī duō lín	ha ji duo lin	1112	
 哈基	Haji	hā jī	ha ji	11	
@@ -86754,7 +87051,8 @@
 吞食	devour	tūn shí 	tun shi 	12	
 吞滅	Swallowed	tūn miè 	tun mie 	14	
 吞沒	Engulfed	tūn mò	tun mei 	14	
-吞掉	Swallow it out	tūn diào	tun diao 	14	
+吞掉	swallowed	tūn diào	tun diao	14	
+
 吞噬	Swallowed	tūn shì 	tun shi 	14	
 吞吃	Devouring	tūn chī	tun chi	11	
 吞併	Annexation	tūn bìng	tun bing 	14	
@@ -86774,8 +87072,6 @@
 吖	acridine	yā	ya	1	
 吕	surname	lǚ	lu	3	
 吔	phonetic	yě	ye	3	
-吒	shout	zhā	zha	1	
-向雅	To ya	xiàng yā	xiang ya 	43	
 向東	east	xiàng dōng	xiang dong 	41	
 向後轉	turn back	xiàng hòu zhuǎn	xiang hou zhuan 	443	
 向後	backward	xiàng hòu	xiang hou 	44	
@@ -86817,11 +87113,10 @@
 名字	first name	míng zì	ming zi	24	
 名士	Celebrity	míng shì	ming shi	24	
 名嗎	Is it?	míng ma	ming ma 	21	
-名單	List	míng dān	ming dan	21	
-名和	Name and	míng hé	ming han 	22	
 名叫	Called	míng jiào	ming jiao 	24	
 名加	Name plus	míng jiā	ming jia 	21	
-名分	Name points	míng fèn	ming fen 	21	
+名分	birthright	míng fèn	ming fen	24	
+
 名冊	register	míng cè	ming ce 	24	名下	Name	míng xià	ming xia	24	
 同齡	Same age	tóng líng 	tong ling 	22	
 同類	similar	tóng lèi	tong  	24	
@@ -86848,7 +87143,8 @@
 同流合污	Co-current	tóng liú hé wū	tong liu he wu 	2221	
 同母異父	Half mother	tóng mǔ yì fù 	tong mu  fu 	2344	
 同母	same mother	tóng mǔ	tong mu 	23	
-同歸於盡	perish together	tóng guī wū jìn 	tong gui yu jin 	2114	
+同歸於盡	perish together	tóng guī yú jìn 	tong gui yu jin 	21241	
+
 同歸一例	same example	tóng guī yī lì 	tong gui yi  	2110	
 同歸	same	tóng guī	tong gui 	21	
 同歡	With the joy	tóng huan	tong huan 	21	
@@ -86970,11 +87266,13 @@
 吃吃喝喝	eat and drink	chī chī hē hē 	chi chi   	1111	
 吃力	Struggling	chī lì	chi li	14	
 吃到	Eat it	chī dào	chi dao 	14	
-吃光	Eat light	chī guāng	chi guang 	11	
+吃光	eaten up	chī guāng	chi guang	11	
+
 吃你	eat you	chī nǐ	chi ni 	13	
 吃了	have eaten	chī le	chi le	1
 吃不了	Can not eat	chī bù liǎo 	chi bu liao	143	
-吃不下	Can not eat	chī bù xià 	chi  xia 	144	
+吃不下	not eaten	chī bu xià 	chi bu xia 	1141	
+
 吃下去	Eat it	chī xià qù	chi xia qu 	144	
 吃下	Eat	chī xià	chi xia 	14	
 吃上	Eat	chī shàng	chi shang 	14	
@@ -87054,7 +87352,8 @@
 可憎	Abominable	kě zēng 	ke  	31	
 可愛	lovely	kě ài 	ke ai 	341	
 可想而知	Can be imagined	kě xiǎng ér zhī	ke xiang er zhi 	3321	
-可惡	hateful	kě wù	ke wu	34	
+可惡	hate	kě wù	ke wu	34	
+
 可惜	unfortunately	kě xí	ke xi	32	
 可悲	sad	kě bēi 	ke bei 	31	
 可恥	shameful	kě chǐ 	ke chi 	33	
@@ -87110,14 +87409,10 @@
 叫喊	shouting	jiào hǎn	jiao han	43	
 叫喇	Called La	jiào lǎ	jiao la 	43	
 叫去	Called to go	jiào qù	jiao qu 	44	
-叫到	Called to	jiào dào	jiao dao 	44	
-叫利	Called profit	jiào lì	jiao  	44	
 叫便雅	Called elegance	jiào biàn yā	jiao  ya 	403	
 叫便亞米	Called Yami	jiào biàn yà mǐ	jiao  ya mi 	4043	
 叫作	Called	jiào zuò	jiao zuo 	44	
 叫何珥	Called him	jiào hé ěr	jiao he er 	423	
-叫伯利	Called Burley	jiào bó lì	jiao bo  	424	
-叫以法	Called the law	jiào yǐ fǎ	jiao yi fa 	433	
 叫以利沙	Called Elisha	jiào yǐ lì shā	jiao yi  sha 	4341	
 叫人過去	Jiaoren past	jiào rén guò qù	jiao ren guo qu 	4244	
 叫二	Called two	jiào èr	jiao er 	44	
@@ -87125,8 +87420,6 @@
 只顧逃命	Only escape	zhǐ gù táo mìng 	zhi gu tao ming 	3424	
 只顧	Only care	zhǐ gù	zhi gu 	34	
 只須	Only need	zhǐ xū	zhi xu 	31	
-只靠	Alone	zhǐ kào	zhi kao 	34	
-只需	Only need	zhǐ xū	zhi xu 	31	
 只限於	Limited to	zhǐ xiàn wū	zhi xian yu 	341	
 只跟	Only with	zhǐ gēn	zhi gen 	31	
 只讓	Only let	zhǐ ràng	zhi rang 	34	
@@ -87174,7 +87467,8 @@
 另有	Otherwise	lìng yǒu	ling you 	43	
 另外	In addition	lìng wài	ling wai	44	
 另一面	other side	lìng yī miàn 	ling yi mian 	414	
-另一邊	other side	lìng yī biān 	ling yi bian 	411	
+另一邊	other side	lìng yì biān 	ling yi bian 	4411	
+
 另一種	another	lìng yī zhǒng 	ling yi zhong 	413	
 另一方面	on the other hand	lìng yī fāng miàn	ling yi fang mian 	4114	
 另一半	other half	lìng yī bàn 	ling yi ban 	414	
@@ -87189,7 +87483,8 @@
 古語	Old language	gǔ yǔ	gu yu 	33	
 古老	ancient	gǔ lǎo 	gu lao 	331	
 古米	Ancient rice	gǔ mǐ	gu mi 	33	
-古怪	eccentric	gǔ guài 	gu guai 	341	
+古怪	strange	gǔ guài 	gu guai 	341	
+
 古巴	Cuba	gǔ bā	gu ba	31	
 古實	Cushite	gǔ shí	gu shi	32	
 古城	ancient city	gǔ chéng 	gu cheng 	32	
@@ -87205,7 +87500,8 @@
 口音	accent	kǒu yīn	kou yin	31	
 口述	Dictation	kǒu shù	kou shu 	34	
 口裏	Mouth	kǒu lǐ	kou  	33	
-口袋	pocket	kǒu dài 	kou dai 	341	
+口袋	bag	kǒu dài 	kou dai 	341	
+
 口舌	Tongue	kǒu shé	kou she 	32	
 口腔	Mouth	kǒu qiāng 	kou qiang 	31	
 口糧	Rations	kǒu liáng 	kou  	32	
@@ -87223,7 +87519,9 @@
 口吻	Tone	kǒu wěn	kou wen	33	
 口吐白沫	Foaming at the mouth	kǒu tǔ bái mò	kou tu bai mo 	3324	
 口吐	Vomit	kǒu tǔ	kou tu 	33	
-口口聲聲	Oral sound	kǒu kǒu shēng shēng 	kou kou sheng sheng 	3311	
+口口聲聲	proclaim	kǒu kou shēng shēng 	kou kou sheng sheng 	31111	
+
+
 口出狂言	Outrageous	kǒu chū kuáng yán	kǒu chū kuáng yán	3122	
 口供	Confession	kǒu gòng 	kou gong 	34	
 口乾舌燥	Dry mouth	kǒu gān shé zào	kou gan she zao 	3124	
@@ -87258,12 +87556,11 @@
 受苦	suffer	shòu kǔ	shou ku 	43	
 受罰	be punished	shòu fá	shou fa 	42	
 受罪	Suffer	shòu zuì	shòu zuì	44	
-受盡折磨	Tortured	shòu jǐn zhé mó	shou jin zhe mo 	4322	
+受盡折磨	tortured	shòu jìn zhé mó	shou jin zhe mo	4422	
+
 受盡	Suffer	shòu jǐn	shou jin 	43	
 受益	Benefit	shòu yì	shou yi 	44	
 受洗	Baptized	shòu xǐ	shou xi 	43	
-受歡迎	popular	shòu huān yíng	shou huan ying 	412	
-受教	Be taught	shòu jiào	shou jiao	44	
 受損	Damaged	shòu sǔn	shou sun 	43	
 受挫	Frustrated	shòu cuò 	shou cuo 	44	
 受應	Affected by	shòu yīng	shou ying 	41	
@@ -87294,7 +87591,8 @@
 取用	Take it	qǔ yòng	qu yong	34	
 取生	Take birth	qǔ shēng	qu sheng 	31	
 取消	cancel	qǔ xiāo 	qu xiao 	311	
-取決於	depending on	qǔ jué wū	qu jue yu 	321	
+取決於	depending on	qǔ jué yú	qu jue yu	322	
+
 取水	Take water	qǔ shuǐ 	qu shui 	33	
 取樂	Take pleasure	qǔ lè 	qu  	34	
 取暖	Heating	qǔ nuǎn 	qu nuan 	33	
@@ -87490,7 +87788,8 @@
 厛	tīng	ting	1	
 厚顏無恥	brazen	hòu yán wú chǐ 	hou yan wu chi 	4223	
 厚重	Heavy	hòu zhòng	hou zhong 	44	
-厚賜	Thick thanks	hòu cì	hou ci 	44	
+厚賜	generously gives	hòu cì	hou ci	44	
+
 厚葬	Burial	hòu zàng 	hou zang 	44	
 厚此薄彼	Favoritism	hòu cǐ bó bǐ 	hou ci bao bi 	4323	
 厚愛	Love	hòu ài	hou ai 	44	
@@ -87555,7 +87854,8 @@
 印象深刻	deep impression	yìn xiàng shēn kè	yin xiang shen ke	4414	
 印象	impression	yìn xiàng 	yin xiang 	441	
 印證	Proof	yìn zhèng	yin zheng	44	
-印記	Mark	yìn jì	yin ji 	44	
+印記	mark	yìn jì	yin ji	44	
+
 印章	seal	yìn zhāng 	yin zhang 	411	
 印璽	Seal	yìn xǐ	yin xi 	43	
 印王	King of India	yìn wáng	yin wang 	42	
@@ -87710,8 +88010,6 @@
 十五歲	Fifteen	shí wǔ suì	shi wu sui 	234	
 十五	fifteen	shí wǔ	shi wu 	23	
 十二歲	Twelve years old	shí èr suì	shi er sui 	244	
-十二月	December	shí èr yuè	shi er yue 	244	
-十二支	Twelve	shí èr zhī 	shi er zhi 	241	
 十二天	Twelve days	shí èr tiān 	shi er tian 	241	
 十二分	Twelve points	shí èr fēn 	shi er fen 	241	
 十二	twelve	shí èr	shi er 	24	
@@ -87827,7 +88125,8 @@
 包容	Inclusive	bāo róng 	bao rong 	12	
 包圍	Surrounded by	bāo wéi	bao wei	12	
 包含	contain	bāo hán	bao han	12	
-包住	Wrapped in	bāo zhù	bao zhu 	14	
+包住	wrapped	bāo zhù	bao zhu	14	
+
 匄	beggar	gài	gai	4	
 匃	beggar	gài	gai	4	
 匂	fragrance	bi	bi	1	
@@ -88079,9 +88378,11 @@
 劅	zhuò	zhuo	4	
 劄	sapporo	zhā	zha	1	
 劃破	Cut out	huá pò	hua po 	24	
-劃定	Delineation	huá dìng	hua ding 	24	
+劃定	mark out	huà dìng	hua ding	44	
+
 劃分為	be divided into	huá fēn wéi	hua fen wei 	212	
-劃分	Division	huá fēn 	hua fen 	21	
+劃分	divide	huà fēn 	hua fen 	411	
+
 劃出	Draw out	huá chū	hua chu 	21	
 劂	engrave	jué	jue	2	
 劁	qiāo	qiao	1	
@@ -88100,7 +88401,8 @@
 創立	Founded	chuàng lì	chuang li	44	
 創建	create	chuàng jiàn	chuang jian 	44	
 創始	Founding	chuàng shǐ	chuang shi 	43	
-創傷	trauma	chuāng shāng	chuang shang	11	
+創傷	wound	chuāng shāng	chuang shang	11	
+
 創作	creation	chuàng zuò	chuang zuo	44	
 創世	Creation	chuàng shì	chuang shi 	44	
 剴	sharpen	kǎi	kai	3	
@@ -88159,7 +88461,8 @@
 剝奪	deprivation	bō duó 	bo duo 	12	
 剝去	Stripped	bō qù	bo qu 	14	
 剝削	Exploitation	bō xuè	bo xue	14	
-剝下	Peel off	bō xià	bo xia 	14	
+剝下	ripped off	bō xià	bo xia	14	
+
 剜	cut	wān	wan	1	
 剛過	Just over	gāng guò	gang guo 	14	
 剛硬	hard	gāng yìng	gang ying	14	
@@ -88312,12 +88615,11 @@
 到了家	To the home	dào le jiā	dao le jia 	451	
 到了	Arrived	dào le	dao le	41	
 
-
-到一	To one	dào yī	dao yi 	41	
 刯	gēng	geng	1	
 刮臉	shave	guā liǎn 	gua lian 	13	
 刮去	scrape	guā qù	gua qu 	14	
-刮了	Scratched	guā le	gua  	1
+刮了	shaved	guā le	gua le	11	
+
 刮下來	Scrape it down	guā xià lái 	gua xia  	142	
 刮下	Scrape down	guā xià	gua xia 	14	
 刭	jǐng	jing	3	
@@ -88340,7 +88642,8 @@
 利賽	race	lì sài	 sai 	44	
 利米雅	Lima	lì mǐ yā	 mi ya 	433	
 利益	interest	lì yì	li yi	44	
-利百加	Rebecca	lì bǎi jiā	 bai jia 	431	
+利百加	Rebekah	lì bǎi jiā	li bai jia	431	
+
 利百	Lee hundred	lì bǎi	 bai 	43	
 利甲	Lee	lì jiǎ	 jia 	43	
 利用	use	lì yòng 	li yong 	441	
@@ -88387,7 +88690,8 @@
 利作	Benefit	lì zuò	 zuo 	44	
 利伯賽	Libertad	lì bó sài	 bo sai 	424	
 利亞說	Said Leah	lì yǎ shuō	 ya  	441	
-利亞	Leah	lì yǎ	 ya 	43	
+利亞	Leah	lì yà	li ya	44	
+
 利乏音人	Reese people	lì fá yīn rén	 fa yin ren 	4212	
 利乏音	Reverberation	lì fá yīn	 fa yin 	421	
 刨	plane	páo	pao	2	
@@ -88590,7 +88894,8 @@
 出汁	Juice	chū zhī	chu zhi 	11	
 出水	Water	chū shuǐ 	chu shui 	13	
 出殯	Funeral	chū bìn 	chu bin 	14	
-出於	Out of	chū wú	chu wu	12	
+出於	Out of	chū yú	chu yu	12	
+
 
 出新	New	chū xīn	chu xin 	11	
 出擊	Attack	chū jí	chu ji 	12	
@@ -88605,7 +88910,8 @@
 出大	Big out	chū dà	chu da 	14	
 出外邦	Out of the state	chū wài bāng 	chu wai bang 	141	
 出埃及記	Exodus	chū āi jí jì	chu ai ji ji	1124	
-出國	Go abroad	chū guó	chu guo	12	
+出國	go abroad	chū guó	chu guo	12	
+
 出售	sell	chū shòu	chu shou	14	
 出名	famous	chū míng	chu ming	12	
 出口	exit	chū kǒu	chu kou	13	
@@ -88670,7 +88976,8 @@
 凡地	Wherever land	fán de	fan de 	21	
 凡喪	Where funeral	fán sàng	fan sang 	24	
 凡動	Who move	fán dòng	fan dong 	24	
-凡俗	Mortal	fán sú	fan su 	22	
+凡俗	common	fán sú	fan su	22	
+
 凡以	Where to	fán yǐ	fan yi 	23	
 凡人	mortal	fán rén	fan ren 	22	
 凡事順利	Everything goes well	fán shì shùn lì	fan shi shun  	2444	
@@ -88874,7 +89181,8 @@
 兵力	troops	bīng lì	bing  	14	
 兲	heaven	tiān	tian	1	
 共進	Together	gòng jìn	gong jin 	44	
-共識	consensus	gòng shì	gong  	44	
+共識	consensus	gòng shí	gong shi	42	
+
 共計	total	gòng jì	gong ji 	44	
 共處	Coexistence	gòng chǔ	gong chu 	43	
 共聚	Copolymerization	gòng jù	gong ju 	44	
@@ -88923,8 +89231,6 @@
 公正	just	gōng zhèng 	gong zheng 	14	
 公會	guild	gōng huì	gong hui	14	
 公斤	kg	gōng jīn	gong jin	11	
-公平	fair	gōng píng	gong ping	12	
-公山	Katsuyama	gōng shān	gong shan 	11	
 公噸	metric tonnes	gōng dùn	gong dun	14	
 公告	announcement	gōng gào	gong gao 	14	
 公升	liter	gōng shēng 	gong sheng 	11	
@@ -88957,7 +89263,8 @@
 兩頭	Two heads	liǎng tóu	 tou 	32	
 兩面	Both sides	liǎng miàn	 mian 	34	
 兩隻	Two	liǎng zhī	 zhi 	31	
-兩隊	Two teams	liǎng duì	 dui 	34	
+兩隊	two camps	liǎng duì	liang dui	34	
+
 兩邊	On both sides	liǎng biān	 bian 	31	
 兩道	Two	liǎng dào	 dao 	34	
 兩遍	Twice	liǎng biàn	 bian 	34	
@@ -89096,8 +89403,6 @@
 入海	Into the sea	rù hǎi 	ru hai 	43	
 入我	Into me	rù wǒ	ru wo 	43	
 入座	Seated	rù zuò 	rù zuò 	44	
-入帳	Recorded	rù zhàng	ru zhang 	44	
-入大	Into the big	rù dà	ru da 	44	
 入城	Into the city	rù chéng 	ru cheng 	42	
 入地	Into the ground	rù dì	ru di	44	
 
@@ -89179,7 +89484,8 @@
 免受	Free from	miǎn shòu	mian shou	34	
 免去	Removed	miǎn qù	 qu 	34	
 免公	Free of charge	miǎn gōng	 gong 	31	
-兌現	cash	duì xiàn 	dui xian 	441	
+兌現	fulfil	duì xiàn 	dui xian 	441	
+
 兌換	exchange	duì huàn 	dui huan 	44	
 克里特島	Crete Island	kè lǐ tè dǎo	ke li te dao 	4343	
 克里特	Crete	kè lǐ tè	ke li te	434	
@@ -89291,7 +89597,8 @@
 儴	ráng	rang	2	
 儳	obstinate	chán	chan	2	
 儲藏室	Storage room	chú cáng shì	chu cang shi 	224	
-儲藏	Storage	chú cáng 	chu cang 	22	
+儲藏	stored	chǔ cáng 	chu cang 	321	
+
 儲蓄	Savings	chú xù	chu xu	24	
 儲存	store	chú cún	chu cun	22	
 儲備糧	grain reserves	chú bèi liáng 	chu bei  	242	
@@ -89329,7 +89636,8 @@
 儚	fleeting	méng	meng	2	
 儙	qiàn	qian	4	
 儘量	As far as possible	jǐn liàng 	jin liang 	341	
-儘管	in spite of	jǐn guǎn	jin guan	33	
+儘管	even so	jǐn guǎn	jin guan	33	
+
 儘快	ASAP	jǐn kuài 	jin kuai 	34	
 儗	nǐ	ni	3	
 儖	lán	lan	2	
@@ -89453,7 +89761,8 @@
 傾心	Heartedly	qīng xīn	qing xin 	11	
 傾向	tendency	qīng xiàng	qing xiang	14	
 傾吐	Pour out	qīng tǔ	qing tu 	13	
-傾倒	Dumping	qīng dǎo	qing dao 	13	
+傾倒	dumping	qīng dào	qing dao	14	
+
 傽	terror-stricken	zhāng	zhang	1	
 傼	surname	hàn	han	4	
 傻瓜	fool	shǎ guā 	sha gua 	311	
@@ -89573,7 +89882,8 @@
 傁	sǒu	sou	3	
 偾	ruin	fèn	fen	4	
 偽證	lie	wèi zhèng 	wei zheng 	441	
-偽善	hypocritical	wèi shàn 	wei  	44	
+偽善	hypocritical	wěi shàn	wei shan	34	
+
 偽君子	hypocrite	wèi jūn zǐ	wei jun zi 	413	
 偼	jié	jie	2	
 偻	humpback	lóu	lou	2	
@@ -89620,7 +89930,8 @@
 偧	zhā	zha	1	
 偦	xǔ	xu	3	
 健起	Healthy	jiàn qǐ	jian qi 	43	
-健美	Bodybuilding	jiàn měi	jian mei 	43	
+健美	well-built	jiàn měi	jian mei	43	
+
 健康	health	jiàn kāng	jian kang	41	
 健壯	robust	jiàn zhuàng 	jian zhuang 	441	
 健全	sound	jiàn quán	jian quan	42	
@@ -89665,7 +89976,8 @@
 做對	Do right	zuò duì	zuo dui 	44	
 做客	Guest	zuò kè	zuo ke	44	
 做完	Done it	zuò wán	zuo wan	42	
-做好	Do it well	zuò hǎo	zuo hao 	43	
+做好	ready	zuò hǎo	zuo hao	43	
+
 做大	Bigger	zuò dà	zuò dà	44	
 做夢	dream	zuò mèng 	zuo meng 	441	
 做到	Do it	zuò dào	zuo dao 	44	
@@ -89804,7 +90116,8 @@
 倓	tán	tan	2	
 倒過來	Overturned	dào guò lái	dao guo  	442	
 倒退	fall back	dào tuì	dao tui 	44	
-倒要	Down to	dào yào	dao yao 	44	
+倒要	rather	dào yào	dao yao	44	
+
 倒衰	Downside down	dào shuāi	dao shuai 	41	
 倒而	Down and down	dào ér	dao er 	42	
 倒算	Count down	dào suàn 	dao suan 	44	
@@ -90163,15 +90476,14 @@
 信靠	Trust	xìn kào	xin kao	44	
 信賴	trust	xìn lài	xin lai	44	
 信誓旦旦	Vowed	xìn shì dàn dàn 	xin shi dan dan 	4444	
-信號	signal	xìn hào 	xin hao 	441	
-信耶	Letter yeah	xìn yē	xin ye 	42	
 信者	letter	xìn zhě	xin  	43	
 信神	Believe in God	xìn shén	xin  	42	
 信物	Keepsake	xìn wù	xin wu	44	
 信服	convince	xìn fú	xin fu 	42	
 信息	information	xìn xī	xin xi	41	
 信念	belief	xìn niàn 	xin nian 	441	
-信心	confidence	xìn xīn	xin xin	41	
+信心	faith	xìn xīn	xin xin	41	
+
 信徒	believer	xìn tú	xin tu	42	
 信差	messenger	xìn chāi 	xin chai 	41	
 信實	faithful	xìn shí 	xin shi 	421	
@@ -90185,7 +90497,8 @@
 信任	trust	xìn rèn 	xin ren 	441	
 信件	letter	xìn jiàn 	xin jian 	44	
 信仰	faith	xìn yǎng 	xin yang 	431	
-信之	Letter of the letter	xìn zhī	xin zhi 	41	
+信之	believer	xìn zhī	xin zhi	41	
+
 信不	Letter not	xìn bù	xin  	44	
 俟	qí	qi	2	
 保障	Guarantee	bǎo zhàng 	bao zhang 	341	
@@ -90237,7 +90550,8 @@
 俆	xú	xu	2	
 俅	qiú	qiu	2	
 俄梅珥	Omer	é méi ěr	e  er 	223	
-俄梅伽	Omega	é méi jiā	e mei jia 	221	
+俄梅伽	Omega	é méi gā	e mei ga	221	
+
 俄斐勒	Oliver	é fěi lēi	e fei  	231	
 俄斐	Ophir	é fěi	e fei	23	
 俄巴路	Raba Road	é ba lù	e ba  	214	
@@ -90250,7 +90564,8 @@
 係你	Do you	xì nǐ	xi ni 	43	
 俁	big	yǔ	yu	3	
 俀	tuǐ	tui	3	
-便雅憫	Benjamin	biàn yā mǐn	 ya min 	413	
+便雅憫	Benjamin	biàn yǎ mǐn	bian ya min	433	
+
 便通	It will pass	biàn tōng	 tong 	41	
 便車	Free ride	biàn chē	bian che	1	
 便要	Will have to	biàn yào	 yao 	44	
@@ -90284,7 +90599,8 @@
 侵襲	Invasion	qīn xí	qin xi	12	
 侵略者	aggressor	qīn lüè zhě	qin lue zhe	143	
 侵略	aggression	qīn lüè	qin lue	11	
-侵犯	Infringement	qīn fàn 	qin fan 	141	
+侵犯	infringe	qīn fàn 	qin fan 	141	
+
 侵擾	intrusion	qīn rǎo	qin rao 	13	
 侵害	Infringement	qīn hài 	qin hai 	141	
 侵吞	Misappropriation	qīn tūn	qin tun 	11	
@@ -90316,7 +90632,7 @@
 依然	still	yī rán 	yi ran 	121	
 依次	In turn	yī cì 	yi ci 	14	
 依戀	Attachment	yī liàn 	yi  	14	
-侜	lies	give	zhōu	zhou	1	
+侜	lies	zhōu	zhou	1	
 供養	support	gòng yǎng	gong yang	43	
 供餅	Bread of the Presence	gōng bǐng	gong bing	13	
 供職	Service	gòng zhí	gong zhi 	12	
@@ -90369,18 +90685,15 @@
 來說	For example	lái shuō	lai shuo	21	
 來訪	Visit	lái fǎng 	 fang 	23	
 來自	From	lái zì	lai zi	24	
-來臨	advent	lái lín	lai lin	22	
+來臨	coming	lái lín	lai lin	22	
+
 來稱	To say	lái chēng	 cheng 	21	
 來留	To stay	lái liú	  	22	
-來源	source	lái yuán 	lai yuan 	221	
-來把	Come to put	lái bǎ	 ba 	23	
 來意	Meaningfully	lái yì	 yi 	24	
 來必	Will come	lái bì	 bi 	24	
 來得及	Come and get it	lái de jí	lai de ji	212	
 來得	Come	lái de	lai de	21	
 來回	back and forth	lái huí	lai hui	22	
-來咒	To curse	lái zhòu	 zhou 	24	
-來呼	To call	lái hū	 hu 	21	
 來吧	bring it on	lái ba	 ba 	21	
 來勢洶洶	Menacing	lái shì xiōng xiōng 	 shi xiong xiong 	2411	
 來作	To make	lái zuò	 zuo 	24	
@@ -90408,15 +90721,11 @@
 使外邦	Make a foreigner	shǐ wài bāng	shi wai bang 	341	
 使壽	Make life	shǐ shòu	shi shou 	34	
 使城永	So that the city never	shǐ chéng yǒng	shi cheng yong 	323	
-使城	Make city	shǐ chéng	shi cheng 	32	
-使地	To the ground	shǐ de	shi de 	31	
 使困	Make trouble	shǐ kùn	shi kun 	34	
 使喚	handle	shǐ huan	shi huan	31	
 使命	mission	shǐ mìng 	shi ming 	341	
 使勁	Hard	shǐ jìn 	shi jin 	341	
 使列	Make the column	shǐ liè	shi  	34	
-使人	Make people	shǐ rén	shi ren 	32	
-使一	Make one	shǐ yī	shi yi 	31	
 佾	yì	yi	4	
 佽	aid	cì	ci	4	
 佻	frivolous	tiāo	tiao	1	
@@ -90459,7 +90768,8 @@
 作首	For the first time	zuò shǒu 	zuo shou 	43	
 作風	style	zuò fēng	zuo feng	41	
 作響	Sounded	zuò xiǎng	zuo  	43	
-作過	Made it	zuò guò 	zuo guo 	44	
+作過	made	zuò guo	zuo guo	41	
+
 作走	Go away	zuò zǒu	zuo zou 	43	
 作贖	Redemption	zuò shú	zuo shu 	42	
 作證	testify	zuò zhèng 	zuo zheng 	441	
@@ -90547,7 +90857,8 @@
 何況	Not to mention	hé kuàng 	he kuang 	241	
 何沒	Why not	hé méi	he mei 	22	
 何曾	Ever	hé céng 	he ceng 	22	
-何時何地	when and where	hé shí hé de 	he shi he de 	2221	
+何時何地	when and where	hé shí hé dì	he shi he di	2224	
+
 何時	when	hé shí 	he shi 	22	
 何把	How to put it	hé bǎ	he ba 	23	
 何必將	Why will it be	hé bì jiāng 	he bi jiang 	241	
@@ -90615,14 +90926,13 @@
 位母親	Mothers	wèi mǔ qīn 	wei mu qin 	431	
 位校長	The headmaster	wèi xiào zhǎng 	wei xiao zhang 	443	
 位朋友	a friend	wèi péng yǒu 	wei peng you 	423	
-位於	lie in	wèi wū	wei wu	41	
+位於	lie in	wèi yú	wei yu	42	
+
 位律師	Lawyer	wèi lǜshī 	wei lushi 	41	
 位居	Ranking	wèi jū	wei ju 	41	
 位婦人	A woman	wèi fù rén 	wei fu ren 	442	
 位姐姐	Bit sister	wèi jiejie	wei jiejie	41	
 位夫人	Mrs. Lady	wèi fū rén 	wei fu ren 	412	
-位天	Day	wèi tiān	wei tian 	41	
-位哥哥	Bit brother	wèi gē gē 	wei ge ge 	411	
 位可汗	Bit Khan	wèi kè hán 	wei ke han 	442	
 位列	Ranked	wèi liè	wei lie	44	
 位冠軍	Champion	wèi guàn jūn 	wèi guàn jūn 	441	
@@ -90753,14 +91063,16 @@
 伎	talent	jì	ji	4	
 伌	ài	ai	4	
 伋	deceptive	jí	ji	2	
-伊突	Iraqi sudden	yī tū	yi tu 	11	
+伊突	Jetur	yī tū	yi tu	11	
+
 伊示雅	Yi Ya Ya	yī shì yā	yi shi ya 	143	
 伊磯倫	Eglon	yī jī lún	yi ji  	110	
 伊甸園	Garden of Eden	yī diàn yuán 	yi dian yuan 	142	
 伊法	Ephah	yī fǎ	yi fa 	13	
 伊比	Yibi	yī bǐ 	yi bi 	13	
 伊是班	Iraq is class	yī shì bān	yi shi ban 	141	
-伊施巴	Ishba	yī shī ba	yi shi ba 	111	
+伊施巴	Ishbak	yī shī ba	yi shi ba	111	
+
 伊斯蘭教	Islam	yī sī lán jiào 	yi si lan jiao 	11241	
 伊斯蘭	Islam	yī sī lán	yi si lan	112	
 伊提	Yi ti	yī tí	yi ti 	12	
@@ -90897,8 +91209,6 @@
 以致工	To work	yǐ zhì gōng	yi zhi gong 	341	
 以致	So that	yǐ zhì 	yi zhi 	34	
 以至於	So that	yǐ zhì yú	yi zhi yu	342	
-以至	As well as	yǐ zhì 	yi zhi 	341	
-以自	To self	yǐ zì	yi zi 	34	
 以米人	To meters people	yǐ mǐ rén	yi mi ren 	332	
 以立	To stand	yǐ lì	yi  	34	
 以祿	To Paul	yǐ lù	yi lu 	34	
@@ -90916,7 +91226,8 @@
 以沾	To dip	yǐ zhān	yi zhan 	31	
 以沒	To no	yǐ méi	yi mei 	32	
 以森	To sen	yǐ sēn	yi sen 	31	
-以東	East	yǐ dōng	yi dong 	31	
+以東	Edom	yǐ dōng	yi dong	31	
+
 以未	To never	yǐ wèi	yi wei 	34	
 以智	To wisdom	yǐ zhì 	yi zhi 	34	
 以旬迦別	To Xunjia	yǐ xún jiā bié	yi xun jia bie 	3212	
@@ -90934,10 +91245,6 @@
 以掃	Esau	yǐ sǎo	yi sao 	33	
 以挪士	Ennis	yǐ nuó shì	yi nuo shi 	324	
 以拿	To take	yǐ ná	yi na 	32	
-以拉撒	To Lazarus	yǐ lā sā	yi  sa 	311	
-以拉	Elah	yǐ lā	yi la	31	
-以我	as I	yǐ wǒ	yi wo 	33	
-以憐	To pity	yǐ lián	yi  	32	
 以得臺	To Taiwan	yǐ de tái	yi de tai 	322	
 以得來	To come	yǐ de lái	yi de  	322	
 以得	To get it	yǐ de	yi de 	32	
@@ -90985,7 +91292,8 @@
 以利亞實	Elijah	yǐ lì yǎ shí	yi  ya shi 	3442	
 以利亞	Elijah	yǐ lì yǎ	yi li ya	343	
 以利	Eli	yǐ lì	yi li	34	
-以內	Within	yǐn èi 	yin ei 	341	
+以內	within	yǐ nèi 	yi nei 	341	
+
 以免	so as not to	yǐ miǎn 	yi mian 	331	
 以先	To first	yǐ xiān	yi xian 	31	
 以倫	To len	yǐ lún	yi  	30	
@@ -91106,8 +91414,6 @@
 人田	Man field	rén tián	ren tian 	22	
 人用刀	Man with a knife	rén yòng dāo	ren yong dao 	241	
 人生	life	rén shēng 	ren sheng 	211	
-人玷	People	rén diàn	ren dian 	24	
-人犯	Guilty	rén fàn	ren fan	24	
 人物	character	rén wù	ren wu	24	
 人激	People excited	rén jī	ren ji 	21	
 人末底	People at the end	rén mò dǐ	ren mo di 	243	
@@ -91119,8 +91425,6 @@
 人工	Artificial	rén gōng 	ren gong 	211	
 人居	Habitat	rén jū	ren ju 	21	
 人尋	People looking for	rén xún	ren xun 	22	
-人寶	People treasure	rén bǎo	ren bao 	23	
-人審	Human trial	rén shěn	ren shen 	23	
 人家	People	rén jiā 	ren jia 	211	
 人宮	People palace	rén gōng	ren gong 	21	
 人商	Businessman	rén shāng	ren shang 	21	
@@ -91286,7 +91590,8 @@
 亞拿突	Anathoth	yà ná tū	ya na tu	421	
 亞拿伯	Achanberg	yà ná bó	ya na bo 	422	
 亞拿	Anna	yà ná	ya na	42	
-亞拉臘	Ararat	yà lā là	ya   	410	
+亞拉臘	Ararat	yà lā là	ya la la	414	
+
 亞拉得以	Yarra to	yà lā dé yǐ	ya  de yi 	4123	
 亞拉得	Yarrah	yà lā de	ya  de 	412	
 亞拉巴	Alaba	yà lā bā 	ya  ba 	411	
@@ -91296,8 +91601,11 @@
 亞所	Azor	yà suǒ	ya suo	43	
 亞戶撒	Yasushi	yà hù sā	ya hu sa 	441	
 亞惜	Yaxi	yà xī	ya xi 	41	
-亞德別	Yade do not	yǎ dé bié	ya de bie 	422	
-亞得里亞海	Adriatic Sea	yà de lǐ yǎ hǎi	ya de li ya hai 	41333	
+亞德別	Adbeel	yǎ dé bié	ya de bie	322	
+
+亞得里亞海	Sea of Adria	yà de lǐ yà hǎi	ya de li ya hai	41343	
+
+
 亞弗	Ave	yà fú	ya fu 	42	
 亞底	Bottom	yà dǐ	ya di 	43	
 亞干	Achan	yà gàn	ya gan	44	
@@ -91354,7 +91662,8 @@
 亞作	Sub-class	yà zuò	ya zuo 	44	
 亞何利亞	Algeria	yà hé lì yǎ	ya he  ya 	4244	
 亞伯麥西	Abel Moses	yà bó mài xi	ya bo mai xi 	4241	
-亞伯蘭	Abram	yà bó lán	ya bo  	420	
+亞伯蘭	Abram	yà bó lán	ya bo lan	422	
+
 亞伯拉罕	Abraham	yà bó lā hǎn 	ya bo  han 	4213	
 亞伯	Abel	yà bó	ya bo 	42	
 亞乃	Ya nai	yà nǎi	ya nai 	43	
@@ -91578,8 +91887,6 @@
 乍	zhà	zha	4	
 之際	occasion	zhī jì	zhi ji 	14	
 之間	between	zhī jiān	zhi jian	11	
-之道	way	zhī dào	zhi dao 	14	
-之輩	Of the generation	zhī bèi	zhi bei 	14	
 之身	body	zhī shēn	zhi shen 	11	
 之路	Road	zhī lù	zhi lu	14	
 之處	place	zhī chù	zhi chu 	14	
@@ -91694,10 +92001,6 @@
 中獻	In the offer	zhōng xiàn	zhong xian 	14	
 中牧	In the animal husbandry	zhōng mù	zhong mu 	14	
 中焚燒	In the burning	zhōng fén shāo 	zhong fen shao 	121	
-中游	Midstream	zhōng yóu	zhong you 	12	
-中流	In the flow	zhōng liú	zhong liu	12	
-中沒有	Did not	zhōng méi yǒu	zhong mei you 	123	
-中沒	Did not	zhōng méi	zhong mei 	12	
 中段	Middle section	zhōng duàn	zhong duan 	14	
 中止	Stop	zhōng zhǐ	zhong zhi 	13	
 中有	There are	zhōng yǒu	zhong you 	13	
@@ -91716,8 +92019,6 @@
 中央	central	zhōng yāng	zhong yang	11	
 中太	In too	zhōng tài	zhong tai 	14	
 中國	China	zhōng guó	zhong guo	12	
-中喝	Drink	zhōng hē	zhong  	11	
-中喜	In hi	zhōng xǐ	zhong xi 	13	
 中和	neutralize	zhōng hé	zhong he	12	
 中原	Central Plains	zhōng yuán	zhong yuan 	12	
 中午	noon	zhōng wǔ	zhong wu	13	
@@ -91770,7 +92071,8 @@
 並你	And you	bìng nǐ	bing ni 	43	
 並事	And things together	bìng shì	bing shi 	44	
 並且	and	bìng qiě	bing qie	43	
-並不會	And will not	bìng bù huì	bing  hui 	444	
+並不會	And will not	bìng bú huì	bing bu hui	424	
+
 並不是	It is not	bìng bú shì	bing bu shi	424	
 
 丣	yǒu	you	3	
@@ -91799,8 +92101,6 @@
 世事	Things	shì shì	shi shi	44	
 世世代代	For generations to come	shì shì dài dài 	shi shi dai dai 	4444	
 且毀	And destroyed	qiě huǐ	qie hui 	33	
-且歡	And joy	qiě huan	qie huan 	31	
-且敬	And respect	qiě jìng	qie jing 	34	
 且去	And go	qiě qù	qie qu 	34	
 且卑	And humble	qiě bēi	qie  	31	
 丒	chǒu	chou	3	
@@ -91809,7 +92109,8 @@
 不驚	Not scared	bù jīng	 jing 	41	
 不飢	Not hungry	bù jī	 ji 	41	
 不顧	regardless of	bù gù	bu gu	44	
-不願意	Do not want to	bù yuàn yì	 yuan yi 	444	
+不願意	don't want to	bú yuàn yì	bu yuan yi	244	
+
 不需要	No need	bù xū yào 	 xu yao 	414	
 不需	No need	bù xū	 xu 	41	
 不隨	Not with	bù suí	 sui 	42	
@@ -91834,10 +92135,13 @@
 不起	Can not afford to	bù qǐ	bu qi	43	
 不走	Do not go	bù zǒu	 zou 	43	
 不貞	Not true	bù zhēn 	 zhen 	41	
-不讓	Not let	bù ràng	 rang 	44	
-不變	constant	bù biàn 	 bian 	44	
+不讓	not let	bú ràng	bu rang	24	
+
+不變	constant	bú biàn 	bu bian 	241	
+
 不謹守	Do not keep	bù jǐn shǒu	  shou 	403	
-不論是	Whether it is	bù lùn shì 	  shi 	444	
+不論是	Whether it is	bú lùn shì 	bu lun shi 	2441	
+
 不論	whether	bú lùn	bu lun	24	
 
 不認	deny	bù rèn	 ren 	44	
@@ -91848,21 +92152,26 @@
 不解	Puzzled	bù jiě	 jie 	43	
 不要懼怕	Do not be afraid	bù yào jù pà	 yao ju pa 	4444	
 不要	Do not	bú yào	bu yao	24	
-不被	not being	bù bèi 	bu bei 	441	
+不被	not being	bú bèi 	bu bei 	241	
+
 不行了	No thanks	bù xíng le	bu xing le	42
 不行	No	bù xíng	bu xing	42	
 不藐	Do not despise	bù miǎo	 miao 	43	
 不良	bad	bù liáng 	bu liang 	421	
-不致	Not	bù zhì 	bu zhi 	441	
+不致	not	bú zhì 	bu zhi 	241	
+
 不至死亡	Not to death	bù zhì sǐ wáng 	 zhi si wang 	4432	
-不至於	does not lead to	bù zhì wū	 zhi yu 	441	
+不至於	does not lead to	bú zhì yú	bu zhi yu	242	
+
 不臨	Not near	bù lín	  	40	
 不能自拔	Can not extricate themselves	bù néng zì bá 	 neng zi ba 	4242	
 不能救	Can not save	bù néng jiù 	 neng jiu 	424	
 不能抵抗	Can not resist	bù néng dǐ kàng 	bu neng di kang 	4234	
 不能不	Can not but not	bù néng bù 	bu neng bu 	424	
-不能	Can not	bù néng 	bu neng 	421	
-不育	Infertility	bù yù	bu yu	44	
+不能	can't	bù néng 	bu neng 	421	
+
+不育	Infertility	bú yù	bu yu	24	
+
 不肯	Refused to	bù kěn 	 ken 	43	
 不肖	unworthy	bù xiào 	bu xiao 	441	
 不耐煩	impatient	bù nài fán 	 nai fan 	442	
@@ -91913,7 +92222,8 @@
 不滿	dissatisfied	bù mǎn	bu man	43	
 不滅	Immortal	bù miè 	 mie 	44	
 不準	Not allowed	bù zhǔn	 zhun 	43	
-不測	Accidental	bù cè	 ce 	44	
+不測	accident	bú cè	bu ce	24	
+
 不渝	Unswervingly	bù yú	 yu 	42	
 不清不楚	Unclear	bù qīng bù chu	 qing  chu 	4141	
 不消	Needless to say	bù xiāo 	bu xiao 	41	
@@ -91932,7 +92242,8 @@
 不朽	immortal	bù xiǔ 	 xiu 	43	
 不期	Not expect	bù qī	bu qi	41	
 不服	Disagree	bù fú	bu fu	42	
-不會有	will not have	bù huì yǒu	 hui you 	443	
+不會有	will not have	bú huì yǒu	bu hui you	243	
+
 不會	will not	bú huì	bu hui	24	
 
 不曾有過	Never had	bù céng yǒu guò 	 ceng you guo 	4234	
@@ -91944,7 +92255,8 @@
 不易	Not easy	bù yì	  	44	
 不明	unknown	bù míng 	bu ming 	42	
 不早了	It is late	bù zǎo le	bu zao le 	43
-不斷地	continuously	bù duàn de	 duan de 	441	
+不斷地	continuously	bú duàn de	bu duan de	241	
+
 不斷	Keep on	bú duàn 	bu duan 	241	
 
 不斥	Not denounced	bù chì	 chi 	44	
@@ -91965,15 +92277,14 @@
 
 不應	Should not	bù yìng	 ying 	44	
 不懈	unremitting	bù xiè 	bu xie 	441	
-不懂	Do not understand	bù dǒng	bu dong	43	
-不憐	Not pity	bù lián	  	42	
 不慎	Inadvertently	bù shèn	 shen 	44	
 不感興趣	not interested	bù gǎn xìng qù	 gan xing qu 	4344	
 不意	unexpectedly	bù yì	bu yi	44	不惜	At the expense of	bù xī	 xi 	41	
 不悔	not regret	bù huǐ	 hui 	43	
 不悅	upset	bù yuè	bu yue	44	
 不息	Endlessly	bù xī	 xi 	41	
-不怕	Not afraid of	bù pà	 pa 	44	
+不怕	Not afraid of	bú pà	bu pa	24	
+
 不念	not think	bù niàn	bu nian	44	
 
 不快	Unhappy	bù kuài 	bù kuài 	44	
@@ -91988,7 +92299,8 @@
 不得不	have to	bù dé bù 	bu de bu 	4241	
 不得	Not	bù dé	bu de	42	
 不後	No later	bù hòu	 hou 	44	
-不幸	unfortunately	bù xìng 	bu xing 	441	
+不幸	unfortunately	bú xìng 	bu xing 	241	
+
 不平凡	Not ordinary	bù píng fán	bu ping fan	422	
 不干	Quit	bù gān	 gan 	41	
 不常	Not often	bù cháng	 chang 	42	
@@ -91999,7 +92311,8 @@
 不就	Not on	bù jiù	 jiu 	44	
 不少	Many	bù shǎo	bu shao	43	
 不小心	accidentally	bù xiǎo xīn	 xiao xin 	431	
-不對	wrong	bù duì 	bu dui 	441	
+不對	wrong	bú duì 	bu dui 	241	
+
 不實	false	bù shí	 shi 	42	
 不容	Can not	bù róng 	bu rong 	421	
 不宜	Not suitable	bù yí	bu yi	42	
@@ -92010,14 +92323,16 @@
 不守	Do not keep	bù shǒu	 shou 	43	
 不學無術	Do not learn without surgery	bù xué wú shù	 xue wu shu 	4224	
 不孝	Not filial piety	bù xiào 	bu xiao 	44	
-不孕	Infertility	bù yùn	 yun 	44	
+不孕	Infertility	bú yùn	bu yun	24	
+
 不妨	May wish to	bù fáng 	bu fang 	421	
 不妥	inappropriate	bù tuǒ	 tuo 	43	
 不妙	Not bad	bù miào	 miao 	44	
 不如	Not as well	bù rú	bu ru	42	
 不好意思	Sorry	bù hǎo yì si	bu hao yi si	4341	
 不太	Not too much	bù tài	bu tai	44	
-不夠	not enough	bù gòu 	bu gou 	441	
+不夠	not enough	bú gòu 	bu gou 	241	
+
 不多	not much	bù duō	 duo 	41	
 不堪一擊	Unbearable	bù kān yī jī	 kan yi ji 	4111	
 不堪	Unbearable	bù kān 	bu kan 	411	
@@ -92044,15 +92359,20 @@
 不叫	not called	bù jiào	 jiao 	44	
 不只是	Not only	bù zhǐ shì 	 zhi shi 	434	
 不只	not only	bù zhǐ	bu zhi	43	
-不受	not receive	bù shòu	bu shou	44	
+不受	not receive	bú shòu	bu shou	24	
+
 不及	Less than	bù jí	bu ji	42	
 不去	Do not go	bú qù	bu qu	24	
 
-不厭其煩	Be patient	bù yàn qí fán 	 yan qi fan 	4422	
+不厭其煩	be patient	bú yàn qí fán 	bu yan qi fan 	24221	
+
 不勞而獲	Get something for nothing	bù láo ér huò 	  er huo 	4224	
 不勝負荷	Unrivaled	bù shèng fù hè	 sheng fu he 	4444	
-不動	Do not move	bù dòng 	 dong 	44	
-不利於	is harmful to	bù lì wū	  yu 	441	
+不動	do not move	bú dòng	bu dong	24	
+
+不利於	is harmful to	bú lì yú	bu li yu	242	
+
+
 不利	unfavorable	bù lì	  	44	
 不分彼此	Regardless of each other	bù fēn bǐ cǐ	 fen bi ci 	4133	
 不分	Regardless of	bù fēn	 fen 	41	
@@ -92062,7 +92382,9 @@
 不出	Not out	bù chū	 chu 	41	
 不准	Not allowed	bù zhǔn	 zhun 	43	
 不冷不熱	neither cold nor hot	bù lěng bù rè	   re 	4344	
-不再是	Is no longer	bù zài shì	 zai shi 	444	
+不再是	are no longer	bú zài shì	bu zai shi	244	
+
+
 不再	no longer	bú zài	bu zai	24	
 
 不公正	injustice	bù gōng zhèng 	bu gong zheng 	414	
@@ -92070,7 +92392,8 @@
 不公	unfair	bù gōng 	bu gong 	411	
 不免	Can not help	bù miǎn 	bu mian 	431	
 不光是	not only	bù guāng shì	 guang shi 	414	
-不像	Not like	bù xiàng	bu xiang	44	
+不像	Not like	bú xiàng	bu xiang	24	
+
 不僅是	not only	bù jǐn shì 	 jin shi 	434	
 不僅僅是	Not just	bù jǐn jǐn shì 	 jin jin shi 	4334	
 不僅僅	Not just	bù jǐn jǐn 	 jin jin 	433	
@@ -92088,7 +92411,8 @@
 不倦	tireless	bù juàn	 juan 	44	
 不倒	Not down	bù dǎo	 dao 	43	
 不信任	Do not trust	bù xìn rèn 	 xin ren 	444	
-不信	Do not believe	bù xìn 	bu xin 	441	
+不信	Do not believe	bú xìn 	bu xin 	241	
+
 不便	inconvenient	bù biàn	bu bian	44	
 不來	Not coming	bù lái	  	42	
 不作罪孽	Not sin	bù zuò zuì niè 	 zuo zui nie 	4444	
@@ -92292,7 +92616,8 @@
 三次	three times	sān cì	san ci 	14	
 三樣	Three different	sān yàng	san yang 	14	
 三樓	Third floor	sān lóu	san  	12	
-三根	Three	sāng ēn	san gen 	11	
+三根	three	sān gēn	san gen	11	
+
 三月	March	sān yuè	san yue 	14	
 三方	Tripartite	sān fāng 	san fang 	11	
 三支	Three	sān zhī	san zhi 	11	
@@ -92314,7 +92639,8 @@
 三個月	Three months	sān gè yuè	san ge yue 	144	
 三個	Three	sān gè	san ge 	14	
 三位	Three	sān wèi	san wei 	14	
-三份	Three copies	sān fèn	san fen 	14	
+三份	three of	sān fèn	san fen	14	
+
 三人	Three people	sān rén	san ren 	12	
 丈量	Measure	zhàng liàng 	zhang  	44	
 丈夫	husband	zhàng fū	zhang fu	41	
@@ -92353,19 +92679,23 @@
 丁點	little bit	dīng diǎn	ding dian	13	
 一齊	Together	yì qí	yi qi	42	
 一點點	a little bit	yī diǎn diǎn 	yi dian dian 	133	一點	a little	yī diǎn	yi dian 	13	
-一體	One	yī tǐ	yi ti 	13	
+一體	one flesh	yì tǐ	yi ti	43	
+
 一首歌	a song	yī shǒu gē	yi shou ge 	131	
 一首	a	yī shǒu 	yi shou 	13	
 一顆	One	yī kē	yi ke 	11	
 一頓飯	a meal	yī dùn fàn	yi dun  	144	
-一頓	beating	yī dùn 	yi dun 	141	
+一頓	meal	yí dùn	yi dun	24	
+
 
 一項	One	yī xiàng 	yi xiang 	14	
 一面	one side	yī miàn 	yi mian 	141	
 一雙	A pair of	yī shuāng	yi shuang 	11	
-一雄	A male	yī xióng	yi xiong 	12	
+一雄	male	yì xióng	yi xiong	42	
+
 一隻眼	One eye	yī zhī yǎn 	yi zhi yan 	113	
-一隻	One	yī zhī 	yi zhi 	11	
+一隻	One	yì zhī 	yi zhi 	411	
+
 一陣風	A gust of wind	yí zhèn fēng 	yi zhen feng 	2411	
 
 一陣陣	Bursts of waves	yī zhèn zhèn 	yi zhen zhen 	144	
@@ -92375,7 +92705,8 @@
 一閃而過	Flashed by	yī shǎn ér guò 	yi shan er guo 	1324	
 一閃	Flashing	yī shǎn 	yi shan 	13	
 一錢不值	Worthless	yī qián bù zhí	yi qian  zhi 	1242	
-一部分	Part of it	yī bù fèn 	yi bu fen 	144	
+一部分	part of it	yí bù fèn 	yi bu fen 	2441	
+
 一部	One	yī bù	yi bu 	14	
 一邊	Side	yì biān	yi bian	41	
 一道	Together	yí dào	yi dao	24	
@@ -92395,7 +92726,8 @@
 一躍	Jumped	yī yuè 	yi yue 	14	
 一蹶不振	Depressed	yī jué bù zhèn 	yi jue  zhen 	1244	
 一路平安	All the way to peace	yī lù píng ān	yi  ping an 	1421	
-一路上	Along the way	yī lù shàng 	yi lu shang 	1441	
+一路上	along the way	yí lù shàng 	yi lu shang 	2441	
+
 一路	All the way	yí lù 	yi lu 	241	
 
 一趟	A trip	yī tàng	yi tang 	14	
@@ -92410,8 +92742,10 @@
 一言為定	a deal	yī yán wéi dìng	yi yan wei ding	1224	
 一言一行	Words and deeds	yī yán yī xíng 	yi yan yi  	1212	
 一言	A word	yī yán	yi yan 	12	
-一見	Seeing	yī jiàn	yi  	14	
-一袋	A bag	yī dài 	yi dai 	14	
+一見	sees	yí jiàn	yi jian	24	
+
+一袋	a bag	yí dài 	yi dai 	241	
+
 一行	A line	yī xíng 	yi  	12	
 一處	one place	yí chù	yi chu	24	
 
@@ -92425,11 +92759,14 @@
 一舉一動	every move	yī jǔ yī dòng 	yi ju yi dong 	13141	
 
 一舉	in one go	yī jǔ 	yi ju 	131	
-一致	Consistent	yī zhì 	yi zhi 	141	
+一致	consistent	yí zhì 	yi zhi 	241	
+
 一脈	A pulse	yī mài	yi mai 	14	
 一胎	A child	yī tāi	yi tai 	11	
 一股腦兒	A child	yī gǔ nǎo er	yi gu nao er	1	
-一股	A share	yī gǔ	yi gu 	13	
+一股	a share	yì gǔ	yi gu	43	
+
+
 一而再	Again and again	yī ér zài	yi er zai 	124	
 一者	One	yī zhě	yi  	13	
 一罐	A can	yī guàn	yi guan 	14	
@@ -92441,12 +92778,14 @@
 一粒種	A grain of	yī lì zhǒng 	yi li zhong 	1431	
 一粒	One grain	yī lì	yi  	14	
 一籃	A basket	yī lán	yi lan 	12	
-一筆勾銷	Write off	yī bǐ gōu xiāo 	yi bi gou xiao 	1311	
+一筆勾銷	write off	yì bǐ gōu xiāo 	yi bi gou xiao 	43111	
+
 一筆	A pen	yī bǐ 	yi bi 	13	
 一端	One end	yī duān 	yi duan 	11	
 一站	One stop	yí zhàn	yi zhan 	24	
 一空	Empty	yī kōng 	yi kong 	11	
-一種	One kind	yī zhǒng 	yi zhong 	13	
+一種	a kind	yì zhǒng 	yi zhong 	431	
+
 一碗	bowl	yī wǎn	yi wan 	13	
 一石	A stone	yī shí 	yi shi 	12	
 一矢	A vector	yī shǐ 	yi shi 	13	
@@ -92458,7 +92797,8 @@
 
 一盞	One	yī zhǎn	yi zhan 	13	
 一百萬	one million	yī bǎi wàn 	yi bai wan 	134	
-一百	hundred	yī bǎi 	yi bai 	13	
+一百	hundred	yì bǎi 	yi bai 	431	
+
 一病不起	A sick can not afford	yī bìng bù qǐ	yi bing  qi 	1443	
 一番	Some	yì fān	yi fan	41	
 
@@ -92472,7 +92812,8 @@
 一無是處	Nothing at all	yī wú shì chù 	yi wu shi chu 	1244	
 一無所缺	Nothing missing	yì wú suǒ quē	yi wu suo que	4231	
 
-一無所知	Ignorant	yī wú suǒ zhī	yi wu suo zhi 	1231	
+一無所知	ignorant	yì wú suǒ zhī	yi wu suo zhi	4231	
+
 一無所獲	Nothing	yī wú suǒ huò 	yi wu suo huo 	1234	
 一滴水	A drop of water	yī dī shuǐ 	yi di shui 	113	
 一滴	a drop	yī dī 	yi di 	111	
@@ -92495,12 +92836,17 @@
 一樁	One pile	yī zhuāng	yi zhuang 	11	
 一槍	A shot	yī qiāng 	yi qiang 	11	
 一概	Probably	yī gài 	yi gai 	141	
-一棵	A tree	yī kē	yi ke 	11	
+一棵	a tree	yì kē	yi ke	41	
+
 一棟	One	yī dòng	yi dong 	14	
 一條條	One article	yī tiáo tiáo 	yi tiao tiao 	122	
-一條	one	yī tiáo 	yi tiao 	121	
-一桌	A table	yī zhuō	yi zhuo 	11	
-一根	One	yī gēn	yi gen 	11	
+一條	one	yì tiáo	yi tiao	42	
+
+一桌	a table	yì zhuō	yi zhuo	41	
+
+一根	one	yì gēn	yi gen	41	
+
+
 一枝	A branch	yī zhī	yi zhi 	11	
 一杯	A cup	yī bēi 	yi bei 	11	
 一束	A bunch	yī shù	yi shu 	14	
@@ -92508,15 +92854,24 @@
 一本	One	yī běn	yi ben 	13	
 一望	A look	yī wàng 	yi wang 	14	
 一月	January	yī yuè	yi yue 	14	
-一會兒	For a while	yī huǐ er	yi hui er	131	
-一會	a while	yī huǐ	yi hui 	13	
+一會兒	for a while	yí huìr	yi huir	24	
+
+
+一會	a while	yí huì	yi hui	24	
+
+
 一更	One more	yī gèng	yi geng	14	
 一晚	one night	yī wǎn	yi wan 	13	
-一時	hours	yī shí 	yi shi 	121	
+一時	for a moment	yì shí 	yi shi 	421	
+
+
 
 一是	One is	yī shì 	yi shi 	14	
-一星期	A week	yī xīng qí	yi xing qi 	112	
-一早	Early in the morning	yī zǎo 	yi zao 	13	
+一星期	a week	yì xīng qī	yi xing qi	411	
+
+
+一早	early in the morning	yì zǎo 	yi zao 	431	
+
 一旦	once	yī dàn 	yi dan 	141	
 一日	Day	yī rì	yi ri 	14	
 一族	Family	yī zú	yi zu 	12	
@@ -92545,10 +92900,12 @@
 一怒之下	In anger	yī nù zhī xià	yi  zhi xia 	1414	
 一志	One mind	yī zhì 	yi zhi 	14	
 一心一意	Wholeheartedly	yī xīn yī yì 	yi xin yi yi 	1114	
-一心	Wholeheartedly	yī xīn 	yi xin 	111	
+一心	wholeheartedly	yì xīn 	yi xin 	411	
+
 一律	All	yī lǜ	yi lu	14	
 一彌	A Mi	yī mí	yi mi 	12	
-一張	One	yī zhāng	yi zhang 	11	
+一張	one	yì zhāng	yi zhang	41	
+
 一度	one time	yī dù	yi du	14	
 一幸	Fortunately	yī xìng	yi xing 	14	
 一年多	More than a year	yī nián duō	yi nian duo	121	
@@ -92560,21 +92917,25 @@
 一幫	A bunch	yī bāng	yi bang 	11	
 一幅	One	yī fú	yi fu 	12	
 一帶	Area	yī dài 	yi dai 	141	
-一己	Own	yī jǐ 	yi ji 	13	
+一己	Own	yì jǐ 	yi ji 	431	
+
 一層	layer	yī céng 	yi ceng 	12	
 一對一	One to one	yī duì yī	yi dui yi 	141	
-一對	A pair	yī duì	yi dui 	14	
+一對	a pair	yí duì	yi dui	24	
+
 一尊	One	yī zūn 	yi zun 	11	
 一封信	A letter	yì fēng xìn	yi feng xin	414	
 
 一封	One	yī fēng	yi feng 	11	
-一家	One	yī jiā 	yi jia 	11	
+一家	one	yì jiā 	yi jia 	411	
+
 一定	for sure	yí dìng 	yi ding 	241	
 
 一字不漏	Wordless	yī zì bù lòu	yi zi   	1444	
 一字	word	yī zì	yi zi 	14	
 一如既往	as always	yī rú jì wǎng 	yi ru ji wang 	1243	
-一套	set	yī tào	yi tao 	14	
+一套	set	yí tào	yi tao	24	
+
 一天	one day	yì tiān	yi tian	41	
 
 一大堆	A lot of	yī dà duī	yi da dui 	141	
@@ -92586,13 +92947,16 @@
 
 一堆堆	Piles of piles	yī duī duī	yi dui dui 	111	
 一堆	pile	yī duī	yi dui 	11	
-一團	A group	yī tuán	yi tuan 	12	
-一國	A country	yī guó	yi guo 	12	
+一團	a group	yì tuán	yi tuan	42	
+
+一國	a country	yì guó	yi guo	42	
+
 一圈	A circle	yī quān	yi quan 	11	
 一回事	it is	yì huí shì	yi hui shi	424	
 
 
-一員	A member	yī yuán 	yi yuan 	12	
+一員	a member	yì yuán 	yi yuan 	421	
+
 一命	A life	yī mìng	yi ming 	14	
 一周	One week	yī zhōu	yi zhou 	11	
 一吹	A blow	yī chuī	yi chui	11	
@@ -92602,7 +92966,8 @@
 
 一同	together	yì tóng	yi tong	42	
 
-一句話	A word	yī jù huà 	yi  hua 	144	
+一句話	a word	yí jù huà 	yi ju hua 	2441	
+
 一句	One sentence	yī jù 	yi  	14	
 一去不返	Never go back	yī qù bù fǎn	yi qu  fan 	1443	
 一去不復返	Gone forever	yī qù bù fù fǎn	yi qu   fan 	14443	
@@ -92622,31 +92987,41 @@
 一再	repeatedly	yī zài 	yi zai 	141	
 一具	One	yī jù	yi ju 	14	
 一共	Altogether	yī gòng 	yi gong 	141	
-一兩	One or two	yī liǎng	yi  	13	
+一兩	One or two	yì liǎng	yi liang	43	
+
 一個	One	yí gè	yi ge	24	
 
 一例外	exception	yī lì dài	yi li dai	144	
-一來一往	One by one	yī lái yī wǎng	yi  yi wang 	1213	
+一來一往	one by one	yì lái yì wǎng	yi lai yi wang	4243	
+
+
 一併	Together	yī bìng	yi bing 	14	
 一位	One	yí wèi	yi wei	24	
 
-一份	A portion	yī fèn	yi fen	14	
+一份	a portion	yí fèn	yi fen	24	
+
 一任	A term of office	yī rèn 	yi ren 	14	
-一件事	one thing	yī jiàn shì	yi jian shi 	144	
-一件	One	yī jiàn	yi jian 	14	
+一件事	one thing	yí jiàn shì	yi jian shi	244	
+
+一件	one	yí jiàn	yi jian	24	
+
 一代	generation	yī dài	yi dai 	14	
 一仗	A battle	yī zhàng	yi zhang 	14	
 一仍	One still	yī réng	yi reng 	12	
-一人	one person	yī rén 	yi ren 	12	
+一人	one person	yì rén 	yi ren 	421	
+
 一些	some	yì xiē	yi xie	41	
 
 一五一十	One hundred fifty ten	yī wǔ yī shí 	yi wu yi shi 	1312	
 一事無成	Nothing	yī shì wú chéng 	yi shi wu cheng 	1422	
 一事	matter	yī shì	yi shi 	14	
-一乾二淨	Clean and clean	yī gān èr jìng 	yi gan er jing 	1144	
-一串	A string of	yī chuàn	yi  	14	
+一乾二淨	everywhere	yī gān èr jìng	yi gan er jing	1144	
+
+一串	a cluster of	yí chuàn	yi chuan	24	
+
 一並	Together	yī bìng	yi bing 	14	
-一下子	all of a sudden	yī xià zi	yi xia zi	141	
+一下子	all of a sudden	yí xià zi	yi xia zi	241	
+
 一下	a bit	yí xià	yi xia	24	
 一丁點兒	A little bit	yī dīng diǎn er	yi ding dian er 	1131	
 一丁點	a little bit	yī dīng diǎn 	yi ding dian 	113	
@@ -93660,7 +94035,7 @@
 
 䧕	frontier	zhèn	zhen	4	
 䧔	shore	niàn	nian	4	
-䧓	abundant	give	zhōu	zhou	1	
+䧓	abundant	zhōu	zhou	1	
 䧒	lái	lai	2	
 䧑	dike	dī	di	1	
 䧐	
@@ -94947,7 +95322,7 @@
 䓢	gù	gu	4	
 䓡	zhī	zhi	1	
 䓠	tà	ta	4	
-䓟	broom	give	zhōu	zhou	1	
+䓟	broom	zhōu	zhou	1	
 䓞	edible	lì	li	4	
 䓝	mèng	meng	4	
 䓜	zhī	zhi	1	
@@ -95047,7 +95422,7 @@
 䑿	sù	su	4	
 䑾	
 䑽	tà	ta	4	
-䑼	steamer	give	zhōu	zhou	1	
+䑼	steamer	zhōu	zhou	1	
 䑻	covering	yóu	you	2	
 䑺	
 䑹	sōu	sou	1	
@@ -95295,7 +95670,7 @@
 䎊	flying	luò	luo	4	
 䎉	afraid	xù	xu	4	
 䎈	flying	yì	yi	4	
-䎇	quick	give	zhōu	zhou	1	
+䎇	quick	zhōu	zhou	1	
 䎆	flying	liào	liao	4	
 䎅	flying	pò	po	4	
 䎄	hairy	flute	xiāo	xiao	1	
@@ -97771,7 +98146,7 @@
 㨇	cleaway	pó	po	2	
 㨆	kill	lǐn	lin	3	
 㨅	inside	nèi	nei	4	
-㨄	pierce	give	zhōu	zhou	1	
+㨄	pierce	zhōu	zhou	1	
 㨃	row	duǐ	dui	3	
 㨂	beat	dǒng	dong	3	
 㨁	throw	zhì	zhi	4	
@@ -99564,7 +99939,8 @@
 以迦博	Ichabod	yǐ jiā bó	yi jia bo	312	
 兄弟	brother	xiōng dì	xiong di	14	
 播薛	Bozez	bō xuē	bo xue	11	
-打一場	fight	dǎ yī chǎng	da yi chang	313	
+打一場	fight	dǎ yì chǎng	da yi chang	343	
+
 作屬	belong to	zuò shǔ	zuo shu	43	
 肯定	sure	kěn dìng	ken ding	34	
 以利押	Eliab	yǐ lì yā	yi li ya	341	
@@ -99715,7 +100091,8 @@
 敢不敢	dare	gǎn bù gǎn	gan bu gan	343	
 拜託	please	bài tuō	bai tuo	41	
 考考	exam	kǎo kǎo	kao kao	33	
-一個月	a month	yī ge yuè	yi ge yue	114	
+一個月	a month	yí ge yuè	yi ge yue	214	
+
 馬尾	ponytail	mǎ wěi	ma wei	33	
 三八啦	idiot	sān bā la	san ba la	111	
 剪剪	cut	jiǎn jiǎn	jian jian	33	
@@ -99770,7 +100147,8 @@
 說的	Said	shuō de 	shuo de 	111	
 不可能	impossible	bù kě néng 	bu ke neng 	2
 家瑋	Chia-Wei	jiā wěi 	jia wei 	131	
-一點	a little	yī diǎn 	yi dian 	131	
+一點	a little	yì diǎn	yi dian	43	
+
 學院	College	xué yuàn 	xue yuan 	241	
 宿舍	dorm room	sù shè	su she	44	
 手機	Mobile phone	shǒu jī	shou ji	31	
@@ -99790,7 +100168,8 @@
 失常	abnormal	shī cháng	shi chang	12	
 師範學院	Normal University	shī fàn xué yuàn	shi fan xue yuan	1424	
 重考	resit exam	zhòng kǎo	zhong kao	43	
-第一個	the first	dì yī ge	di yi ge	411	
+第一個	the first	dì yī gè	di yi ge	414	
+
 許可欣	Hsu Ke-Shin	xǔ kě xīn	xu ke xin	331	
 奇奇怪怪	strange	qí qí guài guài	qi qi guai guai	2244	
 室友	roommate	shì yǒu	shi you	43	
@@ -99983,7 +100362,8 @@
 一點兒	a little	yì diǎn ér	yi dian er	432	
 麵包店	bakery	miàn bāo diàn	mian bao dian	414	
 日本	Japan	rì běn	ri ben	43	
-上網	Internet access	shàng wǎng	shang wang	43	
+上網	surf Internet	shàng wǎng	shang wang	43	
+
 時鐘	clock	shí zhōng	shi zhong	21	
 收到	receive	shōu dào	shou dao	14	
 
@@ -100085,7 +100465,8 @@
 開水	boiling water	kāi shuǐ	kai shui	13	
 開學	Start school	kāi xué	kai xue	12	
 飯店	restaurant	fàn diàn	fan dian	44	
-感冒	cold	gǎn mào	gan mao	34	
+感冒	catch cold	gǎn mào	gan mao	34	
+
 滑雪	ski	huá xuě	hua xue	23	
 照片兒	Photo children	zhào piàn ér	zhao pian er	442	
 照相機	camera	zhào xiàn g jī	zhao xian g ji	441	
@@ -101088,7 +101469,8 @@
 就緒	Ready	jiù xù	jiu xu	44	
 幅度	Amplitude	fú dù	fu du	24	
 惡化	deterioration	è huà	e hua	44	
-惡性	Vicious	è xìng	e xing	44	
+惡性	evil	è xìng	e xing	44	
+
 惡意	Malicious	è yì	e yi	44	
 悲觀	pessimistic	bēi guān	bei guan	11	
 描繪	Depict	miáo huì	miao hui	24	
@@ -101726,8 +102108,6 @@
 多半兒	Most children	duō bàn er	duo ban er	141	
 多多少少	More or less	duō duō shǎo shǎo	duo duo shao shao	1133	
 多數	most	duō shù	duo shu	14	
-多謝	Thank you	duō xiè	duo xie	14	
-好在	Okay	hǎo zài	hao zai	34	
 如果說	If	rú guǒ shuō	ru guo shuo	231	
 字母	letter	zì mǔ	zi mu	43	
 字幕	subtitle	zì mù	zi mu	44	
@@ -101820,7 +102200,7 @@
 味兒	Taste	wèi er	wei er	41	
 味精	MSG	wèi jīng	wei jing	41	
 和平	peace	hé píng	he ping	22	
-周週	weekly	give	zhōu	zhou	1	
+周週	weekly	zhōu	zhou	1	
 夜市	night market	yè shì	ye shi	44	
 委員	Members	wěi yuán	wei yuan	32	
 孤單	alone	gū dān	gu dan	11	
@@ -103063,7 +103443,8 @@
 大源	Dà yuán 	dà yuán 	da yuan 	421	
 大溪	Dà xī 	dà xī 	da xi 	411	
 大灣	Dà wān 	dà wān 	da wan 	411	
-大營	Dà yíng 	dà yíng 	da ying 	421	
+大營	big camps	dà yíng 	da ying 	421	
+
 大理	Dà lǐ 	dà lǐ 	da li 	431	
 大直	Dà zhí 	dà zhí 	da zhi 	421	
 大福	Dà fú 	dà fú 	da fu 	421	
@@ -105812,7 +106193,8 @@
 亞米忽	Ammihud	yà mǐ hū	ya mi hu	431	
 上台	come to power	shàng tái 	shang tai 	421	
 下滑	down	xià huá	xia hua	42	
-不至	not until	bù zhì 	bu zhi 	441	
+不至	not until	bú zhì 	bu zhi 	241	
+
 互動	interactive	hù dòng 	hu dong 	441	
 以下	the following	yǐ xià 	yi xia 	341	
 份證	proof card	fèn zhèng 	fen zheng 	441	
@@ -106592,7 +106974,8 @@
 招待券	Voucher	zhāo dài quàn	zhao dai quan	144	
 折疊式	Folding	zhé dié shì	zhe die shi	224	
 折價券	Discount coupons	zhé jià quàn	zhe jia quan	244	
-找不到	Can not find it	zhǎo bù dào	zhao bu dao	344	
+找不到	couldn't find	zhǎo bu dào	zhao bu dao	314	
+
 打蛋器	Whisk	dǎ dàn qì	da dan qi	344	
 手續費	Fee	shǒu xù fèi	shou xu fei	344	
 手提袋	Handbag	shǒu tí dài	shou ti dai	324	
@@ -107516,8 +107899,6 @@
 諸葛	Zhuge	zhū gé	zhu ge	12	
 請說	Please say	qǐng shuō	qing shuo	31	
 請見	See also	qǐng jiàn	qing jian	34	
-請洽	Please contact	qǐng qià	qing qia	34	
-請在	please at	qǐng zài	qing zai	34	
 請勿	Please do not	qǐng wù	qing wu	34	
 調酒	Bartender	tiáo jiǔ	tiao jiu	23	
 調製	modulation	tiáo zhì	tiao zhi	24	
@@ -108046,7 +108427,8 @@
 純生	Purely	chún shēng	chun sheng	21	
 純棉	Cotton	chún mián	chun mian	22	
 純二	Pure two	chún èr	chun er	24	
-紐約	new York	niǔ yuē	niu yue	31	
+紐約	New York	niǔ yuē	niu yue	31	
+
 紐澳	New Zealand	niǔ ào	niu ao	34	
 納采	Nazai	nà cǎi	na cai	43	
 納豆	Natto	nà dòu	na dou	44	
@@ -110627,7 +111009,8 @@
 大發雷霆	furious	dà fā léi tíng	da fa lei ting	4122	
 亞略	Ariopagus	yà lüè	ya lue	41	
 
-護衞長	captain of the guard	hù wèi cháng	hu wei chang	442	
+護衞長	captain of the guard	hù wèi zhǎng	hu wei zhang	443	
+
 智士	wise men	zhì shì	zhi shi	44	
 占卜師	fortune-teller	zhān bǔ shī	zhan bu shi	131	
 想成為	want to be	xiǎng chéng wèi	xiang cheng wei	324	
@@ -110659,7 +111042,8 @@
 亞米太	Amittai	yà mǐ tài	ya mi tai	434	
 尼尼微	Nineveh	ní ní wēi	ni ni wei	221	
 他施	Tarshish	tā shī	ta shi	11	
-這場	this	zhè chǎng	zhe chang	43	
+這場	this	zhè cháng	zhe chang	42	
+
 水手們	sailors	shuǐ shǒu men	shui shou men	331	
 寶座上	on throne	bǎo zuò shàng	bao zuo shang	344	
 粗麻衣	sackcloth	cū má yī	cu ma yi	121	
@@ -110813,7 +111197,8 @@
 群體	group	qún tǐ	qun ti	23	
 推手	contribute	tuī shǒu	tui shou	13	
 換而言之	in other words	huàn ér yán zhī	huan er yan zhi	4221	
-看不見	blind	kàn bù jiàn	kan bu jian	444	
+看不見	blind	kàn bu jiàn	kan bu jian	414	
+
 工學院	Institute of Technology	gōng xué yuàn	gong xue yuan	124	
 史丹佛	Stanford	shǐ dān fú	shi dan fu	312	
 實驗室	Lab	shí yàn shì	shi yan shi	244	
@@ -110899,7 +111284,8 @@
 傳講	preaching	chuán jiǎng	chuan jiang	23	
 苦撒	Chuza	kǔ sā	ku sa	31	
 蘇撒拿	Susanna	sū sā ná	su sa na	112	
-得不到	cannot get	dé bù dào	de bu dao	244	
+得不到	cannot get	dé bu dào	de bu dao	214	
+
 更糟糕	even worse	gèng zāo gāo	geng zao gao	411	
 是指	refers to	shì zhǐ	shi zhi	43	
 越多	more	yuè duō	yue duo	41	
@@ -110962,7 +111348,8 @@
 高過	higher than	gāo guò	gao guo	14	
 公諸於眾	made public	gōng zhū yú zhòng	gong zhu yu zhong	1124	
 望天	look to heaven	wàng tiān	wang tian	41	
-擘開	break	bò kāi	bo kai	41	
+擘開	break	bāi kāi	bai kai	11	
+
 
 
 革尼撒勒	Gennesaret	gé ní sā lēi	ge ni sa lei	2211	
@@ -110991,11 +111378,17 @@
 不合適	not suitable	bù hé shì	bu he shi	424	
 童年	childhood	tóng nián	tong nian	22	
 X聯	XPmart	X lián	X lian	12	
-做不到	cannot do it	zuò bù dào	zuo bu dao	444	
+做不到	cannot do it	zuò bu dào	zuo bu dao	414	
+
 進不了	cannot enter	jìn bù liǎo	jin bu liao	443	
 隻羊	sheep	zhī yáng	zhi yang	12	
 三個人	three people	sān gè rén	san ge ren	142	
-為你們	for you	wèi nǐ men	wei ni men	431	
+為你們	to you	wèi nǐ men	wei ni men	431	
+
+
+
+
+
 住棚節	Festival of Shelters	zhù péng jié	zhu peng jie	422	
 希臘人	Greeks	xī là rén	xi la ren	142	
 有人	have someone	yǒu rén	you ren	32	
@@ -111086,7 +111479,8 @@ X聯	XPmart	X lián	X lian	12
 吐了	spat	tǔ le	tu le	31	
 來歷	background	lái lì	lai li	24	
 逃開	run away	táo kāi	tao kai	21	
-不認得	don't recognise	bù rèn de	bu ren de	441	
+不認得	don't recognise	bú rèn de	bu ren de	241	
+
 等房子	when the house	děng fáng zi	deng fang zi	321	
 降卑	humble	jiàng bēi	jiang bei	41	
 回報	pay back	huí bào	hui bao	24	
@@ -111103,7 +111497,8 @@ X聯	XPmart	X lián	X lian	12
 分得	share	fēn dé	fen de	12	
 這兒子	this son	zhè ér zi	zhe er zi	421	
 復得	recover	fù dé	fu de	42	
-要好好	to take	yào hǎo hǎo	yao hao hao	433	
+要好好	to well	yào hǎo hǎo	yao hao hao	433	
+
 也不得不	also have to	yě bù dé bù	ye bu de bu	3424	
 
 大事上	large matters	dà shì shàng	da shi shang	444	
@@ -111117,7 +111512,8 @@ X聯	XPmart	X lián	X lian	12
 全民族	every nation	quán mín zú	quan min zu	222	
 引人	introduction	yǐn rén	yin ren	32	
 燒着	burning	shāo zhe	shao zhe	11	
-也不要	also must not	yě bù yào	ye bu yao	344	
+也不要	also must not	yě bú yào	ye bu yao	324	
+
 討回	recover	tǎo huí	tao hui	32	
 中學習	learn from it	zhōng xué xí	zhong xue xi	122	
 
@@ -111171,7 +111567,8 @@ PK	fight	PK	PK	1
 打瞌	dozing	dǎ kē	da ke	31	
 同學們	classmates	tóng xué men	tong xue men	221	
 視頻	video	shì pín	shi pin	42	
-點著	nodding	diǎn zhe	dian zhe	31	
+點著	burning	diǎn zhe	dian zhe	31	
+
 堂課	lesson	táng kè	tang ke	24	
 反了	inverted	fǎn le	fan le	31	
 惡作劇	prank	è zuò jù	e zuo ju	444	
@@ -111324,8 +111721,10 @@ PK	fight	PK	PK	1
 漸漸地	slowly	jiàn jiàn de	jian jian de	441	
 漠不關心	indifferent	mò bù guān xīn	mo bu guan xin	4411	
 不著	fail	bù zháo	bu zhao	42	
-結果子	bear fruit	jié guǒ zi	jie guo zi	231	
-說過	said	shuō guò	shuo guo	14	
+結果子	bear fruit	jiē guǒ zi	jie guo zi	131	
+
+說過	said	shuō guo	shuo guo	11	
+
 行過	did	xíng guo	xing guo	21	
 
 
@@ -111443,7 +111842,8 @@ PK	fight	PK	PK	1
 
 照着	according to	zhào zhe	zhao zhe	41	
 拼音	Pinyin	pīn yīn	pin yin	11	
-不在	not at	bù zài	bu zai	44	
+不在	not at	bú zài	bu zai	24	
+
 海豚	dolphin	hǎi tún	hai tun	32	
 猩猩	orangutan	xīng xing	xing xing	11	
 繞過	to bypass	rào guò	rao guo	44	
@@ -111484,8 +111884,6 @@ PK	fight	PK	PK	1
 聯成一氣	come together	lián chéng yī qì	lian cheng yi qi	2214	
 台車	car	tái chē	tai che	21	
 無止盡	endless	wú zhǐ jǐn	wu zhi jin	233	
-良人	beloved	liáng rén	liang ren	22	
-中最	most	zhōng zuì	zhong zui	14	
 也不錯	also not bad	yě bú cuò	ye bu cuo	324	
 尿袋	powerbank	niào dài	niao dai	44	
 是誰	who is it	shì sheí 	shi shei 	421	
@@ -111591,7 +111989,8 @@ PK	fight	PK	PK	1
 這麼(樣)	this way	zhè me yàng	zhe me yang	44	
 部分/份	Partial copies	bù fèn	bu fen	44	
 狗兒	Dog	gǒu ér	gou er	32	
-從來	Never	cóng lái	cong lai	22	
+從來	start over	cóng lái	cong lai	22	
+
 下筆	Write down	xià bǐ	xia bi	43	
 人手	manpower	rén shǒu 	ren shou 	231	
 上好	On the good	shàng hǎo	shang hao	43	
@@ -111607,10 +112006,6 @@ PK	fight	PK	PK	1
 領隊	Leader	lǐng duì	ling dui	34	
 擔當	To play	dān dāng	dan dang	11	
 據悉	It is reported that	jù xī	ju xi	41	
-人事	personnel	rén shì	ren shi	24	
-人力	Manpower	rén lì	ren li	24	
-人心	People	rén xīn	ren xin	21	
-人才	Talent	rén cái 	ren cai 	221	
 亞吉	Achish	yà jí	ya ji	42	
 來往	From	lái wǎng	lai wang	23	
 帶領	lead	dài lǐng 	dai ling 	431	
@@ -111641,7 +112036,8 @@ PK	fight	PK	PK	1
 看不見他	can't see him	kàn bù jiàn tā	kan bu jian ta	4441	
 目不轉睛地	intently	mù bù zhuǎn jīng de	mu bu zhuan jing de	44311	
 恆切地	persistently	héng qiè de	heng qie de	241	
-一頭	once	yī tóu	yi tou	12	
+一頭	one	yì tóu	yi tou	42	
+
 亞革大馬	Akeldama	yà gé dà mǎ	ya ge da ma	4243	
 巴撒巴	Barsabbas	bā sā bā	ba sa ba	111	
 猶士都	Justus	yóu shì dū	you shi du	241	
@@ -111681,7 +112077,8 @@ PK	fight	PK	PK	1
 一定得	must be	yī dìng deǐ	yi ding dei	143	
 真實的	real	zhēn shí de	zhen shi de	121	
 確切的	real	què qiè de	que qie de	441	
-你得	you must	nǐ deǐ	ni dei	33	
+你得	you must	nǐ dé	ni de	32	
+
 冬方	in winter	dōng fāng	dong fang	11	
 塵寰	this world	chén huán	chen huan	22	
 寶血	precious blood	bǎo xiè	bao xie	34	
@@ -111756,7 +112153,8 @@ PK	fight	PK	PK	1
 憤怒地	angry	fèn nù de	fen nu de	441	
 從容地	Calmly	cóng róng de	cong rong de	221	
 天開了	heaven opened	tiān kāi le	tian kai le	111	
-丟在	throw on	diū zà	diu za	14	
+丟在	throw on	diū zài	diu zai	14	
+
 喊着	shout	hǎn zhe	han zhe	31	
 徐琬筑	Alice Hsu	xú wǎn zhù	xu wan zhu	234	
 琬筑	Alice	wǎn zhù	wan zhu	34	
@@ -111781,6 +112179,8 @@ PK	fight	PK	PK	1
 拉去	led	lā qù	la qu	14	
 向前走着	moved along	xiàng qián zǒu zhe	xiang qian zou zhe	4231	
 為他	for him	wèi tā	wei ta	41	
+
+
 歡喜地	joyful	huān xǐ de	huan xi de	131	
 亞鎖都	Azotus	yà suǒ dū	ya suo du	431	
 凱撒利亞	Caesarea	kǎi sā lì yà	kai sa li ya	3144	
@@ -111828,7 +112228,8 @@ PK	fight	PK	PK	1
 曲曲折折	twisted	qū qū zhé zhé	qu qu zhe zhe	1122	
 更美好	better	gèng měi hǎo	geng mei hao	433	
 像大衛	Like David	xiàng dà wèi	xiang da wei	444	
-不好	bad	bù hǎo	bu hao	43	
+不好	not easy	bù hǎo	bu hao	43	
+
 送給	give to	sòng gěi	song gei	43	
 人家裏	man's house	rén jiā lǐ	ren jia li	213	
 也賜給	also gave	yě cì gěi	ye ci gei	343	
@@ -112448,3 +112849,1003 @@ PK	fight	PK	PK	1
 奏報	report	zòu bào	zou bao	44	
 情理	sense	qíng lǐ	qing li	23	
 不合情理	unreasonable	bù hé qíng lǐ	bu he qing li	4223	
+從小	from childhood	cóng xiǎo	cong xiao	23	
+懷著	pregnant	huái zhe	huai zhe	21	
+
+不可信	incredible	bù kě xìn	bu ke xin	434	
+狠狠地	fiercely	hěn hěn de	hen hen de	331	
+遠赴	to go	yuǎn fù	yuan fu	34	
+射下來	shone down	shè xià lái	she xia lai	442	
+見到	seen	jiàn dào	jian dao	44	
+說服	convince	shuō fú	shuo fu	12	
+站起身	stood up	zhàn qǐ shēn	zhan qi shen	431	
+仔細地	carefully	zǐ xì de	zi xi de	341	
+猶流	Julius	yóu liú	you liu	22	
+亞大米田	Adramyttium	yà dà mǐ tián	ya da mi tian	4432	
+難保持	hard to maintain	nán bǎo chí	nan bao chi	232	
+呂家	Lycia	lǚ jiā	lu jia	31	
+每拉	Myra	měi lā	mei la	31	
+革尼土	Cnidus	gé ní tǔ	ge ni tu	223	
+撒摩尼	Salmone	sā mó ní	sa mo ni	122	
+撒摩尼角	Cape of Salmone	sā mó ní jiǎo	sa mo ni jiao	1223	
+艱難地	difficulty	jiān nán de	jian nan de	121	
+拉西亞	Lasea	lā xī yà	la xi ya	114	
+佳澳	Fair Havens	jiā ào	jia ao	14	
+深秋	late autumn	shēn qiū	shen qiu	11	
+非尼基	Phoenix	fēi ní jī	fei ni ji	121	
+微微地	lightly	wéi wéi de	wei wei de	221	
+貼着	stuck	tiē zhe	tie zhe	11	
+高大的小島	island of Cauda	gāo dà de xiǎo dǎo	gao da de xiao dao	14133	
+船身	hull	chuán shēn	chuan shen	21	
+捆牢	bound	kǔn láo	kun lao	32	
+賽耳底	Syrtis	sài ěr dǐ	sai er di	433	
+緩慢地	slowly	huǎn màn de	huan man de	341	
+擊打着	battered	jí dǎ zhe	ji da zhe	231	
+肆虐了	raged	sì nüè le	si nue le	441	
+夜裏	at night	yè lǐ	ye li	43	
+平安無事	safety	píng ān wú shì	ping an wu shi	2124	
+吹襲了	beaten	chuī xí le	chui xi le	121	
+測錘	sounding	cè chuí	ce chui	42	
+企盼着	wished for	qǐ pàn zhe	qi pan zhe	341	
+棄船	abandon ship	qì chuán	qi chuan	42	
+點東西	something	diǎn dōng xī	dian dong xi	311	
+拋進海裏	throw overboard	pāo jìn hǎi lǐ	pao jin hai li	1433	
+水淺處	shallow water	shuǐ qiǎn chù	shui qian chu	334	
+船錨	anchor	chuán máo	chuan mao	22	
+前帆	foresail	qián fān	qian fan	21	
+撞上了	hit	zhuàng shàng le	zhuang shang le	441	
+游上	swim to	yóu shàng	you shang	24	
+一捆	a bundle	yì kǔn	yi kun	43	
+扔進	throw into	rēng jìn	reng jin	14	
+交頭接耳地	whispered	jiāo tóu jiē ěr de	jiao tou jie er de	12131	
+殺人犯	murderer	shā rén fàn	sha ren fan	124	
+也不容	still won't	yě bù róng	ye bu rong	342	
+甩進	shook off	shuǎi jìn	shuai jin	34	
+改變了	changed	gǎi biàn le	gai bian le	341	
+不遠	near	bù yuǎn	bu yuan	43	
+部百流	Publius	bù bǎi liú	bu bai liu	432	
+友善地	friendly	yǒu shàn de	you shan de	341	
+患了	suffered from	huàn le	huan le	41	
+發起燒	have fever	fā qǐ shāo	fa qi shao	131	
+預備了	prepared	yù bèi le	yu bei le	441	
+雙子神	twin gods	shuāng zǐ shén	shuang zi shen	132	
+敍拉古	Syracuse	xù lā gǔ	xu la gu	413	
+利基翁	Rhegium	lì jī wēng	li ji weng	411	
+沿海岸線	along the coast	yán hǎi àn xiàn	yan hai an xian	2344	
+部丟利	Puteoli	bù diū lì	bu diu li	414	
+亞比烏	Appian	yà bǐ wū	ya bi wu	431	
+亞比烏大道	Appian Way	yà bǐ wū dà dào	ya bi wu da dao	43144	
+三館	Three Taverns	sān guǎn	san guan	13	
+看守着	guarded	kān shǒu zhe	kan shou zhe	131	
+
+審問過	interrogated	shěn wèn guo	shen wen guo	341	
+之所以	like this	zhī suǒ yǐ	zhi suo yi	133	
+所盼望	hope	suǒ pàn wàng	suo pan wang	344	
+一大羣	a big crowd	yí dà qún	yi da qun	242	
+見證了	witnessed	jiàn zhèng le	jian zheng le	441	
+
+上帝國	Kingdom of God	shàng dì guó	shang di guo	442	
+一直到	through until	yì zhí dào	yi zhi dao	424	
+他的話	his words	tā de huà	ta de hua	114	
+一來一往地	one by one	yì lái yì wǎng de	yi lai yi wang de	42431	
+
+聽不到	cannot hear	tīng bu dào	ting bu dao	114	
+閉起來	closed	bì qǐ lái	bi qi lai	432	
+也賜給了	also given	yě cì gěi le	ye ci gei le	3431	
+住了	lived	zhù le	zhu le	41	
+救不了	couldn't save	jiù bu liǎo	jiu bu liao	413	
+也不能	also can't	yě bù néng	ye bu neng	342	
+再也	again	zài yě	zai ye	43	
+能完全	can completely	néng wán quán	neng wan quan	222	
+和平安	and peace	hé píng ān	he ping an	221	
+為敵	enemies	wéi dí	wei di	22	
+若沒有	if haven't	ruò méi yǒu	ruo mei you	423	
+因你們	because of you	yīn nǐ men	yin ni men	131	
+依從	follow	yī cóng	yi cong	12	
+等待着	waiting	děng dài zhe	deng dai zhe	341	
+
+受造	created	shòu zào	shou zao	44	
+屈從	subdue	qū cóng	qu cong	12	
+受造物	creation	shòu zào wù	shou zao wu	444	
+就連	even	jiù lián	jiu lian	42	
+初嘗	foretaste	chū cháng	chu chang	12	
+言表	unspeakable	yán biǎo	yan biao	23	
+召來	called	zhào lái	zhao lai	42	
+豈不會	how would not	qǐ bú huì	qi bu hui	324	
+也不敢	not afraid	yě bù gǎn	ye bu gan	343	
+代求	on behalf of	dài qiú	dai qiu	42	
+大獲全勝	great victory	dà huò quán shèng	da huo quan sheng	4424	
+勸你們	advise you	quàn nǐ men	quan ni men	431	
+方式	the way	fāng shì	fang shi	14	
+自視	self	zì shì	zi shi	44	
+過高	too high	guò gāo	guo gao	41	
+誠實地	honestly	chéng shí de	cheng shi de	221	
+
+相屬	belonging	xiāng shǔ	xiang shu	13	
+
+按着	pressed	àn zhe	an zhe	41	
+好好地	well	hǎo hǎo de	hao hao de	331	
+施與	rich	shī yǔ	shi yu	13	
+認真地	seriously	rèn zhēn de	ren zhen de	411	
+惡事	evil	è shì	e shi	44	
+持之以恆地	persistently	chí zhī yǐ héng de	chi zhi yi heng de	21321	
+心高氣傲	arrogant	xīn gāo qì ào	xin gao qi ao	1144	
+以惡報惡	evil for evil	yǐ è bào è	yi e bao e	3444	
+絕不要	never	jué bú yào	jue bu yao	224	
+義怒	indignant	yì nù	yi nu	44	
+下願	taken a vow	xià yuàn	xia yuan	44	
+彼個	the one	bǐ ge	bi ge	31	
+通嗎	please	tōng ma	tong ma	11	
+嘡啷	clanging	tāng lāng	tang lang	11	
+父兄	father and brother	fù xiōng	fu xiong	41	
+熔流	melt	róng liú	rong liu	22	
+要緊緊	want to tightly	yào jǐn jǐn	yao jin jin	433	
+萬邦	all tribes	wàn bāng	wan bang	41	
+裂天	rend the heavens	liè tiān	lie tian	41	
+草埔	meadow	cǎo bù	cao bu	34	
+度的假	vacation	dù de jià	du de jia	414	
+感恩節	Thanksgiving	gǎn ēn jié	gan en jie	312	
+裝飾物	decoration	zhuāng shì wù	zhuang shi wu	144	
+大學生活	university life	dà xué shēng huó	da xue sheng huo	4212	
+最美好	most beautiful	zuì měi hǎo	zui mei hao	433	
+生命中	in life	shēng mìng zhōng	sheng ming zhong	141	
+條街	street	tiáo jiē	tiao jie	21	
+思緒	thoughts	sī xù	si xu	14	
+瞑思	meditation	míng sī	ming si	21	
+瑜迦	yoga	yú jiā	yu jia	21	
+獨處	alone	dú chǔ	du chu	23	
+獨生子	only son	dú shēng zǐ	du sheng zi	213	
+投胎	incarnated	tóu tāi	tou tai	21	
+比拉多	Pilate	bǐ lā duō	bi la duo	311	
+米糧	bread	mǐ liáng	mi liang	32	
+談戀愛	fall in love	tán liàn ài	tan lian ai	244	
+不成才	not measure up	bù chéng cái	bu cheng cai	422	
+真正行	real work	zhēn zhèng xíng	zhen zheng xing	142	
+怎麼過	how pass	zěn me guò	zen me guo	314	
+約撒答	Jehozadak	yuē sā dá	yue sa da	112	
+大豐收	rich harvest	dà fēng shōu	da feng shou	411	
+巴蘭的	of Paran	bā lán de	ba lan de	121	
+希倫	Helon	xī lún	xi lun	12	
+此號	these	cǐ hào	ci hao	34	
+乏味	boring	fá wèi	fa wei	24	
+偏好	prefer	piān hǎo	pian hao	13	
+挑食	picky	tiāo shí	tiao shi	12	
+根深蒂固	very deeply	gēn shēn di gù	gen shen di gu	1114	
+不安全	unsafe	bù ān quán	bu an quan	412	
+頻道	channel	pín dào	pin dao	24	
+有線	cable	yǒu xiàn	you xian	34	
+音量	volume	yīn liàng	yin liang	14	
+電臺	radio station	diàn tái	dian tai	42	
+插播	insert	chā bō	cha bo	11	
+全信	believe everything	quán xìn	quan xin	24	
+聊天室	chatroom	liáo tiān shì	liao tian shi	214	
+瑞克	Rick	ruì kè	rui ke	44	
+滅無	to destruction	miè wú	mie wu	42	
+不愛	do not love	bú ài	bu ai	24	
+移山	move mountains	yí shān	yi shan	21	
+不記住	do not remember	bú jì zhù	bu ji zhu	244	
+
+為樂	glad	wéi lè	wei le	24	
+永不放棄	never give up	yǒng bú fàng qì	yong bu fang qi	3244	
+清清楚楚地	clearly	qīng qīng chǔ chǔ de	qing qing chu chu de	11331	
+工作得	worked	gōng zuò de	gong zuo de	141	
+負有	condemn	fù yǒu	fu you	43	
+用地上	from earth	yòng dì shàng	yong di shang	444	
+正步向	heading to	zhèng bù xiàng	zheng bu xiang	444	
+存到	existing	cún dào	cun dao	24	
+轉化成	transformed into	zhuǎn huà chéng	zhuan hua cheng	342	
+勝過了	defeated	shèng guò le	sheng guo le	441	
+熱心地	enthusiastically	rè xīn de	re xin de	411	
+
+白費	wasted	bái fèi	bai fei	24	
+看不到	cannot see	kàn bu dào	kan bu dao	414	
+關乎	about	guān hū	guan hu	11	
+照亮了	lit up	zhào liàng le	zhao liang le	441	
+這光	this light	zhè guāng	zhe guang	41	
+盛載	load	chéng zài	cheng zai	24	
+盛載着	filled	chéng zài zhe	cheng zai zhe	241	
+清楚地	clearly	qīng chǔ de	qing chu de	131	
+衰殘	decay	shuāi cán	shuai can	12	
+來概括	to summarize	lái gài kuò	lai gai kuo	244	
+束縛了	subjected to	shù fù le	shu fu le	441	
+不和	discord	bù hé	bu he	42	
+荒宴無度	wild parties	huāng yàn wú dù	huang yan wu du	1424	
+告訴過	told	gào su guo	gao su guo	411	
+結出	produces	jié chū	jie chu	21	
+愛子	beloved son	ài zǐ	ai zi	43	
+赦免了	forgave	shè miǎn le	she mian le	431	
+顯明了	revealed	xiǎn míng le	xian ming le	321	
+賜給了	gave	cì gěi le	ci gei le	431	
+以此	with this	yǐ cǐ	yi ci	33	
+時常	constantly	shí cháng	shi chang	22	
+掌權者	authority	zhǎng quán zhě	zhang quan zhe	323	
+
+有能者	powers	yǒu néng zhě	you neng zhe	323	
+
+置於	placed	zhì yú	zhi yu	42	
+不可見	invisible	bù kě jiàn	bu ke jian	434	
+處在	at	chǔ zài	chu zai	34	
+
+如此地	in this way	rú cǐ de	ru ci de	231	
+拯救了	saved	zhěng jiù le	zheng jiu le	341	
+創造了	created	chuàng zào le	chuang zao le	441	
+為榮	proud	wéi róng	wei rong	22	
+約中	covenant	yuē zhōng	yue zhong	11	
+拆除了	broke down	chāi chú le	chai chu le	121	
+聯合成	combined into	lián hé chéng	lian he cheng	222	
+羣體	group	qún tǐ	qun ti	23	
+結束了	ended	jié shù le	jie shu le	241	
+締造了	created	dì zào le	di zao le	441	
+和好	reconcile	hé hǎo	he hao	23	
+消滅了	wiped out	xiāo miè le	xiao mie le	141	
+房角基石	cornerstone	fáng jiǎo jī shí	fang jiao ji shi	2312	
+巧妙地	expertly	qiǎo miào de	qiao miao de	341	
+擦去	wipe it	cā qù	ca qu	14	
+同屬	the same	tóng shǔ	tong shu	23	
+配得上	worthy of	pèi de shàng	pei de shang	414	
+
+相聯	associated	xiāng lián	xiang lian	12	
+蒙了	received	méng le	meng le	21	
+有了	there	yǒu le	you le	31	
+達至	reached	dá zhì	da zhi	24	
+蕩去	go away	dàng qù	dang qu	44	
+成長得	growing up	chéng zhǎng de	cheng zhang de	231	
+
+各部分	each part	gè bù fen	ge bu fen	441	
+
+完美地	perfectly	wán měi de	wan mei de	231	
+堅定不移地	unswervingly	jiān dìng bù yí de	jian ding bu yi de	14421	
+有血有肉	flesh and blood	yǒu xuè yǒu ròu	you xue you rou	3434	
+站立得	stand up	zhàn lì de	zhan li de	441	
+束上	put on	shù shàng	shu shang	44	
+護胸甲	breastplate	hù xiōng jiǎ	hu xiong jia	413	
+代禱	intercession	dài dǎo	dai dao	43	
+全心全意地	whole-heartedly	quán xīn quán yì de	quan xin quan yi de	21241	
+看為	seek	kàn wéi	kan wei	42	
+要緊抓	want to cling to	yào jǐn zhuā	yao jin zhua	431	
+不放	hold	bú fàng	bu fang	24	
+放棄了	gave up	fàng qì le	fang qi le	441	
+取了	took	qǔ le	qu le	31	
+都不要	do not want	dōu bú yào	dou bu yao	124	
+自豪地	proudly	zì háo de	zi hao de	421	
+空跑	lose race	kōng pǎo	kong pao	13	
+也不是	is not	yě bú shì	ye bu shi	324	
+不厭其煩地	not tired	bú yàn qí fán de	bu yan qi fan de	24221	
+
+犬類	dogs	quǎn lèi	quan lei	34	
+割損	mutilate	gē sǔn	ge sun	13	
+人為的	man-made	rén wéi de	ren wei de	221	
+有理由	reasonable	yǒu lǐ yóu	you li you	332	
+一分子	a member	yí fēn zǐ	yi fen zi	213	
+有所謂	so-called	yǒu suǒ wèi	you suo wei	334	
+毫不留情地	mercilessly	háo bù liú qíng de	hao bu liu qing de	24221	
+違犯過	violated	wéi fàn guo	wei fan guo	241	
+
+是的	yes	shì de	shi de	41	
+得來	come	dé lái	de lai	22	
+赴死	go to die	fù sǐ	fu si	43	
+先得着了	first got it	xiān dé zháo le	xian de zhao le	1221	
+某一點	a little bit	mǒu yì diǎn	mou yi dian	343	
+取得了	obtained	qǔ dé le	qu de le	321	
+為榜樣	as a role model	wéi bǎng yàng	wei bang yang	234	
+流着	flowing	liú zhe	liu zhe	21	
+為神明	as a god	wéi shén míng	wei shen ming	222	
+注音	phonetic	zhù yīn	zhu yin	41	
+勞心勞力	agonised	láo xīn láo lì	lao xin lao li	2124	
+怎樣地	how	zěn yàng de	zen yang de	341	
+充充足足	filled	chōng chōng zú zú	chong chong zu zu	1122	
+蘊藏着	hidden	yùn cáng zhe	yun cang zhe	421	
+割去	cut off	gē qù	ge qu	14	
+活過來	come alive	huó guò lái	huo guo lai	242	
+羞辱了	humiliated	xiū rǔ le	xiu ru le	131	
+獲得了	obtained	huò dé le	huo de le	421	
+惡慾	lust	è yù	e yu	44	
+惡毒	malicious	è dú	e du	42	
+創造主	creator	chuàng zào zhǔ	chuang zao zhu	443	
+開化	civilised	kāi huà	kai hua	14	
+未開化	uncivilised	wèi kāi huà	wei kai hua	414	
+饒恕了	forgave	ráo shù le	rao shu le	241	
+和諧地	in harmony	hé xié de	he xie de	221	
+
+豐豐富富地	abundantly	fēng fēng fù fù de	feng feng fu fu de	11441	
+獨一	only	dú yī	du yi	21	
+寫的信	written letter	xiě de xìn	xie de xin	314	
+恆常地	constantly	héng cháng de	heng chang de	221	
+揀選了	chose	jiǎn xuǎn le	jian xuan le	331	
+帶來了	brought	dài lái le	dai lai le	421	
+效法了	imitated	xiào fǎ le	xiao fa le	431	
+滔滔不絕地	keep on	tāo tāo bù jué de	tao tao bu jue de	11421	
+脫離了	separated	tuō lí le	tuo li le	121	
+一類	type	yí lèi	yi lei	24	
+告誡過	warned	gào jiè guo	gao jie guo	441	
+顯示出	showing	xiǎn shì chū	xian shi chu	341	
+要更加	want more	yào gèng jiā	yao geng jia	441	
+喊聲	call	hǎn shēng	han sheng	31	
+天使長	archangel	tiān shǐ zhǎng	tian shi zhang	133	
+呼喊聲	shout	hū hǎn shēng	hu han sheng	131	
+號角聲	trumpet call	hào jiǎo shēng	hao jiao sheng	431	
+雲裏	in the clouds	yún lǐ	yun li	23	
+蓬勃地	flourishing	péng bó de	peng bo de	221	
+也不斷	also constantly	yě bú duàn	ye bu duan	324	
+
+正當的	righteous	zhèng dāng de	zheng dang de	411	
+不使	not causing	bù shǐ	bu shi	43	
+有權	have the right	yǒu quán	you quan	32	
+吩咐過	ordered	fēn fù guo	fen fu guo	141	
+造來	created	zào lái	zao lai	42	
+你得到	you received	nǐ dé dào	ni de dao	324	
+表現出	presented	biǎo xiàn chū	biao xian chu	341	
+不敬重	disrespectful	bú jìng zhòng	bu jing zhong	244	
+辛勤地	work harder	xīn qín de	xin qin de	121	
+蒙愛	loved	méng ài	meng ai	24	
+挑字眼	picky with words	tiāo zì yǎn	tiao zi yan	143	
+背棄了	abandoned	bèi qì le	bei qi le	441	
+
+帶不走	cannot bring	dài bu zǒu	dai bu zou	413	
+見證人	witnesses	jiàn zhèng rén	jian zheng ren	442	
+認信	testify	rèn xìn	ren xin	44	
+本丟	Pontius	běn diū	ben diu	31	
+堅定地	firmly	jiān dìng de	jian ding de	141	
+配受	blessed	pèi shòu	pei shou	44	
+明亮得	so bright	míng liàng de	ming liang de	241	
+用錢財	use money	yòng qián cái	yong qian cai	422	
+不敬虔	godless	bú jìng qián	bu jing qian	242	
+窘逐	persecuted	jiǒng zhú	jiong zhu	32	
+全會	council	quán huì	quan hui	24	
+大馬色	Damascus	dà mǎ sè	da ma se	434	
+受刑罰	be punished	shòu xíng fá	shou xing fa	422	
+中晝	noon	zhōng zhòu	zhong zhou	14	
+忽然對	suddenly	hū rán duì	hu ran dui	124	
+圍纍	surrounded	wéi léi	wei lei	22	
+互相及	companion	hù xiāng jí	hu xiang ji	412	
+義的	righteous	yì de	yi de	41	
+延延	delay	yán yán	yan yan	22	
+象外	trance	xiàng wài	xiang wai	44	
+關監	imprisoned	guān jiān	guan jian	11	
+洗除	wash away	xǐ chú	xi chu	32	
+徛倚	standing there	jì yǐ	ji yi	43	
+同歡喜	agreeing	tóng huān xǐ	tong huan xi	213	
+嘩嘩	yelled	huā huā	hua hua	11	
+土粉	dust	tǔ fěn	tu fen	33	
+抵仔	while	dǐ zǐ	di zi	33	
+拍問	beat	pāi wèn	pai wen	14	
+全公會	whole council	quán gōng huì	quan gong hui	214	
+邊仔	officer	biān zǐ	bian zi	13	
+講者	spoken	jiǎng zhě	jiang zhe	33	
+就連鞭	to whip	jiù lián biān	jiu lian bian	421	
+照咱	according to our	zhào zán	zhao zan	42	
+照我	to me	zhào wǒ	zhao wo	43	
+衝康	disturb	chōng kāng	chong kang	11	
+逗陣	together	dòu zhèn	dou zhen	44	
+某子	mother and child	mǒu zi	mou zi	31	
+浪子	playboy	làng zi	lang zi	41	
+沒路用	useless	méi lù yòng	mei lu yong	244	
+坎坷	hard	kǎn ke	kan ke	31	
+兩光	no good	liǎng guāng	liang guang	31	
+橫豎	all	héng shù	heng shu	24	
+甘哪	like	gān nǎ	gan na	13	
+拉拉鍊	zip	lā lā liàn	la la lian	114	
+忽冷忽熱	hot and cold	hū lěng hū rè	hu leng hu re	1314	
+女友	girlfriend	nǚ yǒu	nu you	33	
+蝴蝶袖	bingo wings	hú dié xiù	hu die xiu	224	
+腰贅肉	muffin top	yāo zhuì ròu	yao zhui rou	144	
+
+大象腿	thunder thighs	dà xiàng tuǐ	da xiang tui	443	
+看妹	check out girls	kàn mèi	kan mei	44	
+日夜不停地	day and night	rì yè bù tíng de	ri ye bu ting de	44421	
+羅以	Lois	luó yǐ	luo yi	23	
+友妮基	Eunice	yǒu nī jī	you ni ji	311	
+挑旺	fan	tiǎo wàng	tiao wang	34	
+所賜給	give	suǒ cì gěi	suo ci gei	343	
+訂下了	set down	dìng xià le	ding xia le	441	
+粉碎了	crushed	fěn suì le	fen sui le	341	
+照明了	illuminated	zhào míng le	zhao ming le	421	
+
+傳道者	preacher	chuán dào zhě	chuan dao zhe	243	
+離棄了	abandoned	lí qì le	li qi le	241	
+腓吉路	Phygelus	féi jí lù	fei ji lu	224	
+黑摩其尼	Hermogenes	hēi mó qí ní	hei mo qi ni	1222	
+也不例外	no exception	yě bú lì wài	ye bu li wai	3244	
+阿尼色弗	Onesiphorus	ā ní sè fú	a ni se fu	1242	
+為止	until	wéi zhǐ	wei zhi	23	
+全無	none	quán wú	quan wu	22	
+易受	vulnerable	yì shòu	yi shou	44	
+雅尼	Jannes	yǎ ní	ya ni	32	
+佯庇	Jambres	yáng bì	yang bi	24	
+經受了	suffered	jīng shòu le	jing shou le	141	
+遭受過	suffered	zāo shòu guo	zao shou guo	141	
+下寫的	written down	xià xiě de	xia xie de	431	
+去教導	to teach	qù jiào dǎo	qu jiao dao	443	
+有益處	beneficial	yǒu yì chù	you yi chu	344	
+腓利門	Philemon	féi lì mén	fei li men	242	
+對所有	for all	duì suǒ yǒu	dui suo you	433	
+所得	earn	suǒ dé	suo de	32	
+給了	gave	gěi le	gei le	31	
+怪癖	quirk	guài pǐ	guai pi	43	
+你好像	it's like you're	nǐ hǎo xiàng	ni hao xiang	334	
+
+陪我	stay with me	péi wǒ	pei wo	23	
+想不想	do you want	xiǎng bù xiǎng	xiang bu xiang	343	
+回溯	retrieve	huí sù	hui su	24	
+來著	came	lái zhe	lai zhe	21	
+摳摳	raise	kōu kōu	kou kou	11	
+讀檔	library	dú dàng	du dang	24	
+坦然無懼	confident	tǎn rán wú jù	tan ran wu ju	3224	
+坦然無懼地	boldly	tǎn rán wú jù de	tan ran wu ju de	32241	
+打通了	opened up	dǎ tōng le	da tong le	311	
+管理着	rules over	guǎn lǐ zhe	guan li zhe	331	
+灑上了	sprinkled	sǎ shàng le	sa shang le	341	
+所認定	that we recognise	suǒ rèn dìng	suo ren ding	344	
+可信賴	reliable	kě xìn lài	ke xin lai	344	
+惶恐地	fearfully	huáng kǒng de	huang kong de	231	
+
+怒火	burning anger	nù huǒ	nu huo	43	
+不聖潔	unholy	bú shèng jié	bu sheng jie	242	
+試想	imagine	shì xiǎng	shi xiang	43	
+手裏	in hand	shǒu lǐ	shou li	33	
+必得到	will get it	bì dé dào	bi de dao	424	
+義人們	righteous people	yì rén men	yi ren men	421	
+轉離	turn away	zhuǎn lí	zhuan li	32	
+贏得了	won	yíng dé le	ying de le	221	
+一聲令下	command	yì shēng lìng xià	yi sheng ling xia	4144	
+
+都不是	neither	dōu bú shì	dou bu shi	124	
+救了	saved	jiù le	jiu le	41	
+從未	never	cóng wèi	cong wei	24	
+順服了	obeyed	shùn fú le	shun fu le	421	
+定了	decided	dìng le	ding le	41	
+遵從了	followed	zūn cóng le	zun cong le	121	
+繼承了	inherited	jì chéng le	ji cheng le	421	
+滿懷信心地	confidently	mǎn huái xìn xīn de	man huai xin xin de	32411	
+數不勝數	countless	shǔ bú shèng shǔ	shu bu sheng shu	3243	
+發生過	happened before	fā shēng guo	fa sheng guo	111	
+看見了	saw	kàn jiàn le	kan jian le	441	
+異鄉人	foreigner	yì xiāng rén	yi xiang ren	412	
+漂泊者	nomad	piào bó zhě	piao bo zhe	423	
+
+為祭	as an offering	wéi jì	wei ji	24	
+得回	get back	dé huí	de hui	22	
+屈身	bowed down	qū shēn	qu shen	11	
+
+藏了	hidden	cáng le	cang le	21	
+違抗	defy	wéi kàng	wei kang	24	
+死裏	the dead	sǐ lǐ	si li	33	
+也不願意	not willing	yě bú yuàn yì	ye bu yuan yi	3244	
+罪中	in sin	zuì zhōng	zui zhong	41	
+期待着	looking forward to	qí dāi zhe	qi dai zhe	211	
+有福	blessed	yǒu fú	you fu	32	
+不懼怕	not afraid	bú jù pà	bu ju pa	244	
+注視着	watching	zhù shì zhe	zhu shi zhe	441	
+走過了	passed by	zǒu guò le	zou guo le	341	
+繞着	around	rào zhe	rao zhe	41	
+說下去	saying	shuō xià qù	shuo xia qu	144	
+耶弗他	Jephthah	yē fú tā	ye fu ta	121	
+秉公行義	ruled with justice	bǐng gōng xíng yì	bing gong xing yi	3124	
+羣獅	lions	qún shī	qun shi	21	
+熄滅了	extinguished	xī miè le	xi mie le	141	
+逃過	escaped	táo guò	tao guo	24	
+擊退了	repelled	jí tuì le	ji tui le	241	
+劍刃	blade	jiàn rèn	jian ren	44	
+得回了	got back	dé huí le	de hui le	221	
+復生	resurrection	fù shēng	fu sheng	41	
+鋸成	sawed into	jù chéng	ju cheng	42	
+窮困	poor	qióng kùn	qiong kun	24	
+山洞	cave	shān dòng	shan dong	14	
+地穴	holes in the ground	dì xué	di xue	42	
+圍繞着	surround	wéi rào zhe	wei rao zhe	241	
+重負	weight	zhòng fù	zhong fu	44	
+堅忍地	endurance	jiān rěn de	jian ren de	131	
+得勝者	winner	dé shèng zhě	de sheng zhe	243	
+開啓	started	kāi qǐ	kai qi	13	
+輕看	looked down on	qīng kàn	qing kan	14	
+忍受了	endured	rěn shòu le	ren shou le	341	
+想一想	think about it	xiǎng yī xiǎng	xiang yi xiang	313	
+尚且	still	shàng qiě	shang qie	43	
+豈不	should not	qǐ bù	qi bu	34	
+
+有分	share in	yǒu fèn	you fen	34	
+發軟	shaky	fā ruǎn	fa ruan	13	
+大得	great	dà dé	da de	42	
+不安穩	unstable	bù ān wěn	bu an wen	413	
+為卑	humbled	wéi bēi	wei bei	21	
+地裏	in the ground	dì lǐ	di li	43	
+快快地	quickly	kuài kuài de	kuai kuai de	441	
+並不能	does not	bìng bù néng	bing bu neng	442	
+對着	against	duì zhe	dui zhe	41	
+一眼	look at	yì yǎn	yi yan	43	
+不忘記	don't forget	bú wàng jì	bu wang ji	244	
+名貴	expensive	míng guì	ming gui	24	
+不正是	isn't it	bú zhèng shì	bu zheng shi	244	
+放在	put on	fàng zài	fang zai	44	
+星星之火	a small spark	xīng xīng zhī huǒ	xing xing zhi huo	1113	
+點着	done	diǎn zháo	dian zhao	32	
+躁動	uncontrollable	zào dòng	zao dong	44	
+惡言	unkind speech	è yán	e yan	42	
+完全地	completely	wán quán de	wan quan de	221	
+活石	living stone	huó shí	huo shi	22	
+祭司	priest	jì sī	ji si	41	
+中間人	mediator	zhōng jiān rén	zhong jian ren	112	
+必不至	will not be	bì bú zhì	bi bu zhi	424	
+房角	house corner	fáng jiǎo	fang jiao	23	
+絆人	stumbling people	bàn rén	ban ren	42	
+得着了	got	dé zháo le	de zhao le	221	
+暫住者	temporary resident	zàn zhù zhě	zan zhu zhe	443	
+寄居者	foreigner	jì jū zhě	ji ju zhe	413	
+謹慎地	carefully	jǐn shèn de	jin shen de	341	
+過高尚	too good	guò gāo shàng	guo gao shang	414	
+愚蠢地	foolishly	yú chǔn de	yu chun de	231	
+為藉口	as an excuse	wéi jiè kǒu	wei jie kou	243	
+
+耐心地	patiently	nài xīn de	nai xin de	411	
+責打	blame	zé dǎ	ze da	23	
+腳蹤	footsteps	jiǎo zōng	jiao zong	31	
+犯過	committed	fàn guo	fan guo	41	
+騙過	cheated	piàn guo	pian guo	41	
+背負了	bore	bèi fù le	bei fu le	441	
+轉向了	turned	zhuǎn xiàng le	zhuan xiang le	341	
+信從	believe	xìn cóng	xin cong	42	
+散發着	emitting	sàn fā zhe	san fa zhe	411	
+說謊話	tell lies	shuō huǎng huà	shuo huang hua	134	
+離惡	away from evil	lí è	li e	24	
+問起	ask	wèn qǐ	wen qi	43	
+穩妥地	safely	wěn tuǒ de	wen tuo de	331	
+遭受了	suffered	zāo shòu le	zao shou le	141	
+辱罵還辱罵	evil for evil	rǔ mà huán rǔ mà	ru ma huan ru ma	34234	
+不順服	disobey	bú shùn fú	bu shun fu	242	
+新密碼	new password	xīn mì mǎ	xin mi ma	143	
+現用	active	xiàn yòng	xian yong	44	
+麻痺	paralysis	má bì	ma bi	24	
+篇章	chapter	piān zhāng	pian zhang	11	
+捏成	created	niē chéng	nie cheng	12	
+闖一闖	break into	chuǎng yī chuǎng	chuang yi chuang	313	
+發燙	hot	fā tàng	fa tang	14	
+跳動	beating	tiào dòng	tiao dong	44	
+滿天	whole sky	mǎn tiān	man tian	31	
+人性	human nature	rén xìng	ren xing	24	
+就決	decide	jiù jué	jiu jue	42	
+認識上	understanding	rèn shi shàng	ren shi shang	414	
+
+大能地	powerfully	dà néng de	da neng de	421	
+威榮	splendor	wēi róng	wei rong	12	
+引言	introduction	yǐn yán	yin yan	32	
+習以為常地	be accustomed to	xí yǐ wèi cháng de	xi yi wei chang de	23421	
+
+出死入生	from death to life	chū sǐ rù shēng	chu si ru sheng	1341	
+習以為常地	be accustomed to	xí yǐ wèi cháng de	xi yi wei chang de	23421	
+惡者	evil one	è zhě	e zhe	43	
+心中	in heart	xīn zhōng	xin zhong	11	
+有愧	are ashamed	yǒu kuì	you kui	34	
+膽量地	courageously	dǎn liàng de	dan liang de	341	
+
+不難	not difficult	bù nán	bu nan	42	
+為上帝	as God	wéi shàng dì	wei shang di	244	
+更重大	more significant	gèng zhòng dà	geng zhong da	444	
+結語	conclusion	jié yǔ	jie yu	23	
+牢牢地	tightly	láo láo de	lao lao de	221	
+遠遠地	far away	yuǎn yuǎn de	yuan yuan de	331	
+在此	here	zài cǐ	zai ci	43	
+敵基督者	antichrist	dí jī dū zhě	di ji du zhe	2113	
+教師們	teachers	jiào shī men	jiao shi men	411	
+
+非常地	really	fēi cháng de	fei chang de	121	
+另一些	others	lìng yì xiē	ling yi xie	441	
+歡歡喜喜地	joyfully	huān huān xǐ xǐ de	huan huan xi xi de	11331	
+眾僕人	servant	zhòng pú rén	zhong pu ren	422	
+忠實地	faithfully	zhōng shí de	zhong shi de	121	
+今在	is	jīn zài	jin zai	14	
+昔在	was	xī zài	xi zai	14	
+伴着	accompanied	bàn zhe	ban zhe	41	
+刺過	pierced	cì guo	ci guo	41	
+全能者	Almighty One	quán néng zhě	quan neng zhe	223	
+束着	bound	shù zhe	shu zhe	41	
+
+金帶	gold belt	jīn dài	jin dai	14	
+爐中	furnace	lú zhōng	lu zhong	21	
+煉過	refined	liàn guo	lian guo	41	
+擦得	polished	cā de	ca de	11	
+握着	holding	wò zhe	wo zhe	41	
+顆星	stars	kē xīng	ke xing	11	
+一把	a	yì bǎ	yi ba	43	
+兩刃	double-edged	liǎng rèn	liang ren	34	
+一看見	saw	yí kàn jiàn	yi kan jian	244	
+也不復	no longer	yě bú fù	ye bu fu	324	
+打扮得	dressed up	dǎ bàn de	da ban de	341	
+無償地	free of charge	wú cháng de	wu chang de	221	
+拿着	held	ná zhe	na zhe	21	
+盛着	filled	chéng zhe	cheng zhe	21	
+從天而降	descend from heaven	cóng tiān ér jiàng	cong tian er jiang	2124	
+位天使	angels	wèi tiān shǐ	wei tian shi	413	
+把守	guard	bǎ shǒu	ba shou	33	
+寫着	written	xiě zhe	xie zhe	31	
+長寬	length and width	cháng kuān	chang kuan	21	
+的長	length	de cháng	de chang	12	
+各為	each	gè wéi	ge wei	42	
+二百二十	two hundred and twenty	èr bǎi èr shí	er bai er shi	4342	
+六十五	sixty five	liù shí wǔ	liu shi wu	423	
+鑲嵌着	inlaid with	xiāng qiàn zhe	xiang qian zhe	141	
+縞瑪瑙	onyx	gǎo mǎ nǎo	gao ma nao	333	
+紅玉髓	carnelian	hóng yù suǐ	hong yu sui	243	
+黃玉	topaz	huáng yù	huang yu	24	
+綠玉髓	chrysoprase	lǜ yù suǐ	lu yu sui	443	
+紅鋯石	jacinth	hóng gào shí	hong gao shi	242	
+可恥地	shameful	kě chǐ de	ke chi de	331	
+生命冊	Book of Life	shēng mìng cè	sheng ming ce	144	
+可用來	can use	kě yòng lái	ke yong lai	342	
+快來臨	coming soon	kuài lái lín	kuai lai lin	422	
+生命樹	tree of life	shēng mìng shù	sheng ming shu	144	
+繼承者	heir	jì chéng zhě	ji cheng zhe	423	
+話上	words	huà shàng	hua shang	44	
+籠罩着	covered	lóng zhào zhe	long zhao zhe	241	
+分隔了	separated	fēn gé le	fen ge le	121	
+到來	came	dào lái	dao lai	42	
+各從其類	each of its kind	gè cóng qí lèi	ge cong qi lei	4224	
+各種各類	various kinds	gè zhǒng gè lèi	ge zhong ge lei	4344	
+結種子	seed-bearing	jiē zhǒng zi	jie zhong zi	131	
+光體	lights	guāng tǐ	guang ti	13	
+大光體	big lights	dà guāng tǐ	da guang ti	413	
+成羣	flocks	chéng qún	cheng qun	22	
+游動	swim	yóu dòng	you dong	24	
+完成了	finished	wán chéng le	wan cheng le	221	
+聖日	holy day	shèng rì	sheng ri	44	
+起名字	named	qǐ míng zi	qi ming zi	321	
+根肋骨	rib	gēn lèi gǔ	gen lei gu	143	
+一吃	eat	yì chī	yi chi	41	
+編起來	strung together	biān qǐ lái	bian qi lai	132	
+剎那間	in an instant	chà nà jiān	cha na jian	441	
+樹叢	grove	shù cóng	shu cong	42	
+歸回	return	guī huí	gui hui	12	
+活下去	live	huó xià qù	huo xia qu	244	
+造出來	created	zào chū lái	zao chu lai	412	
+設置了	stationed	shè zhì le	she zhi le	441	
+放置了	placed	fàng zhì le	fang zhi le	441	
+產下	produce	chǎn xià	chan xia	34	
+中最好	best in	zhōng zuì hǎo	zhong zui hao	143	
+悅納了	accepted	yuè nà le	yue na le	441	
+也不再	no longer	yē bú zài	ye bu zai	124	
+
+從今以後	from now on	cóng jīn yǐ hòu	cong jin yi hou	2134	
+逐出去	expelled	zhú chū qù	zhu chu qu	214	
+伊甸	Eden	yī diàn	yi dian	14	
+無可指摘	blameless	wú kě zhǐ zhāi	wu ke zhi zhai	2331	
+
+閃、含	Shem, Ham	shǎn  hán	shan  han	312	
+己意	intended	jǐ yì	ji yi	34	
+充斥着	full of	chōng chì zhe	chong chi zhe	141	
+裏外	inside and outside	lǐ wài	li wai	34	
+長一百	long hundred	cháng yì bǎi	chang yi bai	243	
+
+我的約	my covenant	wǒ de yuē	wo de yue	311	
+一雌	a female	yì cí	yi ci	42	
+大雨	heavy rain	dà yǔ	da yu	43	
+噴湧	gushing	pēn yǒng	pen yong	13	
+成對地	in pairs	chéng duì de	cheng dui de	241	
+一對一對地	in pairs	yí duì yí duì de	yi dui yi dui de	24241	
+代表着	represented	dài biǎo zhe	dai biao zhe	431	
+一雄地	male	yì xióng de	yi xiong de	421	
+
+淹沒了	flooded	yān mò le	yan mo le	141	
+浮起來	floated up	fú qǐ lái	fu qi lai	232	
+安穩地	safely	ān wěn de	an wen de	131	
+扇窗	window	shàn chuāng	shan chuang	41	
+淹蓋着	covered with	yān gài zhe	yan gai zhe	141	
+銜着	holding in mouth	xián zhe	xian zhe	21	
+放出去	released	fàng chū qù	fang chu qu	414	
+乾透了	dried out	gān tòu le	gan tou le	141	
+乾透	dry	gān tòu	gan tou	14	
+放出來	release it	fàng chū lái	fang chu lai	412	
+大大小小	large and small	dà dà xiǎo xiǎo	da da xiao xiao	4433	
+築了	built	zhù le	zhu le	41	
+所思所想	think about it	suǒ sī suǒ xiǎng	suo si suo xiang	3133	
+絕不再	never again	jué bú zài	jue bu zai	224	
+標誌着	marked	biāo zhì zhe	biao zhi zhe	141	
+通天	to the sky	tōng tiān	tong tian	11	
+名揚	famous	míng yáng	ming yang	22	
+說着	saying	shuō zhe	shuo zhe	11	
+再建造	rebuild	zài jiàn zào	zai jian zao	444	
+遠揚	far and wide	yuǎn yáng	yuan yang	32	
+那片	that	nà piàn	na pian	44	
+西面是	on the west is	xī miàn shì	xi mian shi	144	
+向南地	towards the Negev	xiàng nán dì	xiang nan di	424	
+伊勒	El	yī lè	yi le	14	
+沙代	Shaddai	shā dài	sha dai	14	
+一子	a son	yì zǐ	yi zi	43	
+
+望去	look	wàng qù	wang qu	44	
+歇一歇	rest	xiē yi xiē	xie yi xie	111	
+揉麪	knead dough	róu miàn	rou mian	24	
+牲畜羣	herd	shēng chù qún	sheng chu qun	142	
+選了	chose	xuǎn le	xuan le	31	
+肥嫩	fattened	féi nèn	fei nen	24	
+年邁	old	nián mài	nian mai	24	
+你的確	you did	nǐ dí què	ni di que	324	
+做不了	cannot do it	zuò bu liǎo	zuo bu liao	413	
+摧毀了	destroyed	cuī huǐ le	cui hui le	131	
+變成了	became	biàn chéng le	bian cheng le	421	
+上騰	rising up	shàng téng	shang teng	42	
+保住了	kept alive	bǎo zhù le	bao zhu le	341	
+那場	that scene	nà chǎng	na chang	43	
+盛大	grand	shèng dà	sheng da	44	
+所生	born	suǒ shēng	suo sheng	31	
+就要求	demanded	jiù yāo qiú	jiu yao qiu	412	
+漫無目的地	aimlessly	màn wú mù dì de	man wu mu di de	42441	
+喝完	drunk up	hē wán	he wan	12	
+不願	don't want	bú yuàn	bu yuan	24	
+一口	a mouth	yì kǒu	yi kou	43	
+劈好了	chopped	pī hǎo le	pi hao le	131	
+往上帝	to God	wǎng shàng dì	wang shang di	344	
+拿上了	take it	ná shàng le	na shang le	241	
+獻祭	offering	xiàn jì	xian ji	44	
+為燔祭	as an offering	wéi fán jì	wei fan ji	224	
+地方為	place as	dì fāng wéi	di fang wei	412	
+以勒	Yireh	yǐ lè	yi le	34	
+山上	up the mountain	shān shàng	shan shang	14	
+為妻	as a wife	wéi qī	wei qi	21	
+我家鄉	my homeland	wǒ jiā xiāng	wo jia xiang	311	
+我是不是	am I	wǒ shì bu shì	wo shi bu shi	3414	
+鄭重地	solemnly	zhèng zhòng de	zheng zhong de	441	
+發的	delivered	fā de	fa de	11	
+十匹	ten of	shí pǐ	shi pi	23	
+納哈拉音	naharaim	nà hā lā yīn	na ha la yin	4111	
+打水	fetch water	dǎ shuǐ	da shui	33	
+罐裏	jug	guàn lǐ	guan li	43	
+扛着	carrying	káng zhe	kang zhe	21	
+個夠	enough	gè gòu	ge gou	44	
+倒入	poured	dào rù	dao ru	44	
+靜靜地	quietly	jìng jìng de	jing jing de	441	
+鼻環	nose ring	bí huán	bi huan	22	
+顯出了	shown	xiǎn chū le	xian chu le	311	
+又聽到	heard	yòu tīng dào	you ting dao	414	
+敍述	story	xù shù	xu shu	44	
+預備好	prepared	yù bèi hǎo	yu bei hao	443	
+馱着	loaded	tuó zhe	tuo zhe	21	
+履行了	fulfilled	lǚ xíng le	lu xing le	321	
+罐中	in jug	guàn zhōng	guan zhong	41	
+肩扛着	shoulder	jiān káng zhe	jian kang zhe	121	
+下到	down to	xià dào	xia dao	44	
+姪孫女	niece	zhí sūn nǚ	zhi sun nu	213	
+以不變	unfailing	yǐ bú biàn	yi bu bian	324	
+耽延	delay	dān yán	dan yan	12	
+騎上	mounted	qí shàng	qi shang	24	
+在南地	in the Negev	zài nán dì	zai nan di	424	
+庇耳	Beer	bì ěr	bi er	43	
+拉海	lahairoi	lā hǎi	la hai	13	
+拉海．萊	lahairoi	lā hǎi  lái	la hai  lai	1312	
+一隊	a herd	yí duì	yi dui	24	
+上下來	got down	shàng xià lái	shang xia lai	442	
+基達	Kedar	jī dá	ji da	12	
+巴旦	Paddan	bā dàn	ba dan	14	
+為妻子	for his wife	wèi qī zi	wei qi zi	411	
+求問	ask	qiú wèn	qiu wen	24	
+從一	from one	cóng yì	cong yi	24	
+小兒子	younger child	xiǎo ér zi	xiao er zi	321	
+赤紅	red	chì hóng	chi hong	42	
+穿了	wearing	chuān le	chuan le	11	
+餓得	starving	è de	e de	41	
+自己的	his	zì jǐ de	zi ji de	431	
+箭袋	quiver	jiàn dài	jian dai	44	
+摸着	touched	mō zhe	mo zhe	11	
+山羊羔的皮	goat skin	shān yáng gāo de pí	shan yang gao de pi	12112	
+挨過來	come here	āi guò lái	ai guo lai	142	
+親了	kissed	qīn le	qin le	11	
+聞到	smelled	wén dào	wen dao	24	
+豐登	plentiful	fēng dēng	feng deng	11	
+顫抖不已	trembled	chàn dǒu bù yǐ	chan dou bu yi	4343	
+欺哄了	deceived	qī hǒng le	qi hong le	131	
+奪去了	took away	duó qù le	duo qu le	241	
+說罷	stopped speaking	shuō bà	shuo ba	14	
+頸上	on the neck	jǐng shàng	jing shang	34	
+支搭起	set up	zhī dā qǐ	zhi da qi	113	
+往來	come and go	wǎng lái	wang lai	32	
+頂上	on top	dǐng shàng	ding shang	34	
+必不	won't	bì bù	bi bu	44	
+驚懼地	afraid	jīng jù de	jing ju de	141	
+豎起來	erected	shù qǐ lái	shu qi lai	432	
+路斯	Luz	lù sī	lu si	41	
+安然無恙地	safely	ān rán wú yàng de	an ran wu yang de	12241	
+骨肉之親	flesh and blood	gǔ ròu zhī qīn	gu rou zhi qin	3411	
+雙目無神	dull eyes	shuāng mù wú shén	shuang mu wu shen	1422	
+愛上了	in love with	ài shàng le	ai shang le	441	
+也不願	also don't want	yě bú yuàn	ye bu yuan	324	
+工作了	worked	gōng zuò le	gong zuo le	141	
+成親	marriage	chéng qīn	cheng qin	21	
+擺設了	furnished	bǎi shè le	bai she le	341	
+帶給了	brought to	dài gěi le	dai gei le	431	
+大兒子	older child	dà ér zi	da er zi	421	
+地區	land	dì qū	di qu	41	
+另一隊	the other camp	lìng yí duì	ling yi dui	424	
+離家	left home	lí jiā	li jia	21	
+母山羊	female goats	mǔ shān yáng	mu shan yang	312	
+公山羊	male goats	gōng shān yáng	gong shan yang	112	
+母綿羊	ewes	mǔ mián yáng	mu mian yang	322	
+公綿羊	rams	gōng mián yáng	gong mian yang	122	
+母驢	female donkey	mǔ lǘ	mu lu	32	
+公驢	male donkey	gōng lǘ	gong lu	12	
+母駱駝	female camel	mǔ luò tuó	mu luo tuo	342	
+頭一	leader	tóu yī	tou yi	21	
+羣畜	herd	qún chù	qun chu	24	
+送過去	sent ahead	sòng guò qù	song guo qu	444	
+雅博河	Jabbok River	yǎ bó hé	ya bo he	322	
+勝不了	cannot win	shèng bu liǎo	sheng bu liao	413	
+大腿窩	hip	dà tuǐ wō	da tui wo	431	
+脫臼	dislocation	tuō jiù	tuo jiu	14	
+毗努伊勒	Peniel	pí nǔ yī lè	pi nu yi le	2314	
+面對面地	face to face	miàn duì miàn de	mian dui mian de	4441	
+脫了臼	dislocated	tuō le jiù	tuo le jiu	114	
+一拐一拐	limping	yì guǎi yì guǎi	yi guai yi guai	4343	
+扭傷了	sprained	niǔ shāng le	niu shang le	311	
+重歸於好	reconciled	chóng guī yú hǎo	chong gui yu hao	2123	
+跑上來	ran to	pǎo shàng lái	pao shang lai	342	
+有餘	more than enough	yǒu yú	you yu	32	
+由於	due to	yóu yú	you yu	22	
+牛羊羣	flocks and herds	niú yáng qún	niu yang qun	222	
+催趕得	hurry	cuī gǎn de	cui gan de	131	
+牧放	grazing	mù fàng	mu fang	44	
+禾捆	bundle	hé kǔn	he kun	23	
+神態	demeanor	shén tài	shen tai	24	
+聽着	listen	tīng zhe	ting zhe	11	
+顆星星	stars	kē xīng xing	ke xing xing	111	
+為奴	as a slave	wéi nú	wei nu	22	
+認出了	recognized	rèn chū le	ren chu le	411	
+丟進	throw in	diū jìn	diu jin	14	
+的長袍	of robe	de cháng páo	de chang pao	122	
+空的	empty	kōng de	kong de	11	
+商隊	caravan	shāng duì	shang dui	14	
+和香料	and spices	hé xiāng liào	he xiang liao	214	
+
+與其	instead of	yǔ qí	yu qi	32	
+賣給了	sold to	mài gěi le	mai gei le	431	
+悲傷地	sadly	bēi shāng de	bei shang de	111	
+宰了	slaughtered	zǎi le	zai le	31	
+哀悼了	mourned	āi dào le	ai dao le	141	
+曖昧	ambiguous	ài mèi	ai mei	44	
+兩張	two	liǎng zhāng	liang zhang	31	
+嘿嘿	hey	hēi hēi	hei hei	11	
+高台	high tower	gāo tái	gao tai	12	
+帶到了	brought to	dài dào le	dai dao le	441	
+盡都	all	jìn dōu	jin dou	41	
+都不用	had no need	dōu bú yòng	dou bu yong	124	
+所能地	tried	suǒ néng de	suo neng de	321	
+跑了	ran	pǎo le	pao le	31	
+關進了	locked in	guān jìn le	guan jin le	141	
+監獄長	prison warden	jiān yù zhǎng	jian yu zhang	143	
+侍酒	cup-bearer	shì jiǔ	shi jiu	43	
+膳食長	chief baker	shàn shí zhǎng	shan shi zhang	423	
+得罪了	offended	dé zuì le	de zui le	241	
+串串	clusters	chuàn chuàn	chuan chuan	44	
+摘了	picked	zhāi le	zhai le	11	
+白麪餅	white pastries	bái miàn bǐng	bai mian bing	243	
+一筐	a basket	yì kuāng	yi kuang	41	
+放着	stood	fàng zhe	fang zhe	41	
+麪食	pastries	miàn shí	mian shi	42	
+啄去	peck at	zhuó qù	zhuo qu	24	
+恢復了	restored	huī fù le	hui fu le	141	
+忘得	forgot	wàng de	wang de	41	
+沼澤叢	marsh grass	zhǎo zé cóng	zhao ze cong	322	
+發生了	happened	fā shēng le	fa sheng le	111	
+
+換上	changed	huàn shàng	huan shang	44	
+荒年	desolate year	huāng nián	huang nian	12	
+大荒年	famine years	dà huāng nián	da huang nian	412	
+記不起	can't remember	jì bu qǐ	ji bu qi	413	
+曾經有過	there were	céng jīng yǒu guo	ceng jing you guo	2131	
+定意	decreed	dìng yì	ding yi	44	
+建議	suggestions	jiàn yì	jian yi	44	
+任命了	appointed	rèn mìng le	ren ming le	441	
+都不得	not allowed	dōu bù dé	dou bu de	142	
+撒發那忒	Zaphenath	sā fā nà tè	sa fa na te	1144	
+巴內亞	paneah	bā nèi yà	ba nei ya	144	
+亞西納	Asenath	yà xī nà	ya xi na	414	
+積聚了	gathered	jī jù le	ji ju le	141	
+積存起	accumulated	jī cún qǐ	ji cun qi	123	
+赫利奧	Helio	hè lì ào	he li ao	444	
+波利斯	polis	bō lì sī	bo li si	141	
+臉伏於地	face to the ground	liǎn fú yú dì	lian fu yu di	3224	
+嚴厲地	harshly	yán lì de	yan li de	241	
+想起了	remembered	xiǎng qǐ le	xiang qi le	331	
+牢裏	in prison	láo lǐ	lao li	23	
+當着	in the presence of	dāng zhe	dang zhe	11	
+綁了	tied up	bǎng le	bang le	31	
+驢上	on the donkey	lǘ shàng	lu shang	24	
+還給	give back	hái gěi	hai gei	23	
+
+沉了	sank	chén le	chen le	21	
+心驚膽戰地	terrified	xīn jīng dǎn zhàn de	xin jing dan zhan de	11341	
+還給我了	gave back to me	huán gěi wǒ le	huan gei wo le	2331	
+還給你們	give back to you	huán gěi nǐ men	huan gei ni men	2331	
+送進	send to	sòng jìn	song jin	44	
+補班	make-up workday	bǔ bān	bu ban	31	
+原案	original	yuán àn	yuan an	24	
+滑落	slide	huá luò	hua luo	24	
+滴答	tick	dī dā	di da	11	
+滴滴答答	tick tock	dī dī dā dá	di di da da	1112	
+青蘋	granny smith	qīng píng	qing ping	12	
+鄧福如	A-fu	dèng fú rú	deng fu ru	422	
+潔除	cleaning	jié chú	jie chu	22	
+大權能	great power	dà quán néng	da quan neng	422	
+快吃完了	almost finished	kuài chī wán le	kuai chi wan le	4121	
+也不去	also won't go	yě bú qù	ye bu qu	324	
+嗚咽着	sobbed	wū yè zhe	wu ye zhe	141	
+耽誤了	delayed	dān wù le	dan wu le	141	
+帶下去	take it	dài xià qù	dai xia qu	444	
+一倍	double	yí bèi	yi bei	24	
+喪子	lost child	sàng zǐ	sang zi	43	
+塞進了	stuffed into	sāi jìn le	sai jin le	141	
+放進了	put in	fàng jìn le	fang jin le	441	
+健在	healthy	jiàn zài	jian zai	44	
+痛哭了	cried	tòng kū le	tong ku le	411	
+抑制着	controlled	yì zhì zhe	yi zhi zhe	441	
+同席	sit together	tóng xí	tong xi	22	
+
+拘束地	restricted	jū shù de	ju shu de	141	
+天一亮	at dawn	tiān yí liàng	tian yi liang	124	
+馱滿	loaded	tuó mǎn	tuo man	23	
+以惡報善	repay evil for good	yǐ è bào shàn	yi e bao shan	3444	
+驢背	donkey's back	lǘ bèi	lu bei	24	
+取下	take off	qǔ xià	qu xia	34	
+絕望地	in despair	jué wàng de	jue wang de	241	
+裝着	packed	zhuāng zhe	zhuang zhe	11	
+親哥哥	full brother	qīn gē gē	qin ge ge	111	
+若不讓	if won't let	ruò bú ràng	ruo bu rang	424	
+
+沒再見到	never saw again	méi zài jiàn dào	mei zai jian dao	2444	
+不帶上	without	bú dài shàng	bu dai shang	244	
+平安地	peacefully	píng ān de	ping an de	211	
+上前來	came forward	shàng qián lái	shang qian lai	422	
+答得	answer	dá de	da de	21	
+
+躺着	lying down	tǎng zhe	tang zhe	31	
+補給你	give to you	bǔ gěi nǐ	bu gei ni	333	
+向他	to them	xiàng tā	xiang ta	41	
+愛睏	sleepy	ài kùn	ai kun	44	
+大眼瞪小眼	staring contest	dà yǎn dèng xiǎo yǎn	da yan deng xiao yan	43433	
+貓奴	cat lover	māo nú	mao nu	12	
+睡衣	pyjamas	shuì yī	shui yi	41	
+遞來	deliver	dì lái	di lai	42	
+炸炸	deep fried	zhà zhà	zha zha	44	
+放電	stun	fàng diàn	fang dian	44	
+撐死	full to death	chēng sǐ	cheng si	13	
+手滑	slip	shǒu huá	shou hua	32	
+相認	identify	xiāng rèn	xiang ren	14	
+傳到了	arrived	chuán dào le	chuan dao le	241	
+還在	still alive	hái zài	hai zai	24	
+驚愕	stunned	jīng è	jing e	14	
+自憂自恨	self-hatred	zì yōu zì hèn	zi you zi hen	4144	
+既不能	neither can	jì bù néng	ji bu neng	442	
+宮廷	palace	gōng tíng	gong ting	12	
+每一位	everyone	měi yí wèi	mei yi wei	324	
+抱着	holding	bào zhe	bao zhe	41	
+聽到了	heard it	tīng dào le	ting dao le	141	
+馱上	load	tuó shàng	tuo shang	24	
+準備了	prepared	zhǔn bèi le	zhun bei le	341	
+複述了	repeated	fù shù le	fu shu le	441	
+來留心	come and listen	lái liú xīn	lai liu xin	221	
+將不再	will no longer	jiāng bú zài	jiang bu zai	124	
+同牀	went to bed	tóng chuáng	tong chuang	22	
+玷污了	defiled	diàn wū le	dian wu le	411	
+牀榻	couch	chuáng tà	chuang ta	24	
+為一時	for a time	wèi yì shí	wei yi shi	442	
+稱讚	praise	chēng zàn	cheng zan	14	
+臥下	lie down	wò xià	wo xia	44	
+爐邊	hearth	lú biān	lu bian	21	
+屈肩	shoulder	qū jiān	qu jian	11	
+咬噬	bite	yǎo shì	yao shi	34	
+退卻	retreat	tuì què	tui que	44	
+拿弗他利	Naphtali	ná fú tā lì	na fu ta li	2214	
+大能者	powerful	dà néng zhě	da neng zhe	423	
+羣山	mountains	qún shān	qun shan	21	
+擄物	plunder	lǔ wù	lu wu	34	
+買下來	buy from	mǎi xià lái	mai xia lai	342	
+堅立	establish	jiān lì	jian li	14	
+徬徨	hesitate	páng huáng	pang huang	22	
+恩典	grace	ēn diǎn	en dian	13	
+捨下	lay down	shě xià	she xia	34	
+不止息	unfailing	bù zhǐ xī	bu zhi xi	431	
+璽恩	Sien Vanessa	xǐ ēn	xi en	31	
+成終	finishing	chéng zhōng	cheng zhong	21	
+心切慕	heart longs	xīn qiè mù	xin qie mu	144	
+切慕	desires	qiè mù	qie mu	44	
+尊名	holy name	zūn míng	zun ming	12	
+因著	because of	yīn zhe	yin zhe	11	
+不停止	non-stop	bù tíng zhǐ	bu ting zhi	423	
+不見底	bottomless	bù jiàn dǐ	bu jian di	443	
+諸天上	the heavens	zhū tiān shàng	zhu tian shang	114	
