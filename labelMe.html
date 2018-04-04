@@ -1,0 +1,743 @@
+<!--
+	Label Me
+	Sorts Facebook Likes categories into groups to summarise personality
+	2018-04-04
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Label Me</title>
+  	  	
+	<meta charset="utf-8" />
+    <style>
+      body {
+        font-family: Tahoma, Geneva, sans-serif;
+      }
+	p {
+  		margin-left: 50px;
+	}
+	
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+
+dl {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  max-width: 700px;
+  position: relative;
+  padding: 20px;
+}
+
+dt {
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  width: 100%;
+  font-weight: 700;
+  display: block;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 20px;
+  margin-left: 130px;
+}
+
+.text {
+  font-weight: 600;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 40px;
+  width: 130px;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.percentage {
+  font-size: .8em;
+  line-height: 1;
+  text-transform: uppercase;
+  width: 100%;
+  height: 40px;
+  margin-left: 130px;
+  background: repeating-linear-gradient(to right, #ddd, #ddd 1px, #fff 1px, #fff 5%);
+}
+.percentage:after {
+  content: "";
+  display: block;
+  background-color: #3d9970;
+  width: 50px;
+  margin-bottom: 10px;
+  height: 90%;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  -webkit-transition: background-color .3s ease;
+  transition: background-color .3s ease;
+  cursor: pointer;
+}
+.percentage:hover:after, .percentage:focus:after {
+  background-color: #aaa;
+}
+
+.percentage-1:after {
+  width: 1%;
+}
+
+.percentage-2:after {
+  width: 2%;
+}
+
+.percentage-3:after {
+  width: 3%;
+}
+
+.percentage-4:after {
+  width: 4%;
+}
+
+.percentage-5:after {
+  width: 5%;
+}
+
+.percentage-6:after {
+  width: 6%;
+}
+
+.percentage-7:after {
+  width: 7%;
+}
+
+.percentage-8:after {
+  width: 8%;
+}
+
+.percentage-9:after {
+  width: 9%;
+}
+
+.percentage-10:after {
+  width: 10%;
+}
+
+.percentage-11:after {
+  width: 11%;
+}
+
+.percentage-12:after {
+  width: 12%;
+}
+
+.percentage-13:after {
+  width: 13%;
+}
+
+.percentage-14:after {
+  width: 14%;
+}
+
+.percentage-15:after {
+  width: 15%;
+}
+
+.percentage-16:after {
+  width: 16%;
+}
+
+.percentage-17:after {
+  width: 17%;
+}
+
+.percentage-18:after {
+  width: 18%;
+}
+
+.percentage-19:after {
+  width: 19%;
+}
+
+.percentage-20:after {
+  width: 20%;
+}
+
+.percentage-21:after {
+  width: 21%;
+}
+
+.percentage-22:after {
+  width: 22%;
+}
+
+.percentage-23:after {
+  width: 23%;
+}
+
+.percentage-24:after {
+  width: 24%;
+}
+
+.percentage-25:after {
+  width: 25%;
+}
+
+.percentage-26:after {
+  width: 26%;
+}
+
+.percentage-27:after {
+  width: 27%;
+}
+
+.percentage-28:after {
+  width: 28%;
+}
+
+.percentage-29:after {
+  width: 29%;
+}
+
+.percentage-30:after {
+  width: 30%;
+}
+
+.percentage-31:after {
+  width: 31%;
+}
+
+.percentage-32:after {
+  width: 32%;
+}
+
+.percentage-33:after {
+  width: 33%;
+}
+
+.percentage-34:after {
+  width: 34%;
+}
+
+.percentage-35:after {
+  width: 35%;
+}
+
+.percentage-36:after {
+  width: 36%;
+}
+
+.percentage-37:after {
+  width: 37%;
+}
+
+.percentage-38:after {
+  width: 38%;
+}
+
+.percentage-39:after {
+  width: 39%;
+}
+
+.percentage-40:after {
+  width: 40%;
+}
+
+.percentage-41:after {
+  width: 41%;
+}
+
+.percentage-42:after {
+  width: 42%;
+}
+
+.percentage-43:after {
+  width: 43%;
+}
+
+.percentage-44:after {
+  width: 44%;
+}
+
+.percentage-45:after {
+  width: 45%;
+}
+
+.percentage-46:after {
+  width: 46%;
+}
+
+.percentage-47:after {
+  width: 47%;
+}
+
+.percentage-48:after {
+  width: 48%;
+}
+
+.percentage-49:after {
+  width: 49%;
+}
+
+.percentage-50:after {
+  width: 50%;
+}
+
+.percentage-51:after {
+  width: 51%;
+}
+
+.percentage-52:after {
+  width: 52%;
+}
+
+.percentage-53:after {
+  width: 53%;
+}
+
+.percentage-54:after {
+  width: 54%;
+}
+
+.percentage-55:after {
+  width: 55%;
+}
+
+.percentage-56:after {
+  width: 56%;
+}
+
+.percentage-57:after {
+  width: 57%;
+}
+
+.percentage-58:after {
+  width: 58%;
+}
+
+.percentage-59:after {
+  width: 59%;
+}
+
+.percentage-60:after {
+  width: 60%;
+}
+
+.percentage-61:after {
+  width: 61%;
+}
+
+.percentage-62:after {
+  width: 62%;
+}
+
+.percentage-63:after {
+  width: 63%;
+}
+
+.percentage-64:after {
+  width: 64%;
+}
+
+.percentage-65:after {
+  width: 65%;
+}
+
+.percentage-66:after {
+  width: 66%;
+}
+
+.percentage-67:after {
+  width: 67%;
+}
+
+.percentage-68:after {
+  width: 68%;
+}
+
+.percentage-69:after {
+  width: 69%;
+}
+
+.percentage-70:after {
+  width: 70%;
+}
+
+.percentage-71:after {
+  width: 71%;
+}
+
+.percentage-72:after {
+  width: 72%;
+}
+
+.percentage-73:after {
+  width: 73%;
+}
+
+.percentage-74:after {
+  width: 74%;
+}
+
+.percentage-75:after {
+  width: 75%;
+}
+
+.percentage-76:after {
+  width: 76%;
+}
+
+.percentage-77:after {
+  width: 77%;
+}
+
+.percentage-78:after {
+  width: 78%;
+}
+
+.percentage-79:after {
+  width: 79%;
+}
+
+.percentage-80:after {
+  width: 80%;
+}
+
+.percentage-81:after {
+  width: 81%;
+}
+
+.percentage-82:after {
+  width: 82%;
+}
+
+.percentage-83:after {
+  width: 83%;
+}
+
+.percentage-84:after {
+  width: 84%;
+}
+
+.percentage-85:after {
+  width: 85%;
+}
+
+.percentage-86:after {
+  width: 86%;
+}
+
+.percentage-87:after {
+  width: 87%;
+}
+
+.percentage-88:after {
+  width: 88%;
+}
+
+.percentage-89:after {
+  width: 89%;
+}
+
+.percentage-90:after {
+  width: 90%;
+}
+
+.percentage-91:after {
+  width: 91%;
+}
+
+.percentage-92:after {
+  width: 92%;
+}
+
+.percentage-93:after {
+  width: 93%;
+}
+
+.percentage-94:after {
+  width: 94%;
+}
+
+.percentage-95:after {
+  width: 95%;
+}
+
+.percentage-96:after {
+  width: 96%;
+}
+
+.percentage-97:after {
+  width: 97%;
+}
+
+.percentage-98:after {
+  width: 98%;
+}
+
+.percentage-99:after {
+  width: 99%;
+}
+
+.percentage-100:after {
+  width: 100%;
+}
+
+html, body {
+  height: 500px;
+  font-family: "fira-sans-2",sans-serif;
+  color: #333;
+}
+	
+    </style>
+  </head>
+  
+  <body>
+  	<div id="resultsHtml"></div>
+
+    <textarea id="inputText" name="text" rows="30" cols="40"></textarea>
+
+    <textarea id="outputText" name="text" rows="30" cols="40"></textarea>
+    
+    <table>
+    	<tr>
+			<td>
+				<div id="defaultSendButton" class="DefaultButtonOuter" style="width:158px">
+					<div id="sortButton" class="ButtonInner" onclick="sortButtonClicked();" style="width:150px">
+						Sort
+					</div>
+				</div>
+			</td>
+		</tr>
+    </table>
+    
+<dl>  <dt>    Browser market share June 2015  </dt>  <dd class="percentage percentage-11"><span class="text">IE 11: 11.33%</span></dd>  <dd class="percentage percentage-49"><span class="text">Chrome: 49.77%</span></dd>  <dd class="percentage percentage-16"><span class="text">Firefox: 16.09%</span></dd>  <dd class="percentage percentage-5"><span class="text">Safari: 5.41%</span></dd>  <dd class="percentage percentage-2"><span class="text">Opera: 1.62%</span></dd>  <dd class="percentage percentage-2"><span class="text">Android 4.4: 2%</span></dd></dl>
+    
+  </body>
+  
+  <script>
+  
+	var sortedCategories = [
+	"Accommodation", 
+	"Art", 
+	"Banks", 
+	"Business", 
+	"Causes", 
+	"Children", 
+	"Cleaning", 
+	"Construction", 
+	"Cooking", 
+	"Cosmetics", 
+	"Drinking", 
+	"Driving", 
+	"Education", 
+	"Games", 
+	"Hardware", 
+	"Health", 
+	"International", 
+	"Media", 
+	"Military", 
+	"Movies", 
+	"Music", 
+	"Pets", 
+	"Politics", 
+	"Religion", 
+	"Software", 
+	"Sport", 
+	"Transport"
+	];
+	
+	var facebookCategories = [
+	["Bed and Breakfast", "Cabin", "Campground", "Cottage", "Dorm", "Halfway House", "Hospitality Service", "Hostel", "Hotel & Lodging", "Hotel Resort", "Housing & Homeless Shelter", "Housing Assistance Service", "Inn", "Lodge", "Motel", "Residence", "Retirement & Assisted Living Facility", "Vacation Home Rental"],
+	["Actor", "Art", "Art Gallery", "Art Museum", "Art School", "Artist", "Arts & Crafts Store", "Arts & Entertainment", "Arts & Humanities Website", "Camera Store", "Camera-Photo", "Circus", "Comedian", "Comedy Club", "Comic Bookstore", "Contemporary Art Museum", "Cultural Center", "Dance & Night Club", "Dance School", "Dance Studio", "Dancer", "Design Museum", "Entertainment Website", "Fictional Character", "Florist", "Glass Manufacturer", "Graphic Designer", "Hobby Store", "Just For Fun", "Lighting Store", "Modern Art Museum", "Museum-Art Gallery", "Performance & Event Venue", "Performance Art", "Performance Art Theatre", "Performing Arts", "Performing Arts School", "Photographer", "Photography Videography", "Theatrical Play", "Theatrical Productions", "Visual Arts"],
+	["Accountant", "Automated Teller Machine (ATM)", "Bank", "Brokerage Firm", "Casino", "Commercial Bank", "Finance", "Finance Company", "Financial Consultant", "Financial Planner", "Financial Service", "Insurance Agent", "Insurance Broker", "Insurance Company", "Investing Service", "Investment Management Company"],
+	["Auditorium", "Business & Economy Website", "Business Center", "Business Consultant", "Business Service", "Business Supply Service", "Career Counselor", "Commercial & Industrial", "Commercial & Industrial Equipment Supplier", "Commercial Equipment", "Consulting Agency", "Convention Center", "Corporate Office", "Counselor", "Employment Agency", "Entrepreneur", "Environmental Consultant", "Labor Union", "Management Service", "Market Research Consultant", "Meeting Room", "Motivational Speaker", "Office Supplies", "Printing Service", "Professional Service", "Recruiter", "Work Position", "Work Project", "Workplace & Office"],
+	["Cause", "Charity Organization", "Community Organization", "Emergency Rescue Service", "Environmental Conservation Organization", "Environmental Service", "Government Organization", "Non-Governmental Organization (NGO)", "Nonprofit Organization", "Organization", "Organization-Institution Type", "Social Service"],
+	["Adoption Service", "Baby & Children's Clothing Store", "Baby Goods-Kids Goods", "Bridal Shop", "Child Care Service", "Child Protective Service", "Dating Service", "Playground", "Pregnancy Care Center", "Preschool", "Reproductive Service", "Teens & Kids Website", "Wedding Planning Service"], 
+	["Cleaning Service", "Dry Cleaner", "Janitorial Service", "Maid & Butler", "Public Toilet"],
+	["Apartment & Condo Building", "Appliance Manufacturer", "Appliances", "Architect", "Architectural Designer", "Bridge", "Building Materials", "Campus Building", "Carpenter", "Carpet & Flooring Store", "Chemical Company", "City Infrastructure", "Commercial Real Estate Agency", "Construction Company", "Damage Restoration Service", "Electric Utility Provider", "Engineering Service", "Forestry & Logging", "Furniture", "Furniture Repair & Upholstery Service", "Furniture Store", "Gardener", "Home", "Home & Garden Store", "Home & Garden Website", "Home Decor", "Home Goods Store", "Home Improvement", "Household Supplies", "Industrial Company", "Interior Design Studio", "Landscape Company", "Mattress Store", "Mattress Wholesaler", "Metal Fabricator", "Mining Company", "Patio-Garden", "Public Utility Company", "Real Estate", "Real Estate Agent", "Real Estate Developer", "Real Estate Service", "Real Estate Title & Development", "Solar Energy Service", "Upholstery Service"],
+	["African Restaurant", "Agricultural Service", "Agriculture", "Agriculture Company", "American Restaurant", "Asian Fusion Restaurant", "Asian Restaurant", "Australian Restaurant", "Bagel Shop", "Bakery", "Barbecue Restaurant", "Belgian Restaurant", "Bossam-Jokbal Restaurant", "Brazilian Restaurant", "Breakfast & Brunch Restaurant", "British Restaurant", "Bubble Tea Shop", "Buffet Restaurant", "Bunsik Restaurant", "Burger Restaurant", "Butcher Shop", "Cafe", "Cafeteria", "Canadian Restaurant", "Candy Store", "Cantonese Restaurant", "Caribbean Restaurant", "Caterer", "Chef", "Chicken Joint", "Chinese Restaurant", "Chocolate Shop", "Coffee Shop", "Comfort Food Restaurant", "Community Garden", "Continental Restaurant", "Convenience Store", "Cooking School", "Cr\u00eaperie", "Cuisine", "Cupcake Shop", "Deli", "Dessert Shop", "Dim Sum Restaurant", "Diner", "Donburi Restaurant", "Dongbei Restaurant", "Ethnic Grocery Store", "European Restaurant", "Family Style Restaurant", "Farm", "Farmers Market", "Fast Food Restaurant", "Fondue Restaurant", "Food & Beverage", "Food & Beverage Company", "Food Consultant", "Food Delivery Service", "Food Stand", "Food Truck", "Foodservice Distributor", "French Restaurant", "Frozen Yogurt Shop", "Fruit & Vegetable Store", "Gastropub", "Gelato Shop", "German Restaurant", "Gluten-Free Restaurant", "Greek Restaurant", "Grocery Store", "Health Food Restaurant", "Hong Kong Restaurant", "Hot Dog Joint", "Hot Pot Restaurant", "Hungarian Restaurant", "Ice Cream Shop", "Indian Restaurant", "Italian Restaurant", "Japanese Restaurant", "Kebab Shop", "Kitchen-Cooking", "Korean Restaurant", "Kushikatsu Restaurant", "Latin American Restaurant", "Malaysian Restaurant", "Market", "Mediterranean Restaurant", "Mexican Restaurant", "Middle Eastern Restaurant", "Modern European Restaurant", "Mongolian Restaurant", "Moroccan Restaurant", "New American Restaurant", "Night Market", "Okonomiyaki Restaurant", "Organic Grocery Store", "Personal Chef", "Peruvian Restaurant", "Pho Restaurant", "Picnic Ground", "Pizza Place", "Polish Restaurant", "Ramen Restaurant", "Restaurant", "Restaurant Supply Store", "Restaurant Wholesaler", "Russian Restaurant", "Salad Bar", "Sandwich Shop", "Scandinavian Restaurant", "Seafood Restaurant", "Seasonal Store", "Shabu Shabu Restaurant", "Shaved Ice Shop", "Singaporean Restaurant", "Smoothie & Juice Bar", "Soul Food Restaurant", "Soup Restaurant", "South African Restaurant", "Spanish Restaurant", "Specialty Grocery Store", "Steakhouse", "Sukiyaki Restaurant", "Supermarket", "Sushi Restaurant", "Szechuan-Sichuan Restaurant", "Taiwanese Restaurant", "Tapas Bar & Restaurant", "Tea Room", "Teppanyaki Restaurant", "Tex-Mex Restaurant", "Thai Restaurant", "Theme Restaurant", "Tonkatsu Restaurant", "Turkish Restaurant", "Udon Restaurant", "Unagi Restaurant", "Urban Farm", "Vegetarian-Vegan Restaurant", "Vietnamese Restaurant", "Wagashi Restaurant", "Wholesale Bakery", "Yakiniku Restaurant", "Yoshoku Restaurant"],
+	["Barber Shop", "Beauty Salon", "Beauty Store", "Beauty Supply Store", "Beauty, Cosmetic & Personal Care", "Beauty-Cosmetics Company", "Cosmetics Store", "Hair Extensions Service", "Hair Removal Service", "Hair Salon", "Lifestyle Service", "Makeup Artist", "Modeling Agency", "Nail Salon", "Plastic Surgeon", "Skin Care Service", "Tanning Salon", "Tattoo & Piercing Shop", "Teeth Whitening Service"],
+	["Bar", "Bar & Grill", "Bartending Service", "Beer Bar", "Beer Garden", "Brewery", "Cocktail Bar", "Distillery", "Dive Bar", "Drink", "Duty-Free Shop", "Gay Bar", "Homebrew Supply Store", "Hookah Lounge", "Lounge", "Pub", "Sake Bar", "Whisky Bar", "Wine Bar", "Wine, Beer & Spirits Store", "Wine-Spirits", "Winery-Vineyard"],
+	["Automotive Body Shop", "Automotive Consultant", "Automotive Customization Shop", "Automotive Glass Service", "Automotive Manufacturer", "Automotive Parts Store", "Automotive Repair Shop", "Automotive Restoration Service", "Automotive Service", "Automotive Store", "Automotive Wholesaler", "Automotive, Aircraft & Boat", "Car Dealership", "Car Rental", "Car Stereo Store", "Cars", "Driving School", "Exotic Car Rental", "Motor Vehicle Company", "Motorcycle Dealership", "Motorcycle Manufacturer", "Motorcycle Repair Shop", "Motorsports Store"],
+	["Academic Camp", "Author", "Blogger", "Book", "Book & Magazine Distributor", "Book Genre", "Book Series", "Books & Magazines", "Bookstore", "Civilization Museum", "College & University", "Community College", "Community Museum", "Concentration or Major", "Education", "Education Website", "Educational Consultant", "Educational Research Center", "Elementary School", "Field of Study", "High School", "History Museum", "Independent Bookstore", "Junior High School", "Language School", "Library", "Literary Arts", "Literary Editor", "Middle School", "Museum", "Personal Blog", "Planetarium", "Private School", "Public School", "Publisher", "Reference Website", "Religious School", "School", "Science", "Science Museum", "Science Website", "Science, Technology & Engineering", "Scientist", "Speakeasy", "Specialty School", "Speech Pathologist", "Teacher", "Test Preparation Center", "Trade School", "Tutor-Teacher", "Website", "Writer"],
+	["Amusement & Theme Park", "Arcade", "Board Game", "Escape Game Room", "Esports League", "Esports Team", "Fairground", "Game Publisher", "Games-Toys", "Gaming Video Creator", "Laser Tag Center", "Magician", "Professional Gamer", "Toy Store", "Video Game", "Video Game Store"],
+	["Audio Visual Equipment Store", "Automation Service", "Computer Company", "Computer Repair Service", "Computer Store", "Computer Training School", "Computers & Internet Website", "Computers (Brand)", "Electronics", "Electronics Company", "Electronics Store", "Mobile Phone Shop", "Phone-Tablet", "Robotics Company", "Screen Printing & Embroidery", "Sewing & Alterations", "Technology Company", "Telecommunication Company", "Tools-Equipment"],
+	["Alternative & Holistic Health Service", "Aromatherapy Service", "Biotechnology Company", "Blood Bank", "Cemetery", "Day Spa", "Dentist & Dental Office", "Dermatologist", "Doctor", "Drug Addiction Treatment Center", "General Dentist", "Health & Wellness Website", "Health Food Store", "Health Spa", "Health-Beauty", "Healthcare Administrator", "Hospital", "Massage Service", "Medical & Health", "Medical Center", "Medical Company", "Medical Research Center", "Medical School", "Medical Service", "Medical Spa", "Medical Supply Store", "Mental Health Service", "Nutritionist", "Occupational Safety and Health Service", "Occupational Therapist", "Orthodontist", "Pharmaceuticals", "Pharmacy - Drugstore", "Physical Therapist", "Psychologist", "Psychotherapist", "Reflexologist", "Safety & First Aid Service", "Spa", "Vitamins-Supplements", "Weight Loss Center"],
+	["Airline Company", "Airline Industry Service", "Airport", "Airport Lounge", "Airport Terminal", "Boat Tour Agency", "City", "Community Center", "Community Service", "Consulate & Embassy", "Country", "Country Club - Clubhouse", "County", "Cruise Agency", "Cruise Line", "Eco Tour Agency", "Exchange Program", "Geographical Place", "Historical Place", "Hot Air Balloon Tour Agency", "Hotel", "Island", "Landmark & Historical Place", "Language", "Local & Travel Website", "Local Service", "Locality", "Monument", "Neighborhood", "Port", "Public Garden", "Region", "Regional Website", "Social Club", "Society & Culture Website", "State", "State-Province-Region", "Statue & Fountain", "Time zone", "Tour Agency", "Tour Guide", "Tourist Information Center", "Township", "Translator", "Travel Agency", "Travel Company", "Travel Service", "TypeAhead", "Youth Organization"],
+	["Advertising Agency", "Advertising-Marketing", "Broadcasting & Media Production Company", "Cable & Satellite Company", "Copywriting Service", "Course", "Entertainer", "Episode", "Internet Marketing Service", "Journalist", "Magazine", "Marketing Agency", "Marketing Consultant", "Media", "Media Agency", "Media-News Company", "Monarch", "Movie-Television Studio", "News & Media Website", "News Personality", "Newspaper", "Newsstand", "Party Entertainment Service", "Personal Website", "Podcast", "Public Figure", "Public Relations Agency", "Radio Station", "Show", "Signs & Banner Service", "Social Media Agency", "TV", "TV & Movies", "TV Channel", "TV Genre", "TV Network", "TV Season", "TV Show", "TV-Movie Award", "Talent Agent", "Writing Service"],
+	["Aerospace Company", "Armed Forces", "Aviation School", "Defense Company", "Flight School", "Law Enforcement Agency", "Military Base", "Police Station"],
+	["Adult Entertainment Service", "Drive-In Movie Theater", "Event Videographer", "Film Director", "Movie", "Movie & Music Store", "Movie Character", "Movie Genre", "Movie Theater", "Producer", "Video", "Video Creator"],
+	["Album", "Band", "Concert Tour", "DJ", "Event", "Event Planner", "Festival", "Jazz & Blues Club", "Karaoke", "Live Music Venue", "Music", "Music Award", "Music Chart", "Music Lessons & Instruction School", "Music Production Studio", "Music Store", "Music Video", "Musical Genre", "Musical Instrument", "Musical Instrument Store", "Musician", "Musician-Band", "Orchestra", "Playlist", "Private Members Club", "Record Label", "Song", "Symphony", "Ticket Sales"],
+	["Animal", "Animal Shelter", "Aquatic Pet Store", "Dog Trainer", "Dog Walker", "Kennel", "Pet", "Pet Groomer", "Pet Service", "Pet Sitter", "Pet Store", "Pet Supplies", "Petting Zoo", "Veterinarian", "Wildlife Sanctuary", "Zoo"],
+	["City Hall", "Government Building", "Government Official", "Government Website", "Intellectual Property Lawyer", "Labor & Employment Lawyer", "Lawyer & Law Firm", "Legal Service", "Political Candidate", "Political Ideology", "Political Organization", "Political Party", "Politician", "Public & Government Service", "Public Service", "Public Square - Plaza"],
+	["The Holy Bible", "Apostolic Church", "Assemblies of God", "Baptist Church", "Catholic Church", "Charismatic Church", "Christian Church", "Church", "Church of Christ", "Church of God", "Evangelical Church", "Independent Church", "Mission", "Nazarene Church", "Nondenominational Church", "Presbyterian Church", "Religious Bookstore", "Religious Center", "Religious Organization", "Religious Place of Worship", "Religious organisation", "Religious centre","Astrologist", "Buddhist Temple", "Church of Jesus Christ of Latter-day Saints", "Yoga Studio"],
+	["App Page", "Information Technology Company", "Internet Cafe", "Internet Company", "Internet Service Provider", "Software", "Software Company", "Web Designer"],
+	["Amateur Sports Team", "Archery Range", "Athlete", "Baseball Stadium", "Batting Cage", "Beach", "Beach Resort", "Biking", "Boat Service", "Bowling Alley", "Canoe & Kayak Rental", "Coach", "Equestrian Center", "Fitness Boot Camp", "Fitness Model", "Golf Course & Country Club", "Gym-Physical Fitness Center", "Hiking", "Ice Skating Rink", "Lake", "Marina", "Martial Arts School", "Mountain Biking Shop", "Ocean", "Outdoor & Sporting Goods Company", "Outdoor Equipment Store", "Paragliding", "Park", "Personal Coach", "Personal Trainer", "Professional Sports Team", "Public Swimming Pool", "Race Track", "Recreation & Sports Website", "Recreation Center", "Recreation Spot", "River", "Rock Climbing Gym", "Rodeo", "School Sports Team", "Scuba Diving Center", "Skate Shop", "Skiing", "Skydiving Center", "Snorkeling Spot", "Sport", "Sporting Goods Store", "Sports", "Sports & Fitness Instruction", "Sports & Recreation", "Sports & Recreation Venue", "Sports Bar", "Sports Club", "Sports Event", "Sports League", "Sports Promoter", "Sports Team", "Sportswear Store", "Stadium, Arena & Sports Venue", "Surf Shop", "Surfing Spot", "Swimming", "Tennis Court"],
+	["Bus Line", "Cargo & Freight Company", "Energy Company", "Harbor", "Marine Service Station", "Railroad Company", "Railway Station", "Scooter Rental", "Storage Facility", "Subway Station", "Towing Service", "Train Station", "Transit Hub", "Transit Stop", "Transportation Service", "Travel & Transportation"]
+	];
+
+	
+	var searchData = "";
+
+	function contains(thisText, searchString)
+	{
+		//debugLog("contains(" + thisText + "," + searchString + ")");
+
+		if (thisText == null)
+		{
+			return false;
+		}
+		
+		return thisText.indexOf(searchString) != -1;
+	} // end function contains
+	
+	function searchLikes(searchText)
+	{
+		if (searchText == "")
+		{
+			document.getElementById("resultsHtml").innerHTML = "Search cancelled";
+			return;
+		}
+	
+		var resultsHtml = "";
+		var resultsArray = [];
+		
+		var searchRegexString = "^" + "(" + searchText + ")";
+				
+		searchRegexString = searchRegexString + "$";
+				
+		var searchRegex = new RegExp(searchRegexString, "gm");
+				
+		//document.write(searchRegex);
+				
+		var searchResultsArray = searchData.match(searchRegex);
+
+		
+		return searchResultsArray;
+		
+	} // end function searchLoadedData
+	
+	function sortButtonClicked()
+	{
+		searchData = document.getElementById("inputText").value;
+		
+		var categoryCounts = [];
+		
+		var numberCategories = sortedCategories.length;
+		
+		var outputArray = [];
+		
+		var outputText = "";
+		
+		for (var currentCategory = 0; currentCategory < numberCategories; currentCategory++)
+		{
+			var thisCategoryCount = 0;
+			
+			var thisCategory = sortedCategories[currentCategory];
+			
+			var thisFacebookCategories = facebookCategories[currentCategory];
+			
+			var numberFacebookCategories = 0; 
+			
+			if (thisFacebookCategories != null)
+			{
+				numberFacebookCategories = thisFacebookCategories.length;
+			} // end if there are facebook categories
+			
+			for (var currentFacebookCategory = 0; currentFacebookCategory < numberFacebookCategories; currentFacebookCategory++)
+			{
+				//var thisFacebookCategory = thisFacebookCategories[currentFacebookCategory];
+				var thisFacebookCategory = facebookCategories[currentCategory][currentFacebookCategory];
+				
+				var searchResults = searchLikes(thisFacebookCategory);
+				
+				var numberResults = 0;
+				
+				if (searchResults != null)
+				{
+					numberResults = searchResults.length;
+					
+					//console.log(numberResults + "	" + thisFacebookCategory + "	" + thisCategory);
+				}
+				
+				thisCategoryCount = thisCategoryCount + numberResults;
+				
+			} // end for every facebook category
+			
+			categoryCounts.push(thisCategoryCount);
+			
+			var outputLine = thisCategoryCount + "	" + thisCategory;
+			
+			outputArray.push(outputLine);
+			
+		} // end for every category
+		
+		
+		var outputArraySorted = outputArray.sort(
+		function(a,b)
+			{
+				var c = parseInt(a,10);
+				var d = parseInt(b,10);
+				return c-d;
+			}
+		);
+		
+		var reversedArray = outputArraySorted.reverse();
+		
+		var outputText = reversedArray.join("\n");
+		
+		document.getElementById("outputText").value = outputText;
+		
+	} // end function sortButtonClicked
+	
+  </script>
+  
+</html>
