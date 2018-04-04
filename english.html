@@ -1654,8 +1654,21 @@
 			// If we have parameters
 			if ((QueryString.text != "") && (QueryString.text != undefined))
 			{
-			    document.getElementById("englishTextArea").value = QueryString.text;
-			    document.getElementById("chineseTextArea").value = "";
+				var englishText = QueryString.text;
+				
+				englishText = replaceChars(englishText, "§", "\n");
+				
+			    document.getElementById("englishTextArea").value = englishText;
+
+				var chineseText = "";
+				
+				if ((QueryString.chineseText != "") && (QueryString.chineseText != undefined))
+				{
+					chineseText = QueryString.chineseText;
+					chineseText = replaceChars(chineseText, "§", "\n");
+				}
+
+			    document.getElementById("chineseTextArea").value = chineseText;
 			    
 			    wordSpaceButtonClicked();
 			    
