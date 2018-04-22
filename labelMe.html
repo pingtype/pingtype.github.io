@@ -558,7 +558,45 @@ html, body {
 		</tr>
     </table>
     
-<dl>  <dt>    Browser market share June 2015  </dt>  <dd class="percentage percentage-11"><span class="text">IE 11: 11.33%</span></dd>  <dd class="percentage percentage-49"><span class="text">Chrome: 49.77%</span></dd>  <dd class="percentage percentage-16"><span class="text">Firefox: 16.09%</span></dd>  <dd class="percentage percentage-5"><span class="text">Safari: 5.41%</span></dd>  <dd class="percentage percentage-2"><span class="text">Opera: 1.62%</span></dd>  <dd class="percentage percentage-2"><span class="text">Android 4.4: 2%</span></dd></dl>
+    <div id="outputGraph">
+		<dl>
+			<dt>
+				Browser market share June 2015  
+			</dt>
+			<dd class="percentage percentage-11">
+				<span class="text">
+					IE 11: 11.33%
+				</span>
+			</dd>
+			<dd class="percentage percentage-49">
+				<span class="text">
+					Chrome: 49.77%
+				</span>
+			</dd>
+			<dd class="percentage percentage-16">
+				<span class="text">
+					Firefox: 16.09%
+				</span>
+			</dd>
+			<dd class="percentage percentage-5">
+				<span class="text">
+					Safari: 5.41%
+				</span>
+			</dd>
+			<dd class="percentage percentage-2">
+				<span class="text">
+					Opera: 1.62%
+				</span>
+			</dd>
+			<dd class="percentage percentage-2">
+				<span class="text">
+					Android 4.4: 2%
+				</span>
+			</dd>
+		</dl>
+	
+	</div>
+
     
   </body>
   
@@ -735,6 +773,23 @@ html, body {
 		var outputText = reversedArray.join("\n");
 		
 		document.getElementById("outputText").value = outputText;
+		
+		// Build the output graph
+		
+		var numberRows = reversedArray.length;
+		
+		var outputGraphHtml = "<dl>\n<dt>\nFacebook likes\n</dt>\n";
+
+		for (var currentRow = 0; currentRow < numberRows; currentRow++)
+		{
+		
+			var outputGraphLine = "<dd class=\"percentage percentage-11\">\n<span class=\"text\">\nIE 11: 11.33%\n</span>\n</dd>\n"
+
+			outputGraphHtml = outputGraphHtml + outputGraphLine;
+		
+			outputGraphHtml = outputGraphHtml + "</dl>\n";
+		} // end for every row of the output array
+		
 		
 	} // end function sortButtonClicked
 	
