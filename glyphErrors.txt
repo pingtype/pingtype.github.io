@@ -7,3 +7,4 @@
 薯條 de 薯 has 者 but should be only ⺹ and 日, no dot. 
 送 de 关 has 八 but should be 丷. 
 The top of 车 looks weird
+Gg
