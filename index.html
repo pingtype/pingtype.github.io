@@ -84,8 +84,16 @@
 	+ Song to Slide Pictures.scpt to split bilingual song text file into slides saved as a folder of PNGs
 	+ Verse number next to lrc in media viewer
 	+ English button to quickly move to Pingtype English
-		
+	+ Taiwanese romanised dictionary from TTV using Bible TTV Space from POJ.scpt. Then manually fix 108 spacing errors, sort by frequency, extract tones, paste together. 
+	+ Manually add 魚 to Oracle Bones font using fontforge, from Wikipedia SVG for Tristan
+	
 	To do:
+	- pingtype english show pinyin
+	- Taiwanese from https://raw.githubusercontent.com/anyong/taigi_tools/master/taigi_tools/TLHJ.DAT
+	- Manually add more Oracle Bones characters to font using fontforge. https://zh.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87 and https://www.omniglot.com/chinese/jiaguwen.htm
+	- Dictionaries from OpenVanilla https://groups.google.com/forum/?fromgroups/openvanilla#!forum/openvanilla https://github.com/openvanilla/openvanilla/ https://openvanilla.org
+	- Hakka in subtitlesButtonClicked
+	- Hakka dictionary editor
 	- documentation 求 + 和 ≠ 求和
 	- OCR https://blog.algorithmia.com/advanced-image-manipulation-and-data-extraction/
 	- blog editor with https://www.netlifycms.org/docs/ https://github.com/netlify/netlify-cms/tree/master/example https://www.netlify.com/blog/2017/08/17/a-complete-cms-with-no-server-and-18-lines-of-code/
@@ -367,6 +375,11 @@
     src: url("fonts/virtue.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Pingfang";
+    src: url("fonts/PingFang1.ttf") format("truetype");
+}
+
       body {
         font-family: Tahoma, Geneva, sans-serif;
       }
@@ -382,56 +395,56 @@
 	}
 		
       .chinese_1 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
         color:#000000;
 		font-size: 30px;
 		display:inline;
       }
 
       .chinese_2 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#f82423;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_3 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#189c19;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_4 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#178FD1;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_5 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_6 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
 
       .chinese_7 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
       }
       
       .chinese_8 {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
 color:#000000;
 font-size: 30px;
 display:inline;
@@ -547,6 +560,43 @@ color:#000000;
 display:inline;
       }
 
+      .hakka_1 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		display:inline;
+      }
+
+      .hakka_2 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#f82423;
+display:inline;
+      }
+
+      .hakka_3 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#178FD1;
+font-size: 30px;
+display:inline;
+      }
+
+      .hakka_4 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#189c19;
+display:inline;
+      }
+
+      .hakka_5 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#0000FF;
+display:inline;
+      }
+
+      .hakka_6 {
+        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+color:#F08000;
+display:inline;
+      }
+
       .hangul {
         font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
         color:#000000;
@@ -573,19 +623,19 @@ display:inline;
       }
 
       .englishInChinese {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
 color:#000000;
 display:inline;
       }
 
       .literal {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
 color:#000000;
 display:inline;
       }
 
       .english {
-        font-family: "Heiti TC Light", Tahoma, Geneva, sans-serif;
+        font-family: "Pingfang", "Jhenghei", "Heiti TC Light", Tahoma, Geneva, sans-serif;
 color:#000000;
 display:inline;
       }
@@ -759,7 +809,7 @@ display:inline;
 
 @font-face {
     font-family: "OracleBones";
-    src: url("fonts/bnujgw.ttf") format("truetype");
+    src: url("fonts/bnujgw-withYu.ttf") format("truetype");
 }
 
       .oracleBones_1 {
@@ -790,6 +840,48 @@ font-size: 30px;
 display:inline;
       }
 
+input[type='range'] {
+    -webkit-appearance: none !important;
+	margin:0px;
+	padding:0px;
+    background: #000;
+    height:13px;
+	border-bottom:#333 1px solid;
+}
+input[type='range']::-ms-fill-lower  {
+	background:#000;
+}
+input[type='range']::-ms-fill-upper  {
+	background:#000;
+}
+input[type='range']::-moz-range-track {
+	border:none;
+    background: #000;
+}
+input[type='range']::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    background: radial-gradient(#FFF, #333);
+    height:11px;
+    width:11px;
+	border-radius:100%;
+	cursor:pointer;
+}
+input[type='range']::-moz-range-thumb {
+    background: radial-gradient(#FFF, #333);
+    height:11px;
+    width:11px;
+	border-radius:100%;
+	cursor:pointer;
+}
+input[type='range']::-ms-thumb {
+    -webkit-appearance: none !important;
+    background: radial-gradient(#FFF, #333);
+    height:11px;
+    width:11px;
+	border-radius:100%;
+	cursor:pointer;
+}
+
 
     </style>
 
@@ -798,8 +890,8 @@ display:inline;
 	<link rel="stylesheet" href="leaflet/leaflet.css" />
 	<link rel="stylesheet" href="jquery-ui.css"/>
 
-<!--	<link rel="preload" href="chineseFontsLoaded.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
-<!--	<noscript><link rel="stylesheet" href="chineseFontsLoaded.css"></noscript> -->
+	<link rel="preload" href="chineseFontsLoaded.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript><link rel="stylesheet" href="chineseFontsLoaded.css"></noscript>
 
   </head>
 <!--  <body onkeydown="keyDown();">-->
@@ -1243,6 +1335,9 @@ display:inline;
 						<input type="checkbox" id="taiwaneseCheckbox" ><span onclick="taiwaneseCheckboxClicked('taiwaneseCheckbox');">Taiwanese 台語</span>
 					</td>
 					<td>
+						<input type="checkbox" id="hakkaCheckbox" ><span onclick="hakkaCheckboxClicked('hakkaCheckbox');">Hakka 客語</span>
+					</td>
+					<td>
 						<div id="editTaiyuButton" class="ButtonInner" onclick="openTaiwaneseDictionaryEditor();" style="width:60px">
 							EditTaiyu
 						</div>
@@ -1504,6 +1599,11 @@ display:inline;
 						Cantonese
 					</div>
 				</td>
+				<td>
+					<div id="hakkaButton" class="ButtonInner regional" onclick="hakkaColours();" style="visibility:hidden;width:90px">
+						Hakka
+					</div>
+				</td>
 			</tr>
 		</table>
 		
@@ -1573,6 +1673,29 @@ display:inline;
 					</td>
 					<td>
 						<input class="jscolor" id="cantoneseColourPickerSix" value="000000" onchange="updateColours();">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Hakka
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerOne" value="000000" onchange="updateColours();">
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerTwo" value="f82423" onchange="updateColours();">
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerThree" value="178FD1" onchange="updateColours();">
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerFour" value="189c19" onchange="updateColours();">
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerFive" value="0000FF" onchange="updateColours();">
+					</td>
+					<td>
+						<input class="jscolor" id="hakkaColourPickerSix" value="F08000" onchange="updateColours();">
 					</td>
 				</tr>
 			</table>
@@ -2073,6 +2196,11 @@ display:inline;
 											Taiwanese
 										</div>
 									</td>
+									<td>
+										<div id="searchHakkaButton" class="ButtonInner regional" onclick="searchHakkaButtonClicked();" style="width:100px;visibility:hidden">
+											Hakka
+										</div>
+									</td>
 								</tr>
 								<tr>
 									<td>
@@ -2102,6 +2230,8 @@ display:inline;
 											Cantonese
 										</div>
 									</td>
+									<td>
+									</td>
 								</tr>
 								
 								<tr>
@@ -2129,6 +2259,8 @@ display:inline;
 										<div id="vietnameseButton" class="ButtonInner regional" onclick="searchVietnameseButtonClicked();" style="visibility:hidden">
 											Vietnamese
 										</div>
+									</td>
+									<td>
 									</td>
 								</tr>
 								
@@ -2957,6 +3089,7 @@ display:inline;
 										<p>Your user agent does not support the HTML5 Video element.</p>
 									</video>
 								</div>
+								<input id="seekslider" type="range" min="0" max="100" value="0" step="1" style="width:180px">
 							</td>
 						</tr>
 					</table>
@@ -2979,9 +3112,9 @@ display:inline;
   <script src="jscolor.js"></script>
   <script src="jquery-3.2.1.min.js"></script>
   <script src="jquery-ui.js"></script>
-<!--  <script src="onloadCSS.js"></script> -->
-<!--   <script src="loadCSS.js"></script> -->
-<!--   <script src="cssrelpreload.js"></script> -->
+  <script src="onloadCSS.js"></script>
+  <script src="loadCSS.js"></script>
+  <script src="cssrelpreload.js"></script>
 
   <!-- Native scripts -->
   <script>
@@ -3004,6 +3137,12 @@ display:inline;
 		var twoWordsTaiwanese = "\n";
 		var oneWordsTaiwanese = "\n";
 
+		var fiveWordsHakka = "\n";
+		var fourWordsHakka = "\n";
+		var threeWordsHakka = "\n";
+		var twoWordsHakka = "\n";
+		var oneWordsHakka = "\n";
+
 		var longWords;
 		var radicals;
 		var toneNumbersMarks;
@@ -3024,6 +3163,7 @@ display:inline;
 		
 		var taiwaneseData = "";
 		var cantoneseData = "";
+		var hakkaData = "";
 		var hangulData = "";
 		var tangData = "";
 		var japaneseData = "";
@@ -3147,7 +3287,7 @@ display:inline;
 			string = string.replace(/\r\n/g,"\n");
 			var utftext = "";
 
-			for (var n = 0; n < stringLength(string); n++) {
+			for (var n = 0; n < string.length; n++) {
 
 				var c = string.charCodeAt(n);
 
@@ -3175,7 +3315,7 @@ display:inline;
 			var i = 0;
 			var c = c1 = c2 = 0;
 
-			while ( i < stringLength(utftext) ) {
+			while ( i < utftext.length ) {
 
 				c = utftext.charCodeAt(i);
 
@@ -3389,6 +3529,42 @@ display:inline;
 		var audioLoaderMediaViewer = document.getElementById('audioLoaderMediaViewer');
 
 		audioLoaderMediaViewer.addEventListener('change', uploadAudioMediaViewer, false);
+		
+		
+		// Seek in audio viewer (this used to be built into Safari 9!)		
+		var seeking = false;
+		var seekslider = document.getElementById('seekslider');
+		
+		seekslider.addEventListener("mousedown", function(event){ seeking=true; seek(event); });
+		seekslider.addEventListener("mousemove", function(event){ seek(event); });
+		seekslider.addEventListener("mouseup",function(){ seeking=false; });
+		
+		document.getElementById("mediaViewerVideo").addEventListener("timeupdate", function(){ seektimeupdate(); });
+
+		function seek(event)
+		{
+	    	if(seeking)
+	    	{
+		    	//var seekSliderValue = event.clientX - seekslider.offsetLeft;
+		    	var seekSliderValue = document.getElementById('seekslider').value;
+		        var seekto = document.getElementById("mediaViewerVideo").duration * (seekSliderValue / 100);
+		        document.getElementById("mediaViewerVideo").currentTime = seekto;
+	    	}
+    	} // end function seek
+    	
+		function seektimeupdate()
+		{
+			var nt = document.getElementById("mediaViewerVideo").currentTime * (100 / document.getElementById("mediaViewerVideo").duration);
+			seekslider.value = nt;
+			var curmins = Math.floor(document.getElementById("mediaViewerVideo").currentTime / 60);
+			var cursecs = Math.floor(document.getElementById("mediaViewerVideo").currentTime - curmins * 60);
+			var durmins = Math.floor(document.getElementById("mediaViewerVideo").duration / 60);
+			var dursecs = Math.floor(document.getElementById("mediaViewerVideo").duration - durmins * 60);
+			if(cursecs < 10){ cursecs = "0"+cursecs; }
+			if(dursecs < 10){ dursecs = "0"+dursecs; }
+			if(curmins < 10){ curmins = "0"+curmins; }
+			if(durmins < 10){ durmins = "0"+durmins; }
+		} // end function seektimeupdate
 
 		function uploadAudioMediaViewer(event)
 		{
@@ -4483,6 +4659,36 @@ display:inline;
 				
 		} // end loadTaiwanese
 
+		function loadHakka(filename)
+		{
+			//debugLog("loadHakka(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						hakkaData = xmlhttp.responseText;
+					    
+					    hakkaToWordLengths();
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading hakka');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadHakka
+
 		function loadTaiwaneseAndTranslate(filename)
 		{
 			//debugLog("loadTaiwaneseAndTranslate(" + filename + ")");
@@ -4793,12 +4999,18 @@ display:inline;
 			}
 		
 			var regexAstralSymbols = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
-
+			
+			try
+			{
 			return thisString
+			//;
 			// Replace every surrogate pair with a BMP symbol.
 			.replace(regexAstralSymbols, '_')
 			// …and *then* get the length.
 			.length;
+			} catch (error) {
+				return thisString.length;
+			}
 		} // end function stringLength
 		
 		// From https://mathiasbynens.be/notes/javascript-unicode
@@ -5614,6 +5826,55 @@ display:inline;
 			
 		} // end function dictionarySearchCantonese
 		
+		function dictionaryContainsHakka(thisWordChinese)
+		{
+			//debugLog("dictionaryContainsHakka");
+			
+			var wordLength = stringLength(thisWordChinese);
+			
+			switch (wordLength)
+			{
+				case 5: return contains(fiveWordsHakka, "\n" + thisWordChinese + "\n"); break;
+				case 4: return contains(fourWordsHakka, "\n" + thisWordChinese + "\n"); break;
+				case 3: return contains(threeWordsHakka, "\n" + thisWordChinese + "\n"); break;
+				case 2: return contains(twoWordsHakka, "\n" + thisWordChinese + "\n"); break;
+				case 1: return contains(oneWordsHakka, "\n" + thisWordChinese + "\n"); break;
+				default: return false; break;
+			}		
+		} // end function dictionaryContainsHakka
+
+		function dictionarySearchHakka(thisWordChinese)
+		{
+			//debugLog("dictionarySearchHakka");
+			
+			var searchResults = [];
+			
+			if (dictionaryContainsHakka(thisWordChinese) == false)
+			{
+				return searchResults;
+			}
+			
+			var hakkaDataArray = hakkaData.split("\n" + thisWordChinese + "	");
+			
+			var numberResults = hakkaDataArray.length;
+			
+			for (var currentResult = 0; currentResult < numberResults; currentResult++)
+			{
+				var thisResult = hakkaDataArray[currentResult];
+				
+				thisResult = textBetween(thisResult, "start", "\n");
+				
+				// Index 0 is just the first line of the dictionary, so we read results from index 1
+				searchResults.push(thisResult);
+				
+			} // end for every result
+			
+			//debugLog(searchResults.join(","));
+			
+			return searchResults;
+			
+		} // end function dictionarySearchHakka
+		
 		function getTaiwanese(thisWordChinese, thisPinyinWord)
 		{
 			//debugLog("getTaiwanese(" + thisWordChinese + "," + thisPinyinWord + ")");
@@ -6200,6 +6461,578 @@ display:inline;
 			return taiwaneseHtmlWords;
 			
 		} // end function getTaiwaneseHtmlCharacters
+
+		function getHakka(thisWordChinese, thisPinyinWord)
+		{
+			//debugLog("getHakka(" + thisWordChinese + "," + thisPinyinWord + ")");
+			
+			var addToneNumbers = document.getElementById('toneNumbersCheckbox').checked;
+			var toneSuperscripts = ["", "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹"];
+			
+			var thisHakka = "";
+			
+			var dictionaryResultsArray = dictionarySearchHakka(thisWordChinese);
+			
+			var numberResults = dictionaryResultsArray.length;
+			
+			var mouseoverText = "";
+			
+			var thisHakkaTonesArray = [];
+			
+			if (numberResults > 0)
+			{
+				/*
+				thisHakka = textBetween(hakkaData, "\n" + thisWordChinese + "	","	");
+				
+				thisHakka = textBetween(thisHakka, "start","(");
+				
+				
+				thisHakka = textBetween(hakkaData, "\n" + thisWordChinese + "	","\n");
+				*/
+				
+				if (numberResults > 1)
+				{
+					var mouseoverArray = [];
+					
+					for (var currentResult = 2; currentResult < numberResults; currentResult++)
+					{
+						var thisResult = dictionaryResultsArray[currentResult];
+						
+						thisResult = textBetween(thisResult, "start", "	");
+						
+						mouseoverArray.push(thisResult);
+					} // end for every other result
+					
+					mouseoverText = mouseoverArray.join(",");
+					
+				} // end if there is more than one result
+				
+				// Use index 1 because index 0 is just the first line of the dictionary
+				thisHakka = dictionaryResultsArray[1];
+				
+				thisHakkaTones = textBetween(thisHakka, "	","end");
+				thisHakka = textBetween(thisHakka, "start", "	");
+				
+				var numberCharacters = stringLength(thisWordChinese);
+				
+				var thisHakkaWordsArray = thisHakka.split(" ");
+				thisHakkaTonesArray = stringToCharacterArray(thisHakkaTones);
+				
+				thisHakka = "";
+				
+				var numberHakkaWords = thisHakkaWordsArray.length;
+				
+				for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+				{
+					var thisHakkaWord = thisHakkaWordsArray[currentCharacter];
+					var thisCharacterHakka = thisHakka[currentCharacter];
+					var thisCharacterHakkaTone = thisHakkaTonesArray[currentCharacter];
+					
+					if (currentCharacter >= numberHakkaWords)
+					{
+						thisHakkaWord = "";
+					}
+										
+					if (addToneNumbers == true)
+					{
+						var thisTone = toneSuperscripts[thisCharacterHakkaTone];
+					   
+						if (thisTone != undefined)
+						{
+							thisHakka = thisHakka + thisHakkaWord + thisTone + " ";
+						} else {
+							thisHakka = thisHakka + thisHakkaWord + " ";
+						}
+					} else {
+						thisHakka = thisHakka + thisHakkaWord + " ";
+					}
+					
+				} // end for every character
+								
+			} else {
+				// try to get each character
+				
+				var numberCharacters = stringLength(thisWordChinese);
+				
+				if (numberCharacters == 1)
+				{
+					// use pinyin
+					thisHakka = thisPinyinWord;
+				} else {
+					var thisPinyinArray = thisPinyinWord.split(" ");
+					
+					for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+					{
+						var thisCharacterChinese = thisWordChinese[currentCharacter];
+						var thisCharacterPinyin = "";
+						
+						if (currentCharacter < thisPinyinArray.length)
+						{
+							thisCharacterPinyin = thisPinyinArray[currentCharacter];
+						}
+						
+						var thisCharacterHakkaResults = getHakka(thisCharacterChinese, thisCharacterPinyin);
+						var thisCharacterHakka = thisCharacterHakkaResults[0];
+						var thisCharacterHakkaOptions = thisCharacterHakkaResults[1];
+						var thisCharacterTone = thisCharacterHakkaResults[2];
+						
+						thisHakkaTonesArray.push(thisCharacterTone);
+						
+						thisHakka = thisHakka + thisCharacterHakka;
+						
+						mouseoverText = mouseoverText + thisCharacterHakkaOptions + ",";
+						
+						//thisHakka = thisHakka + getHakka(thisCharacterChinese, thisCharacterPinyin) + " ";
+					}
+				} // end if the word is more than one character
+				
+			} // end if the hakka is in the dictionary
+			
+			var thisHakkaArray = [thisHakka, mouseoverText, thisHakkaTonesArray];
+			
+			return thisHakkaArray;
+			
+			//return thisHakka;
+			
+		} // end function getHakka
+		
+		function getHakkaTonesHtml(thisWord, thisTone)
+		{
+			//debugLog("getHakkaTonesHtml(" + thisWord + "," + thisTone + ")");
+			
+			var thisWordSized;
+
+			if (thisWord == undefined)
+			{
+				return thisWord;
+			}
+
+			if (thisTone == undefined)
+			{
+				return thisWord;
+			}
+
+			if (thisTone == 1)
+			{
+				return thisWord;
+			}
+			
+			var thisWordArray = stringToCharacterArray(thisWord);
+			
+			var numberCharacters = thisWordArray.length;
+			
+			// Longest is 7
+			
+			if (numberCharacters == 1)
+			{
+				thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>";
+				return thisWordSized;
+			}
+			
+			if (numberCharacters == 2)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>";
+					return thisWordSized;
+				}
+				
+				return thisWord;
+			}
+
+			if (numberCharacters == 3)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:18px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:14px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>";
+					return thisWordSized;
+				}
+				
+				return thisWord;
+			}
+
+			if (numberCharacters == 4)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:18px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+				
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:14px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>";
+					return thisWordSized;
+				}
+				
+				return thisWord;
+			
+			}
+
+			if (numberCharacters == 5)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+				
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:18px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:14px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[4] + "</span>";
+					return thisWordSized;
+				}
+				
+				return thisWord;
+			}
+
+			if (numberCharacters == 6)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+				
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:18px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:14px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[5] + "</span>";
+					return thisWordSized;
+				}
+				
+				return thisWord;
+			}
+			
+			if (numberCharacters == 7)
+			{
+				if (thisTone == 1)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+				
+				if (thisTone == 2)
+				{
+					thisWordSized = "<span style=\"font-size:15px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 3)
+				{
+					thisWordSized = "<span style=\"font-size:20px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:19px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:17px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 4)
+				{
+					thisWordSized = "<span style=\"font-size:18px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+				
+				if (thisTone == 5)
+				{
+					thisWordSized = "<span style=\"font-size:16px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+
+				if (thisTone == 6)
+				{
+					thisWordSized = "<span style=\"font-size:14px\">" + thisWordArray[0] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[1] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[2] + "</span>" + "<span style=\"font-size:18px\">" + thisWordArray[3] + "</span>" + "<span style=\"font-size:16px\">" + thisWordArray[4] + "</span>" + "<span style=\"font-size:15px\">" + thisWordArray[5] + "</span>" + "<span style=\"font-size:14px\">" + thisWordArray[6] + "</span>";
+					return thisWordSized;
+				}
+
+				return thisWord;
+				
+			}
+			
+			return thisWord;
+			
+		} // end function getHakkaTonesHtml
+		
+		function getHakkaHtml(theseWordsChinese, theseWordsHakka, currentLine, currentLineHakkaWord)
+		{
+			//debugLog("getHakkaHtml(" + theseWordsChinese + "," + theseWordsHakka + ")");
+			
+			var hakkaHtmlWords = "";
+
+			var dictionaryResultsArray = dictionarySearchHakka(theseWordsChinese);
+			
+			var numberResults = dictionaryResultsArray.length;
+			
+			var mouseoverText = "";
+			
+			if (numberResults > 0)
+//			if (contains(hakkaData, "\n" + theseWordsChinese + "	"))
+			{
+				
+				if (numberResults > 1)
+				{
+					var mouseoverArray = [];
+					
+					for (var currentResult = 2; currentResult < numberResults; currentResult++)
+					{
+						var thisResult = dictionaryResultsArray[currentResult];
+						
+						thisResult = textBetween(thisResult, "start", "	");
+						
+						mouseoverArray.push(thisResult);
+					} // end for every other result
+					
+					mouseoverText = mouseoverArray.join(" ");
+					
+				} // end if there is more than one result
+				
+				
+				// Read from result index 1, because index 0 is the first text item in the dictionary
+				var thisResult = dictionaryResultsArray[1];
+				
+				//var thisHakkaTones = textBetween(hakkaData, "\n" + theseWordsChinese + "	","\n");
+				var thisHakkaTones = thisResult;
+				thisHakkaTones = textBetween(thisHakkaTones, "	", "end");
+				var numberTones = thisHakkaTones.length;
+				
+				var theseWordsChineseArray = stringToCharacterArray(theseWordsChinese);
+				var thisHakkaArray = theseWordsHakka.split(" ");
+				var thisHakkaTonesArray = stringToCharacterArray(thisHakkaTones);
+				var numberWords = theseWordsChineseArray.length;
+				var numberHakkaWords = thisHakkaArray.length;
+				
+				if (numberTones < numberWords)
+				{
+					hakkaHtmlWords = getHakkaHtmlCharacters(theseWordsChinese, theseWordsHakka, currentLine, currentLineHakkaWord);
+				} else {
+					for (var currentCharacter = 0; currentCharacter < numberWords; currentCharacter++)
+					{
+						var thisCharacterHakka = thisHakkaArray[currentCharacter];
+						var thisCharacterHakkaTone = thisHakkaTonesArray[currentCharacter];
+					
+						//debugLog(thisCharacterHakka + "," + thisCharacterHakkaTone);
+					
+						if (currentCharacter >= numberHakkaWords)
+						{
+							thisCharacterHakka = "";
+						}
+					
+						var thisHakkaHtmlWordTonesHtml = getHakkaTonesHtml(thisCharacterHakka, thisCharacterHakkaTone);
+					
+						// Default to black
+						if (thisCharacterHakkaTone == undefined)
+						{
+							thisCharacterHakkaTone = 7;
+						}
+					
+						thisHakkaHtmlWord = "<div ";
+						
+						var pfsId = "pfsLine" + currentLine + "Word" + currentLineHakkaWord + "Character" + currentCharacter;
+						
+						thisHakkaHtmlWord = thisHakkaHtmlWord + "id=\"" + pfsId + "\" ";
+					
+						if (mouseoverText != "")
+						{
+							thisHakkaHtmlWord = thisHakkaHtmlWord + "title=\"" + mouseoverText + "\" ";
+						} // if there are other options
+					
+					
+						thisHakkaHtmlWord = thisHakkaHtmlWord + "class=\"hakka_" + thisCharacterHakkaTone + "\">" + thisHakkaHtmlWordTonesHtml + "</div>";
+					
+						hakkaHtmlWords = hakkaHtmlWords + thisHakkaHtmlWord + " ";
+					} // end for every character in the Hakka
+					
+				} // end if numberTones < numberHakkaWords then automatically charsToPoj
+				
+			} else {
+				hakkaHtmlWords = getHakkaHtmlCharacters(theseWordsChinese, theseWordsHakka, currentLine, currentLineHakkaWord);
+			} // end if the word is in the dictionary	
+						
+			return hakkaHtmlWords;
+			
+		} // end function getHakkaHtml
+		
+		function getHakkaHtmlCharacters(theseWordsChinese, theseWordsHakka, currentLine, currentLineHakkaWord)
+		{
+			//debugLog("getHakkaHtmlCharacters(" + theseWordsChinese + ", " + theseWordsHakka + ")");
+
+			var hakkaHtmlWords = "";
+
+			var thisChineseArray = stringToCharacterArray(theseWordsChinese);
+			var thisHakkaArray = theseWordsHakka.split(" ");
+			var numberWords = thisChineseArray.length;
+			var numberHakkaWords = thisHakkaArray.length;
+							
+			for (var currentCharacter = 0; currentCharacter < numberWords; currentCharacter++)
+			{
+				var thisCharacterChinese = thisChineseArray[currentCharacter];
+				var thisCharacterHakka = thisHakkaArray[currentCharacter];
+				
+				//debugLog(thisCharacterChinese);
+				
+				if (currentCharacter >= numberHakkaWords)
+				{
+					thisCharacterHakka = "";
+				}
+				
+				var thisHakkaTone = 1;
+				
+				var thisHakkaHtmlWord = "";
+
+				var pfsId = "pfsLine" + currentLine + "Word" + currentLineHakkaWord + "Character" + currentCharacter;
+
+				if (dictionaryContainsHakka(thisCharacterChinese) == true)
+				{
+					thisHakkaTone = textBetween(hakkaData, "\n" + thisCharacterChinese + "	","\n");
+					thisCharacterHakka = textBetween(thisHakkaTone, "start", "	");
+					thisHakkaTone = textBetween(thisHakkaTone, "	","end");
+					
+					thisHakkaHtmlWord = getHakkaTonesHtml(thisCharacterHakka, thisHakkaTone);
+
+					thisHakkaHtmlWord = "<div id=\"" + pfsId + "\" class=\"hakka_" + thisHakkaTone + "\">" + thisHakkaHtmlWord + "</div>";
+					
+				} else {
+					thisHakkaHtmlWord = "<div id=\"" + pfsId + "\" class=\"hakka_" + thisHakkaTone + "\">" + thisCharacterHakka + "</div>";
+				}
+				
+				//debugLog(thisHakkaHtmlWord);
+				
+				hakkaHtmlWords = hakkaHtmlWords + thisHakkaHtmlWord + " ";
+				
+			} // end for every character in the word
+			
+			return hakkaHtmlWords;
+			
+		} // end function getHakkaHtmlCharacters
+
 
 		function getCantonese(thisWordChinese, thisPinyinWord)
 		{
@@ -7367,6 +8200,7 @@ display:inline;
 			var addSimplified = document.getElementById('simplifiedSpacedCheckbox').checked;
 			var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 			var addCantonese = document.getElementById('cantoneseCheckbox').checked;
+			var addHakka = document.getElementById('hakkaCheckbox').checked;
 			var monospaceText = document.getElementById('monospaceTextCheckbox').checked;
 			var addHangul = document.getElementById('hangulCheckbox').checked;
 			var addVietnamese = document.getElementById('vietnameseCheckbox').checked;
@@ -7483,6 +8317,9 @@ display:inline;
 				var cantoneseHtml = "";
 				var cantoneseText = "";
 				
+				var hakkaHtml = "";
+				var hakkaText = "";
+
 				var hangulHtml = "";
 				var hangulText = "";
 
@@ -7507,6 +8344,7 @@ display:inline;
 				
 				var currentLineChineseWord = 0;
 				var currentLineTaiwaneseWord = 0;
+				var currentLineHakkaWord = 0;
 				
 				var numberLineWords = thisLineWords.length;
 				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
@@ -7565,6 +8403,12 @@ display:inline;
 						var cantoneseHtmlWord = "";
 					} // end if addCantonese
 
+					if (addHakka == true)
+					{
+						var hakkaHtmlWord = "";
+						
+					} // end if addHakka
+					
 					if (addHangul == true)
 					{
 						var hangulHtmlWord = "";
@@ -7707,6 +8551,31 @@ display:inline;
 							
 							cantoneseText = cantoneseText + thisCantoneseWord + " ";
 						} // end if addCantonese
+
+						if (addHakka == true)
+						{
+							var thisHakkaWordResults = getHakka(thisWord, pinyinWord);
+
+							var thisHakkaWord = thisHakkaWordResults[0];
+							var thisHakkaWordOptions = thisHakkaWordResults[1];
+							var thisHakkaTonesArray = thisHakkaWordResults[2];
+							
+							thisTone = thisHakkaTonesArray.join("");
+							
+							//debugLog(thisTone);
+							
+							var thisHakkaWordArray = [];
+							
+							if (thisHakkaWord != "")
+							{
+								thisHakkaWordArray = thisHakkaWord.split(" ");
+							}
+							
+							hakkaHtmlWord = getHakkaHtml(thisWord, thisHakkaWord, currentLine, currentLineHakkaWord);
+							currentLineHakkaWord = currentLineHakkaWord + 1;
+							
+							hakkaText = hakkaText + thisHakkaWord + " ";
+						} // end if addHakka
 						
 						var thisWordArray = stringToCharacterArray(thisWord);
 						
@@ -8030,6 +8899,13 @@ display:inline;
 								cantoneseHtmlWord = cantoneseHtmlWord + thisWord;
 							} // end if addCantonese
 
+							if (addHakka == true)
+							{
+								hakkaHtmlWord = hakkaHtmlWord + thisWord;
+
+								hakkaText = hakkaText + thisWord + "	";
+							} // end if addHakka
+
 							if (addHangul == true)
 							{
 								hangulHtmlWord = hangulHtmlWord + thisWord;
@@ -8126,9 +9002,27 @@ display:inline;
 					
 					if (addCantonese == true)
 					{
-						cantoneseHtml = cantoneseHtml + cantoneseHtmlWord+ "</td><td>";
+						cantoneseHtml = cantoneseHtml + cantoneseHtmlWord + "</td><td>";
 						cantoneseText = cantoneseText + "  ";
 					} // end if addCantonese
+
+					if (addHakka == true)
+					{
+						if (addCommon == true)
+						{
+							if (thisWord != "")
+							{							
+								if (contains(commonWords,thisWord) == true)
+								{
+									hakkaHtmlWord = "<b>" + hakkaHtmlWord + "</b>";
+								}
+
+							} // end if the word is not blank
+						} // end if addCommon
+
+						hakkaHtml = hakkaHtml + hakkaHtmlWord + "</td><td>";
+						hakkaText = hakkaText + "	";
+					} // end if addHakka
 
 					if (addHangul == true)
 					{
@@ -8280,6 +9174,11 @@ display:inline;
 					outputText = outputText + cantoneseText + "\n";
 				} // end if addCantonese
 				
+				if (addHakka == true)
+				{
+					outputText = outputText + hakkaText + "\n";
+				} // end if addHakka
+
 				if (addTang == true)
 				{
 					outputText = outputText + tangText + "\n";
@@ -8411,6 +9310,11 @@ display:inline;
 					outputHtml = outputHtml + "<tr><td>" + cantoneseHtml + "</td></tr>";
 				}
 
+				if (addHakka ==  true)
+				{
+					outputHtml = outputHtml + "<tr class=\"hakkaLine\"><td>" + hakkaHtml + "</td></tr>";
+				}
+				
 				if (addTang ==  true)
 				{
 					outputHtml = outputHtml + "<tr><td>" + tangHtml + "</td></tr>";
@@ -8519,7 +9423,7 @@ display:inline;
 			} // end if we should count common words
 			
 			// Load Pingfang slower
-			// updateFont();
+			updateFont();
 			
 			var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 			if (addTaiwanese == true)
@@ -8532,6 +9436,12 @@ display:inline;
 			{
 				cantoneseColours();
 			} // end if addCantonese
+
+			var addHakka = document.getElementById('hakkaCheckbox').checked;
+			if (addHakka == true)
+			{
+				hakkaColours();
+			} // end if addHakka
 
 		} // end function translateInterface
 
@@ -10022,6 +10932,64 @@ display:inline;
 			wordsTable.innerHTML = characterWords;
 
 		} // end function searchTaiwaneseButtonClicked
+		
+		function searchHakkaButtonClicked()
+		{
+			//debugLog("searchHakkaButtonClicked");
+
+			var inputWord = document.getElementById("startCharacter").value;
+
+			var searchRegexString = "^(.*" + "	" + inputWord + ".*)$";
+
+			var searchRegex = new RegExp(searchRegexString, "gm");
+			
+			var tonelessHakkaData = removeTones(hakkaData);
+			
+			
+			
+			var characterWordsArray = tonelessHakkaData.match(searchRegex);
+	   
+			if (characterWordsArray == null)
+			{
+				characterWords = "<table></table>";
+				var wordsTable = document.getElementById("characterWords");
+				wordsTable.innerHTML = characterWords;
+				return;
+			}
+	   
+			var characterWords = "<tr>";
+
+			var numberWords = 0;
+
+			for (var currentItem = 0; currentItem < characterWordsArray.length; currentItem++)
+			{
+				var thisItem = characterWordsArray[currentItem];
+
+				var thisItemLines = thisItem.split(/\r?\n/);
+
+				var lastLine = thisItemLines[thisItemLines.length - 1];
+
+				var thisWord = textBetween(lastLine, "start", "	");
+
+   
+				var thisWordHtml = "<div onclick='clickCharacter(\"" + thisWord + "\")'>" + thisWord + "</div>";
+
+				characterWords = characterWords + "<td>" + thisWordHtml + "</td>";
+
+				numberWords = numberWords + 1;
+
+				if ((numberWords % 3) == 0)
+				{
+					characterWords = characterWords + "</tr><tr class='children'>";
+				}
+			} // end for every search result
+
+			characterWords = "<table>" + characterWords + "</table>";
+	
+			var wordsTable = document.getElementById("characterWords");
+			wordsTable.innerHTML = characterWords;
+
+		} // end function searchHakkaButtonClicked
 
 		function dictionaryCharacter(thisCharacter)
 		{
@@ -11410,7 +12378,7 @@ display:inline;
 			thisString = replaceChars(thisString, "ǹ", "n");
 			thisString = replaceChars(thisString, "̀", "");
 			thisString = replaceChars(thisString, "ǎ", "a");
-			thisString = replaceChars(thisString, "ê̌", "e");
+			thisString = replaceChars(thisString, "ê", "e");
 			thisString = replaceChars(thisString, "ě", "e");
 			thisString = replaceChars(thisString, "ǐ", "i");
 			thisString = replaceChars(thisString, "ǒ", "o");
@@ -11444,7 +12412,12 @@ display:inline;
 			thisString = replaceChars(thisString, "ǚ", "u");
 			thisString = replaceChars(thisString, "ǒ", "o");
 			thisString = replaceChars(thisString, "ǐ", "i");
-			
+
+			thisString = replaceChars(thisString, "̂", "");			
+			thisString = replaceChars(thisString, "̀", "");			
+			thisString = replaceChars(thisString, "́", "");			
+			thisString = replaceChars(thisString, "̍", "");			
+			thisString = replaceChars(thisString, "̤", "");			
 			
 			var numberTones = vowels.length;
 			
@@ -11585,6 +12558,24 @@ display:inline;
 		
 		} // end function taiwaneseCheckboxClicked
 		
+		function hakkaCheckboxClicked(checkboxId)
+		{
+			//debugLog("hakkaCheckboxClicked");
+			
+			var newState = !document.getElementById(checkboxId).checked;
+			
+			document.getElementById(checkboxId).checked = newState;
+			
+			if (newState == true)
+			{
+				document.getElementById("pinyinCheckbox").checked = false;
+			} else {
+				document.getElementById("pinyinCheckbox").checked = true;
+			}
+		
+		} // end function hakkaCheckboxClicked
+
+		
 		function toggleReviewingTheHanzi(checkboxId)
 		{
 			//debugLog("toggleReviewingTheHanzi");
@@ -11679,7 +12670,7 @@ display:inline;
 			} // end if we should count common words
 			
 			// Load Pingfang slower
-			// updateFont();
+			updateFont();
 			
 			var addTaiwanese = document.getElementById('taiwaneseCheckbox').checked;
 			if (addTaiwanese == true)
@@ -11693,6 +12684,12 @@ display:inline;
 				cantoneseColours();
 			} // end if addCantonese
 			
+			var addHakka = document.getElementById('hakkaCheckbox').checked;
+			if (addHakka == true)
+			{
+				hakkaColours();
+			} // end if addHakka
+
 		} // end function translateButtonClicked
 		
 		function commonStatistics()
@@ -12332,6 +13329,22 @@ display:inline;
 			
 			updateColours();
 		} // end function cantoneseColours
+
+		function hakkaColours()
+		{
+			//debugLog("hakkaColours");
+			
+			var hakkaOneColour = document.getElementById("hakkaColourPickerOne").value;
+			var hakkaTwoColour = document.getElementById("hakkaColourPickerTwo").value;
+			var hakkaThreeColour = document.getElementById("hakkaColourPickerThree").value;
+			var hakkaFourColour = document.getElementById("hakkaColourPickerFour").value;
+			var hakkaFiveColour = document.getElementById("hakkaColourPickerFive").value;
+			var hakkaSixColour = document.getElementById("hakkaColourPickerSix").value;
+			
+			setChineseColours(hakkaOneColour, hakkaTwoColour, hakkaThreeColour, hakkaFourColour, hakkaFiveColour, hakkaSixColour, "000000", "000000");
+			
+			updateColours();
+		} // end function hakkaColours
 
 		
 		function loadDictionaries()
@@ -14885,6 +15898,40 @@ display:inline;
 
 		} // end function taiwaneseToWordLengths
 
+		function hakkaToWordLengths()
+		{
+			//debugLog("hakkaToWordLengths");
+		
+			var hakkaDataLines = hakkaData.split("\n");
+			
+			var numberLines = hakkaDataLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = hakkaDataLines[currentLine];
+			
+				if (thisLine != "")
+				{
+					var thisChinese = textBetween(thisLine, "start", "	");
+					
+					var wordLength = stringLength(thisChinese);
+					
+					switch (wordLength)
+					{
+						case 5: fiveWordsHakka = fiveWordsHakka + thisChinese + "\n"; break;
+						case 4: fourWordsHakka = fourWordsHakka + thisChinese + "\n"; break;
+						case 3: threeWordsHakka = threeWordsHakka + thisChinese + "\n"; break;
+						case 2: twoWordsHakka = twoWordsHakka + thisChinese + "\n"; break;
+						case 1: oneWordsHakka = oneWordsHakka + thisChinese + "\n"; break;
+						default: break;
+					}
+					
+				} // end if the line is not blank
+			} // end for every line in the dictionary
+			
+
+		} // end function hakkaToWordLengths
+
 		
 		function dictionariesLoaded()
 		{
@@ -15045,6 +16092,12 @@ display:inline;
 				document.getElementById('taiwaneseCheckbox').checked = true;
 				
 				loadTaiwaneseAndTranslate("TaiwaneseDictionaryTaiyuNumbers.txt");
+			}
+
+			// If we need Oracle bones
+			if ((QueryString.oracleBones != "") && (QueryString.oracleBones != undefined))
+			{
+				toggleCheckbox('oracleBonesCheckbox');
 			}
 
 			// If we have Chinese text
@@ -17508,6 +18561,7 @@ display:inline;
 			
 			loadTaiwanese("TaiwaneseDictionaryTaiyuNumbers.txt");
 			loadCantonese("cantoneseChineseWordsTones.txt");
+			loadHakka("Hakka/HakkaPFSTones.txt");
 			loadHangul("hangulChineseKorean.txt");
 			loadTang("tangChineseWords.txt");
 			loadJapanese("japaneseOnChineseWords.txt");
@@ -19529,9 +20583,9 @@ display:inline;
   		
 		var thisDialog = $( "#mediaViewer" ).dialog(
 			{
-				width: 1900,
+				width: 1880,
 				maxWidth: 3000,
-				height: 300,
+				height: 350,
 			    closeText: "",
 			    position: 
 			    { 
