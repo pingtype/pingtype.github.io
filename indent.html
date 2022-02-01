@@ -1,0 +1,400 @@
+<!--
+	Indent
+	Peter Burkimsher 2021-01-19
+	
+	Balances some text with indenting an extra level per line. 
+	
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Word Frequency</title>
+  	  	
+	<meta charset="utf-8" />
+	
+	<style>
+		
+		.ButtonInner
+		{
+			border: 1px solid black ;
+			border-radius: 5px;
+			background-color: #dcdbde;
+			width: 88px;
+			height: 18px;
+			text-align: center;
+			margin: 3px;
+			
+		    line-height: 18px;
+	        font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+			font-size: 11px;
+			color: #000000;
+		}
+		
+		.ButtonInner:active
+		{
+		    background:#666666;
+		    color: #ffffff;
+		}
+		
+	</style>
+	
+  </head>
+  <body>
+  
+  	<table>
+  	
+  		<tr>
+  		
+  			<td>
+  				<textarea id="inputTextArea" rows="50" cols="50" >
+19 The king talked with them, and he found none equal to Daniel, Hananiah, Mishael and Azariah; so they entered the king’s service. 20 In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his whole kingdom.
+  				</textarea>
+  			</td>
+
+  			<td>
+  				<textarea id="outputTextArea" rows="70" cols="150" ></textarea>
+  			</td>
+
+  			<td>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('\'');">
+					'
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('’');">
+					’
+				</div>
+				<div class="ButtonInner" onclick='punctuationButtonClicked("\"");'>
+					"
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('(');">
+					(
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked(')');">
+					)
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('.');">
+					.
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('!');">
+					!
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked('?');">
+					?
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked(',');">
+					,
+				</div>
+				<div class="ButtonInner" onclick="punctuationButtonClicked(';');">
+					;
+				</div>
+				<div class="ButtonOuter">
+					<div class="ButtonInner" onclick="indentRightButtonClicked();">
+						Indent > 
+					</div>
+					<div class="ButtonInner" onclick="indentSinButtonClicked();">
+						Indent sin
+					</div>
+					<div class="ButtonInner" onclick="indentCosButtonClicked();">
+						Indent cos
+					</div>
+				</div>
+  			</td>
+  			<td>
+				<div class="ButtonInner" onclick="helpButtonClicked();" style="width:20px">
+					?
+				</div>
+  			</td>
+  		
+  		</tr>
+  	
+  	</table>
+	
+	
+  
+  </body>
+  
+  
+  <script>
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+  		
+  		function containsEnglishCharacter(thisWord)
+  		{
+  			if (thisWord == "")
+  			{
+  				return false;
+  			}
+  			
+  			var thisWordArray = thisWord.split("");
+  			
+  			var numberCharacters = thisWordArray.length;
+  			
+  			var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+  			
+  			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+  			{
+  				var thisCharacter = thisWordArray[currentCharacter];
+  				
+  				if (contains(alphabet, thisCharacter) == true)
+  				{
+  					return true;
+  				}
+  				
+  			} // end for every character
+  			
+  			return false;
+  			
+  		} // end function containsEnglishCharacter
+  		
+  		function punctuationToNewlines(inputText, thisPunctuation)
+  		{
+  			// Line breaks don't always follow sentence breaks; sentences might use semicolons, lists, etc! (even brackets?)
+  			//inputText = inputText.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+  			//inputText = replaceChars(inputText, " '", " \n'");
+  			//inputText = replaceChars(inputText, "\"", "\"\n");
+  			//inputText = replaceChars(inputText, "(", "(\n");
+  			//inputText = replaceChars(inputText, ")", ")\n");
+  			//inputText = replaceChars(inputText, ".", ".\n");
+  			//inputText = replaceChars(inputText, "!", "!\n");
+  			//inputText = replaceChars(inputText, "?", "?\n");
+  			//inputText = inputText.replace(/:/g, ' ');
+  			////inputText = inputText.replace(/,/g, ',\n');
+  			//inputText = inputText.replace(/;/g, ';\n');
+  			//inputText = inputText.replace(/  /g, ' ');
+  			
+  			inputText = replaceChars(inputText, thisPunctuation, thisPunctuation + "\n");
+  			
+			return inputText;
+  		} // end function punctuationToNewlines
+  		
+  		function indentRight(inputText)
+  		{
+  			var inputLines = inputText.split("\n");
+  			
+  			var numberLines = inputLines.length;
+  			
+  			var currentIndent = 0;
+  			
+  			var halfLines = (numberLines / 2) - 1;
+  			
+  			var indentArray = [];
+  			
+  			var outputText = "";
+  			
+  			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+  			{
+  				var thisLine = inputLines[currentLine];
+  				
+  				if (currentLine < halfLines)
+  				{
+  					indentArray.push("	");
+  				} else {
+  					indentArray.pop();
+  				}
+  				
+  				var indentText = indentArray.join("");
+  				
+  				outputText = outputText + "\n" + indentText + thisLine;
+  				
+  			} // end for every line
+  						
+			return outputText;
+  		} // end function indentRight
+  		
+  		function indentSin(inputText)
+  		{
+  			var inputLines = inputText.split("\n");
+  			
+  			var numberLines = inputLines.length;
+  			
+  			var currentIndent = 4;
+  			
+  			var maxIndent = 8;
+  			
+  			var indentArray = ["	", "	", "	"];
+  			
+  			var indentIncreasing = true;
+  			
+  			var outputText = "";
+  			
+  			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+  			{
+  				var thisLine = inputLines[currentLine];
+  				
+  				if (indentIncreasing == true)
+  				{
+  					indentArray.push("	");
+  					currentIndent = currentIndent + 1;
+  				} else {
+  					indentArray.pop();
+  					currentIndent = currentIndent - 1;
+  				}
+  				
+  				var indentText = indentArray.join("");
+  				
+  				outputText = outputText + "\n" + indentText + thisLine;
+  				
+  				if (currentIndent == 0)
+  				{
+  					indentIncreasing = true;
+  				}
+  				
+  				if (currentIndent >= maxIndent)
+  				{
+  					indentIncreasing = false;
+  				}
+  				
+  			} // end for every line
+  						
+			return outputText;
+  		} // end function indentSin
+  		
+  		function indentCos(inputText)
+  		{
+  			var inputLines = inputText.split("\n");
+  			
+  			var numberLines = inputLines.length;
+  			
+  			var currentIndent = 7;
+  			
+  			var maxIndent = 8;
+  			
+  			var indentArray = ["	", "	", "	", "	", "	", "	", "	"];
+  			
+  			var indentIncreasing = true;
+  			
+  			var outputText = "";
+  			
+  			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+  			{
+  				var thisLine = inputLines[currentLine];
+  				
+  				if (indentIncreasing == true)
+  				{
+  					indentArray.push("	");
+  					currentIndent = currentIndent + 1;
+  				} else {
+  					indentArray.pop();
+  					currentIndent = currentIndent - 1;
+  				}
+  				
+  				var indentText = indentArray.join("");
+  				
+  				outputText = outputText + "\n" + indentText + thisLine;
+  				
+  				if (currentIndent == 0)
+  				{
+  					indentIncreasing = true;
+  				}
+  				
+  				if (currentIndent == maxIndent)
+  				{
+  					indentIncreasing = false;
+  				}
+  				
+  			} // end for every line
+  						
+			return outputText;
+  		} // end function indentCos
+  		
+
+  		function punctuationButtonClicked(thisPunctuation)
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var punctuationToNewlinesText = punctuationToNewlines(inputText, thisPunctuation);
+  			
+  			document.getElementById("inputTextArea").value = punctuationToNewlinesText;
+  		
+  		} // end function punctuationButtonClicked
+
+  		function indentRightButtonClicked()
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = indentRight(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+  		
+  		} // end function indentRightButtonClicked
+
+  		function indentSinButtonClicked()
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = indentSin(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+  		
+  		} // end function indentRightButtonClicked
+
+  		function indentCosButtonClicked()
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = indentCos(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+  		
+  		} // end function indentCosButtonClicked
+
+
+		function helpButtonClicked()
+		{
+			var thisUrl = "docs/wordFrequency.html";
+			window.open(thisUrl,'_blank');
+		} // end function helpButtonClicked
+		
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+	
+		// If we have parameters
+		if ((QueryString.filename != "") && (QueryString.filename != undefined))
+		{
+  			document.getElementById("inputTextArea").value = QueryString.filename;
+		
+			countButtonClicked();
+		}
+  		  
+  </script>
+
+</html>
