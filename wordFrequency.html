@@ -7,6 +7,10 @@
 	You can also use bash:
 	cat taiwanPOINames.txt | sort | uniq -c | sort -nr > taiwanPOIuniq.txt
 	
+	or awk:
+     { for (i = 1; i <= NF; i++) wd[$i]++ }
+    END { for (w in wd) print w, wd[w] }
+	
 -->
 
 <!DOCTYPE html>
@@ -58,8 +62,11 @@
   			</td>
 
   			<td>
-				<div class="ButtonInner" onclick="countButtonClicked();">
-					Count
+				<div class="ButtonInner" onclick="countWordsButtonClicked();">
+					Count Words
+				</div>
+				<div class="ButtonInner" onclick="countLinesButtonClicked();">
+					Count Lines
 				</div>
   			</td>
   			<td>
@@ -144,6 +151,7 @@
   			inputText = inputText.replace(/  /g, ' ');
   			
   			var inputWords = inputText.split(" ");
+  			//var inputWords = inputText.split("\n");
   			
   			var numberWords = inputWords.length;
   			
@@ -183,7 +191,7 @@
   				var thisWord = uniqueWords[currentWord];
   				var thisWordCount = uniqueWordsCounts[currentWord];
   				
-  				var outputLine = thisWordCount + " " + thisWord;
+  				var outputLine = thisWordCount + "	" + thisWord;
   				
   				wordsArray.push(outputLine);
   				
@@ -205,7 +213,86 @@
 			return outputText;
   		} // end function countWords
   		
-  		function countButtonClicked()
+  		function countLines(inputText)
+  		{
+  			// Split after verse numbers
+  			inputText = inputText.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+  			inputText = replaceChars(inputText, "\n", " \n ");
+  			inputText = replaceChars(inputText, " '", "  ' ");
+  			inputText = replaceChars(inputText, "\"", " \" ");
+  			inputText = replaceChars(inputText, "(", " ( ");
+  			inputText = replaceChars(inputText, ")", " ) ");
+  			inputText = replaceChars(inputText, ".", " . ");
+  			inputText = replaceChars(inputText, "!", " ! ");
+  			inputText = replaceChars(inputText, "?", " ? ");
+  			inputText = inputText.replace(/:/g, ' ');
+  			inputText = inputText.replace(/,/g, ' , ');
+  			inputText = inputText.replace(/  /g, ' ');
+  			
+  			//var inputWords = inputText.split(" ");
+  			var inputWords = inputText.split("\n");
+  			
+  			var numberWords = inputWords.length;
+  			
+  			var uniqueWords = [];
+  			var uniqueWordsCounts = [];
+  			
+  			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+  			{
+  				var thisWord = inputWords[currentWord];
+  				
+  				//thisWord = thisWord.toLowerCase();
+  				
+  				//if (containsEnglishCharacter(thisWord) == true)
+  				//{
+  				
+  					var thisWordIndex = uniqueWords.indexOf(thisWord);
+  				
+  					if (thisWordIndex != -1)
+  					{
+  						var thisCount = uniqueWordsCounts[thisWordIndex];
+  						thisCount = thisCount + 1;
+  						uniqueWordsCounts[thisWordIndex] = thisCount;
+  					
+	  				} else {
+  						uniqueWords.push(thisWord);
+  						uniqueWordsCounts.push(1);
+  					} // end if the word is unique
+  				//} // end if the word is english
+  			} // end for every word
+  			
+  			var numberUniqueWords = uniqueWords.length;
+  			
+  			var wordsArray = [];
+  			
+  			for (var currentWord = 0; currentWord < numberUniqueWords; currentWord++)
+  			{
+  				var thisWord = uniqueWords[currentWord];
+  				var thisWordCount = uniqueWordsCounts[currentWord];
+  				
+  				var outputLine = thisWordCount + "	" + thisWord;
+  				
+  				wordsArray.push(outputLine);
+  				
+  			} // end for every unique word
+  			
+  			var wordsArraySorted = wordsArray.sort(
+  			function(a,b)
+				{
+				    var c = parseInt(a,10);
+				    var d = parseInt(b,10);
+			    	return c-d;
+				}
+			);
+			
+			var outputArray = wordsArraySorted.reverse();
+			
+			var outputText = outputArray.join("\n");
+			
+			return outputText;
+  		} // end function countLines
+  		
+  		function countWordsButtonClicked()
   		{
   			var inputText = document.getElementById("inputTextArea").value;
   			
@@ -213,7 +300,18 @@
   			
   			document.getElementById("outputTextArea").value = outputText;
   		
-  		} // end function countButtonClicked
+  		} // end function countWordsButtonClicked
+
+  		function countLinesButtonClicked()
+  		{
+  			var inputText = document.getElementById("inputTextArea").value;
+  			
+  			var outputText = countLines(inputText);
+  			
+  			document.getElementById("outputTextArea").value = outputText;
+  		
+  		} // end function countLinesButtonClicked
+
 
 		function helpButtonClicked()
 		{
