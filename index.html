@@ -1,6 +1,7 @@
 <!--
 	Pingtype
 	Peter Burkimsher 2017-01-16 to 2017-07-07
+	2024-11-20 added lineBreaks
 	
 	A literal translator for Chinese to English. 
 	
@@ -86,6 +87,7 @@
 	+ English button to quickly move to Pingtype English
 	+ Taiwanese romanised dictionary from TTV using Bible TTV Space from POJ.scpt. Then manually fix 108 spacing errors, sort by frequency, extract tones, paste together. 
 	+ Manually add 魚 to Oracle Bones font using fontforge, from Wikipedia SVG for Tristan
+	+ Line break detection using https://www.bennadel.com/blog/4310-detecting-rendered-line-breaks-in-a-text-node-in-javascript.htm
 	
 	To do:
 	- pingtype english show pinyin
@@ -166,6 +168,10 @@
 	- number of radicals to get all characters
 	- use node server for automatic facebook chinese made larger and spaced
 	- google translate through API with http://py-googletrans.readthedocs.io/en/latest/ hosted somewhere else e.g. heroku using XSS
+	- english colours from http://english.edward.io
+	- Increase font size button for simplified/traditional comparison https://stackoverflow.com/questions/30217146/changing-fontsize-for-a-class-using-javascript
+	- https://www.deepl.com/en/translator
+	- "singtype" for lyrics
 	
 	Marketing done:
 	- http://www.lancaster.ac.uk/library/about-us/contact-us/library-staff/joanne-wood/
@@ -310,6 +316,9 @@
 	- Lyrics from http://www.5nd.com/gecilrc/69656.htm and https://www.lrcsite.com
 	- Movies from http://dl.funsaber.net/animation/ and http://fs.evonetbd.com/index.php?dir=Movies%2F&search=2000&search_mode=f and http://dl2.mihanpix.com/Film/
 	- Manuals from https://www.manualslib.com
+	- https://github.com/skishore/makemeahanzi
+	- https://www.dcard.tw/f
+	- https://www.iq.com/?_from=iqiyi_tw
 	
 	Type in:
 	- https://www.facebook.com/pg/PEIHSIU/photos/?ref=page_internal https://www.behance.net/peihsiu
@@ -840,6 +849,10 @@ font-size: 30px;
 display:inline;
       }
 
+	  .pingtypeBlock {
+		  break-inside: avoid;
+	  }
+
 input[type='range'] {
     -webkit-appearance: none !important;
 	margin:0px;
@@ -904,57 +917,57 @@ input[type='range']::-ms-thumb {
 			<tr>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="index.html" style="text-decoration: none;color: #000000;">
-						Home
+						🏡 Home
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="docs/docs.html" style="text-decoration: none;color: #000000;" target=_blank>
-						Docs
+						📘 Docs
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="docs/blog.html" style="text-decoration: none;color: #000000;" target=_blank>
-						Blog
+						📚 Blog
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="http://peterburk.github.com/tra" style="text-decoration: none;color: #000000;" target=_blank>
-						Trains
+						🚃 Trains
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="bible.html" style="text-decoration: none;color: #000000;" target=_blank>
-						Bible
+						✝ Bible
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="Data/Dinbendon/map/index.html" style="text-decoration: none;color: #000000;" target=_blank>
-						Food
+						🍱 Food
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="Data/KHOP/index.html" style="text-decoration: none;color: #000000;" target=_blank>
-						Lyrics
+						🎧 Lyrics
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhpjdXOJLCm4uKQitetfaglBS" style="text-decoration: none;color: #000000;" target=_blank>
-						Music
+						🎵 Music
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="https://www.youtube.com/playlist?list=PLhIooD7mFhphhT5nDdhK00wZuobGbMtO0" style="text-decoration: none;color: #000000;" target=_blank>
-						Movies
+						🎬 Movies
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="english.html" style="text-decoration: none;color: #000000;" target=_blank>
-						English
+						🇬🇧 English
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
 					<a href="http://peterburk.github.com/contact" style="text-decoration: none;color: #000000;" target=_blank>
-						Contact
+						✉️ Contact
 					</a>
 				</td>
 			</tr>
@@ -1217,6 +1230,11 @@ input[type='range']::-ms-thumb {
 					</div>
 				</td>
 				<td>
+					<div id="lineBreaksButton" class="ButtonInner advanced" onclick="lineBreaksButtonClicked();" style="width:70px;visibility:hidden">
+						Line breaks
+					</div>
+				</td>
+				<td>
 					<div id="englishButton" class="ButtonInner advanced" onclick="englishButtonClicked();" style="width:55px;visibility:hidden">
 						English
 					</div>
@@ -1259,6 +1277,11 @@ input[type='range']::-ms-thumb {
 				<td>
 					<div id="cursorButton" class="ButtonInner advanced" onclick="showCursorButtonClicked();" style="width:60px;visibility:hidden">
 						Cursor
+					</div>
+				</td>
+				<td>
+					<div id="litManSizeButton" class="ButtonInner advanced" onclick="litManSizeButtonClicked();" style="width:80px;visibility:hidden">
+						LitMan Size
 					</div>
 				</td>
 			</tr>
@@ -2344,7 +2367,10 @@ input[type='range']::-ms-thumb {
 		    			<table>
 		    				<tr>
 	    						<td>
-	    							<img src="sync.png"</img>
+	    							<!--<img src="sync.png"</img>-->
+	    							<div style="font-size:16px">
+	    								🔄
+	    							</div>
 	    						</td>
 	    						<td>
 	    							Upload
@@ -3103,7 +3129,7 @@ input[type='range']::-ms-thumb {
 	<div align="left"><a href="http://simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2288206&f=0&b=16777215" border="0" height="18" width="83" alt=""></a><br><a href="http://simplehitcounter.com" target="_blank" style="text-decoration:none;"></a></div>
 	<!-- End of SimpleHitCounter Code -->
 	
-	Phone support (Peter, the sole developer): (+886) 966-925-756
+	<!--Phone support (Peter, the sole developer): (+886) 966-925-756-->
 	
   </body>
   
@@ -8339,7 +8365,11 @@ input[type='range']::-ms-thumb {
 				
 				if (addSimplified == true)
 				{
-					var thisSimplifiedWords = simplifiedLine.split(" ");
+					var thisSimplifiedWords = [];
+					if (simplifiedLine != undefined)
+					{
+						thisSimplifiedWords = simplifiedLine.split(" ");
+					}
 				} // end if addSimplified
 				
 				var currentLineChineseWord = 0;
@@ -8633,7 +8663,11 @@ input[type='range']::-ms-thumb {
 							
 							if (addSimplified == true)
 							{
-								var thisCharacterSimplified = thisSimplifiedWord[currentWordCharacter];
+								var thisCharacterSimplified = "";
+								if ((currentWordCharacter != undefined) && (thisSimplifiedWord != undefined))
+								{
+									thisCharacterSimplified = thisSimplifiedWord[currentWordCharacter];
+								}
 								var simplifiedCharacterHtml = "<div class=\"chinese_" + thisCharacterTone + "\">" + thisCharacterSimplified + "</div>";
 								
 								simplifiedHtmlWord = simplifiedHtmlWord + simplifiedCharacterHtml;
@@ -9412,6 +9446,8 @@ input[type='range']::-ms-thumb {
 			outputText = translationOutput[1];			
 			
 			document.getElementById("outputHtml").innerHTML = outputHtml;
+			
+			outputText = replaceChars(outputText, "	", "  ");
 			document.getElementById("outputTextArea").value = outputText;
 			
 			if (commonWords != "")
@@ -9642,6 +9678,7 @@ input[type='range']::-ms-thumb {
 			
 			
 			document.getElementById("outputHtml").innerHTML = outputHtml;
+			outputText = replaceChars(outputText, "	", "  ");
 			document.getElementById("outputTextArea").value = outputText;
 			
 		} // end function translateBilingualInterface 
@@ -12347,16 +12384,19 @@ input[type='range']::-ms-thumb {
 
 			var thisString = document.getElementById("outputHtml").innerHTML;
 			
-			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#797986;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#707070;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#797986;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n    </style>\n\n  </head>\n  <body>\n	";
+			thisString = replaceChars(thisString, "<p></p>", "</div><p></p><div class=\"pingtypeBlock\">");
+			
+			var htmlHeaders = "<!DOCTYPE html>\n<html>\n  <head>\n	<meta charset=\"utf-8\" />\n        <style>\n\n@font-face {\n    font-family: \"Charcoal CY\";\n    src: url(\"fonts/Charcoal.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Virtue\";\n    src: url(\"fonts/virtue.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"SimSun\";\n    src: url(\"fonts/SimSun.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"Jhenghei\";\n    src: url(\"fonts/MicrosoftJhengHeiRegular.ttf\") format(\"truetype\");\n}\n\n@font-face {\n    font-family: \"PingfangLocal\";\n    src: local(\"PingFang-TC-Regular\");\n}\n\n@font-face {\n    font-family: \"Pingfang\";\n    src: url(\"fonts/PingFang1.ttf\") format(\"truetype\");\n}\n\n      body {\n        font-family: Tahoma, Geneva, sans-serif;\n      }\n      \n      table td {\n      white-space: nowrap;\n      }\n		\n	a:hover, a:visited, a:link, a:active\n	{\n		color:#000000;\n	    text-decoration: none;\n	}\n		\n      .chinese_1 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .chinese_2 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_3 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_4 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_5 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_6 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .chinese_7 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n      \n      .chinese_8 {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n      .pinyin_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .pinyin_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\ndisplay:inline;\n      }\n\n      .pinyin_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\ndisplay:inline;\n      }\n\n      .pinyin_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .pinyin_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .taiwanese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#797986;\n		display:inline;\n      }\n\n      .taiwanese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\ndisplay:inline;\n      }\n\n      .taiwanese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .taiwanese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#505050;\ndisplay:inline;\n      }\n\n      .taiwanese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .taiwanese_7 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n      \n      .taiwanese_8 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#707070;\ndisplay:inline;\n      }\n\n      .cantonese_1 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#929292;\n		display:inline;\n      }\n\n      .cantonese_2 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#FF8080;\ndisplay:inline;\n      }\n\n      .cantonese_3 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#797986;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .cantonese_4 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#0000FF;\ndisplay:inline;\n      }\n\n      .cantonese_5 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#F82423;\ndisplay:inline;\n      }\n\n      .cantonese_6 {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .hangul {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:#000000;\n		font-size: 26px;\n		display:inline;\n      }\n\n      .tang {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .japanese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .vietnamese {\n        font-family: \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .englishInChinese {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .literal {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n      .english {\n        font-family: \"Pingfang\", \"Jhenghei\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#000000;\ndisplay:inline;\n      }\n\n\n		.DefaultButtonOuter\n		{\n			border: 2px solid black ;\n			border-radius: 8px;\n			width: 96px;\n			height: 26px;\n			text-align: center;\n			\n			/*background-color: #99999a;*/\n			background: #99999a; /* For browsers that do not support gradients */\n			/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */\n			/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */\n			/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */\n			background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */\n		}\n\n		.ButtonInner\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 88px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: \"Charcoal CY\", \"Virtue\", Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n		\n		.ButtonInner:active\n		{\n		    background:#666666;\n		    color: #ffffff;\n		}\n\n		.key\n		{\n			border: 1px solid black ;\n			border-radius: 5px;\n			background-color: #dcdbde;\n			width: 18px;\n			height: 18px;\n			text-align: center;\n			margin: 3px;\n			\n		    line-height: 18px;\n	        font-family: Geneva, sans-serif;\n			font-size: 11px;\n			color: #000000;\n		}\n\n\n			#matrix {\n				background: black;\n				float: center;\n			}\n\n			#matrix td {\n			    padding: 7px;\n    			margin: 0px;\n    			float: center;\n				background: black;\n				font: 54px arial;\n				\n				height: 80px;\n			}\n\n			#matrix tr {\n				height: 80px;\n			}\n\n\n			#matrix p {\n			    opacity: 0;\n			    margin-top: -25px;\n			    text-align: center;\n\n				height: 80px;\n\n			    -webkit-transition: margin-top 2s ease-in;\n			    -moz-transition: margin-top 2s ease-in;\n			    -o-transition: margin-top 2s ease-in;\n			    -ms-transition: margin-top 2s ease-in;\n			    transition: margin-top 2s ease-in;\n			}\n			\n			#matrix p.load {\n			    opacity: 1;\n			    margin-top: 25px;\n			}\n\n     .dialogWithDropShadow\n     {\n         -webkit-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1);\n         -moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 1); \n     }\n\n@font-face {\n    font-family: \"SmallSealScript\";\n    src: url(\"fonts/FangzhengXiaozhuantiFont-TraditionalChinese.ttf\") format(\"truetype\");\n}\n\n      .smallSealScript_1 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .smallSealScript_2 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_3 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .smallSealScript_4 {\n        font-family: \"SmallSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n@font-face {\n    font-family: \"LargeSealScript\";\n    src: url(\"fonts/JDFZHUANF.ttf\") format(\"truetype\");\n}\n\n      .largeSealScript_1 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .largeSealScript_2 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_3 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .largeSealScript_4 {\n        font-family: \"LargeSealScript\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n\n@font-face {\n    font-family: \"OracleBones\";\n    src: url(\"fonts/bnujgw.ttf\") format(\"truetype\");\n}\n\n      .oracleBones_1 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\n        color:black;\n		font-size: 30px;\n		display:inline;\n      }\n\n      .oracleBones_2 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#f82423;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_3 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#189c19;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n      .oracleBones_4 {\n        font-family: \"OracleBones\", \"Heiti TC Light\", Tahoma, Geneva, sans-serif;\ncolor:#178FD1;\nfont-size: 30px;\ndisplay:inline;\n      }\n\n		.pingtypeBlock {\n			break-inside: avoid;\n		}\n\n\n    </style>\n\n  </head>\n  <body>\n	";
 			
 			var htmlFooters = "\n  </body>\n</html>\n";
 			
 			// Pingtype is a literal translator for Chinese. Pingtype 是 一個 中文 詞彙 翻譯. 
 			var thisHtml = htmlHeaders + thisString + htmlFooters;
 			
-			var thisHtmlBase64 = b64EncodeUnicode(thisHtml);
+			document.write(thisHtml);
 			
-			window.open("data:text/html;charset=UTF-8;base64," + thisHtmlBase64,'_blank');
+			var thisHtmlBase64 = b64EncodeUnicode(thisHtml);
+			//window.open("data:text/html;charset=UTF-8;base64," + thisHtmlBase64,'_blank');
 			
 		} // end function printButtonClicked
 		
@@ -16029,6 +16069,14 @@ input[type='range']::-ms-thumb {
 				var chineseUrl = QueryString.chineseFile;
 
 			    loadChinese(chineseUrl);
+			    
+			    var chineseFilename = QueryString.chineseFile;
+			    while (contains(chineseFilename, "/") == true)
+			    {
+			    	chineseFilename = textBetween(chineseFilename, "/", "end")
+			    }
+			    
+			    document.title = chineseFilename;
 			}
 
 			// If we have a bilingual file
@@ -16037,7 +16085,15 @@ input[type='range']::-ms-thumb {
 				//var chineseUrl = encodeURI(QueryString.chineseFile);
 				var bilingualUrl = QueryString.bilingualFile;
 
+			    var bilingualFilename = QueryString.bilingualFile;
+			    while (contains(bilingualFilename, "/") == true)
+			    {
+			    	bilingualFilename = textBetween(bilingualFilename, "/", "end")
+			    }
+
 			    loadBilingual(bilingualUrl);
+			    
+			    document.title = bilingualFilename;
 			}
 
 			// If we have an audio file
@@ -19348,6 +19404,220 @@ input[type='range']::-ms-thumb {
 			translateButtonClicked();
 		} // end function splitButtonClicked
 		
+		function lineBreaksButtonClicked()
+		{
+			var chineseTextAreaWidth = document.getElementById("chineseTextArea").style.width;
+			
+			var chineseText = document.getElementById("chineseTextArea").value;
+			var spacedText = wordSpace(chineseText);
+			document.getElementById("chineseSpacedTextArea").value = spacedText;
+			
+			var chineseLines = chineseText.split("\n");
+			
+			var outputLines = "";
+			var numberLines = chineseLines.length;
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = chineseLines[currentLine];
+				
+				var lineBrokenLine = lineBreakText(thisLine, chineseTextAreaWidth);
+				
+				outputLines = outputLines + lineBrokenLine + "\n";
+			} // end for every line of input text
+			
+			document.getElementById("outputTextArea").value = outputLines;
+			document.getElementById("htmlTable").innerHTML = "<table><tr><td>" + outputLines.split("\n").join("</td></tr><tr><td>") + "</td></tr></table>" + "<table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+
+		} // end function lineBreaksButtonClicked
+		
+		function lineBreakText(chineseText, chineseTextAreaWidth)
+		{
+			if (chineseText == "")
+			{
+				return "";
+			}
+			
+			document.getElementById("htmlTable").innerHTML = "<p class=\"lineWrappingArea\" style=\"width:" + chineseTextAreaWidth + "\">" + chineseText + "</p><table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			var wrappedLines = extractLinesFromTextNode( document.querySelector( ".lineWrappingArea" ).firstChild );
+
+			var numberLines = wrappedLines.length;
+			if (numberLines > 1)
+			{
+				var firstLine = wrappedLines[0];
+				var secondLine = wrappedLines[1];
+				
+				var breaksWord = checkLineBreak(firstLine, secondLine);
+				
+				if (breaksWord == true)
+				{
+					while (breaksWord == true)
+					{
+						// Move the newline one character to the left and re-check
+						var firstLineArray = firstLine.split("");
+						var firstLineLastCharacter = firstLineArray.pop();
+						var secondLine = firstLineLastCharacter + secondLine;
+						firstLine = firstLineArray.join("");
+						
+						// If we moved all the way back, fail out to the original newline
+						if (firstLine == "")
+						{
+							breaksWord = false;
+							firstLine = wrappedLines[0];
+							secondLine = wrappedLines[1];
+						} else {
+							breaksWord = checkLineBreak(firstLine, secondLine);
+						}
+					}
+
+					wrappedLines[0] = firstLine;
+					wrappedLines[1] = secondLine;
+					
+					var notFirstLine = "";
+					for (var currentLine = 1; currentLine < numberLines; currentLine++)
+					{
+						notFirstLine = notFirstLine + wrappedLines[currentLine];
+					}
+					
+					return firstLine + "\n" + lineBreakText(notFirstLine, chineseTextAreaWidth);
+					
+				} else {
+
+					var notFirstLine = "";
+					for (var currentLine = 1; currentLine < numberLines; currentLine++)
+					{
+						notFirstLine = notFirstLine + wrappedLines[currentLine];
+					}
+
+					return firstLine + "\n" + lineBreakText(notFirstLine, chineseTextAreaWidth);
+				}
+			} else {
+				return chineseText;
+			}
+			
+		} // end function lineBreakText
+
+		function checkLineBreak(firstLine, secondLine)
+		{
+			var combinedLine = firstLine + secondLine;
+			var spacedCombinedLine = wordSpace(combinedLine);
+			spacedCombinedLine = replaceChars(spacedCombinedLine, "\n", "");
+
+			var spacedFirstLine = wordSpace(firstLine);
+			spacedFirstLine = replaceChars(spacedFirstLine, "\n", "");
+			var spacedSecondLine = wordSpace(secondLine);
+			spacedSecondLine = replaceChars(spacedSecondLine, "\n", "");
+			
+			var combinedSpacedLine = spacedFirstLine + spacedSecondLine;
+
+			var firstLineLastCharacter = firstLine.charAt(firstLine.length - 1);
+			if (isChinese(firstLineLastCharacter) == false)
+			{
+				combinedSpacedLine = spacedFirstLine + " " + spacedSecondLine;
+			}
+			
+			if (combinedSpacedLine !== spacedCombinedLine)
+			{
+				return true;
+			} else {
+				return false;
+			}
+		} // end function checkLineBreak
+
+		/**
+		* I extract the visually rendered lines of text from the given textNode as it
+		* exists in the document at this very moment. Meaning, it returns the lines of
+		* text as seen by the user.
+		*/
+		function extractLinesFromTextNode( textNode ) {
+
+			// BECAUSE SAFARI: None of the "modern" browsers seem to care about the actual
+			// layout of the underlying markup. However, Safari seems to create range
+			// rectangles based on the physical structure of the markup (even when it
+			// makes no difference in the rendering of the text). As such, let's rewrite
+			// the text content of the node to REMOVE SUPERFLUOS WHITE-SPACE. This will
+			// allow Safari's .getClientRects() to work like the other modern browsers.
+			textNode.textContent = collapseWhiteSpace( textNode.textContent );
+
+			// A Range represents a fragment of the document which contains nodes and
+			// parts of text nodes. One thing that's really cool about a Range is that we
+			// can access the bounding boxes that contain the contents of the Range. By
+			// incrementally adding characters - from our text node - into the range, and
+			// then looking at the Range's client rectangles, we can determine which
+			// characters belong in which rendered line.
+			var textContent = textNode.textContent;
+			var range = document.createRange();
+			var lines = [];
+			var lineCharacters = [];
+
+			// Iterate over every character in the text node.
+			for ( var i = 0 ; i < textContent.length ; i++ ) {
+
+				// Set the range to span from the beginning of the text node up to and
+				// including the current character (offset).
+				range.setStart( textNode, 0 );
+				range.setEnd( textNode, ( i + 1 ) );
+
+				// At this point, the Range's client rectangles will include a rectangle
+				// for each visually-rendered line of text. Which means, the last
+				// character in our Range (the current character in our for-loop) will be
+				// the last character in the last line of text (in our Range). As such, we
+				// can use the current rectangle count to determine the line of text.
+				var lineIndex = ( range.getClientRects().length - 1 );
+
+				// If this is the first character in this line, create a new buffer for
+				// this line.
+				if ( ! lines[ lineIndex ] ) {
+
+					lines.push( lineCharacters = [] );
+
+				}
+
+				// Add this character to the currently pending line of text.
+				lineCharacters.push( textContent.charAt( i ) );
+
+			}
+
+			// At this point, we have an array (lines) of arrays (characters). Let's
+			// collapse the character buffers down into a single text value.
+			lines = lines.map(
+				function operator( characters ) {
+
+					return( collapseWhiteSpace( characters.join( "" ) ) );
+
+				}
+			);
+
+			return( lines );
+
+		}
+
+
+		/**
+		* I normalize the white-space in the given value such that the amount of white-
+		* space matches the rendered white-space (browsers collapse strings of white-space
+		* down to single space character, visually, and this is just updating the text to
+		* match that behavior).
+		*/
+		function collapseWhiteSpace( value ) {
+
+			return( value.trim().replace( /\s+/g, " " ) );
+
+		}
+
+
+
+		/**
+		* I create a true array from the given array-like data. Array.from() if you are on
+		* modern browsers.
+		*/
+		function arrayFrom( arrayLike ) {
+
+			return( Array.prototype.slice.call( arrayLike ) );
+
+		}
+
+
+		
 		function englishButtonClicked()
 		{
 			var chineseText = document.getElementById("chineseTextArea").value;
@@ -20755,6 +21025,14 @@ input[type='range']::-ms-thumb {
 		*/
   		
   	} // end function showCursorButtonClicked
+
+	function litManSizeButtonClicked()
+	{
+		var el = document.querySelectorAll(".litManWord");
+		for ( var i = 0; i < el.length; i ++ ) {
+			el[i].style.fontSize = "32px";
+		}
+	} // end function litManSizeButtonClicked
 
   	function openTaiwaneseDictionaryEditor()
   	{
