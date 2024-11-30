@@ -35,6 +35,10 @@
 	- Auto-translate on dictionariesLoaded
 	- All Hyogai Kanji (uncommon Chinese characters) from en-wiktionary
 	
+	Data sources:
+	- Kenta Dedachi https://www.youtube.com/user/FatBeautifulTree26/videos?shelf_id=0&view=0&sort=dd
+	- Joshua Kurniawan https://www.youtube.com/channel/UCGTwFfXBBqqvg-PCqlugOow/videos
+	
 -->
 
 
@@ -178,12 +182,12 @@
     		<tr>
     			<td>
   					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
-  						Kanji
+  						Japanese
   					</div>
     			</td>
     			<td>
-	  				<div id="kanjiSpacedTitle" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;visibility:hidden;width:0px" class="advanced">
-  						Kanji Spaced
+	  				<div id="kanjiSpacedTitle" style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;" class="advanced">
+  						Japanese Spaced
   					</div>
     			</td>
     			<td>
@@ -269,6 +273,15 @@
 				</tr>
 			</table>
 
+    	<table id="translateButtonsTable">
+			<tr>
+				<td>
+					<div id="lineBreaksButton" class="ButtonInner" onclick="lineBreaksButtonClicked();" style="width:80px">
+						Line breaks
+					</div>
+				</td>
+			</tr>
+    	</table>
 
 		<table id="spaceButtonsTable" class="advanced" style="visibility:hidden;height:0px;font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
 			<tr>
@@ -468,7 +481,7 @@
 			return stringIsNumber;
 		} // end function isNumberString
 
-		// isChinese - check if the character is in the unihan dictionary 
+		// isJapanese - check if the character is in the unihan dictionary 
 		function isJapanese(thisCharacter)
 		{
 			//debugLog("isJapanese(" + thisCharacter + ")");
@@ -480,7 +493,9 @@
 			var hiragana = "゛゜ゝゞぁぃぅゔぇぉゕがきぎきゃぎゃきゅぎゅきょぎょくぐゖげこごさざしじしゃじゃしゅじゅしょじょすずせぜそぞただちぢちゃぢゃちゅぢゅちょぢょっづてでとどなににゃにゅにょぬねのはばぱひびぴひゃびゃぴゃひゅびゅぴゅひょびょぴょふぶぷへべぺほぼぽまみみゃみゅみょむめもゃゅょゟらりりゃりゅりょるれろゎゐゑをん";
 			
 			var katakana = "ーヽヾアイウエオカガキギキャギャキュギュキョギョクグケゲコゴサザシジシャジャシュジュショジョスズセゼソゾタダチヂチャヂャチュヂュチョヂョッヅテデトドナニニャニュニョヌネノハバパヒビピヒャビャピャヒュビュピュヒョビョピョフブプヘベペホボポマミミャミュミョムメモヤユヨラリリャリュリョルレロワヰヱヲン";
-
+			
+			var dictionaryCharacters = "たのいなしてるでにとられかはうすをっまさがもりあよだくきルせけアえち人わこめンおエ者シそばんラつろ子ヤムイみずどやげ出ト十リべフマ一びレブむ見スナ王言二上ハじ行ドダサロバカ地日物立方タねェク知ヨ分ツょぶィ取ベデ三ュ生ビテ年大入長百キ主オ御神間ァ全来メ族ャ五聞へモ住ミネ家前ぎ死ケ四祭七ひ女食ウ心引身自民目千受セ持打手ニ父去殺国ご下実従告合コ思中ガヘパゼ込滅同命ジ所万悪山信六羊ほ使男力体事苦司ぬ書戦息弟切仕ぐ渡頭語着兄返当高再ザぼ落話後不部呼今歩明金与帰続預足向解何ヒ望教指会ギ支ズ飲残石救天ペプ意通聖官喜口起彼導集数守ホ追気兵愛無放場づ第罪求寄土理水離時ユ証軍ノ配連恐先犯逃ゲ皆満ボ過産強ざ示流投道果側祝得現献荒成娘外八以ぞ回動世近ゆ捨名造記結月待用ふ野重牛定倒座妻町士裁破汚復小捕グ銀法正戻尽助作送ソぜ隠領隊降留治建代付業内雄進計服僕置深木度対清断匹広焼川別伝伏頼安霊絶願親必働開注母始声負報背答真火敵払難遣病奪反諸福門決歳夜運吹礼納有台供任終様攻首覚撃若活本屋麦老光葉確要害失殿師囲九約消宣問調尋労海欲押両選覆良突拝員君勇備香畏変利面踏肉憎善加ゴ赦発悲振抜怒婦味風権恵宿誓砕敬平閉退襲考境叫傷偽令ピ直黙役差像議相白壁共ッ車祖祈燃泣栄柱張在品仰迎移幕ォ陣草散初驚遠迫期弱孫器半判酒継探抱惑多友争隷論止楽恥増嘆召勢割交鳴都臨洗担売保買認申歌説熱州奴夫空存収個除輝耐異牧次憐廃寝乳裂畑毛好奉域和及勝逆誇種束情忘少壊城船招営呪飛辱血美東学各伸乗ポ訴群的略忍帯包装表衣律布届婚ョ顔青悩悟幸工馬許督獣横宝妹占贖触組油掛折侮ワ飼飢音陰試臣総築笑監暗威最位仲骨責然授刺具飾軽賢眠皮欺賛枚暮旅幾他迷走花糸獅沈将宮傾乱雌巡跡財耳界朝就夕北鳥酔達衆腹痛混派暴慢慈感富読義罰登板容務類避違越職耕積盗武改愚巻岩太貸穀番揺園固制陥量葬育繰災拒徒庭岸嫁南雲闇裏織激戒姉右剣休亡録辺谷角脅能穴格捜属射騒養豊衛練滞唱周ゃ腕状氏枝彫干尊階釈遭遂述護至縁粉管由新性弁完倍飽赤警謀虐端照欠戸慰夢元輪貴訪討西脱疲済根憤形魔髪路貧識蒔益昼忠崩姿嘲処並ヌ順響贈衰禁施料床嫌壇圧区励偉虚画準村杉早文敷接我念居宴墓商刻列償顧雨隣脇砂基図参黒銅誉箱節渇永段急忌延執ゅ麻額鉄農術縛狂淫材揮挑抗廊席囚創非限関謝誘砦玉点機極房幼幅妃印免偶係色胸穂犬熟泊植末損懲惜徴屠尾公鳩駆革静震隔陽諭舌興胞細系盾湖浮洞毒棒枯杖曲星扱悔島吐勧低騎闘邦適誰託袋舟羽純税矢畜琴獄炎測沿杯替昔昇敗掟封奥唇古厳価伴鞭鋳速途躍設蛇荷脂片河比整据抑怖幻室字奏堂含叱侵週賜蓄腰筋穫槍柄故挫底希屈契塵塗団到刑冠優侯侍似際製補茨網私盛独溢掘態原厚値件仮乏駄貫誠裸給経精皿滴池構摘搾承慮怠式左姦垂協刈鉢遺茂縄統紙秘炉模案未晩援影廷宦娼危儀魚頂隅質規薄芽習締煩煙淵波歯歓挨拶慣察密塔埋呑努借丘黄鹿露遊遅踊譲虫舞臓肩翼翌糧笛視晴携提庫妨卓功依亜乾魂讐誤胎肥罠籠源添泉森棄塩呻卑冒修余井鷲陶鋭被街膚綱甘率獲灰浸毎揚応府婿否丸饉雷雇鍛鍋郷載転費貨繁縦編線称猛牢為潤潔没柔映拠憩慕患征弓常嗣刃倉餌酵酬軛貯詠評蜜腐窓煮涜浴査帝市審化効児倣驕題雪鎖里象談課蔵緒等竪究程疫焦溶涯泥旨旗拾慎履専咲却升則冷傲介ぱ鼻険酷超貢詰舎絞素短甚環湧減涸涙殻林朽扉恋志嵐客困啓企予還跳虜蔑績縞粒範竜眺盲盟皇癒疹疑畔珠狭特燭漕港洪汁殴染朗更握技序季壺堕垢傍健例乞丈ゾ頑雛陸院防遜資豪葦英航臼致膝肢肌翻紫窟穏研炭灯暑採悼快庵寡垣哀咎可午催チ霧雹鏡鈍釣釘赴賃詩訳肪緑笏稲秤硬牙温沼枷易掃慌惨巣寒孤塚喪債偵齢鼓骸錬貪覧蜂薪菓膨粘策競礎磨碑盤狼狩熊濃漠漁滑溜樹桶枠条暖既政搬推挙抵憂層寛奇壮坂唆劣冬互了麗験靴閣鎮鉤鉛邪辛賠貞謙誕訓薦蓋華菜臭脚胆紛紅糞粗筆秩硫癬漏浅槌梁株柴架枕杭昨斧控想己寸宗妊奮塞塁堅吻即卒医写顎雑這豹豆裾腿署緋竿科犠牲澄浜松机斜換描掲屑喉咤勅凝俗促ゥ顕頬障随銭邸遮遇賄豚蛙蛆薬紡稼禽祷碧看症田瓶炒潜滓溝泡梢杓會晶斥敢拘才扇戚憶惰恩怪弦幔崖寿套央夏堪埃型唯吟偏佐伯伐享久鷹駝館章鞍霜雅鎌錆郭逮迂賞謎諾蝮蕩萌茎苗芸聡粋算筒窮疱狐爬烏濁漂湿泳欄檀曙擁排慨恨弾弔康巷巨巧它嫉妬如塊因噴号句勲削凍円党僅候仇丁鶏鳶髄馴餐鞘陛鎧鋤鈴酸酢辞輸較軌践購請詮裕虹著萎艱般腎縮絡絃索紐粧簿簡童秀瞬眼省疎畳烈演渉浪浄沸沌江氷殖標棺校柳曇是春操挽挟拓戴戯懇慄惧徹徳帆峰尿宅媒姻喚唾双卵匠匂募冶僚傭伍ー鴨駐項閑鎚鍵錨鋏銘針釜酌逸透輿軒躙蹂距賽賂貿誌詳詐襟藁芥舵膿胴胃聴繕綿絹箴箕箔瞳睡盆癖療畝甲甥瓦琥珀狸潮淑泰樅槽桑桂桁景旬撤拐批戮懸彩幽局對寂宜娠妙奔堡坊哨吸吏后単勤凶兜兆傑便伺也么墨鶴霰需雀隼陪阻鍬錫錠錘錐鋼鉱醜逢辻輩軸賊貌變講謁訟観覇褒複蠅蟻蝋蚤蒲葱萼萱菖苛芯膏腫脆肝肘耗縫緩籍箙秋禿礫矛瞞睾睦當狙蒸熔瀬潰漢漆渦涼況沖沃汲汗歴此樫樣検栽柵暇昆旋擦捺抹抖悶悦恰怯径往廻店幹崇展屍尚實宥嬢壕堤堀培嚇喰喩唐哲哭呈厩厄卜劇刀凱凪冗典其兎儲億停倦侶併你乎个ぽぺぢ點鷺鴇鮮魅鬨騰駿駕馳饒餓飴顏頻頃隙隐陵關閃鐘錯銑采醒酩酊那邊边轄轂輻軟趣販貝譜諮諦詣訣訃裡裔衝蠍蛭虔虎藏藍莫荘茴茫芳艫艘舗臉腱肺股肖肋翔羚罷總綺綸維紺紹級紗箒箍窩禍禄社礁盡盃發瘍痺痴痢痙疥珍猿猾猶猪狡爺燼燥焜炊灵灌濤濡濕漉滝溫湯渋淡淋液浦津泄沢沙沒汰每殲殊殉櫓櫂檜楚椅椀棚棍梳梭栗柏杵朴朱札曬曜暁普曽昂於斬斗斑斉攣摺掌拷拳拍把扶懐憧愕愉愁悍怕怎從徐弄廉庶帽帶帳巾峡峠峙岬屯屬尻尺尖寞寓宵宙嫡婆姫姜委奨奢奈墜堆坑坏圍噛嘘嗅喫呵吧吊只叩叔卷博勉劾劫办剽副剥刮凌凄充偷做假們俺俸來但从什亮些丹丑ぷぇぁ々";
+			
 			if (contains(joyoKanji,thisCharacter) == true)
 			{
 				return true;
@@ -501,13 +516,18 @@
 				return true;
 			}
 			
+			if (contains(dictionaryCharacters,thisCharacter) == true)
+			{
+				return true;
+			}
+			
 			return false;
 			
 		} // end function isJapanese
 
 		function isJapaneseString(thisString)
 		{
-			//debugLog("isChineseString(" + thisString + ")");
+			//debugLog("isJapaneseString(" + thisString + ")");
 
 			var numberCharacters = thisString.length;
 			
@@ -519,6 +539,7 @@
 				
 				if (isJapanese(thisCharacter) == false)
 				{
+					//console.log("not japanese = " + thisCharacter);
 					stringIsJapanese = false;
 					break;
 				}
@@ -706,7 +727,7 @@
 				
 						 var wordFound = false;
 					
-						 for (var wordLength = 6; wordLength >= 2; wordLength--)
+						 for (var wordLength = 10; wordLength >= 2; wordLength--)
 						 {
 				
 							 var lastCharacter = currentCharacter + wordLength;
@@ -985,10 +1006,10 @@
 							thisRomaji = thisDictionaryLineArray[1];
 						}
 						
-						if (lineLength >= 2)
-						{
-							thisPos = thisDictionaryLineArray[2];
-						}
+						//if (lineLength >= 2)
+						//{
+						//	thisPos = thisDictionaryLineArray[2];
+						//}
 																		
 						var thisWordHtml = "<div class=\"japanese_" + thisPos + "\">" + thisWord + "</div>";
 						var thisRomajiHtml = "<div class=\"romaji_" + thisPos + "\">" + thisRomaji + "</div>";
@@ -1109,6 +1130,7 @@
 			} // end for every line
 			
 			//showMissingWords(missingWords);
+			console.log(missingWords);
 			
 			return [outputHtml, outputText];
     		
@@ -1144,6 +1166,219 @@
 		{
 			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
 		} // end function debugLog
+
+
+		function lineBreaksButtonClicked()
+		{
+			var japaneseTextAreaWidth = document.getElementById("kanjiTextArea").style.width;
+			
+			var japaneseText = document.getElementById("kanjiTextArea").value;
+			var spacedText = wordSpace(japaneseText);
+			document.getElementById("kanjiSpacedTextArea").value = spacedText;
+			
+			var japaneseLines = japaneseText.split("\n");
+			
+			var outputLines = "";
+			var numberLines = japaneseLines.length;
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = japaneseLines[currentLine];
+				
+				var lineBrokenLine = lineBreakText(thisLine, japaneseTextAreaWidth);
+				
+				outputLines = outputLines + lineBrokenLine + "\n";
+			} // end for every line of input text
+			
+			document.getElementById("outputTextArea").value = outputLines;
+			document.getElementById("htmlTable").innerHTML = "<table><tr><td>" + outputLines.split("\n").join("</td></tr><tr><td>") + "</td></tr></table>" + "<table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+
+		} // end function lineBreaksButtonClicked
+		
+		function lineBreakText(japaneseText, japaneseTextAreaWidth)
+		{
+			if (japaneseText == "")
+			{
+				return "";
+			}
+			
+			document.getElementById("htmlTable").innerHTML = "<p class=\"lineWrappingArea\" style=\"width:" + japaneseTextAreaWidth + "\">" + japaneseText + "</p><table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			var wrappedLines = extractLinesFromTextNode( document.querySelector( ".lineWrappingArea" ).firstChild );
+
+			var numberLines = wrappedLines.length;
+			if (numberLines > 1)
+			{
+				var firstLine = wrappedLines[0];
+				var secondLine = wrappedLines[1];
+				
+				var breaksWord = checkLineBreak(firstLine, secondLine);
+				
+				if (breaksWord == true)
+				{
+					while (breaksWord == true)
+					{
+						// Move the newline one character to the left and re-check
+						var firstLineArray = firstLine.split("");
+						var firstLineLastCharacter = firstLineArray.pop();
+						var secondLine = firstLineLastCharacter + secondLine;
+						firstLine = firstLineArray.join("");
+						
+						// If we moved all the way back, fail out to the original newline
+						if (firstLine == "")
+						{
+							breaksWord = false;
+							firstLine = wrappedLines[0];
+							secondLine = wrappedLines[1];
+						} else {
+							breaksWord = checkLineBreak(firstLine, secondLine);
+						}
+					}
+
+					wrappedLines[0] = firstLine;
+					wrappedLines[1] = secondLine;
+					
+					var notFirstLine = "";
+					for (var currentLine = 1; currentLine < numberLines; currentLine++)
+					{
+						notFirstLine = notFirstLine + wrappedLines[currentLine];
+					}
+					
+					return firstLine + "\n" + lineBreakText(notFirstLine, japaneseTextAreaWidth);
+					
+				} else {
+
+					var notFirstLine = "";
+					for (var currentLine = 1; currentLine < numberLines; currentLine++)
+					{
+						notFirstLine = notFirstLine + wrappedLines[currentLine];
+					}
+
+					return firstLine + "\n" + lineBreakText(notFirstLine, japaneseTextAreaWidth);
+				}
+			} else {
+				return japaneseText;
+			}
+			
+		} // end function lineBreakText
+
+		function checkLineBreak(firstLine, secondLine)
+		{
+			var combinedLine = firstLine + secondLine;
+			var spacedCombinedLine = wordSpace(combinedLine);
+			spacedCombinedLine = replaceChars(spacedCombinedLine, "\n", "");
+
+			var spacedFirstLine = wordSpace(firstLine);
+			spacedFirstLine = replaceChars(spacedFirstLine, "\n", "");
+			var spacedSecondLine = wordSpace(secondLine);
+			spacedSecondLine = replaceChars(spacedSecondLine, "\n", "");
+			
+			var combinedSpacedLine = spacedFirstLine + spacedSecondLine;
+
+			var firstLineLastCharacter = firstLine.charAt(firstLine.length - 1);
+			if (isJapanese(firstLineLastCharacter) == false)
+			{
+				combinedSpacedLine = spacedFirstLine + " " + spacedSecondLine;
+			}
+			
+			if (combinedSpacedLine !== spacedCombinedLine)
+			{
+				return true;
+			} else {
+				return false;
+			}
+		} // end function checkLineBreak
+
+		/**
+		* I extract the visually rendered lines of text from the given textNode as it
+		* exists in the document at this very moment. Meaning, it returns the lines of
+		* text as seen by the user.
+		*/
+		function extractLinesFromTextNode( textNode ) {
+
+			// BECAUSE SAFARI: None of the "modern" browsers seem to care about the actual
+			// layout of the underlying markup. However, Safari seems to create range
+			// rectangles based on the physical structure of the markup (even when it
+			// makes no difference in the rendering of the text). As such, let's rewrite
+			// the text content of the node to REMOVE SUPERFLUOS WHITE-SPACE. This will
+			// allow Safari's .getClientRects() to work like the other modern browsers.
+			textNode.textContent = collapseWhiteSpace( textNode.textContent );
+
+			// A Range represents a fragment of the document which contains nodes and
+			// parts of text nodes. One thing that's really cool about a Range is that we
+			// can access the bounding boxes that contain the contents of the Range. By
+			// incrementally adding characters - from our text node - into the range, and
+			// then looking at the Range's client rectangles, we can determine which
+			// characters belong in which rendered line.
+			var textContent = textNode.textContent;
+			var range = document.createRange();
+			var lines = [];
+			var lineCharacters = [];
+
+			// Iterate over every character in the text node.
+			for ( var i = 0 ; i < textContent.length ; i++ ) {
+
+				// Set the range to span from the beginning of the text node up to and
+				// including the current character (offset).
+				range.setStart( textNode, 0 );
+				range.setEnd( textNode, ( i + 1 ) );
+
+				// At this point, the Range's client rectangles will include a rectangle
+				// for each visually-rendered line of text. Which means, the last
+				// character in our Range (the current character in our for-loop) will be
+				// the last character in the last line of text (in our Range). As such, we
+				// can use the current rectangle count to determine the line of text.
+				var lineIndex = ( range.getClientRects().length - 1 );
+
+				// If this is the first character in this line, create a new buffer for
+				// this line.
+				if ( ! lines[ lineIndex ] ) {
+
+					lines.push( lineCharacters = [] );
+
+				}
+
+				// Add this character to the currently pending line of text.
+				lineCharacters.push( textContent.charAt( i ) );
+
+			}
+
+			// At this point, we have an array (lines) of arrays (characters). Let's
+			// collapse the character buffers down into a single text value.
+			lines = lines.map(
+				function operator( characters ) {
+
+					return( collapseWhiteSpace( characters.join( "" ) ) );
+
+				}
+			);
+
+			return( lines );
+
+		}
+
+
+		/**
+		* I normalize the white-space in the given value such that the amount of white-
+		* space matches the rendered white-space (browsers collapse strings of white-space
+		* down to single space character, visually, and this is just updating the text to
+		* match that behavior).
+		*/
+		function collapseWhiteSpace( value ) {
+
+			return( value.trim().replace( /\s+/g, " " ) );
+
+		}
+
+
+
+		/**
+		* I create a true array from the given array-like data. Array.from() if you are on
+		* modern browsers.
+		*/
+		function arrayFrom( arrayLike ) {
+
+			return( Array.prototype.slice.call( arrayLike ) );
+
+		}
 
 
 		lastDictionary = true;
