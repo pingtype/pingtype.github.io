@@ -1,8 +1,8 @@
 <!--
-	Pingtype French
-	Peter Burkimsher 2022-07-14
+	Pingtype Maori
+	Peter Burkimsher 2024-12-16
 	
-	A literal translator for French-English.
+	A literal translator for Maori-English.
 	
 	Features:
 
@@ -32,7 +32,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  	<title>Pingtype French</title>
+  	<title>Pingtype Maori</title>
   	  	
 	<meta charset="utf-8" />
 		<style>
@@ -114,20 +114,18 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
-	<link rel="stylesheet" href="leaflet/leaflet.css" />
-	<link rel="stylesheet" href="jquery-ui.css"/>
 
   </head>
     <body>
     	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
-    		<b>Pingtype French</b>
+    		<b>Pingtype Maori</b>
     	</div>
     	
     	<table>
     		<tr>
     			<td>
   					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
-  						French
+  						Maori
   					</div>
     			</td>
     			<td>
@@ -142,7 +140,7 @@
     			</td>
     		<tr>
     			<td>
-  					<textarea id="frenchTextArea" rows="10" cols="50" class="advanced"></textarea>
+  					<textarea id="maoriTextArea" rows="10" cols="50" class="advanced"></textarea>
     			</td>
     			<td>
   					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
@@ -180,8 +178,8 @@
 						</div>
 					</td>
 					<td>
-						<input type="checkbox" id="frenchPlainCheckbox" checked="true"><span onclick="toggleCheckbox('frenchPlainCheckbox');">French Plain</span>
-						<input type="checkbox" id="frenchCheckbox" checked="true"><span onclick="toggleCheckbox('frenchCheckbox');">French</span>
+						<input type="checkbox" id="maoriPlainCheckbox" checked="true"><span onclick="toggleCheckbox('maoriPlainCheckbox');">Maori Plain</span>
+						<input type="checkbox" id="maoriCheckbox" checked="true"><span onclick="toggleCheckbox('maoriCheckbox');">Maori</span>
 						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
 						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
 						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
@@ -394,70 +392,70 @@
 			return stringIsNumber;
 		} // end function isNumberString
 
-		// isFrench - check if the character is French
-		function isFrench(thisCharacter)
+		// isMaori - check if the character is Maori
+		function isMaori(thisCharacter)
 		{
-			//debugLog("isFrench(" + thisCharacter + ")");
+			//debugLog("isMaori(" + thisCharacter + ")");
 			
-			var frenchCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-àâçéèêëîïôùûüáàâäçéèêëîïòôÖœùûüµ ’-";
+			var maoriCharacters = " ,;:!?.()/'0123456789aAeEgGhHiIkKlmMnNoOpPrRtTuUwW";
 						
-			if (contains(frenchCharacters,thisCharacter) == true)
+			if (contains(maoriCharacters,thisCharacter) == true)
 			{
 				return true;
 			}
 			
 			return false;
 			
-		} // end function isFrench
+		} // end function isMaori
 
-		function isFrenchString(thisString)
+		function isMaoriString(thisString)
 		{
-			//debugLog("isFrenchString(" + thisString + ")");
+			//debugLog("isMaoriString(" + thisString + ")");
 
 			var numberCharacters = thisString.length;
 			
-			var stringIsFrench = true;
+			var stringIsMaori = true;
 			
 			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isFrenchString(thisCharacter) == false)
+				if (isMaoriString(thisCharacter) == false)
 				{
-					stringIsFrench = false;
+					stringIsMaori = false;
 					break;
 				}
 			} // end for every character
 			
-			return stringIsFrench;
-		} // end function isFrenchString
+			return stringIsMaori;
+		} // end function isMaoriString
 
-		function containsFrenchString(thisString)
+		function containsMaoriString(thisString)
 		{
-			//debugLog("isFrenchString(" + thisString + ")");
+			//debugLog("isMaoriString(" + thisString + ")");
 
 			var numberCharacters = thisString.length;
 			
-			var stringIsFrench = false;
+			var stringIsMaori = false;
 			
 			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isFrench(thisCharacter) == true)
+				if (isMaori(thisCharacter) == true)
 				{
-					stringIsFrench = true;
+					stringIsMaori = true;
 					break;
 				}
 			} // end for every character
 			
-			return stringIsFrench;
-		} // end function containsFrenchString
+			return stringIsMaori;
+		} // end function containsMaoriString
 
 
 		function isEnglish(thisCharacter)
 		{
-			//debugLog("isEnglish(" + thisCharacter + ")");
+			debugLog("isEnglish(" + thisCharacter + ")");
 
 			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
 			
@@ -514,9 +512,9 @@
 			return stringIsEnglish;
 		} // end function containsEnglishString
 
-		function loadFrench(filename)
+		function loadMaori(filename)
 		{
-			//debugLog("loadFrench(" + filename + ")");
+			//debugLog("loadMaori(" + filename + ")");
 
 			var xmlhttp = new XMLHttpRequest();
 
@@ -525,15 +523,15 @@
 				   if (xmlhttp.status == 200) 
 				   {
 						
-						frenchText = xmlhttp.responseText;
-						document.getElementById("frenchTextArea").value = frenchText;
+						maoriText = xmlhttp.responseText;
+						document.getElementById("maoriTextArea").value = maoriText;
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
 					  alert('There was an error 400');
 				   }
 				   else {
-					   alert('error loading french file');
+					   alert('error loading maori file');
 				   }
 				}
 			};
@@ -541,7 +539,7 @@
 			xmlhttp.open("GET", filename, true);
 			xmlhttp.send();
 				
-		} // end loadFrench
+		} // end loadMaori
 
 		function loadEnglish(filename)
 		{
@@ -581,9 +579,9 @@
     		//thisWord = replaceChars(thisWord, "’", " ’ ");
     		//thisWord = replaceChars(thisWord, "‘", " ‘ ");
     		//thisWord = replaceChars(thisWord, "’", " ’ ");
-			thisWord = replaceChars(thisWord, "l'", "l’");
-			thisWord = replaceChars(thisWord, "d'", "d’");
-			thisWord = replaceChars(thisWord, "s'", "s’");
+			//thisWord = replaceChars(thisWord, "l'", "l’");
+			//thisWord = replaceChars(thisWord, "d'", "d’");
+			//thisWord = replaceChars(thisWord, "s'", "s’");
     		
     		
     		thisWord = replaceChars(thisWord, "\n'", "\n' ");
@@ -645,16 +643,16 @@
     			thisWord = replaceChars(thisWord, "  ", " ");
     		}
     		
-    		//thisWord = replaceChars(thisWord, "0", " 0 ");
-    		//thisWord = replaceChars(thisWord, "1", " 1 ");
-    		//thisWord = replaceChars(thisWord, "2", " 2 ");
-    		//thisWord = replaceChars(thisWord, "3", " 3 ");
-    		//thisWord = replaceChars(thisWord, "4", " 4 ");
-    		//thisWord = replaceChars(thisWord, "5", " 5 ");
-    		//thisWord = replaceChars(thisWord, "6", " 6 ");
-    		//thisWord = replaceChars(thisWord, "7", " 7 ");
-    		//thisWord = replaceChars(thisWord, "8", " 8 ");
-    		//thisWord = replaceChars(thisWord, "9", " 9 ");
+    		thisWord = replaceChars(thisWord, "0", " 0 ");
+    		thisWord = replaceChars(thisWord, "1", " 1 ");
+    		thisWord = replaceChars(thisWord, "2", " 2 ");
+    		thisWord = replaceChars(thisWord, "3", " 3 ");
+    		thisWord = replaceChars(thisWord, "4", " 4 ");
+    		thisWord = replaceChars(thisWord, "5", " 5 ");
+    		thisWord = replaceChars(thisWord, "6", " 6 ");
+    		thisWord = replaceChars(thisWord, "7", " 7 ");
+    		thisWord = replaceChars(thisWord, "8", " 8 ");
+    		thisWord = replaceChars(thisWord, "9", " 9 ");
     		
 			// Add spaces for punctuation
 			var spacedLine = "";
@@ -664,13 +662,13 @@
 			{
 				var thisLineCharacter = thisWord[currentLineCharacter];
 			
-				if (isFrench(thisLineCharacter) == true)
+				if (isMaori(thisLineCharacter) == true)
 				{
-					spacedLine = spacedLine + thisLineCharacter;
+					spacedLine = spacedLine + thisLineCharacter + "";
 				} else {
 					if (isEnglish(thisLineCharacter) == true)
 					{
-						spacedLine = spacedLine + thisLineCharacter;
+						spacedLine = spacedLine + thisLineCharacter + "";
 					} else {
 						spacedLine = spacedLine + thisLineCharacter + " ";
 					}
@@ -695,10 +693,10 @@
 					{
 						spacedLine = spacedLine + thisLineCharacter + " ";
 					} else {
-						spacedLine = spacedLine + thisLineCharacter;
+						spacedLine = spacedLine + thisLineCharacter + "";
 					}
 				} else {
-					spacedLine = spacedLine + thisLineCharacter;
+					spacedLine = spacedLine + thisLineCharacter + "";
 				}
 			
 			} // end add spaces after every non-Korean character
@@ -713,10 +711,10 @@
     		return thisWord;
     	} // end function spacePunctuation
     	
-    	function translateText(frenchText, englishText)
+    	function translateText(maoriText, englishText)
     	{
-			var addFrenchPlain = document.getElementById('frenchPlainCheckbox').checked;
-			var addFrench = document.getElementById('frenchCheckbox').checked;
+			var addMaoriPlain = document.getElementById('maoriPlainCheckbox').checked;
+			var addMaori = document.getElementById('maoriCheckbox').checked;
 			var addLiteral = document.getElementById('literalCheckbox').checked;
 			var addEnglish = document.getElementById('englishCheckbox').checked;
     		
@@ -724,23 +722,23 @@
 			var outputHtml = "";			
 						
 			//var englishArray = englishText.split("\n");
-			var frenchArray = frenchText.split("\n");
+			var maoriArray = maoriText.split("\n");
 			var englishArray = englishText.split("\n");
 			
-			var numberFrenchLines = frenchArray.length;
+			var numberMaoriLines = maoriArray.length;
 			var numberEnglishLines = englishArray.length;
 			
-			var frenchHtml = "";
+			var maoriHtml = "";
 			var literalHtml = "";
 			
-			var frenchText = "";
+			var maoriText = "";
 			var literalText = "";
 			
 			var missingWords = "";
 						
-			for (var currentLine = 0; currentLine < numberFrenchLines; currentLine++)
+			for (var currentLine = 0; currentLine < numberMaoriLines; currentLine++)
 			{
-				var frenchLine = frenchArray[currentLine];
+				var maoriLine = maoriArray[currentLine];
 
 				var englishLine;
 								
@@ -751,10 +749,10 @@
 					englishLine = "";
 				}
 				
-				var frenchLineHtml = "";
+				var maoriLineHtml = "";
 				var literalLineHtml = "";
 			
-				var frenchLineText = "";
+				var maoriLineText = "";
 				var literalLineText = "";
 				
 				var hangulPlainLine = "";
@@ -764,7 +762,7 @@
 				//	hangulPlainLine = replaceChars(hangulLine, " ", "");
 				//} // end if addHangulPlain
 								
-				var spacedLine = spacePunctuation(frenchLine);
+				var spacedLine = spacePunctuation(maoriLine);
 				
 				var thisLineWords = spacedLine.split(" ");
 				
@@ -781,17 +779,17 @@
 					
 					var wordHasCase = thisWord.toLowerCase() != thisWord;
 					var inDictionaryLowercase = false;
-
 					if (wordHasCase)
 					{
 						inDictionaryLowercase = contains(combinedDictionaryData, "\n" + thisWord.toLowerCase() + "	");
 					}
 					
+					
 					if ((inDictionary == true) || (inDictionaryLowercase == true))
 					{
 						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
 						
-						
+
 						if (wordHasCase && (inDictionary == false))
 						{
 							if (inDictionaryLowercase)
@@ -815,37 +813,37 @@
 							thisPos = thisDictionaryLineArray[1];
 						}
 																		
-						var thisWordHtml = "<div class=\"french_" + thisPos + "\">" + thisWord + "</div>";
+						var thisWordHtml = "<div class=\"maori_" + thisPos + "\">" + thisWord + "</div>";
 						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
 						
 
-						frenchLineHtml = frenchLineHtml + "<td>" + thisWordHtml + "</td>";
+						maoriLineHtml = maoriLineHtml + "<td>" + thisWordHtml + "</td>";
 						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
 						
-						frenchLineText = frenchLineText + thisWord;
+						maoriLineText = maoriLineText + thisWord;
 						literalLineText = literalLineText + thisLiteral;
 						
 					} else {
 																		
 						var thisWordNotInDictionary = thisWord;
 						
-						var thisWordNotInDictionaryFrenchHtml = "<div class=\"french_1\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryMaoriHtml = "<div class=\"maori_1\">" + thisWordNotInDictionary + "</div>";
 						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
 						
-						frenchLineHtml = frenchLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						maoriLineHtml = maoriLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
 						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
 					
-						frenchLineText = frenchLineText + thisWordNotInDictionary;
+						maoriLineText = maoriLineText + thisWordNotInDictionary;
 						literalLineText = literalLineText + thisWordNotInDictionary;
 					
-						//if (isFrenchString(thisWord) == true)
+						//if (isMaoriString(thisWord) == true)
 						//{
 						//	missingWords = missingWords + thisWord + "\n";
 						//}
 					
 					} // end if the dictionary contains the word
 					
-					frenchLineText = frenchLineText + " ";
+					maoriLineText = maoriLineText + " ";
 					literalLineText = literalLineText + " ";
 					
 				} // end for every word
@@ -853,9 +851,9 @@
 				outputHtml = outputHtml + "<p>";
 				outputHtml = outputHtml + "<table>";
 				
-				if (addFrench == true)
+				if (addMaori == true)
 				{
-					outputHtml = outputHtml + "<tr class=\"frenchLine\">" + frenchLineHtml + "</tr>";
+					outputHtml = outputHtml + "<tr class=\"maoriLine\">" + maoriLineHtml + "</tr>";
 				}
 				
 				if (addLiteral == true)
@@ -875,9 +873,9 @@
 				
 				/* Lines to text */
 				
-				if (addFrench == true)
+				if (addMaori == true)
 				{
-					outputText = outputText + frenchLineText + "\n";
+					outputText = outputText + maoriLineText + "\n";
 				}
 				
 				if (addLiteral == true)
@@ -902,10 +900,10 @@
     	
     	function translateButtonClicked()
     	{
-    		var frenchText = document.getElementById("frenchTextArea").value;
+    		var maoriText = document.getElementById("maoriTextArea").value;
     		var englishText = document.getElementById("englishTextArea").value;
     		
-			var translationOutput = translateText(frenchText, englishText);
+			var translationOutput = translateText(maoriText, englishText);
 			
 			outputHtml = translationOutput[0];
 			outputText = translationOutput[1];			
@@ -925,13 +923,13 @@
 			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
 		} // end function debugLog
 
-		// If we have an French file
-		if ((QueryString.frenchFile != "") && (QueryString.frenchFile != undefined))
+		// If we have an Maori file
+		if ((QueryString.maoriFile != "") && (QueryString.maoriFile != undefined))
 		{
 			//var koreanUrl = encodeURI(QueryString.koreanFile);
-			var koreanUrl = QueryString.frenchFile;
+			var koreanUrl = QueryString.maoriFile;
 		
-		    loadFrench(frenchUrl);
+		    loadMaori(maoriUrl);
 		}
 
 		// If we have an English file
@@ -944,8 +942,7 @@
 		}
 
 		lastDictionary = true;
-    	loadDictionary("French/FrenchDefinitionsPos.txt");
-    	//loadDictionary("Korean/KoreanDefinitionsRomaja.txt");
+    	loadDictionary("Maori/MaoriDefinitions.txt");
     	
     </script>
 
