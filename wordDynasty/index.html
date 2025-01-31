@@ -1,0 +1,373 @@
+<html>
+	<head>
+	
+		<style>
+			body {
+        	font-family: Tahoma, Geneva, sans-serif;
+      		}
+      
+	.characterCell {
+		font-size: 2.5em; /* 40px/16=2.5em */
+		text-align: center;
+	}
+      
+	.center {
+	  position: absolute;
+	  left: 10%;
+	  top: 10%;
+	  -moz-transform: translate(-50%, -50%); /* Firefox */
+	  -ms-transform: translate(-50%, -50%);  /* IE 9 */
+	  -webkit-transform: translate(-50%, -50%); /* Safari and Chrome*/
+	  -o-transform: translate(-50%, -50%); /* Opera */
+	  transform: translate(-50%, -50%);
+	
+	  /* optional size in px or %: */
+	  width: 100px;
+	  height: 20%;
+	}
+      
+    table{
+      width: 10%;
+      border-collapse: collapse; 
+      white-space: nowrap;
+    }
+    td {
+      display: inline-block;
+      width: 30%;
+      padding-top: 5%;
+      padding-bottom: 5%;
+      padding-left: 5%;
+      padding-right: 5%;
+      /*
+      width: calc(20% - 2px);
+      padding-bottom: calc(20% - 2px);
+      background-color: #ff0000; 
+      border: 1px solid #000; 
+      */
+    }
+    tr:nth-child(odd) td:nth-child(even){
+      background-color: #ffffff;
+    }
+    tr:nth-child(odd) td:nth-child(odd){
+      background-color: #ffffff;
+    }
+    tr:nth-child(even) td:nth-child(odd){
+      background-color: #ffffff;
+    }
+    tr:nth-child(even) td:nth-child(even){
+      background-color: #ffffff;
+    }
+      </style>
+
+	</head>
+
+	<body>
+		<div class="center" id="gameDiv">
+		</div>
+	</body>
+	
+	<script>
+	
+		var numberRows = 10;
+		var numberColumns = 10;
+	
+		var combinedDictionaryData = "";
+		
+		var selectedRow = -1;
+		var selectedColumn = -1;
+		
+		
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+						
+						findWordsHorizontal();
+						findWordsVertical();
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function getRandomArbitrary(min, max) {
+ 			return Math.floor(Math.random() * (max - min) + min);
+		} // end function getRandomArbitrary
+
+		function getRandomLetter(min, max) {
+			var alphabet = "abcdefghijklmnopqrstuvwxyz";
+ 			return alphabet[getRandomArbitrary(0, alphabet.length)];
+		} // end function getRandomLetter
+	
+		function populateTable()
+		{
+			var tableHtml = "<table>";
+						
+			for (var currentRow = 0; currentRow < numberRows; currentRow++)
+			{
+				tableHtml = tableHtml + "<tr>";
+				
+				for (var currentColumn = 0; currentColumn < numberColumns; currentColumn++)
+				{
+					tableHtml = tableHtml + "<td>";
+					
+					var thisCharacter = getRandomLetter();
+					
+					tableHtml = tableHtml + "<div onclick=\"" + "cellClicked(" + currentRow + "," + currentColumn + ");" + "\" id=\"row" + currentRow + "column" + currentColumn +"\" class=\"characterCell\">" + thisCharacter + "</div>";
+										
+					tableHtml = tableHtml + "</td>";
+				}
+
+				tableHtml = tableHtml + "</tr>\n";
+			}
+		
+			tableHtml = tableHtml + "</table>";
+			
+			tableHtml = tableHtml + "<h2>Words</h2><textarea id=\"foundWords\" rows=\"15\" cols=\"20\" style=\"font-size:24pt\"></textarea>";
+
+			document.getElementById("gameDiv").innerHTML = tableHtml;
+		} // end function populateTable
+		
+		function getCharacter(currentRow, currentColumn)
+		{
+			return document.getElementById("row" + currentRow + "column" + currentColumn).innerText;		
+		} // end function getCharacter
+		
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+		
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		/**
+		 * Creates line element on given position, with given length and angle.
+		 */
+		function createLineElement(x, y, length, angle) {
+		    var line = document.createElement("div");
+		    var styles = 'border: 1px solid black; '
+		               + 'width: ' + length + 'px; '
+		               + 'height: 0px; '
+		               + '-moz-transform: rotate(' + angle + 'rad); '
+		               + '-webkit-transform: rotate(' + angle + 'rad); '
+		               + '-o-transform: rotate(' + angle + 'rad); '
+		               + '-ms-transform: rotate(' + angle + 'rad); '
+		               + 'position: absolute; '
+		               + 'top: ' + y + 'px; '
+		               + 'left: ' + x + 'px; ';
+		    line.setAttribute('style', styles);
+		    line.setAttribute('class', 'wordLine');
+		    return line;
+		}
+		
+		/**
+		 * Creates element which represents line from point [x1, y1] to [x2, y2].
+		 * It is html div element with minimal height and width corresponding to line length.
+		 * It's position and rotation is calculated below.
+		 */
+		function createLine(x1, y1, x2, y2) {
+		    var a = x1 - x2,
+		        b = y1 - y2,
+		        c = Math.sqrt(a * a + b * b);
+		
+		    var sx = (x1 + x2) / 2,
+		        sy = (y1 + y2) / 2;
+		
+		    var x = sx - c / 2,
+		        y = sy;
+		
+		    var alpha = Math.PI - Math.atan2(-b, a);
+		
+		    return createLineElement(x, y, c, alpha);
+		}
+		
+		function underlineWord(currentRow, startColumn, endColumn)
+		{			
+			var startRect = document.getElementById("row" + currentRow + "column" + startColumn).getBoundingClientRect();
+			var endRect = document.getElementById("row" + currentRow + "column" + endColumn).getBoundingClientRect();
+			
+			document.body.appendChild(createLine(startRect.x + startRect.width / 2, startRect.y + startRect.height, endRect.x + endRect.width / 2, endRect.y + endRect.height));
+		} // end function underlineWord
+
+		function findWordsHorizontal()
+		{
+			for (var currentRow = 0; currentRow < numberRows; currentRow++)
+			{
+				for (var currentColumn = 0; currentColumn < numberColumns; currentColumn++)
+				{
+					var thisCharacter = getCharacter(currentRow, currentColumn);
+					
+					var wordToCheck = "" + thisCharacter;
+					
+					for (var followingColumn = currentColumn + 1; followingColumn < numberColumns; followingColumn++)
+					{
+						var followingCharacter = getCharacter(currentRow, followingColumn);
+						
+						wordToCheck = wordToCheck + followingCharacter;
+						
+						if (wordToCheck.length >= 3)
+						{
+							if (contains(combinedDictionaryData, "\n" + wordToCheck + "	") == true)
+							{
+								console.log("found horizontal: " + wordToCheck);
+								underlineWord(currentRow, currentColumn, followingColumn);
+								
+								var translatedWord = textBetween(combinedDictionaryData, "\n" + wordToCheck + "	", "\n");
+								
+								document.getElementById("foundWords").value = document.getElementById("foundWords").value + wordToCheck + "	" + translatedWord + "\n";
+							}
+						}
+					}
+				}
+			}
+		} // end function findWordsHorizontal
+		
+		function verticalWord(currentColumn, startRow, endRow)
+		{			
+			var startRect = document.getElementById("row" + startRow + "column" + currentColumn).getBoundingClientRect();
+			var endRect = document.getElementById("row" + endRow + "column" + currentColumn).getBoundingClientRect();
+			
+			document.body.appendChild(createLine(startRect.x, startRect.y + startRect.height / 2, endRect.x, endRect.y  + endRect.height / 2));
+		} // end function verticalWord
+		
+		function findWordsVertical()
+		{
+			for (var currentColumn = 0; currentColumn < numberColumns; currentColumn++)
+			{
+				for (var currentRow = 0; currentRow < numberRows; currentRow++)
+				{
+					var thisCharacter = getCharacter(currentRow, currentColumn);
+					
+					var wordToCheck = "" + thisCharacter;
+					
+					for (var followingRow = currentRow + 1; followingRow < numberRows; followingRow++)
+					{
+						var followingCharacter = getCharacter(followingRow, currentColumn);
+						
+						wordToCheck = wordToCheck + followingCharacter;
+						
+						if (wordToCheck.length >= 3)
+						{
+							if (contains(combinedDictionaryData, "\n" + wordToCheck + "	") == true)
+							{
+								console.log("found vertical: " + wordToCheck);
+								verticalWord(currentColumn, currentRow, followingRow);
+								var translatedWord = textBetween(combinedDictionaryData, "\n" + wordToCheck + "	", "\n");
+								
+								document.getElementById("foundWords").value = document.getElementById("foundWords").value + wordToCheck + "	" + translatedWord + "\n";
+							}
+						}
+					}
+				}
+			}
+		} // end function findWordsVertical
+
+
+		function cellClicked(clickedRow, clickedColumn)
+		{			
+			if ((selectedRow == -1) && (selectedColumn == -1))
+			{
+				selectedRow = clickedRow;
+				selectedColumn = clickedColumn;
+			} else {
+				
+				document.getElementById("foundWords").value = "";
+				
+				var lineObjects = document.getElementsByClassName('wordLine');
+
+				while(lineObjects[0])
+				{
+				    lineObjects[0].parentNode.removeChild(lineObjects[0]);
+				}
+
+			
+				var fromCharacter = document.getElementById("row" + selectedRow + "column" + selectedColumn).innerText;
+				var toCharacter = document.getElementById("row" + clickedRow + "column" + clickedColumn).innerText;
+				
+				document.getElementById("row" + selectedRow + "column" + selectedColumn).innerText = toCharacter;
+				document.getElementById("row" + clickedRow + "column" + clickedColumn).innerText = fromCharacter;
+				
+				findWordsHorizontal();
+				findWordsVertical();
+				
+				selectedRow = -1;
+				selectedColumn = -1;
+			}
+			
+		} // end function cellClicked
+		
+		//loadDictionary("EnglishWords.txt");
+		//loadDictionary("scrabble.txt");
+		loadDictionary("scrabbleUnder10Definitions.txt");
+		
+		populateTable();
+		
+		//findWords();
+	</script>
+</html>
