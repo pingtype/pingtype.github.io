@@ -513,6 +513,7 @@
     	function spacePunctuation(thisWord)
     	{
     		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
     		thisWord = replaceChars(thisWord, " '", " ' ");
     		thisWord = replaceChars(thisWord, "' ", " ' ");
     		thisWord = replaceChars(thisWord, "\n'", "\n' ");
@@ -547,8 +548,29 @@
     		thisWord = replaceChars(thisWord, "8", " 8 ");
     		thisWord = replaceChars(thisWord, "9", " 9 ");
     		
+			var thesePunctuation = "—,;:!?.…\"“”«»(){}*/#%¨°+=|≈♦–—,;:!?.…'‘’\"“”„()[]*/#%=½⅓¼ʼ–—,;:!?.…'‘’“”()[]*/\+=¬¼";
+			var numberPunctuation = thesePunctuation.length;
+			for (var currentPunctuation = 0; currentPunctuation < numberPunctuation; currentPunctuation++)
+			{
+				var thisPunctuation = thesePunctuation[currentPunctuation];
+				
+    			thisWord = replaceChars(thisWord, thisPunctuation, " " + thisPunctuation + " ");
+			}
+						
+			while (contains(thisWord, "  ") == true)
+			{
+    			thisWord = replaceChars(thisWord, "  ", " ");
+    		}
+
     		return thisWord;
     	} // end function spacePunctuation
+
+    	function wordSpace(thisText)
+    	{
+    		var thisText = spacePunctuation(thisText);
+    		
+			return thisText;
+		}
 
     	function translateText(arabicText, romanisationManualText, englishText)
     	{
@@ -615,7 +637,8 @@
 				var romanisationManualLineText = romanisationManualLine;
 				var literalLineText = "";
 								
-				var thisLineWords = arabicLine.split(" ");
+				var spacedLine = wordSpace(arabicLine);
+				var thisLineWords = spacedLine.split(" ");
 				
 				var numberLineWords = thisLineWords.length;
 				
