@@ -1,0 +1,1196 @@
+<!--
+	Pingtype Vietnamese
+	Peter Burkimsher 2024-12-20
+	
+	A literal translator for Vietnamese-English.
+	
+	Features:
+
+	To Do:
+	- Build a dictionary
+	- Romaja
+	- English translation
+	- Dictionary Editor
+	- Advanced button
+	- Words from Bible
+	- Clear
+	- Memory
+	- Documentation
+	- Print
+	- Google Translate
+	- Word lists
+	- Missing words
+	- Multiple dictionary files
+	- Auto-translate on dictionariesLoaded
+	- All Hyogai Kanji (uncommon Chinese characters) from en-wiktionary
+	
+	Data sources:
+	
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Vietnamese</title>
+  	  	
+	<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			table td {
+				white-space: nowrap;
+      		}
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+      .hangul_undefined {
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+    	</style>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<link rel="stylesheet" href="jquery-ui.css"/>
+
+  </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		<b>Pingtype Vietnamese</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Vietnamese
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Vietnamese Spaced
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output
+  					</div>
+    			</td>
+    		<tr>
+    			<td>
+  					<textarea id="vietnameseTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="vietnameseSpacedTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+    		</tr>
+    	</table>
+
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear
+					</div>
+				</td>
+			</tr>
+    	</table>
+
+		<!--<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">-->
+		<div id="advancedRows" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="vietnamesePlainCheckbox" checked="true"><span onclick="toggleCheckbox('vietnamesePlainCheckbox');">Vietnamese Plain</span>
+						<input type="checkbox" id="vietnameseCheckbox" checked="true"><span onclick="toggleCheckbox('vietnameseCheckbox');">Vietnamese</span>
+						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
+						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="range" id="englishOpacity" value="100" onclick="setChineseOpacity();">
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					</td>
+					<td>
+						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+					</td>
+				</tr>
+			</table>
+
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<!--<div id="debugDiv" class="advanced" style="visibility:hidden">-->
+		<div id="debugDiv" class="advanced">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+    </body>
+    
+    
+	<!-- Native scripts -->
+    <script>
+    	
+		var fiveWords = "\n";
+		var fourWords = "\n";
+		var threeWords = "\n";
+		var twoWords = "\n";
+		var oneWords = "\n";
+    	
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+
+    	
+		var combinedDictionaryData = "";
+		
+		var lastDictionary = false;
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("loaded " + combinedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// isVietnamese - check if the character is Vietnamese
+		function isVietnamese(thisCharacter)
+		{
+			//debugLog("isVietnamese(" + thisCharacter + ")");
+			
+			var vietnameseCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZaáàăắằẵẳâấầẫẩãảạặậbcdđĐÐeéèêếềễểẽẻẹệfghiíìïĩỉịJklmnoóòôốồỗổõỏơớờỡởợọộpqrstuúùũủưứừữửựụvwxyýỳỹỷỵz";
+						
+			if (contains(vietnameseCharacters,thisCharacter) == true)
+			{
+				return true;
+			}
+
+			if (contains(vietnameseCharacters.toLowerCase(),thisCharacter.toLowerCase()) == true)
+			{
+				return true;
+			}			
+			
+			return false;
+			
+		} // end function isVietnamese
+
+		function isVietnameseString(thisString)
+		{
+			//debugLog("isVietnameseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsVietnamese = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isVietnameseString(thisCharacter) == false)
+				{
+					stringIsVietnamese = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsVietnamese;
+		} // end function isVietnameseString
+
+		function containsVietnameseString(thisString)
+		{
+			//debugLog("isVietnameseString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsVietnamese = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isVietnamese(thisCharacter) == true)
+				{
+					stringIsVietnamese = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsVietnamese;
+		} // end function containsVietnameseString
+
+
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+
+		function loadVietnamese(filename)
+		{
+			//debugLog("loadVietnamese(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						vietnameseText = xmlhttp.responseText;
+						document.getElementById("vietnameseTextArea").value = vietnameseText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading vietnamese file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadVietnamese
+
+		function loadEnglish(filename)
+		{
+			//debugLog("loadEnglish(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						englishText = xmlhttp.responseText;
+						document.getElementById("englishTextArea").value = englishText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading english file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadEnglish
+
+		function searchDictionary(thisWord)
+		{
+			//debugLog("searchDictionary(" + thisWord + ")");
+
+			var wordLength = thisWord.split(" ").length;
+			//debugLog("wordLength " + wordLength);
+
+			switch (wordLength)
+			{
+				case 5: return contains(fiveWords, "\n" + thisWord + "\n"); break;
+				case 4: return contains(fourWords, "\n" + thisWord + "\n"); break;
+				case 3: return contains(threeWords, "\n" + thisWord + "\n"); break;
+				case 2: return contains(twoWords, "\n" + thisWord + "\n"); break;
+				case 1: return contains(oneWords, "\n" + thisWord + "\n"); break;
+				default: return contains(combinedDictionaryData, "\n" + thisWord + "	"); break;
+			}
+			
+		} // end function searchDictionary
+
+    	function spacePunctuation(thisWord)
+    	{    	
+    		thisWord = " " + thisWord + " ";
+    		//thisWord = replaceChars(thisWord, " '", " ' ");
+    		//thisWord = replaceChars(thisWord, "' ", " ' ");
+    		//thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		//thisWord = replaceChars(thisWord, "’", " ’ ");
+    		//thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		//thisWord = replaceChars(thisWord, "’", " ’ ");
+			//thisWord = replaceChars(thisWord, "l'", "l’");
+			//thisWord = replaceChars(thisWord, "d'", "d’");
+			//thisWord = replaceChars(thisWord, "s'", "s’");
+    		
+    		
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");    		
+
+    		//thisWord = replaceChars(thisWord, "", "  ");
+    		//thisWord = replaceChars(thisWord, "-", " - ");
+    		//thisWord = replaceChars(thisWord, "—", " — ");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		//thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "?", " ? ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, "'", " ' ");
+    		thisWord = replaceChars(thisWord, "«", " « ");
+    		thisWord = replaceChars(thisWord, "»", " » ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, "[", " [ ");
+    		thisWord = replaceChars(thisWord, "]", " ] ");
+    		thisWord = replaceChars(thisWord, "*", " * ");
+    		thisWord = replaceChars(thisWord, "/", " / ");
+    		thisWord = replaceChars(thisWord, "&", " & ");
+    		thisWord = replaceChars(thisWord, "°", " ° ");
+    		thisWord = replaceChars(thisWord, "+", " + ");
+    		thisWord = replaceChars(thisWord, "=", " = ");
+			
+//			var thesePunctuation = " –—,;:!?.…'‘’\"“”«»(){}*/#%¨°+=|≈♦";
+			var thesePunctuation = "—,;:!?.…\"“”«»(){}*/#%¨°+=|≈♦–—,;:!?.…'‘’\"“”„()[]*/#%=½⅓¼ʼ–—,;:!?.…'‘’“”()[]*/\+=¬¼";
+			var numberPunctuation = thesePunctuation.length;
+			for (var currentPunctuation = 0; currentPunctuation < numberPunctuation; currentPunctuation++)
+			{
+				var thisPunctuation = thesePunctuation[currentPunctuation];
+				
+    			thisWord = replaceChars(thisWord, thisPunctuation, " " + thisPunctuation + " ");
+			}
+						
+			while (contains(thisWord, "  ") == true)
+			{
+    			thisWord = replaceChars(thisWord, "  ", " ");
+    		}
+    		
+    		//thisWord = replaceChars(thisWord, "0", " 0 ");
+    		//thisWord = replaceChars(thisWord, "1", " 1 ");
+    		//thisWord = replaceChars(thisWord, "2", " 2 ");
+    		//thisWord = replaceChars(thisWord, "3", " 3 ");
+    		//thisWord = replaceChars(thisWord, "4", " 4 ");
+    		//thisWord = replaceChars(thisWord, "5", " 5 ");
+    		//thisWord = replaceChars(thisWord, "6", " 6 ");
+    		//thisWord = replaceChars(thisWord, "7", " 7 ");
+    		//thisWord = replaceChars(thisWord, "8", " 8 ");
+    		//thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+			
+				if (isVietnamese(thisLineCharacter) == true)
+				{
+					spacedLine = spacedLine + thisLineCharacter;
+				} else {
+					if (isEnglish(thisLineCharacter) == true)
+					{
+						spacedLine = spacedLine + thisLineCharacter;
+					} else {
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					}
+				}
+			
+			} // end add spaces after every non-Korean character
+			
+			thisWord = spacedLine;
+			
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < (numberLineCharacters - 1); currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+				var nextLineCharacter = thisWord[currentLineCharacter + 1];
+			
+				if (isNumberString(thisLineCharacter) == true)
+				{
+					if (isNumberString(nextLineCharacter) == false)
+					{
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					} else {
+						spacedLine = spacedLine + thisLineCharacter;
+					}
+				} else {
+					spacedLine = spacedLine + thisLineCharacter;
+				}
+			
+			} // end add spaces after every non-Korean character
+			
+			spacedLine = spacedLine + thisWord[numberLineCharacters - 1];
+			
+			
+			thisWord = spacedLine;
+    		
+    		thisWord = thisWord.trim();
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+    	
+    	function wordSpace(thisText)
+    	{
+    		var thisText = spacePunctuation(thisText);
+    		
+    		thisText = replaceChars(thisText, " ", "§");
+    		
+    		// Remove double spacing
+    		while (contains(thisText, "§§"))
+    		{
+    			thisText = replaceChars(thisText, "§§", "§");
+    		}
+    		
+			var thisVietnameseLines = thisText.split("\n");
+			
+			var numberLines = thisVietnameseLines.length;
+			
+			var spacedVietnamese = "";
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisVietnameseLine = thisVietnameseLines[currentLine];
+				
+				var thisVietnameseLineArray = thisVietnameseLine.split("§");
+				
+				var lastWasNotVietnamese = false;
+				var spacedVietnameseLine = "";
+				
+				var lineIsVietnamese = true;
+				
+				var lastWord = 0;
+
+				var numberWords = thisVietnameseLineArray.length;
+
+
+				// Skip all non-Vietnamese lines
+		   		if (containsVietnameseString(thisVietnameseLine) == false)
+				{
+					spacedVietnamese = spacedVietnamese + thisVietnameseLine + "\n";
+				} else {
+				
+					for (var currentWord = 0; currentWord < numberWords; currentWord++)
+					{
+						var thisPhrase = "";
+					
+						var phraseFound = false;
+					
+						for (var phraseLength = 5; phraseLength >= 2; phraseLength--)
+						{
+							var lastWord = currentWord + phraseLength;
+					   
+							if (lastWord > numberWords)
+							{
+								lastWord = numberWords;
+							}
+						   	
+						   	thisPhrase = "";
+						   	
+						   	for (var thisWordOffset = currentWord; thisWordOffset < lastWord; thisWordOffset++)
+						   	{
+						   		thisPhrase = thisPhrase + thisVietnameseLineArray[thisWordOffset] + "§";
+						   	}
+						   	
+						   	thisPhrase = replaceChars(thisPhrase, "§", " ");
+						   	
+						   	thisPhrase = thisPhrase.trim();
+						   	
+						   	//debugLog(thisPhrase);
+						    
+							var thisWord = thisVietnameseLineArray[currentWord];
+							
+							//if (isVietnameseString(thisWord) == false)
+							//{
+							//	phraseFound == false;
+							//} else {
+								
+							var inDictionary = false;
+							var inDictionaryLowercase = false;
+							
+							var thisPhraseLowerCase = thisPhrase.toLowerCase();
+							 
+							//inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseLowerCase + "	");
+							inDictionary = searchDictionary(thisPhrase);
+							inDictionaryLowercase = searchDictionary(thisPhraseLowerCase);
+							
+							//debugLog("inDictionary	" + inDictionary);
+							
+							// Search for "something" phrases
+							if (inDictionary == false)
+							{
+								var thisPhraseLowerCaseArray = thisPhraseLowerCase.split(" ");
+							
+								var thisPhraseLastWordOffset = thisPhraseLowerCaseArray.length - 1;
+							
+								var thisPhraseSomething = thisPhraseLowerCaseArray[0] + " something " + thisPhraseLowerCaseArray[thisPhraseLastWordOffset];
+
+								//inDictionary = contains(combinedDictionaryData, "\n" + thisPhraseSomething + "	");
+								inDictionary = searchDictionary(thisPhraseSomething);
+							} // end search for something
+							
+							
+							if ((inDictionary == true) || (inDictionaryLowercase == true))
+							{
+								// Move the character along in the string
+								currentWord = currentWord + phraseLength - 1;
+					   
+								phraseFound = true;
+				   
+								// Exit the loop cleanly
+								phraseLength = 0;
+							} // end if the character is not Chinese
+							
+							//} // if the word exists
+							
+						} // end for every phrase length
+						
+						 // If the phrase is not found, just use the word
+						 if (phraseFound == false)
+						 {
+							 //var thisWord = thisVietnameseLineArray[currentWord];
+					
+							 //if (isVietnameseString(thisWord) == false)
+							 //{
+								 // Don't add spaces between non-Vietnamese characters
+								 //spacedVietnameseLine = spacedVietnameseLine + thisWord;
+						
+								 //lastWasNotVietnamese = true;
+								
+							 //} else {
+						
+								 // Add a space if we're back to parsing Vietnamese
+								 //if (lastWasNotVietnamese == true)
+								 //{
+								 //	 spacedVietnameseLine = spacedVietnameseLine + "§";
+								 //	 lastWasNotVietnamese = false;
+								 //}
+						
+								 spacedVietnameseLine = spacedVietnameseLine + thisWord + "§";					
+
+							 //} // end if this character is not Vietnamese
+					
+						 } else {
+
+							 // Add a space if we're back to parsing Vietnamese
+							 //if (lastWasNotVietnamese == true)
+							 //{
+								 //spacedVietnameseLine = spacedVietnameseLine + "§";
+								 //lastWasNotVietnamese = false;
+							 //}
+
+							 spacedVietnameseLine = spacedVietnameseLine + thisPhrase + "§";
+
+						 } // end if the word was not found
+						
+					} // end for every word
+
+					spacedVietnamese = spacedVietnamese + spacedVietnameseLine + "\n";
+					
+				} // end if skip all non-Vietnamese lines
+				
+			} // end for every line    		
+    		    		
+    		return spacedVietnamese;
+    	} // end function wordSpace
+
+    	
+    	function translateText(vietnameseText, englishText)
+    	{
+			var addVietnamesePlain = document.getElementById('vietnamesePlainCheckbox').checked;
+			var addVietnamese = document.getElementById('vietnameseCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var vietnameseArray = vietnameseText.split("\n");
+			var englishArray = englishText.split("\n");
+			
+			var numberVietnameseLines = vietnameseArray.length;
+			var numberEnglishLines = englishArray.length;
+			
+			var vietnameseHtml = "";
+			var literalHtml = "";
+			
+			var vietnameseText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+						
+			for (var currentLine = 0; currentLine < numberVietnameseLines; currentLine++)
+			{
+				var vietnameseLine = vietnameseArray[currentLine];
+
+				var englishLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					englishLine = englishArray[currentLine];
+				} else {
+					englishLine = "";
+				}
+				
+				var vietnameseLineHtml = "";
+				var literalLineHtml = "";
+			
+				var vietnameseLineText = "";
+				var literalLineText = "";
+				
+				var hangulPlainLine = "";
+
+				//if (addHangulPlain == true)
+				//{
+				//	hangulPlainLine = replaceChars(hangulLine, " ", "");
+				//} // end if addHangulPlain
+								
+				//var spacedLine = spacePunctuation(vietnameseLine);
+				
+				var spacedLine = wordSpace(vietnameseLine);
+				
+				var thisLineWords = spacedLine.split("§");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWord = thisLineWords[currentLineWord];
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+					
+					var wordHasCase = thisWord.toLowerCase() != thisWord;
+					var inDictionaryLowercase = false;
+
+					if (wordHasCase)
+					{
+						inDictionaryLowercase = contains(combinedDictionaryData, "\n" + thisWord.toLowerCase() + "	");
+					}
+					
+					if ((inDictionary == true) || (inDictionaryLowercase == true))
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						
+						if (wordHasCase && (inDictionary == false))
+						{
+							if (inDictionaryLowercase)
+							{
+								thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord.toLowerCase() + "	", "\n");
+							}
+						}
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisLiteral = "";
+						var thisPos = 1;
+						
+						thisLiteral = thisDictionaryLineArray[0];
+
+						
+						if (lineLength >= 1)
+						{
+							thisPos = thisDictionaryLineArray[1];
+						}
+																		
+						var thisWordHtml = "<div class=\"vietnamese_" + thisPos + "\">" + thisWord + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+
+						vietnameseLineHtml = vietnameseLineHtml + "<td>" + thisWordHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						vietnameseLineText = vietnameseLineText + thisWord;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+																		
+						var thisWordNotInDictionary = thisWord;
+						
+						var thisWordNotInDictionaryVietnameseHtml = "<div class=\"vietnamese_1\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+						
+						vietnameseLineHtml = vietnameseLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+					
+						vietnameseLineText = vietnameseLineText + thisWordNotInDictionary;
+						literalLineText = literalLineText + thisWordNotInDictionary;
+					
+						//if (isVietnameseString(thisWord) == true)
+						//{
+						//	missingWords = missingWords + thisWord + "\n";
+						//}
+					
+					} // end if the dictionary contains the word
+					
+					vietnameseLineText = vietnameseLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addVietnamese == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"vietnameseLine\">" + vietnameseLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+								
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLine + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+				
+				if (addVietnamese == true)
+				{
+					outputText = outputText + vietnameseLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			//showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var vietnameseText = document.getElementById("vietnameseTextArea").value;
+    		var englishText = document.getElementById("englishTextArea").value;
+    		
+			var vietnameseSpaced = wordSpace(vietnameseText);
+    		
+    		document.getElementById("vietnameseSpacedTextArea").value = vietnameseSpaced;
+    		
+			var translationOutput = translateText(vietnameseText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function dictionaryToWordLengths()
+		{
+			//debugLog("dictionaryToWordLengths");
+		
+			var combinedDictionaryDataLines = combinedDictionaryData.split("\n");
+			
+			var numberLines = combinedDictionaryDataLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedDictionaryDataLines[currentLine];
+			
+				if (thisLine != "")
+				{
+					var thisVietnamese = textBetween(thisLine, "start", "	");
+					
+					var wordLength = thisVietnamese.split(" ").length;
+		
+					switch (wordLength)
+					{
+						case 5: fiveWords = fiveWords + thisVietnamese + "\n"; break;
+						case 4: fourWords = fourWords + thisVietnamese + "\n"; break;
+						case 3: threeWords = threeWords + thisVietnamese + "\n"; break;
+						case 2: twoWords = twoWords + thisVietnamese + "\n"; break;
+						case 1: oneWords = oneWords + thisVietnamese + "\n"; break;
+						default: break;
+					}
+					
+				} // end if the line is not blank
+			} // end for every line in the dictionary
+		} // end function dictionaryToWordLengths
+    	
+		function dictionariesLoaded()
+		{
+			dictionaryToWordLengths();
+		
+			translateButtonClicked();
+		} // end function dictionariesLoaded
+
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+
+		// If we have an Vietnamese file
+		if ((QueryString.vietnameseFile != "") && (QueryString.vietnameseFile != undefined))
+		{
+			//var koreanUrl = encodeURI(QueryString.koreanFile);
+			var koreanUrl = QueryString.vietnameseFile;
+		
+		    loadVietnamese(vietnameseUrl);
+		}
+
+		// If we have an English file
+		if ((QueryString.englishFile != "") && (QueryString.englishFile != undefined))
+		{
+			//var englishUrl = encodeURI(QueryString.englishFile);
+			var englishUrl = QueryString.englishFile;
+		
+		    loadEnglish(englishUrl);
+		}
+
+		lastDictionary = true;
+    	loadDictionary("Vietnamese/VietnameseDefinitions.txt");
+    	//loadDictionary("Korean/KoreanDefinitionsRomaja.txt");
+    	
+    </script>
+
+
+</html>
