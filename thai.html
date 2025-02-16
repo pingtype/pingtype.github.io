@@ -1,0 +1,1267 @@
+<!--
+	Pingtype Thai
+	Peter Burkimsher 2021-02-16
+	
+	A literal translator for Thai-English.
+	
+	Features:
+
+	To Do:
+	- Build a dictionary
+	- Rtgs
+	- English translation
+	- Dictionary Editor
+	- Advanced button
+	- Words from Bible
+	- Clear
+	- Memory
+	- Documentation
+	- Print
+	- Google Translate
+	- Word lists
+	- Missing words
+	- Multiple dictionary files
+	- Auto-translate on dictionariesLoaded
+	- All Hyogai Kanji (uncommon Thai characters) from en-wiktionary
+	
+	Data sources:
+	
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Thai</title>
+  	  	
+	<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			table td {
+				white-space: nowrap;
+      		}
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+      .thai_undefined {
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+    	</style>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<link rel="stylesheet" href="jquery-ui.css"/>
+
+  </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		<b>Pingtype Thai</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Thai
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Spaced
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						RTGS
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output
+  					</div>
+    			</td>
+    		<tr>
+    			<td>
+  					<textarea id="thaiTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="thaiSpacedTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="rtgsTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+    		</tr>
+    	</table>
+
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="spaceTranslateButtonClicked();">
+							Translate
+						</div>
+					</div>
+				</td>
+				<td>
+					<div id="spaceButton" class="ButtonInner advanced" onclick="wordSpaceButtonClicked();" style="width:70px">
+						Space
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear
+					</div>
+				</td>
+			</tr>
+    	</table>
+
+		<!--<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">-->
+		<div id="advancedRows" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="thaiPlainCheckbox" checked="true"><span onclick="toggleCheckbox('thaiPlainCheckbox');">Thai</span>
+						<input type="checkbox" id="thaiCheckbox" checked="true"><span onclick="toggleCheckbox('thaiCheckbox');">Thai</span>
+						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
+						<input type="range" id="rtgsOpacity" value="100" onclick="setRtgsOpacity();">
+						<input type="checkbox" id="rtgsCheckbox" checked="true"><span onclick="toggleCheckbox('rtgsCheckbox');">Rtgs</span>
+						<input type="range" id="rtgsOpacity" value="100" onclick="setRtgsOpacity();">
+						<input type="checkbox" id="rtgsManualCheckbox" checked="true"><span onclick="toggleCheckbox('rtgsManualCheckbox');">Rtgs Manual</span>
+						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="range" id="englishOpacity" value="100" onclick="setThaiOpacity();">
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					</td>
+					<td>
+						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+					</td>
+				</tr>
+			</table>
+
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<!--<div id="debugDiv" class="advanced" style="visibility:hidden">-->
+		<div id="debugDiv" class="advanced">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+    </body>
+    
+    
+	<!-- Native scripts -->
+    <script>
+    	
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+
+		function stringLength(thisString)
+		{
+			return thisString.length;
+		
+			//if (thisString.length == 0)
+			//{
+			//	return 0;
+			//}
+		
+			//var regexAstralSymbols = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
+			//
+			//try
+			//{
+			//return thisString
+			////;
+			//// Replace every surrogate pair with a BMP symbol.
+			//.replace(regexAstralSymbols, '_')
+			//// …and *then* get the length.
+			//.length;
+			//} catch (error) {
+			//	return thisString.length;
+			//}
+		} // end function stringLength
+
+    	
+		var combinedDictionaryData = "";
+		
+		var lastDictionary = false;
+		
+		var wordsByLength = ["", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n", "\n"];
+    	
+		function dictionaryToWordLengths()
+		{
+			//debugLog("dictionaryToWordLengths");
+		
+			var combinedDictionaryDataLines = combinedDictionaryData.split("\n");
+			
+			var numberLines = combinedDictionaryDataLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = combinedDictionaryDataLines[currentLine];
+			
+				if (thisLine != "")
+				{
+					var thisWord = textBetween(thisLine, "start", "	");
+					
+					var wordLength = stringLength(thisWord);
+					
+					wordsByLength[wordLength] = wordsByLength[wordLength] + thisWord +  "\n";
+					
+				} // end if the line is not blank
+			} // end for every line in the dictionary
+			
+
+		} // end function dictionaryToWordLengths
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("loaded " + combinedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// isThai - check if the character is thai
+		function isThai(thisCharacter)
+		{
+			//debugLog("isJapanese(" + thisCharacter + ")");
+			
+			var thaiCharacters = "็่้๊๋์ํๆกขคฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลวศษสหฬอฮะัาำิีึืุูเแโใไ";
+			
+			if (contains(thaiCharacters,thisCharacter) == true)
+			{
+				return true;
+			}
+			
+			return false;
+			
+		} // end function isThai
+
+		function isThaiString(thisString)
+		{
+			//debugLog("isThaiString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsThai = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isThai(thisCharacter) == false)
+				{
+					stringIsThai = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsThai;
+		} // end function isThaiString
+
+		function containsThaiString(thisString)
+		{
+			//debugLog("isThaiString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsThai = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isThai(thisCharacter) == true)
+				{
+					stringIsThai = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsThai;
+		} // end function containsThaiString
+
+
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+
+		function loadThai(filename)
+		{
+			//debugLog("loadThai(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						thaiText = xmlhttp.responseText;
+						document.getElementById("thaiTextArea").value = thaiText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading thai file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadThai
+
+		function loadEnglish(filename)
+		{
+			//debugLog("loadEnglish(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						englishText = xmlhttp.responseText;
+						document.getElementById("englishTextArea").value = englishText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading english file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadEnglish
+
+    	function spacePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, " '", " ' ");
+    		thisWord = replaceChars(thisWord, "' ", " ' ");
+    		thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		thisWord = replaceChars(thisWord, "’", " ’ ");
+    		thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		thisWord = replaceChars(thisWord, "’", " ’ ");
+    		
+    		
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");    		
+			
+    		//thisWord = replaceChars(thisWord, "0", " 0 ");
+    		//thisWord = replaceChars(thisWord, "1", " 1 ");
+    		//thisWord = replaceChars(thisWord, "2", " 2 ");
+    		//thisWord = replaceChars(thisWord, "3", " 3 ");
+    		//thisWord = replaceChars(thisWord, "4", " 4 ");
+    		//thisWord = replaceChars(thisWord, "5", " 5 ");
+    		//thisWord = replaceChars(thisWord, "6", " 6 ");
+    		//thisWord = replaceChars(thisWord, "7", " 7 ");
+    		//thisWord = replaceChars(thisWord, "8", " 8 ");
+    		//thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+			
+				if (isThai(thisLineCharacter) == true)
+				{
+					spacedLine = spacedLine + thisLineCharacter;
+				} else {
+					if (isEnglish(thisLineCharacter) == true)
+					{
+						spacedLine = spacedLine + thisLineCharacter;
+					} else {
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					}
+				}
+			
+			} // end add spaces after every non-Thai character
+			
+			thisWord = spacedLine;
+			
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < (numberLineCharacters - 1); currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+				var nextLineCharacter = thisWord[currentLineCharacter + 1];
+			
+				if (isNumberString(thisLineCharacter) == true)
+				{
+					if (isNumberString(nextLineCharacter) == false)
+					{
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					} else {
+						spacedLine = spacedLine + thisLineCharacter;
+					}
+				} else {
+					spacedLine = spacedLine + thisLineCharacter;
+				}
+			
+			} // end add spaces after every non-Thai character
+			
+			spacedLine = spacedLine + thisWord[numberLineCharacters - 1];
+			
+			
+			thisWord = spacedLine;
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+    	
+    	
+		function searchDictionary(thisWord)
+		{
+			//debugLog("searchDictionary(" + thisWord + ")");
+
+			var wordLength = stringLength(thisWord);
+			
+			return contains(wordsByLength[wordLength], "\n" + thisWord + "\n"); 
+			
+		} // end function searchDictionary
+
+    	
+    	
+		function wordSpace(thisThai)
+		{
+			//debugLog("wordSpace(" + thisThai + ")");
+			
+			var breakMissingWords = true;
+			
+			var spacedThai = "";
+			
+			var thisThaiLines = thisThai.split("\n");
+			
+			for (var currentLine = 0; currentLine < thisThaiLines.length; currentLine++)
+			{
+			
+				var thisThaiLine = thisThaiLines[currentLine];
+				
+				var numberCharacters = thisThaiLine.length;
+				var lastWasNotThai = false;
+				var spacedThaiLine = "";
+				
+				var lineIsEnglish = true;
+				
+				// Skip non-Thai character
+				/*
+				if (numberCharacters >= 1)
+				{
+					
+					for (var currentCharacter = 0; currentCharacter <= numberCharacters; currentCharacter++)
+					{	
+						
+						if (currentCharacter >= numberCharacters)
+						{
+							break;
+						}
+									
+						var thisCharacter = thisThaiLine[currentCharacter];
+						
+						if (isThai(thisCharacter) == true)
+						{
+							lineIsEnglish = false;
+							break;
+						}
+					} // end for every non-Thai character
+				} // end if there is more than one character on the line
+				*/
+				
+				// Skip all-English lines
+		   		if (containsThaiString(thisThaiLine) == false)
+				{
+					spacedThai = spacedThai + thisThaiLine + "\n";
+				} else {
+				
+					 for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+					 {
+						 var thisWord = "";
+				
+						 var wordFound = false;
+					
+						 for (var wordLength = 5; wordLength >= 2; wordLength--)
+						 {
+				
+							 var lastCharacter = currentCharacter + wordLength;
+						
+							 if (lastCharacter > numberCharacters)
+							 {
+								 lastCharacter = numberCharacters;
+							 }
+						
+							 thisWord = thisThaiLine.substring(currentCharacter, lastCharacter);
+						
+							 var thisCharacter = thisThaiLine[currentCharacter];
+
+							 if (isThai(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Thai characters
+								 //spacedThaiLine = spacedThaiLine + thisCharacter;
+						
+								 //lastWasNotThai = true;
+							
+								 // Move the character along in the string
+								 //currentCharacter = currentCharacter + 1;
+							
+								 wordFound == false;
+							
+							 } else {
+
+								 //lastWasNotThai = false;
+							
+								 var inDictionary = false;
+							
+								 if (breakMissingWords == false)
+								 {
+									 inDictionary = contains(combinedDictionaryData, thisWord + "	");
+								 } else {
+									 //inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+									 inDictionary = searchDictionary(thisWord);
+								 }
+							
+								 //if (contains(longWords, " " + thisWord) == true)
+								 if (inDictionary == true)
+								 {
+									 // Move the character along in the string
+									 currentCharacter = currentCharacter + wordLength - 1;
+							
+									 wordFound = true;
+						
+									 // Exit the loop cleanly
+									 wordLength = 0;
+								 } // end if the character is not Thai
+							
+							 } // if the word exists
+					
+						 } // end for every word length
+				
+						 // If the word is not found, just use the character
+						 if (wordFound == false)
+						 {
+							 var thisCharacter = thisThaiLine[currentCharacter];
+					
+							 if (isThai(thisCharacter) == false)
+							 {
+								 // Don't add spaces between non-Thai characters
+								 spacedThaiLine = spacedThaiLine + thisCharacter;
+						
+								 lastWasNotThai = true;
+						
+							 } else {
+						
+								 // Add a space if we're back to parsing Thai
+								 if (lastWasNotThai == true)
+								 {
+									 spacedThaiLine = spacedThaiLine + " ";
+									 lastWasNotThai = false;
+								 }
+						
+								 spacedThaiLine = spacedThaiLine + thisCharacter + " ";					
+
+							 } // end if this character is not Thai
+					
+						 } else {
+
+							 // Add a space if we're back to parsing Thai
+							 if (lastWasNotThai == true)
+							 {
+								 spacedThaiLine = spacedThaiLine + " ";
+								 lastWasNotThai = false;
+							 }
+
+							 spacedThaiLine = spacedThaiLine + thisWord + " ";
+
+						 } // end if the word was not found
+								
+				
+					 } // end for every character
+				
+					 spacedThai = spacedThai + spacedThaiLine + "\n";
+				} // end if the line is English
+				
+			} // end for every line
+			
+			
+			var spacedLines = "";
+		   
+			var spacedThaiLines = spacedThai.split("\n");
+			
+			var numberLines = spacedThaiLines.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+			
+				var spacedThaiLine = spacedThaiLines[currentLine];
+
+
+				if (containsThaiString(spacedThaiLine) == true)
+				{
+					var spacedLine = "";
+				
+					var numberLineCharacters = stringLength(spacedThaiLine);
+		   			
+		   			// Add spaces for punctuation
+					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+					{
+						var thisLineCharacter = spacedThaiLine[currentLineCharacter];
+			   			
+						if (isThai(thisLineCharacter) == true)
+						{
+							spacedLine = spacedLine + thisLineCharacter;
+						} else {
+							if (isEnglish(thisLineCharacter) == true)
+							{
+								spacedLine = spacedLine + thisLineCharacter;
+							} else {
+								spacedLine = spacedLine + thisLineCharacter + " ";
+							}
+						}			   			
+					} // end add spaces after every non-Thai character
+					
+					spacedLines = spacedLines + spacedLine + "\n";
+					
+				} else {
+					// Don't add spaces on English lines
+					spacedLines = spacedLines + spacedThaiLine + "\n";
+				
+				} // end if the line is english
+				
+			} // end for every line
+			
+			return spacedLines;
+			
+		} // end function wordSpace
+
+    	
+    	
+    	function translateText(thaiText, rtgsManualText, englishText)
+    	{
+			var addThaiPlain = document.getElementById('thaiPlainCheckbox').checked;
+			var addThai = document.getElementById('thaiCheckbox').checked;
+			var addRtgs = document.getElementById('rtgsCheckbox').checked;
+			var addRtgsManual = document.getElementById('rtgsManualCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var thaiArray = thaiText.split("\n");
+			var englishArray = englishText.split("\n");
+			var rtgsManualArray = rtgsManualText.split("\n");
+			
+			var numberThaiLines = thaiArray.length;
+			var numberEnglishLines = englishArray.length;
+			var numberRtgsManualLines = rtgsManualArray.length;
+			
+			var thaiHtml = "";
+			var rtgsHtml = "";
+			var rtgsManualHtml = "";
+			var literalHtml = "";
+			
+			var thaiText = "";
+			var rtgsText = "";
+			var rtgsManualText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+						
+			for (var currentLine = 0; currentLine < numberThaiLines; currentLine++)
+			{
+				var thaiLine = thaiArray[currentLine];
+
+				var englishLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					englishLine = englishArray[currentLine];
+				} else {
+					englishLine = "";
+				}
+				
+				var rtgsManualLine;
+				
+				if (currentLine < numberRtgsManualLines)
+				{
+					rtgsManualLine = rtgsManualArray[currentLine];
+				} else {
+					rtgsManualLine = "";
+				}
+				
+				var thaiLineHtml = "";
+				var rtgsLineHtml = "";
+				var literalLineHtml = "";
+			
+				var thaiLineText = "";
+				var rtgsLineText = "";
+				var literalLineText = "";
+				
+				var thaiPlainLine = "";
+
+				//if (addThaiPlain == true)
+				//{
+				//	thaiPlainLine = replaceChars(thaiLine, " ", "");
+				//} // end if addThaiPlain
+								
+				var spacedLine = spacePunctuation(thaiLine);
+				
+				var thisLineWords = spacedLine.split(" ");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWord = thisLineWords[currentLineWord];
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+					
+					if (inDictionary == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisLiteral = "";
+						var thisRtgs = "";
+						var thisPos = 1;
+						
+						thisLiteral = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisRtgs = thisDictionaryLineArray[1];
+						}
+						
+						if (lineLength >= 2)
+						{
+							thisPos = thisDictionaryLineArray[2];
+						}
+																		
+						var thisWordHtml = "<div class=\"thai_" + thisPos + "\">" + thisWord + "</div>";
+						var thisRtgsHtml = "<div class=\"rtgs_" + thisPos + "\">" + thisRtgs + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+
+						thaiLineHtml = thaiLineHtml + "<td>" + thisWordHtml + "</td>";
+						rtgsLineHtml = rtgsLineHtml + "<td>" + thisRtgsHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						thaiLineText = thaiLineText + thisWord;
+						rtgsLineText = rtgsLineText + thisRtgs;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+																		
+						var thisWordNotInDictionary = thisWord;
+						
+						var thisWordNotInDictionaryThaiHtml = "<div class=\"thai_1\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryRtgsHtml = "<div class=\"rtgs_1>" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+						
+						thaiLineHtml = thaiLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						rtgsLineHtml = rtgsLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+					
+						thaiLineText = thaiLineText + thisWordNotInDictionary;
+						rtgsLineText = rtgsLineText + thisWordNotInDictionary;
+						literalLineText = literalLineText + thisWordNotInDictionary;
+					
+						if (isThaiString(thisWord) == true)
+						{
+							missingWords = missingWords + thisWord + "\n";
+						}
+					
+					} // end if the dictionary contains the word
+					
+					thaiLineText = thaiLineText + " ";
+					rtgsLineText = rtgsLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addThai == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"thaiLine\">" + thaiLineHtml + "</tr>";
+				}
+				
+				if (addRtgs == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"rtgsLine\">" + rtgsLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+								
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addRtgsManual == true)
+				{
+					outputHtml = outputHtml + "<table><tr class=\"rtgsManualLine\">" + rtgsManualLine + "</tr><table>";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLine + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+				
+				if (addThai == true)
+				{
+					outputText = outputText + thaiLineText + "\n";
+				}
+				
+				if (addRtgs == true)
+				{
+					outputText = outputText + rtgsLineText + "\n";
+				}
+				
+				if (addRtgsManual == true)
+				{
+					outputText = outputText + rtgsManualLine + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			//showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var thaiText = document.getElementById("thaiSpacedTextArea").value;
+    		var rtgsText = document.getElementById("rtgsTextArea").value;
+    		var englishText = document.getElementById("englishTextArea").value;
+    		
+			var translationOutput = translateText(thaiText, rtgsText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function wordSpaceButtonClicked()
+		{
+			//debugLog("wordSpaceButtonClicked()");
+
+			var thisThai = document.getElementById("thaiTextArea").value;
+			
+			var spacedLine = wordSpace(thisThai);
+			
+			document.getElementById("thaiSpacedTextArea").value = spacedLine;
+			
+		} // end function wordSpaceButtonClicked
+    	
+    	function spaceTranslateButtonClicked()
+    	{
+    		wordSpaceButtonClicked();
+    		translateButtonClicked();
+    	}
+    	
+		function dictionariesLoaded()
+		{
+			dictionaryToWordLengths();
+			
+			wordSpaceButtonClicked();
+			
+			translateButtonClicked();
+		} // end function dictionariesLoaded
+
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+
+		// If we have an Thai file
+		if ((QueryString.thaiFile != "") && (QueryString.thaiFile != undefined))
+		{
+			//var thaiUrl = encodeURI(QueryString.thaiFile);
+			var thaiUrl = QueryString.thaiFile;
+		
+		    loadThai(thaiUrl);
+		}
+
+		// If we have an English file
+		if ((QueryString.englishFile != "") && (QueryString.englishFile != undefined))
+		{
+			//var englishUrl = encodeURI(QueryString.englishFile);
+			var englishUrl = QueryString.englishFile;
+		
+		    loadEnglish(englishUrl);
+		}
+
+		lastDictionary = true;
+    	loadDictionary("Thai/ThaiDefinitionsRtgs.txt");
+    	
+    </script>
+
+
+</html>
