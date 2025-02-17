@@ -16,7 +16,6 @@ hoki	back
 ahau	me
 ano	again
 ai	yes
-Na	So
 koutou	you
 koe	you
 kia	so that
@@ -38,7 +37,6 @@ na	so
 tetahi	one
 haere	go
 Ko	It
-Atua	God
 kua	already
 roto	inside
 ta	print
@@ -53,11 +51,8 @@ runga	top
 ma	white
 iwi	tribe
 whare	house
-I	I
 ona	its
-E	Yes
 tana	his/her
-Iharaira	Israel
 kei	here
 hunga	people
 tau	year
@@ -111,12 +106,10 @@ Kia	Okay.
 tae	color
 hoatu	give
 Rawiri	David
-Ariki	Lord
 taha	side
 kai	food
 rangatira	leader
 mohio	know
-Ki	To
 mano	thousand
 aha	what
 whai	follow
@@ -124,7 +117,6 @@ rongo	hear
 tohunga	expert
 kaua	don't
 ou	you
-Kua	Already
 etahi	some
 tapu	holy
 muri	behind
@@ -149,7 +141,6 @@ homai	give
 matau	right
 whakahere	offer
 Me	I
-Katahi	Then
 toru	three
 matua	parent
 teina	younger brother
@@ -172,7 +163,6 @@ reo	language
 whitu	seven
 marama	month
 raro	bottom
-Ihipa	Egypt
 tamariki	children
 titiro	look
 kau	cow
@@ -193,7 +183,6 @@ riro	lost
 wha	four
 taonga	treasure
 taea	possible
-Heoi	However
 utu	price
 aua	no
 whakapono	faith
@@ -216,13 +205,11 @@ maha	many
 whanau	family
 hipi	sheep
 ata	morning
-Kahore	No
 whakarongo	listen
 koura	gold
 rakau	tree
 waenganui	middle
 ariki	lord
-No	No
 heoi	however
 Kaua	No
 tangi	cry
@@ -239,7 +226,6 @@ aata	altar
 kuwaha	gate
 whakahoki	answer
 kohatu	stone
-Haora	Hour
 mahara	memory
 tango	remove
 mata	face
@@ -288,12 +274,10 @@ hiriwa	silver
 mara	field
 kawenata	covenant
 pukapuka	book
-Kingi	King
 tatau	door
 awa	river
 tata	close
 koia	that's it
-Ano	Again
 tapenakara	tent
 tane	male
 ono	six
@@ -309,7 +293,6 @@ huna	hide
 Horomona	Solomon
 roa	long
 iti	small
-Mo	For
 Papurona	Babylon
 whakahokia	return
 whakaritea	arranged
@@ -319,7 +302,6 @@ anahera	angel
 patunga	victim
 Riwaiti	Leviticus
 turanga	foundation
-Haere	Go
 moe	sleep
 matenga	death
 Hurai	Jew
@@ -343,7 +325,6 @@ nohoanga	seat
 tini	many
 whatianga	elbow
 huihui	gathering
-Tama	Son
 unga	send
 tono	request
 kawe	carry
@@ -351,7 +332,6 @@ taringa	ear
 kaimahi	worker
 whakapakoko	statue
 Aperahama	Abraham
-Hohepa	Joseph
 tonoa	send
 kaumatua	senior citizen
 Matua	Father
@@ -375,12 +355,10 @@ whakaorangia	save
 tauiwi	foreigner
 uri	seed
 heke	down
-Ma	White
 oko	bag
 maua	we
 penei	like this
 whakamatea	kill
-Engari	But
 puru	blue
 hiahia	desire
 Hohua	Joshua
@@ -441,18 +419,13 @@ whakakitea	reveal
 puni	camp
 hapati	Sabbath
 Eparaima	Ephraim
-Aue	Oh, oh
 Moapa	Moab
 hokona	sold
-Pineamine	Benjamin
 taenga	arrival
-Kihai	No
 upoko	head
 tonga	south
 tinihanga	deception
 whakamarie	comfort
-Ehara	Not
-Tenei	This
 kapua	cloud
 Paora	Paul
 whakarere	divorce
@@ -482,7 +455,6 @@ whakatakoto	set
 tiaki	care
 ua	rain
 manu	bird
-Tapu	Holy
 mutunga	end
 raki	north
 Manahi	Manasseh
@@ -506,9 +478,7 @@ puku	stomach
 ruma	room
 whakamanamana	boast
 Ahapa	Ahab
-Maunga	Mountain
 Koia	That's it.
-Tera	That
 peka	branch
 hekere	shekel
 wairangi	stupid
@@ -543,7 +513,6 @@ rangimarie	peace
 horoi	wash
 nau	yours
 whakaritenga	arrangement
-Hamaria	Samaria
 timatanga	beginning
 peia	drive
 pakaru	broken
@@ -570,14 +539,12 @@ Ihipiana	Egyptian
 kaiwhakaatu	witness
 whakapai	improve
 puaki	open
-Ae	Yes
 mahunga	head
 tohe	insist
 whanui	wide
 Rawa	Very
 kawana	governor
 tumanako	hope
-Ahakoa	Even though
 tirohanga	view
 whakanuia	celebrated
 ahuareka	pleasant
@@ -588,7 +555,6 @@ arahina	guide
 maia	courage
 tanumia	buried
 tatari	wait
-Whakarongo	Listen
 utua	pay
 whakahawea	contempt
 here	tie
@@ -655,9 +621,7 @@ tikina	get
 whiriwhiria	choose
 totoro	stretch
 whakatupu	grow
-Parihi	Parish
 tahanga	naked
-Kotahi	One
 toenga	remainder
 Kanaana	Canaan
 kaki	neck
@@ -694,7 +658,6 @@ wehea	separate
 Amori	Amorite
 kiri	skin
 tahae	thief
-Kaha	Strong
 manako	hope
 tepu	table
 whakaara	wake up
@@ -764,7 +727,6 @@ whetu	star
 tukinotia	abused
 hita	cedar
 Kara	Flag
-Korero	Talk
 whakahe	against
 totohe	dispute
 moepuku	sexual intercourse
@@ -816,7 +778,6 @@ arohaina	beloved
 purapura	seed
 ika	fish
 huihuinga	meeting
-Ina	If
 Hekeme	Shechem
 whakaraua	exile
 hira	important
@@ -861,7 +822,6 @@ pahuatia	robbed
 uma	chest
 kapura	fire
 Terekia	Zerekia
-Heriko	Jericho
 Paraama	Balaam
 whatitoka	door
 rerenga	flight
@@ -899,8 +859,6 @@ ioka	yoke
 mauiui	pain
 reinga	hell
 whakanoho	place
-Nui	Big
-Ahera	Asher
 Iehu	Jehu
 maharatia	remember
 panga	bank
@@ -917,7 +875,6 @@ haruru	noise
 Taira	Tire
 Ioaha	Joash
 Noa	Noah
-Paraka	Block
 hemokai	hunger
 tataramoa	thorns
 ngohengohe	soft
@@ -949,7 +906,6 @@ takahi	violate
 Haroko	Haruko
 Hamana	Haman
 Rapana	Laban
-Runga	Top
 kohakore	flawless
 haea	tear
 ringaringa	hand
@@ -989,8 +945,6 @@ whakamarama	explain
 ware	poor
 Rehopoama	Rehoboam
 noku	mine
-Hatana	Satan
-Tangohia	Remove
 korerotanga	conversation
 whakapuakina	declare
 whakamahara	reminder
@@ -1031,7 +985,6 @@ whanautanga	birth
 harakore	innocent
 waiu	milk
 horomia	swallow
-Tauiwi	Foreigner
 kaiwhakaako	teacher
 awaawa	valley
 inumia	drink
@@ -1044,7 +997,6 @@ moti	peace
 kuri	dog
 whakakitenga	exhibition
 oriwa	olive
-Homai	Give
 kaieke	rider
 oha	hello
 kata	laugh
@@ -1074,7 +1026,6 @@ whakatupato	warning
 Himei	Shimei
 Mau	You
 whakau	confirm
-Kaiwhakaako	Teacher
 ngangana	red
 taima	time
 peke	jump
@@ -1082,7 +1033,6 @@ Kati	Stop
 marara	umbrella
 whakatupuria	raised
 pukupuku	tumor
-Mehemea	If
 iriiria	baptized
 Ahata	Ahaz
 atarangi	shadow
@@ -1095,9 +1045,7 @@ kuini	queen
 onamata	ancient times
 kaititiro	witness
 oatitia	swear
-Titiro	Look
 iriiri	baptism
-Rite	Ready
 kohikohia	collect
 tonutia	continue
 koroka	cloak
@@ -1131,7 +1079,6 @@ kihi	kiss
 ripekatia	nailed
 tokowhitu	seven
 whakamahau	porch
-Ara	Way
 karangatanga	call
 whakapae	accusation
 tutei	spy
@@ -1157,7 +1104,6 @@ Hinai	Sinai
 ngokingoki	crawl
 rire	deep
 mangere	lazy
-Ta	Print
 Eri	Eli
 aia	there
 whakapaea	besiege
@@ -1169,8 +1115,6 @@ kaiwhakatakoto	planner
 nuinga	most
 oki	oak
 Heira	Sheila
-Whakamoemititia	Praise
-Hai	Hello
 kohia	collect
 hurahia	reveal
 whakaititia	be humbled
@@ -1190,14 +1134,10 @@ tomokanga	entrance
 Hehepona	Heshbon
 Ietereere	Jezreel
 Mika	Micah
-Karepe	Grapes
-Koraha	Desert
 pohehe	mistake
-Rota	Lot
 whakaarokore	thoughtless
 hono	connect
 nikau	palm tree
-Maku	For me
 tawhito	old
 mahaki	patient
 whakamoemititia	praise
@@ -1205,8 +1145,6 @@ matenui	passion
 Iehoiakimi	Jehoiakim
 Ahatia	Ahaziah
 matakite	vision
-Naku	Mine
-Te	The
 Hamata	Hamath
 Uria	Uriah
 miro	thread
@@ -1217,10 +1155,8 @@ ketanga	change
 kaipahua	robber
 whatitiri	thunder
 Moana	Ocean
-Rama	Lamp
 pikitanga	climb
 haunga	except
-Ha	Yes
 tungane	brother
 motuhia	cut off
 kati	close
@@ -1255,7 +1191,6 @@ ngiha	fire
 aritarita	anger
 marere	fall
 titi	stick
-Waiho	Leave
 koko	spoon
 whakairo	carving
 Hihona	Sihon
@@ -1270,7 +1205,6 @@ tohutohu	advice
 hanganga	structure
 Hirikia	Hirkia
 Peerehepa	Beersheba
-Kata	Laugh
 nuitia	generally
 hurihia	change
 Hairona	Sidon
@@ -1304,14 +1238,12 @@ takahanga	event
 Hona	Jonah
 rui	sow
 tangihanga	funeral
-Hoki	Back
 waihoki	anyway
 whakahaweatia	despised
 aro	attention
 pata	butter
 takanga	event
 tapiri	add
-Mana	Power
 Kiriata	Film
 tere	fast
 kokotikore	uncircumcised
@@ -1339,7 +1271,6 @@ parakete	prey
 Keraria	Gedaliah
 tokorima	five
 Kohata	Gold
-Reme	Lamb
 hokohoko	trade
 ngangare	conflict
 ohorere	surprise
@@ -1370,7 +1301,6 @@ ngaru	wave
 ngau	bite
 taia	print
 Iehorama	Jehoram
-Tahuri	Turn
 whakatikanga	correction
 hokinga	return
 ipu	container
@@ -1407,7 +1337,6 @@ whakapapa	genealogy
 kaiwhakahaere	manager
 Harumu	Harum
 Apia	Apia
-Whakaorangia	Save
 paku	small
 Utia	Ask
 Tarahihi	Tarshish
@@ -1417,14 +1346,11 @@ raumati	summer
 ihu	nose
 wawahia	broken
 toronga	extension
-Whero	Red
 whakaahua	photo
 kaitirotiro	inspector
 ruia	sow
-Oha	Hello
 Makeronia	Macedonia
 Muri	Next
-Penei	Like this
 whakamanawanui	be patient
 Ramoto	Ramot
 tuohu	bow
@@ -1509,7 +1435,6 @@ tarakona	dragon
 Tariuha	Darius
 kaitukino	attacker
 keneturio	centurion
-Roma	Rome
 atawhaitia	take care
 koi	sharp
 Hairuha	Cyrus
@@ -1563,11 +1488,9 @@ kumea	pull
 Hataere	Saturday
 tahia	clean
 whaki	confession
-Nga	The
 taunu	shame
 whakatoia	persecuted
 wero	challenge
-Meinga	Cause
 tautangata	foreigner
 Iorama	Joram
 para	garbage
@@ -1601,7 +1524,6 @@ whakarerenga	divorce
 pae	site
 Rapa	Giant
 takaro	play
-Kihi	Kiss
 kaimau	carrier
 Naomi	Naomi
 Rutu	Ruth
@@ -1626,7 +1548,6 @@ hikoinga	step
 pehipehi	ambush
 tahitia	together
 Hihera	Sisera
-Maka	Throw
 kapea	copy
 whakamatautauranga	test
 hore	old man
@@ -1698,7 +1619,6 @@ Oparia	Obadiah
 Amoni	Ammon
 Hoera	Joel
 hopohopo	worry
-Pai	Good
 marangai	east
 pupuhi	shoot
 kairautanga	prostitution
@@ -1717,7 +1637,6 @@ Aharoro	Ashdod
 pokaia	surgery
 whakamamaetia	tortured
 utaina	load
-Hanga	Build
 mama	mother
 matea	need
 Kaina	Cain
@@ -1744,7 +1663,6 @@ kuhua	put
 painga	advantage
 tapa	edge
 Topia	Topia
-Tatou	Us
 whitinga	crossing
 ngautuara	gossip
 Hukota	Succoth
@@ -1772,7 +1690,6 @@ Opere	Opera
 Atahere	Atahere
 Hini	Chinese
 Hama	Ham
-Pa	City
 wetekina	untie
 koromatua	mayor
 kaho	bar
@@ -1796,20 +1713,17 @@ Etiopiana	Ethiopian
 whakamarietanga	consolation
 uakina	open
 whakatupehupehu	reprimand
-Tika	Right
 pukutia	secretly
 whakakahangia	strengthen
 putea	bag
 whakaputanga	publication
 niao	bird
 ahurewa	universe
-Puta	Exit
 Horepa	Horeb
 urunga	entrance
 kouru	gold
 whakangaueuetia	shaken
 maringi	spill
-Kuini	Queen
 whakapohehe	deceive
 ahatia	what happened
 tuari	wait
@@ -1838,9 +1752,7 @@ Erihama	Elishama
 himipora	cymbal
 tuaono	sixth
 Reupeni	Reuben
-Roro	Brain
 kaikawe	carrier
-Whanau	Family
 Tepa	Tepa
 Kaperenauma	Capernaum
 whakamuri	back
@@ -1875,7 +1787,6 @@ hia	how much
 rapunga	search
 Periara	Beliar
 tauria	attack
-Maranga	Wake up
 titaria	scattered
 rei	queen
 tekateka	sly
@@ -1893,14 +1804,12 @@ toki	axe
 ngaueue	shake
 hautopea	cut off
 Ierutunu	Jeduthun
-Rapua	Search
 Aminarapa	Aminadab
 Utiere	Utility
 Hakara	Hagar
 Peoro	Peor
 Anaha	Look.
 Haraha	Salah
-Kaiiriiri	Baptist
 Whakapaingia	Blessed
 kaiwhai	hunter
 Raharuhi	Lazarus
@@ -1927,7 +1836,6 @@ murunga	forgiveness
 kuhunga	entrance
 whakairihia	hang
 Mepipohete	Mephibosheth
-Oriwa	Olive
 pereki	brick
 takaia	wrapped
 kohi	collect
@@ -1938,8 +1846,6 @@ tihokahoka	booth
 Eriakimi	Eliakim
 waiatatia	sing
 pikitia	picture
-Peka	Branch
-Patua	Kill
 whakamau	to fasten
 pouaka	box
 tatauranga	statistics
@@ -1947,7 +1853,6 @@ hiku	tail
 tarewa	loan
 kowhititanga	circle
 papaku	shallow
-Kaihanga	Creator
 whakahengia	criticized
 rengarenga	lily
 tuhia	write
@@ -1969,7 +1874,6 @@ Kohati	Kohath
 Ahimaata	Ahimaaz
 Miriama	Miriam
 whakamatauria	try
-Hohea	Active
 Hahapia	Hashish
 Marakia	Malachi
 an	an
@@ -1982,7 +1886,6 @@ pahau	beard
 kaiwhakamarie	comforter
 Ahitupu	Ahitupu
 peinga	drive
-Maharatia	Remember
 torere	abyss
 Tikiraka	Tikkurila
 kaikopere	archer
@@ -1998,7 +1901,6 @@ titaha	slant
 maramara	light
 poroka	frog
 mimiti	suck
-Totoro	Stretch
 tumanakohanga	hope
 Erangi	Good
 harakoa	happy
@@ -2023,7 +1925,6 @@ whakahoroa	destroy
 ohaoha	economy
 whakaoti	finish
 whakaotia	finish
-Tirohia	Check
 whakawhiwhi	grant
 muranga	fire
 Ierupaara	Jerubbaal
@@ -2034,7 +1935,6 @@ raia	rice
 whakawateatia	be released
 tunu	cook
 pounamu	bottle
-Whakahokia	Return
 kohuru	murder
 whawha	four
 kaipatu	killer
@@ -2051,12 +1951,10 @@ whawhe	hand
 Nepo	Nebo
 koroheketanga	old age
 Huhai	Huhai
-Iro	Dog
 Mahari	Maybe
 Peria	Perea
 tangohanga	withdrawal
 whakatoea	leave
-Whakawhetai	Thank you
 Netaneere	Nathaniel
 Kerehoma	Gershom
 Uha	Usha
@@ -2065,7 +1963,6 @@ Teiere	Tea
 huia	take off
 Ketere	Kettle
 Heperi	Heber
-Mata	Face
 whakapikoa	bend
 Rahapa	Rahab
 moata	early
@@ -2111,12 +2008,10 @@ kakai	food
 tumanakohia	expected
 whakapawera	trouble
 wharikitia	spread out
-Kauaka	No
 horoinga	washing
 Kireari	Gilead
 hina	gray
 akiri	throw away
-Akuanei	Now
 whenu	thread
 Haironi	Sidon
 kaiponu	stop
@@ -2135,7 +2030,6 @@ purenga	purification
 tauanga	statistics
 Keni	Kenya
 tuarima	fifth
-Tote	Salt
 haereerenga	travel
 Erietere	Eritrea
 Tehiere	Tehiel
@@ -2166,8 +2060,6 @@ Tuhituhia	Write
 kopia	copy
 whakapuaretia	open
 kaikokoti	harvester
-TE	THE
-Taua	War
 Korerotia	Tell me.
 kuihi	goose
 Tamati	Thomas
@@ -2193,7 +2085,6 @@ tito	composition
 momotu	disconnect
 hekenga	migration
 Nopo	Nope
-Tu	Stand
 pari	cliff
 whakakingitia	be crowned
 whakahaurangi	intoxication
@@ -2212,7 +2103,6 @@ Parana	Paran
 kainoho	resident
 kaupae	step
 Kihona	Gihon
-Mauria	Carry
 tuiri	shaking
 whakaririka	endure
 whakamanawareka	satisfaction
@@ -2221,7 +2111,6 @@ iriiringa	baptism
 Hurama	Hurrah
 Araha	Arah
 Taporo	Tabor
-Mahara	Memory
 Kerehe	Gedeshe
 Repiri	Lepiri
 Koko	Koko
@@ -2238,7 +2127,6 @@ Kerehoni	Geroni
 Oronana	Oronana
 Rekapa	Recapa
 heua	shave
-Topa	Zoom
 Meatia	Done
 ngawha	hot
 Hanana	Hanan
@@ -2268,7 +2156,6 @@ whakapeau	to be careful
 kutukutu	worm
 kuhu	enter
 kaokao	crow
-Whakatata	Approach
 waikore	waterless
 Ripira	Liberia
 whewhe	boil
@@ -2292,9 +2179,7 @@ whakapau	spend
 peneitia	like this
 mutungakore	infinite
 tawaia	ridicule
-Whakahonoretia	Honored
 whakatapunga	sanctify
-Inoi	Pray
 Apirama	Abiram
 Kitirono	Kitron
 kopiona	scorpion
@@ -2305,7 +2190,6 @@ akiaki	urge
 wh	p
 noatanga	freedom
 tai	tide
-Rere	Run
 hao	catch
 whakaahuatia	describe
 whakapohehetia	deceive
@@ -2400,14 +2284,12 @@ takiritia	thrown
 kongakonga	fragment
 kautia	empty
 unahi	scale
-Whakaaturia	Show
 toua	dip
 karangarangatia	call
 ng	of
 whakataki	introduction
 ngingio	burn
 hama	hammer
-Tiakina	Protect
 Tonoa	Request
 tuturi	kneel
 rara	frog
@@ -2422,10 +2304,8 @@ Akaia	Achaia
 porangi	crazy
 kaikorero	speaker
 takatu	get ready
-Inaianei	Now
 titorehanga	heresy
 whakamine	gather
-Aporo	Apple
 Hamama	Shame
 Amihuru	Eleven
 Ehuru	October
@@ -2434,7 +2314,6 @@ Araia	Road
 Tepania	Spain
 tapokoranga	introduction
 Ietereeri	Jezreel
-Kore	No
 Imere	Imer
 Hekania	Shekania
 Muhi	Mushi
@@ -2448,7 +2327,6 @@ Iohanana	Johanna
 Eriere	Ariel
 Ariere	Ariel
 ei	yes
-Miro	Thread
 Hopara	Explore
 Rotana	Rotan
 Hapata	Sabbath
@@ -2533,9 +2411,7 @@ angiangi	thin
 parepare	defense
 tarere	stream
 Ih	Yes
-Haunga	Except
 whakamutu	stop
-Kupu	Word
 kuru	crush
 atea	space
 whakahoa	friendship
@@ -2547,7 +2423,6 @@ wehewehenga	division
 ekengia	ride
 uaki	open
 Hironi	Shiron
-Ono	Six
 Kera	Kera
 Herehe	Heresy
 whawhaitia	fight
@@ -2592,7 +2467,6 @@ Heta	Seth
 Makera	Makera
 Rapi	Rabbi
 poroa	cut
-Piri	Close
 tauwhanga	gallery
 tatarakihi	tartaric
 paopaongia	rejected
@@ -2615,7 +2489,6 @@ waikura	rust
 puapua	flower
 puhia	fired
 kaia	eat
-Whakaputaina	Published
 karaihe	glass
 pua	flower
 kapiti	crack
@@ -2639,7 +2512,6 @@ Whakapaia	Prepare
 whakamaha	expand
 rawakoretia	impoverished
 otereti	ostrich
-Anga	Shell
 Eterei	Etrei
 reparo	leopard
 Perehatara	Belshazzar
@@ -2655,7 +2527,6 @@ moremore	hairy
 Kirikia	Cilicia
 Kaiperu	Cyprus
 Mara	Mara
-Kamaka	Rock
 tatatia	close
 pongaponga	nostrils
 Pikiri	Pikiri
@@ -2771,7 +2642,6 @@ Iapini	Jabin
 Ehetaoro	Eshtaol
 Iaramuta	Yarmouth
 whakananu	mix
-NGA	THE
 parihi	parish
 Petahaira	Bethsaida
 korokoro	throat
@@ -2794,7 +2664,6 @@ kaiwhakawehi	bully
 karapoi	group
 hiroki	skinny
 Toana	His
-Huihui	Gathering
 whatiwhatiia	broken
 kaiota	chef
 wheriko	lightning
@@ -2804,7 +2673,6 @@ tuarongo	back
 Pirihitia	Palestine
 oroko	open
 warewaretia	forget
-Kaikauwhau	Preacher
 whakamarara	scatter
 topito	top
 Pihika	Fish
@@ -2815,7 +2683,6 @@ paheketanga	depression
 Iapoko	Chapter
 Kareheparenea	Kadeshbarnea
 koni	rabbit
-Kainga	Home
 mamingatia	be deceived
 tahurihuri	turn around
 patipati	applause
@@ -2823,7 +2690,6 @@ Hinara	Shinara
 arita	aritha
 Raorikia	Laorikia
 kokoru	bay
-Ataahua	Beautiful
 utanga	cargo
 Meria	Mary
 mokowhiti	space
@@ -2864,7 +2730,6 @@ kat	cat
 kiore	mouse
 Urimi	Urim
 Kehuri	Change
-Raihi	Rice
 koroke	crocodile
 kaikutikuti	barber
 Ateka	Aztec
@@ -2888,7 +2753,6 @@ Ehiono	Ezion
 hamamatanga	shouting
 pekanga	branch
 Apeke	Ape
-Karanga	Call
 whakaoatitia	swear
 whakamaharatia	remind
 whakataimahatia	burdened
@@ -2900,7 +2764,6 @@ whakahinga	fall
 naianei	now
 tinihangakore	honest
 kurua	crush
-Hari	Happy
 Karatia	Galatians
 whakakorikori	stir
 matemate	death
@@ -2932,7 +2795,6 @@ Iamini	Yamini
 Rame	Ram
 whakatatanga	approach
 Mehopotamia	Mesopotamia
-Pereti	Plate
 Whakatapua	Sanctify
 Hepania	Spain
 Matitia	Matia
@@ -2948,7 +2810,6 @@ Perete	Plate
 Apietere	Abiezer
 Herete	Heredity
 titia	pin
-Maha	Many
 Uhu	Uzu
 Kirikahi	Kirikahi
 Hawira	Havilah
@@ -2958,7 +2819,6 @@ Maharareere	Maharaleere
 Erimereke	Elimelech
 Nekinoto	Nekinoto
 Mikitama	Miktama
-Arumia	Follow
 Heroriaha	Herodias
 pihoihoi	sparrow
 hiainu	thirst
@@ -2994,7 +2854,6 @@ hamunga	hunting
 puhake	overflow
 marutanga	injury
 whakangaueue	shake
-Mona	For him/her
 titaritari	scatter
 kirikiri	sand
 whakapania	send
@@ -3011,7 +2870,6 @@ Pahata	Pahat
 Pepai	Paper
 Paroho	Paroho
 kaihao	fisherman
-Poropiti	Prophet
 katanga	laughter
 ngao	taste
 whakaraneatia	expand
@@ -3041,7 +2899,6 @@ kimi	find
 ngotangota	small
 Paarapeoro	Paalpeor
 kaika	fast
-IHOWA	LORD
 pokepokenga	mixing
 whakamahinga	use
 hamua	sweep
@@ -3049,11 +2906,9 @@ hahani	joke
 ngakia	cultivate
 Apipi	Apipi
 totitoti	limp
-Whakaakona	Teach
 whakawhiu	torture
 Ehekora	Eshcol
 Hateroto	Hazeroth
-Pahi	Bus
 kaipokepoke	potter
 moea	sleep
 hok	hok
@@ -3061,12 +2916,8 @@ pouritanga	sadness
 tuheatia	wasted
 paramu	plum
 punga	anchor
-Wahi	Place
 Kamariere	Gamaliel
-Whakamatea	Kill
-Ripeneta	Repentance
 mariri	calm
-KI	TO
 whakapuare	open
 whakamanuhiritia	welcome
 rekanga	record
@@ -3122,8 +2973,6 @@ Mongamonga	Little things
 Whakaarahia	Wake up
 hopi	soap
 puwhero	red
-Piki	Climb
-Apopo	Tomorrow
 Whakarerea	Leave
 ngengere	noise
 whiria	braid
@@ -3137,7 +2986,6 @@ tupekepeke	jump
 wharoro	spread
 Tihipi	Tishpi
 Kipetono	Gibbethon
-Whakanohoia	Placed
 Ihow	Ihow
 whakamama	lighten
 aramuka	sandalwood
@@ -3150,7 +2998,6 @@ Akuira	Aquila
 piraukore	incorruptible
 whakaarahanga	resurrection
 totika	straight
-Whaia	Follow
 kaiwhakangaro	destroyer
 Kipa	Kip
 Peteheana	Bethesda
@@ -3182,7 +3029,6 @@ kani	saw
 Tapua	Closed
 Apihaira	Abigail
 Hamai	Shame
-Raorao	Valley
 tokoiti	few
 rohi	rose
 Eritapana	Elizaphan
@@ -3193,7 +3039,6 @@ Amahai	Be careful.
 tuaiwa	ninth
 Ahietere	Ahijeter
 kotaha	sling
-Uru	Enter
 Ira	Gender
 Unuhia	Draw
 Akaporo	Apple
@@ -3203,7 +3048,6 @@ Rihona	Dijon
 Ioketana	Joktan
 Komere	Gomer
 whika	figure
-Himene	Hymn
 whakahauorangia	revive
 U	U
 Enana	This is it.
@@ -3213,7 +3057,6 @@ Amiharai	Amiharai
 Kirioni	Gideon
 Apirana	April
 Herona	Herod
-Tuara	Back
 Herumiere	Herumier
 Hereuru	Hereuru
 Erituru	Eridu
@@ -3239,7 +3082,6 @@ haranga	crime
 whakaruhi	tired
 aroe	aloe
 Nikorima	Nicodemus
-KINGI	KING
 Taro	Taro
 nara	see
 tauera	towel
@@ -3285,8 +3127,6 @@ Kenana	Canaan
 atoa	all
 takirua	pair
 whakapoururu	to be sad
-Pau	Finished
-Hapainga	Departure
 whakahaputia	impregnate
 kaiwhangai	farmer
 maea	rope
@@ -3335,7 +3175,6 @@ Hataawa	Hataawa
 Kipiroto	Kibroth
 turorotanga	illness
 unikanga	unicorn
-Manaakitia	Blessed
 Tumime	Thummim
 Aparimi	Aprimi
 whakahaurangitia	be intoxicated
@@ -3343,7 +3182,6 @@ kiripaka	quartz
 Arema	Arema
 whakatarapi	delicate
 mumura	inflammation
-Noho	Stay
 whawhao	scold
 ninihi	sneeze
 whaiwhaia	follow
@@ -3387,14 +3225,12 @@ teko	tea
 makere	fall
 kutikutia	cut
 keto	stop
-Takoto	Lie down
 okeoke	cool
 hereherenga	imprisonment
 kaihuihui	gatherer
 whakapataritaringa	irritation
 Haretere	Harare
 kaihoroi	cleaner
-Kiri	Skin
 Erata	Elat
 ri	see
 Heke	Wrong
@@ -3415,11 +3251,9 @@ whakanekehanga	movement
 whano	bad
 ranga	rank
 haupu	pile
-Whakaturia	Set up
 timataia	start
 kaitapahi	cutter
 kaiwhakaranu	mixer
-Akona	Teach
 rikona	deacon
 takawaenga	intermediary
 karaiti	church
@@ -3429,7 +3263,6 @@ haraira	harare
 utou	you
 whakahemohemo	death
 pokepokea	mold
-Whitikiria	Belt
 ingi	rain
 nehenehe	beautiful
 whakawarea	judgment
@@ -3445,7 +3278,6 @@ tene	yes
 whakahou	update
 tauwhainga	competition
 Hoponi	Soap
-Hepara	Shepherd
 whakatuma	threat
 koriri	mold
 karapiti	carpet
@@ -3468,11 +3300,9 @@ mitikia	lick
 Apiama	Abijam
 Hopukia	Captured
 hangaia	built
-Pono	True
 ngateri	scold
 Apihaka	Abishag
 anatikaraiti	antichrist
-Tae	Color
 hangarau	technology
 atanga	interface
 hurihuri	revolution
@@ -3497,7 +3327,6 @@ Ahana	Food
 Aina	Aina
 Tanoa	Tanoa
 Ehetemoa	Eshtemoa
-Hua	Fruit
 Koto	Koto
 Hatuhu	Saturday
 Repaia	Rephaiah
@@ -3545,14 +3374,12 @@ Areruia	Hallelujah
 MEA	WHAT
 Aratakiti	Aratakiti
 muhore	empty
-Tumanako	Hope
 kinakitia	be careful
 kaikanga	curse
 Opoto	Short
 Turiharai	Turiharai
 raka	lock
 Ioiakimi	Jehoiakim
-Puni	Camp
 purangatia	pile up
 houtanga	renewal
 torengitanga	sunset
@@ -3577,7 +3404,6 @@ whakairinga	posting
 Taipiria	Typography
 matihao	finger
 Arimatia	Arimathea
-IHU	JESUS
 roherohe	border
 korere	diarrhea
 karapitia	carpentry
@@ -3597,11 +3423,9 @@ Hanameere	Hanameel
 Hananeere	Hananeel
 whakamakonatia	satisfied
 waitohu	sign
-Manga	Branch
 whakawhaiti	limit
 kihakiha	sigh
 puremutanga	adultery
-Tatari	Wait
 Whakaaro	Thought
 Inoia	Please.
 kaiwhakatikatika	editor
@@ -3613,11 +3437,9 @@ tawhetawhe	rags
 koma	coma
 whakamoe	sleep
 kumine	cumin
-Whakatuwheratia	Open
 whawhaki	harvest
 Horonaimi	Horonaim
 matuku	hedgehog
-Anana	Pineapple
 whakahirahira	important
 pokuru	dark
 Huaina	Name
@@ -3639,13 +3461,10 @@ arohatanga	affection
 whaongia	insert
 kawhakina	carry
 Keniti	Kent
-Harema	Harem
 Eratara	Elatara
 whakatete	resistance
 Heruka	Heruka
-Peia	Drive
 kopani	close
-Miharo	Surprise
 kaiwhanga	waiter
 Potenai	Potenai
 Tatenai	Tattenai
@@ -3658,7 +3477,6 @@ Kepira	Kefir
 Arini	Ariane
 Atakara	Atakara
 Matata	Close
-Tatu	Tattoo
 Hehepatara	Heshbatal
 Hataraenana	Sadaraenana
 kera	kerala
@@ -3685,24 +3503,20 @@ Tohara	Crime
 Hanoka	Enoch
 tongo	morning
 hinamona	cinnamon
-HE	YES
 taimana	diamond
 rererua	double
 whatua	broken
 kerupi	cherub
 muia	herd
-Kohikohia	Collect
 haupapa	frost
 koitareke	quail
 Mikitoro	Miktoro
 Pihahirota	Pihahiroth
 Ramehehe	Rameses
-Ngaro	Lost
 anei	here
 Hataka	Hataka
 Hekai	Hike
 kowhai	yellow
-Moku	For me
 Whakakitea	Show
 topu	ball
 arongia	listen
@@ -3721,7 +3535,6 @@ autane	brother
 whakatarewaina	suspended
 poriro	bastard
 parea	protected
-At	At
 kawau	cormorant
 whatura	break
 titore	difference
@@ -3751,7 +3564,6 @@ one	sand
 ngongo	tube
 miri	massage
 whakatitiro	look
-Mohio	Know
 tohetohe	dispute
 tahatai	beach
 kotahitanga	unity
@@ -3760,7 +3572,6 @@ Epehi	Ephesians
 Arehanaria	Alexandria
 Taiataira	Taiataira
 Rerepe	Relebe
-Tau	Year
 porohiraiti	proselyte
 Pamapuria	Pamphylia
 Patoromu	Bartholomew
@@ -3779,7 +3590,6 @@ angaanga	skull
 kopeka	copy
 puwha	cough
 whakangawaritia	relax
-Arahina	Guide
 kaiwhakatarewa	debtor
 Meroraka	Merodach
 Iaatania	Jaatania
@@ -3806,8 +3616,6 @@ kinga	king
 Mauiui	Sorry
 paweratanga	fever
 whe	where
-Tahuna	Burn
-Whakaekea	Attack
 whakatenatena	encourage
 taiepatia	fenced
 karakiatanga	prayer
@@ -3816,7 +3624,6 @@ pokia	pig
 kakahukore	naked
 tang	funeral
 kin	brother
-Whakamoemiti	Praise
 kaipikau	messenger
 mui	back
 matia	tired
@@ -3833,17 +3640,14 @@ Unga	Unga
 Aharori	Ashdod
 karerehe	black and white
 Oati	Oath
-Mou	For you
 riki	onion
 Maumau	Waste
 Hehimono	Hesiod
 kowhiti	ring
 kaiwawao	defender
-Whati	Break
 whakamomori	suicide
 inga	sink
 mawhititanga	escape
-Tekau	Ten
 toremi	drown
 piua	slang
 kumikumi	beard
@@ -3879,7 +3683,6 @@ whakaturanga	establishment
 Petemaaka	Bethmaaka
 whakahoroma	sterilization
 aroa	hallway
-Tomo	Enter
 whakareretia	abandoned
 wepu	whip
 whakarangatira	enrichment
@@ -3894,7 +3697,6 @@ kaka	parrot
 whakangawari	relax
 matakitakinga	spectacle
 hipa	sheep
-Oho	Wake up
 kaumatuatanga	adulthood
 kou	your
 waruhia	scrape
@@ -3907,12 +3709,10 @@ Imira	Imira
 Hutera	Hutera
 Urama	Ulam
 Huhimi	Hushimi
-Pua	Flower
 Hamono	Hamon
 Korana	Koran
 Katarimono	Katarimono
 Iatiri	Jattir
-Tupu	Grow
 Heniri	Henry
 Hareka	Haraka
 whakapapatia	lineage
@@ -3941,7 +3741,6 @@ Ereaha	Eleazar
 Iaraha	Yarah
 Atara	Atara
 Atupa	Atuba
-Harama	Haram
 Tohu	Award
 Hemiramoto	Semiramis
 Uriere	Uriel
@@ -3968,7 +3767,6 @@ Huaha	Flower
 Iokohana	Jokhan
 Ketura	Keturah
 Hatara	Hatara
-Ruma	Room
 Mihima	Mishima
 Herepe	Herep
 Tokarama	Tokarama
@@ -3983,7 +3781,6 @@ wawata	wish
 whakatitahatia	divide
 Nonamata	Never
 Tana	His
-Paihere	Bundle
 kaupare	barrier
 whakakini	wink
 ouou	you you
@@ -4006,7 +3803,6 @@ kota	goat
 ruwha	rough
 Rekaporihi	Dekapolis
 tupunga	origin
-Whakatangi	Play
 hemi	ham
 Kenehareta	Gennesaret
 Heteromo	Heteronomy
@@ -4038,7 +3834,6 @@ manukawhakitia	bewitched
 Taperi	Taper
 Aramono	Almond
 Peteanata	Beth Anath
-Peere	Bucket
 Enekanimi	En-ganim
 Hehai	Hey
 Petearapa	Beth-arab
@@ -4050,25 +3845,20 @@ Paarakara	Bar
 Akahapa	Akahapa
 Hiroama	Shiloam
 nonahea	when
-Meake	Future
 tatahi	beach
 hautai	Spanish
 HURAI	JEWISH
 Korokota	Golgotha
 inaina	heat
-Kaiwhakamarie	Comforter
 kaiwhakahe	critic
 Ririmu	Rilimu
 tutetute	bump
-Huna	Hide
 matakitakina	watch it
 rewiatana	leviathan
 whakaitia	be humbled
 whakapurangatia	archive
-Mate	Death
 pekepeke	jump
 tapatahitanga	integrity
-Wawahia	Broken
 peha	such
 Karapotia	Carpathia
 pakiri	push
@@ -4079,7 +3869,6 @@ tohatohaina	distributed
 pukenga	skill
 whakawairua	double
 wharahi	wide
-Tona	His/her
 ohoreretia	suddenly
 Kerioto	Kerioth
 Horono	Horon
@@ -4090,7 +3879,6 @@ kohukohutanga	slander
 ipa	ip
 Hohaia	Hosanna
 Hamakara	Hamakara
-Inumia	Drink
 hori	yes
 Neherami	Neherami
 Uriia	Uriah
@@ -4110,22 +3898,17 @@ mutua	finally
 ingo	name
 nekeneke	movement
 tahoro	hurry
-Pere	Arrow
 rimu	sea
 warou	crane
 kaitatau	counter
 rukerukea	waste
 waipera	viper
-Whakama	Shame
 whaiti	narrow
-Rewiatana	Leviathan
-Whakawhirinaki	Trust
 whakaruru	shelter
 nekenekehia	move
 whakakahuria	wear
 kopakina	closed
 takutai	beach
-Wetekina	Untie
 taheke	diarrhea
 Rimona	Lemon
 mahoao	wild
@@ -4144,7 +3927,6 @@ takiwhitu	seven
 Arare	Arale
 Areri	Areli
 Huni	Hunt
-Haki	Flag
 Iahateere	Jasper
 Taraha	Loan
 muanga	first
@@ -4152,7 +3934,6 @@ Potiwhera	Potiwhera
 Ahenata	Asenath
 tauia	counted
 maoa	cooked
-Moe	Sleep
 Tira	Tira
 Irara	Ireland
 roropi	wrap
@@ -4160,7 +3941,6 @@ whawharua	double
 Aturami	Adulami
 matangerengere	snoring
 takoki	to fight
-Wehi	Fear
 ekeeke	climb
 nonoke	small
 haputanga	pregnancy
@@ -4179,7 +3959,6 @@ Hirimi	Shirimi
 whakapoauautia	confused
 tohora	whale
 hihiritanga	motivation
-Apa	Apa
 whakatamarikitanga	adoption
 Ahawa	Ahava
 Harahuru	Harahuru
@@ -4201,7 +3980,6 @@ keteketenga	astonishment
 when	when
 pokarekare	chaos
 marumaru	shadow
-Tapatahi	Integrity
 mahuta	mahout
 hoana	wife
 whakaataahua	beautiful reflection
@@ -4227,8 +4005,6 @@ paremo	drown
 korara	coral
 Ahihamaka	Ahihamaka
 kahia	cash
-AHAU	ME
-TAPU	HOLY
 ametihita	amethyst
 kapakara	parrot
 whakarewaia	launched
@@ -4283,7 +4059,6 @@ taaka	duck
 taurangitia	guaranteed
 nua	new
 hapahapainga	sacrifice
-More	More
 Iotopata	Iodophor
 warea	worry
 whaioio	funny
@@ -4330,21 +4105,16 @@ Kakahuria	Change clothes
 whakatepe	limit
 Matiaha	Matthias
 Hutuha	Hussite
-Toto	Blood
 Miretu	Millet
 Toropimu	Trophimus
 Eratu	Erastus
 Ruka	Luke
 Rimaha	Friday
-Kauwhautia	Preach
 kawhaki	catch
 Whakamaharatia	Remember
 rurea	shaking
-Toi	Art
 Peratimi	Perazim
 rahiri	rascal
-Haea	Tear
-Papa	Father
 Iharira	Israel
 Rihipa	Rizpah
 hun	hide
@@ -4381,15 +4151,11 @@ Tohea	Fight
 Hamutara	Hamutara
 Etara	Ethar
 perea	such
-Iwa	Nine
-Hena	Henna
 mu	fire
 Ataramereke	Adrammelech
-Mahi	Work
 Pirehere	Police
 Tikirata	Turkey
 Pekahia	Pekahiah
-Uakina	Open
 peeke	bank
 pakipaki	applause
 Aranono	Arranon
@@ -4406,7 +4172,6 @@ utukore	free
 tangat	man
 whakaroto	inside
 Karakemihi	Carchemish
-Oti	Finished
 tekia	take it
 whakakore	cancel
 purua	closed
@@ -4426,10 +4191,8 @@ hai	hello
 uiuinga	interview
 Kiia	Say
 tautohetia	controversial
-Kai	Food
 Arehanera	Alexander
 kaiwhakatoi	artist
-Ahau	Me
 kaiwhakawai	healer
 whakamanawarekatia	be pleased
 matu	sleep
@@ -4438,18 +4201,14 @@ Epeneetere	Ebenezer
 Petehana	Bethany
 wawa	fish
 Pehoro	Pehoro
-Tuohu	Bow
 Eneroro	January
 Huneme	June
-Noku	Mine
 Parati	Prague
 teahi	tea
-Hoake	Up
 whakawiri	squeeze
 Hakira	Hakira
 whakatenetene	to be careful
 onge	rare
-Nei	Now
 maoritia	natural
 iwikore	boneless
 whakarangatiratia	liberalize
@@ -4459,7 +4218,6 @@ whakatuturi	slow down
 ni	now
 whakawhitinga	transfer
 Penina	Peninnah
-Whangainga	Feeding
 whakamamaetanga	torture
 Ponoto	Pontus
 Eroto	Inside
@@ -4506,7 +4264,6 @@ waihanga	creation
 whakapainga	improvement
 whakakuwaretia	fool
 Tepana	Stephen
-Anei	Here
 Karara	Color
 Utai	Question
 Mereke	United States
@@ -4532,12 +4289,10 @@ Pirinehere	Prince
 Tirikata	Turkey
 Iaripi	Yarib
 Reheme	Rehem
-Hoko	Buy
 Naara	Watch
 Nearia	Nearia
 Hahupa	Hajupa
 tokoiwa	nine
-Nou	You
 katoatanga	totality
 Tapari	Tapar
 Himioni	Simeon
@@ -4551,7 +4306,6 @@ paraipanatia	fry
 Erere	Error
 Hepuere	September
 Tita	Tita
-Whiriwhiria	Choose
 whakataranga	explanation
 Apihuru	Murder
 Hekupu	Word
@@ -4560,14 +4314,11 @@ Karakoro	Color
 Hamuru	Hamuru
 whakangongea	soften
 whakamoemititanga	praise
-Whakapuakina	Declare
 Heminiti	Heminite
 Atatia	Image
 Uni	University
-Pene	Pen
 Iapia	Japia
 Ipihara	Ibira
-Ingoa	Name
 Peraka	Barak
 Titi	Titty
 Apiere	April
@@ -4604,18 +4355,15 @@ Hipania	Spain
 waero	worm
 kuata	quarter
 hakiniti	hakini
-KOE	YOU
 whakamenenga	migration
 Nikoraiti	Nicolaitan
 ARIKI	KING
 parukore	sanitation
 mariao	mario
 Akina	Akina
-Rewera	Devil
 karaunga	crown
 aniwaniwa	rainbow
 Perekamu	Pergamum
-Kairapu	Finder
 Whakaharitia	Be happy.
 whakauaina	rain
 Hikaiono	Higaion
@@ -4624,15 +4372,11 @@ IHA	IHA
 Erutu	Eruth
 Ahuareka	Ahuareka
 huwha	thigh
-Hinga	Fall
-Kino	Bad
 whakaharitia	be happy
 Maru	Maru
-Haereere	Travel
 kaitawai	critic
 Parea	Defense
 whaereere	mother
-Awhinatia	Help
 pinono	beggar
 tauranga	port
 korihi	korea
@@ -4696,10 +4440,8 @@ Haripi	Haripi
 Kinetono	Kineto
 Hakaria	Hacariya
 tapatu	hit
-Whangaia	Feed
 koronga	intention
 kokinga	collection
-Pahemo	Past
 whakahore	reject
 whakatitaria	spread
 tunewha	fourth
@@ -4735,20 +4477,16 @@ Heroriana	Herodiana
 tokoruatanga	couple
 kororo	gossip
 rereketanga	difference
-Rihiona	Legion
 Kararini	Karin
 huria	change
 ngeri	horror
 whakamakanga	warning
 keokeonga	keokeonga
-Rakau	Tree
 poaha	good morning
 Nahumu	Nahum
 Mereki	Melek
-Angaanga	Skull
 Whakapakia	Apply
 whakakinongia	despise
-Tokorima	Five
 pahemotanga	passing
 tuaritanga	distribution
 tina	dinner
@@ -4772,15 +4510,12 @@ repara	rubber
 whakakorenga	cancellation
 mokomoko	lizard
 Whakatahuritia	Turn it around
-Mangu	Black
 taukiri	opponent
-Hipokina	Cover
 Paaraperiti	Baraport
 Petepara	Bethel
 Pura	Puru
 kaiwhakamatautau	tester
 whakakahokaho	make fun of
-Kupapa	Neutral
 Apinoama	Abinoam
 Anata	Ananta
 Pokimi	Pokémon
@@ -4837,7 +4572,6 @@ hoenga	rowing
 pokarekarenga	movement
 matutu	dry
 kaiwhakaae	approver
-Takanga	Event
 Kereopa	Cleopatra
 kaore	no
 nohonga	residence
@@ -4845,18 +4579,14 @@ kaitaka	writer
 matanuitia	popular
 horohoronga	washing
 Mihaia	Misha
-Kuhua	Put
-Kapi	Cover
 kanakana	man
 paihana	poison
-Wareware	Forget
 Aketura	August
 Matariki	Matariki
 papatupu	papatupu
 Hiritia	Seal
 Parakere	Parakeet
 tongi	fertilizer
-Tangi	Cry
 kakarauritanga	twilight
 whakakawa	sour
 Tere	Hurry
@@ -4893,7 +4623,6 @@ Koraia	Korea
 Morahati	Morahati
 Hehaka	Sheshaka
 whakaha	breathe
-H	H
 ngarenga	flower
 warewarea	forget
 koromaki	swallow
@@ -4909,13 +4638,11 @@ hirere	sly
 ngehe	soft
 huhuti	pull
 whakapatari	aggravate
-Poauau	Stupid
 Whakina	Reveal
 Turia	Tyre
 whakararatatia	tame
 pareparea	defense
 whakapuke	pile up
-Whakamiharo	Amazing
 Hiroa	Title
 Hapaha	Hapasha
 Mahereharara	Maher-e-Harar
@@ -4937,7 +4664,6 @@ pouarutanga	widowhood
 kupukore	speechless
 whakawhaiahua	beauty
 Kaiwhakaahua	Photographer
-Maturuturu	Drop
 ahe	ah
 porokeretia	procrastination
 peere	bucket
@@ -4945,7 +4671,6 @@ titiohea	look
 kareni	Karen
 koroki	crocodile
 whango	loud
-Whakakahangia	Strengthen
 kapia	glue
 okiha	oak
 puwhenua	spring
@@ -4984,7 +4709,6 @@ whakahoha	annoying
 porearea	disorder
 tutakinga	meeting
 moke	monk
-Ako	Learn
 Werawera	Hot
 terepini	turpentine
 Whakawakia	Judge
@@ -5002,9 +4726,6 @@ taumata	level
 mei	may
 tupuria	grown
 wawae	foot
-Ora	Life
-Nohinohi	Small
-Mataku	Fear
 kaitimata	starter
 awhitia	embrace
 kapono	believe
@@ -5023,7 +4744,6 @@ whakapakaritia	strengthened
 wahapu	harbor
 hiranga	importance
 pakaritanga	strength
-Nekehia	Move
 whakawhitiwhitia	communicate
 Hireme	Hiram
 Arori	Arori
@@ -5050,12 +4770,10 @@ Kerupima	Cherubim
 tuia	sew
 papahewa	fantasy
 mamingatanga	deception
-Nuku	Move
 Erona	Elon
 Peeri	Beer
 teriuma	resin
 matapotanga	blindness
-Kaiwhakawa	Judge
 Anera	Angel
 Hawe	Half
 Tirara	Tilar
@@ -5102,9 +4820,7 @@ Tapaoto	Tapato
 Hopai	Good
 Hatita	Hatita
 Henaa	Sena
-Kapa	Team
 Netopa	Netophah
-Takai	Wrap
 Heremai	Here we go.
 Tapai	Cover
 Miamini	Miami
@@ -5163,11 +4879,9 @@ tarautete	trousers
 whakawhaiawhitia	to be shared
 whakah	open
 kaiwhakairo	sculptor
-NA	THAT
 ruinga	sowing
 ruiruia	shake
 pat	pat
-NEI	NOW
 akete	agate
 rikuri	quick
 kaituhi	writer
@@ -5206,15 +4920,12 @@ matenuitanga	passion
 Harapona	Harpoon
 ngarotia	lost
 ohoohonga	excitement
-Nona	His/Her
-Apotoro	Apostle
 porahurahu	puzzle
 whakatiki	limit
 ruhatanga	exhaustion
 Tapera	Taberna
 whakamohio	inform
 rane	frog
-Whakangaromia	Destroy
 raneatanga	sufficiency
 ngangautia	chewed
 whakamahu	warm
@@ -5222,8 +4933,6 @@ kakati	close
 huwhare	February
 whakapaho	broadcast
 punehunehu	black and white
-Whakaminea	Gather
-Aroha	Love
 Hiriona	Sirion
 pakeketanga	maturity
 haumaruru	safe
@@ -5240,7 +4949,6 @@ whakauruurua	double-entry
 whakamaia	be careful
 Awimi	Awami
 rohea	border
-Tetahi	One
 whakapaheke	to collapse
 whi	whine
 rawenakore	unsettled
@@ -5255,7 +4963,6 @@ ahipare	firefly
 whakapeautia	be expelled
 kinitia	beautiful
 whatoro	spread out
-Whakamotitia	Destroy
 matapoporetia	worried
 kowheratanga	opening
 Kotia	Cut
@@ -5294,7 +5001,6 @@ whakamatara	to explain
 Karane	Grain
 weranga	burn
 mounga	mountain
-Tapaea	Offer
 Whakamine	Gathering
 kotakota	lime
 wititia	wheat
@@ -5308,7 +5014,6 @@ Wetekia	Untie
 whakaporeareatia	disturbed
 tomonga	entrance
 Ponotia	True
-Take	Reason
 tupeke	jump
 rehere	prison
 Pupiriu	Publius
@@ -5316,13 +5021,11 @@ urungi	steering wheel
 whakatatutu	sacrifice
 heramana	sailor
 kahakihakina	kidnapped
-Po	Night
 Akuhata	August
 Huriu	Change
 Emepara	Emperor
 whakakapia	replace
 Tereturu	Speed
-Ao	World
 whakamanumanu	to be angry
 ringatia	hand
 ingoakore	anonymous
@@ -5337,8 +5040,6 @@ tupeketanga	jump
 whakaponotanga	belief
 Kenekerea	Genghis Khan
 tui	stitch
-NGARO	LOST
-ATUA	GOD
 whakakorokoroa	calm down
 whakauria	support
 Whiti	White
@@ -5352,7 +5053,6 @@ kaimakutu	witch
 Herekiu	Heresy
 Papaho	Flat
 uakanga	opening
-Whitiki	Belt
 Akapu	Akabu
 Pinikia	Phoenicia
 Heroti	Herod
@@ -5362,10 +5062,8 @@ karo	fight
 apohia	take
 Oku	My
 Onehipora	Onesiphora
-Ana	Cave
 wah	wow
 kirikau	naked
-R	R
 Kitaima	Kitaima
 Paratiere	Pratiere
 tatakirau	each other
@@ -5373,14 +5071,12 @@ toputanga	registration
 Moti	Motor
 whakatupehupehunga	reprimand
 Kokiritia	Hurry up.
-Ngiha	Fire
 whakapingoretia	be restrained
 Kopo	Body
 whakahauputia	be encouraged
 tuakina	split
 tauhikuhiku	slowly
 Rokerimi	Rockerim
-Kanga	Curse
 pouto	vertical
 Kiroho	Kiroho
 Kironi	Kilon
@@ -5391,7 +5087,6 @@ Eriama	Eliam
 kaukau	bathroom
 Ihitopo	Egypt
 Peterehopo	Bethel
-Mamae	Pain
 Tukitukia	Hit
 totoka	solid
 whakakuware	stupid
@@ -5402,7 +5097,6 @@ ripiripia	ripped
 ponana	rash
 hoake	up
 are	sleep
-Horoi	Wash
 tihe	sneeze
 owha	owl
 poutumaro	noon
@@ -5429,8 +5123,6 @@ Tirihaka	Tirihaka
 Houhia	New
 mimi	urine
 Taratana	Tartan
-Awa	River
-Ho	Yes
 Haramanehere	Shalmanech
 tuaraki	back
 Katahewhere	Whereabouts
@@ -5445,7 +5137,6 @@ whakahauoratia	revive
 marietanga	peace
 whakak	complete
 potopoto	gather
-Tuwhera	Open
 kah	where?
 Whakamatauria	Tested
 onga	yes
@@ -5472,7 +5163,6 @@ Iekoria	Jehoram
 Iehoarana	Jehoaran
 Himeata	Himeata
 Iehohapeata	Jehoshaphat
-Koutou	You
 whakarong	listen
 kaitarai	waiter
 whakatuturia	stop
@@ -5485,7 +5175,6 @@ whakahokihoki	return
 tautohetohenga	controversy
 mokopuna	grandson
 paruparu	dirty
-Tino	Very
 pahika	bicycle
 whakaahuru	comfort
 hangareka	funny
@@ -5508,7 +5197,6 @@ patiri	parrot
 Karimi	Cream
 paiherea	welded
 puruhi	flea
-Kohatu	Stone
 tahake	alone
 in	in
 hopane	soup
@@ -5542,7 +5230,6 @@ Taramoro	Taramoro
 kaipakuha	buyer
 Kapuru	Kapuru
 howa	cold
-Mai	From
 inihi	inch
 onematua	mother-in-law
 porowha	square
@@ -5560,7 +5247,6 @@ Tapata	Close
 Haarapimi	Haarlem
 Aronirama	Adoniram
 Tapuru	Taburu
-Tapahia	Cut
 Hirihi	Hirihi
 kaiarataki	leader
 rakai	room
@@ -5583,7 +5269,6 @@ hokamora	skunk
 pikake	peacock
 makimaki	monkey
 nahi	wish
-Tokotoru	Three
 whakakoromaki	endure
 whakahurai	cover
 taiohinga	adolescence
@@ -5626,7 +5311,6 @@ Erara	Elara
 Perana	Brazil
 Arami	Alma
 Teriarere	Teriarere
-Iri	Hang
 Etepono	Ethiopia
 Iahupu	Jasper
 Hukoko	Hukoko
@@ -5638,8 +5322,6 @@ Toaha	Toaha
 Hakia	Haggai
 Horawia	Horavia
 Paaraheremona	Baalhermon
-Ahi	Fire
-Huri	Change
 Torai	Torai
 Arono	Aaron
 Tohipia	Toshibia
@@ -5662,7 +5344,6 @@ Tapariere	Curtain
 Utieri	Utiel
 Amarami	Amarami
 Tehieri	Tehiel
-Tokoono	Six
 Mahatioto	Mahatioto
 Hotiri	Hotiri
 Maroti	Maroti
@@ -5696,7 +5377,6 @@ Tekamia	Tekamia
 Hihamai	Hihamai
 Eperara	April
 Apaima	Apai
-Iara	Yard
 Maata	Clear
 Kenata	Canada
 Oteme	Autumn
@@ -5711,7 +5391,6 @@ Aramoto	Aramoto
 Mikineia	Mycenae
 Eriperehe	Eliphaz
 Katere	Catherine
-Pakaru	Broken
 Paaraperatimi	Baal Perazim
 Eriparete	Eliphalet
 Noka	No.
@@ -5719,7 +5398,6 @@ Erihua	Elishua
 Pereteuha	Persephone
 tohun	teacher
 torohe	stretch
-T	T
 panaia	fired
 Eretapara	Elezitbar
 Ihimaia	Ishmael
@@ -5830,7 +5508,6 @@ iringa	hanging
 puaka	pig
 ipo	lover
 parauri	brown
-Kumea	Pull
 kaihikihiki	hairdresser
 Epar	Ephraim
 whakawhanaunga	relationship
@@ -5894,19 +5571,14 @@ karakiakoretanga	irreligion
 whakahuahua	outline
 Aporiona	Apollyon
 Aparona	Abaddon
-Taru	Weed
 atomato	first
 Nepetarima	Nephedra
-Reinga	Hell
 hoihoi	interesting
-Putake	Root
-Raiona	Lion
 patukituki	knock
 waikorohuhu	water lily
 mahanahana	warmth
 Pirarerepia	Philadelphia
 ukuia	polished
-Kaiwhakaatu	Witness
 mamara	light
 karihoparaha	caribou
 ngahauru	fun
@@ -5915,14 +5587,10 @@ hararonika	sarong
 karakeroni	karakulon
 Koka	Goose
 paiata	good luck
-AKO	LEARN
 ANA	HER
 MAU	EVERYONE
 HUNGA	FALL
-KEI	HERE
-NO	NO
 AKU	ME
-ETAHI	SOME
 Anatipa	Antipas
 arauna	allowance
 Hamurana	Smyrna
@@ -5932,14 +5600,8 @@ hapaingia	welcome
 reke	butt
 maper	maple
 whakakinga	filling
-AO	WORLD
-HOKI	BACK
 WHAKARIHARIHA	HATE
 KAIRAU	CHILDREN
-WAHINE	WOMAN
-WHAEA	MOTHER
-NUI	BIG
-PAPURONA	BABYLON
 Aramakerona	Armageddon
 Kohukohua	Koukohua
 karep	grapes
@@ -5952,7 +5614,6 @@ Rewa	Rewa
 Marama	Moon
 moutere	island
 Koropiko	Koropiko
-Hapati	Sabbath
 piranga	beautiful
 aritatanga	aridity
 kahakinga	kidnapping
@@ -5966,7 +5627,6 @@ Reanoto	Reanoth
 whakatapatahitia	compare
 unene	unen
 kitoku	my
-Whakatitahatia	Divide
 Paka	Park
 whakaohorere	excitement
 Hakarini	Hagarin
@@ -5974,7 +5634,6 @@ kakore	useless
 Whakahuatia	Mention
 kowhakiwhakia	be careful
 tautotoro	support
-Taumarumaru	Shade
 totohetanga	dispute
 Whakaohoohokia	Be excited.
 whakaitea	show
@@ -6000,7 +5659,6 @@ paparuatia	double-sided
 himenetia	hymn
 Era	Era
 hoihotia	horse
-Himenetia	Hymn
 tupuke	big
 pe	yes
 Makuku	Wet
@@ -6015,7 +5673,6 @@ Aramatopa	Armada
 Aramanaharaima	Armanaharaim
 Pakoko	Bark
 hamamatia	shout out
-Kawana	Governor
 kupa	cup
 kowhakia	pinch
 Pamau	Palm
@@ -6024,7 +5681,6 @@ kopikopikotanga	wandering
 rehokime	red wine
 ereme	erem
 Ionata	Jonathan
-Maeneene	Smooth
 wehia	fear
 Purea	Purify
 whakahaputanga	pregnancy
@@ -6035,7 +5691,6 @@ Whakapai	Cleaning
 Taiawhiotia	Circled
 taupatupatu	conflict
 whakatangitangi	play music
-Aratakina	Guide
 Homhanimi	Homhanimi
 kaikohukohu	gossiper
 whakahaweatanga	contempt
@@ -6043,7 +5698,6 @@ Mitara	Mitara
 Heremoni	Hermon
 taoruoru	cool
 whakatupehupehutia	reprimand
-Wahangu	Silence
 hauhau	cool
 inua	drink
 hamamu	shout
@@ -6065,13 +5719,10 @@ kurupopo	croup
 Kapohia	Captured
 hemene	hymn
 karopoti	skeleton
-Waipuke	Flood
-Kororia	Glory
 hokite	back
 Kataina	Cut
 Airete	Airet
 whakatihaia	be careful
-Kihia	Kiss
 whakahorere	to relax
 Whakamakia	Watch
 maturuturutanga	drop
@@ -6092,13 +5743,10 @@ whakatitaritaria	scattered
 kaiuwhi	collector
 huripokitia	upside down
 maruwehi	sloppy
-Whakapikoa	Bend
 Whakahauorangia	Refresh
-Horahia	Spread
 tutea	spy
 whakairohia	carved
 whakahirihiritia	be careful
-Whakahoroa	Destroy
 waiate	song
 Whakairia	Upload
 inahi	yesterday
@@ -6108,8 +5756,6 @@ kaipaihere	binder
 kaikoti	cutter
 moehewa	fantasy
 taweke	handle
-TAU	YEAR
-Takiwhitu	Seven
 HINE	WOMAN
 anao	follow me
 whakahauoranga	revival
@@ -6118,7 +5764,6 @@ KOPO	END
 TARI	TARIFF
 PE	PE
 AINE	SUBSTANCE
-Tautokona	Support
 HAMEKE	HAMEKE
 NUNU	NUN
 MEME	MEMES
@@ -6140,7 +5785,6 @@ AREPE119	AREPE119
 ohoreretanga	surprise
 wahangutanga	silence
 hopua	catch
-Pekepeke	Jump
 whanaketanga	development
 tuaikerekere	late
 kinogia	bad luck
@@ -6170,8 +5814,6 @@ whakamataratanga	extension
 whakatupuehupehu	to stir up trouble
 Whakangoikoretia	Weakened
 porangirangi	crazy
-Mataara	Watch
-Tomokia	Enter
 Whanoke	Whanoke
 tnngata	people
 whakangarongaro	destroy
@@ -6186,7 +5828,6 @@ ratarata	love
 purema	adultery
 kotuinga	folding
 katae	laughter
-Katae	Laughter
 maturuturunga	drop
 whakamua	forward
 whatuwhatu	broken
@@ -6227,23 +5868,18 @@ taunahatia	pledge
 pakiki	curious
 tangatariri	angry person
 rora	rain
-Whai	Follow
 mataratanga	distance
 whakatakariritia	provoke
 ngotonga	sleep
 kokorutanga	inlet
 Whakawai	Watering
 matareka	fun
-Utaina	Load
 whakatakataka	prepare
 takea	origin
 ngakinga	cultivation
-Hipoki	Cover
 kaiunga	friend
 Pahure	Pashupatinath
-Rongoa	Medicine
 tahuritia	turn around
-Horomia	Swallow
 Keremeneta	Clementine
 Hinatiki	Sinatiki
 Uoria	Uoria
@@ -6353,8 +5989,6 @@ Kohopi	Coffee
 weohia	woven
 tapenakar	tabernacle
 paraama	light
-Hepeta	Scepter
-Whetu	Star
 paraka	block
 hamore	hammer
 Hutoto	Water
@@ -6379,7 +6013,6 @@ Mikaere	Michael
 Heturu	Seturu
 Kemari	Kemari
 Kariere	Career
-Rapu	Search
 kohinga	collection
 ianga	fish
 what	what
@@ -6475,14 +6108,12 @@ Atania	Athens
 Pirikai	Brick
 Kihireu	Kihireu
 whakamahunga	pregnancy
-Utuhia	Paid
 rurerurea	shake
 Noamono	Noamono
 tarapekepeke	jump
 Mano	Thousands
 Huhapa	Hushapa
 taututetute	clash
-Ngana	Try
 atia	close
 raw	raw
 haeretanga	progress
@@ -6492,7 +6123,6 @@ kauhui	group
 kouaua	you are welcome
 Nimiroro	Nimroro
 akuareiia	akuareia
-Whakamamae	Torture
 kup	cup
 komotia	enter
 kaiwahi	cutter
@@ -6645,7 +6275,6 @@ Ituria	Ituria
 whakamakoha	relaxation
 tunutunu	roast
 Emauha	Emmaus
-TENEI	THIS
 kaimata	eye
 panui	read
 koparea	broken
@@ -6659,7 +6288,6 @@ whakaharinga	joy
 Kuirinia	Queen
 whakaheanga	criticism
 takiwhatia	broken
-Takirua	Pair
 Takitakina	Hit
 whakarangia	be imprisoned
 hikamaina	sikamaina
@@ -6679,7 +6307,6 @@ hiruharama	shirusaram
 takarekare	restless
 tirengi	green
 rawene	raven
-Rahi	Size
 putunga	deposit
 kaiwehewehe	divider
 whakamoho	sleep
@@ -6796,7 +6423,6 @@ Apionoama	Abionoam
 Rapiroto	Rabbit
 Heirata	Heirat
 oapa	clap
-M	M
 Repona	Repona
 tungia	penetrate
 Kiromo	Kilo
@@ -7015,13 +6641,10 @@ whakangonge	weak
 Ihapini	Japonica
 Repir	Depir
 Horama	Horam
-Maker	Maker
-Hurihia	Change
 Tahera	Tahera
 Tapia	Repair
 Pirama	Pyramid
 pumahu	whisper
-Tono	Request
 hamaria	Samaria
 whakatatau	close
 whakawhetainga	thanksgiving
@@ -7041,9 +6664,7 @@ kaihai	fisherman
 arohia	pay attention
 whakawainatia	be punished
 uera	wire
-NAHARETA	NAZARETH
 Kapata	Captain
-Whariki	Carpet
 Auaka	Auka
 makariri	cold
 Maraku	Maraku
@@ -7051,8 +6672,6 @@ Kerono	Keron
 notemea	because
 mamate	death
 whakaoraora	resuscitation
-Whakapono	Faith
-Roa	Long
 tiriro	watch
 Rawe	Raw
 ngane	girl
@@ -7065,9 +6684,7 @@ Petapara	Petal
 whakakikokikoa	full of life
 Patupatua	Beaten
 whakatoto	planting
-Ru	Earthquake
 tapeka	total
-Tatua	Tattoo
 putokitoki	smallpox
 makau	favorite
 kaiinu	drinker
@@ -7089,7 +6706,6 @@ koreheke	empty
 Kerenehapuku	Greenleaf
 Ketia	Kezia
 Hemaima	Shemaima
-Tokowhitu	Seven
 popopopo	pop pop
 Pakari	Old
 tawerewere	spider web
@@ -7130,7 +6746,6 @@ awina	activity
 whakawairangitia	be careful
 marea	public
 marou	thorn
-Tupuhi	Storm
 tutakitaki	meet
 takiritanga	attraction
 tamaroa	boy
@@ -7148,7 +6763,6 @@ whakaetietinga	comparison
 marakerake	sloppy
 whakakarangitanga	listing
 Paruparu	Dust
-Tuituia	Stitched
 Humarie	Humarie
 whakahewea	blame
 Haehaea	Tear
@@ -7158,7 +6772,6 @@ whakatoatoa	complete
 kimokimo	blink
 whaikorero	speech
 whakahonoretanga	honor
-Hiri	Seal
 ngananga	scolding
 waihotia	leave it alone
 hamo	fish
@@ -7166,14 +6779,10 @@ tumautanga	stability
 Karapitia	Karapitiya
 pakawha	four
 kapokapohia	be captured
-Whawha	Four
-Whakakorea	Cancel
 poko	small
 herehera	prison
-Hohonu	Deep
 Keiwha	Keiwha
 makoha	stretch
-Whakawhiwhi	Grant
 tetepe	stop
 kikiwatanga	proximity
 whakauware	silence
@@ -7183,7 +6792,6 @@ kan	blood
 whakaihoa	return
 karare	glass
 whengu	yellow
-Waruhia	Scrape
 akiritanga	rejection
 mataatitia	watch out
 rongoatanga	treatment
@@ -7200,7 +6808,6 @@ Ahakenaha	Ashkenaz
 Mini	Mini
 poutangata	postman
 whakaohongia	wake up
-Whakakoia	Confirm
 Inamata	Suddenly
 kiakopere	archery
 Repekamai	Rebecca
@@ -7209,7 +6816,6 @@ Horoano	Horoano
 parara	para
 rarau	reed
 whakatupura	to be angry
-Karangarangatia	Call
 ururutanga	desertion
 poroporonga	farewell
 Merataimi	Merathaim
@@ -7218,7 +6824,6 @@ Hatepea	Limit
 Whakatakoto	Set up
 takarokaro	play
 towahiwahi	fragmented
-Tetere	Trumpet
 uritanga	birth
 Whakahuihui	Gathering
 kaitawhiu	prosecutor
@@ -7230,7 +6835,6 @@ whakakakake	pride
 Petemeono	Beth Meon
 Petekamuru	Petkamuru
 Peteripirataima	Bethlehem
-Tangihia	Cry
 whakanohopukutia	be careful
 Maramene	Moon
 Mihikapa	Mihikapa
@@ -7258,7 +6862,6 @@ Hiruhar	Hiruhar
 karenga	please
 whakahotuhotu	to warn
 totopu	body
-Ngakia	Cultivate
 Nepuhahapana	Nebuchadnezzar
 whakawhakia	be divided
 Harehekimi	Harechim
@@ -7314,7 +6917,6 @@ Mihapipi	Mishapipi
 Makoro	Macro
 kuhuna	enter
 Kaiponuhia	Stop it.
-Tou	You
 man	man
 aerea	air
 tapitapi	worry
@@ -7336,7 +6938,6 @@ kaiwhakatuwhera	opener
 Whakaititia	Reduce
 Whakakororiatia	Praise be to God.
 ruharama	light
-Hi	Hello
 eoi	yes
 tetah	one
 Horona	Jordan
@@ -7353,7 +6954,6 @@ whakarata	calm down
 tahatahi	alone
 parairetia	bridle
 Rongomau	Peace
-Mutungakore	Infinite
 Kaiwhakatakoto	Advisor
 okeokea	sloppy
 Takaia	Wrap
@@ -7398,9 +6998,7 @@ hurarahi	reveal
 kaihuna	secret
 karapanaka	cash register
 whakatiketiketia	exalt
-Maunu	Bait
 Ruperupea	Shake
-Piko	Bow
 tautiti	tie
 Kohore	No
 apena	like that
@@ -7412,7 +7010,6 @@ ngaengere	scold
 mao	white
 Hinimi	Shinim
 pakakinakina	sports
-Whakaatu	Show
 whaowhaoa	ingot
 painatanga	pain
 whakamahanatanga	warming
@@ -7420,7 +7017,6 @@ tonuitanga	continuity
 Amohia	Take it.
 kahor	before
 Tapeani	Japan
-Uia	Ask
 kaihohou	traveler
 tapokopoko	deep
 meing	maybe
@@ -7432,7 +7028,6 @@ kinai	kinai
 kahekahe	scold
 whakahotu	to settle
 whakamorokitanga	humiliation
-Here	Here
 whakapaowa	to be angry
 kope	diaper
 whakaaroarohia	consider
@@ -7456,7 +7051,6 @@ pao	hatch
 oteriti	ostrich
 hoehoea	shoe
 punia	closed
-Pawera	Fear
 ruirui	shake
 tarapeke	jump
 kikiki	hurry
@@ -7495,7 +7089,6 @@ kaikauhoe	swimmer
 whakamarumarua	protected
 Ngakongako	Ngakogako
 whakakarauna	crown
-Whakawhiti	Transfer
 whakarihia	repeat
 Reranimi	Redanim
 Kahekahe	Kahekahe
@@ -7570,13 +7163,10 @@ whaeakore	motherless
 matuakore	fatherless
 harema	harem
 whakaaringa	performance
-Mutunga	End
 whakakinoa	abuse
 taungatia	be careful
 Kotiti	Wrong
-Tohunga	Expert
 Tuturu	Real
-Ngaueue	Shake
 pango	black
 whakatamarikitia	adopt
 kaiwhakaoti	finisher
@@ -7587,10 +7177,8 @@ koheka	girl
 pokaitia	surgery
 Kahor	No
 puhipuhia	shot
-Pikitia	Picture
 kaupuranga	assembly
 Werohia	Challenge
-Haereerea	Travel
 Kuhana	Kushan
 rerere	fly
 Hikionoto	Hikoneto
@@ -7615,7 +7203,6 @@ Hipiona	Siphon
 Puwa	Flower
 whakatakirua	double
 kit	kit
-Whaowhina	Help
 takirimatia	five times
 muringa	rear
 pam	pump
@@ -7652,7 +7239,6 @@ toitoti	limp
 Peniere	Peniel
 tukuna	released
 Iekarahaharuta	Icarus
-Kohia	Collect
 mahine	month
 koroa	crown
 Rapanga	Problem
@@ -7691,7 +7277,6 @@ Hutu	Shoes
 Ihowatire	Oh my God
 tamarihi	child
 Tangata	Human
-Wahine	Woman
 whakatutakina	be introduced
 Pihona	Pihon
 whakahangia	aired
@@ -7730,9 +7315,7 @@ Kaheruhimi	Kaheruhimi
 Rehena	Rehena
 Ereke	Erek
 tuaiti	small
-Whenua	Country
 Rangi	Heaven
-Awatea	Daylight
 whakatoria	be careful
 Pikaua	Pikaua
 pareho	both
@@ -7799,10 +7382,8 @@ Atita	Atita
 Tetia	Tetia
 Ramia	Ramia
 Keraia	Keraia
-Poto	Short
 maram	month
 Tahatia	Together
-Katoa	All
 rutu	struggle
 whakariroinga	change
 Whakapokea	Pollution
@@ -7832,7 +7413,6 @@ whakaheretotokore	sacrifice
 koro	old man
 mane	morning
 ngak	ok
-Whanganga	Measurement
 huiti	narrow
 aparua	apocalypse
 roanga	length
@@ -7887,14 +7467,12 @@ whakaii	pride
 Purangatia	Purangati
 koropuputanga	boiling
 nakohakoha	strange
-Hoa	Friend
 rurutia	shake
 waitohungai	signature
 waitohungia	signed
 anana	pineapple
 whakakoromeketanga	confusion
 tairangatanga	elevation
-Pama	Palm
 nohio	small
 ngihia	burn
 maniania	noisy
@@ -7920,7 +7498,6 @@ korori	glory
 torotika	straight
 hikonga	electricity
 whakapuehu	dust
-Aohia	Aohia
 matikara	finger
 apoapohia	be happy
 whakamuia	back
@@ -7956,7 +7533,6 @@ karapanuma	carabanuma
 oneka	other
 takete	background
 karamuha	karamuha
-ANO	AGAIN
 mumu	red
 whakawhaiwhiri	choose
 whakakohao	open
@@ -8030,8 +7606,6 @@ akau	right
 korukoru	turkey
 ngaungau	chew
 kahakahakina	engraved
-Atuakore	Godless
-Kotinga	Cut
 Kotingakore	Uncut
 maoritanga	nature
 kaiwhakaki	filler
@@ -8088,7 +7662,6 @@ huarangatia	root
 kaiutuutu	drawer
 kaitata	printer
 whakawhiwhinga	award
-TOU	YOU
 kurunga	institution
 uauatanga	difficulty
 waihakihaki	water
@@ -8112,7 +7685,6 @@ maria	Mary
 Keremota	Gremory
 Kapatora	Captivity
 Hamahumi	Tenth
-Whakahau	Command
 en	en
 pukapua	flower
 riwhiria	choose
@@ -8122,7 +7694,6 @@ weherua	split
 temera	fever
 pikareka	funny
 tiwhaina	clean
-Pakarua	Broken
 waengan	middle
 tanumai	burial
 Mohera	Mohera
@@ -8132,7 +7703,6 @@ Haua	Disability
 rir	laugh
 arenea	development
 Karehep	Karehep
-Whakarangona	Listen
 Kareheparena	Karesaperena
 Rihahapa	Rizaphap
 Topera	Topel
@@ -8145,20 +7715,17 @@ tiia	tea
 kipi	rebellion
 takatakah	takatakah
 whaitohu	certificate
-PEREHE	PRESS
 UPARAHINI	UPARAHINI
 parah	bad
 ohio	ohio
 akaititia	decrease
 whakakit	show
 tik	tick
-Inu	Drink
 gatiratanga	ownership
 kaw	close
 mak	ok
 poutoutoa	all-round
 epukaneha	ephesus
-N	N
 Rura	Rura
 whakauruuru	join in
 tupua	idol
@@ -8179,10 +7746,8 @@ Haitiana	Haitian
 atawhaikore	unkind
 pokano	mushroom
 tuhonohono	connection
-Upoko	Head
 Pauhua	Price
 Korohe	Empty
-Taia	Print
 kowhititianga	crossword clue
 kaikikini	cheerleader
 Kiunu	Kiunu
@@ -8194,13 +7759,11 @@ kaitinei	waiter
 goa	goa
 tarokore	breadless
 Haramona	Salmon
-Panuitia	Read
 Kirioto	Kirioto
 pipiripia	torn
 whakangakau	heart
 whakapapanga	contact
 whakapororarutia	confused
-Torotika	Straight
 tuwheratanga	openness
 Ahota	Ahota
 haraiata	horse
@@ -8217,10 +7780,8 @@ Nikanora	Nicanor
 Porokoru	Frog
 Teura	Teura
 Kamariera	Gamaliel
-Piriniha	Prince
 Rokohina	Rokohina
 erehere	prison
-Hapaira	Sapphire
 whakaaranga	resurrection
 ihaka	fish
 meati	meat
@@ -8228,7 +7789,6 @@ pona	laptop
 pita	pita
 Wharetoru	Three Houses
 Apiu	Apiu
-Makete	Market
 Puteori	Money
 Rekiuma	Rheumatism
 Hairakuha	Hyrakuha
@@ -8245,7 +7805,6 @@ Urokarairona	Urocharyon
 rekareka	fun
 kapene	captain
 Rahia	Russia
-Kokoru	Bay
 Haramone	Salmon
 Hiniru	Hinuru
 Raikia	Raikia
@@ -8264,13 +7823,10 @@ rukeruke	messy
 maetia	clean
 taututetutenga	confrontation
 temepa	temple
-Tokowha	Four
 whakangakaukore	heartless
 Toromai	Toromaï
 Pinika	Pink
 Patara	Patara
-Koha	Gift
-Papaku	Shallow
 Torokiriuma	Trochleum
 Hamo	Ham
 Kio	Fish
@@ -8319,7 +7875,6 @@ Erima	Elim
 Paraihu	Brush
 Harami	Harami
 Herukia	Cherubim
-Motuhia	Cut off
 Manaena	Manaena
 Rukia	Russia
 Nikera	Nigeria
@@ -8353,7 +7908,6 @@ Hamapiri	Close
 Hani	Hani
 heahea	silly
 ririhau	angry
-Oma	Run
 Piritu	Bridge
 Himeniu	Hymen
 kikohangatia	be careful
@@ -8415,7 +7969,6 @@ Iohepepahapete	Joseph and the others
 maonga	surprise
 kaihimene	singer
 mohungahunga	toddler
-Huakina	Attack
 whenunga	explosion
 roritia	funny
 Iaareorekimi	Yaareorkim
@@ -8441,7 +7994,6 @@ tauhiku	drop
 neti	net
 arik	arik
 Apohara	Absalom
-Hopi	Soap
 Itira	Itzira
 tetai	one
 akauanei	this is true
@@ -8471,7 +8023,6 @@ tauarua	double
 rorea	scold
 ruku	dive
 makenu	death
-Matau	Right
 totoa	brave
 wheau	shell
 Kaikaranga	Reader
@@ -8494,7 +8045,6 @@ honea	honey
 Hirianai	Syrian
 topetope	short
 aroar	aroar
-Whakaae	Agree
 whirinaki	trust
 atau	or
 rukuhanga	diving
@@ -8528,7 +8078,6 @@ Mehuremete	Mehuremete
 parameti	parameter
 Peroraka	Perolaka
 Hetekai	Hezekiah
-Pakira	Bald
 rereruatia	double
 kone	cone
 raroa	below
@@ -8538,7 +8087,6 @@ ainei	now
 Rapaharihi	Rapahari
 aranata	orange
 whakapikau	pack
-Honea	Honey
 Nehuhatana	Nehushtan
 Api	Api
 Hakop	Jacob
@@ -8558,7 +8106,6 @@ Arie	Arie
 Ripiripia	Liberia
 Apek	Apek
 Koperea	Shoot
-Pupuri	Hold
 Penehaara	Ben-Hadar
 Iotaka	Iotaka
 tohung	teacher
@@ -8585,20 +8132,17 @@ rangitahi	temporary
 hipoko	hippo
 rungatia	above
 muhumuhu	whisper
-Kahakina	Kidnapped
 Areta	Areta
 pahiatia	be beaten
 kaiwhakawahi	firefighter
 kaiwhakau	founder
 Pewhea	How?
 nuku	move
-K	K
 uwaha	mouth
 Hamatatopa	Hamatatopa
 whakawhuia	be tortured
 Tereata	Television
 Nepukaneka	Nebuchadnezzar
-Whakaahua	Photo
 tauhuihia	add up
 pokoh	body
 Haharaha	Hahahaha
@@ -8620,7 +8164,6 @@ Ep	Ep.
 Hatahi	Together
 Ihara	Crime
 ungutu	snort
-Whakakikoruatia	Coated
 Parawaima	Parawaim
 ohunga	slang
 Ioah	Joah
@@ -8642,7 +8185,6 @@ Ie	Yes
 Erihapata	Elizabeth
 Rorawa	Heavy
 whakapo	complete
-Whakatikatika	Correction
 Ieruere	Jeruel
 Hatetono	Hatton
 taritari	wait
@@ -8668,7 +8210,6 @@ Etema	Etham
 Harorama	Harorama
 tekaia	lie
 Ponotio	Pontius
-Whawhaitia	Fight
 hawata	dangerous
 Haimeniu	Hymenius
 kuwaretia	stupid
@@ -8717,7 +8258,6 @@ Apenere	Abner
 whakakaumatua	aging
 whakapaunga	expense
 takotaoranga	survival
-Aianei	Now
 Heku	I
 Naiota	Naiota
 Tawiri	Twist
@@ -8725,7 +8265,6 @@ whakahipa	to hide
 ito	it
 Mehora	Major
 rihitini	receipt
-Pi	Bee
 whakatene	please
 kerono	geron
 hati	heart
@@ -8738,10 +8277,8 @@ whakaparahakotia	insult
 Ke	Yes
 Teraimi	Teraim
 Tomotomo	Tomotomo
-Raru	Problem
 Pepeke	Bug
 tatauria	count
-Tatauria	Count
 Henehe	Old age
 Potete	Pot
 kaikakahu	dresser
@@ -8754,12 +8291,9 @@ Iorohama	Jeroham
 Ramataima	Ramatime
 horomanga	absorption
 Amin	Amen
-Whakamanuhiritia	Welcome
 whakakakahuranga	clothing
-Pihopa	Bishop
 whakatupapaku	massacre
 hetia	wrong
-Hiahia	Desire
 Kaporokia	Cape Verde
 whakatakohatia	contribute
 Etanimi	Ethanim
@@ -8787,7 +8321,6 @@ Erihorepe	Elihoreph
 tamia	clean
 toanga	success
 whakangohengohe	soften
-Whakarihariha	Disgusting
 wenata	wenata
 whakahok	return
 Himeiki	Himeiki
@@ -8954,7 +8487,6 @@ Taanai	John
 Atata	Nearby
 Peeraha	Beer
 hotau	today
-Hipi	Sheep
 Tehimiere	Tehimiere
 Hehohaia	Jehoshaphat
 Taakopa	Taakopa
@@ -9053,7 +8585,6 @@ Kamuru	Kamuru
 Ehekiere	Ezekiel
 Apahehe	Apahehe
 Iehepeapa	Jezebel
-Hupa	Soup
 Hakoto	Hakoto
 Heorimi	Seorim
 Riwa	River
@@ -9085,7 +8616,6 @@ Kehama	Kehama
 Taharai	Taharai
 Torokoama	Torokoama
 Rahama	Rahama
-Tata	Close
 Moriri	Moriri
 Ahapana	Ashapana
 Ekere	Acre
@@ -9166,3 +8696,5632 @@ Atapeere	Antebellum
 Heruku	Heruku
 Arawari	Easy
 Kaharuhimi	Kasharuhimi
+Delma	Delma
+āianei	now
+āke	tomorrow
+Āmine	Amen
+anō	also
+Blessing	Blessing
+hahana	hashana
+hareruia	hallelujah
+hokie	hokie
+Hōmai	Thank you.
+Huie	Huie
+Īhu	Jesus
+korona	crown
+korōria	glory
+mā	to
+mākihikihi	the
+Māori	Māori
+mātou	us
+mō	for
+ngā	various
+ngākau	hearts
+Nōu	you
+ō	your
+Ohia	Ohia
+pūrotu	peace
+rā	day
+rangimārie	peace
+Tāiki	Tāiki
+tātou	we
+tāu	are
+tēnā	yours
+tēnei	this
+The	one
+tīna	mother
+tō	your
+tōu	yours
+tūturu	real
+ū	breast
+Ūhia	Uhia
+Whakameatia	Be careful
+tī	tea
+Atanoho	Atanoho
+atawai	adverb
+Hobson	Hobson
+Hopihona	Hobson
+Ingarani	England
+Kapitana	Captain
+Nawi	Navi
+Pakeha	European
+Pepueri	February
+Roiara	Royal
+Tirani	Tyranny
+TIRITI	TREATY
+wahikatoa	everywhere
+Waitangi	Waitangi
+wakaae	agree
+wakaaetanga	consent
+wakaaetia	allowed
+wakaaro	think
+wakaminenga	meeting
+wakarite	balance
+wakaritea	compare
+wakaritenga	equality
+wenua	country
+Wiremu	William
+Memea	mother
+whaaki	confession
+ngai	place
+takuta	doctor
+kīhini	kitchen
+rūma kai	dining room
+parai	Frying pan
+umu	Oven
+pouaka makariri	Fridge
+pākatio	Freezer
+puoto	Sink
+tīkera	Kettle
+whakatōhi	Toaster
+kumete	Bowl
+whāka	Fork
+rūma noho	living room
+hōpa	Sofa
+hānea	Armchair
+raka	Rug
+whāriki	Rug
+ipu putiputi	Vase
+pae pukapuka	Bookshelves
+pouaka whakaata	TV
+pikitia	Painting
+waituhi	Painting
+papara kawhe	Coffee table
+wairehe	Stereo
+rūma moe	bedroom
+papangarua	Duvet
+pera	Pillow
+wātaropa	Wardrobe
+whata kākahu	Wardrobe
+ārai	Curtains
+papa taha moenga	Bedside table
+toroa	Drawers
+karaka	Clock
+rūma kaukau	bathroom
+tāpu	Bath
+kauranga	Bath
+tāuwhiuhi	Shower
+pae whakatāupe	Vanity
+tāora	Towel
+whārepaku	Toilet
+whakaataata	Mirror
+In the garden - māra
+pātītī	Lawn
+karaehe	grass
+hōpua	Swimming pool
+pae noho	Bench
+pūrerehua	Butterfly
+whare	home
+kāraho	Deck
+teki	Deck
+a	nominal particle
+āe	yes
+aewa	unhealthy
+ahakoa	although
+ahau	I
+ahiahi	early evening
+Ahitereiria	Australia
+aho	light
+ahokore	wifi
+ahu	to look after
+āhua	shape
+āhuatanga	property
+ai	verbal particle
+aihe	dolphin
+aihikirīmi	icecream
+aikiha	handkerchief
+Airani	Ireland
+aituā	disaster
+ākau	shore
+ake	up
+Āketina	Argentina
+ako	to learn
+akomanga	classroom
+ākona	(pass) be learned
+ākonga	student
+akoranga	thing that is taught or learnt
+aku	my
+Ākuhata	August
+āmaimai	nervous
+Amerika	America
+amuamu	groan
+ana	indeed
+anga	seashell
+angaanga	head
+anō	again
+anuanu	disgusting
+anuhea	ugly
+aorangi	planet
+Aotearoa	New Zealand
+Āperira	April
+āpōpō	tomorrow
+āporo	apple
+apuapu	gobble
+arā	over there
+arahanga	bridge
+araheke	stairs
+ārahi	to lead
+ārahina	(pass) be led
+ārai	curtain
+āraia	(pass) be warded off
+Aranga	Easter
+ārani	orange [fruit]
+Ararā!	There!
+arata	lettuce
+arataki	to guide
+aratakina	(pass) be guided
+arawhata	bridge
+arewhana	elephant
+ariā	feeling
+ariā hirahira	special effects
+ariki	chief
+aro	to face
+aroaro	front
+aroha mai	sorry (show me some sympathy)
+arohaina	(pass) be loved
+aromatawai	assessment
+arotahi	contact lens
+āta	gently
+ātaahua	beautiful
+atamai	clever
+atamira	platform
+ātārangi	shadow
+atarau	moonlight
+atarua	bad eyesight
+atawhai	to show kindness towards
+ātea	outer space
+āti	descendant
+atu	away from current orientation (often not translatable by a separate English word)
+āu	your
+aua	those (previously mentioned
+auau	to bark
+auē!	alas!
+aukume	magnet
+autaha	to one side
+autāne	brother-in-law (of a woman)
+auwahine	sister-in-law (of a man)
+āwangawanga	worried
+awatea	daylight
+āwhā	storm
+Awherika	Africa
+awhi	to hug
+āwhina	to help
+āwhiowhio	whirlpool
+awhitia	to be embraced (pass	awhi + tia)
+e	by
+e ai ki	according to
+E hē!	No! that's wrong!
+e hia?	how many?
+e hoa	friend (when speaking to someone)
+e hoa mā	friends (when speaking to a group of people)
+e kō!	girl!
+e kore e taea	impossible
+e noho	sit down
+e noho rā	farewell (said by those leaving)
+e tika!	well
+e tū	Stand up!
+e whia?	how many?
+ea	be avenged
+ehara	exclamation: sure enough
+ehara i te hanga!	it is no ordinary thing!
+ēhea?	which (plural)?
+eke	to embark
+ekengia	(pass) to be boarded
+ēnā	those
+ēnei	these
+ērā	those (over there)
+erangi	but
+ētahi	some
+ētehi	some (plural of tētehi
+ēwhea?	which? (plural)
+hā	breath
+hae	to cut
+haea	(pass) to be cut
+haeana	iron (for clothes)
+haeata	beam of light
+haere mā raro	to travel on foot
+Haere mai!	Welcome! Come here!
+haere rā	goodbye to people going
+hāereere	to wander
+haerenga	journey (n)
+hāhi	church
+hai	as
+Haina	China
+hainatanga	signature
+hāka	jar
+hākari	feast
+hake	hockey
+hākerekere	crowd
+haki	flag
+Hakihea	December
+hākinakina	sport
+hākirikiri	vague
+hāmama	open
+hāmamamama	yawn
+hāmana	salmon
+hamarara	umbrella
+hāmeme	grumble
+hāmipēka	hamburger
+Hana	Santa Claus
+hanawiti	sandwich
+hāneanea	sofa
+hanga	to build
+hāngai	opposite
+hangaia	built (hanga + passive suffix -ia)
+hāngi	traditional earth oven
+hao	to catch in a net
+hāora	hour
+hāparangi	to shout
+hāpiapia	sellotape
+hapū	subtribe
+hara	to make a mistake
+harakeke	flax
+haramai	to arrive
+hararei	holiday
+Haratua	May
+harawene	jealous
+hari	to feel happy
+haria	to be carried (hari + passive suffix -a)
+harikoa	happy
+harore	mushroom
+haruru	to resound
+hātakēhi	hard case
+hāte	shirt
+hauhake	harvest
+haunga	smelly
+hauora	health
+haurua	half
+hautō	drawer
+hauwhā	quarter
+hāwhe	half (n)
+hē	wrong
+he aha?	what?
+hea	where?
+hea?	where?
+hei	at
+hei aha!	never mind!
+hei aha?	what for?
+hei konei rā	goodbye (said by those leaving)
+hei mahi	exercises
+heke	rafter (n)
+hekenga	descent (heke + nominal suffix -nga)
+hekerangi	parachute
+heketua	toilet (that you sit on when you're in the wharepaku)
+hēki	egg
+hemo	to pass by
+hēneti	cents
+heoi anō	however
+hēpapa	zebra
+hēpara	shepherd
+here	to tie
+Here-turi-kōkā	August
+herea	tied up (here + passive suffix -a)
+heru	comb
+hetiheti	hedgehog
+hī	to catch fish with a line
+hīa	to be fished with a line (pass. of hi)
+hia?	how many?
+hiahia	to want
+hiamo	excited
+hiawai	thirsty
+hika	a term of address for both sexes (eg 'E hika')
+hiki	to carry in the arms
+hikihiki	to nurse (v)
+hīkoi	to walk
+hīmoemoe	grapefruit
+hine	term of address for a girl: E hine!
+Hingapoa	Singapore
+hingareti	singlet
+hipohipo	hippopotamus
+hīrere	to rush
+hiripa	slipper
+hiriwiri	screwdriver
+hīti	sheet
+hōanga	sandpaper
+hoatu	to give (away from speaker)
+hoe	to paddle
+hoe waka	canoeing
+hōhā	annoyed
+hōhonu	deep (adj)
+hōia	soldier
+hōia taputapu tākaro	toy soldiers
+hōiho	horse
+hōiho pīoio	rocking horse
+hoihoi	too noisy
+hoki	to go back
+hokia	returned (pass. of hoki)
+hokinga	return (hoki + nominal suffix -nga)
+hoko	to buy
+hokomaha	supermarket
+hokona	sold (hoko + passive suffix -na)
+homai	give (to the speaker)
+hongi	pressing noses
+Hongongoi	July
+honu	turtle
+hōpane	saucepan
+hope	waist
+hopu	to catch
+hōpua kaukau	swimming pool
+hopukia	caught (pass. of hopu)
+hora	display
+horahia	(pass) be spread out
+hōro	hall
+horoi	to wash
+horoia	washed (pass of horoi)
+horomi	to swallow
+horomia	swallowed (pass. of horomi)
+horowai	waterfall
+hōtiti totetote	salami
+hū	shoe
+hua	product
+huaki	open
+huakina	to open (huaki + passive suffix -na)
+huarahi	street
+Huitanguru	February
+Huitene	Sweden
+Huiterangi	Switzerland
+hukapapa	frost
+hūmārie	humble
+huna	to hide
+Hūrae	July
+huri	to turn
+hurihia	be turned
+hurihuri	to turn round and round
+huripara	wheelbarrow
+huritau	birthday
+huruhuru	fur
+hūtu	suit (clothing)
+hutupōro	rugby ball
+i	object of the sentence
+i te taha	at the side
+ia	he
+iāri	yard
+ihi	power
+iho	downwards
+ina	if
+ināianei	now
+īnanga	whitebait
+inapō	last night
+inarapa	rubber
+ine mahana	thermometer
+ineroa	tape measure
+Ingarangi	England
+inoi	pray
+inu	to drink (v)
+inumia	[the liquid was] drunk (inu + mia
+iPapa	iPad
+ipu para	rubbish bag
+ipu peita	paint pot
+ipui para	rubbish
+ipurangi	internet
+ira	freckle
+iraira	freckle
+irāmutu	niece
+iri	to be hanging
+iriiri	baptise
+iroiro	vermin
+iroriki	germ
+ita	held firm
+Itāria	Italy
+itiiti	tiny
+iwi whānui	the public
+ka	will happen
+ka pai!	good!
+kaha	strong
+kahaki	kidnap
+kahakina	(pass) be hijacked
+kaharoa	large drag net
+kāheru	spade
+kāho	barrel
+kāhore	Negative used for verb sentences
+kāhu	harrier
+kahu kiwi	cloak made from kiwi feathers
+kahu moe	pyjamas
+kahu tangatanga	dressing gown
+kāhui	group
+kāhui ariki	those of the highest rank
+kahukahu	dressing gown
+kahurangi	dark blue
+kahuwae	tights
+kai	eat (v)
+kai inati	overdose
+kai kurī	dog food
+kai paipa	smoke cigarettes
+kai roro	quiz
+kaiahuwhenua	farmer
+kaiaka	merit
+kaiaka-mīhini	mechanic
+kaiako	teacher (kai- + ako)
+kaiamo mēra	postie
+kaiārahi	leader
+kaiauru	vandal
+kaieke hōiho	bareback rider
+kaieke paihikara	trick cyclist
+kaihana	cousin
+kaihanga	creator
+kaihautū	leader
+kaihī	fisherman
+kaihī ika	fisherman
+kaiiwi	strangers
+kaikā	eager
+kaikaha	keen
+kaikamo	eye
+kaikanikani	dancer
+kaikōhuru	murderer
+kaikōrero	speaker
+kaikuti makawe	hairdresser
+kaimanga	vegetarian
+kaimātai whatu	optician
+kaimoana	seafood
+kainga	(pass) be eaten
+kāinga	home
+kaingākau	passion
+kaipakihi	business
+kaipara	athlete
+kaipatu ahi	firefighter
+kaipōkai tūārangi	astronaut
+kaiponu	selfish
+kaipūtaiao	scientist (kai- + pūtaiao)
+kairangi	excellence
+kairapu hara	detective
+kaireperepe	relation by marriage
+kairīpoata	journalist
+kairuku	diver
+kaitā	big
+kaitaka	fine cloak with ornamental border
+kaitākaro	player
+kaitapere	actor
+kaitaraiwa pahi	bus driver
+kaitiaki	caretaker
+kaitiakitanga	guardianship
+kaitiora	pirate
+kaititiro	spectator
+kaitoa!	serves you right!
+kaitohutohu	coach (sports)
+kaituku mahi	employer
+kaituku miraka	milkman
+kaiwawao	referee
+kaka	hair
+kākahu	clothing
+kākano	seed
+kākāriki	green
+kake	to climb
+kakī	neck
+kamo	eye
+kamokamo	twinkle
+kamupūtu	gumboot
+kanga	abuse
+kānga wai	rotten corn
+kāngia	(pass) be lit
+kano	colour
+kāo	no!
+kāore	negative used for verb sentences
+kāore anō	not yet...
+kapa	group
+kāpata	cupboard
+kape	photocopy
+kāpene	captain
+kāpeti	cabbage
+kapi	to be covered or occupied (of space)
+kāpia	glue
+kapo	to grasp
+kaputī	cup of tea
+kara	colour
+karaehe	class (school)
+karaka	orange (colour)
+karakia	prayer
+karanga	to call
+karangahia	called (karanga + -hia
+karani	granny
+karawhiua!	give it heaps!
+kare	stove
+karere	message
+kāreti	carrot
+kāri	playing card
+karia	(pass) be dug
+karo	dodge
+kata	to laugh
+kātahi	then
+katakata	to laugh and laugh
+kāti	stop! (as in: kāti te tangi)
+kato	pluck
+kau	swim
+kaua e	don't
+kauae	chin
+kauaka	Negative word
+kauhoe	to swim
+kauhoetia	swum (pass. of kaohoe)
+kaukau	to bathe
+kaumātua	elder
+kaupapa	topic
+kaupeka	season
+kāuta	cooking shed
+kaute	to count
+kauwhata	graph
+kawa	sour
+kāwana	government
+kāwanatanga	government (kāwana + nominal suffix -tanga)
+kawe	to carry
+kawea	brought (kawe + passive suffix -a)
+kawenga	load
+kāwhe	calf
+kē	already
+kēhua	ghost
+kei	Various uses
+kei hea?	where is?
+kei te pai	it's okay
+kēmu	game
+kerepe	grape
+kererū	native pigeon
+kī	to be full
+kia	may you be
+Kia ita!	Be committed!
+Kia kaha!	Be strong!
+Kia māhaki!	Be pleasant!
+Kia māia!	Be brave!
+Kia manawanui!	Be patient
+Kia mataara!	Be alert!
+Kia mauritau!	Be settled!
+Kia ngākau titikaha!	Be confident!
+Kia ngākaunui!	Be strong hearted!
+Kia ngāwari!	Be easy (lighten up)!
+Kia niwha!	Be resolute!
+kia ora	hello
+Kia pai!	Be nice!
+Kia piki te ora!	Be better!
+Kia pono!	Be truthful!
+Kia tapatahi!	Be fair
+Kia tau!	Be relaxed!
+Kia tika!	Be correct!
+Kia tū pakari!	Be robust!
+Kia ū!	Be resolute
+kīhai	Negative word
+kihi	kiss (v)
+kiki	kick
+kikorangi	blue sky
+kimi	to look for
+kimihia	sought
+kina	sea urchin
+kiore	rat
+Kirihimete	Christmas
+Kirikiriroa	Hamilton
+kirīmi	cream
+kiromita	kilometre
+kite	to see
+kitea	seen (kite + passive suffix -a)
+kitenga	observation
+kiwi	native bird of Aotearoa
+kiwikiwi	grey
+ko	is
+koata	quarter
+kōhanga	nest
+kōhanga reo	Māori language preschool
+kōhatu	stone
+kohete	scold
+kohi	to collect
+kohia	(pass) be collected
+kohikohi	to collect
+Kohitātea	January
+kōhumuhumu	whisper
+kōhuru	to murder
+koia	it is
+koinei	this is
+kōiwi	bone
+kōkā	mother
+kōkiri	to charge
+koko	scoop
+komuri	backwards
+konā	there
+koneke	rollerblades
+kongakonga	small piece
+konganuku	metal
+kongene	withered
+kōngenge	exhausted
+kōngutu	mouth of river
+konihi	stealthy
+konohete	concert
+kōnohi	grieve
+kōnui	thumb
+kopa	disappear
+kōpae	disc
+kōpaepae pūoru	compact disc (CD)
+kōpani	to shut
+kōpapa	surfboard
+kōpara	bellbird
+kopareti	skates
+kope	nappy
+kōpere	a dart
+kōpiko	meander
+kōpikopiko	wandering
+kōporo	van
+kōpū	belly
+kōpua	deep (water)
+kōpure	blotchy
+kora	fragment
+koraha	open country
+kōrakorako	fairies
+kōrangaranga	ache
+kōrapa	cage
+kōrapu	flash
+kore	zero
+kore mahi	unemployed
+kōrea	wheelchair
+kōrengarenga	crushed
+kōrere	tap
+kōrero	to talk
+kōrero pūrākau	folk-tales
+kōrerorero	to discuss (v)
+kōrerotia	spoken (kōrero + passive suffix -tia)
+koretake	useless
+kōreti	kayak
+kōriha	gorilla
+korikori	move
+korikori tinana	exercise
+korimako	bellbird
+koro	term of address for an elderly man
+koroahu	steam
+koroheke	old man
+korokoro	loose
+koropungapunga	porous
+koropupū	bubble up
+kororā	little blue penguin
+kōrori	stir
+koroua	elderly man
+korowai	cloak
+korōwha	golf
+korowhio	whistle
+koru	coiled
+kōrua	you
+kōruarua	hole
+korukoru	wrinkle
+kota	cockle-shell
+kōtare	kingfisher
+kotere	swelling
+koti	coat
+kotikara	finger
+kotikoti	cut to pieces
+kotinga	division
+kōtingotingo	speckled
+Kotirangi	Scotland
+kōtiro	girl
+kotiti	be displaced
+kōtuku	white heron
+kounga	quality
+kōura	crayfish
+kōwhai	yellow
+kōwhiri	choose
+kua	then
+kūaha	door
+kūare	ignorant
+kuhu	to enter
+kuhua	(pass) be entered
+kui	Term of address for an elderly woman (eg 'E kui'.)
+kuia	elderly woman
+kukume	to pull
+kūmara	kūmara
+kumu	buttocks
+kurī	dog
+kūtai	mussel
+kutarere	scooter
+mā	clean
+Maehe	March
+māhanga	twin(s)
+mahara	thought
+māharahara	worry (n)
+māhau	for you (variant of māu)
+mahere	map
+mahi	to do
+mahi kāinga	home work
+mahia	worked (mahi + passive suffix -a)
+māhita	teacher
+mahue	to be left behind (trans)
+māhunga	head
+Mahuru	September
+mai	towards the speaker in space or in orientation
+mai i te	passed
+māia	capable
+maika	banana (also panana)
+mairō	milo
+maka	to throw or pass
+makaia	(pass) be thrown
+makawe	hair of the head (human
+makere	to get down from
+mako	shark
+māku	for me
+māmā	mother (n)
+mamae	hurt
+māna	for him
+manaaki	to look after
+manaakitanga	hospitality
+manawa	heart
+Mane	Monday
+māngere	lazy
+mania	slippery
+mānukanuka	worry
+Māori	indigenous people of Aotearoa/New Zealand
+māra	garden
+marae	traditional Māori gathering place
+mārama	clear
+maramara	crumbs
+maramataka	calendar
+maranga	to arise
+marangai	heavy rain
+mārau	fork
+maremare	to cough
+mārena	to marry
+mārika	indeed
+maringi	to spill (trans)
+māripi	knife
+mārō	hard (of texture
+matā	flint
+mātaki	to watch
+mātakitaki	to watch
+mataku	scared
+mātāmua	eldest
+mātao	cold
+matapiko	mean
+mātau	to know
+mātauranga	education
+matawā	clock
+mate	to be sick
+matekai	hungry
+māti	match (to light a fire)
+matikuku	claw
+mātou	we
+matū	fat
+mātua	parents
+matua kēkē	uncle
+matua whāngai	foster-parent
+māu	for you
+mau	to wear clothes
+māua	we
+mauī	left (direction)
+māuiui	sick
+maumahara	to remember
+mauri	life spirit
+mauria	to be carried (mau + passive suffix -ria)
+māwhero	pink
+me	and
+mea	a thing (n)
+mehemea	if (presuming not
+meke	fist
+mekepaoro	volleyball
+mema	member
+Mema Pāremata	MP
+memeha	weak
+mēnā	if
+mene	assemble
+menemene	to smile
+meneti	minute
+mēra	mail
+mere	bush
+merengi	melon
+mētara	metal
+mīere	honey
+mīharo	to wonder at
+mihi	to greet
+mihimihi	greetings and introductions
+mihinare	missionary
+mīhini	machine
+mīhini hoko	vending machine
+mīhini keri	digger
+mimiti	dried up
+minamina	desire
+mingomingo kata	to smile
+miraka	milk
+miraka tepe	yoghurt
+miri	rub
+mirihau	windsurfing
+mirimiri	massage
+mirimita	millimetre
+miriona	million
+mirionea	millionaire
+miririta	millilitre
+mirumiru	bubbles
+mītara	measles
+mīti	meat
+mīti hipi	mutton
+mīti kau	beef
+mitimiti	to lick
+moemoeā	to dream (v)
+moepapa	nightmare
+moeroa	sleepyhead
+mōhio	to know
+mōhiotanga	knowledge (mōhio + nominal suffix -tanga)
+mōhiotia	known (mōhio + passive suffix -tia)
+mōhiti	glasses
+moho	stupid
+mohoa	to the present time
+mōhū	selfish
+mōkai	pet
+mokamokai	dried human head
+moke	solitary
+mōkī	tie in a bundle
+moko	lizard
+moko ngārara	crocodile
+mokopuna	grandchild
+mokotuauri	dinosaur
+mokoweri	dinosaur
+mōku	for me
+momi	suck
+momoe	keeping the eyes shut
+mōmona	fat
+momori	bare
+mōna	for him
+monamona	knuckle
+mongamonga	crushed
+moni whiwhi	income
+more	bare
+mōrearea	dangerous
+mōrehu	survivor
+moremore	bald
+mōrena	good morning
+morihana	goldfish
+mōrunga	lifted up
+mōteatea	lament
+mōtēra	motel
+moto	strike with fist
+motokā	car
+motokia	(pass) be struck with fist
+motū	steak
+motuhia	(pass) be cut
+motuhuka	iceberg
+motukā	car
+motupaika	motorbike
+moumou	waste (n): to be wasteful (v)
+mōwhiti	glasses
+mua	front
+muku	wipe
+mura	blaze
+mutu	be ended
+mutunga	end (mutu + noun ending -nga)
+mutunga wiki	weekend
+nā	Various meanings
+nāianei	now
+naihi	knife
+nāku	mine
+nama	number
+nāna	by him
+nanakia	rascal clever
+nau mai!	welcome!
+nāwai	presently
+nē	tag question
+nei	here
+neke	to move
+nekeneke	to move gradually
+ngā	the
+ngahau	party
+ngākau	heart
+ngaki	avenge
+ngakina	till soil
+ngārara	reptile
+ngaro	to be lost
+ngaruiti	microwave
+ngata	snail (n)
+ngātahi	together
+Ngāti	tribal name prefix (as in: Ngāti Porou
+ngau	to bite
+ngāueue	to shake
+ngāwari	kind
+ngeru	cat
+ngunguru	to growl
+ngutu	lip
+nō	from
+nō reira	so
+noa	free from tapu
+Noema	November
+noho	to live
+noho taratahi	self-isolation
+nohoanga	home
+nohoia	(pass) be sat upon
+noke	worm
+nōku	mine
+Nōwei	Norway
+nuinga	majority (nui + nominal suffix -nga)
+nuku	to move
+nunui	big (plural form)
+oho	to wake up
+ohorere	to start suddenly
+oka	chef's knife
+Oketopa	October
+ōku	mine
+oma	to run
+ōna	his
+one	beach
+oneone	earth
+onepū	sand
+ope	group travelling together
+ora	alive
+oranga	health
+ōrite	to be the same as
+otaota	vegetation
+oti	to be completed
+otirā	but
+ōu	yours
+pā	a fortified settlement (n)
+pae	ridge
+paenga	shelf
+Paengawhāwhā	April
+paepae	speakers
+paetae	achieved
+pāhau	beard
+pāhi	purse
+pahū	drum (n)
+pai	good (adj)
+pai ake	better
+paihikara	bike
+painga	benefit
+paipa	pipe
+pakanga	to fight
+pakapaka	burnt
+pakaru	broken (applied to a thing not a body part) (trans)
+pākaurua	stingray
+pake	obstinate
+Pākehā	New Zealander of European descent
+pākehokeho	slippery
+pakeke	hard
+paketai	driftwood
+pākete	bucket
+pākī	hamburger
+pakihi	business
+pakihiwi	shoulder
+pakipaki	to applaud
+pakituri	hitchhiker
+pakiwaitara	story
+pakiwaituhi	cartoon
+pakō	blistered
+paku	dried
+pāmamao	distant
+pāmu	farm
+panā	(pass) be driven away
+panana	banana
+panatahi	odd number
+pane kuini	postage stamp
+paneke	goal (in sport)
+panekeke	pancake
+panekoti	skirt
+pangā	(pass) be thrown
+pānga tuhituhi	stationery
+pāngarau	maths
+pani	orphan (n)
+pani ngutu	lipstick
+paniaku	toothpaste
+panikakā	mustard
+Pāniora	Spain
+pānui	to read
+pānuitanga	announcement
+pānuitia	read
+panuku	sledge
+pao	break
+paoa	smoke (from a fire)
+paoka	fork
+paoro	ball
+papā	burst
+papa angaanga	skull
+papa kāinga	ancestral settlement
+papa kararehe	zoo
+papa pānui	noticeboard
+papa tuhituhi	blackboard
+pāpāho	broadcast
+pāpāho maha	multimedia
+papahokohoko	mall
+papai	good (plural)
+pāpaka	crab
+papaki	smack
+pāpaku	shallow
+papakupu	dictionary
+papanga	layer
+pāpango	dark in colour
+pāpapa	husk
+pāparakāuta	pub
+papareti	skateboard
+pāpāringa	cheek
+papāroa	scarce
+papatahi	flat
+papatākaro	playing field
+pāpātanga	rate
+papataunga	runway
+papatuhituhi	whiteboard
+papi	puppy
+pāpura	purple
+para	blood relation
+pārae	a park
+paraihe niho	toothbrush
+paraikete	blanket
+Paraire	Friday
+parakuihi	breakfast
+paramanawa	refreshments
+parāoa	bread
+parāoa rimurapa	pasta
+paraone	brown
+pare	to ward off
+parehe	pizza
+pārekareka	fun
+paru	dirt
+paruparu	dirt
+pātai	question
+pātaia	(pass) be asked
+pātaka	elevated storehouse
+pātara	bottle
+pātene	button
+pātiki	flounder (fish)
+pātītī	grass
+pātōtō	knock
+patu	to strike
+patua	hit/killed (patu + passive suffix -a)
+pātuhi	text message
+pau	to be consumed
+pāua	abalone
+paura	powder
+pea	pair
+pēhea	how?
+pēhea?	how? in what way?
+peita	paint
+pēkana	bacon
+pēke	bag
+pēke parapara	rubbish bag
+pēnā	like that
+pene rākau	pencil
+pēnei	like this
+pēniho	toothpaste
+pēpe	baby
+pepeha	proclamation of origin
+pēpi	baby
+Pepuere	February
+pērā	like that
+pere	bell
+pēwhea	how? (variant of pēhea)
+pī	bee
+pia	beer
+pia ngaungau	chewing gum
+piana	piano
+pihikete	biscuit
+pīkau	backpack
+piki	to increase
+pikiniki	picnic
+pīnati pata	peanut butter
+pīngao	seaside plant used in weaving
+pīpī	chick
+Pipiri	June
+pīrangi	to want
+pīrangitia	(pass) be wanted
+piri	to stick to
+pirihimana	police officer
+pirimia	prime minister
+piro	stinking
+pītiti	peach
+pito	belly button
+piupiu	flax skirt (worn as part of traditional costume
+pīwaiwaka	fantail
+pō	night
+pō mārie	good night
+pōhatu	stone
+pōhēhē	to think mistakenly
+pōhiri	welcome
+poho	chest
+poi	poi
+poka	hole (n)
+pona	cord
+poraka	jersey
+pōrangi	crazy
+pōro	ball (also 'paoro')
+porowhita	circle
+pōtae	hat
+pōti	vote
+pōtiki	child
+pōturi	deaf
+pou	pole
+pouaka whakaata	television
+pounamu	greenstone
+poupoutanga o te rā	midday
+pōuri	sad
+Poutu-te-rangi	March
+pōwhiri	welcome
+pū	to blow gently
+pūhā	green spinach-like vegetable
+puhi	to blow (wind)
+pūhia	(pass) be blown
+pūhoi	slow
+pūhungahunga	rough
+pūhuruhuru	hairy
+puia	hot spring
+pūkaea	large wooden wind instrument
+pūkaha	engine
+pūkai	to lie in a heap
+pūkana	stare with bulging eyes (fierce facial expressions used in actions songs and haka)
+pukapuka pakiwaituhi	comic book
+pukarangi	chromebook
+pūkei	to lie in a heap
+pūkēkē	arm
+pūkenga	skills
+pukepuke	hilly
+pūkohu	mist
+pukumahi	hard-working
+pukupā	barren
+pukuriri	fury
+pukutākaro	full of fun
+pūmanawa rorohiko	software
+pūmau	fixed
+puna	pool
+puna kaukau	swimming pool
+pune	spoon
+punenga kupu	word processor
+pūngao kōmaru	solar power
+pungarehu	ashes
+pūngāwerewere	spider
+pūngene	sleeping bag
+punua	young animal
+punua kurī	puppy
+punua poti	kitten
+puoro	to sing
+pūoru	music
+pupuhi	to shoot
+pupuri	to hold onto
+pupuritia	be held
+pura	blind
+pūrākau	traditional story
+pūrama	light bulb
+pūrehu	moth
+purei	to play
+pūrere	appliance
+pūrere horoi	washing machine
+pūrere horoi maitai	dishwasher
+pūrere whakaahua	photocopier
+pūreretā	printer
+purini	pudding
+puritanga	a handle
+pūrongo	a report
+purotu	handsome
+pūru	bull
+purūma	broom
+pūruru	shady (of trees)
+purutaringa	earphone
+puta	to appear
+pūtaiao	science
+pūtake	root
+putanga	opening
+pūtātara	shell trumpet
+pūtea	budget
+pūtiki	knot
+putiputi	flower
+pūtohe	saxophone
+pūtōrino	flute-like instrument
+putu	to heap up
+pūwhā	green spinach-like vegetable
+rā whānau	birthday
+Rāapa	Wednesday
+raha	open
+rahi	large
+Rāhina	Monday
+Rāhoroi	Saturday
+rāhui	ban
+rahurahu	to handle
+raihana	licence
+raihana taraiwa	driver's licence
+raihi	rice
+rāina	line
+raka	yonder
+rākau	tree
+rakiraki	duck
+raku	scrape
+rakuraku	guitar
+rama	light
+rama waka	traffic lights
+Rāmere	Friday
+rānei	or
+rangatahi	youth
+rangatira	chief
+ranginamu	handsome
+rango	fly
+rangona	to be heard (passive form of rongo)
+rapa	to look for (v)
+Rāpare	Thursday
+rāpeti	rabbit
+rapu	to look for
+rārangi	line
+rare	lolly
+raro	under
+raru	trouble
+raruraru	trouble
+rata	friendly
+Rātapu	Sunday
+rātau	them
+rātou	they
+rātou ko	and also (joining 3 or more names eg. Bob
+Rātū	Tuesday
+rau	to put into
+rāua	them
+rāua ko	and joining 2 names eg. Jim and Fred
+raupatu	conquest
+rautaki	strategy
+rawa	Various meanings
+rawe	lovely
+rāwhiti	east
+rēhia	pleasure
+reira	there (previously mentioned)
+rekareka	pleasant
+rere	to escape
+rere ā-hapori	community transmission
+rerekē	different
+rerenga	sentence
+reri	ready
+reti	to skate
+retireti	skates
+rīhi	dish
+rīngi	to ring/phone
+rīpene	ribbon
+riro	gone away
+rita	litre
+rite	to be ready
+rīwai	potato
+roanga	length of time (roa + nominal suffix -nga)
+rohe	district
+rokiroki	used up
+rongo	to hear
+rongoā	medicine
+rongona	heard (pass. of rongo)
+rōpere	strawberry
+rōpū	group
+rori	road
+rorohiko	computer
+roto	in
+roumamao	remote control (for TV)
+ruku	to dive
+rukuhia	(pass) be sunk
+rūma	room
+rumaki	immerse
+runga	on
+rūri	ruler
+rutu	bump
+tā	print
+tae	to reach
+taea	to be able
+tāepa	fence
+taha	to pass by
+tāhae	to steal
+tahataha	steep bank
+tahatika	coastline
+tāhau	your
+tahi	one
+tahitahi	to sweep
+tāhuhu	subject of a sentence
+tahuri	to capsize
+taiapa	fence
+taihoa	wait
+Taihoa!	Hang on!
+tāima	time
+taipa	be silent
+taitai niho	toothbrush
+Tāite	Thursday
+taitoa	brave
+taitonga	south
+taiwhanga ako	classroom
+taiwhanga pūtaiao	laboratory
+taka	to come around in a cycle
+takahi	trample
+tākai	bind
+takaina	(pass) be heaped up
+takakau	at leisure
+takakino	act hurriedly
+takapau	floor-mat
+takapū	belly
+takarangi	faint
+tākaro	to play
+tākaro ataata	video game
+tākaro rorohiko	computer game
+tākarotia	played (pass. of tākaro)
+takatū	prepare
+tāke moni whiwhi	take beginning
+takere	bottom (of sea
+taketake	base
+taki	to lead
+tākiri	draw away quickly
+tākirirangi	space rocket
+takirua	in pairs
+takitahi	individually
+takitaki	appear
+takitaro	moment
+takitini	in droves
+takiwā	district
+takoki	to sprain
+takoto	to lie down
+takotoranga	position
+takotoria	(pass) be laid down
+taku	my (singular)
+takune	pretend
+takunga	an excuse
+tākupu	gannet
+takurua	winter
+tākuta	doctor
+takutai	sea coast
+takutaku	recite
+tama	son
+tamāhine	daughter
+tamaiti whāngai	adopted child
+Tāmaki-makau-rau	Auckland
+tamariki	children (plural form of tamaiti)
+tāmaru	overcast
+tame heihei	rooster
+tāmiro	twist
+tāmirotia	(pass) be twisted
+tamumu	hum
+tamumutia	(pass) be hummed
+tāmure	snapper
+tāmutumutu	intermittent
+tana	his/her (neutral category)
+tāne	man
+tāngata	people (plural of tangata)
+tangata whenua	people of the land
+tangatanga	comfortable
+tangi	to cry
+tangihia	be mourned (pass of tangi)
+tangiweto	cry
+tango	to take hold of
+tango mai	receive
+tangohanga	betrothal
+tangohia	pick up! (command)
+tangotango	to handle
+tāniko	ornamental border of cloak or mat
+taniwha	monster
+tanoni	be sprained
+tanumi	disappear behind
+tao	to cook
+taokete	brother-in-law (of a male)
+tāone	town
+tāone nui	city
+taonga	property
+tapa	to name
+tapa tāone	suburb
+tāpae	to present
+tāpaepae	jigsaw puzzle
+tapahi	to cut up
+tapahia	cut! to be cut (tapahi + passive suffix -a)
+tapahinga makawe	haircut
+tapaia	(pass) be named
+tapu	sacred
+taputapu	gear
+taputapu tākaro	sports equipment
+tara	point
+taraiwa	to drive
+taraiwatia	driven (pass. of taraiwa)
+taraka	truck
+tarakihana	tractor
+tarau	trousers
+tarau poto	shorts
+tārere	to swing
+tari	government department
+tāria	(pass) be waited for
+taro	presently
+tāroaroa	tall
+taru	grass
+tata	near
+tātahi	seaside
+tātai	to arrange
+tatari	to wait
+tatau	to count
+tāu	your (singular + one item)
+tau	to land
+taua	that
+tauhou	strange
+tauira	student
+taumaha	difficult of spirit or health
+taumata	grade
+taunga	to be accustomed to
+taunga ika	fishing ground
+tautoko	to support
+tāwāhi	overseas
+tāwara	flavour
+tawhiti	distant
+tea	white
+tēhea?	which? (singular)
+teihana	TV channel
+teihana tereina	train station
+teina	younger sibling
+teitei	tall
+teka	lying (v)
+tēnā	that
+tēnā koe	hello to one person
+tēnā koe!	hello! (to one person)
+tēnā kōrua!	hello! (to two people)
+tēnā koutou!	hello! (to three or more people)
+tēnei	this (by speaker)
+tenetene	vagina
+tēpu	table
+tērā	that over there
+tere	to flow
+terēina	train
+tētahi	a
+tētehi	a
+teti pea	teddy bear
+tī	cabbage tree
+tiakarete	chocolate
+tiakarete wera	hot chocolate
+tiaki	to look after
+Tiamani	Germany
+tīhāte	t-shirt
+Tīhema	December
+tihi	topknot
+tika	to be right
+tikanga	reason
+tiki	to fetch
+tīkina	be fetched (tiki + passive suffix -na (note the first i is lengthened)
+tīkiti	ticket
+tīma	team
+tīmata	to begin
+tīmatanga	beginning (tīmata + nominal suffix -nga)
+timu	ebb tide
+tinei	turn off
+tīni	to change
+tinihanga	to trick
+tino pai!	very good!
+tino rangatiratanga	sovereignty
+tioka	chalk
+tipua	a person of high status
+tīpuna	grandparents (plural form of tipuna)
+tipuna	grandparent
+tiriti	street
+tiro	to look
+tītī	muttonbird
+titiro	to look at
+tō	your (singular)
+tō māua	our (singular
+tō rātou	their (singular	three or more people)
+tō rāua	their (singular
+tō tātou	our
+tō tāua	our
+tō-ā-papa	gravity (force of)
+toa	shop
+toa rongoā	chemist
+toanga	bravery
+toe	to remain
+toenga	leftovers
+toetoe	grass
+tohatohaina	(pass) be distributed
+tōhau	dew
+tohe	to be persistent
+tohea	(pass) be argued about
+tohi	divide
+tōhihi	puddle
+tohitū	direct
+tohorā	whale
+tohu	a qualification
+tōhua	yolk
+tohunga tā moko	skilled tattoo artist
+tohunga whakairo	master carver
+tohungia	(pass) be marked
+tohutaka	recipe
+tohutoa	medal
+tohutohu	to instruct
+tōia	(pass) be dragged
+toitoi	jogging
+toitū	entire
+toke hore	tall person
+tōkena	stockings
+tokerau	autumn
+toki	adze
+tokohia?	how many [people]?
+tokomaha	many (of people)
+tokomauri	hiccup
+tokotoko	walking stick (without a handle)
+tokotoru	three (people)
+tokowhia?	how many people?
+tōku	my (singular)
+tōmairangi	dew
+tōmato	tomato
+tomo	to enter
+tomokia	(pass) be entered
+tōmua	early
+tōmuri	to be late
+tōna	his
+tōnapi	turnip
+tōneke	trolley
+tōnga o te rā	sunset
+tōnihi	move stealthily
+tono	to apply for
+tonoa	sent (tono + passive suffix -a)
+toparere	helicopter
+tope	cut down
+topea	(pass) be cut down
+tōpito	end
+tōpū	couple
+tōrangapū	politics
+tōraro	negative number
+toremi	disappear
+tori	cut (v)
+toro	to visit
+toroa	albatross
+torohē	examine
+tōroherohe	wag (as in a dog wagging its tail)
+torohīhihi	short hair
+torohū	secret
+toroiho	underwear
+torōna	throne
+toronga	distant relatives
+torotika	in a straight line
+torotoro	hold out hands
+tōtā	sweat
+toti	limp (walk with difficulty)
+tōtika	straight
+tōtiti	sausage
+tōtiti wera	hot dog
+totō	ooze
+tōu	your
+tū	stand
+tū tirara	social distancing
+tua	beyond
+tuāhine	female cousins or sisters of a male
+tuākana	older brothers of a male
+tuarā	back [body]
+tuatete	hedgehog
+tuawhā	fourth
+tuhi	to write
+tuhia	written
+tuhinga	writing
+tuhinga kūkara	google docs
+tuhituhi	to write
+tuhituhia	(pass) be drawn
+tuitui	fasten up
+tuki	to hit
+tukia	be hit
+tuku	to put off
+tukua	let go! to be released (tuku + passive suffix -a)
+tukuata	projector
+tukuoro	speaker (eg bluetooth speaker)
+tukutuku	spider web
+tūmahi	actions
+tūmanako	to hope for
+tumeke	to take fright
+tuna	eel
+tūnga pahi	bus stop
+tūnga waka	carpark
+tungāne	brother
+tunu	to cook
+tunua	(pass) be roasted
+tūpato	to be careful
+tupu	to grow
+tūpuhi	skinny
+tūpuna	grandparents (plural form of tupuna
+tūranga	stopping place (as in: tūranga pahi bus stop
+tūrangawaewae	place to stand
+tūrehu	fairy
+Tūrei	Tuesday
+tūrēiti	late
+tūria	be established (pass. of tū)
+turituri	be quiet! noisy
+tūru	chair
+tūtae	excrement
+tūtaki	to meet
+tūtakina	(pass) be met
+tūtuki	to crash
+tūturu	fixed
+ua	to rain
+uaki	to push open
+uaua	difficult (adj)
+uhi	to cover
+ui	to ask
+uku	to wash
+umere	to shout (in wonder
+umu	earth oven
+upoko mārō	stubborn
+ure	penis
+uri	descendant
+Uropi	Europe
+uta	to load
+utaina	(pass) be loaded
+utu	cost
+utua	be revenged
+uwha	female animal
+uwhiuwhi	shower (rain)
+wā	time
+wae	foot
+waea	wire
+waea pūkoro	cellphone
+waero	hair of dog's tail
+waha	load
+wāhanga	chapter
+wāhi	part
+wahia	firewood
+wāhine	women
+waho	out
+waiata	to sing (v)
+waiatatia	sung (pass. of waiata)
+waiho	to remain
+waimaria	lucky
+waimarie	lucky
+wāina	wine
+waireka	sweet drink
+waitohu	credit
+waka	vehicle (land
+waka moana	canoe
+wareware	to forget
+wātea	to be clear
+wehe	to depart
+wehi	terrible (adj)
+wera	to burn
+whā	four
+whai	to follow
+whāia	chased (pass of whai	note lengthening of first vowel)
+whaikōrero	oratory
+whakaae	to agree
+whakaahua	to take photos
+whakaari	play
+whakaaro	to think
+whakahaere	to run something
+whakahau	to encourage
+whakaheke	to decrease
+whakahīhī	arrogant
+whakahoki	to return something
+whakahokia	returned (whakahoki + passive suffix -a)
+whakairo	to carve
+whakakaha	to strengthen
+whakamā	to be embarrassed
+whakamahana	heater
+whakamahi	to put someone to work
+whakamahia	used (pass of whakamahi)
+whakamārama	to explain
+whakamātautau	examination
+whakamau	to fix
+whakamaua	be fixed
+whakamua	frontward
+whakamuri	towards the back
+whakangā	to rest
+whakangahau	to entertain
+whakanui	to enlarge
+whakaoho	to wake up
+whakaora	to rescue
+whakaoti	complete
+whakapae	lying crosswise
+whakapai	to improve
+whakapaipai	to decorate
+whakapakari	to strengthen
+whakapākehā	translate into English
+whakapehapeha	to show off
+whakapiri	to cling to
+whakapono	to believe
+whakaputa	to make something come out
+whakararo	downwards
+whakarere	abandon
+whakarite	to compare
+whakaritea	arranged (pass of whakarite)
+whakarongo	to listen
+whakarongona	listened to (pass. of whakarongo)
+whakatā	to rest (v)
+whakatakoto	to lay something down
+whakatata	to come closer to
+whakatau	to decide
+whakatau utu	estimate of cost
+whakatauākī	proverb
+whakataukī	proverb
+whakataunga	an iwi referendum
+whakatautau	moan
+whakateka	disbelieve
+whakatenetene	annoy
+whakatere	buoy up
+whakatete	gnash the teeth
+whakatika	to straighten
+whakatikatikanga rori	roadworks
+whakatipu	to raise
+whakatipuranga	generation
+whakatō	to plant
+whakatohetohe	unwilling
+whakatoro	push forward
+Whakatū	Nelson
+whakatū	to stand something up
+whakatūpato	to warn
+whakatūria	erected (whakatū + passive suffix -ria)
+whakatutuki	carry to completion
+whakatuturi	to be obstinate
+whakatuwhera	to open
+whakaū	establish
+whakauaua	strenuous
+whakaupa	delay
+whakauru	to enter
+whakaute	care for
+whakautu	to reply
+whakautua	(pass) be replied to
+whakawā	accuse
+whakawaha	put load on back
+whakawai	amuse
+whakawareware	deceive
+whakawātea	make way for
+whakawāwā	quarrel
+whakawehi	protection
+whakaweti	threaten
+whakawhānau	to give birth
+whakawhetai	to give thanks
+whakawhiti	to cross
+whakawhiti kōrero	discuss
+whakawhiti whakaaro	discuss
+whakawhitiwhitinga kōrero	exchange of ideas
+whakawhiu	afflict
+whakawhiwhi	give
+whakawiri	be anxious
+whakawiriwiri	cruel
+whāki	to reveal
+whana	to kick
+whanake	cabbage tree
+whanaketanga	youth (the time of being young)
+whānako	steal
+whānāriki	sulphur
+whānau	family
+whānau pani	close family of someone who has died
+whanaungatanga	relationship
+whanga	to wait (v)
+whāngai	to feed
+whāngaia	(pass) be fed
+whano	behave
+whanonga	behaviour
+whānui	broad
+whaowhao	to carve
+whara	to be injured
+whārangi	page (n)
+wharau	temporary shed
+whare haumanu	clinic
+whare herehere	prison
+whare horoi	ablution block
+whare kai	dining hall
+whare kairangi	palace
+whare karakia	church
+whare kawhe	cafe
+whare kurī	kennel
+whare motokā	garage
+whare pī	beehive
+whare pikitia	movie theatre
+whare pītakataka	gymnasium
+whare whakairo	carved house
+wharekai	restaurant
+wharekura	Māori-medium secondary school
+wharenui	meeting house
+wharepaku	toilet
+whāriki	mat
+whati	broken
+whatu	to weave
+whātui	to fold clothes
+whāwhā	to fiddle with
+whāwhai	hurry
+whenua	land
+whetū	star
+wheua	bone (usually of an animal)
+whira	violin
+Whiringa-ā-nuku	October
+Whiringa-ā-rangi	November
+whiti	to cross
+whitia	(pass) be crossed over
+whiu	to be satisfied
+whiwhi	to be in possession of
+whutupaoro	rugby
+ā	and
+aa	aa
+aana	I am
+ÀE	TOE
+ÆKei	ÆKei
+ÆThe	The
+āhea	when
+ahead	ahead
+āhei	possible
+āheitanga	ability
+aho	me
+ahokore	wireless
+āhua	nature
+āhuahira	special
+āhuatanga	feature
+ĀhuatangaHE	FeaturesHE
+āhuatuhi	font
+Ȃhuri	Ȃhuri
+ahutoru	ahutor
+Ahuwhānui	General
+ªka	ªka
+akaora	save
+AKei	AKei
+ĀKei	Yes
+akene	akene
+Ākene	Maybe
+akī	aki
+āki	urge
+akiputa	exit
+ako	I
+Āko	Study
+aku	I
+akua	god
+âKua	"Kua"
+ÄKua	Done
+Akuputuhi	August
+ämatapae	forecast
+anaBWhakahakoritia	anaBWakahakoritia
+angahiko	not built
+anoa	plead
+anōtia	again
+answers	answers
+anunoatia	promised
+ao	to the
+aowhānui	global
+apatoko	accessory
+apcompat	apcompat
+Āpiti	Attached
+āpitihanga	attachment
+āporoiti	apple
+appcompat	appcompat
+AppData	AppData
+appearance	appearance
+appJmariko	appJmariko
+Apple	Apple
+applets	applets
+Applicable	Applicable
+application	application
+applications	applications
+apply	apply
+applying	applying
+apps	apps
+aps	aps
+āpure	field
+ara	We buy
+arā	that is
+ārai	prevent
+Āraia	Prevention
+aratau	mode
+arawhiti	start
+arawhitia	initialize
+archive	archive
+archived	archived
+Archives	Archives
+are	are
+area	area
+ari	working
+ariari	theory
+arikore	work
+ario	silver
+aroātanga	attention
+Arokē	Aroke
+arokite	preview
+Arokitea	Preview
+arokitenga	preview
+Arotake	Review
+Arotakea	Review
+arotau	optimize
+arotaupū	index
+Arotautia	Review
+aroturuki	monitor
+arounds	arounds
+arowhānui	overview
+arp	arp
+arrange	arrange
+arranging	arranging
+arrow	arrow
+arrows	arrows
+as	as
+ªScan	ªScan
+asks	asks
+asleep	asleep
+asm	asm
+assembly	assembly
+assemblyIdentity	assemblyIdentity
+assistance	assistance
+associate	associate
+associated	associated
+associates	associates
+association	association
+associations	associations
+at	at
+ata	minutes
+āta	slowly
+ataata	video
+atahanga	image
+atahono	carefully
+Ataku	Attack
+atamai	smart
+atanga	from the
+atatohu	pointer
+AtatohuÎKāore	IndicationÎNo
+ATē	ATee
+atekōkiri	driver
+attempting	attempting
+attributes	attributes
+atuo	I act
+ATuwhatia	ATuwhatia
+au	At
+āu	yours
+auautanga	frequency
+audible	audible
+audio	audio
+auheke	amazing
+aukatia	banned
+Aukatinga	August
+aunihi	ounce
+aunoa	without
+aunoahia	automated
+aunoatia	automatically
+aunui	broadband
+Authentication	Authentication
+auto	auto
+autocomplete	autocomplete
+autocorrect	autocorrect
+autofill	autofill
+autofinish	autofinish
+autohide	autohide
+automated	automated
+automatic	automatic
+automatically	automatically
+automaticupdates	automaticupdates
+autoplay	autoplay
+autorun	autorun
+autoshift	autoshift
+autoshow	auto show
+autostart	autostart
+autoupdate	autoupdate
+autowake	autowake
+auxiliary	auxiliary
+available	available
+awaken	awaken
+ąwhakakore	cancel
+Åwhati	Åwhati
+awhe	range
+Āwhi	Hug
+āwhina	help
+āwhīwhiwhi	general
+AYou	AYou
+b	b
+back	back
+background	background
+backing	backing
+backuo	backuo
+Backup	Backup
+backups	backups
+bad	bad
+badge	badge
+balance	balance
+balanced	balanced
+ball	ball
+balloon	balloon
+banned	banned
+bao	bag
+bar	bar
+bars	bars
+base	base
+bat	one
+batteries	batteries
+battery	battery
+bCreates	bCreates
+BD	BD
+be	be
+beam	beam
+because	because
+been	been
+beep	beep
+beeps	beeps
+before	before
+begin	begin
+behavior	behavior
+being	being
+belong	belong
+below	below
+best	best
+better	better
+between	between
+Bhuapae	Bhupae
+big	big
+bigger	bigger
+bin	bin
+biometric	biometric
+bios	bios
+bit	bit
+bitlocker	bitlocker
+bkāore	no
+bkoki	bkoki
+blank	blank
+blanks	blanks
+blindness	blindness
+blinking	blinking
+blinkrate	blink rate
+block	block
+blocked	blocked
+blocker	blocker
+blu	blu
+blue	blue
+bluescreen	bluescreen
+bluetooth	bluetooth
+blurred	blurred
+blurry	blurry
+blutooth	blutooth
+bmp	bmp
+Bngā	Banga
+board	board
+boot	boot
+bord	edge
+bororongo	news
+both	both
+box	box
+brand	brand
+briefcase	briefcase
+BriefcasetYou	BriefcasetYou
+brightness	brightness
+bring	bring
+british	british
+broadband	broadband
+broadbandMngā	broadbandMngā
+broken	broken
+brought	brought
+browse	browse
+browser	browser
+browsers	browsers
+browsing	browsing
+bubble	bubble
+buffer	buffer
+bugfixes	bug fixes
+bugs	bugs
+build	build
+built	built
+builtin	builtin
+burn	burn
+burned	burned
+burner	burner
+burning	burning
+bus	bus
+bUse	buse
+business	business
+but	but
+butons	buttons
+button	button
+buttons	buttons
+by	by
+bytes	bytes
+Ɓngā	People
+c	c
+cable	cable
+cache	cache
+cached	cached
+calculate	calculate
+Calculating	Calculating
+calendar	calendar
+calibrate	calibrate
+calibration	calibration
+calligraphy	calligraphy
+calling	calling
+calls	calls
+camaras	cameras
+camera	camera
+cameras	cameras
+camras	camras
+can	can
+cancel	cancel
+canceled	canceled
+Canceling	Canceling
+cancelled	cancelled
+cannot	cannot
+cant	cant
+capabilities	capabilities
+capital	capital
+capitalize	capitalize
+caps	caps
+capslock	capslock
+captions	captions
+capture	capture
+car	car
+card	card
+cards	cards
+carrier	carrier
+cartoons	cartoons
+cartridge	cartridge
+case	case
+cause	cause
+ccec	ccec
+ccf	ccf
+cd	cd
+CDMA	CDMA
+cds	cds
+CEIP	Elementary school
+cell	cell
+cellphone	cellphone
+center	center
+centimeters	centimeters
+centimetres	centimetres
+cents	cents
+certificate	certificate
+certificates	certificates
+change	change
+changed	changed
+changedº	changedº
+changes	changes
+changing	changing
+changjie	Changjie
+channel	channel
+character	character
+characters	characters
+charm	charm
+charms	charms
+Chat	Chat
+check	check
+checked	checked
+checking	checking
+child	child
+chinese	chinese
+chip	chip
+chkdsk	chkdsk
+chm	chm
+choose	choose
+chooses	chooses
+choosing	choosing
+chose	chose
+city	city
+CKa	what
+Cl	Cl
+clarity	clarity
+clean	clean
+cleandisk	cleandisk
+cleaner	cleaner
+cleanup	cleanup
+clear	clear
+cleared	cleared
+cleartype	cleartype
+click	click
+clicking	clicking
+clicks	clicks
+client	client
+Clipboard	Clipboard
+clock	clock
+cloned	cloned
+close	close
+Closes	Closes
+closing	closing
+Clustered	Clustered
+cm	cm
+CMahia	CMahia
+cmd	cmd
+ĉngā	in the chang
+Čngā	People
+Ċngā	In the English language
+Čngōki	Circle
+code	code
+cognitive	cognitive
+collaborate	collaborate
+Collapse	Collapse
+collection	collection
+color	color
+colorimetric	colorimetric
+colors	colors
+colour	colour
+colours	colours
+com	with
+Combine	Combine
+come	come
+command	command
+commanding	commanding
+commands	commands
+Common	Common
+communicate	communicate
+communication	communication
+compact	compact
+company	company
+compare	compare
+comparison	comparison
+compass	compass
+compatable	compatable
+compatibility	compatibility
+compatible	compatible
+complete	complete
+completed	completed
+completepc	completepc
+completion	completion
+components	components
+compressed	compressed
+compuer	computer
+computer	computer
+computerNYour	computerNYour
+computers	computers
+computertYour	computertYour
+Computing	Computing
+condition	condition
+conection	conection
+conferencing	conferencing
+confg	confg
+Config	Config
+configuration	configuration
+configure	configure
+configures	configures
+Confirm	Confirm
+conflict	conflict
+connect	connect
+connected	connected
+connection	connection
+connections	connections
+connectivity	connectivity
+connects	connects
+conserve	conserve
+Console	Console
+contact	contact
+contain	contain
+Container	Container
+containing	containing
+contains	contains
+content	content
+contents	contents
+continue	continue
+continues	continues
+contrast	contrast
+control	control
+controlers	controllers
+controller	controller
+controllers	controllers
+controls	controls
+contry	country
+Conventional	Conventional
+convert	convert
+cookies	cookies
+cooky	cook
+copied	copied
+copiedNYour	copiedNYour
+copies	copies
+copy	copy
+copying	copying
+corner	corner
+corners	corners
+Corporate	Corporate
+CorporationSKa	CorporationSKa
+correct	correct
+corrective	corrective
+corrects	corrects
+corrupted	corrupted
+cortana	cortana
+cost	cost
+could	could
+couldn	couldn
+countries	countries
+country	country
+Courier	Courier
+cover	cover
+Coverpages	Coverpages
+CPāwhiria	Click here.
+cpc	cpc
+cpu	cpu
+Cpūwhiti	Cpūwhiti
+crash	crash
+crashes	crashes
+crashing	crashing
+crawl	crawl
+create	create
+created	created
+Creates	Creates
+creating	creating
+Creation	Creation
+credentials	credentials
+Critical	Critical
+crt	crt
+cryptology	cryptology
+csrss	csrss
+CThe	CThe
+cThere	cThere
+Ctrl	Ctrl
+Ctūmataiti	Private
+currency	currency
+current	current
+currently	currently
+cursor	cursor
+cursors	cursors
+Custom	Custom
+customisation	customisation
+customises	customises
+customization	customization
+customize	customize
+customized	customized
+customizes	customize
+customizing	customizing
+cut	cut
+Ĉwhakaara	Warning
+çwhakahohe	activate
+CYou	You
+d	d
+DA	AND
+dabsolute	dabsolute
+đāhuatuhi	character
+damage	damage
+damaged	damaged
+DAn	And
+data	data
+database	database
+date	date
+dater	date
+dates	dates
+dating	dating
+datum	datum
+day	day
+daylight	daylight
+daylite	daylite
+days	days
+Dcant	Dcant
+dd	dd
+deactivates	deactivates
+deaf	deaf
+deafness	deafness
+Debugger	Debugger
+decide	decide
+decrease	decrease
+decrypt	decrypt
+Decrypting	Decrypting
+deep	deep
+default	default
+defaults	defaults
+defender	defender
+define	define
+definition	definition
+defrag	defrag
+defragment	defragment
+defragmentation	defragmentation
+Defragmenter	Defragmenter
+Defragments	Defragments
+defualt	defualt
+degrade	degrade
+deinstall	uninstall
+dekstops	desktops
+delay	delay
+delete	delete
+deleted	deleted
+deleting	deleting
+denied	denied
+DeniedKYou	DeniedKYou
+DENY	DENY
+dependency	dependency
+dependentAssembly	dependentAssembly
+depth	depth
+description	description
+designed	designed
+desired	desired
+desktop	desktop
+desktops	desktops
+destination	destination
+details	details
+detecting	detecting
+detection	detection
+determined	determined
+dev	dev
+device	device
+devicemanager	devicemanager
+devices	devices
+devise	devise
+df	df
+Đhāora	Dhara
+dhcp	dhcp
+DHe	AND
+diagnose	diagnose
+diagnosis	diagnosis
+diagnostic	diagnostic
+diagnostics	diagnostics
+dial	dial
+Dialer	Dialer
+dialing	dialing
+dialling	dialling
+dialog	dialog
+dialogs	dialogs
+dialup	dialup
+dib	back
+dictate	dictate
+dictation	dictation
+didn	didn
+differences	differences
+different	different
+difficult	difficult
+difficulty	difficulty
+digial	digital
+digit	digit
+digital	digital
+dimer	dimer
+diming	dimming
+dimmer	dimmer
+dimming	dimming
+dir	you
+direct	direct
+directaccessVmobile	directaccessVmobile
+directory	directory
+disabilities	disabilities
+disability	disability
+disable	disable
+disabled	disabled
+Disabling	Disabling
+disallow	disallow
+disallowed	disallowed
+disappear	disappear
+disc	disc
+discovery	discovery
+discovrey	discovrey
+discs	discs
+disk	disk
+disks	disks
+display	display
+displayed	displayed
+displayport	displayport
+displays	displays
+distributed	distributed
+divices	divices
+divicse	virgin
+divises	currencies
+DKei	DKei
+dkimi	dkim
+dll	dll
+DLNA	DLNA
+dma	dma
+Dmoko	Dmoko
+Dngā	People
+dns	dns
+Dnuku	Tomorrow
+do	do
+dock	dock
+document	document
+documents	documents
+does	does
+doesn	doesn
+dollars	dollars
+domain	domain
+domian	domian
+don	don
+dos	of the
+dots	dots
+double	double
+doubleclick	doubleclick
+down	down
+download	download
+DownloadÐThe	DownloadÐThe
+downloaded	downloaded
+downloading	downloading
+downloads	downloads
+dows	dows
+dpāwhiri	click
+dpi	dpi
+DPMI	DPMI
+drag	drag
+DRAGDROP	DRAGDROP
+dRapua	dReport
+drive	drive
+drivebWindows	drivebWindows
+drivefWindows	drivefWindows
+drivenWindows	drivenWindows
+DriveoKa	DriveoKa
+drivepThere	drivepThere
+driver	driver
+drivers	drivers
+drives	drives
+drivevWindows	drivevWindows
+driveWWindows	driveWWindows
+drongonga	drum
+drop	drop
+dsk	dsk
+dsl	dsl
+Dspaces	Dspaces
+dst	dst
+dTaupāngaMamao	Remote Application
+dThis	dThis
+due	due
+duplicate	duplicate
+during	during
+dvd	dvd
+dvi	two
+DWindows	DWindows
+dwonload	download
+dx	dx
+DYou	DYou
+e	and
+ē	have been
+ea	of
+each	each
+earlier	earlier
+ease	ease
+easier	easier
+easy	easy
+ecxeption	ecxeption
+edge	edge
+edit	edit
+edited	edited
+edition	edition
+editor	editor
+edits	edits
+EDo	OR
+effect	effect
+effects	effects
+efficiently	efficiently
+èhaumarutanga	security
+ēhea	which
+ei	no
+either	either
+Eject	Eject
+eKāore	No
+EKi	EK
+elevations	elevations
+email	email
+Emata	Motherless
+embed	embed
+ĕmoe	sleep
+Êmoe	Emoe
+EMomoho	E-mail
+empaired	empaired
+empty	empty
+EMS	EMS
+emulation	emulation
+enable	enable
+enables	enables
+encode	encode
+encoding	encoding
+Encrypt	Encrypt
+encrypted	encrypted
+Encrypting	Encrypting
+encryption	encryption
+end	end
+energy	energy
+eNetwork	eNetwork
+engine	engine
+english	english
+enhance	enhance
+enhanced	enhanced
+enlarge	enlarge
+enough	enough
+enter	enter
+entire	entire
+environment	environment
+envvar	envvar
+ērā	those
+erahia	leave
+erase	erase
+erased	erased
+eratia	errata
+ere	also
+error	error
+ErrorBAn	ErrorBAn
+errors	errors
+ete	that
+ethernet	ethernet
+eudcedit	he/she/it leaves
+euros	euros
+EventID	EventID
+events	events
+eventviewer	eventviewer
+example	example
+exceeded	exceeded
+exception	exception
+Exchange	Exchange
+exclude	exclude
+exe	exe
+Execute	Execute
+exeption	exeption
+exist	exist
+existing	existing
+exists	exists
+exit	exit
+Expand	Expand
+Expanded	Expanded
+expected	expected
+expires	expires
+explorer	explorer
+Export	Export
+extended	extended
+extension	extension
+extensions	extensions
+extentions	extentions
+external	external
+Extra	Extra
+Extract	Extract
+eye	eye
+eyesight	eyesight
+f	f
+factory	factory
+fade	fade
+fading	fading
+failed	failed
+fast	fast
+faster	faster
+fat	fat
+faunt	faunt
+Favorite	Favorite
+Favorites	Favorites
+Faxes	Faxes
+fdisc	fdisc
+fdisk	fdisk
+feature	feature
+features	features
+feed	feed
+feedback	feedback
+feet	feet
+feild	field
+few	few
+ff	ff
+FHe	FHe
+Fi	Be
+field	field
+filcks	filcks
+file	file
+fileCYou	fileCYou
+fileDYou	fileDYou
+FileHe	FileHe
+files	files
+FilesĘKāore	FilesÊKāore
+filetype	file type
+fill	fill
+filter	filter
+filtering	filtering
+filterkeys	filterkeys
+finalized	finalized
+find	find
+finder	finds
+finding	finding
+Finds	Finds
+finger	finger
+finish	finish
+fire	fire
+firewall	firewall
+firewalled	firewalled
+firmware	firmware
+first	first
+firwall	firewall
+fit	fit
+fix	fix
+fixed	fixed
+fixes	fixes
+fixing	fixing
+fKa	fKa
+fkawe	fish
+fkōpae	disc
+flash	flash
+flashing	flashing
+flat	flat
+fldr	fldr
+flicks	flicks
+flight	flight
+flik	Tab
+flip	flip
+Fmaramataka	Open
+FMe	FMe
+folder	folder
+FolderBThis	FolderBThis
+FolderrMe	FolderrMe
+folders	folders
+follow	follow
+following	following
+font	font
+fonts	fonts
+foot	foot
+for	for
+foreign	foreign
+forget	forget
+forgotten	forgotten
+format	format
+formated	formated
+formating	formatting
+formatted	formatted
+formatting	formatting
+found	found
+fount	fount
+four	four
+Fpareketo	Fpareketo
+fpx	fpx
+Frarau	French
+free	free
+freezes	freezes
+freezing	freezing
+french	french
+frequency	frequency
+frequently	frequently
+frewall	frewall
+from	from
+frozen	frozen
+Ftaiao	Science
+FTāpirihia	FAdd
+FThe	FThe
+fThere	fThere
+FTP	FTP
+full	full
+fullstop	full stop
+fully	fully
+function	function
+fuzzy	fuzzy
+Fwhakataurite	Compare
+FYour	FYour
+G	G
+gā	gas
+gadgets	gadgets
+galileo	galileo
+game	game
+games	games
+gamma	gamma
+gamut	gamut
+GB	GB
+general	general
+Generic	Generic
+geo	geo
+geografic	geographical
+geografik	geographical
+geographic	geographic
+german	german
+gestures	gestures
+get	get
+gets	gets
+getting	getting
+gHe	gHe
+gif	gif
+gigabytes	gigabytes
+gigs	gigs
+Gka	NGA
+GKaituku	GSubscriber
+gKāore	gNo
+global	global
+glonass	glonass
+gMe	gMe
+Gnekehanga	Movement
+gngā	people
+gnss	gnss
+go	go
+gone	gone
+GP	GP
+ģpiritene	British
+gps	gps
+Gpūoro	Music
+Grace	Grace
+graphics	graphics
+graphs	graphs
+greater	greater
+ground	ground
+group	group
+grouping	grouping
+groups	groups
+gScan	gScan
+GSM	GSM
+gSome	gSome
+gtaki	thank you
+GTīpakohia	Select
+guard	guard
+gUse	gUse
+Gwhakaaturanga	Presentation
+Ha	Ha
+hainatia	signed
+hainīhi	this one
+hakatuwhera	open
+hākoritanga	animation
+half	half
+hāmata	start
+hāmate	death
+hand	hand
+handed	handed
+hander	hander
+handheld	handheld
+handle	handle
+handrighting	handrighting
+handset	handset
+handsets	handsets
+handwriting	handwriting
+hang	hang
+hāngai	relevant
+Hāngaitanga	Orientation
+hangarua	recycling
+hanging	hanging
+hangul	Hangul
+hanguru	hanguru
+hapa	here
+hapanihi	Japanese
+hapanīhi	Japanese
+hāpiri	close
+happen	happen
+Harchive	Harchive
+hard	hard
+harddisk	hard drive
+harddrive	harddrive
+hardware	hardware
+hardwear	hardwear
+harm	harm
+harmful	harmful
+has	has
+hauā	disabled
+hauātanga	disability
+haumaru	safe
+haumarutanga	security
+HaumarutangaÑTirohia	SecurityÑCheck
+hāunga	except
+have	have
+HD	HD
+hdmi	hdmi
+hdw	hdw
+he	he
+hea	good
+headphone	headphone
+headset	headset
+headsets	headsets
+healthy	healthy
+hear	hear
+hearing	hearing
+hekona	seconds
+hēkona	seconds
+help	help
+helps	helps
+hēneti	cent
+henimita	centimeter
+herahia	stolen
+here	here
+HFailed	HFailed
+hFix	hFix
+hh	hh
+HHe	Hey
+hhuna	hidden
+hi	hi
+hia	hia
+hibernate	hibernate
+hibernates	hibernates
+hibernating	hibernating
+hibernation	hibernation
+hidden	hidden
+hide	hide
+high	high
+highest	highest
+hinapō	blind
+hindi	no
+hiniri	sing
+hinonga	enterprise
+hipanga	step
+hira	conversation
+history	history
+hītori	history
+HKāore	No
+hkōpae	disk
+Hlocker	Hlocker
+Hlog	Listen
+hm	hm
+Hngā	Hngga
+Hoapā	Contact
+hohe	height
+hohea	active
+hoheLRapua	active
+hohenga	reaction
+hōhonu	deep
+hōkai	scope
+Hōkaitanga	Expansion
+hold	hold
+home	home
+homegroup	homegroup
+homepage	homepage
+hongere	channel
+hongeremaha	hungry
+hongererua	hungarian
+hongeretahi	hungry
+Hopukina	Capture
+hopuoro	microphone
+hōputu	format
+hōputuhia	formatted
+hōputunga	format
+hōpututanga	formatting
+hōputuWindows	hōputuWindows
+horanuku	air conditioner
+Horekau	No way
+hōrite	equal
+horo	punishment
+horopaki	context
+Host	Host
+hosts	hosts
+Hōtaka	Program
+hōtoke	winter
+hototahi	compatibility
+Hototahitanga	Compatibility
+hōu	new
+hōuBOpen	hōuBOpen
+hōuDKua	newDKua
+hour	hour
+hours	hours
+hōutia	new
+how	how
+howmuch	howmuch
+hr	hr
+href	href
+hs	hs
+Htaki	Htaki
+htm	htm
+HTML	HTML
+huaketo	virus
+huamanu	huamanu
+huānga	element
+huapae	horizontal
+huapou	flower
+huatanga	result
+huatau	fashion
+hub	hub
+hunahuna	THINK
+hunaia	hidden
+hunaIWhakaaturia	hideShow
+hung	hung
+huria	liberal
+huringaKTiakina	changeKCare
+huringaNI	change
+Huripokia	Hello
+hurirahi	zoom
+huriwhakamuri	reverse
+i	i
+ī	i
+ia	it
+iake	yes
+iana	iana
+IChanges	Changes
+icl	icl
+ico	ico
+icon	icon
+icons	icons
+id	id
+Identifier	Identifier
+ie	ie
+iene	one
+if	if
+ifc	ifc
+ihi	because
+ihirangi	content
+ïhuna	ïhuna
+Iinternet	Internet
+ĲKua	The Moon
+IKāore	No
+ïKāore	No
+IKei	Ikea
+ikorangi	orange
+ĩkua	ĩkua
+image	image
+images	images
+Imaging	Imaging
+ìmai	from
+ime	to do
+IMEI	IMEI
+imengā	ice cream
+īmēra	email
+ĪmēragTukua	Email Send
+imes	imes
+Imō	Today
+impaired	impaired
+imparied	imparied
+import	import
+imported	imported
+improve	improve
+improvement	improvement
+IMSI	IMSI
+ina	so
+inā	in case
+inactive	inactive
+Inātatanei	Inatatanei
+inati	said
+inch	inch
+inches	inches
+include	include
+included	included
+including	including
+incompatible	incompatible
+incomplete	incomplete
+incramental	incramental
+increase	increase
+incremental	incremental
+index	index
+indexing	indexing
+inea	here
+inekoiora	nevermind
+inenga	measurement
+inet	inet
+inetia	measured
+INF	INF
+INF Properties	INF Properties
+infection	infection
+Info	Info
+InfoBarRSome	InfoBarRSome
+informatien	information
+information	information
+infra	infra
+infrared	infrared
+ĩngā	then
+ingarihi	English
+ingoakē	nickname
+ink	ink
+input	input
+ins	ins
+insert	insert
+install	install
+installation	installation
+installed	installed
+installing	installing
+installs	installs
+Instead	Instead
+instructions	instructions
+instrument	instrument
+intel	intel
+interactively	interactively
+interface	interface
+internal	internal
+international	international
+internet	internet
+internetsharing	internetsharing
+into	into
+intranet	intranet
+intrnet	intrnet
+intsall	the rest
+invalid	invalid
+invisible	invisible
+invitations	invitations
+invite	invite
+inviting	inviting
+invoke	invoke
+ĩororonga	relaxation
+ip	ip
+Ípahi	Ipahi
+ipu	plate
+ipurangiJHono	onlineJHon
+ipurangiroto	intranet
+IPv	IPv
+ira	ira
+IrDA	IrDA
+iri	this
+irirangi	radio
+iro	dogs
+irorohiko	electronics
+is	is
+iscsi	iscsi
+ISDN	ISDN
+isn	isn
+it	it
+itarangi	Italy
+item	item
+items	items
+iThere	iThere
+iti	in
+its	its
+iTua	Back
+iup	iup
+Ìwhakahohe	Activate
+Iwindows	Window
+Ɨtaki	Head
+J	J
+jA	and
+jack	jack
+japanese	japanese
+JDisplays	JDisplays
+jet	jet
+jfif	light
+JKa	JKa
+JKei	JKai
+JNo	JNo
+join	join
+joystick	joystick
+jpe	jpe
+jpeg	jpeg
+jpg	jpg
+JWhakatuwheratia	Open
+ka	the
+kā	how
+kāhore	no
+kāhua	style
+Kaihōtaka	Programmer
+kāingaTKa	home
+Kaitahimaina	Kaithimaina
+kaitīmata	beginner
+Kaitito	Writer
+kaiwhakahaerebOpen	administratorbOpen
+kaiwhakahaereJWhakahaeretia	administratorJAdministered
+kaiwhakahaerelWhakatuwheratia	administratorOpen
+kaiwhakanao	manufacturer
+kaiwhakaputa	publisher
+kākā	cotton
+kakati	a few times
+kakautohu	handle
+kam	came
+kama	like
+kāmera	camera
+kāmetuku	camera
+kamupene	company
+kanaī	his
+kanji	kanji
+Kāo	No
+kāore	no
+kāoreō	no
+kāpehu	compass
+Kāpeka	Terminal
+kāpīpiti	next to each other
+kāpō	blind
+karaka	orange
+karakōnui	thumbnail
+karapa	scan
+Karapahia	Karabakh
+kāre	no
+karere	region
+kāri	card
+kārioro	sound card
+karo	with
+karu	spike
+Kat	Kat
+kātahi	first
+kati	middle
+kāti	stop
+katia	katia
+Kaunoa	Normal
+kaunuku	move
+kaupane	curtain
+kaupapahere	policy
+kāwai	category
+kaweamai	bring
+kawhakaora	healer
+KB	KB
+KDo	Who
+keep	keep
+keeping	keeping
+kEhara	kEhara
+keiwhā	four
+keteroki	cache
+KeteŞKo	KeteŞKo
+kētia	yes
+keto	keto
+key	key
+keyboard	keyboard
+keyboards	keyboards
+keyborads	keyborads
+keybord	keybord
+keys	keys
+KHei	KHei
+kī	key
+kika	reading
+kikapaita	gigabyte
+kīkī	plug in
+kilometers	kilometers
+kilometres	kilometres
+kilos	kilos
+kimi	like
+kimokimo	kimokimo
+kimua	sprout
+kīore	no
+kiriata	movie
+kiritaki	customer
+kirokarāmu	kilogram
+kiropaita	cursed shirt
+kk	kk
+KKāore	No
+KKP	KKP
+km	km
+kmatawhenua	geography
+kngā	what
+know	know
+known	known
+koa	also
+koeÿTirohia	youÿLook
+kōhiko	flash
+kōkau	writing
+Kōkiri	Accelerate
+kōkuhu	insert
+kōkuhua	insert
+kōkuhutia	inserted
+kōmaka	sort
+Kōmakatia	Sort
+kōmuru	erase
+Kōmurua	Delete
+kōn	with
+Kōna	His
+kōnae	file
+kōnaebNā	no problem
+kōnaeDMe	fileDMe
+kōnaeGHoatu	fileGSubmit
+kōnaeLMe	fileLMe
+kōnaeqWhakaaturia	fileqShow
+kōnaewhārangi	file
+kōnei	here
+konga	to the mine
+kopae	disk
+kōpae	disk
+KōpaeFThe	The
+kōpaeiKāore	diskNo
+Kōpaemārō	Hard disk
+kōpaepae	disk
+KōpaepThe	The Kopaep
+kōpaki	folder
+kōpakiCMe	folderCMe
+kōpakiMMe	folderMMe
+kōpakiroto	subfolder
+Kopamārō	Hard disk
+kōpeke	compress
+kōpeketia	compressed
+kopi	coffee
+kōpura	tuber
+kōrea	Korean
+koreāhei	impossible
+korean	korean
+kōrero	story
+kōrerotanga	conversation
+koretaea	impossible
+koretautoko	unsupported
+koreutu	free
+kōtaha	profile
+Kowae	Paragraph
+Kōwae	Module
+Kōwhiria	Choose
+Kōwhirihia	Choose
+kōwhiringa	choice
+KP	KP
+kpaki	fold
+kpato	mix
+KThis	KThis
+Ktōmua	First
+kuawhakaatatia	reflected
+kupuhipa	password
+kupumahi	verb
+Kupumatua	Keywords
+kuputohu	advice
+kuputohutanga	recommendation
+kuputohutia	recommended
+kuputuhi	text
+KWhakamahia	Use
+l	l
+label	label
+labels	labels
+laditude	you are welcome
+lan	and
+lanch	lunch
+landscape	landscape
+langpack	langpack
+langs	along
+language	language
+languages	languages
+laptop	laptop
+large	large
+larger	larger
+laser	laser
+Lassociate	The associate
+last	last
+later	later
+latest	latest
+latitude	latitude
+launch	launch
+launches	launches
+layout	layout
+lbs	lbs
+Lbuiltin	Lbuiltin
+lcd	lcd
+learn	learn
+learning	learning
+left	left
+lefty	lefty
+legacy	legacy
+legally	legally
+legibility	legibility
+legible	legible
+LEhara	Lehara
+lenovo	Lenovo
+less	less
+lessons	lessons
+let	let
+letter	letter
+letters	letters
+level	level
+libraries	libraries
+library	library
+licensing	licensing
+lid	lid
+life	life
+light	light
+lighting	lighting
+like	like
+limited	limited
+line	line
+lines	lines
+link	link
+links	links
+list	list
+listen	listen
+lite	a little
+live	live
+liveid	liveid
+lKa	lKa
+lKāore	lNo
+LKia	LKia
+ll	ll
+Lngā	Lngā
+lnk	lnq
+lnkb	lnkb
+loads	loads
+local	local
+locale	local
+localisation	localisation
+localised	localised
+locality	locality
+localization	localization
+localized	localized
+locate	locate
+locating	locating
+location	location
+locations	locations
+lock	lock
+locked	locked
+locker	locker
+log	log
+login	login
+logo	logo
+logoff	logoff
+logon	logon
+logout	logout
+logs	logs
+long	long
+LongÅThe	LongÅThe
+longer	longer
+longetude	lung study
+longitude	longitude
+look	look
+looks	looks
+lose	lose
+loss	loss
+lost	lost
+lot	lot
+louder	louder
+low	low
+lower	lower
+lowest	lowest
+ls	ls
+LTE	LTE
+LTīpakohia	Select
+lu	the
+LUA	TWO
+Lucida	Lucida
+łwhakaoranga	salvation
+lX	lX
+lYour	lYour
+ma	and
+machine	machine
+Macintosh	Macintosh
+made	made
+māene	smooth
+māeneene	smooth
+Magneto	Magneto
+magnification	magnification
+magnified	magnified
+magnifying	magnifying
+mahere	plan
+maheremoka	map
+Maheretia	Maheretia
+mai	may
+mail	mail
+maintain	maintain
+maintenance	maintenance
+maka	for
+makaro	greed
+makau	afraid
+make	make
+maker	maker
+Makes	Makes
+māku	I can
+malware	malware
+māmā	easy
+māmāake	easier
+mamao	far
+mamati	digital
+mana	where
+managar	managar
+manage	manage
+managed	managed
+management	management
+manager	manager
+manages	manages
+managing	managing
+managment	managment
+manatoko	verify
+maneger	manager
+mania	mania
+manifestVersion	manifestVersion
+manner	manner
+manomita	deceive
+manufacturer	manufacturer
+many	many
+mapping	mapping
+māramaana	clear
+māramaotetuhi	clear writing
+mariko	virtual
+māriko	virtual
+mārire	calm
+māriri	cold
+mark	mark
+māro	dry
+mārō	solid
+Mass	Mass
+Mastered	Mastered
+mata	eye
+Mātanga	Expert
+matapae	prediction
+matapaetanga	prediction
+matapatopato	honest
+matapōtanga	blindness
+matapunenga	archive
+matatini	complex
+mātau	wise
+matawa	laugh
+matawā	timer
+matawai	scan
+matawainga	problem
+matawhenua	geography
+mati	dead
+matiti	breast
+mātitipA	มารักสา
+matohi	alert
+mau	always
+mauī	left
+maukati	lock
+Maukatia	Locked
+maumahara	remember
+maupane	maupane
+maximize	maximize
+maximum	maximum
+may	may
+MB	MB
+mbb	mbb
+me	me
+measurements	measurements
+media	media
+mediasharing	mediasharing
+mediastreaming	mediastreaming
+Medium	Medium
+meet	meet
+megabytes	megabytes
+megs	megs
+meka	fact
+mekapaita	megabyte
+memory	memory
+menet	march
+mēneti	minute
+menu	menu
+menus	menus
+mēra	plague
+merge	merge
+mesages	mesages
+messages	messages
+Messenger	Messenger
+metadata	metadata
+meter	meter
+metered	metered
+meters	meters
+methods	methods
+metres	metres
+MFailed	MFailed
+MFU	MFU
+mgr	mgr
+MHe	MHe
+mice	mice
+microphone	microphone
+microphones	microphones
+microsoft	microsoft
+mics	mics
+midi	midi
+might	might
+migrate	migrate
+mike	mike
+mikes	mikes
+miles	miles
+minimize	minimize
+Minternet	My Internet
+minute	minute
+minutes	minutes
+Miramiratia	Highlight
+mirror	mirror
+mirrored	mirrored
+mismatch	mismatch
+mispelled	mispelled
+mispelt	medlar
+missing	missing
+misspelled	misspelled
+misspelt	misspelled
+mistakes	mistakes
+mita	meter
+mix	mix
+mixed	mixed
+mixer	mixer
+mixture	mixture
+mk	mk
+MMakes	MMakes
+mmddyyyy	mmddyyyyy
+MMM	MMM
+mmrrtttt	mmrrttttt
+mobile	mobile
+mobility	mobility
+mode	mode
+modem	modem
+modified	modified
+modify	modify
+Module	Module
+moe	moe
+mōhio	know
+mōhiohio	information
+mōhiotia	know
+moka	the whole
+mokatere	mokater
+mōkī	package
+moko	an
+mokowā	space
+Momoho	Goodbye
+momokōnae	ready
+momotuhi	font
+momotuhia	disconnected
+mon	My
+mOne	mOne
+mōnehu	monk
+mōnehunehu	melancholy
+money	money
+monitor	monitor
+monitors	monitors
+mono	mono
+monokia	disabled
+month	month
+more	more
+most	most
+motherboard	motherboard
+motika	car
+motion	motion
+moumou	waste
+mount	mount
+mounted	mounted
+mounting	mounting
+mouse	mouse
+mousekeys	mousekeys
+mouses	mice
+mousewheel	mousewheel
+move	move
+moved	moved
+movement	movement
+movemnet	move subject
+movie	movie
+movies	movies
+moving	moving
+movment	movement
+mp	mp
+mpeg	mpeg
+MPG	MPG
+MS	MS
+mshelp	mshelp
+msime	stream
+MSITStore	MSITStore
+MSN	MSN
+mspy	mspy
+Mtapi	Mtapi
+MTē	MT
+MThis	MThis
+mua	first
+much	much
+muhani	examiner
+muhu	muff
+muhurThe	The seal
+muku	you
+mukua	delete
+mukuaoKua	mukuaoKua
+MukuENukuhia	In ENukuhia
+MukuQMā	You are welcome.
+multi	multi
+multichannel	multichannel
+multilanguage	multilanguage
+multimedia	multimedia
+multimon	multimon
+multiple	multiple
+munatanga	you are welcome
+music	music
+musical	musical
+must	must
+mute	mute
+mutliple	Multiple
+my	my
+MYou	MYou
+na	that
+nā	the
+nāianei	current
+nako	time
+name	name
+named	named
+names	names
+nanny	nanny
+narrator	narrator
+Narrow	Narrow
+NAS	IN THE
+nāu	for me
+navigation	navigation
+nChange	Change
+nDo	nDo
+near	near
+nearfield	nearfield
+need	need
+needed	needed
+needs	needs
+nei	in the
+neiAMe	this is me
+neibTukutahitia	neibTukutahitia
+neiFTīpakotia	thisFSelect
+neirKi	noKi
+nekemau	some
+nekenga	movement
+nēnē	yes
+net	net
+netowrk	netowrk
+netwerk	network
+network	network
+networkdiscovery	networkdiscovery
+networking	networking
+networks	networks
+networksKpair	networksKpair
+new	new
+newer	newer
+newsgroup	newsgroup
+next	next
+NFC	NFC
+nfp	nfp
+nga	that
+ngāake	up
+ngāpapapātuhi	keyboards
+ngāwari	easy
+ngōki	crawl
+ngū	silent
+nh	nh
+nic	nothing
+nihok	laugh
+Nihokikorangi	Bluetooth
+Ninetia	Ninetia
+nKarapa	nCarabao
+NKei	NKei
+ñKi	Who?
+nMe	nMe
+no	no
+nō	still
+noahia	only
+noho	because
+noise	noise
+noises	noises
+non	non
+Nōnākuanei	Now
+Nōnānoanei	Recently
+nōnātata	immediately
+none	none
+not	not
+notebook	notebook
+notification	notification
+notifications	notifications
+notified	notified
+notifying	notifying
+nōu	yours
+now	now
+NRokirokia	NRokirokia
+ntfs	ntfs
+NThe	NThe
+NThese	NThese
+NTīpakohia	Select
+ntvdm	ntvdm
+nukuhia	move
+nukuhiaBKa	movedBKa
+nukutanga	move
+num	in a
+number	number
+numbers	numbers
+nWindows	nWindows
+NYou	NYou
+NYour	NYour
+o	the
+oAccess	oAccess
+ȍaunoa	Automatic
+occurred	occurred
+occurs	occurs
+odbc	odbc
+œwhakaterenga	-acceleration
+of	of
+off	off
+Office	Office
+offline	offline
+ºFiles	ºFiles
+ofline	ofline
+often	often
+ohauru	subscribe
+OHe	OHe
+ÕIf	Oif
+ºkaiwhakahaere	manager
+Ôkaiwhakahaere	Manager
+OKāore	No
+ÔKāore	No
+Óketeroki	Old-fashioned
+OKi	Cut down
+old	old
+older	older
+ōmata	fresh
+ōna	his/her
+onāianei	current
+one	one
+óngā	those
+online	online
+onlinebOne	onlinebOne
+only	only
+ons	we
+onscreen	onscreen
+open	open
+opened	opened
+opening	opening
+opens	opens
+opentype	opentype
+operating	operating
+operation	operation
+opito	opito
+opt	opt
+optical	optical
+optimal	optimal
+optimise	optimise
+optimize	optimize
+optin	opt
+option	option
+options	options
+optout	optout
+ôpūmatua	grandmother
+Opūtiro	Browser
+ora	no
+Oraraunga	Life
+Ōrautanga	Percentage
+order	order
+ordering	ordering
+organize	organize
+organizing	organizing
+orientatian	orientatian
+orientatien	orientations
+orientation	orientation
+original	original
+ōrite	same
+oro	air
+OroÇTāpirihia	SoundAdd
+ororonga	sound
+ororongo	audio
+os	you
+ose	OR
+osk	osk
+Ȱtapi	Ȱbut
+Ótaunakitia	Otaunakitia
+OThe	OThe
+ØThe	ØThe
+other	other
+others	others
+otirā	especially
+Otuku	Otuku
+ounces	ounces
+out	out
+output	output
+overclock	overclock
+õwhakaritenga	preparation
+oz	oz
+pā	wall
+pack	pack
+packet	packet
+packs	packs
+pad	pad
+paearu	criteria
+paetata	local
+paetaumahi	taskbar
+paetukutuku	website
+paetukutukuHWhakakāngia	websiteHTurn on
+paetūmahi	taskbar
+paeutauta	toolbar
+paewhiri	panel
+page	page
+pagefile	pagefile
+pages	pages
+pāhekeheke	doubtful
+pāheko	combination
+pahekotanga	combination
+pahi	knife
+pāhono	connect
+pāhonotanga	response
+pair	pair
+pairs	pairs
+paita	shirt
+pākahiko	battery
+pakū	pop
+pakūake	popup
+pana	till
+Pane	There are
+panel	panel
+PanelçAre	PanelsAre
+panels	panels
+pānga	interest
+pāngia	affected
+pāniora	Spanish
+pānui	read
+pānuihia	read
+pānuitanga	advertising
+panuku	scroll
+papa	class
+papā	father
+pāpāho	media
+PāpāhoAunoa	Autoplay
+PāpāhōAunoa	Automatic Broadcast
+pāpāhoMMotuhia	mediaMDisconnected
+pāpāhoRUru	mediaRURU
+pāpāhōtanga	news
+pāpāhotangaQTīmata	broadcastQStart
+pāpaki	crab
+PāpakuoKei	PapakuoKei
+papamahi	desktop
+PapamahiMamao	Remote Desktop
+papamuri	background
+papamuritia	background
+papapātuhi	keyboard
+paparite	flat
+papātanga	impact
+papatono	program
+Papatopenga	Clipboard
+papawhaea	mother-in-law
+paper	paper
+para	to
+ParaEMukua	ParaEmukua
+ParapKei	ParapKei
+pare	look
+parea	sound
+parehuaketo	antivirus
+pareketo	antivirus
+parengia	prepares
+parent	parent
+parepakūake	pop-up
+paretūtei	spy
+partitian	partitian
+partitioning	partitioning
+party	party
+pass	pass
+passkey	passkey
+passphraseópātuhi	passphraseópātuhi
+password	password
+passwords	passwords
+passwork	passwork
+passwrod	passwrod
+past	past
+Paste	Paste
+pasword	pasword
+paswrod	paswrod
+Pātaka	Store
+pātaki	wall
+patches	patches
+pātea	blank
+pātengi	database
+path	path
+paths	paths
+pāti	patch
+pato	specific
+patoa	buried
+pātohia	click
+patonoa	normal
+patopato	type
+pattern	pattern
+pātū	wall
+pātūahi	firewall
+pātuhi	keyboard
+PātuhiKiore	Mousepad
+pātuhitātari	filter button
+Patuiro	Bug
+patupātuhi	typing
+pau	no longer
+paused	paused
+pāwhiri	click
+pāwhiria	click
+Pāwhirihia	Click here
+pāwhiringa	click
+pāwhiritanga	click
+pāwhiritaurua	double click
+pāwhiritia	click
+pc	pc
+PCapture	PCapture
+PCFWhakanui	PCFWhakanung
+pCritical	pCritical
+PCs	PCs
+PDefragments	PDefragments
+PDisplays	PDisplays
+pēhea	how
+pēhia	press
+pehu	swelling
+pen	pen
+penanga	handler
+penflick	penflick
+penmanship	penmanship
+pentium	five
+people	people
+per	per
+Perceived	Perceived
+perceptual	perceptual
+pere	pere
+perform	perform
+performance	performance
+performed	performed
+PerformRedirection	PerformRedirection
+period	period
+permanently	permanently
+permission	permission
+permissions	permissions
+permitted	permitted
+persenal	percent
+persists	persists
+personal	personal
+personalisation	personalisation
+personalise	personalise
+personalization	personalization
+personalize	personalize
+personalized	personalized
+pewanga	pressure
+pFiles	pFiles
+phone	phone
+phonetic	phonetic
+photo	photo
+photograph	photograph
+photographs	photographs
+photos	photos
+pī	beans
+piango	I cry
+pīata	flash
+pick	pick
+picked	picked
+picks	picks
+picture	picture
+pictures	pictures
+pif	pif
+pihanga	pane
+Pīhanga	Panchanga
+pihi	button
+pihikete	cookie
+pika	long
+pin	pin
+pine	pine
+pinea	pin
+Pinepaoro	Pinball
+Pīngore	Pinggore
+pinyin	pinyin
+pīrahi	slim
+pire	worse 
+piritene	British
+pito	edge
+piu	more
+piunga	swing
+pixels	pixels
+PKāore	No
+place	place
+Places	Places
+plan	plan
+plane	plane
+plans	plans
+plasma	plasma
+play	play
+played	played
+player	player
+playing	playing
+Plays	Plays
+playto	playto
+Please	Please
+plug	plug
+plugged	plugged
+plus	plus
+png	png
+pngā	in png
+poihau	balloon
+point	point
+pointer	pointer
+pointers	pointers
+pointing	pointing
+points	points
+pōkākā	red
+pokapū	center
+pokatata	shortcut
+policies	policies
+policy	policy
+policys	policies
+pona	for
+pono	necessary
+poor	poor
+pop	pop
+popupblocker	popupblocker
+popups	popups
+popupstopper	popupstopper
+pōro	ball
+pōrotakitaki	round
+port	port
+portable	portable
+portrait	portrait
+positian	positian
+position	position
+positioning	positioning
+potential	potential
+pōturi	slow
+pouakawhakaata	television
+pounds	pounds
+pōuri	dark
+poutū	vertical
+Pouwhakahaere	Headquarters
+pouwhanga	modem
+power	power
+powersaver	powersaver
+powershell	powershell
+ppau	ppau
+ppi	ppi
+pppoe	pppoe
+Ppūmahara	Memory
+precise	precise
+precision	precision
+precover	precover
+predict	predict
+prediction	prediction
+predictive	predictive
+premium	premium
+Preparing	Preparing
+presentation	presentation
+preserve	preserve
+prevent	prevent
+prevented	prevented
+preventing	preventing
+preview	preview
+previewed	previewed
+previewer	previewer
+previous	previous
+previously	previously
+primary	primary
+print	print
+printer	printer
+printers	printers
+printing	printing
+printner	printer
+printout	printout
+pritner	print
+privacy	privacy
+private	private
+priveleges	priveleges
+priviledges	priviledges
+privileges	privileges
+problem	problem
+problems	problems
+proceses	proceses
+process	process
+processes	processes
+processing	processing
+processor	processor
+processorArchitecture	processorArchitecture
+product	product
+program	program
+ProgramData	ProgramData
+programfThe	programfThe
+programmes	programmes
+programs	programs
+projection	projection
+projector	projector
+prompt	prompt
+prompting	prompting
+prompts	prompts
+proofing	proofing
+properly	properly
+properties	properties
+property	property
+prosimity	Promites
+protect	protect
+protected	protected
+protection	protection
+protocol	protocol
+protocols	protocols
+provide	provide
+provider	provider
+provides	provides
+proximity	proximity
+proxycfg	proxycfg
+proxymity	proxymity
+psr	psr
+PThere	PThere
+pū	too
+pūāhua	character
+pūangi	balloon
+pūārai	barrier
+pūāraipakūake	antivirus
+pūatatohu	indicator
+public	public
+publicKeyToken	publicKeyToken
+pūhāngai	feed
+pūhiko	battery
+pūhoi	soldier
+Pūhopu	Photographer
+Pūhura	Explore
+pūine	size
+Pukaemi	Album
+PukaKupu	Word Book
+pūkarapa	scanner
+Pukatuhi	Notebook
+pukatuhipoka	notebook
+pūkawe	carrier
+pūkete	account
+pūketehia	registered
+pūkimi	puffy
+pūkohikohi	collector
+pūkoro	mobile
+pukudKāore	No
+pukueKua	pusuue
+pulse	pulse
+pūmahara	memory
+pūmahi	task
+pūmana	controller
+pūmanawa	software
+pūmāro	slang
+pūmārō	hardware
+pūmatawai	scanner
+pūmatua	capital letter
+pūmatuamau	first aid kit
+pūmatuatia	capitalize
+pūmau	permanent
+pūmautia	fixed
+pūnaha	system
+pūnahacWhakaaturia	systemcShow
+pūngao	energy
+puni	around
+Puoro	Music
+pūoro	music
+pūpānui	advertising
+PūpānuiGWaihōtia	ReadGWaihotia
+pūpāpāho	media
+pūpare	umbrella
+pūpato	warning
+pūpatopā	in the forest
+pūpurei	gun
+pupuritia	keep it
+pūranga	archive
+pūrangatia	archive
+Pūrata	Doctor
+purei	play
+PureiAunoa	AutoPlay
+Pureingia	Clean
+Pureitia	Play
+pūrere	device
+pureretā	blackmail
+pūrongo	report
+puru	pure
+pūrua	backup
+Pūruatia	Backup
+put	put
+putaatu	exit
+pūtahitahi	unity
+pūtake	source
+pūtaki	contact
+Pūtanga	Birth
+pūtango	remove
+PūtauĀtea	Space Cell
+pūtaurima	cell phone
+PūtauWātea	Cell Availability
+pūtiaki	guardian
+pūtiro	browser
+pūtirotiro	browser
+pūtohu	recommendation
+pūtohurā	recommendation
+Pūtoro	Radius
+pūtoru	triangle
+putu	on the road
+putua	empty
+pūtukatuka	processor
+Putumōhio	Catalog
+pūwāhi	place
+Pūwhakahaere	Manager
+pūwhakahōu	update
+pūwhakaranu	mixer
+pūwhakarite	coordinator
+pūwhakatika	editor
+Pūwhakawehe	Separator
+Pūwhārahi	Enlargement
+PūwhārahiENekehia	ExpandEnlarge
+pūwhāurutau	adapter
+pūwhero	red
+pūwhiti	flashlight
+pūwhitinga	lightening
+PW	PW
+PWhakamahia	Use
+pWhakatuwherahia	Open
+pwhānui	general
+Pwhatunga	Network
+PWindows	PWindows
+PYou	PYou
+QAny	QAny
+qAre	Yes
+qIf	qIf
+QKa	WHAT
+qKāore	qNo
+qpūkimi	qpükimi
+Qtāpiri	Qtāpiri
+qualified	qualified
+quality	quality
+query	query
+questionaire	questionnaire
+questionnaire	questionnaire
+Queued	Queued
+quick	quick
+quicker	quicker
+quicklaunch	quicklaunch
+quiet	quiet
+quiklaunch	quiklaunch
+Quit	Quit
+quite	quite
+QWhakaorangia	QSave
+ĸWindows	Windows
+rā	date
+radio	radio
+rahinga	quantity
+rahua	failure
+rāhui	reservation
+rāhuitanga	prohibition
+RāhuitangayKua	Restrictions are in place.
+rāhuitia	forbidden
+raid	raid
+Raihana	License
+raihanatia	licensed
+raina	line
+rākei	also
+ram	ram
+rāneiHWhakaaturia	orShow
+rangahau	research
+rangitahiMTangohia	temporaryMRemoved
+rangitaki	blog
+RAny	Wounds
+raparongoā	medicine
+rapuhaumaru	search for safety
+RapungaEItems	SearchEItems
+rapurongoā	troubleshooting
+rārangi	list
+Rārangipāho	Playlist
+rārangipurei	playlist
+rarau	rare
+raraunga	data
+raraungameta	metadata
+rarua	trouble
+rarukore	rarukore
+RAS	RAS
+RĀta	Rat
+rate	rate
+rating	rating
+Ratings	Ratings
+ratonga	service
+rātou	them
+rau	six
+rauemi	resources
+raunaha	round
+Raunahatia	Roundup
+raupapa	series
+raupapatanga	sequence
+rāwaho	foreign
+ray	ray
+rd	rd
+rDo	rDo
+re	re
+reachit	reachit
+read	read
+readability	readability
+readable	readable
+reader	reader
+readers	readers
+reading	reading
+Readme	Readme
+ready	ready
+reccomended	reccomended
+reccommended	reccommended
+receive	receive
+received	received
+receives	receives
+recogination	recogination
+recognition	recognition
+recognize	recognize
+recognizing	recognizing
+recomended	recommended
+recommend	recommend
+recommendations	recommendations
+recommended	recommended
+recongition	recongition
+reconition	reconition
+reconnect	reconnect
+record	record
+recordable	recordable
+recorded	recorded
+recorder	recorder
+recording	recording
+Records	Records
+recover	recover
+recovering	recovering
+recovers	recovers
+recovery	recovery
+recycle	recycle
+red	red
+redirect	redirect
+redirectable	redirectable
+redirected	redirected
+Redirection	Redirection
+Redo	Redo
+refer	refer
+reference	reference
+reformat	reformat
+refresh	refresh
+refreshrate	refreshrate
+ReFS	ReFS
+region	region
+regional	regional
+regions	regions
+register	register
+registry	registry
+regular	regular
+rēhita	register
+rehu	spray
+rehuake	rain
+reimage	reimage
+reindex	reindex
+reinsert	reinsert
+reinstall	reinstall
+reinstate	reinstate
+relative	relative
+release	release
+reliability	reliability
+remaining	remaining
+remember	remember
+reminder	reminder
+remote	remote
+RemoteApp	RemoteApp
+RemoteDesktop	RemoteDesktop
+remotely	remotely
+removable	removable
+removal	removal
+remove	remove
+removed	removed
+remover	remover
+removes	removes
+removing	removing
+rename	rename
+renamed	renamed
+renaming	renaming
+rendering	rendering
+reoirirangi	oil
+reorder	reorder
+repair	repair
+repaired	repaired
+repairing	repairing
+repairs	repairs
+repeat	repeat
+replace	replace
+report	report
+reporting	reporting
+reports	reports
+reproduce	reproduce
+request	request
+requirement	requirement
+requires	requires
+rererangi	airplane
+Rēreti	Slide
+reri	rowing
+rescue	rescue
+reset	reset
+resilient	resilient
+resize	resize
+reslution	reslution
+resoltion	resoltion
+resolution	resolution
+resolutoin	resolute
+resolve	resolve
+resolved	resolved
+resource	resource
+Resources	Resources
+restart	restart
+restarts	restarts
+restore	restore
+restored	restored
+restores	restores
+restrict	restrict
+restricted	restricted
+result	result
+results	results
+resumes	resumes
+retain	retain
+retention	retention
+retrieve	retrieve
+retrieved	retrieved
+return	return
+returned	returned
+reverse	reverse
+review	review
+rezolution	resolution
+rgb	rgb
+Rhomegroup	Rhomegroup
+ri	ri
+ria	ria
+rid	rid
+right	right
+righting	righting
+rights	rights
+ringamau	hand
+ripa	ripa
+rīpene	tape
+rMe	rMe
+Rmomotuhi	Font
+rngā	between
+ro	ro
+rō	inside
+roaming	roaming
+RoheHuria	RoheHuria
+rohewā	time zone
+rokiroki	storage
+rokirokia	store
+rollback	rollback
+rom	rom
+room	room
+root	root
+rōpūkāinga	home group
+rōpūmahi	working group
+rōrahi	volume
+rorohikoCTirohia	computerCView
+rorohikoEKia	computerEKia
+rorohikopNā	computer
+rotate	rotate
+rotation	rotation
+rpoxy	rpoxy
+rr	rr
+rss	rss
+RTap	RTap
+RTē	RT
+RTF	RTF
+ruānuku	wizard
+rules	rules
+running	running
+runs	runs
+rw	rw
+rwkatoa	all
+RYou	RYou
+s	s
+safe	safe
+safety	safety
+same	same
+sample	sample
+sas	sas
+save	save
+saved	saved
+saver	saver
+savers	savers
+Saves	Saves
+saving	saving
+savings	savings
+savins	savins
+scan	scan
+scandisc	scandisc
+scandisk	scandisk
+scandsk	scandinavian
+scaners	scaners
+scanned	scanned
+scanner	scanner
+scanners	scanners
+scanning	scanning
+Schedule	Schedule
+scheduled	scheduled
+scheduling	scheduling
+schemas	schemas
+scheme	scheme
+schemes	schemes
+scope	scope
+scopes	scopes
+screan	screan
+screansavers	screansavers
+screeen	screeen
+screeens	screeens
+screeensavers	screeensavers
+screen	screen
+screenreader	screenreader
+screens	screens
+screensavers	screensavers
+scren	screen
+screne	screen
+screnesavers	screnesavers
+scrensavers	scrensavers
+Script	Script
+Scripts	Scripts
+scrolling	scrolling
+scrollwheel	scrollwheel
+scrren	screen
+scrrensavers	scrrensavers
+scsi	scsi
+search	search
+searched	searched
+searches	searches
+searching	searching
+second	second
+seconds	seconds
+secrecy	secrecy
+sector	sector
+secure	secure
+SecureBoot	SecureBoot
+securing	securing
+security	security
+see	see
+seeing	seeing
+seems	seems
+Segoe	Segoe
+select	select
+selected	selected
+Selection	Selection
+selects	selects
+semicolon	semicolon
+Semilight	Semilight
+send	send
+Sends	Sends
+senser	sensor
+sensor	sensor
+sensors	sensors
+sent	sent
+sentence	sentence
+sentry	sentry
+separate	separate
+seperate	seperate
+server	server
+service	service
+services	services
+session	session
+set	set
+sËTakia	The Takia
+Sets	Sets
+setting	setting
+settings	settings
+setup	setup
+sgtray	sgtray
+shadow	shadow
+shadows	shadows
+shake	shake
+shaking	shaking
+shape	shape
+share	share
+shared	shared
+sharemedia	sharemedia
+sharing	sharing
+SHe	SHe
+sheet	sheet
+shell	shell
+shift	shift
+shiftlock	shift lock
+shoot	shoot
+short	short
+shortcut	shortcut
+shortcuts	shortcuts
+shorter	shorter
+should	should
+show	show
+shown	shown
+Shows	Shows
+showsounds	showsounds
+shrink	shrink
+SHurihia	SHurihia
+shut	shut
+shutdown	shutdown
+shuts	shuts
+side	side
+sides	sides
+sideshow	sideshow
+sight	sight
+sign	sign
+signatures	signatures
+signed	signed
+signin	sign
+signingWsinch	signingWsinch
+signoff	signoff
+signon	sign
+signout	sign out
+similar	similar
+SimpleFast	SimpleFast
+since	since
+sinch	single
+single	single
+sites	sites
+size	size
+skinny	skinny
+ŞKo	Shko
+skSome	skSome
+sleeping	sleeping
+slide	slide
+sliding	sliding
+slow	slow
+slower	slower
+sluggish	sluggish
+SMake	Taste
+Small	Small
+smaller	smaller
+smart	smart
+smartcard	smartcard
+smartscreen	smart screen
+smooth	smooth
+snap	snap
+snapping	snapping
+Ŝngā	In the Şngā
+snipping	snipping
+snooze	snooze
+so	so
+socket	socket
+socks	socks
+soft	soft
+softare	softare
+software	software
+softwares	softwares
+sofware	software
+solution	solution
+solutions	solutions
+some	some
+someone	someone
+Sort	Sort
+sorting	sorting
+sotfware	software
+sound	sound
+soundcards	soundcards
+sounds	sounds
+soundsentry	soundsentry
+source	source
+sources	sources
+Spā	Spa
+space	space
+spacebar	spacebar
+spaces	spaces
+spanish	spanish
+Śpānui	Spanish
+speaker	speaker
+speakers	speakers
+speaking	speaking
+specified	specified
+specify	specify
+speech	speech
+speechrecognition	speechrecognition
+speed	speed
+speedup	speedup
+spell	spell
+spelling	spelling
+spelt	spelt
+Splits	Splits
+spyware	spyware
+spywear	spywear
+squiggle	squiggle
+squiggly	squiggly
+src	src
+sRGB	sRGB
+srOne	srOne
+sSKei	sSKei
+stability	stability
+stack	stack
+stage	stage
+stand	stand
+standalone	standalone
+standard	standard
+standby	standby
+start	start
+Started	Started
+starter	starter
+starting	starting
+startup	startup
+state	state
+status	status
+STautuhi	Text
+stereo	stereo
+stereoscopic	stereoscopic
+stick	stick
+sticky	sticky
+stickykeys	stickykeys
+still	still
+SToo	SToo
+stop	stop
+stopper	stopper
+storage	storage
+store	store
+stored	stored
+stream	stream
+streaming	streaming
+StringFileInfo	StringFileInfo
+stylus	stylus
+subdirectories	subdirectories
+subfolder	subfolder
+subfolders	subfolders
+subscriber	subscriber
+subwoofer	subwoofer
+successfully	successfully
+such	such
+sufficient	sufficient
+suggest	suggest
+suggestions	suggestions
+super	super
+supply	supply
+support	support
+supported	supported
+sure	sure
+surround	surround
+survey	survey
+Suspended	Suspended
+SVCD	SVCD
+Swipe	Swipe
+switch	switch
+switches	switches
+symbol	symbol
+symbols	symbols
+sync	sync
+synchronise	synchronise
+synchronization	synchronization
+synchronize	synchronize
+syncing	syncing
+syncronize	syncronize
+synk	sink
+SYou	SYou
+syskōnae	sys file
+system	system
+systemrestores	systemrestores
+systems	systems
+systemtray	systemtray
+systray	system tray
+tā	so
+tab	tab
+tabbed	tabbed
+tablets	tablets
+tabs	tabs
+taeapūkete	account holder
+taeatuhi	writing
+taetae	attendance
+tahiatu	clean
+Tahitahi Whakamahia	Single Use
+tāhopu	catch
+Tāhopua	Tahopua
+tāhopukina	arrested
+tahu	know
+tahuaroto	submenu
+tāhuhu	secret
+taiaho	laser
+taiao	environment
+taihoatia	be careful
+tails	tails
+taipitopito	details
+taitara	title
+taitoto	talent
+taka	take
+tākaro	play
+takaroa	delay
+takawiri	twist
+take	take
+takenuicKāore	takenuicNo
+taketake	original
+taki	such
+Takia	Because of
+takikupu	spelling
+takikupuh	takikupuh
+takina	required
+takinga	attack
+takiputa	exit
+tākiri	push
+takiuru	login
+takiwā	area
+Tākupu	Comment
+talk	talk
+taller	taller
+tāmata	start
+tāmatahia	refresh
+tāmau	fixed
+Tāmautia	Fixed
+tana	she/it
+tānga	print
+tāngata	people
+tangatāuta	installer
+Tāngia	Print
+tangotāuta	uninstall
+tangotāutatia	uninstall
+tāonenui	city
+tap	tap
+Tāp	Tap
+tapa	way
+tāpa	tile
+Tapangakore	Unlabeled
+tapawhā	rectangle
+tape	tape
+tapi	But
+Tāpi	Tape
+tapia	tapia
+tapii	but
+tapinga	achievement
+TAPIRI	LETTER
+tāpiri	add
+tāpirihia	add
+Tāpiringa	Supplement
+tāpiritia	add
+tapping	tapping
+taps	taps
+tāputa	exit
+taputapu	tool
+tāra	dollar
+tararuatanga	double standard
+Tare	Repel
+tārewa	pending
+target	target
+tāria	wait
+tāritetia	repeat
+tārua	copy
+tāruaDKa	copyDKa
+tāruatanga	copying
+tāruatia	duplicate
+task	task
+taskbar	taskbar
+taskman	taskman
+taskmgr	taskmgr
+tasks	tasks
+tātairetatia	to be quiet
+tātaitai	calculator
+Tātaitanga	Calculation
+tatanga	will be surprised
+tātari	filter
+Tātaria	Filter
+tātaritanga	analysis
+tatū	setup
+tātuhinga	drawing
+tatūnga	setup
+tatūria	set
+tau	can
+tāu	yours
+tauhanga	arithmetic
+Tauhinga	Title
+tauine	scale
+tauira	example
+TauLKāore	No data
+taumaha	weight
+taumahi	assignment
+taumahinga	function
+taumira	resolution
+taunakitanga	evidence
+taunakitia	recommended
+taunoa	default
+taunoaGWhakahaerehia	defaultGManaged
+taupāhohe	inactive
+taupānga	app
+TaupāngaMamao	Remote Application
+tāupe	variable
+taupokitanga	coverage
+taupū	index
+taupūtanga	index
+Taupūtia	Index
+tāuru	input
+taurua	double
+tāurua	input
+tāuruhia	enter
+tāurunga	entry
+tāuta	install
+tāutahia	installed
+tāutaina	installed
+tāutanga	installation
+tautapatia	to be given
+tāutatia	installed
+tautiakitanga	supervision
+tautoru	three years
+tautuhi	define
+tautuhia	define
+tautuhinga	settings
+tautuhitia	define
+tauwāhi	location
+tauwhāititia	limited
+tāuwhitinga	identification
+Tauwhitiwhiti	Interactive
+tcp	tcp
+tcpip	tcpip
+tē	that
+teach	teach
+tēhea	which one
+telco	telco
+telephone	telephone
+television	television
+tell	tell
+telnet	telnet
+temorary	temorary
+temperary	temperary
+temporary	temporary
+Tēnā	Thank you.
+terā	that
+tērā	that
+terenga	speed
+terminal	terminal
+tētahi	one
+text	text
+TFailed	TFailed
+than	than
+that	that
+the	the
+them	them
+theme	theme
+themes	themes
+ThemesJTīpakohia	ThemesJSelect
+then	then
+there	there
+these	these
+they	they
+thick	thick
+thicker	thicker
+thickness	thickness
+thin	thin
+third	third
+this	this
+those	those
+thrashing	thrashing
+threed	threed
+through	through
+thumbnails	thumbnails
+Ti	Of
+tīaho	light
+tīahoaho	bright
+tiakiITīpakohia	careSelect
+tiamana	chairman
+tiari	garden
+tīari	exist
+tīariari	exist
+tīariIHorekau	available
+Tiaro	Straight
+tick	tick
+ticking	ticking
+tif	tif
+tiff	tiff
+tikahia	correct
+tikapū	accurate
+tikiake	download
+tikina	convinces
+Tīkina	Get it
+tile	tile
+tiles	tiles
+tīmata	start
+tīmatanga	start
+tīmataria	start
+time	time
+timekOne	timekOne
+timeout	timeout
+timer	timer
+times	times
+timezone	timezone
+timing	timing
+tīngongo	drop
+Tīni	Teen
+Tīnihia	Tinhia
+tipako	choose
+tīpako	select
+tīpakoa	select
+tīpakohia	selected
+Tīpakona	Select
+tīpakonga	selection
+tīpakotia	selected
+Tīpoka	Skip
+Tīpokatia	Skip
+Tiri	Count
+tiria	investigates
+tiritahi	share
+tiritiri	share
+Tiritiria	Share
+tiro	number
+Tirotir	Watch
+tītakanga	change
+TitleArea	TitleArea
+tīwae	column
+tiwhikete	certificate
+tmaukati	tmaukati
+TMe	TMe
+tmp	tmp
+tmproxy	tmproxy
+tmtakawaenga	mediator
+to	to
+Toa	Warrior
+toe	then
+together	together
+toggle	toggle
+togglekeys	togglekeys
+tohua	select
+tohuāki	warning
+tohuana	sign
+tohupū	pointer
+tohutoro	reference
+tōia	drag
+tōkarikari	gentle
+Tōkarikaria	Tokarikaria
+Tōkarikarihia	Red
+tōkaritanga	patience
+toke	toke
+Tokonga	Support
+Tōkotahi	Alone
+tōku	mine
+tōmua	first
+tōna	his/her
+tōnā	his/her
+tone	tone
+toner	toner
+tones	tones
+tonga	arrived
+tonuWKāore	stillWNo
+too	too
+tool	tool
+toolbar	toolbar
+toolbars	toolbars
+tools	tools
+ToolTips	ToolTips
+tooth	tooth
+top	top
+topa	find
+Topengamata	Clippings
+tōroa	long
+torotiana	Trojan horse
+Tōtahi	Single
+tōtika	accurate
+touch	touch
+touchpad	touchpad
+touchtone	touchtone
+TP	TP
+TPlaying	TPlaying
+TPlease	TPlease
+track	track
+trackball	trackball
+tracker	tracker
+tracking	tracking
+tracks	tracks
+training	training
+transmit	transmit
+tray	tray
+Tree	Tree
+tried	tried
+trojan	trojan
+trouble	trouble
+troubleshoot	troubleshoot
+troubleshooter	troubleshooter
+troubleshooting	troubleshooting
+trubleshoot	trubleshoot
+truetype	truetype
+trust	trust
+trusted	trusted
+trusting	trusting
+try	try
+Trying	Trying
+ts	ts
+tshoot	tshoot
+ttata	tata
+TTē	Yes
+TTFontDimenCache	TTFontDimenCache
+TTFontDimenCacheDBCS	TTFontDimenCacheDBCS
+TThis	TThis
+tts	tts
+tttt	tttt
+tua	old
+tuapū	first
+tuemi	item
+tuemicKāore	tuemicNo
+tuemiCWhakamahia	itemCUse
+tuhipono	text
+tūhono	connect
+tūhonoa	connect
+tūhononga	connection
+tūhonotanga	connection
+Tūhura	Explore
+tuihono	online
+tuihonotia	online
+tuimotu	offline
+tuimotuCMomotu	offlineCMoto
+tukanga	process
+tukatuk	tukak
+tukatuka	processing
+tūkinotia	abused
+Tukuatu	Upload
+tukuoro	speaker
+tukurua	repeat
+tukuruatia	repeat
+tukutahi	synchronization
+TukutahiHohe	Synchronize
+tukutahitanga	synchronization
+Tukutahitia	Synchronize
+TukutahiWTukutahitia	SynchronizeSynchronize
+tukutuku	website
+tūmahi	task
+TūmahiJTirohia	TaskJView
+tūmataiti	privacy
+tūmataitinga	privacy
+tūmatanui	public
+tūmatanuiYSelect	publicYSelect
+tūmau	server
+Tūmomo	Type
+tuner	tuner
+tūnga	position
+tuning	tuning
+turetia	legal
+turi	have
+turn	turn
+turnoff	turnoff
+turnon	turn
+turns	turns
+tūtatari	wait
+tūtei	spy
+tūtira	queue
+tūtohu	recommend
+tūtohua	recommended
+tutorial	tutorial
+tūtorotika	tutororotic
+tuwhatia	scattered
+tuwheratia	open
+tv	tv
+tweak	tweak
+two	two
+txt	txt
+type	type
+typeface	typeface
+types	types
+typography	typography
+u	in
+UAC	UAC
+uaki	clock
+uana	it rains
+uara	value
+UaraIKāore	Value: None
+uAre	Are you
+UCan	UCan
+UDF	UDF
+uefi	uefi
+ueue	shake
+ui	ui
+uiuitanga	interview
+uk	uk
+üKāore	No
+Ukua	These
+ūkui	clear
+ūkuia	clear
+ūkuimomo	squeeze
+ūkuitanga	prayer
+ultimate	ultimate
+umanga	business
+ÜMe	ÜMe
+unable	unable
+unavailable	unavailable
+unblock	unblock
+undefined	undefined
+under	under
+understand	understand
+Undo	Undo
+unexpected	unexpected
+unformatted	unformatted
+Üngā	Level
+ūnga	destination
+Unidentified	Unidentified
+Uninstall	Uninstall
+uninstalled	uninstalled
+uninstalling	uninstalling
+uninstalls	uninstalls
+unistall	uninstall
+unknown	unknown
+unlock	unlock
+unnecessary	unnecessary
+unneeded	unneeded
+unpartition	unpartition
+unplugged	unplugged
+unresponsive	unresponsive
+unsaved	unsaved
+unsupported	unsupported
+Unu	One
+unwanted	unwanted
+up	up
+upblocker	upblocker
+upCMake	upCMake
+update	update
+updated	updated
+updater	updater
+updates	updates
+Updating	Updating
+upgrade	upgrade
+upload	upload
+uppercase	uppercase
+UProvides	UProvides
+ups	ups
+urn	urn
+ūro	snoring
+uru	benefit
+urua	week
+UruCMe	UruCMe
+uruoro	microphone
+urupare	response
+urutanga	access
+Urutaua	Adapt
+UruTīnihia	UruTīnihia
+usa	deer
+usage	usage
+USB	USB
+use	use
+used	used
+useless	useless
+usemTo	use to
+user	user
+useraccount	useraccount
+useracount	useracount
+username	username
+USERPROFILE	USERPROFILE
+users	users
+uses	uses
+using	using
+usually	usually
+uta	uta
+utae	Utae
+utata	confusion
+utauta	equipment
+UTF	UTF
+UThe	The
+utilities	utilities
+utility	utility
+UWhakamahia	Use
+Ųwhakatika	Edit
+uwhera	uvhera
+Üwhirihora	Üwhirihora
+v	in
+valid	valid
+value	value
+values	values
+vanished	vanished
+VAny	Bathtubs
+variables	variables
+variety	variety
+vault	vault
+VCD	VCD
+VDisplays	VDisplays
+vendor	vendor
+verb	verb
+verified	verified
+verify	verify
+version	version
+versions	versions
+vga	vga
+via	via
+video	video
+videocards	videocards
+videoes	videos
+videos	videos
+view	view
+viewer	viewer
+viewing	viewing
+Views	Views
+VIf	VIf
+virtual	virtual
+virtualmemory	virtualmemory
+virus	virus
+viruses	viruses
+visible	visible
+vision	vision
+vista	vista
+visual	visual
+visuals	visuals
+VKāore	VNo
+VKei	VKei
+vmakaro	vmakar
+VManages	VManages
+Vngā	Vngā
+voice	voice
+voices	voices
+volume	volume
+volumes	volumes
+vpn	vpn
+vtaki	vtaki
+Vtīaho	Video
+vTiro	vTiro
+W	IN
+wa	of
+wā	period
+wae	wow
+waea	phone
+waehere	code
+wāhanga	section
+wāhi	place
+wāhiki	break
+wāhitau	address
+wāhui	meeting
+waihangahia	create
+waihangatia	created
+waihō	put out
+Waihōtia	Waihōtia
+wait	wait
+waituhi	ink
+wake	wake
+wakeup	wakeup
+waking	waking
+wall	wall
+walled	walled
+wallpaper	wallpaper
+want	want
+WAny	Any
+ware	ware
+warning	warning
+warnings	warnings
+was	was
+wasn	wasn
+watch	watch
+wātea	available
+wāteakore	unavailable
+Wāteatanga	Availability
+wātū	session
+wātūDKatia	sessionDKatia
+wav	wav
+way	way
+We	We
+weak	weak
+web	web
+webcam	webcam
+webpages	webpages
+website	website
+websites	websites
+Week	Week
+wehe	open
+weight	weight
+well	well
+wer	who
+were	were
+Wet	Wet
+wete	knowledge
+wetea	untie
+weteārai	barrier
+wetemaukati	unlock
+wetemuna	decrypt
+Wetepine	Often
+wetetararua	double-decker
+wetetāutahia	uninstall
+Wetetāutatia	Uninstall
+wetetautuhi	undefined
+weto	veto
+wetohia	turn off
+Wh	Wh
+whaiaro	personal
+whaiaronga	directory
+whaiarotanga	personality
+whaiarotia	personal
+whaikiko	physical
+whāinga	goal
+whakaāhei	enable
+Whakaāheitanga	Permission
+whakaāheitia	allowed
+whakaahuatanga	description
+whakaāhuatanga	appearance
+whakaarotau	think about
+Whakaatuhia	Show
+Whakaatungia	Show
+Whakaaturua	Set up
+whakaaunotia	automate
+whakaea	clear
+Whakaenehia	Smooth
+whakahaerehia	managed
+whakahaerenga	management
+Whakahaerengia	Managed
+whakahaeretia	managed
+Whakahakorihia	Animated
+Whakahakoritia	Blessed
+Whakahara	Crime
+Whakaharatauhia	Practice.
+whakaharatautanga	practice
+whakahaumaruana	security
+whakahiato	compilation
+whakahohe	activate
+Whakahohea	Activate
+Whakahohetia	Activate
+whakahōputu	format
+whakahōputuanō	reformat
+whakahōputuhia	formatted
+whakahōpututia	organized
+whakahōtaka	schedule
+whakahōu	update
+whakahōuaunoa	update
+WhakahōuCWhakahōuhia	UpdateCUpdate
+whakahōuhia	update
+whakahōunga	update
+whakahōutanga	update
+whakahōutia	updated
+whakaingoatia	named
+whakairoiro	graphics
+whakakā	turn on
+Whakakaitā	Restriction
+whakakamahia	be careful
+whakakāngia	turn on
+whakakē	change
+whakakētia	change
+whakakī	fill
+whakakorehia	cancel
+Whakamaheretia	Planned
+whakamahingia	used
+Whakamanahia	Validate
+whakamāoritanga	translation
+whakamāoritia	translate
+whakamātau	test
+whakamātauria	try
+whakamōhio	inform
+whakamōhiotanga	notification
+whakamōhiotia	be informed
+whakamōkito	minimize
+Whakamōkitotia	Minimize
+whakamōrahi	increase
+Whakamōrahitia	Enlarge
+whakamuna	encrypt
+Whakamunahia	Encrypt
+Whakangahau	Entertainment
+whakangāwari	simplify
+whakanuku	move
+Whakaorahia	Recover
+Whakaoratia	Healed
+whakaotiaunoa	autocomplete
+whakapā	contact
+whakapaitia	improve
+whakapāpāho	playable
+Whakapiri	Attach
+Whakapiria	Attach
+whakapūranga	archive
+whakaputatia	publish
+whakarahi	increase
+Whakarahingia	Guided
+whakarato	provide
+whakaraupapa	arrange
+Whakaraupapahia	Sort
+whakarei	enhance
+Whakareri	Preparation
+Whakarewa	Launch
+Whakarewahia	Launch
+whakaripa	to change
+whakaritetanga	preparation
+Whakaroha	Expansion
+Whakarohaina	Expand
+whakarōpū	group
+Whakarōpūhia	Grouped
+whakarōpūtanga	classification
+Whakarōpūtia	Grouped
+whakarunga	upwards
+Whakat	Announcement
+whakatauranga	rating
+whakataurite	comparison
+Whakatauritea	Compare
+whakatauritenga	comparison
+whakaterenga	navigation
+whakatiahoAWhakamahia	activateUse
+whakatikaina	fix
+whakatōpū	consolidation
+Whakatōpūtia	Grouped
+whakatū	set up
+whakatuka	anger
+whakatūpato	warning
+Whakatuw	Whakatūu
+Whakatuwh	Open
+whakatuwherahia	open
+Whakaū	Confirm
+whakaūnga	confirmation
+whakaurungia	included
+whakaūtanga	confirmation
+whakawaehere	coding
+whakawātea	release
+Whakawāteatia	Cleared
+whakaweto	turn off
+whakawetoa	turn off
+whakawetohia	turn off
+whakawetongia	turn off
+whakawhaiaro	personalize
+whakawhaiaronga	promotion
+whakawhaiarotanga	personalization
+whakawhaiarotia	personalize
+Whakawhāitihia	Narrow it down
+whakawhanake	develop
+Whakawhitinga	Communication
+Whāki	Tell
+WhānauYHurihia	FamilyYChange
+whāngai	adopt
+whanonga	behavior
+whānu	wide
+whānui	general
+whānuitanga	scope
+whārahi	expansion
+whārahinga	expansion
+whārahitia	expand
+whārangi	page
+whāranu	mix
+whārite	equation
+Whātare	Whatare
+whātīwhara	criminal
+whātoroa	extend
+whatunga	network
+whatungaTWaihangatia	networkTCreated
+whatungaYWaihangatia	networkYCreate
+whatuwhatunga	network
+whāurutau	adapt
+whea	where
+wheel	wheel
+wheketere	factory
+where	where
+whether	whether
+which	which
+while	while
+whirihora	configure
+whirihorahia	configured
+whirihoranga	configuration
+whirihoratakawaenga	intermediate configuration
+Whirihoratia	Configure
+whitiāhua	movie
+whiwhia	get
+Why	Why
+Wi	Wi
+wide	wide
+wider	wider
+widgets	widgets
+width	width
+wifi	wifi
+wildcards	wildcards
+will	will
+willnot	willnot
+win	win
+windos	windos
+window	window
+windows	windows
+WindowsThe	WindowsThe
+windowsupdate	windowsupdate
+windw	windw
+winkey	winkey
+winproxy	winproxy
+winsock	winsock
+wipe	wipe
+wipeVhōkai	wipeVhōkai
+wīra	wheel
+wire	wire
+wireless	wireless
+with	with
+without	without
+wīwī	skinny
+wizard	wizard
+wizzard	wizzard
+WKāore	No
+wKei	wKei
+WKi	WKi
+wlan	wlan
+wmf	wmf
+Wmoka	Wmoka
+wngā	slang
+won	won
+wono	wono
+word	word
+words	words
+work	work
+workarounds	workarounds
+workgroup	workgroup
+working	working
+workplace	workplace
+world	world
+worm	worm
+would	would
+Wrapper	Wrapper
+writable	writable
+write	write
+writing	writing
+written	written
+ws	ws
+wsMicrosoft	wsMicrosoft
+WTāpirihia	Add
+wThis	wThis
+wtw	wtw
+wupdater	wupdater
+wuwhāiti	narrow
+wwhaikiko	physical
+www	www
+x	x
+XFiles	XFiles
+xKāore	xNo
+xml	xml
+xmlns	xmlns
+XMS	XMS
+XP	XP
+Xrahi	Big
+xtangotāuta	xtangoinstall
+Xtātairetatia	Xtātairetatia
+XTirohia	XView
+XUDF	XUDF
+Xwhakahōputu	Xformat
+XWhakaritea	XPrepare
+Y	AND
+YAdds	YAdds
+year	year
+yen	yen
+yes	yes
+YIf	YIf
+YKāore	No
+you	you
+your	your
+Ypapa	Ypapa
+YSelect	YSelect
+yThere	yThere
+yuan	yuan
+yyyy	yyyy
+Z	WITH
+Zarea	horizon
+ZEnter	Zentral
+ZFor	ZFor
+ZKāore	No
+ZKi	No.
+Zkōpae	Zkōpae
+Zmata	Mat
+zone	zone
+zones	zones
+zoom	zoom
+Ztāpiri	Add
+zThe	zThe
+zUse	zUse
