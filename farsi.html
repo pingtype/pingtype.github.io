@@ -1,0 +1,839 @@
+<!--
+	Pingtype Farsi
+	Peter Burkimsher 2025-02-18
+	
+	A literal translator for Farsi-English.
+	
+	Time to port from Japanese: 1 hour coding. 
+	Many more hours downloading data and building the dictionary. 
+	The translator code itself is simple, getting a good dictionary is not easy. 
+	
+	Colours:
+	1. Other
+	2. Verb
+	3. Particle
+	4. Noun
+	
+	Features:
+	+ WLC Farsi Bible 
+	+ Build a dictionary using romanisations
+	+ Debug
+	+ English translation
+
+	To Do:
+	- Fonts
+	- Right to left
+	- Opacity
+	- Colours for info
+	- IPA phonetics
+	- Dictionary Editor
+	- Advanced button
+	- Words from Bible
+	- Clear
+	- Memory
+	- Documentation
+	- Page breaks
+	- Print
+	- Google Translate
+	- Word lists
+	- Missing words
+	- Multiple dictionary files
+	- Auto-translate on dictionariesLoaded
+	- All Farsi from en-wiktionary
+	
+	Data sources:
+	+ WLC from Bible.com
+	- HHH New Testament
+	- HRNT New Testament
+	
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Farsi</title>
+  	  	
+	<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			table td {
+				white-space: nowrap;
+      		}
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+    	</style>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<link rel="stylesheet" href="jquery-ui.css"/>
+
+  </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		<b>Pingtype Farsi</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Farsi
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Romanisation Manual
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output
+  					</div>
+    			</td>
+    		<tr>
+    			<td>
+  					<textarea id="farsiTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="romanisationManualTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+    		</tr>
+    	</table>
+
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear
+					</div>
+				</td>
+			</tr>
+    	</table>
+
+		<!--<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">-->
+		<div id="advancedRows" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="farsiPlainCheckbox" ><span onclick="toggleCheckbox('farsiPlainCheckbox');">Farsi Plain</span>
+						<input type="checkbox" id="farsiCheckbox" checked="true"><span onclick="toggleCheckbox('farsiCheckbox');">Farsi</span>
+						<input type="checkbox" id="romanisationCheckbox" checked="true"><span onclick="toggleCheckbox('romanisationCheckbox');">Romanisation</span>
+						<input type="checkbox" id="romanisationManualCheckbox" checked="true"><span onclick="toggleCheckbox('romanisationManualCheckbox');">Romanisation Manual</span>
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					</td>
+				</tr>
+			</table>
+
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<!--<div id="debugDiv" class="advanced" style="visibility:hidden">-->
+		<div id="debugDiv" class="advanced">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+    </body>
+    
+    
+	<!-- Native scripts -->
+    <script>
+    	
+		var combinedDictionaryData = "";
+		
+		var lastDictionary = false;
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("loaded " + combinedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// isFarsi - check if the character is in the Farsi alphabet 
+		function isFarsi(thisCharacter)
+		{
+			//debugLog("isFarsi(" + thisCharacter + ")");
+			
+			var farsiLetters = "آأؤئابپةتثجچحخدذرزژسشصضطظعغفقكکگلمنهۀوىيی";
+			
+			//var farsiConsonants = "־", "׀", "א", "ב", "ג", "ד", "ה", "ו", "ז", "ח", "ט", "י", "כ", "ל", "מ", "נ", "ס", "ע", "פ", "צ", "ק", "ר", "ש", "ת";			
+			//var farsiVowels = "֑", "ְ", "ֱ", "ֲ", "ֳ", "ִ", "ֵ", "ֶ", "ַ", "ָ", "ֹ", "ֻ", "ׂ", "ׁ", "ּ", "ֿ";
+			
+			if (contains(farsiLetters,thisCharacter) == true)
+			{
+				return true;
+			}
+
+			//if (contains(farsiVowels,thisCharacter) == true)
+			//{
+			//	return true;
+			//}
+
+			return false;
+			
+		} // end function isFarsi
+
+		function isFarsiString(thisString)
+		{
+			//debugLog("isFarsiString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsFarsi = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isFarsi(thisCharacter) == false)
+				{
+					stringIsFarsi = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsFarsi;
+		} // end function isFarsiString
+
+		function containsFarsiString(thisString)
+		{
+			//debugLog("isFarsiString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsFarsi = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isFarsi(thisCharacter) == true)
+				{
+					stringIsFarsi = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsFarsi;
+		} // end function containsFarsiString
+
+
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+
+    	function spacePunctuation(thisWord)
+    	{
+    		thisWord = " " + thisWord + " ";
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, " '", " ' ");
+    		thisWord = replaceChars(thisWord, "' ", " ' ");
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");
+    		
+    		thisWord = replaceChars(thisWord, "0", " 0 ");
+    		thisWord = replaceChars(thisWord, "1", " 1 ");
+    		thisWord = replaceChars(thisWord, "2", " 2 ");
+    		thisWord = replaceChars(thisWord, "3", " 3 ");
+    		thisWord = replaceChars(thisWord, "4", " 4 ");
+    		thisWord = replaceChars(thisWord, "5", " 5 ");
+    		thisWord = replaceChars(thisWord, "6", " 6 ");
+    		thisWord = replaceChars(thisWord, "7", " 7 ");
+    		thisWord = replaceChars(thisWord, "8", " 8 ");
+    		thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+			var thesePunctuation = "—,;:!?.…\"“”«»(){}*/#%¨°+=|≈♦–—,;:!?.…'‘’\"“”„()[]*/#%=½⅓¼ʼ–—,;:!?.…'‘’“”()[]*/\+=¬¼";
+			var numberPunctuation = thesePunctuation.length;
+			for (var currentPunctuation = 0; currentPunctuation < numberPunctuation; currentPunctuation++)
+			{
+				var thisPunctuation = thesePunctuation[currentPunctuation];
+				
+    			thisWord = replaceChars(thisWord, thisPunctuation, " " + thisPunctuation + " ");
+			}
+						
+			while (contains(thisWord, "  ") == true)
+			{
+    			thisWord = replaceChars(thisWord, "  ", " ");
+    		}
+
+    		return thisWord;
+    	} // end function spacePunctuation
+
+    	function wordSpace(thisText)
+    	{
+    		var thisText = spacePunctuation(thisText);
+    		
+			return thisText;
+		}
+
+    	function translateText(farsiText, romanisationManualText, englishText)
+    	{
+			var addFarsiPlain = document.getElementById('farsiPlainCheckbox').checked;
+			var addFarsi = document.getElementById('farsiCheckbox').checked;
+			var addRomanisation = document.getElementById('romanisationCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addRomanisationManual = document.getElementById('romanisationManualCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var farsiLinesArray = farsiText.split("\n");
+			var romanisationManualArray = romanisationManualText.split("\n");
+			var englishArray = englishText.split("\n");
+			
+			var numberFarsiLines = farsiLinesArray.length;
+			var numberRomanisationManualLines = romanisationManualArray.length;
+			var numberEnglishLines = englishArray.length;
+			
+			var farsiHtml = "";
+			var romanisationHtml = "";
+			var romanisationManualHtml = "";
+			var literalHtml = "";
+			
+			var farsiText = "";
+			var romanisationText = "";
+			var romanisationManualText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+						
+			for (var currentLine = 0; currentLine < numberFarsiLines; currentLine++)
+			{
+				var farsiLine = farsiLinesArray[currentLine];
+
+				var romanisationManualLine = "";
+								
+				if (currentLine < numberRomanisationManualLines)
+				{
+					romanisationManualLine = romanisationManualArray[currentLine];
+				} else {
+					romanisationManualLine = "";
+				}
+
+				var englishLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					englishLine = englishArray[currentLine];
+				} else {
+					englishLine = "";
+				}
+				
+				var farsiLineHtml = "";
+				var romanisationLineHtml = "";
+				var romanisationManualLineHtml = "";
+				var literalLineHtml = "";
+			
+				var farsiLineText = "";
+				var romanisationLineText = "";
+				var romanisationManualLineText = romanisationManualLine;
+				var literalLineText = "";
+								
+				var spacedLine = wordSpace(farsiLine);
+				var thisLineWords = spacedLine.split(" ");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				//var romanisationManualLineArray;
+				
+				if (addRomanisationManual == true)
+				{
+					romanisationManualLineHtml = replaceChars(romanisationManualLine, " ", "</td><td>");
+					
+					romanisationManualLineHtml = "<tr class=\"romanisationManualLine\"><td>" + romanisationManualLineHtml + "</td></tr>";
+					
+				}
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWord = thisLineWords[currentLineWord];
+					
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+					
+					if (inDictionary == true)
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisLiteral = "";
+						var thisRomanisation = "";
+						
+						thisLiteral = thisDictionaryLineArray[0];
+
+						if (lineLength >= 1)
+						{
+							thisRomanisation = thisDictionaryLineArray[1];
+						}
+						
+						var thisWordHtml = "<div class=\"farsi\">" + thisWord + "</div>";
+						var thisRomanisationHtml = "<div class=\"romanisation\">" + thisRomanisation + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+
+						farsiLineHtml = farsiLineHtml + "<td>" + thisWordHtml + "</td>";
+						romanisationLineHtml = romanisationLineHtml + "<td>" + thisRomanisationHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						farsiLineText = farsiLineText + thisWord;
+						romanisationLineText = romanisationLineText + thisRomanisation;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+																		
+						var thisWordNotInDictionary = thisWord;
+						
+						var thisWordNotInDictionaryFarsiHtml = "<div class=\"farsi\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryRomanisationHtml = "<div class=\"romanisation>" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+						
+						farsiLineHtml = farsiLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						romanisationLineHtml = romanisationLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+					
+						farsiLineText = farsiLineText + thisWordNotInDictionary;
+						romanisationLineText = romanisationLineText + thisWordNotInDictionary;
+						literalLineText = literalLineText + thisWordNotInDictionary;
+					
+						if (isFarsiString(thisWord) == true)
+						{
+							missingWords = missingWords + thisWord + "\n";
+							debugLog(thisWord);
+						}
+						
+					} // end if the dictionary contains the word
+										
+					farsiLineText = farsiLineText + " ";
+					romanisationLineText = romanisationLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addFarsiPlain == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"farsiPlainLine\">" + farsiLine + "</tr>";
+				}
+				
+				if (addFarsi == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"farsiLine\">" + farsiLineHtml + "</tr>";
+				}
+				
+				if (addRomanisation == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"romanisationLine\">" + romanisationLineHtml + "</tr>";
+				}
+				
+				if (addRomanisationManual == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"romanisationManualLine\">" + romanisationManualLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+								
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLine + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+
+				if (addFarsiPlain == true)
+				{
+					outputText = outputText + farsiLine + "\n";
+				}
+
+				if (addFarsi == true)
+				{
+					outputText = outputText + farsiLineText + "\n";
+				}
+				
+				if (addRomanisation == true)
+				{
+					outputText = outputText + romanisationLineText + "\n";
+				}
+				
+				if (addRomanisationManual == true)
+				{
+					outputText = outputText + romanisationManualLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			//showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var farsiText = document.getElementById("farsiTextArea").value;
+    		var romanisationManualText = document.getElementById("romanisationManualTextArea").value;
+    		var englishText = document.getElementById("englishTextArea").value;
+    		
+    		
+			var translationOutput = translateText(farsiText, romanisationManualText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function dictionariesLoaded()
+		{
+		
+		} // end function dictionariesLoaded
+
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+
+
+		lastDictionary = true;
+    	loadDictionary("Farsi/FarsiDefinitionsRoman.txt");
+    	
+    </script>
+
+
+</html>
