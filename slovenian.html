@@ -1,0 +1,1089 @@
+<!--
+	Pingtype Slovenian
+	Peter Burkimsher 2025-02-20
+	
+	A literal translator for Slovenian-English.
+	
+	Features:
+
+	To Do:
+	- Build a dictionary
+	- Romaja
+	- English translation
+	- Dictionary Editor
+	- Advanced button
+	- Words from Bible
+	- Clear
+	- Memory
+	- Documentation
+	- Print
+	- Google Translate
+	- Word lists
+	- Missing words
+	- Multiple dictionary files
+	- Auto-translate on dictionariesLoaded
+	- All Hyogai Kanji (uncommon Chinese characters) from en-wiktionary
+	
+	Data sources:
+	
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Pingtype Slovenian</title>
+  	  	
+	<meta charset="utf-8" />
+		<style>
+			body {
+				font-family: Tahoma, Geneva, sans-serif;
+			}
+		
+			.DefaultButtonOuter
+			{
+				border: 2px solid black ;
+				border-radius: 8px;
+				width: 96px;
+				height: 26px;
+				text-align: center;
+			
+				/*background-color: #99999a;*/
+				background: #99999a; /* For browsers that do not support gradients */
+				/*background: -webkit-linear-gradient(left top, red, yellow);*/ /* For Safari 5.1 to 6.0 */
+				/*background: -o-linear-gradient(bottom right, red, yellow);*/ /* For Opera 11.1 to 12.0 */
+				/*background: -moz-linear-gradient(bottom right, red, yellow); */ /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right, #dcdbde, #737374); /* Standard syntax */
+			}
+
+			.ButtonInner
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 88px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: "Charcoal CY", "Virtue", Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+		
+			.ButtonInner:active
+			{
+				background:#666666;
+				color: #ffffff;
+			}
+			
+			table td {
+				white-space: nowrap;
+      		}
+
+			.key
+			{
+				border: 1px solid black ;
+				border-radius: 5px;
+				background-color: #dcdbde;
+				width: 18px;
+				height: 18px;
+				text-align: center;
+				margin: 3px;
+			
+				line-height: 18px;
+				font-family: Geneva, sans-serif;
+				font-size: 11px;
+				color: #000000;
+			}
+
+			@media print {
+    			p {page-break-after: always;}
+    			table {page-break-inside: avoid;}
+			}
+
+      .hangul_undefined {
+        font-family: "Pingfang", "Heiti TC Light", "HanaMinB", Tahoma, Geneva, sans-serif;
+        color:#000000;
+		font-size: 30px;
+		display:inline;
+      }
+
+    	</style>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon-precomposed" href="images/pingtypeLogo256.png" />
+	<link rel="stylesheet" href="leaflet/leaflet.css" />
+	<link rel="stylesheet" href="jquery-ui.css"/>
+
+  </head>
+    <body>
+    	<div style="font-family: 'Lucida Sans', Geneva, sans-serif; font-size: 16px;">
+    		<b>Pingtype Slovenian</b>
+    	</div>
+    	
+    	<table>
+    		<tr>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Slovenian
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						English
+  					</div>
+    			</td>
+    			<td>
+  					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+  						Text output
+  					</div>
+    			</td>
+    		<tr>
+    			<td>
+  					<textarea id="slovenianTextArea" rows="10" cols="50" class="advanced"></textarea>
+    			</td>
+    			<td>
+  					<textarea id="englishTextArea" rows="10" cols="50" ></textarea>
+    			</td>
+	  			<td>
+  					<textarea id="outputTextArea" rows="10" cols="50" ></textarea>
+  				</td>
+    		</tr>
+    	</table>
+
+    	<table id="translateButtonsTable">
+    		<tr>
+				<td>
+					<div id="defaultTranslateButton" class="DefaultButtonOuter">
+						<div id="translateButton" class="ButtonInner" onclick="translateButtonClicked();">
+							Translate
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="ButtonInner" onclick="clearButtonClicked();" style="width:70px">
+						Clear
+					</div>
+				</td>
+				<td>
+					<div id="lineBreaksButton" class="ButtonInner" onclick="lineBreaksButtonClicked();" style="width:80px">
+						Line breaks
+					</div>
+				</td>
+			</tr>
+    	</table>
+
+		<!--<div id="advancedRows" style="visibility:hidden;height:0px;" class="advanced">-->
+		<div id="advancedRows" class="advanced">
+			<table id="annotationsTable" style="font-family: 'Lucida Sans', 'Verdana', Geneva, sans-serif; font-size: 12px;">
+				<tr>
+					<td>
+						<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+							Annotations
+						</div>
+					</td>
+					<td>
+						<input type="checkbox" id="slovenianPlainCheckbox" checked="true"><span onclick="toggleCheckbox('slovenianPlainCheckbox');">Slovenian Plain</span>
+						<input type="checkbox" id="slovenianCheckbox" checked="true"><span onclick="toggleCheckbox('slovenianCheckbox');">Slovenian</span>
+						<input type="checkbox" id="linkSlidersCheckbox" checked="true" ><span onclick="toggleCheckbox('linkSlidersCheckbox');">Link</span>
+						<input type="range" id="literalOpacity" value="100" onclick="setLiteralOpacity();">
+						<input type="checkbox" id="literalCheckbox" checked="true"><span onclick="toggleCheckbox('literalCheckbox');">Literal</span>
+						<input type="range" id="englishOpacity" value="100" onclick="setChineseOpacity();">
+						<input type="checkbox" id="englishCheckbox" checked="true"><span onclick="toggleCheckbox('englishCheckbox');">English</span>
+					</td>
+					<td>
+						<textarea id="pageBreaksTextArea" rows="1" cols="3" >8</textarea>
+					</td>
+					<td>
+						<input type="checkbox" id="pageBreaksCheckbox" checked="true"><span onclick="toggleCheckbox('pageBreaksCheckbox');">Page Breaks</span>
+					</td>
+				</tr>
+			</table>
+
+		<table id="htmlTable">
+			<tr>
+				<td>
+					<div style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">
+						HTML output
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div id="outputHtml"></div>
+				</td>
+			</td>
+		</table>
+		
+		<!--<div id="debugDiv" class="advanced" style="visibility:hidden">-->
+		<div id="debugDiv" class="advanced">
+			<p style="font-family: 'Charcoal CY', 'Virtue', Geneva, sans-serif; font-size: 14px;">Debug</p>
+			<textarea id="debugTextArea" rows="10" cols="50" ></textarea>
+		</div>
+		
+    </body>
+    
+    
+	<!-- Native scripts -->
+    <script>
+    	
+		var QueryString = function () 
+		{
+			// This function is anonymous, is executed immediately and 
+			// the return value is assigned to QueryString!
+			var query_string = {};
+			var query = window.location.search.substring(1);
+			var vars = query.split("&");
+			for (var i=0;i<vars.length;i++) {
+			  var pair = vars[i].split("=");
+				  // If first entry with this name
+			  if (typeof query_string[pair[0]] === "undefined") {
+				query_string[pair[0]] = decodeURIComponent(pair[1]);
+				  // If second entry with this name
+			  } else if (typeof query_string[pair[0]] === "string") {
+				var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+				query_string[pair[0]] = arr;
+				  // If third or later entry with this name
+			  } else {
+				query_string[pair[0]].push(decodeURIComponent(pair[1]));
+			  }
+			} 
+			return query_string;
+		}();
+
+    	
+		var combinedDictionaryData = "";
+		
+		var lastDictionary = false;
+    	
+		function loadDictionary(filename)
+		{
+			//debugLog("loadDictionary(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						combinedDictionaryData = combinedDictionaryData + "\n" + xmlhttp.responseText;
+
+						//debugLog("loaded " + combinedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('something else other than 200 was returned');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadDictionary
+
+		function toggleCheckbox(checkboxId)
+		{
+			//debugLog("toggleCheckbox");
+
+			document.getElementById(checkboxId).checked = !document.getElementById(checkboxId).checked;
+		} // end function toggleCheckbox
+
+		// contains - Does thisText contain searchString?
+		function contains(thisText, searchString)
+		{
+			//debugLog("contains(" + thisText + "," + searchString + ")");
+
+			if (thisText == null)
+			{
+				return false;
+			}
+			
+			return thisText.indexOf(searchString) != -1;
+
+		} // end function contains
+
+		function replaceChars(thisString, searchString, replaceString)
+		{
+			//debugLog("replaceChars(" + thisString + "," + searchString + "," + replaceString + ")");
+			
+			if ((thisString == undefined) || (searchString == undefined) || (replaceString == undefined))
+			{
+				return thisString;
+			}
+			
+			return thisString.split(searchString).join(replaceString);
+		} // end function replaceChars
+    	
+		function textBetween(thisText, startString, endString)
+		{
+			//debugLog("textBetween(" + thisText + "," + startString + "," + endString + ")");
+			
+			if (thisText == undefined)
+			{
+				return "";
+			}
+			
+			var start_pos = 0;
+			if (startString != 'start')
+			{
+				start_pos = thisText.indexOf(startString);
+
+				// If the text does not contain the start string, return a blank string
+				if (start_pos < 0)
+				{
+					return '';
+				}
+
+				// Skip the first startString characters
+				start_pos = start_pos + startString.length;
+			}
+
+			var end_pos = thisText.length;
+			if (endString != 'end')
+			{
+				end_pos = thisText.indexOf(endString,start_pos);
+			}
+
+			// If the text does not have the end string after the start string, return the whole string after the start
+			if (end_pos < start_pos)
+			{
+				end_pos = thisText.length;
+			}
+
+			var newText = thisText.substring(start_pos,end_pos);
+
+			return newText;
+		} // end textBetween
+		
+		// Check if a value is a number
+		function isNumeric(n) 
+		{
+			//debugLog("isNumeric(" + n + ")");
+			
+			return !isNaN(parseFloat(n)) && isFinite(n);
+		} // end function isNumeric
+		
+		function isNumberString(thisString)
+		{
+			//debugLog("isNumberString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsNumber = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isNumeric(thisCharacter) == false)
+				{
+					stringIsNumber = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsNumber;
+		} // end function isNumberString
+
+		// isSlovenian - check if the character is Slovenian
+		function isSlovenian(thisCharacter)
+		{
+			//debugLog("isSlovenian(" + thisCharacter + ")");
+			
+			var slovenianCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-aáâābḇcčdďḏeéêěēfgḡhḥiíîjkḵlmnňoóôōpqrřsśšṣtťṭṯuúûůvwxyýzžaáàâbcčdeéèêëfghiíìîjklmnoóòôöpqrsštuúùüvxYzž";
+						
+			if (contains(slovenianCharacters,thisCharacter) == true)
+			{
+				return true;
+			}
+			
+			return false;
+			
+		} // end function isSlovenian
+
+		function isSlovenianString(thisString)
+		{
+			//debugLog("isSlovenianString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsSlovenian = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isSlovenianString(thisCharacter) == false)
+				{
+					stringIsSlovenian = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsSlovenian;
+		} // end function isSlovenianString
+
+		function containsSlovenianString(thisString)
+		{
+			//debugLog("isSlovenianString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsSlovenian = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isSlovenian(thisCharacter) == true)
+				{
+					stringIsSlovenian = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsSlovenian;
+		} // end function containsSlovenianString
+
+
+		function isEnglish(thisCharacter)
+		{
+			//debugLog("isEnglish(" + thisCharacter + ")");
+
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
+			
+			if (contains(alphabet, thisCharacter) == true)
+			{
+				return true;
+			} else {
+				return false;
+			}
+			
+		} // end function isEnglish
+		
+		function isEnglishString(thisString)
+		{
+			//debugLog("isEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == false)
+				{
+					stringIsEnglish = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function isEnglishString
+		
+		function containsEnglishString(thisString)
+		{
+			//debugLog("containsEnglishString(" + thisString + ")");
+
+			var numberCharacters = thisString.length;
+			
+			var stringIsEnglish = false;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isEnglish(thisCharacter) == true)
+				{
+					stringIsEnglish = true;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsEnglish;
+		} // end function containsEnglishString
+
+		function loadSlovenian(filename)
+		{
+			//debugLog("loadSlovenian(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						slovenianText = xmlhttp.responseText;
+						document.getElementById("slovenianTextArea").value = slovenianText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading slovenian file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadSlovenian
+
+		function loadEnglish(filename)
+		{
+			//debugLog("loadEnglish(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						englishText = xmlhttp.responseText;
+						document.getElementById("englishTextArea").value = englishText;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading english file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadEnglish
+
+    	function spacePunctuation(thisWord)
+    	{    	
+    		thisWord = " " + thisWord + " ";
+    		//thisWord = replaceChars(thisWord, " '", " ' ");
+    		//thisWord = replaceChars(thisWord, "' ", " ' ");
+    		//thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		//thisWord = replaceChars(thisWord, "’", " ’ ");
+    		//thisWord = replaceChars(thisWord, "‘", " ‘ ");
+    		//thisWord = replaceChars(thisWord, "’", " ’ ");
+			thisWord = replaceChars(thisWord, "l'", "l’");
+			thisWord = replaceChars(thisWord, "d'", "d’");
+			thisWord = replaceChars(thisWord, "s'", "s’");
+    		
+    		
+    		thisWord = replaceChars(thisWord, "\n'", "\n' ");
+    		thisWord = replaceChars(thisWord, "'\n", " '\n");
+    		thisWord = replaceChars(thisWord, "-'", "- ' ");
+    		thisWord = replaceChars(thisWord, "'-", " ' - ");
+    		thisWord = replaceChars(thisWord, " ", " ");
+
+    		thisWord = replaceChars(thisWord, "?", " ?");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "\"", " \" ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "--", " -- ");
+    		thisWord = replaceChars(thisWord, "`", " ` ");
+
+    		thisWord = replaceChars(thisWord, "'s ", " 's ");
+    		thisWord = replaceChars(thisWord, "it 's ", "it's ");    		
+
+    		//thisWord = replaceChars(thisWord, "", "  ");
+    		//thisWord = replaceChars(thisWord, "-", " - ");
+    		//thisWord = replaceChars(thisWord, "—", " — ");
+    		thisWord = replaceChars(thisWord, ",", " , ");
+    		//thisWord = replaceChars(thisWord, ";", " ; ");
+    		thisWord = replaceChars(thisWord, ":", " : ");
+    		thisWord = replaceChars(thisWord, "!", " ! ");
+    		thisWord = replaceChars(thisWord, "?", " ? ");
+    		thisWord = replaceChars(thisWord, ".", " . ");
+    		thisWord = replaceChars(thisWord, "'", " ' ");
+    		thisWord = replaceChars(thisWord, "«", " « ");
+    		thisWord = replaceChars(thisWord, "»", " » ");
+    		thisWord = replaceChars(thisWord, "(", " ( ");
+    		thisWord = replaceChars(thisWord, ")", " ) ");
+    		thisWord = replaceChars(thisWord, "[", " [ ");
+    		thisWord = replaceChars(thisWord, "]", " ] ");
+    		thisWord = replaceChars(thisWord, "*", " * ");
+    		thisWord = replaceChars(thisWord, "/", " / ");
+    		thisWord = replaceChars(thisWord, "&", " & ");
+    		thisWord = replaceChars(thisWord, "°", " ° ");
+    		thisWord = replaceChars(thisWord, "+", " + ");
+    		thisWord = replaceChars(thisWord, "=", " = ");
+			
+//			var thesePunctuation = " –—,;:!?.…'‘’\"“”«»(){}*/#%¨°+=|≈♦";
+			var thesePunctuation = "̱ -–,;:!?.…‘’‚\"“”„()[]*/#+×-–—,;:!?.…'‘’‚\"“„«»()[]*/#´+×=-–,;:!?.…‘’‚‹›“”«»()[]*/#";
+			var numberPunctuation = thesePunctuation.length;
+			for (var currentPunctuation = 0; currentPunctuation < numberPunctuation; currentPunctuation++)
+			{
+				var thisPunctuation = thesePunctuation[currentPunctuation];
+				
+    			thisWord = replaceChars(thisWord, thisPunctuation, " " + thisPunctuation + " ");
+			}
+						
+			while (contains(thisWord, "  ") == true)
+			{
+    			thisWord = replaceChars(thisWord, "  ", " ");
+    		}
+    		
+    		//thisWord = replaceChars(thisWord, "0", " 0 ");
+    		//thisWord = replaceChars(thisWord, "1", " 1 ");
+    		//thisWord = replaceChars(thisWord, "2", " 2 ");
+    		//thisWord = replaceChars(thisWord, "3", " 3 ");
+    		//thisWord = replaceChars(thisWord, "4", " 4 ");
+    		//thisWord = replaceChars(thisWord, "5", " 5 ");
+    		//thisWord = replaceChars(thisWord, "6", " 6 ");
+    		//thisWord = replaceChars(thisWord, "7", " 7 ");
+    		//thisWord = replaceChars(thisWord, "8", " 8 ");
+    		//thisWord = replaceChars(thisWord, "9", " 9 ");
+    		
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+			
+				if (isSlovenian(thisLineCharacter) == true)
+				{
+					spacedLine = spacedLine + thisLineCharacter;
+				} else {
+					if (isEnglish(thisLineCharacter) == true)
+					{
+						spacedLine = spacedLine + thisLineCharacter;
+					} else {
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					}
+				}
+			
+			} // end add spaces after every non-Korean character
+			
+			thisWord = spacedLine;
+			
+			// Add spaces for punctuation
+			var spacedLine = "";
+			var numberLineCharacters = thisWord.length;
+			
+			for (var currentLineCharacter = 0; currentLineCharacter < (numberLineCharacters - 1); currentLineCharacter++)
+			{
+				var thisLineCharacter = thisWord[currentLineCharacter];
+				var nextLineCharacter = thisWord[currentLineCharacter + 1];
+			
+				if (isNumberString(thisLineCharacter) == true)
+				{
+					if (isNumberString(nextLineCharacter) == false)
+					{
+						spacedLine = spacedLine + thisLineCharacter + " ";
+					} else {
+						spacedLine = spacedLine + thisLineCharacter;
+					}
+				} else {
+					spacedLine = spacedLine + thisLineCharacter;
+				}
+			
+			} // end add spaces after every non-Korean character
+			
+			spacedLine = spacedLine + thisWord[numberLineCharacters - 1];
+			
+			
+			thisWord = spacedLine;
+    		
+    		thisWord = thisWord.trim();
+    		
+    		return thisWord;
+    	} // end function spacePunctuation
+    	
+    	function translateText(slovenianText, englishText)
+    	{
+			var addSlovenianPlain = document.getElementById('slovenianPlainCheckbox').checked;
+			var addSlovenian = document.getElementById('slovenianCheckbox').checked;
+			var addLiteral = document.getElementById('literalCheckbox').checked;
+			var addEnglish = document.getElementById('englishCheckbox').checked;
+    		
+			var outputText = "";
+			var outputHtml = "";			
+						
+			//var englishArray = englishText.split("\n");
+			var slovenianArray = slovenianText.split("\n");
+			var englishArray = englishText.split("\n");
+			
+			var numberSlovenianLines = slovenianArray.length;
+			var numberEnglishLines = englishArray.length;
+			
+			var slovenianHtml = "";
+			var literalHtml = "";
+			
+			var slovenianText = "";
+			var literalText = "";
+			
+			var missingWords = "";
+						
+			for (var currentLine = 0; currentLine < numberSlovenianLines; currentLine++)
+			{
+				var slovenianLine = slovenianArray[currentLine];
+
+				var englishLine;
+								
+				if (currentLine < numberEnglishLines)
+				{
+					englishLine = englishArray[currentLine];
+				} else {
+					englishLine = "";
+				}
+				
+				var slovenianLineHtml = "";
+				var literalLineHtml = "";
+			
+				var slovenianLineText = "";
+				var literalLineText = "";
+				
+				var hangulPlainLine = "";
+
+				//if (addHangulPlain == true)
+				//{
+				//	hangulPlainLine = replaceChars(hangulLine, " ", "");
+				//} // end if addHangulPlain
+								
+				var spacedLine = spacePunctuation(slovenianLine);
+				
+				var thisLineWords = spacedLine.split(" ");
+				
+				var numberLineWords = thisLineWords.length;
+				
+				
+				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
+				{
+					var thisWord = thisLineWords[currentLineWord];
+					
+					//thisWord = removePunctuation(thisWord);
+					
+					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+					
+					var wordHasCase = thisWord.toLowerCase() != thisWord;
+					if (wordHasCase)
+					{
+						var inDictionaryLowercase = contains(combinedDictionaryData, "\n" + thisWord.toLowerCase() + "	");
+					}
+					
+					if ((inDictionary == true) || (inDictionaryLowercase == true))
+					{
+						var thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord + "	", "\n");
+						
+						
+						if (wordHasCase && (inDictionary == false))
+						{
+							if (inDictionaryLowercase)
+							{
+								thisDictionaryLine = textBetween(combinedDictionaryData, "\n" + thisWord.toLowerCase() + "	", "\n");
+							}
+						}
+						
+						var thisDictionaryLineArray = thisDictionaryLine.split("	");
+						
+						var lineLength = thisDictionaryLineArray.length;
+						
+						var thisLiteral = "";
+						var thisPos = 1;
+						
+						thisLiteral = thisDictionaryLineArray[0];
+
+						
+						if (lineLength >= 1)
+						{
+							thisPos = thisDictionaryLineArray[1];
+						}
+																		
+						var thisWordHtml = "<div class=\"slovenian_" + thisPos + "\">" + thisWord + "</div>";
+						var thisLiteralHtml = "<div class=\"literal\">" + thisLiteral + "</div>";
+						
+
+						slovenianLineHtml = slovenianLineHtml + "<td>" + thisWordHtml + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisLiteralHtml + "</td>";
+						
+						slovenianLineText = slovenianLineText + thisWord;
+						literalLineText = literalLineText + thisLiteral;
+						
+					} else {
+																		
+						var thisWordNotInDictionary = thisWord;
+						
+						var thisWordNotInDictionarySlovenianHtml = "<div class=\"slovenian_1\">" + thisWordNotInDictionary + "</div>";
+						var thisWordNotInDictionaryLiteralHtml = "<div class=\"literal\">" + thisWordNotInDictionary + "</div>";
+						
+						slovenianLineHtml = slovenianLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+						literalLineHtml = literalLineHtml + "<td>" + thisWordNotInDictionary + "</td>";
+					
+						slovenianLineText = slovenianLineText + thisWordNotInDictionary;
+						literalLineText = literalLineText + thisWordNotInDictionary;
+					
+						//if (isSlovenianString(thisWord) == true)
+						//{
+						//	missingWords = missingWords + thisWord + "\n";
+						//}
+					
+					} // end if the dictionary contains the word
+					
+					slovenianLineText = slovenianLineText + " ";
+					literalLineText = literalLineText + " ";
+					
+				} // end for every word
+				
+				outputHtml = outputHtml + "<p>";
+				outputHtml = outputHtml + "<table>";
+				
+				if (addSlovenian == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"slovenianLine\">" + slovenianLineHtml + "</tr>";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"literalLine\">" + literalLineHtml + "</tr>";
+				}
+								
+				outputHtml = outputHtml + "</table>";
+				
+				
+				if (addEnglish == true)
+				{
+					outputHtml = outputHtml + "<tr class=\"englishLine\">" + englishLine + "</tr>";
+				}
+				
+				outputHtml = outputHtml + "</p>";
+				
+				/* Lines to text */
+				
+				if (addSlovenian == true)
+				{
+					outputText = outputText + slovenianLineText + "\n";
+				}
+				
+				if (addLiteral == true)
+				{
+					outputText = outputText + literalLineText + "\n";
+				}
+				
+				if (addEnglish == true)
+				{
+					outputText = outputText + englishLine + "\n";
+				}
+				
+				outputText = outputText + "\n";
+				
+			} // end for every line
+			
+			//showMissingWords(missingWords);
+			
+			return [outputHtml, outputText];
+    		
+    	} // end function translateText
+    	
+    	function translateButtonClicked()
+    	{
+    		var slovenianText = document.getElementById("slovenianTextArea").value;
+    		var englishText = document.getElementById("englishTextArea").value;
+    		
+			var translationOutput = translateText(slovenianText, englishText);
+			
+			outputHtml = translationOutput[0];
+			outputText = translationOutput[1];			
+			
+			document.getElementById("outputHtml").innerHTML = outputHtml;
+			document.getElementById("outputTextArea").value = outputText;
+
+    	} // end function translateButtonClicked
+    	
+		function dictionariesLoaded()
+		{
+			translateButtonClicked();
+		} // end function dictionariesLoaded
+
+		function debugLog(thisString)
+		{
+			document.getElementById("debugTextArea").value = document.getElementById("debugTextArea").value + thisString + "\n";
+		} // end function debugLog
+
+		function lineBreaksButtonClicked()
+		{
+			var slovenianTextAreaWidth = document.getElementById("slovenianTextArea").style.width;
+			
+			var slovenianText = document.getElementById("slovenianTextArea").value;
+			
+			var slovenianLines = slovenianText.split("\n");
+			
+			var outputLines = "";
+			var numberLines = slovenianLines.length;
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLine = slovenianLines[currentLine];
+				
+				var lineBrokenLine = lineBreakText(thisLine, slovenianTextAreaWidth);
+				
+				outputLines = outputLines + lineBrokenLine + "\n";
+			} // end for every line of input text
+			
+			document.getElementById("outputTextArea").value = outputLines;
+			document.getElementById("htmlTable").innerHTML = "<table><tr><td>" + outputLines.split("\n").join("</td></tr><tr><td>") + "</td></tr></table>" + "<table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			document.getElementById("slovenianTextArea").value = outputLines;
+		} // end function lineBreaksButtonClicked
+		
+		function lineBreakText(slovenianText, slovenianTextAreaWidth)
+		{
+			if (slovenianText == "")
+			{
+				return "";
+			}
+			
+			document.getElementById("htmlTable").innerHTML = "<p class=\"lineWrappingArea\" style=\"width:" + slovenianTextAreaWidth + "\">" + slovenianText + "</p><table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			var wrappedLines = extractLinesFromTextNode( document.querySelector( ".lineWrappingArea" ).firstChild );
+
+			return wrappedLines.join("\n");
+			
+		} // end function lineBreakText
+
+		/**
+		* I extract the visually rendered lines of text from the given textNode as it
+		* exists in the document at this very moment. Meaning, it returns the lines of
+		* text as seen by the user.
+		*/
+		function extractLinesFromTextNode( textNode ) {
+
+			// BECAUSE SAFARI: None of the "modern" browsers seem to care about the actual
+			// layout of the underlying markup. However, Safari seems to create range
+			// rectangles based on the physical structure of the markup (even when it
+			// makes no difference in the rendering of the text). As such, let's rewrite
+			// the text content of the node to REMOVE SUPERFLUOS WHITE-SPACE. This will
+			// allow Safari's .getClientRects() to work like the other modern browsers.
+			textNode.textContent = collapseWhiteSpace( textNode.textContent );
+
+			// A Range represents a fragment of the document which contains nodes and
+			// parts of text nodes. One thing that's really cool about a Range is that we
+			// can access the bounding boxes that contain the contents of the Range. By
+			// incrementally adding characters - from our text node - into the range, and
+			// then looking at the Range's client rectangles, we can determine which
+			// characters belong in which rendered line.
+			var textContent = textNode.textContent;
+			var range = document.createRange();
+			var lines = [];
+			var lineCharacters = [];
+
+			// Iterate over every character in the text node.
+			for ( var i = 0 ; i < textContent.length ; i++ ) {
+
+				// Set the range to span from the beginning of the text node up to and
+				// including the current character (offset).
+				range.setStart( textNode, 0 );
+				range.setEnd( textNode, ( i + 1 ) );
+
+				// At this point, the Range's client rectangles will include a rectangle
+				// for each visually-rendered line of text. Which means, the last
+				// character in our Range (the current character in our for-loop) will be
+				// the last character in the last line of text (in our Range). As such, we
+				// can use the current rectangle count to determine the line of text.
+				var lineIndex = ( range.getClientRects().length - 1 );
+
+				// If this is the first character in this line, create a new buffer for
+				// this line.
+				if ( ! lines[ lineIndex ] ) {
+
+					lines.push( lineCharacters = [] );
+
+				}
+
+				// Add this character to the currently pending line of text.
+				lineCharacters.push( textContent.charAt( i ) );
+
+			}
+
+			// At this point, we have an array (lines) of arrays (characters). Let's
+			// collapse the character buffers down into a single text value.
+			lines = lines.map(
+				function operator( characters ) {
+
+					return( collapseWhiteSpace( characters.join( "" ) ) );
+
+				}
+			);
+
+			return( lines );
+
+		}
+
+
+		/**
+		* I normalize the white-space in the given value such that the amount of white-
+		* space matches the rendered white-space (browsers collapse strings of white-space
+		* down to single space character, visually, and this is just updating the text to
+		* match that behavior).
+		*/
+		function collapseWhiteSpace( value ) {
+
+			return( value.trim().replace( /\s+/g, " " ) );
+
+		}
+
+
+
+		/**
+		* I create a true array from the given array-like data. Array.from() if you are on
+		* modern browsers.
+		*/
+		function arrayFrom( arrayLike ) {
+
+			return( Array.prototype.slice.call( arrayLike ) );
+
+		}
+
+
+
+		// If we have an Slovenian file
+		if ((QueryString.slovenianFile != "") && (QueryString.slovenianFile != undefined))
+		{
+			//var slovenianUrl = encodeURI(QueryString.slovenianFile);
+			var slovenianUrl = QueryString.slovenianFile;
+		
+		    loadSlovenian(slovenianUrl);
+		}
+
+		// If we have an English file
+		if ((QueryString.englishFile != "") && (QueryString.englishFile != undefined))
+		{
+			//var englishUrl = encodeURI(QueryString.englishFile);
+			var englishUrl = QueryString.englishFile;
+		
+		    loadEnglish(englishUrl);
+		}
+
+		lastDictionary = true;
+    	loadDictionary("Slovenian/SlovenianDefinitions.txt");
+    	//loadDictionary("Korean/KoreanDefinitionsRomaja.txt");
+    	
+    </script>
+
+
+</html>
