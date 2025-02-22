@@ -10413,7 +10413,7 @@
 最	zeoi	3
 朁	caam	2
 朂	juk	1
-會	kui	2
+會	hui	2
 朄	jan	5
 朅	kit	3
 月	jyut	6
@@ -10635,7 +10635,7 @@
 栝	kut	3
 栞	hon	1
 栟	bing	1
-校	gaau	3
+校	haau	3
 栢	baak	3
 栩	heoi	2
 株	zyu	1
@@ -21121,10 +21121,10 @@
 鿉	wu	1
 鿊	zi	2
 鿋	hei	1
-龜	gau	1
-廊	long	4
-虜	lou	5
-益	jik	1
+龜	gau	1
+廊	long	4
+虜	lou	5
+益	jik	1
 𠀁	cat	1
 𠀅	hoi	6
 𠀉	jau	1
@@ -23041,16 +23041,2862 @@
 𫛢	ning	4
 𫛶	cik	1
 𫛸	tai	4
-勇	jung	5
-吆	jiu	1
-咢	ngok	6
-屮	cit	3
-弢	tou	1
-慈	ci	4
-晉	zeon	3
-枅	gai	1
-洴	baan	6
-芳	fong	1
-䕫	kwai	4
-蜨	sip	3
-貫	gun	3
+勇	jung	5
+吆	jiu	1
+咢	ngok	6
+屮	cit	3
+弢	tou	1
+慈	ci	4
+晉	zeon	3
+枅	gai	1
+洴	baan	6
+芳	fong	1
+䕫	kwai	4
+蜨	sip	3
+貫	gun	3
+一	jat	1
+一下	jat haa	15
+一些	jat se	11
+一人	jat jan	14
+一代	jat doi	16
+一件	jat gin	16
+一件事	jat gin si	166
+一份	jat ban	11
+一份子	jat ban zi	112
+一位	jat wai	12
+一個	jat go	13
+一切	jat cai	13
+一天	jat tin	11
+一家	jat gaa	11
+一年	jat nin	14
+一本	jat bun	12
+一樣	jat joeng	16
+一次	jat ci	13
+一步	jat bou	16
+一段	jat dyun	16
+一生	jat saang	11
+一百萬	jat baak maan	136
+一種	jat zung	12
+一起	jat hei	12
+一起去	jat hei heoi	122
+一輩子	jat bui zi	132
+一週	jat zau	11
+一部分	jat bou fan	161
+一間	jat gaan	11
+一項	jat hong	16
+一點	jat dim	12
+七	cat	1
+三天	saam tin	11
+三種	saam zung	12
+上	soeng	5
+上班	soeng baan	51
+下	haa	5
+下課	haa fo	53
+下降	haa gong	53
+不	bat	1
+不一樣	bat jat joeng	116
+不做	bat zou	16
+不僅僅	bat gan gan	122
+不僅僅是	bat gan gan si	1226
+不僅是	bat gan si	126
+不到	bat dou	13
+不只	bat zek	13
+不只是	bat zek si	136
+不可能	bat ho nang	124
+不合理	bat gap lei	135
+不同	bat tung	14
+不同意	bat tung ji	143
+不夠	bat gau	13
+不太	bat taai	13
+不如此	bat jyu ci	142
+不想	bat soeng	12
+不懂	bat dung	12
+不應該	bat jing goi	111
+不敢	bat gam	12
+不斷	bat dyun	13
+不是	bat si	16
+不會	bat kui	12
+不滿	bat mun	15
+不知道	bat zi dou	113
+不穩定	bat wan deng	126
+不符實	bat fu sat	146
+不管	bat gun	12
+不虛	bat heoi	11
+不覺得	bat gaau dak	131
+不足	bat zeoi	13
+且	ce	2
+世代	sai doi	36
+世界	sai gaai	33
+世界上	sai gaai soeng	335
+世界中	sai gaai zung	331
+並	bing	3
+並不是	bing bat si	316
+並且	bing ce	32
+並沒有	bing mut jau	365
+並非	bing fei	31
+中	zung	1
+中學	zung hok	16
+中間	zung gaan	11
+主義	zyu ji	26
+之	zi	1
+之一	zi jat	11
+之中	zi zung	11
+之內	zi naap	16
+之前	zi cin	14
+之後	zi hau	16
+之處	zi cyu	12
+之間	zi gaan	11
+之類	zi leoi	16
+乍現	zaa jin	36
+也	jaa	5
+也不	jaa bat	51
+也可以	jaa ho ji	525
+也會	jaa kui	52
+也會有	jaa kui jau	525
+了	liu	5
+了解	liu gaai	52
+事	si	6
+事先	si sin	61
+事實	si sat	66
+事實上	si sat soeng	665
+事情	si cing	64
+事業	si jip	66
+事物	si mat	66
+五年	ng nin	54
+交集	gaau zaap	16
+享有	hoeng jau	25
+人	jan	4
+人人	jan jan	44
+人們	jan mun	44
+人口	jan hau	42
+人生	jan saang	41
+人的	jan di	41
+人類	jan leoi	46
+什麼	sam maa	61
+今天	gam tin	11
+仍然	jing jin	44
+仍然是	jing jin si	446
+他	taa	1
+他們	taa mun	14
+他的	taa di	11
+付出	fu ceot	61
+代價	doi gaa	63
+令人	lim jan	14
+以來	ji lai	54
+以及	ji gap	56
+以後	ji hau	56
+件	gin	6
+件事	gin si	66
+件事物	gin si mat	666
+任	jam	4
+任何	jam ho	44
+企業	kei jip	26
+企業家	kei jip gaa	261
+伸出	san ceot	11
+但	daan	6
+但是	daan si	66
+何況是	ho fong si	436
+作用	zok jung	36
+你	nei	5
+你們	nei mun	54
+你的	nei di	51
+使	sai	2
+使命	sai meng	26
+使命感	sai meng gam	262
+來	lai	4
+來使	lai sai	42
+來到	lai dou	43
+來自	lai zi	46
+來說	lai jyut	46
+來說說	lai jyut jyut	466
+依靠	ji kaau	13
+保持	bou ci	24
+保證	bou zing	23
+保障	bou zoeng	23
+個	go	3
+個人	go jan	34
+倍	pui	5
+值得	zik dak	61
+假設	gaa cit	23
+偉大	wai daai	56
+做	zou	6
+做不到	zou bat dou	613
+做了	zou liu	65
+做什麼	zou sam maa	661
+做出	zou ceot	61
+做好	zou hou	62
+做得	zou dak	61
+做的	zou di	61
+健保	gin bou	62
+健康	gin hong	61
+傳	cyun	4
+傷害	soeng hoi	16
+像	zoeng	6
+像是	zoeng si	66
+價值	gaa zik	36
+優秀	jau sau	13
+先	sin	1
+先生	sin saang	11
+光了	gwong liu	15
+光是	gwong si	16
+兒童	ji tung	44
+入學	jap hok	66
+內	naap	6
+內在	naap zoi	66
+全	cyun	4
+全世界	cyun sai gaai	433
+全球	cyun kau	44
+全球性	cyun kau sing	443
+公司	gung si	11
+公式	gung sik	11
+公民	gung man	14
+公益	gung jik	11
+共同	gung tung	14
+共同努力	gung tung nou lik	1456
+其	gei	1
+其中	gei zung	11
+其他	gei taa	11
+其實是	gei sat si	166
+出	ceot	1
+出席	ceot zik	16
+出版	ceot baan	12
+出現	ceot jin	16
+出錯	ceot co	13
+分享	fan hoeng	12
+分裂	fan lit	16
+別人	bit jan	64
+別的	bit di	61
+到	dou	3
+到了	dou liu	35
+到某	dou mau	35
+制式化	zai sik faa	313
+則	zak	1
+前	cin	4
+前後	cin hau	46
+前進	cin zeon	43
+前面	cin min	46
+剛	gong	1
+創	cong	1
+創新	cong san	11
+創業	cong jip	16
+創業者	cong jip ze	162
+創立	cong laap	16
+創辦	cong baan	16
+創造	cong cou	13
+力量	lik loeng	64
+加入	gaa jap	16
+努力	nou lik	56
+勇氣	jung hei	53
+動手	dung sau	62
+募款	mou fun	62
+包含	baau ham	14
+化	faa	3
+化妝室	faa zong sat	311
+區	au	1
+十分	sap fan	61
+十年	sap nin	64
+千禧	cin hei	11
+協助	hip zo	36
+博士	bok si	36
+危險	ngai him	42
+即使	zik sai	12
+即使是	zik sai si	126
+卻	koek	3
+原因	jyun jan	41
+去	heoi	2
+去了	heoi liu	25
+去年	heoi nin	24
+參加	caam gaa	11
+參與	caam jyu	14
+又有	jau jau	65
+友善	jau sin	56
+反了	faan liu	15
+反對	faan deoi	13
+反應	faan jing	11
+取代	ceoi doi	26
+取決於	ceoi kyut jyu	231
+受	sau	6
+受到	sau dou	63
+受惠	sau wai	66
+另一個	ling jat go	613
+另外	ling ngoi	66
+只	zek	3
+只差了	zek caa liu	315
+只是	zek si	36
+只有	zek jau	35
+只要	zek jiu	31
+可以	ho ji	25
+可去	ho heoi	22
+可能	ho nang	24
+可能會	ho nang kui	242
+史	si	2
+吃	gat	1
+各位	go wai	32
+各地	go dei	36
+各地區	go dei au	361
+各類	go leoi	36
+合作	gap zok	33
+合力	gap lik	36
+同	tung	4
+同學	tung hok	46
+同學們	tung hok mun	464
+同時	tung si	44
+同樣	tung joeng	46
+名	meng	4
+名字	meng zi	46
+吧	baa	1
+告訴	gou sou	33
+呢	ne	1
+和	wo	4
+哈佛	haa bat	16
+哈利	haa lei	16
+哪	naa	1
+唯一	wai jat	21
+唱	coeng	3
+商標	soeng biu	11
+問	man	6
+問題	man tai	64
+喜歡	hei fun	21
+嗎	maa	1
+嘗試	soeng si	43
+器	hei	3
+嚴格	jim gaak	43
+四分之一	sei fan zi jat	3111
+四分之三	sei fan zi saam	3111
+回報	wui bou	43
+回憶	wui jik	41
+回答	wui daap	43
+因此	jan ci	12
+因此而	jan ci ji	124
+因為	jan wai	14
+困難	kwan naan	34
+國家	gwok gaa	31
+國籍	gwok zik	36
+園區	jyun au	41
+在	zoi	6
+在場	zoi coeng	64
+在意	zoi ji	63
+在於	zoi jyu	61
+地	dei	6
+地區	dei au	61
+地方	dei fong	61
+地球	dei kau	64
+均	gwan	1
+坐	co	5
+城市	seng si	45
+執	zap	1
+基因	gei jan	11
+基金會	gei gam kui	112
+堂課	tong fo	43
+堅持	gin ci	14
+塑造	sok cou	33
+填補	tin bou	42
+墨西哥	mak sai go	611
+壓力	aat lik	36
+外	ngoi	6
+多	do	1
+多少	do siu	12
+多年	do nin	14
+多麼地	do maa dei	116
+夠	gau	3
+夠多	gau do	31
+夢想	mung soeng	62
+夥伴	fo bun	26
+大	daai	6
+大事	daai si	66
+大公司	daai gung si	611
+大型	daai jing	64
+大學	daai hok	66
+大學生	daai hok saang	661
+大家	daai gaa	61
+大部分	daai bou fan	661
+太	taai	3
+太多	taai do	31
+太過	taai gwo	31
+太陽能	taai joeng nang	344
+失去	sat heoi	12
+失敗	sat baai	16
+契約	kai joek	33
+套	tou	3
+奮戰	fan zin	53
+女兒	jyu ji	54
+她	ji	1
+她的	ji di	11
+好事	hou si	26
+好像	hou zoeng	26
+好嗎	hou maa	21
+好想法	hou soeng faat	223
+好的	hou di	21
+好運	hou wan	26
+如何	jyu ho	44
+如果	jyu gu	42
+如此	jyu ci	42
+妳	lei	5
+始終	ci zung	21
+婚姻	fan jan	11
+嬰兒	jing ji	14
+孤單	gu daan	11
+孤立	gu laap	16
+孩子	haai zi	42
+孩子們	haai zi mun	424
+學校	hok gaau	63
+學生	hok saang	61
+學生們	hok saang mun	614
+學習	hok zaap	66
+學貸	hok taai	63
+它	taa	1
+它們	taa mun	14
+宅	zaak	6
+守衛	sau wai	26
+安全	ngon cyun	14
+安裝	ngon zong	11
+完全	jyun cyun	44
+完成	jyun cing	44
+宏大	wang daai	46
+宗教	zung gaau	11
+定義	deng ji	66
+客製化	haak zai faa	333
+害怕	hoi paa	63
+家	gaa	1
+家中	gaa zung	11
+家人	gaa jan	14
+家庭	gaa ting	14
+家族	gaa zuk	16
+容易	jung ji	46
+容身	jung gyun	41
+宿舍	sau se	32
+實在	sat zoi	66
+實現	sat jin	66
+實踐	sat cin	65
+寫	se	2
+寫了	se liu	25
+將	zoeng	1
+將來	zoeng lai	14
+將會	zoeng kui	12
+尋找	cam zaau	42
+對	deoi	3
+對抗	deoi kong	33
+對抗著	deoi kong zoek	333
+對於	deoi jyu	31
+小	siu	2
+小兒	siu ji	24
+小孩	siu haai	24
+小小的	siu siu di	221
+小時	siu si	24
+就	zau	6
+就可以	zau ho ji	625
+就是	zau si	66
+就會	zau kui	62
+就能	zau nang	64
+局限	guk haan	66
+屬於	suk jyu	61
+工人	gung jan	14
+工作	gung zok	13
+工具	gung geoi	16
+工廠	gung cong	12
+左右	zo jau	26
+巨大	geoi daai	66
+已經	ji ging	51
+市	si	5
+希望	hei mong	16
+帝國	dai gwok	33
+帶	daai	2
+帶著	daai zoek	23
+幫	bong	1
+幫助	bong zo	16
+平權	peng kyun	44
+平等	peng dang	42
+年	nin	4
+年內	nin naap	46
+年輕人	nin heng jan	414
+幸運	hang wan	66
+幾	gei	1
+幾乎	gei fu	11
+幾天	gei tin	11
+幾年	gei nin	14
+床	cong	4
+度過	dok gwo	61
+座	zo	6
+延伸	jin san	41
+建立	gin laap	36
+建設	gin cit	33
+建造	gin cou	33
+引領	jan leng	55
+形成	jing cing	44
+影響力	jeng hoeng lik	226
+彼此	bei ci	22
+往	wong	5
+往前	wong cin	54
+很	han	2
+很多	han do	21
+很棒	han paang	25
+後	hau	6
+後來	hau lai	64
+後悔	hau fui	63
+後盾	hau seon	65
+後顧之憂	hau gu zi jau	6311
+得到	dak dou	13
+從	cung	4
+從來	cung lai	44
+從小	cung siu	42
+微小	mei siu	42
+心胸	sam hung	11
+必須	bit seoi	11
+志工	zi gung	31
+忙	mong	4
+快	faai	3
+快樂	faai lok	36
+快速	faai cuk	31
+忽視	fat si	16
+怎樣	zam joeng	26
+怎麼	zam maa	21
+思想	si soeng	12
+恤	seot	1
+恭喜	gung hei	12
+患者	waan ze	62
+情況	cing fong	43
+惡作劇	ngok zok kek	336
+想	soeng	2
+想像	soeng zoeng	26
+想去	soeng heoi	22
+想法	soeng faat	23
+想要	soeng jiu	21
+想起	soeng hei	22
+意義	ji ji	36
+意識到	ji sik dou	313
+感到	gam dou	23
+感激	gam gik	21
+感覺	gam gaau	23
+態度	taai dok	36
+慢下來	maan haa lai	654
+慶祝	hing zuk	31
+憤世嫉俗	fan sai zat zuk	5366
+應有	jing jau	15
+應該	jing goi	11
+成	cing	4
+成了	cing liu	45
+成功	cing gung	41
+成功地	cing gung dei	416
+成員	cing jyun	44
+成就	cing zau	46
+成為	cing wai	44
+成真	cing zan	41
+成立	cing laap	46
+我	ngo	5
+我們	ngo mun	54
+我是	ngo si	56
+我的	ngo di	51
+我要	ngo jiu	51
+或	waak	6
+或多或少	waak do waak siu	6162
+或是	waak si	66
+或者	waak ze	62
+或許	waak heoi	62
+戰爭	zin caang	31
+房子	fong zi	22
+所	so	2
+所以	so ji	25
+所做	so zou	26
+所有	so jau	25
+所能	so nang	24
+所苦	so fu	22
+才	coi	4
+才會	coi kui	42
+才有	coi jau	45
+才能	coi nang	44
+扎克伯格	zaat haak baa gaak	3133
+打疫苗	daa jik miu	164
+打瞌	daa hap	16
+打造	daa cou	13
+打開	daa hoi	11
+批准	pai zeon	12
+批評	pai ping	14
+找	zaau	2
+找到	zaau dou	23
+找尋	zaau cam	24
+承認	sing jan	46
+把	baa	2
+把握	baa aak	21
+抓	aau	1
+投入	tau jap	46
+投票	tau biu	41
+抱怨	bou jyun	63
+拉丁美洲	laa ding mei zau	1151
+拒絕	keoi zyut	53
+招	ziu	1
+招數	ziu sok	13
+招集	ziu zaap	16
+拿著	naa zoek	43
+持續	ci zuk	46
+指標	zi biu	21
+指的	zi di	21
+指責	zi zaak	23
+挑戰	tiu zin	13
+捐款	gyun fun	12
+掃帚	sou zaau	22
+排隊	paai deoi	46
+掙扎	zaang zaat	13
+探索	taam saak	13
+接著	zip zoek	33
+提到	dai dou	23
+換	wun	6
+援手	jyun sau	42
+摧毀	ceoi wai	12
+摯友	zi jau	35
+播放	bo fong	33
+擁有	jung jau	25
+擔心	daam sam	11
+擔負	daam fu	16
+擴展	gwok zin	32
+支持	zi ci	14
+支撐	zi caang	11
+收入	sau jap	16
+收到	sau dou	13
+收拾	sau sap	16
+改變	goi bin	23
+放棄	fong hei	33
+放進	fong zeon	33
+政	zing	3
+故事	gu si	36
+教	gaau	1
+教授	gaau sau	16
+教會	gaau kui	12
+教育	gaau juk	16
+敞開	cong hoi	21
+整個	zing go	23
+數	sok	3
+數以千計	sok ji cin gai	3513
+數十億	sok sap jik	361
+數千萬	sok cin maan	316
+數學	sok hok	36
+數據	sok geoi	33
+數百萬	sok baak maan	336
+數百首	sok baak sau	332
+文化	man faa	43
+文明	man ming	44
+料想	liu soeng	22
+新	san	1
+新創公司	san cong gung si	1111
+方向	fong hoeng	13
+方式	fong sik	11
+方法	fong faat	13
+於	jyu	1
+於是	jyu si	16
+旅行	leoi haang	54
+日復一日	jat fau jat jat	6616
+早	zou	2
+早餐	zou caan	21
+明白	ming baak	46
+明確	ming kok	43
+是	si	6
+是不是	si bat si	616
+是什麼	si sam maa	661
+是個	si go	63
+是否	si fau	62
+是有	si jau	65
+時	si	4
+時代	si doi	46
+時候	si hau	46
+時光	si gwong	41
+時刻	si haak	41
+時期	si gei	41
+時間	si gaan	41
+晚上	maan soeng	55
+晚餐	maan caan	51
+更	ang	1
+更多	ang do	11
+更大	ang daai	16
+更好	ang hou	12
+更是	ang si	16
+更糟糕	ang zou gou	111
+更重視	ang cung si	146
+更高	ang gou	11
+書	syu	1
+曾	cang	4
+最	zeoi	3
+最低	zeoi dai	31
+最初	zeoi co	31
+最大	zeoi daai	36
+最好	zeoi hou	32
+最後	zeoi hau	36
+最棒	zeoi paang	35
+最終	zeoi zung	31
+最美	zeoi mei	35
+會	kui	2
+會做	kui zou	26
+會員	kui jyun	24
+會是	kui si	26
+會花	kui faa	21
+會被	kui bei	26
+月球	jyut kau	64
+有	jau	5
+有人	jau jan	54
+有的	jau di	51
+朋友	pang jau	45
+朋友們	pang jau mun	454
+服務	fuk mou	66
+朝	ciu	4
+期間	gei gaan	11
+未來	mei lai	64
+本來	bun lai	24
+本能	bun nang	24
+東西	dung sai	11
+板	baan	2
+某一	mau jat	51
+某些	mau se	51
+某個	mau go	53
+染上	jim soeng	55
+校	gaau	3
+校友	gaau jau	35
+校園	gaau jyun	34
+校委	haau wai	31
+校長	haau coeng	34
+概念	koi nim	26
+榮幸	wing hang	46
+榮耀	wing jiu	46
+構成	gau cing	34
+樓下	lau haa	45
+樣	joeng	6
+機器	gei hei	13
+機會	gei kui	12
+橫跨	waang kwaa	41
+權	kyun	4
+次	ci	3
+歌曲	go kuk	11
+歡送	fun sung	13
+正	zeng	3
+正和	zeng wo	34
+正在	zeng zoi	36
+正義	zeng ji	36
+此	ci	2
+此行	ci haang	24
+步	bou	6
+步調	bou deu	66
+歲	seoi	3
+歷史	lik si	62
+歷史性	lik si sing	623
+歸向	gwai hoeng	13
+母親	mou can	51
+每一個	mui jat go	513
+每個	mui go	53
+每個人	mui go jan	534
+每個月	mui go jyut	536
+每當	mui dong	51
+比	bei	2
+比如	bei jyu	24
+比如說	bei jyu jyut	246
+民主	man zyu	42
+氣候	hei hau	36
+水壩	seoi baa	23
+永遠	wing jyun	55
+汙名化	waa meng faa	143
+決定	kyut deng	36
+汽車	hei ce	31
+沒	mut	6
+沒人	mut jan	64
+沒有	mut jau	65
+沒有人	mut jau jan	654
+沒錯	mut co	63
+沮喪	zeoi song	11
+治療	ci liu	44
+法	faat	3
+法人員	faat jan jyun	344
+波特	bo dak	16
+注重	zyu cung	34
+活動	wut dung	66
+派對	paai deoi	13
+流行	lau haang	44
+浪漫	long maan	46
+浮士德	fau si dak	461
+海域	hoi wik	26
+涵蓋	haam gap	43
+淘汰	tou taai	43
+清晰	ceng sik	11
+清楚	ceng co	12
+準備	zeon bei	26
+演說	jin jyut	26
+演講	jin gong	22
+演講者	jin gong ze	222
+漫長	maan coeng	64
+潛力	cim lik	46
+激烈	gik lit	16
+為	wai	4
+為了	wai liu	45
+為什麼	wai sam maa	461
+為此	wai ci	42
+烏干達	wu gon daat	116
+無憂無慮地	mou jau mou leoi dei	41466
+無法	mou faat	43
+無論	mou leon	44
+然後	jin hau	46
+然而	jin ji	44
+照護	ziu wu	36
+熱愛	jit ngoi	63
+熱門	jit mun	64
+爭論	caang leon	14
+父母	fu mou	25
+父親	fu can	21
+特別	dak bit	66
+特定	dak deng	66
+犯錯	faan co	63
+獨自	duk zi	66
+獨裁	duk coi	64
+獲得	waai dak	41
+率先	leot sin	61
+玩	waan	4
+玻璃	bo lei	14
+班級	baan kap	11
+現代化	jin doi faa	663
+現在	jin zoi	66
+理想	lei soeng	52
+理由	lei jau	54
+環境	waan ging	42
+甚至	sam zi	63
+生	saang	1
+生們	saang mun	14
+生命	saang meng	16
+生日	saang jat	16
+生活	saang wut	16
+生涯	saang ngaai	14
+產前	caan cin	24
+產品	caan ban	22
+產生	caan saang	21
+用	jung	6
+由	jau	4
+留下	lau haa	45
+畢業	bat jip	16
+當	dong	1
+當中	dong zung	11
+當地	dong dei	16
+當時	dong si	14
+疾病	zat beng	66
+病人	beng jan	64
+瘋子	fung zi	12
+癮	jan	2
+發展	faat zin	32
+發揮	faat fai	31
+發現	faat jin	36
+發生	faat saang	31
+發誓	faat sai	36
+的	di	1
+的時候	di si hau	146
+盛會	sing kui	42
+盡	zeon	6
+盡快	zeon faai	63
+監獄	gaam juk	16
+目標	muk biu	61
+直到	zik dou	63
+直接	zik zip	63
+相信	soeng seon	13
+相反地	soeng faan dei	116
+相遇	soeng jyu	16
+看	hon	1
+看到	hon dou	13
+看待	hon doi	16
+真正	zan zeng	13
+真的	zan di	11
+睡	seoi	6
+瞭解	liu gaai	42
+知	zi	1
+知識	zi sik	11
+知道	zi dou	13
+知道的	zi dou di	131
+研究	jin gau	43
+碧昂絲	bik ngong si	141
+確定	kok deng	36
+磅礡大雨	bong bok daai jyu	2365
+社團	se tyun	54
+社會	se kui	52
+社群	se kwan	54
+祈	kei	4
+祝你們	zuk nei mun	154
+祝福	zuk fuk	11
+福利	fuk lei	16
+禮物	lai mat	56
+禱告	dou gou	23
+科學	fo hok	16
+科技	fo gei	16
+秘密	bei mat	36
+移民	ji man	44
+程式	cing sik	41
+種	zung	2
+種族	zung zuk	26
+稱為	can wai	34
+穩定	wan deng	26
+空白	hung baak	16
+穿	cyun	1
+突然	dat jin	64
+站	zaam	6
+站起來	zaam hei lai	624
+童年	tung nin	44
+第一	dai jat	61
+第一個	dai jat go	613
+第一次	dai jat ci	613
+第三	dai saam	61
+第二	dai ji	66
+等	dang	2
+答案	daap ngon	33
+算是	syun si	36
+管理	gun lei	25
+範圍	faan wai	64
+糟糕	zou gou	11
+系統	hai tung	62
+紀錄	gei luk	26
+約會	joek kui	32
+約束	joek cuk	31
+終	zung	1
+終結	zung git	13
+終身	zung gyun	11
+組成	zou cing	24
+組織	zou zik	21
+結交	git gaau	31
+給	kap	1
+綁定	bong deng	26
+經濟	ging zai	12
+經營	ging jing	14
+維護	wai wu	46
+網站	mong zaam	56
+網路	mong lou	56
+緊貼	gan tip	23
+總是	zung si	26
+總有	zung jau	25
+總統	zung tung	22
+繳清	giu ceng	21
+羅琳	lo lam	44
+羈押	gei aap	13
+美元	mei jyun	54
+美國人	mei gwok jan	534
+美好	mei hou	52
+群體	kwan tai	42
+老師	lou si	51
+而	ji	4
+而不是	ji bat si	416
+而且	ji ce	42
+而是	ji si	46
+而言	ji jin	44
+聊天	liu tin	41
+聯合國	lyun gap gwok	433
+職員	zik jyun	14
+職業	zik jip	16
+聽	teng	1
+聽說	teng jyut	16
+聽過	teng gwo	11
+肯定	hang deng	26
+背負	bui fu	36
+胡佛	wu bat	46
+胸前	hung cin	14
+能	nang	4
+能做	nang zou	46
+能力	nang lik	46
+能夠	nang gau	43
+自動	zi dung	66
+自動化	zi dung faa	663
+自己	zi gei	62
+自己人	zi gei jan	624
+自由	zi jau	64
+自身	zi gyun	61
+致力	zi lik	36
+與	jyu	4
+舉手	geoi sau	22
+舉辦	geoi baan	26
+舊金山	gau gam saan	611
+艱難	gaan naan	14
+花上	faa soeng	15
+萬	maan	6
+著	zoek	3
+著手	zoek sau	32
+董事會	dung si hui	262
+蓬勃	fung but	46
+藥物	joek mat	66
+融入	jung jap	46
+行動	haang dung	46
+行李	haang lei	45
+行銷	haang siu	41
+衝突	cung dat	16
+衡量	hang loeng	44
+衣服	ji fuk	16
+表示	biu si	26
+被	bei	6
+裡	lei	5
+製造	zai cou	33
+複雜	fuk zaap	16
+要	jiu	1
+要不要	jiu bat jiu	111
+見我	gin ngo	35
+視為	si wai	64
+視野	si je	65
+視頻	si pan	64
+覺得	gaau dak	31
+覺得很	gaau dak han	312
+角色	gok sik	31
+角落	gok laai	36
+解	gaai	2
+解決	gaai kyut	23
+解釋過	gaai sik gwo	211
+計畫	gai waa	32
+計算機	gai syun gei	331
+訓練	fan lin	36
+記得	gei dak	31
+許多	heoi do	21
+該	goi	1
+認為	jan wai	64
+認識	jan sik	61
+誤導	ng dou	66
+誤解	ng gaai	62
+說	jyut	6
+說的	jyut di	61
+說道	jyut dou	63
+誰	seoi	4
+課	fo	3
+課堂	fo tong	34
+課程	fo cing	34
+調查	deu caa	64
+談談	taam taam	44
+談論	taam leon	44
+談論著	taam leon zoek	443
+請	ceng	2
+謊言	fong jin	14
+謝謝	ze ze	66
+證件	zing gin	36
+議員	ji jyun	34
+讀	dau	6
+變得	bin dak	31
+變成	bin cing	34
+變遷	bin cin	31
+讓	joeng	6
+負擔得起	fu daam dak hei	6112
+負起	fu hei	62
+財富	coi fu	43
+貧窮	pan kung	44
+貨車	fo ce	31
+販賣	faan maai	36
+責任	zaak jam	34
+買下	maai haa	55
+貿易	mau ji	66
+資料	zi liu	12
+資源	zi jyun	14
+賣	maai	6
+賣了	maai liu	65
+賣掉	maai deu	66
+賺	zaam	6
+走	zau	2
+走出	zau ceot	21
+走過	zau gwo	21
+起來	hei lai	24
+起手	hei sau	22
+起立	hei laap	26
+超棒	ciu paang	15
+超過	ciu gwo	11
+越來越	jyut lai jyut	646
+趕出	gon ceot	21
+足夠	zeoi gau	33
+跑	paau	2
+跟	gan	1
+踏出	daap ceot	61
+踢	tek	3
+身上	gyun soeng	15
+身份	gyun ban	11
+軌跡	gwai zek	23
+輟學	zyut hok	36
+輪到	leon dou	43
+輸	syu	1
+辦法	baan faat	63
+追求	zeoi kau	14
+追蹤	zeoi zung	11
+追逐	zeoi zuk	16
+退路	teoi lou	36
+送	sung	3
+送上	sung soeng	35
+透過	tau gwo	31
+逐漸	zuk zim	61
+這	ze	2
+這些	ze se	21
+這個	ze go	23
+這是	ze si	26
+這樣	ze joeng	26
+這裡	ze lei	25
+這麼	ze maa	21
+這點	ze dim	22
+通常	tung soeng	14
+通知	tung zi	11
+通過	tung gwo	11
+造成	cou cing	34
+造訪	cou fong	32
+連	lin	4
+連接起來	lin zip hei lai	4324
+連結	lin git	43
+進	zeon	3
+進入	zeon jap	36
+進步	zeon bou	36
+進行	zeon haang	34
+遇	jyu	6
+遇到	jyu dou	63
+遇見	jyu gin	63
+遊戲	jau fu	41
+運動	wan dung	66
+運氣	wan hei	63
+運轉	wan zyun	62
+過	gwo	1
+過去	gwo heoi	12
+過程	gwo cing	14
+達成	daat cing	64
+遲到	ci dou	43
+遺憾	wai ham	46
+遺落	wai laai	46
+邁進	maai zeon	63
+還	syun	4
+還不	syun bat	41
+還去	syun heoi	42
+還有	syun jau	45
+還要	syun jiu	41
+那	na	6
+那些	na se	61
+那位	na wai	62
+那是	na si	66
+那麼	na maa	61
+部分	bou fan	61
+部落	bou laai	66
+部電影	bou din jeng	662
+都	dou	1
+都不	dou bat	11
+都不做	dou bat zou	116
+都不能	dou bat nang	114
+都是	dou si	16
+都會	dou kui	12
+都有	dou jau	15
+重大	cung daai	46
+重建	cung gin	43
+重新	cung san	41
+重要	cung jiu	41
+重視	cung si	46
+重責	cung zaak	43
+金錢	gam cin	12
+針對	zam deoi	13
+錄取	luk ceoi	62
+錄影	luk jeng	62
+錢	cin	2
+錯	co	3
+錯了	co liu	35
+錯誤	co ng	36
+門	mun	4
+開啟	hoi kai	12
+開始	hoi ci	12
+開心	hoi sam	11
+開放	hoi fong	13
+開發	hoi faat	13
+間	gaan	1
+關係	gwaan hai	16
+關心	gwaan sam	11
+關於	gwaan jyu	11
+防治	fong ci	44
+阻止	zo zi	22
+除了	ceoi liu	45
+陷入	haam jap	66
+階層	gaai cang	14
+隔年	gaak nin	34
+隔閡	gaak hat	36
+隨便	ceoi bin	46
+隨著	ceoi zoek	43
+離開	lei hoi	41
+難	naan	4
+難過	naan gwo	41
+電子郵件	din zi jau gin	6246
+電影	din jeng	62
+需要	seoi jiu	11
+震撼	zan ham	36
+靈光	leng gwong	41
+非常	fei soeng	14
+非營利	fei jing lei	146
+靠	kaau	3
+靠譜	kaau pou	32
+面前	min cin	64
+面對	min deoi	63
+面臨	min lam	64
+音樂	jam lok	16
+領導	leng dou	56
+頭	tau	4
+願	jyun	6
+願意	jyun ji	63
+願景	jyun ging	62
+願望	jyun mong	66
+類似	leoi ci	65
+顧問	gu man	36
+首先	sau sin	21
+首歌	sau go	21
+馬克	maa haak	51
+駕駛	gaa sai	32
+騙子	pin zi	32
+騰出	tang ceot	41
+驕傲	giu ngou	16
+高中生	gou zung saang	111
+麻痺症	maa bei zing	431
+點著	dim zoek	23
+龐大	pong daai	46
+
+校委	haau wai	31
+𠊎	ngaai	1
+都	dou	1
+了	liu	5
+年	nin	4
+說	syut	3
+不	bat	1
+來	loi	4
+麼	mo	1
+電	din	6
+都	dou	1
+那	naa	5
+還	waan	4
+道	dou	6
+過	gwo	3
+這	ze 	2 
+过	gwo	3
+请	cing	2
+说	syut	3
+讯	seon	3
+請	cing	2
+說	syut	3
+訊	seon	3
+要	jiu	3
+自	zi	6
+能	nang	4
+而	ji 	4 
+站	zaam	6
+真	zan	1
+看	hon	3
+的	dik	1
+發	faat	3
+當	dong	3
+用	jung	6
+生	sang	1
+為	wai	4
+沒	mut	6
+来	loi	4
+本	bun	2
+有	jau	5
+會	wui	2
+最	zeoi	3
+是	si	6
+於	jyu	1
+新	san	1
+所	so	2
+我	ngo	5
+成	sing	4
+想	soeng	2
+心	sam	1
+得	dak	1
+後	hau	6
+很	han	2
+年	nin	4
+工	gung	1
+就	zau 	6 
+小	siu	2
+對	deoi	3
+家	gaa	1
+學	hok	6
+子	zi	2
+如	jyu	4
+好	hou	2
+天	tin	1
+大	daai	6
+多	do	1
+地	dei	6
+在	zoi	6
+國	gwok	3
+嗎	maa	1
+問	man	6
+和	wo	4
+同	tung	4
+可	ho	2
+去	heoi	3
+前	cin	4
+到	dou	3
+出	ceot	1
+個	go	3
+信	seon	3
+來	loi	4
+你	nei	5
+何	ho	4
+但	daan 	6 
+以	ji	5
+他	taa	1
+人	jan	4
+交	gaau	1
+了	liu	5
+也	jaa	5
+中	zung	1
+不	bat	1
+下	haa	6
+上	soeng	6
+一	jat	1
+直	zik	6
+難	naan	4
+神	san	4
+見	gin	3
+行	hang	4
+度	dou	6
+立	laap	6
+利	lei	6
+留	lau	4
+連	lin	4
+力	lik	6
+女	neoi	2
+量	loeng	6
+若	joek	6
+便	bin	6
+論	leon	6
+錄	luk	6
+路	lou	6
+老	lou	5
+車	ce	1
+更	gaang	1
+點	dim	2
+黃	wong	4
+高	gou	1
+馬	maa	5
+飛	fei	1
+風	fung	1
+题	tai	4
+題	tai	4
+頭	tau	4
+面	min	6
+難	naan	4
+难	naan	4
+除	ceoi	4
+门	mun	4
+關	gwaan	1
+間	gaan	1
+開	hoi	1
+門	mun	4
+长	coeng	4
+長	zoeng	2
+錯	co	3
+錢	cin	2
+錄	luk	6
+量	loeng	6
+重	zung	6
+部	bou	6
+邊	bin	1
+選	syun	2
+遠	jyun	5
+運	wan	6
+進	zeon	3
+連	lin	4
+造	zou	6
+通	tung	1
+连	lin	4
+远	jyun	5
+进	zeon	3
+近	gan	6
+辦	baan	6
+转	zyun	2
+车	ce	1
+轉	zyun	3
+較	gaau	3
+車	ce	1
+路	lou	6
+跟	gan	1
+超	ciu	1
+起	hei	2
+走	zau	2
+赛	coi	3
+賽	coi	3
+買	maai	5
+貓	maau	1
+该	goi	1
+设	cit	3
+论	leon	6
+许	heoi	2
+讲	gong	2
+讓	joeng	6
+變	bin	3
+讀	duk	6
+謝	ze	6
+講	gong	2
+論	leon	6
+課	fo	3
+誰	seoi	4
+認	jing	6
+該	goi	1
+試	si	5
+許	heoi	2
+設	cit	3
+記	gei	3
+計	gai	3
+解	gaai	2
+见	gin	3
+觀	gun	1
+西	sai	1
+裡	leoi	5
+裝	zong	1
+装	zong	1
+被	pei	5
+表	biu	2
+行	hang	4
+號	hou	6
+處	cyu	3
+著	zyu	3
+萬	maan	6
+花	faa	1
+與	jyu	5
+至	zi	3
+聽	teng	1
+聯	lyun	4
+考	haau	2
+老	lou	5
+美	mei	5
+结	git	3
+總	zung	2
+線	sin	3
+經	ging	1
+給	kap	1
+結	git	3
+算	syun	3
+等	dang	2
+第	dai	6
+笑	siu	3
+立	laap	6
+空	hung	1
+種	zung	2
+程	cing	4
+科	fo	1
+神	san	4
+破	po	3
+直	zik	6
+白	baak	6
+畫	waa	2
+留	lau	4
+男	naam	4
+球	kau	4
+班	baan	1
+片	pin	2
+点	dim	2
+灣	waan	1
+滿	mun	5
+清	cing	1
+海	hoi	2
+流	lau	4
+活	wut	6
+求	kau	4
+水	seoi	2
+氣	hei	3
+比	bei	2
+每	mui 	5 
+死	sei	2
+正	zing	3
+次	ci	3
+樣	joeng	6
+板	baan	2
+東	dung	1
+月	jyut	6
+書	syu	1
+更	gaang	1
+日	jat	6
+料	liu	2
+數	sou	3
+整	zing	2
+教	gaau	3
+故	gu	3
+放	fong	3
+改	goi	2
+收	sau	1
+支	zi	1
+換	wun	6
+接	zip	3
+掉	diu	6
+指	zi	2
+持	ci	4
+拿	naa	4
+把	baa	2
+找	zaau	2
+打	daa	2
+才	coi	4
+手	sau	2
+或	waak 	6 
+應	jing	3
+愛	oi	3
+您	nei	5
+总	zung	2
+怪	gwaai	3
+念	nim	6
+快	faai	3
+必	bit	1
+從	cung	4
+強	koeng	4
+張	zoeng	1
+引	jan	5
+建	gin	3
+度	dou	6
+幾	gei	2
+平	ping	4
+幫	bong	1
+常	soeng	4
+帶	daai	2
+市	si	5
+已	ji	5
+差	caa	1
+山	saan	1
+少	siu	2
+專	zyun	1
+將	zoeng	3
+寫	se	2
+實	sat	6
+容	jung	4
+完	jyun	4
+安	on	1
+它	taa	1
+字	zi	6
+她	taa	1
+女	neoi	2
+失	sat	1
+太	taai	3
+外	ngoi	6
+場	coeng	4
+城	sing	4
+型	jing	4
+圖	tou	4
+回	wui	4
+四	sei	3
+器	hei	3
+喔	ak	1
+啊	aa	3
+哪	naa	5
+呵	ho	1
+呢	ne	1
+吧	baa	1
+向	hoeng	3
+各	gok	3
+吃	hek	3
+台	toi	4
+叫	giu	3
+另	ling	6
+口	hau	2
+反	faan	2
+及	kap	6
+又	jau 	6 
+參	sam	1
+参	caam	1
+原	jyun	4
+卻	koek	3
+即	zik 	1 
+南	naam	4
+十	sap	6
+北	bak	1
+動	dung	6
+加	gaa	1
+力	lik	6
+則	zak	1
+別	bit	6
+则	zak	1
+分	fan	1
+再	zoi 	3 
+其	kei	4
+共	gung	6
+六	luk	6
+公	gung	1
+八	baat	3
+兩	loeng 	5 
+全	cyun	4
+內	noi	6
+入	jap	6
+先	sin	1
+元	jyun	4
+像	zoeng	6
+傳	cyun	4
+做	zou	6
+修	sau	1
+作	zok	3
+住	zyu	6
+位	wai	2
+似	ci	5
+传	cyun	4
+份	fan	6
+任	jam	6
+件	gin	2
+代	doi	6
+些	se	1
+五	ng	5
+二	ji	6
+事	si	6
+书	syu	1
+久	gau	2
+主	zyu	2
+且	ce	2
+专	zyun	1
+三	saam	1
+響	hoeng	2
+精	zing	1
+離	lei	4
+惡	ngok	3
+領	ling	5
+靈	ling	4
+令	ling	6
+列	lit	6
+亮	loeng	6
+葉	jip	6
+復	fuk	6
+雷	leoi	4
+拉	laai	1
+爛	laan	6
+落	lok	6
+黑	haak	1
+鳥	niu	5
+魚	jyu	2
+騎	ke	4
+香	hoeng	1
+首	sau	2
+项	hong	6
+顯	hin	2
+願	jyun	6
+領	ling	5
+預	jyu	6
+須	seoi	1
+項	hong	6
+靠	kaau	3
+靈	ling	4
+雷	leoi	4
+雲	wan	4
+雨	jyu	5
+離	lei	4
+雙	soeng	1
+集	zaap	6
+雄	hung	4
+隻	zek	3
+隨	ceoi	4
+際	zai	3
+限	haan	6
+际	zai	3
+附	fu	6
+键	gin	6
+钟	zung	1
+鐘	zung	1
+鍵	gin	6
+里	lei	5
+酒	zau	2
+配	pui	3
+達	daat	6
+週	zau	1
+逢	fung	4
+送	sung	3
+迎	jing	4
+输	syu	1
+輸	syu	1
+輕	heng	1
+跳	tiu	3
+跑	paau	2
+足	zuk	1
+趣	ceoi	3
+趙	ziu	6
+越	jyut	6
+赵	ziu	6
+质	zat	1
+質	zat	1
+賣	maai	6
+賞	soeng	2
+貼	tip	3
+貴	gwai	3
+負	fu	6
+豬	zyu	1
+调	diu	6
+護	wu	6
+談	taam	4
+調	diu	6
+詞	ci	4
+註	zyu	3
+訓	fan	3
+角	gok	3
+親	can	1
+衆	zung	3
+血	hyut	3
+蠻	maan	4
+藍	laam	4
+薦	zin	3
+葉	jip	6
+落	lok	6
+莫	mok	6
+草	cou	2
+苦	fu	2
+节	zit	3
+舊	gau	6
+舉	geoi	2
+臉	lim	5
+腳	goek	3
+背	bui	3
+肉	juk	6
+聞	man	4
+聊	liu	4
+翻	faan	1
+群	kwan	4
+羅	lo	4
+罷	baa	6
+罵	maa	6
+终	zung	1
+细	sai	3
+约	joek	3
+緣	jyun	4
+終	zung	1
+細	sai	3
+紙	zi	2
+紅	hung	4
+約	joek	3
+精	zing	1
+篇	pin	1
+節	zit	3
+筆	bat	1
+笔	bat	1
+竟	ging	2
+穿	cyun	1
+稱	cing	1
+票	piu	3
+硬	ngaang	6
+睡	seoi	6
+眾	zung	3
+盡	zeon	6
+皮	pei	4
+皆	gaai	1
+百	baak	3
+痛	tung	3
+病	beng	6
+產	caan	2
+甚	sam	6
+環	waan	4
+琴	kam	4
+率	leot	2
+狗	gau	2
+狂	kwong	4
+牛	ngau	4
+牌	paai	4
+爛	laan	6
+燈	dang	1
+熱	jit	6
+照	ziu	3
+烂	laan	6
+灯	dang	1
+火	fo	2
+灌	gun	3
+溫	wan	1
+準	zeon	2
+湖	wu	4
+測	caak	1
+深	sam	1
+消	siu	1
+派	paai	3
+波	bo	1
+治	zi	6
+油	jau	4
+江	gong	1
+毛	mou	4
+殺	saat	3
+段	dyun	6
+歸	gwai	1
+歲	seoi	3
+止	zi	2
+欲	juk	6
+樹	syu	6
+樓	lau	4
+概	koi	3
+極	gik	6
+棒	paang	5
+條	tiu	4
+根	gan	1
+查	caa	4
+某	mau	5
+架	gaa	2
+条	tiu	4
+木	muk	6
+曲	kuk	1
+景	ging	2
+晚	maan	5
+显	hin	2
+春	ceon	1
+早	zou	2
+既	gei	3
+旁	pong	4
+斷	dyun	6
+断	dyun	6
+敢	gam	2
+敗	baai	6
+救	gau	3
+攻	gung	1
+據	geoi	3
+擔	daam	1
+擊	gik	1
+播	bo	3
+推	teoi	1
+招	ziu	1
+拉	laai	1
+抱	pou	5
+抓	zaau	2
+承	sing	4
+懷	waai	4
+懂	dung	2
+慢	maan	6
+惡	ngok	3
+急	gap	1
+怕	paa	3
+忙	mong	4
+忘	mong	4
+德	dak	1
+復	fuk	6
+待	doi	6
+往	wong	5
+彈	daan	2
+弹	daan	6
+弄	nung	6
+店	dim	3
+底	dai	2
+幹	gon	3
+幕	mok	6
+布	bou	3
+左	zo	2
+岁	seoi	3
+居	geoi	1
+尽	zeon	6
+尚	soeng	6
+射	se	6
+封	fung	1
+寶	bou	2
+寄	gei	3
+害	hoi	6
+官	gun	1
+守	sau	2
+威	wai	1
+套	tou	3
+夠	gau	3
+夜	je	6
+壞	waai	6
+塊	faai	3
+坐	co	5
+均	gwan	1
+土	tou	2
+團	tyun	4
+团	tyun	4
+囉	lo	1
+嘿	hei	1
+嗚	wu	1
+啥	saa	2
+啟	kai	2
+商	soeng	1
+唱	coeng	3
+哇	waa	1
+呆	ngoi	4
+呀	aa	3
+右	jau	2
+句	geoi	3
+半	bun	3
+千	cin	1
+包	baau	1
+劍	gim	3
+創	cong	3
+剛	gong	1
+剑	gim	3
+刻	haak	1
+判	pun	3
+创	cong	3
+刚	gong	1
+列	lit	6
+刀	dou	1
+击	gik	1
+冷	laang	5
+典	din	2
+具	geoi	6
+兵	bing	1
+克	haak	1
+停	ting	4
+假	gaa	2
+值	zik	6
+倒	dou	2
+依	ji	1
+例	lai	6
+低	dai	1
+众	zung	3
+令	ling	6
+付	fu	6
+亮	loeng	6
+亦	jik 	6 
+亂	lyun	6
+乱	lyun	6
+九	gau	2
+七	cat	1
+略	loek	6
+累	leoi	6
+麵	min	6
+鸿	hung	4
+鷹	jing	1
+鳴	ming	4
+鬧	naau	6
+鬥	dau	3
+骗	pin	3
+驱	keoi	1
+驅	keoi	1
+騙	pin	3
+駕	gaa	3
+駐	zyu	3
+餘	jyu	4
+餅	beng	2
+飽	baau	2
+飯	faan	6
+顆	fo	2
+頓	deon	6
+頂	deng	2
+頁	jip	6
+零	ling	4
+雪	syut	3
+雞	gai	1
+隔	gaak	3
+陰	jam	1
+陪	pui	4
+阁	gok	3
+闹	naau	6
+閣	gok	3
+閃	sim	2
+锺	zung	1
+锦	gam	2
+销	siu	1
+鑑	gaam	3
+鍾	zung	1
+錦	gam	2
+銷	siu	1
+鈴	ling	4
+醜	cau	2
+醒	sing	2
+醉	zeoi	3
+酸	syun	1
+酷	huk	6
+邪	ce	4
+邁	maai	6
+邀	jiu	1
+遺	wai	4
+遭	zou	1
+遗	wai	4
+遍	pin	3
+逐	zuk	6
+辯	bin	6
+辭	ci	4
+輩	bui	3
+輛	loeng	2
+躍	joek	3
+踢	tek	3
+踏	daap	6
+距	keoi	5
+跌	dit	3
+赠	zang	6
+贱	zin	6
+贏	jeng	4
+贈	zang	6
+購	kau	3
+賤	zin	6
+賜	ci	3
+貪	taam	1
+豆	dau	2
+诗	si	1
+誇	kwaa	1
+詩	si	1
+袋	doi	2
+衝	cung	1
+蜜	mat	6
+蛋	daan	2
+虧	kwai	1
+藥	joek	6
+藉	zik	6
+蕭	siu	1
+蓋	goi	3
+蒙	mung	4
+菜	coi	3
+莉	lei	6
+茶	caa	4
+艾	ngaai	6
+艦	laam	6
+船	syun	4
+舰	laam	6
+舟	zau	1
+臭	cau	3
+臨	lam	4
+臥	ngo	6
+膽	daam	2
+腿	teoi	2
+脫	tyut	3
+胸	hung	1
+胖	bun	6
+肯	hang	2
+股	gu	2
+聚	zeoi	6
+耐	noi	6
+翹	kiu	4
+翘	kiu	4
+羊	joeng	4
+缸	gong	1
+繞	jiu	2
+織	zik	1
+緊	gan	2
+綠	luk	6
+累	leoi	6
+紧	gan	2
+米	mai	5
+箱	soeng	1
+箭	zin	3
+笨	ban	6
+笛	dek	2
+積	zik	1
+移	ji	4
+秒	miu	5
+秋	cau	1
+祝	zuk	1
+碰	pung	3
+碗	wun	2
+砍	ham	2
+短	dyun	2
+矣	ji	5
+盼	paan	3
+盤	pun	4
+監	gaam	1
+盛	sing	6
+盖	koi	3
+监	gaam	1
+疼	tang	4
+略	loek	6
+甜	tim	4
+瓶	ping	4
+瓦	ngaa	5
+瑪	maa	5
+玛	maa	5
+獲	wok	6
+猜	caai	1
+猛	maang	5
+狠	han	2
+犹	jau	4
+犯	faan	2
+牽	hin	1
+牵	hin	1
+牙	ngaa	4
+牆	coeng	4
+爬	paa	4
+燒	siu	1
+熟	suk	6
+熊	hung	4
+烧	siu	1
+烤	haau	1
+灰	fui	1
+漸	zim	6
+漏	lau	6
+漂	piu	1
+滴	dik	6
+滑	waat	6
+滅	mit	6
+溝	kau	1
+湯	tong	1
+渡	dou	6
+渐	zim	6
+淺	cin	2
+混	wan	6
+淨	zing	6
+淡	taam	5
+涼	loeng	4
+涯	ngaai	4
+洲	zau	1
+洪	hung	4
+洗	sai	2
+泳	wing	6
+泡	pou	5
+河	ho	4
+汽	hei	3
+汪	wong	1
+毀	wai	2
+殼	hok	3
+歐	au	1
+款	fun	2
+欧	ngau	1
+橫	waang	4
+橋	kiu	4
+棚	paang	4
+棄	hei	3
+枝	zi	1
+杯	bui	1
+朵	do	2
+末	mut	6
+朝	ciu	4
+替	tai	3
+暖	nyun	5
+晴	cing	4
+昏	fan	1
+敬	ging	3
+敝	bai	6
+擬	ji	5
+擦	caat	3
+擠	zai	1
+操	cou	1
+撥	but	6
+撞	zong	6
+摘	zaak	6
+搶	coeng	2
+搭	daap	3
+搬	bun	1
+搖	jiu	4
+損	syun	2
+握	aak	1
+掛	gwaa	3
+捕	bou	6
+挺	ting	5
+挑	tiu	1
+拾	sap	6
+拼	ping	3
+拳	kyun	4
+拖	to	1
+拒	keoi	5
+拍	paak	3
+拋	paau	1
+拆	caak	3
+抽	cau	1
+抵	dai	2
+抬	toi	4
+批	pai	1
+托	tok	3
+戴	daai	3
+截	zit	6
+戒	gaai	3
+懼	geoi	6
+慣	gwaan	3
+愁	sau	4
+惹	je	5
+悶	mun	6
+恩	jan	1
+恨	han	6
+怨	jyun	3
+怡	ji	4
+忠	zung	1
+彎	waan	1
+弥	nei	4
+弃	hei	3
+廢	fai	3
+廖	liu	6
+废	fai	3
+床	cong	4
+席	zik	6
+帥	seoi	3
+帅	seoi	3
+巨	geoi	6
+州	zau	1
+岸	ngon	6
+屆	gaai	3
+尼	nei	4
+尺	cek	3
+尊	zyun	1
+寧	ning	4
+富	fu	3
+宮	gung	1
+宋	sung	3
+孤	gu	1
+孔	hung	2
+娘	noeng	4
+姓	sing	3
+奶	naai	5
+奪	dyut	6
+契	kai	3
+奉	fung	6
+夺	dyut	6
+墨	mak	6
+填	tin	4
+塞	coi	3
+塗	tou	4
+塔	taap	3
+圓	jyun	4
+圈	hyun	1
+困	kwan	3
+嘴	zeoi	2
+喝	hot	3
+喊	haam	3
+喂	wai	3
+唸	nim	6
+哭	huk	1
+哩	lei	1
+哀	oi	1
+咱	zaa	1
+咧	lit	6
+吹	ceoi	1
+吵	caau	2
+吊	diu	3
+召	ziu	6
+勸	hyun	3
+劝	hyun	3
+副	fu	3
+剩	sing	6
+函	haam	4
+凡	faan	4
+冰	bing	1
+冬	dung	1
+冒	mou	6
+兇	hung	1
+儀	ji	4
+偷	tau	1
+偶	ngau	5
+健	gin	6
+借	ze	3
+倚	ji	2
+俱	keoi	1
+促	cuk	1
+佩	pui	3
+佔	zim	3
+仲	zung	6
+仰	joeng	5
+仪	ji	4
+仇	sau	4
+井	zeng	2
+互	wu	6
+于	jyu	1
+予	jyu	5
+乾	gon	1
+乙	jyut	6
+乘	sing	4
+乖	gwaai	1
+乃	naai	5
+串	cyun	3
+丈	zoeng	6
+丁	ding	1
+卑	bei	1
+飼	zi	6
+糧	loeng	4
+牢	lou	4
+擄	lou	5
+龚	gung	1
+龔	gung	1
+龐	pong	4
+齣	ceot	1
+鼎	ding	2
+黯	am	2
+黛	doi	6
+黏	nim	1
+麓	luk	1
+鹽	jim	4
+鹼	gaan	2
+鹹	haam	4
+鹭	lou	6
+鹦	jing	1
+鹤	hok	6
+鹊	zoek	3
+鹃	gyun	1
+鸽	gap	3
+鸵	to	4
+鸭	ngaap	3
+鸦	ngaa	1
+鸥	ngau	1
+鸠	kau	1
+鸝	lei	4
+鸚	jing	1
+鷺	lou	6
+鷥	si	1
+鷗	au	1
+鶴	hok	6
+鶯	ang	1
+鵲	zoek	3
+鵰	diu	1
+鵑	gyun	1
+鴿	gaap	3
+鴨	aap	3
+鴕	to	4
+鴉	aa	1
+鳩	gau	1
+鳗	maan	6
+鳖	bit	6
+鲸	king	4
+鲫	zik	1
+鲨	saa	1
+鲤	lei	5
+鲢	lin	4
+鲍	baau	6
+鱷	ngok	6
+鱗	leon	4
+鱉	bit	6
+鰻	maan	6
+鰱	lin	4
+鯽	zik	1
+鯨	king	4
+鯊	saa	1
+鯉	lei	5
+鮑	baau	6
+魏	ngai	6
+魎	loeng	5
+魉	loeng	5
+魄	paak	3
+魁	fui	1
+鬚	sou	1
+鬍	wu	4
+髓	seoi	5
+髒	zong	1
+骸	haai	4
+骷	fu	1
+骰	sik	1
+骯	ong	1
+骤	zaau	6
+骋	cing	2
+骇	haai	5
+骆	lok	6
+骄	giu	1
+驼	to	4
+驹	keoi	1
+驴	lou	4
+驳	bok	3
+驰	ci	4
+驯	seon	4
+驢	lou	4
+驟	zaau	6
+驕	giu	1
+驀	mak	6
+騰	tang	4
+騏	kei	4
+騁	cing	2
+駱	lok	6
+駭	haai	5
+駝	to	4
+駒	keoi	1
+駁	bok	3
+馴	seon	4
+馳	ci	4
+馮	fung	4
+馨	hing	1
+馏	lau	6
+馁	leoi	5
+饿	ngo	6
+饶	jiu	4
+饵	lei	6
+饲	zi	6
+饥	gei	1
+饗	hoeng	2
+饒	jiu	4
+饑	gei	1
+饋	kwai	5
+饅	maan	6
+餾	lau	6
+餵	wai	3
+餓	ngo	6
+餒	leoi	5
+餌	nei	6
+飼	zi	6
+飪	jam	6
+飨	hoeng	2
+飢	gei	1
+飙	biu	1
+飆	biu	1
+颺	joeng	4
+颱	toi	4
+颤	zin	3
+颠	din	1
+颖	wing	6
+颐	ji	4
+颊	haap	3
+颉	kit	3
+颈	geng	2
+颅	lou	4
+颂	zung	6
+颁	baan	1
+顷	king	5
+顱	lou	4
+顫	zin	3
+顛	din	1
+頹	teoi	4
+頸	geng	2
+頰	haap	3
+頤	ji	4
+頡	kit	3
+頒	baan	1
+頌	zung	6
+頃	king	5
+韶	siu	4
+韬	tou	1
+韧	jan	6
+韦	wai	5
+韜	tou	1
+韌	jan	6
+韋	wai	5
+韃	taat	3
+鞭	bin	1
+鞠	guk	1
+鞘	ciu	3
+鞑	taat	3
+鞏	gung	2
+鞍	on	1
+靶	baa	2
+靴	hoe	1
+靨	jip	3
+靥	jip	3
+靡	mei	4
+靚	leng	3
+靓	leng	3
+靄	oi	2
+霾	maai	4
+霭	ngoi	2
+霞	haa	4
+霜	soeng	1
+霓	ngai	4
+霎	saap	3
+霍	fok	3
+雛	co	1
+雕	diu	1
+雏	co	1
+雍	jung	1
+雌	ci	1
+雋	zeon	3
+雇	gu	3
+雀	zoek	3
+隸	dai	6
+隶	dai	6
+隧	seoi	6
+隙	kwik	1
+隘	aai	3
+隕	wan	5
+隅	jyu	4
+陶	tou	4
+陨	wan	5
+陡	dau	2
+陋	lau	6
+阱	zing	6
+阮	jyun	2
+阪	baan	2
+阙	kyut	3
+阕	kyut	3
+阎	jim	4
+阉	jim	1
+闽	man	5
+闵	man	5
+闲	haan	4
+闰	jeon	6
+闢	pik	1
+闖	cong	2
+闕	kyut	3
+闌	laan	4
+闋	kyut	3
+闇	am	3
+閻	jim	4
+閹	jim	1
+閩	man	5
+閨	gwai	1
+閔	man	5
+閑	haan	4
+閏	jeon	6
+镖	biu	1
+镍	nip	1
+镀	dou	6
+锻	dyun	3
+锵	coeng	1
+锥	zeoi	1
+锣	lo	4
+锡	sek	6
+链	lin	2
+铺	pou	1
+铸	zyu	3
+铲	caan	2
+铨	cyun	4
+铠	hoi	2
+铝	leoi	5
+铜	tung	4
+铐	kau	3
+铎	dok	6
+铅	jyun	4
+钻	zyun	3
+钳	kim	4
+钮	nau	5
+钥	joek	6
+钣	baan	2
+钞	caau	1
+钝	deon	6
+钙	koi	3
+钍	tou	2
+钊	ciu	1
+鑿	zok	6
+鑽	zyun	3
+鑼	lo	4
+鑰	joek	6
+鑒	gaam	3
+鑄	zyu	3
+鐸	dok	6
+鏽	sau	3
+鏢	biu	1
+鏟	caan	2
+鏘	coeng	1
+鏈	lin	2
+鎳	nip	1
+鎧	hoi	2
+鎚	ceoi	4
+鎔	jung	4
+鍛	dyun	3
+鍍	dou	6
+鍊	lin	6
+錶	biu	1
+錫	sek	6
+錚	zang	1
+錐	zeoi	1
+鋸	goe	3
+鋪	pou	3
+鋁	leoi	5
+銬	kau	3
+銜	haam	4
+銓	cyun	4
+銅	tung	4
+鉴	gaam	3
+鉤	ngau	1
+鉗	kim	4
+鉅	geoi	6
+鈣	koi	3
+鈕	nau	2
+鈔	caau	1
+鈑	baan	2
+鈍	deon	6
+釷	tou	2
+釘	deng	1
+釗	ciu	1
+釐	lei	4
+釁	jan	6
+釀	joeng	6
+醬	zoeng	3
+醋	cou	3
+醇	seon	4
+酿	joeng	6
+酹	laai	6
+酵	haau	1
+酬	cau	4
+酪	lok	3
+酥	sou	1
+酌	zoek	3
+酋	jau	4
+鄧	dang	6
+鄙	pei	2
+鄒	zau	1
+郤	kwik	1
+郝	kok	3
+郊	gaau	1
+郁	juk	1
+邹	zau	1
+邵	siu	6
+邓	dang	6
+邃	seoi	6
+邂	haai	5
+遼	liu	4
+遵	zeon	1
+遴	leon	4
+遮	ze	1
+遨	ngou	4
+遣	hin	2
+遞	dai	6
+遑	wong	4
+遐	haa	4
+遂	seoi	6
+遁	deon	6
+逾	jyu	6
+逮	dai	6
+逞	cing	2
+逗	dau	6
+逕	ging	3
+递	dai	6
+迺	naai	5
+迳	gaang	3
+迦	gaa	1
+迢	tiu	4
+返	faan	1
+迋	wong	6
+迄	ngat	6
+迂	jyu	1
+辽	liu	4
+辰	san	4
+辮	bin	1
+辫	bin	1
+辣	laat	6
+辟	pik	1
+辜	gu	1
+辗	zin	2
+辖	hat	6
+辕	jyun	4
+轿	kiu	2
+轴	zuk	6
+轎	kiu	2
+轅	jyun	4
+轄	hat	6
+輿	jyu	4
+輾	zin	2
+輻	fuk	1
+軸	zuk	6
+軀	keoi	1
+躺	tong	2
+躯	keoi	1
+躬	gung	1
+躪	leon	6
+躏	leon	6
+躊	cau	4
+躇	ceoi	4
+躁	cou	3
+蹲	deon	1
+蹦	bang	1
+蹋	taat	3
+蹈	dou	6
+蹄	tai	4
+踹	jaai	2
+踴	jung	2
+踐	cin	2
+踌	cau	4
+踅	zyut	6
+践	cin	2
+跪	gwai	6
+跨	kwaa	1
+跤	gaau	1
+跛	bai	1
+跎	to	4
+跋	bat	6
+跆	toi	4
+趾	zi	2
+趟	tong	3
+趁	can	3
+赴	fu	6
+赫	haak	1
+赦	se	3
+赘	zeoi	6
+赔	pui	4
+赎	suk	6
+贿	kui	2
+贾	gaa	2
+贼	caak	6
+贸	mau	6
+贷	taai	3
+贬	bin	2
+贫	pan	4
+贩	faan	2
+账	zoeng	3
+贖	suk	6
+贓	zong	1
+贅	zeoi	6
+賬	zoeng	3
+賠	pui	4
+賊	caak	6
+賈	gaa	2
+賄	kui	2
+貿	mau	6
+貸	taai	3
+貶	bin	2
+販	faan	2
+貧	pan	4
+貍	lei	4
+貂	diu	1
+豹	paau	3
+豫	jyu	6
+豚	tyun	4
+豔	jim	6
+豎	syu	6
+豁	kut	3
+谴	hin	2
+谲	kyut	3
+谭	taam	4
+谬	mau	6
+谩	maan	6
+谨	gan	2
+谤	bong	6
+谜	mai	4
+谛	dai	3
+谚	jin	6
+谘	zi	1
+谕	jyu	6
+谐	haai	4
+谎	fong	1
+谍	dip	6
+谄	cim	2
+诵	zung	6
+诲	fui	3
+诱	jau	5
+诬	mou	4
+诫	gaai	3
+诡	gwai	2
+诠	cyun	4
+诟	gau	3
+诛	zyu	1
+诘	kit	3
+诏	ziu	6
+诊	can	2
+诈	zaa	3
+诅	zo	3
+诃	ho	1
+讽	fung	3
+讼	zung	6
+讹	ngo	4
+讷	naap	6
+讳	wai	5
+讪	saan	3
+讦	kit	3
+讥	gei	100%
+譴	hin	2
+譬	pei	3
+譚	taam	4
+譏	gei	1
+譎	kyut	3
+謾	maan	6
+謹	gan	2
+謬	mau	6
+謠	jiu	4
+謙	him	1
+謗	bong	6
+謎	mai	4
+謊	fong	1
+諺	jin	6
+諷	fung	3
+諱	wai	5
+諮	zi	1
+諭	jyu	6
+諧	haai	4
+諦	dai	3
+諜	dip	6
+諂	cim	2
+誨	fui	3
+誦	zung	6
+誣	mou	4
+誡	gaai	3
+誘	jau	5
+誅	zyu	1
+詹	zim	1
+詰	kit	3
+詮	cyun	4
+詭	gwai	2
+詬	gau	3
+詣	ngai	6
+詠	wing	6
+詛	zo	3
+詗	hing	3
+詔	ziu	3
+詐	zaa	3
+診	can	2
+訶	ho	1
+訥	naap	6
+訣	kyut	3
+訢	jan	1
+訟	zung	6
+訛	ngo	4
+訕	saan	3
+訐	kit	3
+觴	soeng	1
+觞	soeng	1
+觅	mik	6
+覓	mik	6
+襲	zaap	6
+襯	can	3
+襪	mat	6
+襟	kam	1
+襄	soeng	1
+褻	sit	3
+褪	tan	3
+褚	cyu	5
+褔	fu	3
+褒	bou	1
+褐	hot	3
+裹	gwo	2
+裸	lo	2
+裴	pui	4
+裳	soeng	4
+裙	kwan	4
+裘	kau	4
+裔	jeoi	6
+裊	niu	5
+袭	zaap	6
+袜	mat	6
+袖	zau	6
+袒	taan	2
+袍	pou	4
+袂	mai	6
+袁	jyun	4
+衷	cung	1
+衰	seoi	1
+衬	can	3
+衫	saam	1
+衔	haam	4
+衍	hin	2
+衅	jan	6
+蠹	dou	3
+蠶	caam	4
+蠱	gu	2
+蠣	lai	6
+蠢	ceon	2
+蠟	laap	6
+蠅	jing	4
+蟾	sim	4
+蟻	ngai	5
+蟬	sim	4
+蟑	zoeng	1
+蟋	sik	1
+蟄	zat	6
+蟀	seot	1
+螺	lo	2
+螳	tong	4
+螞	maa	5
+螃	pong	4
+螂	long	4
+蝸	wo	1
+蝴	wu	4
+蝦	haa	1
+蝙	pin	1
+蝕	sik	6
+蝉	sim	4
+蝇	jing	4
+蜻	cing	1
+蜥	sik	1
+蜢	maang	5
+蜘	zi	1
+蜗	wo	1
+蜓	ting	4
+蜍	ceoi	4
+蜈	ng	4
+蛾	ngo	4
+蛻	teoi	3
+蛰	zat	6
+蛤	gaap	3
+蛛	zyu	1
+蛎	lai	6
+蛊	gu	2
+蛇	se	4
+蛀	zyu	3
+蚵	o	1
+蚱	zaa	3
+蚯	jau	1
+蚤	zou	2
+蚣	gung	1
+蚓	jan	5
+蚊	man	1
+蚂	maa	5
+蚁	ngai	5
+蚀	sik	6
+虾	haa	1
+虹	hung	4
+虫	cung	4
+虞	jyu	4
+虜	lou	5
+虔	kin	4
+虐	joek	6
+虏	lou	5
+蘿	lo	4
+蘋	ping	4
+蘊	wan	5
+蘆	lou	4
+藻	zou	2
+藺	leon	6
+藹	oi	2
+藩	faan	4
+藐	miu	5
+薰	fan	1
+薯	syu	4
+薛	sit	3
+薔	coeng	4
+薑	goeng	1
+薇	mei	4
+蕾	leoi	4
+蕪	mou	4
+蕩	dong	6
+蕉	ziu	1
+蔽	bai	3
+蔼	ngoi	2
+蔺	leon	6
+蔷	coeng	4
+蔭	jam	3
+蔬	so	1
+蔥	cung	1
+蔚	wai	3
+蔗	ze	3
+蔔	baak	6
+蔓	maan	6
+蔑	mit	6
+蓬	pung	4
+蓦	mak	6
+蓓	pui	4
+蓊	jung	2
+蓉	jung	4
+蓄	cuk	1
