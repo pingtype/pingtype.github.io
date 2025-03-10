@@ -121403,7 +121403,6 @@ náležite	properly
 náležité	proper
 nálny	nal
 namakajte	soak
-Nameraná	Measured
 nameščen	installed
 nameščena	installed
 nameščene	installed
@@ -126945,7 +126944,6 @@ dátovýtokaudia	dataflowaudio
 dátumnahrávania	recording date
 dátumom	date
 dátumov	dates
-Dátumová	Date
 dátumové	date
 dátumového	date
 dátumových	date
@@ -141809,7 +141807,6 @@ výškastrany	page height
 výškavpixeloch	heightinpixels
 výšková	high-altitude
 Výškové	High-altitude
-Výskumné	Research
 Vyskúšajte	Try it out
 Vyskúšajte AFP	Try AFP
 Vyskúšané	Tried and tested
@@ -142642,7 +142639,6 @@ Záhradnícke	Gardening
 Záhradníctva	Gardening
 záhradnú	garden
 Záhreb	Zagreb
-Zahrievanie	Warming up
 zahrmenie	thunder
 zahŕňajúca	including
 zahŕňajúce	including
@@ -145984,3 +145980,225 @@ zvytlačiť	to print
 ZZobrazí	ZDisplays
 ŉopraviť	to fix
 ҙradič	controller
+Absolvovali	Graduated
+Akej	What?
+Aktualizáciou	By updating
+Akú	What
+akútnemu	acute
+alofa	aloha
+Ammán	Amman
+anonymizované	anonymized
+anonymizovaných	anonymized
+antibiotiká	antibiotics
+APOD	APO/POD
+batérii	battery
+Blíži	Coming soon
+Bronchiektázia	Bronchiectasis
+bublín	bubbles
+čching	Qing
+Čchung	Chung
+Celk	Total
+centrály	headquarters
+CHOCHP	COPD
+Chybná	Wrong
+citlivosti	sensitivity
+cloudovom	cloud-based
+Cuiabá	Cuiaba
+dátumová	date
+denníka	diary
+denníku	diary
+dezinfekcií	disinfection
+dezinfikované	disinfected
+diagnostikovali	diagnosed
+diagnóze	diagnosis
+Dokončiť	Finish
+dolnom	lower
+dotazníka	questionnaire
+dotazníku	questionnaire
+dvojúrovňové	two-level
+dvojúrovňových	two-level
+dýchaním	by breathing
+dychová	respiratory
+dychovej	respiratory
+dychovú	respiratory
+efektívnosti	efficiency
+emočnej	emotional
+externými	external
+fajčeniu	smoking
+Fajčím	I smoke
+fľaši	bottle
+Fortaleza	Fort
+fungovania	functioning
+hlienov	mucus
+hlieny	mucus
+hrudníku	chest
+identifikujúce	identifying
+inspiračného	inspirational
+inspiračný	inspirational
+inšpirovaných	inspired
+Intenzívne	Intensive
+Jakutsk	Yakutsk
+Jekaterinburg	Yekaterinburg
+Kamčatskij	Kamchatka
+kanyly	cannulas
+Karáčí	Karachi
+Káthmandú	Kathmandu
+klinickej	clinical
+kolena	knees
+koncentráciu	concentration
+kontaktovali	contacted
+Ľahko	Easy
+lekárovi	to the doctor
+lekársku	medical
+liečbe	treatment
+mailovej	email
+Masimo	Massimo
+Mazatlán	Mazatlan
+Mierne	Moderately
+minútová	minute
+minútovej	minute
+Mobil	Mobile
+nabíjačky	chargers
+Načítava	Loading
+nadmerná	excessive
+nádychy	breaths
+nahratia	uploads
+Naí	Our
+nameraná	measured
+napájaniu	power supply
+Naším	Ours
+Navrhovanie	Designing
+nefajčil	did not smoke
+Neodpájajte	Do not disconnect
+neplánovanú	unplanned
+nevychladne	it won't cool down
+nezistené	undetected
+nezistilo	did not detect
+NEZNÁME	WE DON'T KNOW
+Nezobraziť	Do not display
+Nikózia	Nicosia
+Obnovenie	Recovery
+obvodovej	peripheral
+odomknete	you unlock
+odvetraním	ventilation
+ohodnotili	rated
+osciluje	oscillates
+Oveľa	A lot
+ovplyvnilo	influenced
+oxymeter	oximeter
+oxymetra	oximeter
+oxymetria	oximetry
+oxymetrie	oximetry
+oxymetrov	oximeters
+PCV	PVC
+perfúzie	perfusion
+perorálne	orally
+personalizácie	personalization
+personalizované	personalized
+personalizovaných	personalized
+personalizovanými	personalized
+Porucha	Malfunction
+použijeme	we will use
+použiť	to use
+Používate	You are using
+prebublávania	bubbling
+prebublávanie	bubbling
+prebublávaním	bubbling
+Prechádza	Passing
+prestať	to stop
+Pretória	Pretoria
+priebežného	continuous
+príjmu	income
+príležitosťami	opportunities
+príležitostí	opportunities
+Prispôsobiť	Customize
+príznaky	symptoms
+pulzného	pulse
+pulznej	pulse
+pulzných	pulse
+pulzu	pulse
+Pýtať	Ask
+resetujú	reset
+respiračná	respiratory
+režimoch	regimes
+riadená	controlled
+Riedke	Rarely
+Rozšírené	Advanced
+Š	S
+servisnom	service
+sipot	wheezing
+Skúsiť	Try
+Snažím	I'm trying
+Snímte	Take off
+spätnej	back
+spoločenských	social
+spolupracujete	you cooperate
+sprievodných	accompanying
+Spustiť	Start
+steroidy	steroids
+Strávili	They spent
+Stredoatlantický	Mid-Atlantic
+stúpania	climbs
+subjektmi	subjects
+sušenia	drying
+telemetriu	telemetry
+teplé	warm
+tepová	pulse
+tepovej	heart rate
+tepovú	heart rate
+tepu	pulse
+terapii	therapy
+terapií	therapies
+TERMÍNE	DATES
+titrujte	titrate
+tlakovej	pressure
+Tmavo	Dark
+Tracheo	Trachea
+Tracheostómia	Tracheostomy
+tracheostómiou	tracheostomy
+Trpíte	You are suffering.
+uchovávané	kept
+upchatia	blockages
+Upchatie	Clogging
+urgentného	urgent
+Urumči	Urumqi
+Užívate	Are you using
+vakcíny	vaccines
+Venovali	They dedicated
+ventilácie	ventilation
+vhodnosti	suitability
+Vôbec	Not at all
+Vodnaté	Watery
+Vt	Tue
+východiskové	starting point
+vylepšených	improved
+vyprodukovali	produced
+vyraďte	knock out
+výskume	research
+výskumné	research
+výskumných	research
+výskumnými	research
+výskumu	research
+vývoja	development
+vývoji	development
+zabezpečenom	secured
+zablokovania	blockages
+zadýcham	I'm out of breath.
+Zafarbené	Stained
+zahrievanie	warming up
+základnú	basic
+zámerné	intentional
+Zaujíma	Interesting
+zaznamenávate	you record
+zdravotného	health
+zdravotnom	health
+zdravotnú	health
+Zélande	Zealand
+Zlepšenia	Improvements
+zlepšovania	improvement
+zlepšovanie	improvement
+znížte	reduce
+zodpovedanie	response
+Zriadiť	Establish
+Zriedkavo	Rarely
+Zverejnenie	Disclosure
