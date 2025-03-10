@@ -44,7 +44,6 @@ Adamovom	Adam's
 Adamu	Adam
 Adi	Ordinary
 Adijev	Adi's
-Admin	Admin
 Adminov	Admins
 adramitsku	Adramyttium
 Africi	Africa
@@ -235,7 +234,6 @@ Augusta	Augusta
 Augustove	Augustus
 autor	author
 autora	author
-Azija	Asia
 Azijci	Asians
 Azije	Asia
 Aziji	Asia
@@ -964,7 +962,6 @@ božanska	divine
 božanske	divine
 božanstva	deities
 božanstvo	deity
-Bože	God
 božice	goddesses
 božicu	goddess
 Božja	God's
@@ -1072,7 +1069,6 @@ brojati	count
 brojčano	numerically
 brojeći	counting
 brojem	by number
-Brojevi	Numbers
 brojili	counted
 brojne	numerous
 brojni	numerous
@@ -1120,7 +1116,6 @@ budni	awake
 budnima	awake
 budno	awake
 budu	I will
-Buduća	Future
 buduće	future
 budućega	future
 budućem	future
@@ -1158,7 +1153,6 @@ bure	free
 burno	violently
 burom	burrom
 CADE	CADE
-čak	even
 čamac	boat
 čamca	boat
 car	car
@@ -1195,7 +1189,6 @@ caru	dear
 času	time
 čašu	a glass
 čavala	nails
-će	will
 cedar	cedar
 čedo	child
 cedre	cedars
@@ -1221,12 +1214,8 @@ cedrovi	cedars
 čelični	steel
 ćeliju	cell
 čelima	foreheads
-čelo	forehead
-čelu	forehead
 ćemo	we will
-čemu	what for
 ćeš	you will
-češće	more often
 cesti	road
 čestih	frequent
 čestit	upright
@@ -1242,13 +1231,10 @@ cesti	road
 čestitosti	honesty
 čestitu	honest
 ćesto	often
-često	often
 cestom	by road
 cestu	the way
 četa	troop
-ćete	you will
 čete	companies
-četiri	four
 četiriju	four
 četirima	four
 četiristo	four hundred
@@ -1305,7 +1291,6 @@ cezaru	Caesar
 čeznuo	longed for
 čička	thistle
 čija	whose
-čije	whose
 cijedite	squeeze
 čijeg	whose
 cijela	whole
@@ -1351,13 +1336,11 @@ cilju	goal
 cimbal	dulcimer
 cimbala	cimbala
 cimbalima	cimbalima
-čime	with which
 cimet	cinnamon
 cimeta	cinnamon
 čina	rank
 čine	they make
 čineći	making
-čini	spell
 činila	did
 činili	did
 činilo	seemed
@@ -1390,29 +1373,16 @@ Cirene	Cyrene
 čirove	ulcers
 čirovi	ulcers
 čirovima	ulcers
-čišćenje	cleaning
-čišćenju	cleaning
-čist	clean
-čista	cyst
 čiste	clean
 čisteći	cleaning
-čisti	clean
-čistim	clean
 čistima	clean
 čistio	cleaned
-čistite	clean
-čistiti	clean
-čisto	clean
-čistoće	purity
 čistoći	purity
 čistoćom	cleanliness
 čistoću	cleanliness
 čistog	clean
 čistoga	pure
-čistoj	clean
-čistom	clean
 čistome	clean
-čistu	clean
 čita	reads
 čitaju	they read
 Čitajući	Reading
@@ -1441,7 +1411,6 @@ cjelovito	completely
 cjelovom	with a kiss
 član	member
 članova	members
-Članove	Members
 članovi	members
 članovima	members
 čovječanstvo	humanity
@@ -1493,7 +1462,6 @@ crven	red
 crveni	red
 crveno	red
 Crvenoga	Red-haired
-Crvenom	Red
 Crvenome	Red
 crvi	worms
 ću	I will
@@ -1546,23 +1514,18 @@ crvi	worms
 čuo	heard
 Čupajući	Plucking
 čut	sense
-čuti	hear
 ćutila	silent
-čuva	keeps
 čuvaj	keep it safe
-čuvajte	take care
 čuvaju	they keep
 čuvala	guarded
 čuvali	guarded
 čuvalo	guard
 čuvani	guarded
 čuvao	guarded
-čuvar	guard
 čuvari	guards
 čuvaru	to the guard
 čuvat	to guard
 čuvate	you keep
-čuvati	guard
 čuvene	famous
 cvasti	inflorescence
 cvate	bloom
@@ -1575,8 +1538,6 @@ cvjetnim	floral
 čvrst	sturdy
 čvrsta	solid
 čvrste	solid
-čvrsti	solid
-čvrsto	firmly
 čvrstoću	strength
 čvrstog	solid
 čvrstoj	solid
@@ -1843,7 +1804,6 @@ dirajte	touch
 dirnuo	touched
 dirnut	touched
 dirnuti	touch
-dišu	they breathe
 dišući	breathing
 divan	divan
 dive	dive
@@ -2026,7 +1986,6 @@ dočekaju	they welcome
 dočekali	welcomed
 dočekalo	welcomed
 dočekao	welcomed
-doći	come
 dočuje	overhear
 dočuli	dochuli
 dočuo	heard
@@ -2095,8 +2054,6 @@ dojavi	report
 dojavili	reported
 dojavio	reported
 dojaviti	to report
-dojenčad	infants
-dojenčadi	infants
 dojenče	infant
 dojila	breastfed
 dojilica	wet nurse
@@ -2246,7 +2203,6 @@ došla	came
 došle	came
 došli	came
 došljacima	newcomers
-došlo	it happened
 doslovce	literally
 dospijemo	we arrive
 dospiju	they are due
@@ -2286,7 +2242,6 @@ dotaknuli	touched
 dotaknuo	touched
 dotaknuti	touch
 doticalo	touched
-dotiče	touches
 dotičete	you touch
 dotiči	touch
 dotičite	touch
@@ -2337,11 +2292,9 @@ dovršeno	completed
 dovršetak	completion
 dovrši	complete
 dovršile	completed
-dovršili	completed
 dovršim	finish
 dovršio	completed
 dovršiš	you finish
-dovršite	complete
 dovršitelja	finisher
 dovršiti	complete
 dovršuju	I am finishing.
@@ -2351,7 +2304,6 @@ dozivam	I call out
 dozivati	invoke
 doživio	experienced
 doživjeli	experienced
-doživjeti	experience
 dozna	find out
 doznaju	they find out
 doznala	found out
@@ -2438,12 +2390,9 @@ drugova	comrades
 drugove	comrades
 drugovima	to friends
 drugu	another
-drukčije	differently
 drukčijeg	different
 drukčiji	different
 drukčijim	different
-društva	societies
-društvo	society
 društvu	society
 druže	buddy
 druži	socialize
@@ -2475,15 +2424,11 @@ držanjem	by holding
 držanju	holding
 držao	held
 držat	to hold
-držati	keep
-države	countries
 drže	they hold
 držeći	holding
-drži	hold
 držim	I hold
 držimo	we hold
 držiš	you hold
-držite	hold
 drznici	brave
 dubina	depth
 dubinama	depths
@@ -2557,8 +2502,6 @@ dušo	soul
 dušom	soul
 dušu	soul
 dužan	obliged
-duže	longer
-Duži	Longer
 dužina	length
 dužna	obliged
 dužni	lengthwise
@@ -3327,7 +3270,6 @@ granulo	granule
 Grci	Greeks
 Grcima	To the Greeks
 grčiti	to spasm
-Grčka	Greece
 grčki	Greek
 grčkih	Greek
 grčkim	Greek
@@ -3934,10 +3876,7 @@ iskazujući	expressing
 isklesan	carved
 isklesanim	carved
 isklesao	carved
-isključen	off
 isključeni	excluded
-isključite	turn off
-isključiti	turn off
 Isključivat	Exclude
 iskopa	excavation
 iskopaj	dig
@@ -4240,7 +4179,6 @@ istodobno	simultaneously
 istog	of the same
 istoga	of the same
 istoj	the same
-istok	East
 istoka	east
 istoku	east
 istom	the same
@@ -4250,7 +4188,6 @@ istovjetno	identically
 istrage	investigations
 istragu	investigation
 istraži	investigate
-istražio	investigated
 Istražite	Explore
 istražiti	investigate
 istraživali	investigated
@@ -4298,7 +4235,6 @@ Isusovoj	Jesus'
 Isusovom	Jesus'
 Isusovu	Jesus'
 Isusu	Jesus
-isušuje	dries out
 Italije	Italy
 Italiju	Italy
 Italska	Italy
@@ -4608,7 +4544,6 @@ izlagati	to exhibit
 izlascima	going out
 izlaska	exit
 izlasku	going out
-izlaz	Exit
 izlazak	going out
 izlaze	they go out
 izlaže	exhibits
@@ -4864,7 +4799,6 @@ izvijestio	reported
 izvire	springs
 izviru	izviru
 izvješća	reports
-izvješće	report
 izvješćuje	reports
 izvještaj	report
 izvjestan	certain
@@ -4909,11 +4843,9 @@ izvršim	execute
 izvršio	executed
 izvršiš	you execute
 izvršit	to execute
-izvršite	execute
 izvršitelj	performer
 izvršitelji	executors
 izvršitelju	to the executor
-izvršiti	execute
 izvrsniji	more excellent
 izvrsno	excellent
 izvrsnoj	excellent
@@ -5205,7 +5137,6 @@ jesam	I am
 jesen	autumn
 jesi	you are
 jesmo	we are
-jest	Is
 jeste	is
 jesti	eat
 jesu	they are
@@ -5267,7 +5198,6 @@ jordansku	jordanshoes
 Jordanu	Jordan
 Jorim	Jorim
 Jorimov	Jorimov
-još	more
 Joseh	Jose
 Josehov	Joseph's
 Josija	Josiah
@@ -5355,7 +5285,6 @@ jurite	jury
 jurne	jurne
 jurnu	journal
 jurnulo	rushed
-Just	Just
 Justa	Fair
 Jutarnja	Morning
 jutarnje	morning
@@ -5731,7 +5660,6 @@ kolebajući	wavering
 kolebanja	hesitation
 kolegama	colleagues
 kolege	colleagues
-količinu	quantity
 kolika	how much
 kolike	colic
 koliki	how many
@@ -5830,7 +5758,6 @@ korisno	useful
 korist	benefit
 koristan	useful
 koriste	use
-koristeći	using
 koristi	benefits
 koristila	used
 koristili	used
@@ -5882,14 +5809,11 @@ Kovčega	Ark
 koza	skin
 kožama	skins
 kožara	tannery
-kože	skin
 kozje	goat
 kozjim	goat
 kožni	skin
 kožnim	leather
-kožu	skin
 kožuhe	sheepskin
-Kraći	Shorter
 krađa	theft
 krade	steals
 krađe	thefts
@@ -6158,9 +6082,7 @@ kućanstvo	household
 kućanstvom	household
 kucao	knocked
 kucati	knock
-kuće	houses
 kućevne	household
-kući	home
 Kucnuo	Knocked
 kućo	house
 kućom	house
@@ -6437,7 +6359,6 @@ liječite	treat
 liječiti	treat
 Liječniče	Doctor
 liječnik	doctor
-liječnika	doctor
 liječnike	doctors
 lijeganje	lying down
 Lijegao	Lying down
@@ -6815,7 +6736,6 @@ mariš	you are welcome
 marite	United States
 Marko	Marko
 Markom	Mark
-Marku	Mark
 marljiv	diligent
 marljivi	diligent
 marljiviji	more diligent
@@ -7099,7 +7019,6 @@ mjestima	places
 mjesto	place
 mjestom	place
 mjestu	place
-Mk	Mk
 mlad	young
 mlada	bride
 mlađa	younger
@@ -7195,7 +7114,6 @@ mnu	Mr.
 Moab	Moab
 moć	power
 moćan	powerful
-moći	be able
 moćna	powerful
 moćne	powerful
 moćni	powerful
@@ -7222,7 +7140,6 @@ mogle	could
 mogli	could
 moglo	could
 mogu	I can
-moguće	possible
 mogućnostima	possibilities
 moj	my
 moja	one
@@ -7318,13 +7235,10 @@ Mosijevi	Mosi's
 motri	watch
 motrio	watched
 motrište	viewpoint
-možda	perhaps
 moždine	marrow
 moždinom	marrow
-može	can
 možemo	we can
 možeš	you can
-možete	you can
 mozganjima	move
 mračan	dark
 mračna	clouds
@@ -7490,10 +7404,7 @@ nacijama	nations
 nacije	nations
 nacijedio	squeezed
 naciji	nation
-način	way
-načina	way
 načine	ways
-načini	ways
 načinila	made
 načinile	made
 načinili	made
@@ -7506,7 +7417,6 @@ načinjeni	made
 načinjenih	made
 načinjenima	made
 načinjeno	made
-načinu	in a way
 načuditi	to be surprised
 nad	they
 nada	nothing
@@ -7774,12 +7684,9 @@ najvećih	the largest
 najvećim	the biggest
 najvećoj	the largest
 najvećom	the biggest
-najviše	most
 najviši	highest
-najvišim	highest
 najvišoj	the highest
 najvjerodostojnijih	the most credible
-Najvjerojatnije	Most likely
 nakana	intention
 nakane	intentions
 nakani	intentions
@@ -7807,7 +7714,6 @@ nakupio	accumulated
 nakupljajte	accumulate
 nalagao	nalagao
 nalaze	findings
-nalaže	requires
 nalazeći	finding
 nalazi	findings
 nalazila	found
@@ -7989,7 +7895,6 @@ napunili	filled
 napunio	filled
 napuniš	you fill
 napunit	torn
-Napunite	Fill up
 napuniti	fill
 napušta	leaves
 napuštaj	leave
@@ -8150,7 +8055,6 @@ nastavili	continued
 nastavio	continued
 nastavite	continue
 nastaviti	continue
-Nastavlja	Continues
 naštetili	listed
 nastoj	effort
 nastojali	tried
@@ -8226,7 +8130,6 @@ naučim	learn
 naucima	sciences
 naučio	learned
 naučite	learn
-naučiti	learn
 naude	trouble
 naudi	enjoy
 naudio	harmed
@@ -8401,13 +8304,11 @@ nebu	to the sky
 nećak	nephew
 nečasne	dishonorable
 nečasni	dishonorable
-neće	will not
 nečeg	of something
 nečega	of something
 nećemo	we will not
 nečemu	to something
 nećeš	you won't
-nećete	you will not
 nečim	with something
 nečist	impure
 nečista	unclean
@@ -9085,13 +8986,10 @@ njome	with it
 nju	her
 njuh	flair
 no	no
-noć	night
 noćas	tonight
-noći	night
 noćidođe	the night comes
 noćima	at nights
 noćne	night
-noćni	night
 noćnim	nocturnal
 noćnoj	night
 noćnu	night
@@ -9155,7 +9053,6 @@ novoga	new
 novom	new
 novome	new
 novoobraćenik	new convert
-novorođenčad	newborns
 novorođenče	newborn
 novorođenčetom	newborn
 novorođeni	newborn
@@ -9176,7 +9073,6 @@ nutrinu	inside
 nuždan	needy
 nužde	necessities
 nužni	necessary
-nužno	necessarily
 o	the
 oba	both
 obadva	both
@@ -9540,7 +9436,6 @@ Obucimo	Obscurity
 obucite	put on
 obućom	footwear
 obuću	shoes
-obuhvaća	includes
 obuhvaćala	encompassed
 obuhvaćen	included
 obuhvatio	encompassed
@@ -9624,11 +9519,9 @@ Očevom	Father's
 očevu	father's
 oci	oci
 oči	eyes
-očiju	eyes
 očima	with eyes
 očinske	paternal
 očinstvo	paternity
-očišćen	cleansed
 očišćena	cleaned
 očišćene	cleaned
 očišćeni	cleaned
@@ -9641,8 +9534,6 @@ očistili	cleaned
 očistimo	let's clean
 očistio	cleaned
 Očistit	Purify
-očistite	clean
-očistiti	cleanse
 očit	evident
 očita	blame
 očiti	obvious
@@ -9886,8 +9777,6 @@ odlože	postpone
 odložili	postponed
 odložimo	let's postpone
 odložio	postponed
-odložite	put it aside
-odložiti	postpone
 odluče	decide
 odlučeno	decided
 odlučenomu	decided
@@ -10019,8 +9908,6 @@ odrubljena	severed
 održali	held
 održao	held
 održati	keep
-održava	maintains
-održavala	maintained
 održavao	maintained
 održavaš	you maintain
 odsad	from now on
@@ -10065,7 +9952,6 @@ odustajemo	we give up
 odustaju	they give up
 odustali	gave up
 odustane	give up
-Odustani	Cancel
 odustanu	give up
 oduvijek	always
 oduzeo	taken away
@@ -10375,7 +10261,6 @@ okupljaju	gather
 okupljali	gathered
 okupljalo	gathered
 okupljanja	gatherings
-Okupljanje	Gathering
 okupljanju	gathering
 okupljate	you gather
 okupljati	to gather
@@ -10419,7 +10304,6 @@ omilio	I will eat
 omiljelo	favorite
 omogući	enable
 omogućio	enabled
-omogućiti	enable
 omotali	wrapped
 omotano	wrapped
 omraženi	hated
@@ -10520,7 +10404,6 @@ opečaćeno	burnt
 opere	works
 operem	I wash
 operi	wash
-Operite	Wash
 operu	opera
 opet	again
 ophodio	walked around
@@ -10915,7 +10798,6 @@ ostavljam	I leave
 ostavljao	left
 ostavljena	abandoned
 ostavljeni	abandoned
-oštećeni	damaged
 oštetio	damaged
 oštra	sharp
 oštre	sharp
@@ -10970,7 +10852,6 @@ osujećuje	thwarts
 osujećujem	I thwart
 osupnuti	stunned
 osupnuto	stunned
-osuši	dry
 osušila	dried
 osušilo	dried up
 osušiti	dry
@@ -11146,7 +11027,6 @@ otprije	from before
 otprilike	about
 otpusnicu	discharge
 otpusnu	released
-otpušta	dismisses
 otpuštaju	they are releasing
 otpuštao	dismissed
 otpuštaš	you are dismissing
@@ -11179,7 +11059,6 @@ otresli	shaken off
 otrgnu	tear off
 otrgnuli	torn away
 otrla	numb
-otrov	Poison
 otrova	poisons
 otrovna	poisonous
 otrovnica	viper
@@ -11347,7 +11226,6 @@ oživljujemo	we revive
 ozlijedili	injured
 ozlijediti	hurt
 ozloglašenim	notorious
-označava	indicates
 označio	marked
 pa	but
 pad	pad
@@ -11496,7 +11374,6 @@ Pavlovo	Pavlov
 Pavlovom	Pavlov
 Pavlovu	Pavlov
 Pavlu	Paul
-pazeći	careful
 pazi	watch out
 pazila	careful
 pazili	watch out
@@ -11506,8 +11383,6 @@ pazit	guarded
 pazite	be careful
 paziti	watch
 pažljive	careful
-pažljivo	carefully
-pažnju	attention
 pčele	bees
 PE	ON
 peć	furnace
@@ -11650,7 +11525,6 @@ pismu	letter
 Pišu	They write
 pit	pit
 pita	pita
-Pitaj	Ask
 pitajte	ask
 pitaju	they ask
 pitajući	asking
@@ -11703,7 +11577,6 @@ plaća	salary
 plača	salary
 plaćajte	pay
 plaćaju	they pay
-Plaćanje	Payment
 plaćao	paid
 plaćate	you pay
 plaćati	pay
@@ -11931,14 +11804,11 @@ počelima	beginnings
 počelo	started
 počeo	started
 počeše	they started
-početak	beginning
 početi	start
 početka	beginning
 početkom	at the beginning
-početku	at the beginning
 početnik	beginner
 početnim	initial
-počevši	starting
 poći	to go
 Pocikni	Wait a minute.
 počinak	rest
@@ -11954,7 +11824,6 @@ počinjaju	they begin
 počinjao	started
 počinjaš	you are starting
 počinjati	to begin
-počinje	begins
 počinjem	I am starting
 Počinjemo	We begin.
 počinjene	committed
@@ -12115,8 +11984,6 @@ podrobnije	in more detail
 podrobno	in detail
 podrška	support
 područja	areas
-područje	territory
-području	area
 podrugivali	made friends
 podrugljivaca	mocker
 podrugljivci	mockers
@@ -12282,8 +12149,6 @@ pogrđuju	they scold
 pogrebna	funeral
 pogrešaka	mistakes
 pogreška	error
-pogreške	mistakes
-pogrešku	mistake
 pogrešno	wrong
 pogrešnog	wrong
 pogriješi	make a mistake
@@ -12520,7 +12385,6 @@ pokupiti	pick up
 pokuša	try
 pokušaj	attempt
 pokušaja	attempts
-pokušajte	try
 pokušaju	try
 pokušali	tried
 pokušao	tried
@@ -12604,7 +12468,6 @@ polomljen	broken
 polomljeni	broken
 polovica	half
 polovicu	half
-položaj	position
 položaja	position
 polože	they lay down
 položen	laid down
@@ -12698,12 +12561,9 @@ pomnjivije	more carefully
 pomnjivo	carefully
 pomno	carefully
 pomnu	I remember
-pomoć	help
-pomoći	help
 pomoćnik	aide
 pomoćnika	assistant
 pomoćnike	assistants
-pomoću	using
 pomogao	helped
 pomogla	helped
 pomogli	helped
@@ -12767,7 +12627,6 @@ poniknu	disappear
 ponio	brought
 poništava	cancels
 poništili	canceled
-Poništio	Canceled
 poništiti	annul
 ponizan	humble
 ponižava	humiliates
@@ -12818,7 +12677,6 @@ ponovilo	repeated
 ponovim	repeat
 Ponovit	Repeat
 ponoviti	repeat
-Ponovljeni	Repeated
 ponovno	again
 ponovnog	again
 ponovo	again
@@ -12866,7 +12724,6 @@ poprska	splash
 popuni	fill in
 popuštajte	give in
 popuštati	to give in
-Popuste	Discounts
 popustili	gave way
 popustio	gave way
 popustljiv	compliant
@@ -12938,7 +12795,6 @@ pošalje	send
 pošaljem	send
 pošalješ	you send
 pošalji	send
-Pošaljite	Send
 pošalju	send
 posao	job
 pošao	job
@@ -13251,7 +13107,6 @@ postiti	fast
 poštivali	respected
 poštivao	respected
 poštivati	to respect
-postiže	achieves
 postižete	you achieve
 pošto	since
 postojale	existed
@@ -13475,7 +13330,6 @@ potratite	waste
 potraže	search
 potraži	search
 potražio	searched
-potražite	look for
 potražiti	to look for
 potrčali	ran
 potrčalo	ran
@@ -13613,7 +13467,6 @@ povećavaju	increase
 povećavale	increased
 povećavao	increased
 povećavaš	you increase
-povećavati	increase
 povečerali	had dinner
 povede	will lead
 poveden	led
@@ -13704,7 +13557,6 @@ pozajmljujte	borrow
 pozajmljuju	they borrow
 požaliti	to regret
 požanje	harvest
-požara	fire
 požaru	fire
 pozaspale	bathroom photo
 pozdrav	greeting
@@ -13815,9 +13667,7 @@ praoci	ancestors
 praocima	ancestors
 praotaca	forefather
 prašina	dust
-prašine	dust
 prašini	dust
-prašinu	dust
 praska	bang
 prasne	burst
 prašta	forgives
@@ -13911,7 +13761,6 @@ praznovjerni	superstitious
 praznu	empty
 prće	it's dirty
 prebace	transfer
-Prebaci	Transfer
 prebiju	I break through
 prebili	broke through
 prebiva	resides
@@ -14126,7 +13975,6 @@ premiju	premium
 preminuo	deceased
 premještao	moved
 premještati	to move
-Premjesti	Move
 premjestila	moved
 premjestit	to move
 premlate	beaten
@@ -14138,7 +13986,6 @@ prenesen	transferred
 preneseni	transferred
 prenesi	download
 prenijele	transferred
-Prenijeli	Transferred
 prenijeti	transfer
 prenio	transferred
 prenizak	too low
@@ -14171,7 +14018,6 @@ preostalih	the remaining
 preostalima	the rest
 preostalo	remaining
 preostalu	the remaining
-Preostao	Remaining
 prepelice	quail
 prepilili	sawed off
 prepirali	argued
@@ -14202,7 +14048,6 @@ preporučamo	we recommend
 preporučeni	recommended
 preporučila	recommended
 preporučivati	recommend
-preporučuje	recommends
 preporučujem	I recommend
 preporučujemo	we recommend
 preporučujete	you recommend
@@ -14219,7 +14064,6 @@ prepoznao	recognized
 prepoznat	recognized
 prepoznate	you recognize
 prepoznati	recognize
-Prepoznavanje	Recognition
 prepričavali	retelling
 prepun	crowded
 prepuna	crowded
@@ -14245,7 +14089,6 @@ prešla	passed
 preslabi	too weak
 Preslavnoga	Glorious
 prešle	passed
-prešli	passed
 preslušanje	listening
 prespava	sleeps over
 presresti	intercept
@@ -14382,12 +14225,10 @@ preveden	translated
 prevedena	translated
 prevedeno	translated
 prevelika	too big
-Preveliko	Too big
 prevelikom	too big
 preveo	translated
 previjajući	wrapping
 previje	wraps
-previše	too much
 previsoke	too high
 prevodi	translations
 prevratnici	revolutionaries
@@ -14454,7 +14295,6 @@ približilo	brought closer
 približio	brought closer
 Približite	Zoom in
 približiti	bring closer
-približno	approximately
 pribrojen	added
 pričaj	talk
 pričajte	talk
@@ -14944,7 +14784,6 @@ pristupilo	joined
 Pristupim	Pristupim
 pristupimo	let's approach
 pristupio	joined
-Pristupite	Access
 pristupiti	to approach
 prisutnosti	presence
 prisvaja	appropriates
@@ -15037,10 +14876,7 @@ prljavim	dirty
 prljavog	dirty
 prljavoj	dirty
 prljavom	dirty
-prljavština	filth
 prljavštinama	dirt
-prljavštine	dirt
-prljavštinu	dirt
 prljavu	dirty
 probdio	try god
 probdjeti	to wake up
@@ -15066,7 +14902,6 @@ pročelju	facade
 pročelnik	head
 proći	pass
 procijenili	estimated
-Procijenjeno	Estimated
 procijenjenoga	estimated
 pročišćava	purifies
 pročišćeno	purified
@@ -15075,12 +14910,10 @@ Pročišćuje	Purifies
 pročistio	purified
 pročistiti	refine
 pročita	read
-pročitajte	read
 pročitaju	read
 pročitali	read
 pročitao	read
 pročitate	read
-pročitati	read
 Procjeđujete	You are filtering.
 procjenjujemo	we estimate
 procjenjuju	they estimate
@@ -15295,7 +15128,6 @@ promotrile	promotions
 promotrili	promotrili
 promotrio	observed
 promotrite	observe
-pronaći	find
 pronađe	find
 pronađete	you find
 pronađite	find
@@ -15575,10 +15407,8 @@ protuzakonito	illegally
 Proučavaj	Study
 proučavali	studied
 proučavate	you study
-Proučite	Study
 prouzročilo	caused
 prouzročit	cause
-prouzročiti	to cause
 prouzročuje	causes
 provali	break in
 provalija	abyss
@@ -15787,8 +15617,6 @@ purpur	purple
 purpura	purpura
 purpurni	purple
 purpurnim	purple
-puše	smoking
-puši	smokes
 pust	breath
 pusta	stakes
 puštaju	they let go
@@ -15859,7 +15687,6 @@ Rabbuni	Rabbuni
 rabe	rabe
 rabili	used
 račun	account
-računa	account
 računaju	they count
 računanju	calculation
 račune	invoices
@@ -16171,7 +15998,6 @@ ravnodušnima	indifferent
 ravnodušnosti	indifference
 ravnom	straight
 ravnopravna	equal
-Ravnu	Flat
 razabiru	discern
 razabirući	discerning
 razabrati	make out
@@ -16333,10 +16159,7 @@ razlama	breaks
 razlaže	decomposes
 Razlegnu	Spread out
 različita	different
-različite	different
 različiti	different
-različitih	different
-različitim	different
 različitog	different
 različitoga	different
 različitu	different
@@ -16394,7 +16217,6 @@ razmotre	consider
 razmotri	consider
 razmotrili	considered
 Razmotrio	Considered
-Razmotrite	Consider
 razmotriti	consider
 raznih	various
 raznijet	blown up
@@ -16839,12 +16661,8 @@ sadnice	seedlings
 Sadok	Zadok
 Sadoka	Sadoka
 Sadoku	Zadok
-sadržaja	content
 sadržana	contained
-sadržavaju	contain
 sadržavala	contained
-sadrže	contain
-sadrži	contains
 saduceja	sadducee
 saduceje	sadducee
 saduceji	saduceji
@@ -16918,7 +16736,6 @@ Salin	Translation
 šalje	sends
 šaljem	I am sending
 šaljemo	we send
-šalju	they send
 šaljući	sending
 Salmi	Strait
 Salmon	Salmon
@@ -17790,7 +17607,6 @@ slaviti	celebrate
 slavlja	celebrations
 slavljen	celebrated
 slavljenja	celebrations
-Slavljenje	Celebration
 slavlju	celebration
 slavna	famous
 slavne	famous
@@ -17815,7 +17631,6 @@ slažem	I agree
 slažeš	you lie
 slažu	agree
 slegne	settle down
-sličan	similar
 slici	picture
 sliči	resembles
 Sličila	Similarities
@@ -17881,11 +17696,7 @@ sljedbenike	followers
 sljedbenikom	follower
 sljedbi	followers
 sljedbom	following
-Sljedeće	Next
-sljedećeg	next
 sljedećem	next
-sljedeći	following
-sljedeću	next
 sljepilo	blindness
 sljepoća	blindness
 sljepoće	blindness
@@ -17934,8 +17745,6 @@ Složit	Fold
 složne	consonant
 složni	consonant
 složno	unanimously
-slučaj	case
-slučajevima	cases
 slučajno	accidentally
 sluga	servant
 slugama	servants
@@ -17946,7 +17755,6 @@ slugom	servant
 slugu	servant
 sluh	hearing
 sluša	listens
-Slušaj	Listen
 slušajte	listen
 slušaju	they listen
 slušajući	listening
@@ -17985,7 +17793,6 @@ službom	by service
 službu	service
 službuju	serve
 službujući	serving
-služe	serve
 služeći	serving
 služen	served
 služenja	service
@@ -18106,7 +17913,6 @@ smota	bundle
 Smotat	Smotat
 smotati	smotati
 smračilo	it got dark
-smrću	by death
 smrskao	crushed
 smrskat	butter tax
 smrt	death
@@ -18161,7 +17967,6 @@ snažniji	stronger
 snažnim	strong
 snažnima	strong
 snažno	strongly
-snažnog	strong
 snažnom	strong
 snažnu	strong
 sne	snow
@@ -18235,7 +18040,6 @@ spali	burn
 Spalili	Burned
 spalio	October
 spaliti	burn
-Spaljen	Burned
 spaljena	burned
 spaljeno	burned
 spaljivali	burned
@@ -18412,12 +18216,9 @@ spremnost	preparedness
 spretnog	skillful
 sprijateljili	made friends
 spriječen	prevented
-spriječila	prevented
-spriječili	prevented
 spriječilo	prevented
 spriječimo	let's prevent
 spriječio	prevented
-spriječiti	prevent
 sprijeda	in front
 sprječavane	prevented
 sprovesti	to implement
@@ -18434,7 +18235,6 @@ spustio	lowered
 spustit	launch
 spustite	drop
 spustiti	to lower
-spužvu	sponge
 srami	shame
 sramio	ashamed
 sramite	shame
@@ -18560,7 +18360,6 @@ stalo	happened
 stan	stan
 stane	becomes
 stanete	you will become
-stani	Stop
 stanite	stop
 stanje	state
 stanju	condition
@@ -18678,8 +18477,6 @@ stepenicama	stairs
 stepenice	stairs
 sterao	sterao
 štete	damages
-štetne	harmful
-štetnih	harmful
 štetu	damage
 stezi	tracks
 štićenika	ward
@@ -18727,7 +18524,6 @@ stišavaš	you are quieting down
 štite	protect
 štitio	protected
 štitiš	you protect
-štitnik	protector
 štitom	shield
 štitovi	shields
 stizali	arrived
@@ -18748,7 +18544,6 @@ Stjepanom	Stjepan
 Stjepanov	Stephen's
 Stjepanovo	Stjepan's
 sto	what
-što	what
 stoga	therefore
 štogod	whatever
 stoičkih	Stoic
@@ -18818,7 +18613,6 @@ strahota	horror
 strahotama	horrors
 strahote	horrors
 strahova	fears
-Strahovanje	Fear
 strahovitih	terrifying
 strahovito	terribly
 strahovlade	reign of terror
@@ -18906,7 +18700,6 @@ strovali	they were walking
 Strovalit	Stroval
 strovaliti	to crash
 strovaljuju	they are flying
-strože	stricter
 strpe	patience
 strpite	be patient
 strpljenja	patience
@@ -19714,14 +19507,12 @@ Tertulom	Tertulom
 tesar	carpenter
 tesarov	tesarov
 teška	heavy
-teške	heavy
 teški	heavy
 teškim	heavy
 teško	heavy
 teškoćama	difficulties
 teškoće	difficulties
 teškog	heavy
-tešku	heavy
 teta	aunt
 tetivama	tendons
 tetivu	bowstring
@@ -19731,7 +19522,6 @@ tetrarhom	tetrarhom
 Teturali	Tetural
 Teuda	String
 teže	harder
-teži	heavier
 težili	weighed
 težim	I am trying
 Težimo	We strive
@@ -19884,7 +19674,6 @@ točan	exact
 toči	hail
 točkica	dot
 točnije	more precisely
-točno	exactly
 tog	took
 toga	toga
 toj	hill
@@ -20355,7 +20144,6 @@ učenjem	by learning
 učenjima	teachings
 učenju	learning
 učestalo	frequently
-ući	enter
 uči	enter
 učili	studied
 učine	do
@@ -20370,7 +20158,6 @@ učinio	done
 učiniš	you do
 učinit	to do
 učinite	do
-učiniti	make
 učinivši	having done
 učinjen	done
 učinjena	done
@@ -20392,7 +20179,6 @@ učiteljice	teachers
 učiteljima	teachers
 učitelju	teacher
 učiti	learn
-učvršćen	fixed
 učvršćeni	strengthened
 učvršćenje	fixture
 učvršćivale	strengthened
@@ -20883,8 +20669,6 @@ unutarnjem	internal
 unutarnji	interior
 unutarnju	internal
 unutra	in
-unutrašnjoj	internal
-unutrašnjost	interior
 uobičajenog	usual
 uobičajenu	usual
 uočavaju	they notice
@@ -20981,7 +20765,6 @@ upozoravamo	we warn
 upozoravao	warned
 upozoren	warned
 upozoreni	warned
-Upozorenja	Warnings
 upozorenje	warning
 upozori	warn
 upozorili	warned
@@ -21116,7 +20899,6 @@ usavršuje	perfects
 uši	ears
 ušicu	earlobe
 usijane	red-hot
-ušiju	ears
 ušima	ears
 usjev	crop
 usjeva	crops
@@ -21346,7 +21128,6 @@ utihnite	shut up
 utihnula	quieted down
 utihnuli	quieted down
 utihnuo	quieted down
-Utišaj	Mute
 utišao	quieted down
 utišavaš	you are quieting down
 utjecajan	influential
@@ -21450,7 +21231,6 @@ uvjerenju	belief
 uvjeri	convince
 uvjerili	convinced
 uvjerio	convinced
-Uvjerite	Convince
 uvjeriti	convince
 uvjerljivim	convincing
 uvjerljivo	convincingly
@@ -21573,7 +21353,6 @@ uzdržljiv	durable
 uzdržljivo	persistently
 uzdržljivost	endurance
 uzdržljivosti	abstinence
-uzduž	along
 uze	come
 uže	rope
 uzela	took
@@ -21822,17 +21601,10 @@ varavo	drove
 varljiv	deceptive
 varljivost	deceitfulness
 vas	your
-vaš	your
-vaša	your
-vaše	your
-vašeg	yours
 vašega	yours
-vašem	yours
 vašemu	yours
 vaši	yours
 vaših	yours
-vašim	yours
-vašoj	yours
 vašom	yours
 vašu	yours
 vatra	fire
@@ -21847,14 +21619,11 @@ važili	valid
 važna	important
 važni	important
 važnije	more important
-važno	important
 važnosti	importance
 već	already
 veća	bigger
-veće	larger
 većeg	larger
 većega	larger
-većem	larger
 večer	evening
 večera	dinner
 večerali	had dinner
@@ -21866,12 +21635,9 @@ večeri	evenings
 večernja	evening meal
 Večerom	In the evening
 večeru	dinner
-veći	larger
-većim	bigger
 većima	larger
 većina	most
 većine	majority
-većom	larger
 veću	bigger
 vedrim	bright
 veli	says
@@ -21893,9 +21659,7 @@ veličanstvom	majesty
 veličanstvu	to your majesty
 veličao	glorified
 veličati	magnify
-veličina	size
 veličini	size
-veličinu	size
 velik	big
 velika	big
 velikaši	nobles
@@ -22049,13 +21813,9 @@ vinom	with wine
 vinopije	wine drinkers
 vinu	wine
 vis	still
-viša	Visa
-višak	surplus
-više	more
 viseći	hanging
 višestruko	multiple
 visi	everyone
-višim	higher
 visina	height
 visinama	heights
 visine	heights
@@ -22186,7 +21946,6 @@ vlašću	power
 vlasi	hair
 vlasnici	owners
 vlasnik	owner
-Vlasnika	Owner
 vlasniku	to the owner
 vlasništvo	property
 vlast	power
@@ -22223,8 +21982,6 @@ vodeno	guided
 vodenu	water
 vodi	leads
 vođi	leader
-vodič	conductor
-vodiča	driver
 vodiči	drivers
 vodila	guides
 vodili	led
@@ -22300,7 +22057,6 @@ voska	wax
 Vozeći	Driving
 vrabac	sparrow
 vrabaca	sparrow
-vraća	returns
 vraćajte	return
 vraćaju	they return
 vraćajući	returning
@@ -22310,7 +22066,6 @@ vraćali	returned
 vraćalo	returned
 vraćam	I return
 vračanja	returns
-Vraćanje	Divination
 vračanje	return
 vračanjem	returning
 vračanju	returning
@@ -22363,8 +22118,6 @@ vrebala	lurking
 vrebali	lurking
 vreća	bag
 vrećama	bags
-vreće	bags
-vreću	bag
 vredniji	more valuable
 Vrednijim	More valuable
 vremena	time
@@ -22437,7 +22190,6 @@ vruće	hot
 vrućica	fever
 vrućici	fever
 vrućina	heat
-vrućine	heat
 vrućinom	with heat
 vuče	pulls
 vuci	voice
@@ -22464,7 +22216,6 @@ zabijaju	they score
 zabilježen	recorded
 zabilježeno	recorded
 zabilježio	noted
-zabilježite	note down
 zablista	shines
 zabluda	error
 zablude	misconceptions
@@ -22595,7 +22346,6 @@ zadržani	reserved
 zadržao	kept
 Zadržat	To keep
 zadržati	keep
-zadržava	retains
 zadržavajući	retaining
 zadržavalo	retained
 zadržavam	I am holding back
@@ -22604,7 +22354,6 @@ zadržavati	to hold back
 zadrži	keep
 zadržimo	let's keep
 zadržiš	you hold
-zadržite	keep
 zadužen	in charge
 zaduženima	in debt
 zadužiti	to borrow
@@ -22834,7 +22583,6 @@ zalažući	pledging
 žalbu	complaint
 žalci	stings
 žalcima	to the sorrows
-žali	regrets
 zaliha	stock
 zalihe	supplies
 zalihi	supplies
@@ -23043,7 +22791,6 @@ zapisano	written
 zapisao	wrote down
 zapisati	to write down
 zapise	records
-Zapiši	Write down
 zapisima	records
 zapisivalo	recorder
 zapisivati	to write down
@@ -23206,7 +22953,6 @@ zaselak	hamlet
 zaseocima	hamlets
 zaseoke	hamlets
 zasićena	saturated
-zasićeni	saturated
 zasigurno	surely
 zasijana	sown
 zasijano	sown
@@ -23285,7 +23031,6 @@ zastrta	veiled
 zastupa	represents
 zastupaj	represent
 zastupanja	representation
-Zastupnika	Representative
 zasuče	will turn
 zasune	will insert
 zašute	shut up
@@ -23316,8 +23061,6 @@ zatražimo	let's ask
 zatražio	requested
 zatražiš	you ask
 zatražit	to request
-zatražite	request
-zatražiti	ask
 zatre	suppress
 zatreba	need
 zatresao	shook
@@ -23354,7 +23097,6 @@ zatvorenik	prisoner
 zatvorenika	prisoner
 zatvorenike	prisoners
 zatvorenim	closed
-zatvoreno	Closed
 zatvori	close
 zatvorila	closed
 zatvorili	closed
@@ -23481,10 +23223,7 @@ završavao	ended
 završavate	you finish
 završe	finish
 Završene	Completed
-završetku	completion
-završi	finish
 završila	finished
-završili	finished
 završilo	finished
 završio	finished
 završit	finish
@@ -23624,7 +23363,6 @@ zelenu	green
 željama	wishes
 želje	greens
 željeli	wanted
-željena	desired
 željenu	desired
 željet	desired
 željeti	want
@@ -23656,7 +23394,6 @@ zemaljskoj	earthly
 zemaljskom	earthly
 zemaljskome	earthly
 zemaljsku	earthly
-zemlja	Earth
 zemljak	countryman
 zemljaka	countryman
 zemljama	countries
@@ -23760,7 +23497,6 @@ zgriješiti	sin
 Zgrnuli	Crowded
 zgrnut	zgrnut
 zgrnuti	to gather
-žica	wire
 žičanim	wired
 zid	wall
 zida	equipment
@@ -23843,7 +23579,6 @@ zimu	winter
 živome	alive
 živomu	alive
 život	life
-života	life
 živote	life
 životima	lives
 životinja	animal
@@ -23860,7 +23595,6 @@ zimu	winter
 životnim	life
 životnoj	life
 životom	by life
-životu	life
 životvorni	life-giving
 živu	alive
 zjala	she ate
@@ -121737,7 +121471,6 @@ aktivira	activates
 aktivirali	activated
 aktiviran	activated
 aktivirao	activated
-aktivirati	activate
 aktivnim	active
 alarma	alarm
 alarme	alarm
@@ -121746,7 +121479,6 @@ alarmima	alarms
 alata	tools
 alergije	allergies
 alergijsku	allergic
-algoritam	algorithm
 alkalne	alkaline
 alkalnog	alkaline
 alkohol	alcohol
@@ -121754,20 +121486,15 @@ alkohola	alcohol
 alkohole	alcohol
 alkoholom	alcohol
 alternativne	alternative
-aluminij	aluminum
 ambalažu	packaging
 Američke	American
 Američkim	American
 Američkoj	American
-amonijak	ammonia
-amonijev	ammonium
-analizator	Analyzer
 analizatora	Analyzer
 anestetičkih	anesthetic
 anestetika	anesthetics
 anionskog	anionic
 Anioxyde	Anoxide
-anksioznost	anxiety
 anorganske	inorganic
 antibakterijska	antibacterial
 antiseptike	antiseptic
@@ -121949,18 +121676,9 @@ dišnom	respiratory
 distributera	distributor
 dišu	they breathe
 dizajniran	designed
-djece	children
-djecu	children
 djelatnicima	employees
-djelovanja	action
-djelovanje	activity
-djeluje	works
 dnevnog	daily
-dnu	bottom
 dobavljača	supplier
-dobi	age
-dobiti	get
-dobro	good
 doći	come
 dodaci	accessories
 dodataka	accessories
@@ -121973,24 +121691,16 @@ dodatnu	additional
 dodavajte	add
 Dodavanje	Pass
 dodavati	add
-dođe	comes
 dodijeljeni	assigned
 dodir	contact
 dodirivati	touch
 dodirujte	touch
-dođu	they come
-događaji	events
-dogodi	happen
 dojenčad	infants
 dojenčadi	infants
-dok	while
 dokumenta	document
 dokumentaciju	documentation
 dokumentima	documents
 dokumentu	document
-dolje	down
-domovima	homes
-donje	lower
 donjih	lower ones
 donju	lower
 dopremljenog	delivered
@@ -122167,8 +121877,6 @@ isključuje	excludes
 iskoči	jump out
 iskorištenog	used
 iskusite	experience
-iskusiti	experience
-iskustvom	by experience
 ispala	dropped out
 isperite	rinse
 ispiranja	rinsing
@@ -122177,7 +121885,6 @@ ispiranjem	by rinsing
 ispitala	examined
 ispitani	examined
 ispitivanjima	examinations
-ispod	below
 isporučen	delivered
 isporučene	delivered
 isporučenog	delivered
@@ -122186,12 +121893,8 @@ isporučuje	delivers
 isporučuju	they deliver
 isporuke	deliveries
 isporuku	delivery
-ispravni	correct
-ispravno	correctly
-isprazni	empty
 ispraznite	empty
 isprazniti	empty
-ispunjavanje	fulfillment
 ispusne	discharge
 ispusnog	exhaust
 ISPUSNOM	EXHAUST
@@ -122203,32 +121906,22 @@ ispustite	drop it
 ispustiti	drop
 istaknuto	prominently
 isteka	expiration
-istekne	expires
-isti	hot
 istjecanja	leaks
-isto	this
-istom	the same
 istražio	investigated
 istrošena	worn out
 istrošenost	wear and tear
 istrošenosti	wear and tear
-istu	the same
 isušuje	dries out
 itd	etc.
 İthalatçı	Importer
 ivišimaod	andhigher than
-iz	from
 izazvat	provoke
-izazvati	cause
-izbacuje	throws out
 izbijanja	outbreaks
 izbjegavajte	avoid
 izbjegavanja	avoidance
 izbjegavanje	avoid
-izbjegavati	avoid
 izbjegla	escaped
 izbjegle	escaped
-izbjegli	escape
 izbjegnuli	escaped
 izbjeljivač	bleach
 izbjeljivače	bleaches
@@ -122248,92 +121941,56 @@ izložen	exposed
 izložena	exposed
 izloženo	exposed
 Izlučevine	Excretions
-između	between
 Izmjenična	Alternating
 izmjenjuju	exchange
 izmjenu	change
 Izmjerena	Measured
-iznad	above
 iznenadna	sudden
 iznenadne	sudden
 iznimkama	exceptions
-iznosi	amounts
-iznositi	amount
 izolaciju	insulation
-izrađeni	made
 izradi	to make
 Izravna	Direct
 izravne	direct
 izravnih	direct
 izravnim	direct
-izravno	directly
 izravnoj	direct
 izražene	expressed
 izuzev	except
 Izvadite	Take it out.
-izvan	beyond
 izvješće	report
 izvlačenjem	by drawing
-izvor	source
-izvora	source
-izvore	sources
 izvoru	source
 izvršite	execute
 izvršiti	execute
 izvučete	you pull out
 izvucite	pull out
 jačine	strength
-jaka	what
-jako	like
-jakost	quality
 jakosti	qualities
 jamči	guarantees
-jamstvo	guarantee
 JAMSTVU	WARRANTY
 jastučić	pad
 jastučića	cushions
 jastučiće	cushions
-javio	reported
 javlja	reports
-je	is
-jedan	one
-jedini	only
 jedinicazadugotrajnunjegu	long-term care unit
 Jedinstvena	Unique
-jedinstveni	unique
-jedna	one
 jednakim	equal
-jedne	one
-jednog	one
 jednokratne	one-time
 jednokratnu	one-time
-jednom	once
 Jednostavan	Easy
 jednostavno	simply
-jednostavnosti	simplicity
 JEDNOSTRUKIM	SINGLE
-jednu	one
-jer	because
-jeste	is
-jesu	they are
 jezičce	tongue
 jezičci	tongues
 jezičke	linguistic
 još	more
-ju	after all
 kabela	cable
-kabla	before
-kad	that
-kada	when
 kadi	card
-kako	how
-kakvi	what kind
 kalibracije	calibrations
 kalibracijskih	calibration
 kanila	theirs
-kanili	cannula
 kanilu	howl
-kao	as
 kapanje	when
 kapi	cover
 kapice	caps
@@ -122361,21 +122018,7 @@ kliničkim	clinical
 kliničkom	clinical
 kliničku	clinical
 klorirani	chlorinated
-kod	code
-koja	who
-koje	which
-kojeg	which
-kojem	to which
-koji	who
-kojih	which
-kojim	by which
-kojima	to whom
-kojoj	to which
-koju	which
 količinu	quantity
-koliko	how much
-koljena	knees
-koljeno	knee
 komada	pieces
 kombinacije	combinations
 kombinaciji	combination
@@ -122426,10 +122069,6 @@ kopča	buckle
 kopče	buckles
 kopči	kopči
 kopču	buckle
-koraci	steps
-koracima	steps
-koraka	steps
-korake	step
 Korisni	Useful
 korisnici	users
 korisničke	user-friendly
@@ -122441,46 +122080,30 @@ korisničkom	user-friendly
 korisnika	user
 korisnike	users
 korisniku	to the user
-Koristan	Useful
 koristeći	using
 korištenja	use
 korištenje	use
 korištenju	use
-koristi	benefits
-koristio	used
-koristite	use
-koristiti	use
 košarica	basket
-kose	hair
 kože	skin
 koži	skin
 kožom	with skin
 kožu	skin
 kraće	shorter
-kraj	end
-kraja	end
-krajevima	the ends
 krajnjeg	final
-kraju	end
 krakove	Krakow
 Kraljevini	Kingdom
-kratki	short
 kratkovalne	shortwave
 kreveta	beds
 kriterijima	criteria
-kroz	through
 krpe	rags
 KRPICE	CLOTHES
 krpicom	with a cloth
 krpicu	a cloth
 krpom	with a cloth
 krpu	cloth
-kruga	circle
 krupnu	big
 kružnim	circular
-krv	blood
-krvi	blood
-krvlju	with blood
 kuće	houses
 kući	home
 kućišta	housings
@@ -122501,13 +122124,7 @@ kvalitetu	quality
 kvara	fourth
 kvarauređaja	device malfunction
 kvarove	malfunctions
-lakat	elbow
-lako	easy
-lakta	inhabited
 lateksa	latex
-li	that
-lica	faces
-licu	face
 liječenja	treatment
 liječenje	treatment
 liječenju	treatment
@@ -122518,10 +122135,8 @@ liječnikom	doctor
 liječniku	doctor
 lijeka	medicine
 lijekove	medicines
-lijeve	left
 lijevka	funnel
 limunom	lemon
-litara	liters
 lite	a little
 ljepljivim	sticky
 ljepljivu	sticky
@@ -122534,17 +122149,10 @@ lokota	car
 loših	bad
 lužnatog	alkaline
 Mahallesi	Neighborhood
-maknuti	remove
 maksimalna	maximum
 maksimalne	maximum
 maksimalnog	maximum
 maksimalnu	maximum
-mala	had
-mali	had
-malih	small
-malo	place
-manje	now
-manji	smaller
 manjima	smaller ones
 maramice	handkerchiefs
 maramicu	handkerchief
@@ -122571,9 +122179,6 @@ metalnoj	metal
 metilirane	methylated
 metode	method
 metra	meter
-mijenja	changes
-mijenjajte	change
-mijenjaju	they change
 mijenjanje	changing
 mijenjate	you change
 mikroorganizama	microorganisms
@@ -122587,30 +122192,16 @@ mirovanja	idle time
 mjehurići	bubbles
 mjeraču	meter
 mjerama	measures
-mjere	measures
 mjerenja	measurements
 mjernu	measuring
-mjeru	measure
 mješavina	mixture
 mješavinom	mixture
-mjeseca	months
-mjeseci	months
-mjesta	places
-mjestima	places
-mjesto	place
-mjestu	place
 mlakoj	lukewarm
 mlazom	by jet
 mobilne	mobile
 mobilnu	mobile
 moći	be able
 modelima	models
-mogao	could
-mogla	could
-mogle	could
-mogli	could
-moglo	could
-mogu	I can
 moguća	possible
 moguće	possible
 mogućih	possible
@@ -122620,20 +122211,13 @@ MOJR	MYR
 mokrom	wet
 montažu	assembly
 montiran	assembled
-mora	sea
-moraju	they must
-morate	you have to
-morati	have to
 možda	perhaps
 može	can
 možete	you can
 mrežne	network
-Mrtvi	Dead
-mu	in
 mučninu	nausea
 muški	male
 muskuloskeletalnih	musculoskeletal
-na	that
 način	way
 načina	way
 načini	ways
@@ -122647,64 +122231,45 @@ nadležnom	competent
 Nadmorska	Seaside
 nadmorskoj	above sea level
 nadraženost	overpriced
-nadzirati	to supervise
-nadzire	supervises
-nadzirite	supervise
 nadzora	control
-nadzorom	supervision
 nagibanje	tilting
 Naginjanje	Leaning
-nagnut	inclined
 najkasnije	at the latest
-najmanje	at least
-najmanju	the smallest
 najnižim	lowest
 najnovije	latest
-najprije	first
 najviše	most
 najvišeg	highest
 najvišim	highest
 najvišu	the highest
 Najvjerojatniji	Most likely
 naknadnih	subsequent
-nakon	after
 NakonNačinasušenja	AfterDrying Method
 nakupine	clusters
 nakuplja	accumulates
 nakupljao	accumulated
-nalaze	findings
 nalaže	requires
-nalazi	findings
 nalazite	you find
-nalaziti	to find
 naljepnici	stickers
-nalogu	order
 Namačite	Soak
 namijenjen	intended
-namijenjena	intended
 namjene	purposes
 namjeni	purpose
 namjenu	purpose
 namještena	furnished
-namjesti	set
 namjestite	set up
 Namočite	Soak
 nanesite	apply
 napajanja	power supply
 napajanju	power supply
-napomene	notes
 naponske	voltage
 naponsku	voltage
 napredne	advanced
 naprednim	advanced
 napredno	advanced
-naprijed	forward
 napukao	woke up
 napukne	last night
 napuknuća	cracks
-napuni	fill
 napunite	fill up
-napuniti	fill
 napunjena	loaded
 napunjenoj	loaded
 napunjenosti	charge
@@ -122717,15 +122282,12 @@ narudžbe	orders
 narušavanjem	by violating
 narušiti	to violate
 naslovnici	covers
-nastaje	occurs
 nastanka	origin
 nastankom	emergence
 nastavaka	continuations
 nastavakzabolesnikaili	continuation of the patient or
 nastavci	sequels
 nastavcima	extensions
-Nastavite	Continue
-nastaviti	continue
 nastavka	continuation
 nastavke	extensions
 nastavku	continuation
@@ -122735,10 +122297,8 @@ Natopite	Soak
 natopljene	soaked
 natopljenom	soaked
 natopljenu	soaked
-natrag	back
 natrijevog	sodium
 naučiti	learn
-navedena	stated
 navedene	listed
 navedeni	mentioned
 navedenih	the above-mentioned
@@ -122755,7 +122315,6 @@ nazalne	nasal
 nazalnim	nasal
 nazalnu	nasal
 nazivnih	nominal
-ne	is
 neabrazivna	non-abrasive
 neabrazivnom	non-abrasive
 neadekvatnom	inadequate
@@ -122763,89 +122322,45 @@ nebulizatorom	nebulizer
 neće	will not
 nećete	you will not
 negativno	negative
-nego	than
 neintubirane	unintubated
 neinvazivni	non-invasive
 neinvazivnom	non-invasive
 neispravna	faulty
 neispravne	incorrect
 neispravnosti	malfunctions
-neka	let
-neki	some
-nekoj	to someone
-nekoliko	several
-nekom	to someone
 nekorozivna	with corrosion
 nelagodu	discomfort
-nema	there is no
-nemate	you don't have
 nemetalne	non-metallic
 nemetalnom	non-metallic
-nemojte	don't
 nemokrom	wet
 Nenadziranje	Non-supervision
 neobavezno	optional
 neodgovarajuće	inappropriate
-neovisna	independent
 neovlaštenih	unauthorized
 nepovratni	irreversible
 nepovratnog	irreversible
 nepravilnog	irregular
 Neprekidni	Continuous
-neprekidno	continuously
-neprestano	constantly
 Nepričvršćenu	Unattached
 nepridržavanja	non-compliance
 nepridržavanje	non-compliance
 neprikladnim	inappropriate
 nerazrijeđenu	undiluted
 nesmijebitivećiod	we must not be afraid of
-nestaje	disappears
-nestane	will not happen
-nestanu	disappear
 netoksična	non-toxic
 netoksičnainekorozivna	non-toxicnon-corrosive
 neučinkovita	ineffective
 neučinkovite	ineffective
 neutralna	neutral
-ni	in
-nije	it is not
-nijedan	no
-nijednu	none
-nikako	no way
-nikakva	none
-nikakve	none
 nikakvim	none
-nikakvu	none
 Nipošto	Absolutely not.
-niska	low
-nisko	low
 niskoj	low
 nisku	low
-niste	some
-nisu	they are not
-niti	nor
-niz	series
 niza	series
 niže	lower
 nižima	lower
 nizom	in a row
-njega	him
-njegov	his
-njegova	his
-njegovog	his/her
-njegovom	his/her
 njegu	care
-njemu	him
-njene	hers
-njeno	her/his
-njezin	her
-njezine	hers
-njezino	hers
-njihovi	their
-njima	them
-njoj	her
-njome	with it
 noć	night
 noći	night
 noćni	night
@@ -122854,22 +122369,13 @@ noćnog	night
 noćnom	night
 normi	norm
 normom	by norm
-nos	us
 nosa	our
 nosač	carrier
-nosite	carry
 Nosna	Nasal
-nosnica	nostril
-nosnice	nostrils
 nosnicima	nostrils
 nosu	nose
-novi	new
-novim	new
-novima	new ones
-novom	new
 novorođenčad	newborns
 novorođenčadi	newborns
-novu	new
 nultoj	zeros
 nulu	zero
 Nunawading	Showing
@@ -122877,30 +122383,21 @@ nuspojave	side effects
 Nuspojavu	Side effect
 nužna	necessary
 nužno	necessarily
-oba	both
 Obavezno	Required
 obavijesni	inform
-Obavijest	Notice
-obavijestite	inform
-obaviti	to do
 objašnjenje	explanation
-obje	both
 Objesite	Hang it.
-obliku	in shape
 oblogu	lining
 obraćajući	addressing
 obrade	processing
 obradite	process
 obradu	processing
 obrađuje	processes
-obratite	contact
 obraze	image
 obrišite	wipe
 obučenog	trained
 obuhvaća	includes
-obuku	training
 obustavlja	suspends
-obzir	consideration
 očetkajte	brush
 ocijenila	evaluated
 očiju	eyes
@@ -122910,37 +122407,25 @@ očistite	clean
 očistiti	cleanse
 očitanja	readings
 očitanje	reading
-od	of
 odaberite	choose
-odabrali	chosen
-odabrati	select
-odgovara	corresponds
 odgovarajuća	appropriate
 odgovarajuće	appropriate
 odgovarajućem	appropriate
 odgovarajući	corresponding
 odgovarajuću	appropriate
-Odgovorna	Responsible
-odgovornost	responsibility
 odjela	department
 odjeljku	section
 odjelu	department
 odlaganja	delays
-odlaganje	postponement
 odlaganju	disposal
 odlažite	postpone
-odlaziti	to leave
 odlomcima	excerpts
 odložite	put it aside
 odložiti	postpone
-odmah	immediately
-odnose	relationships
-odnosno	respectively
 Odobreni	Approved
 odobrenih	approved
 odobrenja	approvals
 odobrenu	approved
-odobri	approve
 odobrila	approved
 odobrilo	approved
 odrasle	adults
@@ -122950,7 +122435,6 @@ određenog	certain
 odredite	determine
 određivanja	determination
 određivanju	determining
-određuje	determines
 održava	maintains
 održavala	maintained
 održavali	maintained
@@ -122965,13 +122449,9 @@ odvajanja	separations
 Odvodni	Drainage
 odvodno	drain
 odvodnog	drainage
-odvoje	separate
 odvojena	separate
 odvojene	separate
-odvoji	separate
 odvojili	separated
-odvojite	separate
-odvojiti	separate
 OEEO	SOMEONE
 og	and
 oglašava	advertises
@@ -122985,8 +122465,6 @@ ograničenna	limited
 ograničiti	limit
 ogranka	branch
 OJR	O.J.R.
-oka	reason
-oko	about
 okoline	environment
 okolini	surroundings
 okolinu	environment
@@ -122994,7 +122472,6 @@ okolnog	surrounding
 okolnoj	surrounding
 okolnostima	circumstances
 okomita	vertical
-okrenite	turn around
 okrenut	turned
 okruženje	environment
 okruženjima	surroundings
@@ -123016,70 +122493,41 @@ omogućuje	allows
 omogućuju	enable
 omota	cover
 omotane	wrapped
-ona	then
 onečišćenje	pollution
 onemogućeno	disabled
 onemogućuje	disables
-onih	those
-onima	to those
 oO	Oh, oh
 opasne	dangerous
 opasnih	dangerous
-opasnosti	dangers
-Opća	General
 opći	general
 opekline	burns
 operite	wash
-opis	description
-opisan	described
 opisane	described
 opisani	described
 opisanih	described
 opisanima	described
 opisano	described
 opisanog	described
-opisuje	describes
 opisuju	describe
-oprema	equipment
 opreme	equipment
-opremu	equipment
 opreza	caution
-oprezno	carefully
-opskrbe	supplies
 optimalna	optimal
 optimalni	optimal
 optimalnu	optimal
 oralne	oral
-Osigurajte	Ensure
 osigurala	ensured
-osigurali	ensured
-osigurati	to ensure
 osigurava	ensures
-osim	except
 osjećate	you feel
 osjetit	to feel
 oslabi	weaken
 osmišljena	designed
 Osnova	Base
 osnovi	basis
-osoba	person
-osobama	persons
-osobe	persons
-Osobito	Especially
 osoblja	staff
 osoblju	to the staff
 ostaci	remains
-ostali	others
-ostalim	to others
 ostalog	other
-ostane	remains
-ostanu	remain
-ostao	remained
 ostatci	remains
-ostatke	remains
-ostavite	leave
-ostaviti	leave
-ostavlja	leaves
 oštećen	damaged
 oštećena	damaged
 oštećene	damaged
@@ -123090,7 +122538,6 @@ Österreich	Austria
 ošteti	damage
 oštetit	to damage
 oštetiti	damage
-ostvaruje	achieves
 osuše	dry
 osuši	dry
 osušili	dried
@@ -123100,34 +122547,19 @@ oticanje	swelling
 otisnut	printed
 Otkačite	Unhook
 otključali	unlocked
-otkrije	discover
-otkrio	discovered
 otopine	solutions
 otopinom	solution
 otopinu	solution
 otopljenim	dissolved
-otpad	waste
-otpada	waste
 otpadna	waste
 otpadom	waste
 otpadu	waste
 otpornosti	resistance
-otprilike	about
 otpušta	dismisses
-otvor	hole
-otvora	opening
-otvore	openings
 otvoreni	open
 otvorenog	open
-otvori	open
 otvorima	openings
 otvorom	through the hole
-ovaj	this
-ovdje	here
-ove	these
-ovih	these
-ovim	with this
-ovisi	depends
 ovlašteno	authorized
 ovlaštenog	authorized
 ovlažene	moistened
@@ -123140,13 +122572,7 @@ ovlaživačima	humidifiers
 ovlaživanja	humidification
 ovlaživanje	humidification
 ovlažuje	moisturizes
-ovog	this one
 ovogpriručnika	this manual
-ovom	this one
-ovu	this one
-ozbiljne	serious
-ozbiljni	serious
-ozbiljno	seriously
 ozbiljnog	serious
 ozljede	injuries
 ozljedom	injury
@@ -123156,13 +122582,11 @@ označavaju	indicate
 oznaci	mark
 oznake	tags
 ozonom	ozone
-pa	but
 pacijenata	patients
 pacijenta	patient
 pacijentima	patients
 pacijentovih	patient's
 pacijentu	to the patient
-pada	on
 padailioštećenjauređaja	beauty salon
 padauređajauvodu	device is falling into the introduction
 paketa	package
@@ -123170,12 +122594,9 @@ pakiran	packaged
 pakiranja	packaging
 pakiranjeod	packaging from
 pakiranju	packaging
-pametno	smart
-pamti	remember
 pamtit	remember
 Paraíso	Paradise
 parametara	parameters
-pasti	Certain
 Paulo	Paul
 pauziran	paused
 pauziranje	pausing
@@ -123190,11 +122611,6 @@ perilici	washing machines
 pikseli	pixels
 pitkoj	pitts
 pitkom	drinkable
-pjena	foam
-pjene	foam
-plamen	flame
-plamena	flame
-plana	plan
 Plastična	Plastic
 plastične	plastic
 plastičnog	plastic
@@ -123217,8 +122633,6 @@ pločice	tiles
 ploču	board
 pluća	lungs
 pluta	cork
-po	after
-pobrinite	take care
 počet	number
 početak	beginning
 početka	pocket
@@ -123228,11 +122642,8 @@ početnom	numerous
 počevši	starting
 počinje	begins
 počnete	you start
-pod	under
-poda	pruning
 podaci	data
 podacima	data
-podalje	away
 podataka	data
 podatci	data
 podatka	data
@@ -123243,13 +122654,9 @@ podešavanja	settings
 podešavanje	adjustment
 podesili	set up
 podesite	adjust
-podignete	you lift
-podignite	lift
-podignuti	to raise
 podizanjem	by lifting
 podložak	pad
 podložno	submissive
-podnijeti	submit
 podrazumijeva	implies
 podršku	support
 područje	territory
@@ -123341,17 +122748,9 @@ postupite	act
 postupka	procedure
 poteškoće	difficulties
 Potisnite	Push
-potom	then
-potpuno	completely
 potražite	look for
-potreban	required
-potrebe	needs
-potrebi	necessary
-potrebna	necessary
 potrebne	necessary
 Potrebni	Required
-potrebno	necessary
-potrebu	need
 Potrepštine	Supplies
 potrošne	consumables
 potrošnih	consumables
@@ -123360,17 +122759,12 @@ potrošnja	consumption
 potrošnje	consumption
 potrošnog	consumable
 potvrđene	confirmed
-potvrdili	confirmed
-potvrdite	confirm
-potvrdu	confirmation
 poveća	increase
 povećane	increased
 povećanja	increases
 povećanje	increase
 povećava	increases
 povećavati	increase
-povezana	connected
-povezani	connected
 povezanih	related
 povežete	you will connect
 povezivanja	connections
@@ -123383,7 +122777,6 @@ povlačiti	pull
 povraćanja	vomiting
 povraćanjem	by vomiting
 povraćenog	vomited
-povremeno	periodically
 površina	surface
 površine	surfaces
 površini	surface
@@ -123541,15 +122934,10 @@ pritisne	presses
 pritisnete	you press
 pritisnite	press
 pritisnuta	pressed
-pritisnuti	press
 pritisnutu	pressed
-pritom	while
-privremeno	temporarily
-prljava	dirty
 prljavština	filth
 prljavštine	dirt
 prljavštinu	dirt
-problema	problem
 probleme	problems
 problemi	problems
 probušena	pierced
@@ -123558,8 +122946,6 @@ pročitajte	read
 pročitati	read
 procjene	estimates
 procjepe	gaps
-prodaju	sale
-prodavati	sell
 prodiranja	penetration
 produljenje	extension
 produljio	extended
@@ -123576,20 +122962,10 @@ proizvodnje	production
 proizvodnji	production
 proizvodom	product
 Projektiran	Projected
-prolazi	passes
-promatrati	observe
-promijenili	changed
-promijenit	change
-promijeniti	change
-promjena	change
 promjenama	changes
-promjene	changes
 promjenu	change
 promukli	hoarse
 pronaći	find
-propisao	prescribed
-propisima	regulations
-propisno	properly
 propisuje	prescribes
 propuha	draft
 propušta	misses
@@ -123597,9 +122973,7 @@ propuštanja	leaks
 propuštanjem	by omission
 prosječan	average
 prostorije	premises
-prosudbu	judgment
 protiče	flows
-protivnom	contrary
 protoka	flow
 protoke	protocol
 protokolima	protocols
@@ -123613,71 +122987,40 @@ proučite	study
 prouzročiti	to cause
 provedeno	done
 provedite	spend
-provesti	spend
 provjeravate	you are checking
-provjere	checks
 provjeren	checked
 provjereno	checked
 provjerili	checked
 provjerilo	checked
 provjerite	check
 provjeru	verification
-provode	they spend
 provođenja	implementation
 provođenje	implementation
 provucite	pull through
 prozračivanje	ventilation
 prskanja	splashing
-prst	finger
-prsta	finger
 pružanje	provision
 pružatelja	provider
 pružateljem	providers
 pružatelju	to the provider
-prve	first
-prvi	first
-prvo	first
-prvog	the first
-prvoj	the first
 pucanja	shooting
-pukotine	cracks
-Pun	Even
-puna	spring
-puni	around
-punite	punish
 punjenja	filling
 punjenjem	by filling
 puše	smoking
 puši	smokes
 pušiti	smoke
-pustite	leave
-puta	exit
 putanje	paths
-putem	CAN
-puteva	roads
-putevima	roads
 putova	roads
-putove	roads
-putovima	roads
-putu	on the road
 Québec	Quebec
 računa	account
-rada	work
-rade	they work
-radi	works
 radiofrekvencijsku	radiofrequency
 radit	to work
-radite	you work
 radna	working
 radnih	working
 radnim	working
 radnje	actions
 radnog	working
-radu	work
-rana	day
-rane	wounds
 rangiranja	rankings
-ranije	earlier
 raspona	range
 rasponima	ranges
 rasponu	range
@@ -123691,8 +123034,6 @@ rastavite	disassemble
 rastavljene	separated
 ravnoj	flat
 ravnu	flat
-razdoblja	periods
-razdoblju	period
 razine	levels
 razini	level
 razinom	level
@@ -123700,16 +123041,11 @@ razinu	level
 različite	different
 različitih	different
 različitim	different
-razlikovati	to distinguish
-razloga	reason
 razmaku	distance
-razmislite	think about it
 razmotrite	consider
 razvlačiti	linger
 reakcije	reactions
 reakciju	reaction
-redom	in turn
-redovito	regularly
 registrirani	registered
 regulatorne	regulatory
 reguliranog	regulated
@@ -123736,23 +123072,16 @@ rješenja	solutions
 roka	year
 rotirajte	rotate
 Rua	Two
-ruba	edge
 ručnici	towels
-rukama	with hands
 rukavice	glove
-ruke	hands
-rukom	by hand
 rukovanja	handshakes
 rukovanje	handling
 rukovanju	handling
 rukovatelja	operator
-ruku	hand
 rukujete	you shake hands
 rukujte	shake hands
 RUTINSKO	ROUTINE
 rutinskom	routine
-sa	on
-sada	now
 sadržaja	content
 sadržava	contains
 sadržavaju	contain
@@ -123760,9 +123089,6 @@ sadrže	contain
 sadrži	contains
 Sağlık	Health
 šalju	they send
-sam	alone
-sami	find
-samo	only
 samozamaskezalice	self-masking glasses
 sanitizaciju	sanitization
 São	They are
@@ -123771,19 +123097,13 @@ sapunom	with soap
 sapunske	soapy
 sastavili	compiled
 sastavite	compose
-sastavljanja	compilation
 sastojcima	ingredients
-sata	hours
-sati	hours
-savjet	advice
 savjeti	advice
 savjetujte	advise
 saŽdae	sad
 sažetka	a bag
 sažetkom	summary
 Schweiz	Switzerland
-se	with
-sedam	seven
 sekunde	seconds
 sekundi	seconds
 semafora	traffic lights
@@ -123851,32 +123171,21 @@ služe	serve
 Služite	Serve.
 smanjenja	reductions
 smanjenju	reduction
-smanji	reduce
 smanjila	reduced
 smanjili	reduced
 Smanjit	Reduce
 smanjite	reduce
 smanjivanje	reducing
 smanjuje	reduces
-smatrati	to consider
 smetnje	interference
 smetnji	interference
-smije	laughs
-smiju	they can
 smislu	sense
 smjernicama	guidelines
 smjernice	guidelines
-smjesta	immediately
 smrću	by death
-smrt	death
-smrti	death
-smrtni	mortal
-smrtnim	mortal
-snagu	strength
 snažnog	strong
 snimke	recordings
 snosi	bears
-sobi	room
 sobna	room
 sobne	room
 sobnoj	room
@@ -124222,23 +123531,16 @@ utišavanje	silencing
 utjecaja	influence
 Utječe	Affects
 utječu	influence
-utvrdili	determined
-uvijek	always
-uvjerili	convinced
 uvjerite	convince
 uvjeta	conditions
-uvjete	conditions
 uvjetima	conditions
 Uvjetizarad	Terms of employment
 uvjetom	on condition
 uvođenje	introduction
 Uvucite	Pull in
-uz	to
 uzduž	along
 uzemljenja	grounding
 uzemljenu	grounded
-uzeti	take
-uzima	takes
 uzroci	causes
 uzrokovane	caused
 uzrokovanih	caused
@@ -124298,23 +123600,15 @@ višestruku	multiple
 viši	higher
 višim	higher
 višima	higher
-visina	height
-visine	heights
-visini	height
-visoke	high
-visokim	high
-visoko	high
 visokofrekvencijskog	high-frequency
 visokoj	high
 visokom	high
 visokozarazni	highly contagious
-visoku	high
 Vitera	Vitreous
 vizualne	visual
 vizualni	visual
 vizualnog	visual
 vještine	skills
-vlage	humidity
 vlakana	fiber
 vlakna	fibers
 vlažan	moist
@@ -124325,39 +123619,23 @@ vlažnom	lukewarm
 vlažnost	tepidity
 vlažnosti	warmth
 vlažnu	humid
-voda	water
-vode	water
 vodena	aquatic
 vodene	aquatic
 vođenja	leadership
 vodenoj	aquatic
-vodenu	water
-vodi	leads
 vodič	conductor
 vodiča	driver
 vodiču	guide
 vodilicu	guide
-vodite	lead
-voditi	lead
-vodom	with water
 vodova	water
-vodu	water
 vraća	returns
-vratili	returned
-vratite	return
 vreće	bags
 vrećica	bag
 vrećice	bags
 vrećici	bags
 vrećicu	bag
 vreću	bag
-vremena	time
 vremenskih	weather
-vremenskom	temporal
-vremenu	time
-vrh	top
-vrha	top
-vrhu	top
 vrijednostima	values
 vrpcama	ribbons
 vršni	peak
@@ -124446,20 +123724,14 @@ završetka	completion
 završetku	completion
 završi	finish
 završili	finished
-zbog	because of
 zbrinjavanje	disposal
-zdravlje	health
 zdravstvene	health
 zdravstvenih	health
 zdravstvenim	health
 zdravstvenog	health
 Zeland	Zealand
-zelena	green
-zelenim	green
 Želitelizamijenitisada	Do you want to replace it now?
 željena	desired
-zemljama	countries
-zemlji	country
 ženski	female
 zgnječena	crushed
 žica	wire
@@ -124469,21 +123741,11 @@ žicu	wire
 života	life
 životu	life
 značajnog	significant
-Značenje	Meaning
-znak	sign
-znakova	characters
-znakovi	signs
-znate	you know
 zračenjem	ventilation
 zračne	air
 zračni	air
 zračnog	air
-zrak	air
 zrakama	rays
-zrakom	air
-zraku	air
-zuba	pour
-zube	teeth
 zubobolju	toothache
 žute	yellow
 zvučna	sound
@@ -124493,7 +123755,6 @@ zvučnih	sound
 zvučnim	audible
 Zvučniobavijesnisignali	Audible warning signals
 zvučnog	sound
-zvuka	sound
 Zabava	Entertainment
 Zabilježite	Take note
 zabraniti	to prohibit
@@ -124557,23 +123818,17 @@ zatamnjivanje	dimming
 zatraženi	requested
 zatvaranje	closure
 zatvorite	close
-zatvoriti	close
-zaustaviti	stop
 zaustavlja	stops
 zaustavljanje	stopping
 zaustavljeno	stopped
 zauzet	busy
-zauzima	occupies
 završeno	completed
 završiti	to finish
 zbirke	collections
 zbog	bye
-zdravo	hello
-želite	you want
 željeno	desired
 zemlja	earth
 zemljopisna	geographical
-zid	wall
 zimskom	winter
 zlonamjerni	malicious
 žmiganje	blinking
@@ -124600,10 +123855,7 @@ zvučnici	speakers
 zvučnik	speaker
 zvučno	sonorous
 zvučnog	sonorous
-zvuk	sound
 zvukova	sounds
-zvukove	sounds
-zvukovi	sounds
 ZWindows	With Windows
 aa	aa
 aaa	aaa
@@ -124623,10 +123875,7 @@ abcddb	abcddb
 abcdefg	abcdefg
 ABCDEFGHIJKLMNOPQRSTUVWXYZ	ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Abeba	Ababa
-abeceda	alphabet
 abecedna	alphabetical
-abecedni	alphabetical
-aberacija	aberration
 aberacije	aberrations
 ABGR	ABGR
 ABNT	ABNT
@@ -124715,7 +123964,6 @@ ADTS	ADTS
 Advanced	Advanced
 Adventska	Advent
 AEResetTimeru	AEResetTimer
-Aerodrom	Airport
 Aerodroma	Airport
 Aerodromi	Aerodromes
 Aerodromima	Airports
@@ -124737,10 +123985,8 @@ aff	aff
 Afganistan	Afghanistan
 Afganistana	Afghanistan
 afganistanska	Afghan
-Afganistanski	Afghan
 Afgnistan	Afghanistan
 AFH	AFH
-Afilijacija	Affiliation
 Afina	Athens
 AFInfo	AFInfo
 afinu	affine
@@ -124754,14 +124000,10 @@ Again	Again
 Age	Age
 ageLabel	ageLabel
 agencijske	agency
-agencijski	agency
 agenta	agent
-agentica	agent
 agentima	agents
 Agnes	Agnes
 agregirane	aggregated
-Agrikultura	Agriculture
-Agrobiznis	Agribusiness
 Agrobiznisa	Agribusiness
 Agrobiznise	Agribusiness
 Agrobiznisi	Agribusinesses
@@ -124792,16 +124034,13 @@ AirPrint	AirPrint
 AirPrinta	AirPrint
 AirPrintova	AirPrint
 AJAa	AJAa
-ajme	oh my
 Ajnceva	Ajnceva
 Ajnceve	Ajnceve
 Ajncevi	Ajncevi
 Ajncevima	Ainz
 AK	AK
-Akademija	Academy
 Akcijska	Action
 Akcijske	Action
-Akcijski	Action
 Akcijskih	Action
 Akcijskim	Action
 Akcijskoj	Action
@@ -124810,20 +124049,16 @@ Akcijsku	Promotional
 akita	Akita
 AKMP	AKMP
 ako	if
-Akord	Chord
 Akrobat	Acrobat
 Akrobata	Acrobat
 Akrobate	Acrobats
 Akrobati	Acrobats
 Akrobatima	Acrobats
 aktieselskab	public limited company
-aktivacija	activation
 aktivacije	activations
 aktivaciji	activation
 aktivacijska	activation
-aktivacijski	activation
 aktivaciju	activation
-aktivan	active
 aktiviraj	activate
 aktivirajte	activate
 aktivirana	activated
@@ -124835,15 +124070,12 @@ aktivna	active
 aktivne	active
 aktivni	active
 aktivnih	active
-aktivno	active
 aktivnog	active
 aktivnoj	active
 aktivnom	active
-aktivnost	activity
 aktivnosti	activities
 aktivnostima	activities
 aktivnu	active
-aktovka	briefcase
 Aktovkama	Briefcases
 aktovke	briefcases
 aktualna	current
@@ -124860,7 +124092,6 @@ Akvalungom	Scuba diving
 Akvalungu	Scuba diving
 Akvalunzi	Scuba diving
 Akvalunzima	Scuba diving
-akvarij	aquarium
 akvarija	aquarium
 Akvarije	Aquariums
 Akvarijem	Aquarium
@@ -124869,16 +124100,13 @@ akvarijima	aquariums
 akvariju	aquarium
 akvizicije	acquisitions
 al	but
-alambik	alembic
 Ålandska	Åland
 Ålandski	Ålandic
 Ålandskih	Åland Islands
 alarme	alarms
 alarmi	alarms
-alarmni	alarm
 alarmom	alarm
 alarmu	alarm
-alat	tool
 alate	tools
 alati	tools
 alatna	tool room
@@ -124890,7 +124118,6 @@ Alatu	Tool
 Albanija	Albania
 Albanije	Albania
 albanska	Albanian
-albanski	Albanian
 Albert	Albert
 albuma	album
 albume	albums
@@ -124904,10 +124131,8 @@ ALERT	WARNING
 Alex	Alex
 ALF	ALF
 alfa	alpha
-alfabet	alphabet
 alfabetska	alphabetical
 alfabetski	alphabetical
-alfanumerički	alphanumeric
 alfe	alpha
 alfom	alpha
 alfu	alpha
@@ -124922,7 +124147,6 @@ aliasi	aliases
 aliasom	alias
 Alice	Alice
 alid	alide
-aligator	alligator
 Aligatora	Alligator
 Aligatore	Alligators
 Aligatori	Alligators
@@ -124938,7 +124162,6 @@ Aligatorsku	Alligator
 Aligatoru	Alligator
 aliqua	some
 Aljaske	Alaska
-Aljaski	Alaskan
 Aljaški	Alaskan
 Aljaskih	Alaskan
 Aljaških	Alaskan
@@ -124946,10 +124169,8 @@ Aljaskim	Alaska
 Aljaškim	Alaskan
 Aljaškog	Alaskan
 Aljaškom	Alaska
-Alkemijski	Alchemical
 Alkohole	Alcohols
 Alkoholima	Alcoholics
-alkoholni	alcoholic
 alkoholno	alcoholic
 Alkoholu	Alcohol
 all	all
@@ -124958,7 +124179,6 @@ allocate	allocate
 aloalo	aloalo
 alocirani	allocated
 alocirati	allocate
-alokacija	allocation
 alokacije	allocations
 alokacijski	allocative
 alokacijskih	allocation
@@ -124970,7 +124190,6 @@ already	already
 ALSAL	ALSAL
 Alternate	Alternate
 AlternateResultView	AlternateResultView
-alternativa	alternative
 alternative	alternatives
 Alternativi	Alternatives
 alternativna	alternative
@@ -124983,7 +124202,6 @@ alternativnom	alternative
 alternativnu	alternative
 ALUA	ALUA
 Alzaške	Alsatian
-Alzaški	Alsatian
 Alzaškim	Alsatian
 Alzaškog	Alsatian
 Alzaškom	Alsatian
@@ -124992,11 +124210,8 @@ Alžira	Algeria
 alžirska	Algerian
 AM	AM
 AMainMenu	AMainMenu
-amalgamacija	amalgamation
 AmbientDisplayUI	AmbientDisplayUI
 Ambisonic	Ambisonic
-amblem	emblem
-Ambulanta	Ambulance
 Ambulantama	Outpatient clinics
 Ambulante	Outpatient clinics
 Ambulanti	Outpatient clinics
@@ -125015,7 +124230,6 @@ Amelie	Amelie
 America	America
 American	American
 američka	American
-američki	American
 američkih	American
 Američko	American
 američkog	American
@@ -125024,18 +124238,15 @@ amerike	America
 Amerikom	America
 amet	amethyst
 Amete	Amete
-Amfiteatar	Amphitheater
 Amfiteatra	Amphitheater
 Amfiteatre	Amphitheaters
 Amfiteatri	Amphitheaters
 Amfiteatrima	Amphitheaters
 Amfiteatrom	Amphitheater
 Amfiteatru	Amphitheater
-amfora	amphora
 AmiPro	AmiPro
 Amman	Amman
 amp	amp
-Amperaža	Amperage
 ampersand	ampersand
 amplitude	amplitudes
 AMR	AMR
@@ -125044,7 +124255,6 @@ amtrak	Amtrak
 an	an
 Ana	Anna
 Anadyr	Anadyr
-analiza	analysis
 analize	analyses
 analizi	analysis
 analizira	analyzes
@@ -125054,13 +124264,10 @@ Analogne	Analog
 analogni	analog
 Analognih	Analog
 Analognim	Analog
-analogno	analogously
-ananas	pineapple
 Ananasa	Pineapple
 Ananase	Pineapples
 ananasi	pineapples
 Ananasima	Pineapples
-Anatolijski	Anatolian
 Anchorage	Anchorage
 and	and
 Andora	Andorra
@@ -125075,7 +124282,6 @@ angolska	Angolan
 Angvila	Anguilla
 Angvile	Anguilla
 angvilska	Anguilla
-animacija	animation
 animacije	animations
 Animate	Animate
 Animiraj	Animate
@@ -125085,7 +124291,6 @@ animiranih	animated
 Animirano	Animated
 Anita	Anita
 Ankara	Ankara
-anksiozan	anxious
 Anktarktike	Antarctica
 AnnotationKit	AnnotationKit
 anonimne	anonymous
@@ -125134,7 +124339,6 @@ aparatima	appliances
 aparatom	apparatus
 aparatu	apparatus
 apart	apartment
-apartman	apartment
 Apartmana	Apartments
 Apartmane	Apartments
 Apartmani	Apartments
@@ -125161,12 +124365,10 @@ Apikulture	Apiculture
 Apikulturi	Apiculture
 Apikulturom	Apiculture
 Apikulturu	Apiculture
-aplauz	applause
 aplet	applet
 apleta	applet
 aplete	applets
 apletu	applet
-aplikacija	application
 aplikacijama	applications
 aplikacijazakodiranje	applicationcoding
 aplikacijazakodiranjezvuka	audio encoding application
@@ -125175,7 +124377,6 @@ aplikaciji	application
 aplikacijom	applications
 aplikacijska	application
 aplikacijske	application
-aplikacijski	application
 aplikacijskih	application
 aplikacijskog	application
 aplikacijskom	application
@@ -125283,14 +124484,10 @@ argumenata	arguments
 argumenta	arguments
 argumenti	arguments
 argv	argv
-arhaički	archaic
 Arhaične	Archaic
 Arhaični	Archaic
-Arhaično	Archaic
-arhitektura	architecture
 arhitekture	architecture
 arhitekturu	architecture
-arhiva	archive
 arhivara	archivist
 arhive	archives
 arhivira	archives
@@ -125302,12 +124499,9 @@ arhiviranja	archiving
 arhiviranje	archiving
 Arhivirano	Archived
 arhivirate	you archive
-arhivirati	archive
 arhivska	archival
-Arhivski	Archival
 arhivu	archive
 Arial	Arial
-Aritmetika	Arithmetic
 Arizona	Arizona
 Arkada	Arcade
 Arkadama	Arcade
@@ -125319,12 +124513,10 @@ Arkadu	Arcade
 Armenija	Armenia
 Armenije	Armenia
 armenska	Armenian
-Armenski	Armenian
 arna	arena
 arni	arnie
 arno	arno
 Arnold	Arnold
-arogantan	arrogant
 array	array
 Arthur	Arthur
 Articles	Articles
@@ -127774,14 +126966,10 @@ distribucijske	distribution
 distribucijskog	distribution
 distribuciju	distribution
 distribuirana	distributed
-divlji	wild
 Divljih	Wild
-Divljim	Wild
 Divljoj	Wild
 Divljom	Wild
 Divlju	Wild
-divne	wonderful
-divno	wonderful
 divovska	gigantic
 DivX	DivX
 Diya	Diya
@@ -127797,16 +126985,12 @@ Dizala	Elevators
 Dizalima	Elevators
 diže	rising
 DJ	DJ
-djeca	children
 dječaci	boys
-dječak	boy
-dječaka	boy
 dječica	little girl
 dječja	children's
 dječje	children's
 Dječjeg	Children's
 Dječjem	Children's
-Dječjih	Children's
 Dječjim	Children's
 djede	grandfather
 djedova	grandfather's
@@ -127815,19 +126999,13 @@ Djedovi	Grandfathers
 Djedovima	To the grandparents
 djelatni	active
 djelatnih	active
-djelomična	partial
 Djelomični	Partial
-djelomično	partially
 djelomičnog	partial
 djelomičnu	partial
 djelovanje	action
-djelovati	to act
-djeluju	they work
 Djetelinama	To the clovers
 djeteline	clovers
 djetešca	little child
-djetešce	baby
-djeteta	child
 djetetove	child's
 Djetlića	Woodpecker
 Djetliće	Woodpeckers
@@ -127842,9 +127020,6 @@ djevica	virgin
 Djevičanskih	Virgins
 djevojačko	girlish
 djevojčica	little girl
-djevojčice	girls
-djevojka	girl
-djevojke	girls
 Djibouti	Djibouti
 Dlabs	Dlabs
 dlana	palm
@@ -127862,11 +127037,8 @@ dmm	dmm
 DN	DN
 dna	bottom
 DNASP	DNASP
-dnevna	daily
-Dnevne	Daily
 Dnevnih	Daily
 Dnevnim	Daily
-dnevno	daily
 dnevnoj	daily
 Dnevnom	Daily
 Dnevnu	Daily
@@ -127877,7 +127049,6 @@ dns	DNS
 dNSNaziv	DNSName
 DNT	DNT
 do	to
-dobar	good
 dobavio	supplied
 dobavljaču	to the supplier
 dobavljanja	supplying
@@ -127889,19 +127060,12 @@ Dobermanima	Dobermans
 Dobermanom	Dobermans
 Dobermanu	Doberman
 Dobij	Get it
-dobiju	they get
-dobili	got
 dobiti	to get
 dobivali	received
-dobivanje	obtaining
 Dobiven	Obtainable
 dobiveno	obtained
 dobivenog	obtained
-Dobra	Good
-dobre	good
-dobri	good
 Dobrodošli	Welcome
-dobrom	good
 Doc	Doc
 doći	to come
 dock	dock
@@ -127911,7 +127075,6 @@ docku	to the dock
 Document	Document
 documents	documents
 DoD	DoD
-doda	adds
 dodacima	accessories
 dodaj	add
 dodaje	adds
@@ -127920,7 +127083,6 @@ dodajete	you add
 dodajte	add
 dodaju	add
 dodali	added
-dodan	added
 dodana	added
 dodane	added
 dodani	added
@@ -127928,10 +127090,8 @@ dodanih	added
 dodano	added
 dodanodatuma	date added
 dodanom	added
-dodao	added
 dodat	add
 dodate	you add
-dodati	add
 dodatka	addition
 Dodatke	Accessories
 dodatnih	additional
@@ -127942,7 +127102,6 @@ dodavanjem	by adding
 dođe	come
 dodge	dodge
 dodging	dodging
-dodijeli	assign
 dodijelio	awarded
 dodijelite	assign
 dodijeliti	to assign
@@ -127952,7 +127111,6 @@ dodijeljene	assigned
 dodijeljeno	assigned
 dodijeljenog	assigned
 dodijeljenom	assigned
-dodira	touch
 dodirna	touch
 dodirne	touches
 dodirnete	you touch
@@ -127973,19 +127131,12 @@ dodjeljivanju	allocation
 dodjelu	allocation
 DOE	DOE
 dog	dog
-događa	happening
-događaj	event
-događaja	events
-događaje	events
 događajem	events
-događajima	events
 događaju	event
 Dogodila	Events
 Dogodilo	Event
-Dogodio	Happened
 dogoditi	to happen
 dogovi	Great Danes
-dogovora	agreement
 dogovoreno	agreed
 Doha	Doha
 dohvaća	reaches
@@ -127999,7 +127150,6 @@ dohvatiti	to reach
 DOI	DOI
 doista	indeed
 DOJ	DOJ
-dojavio	reported
 Dojenčađu	Infants
 dojenče	baby
 Dojenčeta	Infants
@@ -128010,9 +127160,7 @@ dojeno	breastfed
 doji	breastfeed
 dojmovi	impressions
 dok	dock
-Dokaži	Prove
 dokazivanje	proving
-dokazuje	proves
 Dokkument	Document
 dokumenata	documents
 dokumenta	documents
@@ -128025,9 +127173,6 @@ dolara	dollars
 dolari	dollars
 dolarske	dollar
 dolaska	arrivals
-dolazak	arrival
-dolaze	they are coming
-dolazeći	coming
 dolazi	coming
 dolazna	incoming
 dolazne	incoming
@@ -128036,13 +127181,11 @@ dolaznih	incoming
 dolaznim	incoming
 dolazno	incoming
 dolaznog	incoming
-Dolina	Valley
 dolor	pain
 dolore	pain
 doloria	pain
 dolum	valley
 dom	home
-doma	at home
 domaća	domestic
 domaćinstva	households
 domaću	homemade
@@ -128063,16 +127206,12 @@ Dominima	Dominima
 Domino	Dominoes
 Dominom	Dominoes
 Dominu	Domino
-Domom	Home
 domorodaca	natives
 Domova	Home
-Domove	Homes
 Domovi	Homes
 domovine	homeland
 domovinske	homeland
 domsec	home
-domu	home
-donekle	to some extent
 donijeti	to bring
 Doniraj	Donate
 donja	lower
@@ -130624,10 +129763,7 @@ iskoristivu	usable
 iskre	sparks
 iskrice	sparkles
 Iskrivljuje	Distorts
-iskusio	experienced
 iskusiti	to experience
-iskustva	experiences
-iskustvo	experience
 Islamabad	Islamabad
 Islamske	Islamic
 islamskog	Islamic
@@ -130643,7 +129779,6 @@ Ispaši	Graze
 Ispašom	Grazing
 Ispašu	Grazing
 ispisa	print
-ispisan	written
 Ispisano	Printed
 ispisat	to write
 Ispiši	Print
@@ -130656,7 +129791,6 @@ ispisuju	they print
 Ispitaj	Exam
 ispitan	tested
 ispitati	to examine
-ispitivanja	tests
 ispitno	exam
 isplate	payments
 isplažen	paid off
@@ -130671,7 +129805,6 @@ isprati	to rinse
 ispravaka	correction
 ispravci	corrections
 ispravcima	corrections
-ispravi	correct
 ispravite	correct
 ispravka	correction
 ispravke	corrections
@@ -130684,8 +129817,6 @@ ispravljene	corrected
 ispravljeni	corrected
 ispravljeno	corrected
 ispravljive	correctable
-ispravna	correct
-ispravne	correct
 ispravnog	correct
 ispravnom	correct
 ispravnosti	correctness
@@ -130693,7 +129824,6 @@ ispravnu	correct
 ispraznili	emptied
 ispražnjen	emptied
 Ispražnjeno	Empty
-isprazno	in vain
 ispred	in front
 isprekidane	intermittent
 Isprekidani	Intermittent
@@ -130705,22 +129835,16 @@ ispreplitanja	intertwining
 ispričavam	I apologize.
 Isprintajte	Print it out
 Isprobaj	Try it out
-isprobajte	try it out
 isprobati	to try out
 ispružena	stretched out
 ispružene	stretched out
 ispruženim	stretched out
-Isprva	At first
 ispune	fillings
-ispuni	fill in
 ispunite	fill in
 ispuniti	to fulfill
-ispunjavaju	fulfill
 ispunjavanja	fulfillment
 ispunjavate	you fulfill
 ispunjen	fulfilled
-ispunjeni	fulfilled
-ispunjeno	fulfilled
 ispunjenu	fulfilled
 ispunu	fill
 ispupčena	bulging
@@ -130729,21 +129853,18 @@ ispupčenja	protrusions
 ispuštanja	discharges
 ispuštanje	discharge
 ispuštena	dropped
-ispusti	drop
 ISRC	ISRC
 ISSI	ISSI
 issuerAltName	issuerAltName
 IssuingDistributionPoint	IssuingDistributionPoint
 ista	the same
 Istakni	Highlight
-istaknut	prominent
 istaknute	prominent
 istaknutih	prominent
 Istanbul	Istanbul
 istanjuju	they are moving
 iStat	iStat
 iste	the same
-istekao	expired
 istekla	expired
 istekle	expired
 istekli	expired
@@ -130754,10 +129875,7 @@ isteže	stretches
 isti	the same
 isticanja	highlighting
 isticanje	highlighting
-istim	the same
-istina	truth
 istjecanju	expiration
-istječe	expires
 istječu	expire
 isto	the same
 Istočna	Eastern
@@ -130766,9 +129884,6 @@ istočno	eastern
 Istočnoazijska	East Asian
 Istočnog	Eastern
 istočnotimorska	East Timorese
-istodobno	simultaneously
-istog	of the same
-istoj	the same
 istok	east
 istom	same
 istovjetnu	identical
@@ -130779,7 +129894,6 @@ Istraživačkim	Research
 Istraživačkog	Research
 Istraživačkom	Research
 istu	same
-istupi	step forward
 iSync	iSync
 it	it
 Ita	Ita
@@ -130787,7 +129901,6 @@ Ital	Italian
 Italian	Italian
 Italics	Italics
 Italija	Italy
-Italije	Italy
 items	items
 itinerara	itinerary
 itunes	itunes
@@ -130812,37 +129925,27 @@ iWeb	iWeb
 iWork	iWork
 iWOW	iWOW
 IXMicro	IXMicro
-iza	behind
 Izaberi	Select
 izaberite	choose
 izabrana	chosen
 izaći	to go out
 izađete	you go out
 Izađi	Get out.
-izađite	come out
 izakaya	izakaya
-izašli	went out
 izaziva	provokes
 izazivanje	provocation
-izazivati	to provoke
 izazova	challenges
-izazove	challenges
 izazovi	challenges
 Izazovite	Challenge
-izazvali	provoked
-Izazvao	Caused
 izazvati	to cause
 izb	room
 izbačen	thrown out
 izbačena	thrown out
-izbaci	throw out
-izbacite	throw out
 izbaciti	throw out
 izbacivanja	ejections
 izbacivanje	ejection
 izbacujete	you throw out
 izbjeći	to avoid
-Izbjegavaj	Avoid
 izbjegli	escaped
 Izbjegnut	Avoided
 Izbjeljivača	Bleach
@@ -130868,8 +129971,6 @@ izborniku	menu
 izboru	selection
 izbrisan	deleted
 izbrisane	deleted
-izbrisani	deleted
-izbrisati	delete
 izbrišite	delete
 Izbuši	Drill
 izci	out
@@ -130893,21 +129994,17 @@ izdavanja	issuance
 izdavanje	issuance
 izdavanjem	by issuing
 izdavatelja	issuer
-izdavati	to issue
-izdubljena	hollowed out
 izdubljene	hollowed out
 Izdubljenih	Hollowed out
 Izdubljenim	Hollowed out
 izdvaja	stands out
 izdvojene	isolated
 Izdvojeno	Highlighted
-izdvoji	separate
 izglađeni	smoothed
 izglađivanja	smoothing
 izglađivanje	smoothing
 Izglađuje	Smoothes
 izgled	appearance
-izgleda	looks
 izgledao	looked
 izgovara	pronounces
 Izgovaraj	Pronounce
@@ -130917,40 +130014,21 @@ izgovora	excuses
 izgovorene	spoken
 izgovoreni	spoken
 izgovorenu	spoken
-Izgovori	Excuses
-izgovorite	pronounce
 izgovoriti	to pronounce
 izgradnji	construction
-izgube	losses
-izgubila	lost
-izgubili	lost
-Izgubio	Lost
 izgubit	to lose
-izgubite	lose
 izgubiti	to lose
-izgubljen	lost
-izgubljena	lost
-izgubljene	lost
-izgubljeni	lost
 izgubljenog	lost
-izgubljenom	lost
 iziritiran	irritated
-izjava	statement
-izjave	statements
 izjavi	declare
 izjavu	statement
 Izjednači	Equalize
 Izjednačili	Tied
-Izjednačio	Equalized
 izlaganja	exposition
 izlasci	going out
-Izlascima	Going out
-izlaska	exit
 izlaskom	going out
-Izlasku	Going out
 izlaz	exit
 izlaza	exit
-izlazak	going out
 Izlazaka	Exit
 izlaze	they are coming out
 Izlaženje	Exiting
@@ -130962,7 +130040,6 @@ izlaznog	outgoing
 izlaznom	outgoing
 izlaznu	outgoing
 izlazom	exit
-izlazu	exit
 izlažu	exhibit
 izlegnuto	hatched
 izlijeganje	hatching
@@ -130981,7 +130058,6 @@ izmijeniti	to change
 izmijenjen	changed
 izmijenjena	changed
 izmijenjene	modified
-izmijenjeni	changed
 Izmijenjeno	Modified
 Izmiješajte	Mix it up
 izmjene	changes
@@ -130995,8 +130071,6 @@ Izmjeren	Measured
 izmjereni	measured
 izmjereno	measured
 izmoren	exhausted
-iznajmi	rent
-iznenađeno	surprised
 iznerviran	annoyed
 iznimaka	exceptions
 iznimke	exceptions
@@ -131016,7 +130090,6 @@ izobličenje	distortion
 izobličenosti	deformities
 izobličuje	distorts
 izostanku	absence
-Izostavi	Omit
 izostavljanja	omission
 izoštrava	sharpening
 izoštravaju	sharpening
@@ -131024,7 +130097,6 @@ izoštravanja	sharpening
 izoštravanje	sharpening
 izoštravanjem	sharpening
 Izoštri	Sharpen
-izračuna	calculate
 izračunaj	calculate
 izračunato	calculated
 Izračunava	We calculate
@@ -131037,7 +130109,6 @@ izrađeno	made
 izrađenog	made
 izrađenu	made
 izradi	create
-izradila	made
 izradile	made
 izradili	made
 izradilo	made
@@ -131050,8 +130121,6 @@ izradu	production
 izrađuje	makes
 izrađujete	you are making
 izrađuju	they make
-Izrael	Israel
-Izraela	Israel
 izraelska	Israeli
 izravna	level
 Izravnaj	Level up
@@ -131071,7 +130140,6 @@ izreži	cut out
 izrezivanja	cutting out
 izrezivanje	cutting
 izrezuje	cuts out
-izričito	explicitly
 izudaran	skilled
 Izuzete	Exempt
 izuzetih	exempted
@@ -131080,11 +130148,8 @@ izuzimanjem	by exception
 izuzmete	exclude
 Izuzmi	Exclude
 Izv	Ex.
-Izvadi	Take out
 Izvadite	Take out
-izvaditi	take out
 izvan	outside
-izvana	outside
 izvanredne	extraordinary
 izvanzemaljaca	alien
 izvanzemaljci	aliens
@@ -131098,10 +130163,7 @@ Izvedbom	Implementation
 Izvedbu	Execution
 izvedenim	implemented
 izvedeno	carried out
-izvedi	execute
 izvesti	to carry out
-izvijestio	reported
-izvještaj	report
 izvještaja	report
 izvještaje	reports
 izvještaji	reports
@@ -131123,7 +130185,6 @@ izvor	origin
 izvora	origin
 izvore	origins
 izvori	origins
-izvorima	sources
 izvorišna	original
 izvorišne	source
 izvorišnih	of origin
@@ -131143,24 +130204,18 @@ izvornu	original
 Izvorom	Origin
 izvoru	origin
 izvoza	export
-izvršava	executes
 izvršavanja	execution
 izvršavanje	execution
 izvršavanjem	execution
 izvršavanju	execution
-izvrše	execute
-izvršenje	execution
-izvrši	execute
 izvršiti	to execute
 Izvrsna	Excellent
 izvršna	executive
 izvršne	executive
 izvršnih	executive
-izvrsno	excellent
 Izvršno	Executive
 izvršnoj	executive
 izvršnu	executive
-Izvuci	Extract
 izvući	to pull out
 ja	yes
 Jabber	Jabber
@@ -131181,7 +130236,6 @@ Jagodama	Strawberries
 jagode	strawberries
 jagodom	strawberry
 Jahača	Rider
-Jahače	Riders
 Jahačem	Rider
 Jahači	Riders
 Jahačima	Riders
@@ -131190,7 +130244,6 @@ Jahtama	Yachts
 Jahte	Yachts
 Jahti	Yachts
 jaja	eggs
-jaje	egg
 jajima	eggs
 jaka	strong
 Jakarta	Jakarta
@@ -131201,7 +130254,6 @@ Jakobova	Jacob's
 Jakobove	Jacob's
 Jakobovih	Jacob's
 Jakobovima	Jacob
-Jakov	Jacob
 Jakutsk	Yakutsk
 Jalapeno	Jalapeno
 Jama	Cave
@@ -131255,7 +130307,6 @@ Jarugu	Ravine
 Jaruzi	Gullies
 jasike	aspens
 jasmina	jasmine
-jasno	clear
 Jaso	Clear
 Jastoge	Lobsters
 Jastozi	Lobsters
@@ -131268,19 +130319,12 @@ JavaScript	JavaScript
 JavaScripta	JavaScript
 JavaScriptu	JavaScript
 Jave	Java
-javili	reported
 javit	to report
-javiti	to report
-javna	public
 javne	public
-javni	public
-javnim	public
 javnima	public
 javno	public
 javnog	public
 javnoj	public
-javnom	public
-javnu	public
 Javorova	Maple
 Javorovim	Maple
 javorovo	maple
@@ -131303,31 +130347,20 @@ Ječmova	Barley
 Ječmove	Barley
 Ječmovi	Barley
 Ječmovima	Barley
-jedanaest	eleven
-jedanput	once
 Jedi	Eat
 jedina	the only one
 jedine	the only ones
 jedini	the only one
-jedinica	unit
 jedinicama	units
 jedinice	units
 jedinici	unit
 jedinicom	unit
-jedinicu	unit
 jedinstvene	unique
 jedinstvenih	unique
 jedinstvenim	unique
 jedinstvenog	unique
 jednak	equal
-jednaka	equal
-jednake	equal
-jednaki	equal
-jednako	equally
 jednakokutno	equiangular
-jednakosti	equality
-jednim	one
-jedno	one
 jednobojni	monochrome
 jednobojno	monochrome
 jednobojnu	monochrome
@@ -131335,9 +130368,7 @@ jednodijelnu	one-piece
 jednodimenzionalnu	one-dimensional
 jednogodišnje	one-year
 jednogrba	one-humped
-jednoj	one
 jednokratni	one-time
-jednorog	unicorn
 jednorozi	unicorn
 Jednoručne	One-handed
 Jednoručnih	One-handed
@@ -131345,13 +130376,10 @@ Jednoručnim	One-handed
 jednoslojni	single-layer
 Jednosmjerna	One-way
 jednostavna	simple
-jednostavne	simple
 jednostavni	simple
 jednostavnije	simpler
 jednostavnim	simple
-jednostavnog	simple
 jednostavnom	simple
-jednostavnu	simple
 jednostruka	single
 jednostruke	single
 jednostruki	single
@@ -131362,7 +130390,6 @@ Jedrenja	Sailing
 Jedrenjima	Sailing
 Jedrilicama	Sailboats
 jedrilice	sailboats
-jedva	barely
 jeej	yeah
 jej	eat
 Jekaterinburg	Yekaterinburg
@@ -131383,12 +130410,9 @@ jemenska	Yemeni
 jemidi	jemidis
 jena	yen
 Jerseya	Jersey
-Jeruzalem	Jerusalem
-jesen	autumn
 Jesenska	Autumn
 jest	is
 jeste	you eat
-jesti	eat
 jestjunk	eatjunk
 jesu	yes
 Jetdirect	Jetdirect
@@ -131402,23 +130426,16 @@ Jetskija	Jet ski
 Jetskije	Jet skis
 Jetskiji	Jet skis
 Jetskijima	Jet skis
-jezera	lakes
 Jezeraca	Lake
 Jezerca	Lakes
 Jezercima	Jezerci
 Jezerima	Lakes
-jezero	lake
 Ježeva	Hedgehog
 Ježeve	Hedgehogs
 ježevi	hedgehogs
 Ježevima	Hedgehogs
 jezgri	cores
-jezici	languages
-jezik	language
-jezika	language
-jezike	languages
 jezikom	language
-jeziku	language
 Ježinaca	Hedgehog
 Ježince	Hedgehogs
 Ježinci	Hedgehogs
@@ -131465,8 +130482,6 @@ JSContexts	JSContexts
 JSON	JSON
 ju	them
 Juan	Juan
-jučer	yesterday
-judaizam	Judaism
 jug	south
 Jugoistočnoazijska	Southeast Asian
 Juhama	Soup
@@ -131480,11 +130495,8 @@ Juraj	George
 Jureković	Jureković
 just	just
 jutara	morning
-jutra	morning
-jutro	morning
 Južna	South
 Južne	Southern
-južni	southern
 južnih	southern
 južnoafrička	South African
 Južnoafričke	South African
@@ -131526,7 +130538,6 @@ Kadama	Kadama
 kadar	when
 kade	bathtubs
 kadi	smoke
-Kadom	Bathtub
 kadomatsu	kadomatsu
 Kadu	Bathtub
 kafiće	cafes
@@ -131569,8 +130580,6 @@ Kaktuse	Cacti
 Kaktusima	Cacti
 Kaku	Kaku
 Kakugata	Kakugata
-kakve	what kind
-kakvih	what kind
 kalaallisut	Kalaallisut
 Kaledonija	Caledonia
 Kaledonije	Caledonia
@@ -131611,10 +130620,8 @@ Kameloparda	Camelopard
 Kamelopardom	Camelopardom
 Kamelopardu	Camelopard
 kamen	stone
-kamena	stone
 Kamenicama	Oysters
 Kamenice	Oysters
-kamenje	stones
 Kamerama	Cameras
 kamere	cameras
 kameri	cameras
@@ -131712,12 +130719,10 @@ kape	hats
 kapi	strokes
 kapicama	caps
 kapima	drops
-kaplja	drop
 kapljice	drops
 kapljicom	drops
 kapom	stroke
 kapu	hat
-kaput	coat
 kaputi	coats
 Karakteristična	Characteristic
 Karakteristika	Characteristics
@@ -131788,8 +130793,6 @@ Kasicama	Piggy banks
 Kasice	Piggy banks
 Kasina	Casino
 kasinima	casinos
-Kasni	Late
-kasnije	later
 kasniji	later
 kasnijoj	later
 kašnjenje	delay
@@ -131838,16 +130841,13 @@ Kazahstana	Kazakhstan
 Kazakhstan	Kazakhstan
 Kazakhstana	Kazakhstan
 kazakhstanska	Kazakh
-kazala	index
 kazališne	theatrical
 kazališta	theaters
-kazalište	theater
 kazalištem	theater
 Kazalištima	Theaters
 kazaljke	pointers
 kazaljki	pointers
 kazalu	index
-kažem	I say
 kazetnoj	cassette
 kažiprst	index finger
 kažiprstom	index finger
@@ -131855,8 +130855,6 @@ kb	kb
 Kbit	Qbit
 kbps	kbps
 kcal	calories
-kćer	daughter
-kćeri	daughters
 KDC	KDC
 kdf	kdf
 KEA	KEA
@@ -131934,11 +130932,8 @@ kikiriki	peanuts
 kikirikija	peanut
 kilobajta	kilobyte
 kilodžula	kilojoule
-kilograma	kilograms
 kilogrami	kilograms
 kilokalorije	kilocalories
-kilometar	kilometer
-kilometara	kilometers
 kilometra	kilometer
 kilometrima	kilometers
 kilopaskal	kilopascal
@@ -131980,7 +130975,6 @@ kip	statue
 Kipova	Statue
 Kipove	Statues
 kipovi	statues
-Kipovima	Statues
 kipti	to sculpt
 kirgiška	Kyrgyz
 Kirgistan	Kyrgyzstan
@@ -131989,9 +130983,7 @@ kirgistanska	Kyrgyz
 Kiribati	Kiribati
 Kiribatija	Kiribati
 kiribatska	Kiribati
-kiša	rain
 Kišama	Rain
-kiše	rain
 Kisela	Sour
 Kisele	Sour
 Kiseli	Sour
@@ -132000,7 +130992,6 @@ Kiselim	I'm sour.
 kiši	it rains
 kisić	oxygen
 kisikom	oxygen
-kišna	rainy
 Kišnicama	Rainwater
 Kišnice	Rainwater
 Kišnici	Rainwater
@@ -132044,7 +131035,6 @@ Klance	Clans
 Klancem	Slopes
 Klanci	Slopes
 Klancu	To the slope
-klanja	slaughter
 klanjanje	bowing
 klapa	clapperboard
 klape	klapa
@@ -132128,11 +131118,9 @@ kliznika	slider
 kliznike	sliders
 kliznikom	slider
 kliznog	sliding
-ključ	key
 ključa	key
 ključem	key
 ključeva	keys
-ključeve	keys
 ključevi	keys
 ključevima	keys
 ključna	key
@@ -132167,14 +131155,8 @@ Klupicama	Benches
 Klupice	Benches
 Klupska	Club
 klzn	slide
-knjiga	book
-knjigama	books
-knjige	books
-knjigu	book
-knjizi	book
 knjižicama	booklets
 knjižice	booklets
-knjižicu	booklet
 knjižna	book
 knjižne	book
 Knjižnicama	Libraries
@@ -132196,12 +131178,10 @@ koale	koalas
 Kobasicama	Sausages
 Kobasice	Sausages
 kobre	cobras
-kocka	cube
 kockama	dice
 kockanje	gambling
 kockasta	cubed
 kockasti	cubed
-kocke	cubes
 kocki	dice
 kockicama	dice
 kockom	dice
@@ -132235,12 +131215,9 @@ kodovi	codes
 kodu	code
 kôdu	code
 koeficijenti	coefficients
-koga	whom
 Koi	Koi
 koinobori	koinobori
-kojega	whose
 kojem	who
-kojemu	to whom
 koji	which
 kojim	which
 kojima	which
@@ -132276,7 +131253,6 @@ kolačiće	cookies
 kolačići	cookies
 kolačićima	cookies
 kolačima	cakes
-kolege	colleagues
 kolegice	colleagues
 kolekcije	collections
 kolekciji	collection
@@ -132311,9 +131287,7 @@ kolumbijska	Colombian
 koluta	reel
 kolutajućim	rolling
 kolutanje	reeling
-komad	piece
 Komadića	A piece of cake
-Komadiće	Pieces
 Komadići	Pieces
 komadićima	in pieces
 komadiću	a piece
@@ -132406,7 +131380,6 @@ komunikacijskih	communication
 Komunikacijskoj	Communication
 komunikacijsku	communication
 konačne	final
-konačno	finally
 konačnog	final
 Končanica	Ending
 Koncerata	Concert
@@ -132467,29 +131440,20 @@ Kongo	Congo
 kongoška	Congolese
 kongruentan	congruent
 Konica	Tip
-konj	horse
-konja	horse
-Konjanik	Horseman
-konje	horses
-konji	horses
 konjic	horses
 konjice	horses
 konjici	horses
 konjicima	horses
 konjička	horse
 konjičke	hobbies
-konjima	horses
 konjska	horse
 konjske	horse
 konjsko	horse
-konju	horse
 konjugirana	conjugated
 konkretni	concrete
 Konopca	Rope
-Konopce	Ropes
 Konopcem	To the ropes
 Konopci	Ropes
-Konopcima	Ropes
 Konopcu	To the rope
 Konsolidiraj	Consolidate
 Konstantna	Constant
@@ -132521,11 +131485,9 @@ Kontejnerima	Containers
 konteksta	context
 kontekstni	contextual
 kontekstnog	contextual
-kontekstu	context
 Kontekstualne	Contextual
 kontekstualnog	contextual
 kontemplirati	contemplate
-Kontinuirana	Continuous
 Kontinuirani	Continuous
 Kontkata	Contact
 Kontole	Controls
@@ -132631,8 +131593,6 @@ Korijandri	Coriander
 Korijandrima	Coriander
 Korijandrom	Coriander
 Korijandru	Coriander
-korijen	root
-korijena	roots
 korijeni	roots
 korijenima	roots
 korijenom	root
@@ -132643,8 +131603,6 @@ korijensko	root
 korijenskog	root
 korijenskom	root
 korijensku	root
-korijenu	root
-korisne	useful
 korisnicima	to users
 korisnička	user
 korisničkim	user-friendly
@@ -132659,7 +131617,6 @@ korisnikove	user's
 korisnikovi	user's
 korisnikovih	users'
 korisnikovu	user's
-Korisno	Useful
 korisnost	usefulness
 koriste	benefit
 korišten	used
@@ -132674,9 +131631,7 @@ korištenoj	used
 korištenu	used
 koristila	benefited
 koristile	benefited
-koristili	used
 koristilo	useful
-koristimo	we use
 koristit	to use
 koristiti	to use
 Korn	Corn
@@ -132708,7 +131663,6 @@ Korzete	Corsets
 Korzeti	Corsets
 Korzetima	Corsets
 kosa	scythe
-košara	basket
 Košarica	Cart
 Košaricama	Baskets
 Košarice	Baskets
@@ -132746,13 +131700,10 @@ Kostarika	Costa Rica
 kostarikanska	Costa Rican
 Kostarike	Costa Rica
 kosti	bones
-kostima	costumes
 kostime	costumes
 kostimi	costumes
 kostimima	costumes
 kosu	piece
-košulja	shirt
-košulje	shirts
 kotača	wheel
 kotače	wheels
 kotači	wheels
@@ -132764,7 +131715,6 @@ Koturaljki	Roller skates
 Kovanicama	Coins
 kovanice	coins
 Kovčeg	Ark
-Kovčega	Ark
 Kovčege	Coffins
 Kovčezi	Coffins
 Kovčezima	Coffins
@@ -132789,7 +131739,6 @@ Krafni	Donuts
 kraj	place
 kraja	place
 krajnja	extreme
-krajnje	extremely
 krajnji	ultimate
 kraju	place
 krak	arm
@@ -132797,13 +131746,6 @@ krakom	arm
 krakova	crooked
 krakovi	arms
 krakovima	arms
-kralj	king
-kralja	king
-kraljevski	royal
-Kraljevstva	Kingdoms
-Kraljevstvo	Kingdom
-kraljica	queen
-kraljice	queens
 Krap	Carp
 Krapa	Carp
 Krapom	Carp
@@ -132822,7 +131764,6 @@ krastavci	cucumbers
 krastavcima	cucumbers
 Kratice	Abbreviations
 kratka	short
-kratke	short
 kratkih	short
 kratkim	short
 kratko	short
@@ -132896,7 +131837,6 @@ Kriketi	Crickets
 Kriketima	Crickets
 Kriketom	Cricket
 Kriketu	Cricket
-krilima	wings
 kriptira	encrypts
 kriptiraj	encrypt
 kriptiran	encrypted
@@ -132935,8 +131875,6 @@ kritični	critical
 kritičnih	critical
 kritičnom	critical
 kriva	guilty
-krivi	guilty
-krivo	wrong
 krivog	crooked
 krivom	guilty
 krivu	wrong
@@ -132946,12 +131884,10 @@ krivulje	curves
 krivulji	curves
 krivuljni	curvilinear
 krivuljom	curves
-križ	cross
 križa	cross
 križano	crossed
 Krizantemama	Chrysanthemum
 Krizanteme	Chrysanthemums
-križem	cross
 križići	crosses
 križnog	cross-legged
 Kroasana	Croissant
@@ -132968,7 +131904,6 @@ kromatičnost	chromaticity
 kromatičnosti	chromaticity
 Kromatska	Chromatic
 kromatske	chromatic
-Krov	Roof
 Krpa	Cloth
 Krpama	Rags
 Krpe	Cloths
@@ -132977,23 +131912,16 @@ Krpice	Cloths
 Krpljama	Snowshoes
 Krplje	Snowdrifts
 Krplji	Snowshoes
-krši	violates
 krsno	baptism
 krstarenja	cruises
 krstarenje	cruise
 krstarice	cruisers
-Krstitelja	Baptist
 krug	circle
 kruge	circles
 krugom	around
 krugova	circles
 krugovi	circles
 krugovima	circles
-krugu	circle
-kruh	bread
-kruha	bread
-kruhova	bread
-kruhove	breads
 kruhovi	breads
 kruhovima	breads
 krumpira	potato
@@ -133001,9 +131929,7 @@ Krumpire	Potatoes
 krumpiri	potatoes
 krumpirići	potatoes
 Krumpirima	Potatoes
-kruna	crown
 Krunama	To the crowns
-Krune	Crowns
 krunom	crown
 krušaka	pear
 kruškama	pears
@@ -133046,9 +131972,7 @@ kubne	cubic
 kubni	cubic
 kubnih	cubic
 kubnog	cubic
-kuća	house
 kucajuće	knocking
-Kućama	Houses
 kucanje	knocking
 Kućanske	Kućanski
 Kućanskih	Kućanskih
@@ -133056,8 +131980,6 @@ Kućanskim	Kućanski
 Kućanstava	Household
 Kućanstva	Households
 Kućanstvima	Households
-Kućanstvo	Household
-Kućanstvom	Household
 Kućanstvu	Household
 kućicama	houses
 kućice	houses
@@ -133091,7 +132013,6 @@ Kuhinji	Kitchens
 Kuhinjom	Kitchen
 Kuhinju	Kitchen
 Kuka	Hook
-Kukaca	Insect
 Kukama	Cucumbers
 Kukce	Insects
 kukci	insects
@@ -133123,12 +132044,9 @@ Kupaonicama	Bathrooms
 kupaonice	bathrooms
 kupi	buy
 kupid	cupid
-kupili	bought
 Kupina	Blackberry
 Kupinama	Blackberries
 Kupine	Blackberries
-kupite	buy
-kupiti	buy
 kupljena	purchased
 kupljene	purchased
 kupljeni	purchased
@@ -133158,7 +132076,6 @@ kupusima	cabbages
 Kurana	Quran
 Kurkumama	Turmeric
 Kurkume	Turmeric
-Kurs	Course
 Kursa	Course
 Kurseva	Courses
 Kurseve	Courses
@@ -133179,7 +132096,6 @@ kutama	clothes
 kute	coats
 Kuten	Kuten
 kutijama	boxes
-kutije	boxes
 kutijom	box
 Kutlača	Ladle
 Kutlačama	Ladles
@@ -133193,7 +132109,6 @@ kuvajtska	Kuwaiti
 kužim	I am a dog.
 kvačica	checkmark
 kvačicom	tick
-kvadrata	square
 kvadratima	squares
 kvadratna	square
 kvadratne	square
@@ -133270,7 +132185,6 @@ laki	varnishes
 lakiraj	varnish
 lakiranje	varnishing
 lakom	hungry
-lakše	easier
 laminata	laminate
 Laminatna	Laminate
 Laminirane	Laminated
@@ -133279,9 +132193,7 @@ lampe	lamps
 lampi	lamps
 lampioni	lanterns
 lampom	lamp
-lanac	chain
 Lanaca	Chain
-lanca	chain
 lanci	chains
 lancu	chain
 Lanczosove	Lanczos
@@ -133318,7 +132230,6 @@ latinicu	Latin
 Latino	Latin
 Latinoamerički	Latin American
 Latinska	Latin
-latinski	Latin
 Latvija	Latvia
 Latvije	Latvia
 latvijska	Latvian
@@ -133338,14 +132249,8 @@ Lave	Lava
 lavova	lion
 lavove	lions
 lavovi	lions
-lavovima	lions
 Law	Law
 Layer	Layer
-lažac	liar
-laže	lies
-Lažna	Fake
-lažne	fake
-Lažni	Fake
 LazyMouse	LazyMouse
 LazyMousea	LazyMouse
 lb	lb
@@ -133413,16 +132318,13 @@ let	years
 leta	years
 leteća	flying
 leteće	flying
-leteći	flying
 letenje	flying
-leti	years
 letjelica	spacecraft
 Letjelicama	Aircraft
 letjelice	aircraft
 letova	flights
 letter	letter
 Letterpressu	Letterpress
-letu	year
 level	level
 levitira	levitates
 LexarFilter	LexarFilter
@@ -133431,7 +132333,6 @@ ležaj	bearing
 ležaja	bearings
 ležajem	bearing
 ležajeve	bearings
-ležajevima	bearings
 ležaji	bearings
 ležaju	bearing
 Ležaljaka	Deckchair
@@ -133453,19 +132354,15 @@ LFO	LFO
 LGBT	LGBT
 LGBTQ	LGBTQ
 li	if
-Libanon	Lebanon
 Libanona	Lebanon
 libanonska	Lebanese
-Libanonske	Lebanese
 Liberija	Liberia
 Liberije	Liberia
 liberijska	Liberian
 Libija	Libya
-Libije	Libya
 libijska	Libyan
 lica	cheeks
 lice	cheek
-licem	face
 licence	licenses
 licenciranju	licensing
 licencnog	licensed
@@ -133505,18 +132402,13 @@ Lihtenštajna	Liechtenstein
 lihtenštajnska	Liechtenstein
 liječnica	female doctor
 Liječnička	Doctor
-liječnik	doctor
 lijek	medicine
 Lijekova	Lijekova
 lijekovi	medicines
 Lijekovima	Medications
-lijep	beautiful
 lijepa	beautiful
-lijepe	beautiful
 lijepljenja	gluing
 lijepljenje	gluing
-lijepo	nice
-lijeva	left
 Lijevački	Foundry
 Lijevačkih	Foundry
 Lijevačkim	Foundry
@@ -133525,9 +132417,7 @@ Lijevačkom	To the left
 lijevih	left-handed
 lijevog	left
 lijevoj	left
-lijevom	left
 Lijevoruko	Left-handed
-lijevu	left
 liju	left
 lik	character
 like	characters
@@ -133641,8 +132531,6 @@ lizanje	licking
 Ljamama	Llama
 Ljame	Llamas
 ljepiva	adhesives
-ljepota	beauty
-ljepote	beauty
 lješnjak	hazelnut
 ljestava	ladder
 Ljestva	Ladders
@@ -133651,13 +132539,10 @@ ljestvi	ladders
 ljestvicu	scale
 ljetna	summer
 ljetno	summer
-ljeto	summer
 ljievo	sly
 Ljiljana	Lily
 Ljiljani	Lilies
 Ljiljanima	Lilies
-ljubav	love
-ljubavi	love
 Ljubavlju	Love
 ljubavno	lovingly
 ljube	dear
@@ -133665,24 +132550,19 @@ ljubi	loves
 ljubičasta	purple
 ljubičasti	purple
 ljubičasto	purple
-ljubim	I love
 ljubimci	lovers
 Ljubljana	Ljubljana
 ljubljenje	lovemaking
-ljude	people
-ljudi	people
 Ljuljačkama	Swings
 Ljuljačke	Swings
 Ljuljački	Swings
 ljusci	shells
 ljuskar	crustacean
-ljuske	shells
 ljuski	husks
 ljusku	shell
 Ljušturama	Shellfish
 Ljušture	Shells
 ljuta	angry
-ljutiti	to anger
 ljutnje	anger
 ljuto	hot
 ll	ll
@@ -133779,7 +132659,6 @@ lonaca	pot
 lonca	pot
 Lonce	Pots
 Loncem	Pots
-lonci	pots
 loncima	pots
 loncu	pot
 London	London
@@ -133801,9 +132680,6 @@ loptice	balls
 loptom	ball
 Lorem	Lorem
 Los	Elk
-loš	bad
-Loša	Bad
-loše	bad
 Lososi	Salmon
 Losova	Elk
 Losove	Moose
@@ -133824,7 +132700,6 @@ lower	lower
 Lowest	Lowest
 loza	vine
 lozama	vines
-loze	vines
 lozi	vine
 loziku	logic
 lozinci	passwords
@@ -133853,7 +132728,6 @@ lt	it
 LTE	LTE
 lu	lu
 Luanda	Luanda
-lubanja	skull
 Lubenicama	Watermelons
 lubenice	watermelons
 Luca	Luca
@@ -133862,7 +132736,6 @@ Luciana	Luciana
 Lucida	Lucid
 LucidaGrande	LucidaGrande
 Lucija	Lucia
-Lucije	Lucia
 lud	crazy
 Luga	Luga
 Lugom	Lugom
@@ -133872,14 +132745,11 @@ Lugovi	Lugovoi
 Lugovima	To the meadows
 Lugu	Lugu
 Luisa	Louisa
-luk	bow
 luka	port
 lukama	ports
 luke	ports
 lukom	bow
 lukova	bow
-lukove	arches
-lukovi	arches
 lukovima	arches
 Luksemburg	Luxembourg
 Luksemburga	Luxembourg
@@ -133925,7 +132795,6 @@ lzfse	lzfse
 LZW	LZW
 Maarten	Martin
 Maartena	Maarten
-mač	sword
 Mac OS 	Mac OS 
 Mac Pro	Mac Pro
 maca	pussy
@@ -133958,7 +132827,6 @@ Mačevanjima	Fencing
 Mačevanju	Fencing
 mačevaoci	swordsmen
 Mačeve	Swords
-mačevi	swords
 mačevima	swords
 MacGreek	MacGreek
 MacHebrew	MacHebrew
@@ -134017,13 +132885,9 @@ Mafini	Muffins
 Mafinima	Muffins
 mag	magician
 Magadan	Magadan
-Magarac	Donkey
-Magarca	Donkey
 Magarce	Donkeys
 Magarcem	Donkeys
-Magarci	Donkeys
 Magarcima	Donkeys
-Magarcu	Donkey
 Magazin	Magazine
 Magazinu	Magazine
 Maged	Maged
@@ -134064,13 +132928,10 @@ Maithean	Maithean
 maj	May
 Majčin	Mother's
 Majčina	Mother's
-Majčine	Mother's
 Majčinih	Mother's
 Majčinim	Mother's
 Maje	Mayans
 majice	t-shirts
-majka	mother
-majke	mothers
 majkom	mothers
 majmuna	monkey
 majmuni	monkeys
@@ -134088,7 +132949,6 @@ Makadamima	Macadamia
 Makao	Macau
 makaoška	macaque
 make	macaw
-Makedonije	Macedonia
 makedonska	Macedonian
 MakePDF	MakePDF
 maknuti	move
@@ -134131,12 +132991,10 @@ malgaška	Malagasy
 mali	little one
 Malija	Malia
 malijska	Malian
-malim	small
 Malinama	Raspberries
 Maline	Raspberries
 Malinois	Malinois
 malo	a little
-malog	small
 maloj	small
 maloljetne	minors
 maloljetnici	minors
@@ -134186,7 +133044,6 @@ Manjak	Shortage
 manje	less
 manjeg	smaller
 manjih	smaller
-manjim	smaller
 manjoj	smaller
 manjom	less
 manju	less
@@ -134228,7 +133085,6 @@ margine	margins
 Marić	Maric
 Marie	Marie
 Marigold	Marigold
-Marija	Maria
 Marijanskih	Marianski
 Marin	Marine
 Marino	Marina
@@ -134250,7 +133106,6 @@ Maršalovih	Marshall's
 Marshallovi	The Marshalls
 marsovac	Martian
 marsovci	Martians
-Marta	Martha
 Martha	Martha
 Martina	Martin
 martini	martinis
@@ -134294,7 +133149,6 @@ Maslaci	Butterflies
 Maslacima	Dandelions
 Maslačke	Dandelions
 maslinom	olive tree
-maslinova	olive
 maslinovom	olive
 maslinovu	olive tree
 mašnama	bow tie
@@ -134355,7 +133209,6 @@ Mayek	Mayek
 Mayotte	Mayotte
 Mayottea	Mayotte
 mayUKMs	mayUKMs
-Mazga	Mule
 Mazgama	Mules
 Mazge	Mules
 Mazgi	Mules
@@ -134388,7 +133241,6 @@ meč	sword
 Mećavama	Blizzards
 Mećave	Blizzards
 med	honey
-meda	honey
 medalje	medals
 Medama	Honey
 medarica	honeysuckle
@@ -134426,7 +133278,6 @@ Medljika	Honeysuckle
 Medljikama	Honeycombs
 Medljike	Honeysuckle
 Medo	Honey
-medom	honey
 Medova	Honey
 Medove	Honey
 Medovi	Honey
@@ -134507,7 +133358,6 @@ Memoriranje	Memorization
 memory	memory
 Memphis	Memphis
 Mende	Mende
-mene	me
 Menorama	Menorah
 menore	menorahs
 Menu	Menu
@@ -134527,7 +133377,6 @@ Mesna	Meat
 Mesne	Meat
 Mesnih	Meat
 Mesnim	Meat
-meso	meat
 message	message
 messageFormat	messageFormat
 messages	messages
@@ -134540,7 +133389,6 @@ metamorfoze	metamorphoses
 metapodaci	metadata
 metapodataka	metadata
 metapodatke	metadata
-metara	meters
 mete	mint
 metka	bullet
 Metla	Broom
@@ -134569,7 +133417,6 @@ Miao	Miao
 MiB	MiB
 MIBS	MIBS
 Micanje	Moving
-miče	moves
 Micro	Micro
 MicroFire	MicroFire
 mig	wink
@@ -134594,7 +133441,6 @@ mijenjana	changed
 mijenjanja	changes
 mijenjanjem	changing
 mijenjati	to change
-miješa	mixes
 miješano	mixed
 Mikelon	Miquelon
 Mikelona	Miquelon
@@ -134625,7 +133471,6 @@ Milena	Milena
 miligram	milligram
 miligrama	milligrams
 Milijarde	Billions
-milijuna	million
 Milijuni	Millions
 mililitar	milliliter
 mililitara	milliliters
@@ -134658,7 +133503,6 @@ minijaturnu	miniature
 minijaturu	miniature
 minimalna	minimal
 minimalne	minimum
-Minimalni	Minimal
 minimalnih	minimal
 minimalnog	minimal
 minimalnom	minimal
@@ -134677,7 +133521,6 @@ mirisanje	smelling
 mirnim	calm
 mirno	calm
 miša	mouse
-misao	thought
 mišem	mouse
 miševa	mice
 miševi	mice
@@ -134685,10 +133528,6 @@ misica	little girl
 mišići	muscles
 mišja	mouse
 mišje	mouse
-misli	thoughts
-mislili	thought
-mislima	thoughts
-mislite	you think
 Mišolovke	Mousetraps
 Mišolovki	Mousetraps
 Mišolovkom	Mousetrap
@@ -134710,25 +133549,18 @@ Mjerače	Gauges
 Mjeračem	Meter
 Mjerači	Meters
 Mjeračima	Meters
-mjerenje	measurement
 mjereno	measured
-mjeri	measure
 mjerila	criteria
 mjerilima	benchmarks
 mjerilo	criterion
 mjerilom	benchmark
-mjerilu	scale
 Mjerna	Measuring
-mješavine	mixtures
 mješavinu	mixture
-mjesec	month
-mjesece	months
 mjesečeva	moonlit
 Mjesečinama	Moonlight
 Mjesečine	Moonlights
 Mjesečinu	Moonlight
 mjesečnu	monthly
-mjesecu	month
 mješoviti	mixed
 mješovitim	mixed
 mjestimična	local
@@ -134737,26 +133569,19 @@ mjestimični	local
 MKT	MKT
 ml	ml
 mlada	young
-mlade	young
-mlađe	younger
 mladenka	young woman
 Mladenkama	Newlyweds
 Mladenke	Young women
 Mladenki	Young women
-mladi	young
 mladica	young girl
 Mladicama	Young girls
 Mladih	Young people
 Mladim	To the young
 mlađima	younger
-Mladog	Young
 Mladom	Young people
-mladoženja	groom
 Mladoženjama	Bride and groom
 Mladoženje	Youth
-Mladoženji	Grooms
 Mladoženjom	To the groom
-Mladoženju	To the groom
 MLB	MLB
 mld	mld
 mlExpandHistory	mlExpandHistory
@@ -134765,9 +133590,7 @@ Mliječne	Dairy
 Mliječnih	Dairy
 Mliječnim	Dairy
 Mliječnom	Milky
-mlijeka	milk
 Mlijekima	Milk
-mlijeko	milk
 Mlinaca	Mill
 Mlinca	Mlinca
 Mlince	Mills
@@ -134781,9 +133604,6 @@ MMM	MMM
 MMMM	MMMMM
 MMMMMMMMMMMMMMMMMM	MMMMMMMMMMMMMMMMMMMM
 MMP	MMP
-mnoge	many
-Mnogi	Many
-mnogo	many
 množenja	multiplication
 Množi	Multiply
 moai	moai
@@ -134818,7 +133638,6 @@ modele	models
 modeli	models
 ModelName	ModelName
 modelom	models
-modelu	model
 modema	modem
 modemom	modem
 modemska	modem
@@ -134867,20 +133686,13 @@ Mogranjima	Pomegranates
 mogućnošću	possibility
 Moira	Moira
 Moire	Moiré
-moj	my
 moja	mine
-moje	mine
-mojeg	mine
-mojem	mine
 Moji	Mine
 mojih	my
-mojim	my
 mojito	mojito
 Mojitosa	Mojitos
 Mojitosi	Mojitos
 Mojitosima	Mojitosima
-mojoj	my
-moju	mine
 moka	flour
 Mokasine	Moccasins
 mokasinke	loafers
@@ -134893,13 +133705,9 @@ moldavska	Moldovan
 molim	I pray.
 molimo	we pray
 moliti	to pray
-molitva	prayer
 molitvena	prayerful
-molitvu	prayer
-Moljac	Moth
 Moljaca	Moth
 Moljce	Moths
-Moljci	Moths
 Moljcima	Moths
 Molom	Pier
 molorem	I am a child.
@@ -134945,20 +133753,11 @@ Mopsovima	Pugs
 mora	must
 morale	morals
 moralo	morality
-moram	I have to
-moramo	we must
-morat	must
 morate	you must
 more	sea
-morem	sea
 MoreThanOneTab	MoreThanOneTab
 morfološkog	morphological
 morska	marine
-Morske	Marine
-morski	marine
-Morskih	Marine
-morskim	marine
-morsko	marine
 Morskoj	Seaside
 Morskom	Seaside
 Morsku	Seaside
@@ -135007,8 +133806,6 @@ mozambička	Mozambican
 Mozambika	Mozambique
 možda	maybe
 može	husband
-možemo	we can
-možeš	you can
 mozga	brain
 mp	mp
 mpeg	mpeg
@@ -135029,10 +133826,7 @@ mreškanja	ripples
 mreškanje	ripple
 mrevi	dead
 mreža	network
-mrežama	networks
 Mrežasti	Mesh
-mreže	networks
-mreži	network
 mrežna	network
 mrežnih	network
 mrežnim	network
@@ -135041,8 +133835,6 @@ mrežnog	network
 mrežnoj	network
 mrežnom	network
 mrežnu	network
-mrežom	network
-mrežu	network
 mrgud	sullen
 mrgudno	sullenly
 mrk	eclipse
@@ -135053,13 +133845,7 @@ Mrkvi	Carrots
 Mro	Dark
 mrštenje	frown
 mršti	frown
-mrtav	dead
-mrtva	dead
-mrtvac	dead man
-mrtvaci	dead people
-mrtve	dead
 MRU	MRU
-mrvicama	crumbs
 mrvljeni	crumbled
 mrzovoljno	grumpy
 ms	ms
@@ -135102,9 +133888,7 @@ Municije	Ammunition
 Municiji	Ammunition
 Municijom	Ammunition
 Municiju	Ammunition
-munja	lightning
 munjama	lightning
-munje	lightning
 munjom	lightning
 murja	murray
 murjaci	cops
@@ -135113,14 +133897,9 @@ murjakinja	cop
 murjakinje	cops
 Muscat	Muscat
 muška	male
-muškarac	man
-muškarca	man
-muškarce	men
-muškarci	men
 muške	men's
 Mušketama	Musketeers
 Muškete	Muskets
-muško	male
 muškog	male
 Mušula	Mushula
 Mušulama	Muslims
@@ -135167,9 +133946,7 @@ nabrojana	enumerated
 nacereno	grinned
 Nacho	Nacho
 Nachosi	Nachos
-naći	find
 naciljaj	aim
-načine	ways
 načinom	way
 načinu	mode
 načinzaštite	protection mode
@@ -135179,11 +133956,7 @@ Nacrtaj	Draw
 Nacrtani	Drawn
 nacrtati	to draw
 nad	above
-nadalje	further
-nadam	I hope
 Nadamo	We hope
-nade	hopes
-nađen	found
 nađena	found
 nađene	found
 nađeni	found
@@ -135193,28 +133966,23 @@ Nadgrobnih	Tombstones
 Nadgrobnim	Tombstone
 Nadgrobnog	Tombstone
 Nadgrobnom	Tombstone
-nađi	find
 Nađi moj iPhone	Find My iPhone
 Nađi moje prijatelje	Find my friends
-nadimak	nickname
 nadimaka	nickname
 nadimci	nicknames
 nadjačava	overpowers
 Nadjačavate	You are overpowering.
-nadležnosti	jurisdiction
 Nadmašena	Outdone
 nadmaši	surpass
 nadograde	upgrades
 nadograđen	upgraded
 nadograđena	upgraded
 nadogradi	upgrade
-nadogradio	upgraded
 nadogradite	upgrade
 Nadogradiva	Upgradable
 nadogradnje	upgrades
 nadogradnjom	by upgrading
 nadogradnju	upgrade
-nadograđuje	upgrades
 nadolazeće	upcoming
 Nadolazeći	Upcoming
 nadolazećih	upcoming
@@ -135225,7 +133993,6 @@ nadprocesa	superprocess
 nadprocese	superprocesses
 Nadprocesi	Superprocesses
 nadređena	superior
-nadređene	superiors
 nadređeni	superior
 nadređenim	superiors
 nadređenog	superior
@@ -135234,7 +134001,6 @@ nadskupa	superset
 nadsloj	overlay
 nadsloja	overlayer
 nadslojevi	overlays
-nađu	find
 Nadvožnjaci	Overpasses
 Nadvožnjacima	Overpasses
 Nadvožnjaka	Overpass
@@ -135252,7 +134018,6 @@ Nadzornim	Supervisory
 naftu	oil
 nagađanje	speculation
 Nagib	Tilt
-naglasak	accent
 naglašava	emphasizes
 naglašavanja	emphasis
 naglašavanjem	emphasis
@@ -135270,18 +134035,15 @@ naglog	sudden
 nagnuto	inclined
 nagrada	award
 nagradama	awards
-nagrade	awards
 Nagradi	Awards
 nagradnim	prize
 Nagradom	Prize
 Nagradu	Prize
 Nagri	Nagri
 Nairobi	Nairobi
-naišao	came across
 naišla	came across
 naišli	found
 naišlo	found
-najava	announcement
 najave	announcements
 Najavi	Announcement
 najavljujemo	we announce
@@ -135291,8 +134053,6 @@ najbliža	closest
 najbliže	closest
 Najbliži	Nearest
 Najbolja	The best
-najbolje	best
-najboljeg	the best
 najbolji	the best
 najbolju	the best
 Najdesnija	Rightmost
@@ -135304,7 +134064,6 @@ najljeviji	leftmost
 Najlošija	The worst
 najma	rent
 Najmanja	Minimum
-najmanjeg	the smallest
 Najmanji	Smallest
 najmilijima	to the dearest
 najniža	lowest
@@ -135317,7 +134076,6 @@ najnovijih	the latest
 najnoviju	the latest
 Najpopularnije	Most popular
 najprije	first of all
-najradije	preferably
 najsmješnije	funniest
 najsnažniji	the strongest
 najsretnija	happiest
@@ -135325,13 +134083,9 @@ Najstarija	The oldest
 najstarije	oldest
 najsvijetlija	the brightest
 najsvjetlije	brightest
-najtamnija	darkest
 najtamnije	darkest
 najtamnijom	the darkest
 najtoplije	the warmest
-najvažnije	most important
-najveća	the largest
-najvećeg	the largest
 najveći	the largest
 najveću	the largest
 najviša	highest
@@ -135348,21 +134102,16 @@ naknada	fee
 naknade	fees
 naknadni	subsequent
 naknadnog	subsequent
-naknadu	compensation
 Nakovanj	Anvil
 Nakovanja	Anvils
 Nakovnje	Anvil
 Nakovnji	Anvils
 Nakovnjima	Anvils
-nakratko	briefly
 nakrivili	crooked
 nalaženja	finding
 nalazi	finds
-nalazili	found
 naleti	comes across
 nalijevo	to the left
-nalik	similar
-nalikuju	resemble
 nalivpera	fountain pen
 nalivpero	fountain pen
 nalivperom	fountain pen
@@ -135383,9 +134132,7 @@ Namibije	Namibia
 namibijska	Namibian
 namigivanje	hint
 namiguje	hints
-namijenjeno	intended
 namiješeno	mixed up
-namjeravate	you intend
 Namještaja	Furniture
 Namještaje	Furniture
 Namještaji	Furniture
@@ -135398,9 +134145,7 @@ nanosekunde	nanoseconds
 nanosekundi	nanoseconds
 Naočala	Glasses
 naočalama	glasses
-naokolo	around
 Nap	Nap
-napad	attack
 napada	attacks
 napaja	powers
 napajanjem	power supply
@@ -135408,13 +134153,8 @@ Napetost	Voltage
 napici	drinks
 Napicima	Drinks
 napinjanje	straining
-napisali	wrote
-napisana	written
 napisane	written
 napisanih	written
-napisano	written
-napisanu	written
-napisao	wrote
 napisati	to write
 Napitaka	Potion
 Napitci	Drinks
@@ -135435,16 +134175,12 @@ naporno	tiring
 Napravama	Devices
 Naprave	Devices
 napravi	device
-napravila	made
-napravili	made
 napravilo	device
-napravio	made
 napravite	do it
 napraviti	to do
 napravljene	made
 Napravom	Devices
 Napravu	Device
-napredak	progress
 Napredna	Advanced
 Napredni	Advanced
 naprednih	advanced
@@ -135461,13 +134197,6 @@ napućena	puffy
 napuhača	inflatable
 napuni	fill up
 napunjeno	loaded
-napušta	leaves
-napušten	abandoned
-napuštena	abandoned
-napušteni	abandoned
-Napusti	Leave
-Napustili	Abandoned
-napustio	abandoned
 napustite	leave
 napustiti	to abandon
 naramak	bracelet
@@ -135487,14 +134216,12 @@ Narcise	Daffodils
 Narcisi	Daffodils
 Narcisima	Narcissus
 naredba	order
-naredbe	orders
 naredbi	orders
 naredbom	order
 naredbu	command
 naredila	did
 naredne	next
 narednice	sergeants
-narednici	sergeants
 narednih	next
 naresci	slices
 narescima	slices
@@ -135523,27 +134250,19 @@ narudžbu	order
 narušena	disturbed
 narušeno	disturbed
 nas	us
-Naša	Our
-našao	found
 nascar	NASCAR
 Nasdaq	Nasdaq
-naše	our
-našem	our
-naši	our
-naših	ours
 Nasip	Embankment
 Nasipa	Embankment
 Nasipi	Embankments
 Nasipima	Embankments
 Naskh	Naskh
-našla	found
 naslagane	stacked
 Naslagani	Stacked
 naslijeđeni	inherited
 Naslijeđeno	Inherited
 naslijedi	inherit
 naslijedite	inherit
-naslijediti	to inherit
 nasljeđa	inheritance
 naslova	address
 naslove	addresses
@@ -135563,12 +134282,10 @@ nasmijavaš	you make me laugh
 nasmiješeni	smiling
 nasmiješeno	smiling
 nasmješenim	smiling
-našom	our
 NASP	NASP
 naspavate	you sleep
 naspavati	to sleep
 naspram	opposite
-nastaju	are created
 nastave	classes
 nastavi	set
 nastavili	set
@@ -135585,7 +134302,6 @@ nastavljanje	setting
 nastavljeno	set
 nastavnice	teachers
 nastavnici	teachers
-naštetili	listed
 naštetiti	to list
 nastup	performance
 nasumična	random
@@ -135594,7 +134310,6 @@ nasumičnim	random
 nasumičnog	random
 National	National
 Native	Native
-natjecanje	competition
 Natpisni	Inscription
 natuknica	hint
 natuknice	clues
@@ -135603,7 +134318,6 @@ naturalLanguage	naturalLanguage
 naučene	learned
 naučenog	learned
 Nauči	Teach
-naučili	learned
 naučit	to teach
 naučiti	to teach
 Nauru	Nauru
@@ -135619,7 +134333,6 @@ Naušnjaku	Earplug
 nautička	nautical
 nautičke	nautical
 nautičkih	nautical
-naveden	listed
 navedena	listed
 navedeni	listed
 navedenih	the listed
@@ -135633,7 +134346,6 @@ navedite	specify
 navednog	the above
 navel	stated
 naveli	indicated
-navesti	to state
 navigacije	navigation
 navigaciju	navigation
 navigatorica	navigator
@@ -135656,7 +134368,6 @@ navodnik	quotation mark
 navodnika	quotation marks
 navodnike	quotation marks
 navršava	is completing
-Nazad	Back
 nazdravimo	let's toast
 nazdravljanje	toasting
 nazdravlje	cheers
@@ -135677,8 +134388,6 @@ nazočiti	to attend
 nazovete	you call
 nazovi	call
 nazovite	call
-nazvali	called
-nazvan	called
 nazvana	called
 nazvane	called
 nazvanih	called
@@ -135706,9 +134415,7 @@ neaktivnosti	inactivity
 nearest	nearest
 neautorizirani	unauthorized
 neautoriziranim	unauthorized
-neba	sky
 Nebesa	Heaven
-Nebesima	Heavens
 nebima	there is none
 nebo	sky
 Nebodera	Skyscrapers
@@ -135716,7 +134423,6 @@ Nebodere	Skyscrapers
 neboderi	skyscrapers
 Neboderima	Skyscrapers
 nebom	heaven
-nebu	to the sky
 NEC	NEC
 nečeg	something
 Nećemo	We will not.
@@ -135726,7 +134432,6 @@ nedavna	recent
 nedavne	recent
 Nedavni	Recent
 nedavnih	recent
-nedavno	recently
 nedefinirana	undefined
 nedefinirano	undefined
 Nedjeljna	Sunday
@@ -135739,10 +134444,8 @@ nedopušteni	unauthorized
 nedoslijedne	inconsistent
 nedostajala	missing
 nedostajati	to be missing
-nedostaje	missing
 nedostaješ	I miss you.
 nedostaju	missing
-nedostatka	lack
 Nedostup	Inaccessibility
 nedostupna	unavailable
 nedostupni	unavailable
@@ -135755,7 +134458,6 @@ nedovoljnih	insufficient
 nedovoljno	insufficient
 nedovoljnog	insufficient
 Nedovršeni	Unfinished
-nedovršeno	unfinished
 nedozvoljen	unauthorized
 Nedozvoljene	Unauthorized
 needed	needed
@@ -135766,7 +134468,6 @@ negacijskom	negation
 negativna	negative
 negativne	negative
 negativnim	negative
-negdje	somewhere
 negirana	denied
 negirano	denied
 nego	care
@@ -135796,11 +134497,9 @@ nejasna	unclear
 neka	some
 Nekalibrirano	Uncalibrated
 neke	some
-nekih	some
 nekim	to some
 neko	someone
 nekoć	once upon a time
-nekog	someone
 nekoj	someone
 nekoliko	somewhat
 nekompatibilan	incompatible
@@ -135832,7 +134531,6 @@ nekriptirani	unencrypted
 nekriptiranu	unencrypted
 Nektarinama	Nectarines
 Nektarine	Nectarines
-neku	some
 nekud	nowhere
 Nekvadratni	Non-square
 nelagode	discomfort
@@ -135844,14 +134542,8 @@ nelinearnih	nonlinear
 nelinearnu	nonlinear
 nelogičnog	illogical
 nema	silent
-nemaju	they don't have
-nemam	I don't have
-nemoćne	powerless
 Nemoguća	Impossible
-nemoguće	impossible
 nemogućnosti	impossibilities
-nemoj	don't
-neobično	unusual
 Neobjavljeni	Unpublished
 Neobnovljiva	Non-renewable
 Neobnovljivi	Non-renewable
@@ -135861,7 +134553,6 @@ neočekivana	unexpected
 neočekivane	unexpected
 neočekivani	unexpected
 neočekivanih	unexpected
-neočekivano	unexpectedly
 neočekivanog	unexpected
 neočekivanom	unexpected
 neočekivanu	unexpected
@@ -135875,7 +134566,6 @@ neodređen	indefinite
 Neodređena	Indefinite
 neodređeni	indefinite
 neodređenu	indefinite
-neograničen	unlimited
 neograničena	unlimited
 neograničeno	unlimited
 neophodna	necessary
@@ -135938,19 +134628,12 @@ Nepotpisano	Unsigned
 nepotpuna	incomplete
 nepotpune	incomplete
 nepotpuni	incomplete
-nepotpuno	incomplete
 nepotpunu	incomplete
 nepotvrđenim	unconfirmed
-nepouzdan	unreliable
 nepouzdana	unreliable
 nepouzdane	unreliable
-nepouzdani	unreliable
-nepoznat	unknown
-nepoznata	unknown
 nepoznate	unknown
-nepoznati	unknown
 nepoznatih	unknown
-nepoznato	unknown
 nepoznatog	unknown
 nepoznatu	unknown
 nepravilnih	irregular
@@ -135963,7 +134646,6 @@ nepridruženi	unaffiliated
 neprihvatljivi	unacceptable
 neprikladan	inappropriate
 neprikladne	inappropriate
-neprikladno	inappropriate
 neprikladnom	inappropriate
 neprocesiranim	unprocessed
 Nepročitan	Unread
@@ -135988,18 +134670,14 @@ Nesigurna	Unsure
 nesigurnim	insecure
 nesigurnom	insecure
 nesigurnu	insecure
-neslaganje	disagreement
 nespremljene	unaccompanied
 nespremljeni	unaccompanied
 nespremljenih	unaccompanied
 nesretno	unfortunately
-nestaju	disappear
 Nestalo	Disappeared
 Nestandardna	Non-standard
 nestandardne	non-standard
-nestao	disappeared
 nestašnost	mischief
-nešto	something
 Nestrukturirana	Unstructured
 Nestrukturirani	Unstructured
 Nesvrstani	Non-aligned
@@ -136009,7 +134687,6 @@ NetBootVolume	NetBootVolume
 netekstualne	non-textual
 NetFS	NetFS
 NetInfo	NetInfo
-netko	someone
 netočna	inaccurate
 netočne	inaccurate
 netočni	inaccurate
@@ -136051,26 +134728,19 @@ nevažećih	invalid
 nevažećim	invalid
 nevažećom	invalid
 nevažeću	invalid
-nevažno	unimportant
 Nevena	Marigold
 Nevene	Marigolds
 Neveni	Marigolds
 Nevenima	To the innocent
 Nevežeći	Non-binding
-nevidljiv	invisible
-nevidljiva	invisible
 nevidljive	invisible
 nevidljivim	invisible
-nevidljivo	invisibly
-Nevidljivom	Invisible
 Nevis	Nevis
 Nevisa	Nevis
 neviska	nevis
 nevjerodostojnosti	implausibility
 nevjeste	brides
 Nevješto	Unskillfully
-nevolji	trouble
-nevrijeme	storm
 NewApplication	NewApplication
 News	News
 NewTextFile	NewTextFile
@@ -136098,7 +134768,6 @@ NFNT	NFNT
 nfs	nfs
 ng	ng
 ni	there is no
-ničega	nothing
 Nicky	Nicky
 Nicolas	Nicolas
 NIfTI	NIFTI
@@ -136114,12 +134783,7 @@ nijansi	nuances
 nijansom	nuance
 nijansu	nuance
 nijedan	none
-nijedna	none
-nijedno	none
-nijednog	none
 nijednom	none
-nikad	never
-nikada	never
 nikakav	none
 nikakvi	none
 Nikal	Nickel
@@ -136144,9 +134808,7 @@ niskofrekvencijskog	low-frequency
 niskog	low
 Niskopropusna	Low-pass
 Niskopropusni	Low-pass
-Nismo	We are not
 NIST	NIST
-ništa	nothing
 niste	you are not
 nit	thread
 niti	no
@@ -136170,12 +134832,7 @@ nizu	string
 njami	yum
 nje	her/him
 njega	him/her
-njegove	his/her
-njegovi	his/her
 njegovih	his/her
-njegovim	his/her
-njegovo	his/her
-njegovoj	his/her
 njegovu	his/her
 njemačka	Germany
 Njemačke	Germany
@@ -136184,32 +134841,13 @@ Njemačkim	German
 njemačkog	German
 Njemačkom	German
 njemu	to him
-njen	her
-njena	her
 njenih	hers
-njenog	her/his
 njenoj	her/her
 njenom	hers
 njenu	her/her
 njezin	her/his
 njezina	her/his
-njezinih	hers
-njezinog	hers
-njezinom	hers
-njezinu	hers
-Nježno	Gently
-njih	them
-Njihov	Their
-njihova	their
-njihove	their
-njihovih	their
-njihovim	their
-njihovo	their
-njihovog	their
-njihovu	their
 njima	to them
-njime	with it
-nju	her
 njuškanja	sniffing
 njuškanje	sniffing
 NLC	NLC
@@ -136222,17 +134860,13 @@ NMS	NMS
 no	well
 NO₂	NO₂
 Nobnovljivi	Non-renewable
-noćas	tonight
-Noćima	At nights
 Noćna	Night
 noćni	nocturnal
 Noćnih	Night
 Noćnim	Nightly
-noću	at night
 nod	nod
 node	node
 noga	leg
-Noge	Legs
 nogometa	football
 nogomete	footballs
 nogometi	footballs
@@ -136313,24 +134947,16 @@ notifications	notifications
 Nouakchott	Nouakchott
 Noumea	Noumea
 nov	new
-nova	new
-novac	money
-novaca	money
-novca	money
 Novčana	Money
 novčanica	banknote
 novčanice	banknotes
 Novčanici	Banknotes
 Novčanicima	Wallets
 Novčanih	Cash
-Novčanik	Wallet
-Novčanike	Wallets
 Novčanim	To the money
 Novce	Money
 novcem	money
 Novci	Money
-Novčić	Coin
-nove	new
 Novell	Novell
 Novem	New
 novih	new
@@ -136345,20 +134971,15 @@ novijom	newer
 noviju	newer
 Novina	Newspaper
 Novinama	To the newspapers
-novo	new
-novog	new
 Novogodišnja	New Year's
 novogvinejska	New Guinean
 novoj	new
 novokaledonijska	New Caledonian
-novorođenče	newborn
 Novorođenčeta	Newborns
-Novorođenčetom	Newborn
 Novorođenčetu	For a newborn
 Novosibirsk	Novosibirsk
 Novost	New
 Novosti	News
-novostima	news
 novozelandska	New Zealand
 novUKMs	newUKMs
 Novus	Novus
@@ -136392,8 +135013,6 @@ NTLM	NTLM
 NTSC	NTSC
 NuBus	NuBus
 nude	nude
-nudi	offers
-nudili	offered
 nula	zero
 nulama	zeros
 nule	zeros
@@ -136430,8 +135049,6 @@ Oazama	Oasis
 Oaze	Oases
 obala	coast
 obalama	coasts
-obale	coast
-obali	coast
 obalom	coast
 obalu	coast
 obasjate	illuminate
@@ -136440,8 +135057,6 @@ obaveze	obligations
 Obavezni	Mandatory
 obavijest	notification
 obaviještene	informed
-obaviješteni	informed
-obavijesti	notifications
 obavijestiti	to inform
 obavili	completed
 obavilo	envelope
@@ -136449,15 +135064,12 @@ obavite	do it
 obaviti	to wrap
 obavještavaju	inform
 Obavjesti	Announcements
-obavlja	performs
 obavljajte	perform
 obavljanja	performance
 obavljanje	performance
 obavljanju	performing
-obavljati	to perform
 obavljenih	completed
 obavljeno	done
-obećane	promised
 Obelisaka	Obelisk
 Obelisci	Obelisks
 Obeliscima	Obelisks
@@ -136468,15 +135080,10 @@ OBEX	OBEX
 OBEXAgent	OBEXAgent
 Obfuscate	Obfuscate
 običan	ordinary
-obična	ordinary
-obični	ordinary
-obično	usually
 običnog	ordinary
 običnom	ordinary
 Obilježavanje	Marking
 Obilježi	Mark
-obilježja	characteristics
-obitelj	family
 obitelji	families
 obiteljska	family
 obiteljske	family
@@ -136486,10 +135093,6 @@ Obiteljskoj	Family
 Obiteljskom	Family
 Obiteljsku	Family
 objava	publication
-objave	announcements
-Objavi	Publish
-objavio	published
-objavite	publish
 objaviti	to publish
 objavljen	published
 objavljeni	published
@@ -136499,7 +135102,6 @@ objavljivača	publisher
 objavljivači	publishers
 objavljivanja	publishing
 objavljivanje	publication
-objavljujemo	we publish
 objavu	publication
 ObjC	ObjC
 Object	Object
@@ -136517,23 +135119,16 @@ objektivu	lens
 objektu	facility
 obješeno	hung
 ObjSign	ObjSign
-oblaci	clouds
 oblačno	cloudy
-oblak	cloud
-oblaka	clouds
-oblaku	cloud
 oblast	authority
 oblici	shapes
 oblik	shape
-oblika	shape
 oblike	shapes
-oblikovani	shaped
 oblikovanih	designed
 obliku	form
 Oblique	Oblique
 obliveno	flooded
 obližnja	nearby
-obližnje	nearby
 obližnjem	nearby
 obližnjih	nearby
 obližnjim	nearby
@@ -136541,7 +135136,6 @@ oblizuje	licks
 oblizujem	I lick
 oblutak	pebble
 oblutci	pebbles
-obnavlja	renews
 obnavljaju	are renewing
 obnavljajuća	restorative
 obnavljanja	renewal
@@ -136549,9 +135143,6 @@ obnavljanje	renewal
 Obnavljanjem	Renewals
 obnavljate	you are renewing
 obnova	renovation
-obnove	renovations
-Obnovi	Restore
-obnovila	renewed
 obnovili	renewed
 Obnovite	Restore
 obnoviti	to restore
@@ -136563,10 +135154,8 @@ Obnovljeno	Restored
 obnovljenom	renewed
 Obnovljiva	Renewable
 Obnovljivi	Renewable
-obnovu	renovation
 Obod	Perimeter
 obojane	painted
-oboje	both
 Obon	Subscription
 Oborina	Precipitation
 Oborinama	Precipitation
@@ -136619,10 +135208,8 @@ Obrni	Turn
 obrnut	inverted
 obrnuta	inverted
 obrnuti	to turn
-obrnuto	vice versa
 obrnutoj	inverted
 obrnutom	inverted
-obrok	meal
 Obronak	Slopes
 obrtanja	rotations
 Obrtanje	Rotation
@@ -136633,7 +135220,6 @@ Obrubljeno	Bordered
 obrubom	border
 obrvama	eyebrows
 obrvom	eyebrow
-Obuće	Footwear
 Obući	To wear
 Obućom	I wear shoes.
 obuhvaćaju	they encompass
@@ -136648,13 +135234,10 @@ Obveza	Commitment
 obveze	obligations
 obvezno	mandatory
 obvezujete	you oblige
-obzirom	considering
 OC	OC
-oca	father
 očajava	despair
 Očala	Glasses
 Očalama	Glasses
-Ocat	Vinegar
 Ocata	Father
 Oceana	Ocean
 Oceane	Oceans
@@ -136671,25 +135254,15 @@ očekivanim	expected
 očekivanog	expected
 očekivanoj	expected
 očekivanom	expected
-očekivao	expected
-očekuje	expects
-očekujete	you expect
-ocem	father
-očeva	father's
 Ochi	Eyes
-oči	eyes
 Ocijeni	Rate
 Ocijenjeno	Rated
 očima	stepfather
-očisti	clean
-očistili	cleaned
-očistio	cleaned
 očistiti	to clean
 očitana	accused
 očitati	to reproach
 očitavanja	readings
 očite	obvious
-očito	obviously
 ocjena	rating
 ocjene	ratings
 ocjenjivanje	assessment
@@ -136703,13 +135276,11 @@ octetString	octetString
 Octi	Eight
 Octima	Octima
 octUKMs	octUKMs
-Očuvaj	Preserve
 očuvanja	conservation
 očuvanje	conservation
 od	from
 odab	odeb
 odabere	chooses
-odaberete	you choose
 odaberi	choose
 odaberite	select
 odabira	selection
@@ -136720,7 +135291,6 @@ odabirete	you choose
 odabirom	by choice
 odabiru	selection
 odabirući	choosing
-odabran	selected
 odabrana	selected
 odabrane	selected
 odabrani	selected
@@ -136730,32 +135300,25 @@ odabranog	selected
 odabranoj	selected
 odabranom	chosen
 odabranu	selected
-odabrao	chosen
 odabrati	to choose
 odaja	room
 odakle	from where
 odašiljača	transmitter
 odašiljanje	transmission
 Odaslana	Sent
-odavde	from here
 odbačen	rejected
 Odbačene	Rejected
 odbačeni	rejected
 odbaci	discard
-Odbacite	Discard
 odbaciti	to reject
 odbacivanje	rejection
-odbij	bounce
 odbija	rejects
 odbijanje	rejection
-odbijen	rejected
 odbijena	rejected
 Odbijeni	Rejected
-odbijeno	rejected
 odbila	rejected
 odbili	rejected
 odbilo	rejected
-odbio	refused
 odbiti	to reject
 Odblokiraj	Unblock
 odblokirala	unblocked
@@ -136769,7 +135332,6 @@ odgode	delays
 Odgođen	Postponed
 odgođena	postponed
 odgođeno	postponed
-odgodi	postpone
 odgodu	postponement
 odgovaraju	they correspond
 odgovarajućeg	appropriate
@@ -136778,26 +135340,16 @@ odgovarajućim	appropriate
 odgovarajućoj	appropriate
 odgovarala	corresponded
 odgovaranje	answering
-odgovor	answer
-odgovora	answers
-odgovore	answers
 odgovorena	answered
 odgovoreno	answered
 odgovorenog	answered
-odgovori	answer
-odgovorila	answered
-odgovorio	answered
 odgovorit	to answer
-odgovorite	answer
 odgovoriti	to answer
 odgovornosti	responsibilities
 odgovorom	answer
 Odia	Odia
 odigrano	played
-odijela	suits
 odijelima	suits
-odijelo	suit
-odijelu	suit
 odijevanja	clothing
 odite	leave
 odjava	check-out
@@ -136816,12 +135368,7 @@ odjavom	check-out
 odjavu	check out
 odjeća	clothes
 Odjećama	Clothes
-Odjeće	Clothes
-Odjeći	Clothes
 Odjećom	By clothes
-Odjeću	Clothes
-odjednom	at once
-odjeka	echo
 Odjeljaka	Sections
 odjeljci	sections
 odjeljcima	sections
@@ -136836,7 +135383,6 @@ Odjevnom	Clothing
 odlagač	dumper
 Odlaganje	Disposal
 odlasci	departures
-odlaska	departure
 odlazaka	departure
 odlazi	leave
 odlazna	outgoing
@@ -136846,7 +135392,6 @@ odlaznih	outgoing
 Odlazno	Outgoing
 odlaznog	outgoing
 odlaznu	outgoing
-odlično	excellent
 Odlijepi	Peel off
 odljepljivanja	peeling
 odlomak	excerpt
@@ -136854,14 +135399,8 @@ odlomke	excerpts
 Odložena	Postponed
 odložite	put it down
 Odložni	Postponed
-Odluči	Decide
-odlučio	decided
 odlučite	decide
-odlučiti	decide
-odlučno	decisively
 odluke	decisions
-odluku	decision
-odlutao	wandered
 odmakne	moves away
 odmaknite	move away
 odmarati	to rest
@@ -136878,10 +135417,6 @@ odmotaj	unwind
 odmrzavanja	defrosting
 odno	good
 odnosi	relationships
-odnositi	to relate
-odnosu	relationship
-odobrava	approves
-odobravaju	approve
 odobravanja	approvals
 odobravanje	approval
 odobren	approved
@@ -136889,27 +135424,18 @@ Odobreno	Approved
 odobrenog	approved
 odobrenom	approved
 odobrili	approved
-odobrio	approved
 odobrite	approve
-odobriti	approve
 odojci	sucklings
 odrasla	adult
 Odrastanje	Growing up
 Odražava	Reflects
 odrazi	reflections
-odredbama	provisions
 odredbe	orders
 odredbi	orders
 određen	determined
-određena	certain
-određene	certain
-određeni	certain
 određenih	certain
-određeno	certain
 određenoj	certain
 određenom	certain
-određenu	certain
-Odredi	Detachments
 odredilo	ordered
 odredio	ordered
 odredišna	destination
@@ -136921,7 +135447,6 @@ odredišnu	destination
 odredišta	destinations
 odredištem	destination
 odredištima	destinations
-odredištu	destination
 odredite	order
 odrediti	to order
 odrednice	directions
@@ -136930,7 +135455,6 @@ odresci	steaks
 Odrescima	Steaks
 odreske	steaks
 Odrezaka	Steaks
-odrezana	cut off
 odrezane	cut off
 odrezani	cut off
 odrezanim	cut off
@@ -136938,7 +135462,6 @@ Odreži	Cut off
 odrezivanja	cutting off
 odrezivanje	cutting off
 Odricanje	Disclaimer
-održali	held
 održati	to maintain
 održavajte	maintain
 održavaju	maintain
@@ -136946,9 +135469,6 @@ održavanjem	maintenance
 održavat	to maintain
 održiva	sustainable
 održivo	sustainable
-odsad	from now on
-odsada	henceforth
-Odsjaj	Reflection
 odsjaje	reflections
 Odskoči	Bounce
 ODSM	ODSM
@@ -136968,13 +135488,11 @@ odspojio	disconnected
 odspojit	disconnect
 odspojite	disconnect
 odspojiti	disconnect
-odsutan	absent
 odu	go away
 oduševljen	delighted
 oduševljenja	delights
 odustajanja	giving up
 odustajanje	giving up
-odustali	gave up
 odustalo	canceled
 odustanete	you give up
 odustani	cancel
@@ -136991,7 +135509,6 @@ odvajanja	discharge
 Odvajanjem	Draining
 odvajanjima	discharges
 odvažno	courageously
-odvezati	untie
 odveži	untie
 odvezivanja	untying
 odvezivanje	untying
@@ -137007,7 +135524,6 @@ Odvjetnički	Lawyer
 odvojen	separated
 odvojeni	separated
 odvojenih	separated
-odvojeno	separately
 odvojenoj	separate
 odvojiti	to separate
 odvučena	dragged away
@@ -137038,9 +135554,7 @@ oglasi	ads
 Ogledala	Mirrors
 Ogledalima	Mirrors
 ogr	monster
-ograda	fence
 ogradama	fences
-Ograde	Fences
 ograđeni	fenced
 ograđenog	fenced
 Ogradica	Fence
@@ -137055,7 +135569,6 @@ ograničenja	limitations
 ograničenjem	restriction
 Ograničenjima	Limitations
 ograničenju	limitation
-ograničeno	limited
 ograničenog	limited
 ograničenom	limited
 ograničenu	limited
@@ -137079,12 +135592,10 @@ ok	okay
 oka	eye
 Oki	Ok
 okidača	trigger
-oklijeva	hesitates
 oklijevanje	hesitation
 oklopa	armor
 oko	eye
 okoline	surroundings
-Okolo	Around
 okom	eye
 okomica	vertical
 okomite	vertical
@@ -137094,14 +135605,9 @@ okomitim	vertical
 okomitoj	vertical
 okomitom	vertical
 Okova	Fittings
-Okove	Shackles
 Okovi	Shackles
-Okovima	Shackles
-okreće	turns
-Okreni	Turn
 okrenuta	turned
 okrenute	turned
-okrenuti	turn
 okrenutim	turned
 okrenuto	turned
 okretanja	turning
@@ -137115,7 +135621,6 @@ Okruglih	Round
 Okruglim	Round
 okruglog	round
 okruglom	round
-okružen	surrounded
 okruženja	environments
 okruženjem	environment
 oksfordica	oxford
@@ -137126,7 +135631,6 @@ Oktoberfest	Oktoberfest
 okućnicom	garden
 okupati	to bathe
 Okupljalište	Gathering place
-okupljanja	gatherings
 okupljanje	gathering
 okvir	frame
 okvira	framework
@@ -137136,7 +135640,6 @@ okvirima	frames
 Ol	Oil
 Olabavi	Loosen up
 olakšanja	relief
-olakšanje	relief
 olakšanjem	relief
 OLIADPCM	OLIADPCM
 OLICELP	OLICELP
@@ -137147,16 +135650,11 @@ Oliver	Oliver
 olovke	pencils
 olovkom	with a pencil
 olovku	pencil
-oluja	storm
 olujama	storms
 olujan	stormy
-oluje	storms
 oluji	storms
 olujna	stormy
-olujni	stormy
-olujno	stormy
 olujom	storm
-oluju	storm
 Olympus	Olympus
 om	oh
 oma	oh
@@ -137199,12 +135697,10 @@ omogućeni	enabled
 omogućenih	enabled
 omogućenim	enabled
 omogućeno	enabled
-omogući	enable
 omogućila	enabled
 omogućile	enabled
 omogućili	enabled
 omogućilo	enabled
-omogućio	enabled
 omogućite	enable
 omogućivanje	enabling
 Omogućivanjem	Enabling
@@ -137212,7 +135708,6 @@ omogućujući	enabling
 omot	cover
 Omotaj	Wrap
 omotanih	wrapped
-omotano	wrapped
 omoti	wrap
 omotnicama	envelopes
 omotnice	envelopes
@@ -137225,7 +135720,6 @@ ona	she
 onaj	that one
 onakvog	such
 onb	onb
-onda	then
 OnDemand	OnDemand
 one	those
 onemogućava	disables
@@ -137248,14 +135742,12 @@ OneTab	OneTab
 OneTouch	OneTouch
 OneToucha	OneTouch
 OnHand	OnHand
-oni	they
 onigiri	onigiri
 onim	that
 online	online
 only	only
 OnlyIfAdmin	OnlyIfAdmin
 ono	that
-onog	that one
 onoliko	as much as
 onom	to that one
 onoo	that
@@ -137267,7 +135759,6 @@ opadanja	decline
 opadanje	decline
 opasnot	danger
 OPC	OPC
-Opće	General
 općeg	general
 općenita	general
 općenite	general
@@ -137310,26 +135801,20 @@ operativnog	operational
 operatora	operator
 operatori	operators
 operatorom	operators
-opet	again
 opisa	description
 opise	descriptions
 opisi	descriptions
 Opiši	Describe
 Opišite	Describe
 opisnika	descriptor
-opisujući	describing
 oporavka	recovery
 Oporavlja	Recovering
 opoziva	recall
 opozvan	revoked
 OPR	OPR
 Opremama	Equipment
-opremi	equipment
-opremljen	equipped
 opremom	equipment
 oprez	caution
-oprezu	caution
-Oprosti	Sorry
 Oprostite	Excuse me.
 Opršnjaci	Breasts
 Opršnjacima	Herpes
@@ -137347,7 +135832,6 @@ Opswat	Opswat
 optat	optat
 Optelec	Optelec
 opterećenja	loads
-opterećenje	load
 Optička	Optician
 optičkih	optical
 optičkim	optical
@@ -137376,7 +135860,6 @@ or	or
 Oracle	Oracle
 oraha	walnut
 orahe	walnuts
-orao	eagle
 Orašaste	Nutty
 orašasti	nutty
 Orašastih	Nutty
@@ -137430,7 +135913,6 @@ Orkestri	Orchestras
 Orkestrima	Orchestras
 Orlova	Eagle
 Orlove	Eagles
-orlovi	eagles
 Orlovima	Eagles
 Ormar	Wardrobe
 Ormara	Wardrobe
@@ -137454,7 +135936,6 @@ ortografija	orthography
 ortografije	orthographies
 ortografiju	orthography
 oružja	weapons
-oružje	weapon
 oružjima	weapons
 os	axis
 OS X	OS X
@@ -137462,8 +135943,6 @@ OS X Yosemite	OS X Yosemite
 osa	wasp
 Osaka	Osaka
 OSAKit	OSA Kit
-osam	eight
-osamnaest	eighteen
 ošamućen	dazed
 Oscar	Oscar
 Oscilator	Oscillator
@@ -137473,27 +135952,22 @@ osi	axes
 osiguraj	insure
 osigurane	insured
 osiguranja	insurance
-osigurano	insured
 osiguravanja	insurance
 osiguravanje	insurance
 osiguravanju	securing
-osjećaj	feeling
 osjećajan	sensitive
 osjećaje	feelings
 osjećajem	I feel
-osjećam	I feel
 osjećati	to feel
 osjenčanih	shaded
 Osjenčano	Shaded
 osjenčavanja	shading
 osjetljiva	sensitive
-osjetljive	sensitive
 osjetljivo	sensitive
 osjetljivosti	sensitivity
 Oskar	Oscar
 oskudna	scarce
 oskudne	scarce
-oskudnih	scarce
 oskudno	scarce
 oskudnog	scarce
 oslabljene	weakened
@@ -137501,11 +135975,8 @@ oslabljeni	weakened
 Oslo	Oslo
 oslobađanja	liberation
 oslobađanje	liberation
-oslobođenja	liberation
-oslobodili	liberated
 oslobodite	free
 osloboditi	to free
-Osma	Eighth
 Osmanya	Osmanya
 osmerokraka	eight-legged
 osmerokutni	octagonal
@@ -137530,43 +136001,28 @@ osobne	personal
 osobni	personal
 osobnih	personal
 osobnim	personal
-osobno	personally
-osobnog	personal
 osobnom	personal
 osobom	person
-osobu	person
 osovine	axles
 Ospojen	Intoxicated
 OSS	OSS
 OSStatus	OSStatus
-ostaje	remains
 ostaju	they stay
-Ostala	Other
-ostale	others
 Ostale mrežne	Other networks
 ostalih	the others
-ostalima	to others
-ostalo	other
-Ostani	Stay
 ostao	left
-oštar	sharp
 ostat	remain
 ostatak	remainder
 ostati	to stay
 Ostave	Pantries
-Ostavi	Leave
 ostavit	to leave
 ostaviti	to leave
-ostavljaju	they leave
 ostavljajući	leaving
-ostavljena	abandoned
 ostavljene	abandoned
 oštećenim	damaged
 oštećeno	damaged
 oštetiti	to damage
-oštrica	blade
 Oštricama	Blades
-Oštrice	Blades
 oštrije	sharper
 oštriji	sharper
 oštrine	sharpness
@@ -137594,7 +136050,6 @@ osvježiti	to refresh
 osvrta	review
 Osvrti	Reviews
 OSX	OSX
-otac	father
 Otani	Otani
 Otapalima	Otapalima
 Otapalom	Solvent
@@ -137641,27 +136096,19 @@ otključavaju	unlocking
 otključavanja	unlocking
 otključavanje	unlocking
 otklona	deflection
-otkloni	remove
 otkr	discovered
 Otkrijte	Discover
 otkriti	to discover
-otkriva	reveals
-otkrivajući	revealing
 otkrivanja	discoveries
 otkrivanje	discovery
 otkrivanjem	by discovery
-otkriven	discovered
-otkrivena	discovered
 otkriveni	discovered
 Otkriveno	Revealed
 otkucaji	heartbeat
 otmjena	classy
 otmjeni	classy
-otoci	islands
 Otocima	Islands
 otočja	archipelago
-otok	island
-otoka	island
 Otoke	Islands
 Otomana	Ottoman
 Otomane	Ottomans
@@ -137671,7 +136118,6 @@ Otomanom	Ottomans
 Otomanu	Ottoman
 Otopiv	Dissolved
 Otoya	Otoya
-otpadnu	waste
 otpali	fell off
 otpalo	dropped
 otpatke	waste
@@ -137679,17 +136125,12 @@ otpuštanja	layoffs
 otpuštanje	dismissal
 otpuštena	fired
 otpušteni	dismissed
-otpusti	dismiss
 otpustili	dismissed
-otpustite	release
 otpustiti	to dismiss
 otraga	back
 otrov	poison
-otrovno	poisonous
 Ottawa	Ottawa
-otvara	opens
 otvaraj	open
-otvaraju	they open
 otvarajuća	opening
 otvarajuće	opening
 otvarali	opened
@@ -137701,21 +136142,10 @@ otvarate	you open
 otvarati	to open
 otvor	opening
 otvora	openings
-otvoren	open
-otvorena	open
-otvorene	open
 otvorenih	open
 otvorenim	open
 otvoreno	openly
-otvorenoj	open
 otvorenom	open
-otvorenu	open
-otvorila	opened
-otvorili	opened
-otvorio	opened
-otvorit	open
-otvorite	open
-otvoriti	open
 ou	oh
 Oufuku	Oufuku
 Ougadougou	Ouagadougou
@@ -137725,12 +136155,8 @@ OutputRequest	OutputRequest
 Outs	Outs
 ova	this one
 ovaj	this one
-ovako	like this
 ovakvih	like this
-ovamo	here
 ovan	ram
-ovca	sheep
-Ovcama	Sheep
 ovčara	sheepdog
 ovčare	sheepfolds
 Ovčarem	Sheepdogs
@@ -137738,8 +136164,6 @@ ovčari	shepherds
 ovčarima	shepherds
 ovčarom	shepherd
 ovčaru	shepherd
-Ovce	Sheep
-Ovci	Sheep
 ovčicama	sheep
 ovčice	lambs
 ovčicom	sheep
@@ -137764,18 +136188,13 @@ ovjeriti	to verify
 ovjeru	verification
 ovlašten	authorized
 ovlaštena	authorized
-ovlašteni	authorized
 ovlaštenja	authorizations
 ovlaštenjem	authorization
 ovlasti	powers
 ovlastili	authorized
 ovlastima	powers
 ovlastiti	to authorize
-ovnovi	rams
-ovo	this
-ovoga	this one
 ovoj	envelope
-ovoliko	this much
 ovratnikom	collar
 ovu	this
 oz	or
@@ -137835,9 +136254,6 @@ padding	padding
 padežu	case
 padilicious	padilicious
 padinama	slopes
-padinu	slope
-padne	falls
-padnu	fall
 Padobranstava	Parachuting
 Padobranstva	Parachuting
 Padobranstvima	Parachuting
@@ -137882,8 +136298,6 @@ pakovi	pucks
 pakovima	packs
 paku	paku
 PAL	PAL
-Palača	Palace
-Palače	Palaces
 Palačinaka	Pancake
 Palačinkama	Pancakes
 palačinke	pancakes
@@ -137913,12 +136327,9 @@ Palmer	Palmer
 Palmi	Palm trees
 palmino	palm tree
 Palmirski	Palmyra
-pamet	mind
-pametan	smart
 pametna	smart
 pametne	smart
 pametni	smart
-Pametnim	Smart
 pametnog	smart
 pametnom	smart
 pametnu	smart
@@ -138101,10 +136512,7 @@ Paščim	I am tired.
 pasirana	mashed
 pasivni	passive
 paskala	pascal
-Pašnjaci	Pastures
-Pašnjacima	Pastures
 Pašnjaka	Pasture
-Pašnjake	Pastures
 pass	pass
 passcode	password
 passes	passes
@@ -138199,7 +136607,6 @@ Pčelarstva	Beekeeping
 Pčelarstvima	Beekeeping
 Pčelarstvom	Beekeeping
 Pčelarstvu	Beekeeping
-pčele	bees
 PCFileName	PCFileName
 PCI	PCI
 PCIe	PCIe
@@ -138221,7 +136628,6 @@ pebibajt	pebibyte
 pebibajta	pebibyte
 pečat	seal
 pečata	seals
-pečate	seals
 pečati	seals
 pečatima	seals
 pečeni	baked
@@ -138247,7 +136653,6 @@ Peking	Beijing
 pekmezom	jam
 pelati	to peel
 Pelenama	Diapers
-Pelene	Diapers
 Pelikana	Pelican
 Pelikane	Pelicans
 Pelikani	Pelicans
@@ -138332,9 +136737,7 @@ pet	five
 Peta	Heel
 petabajt	petabyte
 petabajta	petabyte
-petak	Friday
 petama	heels
-Petar	Peter
 Petarda	Firecracker
 Petardama	Firecrackers
 Petarde	Firecrackers
@@ -138348,14 +136751,12 @@ petkom	Fridays
 petlje	loops
 petlji	loops
 petlju	loop
-petnaest	fifteen
 petom	fifth
 Petra	Peter
 Petrove	Petrova
 PETROVIĆ	PETROVIĆ
 Petrovih	Petrovich
 Petrovim	Petrovim
-petu	fifth
 Petunijama	Petunias
 Petunije	Petunias
 pfff	pfff
@@ -138377,26 +136778,20 @@ PHY	PHY
 phyNumber	phyNumber
 PiB	P&B
 pica	pizza
-pića	drinks
-piće	drink
 pićem	drink
-pićima	drinks
 Pickup	Pickup
 PICMG	PICMG
 pict	picture
 pictwpstops	pictwpstops
-piću	I will drink
 pid	pid
 PIF	PIF
 Piggyback	Piggyback
 pijanina	drunkenness
-pijavica	leech
 pijavice	leeches
 pijenje	drinking
 pijesak	sand
 Pijesci	Sands
 Pijescima	To the sands
-pijeska	sand
 Pijeske	Sands
 pijeskom	sand
 pijetao	rooster
@@ -138404,7 +136799,6 @@ pijetla	roosters
 pijetlovi	roosters
 pijevac	rooster
 pijevci	roosters
-pijmo	let's drink
 pijuci	drinking
 pik	dot
 Pikada	Darts
@@ -138485,19 +136879,14 @@ pisačN	writer
 pisaču	writer
 pisana	colorful
 pisane	colorful
-pisanja	writing
 pisano	colorful
 pisanom	colorful
 pisanu	painted
 pisati	to write
 pisca	writer
-piše	writes
 pišete	you write
 piši	write
-pisma	letters
 pismenosti	literacy
-pismo	letter
-pismu	letter
 pisno	in writing
 Pista	Runway
 Pistacijama	Pistachios
@@ -138515,12 +136904,9 @@ Pistom	To the letter
 Pistu	The runway
 pita	pie
 pitaj	ask
-pitajte	ask
 Pitama	Pies
-pitanja	questions
 pitanje	fattening
 pitanjem	fattening
-pitanju	question
 pitati	to ask
 Pitbul	Pitbull
 Pitbula	Pitbull
@@ -138549,7 +136935,6 @@ pivskim	beer
 Pixlet	Pixlet
 pizzama	pizzas
 pizze	pizzas
-pjeni	foam
 pjenušava	sparkling
 Pjenušavim	Sparkling
 Pjenušavo	Sparkling
@@ -138560,7 +136945,6 @@ Pješačkih	Pedestrian
 Pješačkim	Pedestrian
 pješake	pedestrians
 pješakinje	pedestrians
-pjesama	songs
 Pješčana	Sandy
 Pješčane	Sandy
 pješčani	sandy
@@ -138574,14 +136958,9 @@ Pješčanim	Sandy
 Pješčanoj	Sandy
 Pješčanom	Sandy
 Pješčanu	Sand
-pješice	on foot
 pjesma	poem
-pjesmama	songs
-pjesme	songs
-pjesmu	song
 Pjevača	Singer
 Pjevače	Singers
-Pjevači	Singers
 Pjevačima	To the singers
 pjevačkog	singing
 pjevati	to sing
@@ -138596,14 +136975,10 @@ pkn	pkn
 PKZip	PKZip
 PL	PL
 PLA	PLA
-plač	salary
-plaća	salary
 plaćanja	payments
 plaćanje	payment
 plaćanju	payment
-plaćate	you pay
 place	salary
-plače	salaries
 placeholder	placeholder
 plaćeno	paid
 plačljivci	payers
@@ -138614,7 +136989,6 @@ Pladnjevi	Trays
 Pladnjevima	Trays
 Plain	Plain
 plakanje	crying
-Plakat	Poster
 Plakata	Posters
 Plakate	Posters
 plakati	to cry
@@ -138633,7 +137007,6 @@ Plamenom	Flame
 Plamenova	Flame's
 Plamenovi	Flames
 Plamenovima	Flames
-plamenu	flame
 Planar	Planar
 Plane	Planes
 planer	planner
@@ -138644,8 +137017,6 @@ Planetariji	Planetariums
 Planetarijima	Planetariums
 Planinama	To the mountains
 planinarenje	mountaineering
-planine	mountains
-planini	mountain
 planinska	mountaineering
 planu	plan
 plaši	scare
@@ -138655,7 +137026,6 @@ Plašt	Coat
 Plašteva	Cloaks
 Plašteve	Coats
 Plaštevi	Coats
-Plaštevima	Cloaks
 platan	plane tree
 platane	plane trees
 platani	plane trees
@@ -138664,7 +137034,6 @@ platforme	platforms
 Plati	Pay
 platinum	platinum
 Platite	Pay
-platna	canvases
 platne	canvases
 platnom	canvas
 plava	blue
@@ -138706,19 +137075,16 @@ plesačice	dancers
 Plesanja	Dancing
 plesanje	dancing
 Plesanjima	Dancing
-pleše	dancing
 Plesna	Dance
 Plesne	Dance
 Plesnih	Dance
 Plesnim	I dance
 Plesnoj	Dance
 Plesnom	Dance
-Plesom	Dance
 plesova	dances
 plesove	dances
 plesovi	dances
 plesovima	dances
-Plesu	Dance
 plešu	they dance
 Pletena	Knitted
 Pletene	Knitted
@@ -138739,14 +137105,11 @@ plivačice	swimmers
 Plivanja	Swimming
 Plivanjima	Swimming
 plivati	to swim
-plješću	I applaud.
 pljeskanje	clapping
 pljusak	shower
 Pljuskom	With a splash
 pljuskovi	showers
-Pljuskovima	Showers
 ploča	plate
-pločama	plates
 ploče	plates
 ploči	plate
 pločicama	tiles
@@ -138757,15 +137120,10 @@ Pločnike	Sidewalks
 pločom	plate
 ploču	plate
 plod	fetus
-plodova	fruits
-plodove	fruits
-plodovi	fruits
-plodovima	fruits
 ploha	shower
 plošna	flat
 Plošno	Flat
 plovidba	sailing
-plovila	vessels
 PLS	PLS
 plug	plow
 plugin	plugin
@@ -138794,14 +137152,10 @@ png	png
 PnP	PnP
 pobijede	they will beat
 Pobijeđen	Defeated
-pobijedili	won
-pobijedio	won
 pobijedite	win
 pobjeć	escape
 pobjeći	to escape
 pobjeda	victory
-pobjede	victories
-pobjedu	victory
 poboljša	improve
 Poboljšajte	Improve
 poboljšala	improved
@@ -138820,17 +137174,14 @@ Poboljšavanje	Improvement
 počeli	did
 počelo	beginning
 početi	to do
-početka	beginning
 početna	home
 početne	initial
 početnih	initial
-početnik	beginner
 početnika	beginner
 početnog	initial
 početnoj	initial
 početnom	initial
 početnu	home page
-počinjati	to begin
 Počinjete	You are starting
 počinju	they begin
 Počni	Start
@@ -138889,42 +137240,29 @@ Podesivi	Adjustable
 podgrafikon	subgraph
 podi	floors
 podići	to lift
-podigao	raised
 podigla	lifted
-podigli	raised
-podigni	lift
-podignut	raised
 podignuta	raised
 podignute	raised
 podignutim	raised
 podignuto	raised
 podignutoj	raised
 podignutom	raised
-podijeli	share
 podijelile	divided
-podijelili	divided
 podijelio	shared
 podijelit	to divide
-podijelite	share
 podijeliti	to divide
-podijeljen	divided
 podijeljena	divided
 podijeljeni	divided
-podijeljenih	divided
-podijeljeno	divided
 podijeljenom	divided
 podijeljenu	divided
 podizajući	lifting
 podizanja	lifting
-podizanje	lifting
 podizanjem	lifting
 podizanju	lifting
 podizbornik	submenu
 podizbornika	submenu
-podiže	raises
 podjedinica	subunit
 podjedinice	subunits
-podjednako	equally
 podjele	distribution
 podklasa	subclass
 podliježe	subject to
@@ -138951,25 +137289,18 @@ podmreže	subnets
 podmreži	subnets
 podmrežu	subnet
 podmukao	insidious
-podne	noon
 podnevnom	daytime
-podnijeli	submitted
 podnožja	pedestals
 podnožje	base
 podnožju	footer
 pododjeljka	subsection
 podpopis	sub-inventory
 podpopisa	sub-list
-Podređeni	Subordinate
-podređeno	subordinate
-podređenom	subordinate
 Podrhtavanje	Tremor
 podršci	support
-podrška	support
 podrške	support
 podrški	support
 podrškom	support
-područja	areas
 područje	area
 područjem	area
 područjima	areas
@@ -139606,7 +137937,6 @@ Potočarke	Watercress
 Potočarki	Watercress
 Potoci	Streams
 Potocima	By the streams
-Potoka	Stream
 Potoke	Streams
 Potokom	By the stream
 Potoku	Stream
@@ -139633,72 +137963,48 @@ potpisključa	signature key
 potpisni	signature
 potpisnika	signatory
 potpisnog	signature
-potpisom	by signature
 potpisuje	signs
 potpodručje	subarea
 potpune	complete
-potpuni	complete
 potpunog	complete
-potpunom	complete
-potpunosti	completely
-potpunu	complete
-potrajati	to last
-potraže	search
-potraži	search
 potražite	search
 potražiti	to search
 potraživanje	claim
 potreban	necessary
-potrebni	necessary
 potrebnih	necessary
-potrebnim	necessary
 potrebnog	necessary
 potrebnom	necessary
 potrebnu	necessary
 potrepštine	necessities
-potres	earthquake
 potrgan	torn
 potrgano	torn
 potrošen	spent
 potrošeni	spent
 Potrošeno	Spent
-potrošio	spent
 potrošnji	consumption
-potvrda	confirmation
 Potvrdama	Confirmations
 potvrde	confirmations
-potvrđen	confirmed
 potvrđena	confirmed
 potvrđeni	confirmed
 potvrđeno	confirmed
-potvrdi	confirm
 potvrdit	confirm
-potvrditi	confirm
 potvrđivanja	confirmations
 potvrđivanje	confirmation
 potvrdna	affirmative
 potvrdni	confirmatory
 potvrdnu	confirmation
-potvrđuje	confirms
 potvrđujete	you confirm
 pouzdana	reliable
-pouzdane	reliable
 Pouzdani	Reliable
 pouzdanih	reliable
-pouzdanim	reliable
-pouzdano	reliably
 pouzdanošću	reliability
-pouzdanost	reliability
 pouzdanosti	reliability
-pouzdanu	reliable
-pouzdati	to trust
 povećaj	increase
 povećajte	increase
 povećala	magnifying glass
 povećali	increased
 Povećalima	Magnifying glass
 Povećan	Enlarged
-povećati	increase
 povećavajuće	increasing
 povećavanje	increase
 Povećavanjem	By increasing
@@ -139706,7 +138012,6 @@ Povez	Link
 Poveza	Link
 povezane	related
 povezanim	connected
-povezano	related
 povezanog	related
 povezanosti	connections
 povezanu	connected
@@ -139714,7 +138019,6 @@ Poveze	Links
 Povezi	Connect
 poveži	connect
 Povezima	Links
-Povežite	Connect
 povezivanje	connection
 povezivanju	connecting
 povezivost	connectivity
@@ -139727,7 +138031,6 @@ povijesna	historical
 Povijesne	Historical
 povijesti	history
 povišena	elevated
-povjerenja	trust
 povjerenje	trust
 Povjeri	Trust
 povjerljive	confidential
@@ -139749,7 +138052,6 @@ povraćanje	vomiting
 povraćati	to vomit
 povraćeno	refunded
 povrata	return
-povratak	return
 povratiti	to vomit
 povratna	return
 povratne	return
@@ -139757,8 +138059,6 @@ povratnog	return
 povratnom	returnable
 povratnu	return
 povratom	return
-Povrća	Vegetables
-povrće	vegetables
 povrćem	vegetables
 Povreda	Injury
 povrede	injuries
@@ -139769,7 +138069,6 @@ površinom	surface
 povučen	withdrawn
 povučena	withdrawn
 povučenih	withdrawn
-Povučeno	Withdrawn
 povuci	pull
 povući	to pull
 POW	POW
@@ -139792,11 +138091,6 @@ požare	fires
 požari	fires
 požarima	fires
 Požarom	Fire
-Požaru	Fire
-pozdrav	greeting
-pozdrava	greetings
-pozdrave	greetings
-pozdravi	greetings
 pozdravljaju	greet
 pozdravljanje	greeting
 Pozicioniraj	Position
@@ -140657,13 +138951,10 @@ Prisvajanje	Appropriation
 pritisaka	pressure
 Pritišće	Pressing
 pritišćete	you are pressing
-pritiska	pressure
 pritiskanja	pressing
 pritiskanje	pressing
 pritisni	press
 pritisnu	press
-Pritisnuli	Pressed
-pritisnut	pressed
 pritisnute	pressed
 pritisnutima	pressed
 pritisnuto	pressed
@@ -140700,15 +138991,12 @@ privjeske	pendants
 privjeskom	pendant
 privjesku	pendant
 privremen	temporary
-privremena	temporary
 privremene	temporary
 privremeni	temporary
 privremenih	temporary
 privremenim	temporary
 privremenog	temporary
 privremenu	temporary
-prizor	scene
-prizora	scenes
 pro	for
 probajte	try it
 ProbeSSL	ProbeSSL
@@ -140744,7 +139032,6 @@ Pročitani	Read
 pročitanih	read
 pročitanim	read
 pročitano	read
-pročitate	read
 pročitati	to read
 procjeni	estimate
 Procjenjivanje	Assessment
@@ -140755,7 +139042,6 @@ Prodajnih	Sales
 Prodajnim	Sales
 prodan	sold
 prodavač	salesman
-prodavačica	saleswoman
 prodavatelja	seller
 prodavatelju	to the seller
 Producer	Producer
@@ -140835,35 +139121,27 @@ projektu	project
 proklinjanje	cursing
 prolazna	transient
 Prolazni	Transient
-prolaznu	transient
 prolistalo	leafed out
 Proljetna	Spring
 Proljetne	Spring
 Proljetnih	Spring
 Proljetnim	Spring
-promatra	observes
 Promatraj	Observe
 promatranja	observations
 promatrati	to observe
 prometa	traffic
 prometu	traffic
 promijene	changed
-promijeni	change
-promijenila	changed
 promijenile	changed
-promijenilo	changed
-promijenio	changed
 promijenite	change
 promijenjen	changed
 promijenjena	changed
 promijenjene	changed
-promijenjeni	changed
 promijenjenih	changed
 promijenjeno	changed
 promijenjenu	changed
 promijenti	changes
 promil	per mille
-promišljanje	reflection
 promjeni	change
 promjenjiva	changeable
 promjenom	change
@@ -140871,7 +139149,6 @@ promjerom	diameter
 Promote	Promote
 Promoviraj	Promote
 pronaći	to find
-pronađe	find
 pronađen	found
 pronađena	found
 pronađene	found
@@ -140880,18 +139157,12 @@ pronađenih	found
 pronađenim	found
 pronađeno	found
 pronađenu	found
-pronađete	you find
 pronađi	find
-Pronađite	Find
-pronađu	find
 Pronalazak	Invention
 pronalaze	find
 pronalaženje	finding
 pronalaženju	finding
 pronalazi	finds
-pronašao	found
-pronašla	found
-pronašli	found
 pronašlo	found
 Pronto	Pronto
 proofOfApproval	proofOfApproval
@@ -140906,7 +139177,6 @@ PROPERTY	PROPERTY
 PropertyName	PropertyName
 PropertyValue	PropertyValue
 PropertyView	PropertyView
-propisi	regulations
 Proporcinalni	Proportional
 proporcionalna	proportional
 proporcionalne	proportional
@@ -140925,7 +139195,6 @@ ProRes	ProRes
 Prorezati	To slit
 proricanje	divination
 proš	please
-prošao	passed
 proširena	expanded
 proširene	expanded
 prošireni	expanded
@@ -140936,19 +139205,14 @@ proširenog	expanded
 proširenom	expanded
 proširenu	expanded
 proširi	expand
-proširiti	expand
 proširiva	expandable
 proširivi	expandable
 proširuje	expands
 proširujući	expanding
-Prosječna	Average
 prosječnom	average
 prosječnu	average
 Prosl	Last
-prošla	passed
 Proslavama	Celebrations
-Proslave	Celebrations
-Proslavite	Celebrate
 prošle	past
 prošli	past
 proslijeđen	forwarded
@@ -140963,19 +139227,14 @@ proslijeđenu	forwarded
 Proslijedi	Forward
 Proslijedio	Forwarded
 proslijedite	forward
-prošlim	past
 prosljeđivanja	forwarding
 prosljeđivanje	forwarding
 prosljeđuje	forwards
-prošlo	past
 prošlog	last
-prostora	space
 prostorboje	spaceships
 prostore	premises
 prostori	premises
-prostorija	room
 prostorijama	rooms
-prostorima	spaces
 Prostorna	Spacious
 prostorne	spacious
 prostornih	spacious
@@ -140985,10 +139244,8 @@ protected	protected
 protekla	expired
 Protekli	Past
 proteklih	past
-proteklo	elapsed
 proteklog	past
 proteže	stretches
-protiv	against
 protokola	protocol
 Protokolarne	Protocol
 Protokolarni	Protocol
@@ -141014,7 +139271,6 @@ provedena	implemented
 provedeni	implemented
 provedeno	carried out
 Provedi	Implement
-proveo	spent
 provesti	to spend
 provincija	province
 provizoran	provisional
@@ -141040,16 +139296,13 @@ prozirna	transparent
 prozirne	transparent
 prozirnice	transparencies
 prozirnima	transparent
-Prozirno	Transparent
 prozirnog	transparent
 prozirnosti	transparency
-prozor	window
 prozora	window
 prozore	windows
 prozori	windows
 prozorima	windows
 prozorom	window
-prozoru	window
 Prozračno	Breathable
 pršće	rash
 Prskalicama	Sprinklers
@@ -141070,7 +139323,6 @@ prstenjaka	ring finger
 prstenje	ring
 prstenu	ring finger
 prsti	fingers
-prstiju	fingers
 prstima	fingers
 prstom	finger
 Prtljagama	Luggage
@@ -141084,8 +139336,6 @@ prugasti	striped
 prugastog	striped
 pruge	stripes
 prugom	by the railway
-pruža	provides
-pružaju	provide
 pružanja	provision
 pružatelj	provider
 pružateljima	providers
@@ -141095,17 +139345,12 @@ pruženi	extended
 Pruženo	Provided
 pruženog	provided
 pruzi	provide
-Pruži	Give
 pružila	springs
 pružio	stretched
 pružiti	to provide
-prva	first
 Prvenstvo	Championship
-prvih	the first
-prvima	the first ones
 prvog	first
 prvoj	first
-prvom	first
 prvu	first
 pržena	fried
 pržene	fried
@@ -141119,12 +139364,9 @@ psa	dog
 Psalter	Psalter
 PSD	PSD
 pse	dogs
-pšenice	wheat
 psi	dogs
 psića	puppy
-psići	puppies
 Psihodelični	Psychedelic
-psima	dogs
 psjć	dog
 PSK	PSK
 PSN	PSN
@@ -141134,7 +139376,6 @@ PSS	PSS
 Pstopdfilter	Pstopdfilter
 PSVersion	PSVersion
 pt	pt
-ptica	bird
 Pticama	To the birds
 ptičara	birdwatcher
 ptičare	birdwatchers
@@ -141142,8 +139383,6 @@ ptičarem	birdwatchers
 ptičari	birdwatchers
 ptičarima	birdwatchers
 ptičaru	birdwatcher
-ptice	birds
-ptičje	bird
 PTP	PTP
 PTPCamera	PTPCamera
 pua	puss
@@ -141193,13 +139432,8 @@ punjena	stuffed
 punjenja	fillings
 punjenje	filling
 punjenju	charging
-puno	a lot
-punog	full
 punoj	fill
-punoljetnosti	of majority
-punom	full
 Punomoć	Power of attorney
-punu	full
 pura	turkey
 Purchase	Purchase
 PureVoice	PureVoice
@@ -141222,7 +139456,6 @@ Puški	Rifles
 pusom	kiss
 pusti	leave
 pustinjaka	hermit
-pustinje	deserts
 pustinjska	desert
 pustiti	to let
 pusu	pussy
@@ -141232,8 +139465,6 @@ putanja	trajectory
 putanji	paths
 putanju	path
 putem	by the way
-Puteve	Roads
-Putevi	Roads
 putna	travel
 Putne	Travel
 putni	travel
@@ -141243,14 +139474,11 @@ Putnoj	Travel
 Putnom	Travel
 Putnu	Putnu
 putovanja	travel
-putovanje	travel
-putovanju	travel
 putovi	paths
 Putovnicama	Passports
 Putovnice	Passports
 puts	puts
 putu	road
-puž	snail
 puževa	snails
 puževe	snails
 puževi	snails
@@ -141356,7 +139584,6 @@ računalnog	computer
 računalnom	computer
 računalom	calculator
 računalu	computer
-račune	invoices
 računi	bills
 računima	accounts
 računom	account
@@ -141368,28 +139595,22 @@ Račvi	Forks
 rad	love
 rada	love
 radara	radar
-rađati	to give birth
 rade	they like
 Radeon	Radeon
 radi	like
 Radijalni	Radial
 radijanima	radians
-radije	rather
 radijusa	radius
 radijusu	radius
 radikali	radicals
 Radikalno	Radical
 radilo	worked
-radim	I work.
-radimo	we work
 radioaktivnosti	radioactivity
 raditi	to work
 radna	hardworking
 radne	hardworking
 radni	working
 radnica	worker
-radnici	workers
-radnik	worker
 radnjama	actions
 radnje	shops
 radnju	action
@@ -141400,11 +139621,9 @@ radnu	working
 radom	work
 radosnicama	joys
 radosnice	joys
-radostan	joyful
 radova	work
 radove	works
 radovi	works
-Radujte	Rejoice
 Ragbija	Rugby
 Ragbije	Rugby
 Ragbiji	Rugby
@@ -141438,10 +139657,8 @@ Rambutane	Rambutans
 Rambutani	Rambutans
 Rambutanima	Rambutan
 ramen	shoulder
-ramena	shoulders
 Ramene	Shoulders
 Rameni	Shoulders
-ramenima	shoulders
 rampu	ramp
 Ranaca	Backpack
 Ranca	Backpack
@@ -141474,7 +139691,6 @@ Raščišćavanje	Clearing
 Rasip	Waste
 raširenim	spread out
 Raširi	Spread
-Raširite	Spread out
 Raširuje	Spreads
 raspadu	decay
 raspakiravanja	unpacking
@@ -141482,10 +139698,8 @@ rasparano	ripped apart
 Raspari	Unpack
 raspodijeliti	to distribute
 raspodijeljenom	distributed
-raspodjele	distributions
 raspolaganje	disposal
 raspolaganju	available
-raspoloženje	mood
 raspoloženju	mood
 raspon	range
 raspona	span
@@ -141497,7 +139711,6 @@ raspoređeno	arranged
 rasporedi	schedules
 rasporedom	schedule
 raspoređujući	allocating
-rasprave	discussions
 raspršenim	scattered
 rastapanje	melting
 Rastegni	Stretch
@@ -141522,16 +139735,12 @@ Ratkapa	Wheel cap
 Ratkapama	Ratchaprapa
 Ratkape	Wheel caps
 ravn	level
-Ravna	Flat
 ravnala	rulers
 ravnalom	ruler
 ravnalu	ruler
 ravnanje	handling
-ravne	flat
 ravni	levels
-ravnim	flat
 ravnine	plains
-ravno	straight
 ravnodnevnica	equinox
 ravnomjerno	evenly
 ravnopravnog	equal
@@ -141577,28 +139786,18 @@ razgovoru	conversation
 Razgraniči	Delimit
 razinama	levels
 Različak	Variant
-različita	different
-različitog	different
 različitom	different
 različitosti	diversity
-različitu	different
-razlika	difference
 razlikama	differences
-razlike	differences
 razlikom	differences
 razlikovali	distinguished
-razliku	difference
-razlikuje	distinguishes
-razlikuju	differ
 razljućen	angry
-razlog	reason
 razlomaka	fraction
 razlomci	fractions
 razlomka	fraction
 Razlomljeno	Broken
 razlozi	reasons
 Razlučeno	Distinct
-razlučivanje	discernment
 razlučivosti	resolution
 razmak	distance
 razmaka	spacing
@@ -141624,7 +139823,6 @@ Razmjer	Ratio
 razmjera	scale
 Razmjesti	Arrange
 razne	various
-raznih	various
 Ražnjeva	Spit roast
 Ražnjeve	Skewers
 Ražnjevi	Skewers
@@ -141636,9 +139834,7 @@ ražnjiću	skewer
 ražnju	skewer
 Raznovrsne	Miscellaneous
 Raznovrsni	Diverse
-raznovrsnih	diverse
 razočaran	disappointed
-razreda	class
 Razredi	Classes
 razrednice	class teacher
 razrednici	class teacher
@@ -141649,11 +139845,7 @@ Razriješite	Solve
 razriješiti	to resolve
 razrješenja	resolutions
 razrješenje	resolution
-razumije	understands
-razumijem	I understand
-razumijevanja	understanding
 razumjele	understood
-razumjeli	understood
 razumjeti	to understand
 razumljen	understood
 razumljena	understood
@@ -141694,7 +139886,6 @@ rečenicu	sentence
 Recent	Recent
 recents	recent
 recepcijsko	receptionist
-reci	say
 reći	to say
 Recife	Recife
 recikliraj	recycle
@@ -141731,7 +139922,6 @@ redoslijedom	in order
 redoslijedu	in order
 redove	ranks
 redovi	ranks
-redu	okay
 redundancije	redundancies
 redundancijom	redundancy
 RedundancyScrub	RedundancyScrub
@@ -141810,7 +140000,6 @@ Reklamnih	Advertising
 Reklamnim	Advertising
 Reklamnog	Advertising
 Reklamnom	Advertising
-rekli	said
 Rekreacijama	Recreations
 Rekreacije	Recreations
 Rekreacijska	Recreational
@@ -142007,16 +140196,12 @@ RFCOMM	RFCOMM
 RGBA	RGBA
 RHETOREX	RHETOREX
 riba	fish
-ribe	fish
 Ribež	Currant
 Ribeža	Ribeye
 Ribeže	Ribs
 Ribeži	Ribs
 Ribežima	Fish market
-ribica	fish
-ribice	fish
 ribički	little fish
-riblje	fish
 ribljim	fish
 Ribolova	Fishing
 Ribolove	Fishing
@@ -142032,15 +140217,9 @@ Rige	Riga
 Rigi	Riga
 Rigom	Rheumatoid arthritis
 rigotine	vomit
-riječ	word
-riječi	words
-riječima	in words
-rijeka	river
 Rijekama	Rivers
-rijeke	rivers
 Riješeni	Solved
 riješili	solved
-riješiti	solve
 rijetke	rare
 Rijetki	Rare
 rika	roar
@@ -142059,8 +140238,6 @@ Rikuli	Riculi
 Rikulom	Riculum
 Rikulu	Rikulu
 Rim	Rome
-rimske	Roman
-rimski	Roman
 Ringišpil	Carousel
 Ringišpila	Carousel
 Ringišpili	Carousels
@@ -142091,7 +140268,6 @@ rižom	rice
 Rižota	Risotto
 Rižotima	Risottos
 RJ	RJ
-rječitost	eloquence
 rječitosti	eloquence
 rječnici	dictionaries
 rječnika	dictionary
@@ -142122,8 +140298,6 @@ Rode	Rods
 Rodea	Rodeo
 Rodee	Rodeo
 Rodeima	Rodeima
-rođendan	birthday
-rođendana	birthday
 rođendane	birthdays
 rođendani	birthdays
 rođendanska	birthday
@@ -142132,26 +140306,16 @@ Rođendanskih	Birthdays
 Rođendanskim	Birthday
 rođendanskom	birthday
 rođendansku	birthday
-rođenja	birth
-rođenje	birth
-Rođeno	Born
 Rodezijske	Rhodesian
 Rodezijskim	Rhodesian
-roditelja	parents
-roditelji	parents
 roditeljima	parents
 roditeljska	parental
 roditeljske	parental
-roditeljskih	parental
 roditeljskim	parental
 roditeljskog	parental
 rog	horn
 Roga	Horn
 Rogom	Horn
-rogova	horns
-rogove	horns
-rogovi	horns
-rogovima	horns
 Rogu	Horn
 rok	deadline
 rokanje	handshake
@@ -142263,13 +140427,10 @@ Rubno	Rubno
 rubnog	marginal
 rubnom	rubric
 rubom	edge
-rubova	edges
-rubove	edges
 rubovi	edges
 rubovima	edges
 rubu	edge
 Ruby	Ruby
-ručak	lunch
 ruci	hands
 ručica	handle
 ručice	handles
@@ -142286,9 +140447,7 @@ Ručnu	Manual
 rudarenje	mining
 rudimentarno	rudimentary
 ruj	September
-rujna	September
 rujnu	September
-ruka	hand
 rukama	hands
 rukava	sleeve
 Rukavicama	Gloves
@@ -142302,7 +140461,6 @@ Rukoli	Arugula
 Rukolom	Arugula
 Rukolu	Arugula
 rukometa	handball
-rukopisa	manuscript
 rukopisom	handwriting
 rukovanje	handshake
 rukovati	to handle
@@ -142332,9 +140490,7 @@ Runtime	Runtime
 rupa	hole
 rupama	holes
 rupčićem	handkerchief
-rupe	holes
 rupom	hole
-rušenje	demolition
 rušenju	demolition
 Rusija	Russia
 Rusije	Russia
@@ -142348,14 +140504,12 @@ rute	scarves
 Ruti	Ruti
 rutu	rut
 Ružama	Roses
-ruže	roses
 ružičasta	pink
 ružičasti	pink
 ružičasto	pink
 Ružmarina	Rosemary
 Ružmarine	Rosemary
 Ružmarini	Rosemary
-ružno	ugly
 Rw	Rw
 rx	rx
 rzdj	red
@@ -142373,20 +140527,16 @@ saćasti	honeycomb
 saćastog	honeycomb
 Sačmaricama	Shotguns
 Sačmarice	Shotguns
-Sačuvaj	Save
 sačuvajte	save
-sačuvali	saved
 sačuvan	preserved
 sačuvane	preserved
 sačuvani	preserved
-Sačuvat	Save
 sačuvate	save
 sačuvati	to save
 sad	fruit
 sadfasdf	sadfasdf
 SAdmin	SAdmin
 sadnica	nursery
-sadnice	seedlings
 sadržaje	contents
 sadržajem	content
 sadržaji	facilities
@@ -142394,7 +140544,6 @@ sadržajima	contents
 sadržajizrađen	content created
 sadržajpromijenjen	content changed
 sadržaju	content
-sadržana	contained
 sadržane	contained
 sadržani	contained
 sadržanih	contained
@@ -142403,7 +140552,6 @@ sadržanima	contained
 sadržano	contained
 sadržanog	contained
 sadržavajući	containing
-sadržavala	contained
 sadržavali	contained
 sadržavao	contained
 sadržavat	to contain
@@ -142434,7 +140582,6 @@ Sajmišta	Fairgrounds
 Sajmište	Fairgrounds
 Sajmištima	Fairgrounds
 šaka	fist
-šakama	fists
 Šakanja	Shaking hands
 Šakanje	Fisting
 Šakanjem	Fisting
@@ -142447,11 +140594,7 @@ Sakoa	Sakoa
 Sakoe	Jackets
 Sakoi	Sako
 Sakoima	Sakoima
-šakom	fist
-sakrij	hide
-sakrijte	hide
 sakrivanje	hiding
-sakrivena	hidden
 sakriveni	hidden
 Saksofona	Saxophone
 Saksofone	Saxophones
@@ -142459,7 +140602,6 @@ saksofoni	saxophones
 Saksofonima	Saxophones
 sakupiti	to collect
 sakupljanja	collecting
-šala	joke
 Salaam	Salaam
 Salama	Salami
 Salamama	Salamama
@@ -142473,8 +140615,6 @@ salda	balance
 Šalici	Mugs
 Šalicom	With a cup
 Šalicu	A cup
-šalje	sends
-Šaljem	I am sending
 Šaljemo	We are sending
 šaljete	you send
 šalji	send
@@ -142532,9 +140672,7 @@ SampleService	SampleService
 šamponiranje	shampooing
 san	dream
 Sanaa	Sanaa
-sandala	sandal
 Sandalama	Sandals
-sandale	sandals
 sandbox	sandbox
 sandboxu	sandbox
 Sanduci	Chests
@@ -142587,19 +140725,12 @@ SARS	SARS
 šašavo	silly
 sashimi	sashimi
 sasquatch	sasquatch
-sastajete	you are meeting
-sastanak	meeting
-sastanci	meetings
-sastanka	meeting
 sastanke	meetings
-sastanku	meeting
 sastava	composition
 sastavi	compose
 sastaviti	to compose
-sastavlja	composes
 sastavljanje	assembly
 sastavljen	composed
-sastavljena	composed
 sastavljene	composed
 sastavne	component
 sastavni	component
@@ -142619,11 +140750,6 @@ sati	to watch
 satni	honeycomb
 satno	hourly
 satom	watch
-šator	tent
-Šatora	Tent
-Šatore	Tents
-šatori	tents
-Šatorima	Tents
 satova	watches
 satove	watches
 satovi	watches
@@ -142661,23 +140787,19 @@ savijanja	bending
 savijanje	bending
 savijene	bent
 savijeni	bent
-savjeta	advice
 savjete	advice
 savjetujemo	we advise
 Savladali	Mastered
 savršene	perfect
 savršeno	perfect
-savršenu	perfect
 saž	soot
 sažetak	summary
 sažete	concise
-sažeti	summarize
 sažetka	summary
 sažeto	concisely
 sažima	summing up
 sažimanja	compression
 sažmi	compress
-sazna	find out
 Saznaj	Find out
 Saznajte	Find out
 saznali	found out
@@ -142724,8 +140846,6 @@ Seagate	Seagate
 seal	seal
 Seatbelt	Seatbelt
 Seattle	Seattle
-sebe	yourself
-sebi	to yourself
 Sebulshik	Sebulshik
 Sec	Sec.
 šećera	sugar
@@ -142758,7 +140878,6 @@ sedilja	seats
 Sedla	Saddles
 Sedlima	Saddles
 Sedlo	Saddle
-Sedma	Seventh
 sedmi	seventh
 SEDU	SEDU
 see	see
@@ -142807,7 +140926,6 @@ Selfiji	Selfies
 SelfTest	SelfTest
 SelfTesta	SelfTest
 selidbe	moving
-Selo	Village
 semafor	traffic light
 Semafora	Traffic light
 Semafore	Traffic lights
@@ -142882,8 +141000,6 @@ sesiju	session
 šeširima	hats
 šeširom	hat
 šeširu	hat
-šest	six
-Šesta	Sixth
 Šestar	Six
 šesterokraka	six-pointed
 šesterokuta	hexagon
@@ -142898,8 +141014,6 @@ sesiju	session
 Šestočkasta	Six-pointed
 šestokraka	six-pointed
 šestotočkaste	six-pointed
-sestra	sister
-sestre	sisters
 sestrinska	sister's
 seta	set
 šetanje	walking
@@ -143570,18 +141684,13 @@ službene	official
 službenica	employee
 službenice	maids
 službenik	employee
-služi	serves
-služili	served
-služite	serve
 služiti	to serve
 Slytherin	Slytherin
 sm	sm
 smajli	smileys
 Small	Small
 Smanjen	Reduced
-Smanjena	Reduced
 smanjene	reduced
-smanjeni	reduced
 smanjenih	reduced
 smanjeno	reduced
 smanjenom	reduced
@@ -143599,10 +141708,6 @@ Smartphone	Smartphone
 Smartphonea	Smartphone
 Smartphoneu	Smartphone
 smash	smash
-smatra	considers
-smatraj	consider
-smatraju	they consider
-smatramo	we consider
 smb	smb.
 smbd	smbd
 smbfs	smbfs
@@ -143610,7 +141715,6 @@ SMBus	SMBus
 SMC	SMC
 SME	SM
 smeća	garbage
-smeće	garbage
 smeću	trash
 smeđa	brown
 smeđe	brown
@@ -143622,9 +141726,6 @@ smetnji	garbage
 SMIC	Minimum wage
 smičkom	bow tie
 smijanje	laughter
-smijati	to laugh
-smijeh	laughter
-smijeha	laughter
 smiješi	smile
 smiješna	funny
 smiju	they laugh
@@ -143640,12 +141741,10 @@ smjerovi	directions
 smjeru	direction
 smješkajuća	smiling
 smješkajuće	smiling
-smještaj	accommodation
 Smjesti	Place
 smjestiti	to accommodate
 smnj	smj
 smnjo	sorry
-smo	we are
 Smokava	Fig tree
 smoking	tuxedo
 Smokinga	Tuxedo
@@ -143656,9 +141755,6 @@ Smokinzi	Tuxedos
 Smokinzima	Tuxedos
 šmokljana	nerd
 Smokva	Fig
-Smokvama	Figs
-Smokve	Figs
-Smokvi	Figs
 Smoothie	Smoothies
 Smoothieja	Smoothies
 Smoothieji	Smoothies
@@ -143673,7 +141769,6 @@ Smrznutim	Frozen
 SMS	SMS
 SMTP	SMTP
 snaga	strength
-snage	strength
 snap	snap
 Snapz	Snapz
 Šnaucera	Schnauzer
@@ -143681,16 +141776,7 @@ Snapz	Snapz
 Šnauceri	Schnauzers
 Šnaucerima	Schnauzers
 snažan	strong
-snazi	strength
-snažna	strong
-snažne	strong
-snažnije	stronger
-snažniji	stronger
 snažnijim	stronger
-snažnim	strong
-snažno	strongly
-snažnom	strong
-snažnu	strong
 SND	CIS
 Sneper	Snapper
 Snepera	Snapper
@@ -143698,8 +141784,6 @@ Snepere	Snappers
 Sneperi	Snappers
 Sneperima	To the snipers
 SNI	SNI
-snijeg	snow
-snijega	snow
 snijegom	with snow
 snijegu	snow
 snima	recording
@@ -143759,16 +141843,12 @@ snowboarding	snowboarding
 Snowshoe	Snowshoe
 SO₂	SO₂
 sob	rooms
-soba	room
-sobama	rooms
-sobe	rooms
 Sobelovog	Sobel's
 sobom	room
 Sobova	Reindeer
 Sobove	Reindeer
 Sobovi	Reindeer
 Sobovima	To reindeer
-sobu	room
 socijalnog	social
 Sockets	Sockets
 Sodama	Soda
@@ -143807,7 +141887,6 @@ Sokolu	Sokol
 Sokova	Juice
 Sokove	Juices
 sokovi	juices
-Sokovima	Juices
 Sokovnici	Juicers
 Sokovnicima	Juicers
 Sokovnika	Juicer
@@ -143900,7 +141979,6 @@ spašavanje	rescue
 Spatula	Spatula
 Spatulama	Spatulas
 Spatule	Spatulas
-spava	sleeps
 spavaća	bedroom
 spavaće	sleeps
 Spavaćih	Sleeping
@@ -143940,9 +142018,6 @@ SPFontReporter	SPFontReporter
 SPI	SPI
 špijuniranje	spying
 spikerfon	speakerphone
-Špilja	Cave
-Špiljama	Caves
-Špilje	Caves
 Špinata	Spinach
 Špinate	Spinach
 Špinatima	Spinach
@@ -143992,25 +142067,20 @@ spomenicima	monuments
 Spomenicom	Monument
 Spomenicu	Monument
 spomenika	monuments
-Spomenike	Monuments
 spomenikom	monument
 spomeniku	monument
 Spomenima	Memories
 Spomenom	In memory
-Spomenu	In memory
-spomenute	mentioned
 Spomenuti	Mentioned
 spominjanja	remembrances
 spool	spool
 spor	dispute
-sporazum	agreement
 spore	disputes
 Sporedni	Secondary
 Spori	Disputes
 sporije	slower
 sporo	slow
 sport	sports
-sportaš	athlete
 sportova	sports
 sportove	sports
 sportovi	sports
@@ -144025,7 +142095,6 @@ Sportskog	Sportskog
 Sportskoj	Sportskoj
 Sportskom	Sports club
 Sportsku	Sports
-Sposobnosti	Abilities
 spot	video
 Spotify	Spotify
 spotlight	spotlight
@@ -144110,7 +142179,6 @@ srebrni	silver
 Srebrno	Silver
 srećica	happiness
 sredine	Wednesday
-Središnja	Central
 središnje	central
 središnjeg	central
 središnjim	central
@@ -144484,7 +142552,6 @@ Strugovi	Lathes
 Strugovima	To lathes
 struja	electricity
 struje	current
-Strujna	Current
 Strujne	Current
 Strujnih	Current
 Strujnim	Stream
@@ -144751,7 +142818,6 @@ Svečanosti	Ceremonies
 Svečanostima	Ceremonies
 švedska	Sweden
 Švedske	Sweden
-svega	everything
 svemira	universe
 svemirci	aliens
 svemirska	space
@@ -146512,7 +144578,6 @@ ustrajne	persistent
 Ustrajno	Persistent
 ustrašen	scared
 usuglašen	agreed
-ušuti	shut up
 ušutkaj	shut up
 ušutkivanja	silencing
 ušutkivanje	silencing
@@ -146542,9 +144607,7 @@ utisnuti	to imprint
 utjecati	to influence
 utječe	it flows
 Uto	Tue
-Utočišta	Refuges
 Utočište	Refuge
-Utočištem	Refuge
 Utočištima	Refuges
 Utočištu	Refuge
 utora	grooves
@@ -146552,15 +144615,12 @@ utore	grooves
 utori	grooves
 UTP	UTP
 utrke	races
-utvrđena	established
-utvrdi	establish
 utvrdila	confirmed
 utvrdili	confirmed
 utvrdilo	confirmed
 utvrditi	to determine
 utvrđivanja	determination
 utvrđivanje	determination
-utvrđuje	determines
 UUEncode	UUEncode
 uuencoded	uuencoded
 UUID	UUID
@@ -146583,7 +144643,6 @@ uvezen	imported
 uvezena	imported
 uvezene	imported
 uvezom	import
-uvidi	insights
 uvijeno	wrapped
 uvjeti	conditions
 Uvjetna	Conditional
@@ -146599,7 +144658,6 @@ Uvodna	Introductory
 uvodnarečenica	introductory sentence
 uvrštavanje	ranking
 Uvrsti	Rank
-uvrstiti	to rank
 uvrtanje	drilling
 Uvučeni	Indented
 uvučeno	retracted
@@ -146608,9 +144666,6 @@ UWQHD	UWQHD
 UXGA	UXGA
 uz	with
 uz upotrebu tipkovnice	using the keyboard
-Užad	Ropes
-Užadi	Ropes
-Uzašašće	Ascension
 uzastopna	consecutive
 uzastopne	consecutive
 uzastopni	consecutive
@@ -146618,17 +144673,11 @@ uzastopno	consecutively
 Uzbekistan	Uzbekistan
 Uzbekistana	Uzbekistan
 uzbekistanska	Uzbek
-uzbuna	alarm
 uzbunjen	alarmed
-uzdah	sigh
 uzdravlje	health
-Uže	Rope
-Užeta	Ropes
 Užetom	Rope
-Užetu	Rope
 uzimalo	took
 uzimanje	taking
-uživaj	enjoy
 Uživajte	Enjoy
 uživate	you enjoy
 uzjapuren	excited
@@ -146962,15 +145011,11 @@ view	view
 Viewu	View
 vijci	screws
 vijeka	forever
-vijenac	wreath
 Vijenaca	Wreath
 Vijenca	Wreaths
-Vijence	Wreaths
 Vijencem	To the wreath
-Vijenci	Wreaths
 Vijencima	To the garlands
 Vijencu	To the wreath
-vijesti	news
 Vijetnam	Vietnam
 Vijetnama	Vietnam
 vijetnamska	Vietnamese
@@ -147002,7 +145047,6 @@ Vilinim	Elves
 viljamovka	William's wife
 VIM	VIM
 Vimeo	Vimeo
-vina	wines
 Vincent	Vincent
 Vincenta	Vincent
 vinima	wines
@@ -147010,14 +145054,9 @@ vinjete	vignettes
 vinjetiranja	vignetting
 vinjetiranje	vignetting
 vinjetom	vignette
-vino	wine
-vinograd	vineyard
-Vinograda	Vineyards
-Vinograde	Vineyards
 Vinogradi	Vineyards
 Vinogradima	Vineyards
 Vinogradom	Vineyards
-Vinogradu	Vineyard
 Vinova	Wine
 Vinove	Wines
 Vinovih	Wines
@@ -147056,7 +145095,6 @@ Više o Apple Payu i privatnosti	More about Apple Pay and privacy
 Višebojno	Multicolored
 viseća	hanging
 viseće	hanging
-viseći	hanging
 višedijelni	multi-part
 višekratni	multiple
 višekutne	polygonal
@@ -147067,13 +145105,11 @@ višeslojni	multilayer
 Višeslojno	Multilayered
 višestruke	multiple
 višestruki	multiple
-višestruko	multiple
 VišeTočaka	MorePoints
 visible	visible
 Višim	Vishim
 visinastranice	page height
 visinaupikselima	heightinpixels
-visinu	height
 visit	visit
 visitsrecorded	visitsrecorded
 viskija	whiskey
@@ -147081,10 +145117,7 @@ Viskije	Whiskeys
 Viskiji	Whiskeys
 Viskijima	Whiskeys
 visok	tall
-visoka	high
-visoki	high
 visokih	high
-visokog	high
 visokokvalitetnim	high quality
 visokokvalitetno	high quality
 visokokvalitetnu	high quality
@@ -147118,7 +145151,6 @@ Vjedrima	Buckets
 Vjedrom	Bucket
 Vjedru	Bucket
 Vjeko	Vjeko
-Vjenčana	Married
 Vjenčane	Married
 Vjenčanicama	Wedding rings
 Vjenčanice	Wedding dresses
@@ -147131,28 +145163,19 @@ Vjenčanjima	Weddings
 Vjenčanoj	Married
 Vjenčanom	To the married couple
 Vjenčanu	To the bride
-vjera	faith
-Vjernost	Fidelity
-vjernosti	loyalty
 vjerodajnica	credentials
 vjerodajnicama	credentials
 vjerodajnice	credentials
 vjerodajnicu	credentials
-vjerodostojne	credible
 Vjerodostojni	Credible
 vjerodostojnog	credible
 vjerodostojnosti	credibility
 vjerovanja	beliefs
 Vjerovanjem	By faith
 vjerovati	to believe
-vjerski	religious
-vjeruj	believe
-vjeruje	believes
-vjerujete	you believe
 vješci	sorcerers
 vještac	wizard
 vještice	witches
-vjetar	wind
 vjetra	wind
 vjetrena	windy
 Vjetrenjačama	Windmills
@@ -147163,7 +145186,6 @@ Vjetrenjaču	Windmill
 vjetreno	windy
 vjetrom	wind
 vjetrovito	windy
-vjetru	wind
 Vjevericama	To the squirrels
 Vjeverice	Squirrels
 Vježbanja	Exercises
@@ -147183,39 +145205,24 @@ Vlakovima	To trains
 vlaku	train
 VLAN	VLAN
 VLANa	VLAN
-vlas	hair
 Vlasac	Chives
 Vlasaca	Chives
 Vlasce	Vlasce
 Vlasci	Vlasci
 Vlascima	Vlasci
-vlasnici	owners
-vlasnik	owner
 vlasnika	owner
 vlasnikom	to the owner
-vlasniku	to the owner
 vlasništva	ownership
 vlasništvo	ownership
 vlasništvom	ownership
 vlasništvu	ownership
-vlastita	own
-vlastite	own
-vlastiti	own
-vlastitih	own
-vlastitim	own
-vlastito	own
-vlastitog	own
-vlastitu	own
-Vlažnost	Humidity
 vmtx	vmtx
 VMWare	VMware
 vnc	vnc
 VNI	VNI
 VO	VO
 voća	fruit
-voće	fruit
 voćem	fruit
-voćke	fruit trees
 Voćne	Fruity
 Voćni	Fruity
 Voćnih	Fruity
@@ -147223,8 +145230,6 @@ Voćnim	Fruity
 VOCommand	VOCommand
 voću	fruit
 Vodafone	Vodafone
-vodama	waters
-vodeće	leading
 vodena	guided
 Vodene	Guided
 vodeni	guided
@@ -147237,7 +145242,6 @@ vodenjak	Aquarius
 vodenog	water
 vodič	guide
 vodiča	guide
-Vodit	To lead
 vodokotlić	cistern
 vodom	platoon
 vodootporna	waterproof
@@ -147258,7 +145262,6 @@ vodoravnom	horizontal
 Vodoriga	Water lily
 Vodorigama	Water lilies
 Vodorige	Water lilies
-vođu	leader
 voiceover	voiceover
 VoiceOvera	VoiceOver
 VoiceOveru	VoiceOver
@@ -147266,22 +145269,17 @@ void	void
 VoiveOver	VoiveOver
 Vojne	Wars
 Vojnih	Military
-Vojnim	Military
 Vojnog	Military
 Vojnom	War
-Vojska	Army
 vokabulari	vocabularies
 Vokalno	Vocal
 Voki	Walkie-talkie
 vol	ox
 Volgograd	Volgograd
-volim	I love
-volovi	oxen
 VolumeCheck	VolumeCheck
 voluptatem	voluptuousness
 VOModifier	VOModifier
 VOOutputDirective	VOOutputDirective
-vosak	wax
 voštane	waxed
 Votkama	Vodka
 Votke	Vodkas
@@ -147301,18 +145299,13 @@ vožnje	driving
 vožnju	driving
 VP	VP
 VR	VR
-Vrabac	Sparrow
 vrač	healer
-vraćaju	they return
-vraćam	I return
 Vraćamo	We return
 vraćanja	returns
 vraćanje	return
-vračara	witch doctor
 vračare	witches
 vraćen	returned
 vraćene	returned
-vraćeni	returned
 Vraćeno	Returned
 vračevi	sorcerers
 vrag	devil
@@ -147320,25 +145313,17 @@ VRAM	RAM
 Vrapce	Sparrows
 Vrapci	Sparrows
 Vrapcima	To the sparrows
-vrata	door
 vrate	doors
 vrati	door
-vratila	shaft
 vratile	doors
 vratili	return
 vratilo	door
 Vratima	Doors
-vratio	returned
-vratiti	return
 Vrbama	Willows
-Vrbe	Willows
-vrč	jug
 Vrčeva	Pitcher
 Vrčeve	Mugs
 Vrčevi	Jugs
 Vrčevima	To the jugs
-vreća	bag
-Vrećama	Bags
 vrećicama	bags
 Vrećicom	By bag
 Vrećicu	A bag
@@ -147970,7 +145955,6 @@ Zastavom	Flag
 zastavu	flag
 zaštićenim	protected
 zaštićenoj	protected
-Zaštiti	Protect
 zaštitila	protected
 zaštitile	protected
 zaštitilo	protector
@@ -148021,12 +146005,7 @@ zatvoreno	closed
 Zatvorenog	Closed
 Zatvorenom	Closed
 zatvorenu	closed
-zatvorio	closed
 zatvorit	close
-zaustavi	stop
-zaustavila	stopped
-zaustavili	stopped
-zaustavio	stopped
 zaustavite	stop
 zaustavljanja	stops
 zaustavljanjem	stopping
@@ -148034,7 +146013,6 @@ zaustavljen	stopped
 zaustavljena	stopped
 zaustavljene	stopped
 zaustavljeni	stopped
-zauzeta	busy
 zauzeti	to occupy
 zauzetih	busy
 zauzeto	busy
@@ -148045,20 +146023,15 @@ zavisne	dependent
 zavisnosti	addictions
 zavoj	turn
 zavojem	turn
-završava	ends
 završavaju	they are finishing
 završavanja	finishing
 završavanje	finishing
-završe	finish
 završen	completed
 završena	completed
 završetaka	endings
 završetke	endings
-završila	finished
-završio	finished
 završite	finish
 završna	final
-završne	final
 završni	final
 završnih	final
 završnim	final
@@ -148071,12 +146044,7 @@ Zbijenost	Compactness
 žbir	fire
 žbiri	sparrows
 zbogom	goodbye
-Zbor	Choir
-zbroj	sum
-zbunjen	confused
 zbunjena	confused
-zbunjeni	confused
-zbunjeno	confused
 zbunjujuće	confusing
 Zdanja	Buildings
 Zdanje	Appearance
@@ -148088,11 +146056,9 @@ Zdjele	Bowls
 Zdjelicama	Pelvis
 Zdjelice	Pelvis
 zdravice	toasts
-zdravlja	health
 Zdravomarije	Hail Mary
 Zdravomarijo	Hail Mary
 zdravstvena	health
-združeni	united
 združenih	united
 združenog	united
 Zebrama	Zebras
@@ -148117,38 +146083,26 @@ Zelanda	Zealand
 Želatine	Gelatins
 Želatini	Gelatin
 Želatinom	Gelatin
-žele	jelly
 Želea	Jelly
 Želee	Jelly
 Želei	Jellies
 Želeima	Jellyfish
-zelene	green
 Zelenih	Greens
 zelenila	greenery
-zeleno	green
 zelenog	green
 zelenom	green
 zelenortska	Cape Verdean
 Zelenortske	Cape Verdean
 Zelenortski	Cape Verdean
 Zelenortskih	Cape Verdean
-želi	wants
-želim	I want
-Želimo	We want
-želio	wanted
-Želiš	You want
-želja	desire
 želje	wishes
-željeli	wanted
 željene	desired
 željeni	desired
 željenih	desired
 željenim	desired
 željenog	desired
 željenom	desired
-željenu	desired
 Željezna	Iron
-Željezne	Iron
 željeznica	railway
 Željeznicama	Railways
 željeznice	railways
@@ -148160,14 +146114,10 @@ Zelenortskih	Cape Verdean
 Željezničkoj	Railway
 Željezničkom	Railwaymen
 željeznicu	railway
-Željeznih	Iron
-Željeznim	Iron
-Željezo	Iron
 želji	desire
 Zemalja	Earth
 zemlje	land
 zemlji	earth
-zemljište	land
 zemljopisnaduljina	geographylongitude
 zemljopisnaširina	latitude
 zemljopisne	geographical
@@ -148176,24 +146126,18 @@ zemljopisnu	geographical
 zemljopisu	geography
 zemlju	land
 žena	wife
-žene	women
 Ženeva	Geneva
 Ženidbama	Weddings
 Ženidbe	Weddings
 Ženidbi	Weddings
 Ženidbom	Marriage
-Ženidbu	Marriage
-ženske	women
-žensko	female
 ženskog	female
 zeroPhotosVideos	zeroPhotosVideos
 ZERT	ZERT
 zeta	son-in-law
-žetve	harvests
 ZEVO	ZEVO
 zgibovi	joints
 zgr	group
-zgrada	building
 Zgradama	Buildings
 Zgrade	Buildings
 zgrožen	disgusted
@@ -148205,7 +146149,6 @@ ZiB	ZiB
 Žičane	Wires
 žičani	wired
 Žičanih	Wired
-Žičanim	Wired
 Žičarama	Cable cars
 Žičare	Cable cars
 Žičari	Cable cars
@@ -148213,15 +146156,11 @@ ZiB	ZiB
 Žičaru	To the cable car
 Žični	Wired
 žicom	wire
-Zidne	Wall-mounted
 zidni	wall-mounted
 Zidnih	Wall-mounted
 Zidnim	Wall-mounted
 zidnu	wall
-židovski	Jewish
-žig	stamp
 žiga	stamp
-žigom	stamp
 žigovi	stamps
 Zijevalica	Yawning
 Zijevalicama	Yawning
@@ -148248,55 +146187,34 @@ zinfandel	zinfandel
 Žirove	Giraffes
 Žirovi	Acorns
 Žirovima	Acorns
-žita	cereals
 Žitarica	Cereal
 Žitaricama	Cereals
 Žitima	Cereals
 žitno	cereal
-žito	grain
 Ziv	Live
 Živa	Alive
-živi	alive
 Živicama	Nerves
-Živice	Hedges
 Živici	Hedges
 Živicom	By the hedge
 Živicu	The hedge
 živio	animal
 živjeli	cheers
-život	life
-životinja	animal
-Životinjama	Animals
-životinje	animals
 ZJZ	ZJZ
-zla	evil
 Zlatko	Zlatko
-zlatna	golden
-Zlatne	Golden
-zlatni	golden
 zlatnožuta	golden yellow
-zlato	gold
 zlib	evil
 Žlicama	Spoons
 žlice	spoons
 žličice	teaspoons
 žlicom	spoon
-zlo	evil
 zloćudni	malignant
 zloćudnog	malignant
 zloćudnom	malignant
-zmaj	dragon
-zmaja	dragon
 zmajem	dragon
 zmajeva	dragon's
 zmajeve	dragons
-zmajevi	dragons
 zmajevima	dragons
-zmija	snake
-Zmijama	Snakes
-zmije	snakes
 zmijonosac	opossum
-zna	knows
 značajci	features
 značajku	feature
 značajna	significant
@@ -148306,17 +146224,10 @@ značajnih	significant
 značajnim	significant
 značajno	significant
 značajnu	significant
-znači	means
-znaju	they know
-znakom	sign
-znakovima	signs
 znakovni	character
 znaku	sign
-znam	I know
 znamenkasti	digitized
 znamenki	digits
-znanja	knowledge
-ZNANJE	KNOWLEDGE
 Znanstvene	Scientific
 Znanstveni	Scientific
 znanstvenih	scientific
@@ -148325,7 +146236,6 @@ Znanstvenog	Scientific
 Znanstvenom	Scientific
 znatna	significant
 znatno	significantly
-znoj	sweat
 znoja	sweat
 znojem	sweat
 znojenje	sweating
@@ -148352,12 +146262,9 @@ Zoološkim	Zoological
 zoološkog	zoological
 Zora	Dawn
 Zorama	Zoram
-Zore	Dawn
 Zori	Mature
 Zorom	Zorom
-Zoru	Dawn
 Zosia	Zosia
-zove	calls
 zovete	you are calling
 Zovi	Call
 ZPL	ZPL
@@ -148389,17 +146296,12 @@ Zrcalna	Mirror
 zrcalne	mirrored
 zrcalnih	mirrored
 zrcalnu	mirror
-Zrna	Grains
-Zrnima	Grains
-zrno	grain
 Žrtveno	Sacrificial
 Zs	Zs
 zsh	zsh
 ZSZ	ZSZ
 zu	to
 Zub	Tooth
-zubi	teeth
-zubima	teeth
 žućkasto	yellowish
 zujanje	buzzing
 zulu	Zulu
@@ -148452,12 +146354,8 @@ Zuzana	Susan
 Žvakaćim	Chewing gum
 zvanja	titles
 zvati	to call
-zvijezda	star
 zviježđa	constellations
-zvijezdama	to the stars
-zvijezde	stars
 zvijezdom	stars
-zvijezdu	star
 zviždanje	whistling
 zviždati	to whistle
 Zvjezdan	Starry
@@ -148487,15 +146385,11 @@ Zvonima	They are ringing.
 zvonjavu	ringing
 Zvonom	By the bell
 Zvonu	To the bell
-zvuci	sounds
-zvuči	sounds
 Zvučnicima	Speakers
 Zvučnika	Speaker
 Zvučnike	Speakers
 zvučniku	speaker
 zvučnu	sound
-zvukom	sound
-zvuku	sound
 zy	yes
 ZyGoVideo	ZyGoVideo
 zyx	zyx
@@ -148503,7 +146397,6 @@ zZxcva	zZxcva
 zzz	zzzzz
 ZZZZ	ZZZZZ
 Ȃauto	car
-abecedno	alphabetically
 absolute	absolute
 accent	accent
 accessibility	accessibility
@@ -148562,7 +146455,6 @@ airplane	airplane
 aizlaz	exit
 AJeste	Yes
 ajust	just
-akcija	action
 akcije	actions
 akciju	action
 Akoličina	Akolićina
@@ -149007,13 +146899,10 @@ dll	dll
 DLNA	DLNA
 dma	ddm
 dministratorjOtvorite	dadministratorjOpen
-doba	era
 dodirivanje	touching
 Dodjeljuje	Assigns
 does	does
 doesn	doesn't
-dogodila	happened
-dogodilo	happened
 dohvaćanje	reaching
 dohvaćene	reached
 dollars	dollars
@@ -149363,7 +147252,6 @@ isključujte	turn off
 ispražnjenja	discharges
 ISpremanje	Monitoring
 issues	issues
-istoga	of the same
 iteškoće	difficulties
 itočnost	accuracy
 iveze	connections
@@ -149377,8 +147265,6 @@ izbacivanju	ejection
 izbisati	to erase
 izbrisali	deleted
 izbrisana	deleted
-izbrisano	deleted
-izbriši	delete
 IzbrišiCPremjestite	DeleteCMove
 IzbrišiRTo	DeleteRTo
 izbrisivi	erasable
@@ -149386,7 +147272,6 @@ Izdvajanje	Highlighting
 Izdvoji	Highlight
 Izdvojite	Highlight
 iŽelite	You want
-izgubljeno	lost
 izmjenjivi	interchangeable
 izostavljanje	omission
 izrezali	cut out
@@ -149399,14 +147284,11 @@ izvanmrežnim	offline
 izvanmrežno	offline
 izvanmrežnog	offline
 izvedite	perform
-izvješća	reports
 izvješćivanje	reporting
 Izvođač	Contractor
-Izvori	Sources
 izvornim	original
 jack	jack
 JAko	Yes
-jakog	strong
 japanese	Japanese
 javnih	public
 JDodaje	JAdditions
@@ -149494,7 +147376,6 @@ kućnoj	home
 kućnom	home
 kuna	marten
 kursori	cursors
-kušaj	taste
 kŽelite	You want
 labels	labels
 laditude	latitude
@@ -149581,7 +147462,6 @@ MAko	MAko
 Maksimiziran	Maximized
 maksimiziranja	maximizing
 maksimiziranje	maximization
-maleno	small
 malware	malware
 managar	manager
 managed	managed
@@ -149665,12 +147545,10 @@ mistakes	mistakes
 mix	mix
 mixer	mixer
 mjehurić	bubble
-mjera	measure
 mjestaCNeka	placeCNek
 mjestaGPromjena	placesG Average
 mjesti	places
 mjestoJStvori	placeJCreate
-mjestom	place
 mjestuAOtvorite	placeOpen
 mjestuJUključivanje	location
 mk	mk
@@ -149683,7 +147561,6 @@ modemske	modem
 modify	modify
 mogući	possible
 mogućtWindows	possibleWindows
-moji	my
 monitore	monitors
 monitori	monitors
 monitors	monitors
@@ -149727,7 +147604,6 @@ najsličnija	most similar
 names	purpose
 nanny	nanny
 napravljen	made
-naredbama	orders
 naredbeni	ordered
 naredbenog	ordered
 narrator	narrator
@@ -149751,8 +147627,6 @@ nearfield	nearfield
 Neformatirani	Unformatted
 neindeksiranih	unindexed
 nejasno	unclear
-nekoga	someone
-nekome	to someone
 Nemoj	Don't.
 neoblikovan	unformed
 neodabrane	unselected
@@ -149788,7 +147662,6 @@ notification	notification
 notified	notified
 notifying	notifying
 novoinstalirane	newly installed
-novome	new
 NPrikazuje	NShows
 ntvdm	ntvdm
 nul	zero
@@ -149798,7 +147671,6 @@ obavješćivanje	notification
 obavjest	notification
 obilaznice	bypasses
 obilazno	roundabout
-Objava	Announcement
 Objedini	Unify
 oblikovana	shaped
 oblikovanje	design
@@ -149812,7 +147684,6 @@ obuhvatiti	to encompass
 Obustavljeno	Suspended
 obvezi	obligations
 òcentimetri	òcentimeters
-očišćene	cleaned
 Očisti	Clear
 odabiri	selections
 odbc	odbc
@@ -149840,7 +147711,6 @@ Omotač	Wrapper
 ONema	ONeme
 onemogućivanje	disabling
 onfiguriraj	configure
-onoga	that one
 ons	ons
 onscreen	onscreen
 Óoglasi	Advertisements
@@ -149916,7 +147786,6 @@ pad	fall
 pagefile	pagefile
 pair	pair
 pairs	pairs
-pametnih	smart
 paper	paper
 partitian	partition
 partitioning	partitioning
@@ -149967,7 +147836,6 @@ Pinball	Pinball
 pisačeAPogledajte	printersAView
 pišite	write
 pixels	pixels
-Pjesma	Song
 plane	plan
 Planirajte	Plan
 Planiranje	Planning
@@ -150053,7 +147921,6 @@ postavljajte	place
 postavljenaxAplikacija	placedxApplication
 postavljenXAplikacija	placedXApplication
 poštom	by mail
-potpuna	complete
 potvrdnih	confirmation
 pounds	pounds
 PovećalaFPomicanje	MagnifierFScrolling
@@ -150175,7 +148042,6 @@ privici	attachments
 priviledges	privileges
 privileges	privileges
 problems	problems
-Probudi	Wake up
 probuditi	to wake up
 probuditiMProvjerite	wake upMCheck
 proceses	processes
@@ -150217,7 +148083,6 @@ protection	protection
 protocol	protocol
 protocols	protocols
 proveden	implemented
-provjeravajte	check
 provjeravanje	checking
 proximity	proximity
 proxycfg	proxycfg
@@ -150251,7 +148116,6 @@ računalomPPregledajte	computerPView
 računaloqPostavke	computerqItems
 računaloTPostavke	computerItems
 računanje	calculation
-računanju	calculation
 radLPovežite	radLConnect
 radSPrekinite	I want to stop
 raj	paradise
@@ -150264,9 +148128,7 @@ Raspoloživi	Available
 Raspoloživo	Available
 Rasporedite	Arrange
 raspoređivanje	scheduling
-raspoznavanje	recognition
 rasteru	raster
-Razgovor	Conversation
 razvijenih	developed
 rd	red
 re	say
@@ -150378,11 +148240,9 @@ rušenja	demolition
 RVeć	RMore
 rWindows	rWindows
 ɹrješenje	solution
-sačuvao	saved
 sadržajtKada	contenttKada
 safe	safe
 safesearch	safesearch
-sakriti	hide
 sakriven	hidden
 sakrivene	hidden
 sakriveno	hidden
@@ -150397,7 +148257,6 @@ savers	savers
 saving	saving
 savings	savings
 savins	savins
-savjetima	advice
 Sažmi	Collapse
 scan	scan
 scandisc	scandisc
@@ -150896,7 +148755,6 @@ vori	rafts
 vpn	VPN
 vPresnimljivi	vDownloadable
 Vraća	Return
-vraćajte	return
 vraćanju	returning
 vraćena	returned
 vremenskazona	time zone
@@ -150989,3 +148847,240 @@ Ypreglednik	Browser
 YProvjeru	YCheck
 YStavci	YBettors
 yuan	yuan
+aktualnim	current
+Aljaska	Alaska
+alofa	in love
+Amerika	American
+anonimizirane	anonymized
+Anonimizirani	Anonymized
+anonimiziranih	anonymized
+Antibiotici	Antibiotics
+antibiotike	antibiotics
+APOD	Photo Gallery
+Atlantsko	Atlantic
+Azori	Azores
+ažuriranjem	by updating
+bifazne	biphasic
+bifazni	biphasic
+bifaznim	biphasic
+bilježili	recorded
+Bogotá	Bogota
+Boja	Color
+Bronhiektazije	Bronchiectasis
+buduća	future
+Buenos	Good
+čajna	tea room
+čajne	tea
+cjepiva	vaccines
+Cuiabá	Cuiaba
+Dabi	Like
+datumska	date
+Demonstracijski	Demonstration
+dijagnozi	diagnosis
+dišete	you breathe
+dnevne	daily
+dnevnika	diary
+dnevniku	diary
+dobijete	you get
+dogodio	happened
+donjoj	lower
+doza	danger
+druženju	socializing
+Dugoročni	Long-term
+e	and
+Ekaterinburg	Yekaterinburg
+emocionalno	emotionally
+evidenciju	records
+firmvera	company
+Fortaleza	Strength
+grafikoni	GRAPHIC
+gripu	flu
+Havaji	Hawaii
+hitan	found
+Hitna	Emergency
+intenzivne	intensive
+ishodi	outcomes
+iskopčati	disconnect
+istek	request
+istraživanja	research
+istraživanju	research
+Izbrisat	Delete
+izdisanju	exhalation
+Izrazito	Extremely
+izvješćima	reports
+javljanja	reporting
+Kabul	Acceptance
+Kalinjingrad	Kaliningrad
+Kanada	You have
+kašlja	coughs
+kliničkoj	clinical
+Kojeg	Which one
+kontinuirana	continuous
+Kotte	Bags
+Krasnojarsk	Krasnoyarsk
+liječenjem	by treatment
+liječničku	medical
+liječniku	to the doctor
+Lumpur	Mud
+Magadan	Heir
+Malo	Location
+Masimo	Fields
+Mazatlán	Mazatlan
+međunarodna	international
+minimalni	minimal
+minutna	minute
+mjehurića	bubbles
+mjesecom	by month
+Muskat	Nutmeg
+nadahnutim	inspired
+nebulizator	nebulizer
+neinvazivne	non-invasive
+neinvazivnu	non-invasive
+Nema	None
+neplanirano	unplanned
+Nikozija	Nicosia
+niski	short
+niskotlačni	low-pressure
+Nuku	Move
+obavještavanja	notifications
+obratimo	let's turn
+Oceanija	Oceania
+ocijenili	evaluated
+odaberati	to choose
+Odaberi	Select
+Odgovorite	Reply
+ohladi	cool down
+oksimetra	oxymetra
+oksimetrije	oximetry
+onemogućuju	disable
+opisali	described
+opskrbu	supply
+Oralni	Oral
+oscilira	oscillates
+osiguralo	ensured
+Otkrivene	Discovered
+otkucaja	beats
+otkucaji	heartbeats
+Pacifičko	Pacific
+pacijente	patients
+pacijentovu	patient's
+patili	suffered
+Paz	Peace
+perfuzije	infusions
+personalizacije	personalization
+Peterburg	Petersburg
+peteroznamenkasti	five-digit
+platformi	platform
+pneumokoka	pneumococcus
+početnu	initial
+Podesi	Set
+podržala	supported
+pojedinca	individual
+pokušat	to try
+Pokušavam	I'm trying.
+pomicanjem	by moving
+Potrebno	Required
+povežite	connect
+povjerljivi	confidential
+povratnih	return
+povratnim	returnable
+pratećih	accompanying
+pretoplo	too warm
+Previsok	Too high
+pričvršćena	attached
+pričvršćeno	attached
+Prikupljeni	Collected
+prilikama	opportunities
+privole	consent
+proizveli	produced
+propisana	prescribed
+propisano	prescribed
+proteklom	last
+pružanja	providing
+pulsa	credit
+Pulsna	Pulse
+pulsne	pulse
+pulsni	pulse
+pulsnog	pulse
+punjača	charger
+pušačke	smoking
+Pušim	I smoke.
+pušio	smoked
+respiratorna	respiratory
+Rijad	Riyadh
+rješenjima	solutions
+Sankt	Saint
+Seul	Alone
+sigurnom	safe
+simptome	symptoms
+šištanja	hissing
+šištanje	wheezing
+sjedišta	seats
+Skinite	Download
+smanjena	reduced
+spola	gender
+spremljene	saved
+sputuma	sputum
+Srčana	Heart
+središnja	central
+Srednjeatlantsko	Mid-Atlantic
+steroide	steroids
+stezanja	contractions
+Stezanje	Tightening
+steže	tightens
+strujna	current
+strujnu	electricity
+sudjelovanje	participation
+suglasnosti	consents
+surađujete	you cooperate
+svakodnevne	everyday
+svjetskim	world
+svojih	of their own
+Taškent	Tashkent
+tehničkoj	technical
+telemetriju	telemetry
+težinu	weight
+Tidalni	Tidal
+titrirajte	titrate
+tjelovježbe	exercises
+tomija	tomia
+Trahe	Pull
+traheotomijom	tracheotomy
+trendove	trends
+trenutačnoj	current
+učinkom	effect
+udis	ice
+udisaja	the beauty
+udisajnom	inhalation
+Ukopčajte	Plug in
+Uobičajena	Common
+upale	inflammation
+upalu	inflammation
+upitnika	questionnaire
+Upotrebljavate	You are using
+uspjelo	succeeded
+utjecalo	influenced
+uzimanja	taking
+Uzimate	You are taking
+vanjskim	external
+ventilacije	ventilation
+verziji	version
+vodećim	leading
+vraćanje	divination
+vrućice	fever
+Zabilježi	Note down
+Zadano	Default
+zadanoj	given
+Zahaljujemo	Thank you.
+Zahvaljujemo	Thank you.
+Zaključajte	Lock it.
+zaključavanja	locks
+zaštiti	protect
+zaštitit	protect
+zdravlju	to health
+Zelandu	Zealand
+Želte	Yellow
+Ženski	Women's
+zidna	wall
+zidne	wall-mounted
+zidno	wall-mounted
