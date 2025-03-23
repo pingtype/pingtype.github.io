@@ -3197,6 +3197,47 @@ input[type='range']::-ms-thumb {
 				
 		} // end function loadGzDictionary
 		
+		
+		function loadGzCantonese(filename)
+		{
+			//debugLog("loadGzCantonese(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+			xmlhttp.responseType = 'arraybuffer';
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+					    cantoneseData = (pako.inflate(xmlhttp.response, { to: 'string'}));
+
+					    //saveDictionaryToLocalStorage(combinedDictionaryData.length);
+
+						//debugLog("saving " + savedDictionaryData.length);
+						
+						if (lastDictionary == true)
+						{
+							dictionariesLoaded();
+						}
+						
+						//localStorage["dictionary"] = savedDictionaryData;
+					    
+				   } // end if it loaded the KML
+				   else if (xmlhttp.status == 400) {
+					  alert('error loading cantonese');
+				   }
+				   else {
+					   alert('error loading cantonese');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end function loadGzCantonese
+		
 		// Create gz using `gzip -k PinyinDefinitionsSorted.txt`
 		//loadGzDictionary("PinyinDefinitionsSorted.txt.gz")
 
@@ -5626,7 +5667,7 @@ input[type='range']::-ms-thumb {
 		// Write to file response handler
 		function writeToFileResponseHandler(e, request)
 		{
-		
+			//console.log(e);
 		} // end function writeToFile
 
 
@@ -16087,26 +16128,38 @@ input[type='range']::-ms-thumb {
 			
 				// Edit the word
 				
-				var definitionNumber = document.getElementById('definitionDropdown').value;
-				definitionNumber = definitionNumber * 1;
+				//var definitionNumber = document.getElementById('cantoneseDefinitionDropdown').value;
+				//definitionNumber = definitionNumber * 1;
+				//
+				//var cantoneseDataArray = cantoneseData.split("\n" + thisWordChinese + "	");
+				//
+				//var thisDefintionItem = cantoneseDataArray[definitionNumber];
+				//					
+				//thisDefintionItem = textBetween(thisDefintionItem, "\n", "end");
+				//
+				//thisDefintionItem = thisDefinition + "\n" + thisDefintionItem;
+				//
+				//cantoneseDataArray[definitionNumber] = thisDefintionItem;
+				//
+				//cantoneseData = cantoneseDataArray.join("\n" + thisWordChinese + "	");
 				
-				var cantoneseDataArray = cantoneseData.split("\n" + thisWordChinese + "	");
+				// Get the existing word
+				var oldDefinition = thisWordChinese + "	" + textBetween(cantoneseData, "\n" + thisWordChinese + "	", "\n");
 				
-				var thisDefintionItem = cantoneseDataArray[definitionNumber];
-									
-				thisDefintionItem = textBetween(thisDefintionItem, "\n", "end");
+				//console.log(oldDefinition);
+				var newDefinition = thisWordChinese + "	" + thisWordYale + "	" + thisWordTones + "\n";
 				
-				thisDefintionItem = thisDefinition + "\n" + thisDefintionItem;
+				editInFile("CantoneseChineseWordsTones.txt", oldDefinition, newDefinition);
 				
-				cantoneseDataArray[definitionNumber] = thisDefintionItem;
-				
-				cantoneseData = cantoneseDataArray.join("\n" + thisWordChinese + "	");
+				cantoneseData = replaceChars(cantoneseData,oldDefinition,newDefinition);
 				
 			} // end if the word isn't already in the dictionary
 			
 			
-			writeToFile("cantoneseChineseWordsTones.txt", cantoneseData);
-							
+			//writeToFile("CantoneseChineseWordsTones.txt", cantoneseData);
+			
+			
+				
 			cantoneseDictionaryEditorSearch();
 			
 		} // end function taiwaneseDictionaryEditorEditButtonClicked
@@ -18857,7 +18910,8 @@ input[type='range']::-ms-thumb {
 			loadJapan("opencc/dictionary/JPVariants.txt");
 			
 			loadTaiwanese("TaiwaneseDictionaryTaiyuNumbers.txt");
-			loadCantonese("cantoneseChineseWordsTones.txt");
+			//loadCantonese("cantoneseChineseWordsTones.txt");
+			loadGzCantonese("CantoneseChineseWordsTones.txt.gz");
 			loadHakka("Hakka/HakkaPFSTones.txt");
 			loadHangul("hangulChineseKorean.txt");
 			loadTang("tangChineseWords.txt");
