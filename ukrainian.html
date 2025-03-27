@@ -848,10 +848,12 @@
 						romanLineText = romanLineText + thisWordNotInDictionary;
 						literalLineText = literalLineText + thisWordNotInDictionary;
 					
-						if (isUkrainianString(thisWord) == true)
-						{
-							missingWords = missingWords + thisWord + "\n";
-						}
+						//if (isUkrainianString(thisWord) == true)
+						//{
+						//	missingWords = missingWords + thisWord + "\n";
+						//}
+						
+						debugLog(thisWord);
 					
 					} // end if the dictionary contains the word
 					
@@ -938,7 +940,7 @@
 			} // end for every line
 			
 			//showMissingWords(missingWords);
-			console.log(missingWords);
+			//console(missingWords);
 			
 			return [outputHtml, outputText];
     		
