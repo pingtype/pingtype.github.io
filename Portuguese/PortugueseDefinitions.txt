@@ -174183,3 +174183,6 @@ dexa	leave it
 mão	hand
 alguém	someone
 só	only
+são	they are
+está	this
+fácil	easy
