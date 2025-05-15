@@ -398,7 +398,7 @@
 		{
 			//debugLog("isHungarian(" + thisCharacter + ")");
 			
-			var hungarianCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890aábcdeéfghiíjklmnoóöőpqrstuúüűvxyz";
+			var hungarianCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890aábcdeéfghiíjklmnoóöőpqrstuúüűvxyzÁÍÚÉÖÓÜ";
 						
 			if (contains(hungarianCharacters,thisCharacter) == true)
 			{
@@ -421,7 +421,7 @@
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isHungarianString(thisCharacter) == false)
+				if (isHungarian(thisCharacter) == false)
 				{
 					stringIsHungarian = false;
 					break;

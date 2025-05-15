@@ -397,7 +397,7 @@
 		{
 			//debugLog("isMaori(" + thisCharacter + ")");
 			
-			var maoriCharacters = " ,;:!?.()/'0123456789aAeEgGhHiIkKlmMnNoOpPrRtTuUwW";
+			var maoriCharacters = " ,;:!?.()/'0123456789aAeEgGhHiIkKlmMnNoOpPrRtTuUwWāēīōūĀĒĪŌŪ";
 						
 			if (contains(maoriCharacters,thisCharacter) == true)
 			{
@@ -420,7 +420,7 @@
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isMaoriString(thisCharacter) == false)
+				if (isMaori(thisCharacter) == false)
 				{
 					stringIsMaori = false;
 					break;
@@ -455,7 +455,7 @@
 
 		function isEnglish(thisCharacter)
 		{
-			debugLog("isEnglish(" + thisCharacter + ")");
+			//debugLog("isEnglish(" + thisCharacter + ")");
 
 			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-";
 			
@@ -835,7 +835,9 @@
 					
 						maoriLineText = maoriLineText + thisWordNotInDictionary;
 						literalLineText = literalLineText + thisWordNotInDictionary;
-					
+						
+						debugLog(thisWord);
+						
 						//if (isMaoriString(thisWord) == true)
 						//{
 						//	missingWords = missingWords + thisWord + "\n";

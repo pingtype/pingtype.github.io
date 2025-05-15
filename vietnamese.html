@@ -441,7 +441,7 @@
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isVietnameseString(thisCharacter) == false)
+				if (isVietnamese(thisCharacter) == false)
 				{
 					stringIsVietnamese = false;
 					break;
@@ -886,13 +886,13 @@
 								 //	 spacedVietnameseLine = spacedVietnameseLine + "§";
 								 //	 lastWasNotVietnamese = false;
 								 //}
-						
+																
 								 spacedVietnameseLine = spacedVietnameseLine + thisWord + "§";					
 
 							 //} // end if this character is not Vietnamese
 					
 						 } else {
-
+						 
 							 // Add a space if we're back to parsing Vietnamese
 							 //if (lastWasNotVietnamese == true)
 							 //{
@@ -981,6 +981,7 @@
 					var thisWord = thisLineWords[currentLineWord];
 					
 					//thisWord = removePunctuation(thisWord);
+					debugLog(thisWord);
 					
 					var inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
 					
@@ -1045,6 +1046,7 @@
 					
 						//if (isVietnameseString(thisWord) == true)
 						//{
+							debugLog(thisWord);
 						//	missingWords = missingWords + thisWord + "\n";
 						//}
 					
@@ -1107,6 +1109,8 @@
     	
     	function translateButtonClicked()
     	{
+    		debugLog("translateButtonClicked");
+    		
     		var vietnameseText = document.getElementById("vietnameseTextArea").value;
     		var englishText = document.getElementById("englishTextArea").value;
     		
