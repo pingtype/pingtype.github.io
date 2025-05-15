@@ -407,11 +407,12 @@
 			return false;
 			
 		} // end function isPortuguese
-
+		
 		function isPortugueseString(thisString)
 		{
 			//debugLog("isPortugueseString(" + thisString + ")");
-
+			
+			
 			var numberCharacters = thisString.length;
 			
 			var stringIsPortuguese = true;
@@ -420,7 +421,7 @@
 			{
 				var thisCharacter = thisString[currentCharacter];
 				
-				if (isPortugueseString(thisCharacter) == false)
+				if (isPortuguese(thisCharacter) == false)
 				{
 					stringIsPortuguese = false;
 					break;
