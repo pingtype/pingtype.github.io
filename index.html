@@ -976,7 +976,7 @@ input[type='range']::-ms-thumb {
 					</a>
 				</td>
 				<td style="padding-left:6px;padding-top:3px;padding-right:6px;padding-bottom:3px;">
-					<a href="http://peterburk.github.com/contact" style="text-decoration: none;color: #000000;" target=_blank>
+					<a href="http://peterburk.github.io/contact" style="text-decoration: none;color: #000000;" target=_blank>
 						✉️ Contact
 					</a>
 				</td>
@@ -10475,6 +10475,7 @@ input[type='range']::-ms-thumb {
 				// Skip all-English lines
 		   		if (containsChineseString(thisChineseLine) == false)
 				{
+					//console.log(thisChineseLine + " does not contain Chinese string");
 					spacedChinese = spacedChinese + thisChineseLine + "\n";
 				} else {
 				
@@ -10484,7 +10485,8 @@ input[type='range']::-ms-thumb {
 				
 						 var wordFound = false;
 					
-						 for (var wordLength = 5; wordLength >= 2; wordLength--)
+						 //for (var wordLength = 5; wordLength >= 2; wordLength--)
+						 for (var wordLength = 5; wordLength >= 1; wordLength--)
 						 {
 				
 							 var lastCharacter = currentCharacter + wordLength;
@@ -10497,9 +10499,11 @@ input[type='range']::-ms-thumb {
 							 thisWord = thisChineseLine.substring(currentCharacter, lastCharacter);
 						
 							 var thisCharacter = thisChineseLine[currentCharacter];
-
+							 							 
 							 if (isChinese(thisCharacter) == false)
 							 {
+							 
+							 	 //console.log(thisCharacter + " is not chinese");
 								 // Don't add spaces between non-Chinese characters
 								 //spacedChineseLine = spacedChineseLine + thisCharacter;
 						
@@ -10508,32 +10512,67 @@ input[type='range']::-ms-thumb {
 								 // Move the character along in the string
 								 //currentCharacter = currentCharacter + 1;
 							
+							 	if (thisCharacter == " ")
+							 	{
+							 		wordFound = true;
+							 	}
+							 	//console.log(thisCharacter);
+							 	//console.log(thisCharacter + " is not chinese");
+
+							
 								 wordFound == false;
 							
 							 } else {
 
+							 	if (thisCharacter == " ")
+							 	{
+							 		wordFound = true;
+							 	}
+							 	//console.log(thisCharacter);
+							 	//console.log(thisCharacter + " is chinese");
+
 								 //lastWasNotChinese = false;
 							
 								 var inDictionary = false;
-							
+								 //console.log("breakMissingWords = " + breakMissingWords);
 								 if (breakMissingWords == false)
 								 {
 									 inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
 								 } else {
-									 //inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
-									 inDictionary = searchDictionary(thisWord);
+								 	 //console.log("thisWord = " + thisWord);
+								 	 
+								 	 if (contains(thisWord, " ") == true)
+								 	 {
+								 	 	inDictionary = false;
+								 	 } else {
+								 	 
+									 	//inDictionary = contains(combinedDictionaryData, "\n" + thisWord + "	");
+									 	inDictionary = searchDictionary(thisWord);
+									 
+									 }
+									 
+									 //console.log("inDictionary = " + inDictionary);
 								 }
-							
- 								 if (isEmoji(thisCharacter) == true)
-								 {
-								 	inDictionary = true;
-								 }
+								
+								 //if (inDictionary == false)
+								 //{
+								 	if (stringLength(thisWord) == 1)
+								 	{
+ 								 		if (isEmoji(thisCharacter) == true)
+								 		{
+							 				//console.log(thisCharacter + " is emoji");
+								 			inDictionary = true;
+								 			//wordLength = stringLength(thisWord);
+								 		}
+								 	}
+								 //}
 
 								 //if (contains(longWords, " " + thisWord) == true)
 								 if (inDictionary == true)
 								 {
 									 // Move the character along in the string
 									 currentCharacter = currentCharacter + wordLength - 1;
+									 //currentCharacter = currentCharacter + wordLength - stringLength(thisCharacter);
 							
 									 wordFound = true;
 						
@@ -10544,6 +10583,8 @@ input[type='range']::-ms-thumb {
 							 } // if the word exists
 					
 						 } // end for every word length
+						 
+						 //console.log("wordFound = " + wordFound);
 				
 						 // If the word is not found, just use the character
 						 if (wordFound == false)
@@ -10583,7 +10624,7 @@ input[type='range']::-ms-thumb {
 
 						 } // end if the word was not found
 								
-				
+						
 					 } // end for every character
 				
 					 spacedChinese = spacedChinese + spacedChineseLine + "\n";
@@ -10606,6 +10647,8 @@ input[type='range']::-ms-thumb {
 
 				if (containsChineseString(spacedChineseLine) == true)
 				{
+					//console.log(spacedChineseLine + " contains chinese string")
+				
 					var spacedLine = "";
 				
 					var numberLineCharacters = stringLength(spacedChineseLine);
