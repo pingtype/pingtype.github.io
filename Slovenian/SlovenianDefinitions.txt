@@ -9925,7 +9925,7 @@ gosposko	lady
 gospostva	lordship
 gospostvo	lordship
 gospostvu	lordship
-gost	guest
+gost	thick
 gosta	guest
 gostač	guest
 gostačev	guests
@@ -16839,7 +16839,6 @@ krati	shorten
 kratijo	shorten
 kratil	shortened
 kratiti	to shorten
-Kratka	Short
 Krátka	Short
 kratkega	short
 kratkem	shortly
@@ -19675,7 +19674,7 @@ mečmi	swords
 mečom	with a sword
 mečte	throw
 meču	sword
-med	honey
+med	between
 méd	honey
 meda	honey
 méda	honey
@@ -55797,7 +55796,7 @@ varvali	guard
 varvanja	protection
 varvao	guard
 varvati	to guard
-vas	village
+vas	you
 vás	you
 vàs	you
 vaša	yours
@@ -65077,7 +65076,6 @@ inkubatorju	incubator
 insondodihalnihpoti	airway sound
 Inspiracijska	Inspirational
 Inspiratorna	The Inspirators
-Inspiratorni	Inspiratory
 instrumente	TOOLS
 integrirana	integrated
 INTELEKTUALNI	INTELLECTUAL
@@ -65173,7 +65171,7 @@ kakršni	what kind
 kakršnih	what kind
 kakršno	any
 kakšen	what kind
-kanila	theirs
+kanila	cannula
 kanilo	sound
 kapljati	to drip
 kapljic	drops
@@ -65264,7 +65262,6 @@ koža	skin
 kože	skin
 kožne	skin
 kožo	skin
-Kraj	End
 kraka	arm
 krakoma	hungry
 krat	times
@@ -65289,7 +65286,6 @@ lepljivimi	sticky
 Leve	Live
 leži	lies
 likajte	please
-LINIJO	LINE
 lista	list
 litrska	liter
 ločena	separated
@@ -65346,7 +65342,6 @@ metanol	methanol
 metilirane	methylated
 metilirani	methylated
 metod	method
-METODA	METHOD
 metode	method
 metodo	method
 metra	meter
@@ -65609,7 +65604,6 @@ obdelavo	processing
 obdobji	periods
 obdobju	period
 obesite	hang
-OBIČAJNA	NORMAL
 običajnim	usual
 običajnimi	usual
 običajno	usually
@@ -66238,7 +66232,6 @@ razložen	decomposed
 razmer	conditions
 razmerah	conditions
 razmislite	think about it
-Razpon	Range
 razpona	range
 razponu	range
 razpored	schedule
@@ -66393,7 +66386,7 @@ Sokak	Street
 sončne	solar
 sončni	sunny
 sonda	finally
-sonde	sin
+sonde	probe
 spanjem	sleeping
 specifičen	specific
 specifikacijami	specifications
@@ -66740,7 +66733,6 @@ vklopijo	turn on
 vklopite	turn on
 vklopljen	turned on
 vklopljena	turned on
-Vklopljeno	On
 vklopu	switching on
 vlaken	fiber
 vlaženja	humidification
@@ -66781,7 +66773,6 @@ vodiču	guide
 voditi	lead
 vodnih	aquatic
 vodoravno	horizontally
-VOLUMEN	VOLUME
 vozle	knots
 vplivajo	affect
 vplivalo	influenced
@@ -68949,7 +68940,7 @@ namizju	desktop
 namizni	desktop
 namiznih	desktop
 nanny	nanny
-napaka	very
+napaka	error
 napake`Windows	Windows errors
 napakebWindows	Windows errors
 napakehPregled	errorsOverview
@@ -68967,7 +68958,6 @@ narek	pomegranate
 narekovati	to dictate
 naročnik	client
 narrator	narrator
-NAS	IN THE
 naslednjič	next time
 naslov	address
 naslove	addresses
@@ -69729,7 +69719,6 @@ premikanju	moving
 premikate	you move
 premium	premium
 premkanje	premkanje
-Premor	Pause
 prenesena	transferred
 prenose	they transmit
 prenosi	transfers
@@ -70688,7 +70677,6 @@ transmit	transmit
 tray	tray
 trd	trd
 trdem	hard
-Trenutna	Current
 trenutnem	current
 trenutnih	current
 tresenje	shaking
@@ -71207,7 +71195,6 @@ zavrnjenBČe	rejectedBIf
 zavrnjenCČe	rejectedCCIf
 zavrnjenEČe	rejectedYes
 zaženete	you start
-Zaznana	Detected
 zaznava	perception
 zaznavanje	perception
 zaznavni	perceptible
@@ -71267,3 +71254,508 @@ zvokov	sounds
 Zvrst	Genre
 Þkonf	Confession
 ƅobnovitev	ƅrenovation
+Afrika	Africa
+aktiven	active
+Aktivno	Active
+Aljaska	Alaska
+alofa	in love
+Aman	Safe
+Amerika	American
+analizirani	analyzed
+Anonimizirani	Anonymized
+anonimne	anonymous
+anonimni	anonymous
+anonimnih	anonymous
+antibiotike	antibiotics
+Antibiotiki	Antibiotics
+apneja	apnea
+apnejo	yours
+Asunción	Assumption
+Atlantik	Atlantic
+Atlantski	Atlantic
+Avstralija	Australia
+Azori	Azores
+baterija	battery
+baterije	batteries
+bateriji	batteries
+baterijo	battery
+Bejrut	Beirut
+Beograd	Belgrade
+blokad	blockades
+Brazilija	Brazil
+Brez	None
+Bronhiektazija	Bronchiectasis
+Bruselj	Brussels
+Budimpešta	Budapest
+Buenos	Good
+Bukarešta	Bucharest
+č	C
+čajna	tea room
+čajne	tea
+čajni	tea
+Časovna	Time
+Čenaj	Chennai
+cepiva	vaccines
+Cevke	Tubes
+Ciudad	City
+Cuiabá	Cuiaba
+čustveno	emotionally
+Dabi	Like
+datumska	date
+de	of
+delavcu	to the worker
+deljene	shared
+depresije	depression
+diagnostični	diagnostic
+diagnozo	diagnosis
+dihanja	breathing
+dihanjem	breathing
+dihate	was coming
+dokončanju	completion
+Dolgoročni	Long-term
+dopolnitve	additions
+doživljanje	experiencing
+Dunaj	Danube
+dvonivojske	two-level
+dvonivojski	two-level
+dvonivojskih	two-level
+Džakarta	Jakarta
+Ekipa	Team
+ekspiratorno	expiratory
+enim	for
+Erevan	Yerevan
+Evropa	Europe
+Februar	February
+Fidži	Fiji
+filtru	filter
+fizičnih	physical
+Fortaleza	Strength
+Fundlandija	Foundland
+Gostota	Density
+grafi	grave
+Grenlandija	Greenland
+Gripa	Flu
+Hanoj	Han Chinese
+Havaji	Hawaii
+hoja	argument
+Hospitalizacija	Hospitalization
+Hudo	Severe
+Hvala	Thanks
+indeks	index
+informacijah	information
+inhalator	inhaler
+inspiracije	inspirations
+inspiratornem	inspiratory
+inspiratorni	inspiratory
+izboljšanje	improvement
+izboljšav	improvements
+izboljšavah	improvements
+izboljšave	improvements
+izbrisani	deleted
+izbruh	outbreak
+izdaje	betrayal
+izdelkih	products
+izhodiščne	starting point
+izklapljajte	turn off
+izklopila	turned off
+izpljunek	sputum
+izpljunka	spit
+Jakutsk	Yakutsk
+Januar	January
+Jekaterinburg	Yekaterinburg
+jeklenki	cylinders
+Junij	June
+Južna	South
+Kabul	Acceptance
+Kadim	Ancient
+Kairo	Cairo
+Kaledonija	Caledonia
+Kalifornijski	Californian
+Kalkuta	Calcutta
+Kamčatski	Kamchatka
+Kanada	You have
+Karači	Karachi
+kašelj	cough
+kašlja	coughs
+Katmandu	Kathmandu
+Kijev	Kyiv
+klinično	clinically
+komunikaciji	communication
+Končano	Done
+Koncentracija	Concentration
+Koncentrator	Concentrator
+kontaktirajo	they contact
+kontaktne	contact
+koordinirani	coordinated
+Kopenhagen	Copenhagen
+koristilo	used
+Kotte	Bags
+kraj	end
+Krasnojarsk	Krasnoyarsk
+kratka	short
+Kuvajt	Kuwait
+La	The
+Lima	Five
+linijo	line
+Lizbona	Lisbon
+Lumpur	Mud
+Magadan	Heir
+Malo	a little
+Marec	March
+medicinska	medical
+Mednarodna	International
+mehurčenja	bubbling
+mehurčenje	bubbling
+mehurčki	bubbles
+meja	table
+meji	two
+merilnik	meter
+metoda	method
+México	Mexico
+minutna	minute
+minutno	minutely
+mirovanjem	idleness
+mojih	mine
+Moški	Men
+Moskva	Moscow
+motnja	disorder
+Mumbaj	Mumbai
+Muskat	Nutmeg
+načinih	ways
+Najm	Rent
+Najv	Max.
+naloženo	ordered
+nameščanjem	installing
+napravah	devices
+Napredne	Advanced
+nas	in the
+naslovu	address
+Nastavim	I continue.
+navdihujočimi	inspiring
+Nazadnje	Last
+nebulizator	nebulizer
+nedavnem	recent
+Nekoliko	Several
+nenačrtovan	unplanned
+nepodprt	unsupported
+Nepodprta	Unsupported
+Nepravilna	Incorrect
+Nepričakovan	Unexpected
+neuspešno	unsuccessful
+neveljavni	invalid
+Nezdružljiv	Incompatible
+Nikozija	Nicosia
+nizek	low
+nošenje	wearing
+nosite	carry
+Nuku	Move
+občutljivo	sensitive
+Običajna	Normal
+objavijo	publish
+objavo	publication
+obolenje	illness
+Obvesti	Notify
+obvestimo	let's inform
+Oceanija	Oceania
+odčitka	reading
+Odgovorite	Reply
+odklopljen	disconnected
+odklopljena	disconnected
+odklopov	disconnections
+odmerke	doses
+odmerkov	doses
+odnehati	to give up
+odziva	response
+ogrevanju	heating
+oksimeter	oximeter
+oksimetra	oxymetra
+oksimetrija	oximetry
+oksimetrije	oximetry
+oksimetrijo	oximetry
+Oktober	October
+okvarjeno	defective
+Omejitve	Limitations
+omogočen	enabled
+omogočenih	enabled
+Omogočim	I enable
+Onemogočim	I disable
+oscilira	oscillates
+oskrbe	care
+oskrbo	care
+ostomija	ostomy
+ozaveščenost	awareness
+Pacifiški	Pacific
+Pariz	Paris
+Paz	Peace
+perfuzijski	perfusion
+peroralne	oral
+Peroralni	Oral
+Peterburg	Petersburg
+Pnevmokokni	Pneumococcus
+počutite	you feel
+podpremo	support
+podprta	supported
+pojavnost	incidence
+polnilnika	charger
+polotok	peninsula
+ponastavila	reset
+ponastavite	reset
+Poskušam	I'm trying.
+poskusov	attempts
+Posodabljam	Updating
+posodabljati	to update
+posodobila	updated
+posodobljena	updated
+poštnem	postal
+potekom	course
+potrditvijo	confirmation
+povezanega	connected
+povprečenja	averaging
+povprečje	average
+Povprečna	Average
+povratnih	return
+Praga	Prague
+predhodnih	previous
+predlagajte	suggest
+predpisan	prescribed
+predpisanemu	prescribed
+Predstavitveni	Presentation
+preklopite	fold
+prekomerna	excessive
+premikom	movement
+premor	pause
+prepoznan	recognized
+prepoznana	recognized
+preskočiti	skip
+Pretečena	Expired
+pretoplo	too warm
+Pretorija	Pretoria
+prijavo	application
+Priključeni	Connected
+priklop	connection
+Prilagodite	Customize
+prilagojenih	adapted
+prilagojenimi	adapted
+Pripravljam	Preparing
+Privzet	Default
+profil	profile
+profilu	profile
+proizvedli	produced
+prostornina	volume
+Prozorna	Transparent
+pulza	pulse
+Pulzna	Pulse
+pulzne	pulsating
+pulznega	pulse
+pulzni	pulse
+pulzno	pulse
+Rangun	Rangoon
+raziskav	research
+raziskavah	research
+raziskavi	research
+raziskovalne	research
+raziskovalnih	research
+razkuženo	disinfected
+razkuževalna	disinfectant
+razkuževanj	disinfection
+razpon	range
+razvoj	development
+razvoju	development
+Redek	Rare
+regijo	region
+reguliran	regulated
+Rejkjavik	Reykjavik
+rešitvami	solutions
+respiratorno	respiratory
+rezultatih	results
+Riga	Anticipate
+Rjava	Brown
+Rumena	Romanian
+Sankt	Saint
+Saporo	Sapporo
+servisnem	service
+Seul	Alone
+shranjeni	saved
+Šibko	Weak
+simptome	symptoms
+Singapur	Singapore
+skodelica	cup
+skodelice	cups
+Skupna	Total
+Smrčanje	Snoring
+Snemite	Download
+sodelovanje	cooperation
+sodelovanjem	cooperation
+Sofija	Sofia
+sopihanja	garden
+Sopihanje	Panting
+sopihate	you are panting
+souporabe	sharing
+spodbudimo	encourage
+Spol	Company
+spremljajočih	accompanying
+spremljajočimi	accompanying
+Sprožanje	Triggering
+sprožil	triggered
+Srčno	Heartfelt
+Srednji	Medium
+steroide	steroids
+steroidi	steroids
+številki	numbers
+stiskanja	compression
+stopnjevanja	escalations
+stopnjevanje	escalation
+stopnjevanjem	escalation
+storitvenega	service
+sušenja	drying
+Tajpej	Taipei
+Talin	Counted
+Taškent	Tashkent
+tedenska	weekly
+Telemetrija	Telemetry
+telemetrijo	telemetry
+titrirajte	titrate
+Tokio	Tokyo
+tovarniška	factory
+Trahe	Pull
+Traheostomija	Tracheostomy
+trende	trends
+trendi	trends
+trenutna	current
+udeležbo	participation
+ujemata	match
+Ulan	Rain
+Univerzalni	Universal
+uporabijo	use
+upravičenosti	eligibility
+Urgenca	Emergency room
+Urumči	Urumqi
+utripov	beats
+vadbo	exercise
+vami	by you
+Varšava	Warsaw
+vdihovanja	inhalation
+Veliko	Many
+ventilacija	ventilation
+ventilirano	ventilated
+vi	we
+Vklop	Power on
+vklopljenim	turned on
+vklopljeno	on
+vlažnost	humidity
+vmesniku	interface
+Vneseni	Imported
+vnosa	input
+Voden	Waterborne
+volumen	volume
+vpoglede	insights
+vprašalnika	questionnaire
+vsebnost	content
+Zabeleži	Record
+zabeležili	recorded
+zabeležiti	to record
+začne	will begin
+zadihan	out of breath
+Zadnje	Latest
+Zahtevana	Required
+Zahvaljujemo	Thank you.
+zaklepanja	locks
+Zamašenost	Clogging
+Zamik	Indent
+Zapuščanje	Abandonment
+Zapustim	I leave.
+zasebnosti	privacy
+zaupni	confidential
+zaznana	detected
+zaznane	detected
+zaznanega	detected
+Zaznani	Detected
+zaznanih	detected
+zaznano	detected
+zdravljenjem	treatment
+zdravljenji	treatments
+Zdravniški	Medical
+zdravniško	medical
+zdravstvene	health
+zdravstvenem	health
+zdravstvenemu	health care
+Zelandiji	Zealand
+Zelenortski	Cape Verdean
+Ženski	Women's
+žl	yellow
+žlica	spoon
+žlička	spoon
+žličke	spoons
+žlički	teaspoons
+Zmanjšana	Reduced
+Zmerno	Moderate
+puščanje	leak
+vlažilni	moisturizing
+plošče	plates
+Način	Mode
+mehurčkov	bubbles
+puščanja	leaks
+priključen	connected
+priključite	connect
+Če	If
+težave	problems
+več	more
+vlažilno	moisturizing
+zmanjšanje	reduction
+določen	certain
+kanile	cannulas
+bolnišničnimi	hospital
+način	mode
+zmanjšajte	reduce
+priključena	connected
+razkuževalno	disinfectant
+električno	electric
+omrežje	network
+območja	areas
+Držite	Hold
+čas	time
+nalaganj	uploads
+številka	number
+razkuževanja	disinfection
+razkuževanje	disinfection
+uspešno	successfully
+Moč	Power
+nameščena	installed
+držite	hold
+razkuževalni	disinfectant
+številke	numbers
+številko	number
+razkuževanju	disinfection
+končan	finished
+mogoče	maybe
+načina	way
+električnega	electric
+moč	power
+povzroči	cause
+Preveč	Too much
+želite	you want
+območje	area
+zračnega	air
+število	number
+Priporočeno	Recommended
+Občutljivost	Sensitivity
+pomoč	help
+težko	difficult
+vaš	your
+močno	strongly
+zamašen	clogged
+zamašitve	blockages
+vročine	fever
+priporočila	recommendations
+rešitve	solutions
+vključno	including
+možnost	possibility
+vaši	Yours
+priporočil	recommended
+največji	the largest
+Nič	Nothing
+bolnišnici	hospital
+če	if
+slabše	worse
+vaše	your
+občutljivost	sensitivity
