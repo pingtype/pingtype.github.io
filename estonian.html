@@ -399,7 +399,7 @@
 		{
 			//debugLog("isEstonian(" + thisCharacter + ")");
 			
-			var estonianCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZaäbdefghijklmnoöõprstuüŪvZ";
+			var estonianCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZaäÄbdefghijklmnoöõprstuüŪÜvZžÕÖšá";
 						
 			if (contains(estonianCharacters,thisCharacter) == true)
 			{
@@ -838,10 +838,10 @@
 						estonianLineText = estonianLineText + thisWordNotInDictionary;
 						literalLineText = literalLineText + thisWordNotInDictionary;
 					
-						//if (isEstonianString(thisWord) == true)
-						//{
-						//	missingWords = missingWords + thisWord + "\n";
-						//}
+						if (isEstonianString(thisWord) == true)
+						{
+							missingWords = missingWords + thisWord + "\n";
+						}
 					
 					} // end if the dictionary contains the word
 					
@@ -894,7 +894,7 @@
 				
 			} // end for every line
 			
-			//showMissingWords(missingWords);
+			debugLog(missingWords);
 			
 			return [outputHtml, outputText];
     		

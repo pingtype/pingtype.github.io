@@ -6024,7 +6024,7 @@ lahutada	to separate
 lahutades	subtracting
 lahutagu	let's separate
 lahutas	divorced
-lahutatud	divorced
+lahutatud	separated
 lahutava	separating
 lahutuskiri	divorce decree
 lahutuskirja	divorce decree
@@ -6741,7 +6741,7 @@ lõuendit	canvas
 lõukoer	lion dog
 lõukoera	lion dog
 lõukoerte	lion dogs
-lõuna	lunch
+lõuna	south
 lõunaajal	at lunchtime
 lõunale	for lunch
 Lõunamaa	Southern region
@@ -9953,7 +9953,7 @@ poodaks	to shop
 poodi	to the store
 poodud	shops
 pool	half
-poole	half
+poole	to
 pooled	parties
 pooleks	in half
 poolel	on the side
@@ -16926,7 +16926,7 @@ mustuse	dirt
 muudaks	would change
 muuhulgas	among other things
 müüki	for sale
-muul	pier
+muul	other
 muutmine	modification
 muutmiseks	to change
 muutnud	changed
@@ -20750,7 +20750,7 @@ luua	create
 luubi	magnifying glass
 Luup	Magnifying glass
 lX	lX
-määra	rate
+määra	set
 Määrake	Determine
 määrama	to determine
 määramata	unspecified
@@ -23179,7 +23179,7 @@ vahendid	tools
 vahendiga	with a tool
 Vahetab	Changes
 vahetus	exchange
-vaike	quiet
+vaike	default
 vaikebrauser	default browser
 vaikebrauseri	default browser
 vaikekaustade	default folders
@@ -23642,3 +23642,929 @@ ZPakub	ZOffers
 zpikslid	zpixels
 ZVeenduge	Make sure
 ZVõrkupääsuga	ZWith network access
+töötingimusi	working conditions
+Tuvastatud	Identified
+apnoe	apnea
+sihtväärtuse	target value
+Väljalaskeava	Outlet
+ummistus	blockage
+hingamissagedus	respiratory rate
+Kõrge	High
+sissehingamisrõhk	inspiratory pressure
+Akulaadija	Battery charger
+Väike	Small
+minutiventilatsioon	minute ventilation
+üle	over
+Pulssoksümeetri	Pulse oximeter
+iim	type
+vähendatud	reduced
+trükkplaadi	printed circuit board
+aegumas	expiring
+pulssoksümeetri	pulse oximeter
+kaablit	cable
+andurit	sensor
+Mitteühilduv	Incompatible
+Pulssoksümeeter	Pulse oximeter
+ühendatud	connected
+näit	reading
+mõõtmine	measurement
+hilineb	is late
+Pulsisageduse	Pulse rate
+ülemisel	on the top
+piiril	at the border
+alumisel	at the bottom
+Pulsisignaali	Pulse signal
+tuvastata	undetected
+sidehäire	communication failure
+tööta	work
+HPO	HPO
+hapnikuvarustus	oxygen supply
+väljaspool	outside
+sihtväärtusi	target values
+laetusaste	charge level
+kriitiliselt	critically
+väike	small
+hapnikusisaldus	oxygen content
+puuduv	missing
+mullitamine	bubbling
+sissehingamiskontuuri	inhalation circuit
+sihtväärtus	target value
+pulssoksümeeter	pulse oximeter
+Soojendamine	Warming up
+ülekuumenemine	overheating
+Elektrivõrgust	From the power grid
+rõhk	pressure
+Alarm	Alarm
+ühendust	connection
+nKontrollige	nCheck
+lekete	leaks
+madala	low
+rõhuga	with pressure
+hapnikuvarustust	oxygen supply
+hapnikuühendust	oxygen connection
+patsiendiühendus	patient association
+tahtlikult	intentionally
+hendage	hang
+NIV	NIV
+Optiflow	Optiflow
+väljalaskeava	outlet
+põlvühendust	knee joint
+jahtub	cools down
+nKui	nIf
+kõrvaldage	eliminate
+Täitke	Fill in
+lähtestage	reset
+alarm	alarm
+iimist	from the past
+väljumiseks	to exit
+määrake	determine
+väärtuseks	value
+tahtlik	intentional
+graafikuid	graphs
+Lähtestage	Reset
+lekkealarm	leak alarm
+sätted	settings
+õhuavadega	with air vents
+kanüüli	cannula
+ettenähtud	prescribed
+maksimumväärtusest	from the maximum value
+LPO	LPO
+voolikud	hoses
+CPAP	CPAP
+lülitage	switch
+iimile	to the type
+pordist	from the port
+vooluga	with current
+jätkamiseks	to continue
+vähendage	reduce
+sihtväärtust	target value
+lahendamiseks	to solve
+võib	can
+nbsp	nbsp
+hendatud	married
+oksümeeter	oximeter
+või	or
+desinfitseerimisvoolik	disinfection hose
+seejärel	then
+desinfitseerimisvoolikut	disinfection hose
+elektrivõrku	to the power grid
+ümbritseva	surrounding
+õhu	air
+töövahemikus	within the working range
+Etapp	Stage
+IPAP	IPAP
+EPAP	EPAP
+Min	Min
+Rõhk	Pressure
+piirväärtused	limit values
+sek	sec
+lööki	blow
+Välja	Out
+nproovi	try
+Tsükkel	Cycle
+rge	warning
+koodid	codes
+nPalun	Please
+proovi	try
+koodi	code
+õnnestus	succeeded
+hapnikukogust	oxygen content
+Alustage	Get started
+Minimaalne	Minimum
+iimiks	for now
+Lukustusekraan	Lock screen
+väärtus	value
+päeva	day
+UTC	UTC
+Pikaajalised	Long-term
+graafikud	graphs
+Trahheostoomiga	With a tracheostomy
+üleslaadimine	upload
+leslaadimine	loading
+tugevus	strength
+Varasemaid	Previous
+üleslaadimisi	uploads
+RR	RR
+PR	PR
+Märkus	Note
+soovituslikud	recommended
+elektrivõrgust	from the power grid
+seerianumber	serial number
+desinfektsiooni	disinfection
+olekut	status
+tuvastatud	identified
+Tuvastati	Identified
+ebaõnnestunud	unsuccessful
+Desinfitseerimiste	Disinfections
+Desinfitseerimise	Disinfection
+Kahetasemelistes	In two-level
+iimides	in the mood
+minimaalsageduse	minimum frequency
+hingamissageduse	respiratory rate
+apnoealarmi	apnea alarm
+vaikealarmi	default alarm
+Jaanuar	January
+Veebruar	February
+Märts	March
+Aprill	April
+Mai	May
+Juuni	June
+Juuli	July
+August	August
+September	September
+Oktoober	October
+November	November
+Detsember	December
+Tsüklite	Cycles
+Tootmiskuupäev	Production date
+Mudel	Model
+välja	out
+mahtuvus	capacitance
+Normaalne	Normal
+Paigaldamata	Not installed
+Käivitumas	Starting up
+Tootekood	Product code
+Tundlikum	More sensitive
+tundlik	sensitive
+Välju	Exit
+ALUSTA	START
+Versiooniteave	Version information
+Filtriteave	Filter information
+Akuteave	Battery information
+Ramp	Ramp
+järkjärguline	gradual
+Tehasesätetele	To factory settings
+Info	Information
+APOD	APOD
+Max	Max
+ö	night
+desinfitseerimiskomplekt	disinfection kit
+MV	MV
+Pt	Pt
+Ttl	Ttl
+Ti	Tue
+Ttot	Ttot
+Trig	Trig
+ROX	ROX
+sihtväärtused	target values
+Sihtrõhk	Target pressure
+rõhu	pressure
+Hingamissagedus	Respiratory rate
+Mullitamine	Bubbling
+minutis	per minute
+löögisagedus	heart rate
+min	min
+Koguleke	Total leak
+Hingamismaht	Tidal volume
+ml	ml
+O	O
+Minutiventilatsioon	Minute ventilation
+Alarmisätted	Alarm settings
+Kasutusteave	Usage information
+kohaline	local
+ühti	match
+Sihtniiskus	Target humidity
+sihtrõhk	target pressure
+Desinfitseerimisteave	Disinfection information
+Pulssoksümeetria	Pulse oximetry
+päeviku	diary
+OptiNIV	OptiNIV
+kestus	duration
+Käivitage	Start
+Minimaalsagedus	Minimum frequency
+Tõusu	Rise
+Päästikväärtused	Trigger values
+FlexiTrunk	FlexiTrunk
+OptiPAP	OptiPAP
+Apnoe	Apnea
+STEEM	STEEM
+SatSeconds	SatSeconds
+limiit	limit
+arvutamise	calculation
+Madala	Low
+Masimo	Masimo
+Nonini	Nonini
+Nellcori	Nellcor
+kaubamärgid	trademarks
+soojenemine	warming
+toimu	happen
+tuvastati	identified
+lülitatud	switched on
+soojendus	warming up
+väärtusele	to the value
+Sihtvooluhulk	Target flow rate
+sihtväärtuseks	target value
+nüüd	now
+samaks	the same
+Sätete	Provisions
+Süsteemi	System
+lisasätted	additional provisions
+alarmisätted	alarm settings
+iimi	mode
+nTeie	nYou
+myAirvo	myAirvo
+lõpus	at the end
+pärast	after
+lülitub	switches
+proovib	tries
+järgmise	next
+ajakohane	up-to-date
+kehtetud	invalid
+põhjus	reason
+siseneda	enter
+süsteemisätete	system settings
+Elektrikatkestus	Power outage
+põhjustab	causes
+HILINENUD	LATE
+sihtvahemik	target range
+piiridesse	within the borders
+jätkub	continues
+nei	no
+Rampi	Ramp
+Teenusetaotlus	Service request
+npalun	salary
+nnaaske	nnaaske
+nvale	next
+nPIN	nPIN
+iimis	in the mood
+närge	gnat
+nliiga	too much
+katseid	experiments
+nProovige	nTry it
+lahkumine	departure
+nKas	nIs
+hufiltri	hufilter
+käes	in hand
+täis	full
+Andmeid	About
+rike	failure
+ühendada	to connect
+lähtestab	resets
+kõrge	high
+piirid	borders
+Võimalik	Possible
+voolumõõturit	flow meter
+kõiki	all
+sätteid	provisions
+kski	anything
+küsimus	question
+päevik	diary
+lubatavad	permissible
+küsimused	questions
+jätkamist	continuation
+vaikesätetele	to default settings
+lähtestada	reset
+Anduri	Sensor
+IQ	IQ
+kvaliteediga	quality
+Pulsiotsing	Pulse search
+järgmisel	next
+signaalihäiring	signal interference
+perfusiooniindeks	perfusion index
+rõhku	pressure
+liigutades	moving
+sondi	probe
+terapeutilisele	therapeutic
+rõhule	to pressure
+mullitamise	bubbling
+Lekketundlikkus	Leakage sensitivity
+kasutustunnid	hours of use
+kasutuspäevad	days of use
+Tööaeg	Working hours
+Täiskasvanute	Adult
+kanüül	cannula
+Juunior	Junior
+Trahheostoom	Tracheostomy
+nostoomia	nostomy
+Päeva	Day
+väljahingamise	exhalation
+Väljahingamise	Exhalation
+nädal	week
+tänased	today's
+sümptomid	symptoms
+hingamine	breathing
+Hingamisraskused	Difficulty breathing
+ärmiselt	extremely
+Mõõdukalt	Moderately
+röga	sputum
+Rögaeritus	Sputum production
+teelusikatäit	teaspoon
+teelusikatäis	teaspoon
+Röga	Sputum
+tl	teaspoon
+tassitäis	cupful
+tassitäit	cupful
+supilusikatäis	tablespoon
+spl	tbsp
+Vedel	Liquid
+Vesine	Watery
+värvi	color
+Pruun	Brown
+Tumeroheline	Dark green
+Roheline	Green
+Kollane	Yellow
+hall	gray
+Veresegune	Mixed blood
+köha	cough
+Köha	Cough
+väsinuna	tired
+Väsimus	Fatigue
+vilistav	whistling
+Vilistav	Whistling
+Vilistamist	Whistling
+rindkere	chest
+pitsitus	tightness
+Pitsitus	Sealing
+rindkeres	in the chest
+Pitsitust	Tightness
+Ninnakinnisus	Nose estate
+Ninakinnisust	Nasal congestion
+tõsine	serious
+antibiootikume	antibiotics
+Antibiootikumid	Antibiotics
+genemise	genesis
+genemine	birth
+suukaudseid	oral
+steroide	steroids
+Suukaudsed	Oral
+steroidid	steroids
+inhaleeritavat	inhalant
+hooravimit	painkiller
+nebulisaatorit	nebulizer
+Inhaleeritav	Inhalable
+hooravim	rescue medication
+nebulisaator	nebulizer
+annust	dose
+ravipäevik	treatment diary
+registreerisite	you registered
+Privaatsusteatis	Privacy Notice
+nõusolekukeskus	consent center
+Isikupärastamise	Personalization
+Soovitage	Recommend
+põhjal	based on
+soovitusi	recommendations
+lahendusi	solutions
+osutajale	to the provider
+Uurimis	Research
+täiustamisvõimalused	improvement opportunities
+Huvi	Interest
+osaleda	participate
+uurimistöös	in research
+täiustamisvõimalustes	in improvement opportunities
+Lubage	Allow
+identifitseerimata	unidentified
+kaasnevate	accompanying
+täiustamiseks	for improvement
+toimivuse	performance
+raviandmete	treatment data
+profiiliteabe	profile information
+kliinilise	clinical
+diagnoosi	diagnosis
+teabega	with information
+andmeid	data
+võite	you can
+profiili	profile
+kontaktteavet	contact information
+võtta	take
+jagamaks	to share
+võimalusi	opportunities
+täiustamises	in improvement
+põhinevad	based
+toimivusel	performance
+raviandmetel	on medical records
+profiiliteabel	profile information
+asukohal	at the location
+kliinilisel	clinical
+diagnoosil	at diagnosis
+teabel	on information
+isikuliselt	personally
+tuvastatav	identifiable
+Fisher	Fisher
+Paykel	Paykel
+Healthcare	Healthcare
+seadmeandmete	device data
+jagamise	sharing
+toetada	to support
+ravimeetodid	treatment methods
+aadressilt	from the address
+fphcare	fphcare
+privaatsusõiguste	privacy rights
+teadmisi	knowledge
+võivad	may
+täiendavat	additional
+tuge	support
+võimalus	opportunity
+täiustuste	improvements
+väljatöötamist	development
+osalemine	participation
+toetab	supports
+mudeleid	models
+võidakse	may be
+profiiliteavet	profile information
+uurimisvõimaluste	research opportunities
+sobivuse	suitability
+määramiseks	to determine
+Osalemine	Participation
+edasise	further
+osalemise	participation
+kinnitamiseks	for confirmation
+registreeruda	register
+analüüsitakse	being analyzed
+suundumused	trends
+toetavad	support
+tõhusust	efficiency
+Anonüümitud	Anonymized
+koondatud	aggregated
+avalikustada	to disclose
+tootetäiustuste	product improvements
+Avaldamine	Publication
+teadlikkust	awareness
+tõhususest	efficiency
+kasutamisest	from use
+soodustada	to encourage
+võiksid	could
+toodetel	on products
+põhinevatest	based on
+ravimeetoditest	about treatment methods
+toimivus	performance
+diagnostikaandmeid	diagnostic data
+töödeldakse	being processed
+tagada	to ensure
+tõhus	effective
+toimimine	functioning
+täiustused	improvements
+pidevat	continuous
+ajakohasena	up-to-date
+hõlma	cover
+tuvastatavaid	identifiable
+raviandmeid	treatment data
+moodustavad	form
+isikupärastamise	personalization
+uurimis	investigation
+täiustamisvalikutest	improvement options
+tooteteenustega	with product services
+taotlete	you apply
+toe	support
+tooteteenuste	product services
+lisaseadmete	accessories
+kasutusaruannete	usage reports
+täiendamiseks	to supplement
+loobuda	to give up
+peakorteris	at headquarters
+Kogutud	Collected
+konfidentsiaalsena	confidentially
+jagata	to share
+teatatud	reported
+turvalises	in a safe place
+pilvekeskkonnas	in a cloud environment
+osalemist	participation
+nõustute	you agree
+tugimeeskond	support team
+co	co
+nz	new
+Privaatsusmeeskond	Privacy Team
+nMeie	Our
+ravitulemusi	treatment results
+leidlike	resourceful
+juhtivate	leading
+tervishoiulahenduste	healthcare solutions
+jagate	you share
+kaitseme	we protect
+kasutame	we use
+teiesuguste	like you
+abistamiseks	to help
+nLisateavet	nMore information
+teenustega	with services
+soovituste	recommendations
+lahenduste	solutions
+jagatud	shared
+sealhulgas	including
+küsimustiku	questionnaire
+vastuseid	answers
+arendust	development
+toetama	to support
+toetamiseks	to support
+Teavita	Notify
+tagasisidestamisest	feedback
+uurimisvõimalustest	research opportunities
+kontaktandmeid	contact details
+numbrit	numbers
+Uurimisvõimalustele	For research opportunities
+registreerimiseks	for registration
+ühe	one
+SMS	SMS
+mobiilinumber	mobile number
+Kokkuvõte	Summary
+Nõusolek	Consent
+arenduse	development
+osalemiseks	to participate
+koostööd	cooperation
+töötada	to work
+teiesugustele	for people like you
+Nõusoleku	Consent
+eelistused	preferences
+Osalege	Participate
+ajavööndi	time zone
+Austraalia	Australia
+Okeaania	Oceania
+Aafrika	Africa
+Häälestage	Tune in
+häälestamise	tuning
+Päevik	Diary
+öiseks	for the night
+mõjutab	affects
+kasutusaega	usage time
+avaekraani	home screen
+kasutuseesmärk	purpose of use
+kasutusteabe	usage information
+kasutuseesmärgi	purpose of use
+sihtniiskus	target humidity
+sihtvool	target flow
+vooluvahemik	current range
+nähtud	seen
+kontsentratsioon	concentration
+Balloonis	In a balloon
+avakuval	on the home screen
+ra	ra
+patsiendipäeviku	patient diary
+Konfigureerige	Configure
+vaikeküsimusi	default questions
+Kohandage	Customize
+küsimustikku	questionnaire
+esitamissagedus	frequency of presentation
+Sätted	Settings
+kaugjälgimine	remote monitoring
+InfoSmart	InfoSmart
+Webis	On the web
+patsiendikirje	patient record
+võimaldada	to enable
+kaugjälgimist	remote monitoring
+algseisu	initial state
+Lülitage	Switch
+Alusta	Start
+häälestamisest	tuning
+minimaalne	minimal
+terviseseisundist	health status
+vastasite	you answered
+sümptomite	symptoms
+Võib	Maybe
+kirjeldaksite	would describe
+kaalu	weight
+Alakaaluline	Underweight
+lekaaluline	weighty
+peamine	main
+hingamisravi	respiratory therapy
+määrati	was appointed
+KOK	COPD
+Bronhektaasia	Bronchiectasis
+ükski	none
+pöördusite	you turned
+ägenemise	exacerbation
+tõttu	because of
+ühtegi	none
+ks	s
+üks	one
+veetsite	you spent
+seisundi	condition
+öö	night
+õhupuudus	shortness of breath
+Puhkeolekus	At rest
+Aeglaselt	Slowly
+Intensiivsel	Intensive
+treeningul	in training
+suitsetamisharjumused	smoking habits
+suitsetanud	smoked
+Lõpetasin	I finished.
+Proovin	I'm trying.
+suitsetan	I smoke
+vaktsiine	vaccines
+Gripp	Flu
+Pneumokokk	Pneumococci
+COVID	COVID
+järgmistest	of the following
+vererõhk	blood pressure
+Südamehaigus	Heart disease
+Suhkurtõbi	Diabetes
+revus	in a hurry
+Norskamine	Snoring
+hindaksite	you would appreciate
+võimet	ability
+füüsilisi	physical
+tegevusi	activities
+Kõndimine	Walking
+trepist	from the stairs
+ülesminek	ascent
+toidukaupade	groceries
+kandmine	bearing
+Rahuldav	Satisfactory
+Kehv	Poor
+tervis	health
+suhtlemist	communication
+kordagi	never
+Harva	Rarely
+Mõnikord	Sometimes
+emotsionaalselt	emotionally
+mõjutanud	influenced
+stress	stress
+depressioon	depression
+kannatasite	you suffered
+väsimuse	fatigue
+võimes	capable
+ettekirjutatud	prescribed
+Mõnevõrra	Somewhat
+ldse	all
+huvitab	interested
+lühikesele	for short
+küsimustikule	to the questionnaire
+ravitulemuste	treatment results
+planeerimata	unplanned
+tervisevisiite	health visits
+EMO	EMO
+kiirabi	ambulance
+Haiglaravi	Hospitalization
+viimane	last
+visiit	visit
+nädalal	week
+nädalat	week
+kuuga	in a month
+võrreldes	compared to
+muutunud	changed
+halvem	worse
+ärevus	anxiety
+küsimustele	questions
+vastamiseks	to answer
+Koordineeritud	Coordinated
+maailmaaeg	world time
+Atlandi	Atlantic
+ookeani	ocean
+keskosa	middle part
+Cabo	Cabo
+Verde	Green
+saar	island
+Casablanca	Casablanca
+Monrovia	Monrovia
+Kesk	Central
+Windhoek	Windhoek
+Kairo	Cairo
+Harare	Harare
+Pretoria	Pretoria
+Nairobi	Nairobi
+Amman	Amman
+Beirut	Beirut
+Damaskus	Damascus
+Istanbul	Istanbul
+Nikosia	Nicosia
+Bagdad	Baghdad
+Kuveit	Kuwait
+Riyadh	Riyadh
+Teheran	Tehran
+Abu	Abu
+Dhabi	Dubai
+Muscat	Muscat
+Bakuu	Baku
+Jerevan	Yerevan
+Kabul	Kabul
+Islamabad	Islamabad
+Karachi	Karachi
+kent	Kent
+Chennai	Chennai
+Kolkata	Kolkata
+Mumbai	Mumbai
+Delhi	Delhi
+Sri	Sri
+Jayewardenepura	Jayewardenepura
+Katmandu	Kathmandu
+Astana	Astana
+Dhaka	Dhaka
+Jekaterinburg	Yekaterinburg
+Yangon	Yangon
+Rangoon	Rangoon
+Bangkok	Bangkok
+Hanoi	Hanoi
+Jakarta	Jakarta
+Novosibirsk	Novosibirsk
+Peking	Beijing
+Chongqing	Chongqing
+Hongkong	Hong Kong
+Urumqi	Urumqi
+Irkutsk	Irkutsk
+Krasnojarsk	Krasnoyarsk
+Kuala	Kuala
+Lumpur	Mud
+Singapur	Singapore
+Taipei	Taipei
+Ulaanbaatar	Ulaanbaatar
+Osaka	Osaka
+Sapporo	Sapporo
+Tokyo	Tokyo
+Soul	Seoul
+Jakutsk	Yakutsk
+Vladivostok	Vladivostok
+Magadan	I will sleep.
+Petropavlovsk	Petropavlovsk
+atski	atski
+Hawaii	Hawaii
+Alaska	Alaska
+Baja	Baja
+California	California
+Kanada	Canada
+Arizona	Arizona
+Chihuahua	Chihuahua
+La	Sat
+Paz	Peace
+Kaljumäestiku	Rocky Mountains
+Guadalajara	Guadalajara
+Mexico	Mexico
+Monterrey	Monterrey
+Saskatchewan	Saskatchewan
+Newfoundland	Newfoundland
+Gröönimaa	Greenland
+Indiana	Indiana
+Lima	Slime
+Quito	Quito
+Caracas	Caracas
+Asuncion	Asuncion
+Georgetown	Georgetown
+Manaus	Manaus
+San	San
+Juan	Juan
+Santiago	Santiago
+Brasiilia	Brazil
+Buenos	Buenos Aires
+Aires	Air
+Cayenne	Cayenne
+Fortaleza	Fortaleza
+Montevideo	Montevideo
+Salvador	Salvador
+kuupäevajoon	date line
+läänes	in the west
+Perth	Perth
+Adelaide	Adelaide
+Darwin	Darwin
+Brisbane	Brisbane
+Canberra	Canberra
+Melbourne	Melbourne
+Sydney	Sydney
+Guam	Guam
+Moresby	Moresby
+Hobart	Hobart
+Kaledoonia	Caledonia
+Auckland	Auckland
+Wellington	Wellington
+Nuku	Doll
+alofa	hello
+Samoa	Samoa
+Assoorid	Azores
+Dublin	Dublin
+Edinburgh	Edinburgh
+Lissabon	Lisbon
+London	London
+Reykjavik	Reykjavik
+Amsterdam	Amsterdam
+Berliin	Berlin
+Bern	Bern
+Stockholm	Stockholm
+Belgrad	Belgrade
+Bratislava	Bratislava
+Budapest	Budapest
+Ljubljana	Ljubljana
+Praha	Prague
+Brüssel	Brussels
+Kopenhaagen	Copenhagen
+Madrid	Madrid
+Pariis	Paris
+Sarajevo	Sarajevo
+Skopje	Skopje
+Varssavi	Warsaw
+Zagreb	Zagreb
+Bukarest	Bucharest
+Helsingi	Helsinki
+Kiiev	Kiev
+Riia	Riga
+Sofia	Sofia
+Tallinn	Tallinn
+Vilnius	Vilnius
+Kaliningrad	Kaliningrad
+Minsk	Minsk
+Moskva	Moscow
+Peterburi	St. Petersburg
+Volgograd	Volgograd
+Louis	Louis
+Thbilisi	Tbilisi
+süsteemivärskendus	system update
+Värskenduse	Update
+vooluvõrgust	from the mains
+installimisel	during installation
+värskenduse	update
+ühendage	connect
+elektrivõrguga	with electricity
+kasutusparameetrid	usage parameters
+algsätted	initial settings
+Telemeetria	Telemetry
+lukustuse	lock
+lukustusmenüü	lock menu
+hingamissagedust	respiratory rate
+avalehel	on the home page
+Igapäevase	Daily
+Ajavööndi	Time zone
+nihe	shift
+Kanüüli	Cannula
+Hapnikusisaldus	Oxygen content
+piirväärtus	limit value
+vaikevahemik	default range
+pulsisagedust	heart rate
+vaikealarm	default alarm
+Vaikealarmi	Default alarm
+viivitusaeg	delay time
+keskmistamise	averaging
+Limit	Limit
+Vaikeniiskus	Default humidity
+max	max
+Vaikevool	Default flow
+kahetasemelised	two-level
+iimid	modes
+kahetasemeline	two-level
+PCV	PCV
+piirväärtuste	limit values
+minutiventilatsiooni	minute ventilation
+sissehingamisrõhu	inspiratory pressure
+BCPAP	BCPAP
+vaikevool	default current
+Mullitamise	Bubbling
+rõhusätted	pressure settings
+Vaikerõhk	Default pressure
+lekketundlikkus	leak sensitivity
+pooleli	in progress
+Tehaseseadetele	To factory settings
+Desinfitseerimismeetod	Disinfection method
+vaikealarmid	default alarms
+Akurež	Battery mode
+režiimist	mode
+režiimile	mode
+hoitakse	is kept
+Ärge	don't
+režiimiks	mode
+režiimides	in modes
+Desinfitseerimisrežiim	Disinfection Mode
+SÜSTEEM	SYSTEM
+Tundlikkusrežiim	Sensitivity mode
+Reageerimisrežiim	Response mode
+tarkvaravärskendus	software update
+kuivatusrežiimi	drying mode
+naaske	return
+Teenindusrežiimis	In service mode
+ärge	don't
+Teenindusrežiimist	From service mode
+Õhufiltri	Air filter
+režiimi	mode
+režiim	mode
+Demorežiim	Demo mode
+Äärmiselt	Extremely
+Ägenemine	Exacerbation
+Ülekaaluline	Overweight
+Taškent	Tashkent
+Fidži	Fiji
+kasutusrežiim	mode of use
+tundlikkusrežiim	sensitivity mode
+reageerimisrežiim	response mode
+režiimid	modes
