@@ -1245,6 +1245,11 @@ input[type='range']::-ms-thumb {
 					</div>
 				</td>
 				<td>
+					<div id="bilingualLineBreaksButton" class="ButtonInner advanced" onclick="bilingualLineBreaksButtonClicked();" style="width:120px;visibility:hidden">
+						Bilingual line breaks
+					</div>
+				</td>
+				<td>
 					<div id="englishButton" class="ButtonInner advanced" onclick="englishButtonClicked();" style="width:55px;visibility:hidden">
 						English
 					</div>
@@ -9200,7 +9205,7 @@ input[type='range']::-ms-thumb {
 					// Add links to nanoLyrics if we're on localhost
 					if (location.hostname === "localhost" || location.hostname === "127.0.0.1")
 					{
-						pinyinHtmlWord = "<a href=\"http://localhost/nanoLyrics/nanoLyrics.html?text=" + thisWord + "\" target=_blank>" + pinyinHtmlWord + "</a>";
+						//pinyinHtmlWord = "<a href=\"http://localhost/nanoLyrics/nanoLyrics.html?text=" + thisWord + "\" target=_blank>" + pinyinHtmlWord + "</a>";
 					}
 					
 					// There is a space between each word
@@ -12802,7 +12807,8 @@ input[type='range']::-ms-thumb {
 			var tonesUp = ["á", "é", "í", "ó", "ú", "ế", "ǘ", "ń", "ḿ"];
 			var tonesDown = ["à", "è", "ì", "ò", "ù", "ề", "ǜ", "ǹ", "̀"];
 			var tonesDownUp = ["ǎ", "ě", "ǐ", "ǒ", "ǔ", "ǎ", "ê̌", "ě", "ǐ", "ǒ", "ǚ", "ň"];
-			var tonesFlat = ["ā", "ē", "ī", "ō", "ū", "ê", "ü", "̄", "̄"];
+			//var tonesFlat = ["ā", "ē", "ī", "ō", "ū", "ê", "ü", "̄", "̄"];
+			var tonesFlat = ["ā", "ē", "ī", "ō", "ū", "ê", "̄", "̄"];
 			
 			var thisStringWords = [thisString];
 			var numberWords = 1;
@@ -13208,7 +13214,7 @@ input[type='range']::-ms-thumb {
 			//debugLog("googleTranslateButtonClicked");
 			var thisChinese = document.getElementById("chineseTextArea").value;
 			
-			window.open("https://translate.google.com/#zh-CN/en/" + thisChinese,'_blank');
+			window.open("https://translate.google.com/#zh-TW/en/" + thisChinese,'_blank');
 		} // end function googleTranslatePhraseButtonClicked
 
 		function googleTranslateWordsButtonClicked()
@@ -13216,7 +13222,7 @@ input[type='range']::-ms-thumb {
 			//debugLog("googleTranslateButtonClicked");
 			var thisChinese = document.getElementById("dictionaryAddArea").value;
 			
-			window.open("https://translate.google.com/#zh-CN/en/" + thisChinese,'_blank');
+			window.open("https://translate.google.com/#zh-TW/en/" + thisChinese,'_blank');
 		} // end function googleTranslateWordsButtonClicked
 		
 		function dictionaryEditorGoogleTranslateButtonClicked()
@@ -13224,7 +13230,7 @@ input[type='range']::-ms-thumb {
 			//debugLog("dictionaryEditorGoogleTranslateButtonClicked");
 			var thisChinese = document.getElementById("dictionaryEditorChineseTextArea").value;
 			
-			window.open("https://translate.google.com/#zh-CN/en/" + thisChinese,'_blank');
+			window.open("https://translate.google.com/?sl=zh-TW&tl=en&text=" + thisChinese + "&op=translate",'_blank');
 
 		} // end function dictionaryEditorGoogleTranslateButtonClicked
 		
@@ -19767,6 +19773,88 @@ input[type='range']::-ms-thumb {
 			document.getElementById("htmlTable").innerHTML = "<table><tr><td>" + outputLines.split("\n").join("</td></tr><tr><td>") + "</td></tr></table>" + "<table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
 
 		} // end function lineBreaksButtonClicked
+		
+		function countNewlines(thisString)
+		{
+			 return thisString.split(/\r\n|\r|\n/).length;
+		}
+		
+		function bilingualLineBreaksButtonClicked()
+		{
+			var chineseTextAreaWidth = '550px';
+			var englishTextAreaWidth = '1200px';
+			
+			var chineseText = document.getElementById("chineseTextArea").value;
+			var englishText = document.getElementById("englishTextArea").value;
+			var spacedText = wordSpace(chineseText);
+			document.getElementById("chineseSpacedTextArea").value = spacedText;
+			
+			var chineseLines = chineseText.split("\n");
+			var englishLines = englishText.split("\n");
+			
+			var outputLines = "";
+			var outputLinesEnglish = "";
+			var numberLines = chineseLines.length;
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var thisLineChinese = chineseLines[currentLine];
+				var thisLineEnglish = englishLines[currentLine];
+				if (thisLineEnglish == undefined)
+              	{
+                  thisLineEnglish = "";
+              	}
+
+				var lineBrokenLine = lineBreakText(thisLineChinese, chineseTextAreaWidth);
+				
+				var lineBrokenLineEnglish = lineBreakEnglish(thisLineEnglish, englishTextAreaWidth);
+				
+				if (contains(lineBrokenLine, "\n") || contains(lineBrokenLineEnglish, "\n"))
+				{
+					var numberNewlinesChinese = countNewlines(lineBrokenLine);
+					var numberNewlinesEnglish = countNewlines(lineBrokenLineEnglish);
+					
+					while (numberNewlinesChinese > numberNewlinesEnglish)
+					{
+						lineBrokenLineEnglish = lineBrokenLineEnglish + "\n";
+						numberNewlinesEnglish = countNewlines(lineBrokenLineEnglish);
+					}
+
+					while (numberNewlinesChinese < numberNewlinesEnglish)
+					{
+						lineBrokenLine = lineBrokenLine + "\n";
+						numberNewlinesChinese = countNewlines(lineBrokenLine);
+					}
+					
+					outputLines = outputLines + lineBrokenLine + "\n";
+					outputLinesEnglish = outputLinesEnglish + lineBrokenLineEnglish + "\n";
+					
+					
+				} else {
+					outputLines = outputLines + lineBrokenLine + "\n";
+					outputLinesEnglish = outputLinesEnglish + lineBrokenLineEnglish + "\n";
+				}
+				
+			} // end for every line of input text
+			
+			document.getElementById("chineseTextArea").value = outputLines;
+			document.getElementById("englishTextArea").value = outputLinesEnglish;
+			document.getElementById("htmlTable").innerHTML = "<table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			translateButtonClicked();
+		} // end function bilingualLineBreaksButtonClicked
+
+		function lineBreakEnglish(englishText, englishTextAreaWidth)
+		{
+			if (englishText == "")
+			{
+				return "";
+			}
+			
+			document.getElementById("htmlTable").innerHTML = "<p class=\"lineWrappingAreaEnglish\" style=\"width:" + englishTextAreaWidth + "\">" + englishText + "</p><table><tr><td><div id=\"outputHtml\"></div></td></tr></table>";
+			var wrappedLines = extractLinesFromTextNode( document.querySelector( ".lineWrappingAreaEnglish" ).firstChild );
+
+			var wrappedText = wrappedLines.join("\n");
+			return wrappedText + "\n";
+		}
 		
 		function lineBreakText(chineseText, chineseTextAreaWidth)
 		{
