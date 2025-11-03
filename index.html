@@ -2378,17 +2378,32 @@ input[type='range']::-ms-thumb {
 	    			<div id="uploadedLabel">0 uploaded</div>
 	    		</td>
 	    		<td>
+	    			<!--
 	    			<div id="uploadButtonTable" onclick="uploadButtonClicked();">
 		    			<table>
 		    				<tr>
 	    						<td>
-	    							<!--<img src="sync.png"</img>-->
 	    							<div style="font-size:16px">
 	    								🔄
 	    							</div>
 	    						</td>
 	    						<td>
 	    							Upload
+	    						</td>
+		    				</tr>
+		    			</table>
+		    		</div>
+		    		-->
+	    			<div id="syncButtonTable" onclick="syncButtonClicked();">
+		    			<table>
+		    				<tr>
+	    						<td>
+	    							<div style="font-size:16px">
+	    								🔄
+	    							</div>
+	    						</td>
+	    						<td>
+	    							Sync
 	    						</td>
 		    				</tr>
 		    			</table>
@@ -3850,7 +3865,7 @@ input[type='range']::-ms-thumb {
 						
 						combinedDictionaryData = combinedDictionaryData + xmlhttp.responseText;
 					    
-					    saveDictionaryToLocalStorage(combinedDictionaryData.length);
+					    //saveDictionaryToLocalStorage(combinedDictionaryData.length);
 
 						//debugLog("saving " + savedDictionaryData.length);
 						
@@ -14917,7 +14932,7 @@ input[type='range']::-ms-thumb {
 			if (searchDictionary(thisWordChinese) == false)
 			{
 				// Add the word to the dictionary
-				combinedDictionaryData = combinedDictionaryData + "\n" + thisDefinition + "\n";
+				//combinedDictionaryData = combinedDictionaryData + "\n" + thisDefinition + "\n";
 				
 				appendToFile("PinyinDefinitionsSorted.txt", thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin);
 				//var addText = thisDefinition + "	" + getDateString();
@@ -14926,11 +14941,11 @@ input[type='range']::-ms-thumb {
 			   
 				switch (wordLength)
 				{
-					case 5: fiveWords = fiveWords + thisWordChinese + "\n"; fiveWordsSet.add(thisWordChinese); fiveWordsArray[thisWordChinese] = thisDefinition; break;
-					case 4: fourWords = fourWords + thisWordChinese + "\n"; fourWordsSet.add(thisWordChinese); fourWordsArray[thisWordChinese] = thisDefinition; break;
-					case 3: threeWords = threeWords + thisWordChinese + "\n"; threeWordsSet.add(thisWordChinese); threeWordsArray[thisWordChinese] = thisDefinition; break;
-					case 2: twoWords = twoWords + thisWordChinese + "\n"; twoWordsSet.add(thisWordChinese); twoWordsArray[thisWordChinese] = thisDefinition; break;
-					case 1: oneWords = oneWords + thisWordChinese + "\n"; oneWordsSet.add(thisWordChinese); oneWordsArray[thisWordChinese] = thisDefinition; break;
+					case 5: fiveWordsSet.add(thisWordChinese); fiveWordsArray[thisWordChinese] = thisDefinition; break;
+					case 4: fourWordsSet.add(thisWordChinese); fourWordsArray[thisWordChinese] = thisDefinition; break;
+					case 3: threeWordsSet.add(thisWordChinese); threeWordsArray[thisWordChinese] = thisDefinition; break;
+					case 2: twoWordsSet.add(thisWordChinese); twoWordsArray[thisWordChinese] = thisDefinition; break;
+					case 1: oneWordsSet.add(thisWordChinese); oneWordsArray[thisWordChinese] = thisDefinition; break;
 					default: break;
 				}
 			    
@@ -14952,7 +14967,7 @@ input[type='range']::-ms-thumb {
 				var newDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "\n";
 				
 				// Replace the definition in the dictionary
-				combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
+				//combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
 				
 				var wordLength = stringLength(thisWordChinese);
 				if (wordLength == 5)
@@ -15080,35 +15095,35 @@ input[type='range']::-ms-thumb {
 		{
 			if (thisWord != "")
 			{
-				var thisDefinition = textBetween(combinedDictionaryData,"\n"+thisWord+"	","\n");
-				
-				var thisDictionaryParts = combinedDictionaryData.split("\n"+thisWord+"	");
-				
-				var newDictionary = "";
-				
-				var numberParts = thisDictionaryParts.length - 1;
-				
-				for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-				{
-					var thisPart = thisDictionaryParts[currentPart];
-				
-					// Remove the first line if it's not the first part
-					if (currentPart != 0)
-					{
-						thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-					} // end remove first lines
-
-					// Remove the last line if it's not the last part
-					if (currentPart != numberParts)
-					{
-						thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-					} // end remove last lines
-					
-					newDictionary = newDictionary + "\n" + thisPart;
-					
-				} // end for every dictionary part
-				
-				combinedDictionaryData = newDictionary;
+				//var thisDefinition = textBetween(combinedDictionaryData,"\n"+thisWord+"	","\n");
+				//
+				//var thisDictionaryParts = combinedDictionaryData.split("\n"+thisWord+"	");
+				//
+				//var newDictionary = "";
+				//
+				//var numberParts = thisDictionaryParts.length - 1;
+				//
+				//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+				//{
+				//	var thisPart = thisDictionaryParts[currentPart];
+				//
+				//	// Remove the first line if it's not the first part
+				//	if (currentPart != 0)
+				//	{
+				//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+				//	} // end remove first lines
+				//
+				//	// Remove the last line if it's not the last part
+				//	if (currentPart != numberParts)
+				//	{
+				//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+				//	} // end remove last lines
+				//	
+				//	newDictionary = newDictionary + "\n" + thisPart;
+				//	
+				//} // end for every dictionary part
+				//
+				//combinedDictionaryData = newDictionary;
 				
 				
 				var wordLength = stringLength(thisWord);
@@ -15118,33 +15133,33 @@ input[type='range']::-ms-thumb {
 					fiveWordsSet.delete(thisWord);
 					fiveWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = fiveWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					fiveWords = newSubdictionary;
+					//var thisSubdictionaryParts = fiveWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//fiveWords = newSubdictionary;
 				} // end if wordLength is 5
 
 				if (wordLength == 4)
@@ -15152,33 +15167,33 @@ input[type='range']::-ms-thumb {
 					fourWordsSet.delete(thisWord);
 					fourWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = fourWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					fourWords = newSubdictionary;
+					//var thisSubdictionaryParts = fourWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//fourWords = newSubdictionary;
 				} // end if wordLength is 4
 
 				if (wordLength == 3)
@@ -15186,33 +15201,33 @@ input[type='range']::-ms-thumb {
 					threeWordsSet.delete(thisWord);
 					threeWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = threeWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					threeWords = newSubdictionary;
+					//var thisSubdictionaryParts = threeWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//threeWords = newSubdictionary;
 				} // end if wordLength is 3
 
 				if (wordLength == 2)
@@ -15220,67 +15235,67 @@ input[type='range']::-ms-thumb {
 					twoWordsSet.delete(thisWord);
 					twoWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = twoWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					twoWords = newSubdictionary;
+					//var thisSubdictionaryParts = twoWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//twoWords = newSubdictionary;
 				} // end if wordLength is 2
 
 				if (wordLength == 1)
 				{
 					oneWordsSet.delete(thisWord);
 					oneWordsArray[thisWord] = "";
-
-					var thisSubdictionaryParts = oneWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					oneWords = newSubdictionary;
+					//
+					//var thisSubdictionaryParts = oneWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//oneWords = newSubdictionary;
 				} // end if wordLength is 1
 				
 		  		var useGithub = document.getElementById("useGithubCheckbox").checked;
@@ -15310,34 +15325,34 @@ input[type='range']::-ms-thumb {
 			if (thisWord != "")
 			{
 				var thisDefinition = textBetween(combinedDictionaryData,"\n"+thisWord+"	","\n");
-				
-				var thisDictionaryParts = combinedDictionaryData.split("\n"+thisWord+"	");
-				
-				var newDictionary = "";
-				
-				var numberParts = thisDictionaryParts.length - 1;
-				
-				for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-				{
-					var thisPart = thisDictionaryParts[currentPart];
-				
-					// Remove the first line if it's not the first part
-					if (currentPart != 0)
-					{
-						thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-					} // end remove first lines
-
-					// Remove the last line if it's not the last part
-					if (currentPart != numberParts)
-					{
-						thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-					} // end remove last lines
-					
-					newDictionary = newDictionary + "\n" + thisPart;
-					
-				} // end for every dictionary part
-				
-				combinedDictionaryData = newDictionary;
+				//
+				//var thisDictionaryParts = combinedDictionaryData.split("\n"+thisWord+"	");
+				//
+				//var newDictionary = "";
+				//
+				//var numberParts = thisDictionaryParts.length - 1;
+				//
+				//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+				//{
+				//	var thisPart = thisDictionaryParts[currentPart];
+				//
+				//	// Remove the first line if it's not the first part
+				//	if (currentPart != 0)
+				//	{
+				//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+				//	} // end remove first lines
+				//
+				//	// Remove the last line if it's not the last part
+				//	if (currentPart != numberParts)
+				//	{
+				//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+				//	} // end remove last lines
+				//	
+				//	newDictionary = newDictionary + "\n" + thisPart;
+				//	
+				//} // end for every dictionary part
+				//
+				//combinedDictionaryData = newDictionary;
 				
 				
 				var wordLength = stringLength(thisWord);
@@ -15347,33 +15362,33 @@ input[type='range']::-ms-thumb {
 					fiveWordsSet.delete(thisWord);
 					fiveWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = fiveWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					fiveWords = newSubdictionary;
+					//var thisSubdictionaryParts = fiveWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//fiveWords = newSubdictionary;
 				} // end if wordLength is 5
 
 				if (wordLength == 4)
@@ -15381,33 +15396,33 @@ input[type='range']::-ms-thumb {
 					fourWordsSet.delete(thisWord);
 					fourWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = fourWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					fourWords = newSubdictionary;
+					//var thisSubdictionaryParts = fourWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+				//
+					//fourWords = newSubdictionary;
 				} // end if wordLength is 4
 
 				if (wordLength == 3)
@@ -15415,33 +15430,33 @@ input[type='range']::-ms-thumb {
 					threeWordsSet.delete(thisWord);
 					threeWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = threeWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					threeWords = newSubdictionary;
+					//var thisSubdictionaryParts = threeWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//threeWords = newSubdictionary;
 				} // end if wordLength is 3
 
 				if (wordLength == 2)
@@ -15449,33 +15464,33 @@ input[type='range']::-ms-thumb {
 					twoWordsSet.delete(thisWord);
 					twoWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = twoWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					twoWords = newSubdictionary;
+					//var thisSubdictionaryParts = twoWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//twoWords = newSubdictionary;
 				} // end if wordLength is 2
 
 				if (wordLength == 1)
@@ -15483,33 +15498,33 @@ input[type='range']::-ms-thumb {
 					oneWordsSet.delete(thisWord);
 					oneWordsArray[thisWord] = "";
 					
-					var thisSubdictionaryParts = oneWords.split("\n"+thisWord+"\n");
-				
-					var newSubdictionary = "";
-				
-					var numberParts = thisDictionaryParts.length - 1;
-				
-					for (var currentPart = 0; currentPart <= numberParts; currentPart++)
-					{
-						var thisPart = thisSubdictionaryParts[currentPart];
-				
-						// Remove the first line if it's not the first part
-						if (currentPart != 0)
-						{
-							thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
-						} // end remove first lines
-
-						// Remove the last line if it's not the last part
-						if (currentPart != numberParts)
-						{
-							thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
-						} // end remove last lines
-					
-						newSubdictionary = newSubdictionary + "\n" + thisPart;
-					
-					} // end for every dictionary part
-				
-					oneWords = newSubdictionary;
+					//var thisSubdictionaryParts = oneWords.split("\n"+thisWord+"\n");
+					//
+					//var newSubdictionary = "";
+					//
+					//var numberParts = thisDictionaryParts.length - 1;
+					//
+					//for (var currentPart = 0; currentPart <= numberParts; currentPart++)
+					//{
+					//	var thisPart = thisSubdictionaryParts[currentPart];
+					//
+					//	// Remove the first line if it's not the first part
+					//	if (currentPart != 0)
+					//	{
+					//		thisPart = thisPart.substring(thisPart.indexOf("\n") + 1);
+					//	} // end remove first lines
+					//
+					//	// Remove the last line if it's not the last part
+					//	if (currentPart != numberParts)
+					//	{
+					//		thisPart = thisPart.substring(0, thisPart.lastIndexOf("\n"));
+					//	} // end remove last lines
+					//
+					//	newSubdictionary = newSubdictionary + "\n" + thisPart;
+					//
+					//} // end for every dictionary part
+					//
+					//oneWords = newSubdictionary;
 				} // end if wordLength is 1
 								
 				
@@ -16377,11 +16392,11 @@ input[type='range']::-ms-thumb {
 					
 					switch (wordLength)
 					{
-						case 5: fiveWords = fiveWords + thisChinese + "\n"; fiveWordsSet.add(thisChinese); fiveWordsArray[thisChinese] = thisLine; break;
-						case 4: fourWords = fourWords + thisChinese + "\n"; fourWordsSet.add(thisChinese); fourWordsArray[thisChinese] = thisLine; break;
-						case 3: threeWords = threeWords + thisChinese + "\n"; threeWordsSet.add(thisChinese); threeWordsArray[thisChinese] = thisLine; break;
-						case 2: twoWords = twoWords + thisChinese + "\n"; twoWordsSet.add(thisChinese); twoWordsArray[thisChinese] = thisLine; break;
-						case 1: oneWords = oneWords + thisChinese + "\n"; oneWordsSet.add(thisChinese); oneWordsArray[thisChinese] = thisLine; break;
+						case 5: fiveWordsSet.add(thisChinese); fiveWordsArray[thisChinese] = thisLine; break;
+						case 4: fourWordsSet.add(thisChinese); fourWordsArray[thisChinese] = thisLine; break;
+						case 3: threeWordsSet.add(thisChinese); threeWordsArray[thisChinese] = thisLine; break;
+						case 2: twoWordsSet.add(thisChinese); twoWordsArray[thisChinese] = thisLine; break;
+						case 1: oneWordsSet.add(thisChinese); oneWordsArray[thisChinese] = thisLine; break;
 						default: break;
 					}
 					
@@ -16715,6 +16730,54 @@ input[type='range']::-ms-thumb {
                 }
             }
 		} // end function isPhpRunning
+		
+		function syncButtonClicked()
+		{
+			var addWords = localStorage["addWords"];
+			var editWords = localStorage["editWords"];
+			var removeWords = localStorage["removeWords"];
+			
+			var removeWordsLines = removeWords.split("\n");
+			var numberRemoveWordsLines = removeWordsLines.length;
+			
+			for (var currentLine = 0; currentLine < numberRemoveWordsLines; currentLine++)
+			{
+				var thisLine = removeWordsLines[currentLine];
+				var thisWord = textBetween(thisLine, "start", "\t");
+				removeWord(thisWord);
+			}
+			
+			var editWordsLines = editWords.split("\n");
+			var numberEditWordsLines = editWordsLines.length;
+			
+			for (var currentLine = 0; currentLine < numberEditWordsLines; currentLine++)
+			{
+				var thisLine = editWordsLines[currentLine];
+				var thisLineParts = thisLine.split("\t");
+				var thisWordChinese = thisLineParts[0];
+				var thisWordPinyin = thisLineParts[2];
+				var thisWordEnglish = thisLineParts[1];
+				
+				addWord(thisWordChinese, thisWordPinyin, thisWordEnglish);
+			}
+			
+			var addWordsLines = addWords.split("\n");
+			var numberAddWordsLines = addWordsLines.length;
+			
+			for (var currentLine = 0; currentLine < numberAddWordsLines; currentLine++)
+			{
+				var thisLine = addWordsLines[currentLine];
+				var thisLineParts = thisLine.split("\t");
+				var thisWordChinese = thisLineParts[0];
+				var thisWordPinyin = thisLineParts[2];
+				var thisWordEnglish = thisLineParts[1];
+				
+				addWord(thisWordChinese, thisWordPinyin, thisWordEnglish);
+			}
+			
+			translateButtonClicked();
+			
+		} // end function syncButtonClicked
 		
 		function uploadButtonClicked()
 		{
