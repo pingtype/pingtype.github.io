@@ -82401,3 +82401,1535 @@ Zтрепти	Zflickers	Ztrepti
 яркостта	brightness	iarkostta
 яснота	clarity	iasnota
 ӏ	ӏ	
+а	a	a
+ААларма	AAlarma	AAlarma
+Абу	Abu	Abu
+август	August	avgust
+Австралия	Australia	Avstraliya
+Авто	Auto	Avto
+автоматично	automatically	avtomatichno
+автоматично	automatically	avtomatichno
+Аделаида	Adelaide	Adelaida
+Азия	Asia	Aziya
+Азорски	Azorean	Azorski
+Айрес	Aires	Aĭres
+ако	if	ako
+Ако	If	Ako
+аксесоарите	the accessories	aksesoarite
+активен	active	aktiven
+Активен	Active	Aktiven
+Активир	Activate	Aktivir
+Активиран	Activated	Aktiviran
+Активирана	Activated	Aktivirana
+активиране	activation	aktivirane
+Активиране	Activation	Aktivirane
+активирани	activated	aktivirani
+активирате	activate	aktivirate
+активна	active	aktivna
+актуален	current	aktualen
+актуализация	update	aktualizatsiya
+актуализацията	the update	aktualizatsiyata
+Актуализацията	The update	Aktualizatsiyata
+актуализира	update	aktualizira
+Актуализира	Updates	Aktualizira
+актуализиран	updated	aktualiziran
+Актуализирането	Updating	Aktualiziraneto
+аларма	alarm	alarma
+Аларма	Alarm	Alarma
+алармата	the alarm	alarmata
+Алармата	The alarm	Alarmata
+аларми	alarms	alarmi
+Аларми	Alarms	Alarmi
+алармите	the alarms	alarmite
+Аляска	Alaska	Alyaska
+Аман	Amman	Aman
+Америка	America	Amerika
+Амстердам	Amsterdam	Amsterdam
+анализирана	analyzed	analizirana
+Анонимизирана	Anonymized	Anonimizirana
+антибиотици	antibiotics	antibiotitsi
+Антибиотици	Antibiotics	Antibiotitsi
+апнея	apnea	apneya
+Апнея	Apnea	Apneya
+април	April	april
+Аризона	Arizona	Arizona
+Астана	Astana	Astana
+Асунсион	Asuncion	Asunsion
+Атина	Athens	Atina
+Атлантик	Atlantic	Atlantik
+Атлантическо	Atlantic	Atlantichesko
+Африка	Africa	Afrika
+Бавно	Slowly	Bavno
+Багдад	Baghdad	Bagdad
+базата	the base	bazata
+Баку	Baku	Baku
+бал	ball	bal
+балонен	balloon	balonen
+балончета	bubbles	baloncheta
+балончета	bubbles	baloncheta
+Балончета	Bubbles	Baloncheta
+Банкок	Bangkok	Bankok
+батерия	battery	bateriya
+батерията	the battery	bateriyata
+Батерията	The battery	Bateriyata
+Баха	Baja	Bakha
+Без	Without	Bez
+Безпокойство	Anxiety	Bezpokoĭstvo
+Бейрут	Beirut	Beĭrut
+Белград	Belgrade	Belgrad
+Берлин	Berlin	Berlin
+Берн	Bern	Bern
+беше	was	beshe
+би	would	bi
+биха	would	bikha
+бихте	you would	bikhte
+Бихте	Would you	Bikhte
+Благодарим	Thank you	Blagodarim
+Богота	Bogota	Bogota
+болница	hospital	bolnitsa
+Болничен	Hospital	Bolnichen
+болничната	the hospital	bolnichnata
+Бразилия	Brazil	Braziliya
+Братислава	Bratislava	Bratislava
+Бризбън	Brisbane	Brizbŭn
+Брой	Number	Broĭ
+Бронхиектазия	Bronchiectasis	Bronkhiektaziya
+Брюксел	Brussels	Bryuksel
+Будапеща	Budapest	Budapeshta
+Буенос	Buenos Aires	Buenos
+Букурещ	Bucharest	Bukuresht
+Бутилиран	Bottled	Butiliran
+бъдат	be	bŭdat
+бъде	be	bŭde
+бъдете	be	bŭdete
+бъдещи	future	bŭdeshti
+Бърз	Fast	Bŭrz
+Бързо	Quickly	Bŭrzo
+бяхте	you were	byakhte
+в	in	v
+В	In	V
+ваксини	vaccines	vaksini
+вам	to you	vam
+Варшава	Warsaw	Varshava
+Вас	You	Vas
+Вашето	Yours	Vasheto
+Вашите	Yours	Vashite
+вашия	your	vashiya
+Вашия	Yours	Vashiya
+Вашият	Yours	Vashiyat
+вд	in	vd
+вдъхновени	inspired	vdŭkhnoveni
+веднъж	once	vednŭzh
+Веднъж	Once	Vednŭzh
+вентил	valve	ventil
+вентилация	ventilation	ventilatsiya
+вентилирана	ventilated	ventilirana
+Верде	Verde	Verde
+верига	chain	veriga
+версия	version	versiya
+Версия	Version	Versiya
+версията	the version	versiyata
+вече	already	veche
+вечер	evening	vecher
+ви	you	vi
+Ви	You	Vi
+Ви	You	Vi
+Ви !	You!	Vi !
+Вие	You	Vie
+Виена	Vienna	Viena
+визита	visit	vizita
+Визита	Visit	Vizita
+визити	visits	viziti
+Вилнюс	Vilnius	Vilnyus
+Винаги	Always	Vinagi
+вис	height	vis
+Вис	Vis	Vis
+висок	tall	visok
+Висок	Tall	Visok
+висока	high	visoka
+Висока	High	Visoka
+високите	the high ones	visokite
+високо	high	visoko
+Високо	High	Visoko
+Вкл	On	Vkl
+включват	include	vklyuchvat
+включена	included	vklyuchena
+включите	turn on	vklyuchite
+включително	including	vklyuchitelno
+Владивосток	Vladivostok	Vladivostok
+влажност	humidity	vlazhnost
+Влажност	Humidity	Vlazhnost
+Влажността	Humidity	Vlazhnostta
+влезе	entered	vleze
+Влизане	Login	Vlizane
+Внимание	Attention	Vnimanie
+вода	water	voda
+водата	the water	vodata
+водещи	leading	vodeshti
+водната	the water	vodnata
+Воднисти	Watery	Vodnisti
+Волгоград	Volgograd	Volgograd
+време	time	vreme
+Време	Time	Vreme
+време-02	time-02	vreme-02
+време-11	time-11	vreme-11
+време+12	time+12	vreme+12
+връзка	connection	vrŭzka
+връзката	the connection	vrŭzkata
+всички	all	vsichki
+Всички	All	Vsichki
+всяка	each	vsyaka
+всяко	each	vsyako
+Вт	Tue	Vt
+Вход	Login	Vkhod
+във	in	vŭv
+Въведеният	The introduced	Vŭvedeniyat
+Въведете	Enter	Vŭvedete
+въвеждане	introduction	vŭvezhdane
+въз	on	vŭz
+въздух	air	vŭzdukh
+въздушния	the air	vŭzdushniya
+Възможен	Possible	Vŭzmozhen
+възможност	opportunity	vŭzmozhnost
+възможности	opportunities	vŭzmozhnosti
+възнамерявате	you intend	vŭznameryavate
+Възникна	It arose	Vŭznikna
+възползват	benefit	vŭzpolzvat
+възрастни	adults	vŭzrastni
+възстановяване	recovery	vŭzstanovyavane
+Възстановяване	Recovery	Vŭzstanovyavane
+Възстановяването	The recovery	Vŭzstanovyavaneto
+външно	externally	vŭnshno
+въпроси	questions	vŭprosi
+въпросник	questionnaire	vŭprosnik
+въпросника	the questionnaire	vŭprosnika
+вървят	they are going	vŭrvyat
+върнете	return	vŭrnete
+Вътрешна 	Internal	Vŭtreshna 
+гарантира	guarantees	garantira
+ги	them	gi
+го	it	go
+година	year	godina
+години	years	godini
+голямо	big	golyamo
+горната	the upper	gornata
+готовност	readiness	gotovnost
+Гран	Grand	Gran
+граница	border	granitsa
+Граница	Border	Granitsa
+граници	borders	granitsi
+границите	the borders	granitsite
+графики	graphics	grafiki
+Гренландия	Greenland	Grenlandiya
+грешка	error	greshka
+Грешка	Error	Greshka
+грешна	wrong	greshna
+Грешна	Wrong	Greshna
+грижи	care	grizhi
+грижите	care	grizhite
+Гуадалахара	Guadalajara	Guadalakhara
+Гуам	Guam	Guam
+гърдите	chest	gŭrdite
+гъсти	dense	gŭsti
+Гъсти	Thick	Gŭsti
+Гъстота	Density	Gŭstota
+да	yes	da
+Да	Yes	Da
+Даби	Dabi	Dabi
+Давате	You give	Davate
+Дай	Give	Daĭ
+Дака	Dhaka	Daka
+дали	whether	dali
+Дамаск	Damascus	Damask
+данни	data	danni
+данни	data	danni
+Данни	Data	Danni
+Данните	The data	Dannite
+Дарвин	Darwin	Darvin
+Дата	Date	Data
+датата	the date	datata
+две	two	dve
+Деактивирана	Disabled	Deaktivirana
+Деактивиране	Deactivation	Deaktivirane
+дебит	debit	debit
+дез	death	dez
+дезинф	disinfectant	dezinf
+дезинфекцирано	disinfected	dezinfektsirano
+дезинфекция	disinfection	dezinfektsiya
+Дезинфекция	Disinfection	Dezinfektsiya
+дезинфекцията	disinfection	dezinfektsiyata
+деидентифицирани	deidentified	deidentifitsirani
+декември	December	dekemvri
+Делхи	Delhi	Delkhi
+Демонстрационен	Demonstration	Demonstratsionen
+Ден	Day	Den
+деня	the day	denya
+деня	the day	denya
+депресия	depression	depresiya
+деца	children	detsa
+Джакарта	Jakarta	Dzhakarta
+Джаяварденепура	Jayawardenepura	Dzhayavardenepura
+Джорджтаун	Georgetown	Dzhordzhtaun
+Диабет	Diabetes	Diabet
+диагноза	diagnosis	diagnoza
+диагностицирани	diagnosed	diagnostitsirani
+диагностичните	diagnostic	diagnostichnite
+диапазон	range	diapazon
+диапазон	range	diapazon
+Диапазон	Range	Diapazon
+дисплей	display	displeĭ
+дисплея	display	displeya
+дистанционно	remote	distantsionno
+Дистанционно	Remote	Distantsionno
+дих	breath	dikh
+Дих	Breath	Dikh
+Дихателен	Respiratory	Dikhatelen
+дихателна	respiratory	dikhatelna
+Дихателна	Respiratory	Dikhatelna
+дишане	breathing	dishane
+дишате	you breathe	dishate
+днев	day	dnev
+дневн	daily	dnevn
+дневна	living room	dnevna
+дневник	diary	dnevnik
+Дневник	Diary	Dnevnik
+дневника	the diary	dnevnika
+дневно	daily	dnevno
+днешните	today's	dneshnite
+дни	days	dni
+Дни	Days	Dni
+до	to	do
+Добавяне	Add	Dobavyane
+добра	good	dobra
+Добра	Good	Dobra
+добре	good	dobre
+доброволно	voluntarily	dobrovolno
+доведе	led	dovede
+доза	dose	doza
+дози	doses	dozi
+докато	while	dokato
+Долейте	Top up	Doleĭte
+долната	the lower one	dolnata
+Донякъде	Somewhat	Donyakŭde
+допустимостта	admissibility	dopustimostta
+допълване	complement	dopŭlvane
+допълнителен	additional	dopŭlnitelen
+допълнителна	additional	dopŭlnitelna
+доставите	deliver	dostavite
+доставчик	supplier	dostavchik
+достояние	property	dostoyanie
+достъпни	accessible	dostŭpni
+друга	other	druga
+други	others	drugi
+Други	Others	Drugi
+друго	other	drugo
+Дъблин	Dublin	Dŭblin
+Дългосрочни	Long-term	Dŭlgosrochni
+е	is	e
+Европа	Europe	Evropa
+един	one	edin
+Единбург	Edinburgh	Edinburg
+ежедневно	daily	ezhednevno
+ежемес	monthly	ezhemes
+ежемесечно	monthly	ezhemesechno
+ежеседмично	weekly	ezhesedmichno
+език	language	ezik
+Екатерининбург	Yekaterinburg	Ekaterininburg
+Екип	Team	Ekip
+екран	screen	ekran
+Екран	Screen	Ekran
+Експираторно	Expiratory	Ekspiratorno
+експлоатация	operation	eksploatatsiya
+емоционално	emotionally	emotsionalno
+Ереван	Yerevan	Erevan
+ефективно	effectively	efektivno
+ефективността	efficiency	efektivnostta
+Жена	Woman	Zhena
+Жълт	Yellow	Zhŭlt
+за	for	za
+За	For	Za
+Забележка	Note	Zabelezhka
+заболяване	disease	zabolyavane
+завършен	completed	zavŭrshen
+завършена	completed	zavŭrshena
+завършено	completed	zavŭrsheno
+Завърши	Finish	Zavŭrshi
+Загреб	Zagreb	Zagreb
+Загрява	Warms up	Zagryava
+загряване	warm-up	zagryavane
+Загряване	Warm-up	Zagryavane
+загуба	loss	zaguba
+Загубата	The loss	Zagubata
+загубено	lost	zagubeno
+Задава	Sets	Zadava
+задаване	assignment	zadavane
+Задаване	Setting	Zadavane
+зададен	set	zadaden
+Задай	Set	Zadaĭ
+Задайте	Set	Zadaĭte
+задачи	tasks	zadachi
+задейства	trigger	zadeĭstva
+Задействане	Activation	Zadeĭstvane
+задействат	trigger	zadeĭstvat
+задръжте	hold	zadrŭzhte
+Задръжте	Hold	Zadrŭzhte
+заедно	together	zaedno
+заключване	lock	zaklyuchvane
+заключено	locked	zaklyucheno
+Закъсн	Late	Zakŭsn
+Закъснение	Delay	Zakŭsnenie
+Закъсняло	Late	Zakŭsnyalo
+Западна	Western	Zapadna
+Запазване	Save	Zapazvane
+запазени	reserved	zapazeni
+запис	recording	zapis
+Запис	Recording	Zapis
+записахте	you recorded	zapisakhte
+запишете	save	zapishete
+Запишете	Save	Zapishete
+започне	start	zapochne
+Започнете	Start	Zapochnete
+запу-	start-	zapu-
+запушване	blockage	zapushvane
+запушвания	blockages	zapushvaniya
+запушвания	blockages	zapushvaniya
+запушен	clogged	zapushen
+Запушен	Clogged	Zapushen
+заради	because of	zaradi
+Зарежда	Loading	Zarezhda
+Зареждане	Loading	Zarezhdane
+заряд	charge	zaryad
+зарядното	the charger	zaryadnoto
+Затваряне	Closing	Zatvaryane
+Затруднено	Difficult	Zatrudneno
+захранване	power supply	zakhranvane
+захранване	power supply	zakhranvane
+защитена	protected	zashtitena
+защитим	defensible	zashtitim
+Заявена	Claimed	Zayavena
+заявка	request	zayavka
+Звук	Sound	Zvuk
+звука	the sound	zvuka
+здраве	health	zdrave
+Здравейте	Hello	Zdraveĭte
+здравеопазване	healthcare	zdraveopazvane
+здравето	health	zdraveto
+здравни	health	zdravni
+здравословното	healthy	zdravoslovnoto
+Зеландия	Zealand	Zelandiya
+зелен	green	zelen
+Зелен	Green	Zelen
+знам	I know	znam
+зона	zone	zona
+и	and	i
+идентифицирана	identified	identifitsirana
+идентифицирани	identified	identifitsirani
+идентифицират	identify	identifitsirat
+Изберете	Choose	Izberete
+Избор	Choice	Izbor
+избрани	chosen	izbrani
+извадете	remove	izvadete
+изведете	bring out	izvedete
+Известие	Notice	Izvestie
+извън	outside	izvŭn
+Извършва	Performs	Izvŭrshva
+издания	editions	izdaniya
+издиш	exhale	izdish
+издишването	the exhalation	izdishvaneto
+Изкл	Off	Izkl
+Изклю-	Off-	Izklyu-
+изключва	excludes	izklyuchva
+изключвайте	turn off	izklyuchvaĭte
+Изключване	Shutdown	Izklyuchvane
+изключен	off	izklyuchen
+изключено	off	izklyucheno
+изключете	turn off	izklyuchete
+Изключете	Turn off	Izklyuchete
+изключи	turned off	izklyuchi
+изключи	turned off	izklyuchi
+Изключително	Exceptional	Izklyuchitelno
+излезе	came out	izleze
+излишък	surplus	izlishŭk
+измерване	measurement	izmervane
+Измерването	The measurement	Izmervaneto
+изминалата	the past	izminalata
+изминалия	the past	izminaliya
+изморени	tired	izmoreni
+използва	uses	izpolzva
+Използва	Uses	Izpolzva
+Използвайте	Use	Izpolzvaĭte
+използваме	we use	izpolzvame
+използване	use	izpolzvane
+използване	use	izpolzvane
+използването	the use	izpolzvaneto
+използвани	used	izpolzvani
+използват	use	izpolzvat
+използвате	you use	izpolzvate
+Използвате	You are using	Izpolzvate
+Изпращане	Sending	Izprashtane
+изпълнение	execution	izpŭlnenie
+изпълнявате	you perform	izpŭlnyavate
+изследване	research	izsledvane
+изследвания	research	izsledvaniya
+изследователски	research	izsledovatelski
+Изтекла	Expired	Iztekla
+изтекло	expired	izteklo
+Изток	East	Iztok
+източника	the source	iztochnika
+източно	east	iztochno
+изх	exit	izkh
+Изход	Exodus	Izkhod
+изходно	output	izkhodno
+изходното	the starting point	izkhodnoto
+Изходното	The output	Izkhodnoto
+изходящо	outgoing	izkhodyashto
+Изчакайте	Wait.	Izchakaĭte
+изчистени	cleared	izchisteni
+или	or	ili
+ИЛИ	OR	ILI
+Имали	Have you	Imali
+имам	I have	imam
+имате	you have	imate
+Имате	You have	Imate
+имейл	email	imeĭl
+индекс	index	indeks
+Индиана	Indiana	Indiana
+индивидуално	individually	individualno
+индивидуално	individually	individualno
+инициализира	initialize	initsializira
+Инициализира	Initialize	Initsializira
+инспираторната	inspiratory	inspiratornata
+инспираторно	inspiratory	inspiratorno
+инспириране	inspiration	inspirirane
+инсталирана	installed	instalirana
+Инсталиране	Installation	Instalirane
+инсталирането	the installation	instaliraneto
+Интензивни	Intensive	Intenzivni
+Интерес	Interest	Interes
+интересуваме	we are interested	interesuvame
+информация	information	informatsiya
+информация	information	informatsiya
+Информация	Information	Informatsiya
+информацията	the information	informatsiyata
+Информацията	The information	Informatsiyata
+информира	inform	informira
+инхалатор	inhaler	inkhalator
+Иркутск	Irkutsk	Irkut·sk
+искате	you want	iskate
+Искате	You want	Iskate
+Исламабад	Islamabad	Islamabad
+Истанбул	Istanbul	Istanbul
+Йерусалим	Jerusalem	Ĭerusalim
+каб	cab	kab
+кабел	cable	kabel
+кабела	the cable	kabela
+кабинет	office	kabinet
+Кабо	Cabo	Kabo
+Кабул	Kabul	Kabul
+Казабланка	Casablanca	Kazablanka
+Кайен	Cayenne	Kaĭen
+Кайро	Cairo	Kaĭro
+как	how	kak
+Как	How	Kak
+Какви	What	Kakvi
+както	as	kakto
+Какъв	What kind	Kakŭv
+Каледония	Caledonia	Kaledoniya
+Калининград	Kaliningrad	Kaliningrad
+Калифорния	California	Kaliforniya
+камера	camera	kamera
+Канада	Canada	Kanada
+Канбера	Canberra	Kanbera
+канюла	cannula	kanyula
+Канюла	Cannula	Kanyula
+канюлата	the cannula	kanyulata
+капацитет	capacity	kapatsitet
+Каракас	Caracas	Karakas
+Карачи	Karachi	Karachi
+Катманду	Kathmandu	Katmandu
+като	as	kato
+Кафяв	Brown	Kafyav
+качване	upload	kachvane
+Качване	Upload	Kachvane
+Качването	Uploading	Kachvaneto
+качвания	uploads	kachvaniya
+качество	quality	kachestvo
+кашлица	cough	kashlitsa
+Кашлица	Cough	Kashlitsa
+кашлицата	the cough	kashlitsata
+Киев	Kyiv	Kiev
+кислород	oxygen	kislorod
+кислород	oxygen	kislorod
+Кислород	Oxygen	Kislorod
+кислорода	oxygen	kisloroda
+Кислороден	Oxygenated	Kisloroden
+кислородът	oxygen	kislorodŭt
+Кито	Quito	Kito
+клинична	clinical	klinichna
+Кога	When	Koga
+когато	when	kogato
+Код	Code	Kod
+което	which	koeto
+които	which	koito
+Колката	Kolkata	Kolkata
+колко	how much	kolko
+Колко	How much	Kolko
+коляно	knee	kolyano
+комплект	set	komplekt
+комун	commune	komun
+Конг	Kong	Kong
+кондензат	condensate	kondenzat
+кондензата	condensate	kondenzata
+контакт	contact	kontakt
+контакт	contact	kontakt
+Контрол	Control	Kontrol
+контролира	controls	kontrolira
+Конфигуриране	Configuration	Konfigurirane
+концентратор	concentrator	kontsentrator
+концентрация	concentration	kontsentratsiya
+Концентрация	Concentration	Kontsentratsiya
+Координирано	Coordinated	Koordinirano
+Копенхаген	Copenhagen	Kopenkhagen
+кортикостероиди	corticosteroids	kortikosteroidi
+Коте	Kitten	Kote
+която	which	koyato
+Край	End	Kraĭ
+Красноярск	Krasnoyarsk	Krasnoyarsk
+кратки	short	kratki
+кратък	short	kratŭk
+края	the end	kraya
+Критично	Critical	Kritichno
+кръв	blood	krŭv
+кръвно	blood	krŭvno
+Куала	Kuala	Kuala
+Кувейт	Kuwait	Kuveĭt
+Куяба	Cuiaba	Kuyaba
+към	to	kŭm
+л	l	l
+Ла	La	La
+лекар	doctor	lekar
+лекувани	treated	lekuvani
+лекувате	you treat	lekuvate
+Лесно	Easy	Lesno
+лечение	treatment	lechenie
+ли	do you	li
+Лима	Lima	Lima
+линия	line	liniya
+Линия	Line	Liniya
+липса	lack	lipsa
+липсва	missing	lipsva
+Липсва	Missing	Lipsva
+Лисабон	Lisbon	Lisabon
+лица	faces	litsa
+Лондон	London	London
+Луис	Louis	Luis
+Лумпур	Lumpur	Lumpur
+лъжица	spoon	lŭzhitsa
+лъжички	spoons	lŭzhichki
+Любляна	Ljubljana	Lyublyana
+Магадан	Magadan	Magadan
+Мадрид	Madrid	Madrid
+май	May	maĭ
+максимален	maximum	maksimalen
+Максимален	Maximum	Maksimalen
+Максимално	Maximum	Maksimalno
+Максимум	Maximum	Maksimum
+малко	a little	malko
+Малко	A little	Malko
+Манаус	Manaus	Manaus
+Марки	Brands	Marki
+март	March	mart
+Масатлан	Mazatlan	Masatlan
+маска	mask	maska
+Маскат	Muscat	Maskat
+маската	the mask	maskata
+махнете	remove	makhnete
+ме	me	me
+медицинска	medical	meditsinska
+между	between	mezhdu
+Мексико	Mexico	Meksiko
+Мелбърн	Melbourne	Melbŭrn
+мен	me	men
+меню	menu	menyu
+Меню	Menu	Menyu
+менюто	the menu	menyuto
+месец	month	mesets
+местоположение	location	mestopolozhenie
+мин	min	min
+Мин	Min	Min
+Миналата	The past	Minalata
+минимален	minimal	minimalen
+Минимален	Minimum	Minimalen
+минимална	minimal	minimalna
+Минимална	Minimum	Minimalna
+Минск	Minsk	Minsk
+минута	minute	minuta
+минутен	minute	minuten
+минути	minutes	minuti
+минути	minutes	minuti
+Минутна	Minute	Minutna
+много	very	mnogo
+Много	Many	Mnogo
+мобилен	mobile	mobilen
+Мобилен	Mobile	Mobilen
+могат	can	mogat
+могли	could	mogli
+Модел	Model	Model
+модема	the modem	modema
+моето	mine	moeto
+може	can	mozhe
+Може	Can	Mozhe
+можете	you can	mozhete
+Можете	You can	Mozhete
+моите	my	moite
+Молим	Please	Molim
+Моля	Please	Molya
+момента	moment	momenta
+Монровия	Monrovia	Monroviya
+Монтевидео	Montevideo	Montevideo
+Монтерей	Monterrey	Montereĭ
+монтирана	mounted	montirana
+монтирано	mounted	montirano
+Морсби	Moresby	Morsbi
+Москва	Moscow	Moskva
+моя	mine	moya
+Мумбай	Mumbai	Mumbaĭ
+Мъж	Man	Mŭzh
+на	on	na
+На	On	Na
+Набл	Nabl	Nabl
+наблюдение	observation	nablyudenie
+набор	set	nabor
+над	over	nad
+Над	Over	Nad
+Наднормено	Overtime	Nadnormeno
+наз	name	naz
+Назад	Back	Nazad
+назална	nasal	nazalna
+Назална	Nasal	Nazalna
+назалната	nasal	nazalnata
+най-скорошната	the most recent	naĭ-skoroshnata
+Найроби	Nairobi	Naĭrobi
+нал	nal	nal
+наличен	available	nalichen
+Налична	Available	Nalichna
+налични	available	nalichni
+наляг	pressure	nalyag
+налягане	pressure	nalyagane
+Налягане	Pressure	Nalyagane
+налягането	the pressure	nalyaganeto
+налягането	the pressure	nalyaganeto
+Налягането	The pressure	Nalyaganeto
+Намалена	Reduced	Namalena
+Намалете	Reduce	Namalete
+намаляването	the reduction	namalyavaneto
+Напомняне	Reminder	Napomnyane
+Напред	Forward	Napred
+например	for example	naprimer
+Напускане	Check-out	Napuskane
+нарастване	growth	narastvane
+нас	us	nas
+Наскоро	Recently	Naskoro
+настр	settings	nastr
+Настр	Settings	Nastr
+настроите	set up	nastroite
+Настройване	Setup	Nastroĭvane
+настройването	the setting	nastroĭvaneto
+настройката	the setting	nastroĭkata
+Настройката	The setting	Nastroĭkata
+настройки	settings	nastroĭki
+настройки	settings	nastroĭki
+Настройки	Settings	Nastroĭki
+настройките	the settings	nastroĭkite
+настройките	the settings	nastroĭkite
+Настройките	The settings	Nastroĭkite
+Настройте	Set up	Nastroĭte
+насърчи	encourage	nasŭrchi
+Натиснете	Press	Natisnete
+Научете	Learn	Nauchete
+нач	beginning	nach
+началния	the initial	nachalniya
+Начин	Way	Nachin
+Нашата	Our	Nashata
+не	no	ne
+Не	No	Ne
+небулайзер	nebulizer	nebulaĭzer
+Невалидни	Invalid	Nevalidni
+Невъзможно	Impossible	Nevŭzmozhno
+Нед	Sun	Ned
+недостиг	shortage	nedostig
+незабавно	immediately	nezabavno
+неидентифицирани	unidentified	neidentifitsirani
+Неизвестно	Unknown	Neizvestno
+НЕИЗВЕСТНО	UNKNOWN	NEIZVESTNO
+Неизпр	Unsent	Neizpr
+Неизправна	Faulty	Neizpravna
+неизправно	malfunctioning	neizpravno
+Неизправност	Malfunction	Neizpravnost
+необходима	necessary	neobkhodima
+Неочакван	Unexpected	Neochakvan
+непланирани	unplanned	neplanirani
+неподдържан	unsupported	nepoddŭrzhan
+Неподдържан	Unsupported	Nepoddŭrzhan
+Неподдържана	Unsupported	Nepoddŭrzhana
+Непоказване	Not showing	Nepokazvane
+Неправилен	Incorrect	Nepravilen
+Неприложимо	Not applicable	Neprilozhimo
+Несъвместим	Incompatible	Nesŭvmestim
+Несъответствие	Inconsistency	Nesŭotvet·stvie
+неуспешна	unsuccessful	neuspeshna
+Неуспешна	Unsuccessful	Neuspeshna
+неуспешно	unsuccessful	neuspeshno
+Неуспешно	Failed	Neuspeshno
+нещата	things	neshtata
+ни	us	ni
+нива	levels	niva
+ниво	level	nivo
+ние	we	nie
+Никога	Never	Nikoga
+Никое	Nobody	Nikoe
+Никозия	Nicosia	Nikoziya
+нис	low	nis
+Нис	Nice	Nis
+ниска	low	niska
+Ниска	Low	Niska
+ниската	the low	niskata
+ниско	low	nisko
+Ниско	Low	Nisko
+нисък	low	nisŭk
+Нисък	Low	Nisŭk
+нов	new	nov
+Нов	New	Nov
+нова	new	nova
+Нова	New	Nova
+нови	new	novi
+ново	new	novo
+Новосибирск	Novosibirsk	Novosibirsk
+ноември	November	noemvri
+номер	number	nomer
+номера	numbers	nomera
+Нормално	Normal	Normalno
+нос	nose	nos
+носене	carrying	nosene
+носете	wear	nosete
+носът	the nose	nosŭt
+Нощ	Night	Nosht
+нощта	the night	noshtta
+НС	National Assembly	NS
+Нукуалофа	Nuku'alofa	Nukualofa
+нулира	reset	nulira
+Нулирайте	Reset	Nuliraĭte
+Нулиране	Reset	Nulirane
+нулирате	reset	nulirate
+Ню	New	Nyu
+Нюфаундленд	Newfoundland	Nyufaundlend
+някое	some	nyakoe
+няколко	several	nyakolko
+няма	no	nyama
+Няма	None	Nyama
+об	about	ob
+обем	volume	obem
+Обем	Volume	Obem
+Обичайна-	Usual-	Obichaĭna-
+Обичайно	Usually	Obichaĭno
+облачна	cloudy	oblachna
+облекчаване	relief	oblekchavane
+обобщена	summarized	obobshtena
+обостряне	exacerbation	obostryane
+Обостряне	Exacerbation	Obostryane
+обработват	process	obrabotvat
+обратна	reverse	obratna
+Общ	General	Obsht
+Общо	Total	Obshto
+общувате	you communicate	obshtuvate
+ове	these	ove
+овл	owl	ovl
+овлажнител	humidifier	ovlazhnitel
+овлажнител	humidifier	ovlazhnitel
+ограничение	restriction	ogranichenie
+ограничения	restrictions	ogranicheniya
+ОК	OK	OK
+Океания	Oceania	Okeaniya
+околната	the environment	okolnata
+около	around	okolo
+оксиметри	oximeters	oksimetri
+оксиметрия	oximetry	oksimetriya
+оксиметър	oximeter	oksimetŭr
+оксиметъра	the oximeter	oksimetŭra
+октомври	October	oktomvri
+описали	described	opisali
+описано	described	opisano
+опит	experience	opit
+опита	the experience	opita
+опитайте	try	opitaĭte
+Опитайте	Try it	Opitaĭte
+Опитвам	I'm trying.	Opitvam
+опити	attempts	opiti
+определения	definitions	opredeleniya
+определяне	determination	opredelyane
+опции	options	optsii
+Опции	Options	Optsii
+опциите	the options	optsiite
+опция	option	optsiya
+Осака	Osaka	Osaka
+осведоменост	awareness	osvedomenost
+освен	except	osven
+осн	main	osn
+основа	basis	osnova
+основната	the main one	osnovnata
+осредняване	averaging	osrednyavane
+остава	remains	ostava
+остомия	ostomy	ostomiya
+остров	island	ostrov
+острови	islands	ostrovi
+острови	islands	ostrovi
+осцилира	oscillates	ostsilira
+от	from	ot
+отговор	answer	otgovor
+отговора	the answer	otgovora
+отговорете	answer	otgovorete
+отговори	answers	otgovori
+отговорите	the answers	otgovorite
+отговорихте	you answered	otgovorikhte
+Отдел	Department	Otdel
+отделеното	the separated	otdelenoto
+отделили	separated	otdelili
+отделихте	you separated	otdelikhte
+отзиви	reviews	otzivi
+откажете	refuse	otkazhete
+отказах	I refused.	otkazakh
+Отказах	I refused.	Otkazakh
+откачане	freaking out	otkachane
+откачен	crazy	otkachen
+откачете	unhook	otkachete
+отключите	unlock	otklyuchite
+Открит	Open	Otkrit
+открита	open	otkrita
+Открита	Open	Otkrita
+Открити	Open	Otkriti
+открито	open	otkrito
+Открито	Open	Otkrito
+Отлична	Excellent	Otlichna
+Отмяна	Cancellation	Otmyana
+отнеме	take away	otneme
+отново	again	otnovo
+относно	regarding	otnosno
+отрази	reflect	otrazi
+отчети	reports	otcheti
+отчитане	reporting	otchitane
+Оукланд	Oakland	Oukland
+охлади	cool down	okhladi
+оценили	appreciated	otsenili
+пазят	keep	pazyat
+Пакет	Package	Paket
+Париж	Paris	Parizh
+Пас	Pass	Pas
+пауза	pause	pauza
+пац	rat	pats
+Пац	Patz	Pats
+пациент	patient	patsient
+Пациент	Patient	Patsient
+пациента	the patient	patsienta
+пациента !	the patient!	patsienta !
+пациенти	patients	patsienti
+пациентът	the patient	patsientŭt
+Пациентът	The patient	Patsientŭt
+Пекин	Beijing	Pekin
+перорални	oral	peroralni
+Перорални	Oral	Peroralni
+Персонализирайте	Customize	Personaliziraĭte
+персонализирана	personalized	personalizirana
+персонализиране	customization	personalizirane
+персонализирани	personalized	personalizirani
+Персонализирани	Personalized	Personalizirani
+перфузия	perfusion	perfuziya
+Пет	Five	Pet
+Петербург	Petersburg	Peterburg
+Петропавловск-Камчатски	Petropavlovsk-Kamchatsky	Petropavlovsk-Kamchat·ski
+ПИН	PIN	PIN
+Питай	Ask	Pitaĭ
+Питайте	Ask	Pitaĭte
+платката	the board	platkata
+Пневмококова	Pneumococcal	Pnevmokokova
+по	by	po
+По-	More-	Po-
+по-голяма	bigger	po-golyama
+по-добре	better	po-dobre
+По-долу	Below	Po-dolu
+по-зле	worse	po-zle
+по-късно	later	po-kŭsno
+По-късно	Later	Po-kŭsno
+По-малко	Less	Po-malko
+по-нататъшно	further	po-natatŭshno
+поверителни	confidential	poveritelni
+поверителност	privacy	poveritelnost
+поверителност	privacy	poveritelnost
+повече	more	poveche
+Повече	More	Poveche
+повлияло	influenced	povliyalo
+под	under	pod
+Под	Under	Pod
+подаването	the submission	podavaneto
+Подаването	The submission	Podavaneto
+Подготвя	Preparing	Podgotvya
+поддръжка	maintenance	poddrŭzhka
+поддръжка	maintenance	poddrŭzhka
+поддържа	supports	poddŭrzha
+подкрепа	support	podkrepa
+Подкрепа	Support	Podkrepa
+подкрепи	support	podkrepi
+подкрепите	support	podkrepite
+подкрепя	supports	podkrepya
+подкрепят	support	podkrepyat
+Поднормено	Substandard	Podnormeno
+подобно	similar	podobno
+подобрение	improvement	podobrenie
+подобрения	improvements	podobreniya
+подобрим	improve	podobrim
+подобрява	improves	podobryava
+подобряване	improvement	podobryavane
+подр	support	podr
+подразб	default	podrazb
+подразбиране	default	podrazbirane
+подразбиране	default	podrazbirane
+подходящи	suitable	podkhodyashti
+Позволява	Allows	Pozvolyava
+поискате	you ask	poiskate
+показано	shown	pokazano
+показателни	indicative	pokazatelni
+Показва	Shows	Pokazva
+Показване	Show	Pokazvane
+покупки	purchases	pokupki
+пол	gender	pol
+ползване	use	polzvane
+политика	politics	politika
+Половин	Half	Polovin
+получа	I receive	polucha
+получите	receive	poluchite
+помогнем	let's help	pomognem
+помощ	help	pomosht
+помощта	the help	pomoshtta
+Пон	Mon	Pon
+Понякога	Sometimes	Ponyakoga
+попълните	fill in	popŭlnite
+Порт	Port	Port
+порта	gate	porta
+Последната	The last one	Poslednata
+последния	the last one	posledniya
+Последно	Last	Posledno
+посочените	the specified	posochenite
+Потвърдете	Confirm	Potvŭrdete
+Потвърдете	Confirm	Potvŭrdete
+Потвърди	Confirm	Potvŭrdi
+потвърдите	confirm	potvŭrdite
+потвърждаване	confirmation	potvŭrzhdavane
+Потвърждаването	The confirmation	Potvŭrzhdavaneto
+поток	stream	potok
+поток	stream	potok
+Поток	Stream	Potok
+потока	the stream	potoka
+Потокът	The flow	Potokŭt
+потребителя	the user	potrebitelya
+потърсихте	you searched	potŭrsikhte
+Почивка	Vacation	Pochivka
+права	rights	prava
+Прага	Prague	Praga
+превишена	exceeded	previshena
+преди	before	predi
+Преди	Before	Predi
+Предимно	Mostly	Predimno
+предишни	previous	predishni
+Предложете	Suggest	Predlozhete
+предназначение	purpose	prednaznachenie
+предоставена	provided	predostavena
+предостави	provide	predostavi
+предоставя	provides	predostavya
+предоставяне	provision	predostavyane
+предписан	prescribed	predpisan
+Предписан	Prescribed	Predpisan
+предписана	prescribed	predpisana
+предписаната	the prescribed	predpisanata
+Предпочитания	Preferences	Predpochitaniya
+предстоящи	upcoming	predstoyashti
+Предупр	Warning	Predupr
+през	through	prez
+прекалено	too much	prekaleno
+Прекарвали	Spent	Prekarvali
+Прекомерен	Excessive	Prekomeren
+преместите	move	premestite
+Преп	Prep	Prep
+препоръки	recommendations	preporŭki
+Препоръчителни	Recommended	Preporŭchitelni
+престой	stay	prestoĭ
+Претория	Pretoria	Pretoriya
+при	at	pri
+При	At	Pri
+приемате	you accept	priemate
+Приемате	You accept	Priemate
+Прикачено	Attached	Prikacheno
+приключи	finished	priklyuchi
+прилага	applies	prilaga
+приложимо	applicable	prilozhimo
+притеснения	concerns	pritesneniya
+причина	reason	prichina
+проблемите	the problems	problemite
+проблемът	the problem	problemŭt
+Пров	Prov	Prov
+проверете	check	proverete
+Проверете	Check	Proverete
+Проверка	Check	Proverka
+продукт	product	produkt
+продукта	the product	produkta
+продукти	products	produkti
+Продукти	Products	Produkti
+продуктите	the products	produktite
+продуктови	product	produktovi
+Продълж	Continue	Prodŭlzh
+продължава	continues	prodŭlzhava
+продължават	continue	prodŭlzhavat
+Продължавате	You are continuing.	Prodŭlzhavate
+продължи	continue	prodŭlzhi
+продължите	continue	prodŭlzhite
+Прозрачен	Transparent	Prozrachen
+произведохте	you produced	proizvedokhte
+Произвеждане	Production	Proizvezhdane
+Производител	Manufacturer	Proizvoditel
+производителността	productivity	proizvoditelnostta
+производство	production	proizvodstvo
+променен	changed	promenen
+променена	changed	promenena
+промени	changes	promeni
+променило	changed	promenilo
+променят	change	promenyat
+промяна	change	promyana
+Промяна	Change	Promyana
+Пропускане	Skip	Propuskane
+пропуснете	skip	propusnete
+ПРОСРОЧЕНА	OVERDUE	PROSROCHENA
+Противогрипна	Anti-influenza	Protivogripna
+проучване	study	prouchvane
+проучвания	studies	prouchvaniya
+профил	profile	profil
+профил	profile	profil
+профила	profile	profila
+профила	profile	profila
+Публикацията	The publication	Publikatsiyata
+публикувана	published	publikuvana
+публично	publicly	publichno
+пулс	pulse	puls
+пулса	pulse	pulsa
+пулсов	pulse	pulsov
+Пулсова	Pulse	Pulsova
+пулсови	pulse	pulsovi
+пулсовия	pulse	pulsoviya
+пулсовият	pulse	pulsoviyat
+Пулсовият	The pulse	Pulsoviyat
+пулсок	pulse	pulsok
+пулсокс	pulse ox	pulsoks
+пулсоксиметъра	pulse oximeter	pulsoksimetŭra
+пуша	I smoke	pusha
+Пуша	I smoke.	Pusha
+пушил	smoked	pushil
+Пушите	You smoke.	Pushite
+пълно	full	pŭlno
+Пърт	Perth	Pŭrt
+пъти	times	pŭti
+работи	works	raboti
+работните	the working ones	rabotnite
+работния	the working one	rabotniya
+развитието	development	razvitieto
+разкажете	tell me	razkazhete
+разпознат	recognized	razpoznat
+Разр	Razr	Razr
+разработването	development	razrabotvaneto
+Разрешаване	Allow	Razreshavane
+Разрешаването	The solution	Razreshavaneto
+разрешения	permissions	razresheniya
+разходомер	flow meter	razkhodomer
+Разширени	Advanced	Razshireni
+рампа	ramp	rampa
+Рампа	Ramp	Rampa
+рампата	the ramp	rampata
+Рангун	Rangoon	Rangun
+регион	region	region
+регистрирате	register	registrirate
+Регулиране	Regulation	Regulirane
+Редакт	Edit	Redakt
+Редки	Rare	Redki
+режим	mode	rezhim
+Режим	Mode	Rezhim
+режима	the regime	rezhima
+режими	modes	rezhimi
+режими	modes	rezhimi
+режимът	the regime	rezhimŭt
+резервна	spare	rezervna
+Резервна	Backup	Rezervna
+резултати	results	rezultati
+резултатите	the results	rezultatite
+Резюме	Summary	Rezyume
+Рейкявик	Reykjavik	Reĭkyavik
+респир	respite	respir
+респираторна	respiratory	respiratorna
+рест	rest	rest
+рестартирайте	restart	restartiraĭte
+Рестартирайте	Restart	Restartiraĭte
+решения	solutions	resheniya
+Рига	Riga	Riga
+Рим	Rome	Rim
+Рияд	Riyadh	Riyad
+Рядко	Rarely	Ryadko
+с	with	s
+с-ци	s-ci	s-tsi
+са	are	sa
+Салвадор	Salvador	Salvador
+само	only	samo
+Само	Only	Samo
+Самоа	Samoa	Samoa
+Сан	San	San
+Санкт	Saint	Sankt
+Сантяго	Santiago	Santyago
+Сапоро	Sapporo	Saporo
+Сараево	Sarajevo	Saraevo
+Саскачеуан	Saskatchewan	Saskacheuan
+САЩ	USA	SASHT
+св	sun	sv
+света	the world	sveta
+своя	his/her own	svoya
+свърже	connect	svŭrzhe
+свържем	connect	svŭrzhem
+свържете	connect	svŭrzhete
+Свържете	Connect	Svŭrzhete
+свързан	connected	svŭrzan
+Свързан	Connected	Svŭrzan
+свързана	connected	svŭrzana
+Свързаната	The related	Svŭrzanata
+свързани	related	svŭrzani
+Свързаният	The connected	Svŭrzaniyat
+се	is	se
+се	is	se
+Северна	North	Severna
+сега	now	sega
+Сега	Now	Sega
+седмица	week	sedmitsa
+седмици	weeks	sedmitsi
+седмично	weekly	sedmichno
+сек	sec	sek
+сенз	sense	senz
+сензор	sensor	senzor
+сензора	the sensor	senzora
+сензорът	the sensor	senzorŭt
+Сензорът	The sensor	Senzorŭt
+септември	September	septemvri
+сервизен	service	servizen
+Сериен	Serial	Serien
+Сеул	Seoul	Seul
+си	you	si
+Сив	Gray	Siv
+сигнал	signal	signal
+сигнала	the signal	signala
+Сигурни	Secure	Sigurni
+сигурно	sure	sigurno
+Сидни	Sydney	Sidni
+сила	strength	sila
+Сила	Strength	Sila
+симптоми	symptoms	simptomi
+симптомите	the symptoms	simptomite
+Сингапур	Singapore	Singapur
+синхронизират	synchronize	sinkhronizirat
+СИСТЕМА	SYSTEM	SISTEMA
+системна	systemic	sistemna
+системни	systemic	sistemni
+Системни	Systemic	Sistemni
+Сити	City	Siti
+Скопие	Skopje	Skopie
+скоро	soon	skoro
+скорост	speed	skorost
+Скоростите	The speeds	Skorostite
+скорошното	recent	skoroshnoto
+Скриване	Hide	Skrivane
+Скрий	Hide	Skriĭ
+слаб	weak	slab
+Слаба	Weak	Slaba
+след	after	sled
+следващия	next	sledvashtiya
+следи	traces	sledi
+следните	the following	slednite
+сложени	complex	slozheni
+сменете	change	smenete
+Сменете	Change	Smenete
+смени	shifts	smeni
+смущение	disturbance	smushtenie
+смяна	shift	smyana
+Смяна	Change	Smyana
+Смяната	The change	Smyanata
+Соломонови	Solomonic	Solomonovi
+сондата	the probe	sondata
+София	Sofia	Sofiya
+софтуера	the software	softuera
+спасит	save	spasit
+Спасителен	Rescue	Spasitelen
+спешен	urgent	speshen
+спирало	spiral	spiralo
+Спиране	Stopping	Spirane
+споделени	shared	spodeleni
+Споделете	Share	Spodelete
+споделите	share	spodelite
+споделяне	sharing	spodelyane
+споделяни	shared	spodelyani
+способността	ability	sposobnostta
+спра	stop	spra
+спре	stop	spre
+Ср	Wed	Sr
+сравнение	comparison	sravnenie
+среда	environment	sreda
+Среден	Medium	Sreden
+Средна	Medium	Sredna
+Средно	Average	Sredno
+средното	the average	srednoto
+срокът	the deadline	srokŭt
+стар	old	star
+Старт	Start	Start
+СТАРТ	START	START
+стартиране	startup	startirane
+Стартиране	Launch	Startirane
+сте	you are	ste
+сте	you are	ste
+стенно	wall	stenno
+стенното	the wall	stennoto
+Стенното	The wall	Stennoto
+стероиди	steroids	steroidi
+стойн	stoin	stoĭn
+стойност	value	stoĭnost
+Стокхолм	Stockholm	Stokkholm
+СТОП	STOP	STOP
+страдали	suffered	stradali
+стрес	stress	stres
+стълби	stairs	stŭlbi
+Стъпка	Step	Stŭpka
+стягане	tightening	styagane
+Стягане	Tightening	Styagane
+стягането	the tightening	styaganeto
+супена	soup	supena
+сушене	drying	sushene
+Съб	Sat	Sŭb
+Събития	Events	Sŭbitiya
+Събраните	The gathered	Sŭbranite
+съвпада	coincides	sŭvpada
+съгласие	consent	sŭglasie
+Съгласие	Consent	Sŭglasie
+Съгласни	Consonants	Sŭglasni
+съгласявате	you agree	sŭglasyavate
+създайте	create	sŭzdaĭte
+съм	I am	sŭm
+съобщено	reported	sŭobshteno
+съпътстващи	accompanying	sŭpŭt·stvashti
+съпътстващите	the accompanying	sŭpŭt·stvashtite
+Сърдечно	Heartily	Sŭrdechno
+Със	With	Sŭs
+състояние	condition	sŭstoyanie
+състояние	condition	sŭstoyanie
+Състояние	Condition	Sŭstoyanie
+състояния	states	sŭstoyaniya
+сътрудничите	collaborate	sŭtrudnichite
+съхранявани	stored	sŭkhranyavani
+съхраняват	store	sŭkhranyavat
+същия	the same	sŭshtiya
+същият	the same	sŭshtiyat
+Същият	The same	Sŭshtiyat
+също	also	sŭshto
+Същото	The same	Sŭshtoto
+та	so	ta
+Тази	This one	Tazi
+Тайпе	Taipei	Taĭpe
+Талин	Tallinn	Talin
+Ташкент	Tashkent	Tashkent
+Тбилиси	Tbilisi	Tbilisi
+Твърде	Too much	Tvŭrde
+Те	They	Te
+теглото	the weight	tegloto
+тежка	heavy	tezhka
+тежки	heavy	tezhki
+тези	these	tezi
+Тези	These	Tezi
+текущата	the current	tekushtata
+текущи	current	tekushti
+телеметрия	telemetry	telemetriya
+Телеметрия	Telemetry	Telemetriya
+телефон	telephone	telefon
+темп	pace	temp
+температура	temperature	temperatura
+Температура	Temperature	Temperatura
+температурата	the temperature	temperaturata
+тенденциите	trends	tendentsiite
+тер-я	ter-ya	ter-ya
+терапевтични	therapeutic	terapevtichni
+терапевтичното	the therapeutic	terapevtichnoto
+терапии	therapies	terapii
+терапиите	the therapies	terapiite
+терапия	therapy	terapiya
+терапия	therapy	terapiya
+терапията	the therapy	terapiyata
+терапията	the therapy	terapiyata
+Терапията	The therapy	Terapiyata
+Техеран	Tehran	Tekheran
+техническа	technical	tekhnicheska
+теч	leak	tech
+Теч	Leak	Tech
+тече	flows	teche
+течове	leaks	techove
+тип	type	tip
+Тип	Type	Tip
+титрирайте	titrate	titriraĭte
+Титриран	Titrated	Titriran
+Титриране	Titration	Titrirane
+Тихоокеанско	Pacific	Tikhookeansko
+то	it	to
+това	this	tova
+Това	This	Tova
+този	this one	tozi
+той	he	toĭ
+Токио	Tokyo	Tokio
+топло	warm	toplo
+Трахе	Trachea	Trakhe
+трахеостомия	tracheostomy	trakheostomiya
+Трахеостомия	Tracheostomy	Trakheostomiya
+тревожност	anxiety	trevozhnost
+трудно	difficult	trudno
+тръба	tube	trŭba
+тръбата	the pipe	trŭbata
+Тръби	Pipes	Trŭbi
+тръбите	the pipes	trŭbite
+трябва	must	tryabva
+тук	here	tuk
+Тъмно	Dark	Tŭmno
+Търсене	Search	Tŭrsene
+у-то	the	u-to
+Уведомете	Notify	Uvedomete
+уверен	confident	uveren
+Уверен	Confident	Uveren
+уверени	confident	uvereni
+Уверете	Make sure	Uverete
+удара	the blow	udara
+Уелингтън	Wellington	Uelingtŭn
+Уиндхоек	Windhoek	Uindkhoek
+Улаанбаатар	Ulaanbaatar	Ulaanbaatar
+Умерено	Moderate	Umereno
+умишлено	intentionally	umishleno
+умора	fatigue	umora
+Умора	Fatigue	Umora
+уморен	tired	umoren
+универсално	universal	universalno
+употреба	use	upotreba
+Употреба	Usage	Upotreba
+употребата	the use	upotrebata
+управляват	manage	upravlyavat
+упражнения	exercises	uprazhneniya
+Урумчи	Urumqi	Urumchi
+условия	conditions	usloviya
+услуга	service	usluga
+услуги	services	uslugi
+успешна	successful	uspeshna
+успешно	successfully	uspeshno
+устройства	devices	ustroĭstva
+устройства	devices	ustroĭstva
+устройство	device	ustroĭstvo
+устройство	device	ustroĭstvo
+Устройство	Device	Ustroĭstvo
+устройството	the device	ustroĭstvoto
+устройството	the device	ustroĭstvoto
+Устройството	The device	Ustroĭstvoto
+участвате	you participate	uchastvate
+участие	participation	uchastie
+Участие	Participation	Uchastie
+Участието	Participation	Uchastieto
+фабричните	factory	fabrichnite
+февруари	February	fevruari
+Фиджи	Fiji	Fidzhi
+физически	physical	fizicheski
+филт	felt	filt
+филтър	filter	filtŭr
+Филтър	Filter	Filtŭr
+филтъра	the filter	filtŭra
+фирмените	the company's	firmenite
+Форталеза	Fortaleza	Fortaleza
+функционална	functional	funktsionalna
+фърмуера	firmware	fŭrmuera
+фърмуерът	the firmware	fŭrmuerŭt
+Хавай	Hawaii	Khavaĭ
+Ханой	Hanoi	Khanoĭ
+Хараре	Harare	Kharare
+Хелзинки	Helsinki	Khelzinki
+Хобарт	Hobart	Khobart
+ХОББ	COPD	KHOBB
+ходене	walking	khodene
+Ходене	Walking	Khodene
+Хонг	Hong	Khong
+храчки	phlegm	khrachki
+храчките	phlegm	khrachkite
+хрипове	wheezing	khripove
+Хрипове	Wheezing	Khripove
+хриповете	wheezing	khripovete
+Хуан	Juan	Khuan
+Хъркане	Snoring	Khŭrkane
+цвят	color	tsvyat
+Цвят	Color	Tsvyat
+цел	goal	tsel
+Цел	Purpose	Tsel
+целева	target	tseleva
+Целева	Target	Tseleva
+целевата	target	tselevata
+Целевата	The target	Tselevata
+целеви	targeted	tselevi
+Целеви	Target	Tselevi
+целевия	target	tseleviya
+Целевият	The target	Tseleviyat
+Целево	Target	Tselevo
+целта	the goal	tselta
+централата	the headquarters	tsentralata
+Централна	Central	Tsentralna
+Централно	Central	Tsentralno
+Център	Center	Tsentŭr
+цигарите	cigarettes	tsigarite
+цикли	cycles	tsikli
+Цикъл	Cycle	Tsikŭl
+цифрен	digital	tsifren
+ч	h	ch
+чаена	tea	chaena
+чаени	teapots	chaeni
+Час	Hour	Chas
+часа	hours	chasa
+часова	hourly	chasova
+часовата	the hour	chasovata
+часове	hours	chasove
+Часове	Hours	Chasove
+част	part	chast
+чаша	cup	chasha
+че	that	che
+Ченай	Chennai	Chenaĭ
+чест	honor	chest
+често	often	chesto
+Често	Often	Chesto
+честота	frequency	chestota
+Честота	Frequency	Chestota
+честотата	the frequency	chestotata
+чисто	clean	chisto
+чително	legibly	chitelno
+Чихуахуа	Chihuahua	Chikhuakhua
+чрез	through	chrez
+Чувст	Feeling	Chuvst
+чувст-	feeling-	chuvst-
+чувствате	you feel	chuvstvate
+чувствителен	sensitive	chuvstvitelen
+чувствителност	sensitivity	chuvstvitelnost
+Чувствителност	Sensitivity	Chuvstvitelnost
+Чунцин	Chongqing	Chuntsin
+шен	shen	shen
+Шри	Sri	Shri
+ще	will	shte
+Ще	I will	Shte
+Южна	South	Yuzhna
+юли	July	yuli
+юни	June	yuni
+Якутск	Yakutsk	Yakut·sk
+Янгон	Yangon	Yangon
+януари	January	yanuari
