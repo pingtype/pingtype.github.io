@@ -382,6 +382,7 @@
   	<title>Pingtype</title>
   	  	
 	<meta charset="utf-8" />
+	<meta name="robots" content="noarchive">
     <style>
 
 @font-face {
@@ -1168,6 +1169,9 @@ input[type='range']::-ms-thumb {
 					<input type="checkbox" id="monospaceTextCheckbox"><span onclick="toggleCheckbox('monospaceTextCheckbox');">Monospace text</span>
 				</td>
 				<td>
+					<input type="checkbox" id="cursorIdsCheckbox" checked="true"><span onclick="toggleCheckbox('cursorIdsCheckbox');">Cursor IDs</span>
+				</td>
+				<td>
 					<span onclick="toggleCheckbox('breakMissingWordsCheckbox');">
 					<table>
 						<tr>
@@ -1245,8 +1249,13 @@ input[type='range']::-ms-thumb {
 					</div>
 				</td>
 				<td>
-					<div id="bilingualLineBreaksButton" class="ButtonInner advanced" onclick="bilingualLineBreaksButtonClicked();" style="width:120px;visibility:hidden">
+					<div id="bilingualLineBreaksButton" class="ButtonInner advanced" onclick="bilingualLineBreaksButtonClicked('550px', '1200px');" style="width:120px;visibility:hidden">
 						Bilingual line breaks
+					</div>
+				</td>
+				<td>
+					<div id="youtubeLineBreaksButton" class="ButtonInner advanced" onclick="bilingualLineBreaksButtonClicked('300px', '600px');" style="width:120px;visibility:hidden">
+						YouTube line breaks
 					</div>
 				</td>
 				<td>
@@ -1262,6 +1271,11 @@ input[type='range']::-ms-thumb {
 				<td>
 					<div id="slidesButton" class="ButtonInner advanced" onclick="slidesButtonClicked();" style="width:55px;visibility:hidden">
 						Slides
+					</div>
+				</td>
+				<td>
+					<div id="pptxButton" class="ButtonInner advanced" onclick="pptxButtonClicked();" style="width:40px;visibility:hidden">
+						PPTX
 					</div>
 				</td>
 				<td>
@@ -1418,12 +1432,12 @@ input[type='range']::-ms-thumb {
 					<input type="checkbox" id="pingtypeDictionaryCheckbox" checked="true" ><span onclick="toggleCheckbox('pingtypeDictionaryCheckbox');">Pingtype</span>
 				</td>
 				<td>
-					<div id="addWordsButton" class="ButtonInner advanced" onclick="addWordsButtonClicked();" style="visibility:hidden;width:100px">
-						Add Words
+					<div id="editWordsButton" class="ButtonInner advanced" onclick="editWordsButtonClicked();" style="visibility:hidden;width:100px">
+						Edit Words
 					</div>
 				</td>
 				<td>
-					<div id="addWordsButton" class="ButtonInner advanced" onclick="addEditRemoveWordsButtonClicked();" style="visibility:hidden;width:130px">
+					<div id="addEditRemoveButton" class="ButtonInner advanced" onclick="addEditRemoveWordsButtonClicked();" style="visibility:hidden;width:130px">
 						AddEditRemove Files
 					</div>
 				</td>
@@ -3296,6 +3310,18 @@ input[type='range']::-ms-thumb {
 		var twoWordsTaiwanese = "\n";
 		var oneWordsTaiwanese = "\n";
 
+		var fiveWordsTaiwaneseSet = new Set();
+		var fourWordsTaiwaneseSet = new Set();
+		var threeWordsTaiwaneseSet = new Set();
+		var twoWordsTaiwaneseSet = new Set();
+		var oneWordsTaiwaneseSet = new Set();
+
+		var fiveWordsTaiwaneseArray = new Array();
+		var fourWordsTaiwaneseArray = new Array();
+		var threeWordsTaiwaneseArray = new Array();
+		var twoWordsTaiwaneseArray = new Array();
+		var oneWordsTaiwaneseArray = new Array();
+
 		var fiveWordsHakka = "\n";
 		var fourWordsHakka = "\n";
 		var threeWordsHakka = "\n";
@@ -4414,7 +4440,8 @@ input[type='range']::-ms-thumb {
 						
 						if (lrcText == "\n")
 						{
-							lrcText = "[00:00.000]\n";
+						//	lrcText = "[00:00.000]\n";
+							lrcText = "";
 						}
 						
 						document.getElementById("lrcTextArea").value = lrcText;
@@ -4580,6 +4607,37 @@ input[type='range']::-ms-thumb {
 			xmlhttp.send();
 				
 		} // end loadTaiwaneseFile
+		
+		function loadHakkaFile(filename)
+		{
+			//debugLog("loadHakkaFile(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+						
+						chineseText = xmlhttp.responseText;
+						document.getElementById("chineseTextArea").value = chineseText;
+
+						translateButtonClicked();
+
+				   } // end if it loaded the file
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading Hakka file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", filename, true);
+			xmlhttp.send();
+				
+		} // end loadHakkaFile
 
 		function loadEnglish(filename)
 		{
@@ -4914,6 +4972,37 @@ input[type='range']::-ms-thumb {
 				
 		} // end loadTaiwaneseAndFile
 
+		function loadHakkaAndFile(dictionaryFilename, inputFilename)
+		{
+			//debugLog("loadHakkaAndFile(" + filename + ")");
+
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE ) {
+				   if (xmlhttp.status == 200) 
+				   {
+
+						hakkaData = xmlhttp.responseText;
+						
+						hakkaToWordLengths();
+						
+						loadHakkaFile(inputFilename);
+
+				   } // end if it loaded the file
+				   else if (xmlhttp.status == 400) {
+					  alert('There was an error 400');
+				   }
+				   else {
+					   alert('error loading Hakka dictionary and file');
+				   }
+				}
+			};
+
+			xmlhttp.open("GET", dictionaryFilename, true);
+			xmlhttp.send();
+				
+		} // end loadHakkaAndFile
 
 		function loadCantonese(filename)
 		{
@@ -5355,6 +5444,15 @@ input[type='range']::-ms-thumb {
 			if (charCode >= 131072)
 			{
 				if (charCode <= 195101)
+				{
+					return true;
+				}
+			}
+			
+			// Low surrogates (𪜶)
+			if (charCode >= 56320)
+			{
+				if (charCode <= 57343)
 				{
 					return true;
 				}
@@ -5812,6 +5910,33 @@ input[type='range']::-ms-thumb {
 
 			}
 		} // end function editInFile
+		
+		function editInFileNoGz(filename, oldDefinition, newDefinition)
+		{
+			//debugLog("appendToFile(" + filename + "," + thisString + ")");
+			
+	  		var useGithub = document.getElementById("useGithubCheckbox").checked;
+			
+			if (useGithub == false)
+			{
+				var request = new XMLHttpRequest();
+				request.open('POST', 'editInFileNoGz.php', true);
+				request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+
+				request.onreadystatechange =
+		  		function(e) { return appendToFileResponseHandler.call(e, request); };
+
+				var requestData = "filename=" + filename + "&" + "old=" + oldDefinition + "&" + "new=" + newDefinition;
+
+				request.send(requestData);
+			} else {
+			
+				// github writing doesn't work
+				//appendToGithub(filename, thisString);
+
+			}
+		} // end function editInFile
+
 
 		// returns a char's Unicode codepoint, of the char at index idx of string str
 		// 2013-07-16 from https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/String/charCodeAt
@@ -5958,14 +6083,40 @@ input[type='range']::-ms-thumb {
 			
 			switch (wordLength)
 			{
-				case 5: return contains(fiveWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
-				case 4: return contains(fourWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
-				case 3: return contains(threeWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
-				case 2: return contains(twoWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
-				case 1: return contains(oneWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 5: return contains(fiveWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 4: return contains(fourWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 3: return contains(threeWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 2: return contains(twoWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 1: return contains(oneWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 5: return fiveWordsTaiwaneseSet.has(thisWordChinese); break;
+				case 4: return fourWordsTaiwaneseSet.has(thisWordChinese); break;
+				case 3: return threeWordsTaiwaneseSet.has(thisWordChinese); break;
+				case 2: return twoWordsTaiwaneseSet.has(thisWordChinese); break;
+				case 1: return oneWordsTaiwaneseSet.has(thisWordChinese); break;
 				default: return false; break;
 			}		
 		} // end function dictionaryContainsTaiwanese
+		
+		function dictionarySearchFirstTaiwanese(thisWordChinese)
+		{
+			var wordLength = stringLength(thisWordChinese);
+			
+			switch (wordLength)
+			{
+				//case 5: return contains(fiveWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 4: return contains(fourWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 3: return contains(threeWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 2: return contains(twoWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				//case 1: return contains(oneWordsTaiwanese, "\n" + thisWordChinese + "\n"); break;
+				case 5: return fiveWordsTaiwaneseArray[thisWordChinese]; break;
+				case 4: return fourWordsTaiwaneseArray[thisWordChinese]; break;
+				case 3: return threeWordsTaiwaneseArray[thisWordChinese]; break;
+				case 2: return twoWordsTaiwaneseArray[thisWordChinese]; break;
+				case 1: return oneWordsTaiwaneseArray[thisWordChinese]; break;
+				default: return ""; break;
+			}		
+			
+		} // end function dictionarySearchFirstTaiwanese
 		
 		function dictionarySearchTaiwanese(thisWordChinese)
 		{
@@ -6087,18 +6238,26 @@ input[type='range']::-ms-thumb {
 			var addToneNumbers = document.getElementById('toneNumbersCheckbox').checked;
 			var toneSuperscripts = ["", "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹"];
 			
-			var thisTaiwanese = "";
+			//var thisTaiwanese = "";
 			
-			var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
+			//var dictionaryResultsArray = dictionarySearchTaiwanese(thisWordChinese);
 			
-			var numberResults = dictionaryResultsArray.length;
+			//var numberResults = dictionaryResultsArray.length;
+			
+			var thisTaiwaneseLine = dictionarySearchFirstTaiwanese(thisWordChinese);
+			//thisTaiwanese = textBetween(thisTaiwanese, "	", "end");
 			
 			var mouseoverText = "";
 			
 			var thisTaiwaneseTonesArray = [];
 			
-			if (numberResults > 0)
+			//if (numberResults > 0)
+			if ((thisTaiwaneseLine !== "") && (thisTaiwaneseLine !== undefined))
 			{
+				var thisTaiwaneseItems = thisTaiwaneseLine.split("	");
+				var thisTaiwaneseTones = thisTaiwaneseItems[2];
+				var thisTaiwanese = thisTaiwaneseItems[1];
+
 				/*
 				thisTaiwanese = textBetween(taiwaneseData, "\n" + thisWordChinese + "	","	");
 				
@@ -6108,28 +6267,28 @@ input[type='range']::-ms-thumb {
 				thisTaiwanese = textBetween(taiwaneseData, "\n" + thisWordChinese + "	","\n");
 				*/
 				
-				if (numberResults > 1)
-				{
-					var mouseoverArray = [];
-					
-					for (var currentResult = 2; currentResult < numberResults; currentResult++)
-					{
-						var thisResult = dictionaryResultsArray[currentResult];
-						
-						thisResult = textBetween(thisResult, "start", "	");
-						
-						mouseoverArray.push(thisResult);
-					} // end for every other result
-					
-					mouseoverText = mouseoverArray.join(",");
-					
-				} // end if there is more than one result
+				//if (numberResults > 1)
+				//{
+				//	var mouseoverArray = [];
+				//	
+				//	for (var currentResult = 2; currentResult < numberResults; currentResult++)
+				//	{
+				//		var thisResult = dictionaryResultsArray[currentResult];
+				//		
+				//		thisResult = textBetween(thisResult, "start", "	");
+				//		
+				//		mouseoverArray.push(thisResult);
+				//	} // end for every other result
+				//	
+				//	mouseoverText = mouseoverArray.join(",");
+				//	
+				//} // end if there is more than one result
 				
 				// Use index 1 because index 0 is just the first line of the dictionary
-				thisTaiwanese = dictionaryResultsArray[1];
+				//thisTaiwanese = dictionaryResultsArray[1];
 				
-				thisTaiwaneseTones = textBetween(thisTaiwanese, "	","end");
-				thisTaiwanese = textBetween(thisTaiwanese, "start", "	");
+				//thisTaiwaneseTones = textBetween(thisTaiwanese, "	","end");
+				//thisTaiwanese = textBetween(thisTaiwanese, "start", "	");
 				
 				var numberCharacters = stringLength(thisWordChinese);
 				
@@ -6198,7 +6357,7 @@ input[type='range']::-ms-thumb {
 						
 						thisTaiwanese = thisTaiwanese + thisCharacterTaiwanese;
 						
-						mouseoverText = mouseoverText + thisCharacterTaiwaneseOptions + ",";
+						//mouseoverText = mouseoverText + thisCharacterTaiwaneseOptions + ",";
 						
 						//thisTaiwanese = thisTaiwanese + getTaiwanese(thisCharacterChinese, thisCharacterPinyin) + " ";
 					}
@@ -6557,9 +6716,12 @@ input[type='range']::-ms-thumb {
 				thisTaiwaneseTones = textBetween(thisTaiwaneseTones, "	", "end");
 				var numberTones = thisTaiwaneseTones.length;
 				
-				var theseWordsChineseArray = stringToCharacterArray(theseWordsChinese);
+				//var theseWordsChineseArray = stringToCharacterArray(theseWordsChinese);
+				var theseWordsChineseArray = Array.from(theseWordsChinese);
+				
 				var thisTaiwaneseArray = theseWordsTaiwanese.split(" ");
-				var thisTaiwaneseTonesArray = stringToCharacterArray(thisTaiwaneseTones);
+				//var thisTaiwaneseTonesArray = stringToCharacterArray(thisTaiwaneseTones);
+				var thisTaiwaneseTonesArray = Array.from(thisTaiwaneseTones);
 				var numberWords = theseWordsChineseArray.length;
 				var numberTaiwaneseWords = thisTaiwaneseArray.length;
 				
@@ -8386,7 +8548,7 @@ input[type='range']::-ms-thumb {
 					 
 					var thisLitManLineWordId = "litManLine" + currentLitManLine + "Word" + currentLitManLineWord + "Character" + currentLitManLineWordCharacter;
 				
-					litManHtmlLine = litManHtmlLine + "<span onclick=\"moveCursorToElement('" + thisLitManLineWordId + "')\" class=\"litManWord\" id=\"" + thisLitManLineWordId + "\">" + thisLitManLineWordCharacter;
+					litManHtmlLine = litManHtmlLine + "<span onclick=\"moveCursorToElement('" + thisLitManLineWordId + "')\" class=\"litManWord\" id=\"" + thisLitManLineWordId + "\">" + thisLitManLineWordCharacter + "</span>";
 					
 					if (numberthisLitManLineWordCharacters > (currentLitManLineWordCharacter + 1))
 					{
@@ -8493,6 +8655,7 @@ input[type='range']::-ms-thumb {
 			var addCantonese = document.getElementById('cantoneseCheckbox').checked;
 			var addHakka = document.getElementById('hakkaCheckbox').checked;
 			var monospaceText = document.getElementById('monospaceTextCheckbox').checked;
+			var cursorIds = document.getElementById('cursorIdsCheckbox').checked;
 			var addHangul = document.getElementById('hangulCheckbox').checked;
 			var addVietnamese = document.getElementById('vietnameseCheckbox').checked;
 			var addJapanese = document.getElementById('japaneseCheckbox').checked;
@@ -8923,6 +9086,11 @@ input[type='range']::-ms-thumb {
 							var chineseCharacterId = "chineseLine" + currentLine + "Word" + currentLineChineseWord + "Character" + currentWordCharacter;
 							var chineseCharacterHtml = "<div id=\"" + chineseCharacterId + "\" class=\"chinese_" + thisCharacterTone + "\">" + thisCharacterChinese + "</div>";
 							
+							if (cursorIds == false)
+							{
+								chineseCharacterHtml = "<div class=\"chinese_" + thisCharacterTone + "\">" + thisCharacterChinese + "</div>";
+							}
+							
 							if (hashOut == true)
 							{
 								if (contains(commonWords,thisCharacterChinese) == false)
@@ -8983,12 +9151,26 @@ input[type='range']::-ms-thumb {
 							if (pinyinSize == true)
 							{
 								var pinyinSized = getPinyinSized(thisCharacterPinyin, thisCharacterTone);
-								pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
+								
+								if (cursorIds == false)
+								{
+									pinyinHtmlWord = pinyinHtmlWord + "<div class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
+								} else {
+									pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
+								}
 								
 							} else {
-								pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + thisCharacterPinyin + "</div> ";
+
+								if (cursorIds == false)
+								{
+									pinyinHtmlWord = pinyinHtmlWord + "<div class=\"pinyin_" + thisCharacterTone + "\">" + pinyinSized + "</div> ";
+								} else {
+									pinyinHtmlWord = pinyinHtmlWord + "<div id=\"" + pinyinId + "\" class=\"pinyin_" + thisCharacterTone + "\">" + thisCharacterPinyin + "</div> ";
+								}
+
 							}
-														
+							
+							
 							if (addWadeGiles == true)
 							{
 								var thisWadeGiles = getWadeGiles(thisCharacterToneless, thisCharacterTone);
@@ -9662,23 +9844,26 @@ input[type='range']::-ms-thumb {
 					var englishLineArray = englishLine.split(" ");
 					var numberEnglishWords = englishLineArray.length;
 					
+					outputHtml = outputHtml + "<div id=\"englishLine\" class=\"english\" >";
+
 					for (var currentEnglishWord = 0; currentEnglishWord < numberEnglishWords; currentEnglishWord++)
 					{
 						var thisEnglishWord = englishLineArray[currentEnglishWord];
 						
 						var thisEnglishWordArray = thisEnglishWord.split("");
 						var thisEnglishWordLength = thisEnglishWord.length;
-
 						for (var currentEnglishWordCharacter = 0; currentEnglishWordCharacter < thisEnglishWordLength; currentEnglishWordCharacter++)
 						{
 							var thisEnglishWordCharacter = thisEnglishWordArray[currentEnglishWordCharacter];
 						
 							var englishId = "englishLine" + currentLine + "Word" + currentEnglishWord + "Character" + currentEnglishWordCharacter;
-							outputHtml = outputHtml + "<div id=\"" + englishId + "\"class=\"english\">" + thisEnglishWordCharacter + "</div>";
+							outputHtml = outputHtml + "<div id=\"" + englishId + "\"class=\"english\" style=\"margin-left: 0px;\">" + thisEnglishWordCharacter + "</div>";
 						}
-						
+												
 						outputHtml = outputHtml + " ";
 					} // end for every english word in the literal translation
+				
+					outputHtml = outputHtml + "</div>";
 				
 					//outputHtml = outputHtml + "<div class=\"english\">" + englishLine + "</div>\n";
 				} // end if addEnglish
@@ -9753,6 +9938,13 @@ input[type='range']::-ms-thumb {
 			{
 				hakkaColours();
 			} // end if addHakka
+
+			// If we want the cursor
+			if ((QueryString.cursor != "") && (QueryString.cursor != undefined))
+			{
+				//document.getElementById("cursorButton").click();
+				showCursorButtonClicked();
+			}
 
 		} // end function translateInterface
 
@@ -10509,8 +10701,9 @@ input[type='range']::-ms-thumb {
 			{
 			
 				var thisChineseLine = thisChineseLines[currentLine];
-				
-				var numberCharacters = thisChineseLine.length;
+				var thisChineseLineArray = Array.from(thisChineseLine);
+				var numberCharacters = thisChineseLineArray.length;
+				//var numberCharacters = thisChineseLine.length;
 				var lastWasNotChinese = false;
 				var spacedChineseLine = "";
 				
@@ -10564,9 +10757,11 @@ input[type='range']::-ms-thumb {
 								 lastCharacter = numberCharacters;
 							 }
 						
-							 thisWord = thisChineseLine.substring(currentCharacter, lastCharacter);
-						
-							 var thisCharacter = thisChineseLine[currentCharacter];
+							 //thisWord = thisChineseLine.substring(currentCharacter, lastCharacter);
+							 thisWord = thisChineseLineArray.slice(currentCharacter, lastCharacter).join("");
+
+							 //var thisCharacter = thisChineseLine[currentCharacter];
+							 var thisCharacter = thisChineseLineArray[currentCharacter];
 							 							 
 							 if (isChinese(thisCharacter) == false)
 							 {
@@ -10657,7 +10852,8 @@ input[type='range']::-ms-thumb {
 						 // If the word is not found, just use the character
 						 if (wordFound == false)
 						 {
-							 var thisCharacter = thisChineseLine[currentCharacter];
+							 //var thisCharacter = thisChineseLine[currentCharacter];
+							 var thisCharacter = thisChineseLineArray[currentCharacter];
 					
 							 if (isChinese(thisCharacter) == false)
 							 {
@@ -10700,6 +10896,7 @@ input[type='range']::-ms-thumb {
 				
 			} // end for every line
 			
+			//console.log(spacedChinese);
 			
 			var spacedLines = "";
 		   
@@ -10719,14 +10916,17 @@ input[type='range']::-ms-thumb {
 				
 					var spacedLine = "";
 				
-					var numberLineCharacters = stringLength(spacedChineseLine);
-		   			
+					//var numberLineCharacters = stringLength(spacedChineseLine);
+					var spacedLineCharactersArray = Array.from(spacedChineseLine);
+					var numberLineCharacters = spacedLineCharactersArray.length;
+
 		   			// Add spaces for punctuation
 					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
 					{
-						var thisLineCharacter = spacedChineseLine[currentLineCharacter];
+						//var thisLineCharacter = spacedChineseLine[currentLineCharacter];
+						var thisLineCharacter = spacedLineCharactersArray[currentLineCharacter];
 			   			
-						if (isChinese(thisLineCharacter) == true)
+						if ((isChinese(thisLineCharacter) == true) || (isEmoji(thisLineCharacter) == true))
 						{
 							spacedLine = spacedLine + thisLineCharacter;
 						} else {
@@ -13900,9 +14100,15 @@ input[type='range']::-ms-thumb {
 			if (thisChineseString == "")
 			{
 				thisChineseString = document.getElementById("dictionaryEditorChineseTextArea").value;
-				useMediaViewer = false;
+			
+				if (thisChineseString == "")
+				{
+					return;
+				} else {
+					useMediaViewer = false;
+				}
 			}
-						
+			
 			var numberCharacters = stringLength(thisChineseString);
 			
 			var thisPinyinArray = [];
@@ -14131,6 +14337,44 @@ input[type='range']::-ms-thumb {
 			}
 		} // end function toneNumbersToToneMarks
 		
+		function taiwaneseToneMarksToNumbers()
+		{
+			var thisPoj = document.getElementById("taiwaneseDictionaryEditorPojTextArea").value;
+			
+			var thisPojWords = thisPoj.split(" ");
+			
+			var numberWords = thisPojWords.length;
+			
+			var outputNumbers = "";
+			
+			var theseVowels = ["ń", "á", "é", "í", "ó", "ú", "à", "è", "ì", "ò", "ù", "iah", "ioh", "eh", "oah", "hih", "oeh", "oh", "ah", "â", "ê", "î", "ô", "û", "n̂", "ǎ", "ě", "ǐ", "ǒ", "ǔ", "ā", "ē", "ī", "ō", "ū", "n̄", "̍"];
+			var theseVowelNumbers = [2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 8];
+						
+			for (var currentWord = 0; currentWord < numberWords; currentWord++)
+			{
+				var thisWordPoj = thisPojWords[currentWord];
+				var thisWordToneNumber = 1;
+				
+				var numberVowels = theseVowels.length;
+				
+				for (var currentVowel = 0; currentVowel < numberVowels; currentVowel++)
+				{
+					var thisVowel = theseVowels[currentVowel];
+					var thisVowelNumber = theseVowelNumbers[currentVowel];
+					
+					if (contains(thisWordPoj, thisVowel))
+					{
+						thisWordToneNumber = thisVowelNumber;
+					}
+				}
+				
+				outputNumbers = outputNumbers + String(thisWordToneNumber);
+			}
+			
+			document.getElementById("taiwaneseDictionaryEditorTonesTextArea").value = outputNumbers;
+			
+		} // end function taiwaneseToneMarksToNumbers
+		
 		function bopomofoToPinyin()
 		{
 			//debugLog("bopomofoToPinyin");
@@ -14271,15 +14515,17 @@ input[type='range']::-ms-thumb {
 			
 		} // end function dictionaryEditorEditCounts
 		
-		function addWordsButtonClicked()
+		function editWordsButtonClicked()
 		{
-			//debugLog("addWordsButtonClicked()");
+			//debugLog("editWordsButtonClicked()");
 			
 			var wordDefinitions = document.getElementById("chineseTextArea").value;
 			
 			var wordDefinitionsLines = wordDefinitions.split("\n");
 			
 			var numberWords = wordDefinitionsLines.length;
+			
+			var outputString = "tell application \"BBEdit\"\n";
 			
 			for (var currentWord = 0; currentWord < numberWords; currentWord++)
 			{
@@ -14288,26 +14534,72 @@ input[type='range']::-ms-thumb {
 				var thisDefinitionArray = thisDefinition.split("	");
 				
 				var thisWordChinese = thisDefinitionArray[0];
-				var thisWordPinyin = thisDefinitionArray[1];
+				var thisWordPinyin = thisDefinitionArray[2];
 				//var thisWordTones = thisDefinitionArray[2];
-				var thisWordEnglish = thisDefinitionArray[2];
+				var thisWordEnglish = thisDefinitionArray[1];
 				
 				if ((thisWordChinese != undefined) && (thisWordPinyin != undefined) && (thisWordEnglish != undefined))
 				{
 				
-					var thisWordTones = getTones(thisWordPinyin);
+					//var thisWordTones = getTones(thisWordPinyin);
 				
-					addWordTones(thisWordChinese, thisWordPinyin, thisWordTones, thisWordEnglish)
-					
+					//addWordTones(thisWordChinese, thisWordPinyin, thisWordTones, thisWordEnglish)
+					if (searchDictionary(thisWordChinese) == false)
+					{
+						//appendToFile("PinyinDefinitionsSorted.txt", thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin);
+					} else {
+						// Get the existing word
+						
+						var wordLength = stringLength(thisWordChinese);
+						var oldDefinition = "";
+						if (wordLength == 5)
+						{
+							oldDefintion = oldDefinition + fiveWordsArray[thisWordChinese];
+						}
+			
+						if (wordLength == 4)
+						{
+							oldDefinition = oldDefinition + fourWordsArray[thisWordChinese];
+						}
+			
+						if (wordLength == 3)
+						{
+							oldDefinition = oldDefinition + threeWordsArray[thisWordChinese];
+						}
+			
+						if (wordLength == 2)
+						{
+							oldDefinition = oldDefinition + twoWordsArray[thisWordChinese];
+						}
+			
+						if (wordLength == 1)
+						{
+							oldDefinition = oldDefinition + oneWordsArray[thisWordChinese];
+						}
+
+						
+						var newDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin;
+						
+						if (oldDefinition !== newDefinition)
+						{
+							outputString = outputString + "		replace \"" + oldDefinition + "\" using \"" + newDefinition + "\" searching in text 1 of front text document options {starting at top:true}\n"
+						}
+						
+						//editInFileNoGz("PinyinDefinitionsSorted.txt", oldDefinition, newDefinition);
+					}
 					
 				} // end if there is a valid definition
 				
 			} // end for every word
 			
-			writeToFile("PinyinDefinitionsSorted.txt", combinedDictionaryData);
+			outputString = outputString + "end tell\n"
 			
-		} // end function addWordsButtonClicked
-		
+			document.getElementById("outputTextArea").value = outputString;
+			
+			//writeToFile("PinyinDefinitionsSorted.txt", combinedDictionaryData);
+			
+		} // end function editWordsButtonClicked
+				
 		function dateToAlphabetic(thisDateString)
 		{
 			var thisDate = textBetween(thisDateString, "start", " ");
@@ -15017,10 +15309,10 @@ input[type='range']::-ms-thumb {
 			//	saveDictionaryToLocalStorage(combinedDictionaryData.length);
 			//}
 			
-			if (useGithub == false)
-			{
-				serverReloadDictionary();
-			}
+			//if (useGithub == false)
+			//{
+			//	serverReloadDictionary();
+			//}
 			
 			return edited;
 			
@@ -15300,10 +15592,10 @@ input[type='range']::-ms-thumb {
 				
 		  		var useGithub = document.getElementById("useGithubCheckbox").checked;
 
-				if (useGithub == false)
-				{
-					serverReloadDictionary();
-				}
+				//if (useGithub == false)
+				//{
+				//	serverReloadDictionary();
+				//}
 				
 			} // end if the word is not blank
 		} // end function removeWord
@@ -15792,11 +16084,22 @@ input[type='range']::-ms-thumb {
 					thisDefintionItem = textBetween(thisDefintionItem, "start", "\n");
 					//thisDefintionItem = textBetween(thisDefintionItem, "\n", "end");
 					
-					thisDefintionItem = "\n" + thisWordChinese + "	" + thisDefintionItem;
+					var thisDefintionItemLine = "\n" + thisWordChinese + "	" + thisDefintionItem;
 					
-					taiwaneseData = replaceChars(taiwaneseData, thisDefintionItem, "");
+					taiwaneseData = replaceChars(taiwaneseData, thisDefintionItemLine, "");
 					
-					taiwaneseData = thisDefintionItem + "\n" + taiwaneseData;
+					taiwaneseData = thisDefintionItemLine + "\n" + taiwaneseData;
+					
+					var wordLength = stringLength(thisWordChinese);
+					switch (wordLength)
+					{
+						case 5: fiveWordsTaiwaneseArray[thisWordChinese] = thisWordChinese + "	" + thisDefintionItem; break;
+						case 4: fourWordsTaiwaneseArray[thisWordChinese] = thisWordChinese + "	" + thisDefintionItem; break;
+						case 3: threeWordsTaiwaneseArray[thisWordChinese] = thisWordChinese + "	" + thisDefintionItem; break;
+						case 2: twoWordsTaiwaneseArray[thisWordChinese] = thisWordChinese + "	" + thisDefintionItem; break;
+						case 1: oneWordsTaiwaneseArray[thisWordChinese] = thisWordChinese + "	" + thisDefintionItem; break;
+						default: break;
+					}
 					
 					writeToFile("TaiwaneseDictionaryTaiyuNumbers.txt", taiwaneseData);
 					
@@ -15992,11 +16295,16 @@ input[type='range']::-ms-thumb {
 		   
 			switch (wordLength)
 			{
-				case 5: fiveWordsTaiwanese = "\n" + thisWordChinese + "\n" + fiveWordsTaiwanese; break;
-				case 4: fourWordsTaiwanese = "\n" + thisWordChinese + "\n" + fourWordsTaiwanese; break;
-				case 3: threeWordsTaiwanese = "\n" + thisWordChinese + "\n" + threeWordsTaiwanese; break;
-				case 2: twoWordsTaiwanese = "\n" + thisWordChinese + "\n" + twoWordsTaiwanese; break;
-				case 1: oneWordsTaiwanese = "\n" + thisWordChinese + "\n" + oneWordsTaiwanese;break;
+				//case 5: fiveWordsTaiwanese = "\n" + thisWordChinese + "\n" + fiveWordsTaiwanese; break;
+				//case 4: fourWordsTaiwanese = "\n" + thisWordChinese + "\n" + fourWordsTaiwanese; break;
+				//case 3: threeWordsTaiwanese = "\n" + thisWordChinese + "\n" + threeWordsTaiwanese; break;
+				//case 2: twoWordsTaiwanese = "\n" + thisWordChinese + "\n" + twoWordsTaiwanese; break;
+				//case 1: oneWordsTaiwanese = "\n" + thisWordChinese + "\n" + oneWordsTaiwanese;break;
+				case 5: fiveWordsTaiwaneseSet.add(thisWordChinese);  fiveWordsTaiwaneseArray[thisWordChinese] = thisDefinition; break;
+				case 4: fourWordsTaiwaneseSet.add(thisWordChinese);  fourWordsTaiwaneseArray[thisWordChinese] = thisDefinition; break;
+				case 3: threeWordsTaiwaneseSet.add(thisWordChinese); threeWordsTaiwaneseArray[thisWordChinese] = thisDefinition; break;
+				case 2: twoWordsTaiwaneseSet.add(thisWordChinese);   twoWordsTaiwaneseArray[thisWordChinese] = thisDefinition; break;
+				case 1: oneWordsTaiwaneseSet.add(thisWordChinese);   oneWordsTaiwaneseArray[thisWordChinese] = thisDefinition; break;
 				default: break;
 			}
 			
@@ -16414,7 +16722,8 @@ input[type='range']::-ms-thumb {
 			
 			var numberLines = taiwaneseDataLines.length;
 			
-			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+//			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			for (var currentLine = numberLines - 1; currentLine > 0; currentLine--)
 			{
 				var thisLine = taiwaneseDataLines[currentLine];
 			
@@ -16426,11 +16735,16 @@ input[type='range']::-ms-thumb {
 					
 					switch (wordLength)
 					{
-						case 5: fiveWordsTaiwanese = fiveWordsTaiwanese + thisChinese + "\n"; break;
-						case 4: fourWordsTaiwanese = fourWordsTaiwanese + thisChinese + "\n"; break;
-						case 3: threeWordsTaiwanese = threeWordsTaiwanese + thisChinese + "\n"; break;
-						case 2: twoWordsTaiwanese = twoWordsTaiwanese + thisChinese + "\n"; break;
-						case 1: oneWordsTaiwanese = oneWordsTaiwanese + thisChinese + "\n"; break;
+						//case 5: fiveWordsTaiwanese = fiveWordsTaiwanese + thisChinese + "\n"; break;
+						//case 4: fourWordsTaiwanese = fourWordsTaiwanese + thisChinese + "\n"; break;
+						//case 3: threeWordsTaiwanese = threeWordsTaiwanese + thisChinese + "\n"; break;
+						//case 2: twoWordsTaiwanese = twoWordsTaiwanese + thisChinese + "\n"; break;
+						//case 1: oneWordsTaiwanese = oneWordsTaiwanese + thisChinese + "\n"; break;
+						case 5: fiveWordsTaiwaneseSet.add(thisChinese); fiveWordsTaiwaneseArray[thisChinese] = thisLine; break;
+						case 4: fourWordsTaiwaneseSet.add(thisChinese); fourWordsTaiwaneseArray[thisChinese] = thisLine; break;
+						case 3: threeWordsTaiwaneseSet.add(thisChinese); threeWordsTaiwaneseArray[thisChinese] = thisLine; break;
+						case 2: twoWordsTaiwaneseSet.add(thisChinese); twoWordsTaiwaneseArray[thisChinese] = thisLine; break;
+						case 1: oneWordsTaiwaneseSet.add(thisChinese); oneWordsTaiwaneseArray[thisChinese] = thisLine; break;
 						default: break;
 					}
 					
@@ -16564,6 +16878,17 @@ input[type='range']::-ms-thumb {
 			    //loadTaiwaneseFile(taiwaneseUrl);
 			}
 			
+			// If we have a Hakka file
+			if ((QueryString.hakkaFile != "") && (QueryString.hakkaFile != undefined))
+			{
+				var hakkaUrl = QueryString.hakkaFile;
+				
+			    document.getElementById('pinyinCheckbox').checked = false;
+				document.getElementById('hakkaCheckbox').checked = true;
+				
+				loadHakkaAndFile("Hakka/HakkaPFSTones.txt", hakkaUrl);
+			}
+			
 			// If we have a Chinese file
 			if ((QueryString.chineseFile != "") && (QueryString.chineseFile != undefined))
 			{
@@ -16683,7 +17008,6 @@ input[type='range']::-ms-thumb {
 			    
 			    translateInterface();
 			}
-
 
 		} // end function dictionariesLoaded
 		
@@ -17384,7 +17708,8 @@ input[type='range']::-ms-thumb {
 			document.getElementById('simplifiedSpacedCheckbox').checked = false;
 			document.getElementById('breakMissingWordsCheckbox').checked = true;
 			document.getElementById('monospaceTextCheckbox').checked = false;
-			
+			document.getElementById('cursorIdsCheckbox').checked = false;
+
 			var subtitlesText = document.getElementById("simplifiedInputTextArea").value;
 			
 			var subtitlesLines = subtitlesText.split("\n");
@@ -18230,13 +18555,13 @@ input[type='range']::-ms-thumb {
 				translatedTextEnglish = replaceChars(translatedTextEnglish, "|", "</font></font>|<font size=\"" + englishFontSize + "\"><font color=#000000>");
 				
 				// Movie subtitles - position at bottom
-				//var subtitlePosition = "";
+				var subtitlePosition = "";
 				
 				// 1024x768 - position in middle
-				var subtitlePosition = " X1:200 X2:500 Y1:40 Y2:500";
+				//var subtitlePosition = " X1:200 X2:500 Y1:40 Y2:500";
 				
 				// 1920x1080 - position in middle
-				var subtitlePosition = " X1:200 X2:500 Y1:0 Y2:500";
+				//var subtitlePosition = " X1:200 X2:500 Y1:0 Y2:500";
 				
 								
 				var thisSubtitle = numbersTextLine + "\n" + timesTextLine + subtitlePosition + "\n";
@@ -19828,16 +20153,17 @@ input[type='range']::-ms-thumb {
 			var outputHtml = replaceChars(originalHtml, "</table>", "</table>\n");
 			
 			var newLineHtml = "<p></p><table><tr><td><div></div></td></tr></table><p></p>\n";
+//			var newLineHtml = "";
 			
-			var newPageHtml = "";
+			var newPageHtml = "<div id=\"padDiv\" style=\"height: 40px;\"></div>\n";
 			
-			for (var currentLine = 0; currentLine < 10; currentLine++)
-			{
-				newPageHtml = newPageHtml + newLineHtml;
-			} // make a new page of 10 new lines
+			//for (var currentLine = 0; currentLine < 10; currentLine++)
+			//{
+			//	newPageHtml = newPageHtml + newLineHtml;
+			//} // make a new page of 10 new lines
 			
 			outputHtml = replaceChars(outputHtml, "<table>", "<table style=\"margin-left: 400px;\">");
-			outputHtml = replaceChars(outputHtml, "<div class=\"english\"", "<div class=\"english\" style=\"margin-left: 400px;\"");
+			outputHtml = replaceChars(outputHtml, "<div id=\"englishLine\" class=\"english\"", "<div id=\"englishLine\" class=\"english\" style=\"margin-left: 400px;\"");
 			outputHtml = replaceChars(outputHtml, "<br>", newPageHtml);
 			
 			// Start with enough space to cover the control buttons
@@ -19846,6 +20172,310 @@ input[type='range']::-ms-thumb {
 			document.getElementById("outputHtml").innerHTML = outputHtml;
 		} // end function slidesButtonClicked
 		
+		function pptxButtonClicked()
+		{
+			var originalHtml = document.getElementById("outputHtml").innerHTML;
+			
+			var slideTables = originalHtml.split("<table>");
+			//console.log(slideTables);
+			var outputText = "";
+			
+			for (var currentSlideTable = 1; currentSlideTable < 2; currentSlideTable++)
+//			for (var currentSlideTable = 0; currentSlideTable < slideTables.length; currentSlideTable++)
+			{
+				var thisSlideTable = slideTables[currentSlideTable];
+				
+				var chineseLine = textBetween(thisSlideTable, "<tr class=\"chineseLine\">", "</tr>");
+				
+				var chineseLineItems = replaceChars(chineseLine,"</td><td>", "</td>");
+				chineseLineItems = replaceChars(chineseLineItems, "</td></td>", "</td>");
+				chineseLineItems = replaceChars(chineseLineItems, "</td></td>", "</td>");
+				chineseLineItems = replaceChars(chineseLineItems, "</td></td>", "</td>");
+				var chineseLineWords = chineseLineItems.split("</td>");
+				var numberChineseLineWords = chineseLineWords.length - 1;
+				var thisChineseLineWordCharactersPptx = "";
+								
+				var chineseLineWordsPptx = "";
+				
+				for (var currentChineseLineWord = 0; currentChineseLineWord < numberChineseLineWords; currentChineseLineWord++)
+				{
+					var thisChineseLineWord = chineseLineWords[currentChineseLineWord];
+
+					var chineseLineWordCharacters = thisChineseLineWord.split("</div>");
+					for (var currentChineseLineWordCharacter = 0; currentChineseLineWordCharacter < chineseLineWordCharacters.length; currentChineseLineWordCharacter++)
+					{
+						var thisChineseLineWordCharacter = chineseLineWordCharacters[currentChineseLineWordCharacter];
+						
+						if (contains(thisChineseLineWordCharacter, "chinese_1") == true)
+						{
+							var thisChineseLineWordCharacterText = textBetween(thisChineseLineWordCharacter, "\">", "end");
+							
+							var thisChineseLineWordCharacterPptx = "												<a:r>\n													<a:rPr lang=\"zh-CHT\" altLang=\"en-US\" sz=\"2800\" b=\"0\" dirty=\"0\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"000000\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisChineseLineWordCharacterText + "</a:t>\n												</a:r>\n"
+
+							thisChineseLineWordCharactersPptx = thisChineseLineWordCharactersPptx + "\n" + thisChineseLineWordCharacterPptx;
+						}
+
+						if (contains(thisChineseLineWordCharacter, "chinese_2") == true)
+						{
+							var thisChineseLineWordCharacterText = textBetween(thisChineseLineWordCharacter, "\">", "end");
+							
+							var thisChineseLineWordCharacterPptx = "												<a:r>\n													<a:rPr lang=\"zh-CHT\" altLang=\"en-US\" sz=\"2800\" b=\"0\" dirty=\"0\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisChineseLineWordCharacterText + "</a:t>\n												</a:r>\n"
+
+							thisChineseLineWordCharactersPptx = thisChineseLineWordCharactersPptx + "\n" + thisChineseLineWordCharacterPptx;
+						}
+						
+						if (contains(thisChineseLineWordCharacter, "chinese_3") == true)
+						{
+							var thisChineseLineWordCharacterText = textBetween(thisChineseLineWordCharacter, "\">", "end");
+							
+							var thisChineseLineWordCharacterPptx = "												<a:r>\n													<a:rPr lang=\"zh-CHT\" altLang=\"en-US\" sz=\"2800\" b=\"0\" dirty=\"0\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"229A25\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisChineseLineWordCharacterText + "</a:t>\n												</a:r>\n"
+
+							thisChineseLineWordCharactersPptx = thisChineseLineWordCharactersPptx + "\n" + thisChineseLineWordCharacterPptx;
+						}
+
+						if (contains(thisChineseLineWordCharacter, "chinese_4") == true)
+						{
+							var thisChineseLineWordCharacterText = textBetween(thisChineseLineWordCharacter, "\">", "end");
+							
+							var thisChineseLineWordCharacterPptx = "												<a:r>\n													<a:rPr lang=\"zh-CHT\" altLang=\"en-US\" sz=\"2800\" b=\"0\" dirty=\"0\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"2390CE\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisChineseLineWordCharacterText + "</a:t>\n												</a:r>\n"
+
+							thisChineseLineWordCharactersPptx = thisChineseLineWordCharactersPptx + "\n" + thisChineseLineWordCharacterPptx;
+						}
+						
+					} // end for every character in thisChineseLineWord
+					
+					var thisChineseLineWordPptx = "									<a:tc>\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:pPr marL=\"0\" marR=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\">\n													<a:lnSpc>\n														<a:spcPct val=\"100000\"/>\n													</a:lnSpc>\n													<a:spcBef>\n														<a:spcPts val=\"0\"/>\n													</a:spcBef>\n													<a:spcAft>\n														<a:spcPts val=\"0\"/>\n													</a:spcAft>\n													<a:buClrTx/>\n													<a:buSzTx/>\n													<a:buFontTx/>\n													<a:buNone/>\n													<a:tabLst/>\n													<a:defRPr/>\n												</a:pPr>\n												" + thisChineseLineWordCharactersPptx + "\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+					
+					chineseLineWordsPptx = chineseLineWordsPptx + thisChineseLineWordPptx;
+					thisChineseLineWordPptx = "";
+					thisChineseLineWordCharactersPptx = "";
+					
+				} // end for every word in chineseLineWords
+				
+				var pinyinLine = textBetween(thisSlideTable, "<tr class=\"pinyinLine\">", "</tr>");
+				
+				var pinyinLineItems = replaceChars(pinyinLine,"</td><td>", "</td>");
+				pinyinLineItems = replaceChars(pinyinLineItems, "</td></td>", "</td>");
+				pinyinLineItems = replaceChars(pinyinLineItems, "</td></td>", "</td>");
+				pinyinLineItems = replaceChars(pinyinLineItems, "</td></td>", "</td>");
+				var pinyinLineWords = pinyinLineItems.split("</td>");
+				var numberPinyinLineWords = pinyinLineWords.length - 1;
+				var thisPinyinLineWordDivsPptx = "";
+								
+				var pinyinLineWordsPptx = "";
+				var thisPinyinLineWordDivsPptxCombined = "";
+				
+				for (var currentPinyinLineWord = 0; currentPinyinLineWord < numberPinyinLineWords; currentPinyinLineWord++)
+				{
+					var thisPinyinLineWord = pinyinLineWords[currentPinyinLineWord];
+
+					var pinyinLineWordDivs = thisPinyinLineWord.split("</div>");
+					for (var currentPinyinLineWordDiv = 0; currentPinyinLineWordDiv < pinyinLineWordDivs.length; currentPinyinLineWordDiv++)
+					{
+						var thisPinyinLineWordDiv = pinyinLineWordDivs[currentPinyinLineWordDiv];
+						
+						if (contains(thisPinyinLineWordDiv, "pinyin_1") == true)
+						{
+							if (contains(thisPinyinLineWordDiv, " <div") == true)
+							{
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t> </a:t>\n												</a:r>\n"
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+							}
+
+							var thisPinyinLineWordDivText = textBetween(thisPinyinLineWordDiv, "\">", "end");
+							var thisPinyinLineWordDivFontSize = textBetween(thisPinyinLineWordDivText, "font-size:", "px");
+							var thisPinyinLineWordDivPlain = textBetween(thisPinyinLineWordDivText, "\">", "</span>");
+							var thisPinyinLineWordDivPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"" + thisPinyinLineWordDivFontSize + "00\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"000000\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisPinyinLineWordDivPlain + "</a:t>\n												</a:r>\n"
+
+							thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivPptx;
+							thisPinyinLineWordDiv = "";
+							thisPinyinLineWordDivPlain = "";
+							thisPinyinLineWordDivText = "";
+						}
+
+						if (contains(thisPinyinLineWordDiv, "pinyin_2") == true)
+						{
+							if (contains(thisPinyinLineWordDiv, " <div") == true)
+							{
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t> </a:t>\n												</a:r>\n"
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+							}
+						
+							var thisPinyinLineWordDivText = textBetween(thisPinyinLineWordDiv, "\">", "end");
+							
+							var thisPinyinLineWordDivTextItems = thisPinyinLineWordDivText.split("</span>");
+							
+							for (var currentPinyinLineWordDivTextItem = 0; currentPinyinLineWordDivTextItem < thisPinyinLineWordDivTextItems.length - 1; currentPinyinLineWordDivTextItem++)
+							{
+								var thisPinyinLineWordDivTextItem = thisPinyinLineWordDivTextItems[currentPinyinLineWordDivTextItem];
+								
+								var thisPinyinLineWordDivTextItemFontSize = textBetween(thisPinyinLineWordDivTextItem, "font-size:", "px");
+								var thisPinyinLineWordDivTextItemCharacter = textBetween(thisPinyinLineWordDivTextItem, "\">", "end");
+								
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"" + thisPinyinLineWordDivTextItemFontSize + "00\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisPinyinLineWordDivTextItemCharacter + "</a:t>\n												</a:r>\n"
+
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+								thisPinyinLineWordDiv = "";
+								thisPinyinLineWordDivPlain = "";
+								thisPinyinLineWordDivText = "";
+							}
+							
+						}
+						
+						if (contains(thisPinyinLineWordDiv, "pinyin_3") == true)
+						{
+							if (contains(thisPinyinLineWordDiv, " <div") == true)
+							{
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t> </a:t>\n												</a:r>\n"
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+							}
+
+							var thisPinyinLineWordDivText = textBetween(thisPinyinLineWordDiv, "\">", "end");
+							var thisPinyinLineWordDivTextItems = thisPinyinLineWordDivText.split("</span>");
+							
+							for (var currentPinyinLineWordDivTextItem = 0; currentPinyinLineWordDivTextItem < thisPinyinLineWordDivTextItems.length - 1; currentPinyinLineWordDivTextItem++)
+							{
+								var thisPinyinLineWordDivTextItem = thisPinyinLineWordDivTextItems[currentPinyinLineWordDivTextItem];
+								
+								var thisPinyinLineWordDivTextItemFontSize = textBetween(thisPinyinLineWordDivTextItem, "font-size:", "px");
+								var thisPinyinLineWordDivTextItemCharacter = textBetween(thisPinyinLineWordDivTextItem, "\">", "end");
+								
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"" + thisPinyinLineWordDivTextItemFontSize + "00\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"229A25\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisPinyinLineWordDivTextItemCharacter + "</a:t>\n												</a:r>\n"
+
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+								thisPinyinLineWordDiv = "";
+								thisPinyinLineWordDivPlain = "";
+								thisPinyinLineWordDivText = "";
+							}
+						}
+
+						if (contains(thisPinyinLineWordDiv, "pinyin_4") == true)
+						{
+							if (contains(thisPinyinLineWordDiv, " <div") == true)
+							{
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t> </a:t>\n												</a:r>\n"
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+							}
+
+							var thisPinyinLineWordDivText = textBetween(thisPinyinLineWordDiv, "\">", "end");
+							var thisPinyinLineWordDivTextItems = thisPinyinLineWordDivText.split("</span>");
+							
+							for (var currentPinyinLineWordDivTextItem = 0; currentPinyinLineWordDivTextItem < thisPinyinLineWordDivTextItems.length - 1; currentPinyinLineWordDivTextItem++)
+							{
+								var thisPinyinLineWordDivTextItem = thisPinyinLineWordDivTextItems[currentPinyinLineWordDivTextItem];
+								
+								var thisPinyinLineWordDivTextItemFontSize = textBetween(thisPinyinLineWordDivTextItem, "font-size:", "px");
+								var thisPinyinLineWordDivTextItemCharacter = textBetween(thisPinyinLineWordDivTextItem, "\">", "end");
+								
+								var thisPinyinLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"" + thisPinyinLineWordDivTextItemFontSize + "00\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"2390CE\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisPinyinLineWordDivTextItemCharacter + "</a:t>\n												</a:r>\n"
+
+								thisPinyinLineWordDivsPptxCombined = thisPinyinLineWordDivsPptxCombined + "\n" + thisPinyinLineWordDivTextItemPptx;
+								thisPinyinLineWordDiv = "";
+								thisPinyinLineWordDivPlain = "";
+								thisPinyinLineWordDivText = "";
+							}
+						}
+						
+						thisPinyinLineWordDivsPptx = thisPinyinLineWordDivsPptx + thisPinyinLineWordDivsPptxCombined;
+						thisPinyinLineWordDivsPptxCombined = "";
+						thisPinyinLineWordDiv = "";
+						thisPinyinLineWordDivPlain = "";
+						thisPinyinLineWordDivText = "";
+
+					} // end for every div in thisPinyinLineWord
+					
+					var thisPinyinLineWordPptx = "									<a:tc>\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:pPr marL=\"0\" marR=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\">\n													<a:lnSpc>\n														<a:spcPct val=\"100000\"/>\n													</a:lnSpc>\n													<a:spcBef>\n														<a:spcPts val=\"0\"/>\n													</a:spcBef>\n													<a:spcAft>\n														<a:spcPts val=\"0\"/>\n													</a:spcAft>\n													<a:buClrTx/>\n													<a:buSzTx/>\n													<a:buFontTx/>\n													<a:buNone/>\n													<a:tabLst/>\n													<a:defRPr/>\n												</a:pPr>\n												" + thisPinyinLineWordDivsPptx + "\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+					
+					pinyinLineWordsPptx = pinyinLineWordsPptx + thisPinyinLineWordPptx;
+					thisPinyinLineWordPptx = "";
+					thisPinyinLineWordCharactersPptx = "";
+					thisPinyinLineWordDivsPptxCombined = "";
+					thisPinyinLineWordDiv = "";
+					thisPinyinLineWordDivPlain = "";
+					thisPinyinLineWordDivText = "";
+					thisPinyinLineWordDivsPptx = "";
+
+					
+				} // end for every word in pinyinLineWords
+				
+
+				var literalLine = textBetween(thisSlideTable, "<tr class=\"literalLine\">", "</tr>");
+				
+				var literalLineItems = replaceChars(literalLine, "<td> ", "<td>");
+				literalLineItems = replaceChars(literalLineItems,"</td><td>", "</td>");
+				literalLineItems = replaceChars(literalLineItems, "</td></td>", "</td>");
+				literalLineItems = replaceChars(literalLineItems, "</td></td>", "</td>");
+				literalLineItems = replaceChars(literalLineItems, "</td></td>", "</td>");
+
+				var literalLineWords = literalLineItems.split("</td>");
+				var numberLiteralLineWords = literalLineWords.length - 1;
+				var thisLiteralLineWordCharactersPptx = "";
+								
+				var literalLineWordsPptx = "";
+				
+				for (var currentLiteralLineWord = 0; currentLiteralLineWord < numberLiteralLineWords; currentLiteralLineWord++)
+				{
+					var thisLiteralLineWord = literalLineWords[currentLiteralLineWord];
+
+					var literalLineWordCharacters = thisLiteralLineWord.split("</div>");
+					for (var currentLiteralLineWordCharacter = 0; currentLiteralLineWordCharacter < literalLineWordCharacters.length; currentLiteralLineWordCharacter++)
+					{
+						var thisLiteralLineWordCharacter = literalLineWordCharacters[currentLiteralLineWordCharacter];
+
+						if (contains(thisLiteralLineWordCharacter, " <div") == true)
+						{
+							var thisLiteralLineWordDivTextItemPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"F5282D\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t> </a:t>\n												</a:r>\n"
+							thisLiteralLineWordCharactersPptx = thisLiteralLineWordCharactersPptx + "\n" + thisLiteralLineWordDivTextItemPptx;
+						}
+
+						var thisLiteralLineWordCharacterText = textBetween(thisLiteralLineWordCharacter, "\">", "end");
+						
+						var thisLiteralLineWordCharacterPptx = "												<a:r>\n													<a:rPr lang=\"en-US\" sz=\"1800\" dirty=\"0\" err=\"1\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"000000\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + thisLiteralLineWordCharacterText + "</a:t>\n												</a:r>\n"
+
+						thisLiteralLineWordCharactersPptx = thisLiteralLineWordCharactersPptx + "\n" + thisLiteralLineWordCharacterPptx;
+						
+					} // end for every character in thisLiteralLineWord
+					
+//					var thisLiteralLineWordPptx = "									<a:tc>\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:pPr marL=\"0\" marR=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\">\n													<a:lnSpc>\n														<a:spcPct val=\"100000\"/>\n													</a:lnSpc>\n													<a:spcBef>\n														<a:spcPts val=\"0\"/>\n													</a:spcBef>\n													<a:spcAft>\n														<a:spcPts val=\"0\"/>\n													</a:spcAft>\n													<a:buClrTx/>\n													<a:buSzTx/>\n													<a:buFontTx/>\n													<a:buNone/>\n													<a:tabLst/>\n													<a:defRPr/>\n												</a:pPr>\n												<a:endParaRPr lang=\"zh-CHT\" altLang=\"en-US\" sz=\"2800\" dirty=\"0\" smtClean=\"0\">\n													<a:solidFill>\n														<a:srgbClr val=\"000000\"/>\n													</a:solidFill>\n												</a:endParaRPr>\n											</a:p>\n											<a:p>\n												<a:pPr marL=\"0\" marR=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\">\n													<a:lnSpc>\n														<a:spcPct val=\"100000\"/>\n													</a:lnSpc>\n													<a:spcBef>\n														<a:spcPts val=\"0\"/>\n													</a:spcBef>\n													<a:spcAft>\n														<a:spcPts val=\"0\"/>\n													</a:spcAft>\n													<a:buClrTx/>\n													<a:buSzTx/>\n													<a:buFontTx/>\n													<a:buNone/>\n													<a:tabLst/>\n													<a:defRPr/>\n												</a:pPr>\n												" + thisLiteralLineWordCharactersPptx + "\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+					var thisLiteralLineWordPptx = "									<a:tc>\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:pPr marL=\"0\" marR=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\">\n													<a:lnSpc>\n														<a:spcPct val=\"100000\"/>\n													</a:lnSpc>\n													<a:spcBef>\n														<a:spcPts val=\"0\"/>\n													</a:spcBef>\n													<a:spcAft>\n														<a:spcPts val=\"0\"/>\n													</a:spcAft>\n													<a:buClrTx/>\n													<a:buSzTx/>\n													<a:buFontTx/>\n													<a:buNone/>\n													<a:tabLst/>\n													<a:defRPr/>\n												</a:pPr>\n												" + thisLiteralLineWordCharactersPptx + "\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+
+					literalLineWordsPptx = literalLineWordsPptx + thisLiteralLineWordPptx;
+					thisLiteralLineWordPptx = "";
+					thisLiteralLineWordCharactersPptx = "";
+					
+				} // end for every word in literalLineWords
+				
+				var englishText = document.getElementById("englishTextArea").value;
+				var englishLines = englishText.split("\n");
+				var englishLine = englishLines[0];
+				
+				var englishPptx = "</a:tr>\n								<a:tr h=\"370840\">\n									<a:tc gridSpan=\"" + numberLiteralLineWords + "\">\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:r>\n													<a:rPr lang=\"en-US\" dirty=\"0\" smtClean=\"0\">\n														<a:solidFill>\n															<a:srgbClr val=\"000000\"/>\n														</a:solidFill>\n													</a:rPr>\n													<a:t>" + englishLine + "</a:t>\n												</a:r>\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+				
+				for (var currentChineseColumn = 1; currentChineseColumn < numberChineseLineWords; currentChineseColumn++)
+				{
+					englishPptx = englishPptx + "									<a:tc hMerge=\"1\">\n										<a:txBody>\n											<a:bodyPr/>\n											<a:lstStyle/>\n											<a:p>\n												<a:endParaRPr lang=\"en-US\" dirty=\"0\">\n													<a:solidFill>\n														<a:srgbClr val=\"000000\"/>\n													</a:solidFill>\n												</a:endParaRPr>\n											</a:p>\n										</a:txBody>\n										<a:tcPr>\n											<a:noFill/>\n										</a:tcPr>\n									</a:tc>\n";
+				}
+				
+				
+				var tblGridPptx = "";
+				for (var currentColumn = 0; currentColumn < numberChineseLineWords; currentColumn++)
+				{
+					tblGridPptx = tblGridPptx + "									<a:gridCol w=\"1902122\"/>\n"
+				} // end create table with columns for each word
+				
+				var slideHeaders = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<p:sld\n	xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"\n	xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"\n	xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\">\n	<p:cSld>\n		<p:spTree>\n			<p:nvGrpSpPr>\n				<p:cNvPr id=\"1\" name=\"\"/>\n				<p:cNvGrpSpPr/>\n				<p:nvPr/>\n			</p:nvGrpSpPr>\n			<p:grpSpPr>\n				<a:xfrm>\n					<a:off x=\"0\" y=\"0\"/>\n					<a:ext cx=\"0\" cy=\"0\"/>\n					<a:chOff x=\"0\" y=\"0\"/>\n					<a:chExt cx=\"0\" cy=\"0\"/>\n				</a:xfrm>\n			</p:grpSpPr>\n			<p:graphicFrame>\n				<p:nvGraphicFramePr>\n					<p:cNvPr id=\"4\" name=\"Content Placeholder 3\"/>\n					<p:cNvGraphicFramePr>\n						<a:graphicFrameLocks noGrp=\"1\"/>\n					</p:cNvGraphicFramePr>\n					<p:nvPr>\n						<p:ph idx=\"1\"/>\n						<p:extLst>\n							<p:ext uri=\"{D42A27DB-BD31-4B8C-83A1-F6EECF244321}\">\n								<p14:modId\n									xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" val=\"2594843320\"/>\n								</p:ext>\n							</p:extLst>\n						</p:nvPr>\n					</p:nvGraphicFramePr>\n					<p:xfrm>\n						<a:off x=\"457200\" y=\"1600200\"/>\n						<a:ext cx=\"7608488\" cy=\"2082799\"/>\n					</p:xfrm>\n					<a:graphic>\n						<a:graphicData uri=\"http://schemas.openxmlformats.org/drawingml/2006/table\">\n							<a:tbl>\n								<a:tblPr firstRow=\"1\" bandRow=\"1\">\n									<a:tableStyleId>{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}</a:tableStyleId>\n								</a:tblPr>\n								<a:tblGrid>\n									" + tblGridPptx + "\n								</a:tblGrid>\n								<a:tr h=\"370840\">\n";
+				var slideFooters = "</a:tr>\n							</a:tbl>\n						</a:graphicData>\n					</a:graphic>\n				</p:graphicFrame>\n			</p:spTree>\n			<p:extLst>\n				<p:ext uri=\"{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}\">\n					<p14:creationId\n						xmlns:p14=\"http://schemas.microsoft.com/office/powerpoint/2010/main\" val=\"1458825784\"/>\n					</p:ext>\n				</p:extLst>\n			</p:cSld>\n			<p:clrMapOvr>\n				<a:masterClrMapping/>\n			</p:clrMapOvr>\n		</p:sld>";
+				
+				outputText = slideHeaders + chineseLineWordsPptx + "								</a:tr>\n								<a:tr h=\"370840\">\n" + pinyinLineWordsPptx + "								</a:tr>\n								<a:tr h=\"370840\">\n" + literalLineWordsPptx + englishPptx + slideFooters;
+								
+			} // end for every slide table
+
+			document.getElementById("chineseSpacedTextArea").value = "copy into ppt/slides/slide1.xml, then zip the contents (not the folder) and rename to pptx";
+
+						
+			document.getElementById("outputTextArea").value = outputText;
+		} // end function pptxButtonClicked
+				
 		function swapButtonClicked()
 		{
 			//debugLog("swapButtonClicked");
@@ -19986,10 +20616,10 @@ input[type='range']::-ms-thumb {
 			 return thisString.split(/\r\n|\r|\n/).length;
 		}
 		
-		function bilingualLineBreaksButtonClicked()
+		function bilingualLineBreaksButtonClicked(chineseTextAreaWidth, englishTextAreaWidth)
 		{
-			var chineseTextAreaWidth = '550px';
-			var englishTextAreaWidth = '1200px';
+			//var chineseTextAreaWidth = '550px';
+			//var englishTextAreaWidth = '1200px';
 			
 			var chineseText = document.getElementById("chineseTextArea").value;
 			var englishText = document.getElementById("englishTextArea").value;
@@ -20060,7 +20690,8 @@ input[type='range']::-ms-thumb {
 			var wrappedLines = extractLinesFromTextNode( document.querySelector( ".lineWrappingAreaEnglish" ).firstChild );
 
 			var wrappedText = wrappedLines.join("\n");
-			return wrappedText + "\n";
+			//return wrappedText + "\n";
+			return wrappedText;
 		}
 		
 		function lineBreakText(chineseText, chineseTextAreaWidth)
@@ -20086,7 +20717,9 @@ input[type='range']::-ms-thumb {
 					while (breaksWord == true)
 					{
 						// Move the newline one character to the left and re-check
-						var firstLineArray = firstLine.split("");
+						//var firstLineArray = firstLine.split("");
+						var firstLineArray = Array.from( firstLine );
+
 						var firstLineLastCharacter = firstLineArray.pop();
 						var secondLine = firstLineLastCharacter + secondLine;
 						firstLine = firstLineArray.join("");
@@ -20142,7 +20775,9 @@ input[type='range']::-ms-thumb {
 			
 			var combinedSpacedLine = spacedFirstLine + spacedSecondLine;
 
-			var firstLineLastCharacter = firstLine.charAt(firstLine.length - 1);
+			//var firstLineLastCharacter = firstLine.charAt(firstLine.length - 1);
+			var firstLineArray = Array.from( firstLine );
+			var firstLineLastCharacter = firstLine[firstLineArray.length - 1];
 			if (isChinese(firstLineLastCharacter) == false)
 			{
 				combinedSpacedLine = spacedFirstLine + " " + spacedSecondLine;
@@ -21229,6 +21864,9 @@ input[type='range']::-ms-thumb {
 				
 				var newLitManLine = "";
 				
+				//console.log("currentWord = " + currentWord);
+				//console.log("thisLitManLineWord = " + litManLineWords[currentWord]);
+				
 				for (var currentLitManLineWord = 0; currentLitManLineWord < numberLitManLineWords; currentLitManLineWord++)
 				{
 					var thisLitManLineWord = litManLineWords[currentLitManLineWord];
@@ -21249,7 +21887,8 @@ input[type='range']::-ms-thumb {
 				
 				litManText = replaceChars(litManText, "- ", " ");
 				litManText = replaceChars(litManText, " -", " ");
-				
+				//litManText = replaceChars(litManText, "	", " ");
+								
 				document.getElementById('simplifiedInputTextArea').value = litManText;
 				
 				//var newLitManHtml = "<tr id=\"litManLine" + currentLine + "\" class=\"litManLine\">";
@@ -21257,6 +21896,8 @@ input[type='range']::-ms-thumb {
 				//litManHtml = litManHtml + "</tr>";
 				
 				document.getElementById("litManLine" + currentLine).innerHTML = newLitManHtml;
+				
+				//translateButtonClicked();
 				
 			} // end if we should delete from litMan
 
@@ -21312,6 +21953,7 @@ input[type='range']::-ms-thumb {
 				var litManLine = litManArray[currentLine];
 				
 				var litManLineWords = litManLine.split(" ");
+				//console.log(litManLineWords);
 				var numberLitManLineWords = litManLineWords.length;
 				
 				var newLitManLine = "";
@@ -21328,7 +21970,6 @@ input[type='range']::-ms-thumb {
 					} else {
 						newLitManLine = newLitManLine + "  ";
 					} // end if this word is not the word we're adding a space in front of
-					
 				} // end for every word on the line
 				
 				litManArray[currentLine] = newLitManLine;
@@ -21484,6 +22125,40 @@ input[type='range']::-ms-thumb {
 
 		dictionaryEditorEditCounts();
   		
+		onkeydown = function(e){
+		  //if(e.keyCode == ' '.charCodeAt(0)){
+		  //  
+		  //  if (e.target == document.body)
+		  //  {
+		  //  	if (useCursor == false)
+		  //  	{
+		  //  		if (useMediaViewer == true)
+		  //  		{
+		  //  			e.preventDefault();
+		  //  			
+		  //  			if (document.getElementById("mediaViewerVideo").paused)
+		  //  			{
+		  //  				document.getElementById("mediaViewerVideo").play();
+		  //  			} else {
+		  //  				document.getElementById("mediaViewerVideo").pause();
+		  //  			}
+		  //  		}
+		  //  	}
+		  //  } // end if e.target == document.body
+		  //} // end if space key is pressed
+		  
+  		if(e.key == '`')
+		{
+			if (document.getElementById("mediaViewerVideo").paused)
+			{
+				document.getElementById("mediaViewerVideo").play();
+			} else {
+				document.getElementById("mediaViewerVideo").pause();
+			}
+		}
+		  
+		  
+		}  		
 		var thisDialog = $( "#mediaViewer" ).dialog(
 			{
 				width: 1880,
@@ -21541,11 +22216,22 @@ input[type='range']::-ms-thumb {
 		
   	} // end function openSlideViewer
   	
+	$('body').on('keydown', (e) => 
+	{
+		if (!$(e.target).is("textarea"))
+		{
+			if (useCursor == true)
+			{
+				cursorKeyDown();
+			}
+		}
+	});
+  	
   	function showCursorButtonClicked()
   	{
   		//debuglog("showCursorButtonClicked");
 		
-		useCursor = !useCursor;
+		useCursor = true;
 		
 		var cursorId = "cursor";
 		var cursorIdJQuery = "#" + cursorId;
@@ -21560,6 +22246,10 @@ input[type='range']::-ms-thumb {
 		cursorTargetElementId = "chineseLine0Word0Character0";
 		
 		var startPosition = $("#" + cursorTargetElementId).position();
+		if (startPosition == undefined)
+		{
+			return;
+		}
 		var startPositionTop = startPosition.top;
 		var startPositionLeft = startPosition.left;
 		var startPositionBottom = startPosition.bottom;
@@ -21580,13 +22270,20 @@ input[type='range']::-ms-thumb {
 		
 		
 			
-		$('body').keydown(function(e) 
-		{
-			if (!$(e.target).is("textarea"))
-			{
-				cursorKeyDown();
-			}
-		});
+		//$('body').keydown(function(e) 
+		//$('body').on('keydown', (e) => 
+		//{
+		//	if (!$(e.target).is("textarea"))
+		//	{
+		//		console.log("keydown");
+		//		cursorKeyDown();
+		//	}
+		//});
+
+		//$('body').keyup(function(e) 
+		//{
+		//	console.log("keyup");
+		//});
 		
 		// Disable default arrow keys actions
 		cursorEventListener = function(e) {
