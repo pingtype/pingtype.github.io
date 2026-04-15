@@ -6,7 +6,7 @@ el	he
 la	the
 los	the
 en	in
-se	HE
+se	he
 del	of the
 su	his
 no	No
@@ -25,7 +25,7 @@ mi	my
 una	a
 tu	you
 rey	king
-te	tea
+te	you
 dijo	said
 les	them
 todo	all
@@ -35,7 +35,7 @@ porque	because
 ellos	they
 yo	I
 hijo	son
-pueblo	town
+pueblo	people
 sobre	about
 hijos	children
 había	there was
@@ -101,7 +101,7 @@ donde	where
 nosotros	us
 israelitas	Israelites
 cada	each
-medio	half
+medio	means
 Egipto	Egypt
 mano	hand
 sino	but
@@ -120,7 +120,7 @@ tanto	so much
 ver	see
 cosas	things
 hay	there is
-cielo	darling
+cielo	heavens
 muerte	death
 corazón	heart
 habían	had
@@ -208,7 +208,7 @@ paz	peace
 plata	silver
 fuera	out
 unos	some
-verdad	TRUE
+verdad	true
 tal	such
 dijeron	They said
 ejército	army
@@ -258,7 +258,7 @@ envió	shipment
 cuatro	four
 durante	during
 santuario	sanctuary
-frente	forehead
+frente	front
 pecados	sins
 pacto	covenant
 tomó	took
@@ -336,7 +336,7 @@ hablar	talk
 ſe	it is
 vio	saw
 llamó	called
-obra	construction site
+obra	workmanship
 piedra	stone
 hijas	daughters
 vivir	live
@@ -491,7 +491,7 @@ beber	drink
 pueden	they can
 forma	shape
 pronto	soon
-sé	HE
+sé	he
 ſobre	about
 venir	come
 quiere	wants
@@ -540,7 +540,7 @@ Jonatán	Jonathan
 voluntad	willpower
 debajo	below
 ganado	cattle
-gracia	funny
+gracia	grace
 príncipes	princes
 ve	go
 iglesia	church
@@ -924,7 +924,7 @@ tablas	tables
 segunda	second
 sois	you are
 deja	leaves
-pastores	shepherds
+pastores	pastors
 secreto	secret
 ropas	clothes
 frontera	border
@@ -1553,7 +1553,7 @@ muros	walls
 querido	darling
 corresponde	corresponds
 cuchillo	knife
-esposas	handcuffs
+esposas	wives
 muere	dies
 regresar	go back
 tanta	so much
@@ -1941,7 +1941,7 @@ situada	located
 montón	lot
 manda	send
 pedido	order
-parecer	seem
+parecer	view
 débiles	weak
 egipcio	Egyptian
 abismo	abyss
@@ -2795,7 +2795,7 @@ pienso	I think
 irse	go
 bendecirá	will bless
 siento	I feel
-prometida	fiancee
+prometida	promised
 perpetua	life
 negó	denied
 inmediato	immediate
@@ -7834,7 +7834,7 @@ sentimos	We feel
 selló	seal
 ruge	roars
 resplandecer	glow
-rectas	straight lines
+rectas	right
 reconocimiento	recognition
 presentada	presented
 pierdas	you lose
@@ -11683,7 +11683,7 @@ irremisiblemente	irremediably
 invoco	I invoke
 interpretan	interpret
 inicia	starts
-indicó	Indian
+indicó	indicated
 héroe	hero
 hubiereis	you would have
 honrarme	honor me
@@ -16390,7 +16390,7 @@ acostará	will lie down
 acercaré	I will approach
 aceptamos	We accept
 acarrean	carry
-acampaba	I was camping
+acampaba	camping
 Zéred	Zered
 Tebes	Thebes
 Puá	Plectrum
@@ -164037,7 +164037,7 @@ SDP	SDP
 SDSI	SDSI
 SDSM	SDSM
 se asocia	is associated
-sea	sea
+sea	be
 Seagate	Seagate
 seal	seal
 search	search
@@ -166496,3 +166496,62 @@ zyx	zyx
 zZxcva	zZxcva
 zzz	zzz
 ZZZZ	ZZZZ
+demás	the rest
+ningún	none
+así	thus
+atrás	back
+práctica	practice
+está	this
+él	he
+también	also
+Desviación	deviation
+más	most
+podrían	could
+José	Joseph
+vendrá	will come
+aquí	here
+límite	limit
+día	day
+Pi-hahirot	Pi-hahiroth
+Baal-zefón	Baal-zephon
+están	are
+saldrá	will come out
+Después	after
+Qué	that
+señal	sign
+Por qué	why
+aún	still
+cómo	how
+jamás	never
+volverán	will return
+verá	you will see
+versión	version
+difícil	difficult
+lean	lean
+deberían	should
+serán	will be
+días	days
+oasis	oasis
+podrá	will be able to
+continuará	will continue
+niños	children
+función	function
+oído	heard
+estímulo	boost
+después	after
+mañana	tomorrow
+verán	you will see
+dará	will give
+tendrán	they will have
+cuándo	when
+cilantro	coriander
+podrán	they will be able to
+años	years
+sí	yes
+música	music
+término	term
+oír	hear
+qué	that
+esté	this
+fácil	easy
+regresará	will return
