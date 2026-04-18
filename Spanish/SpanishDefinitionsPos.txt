@@ -471,7 +471,7 @@ ejércitos	armies
 aquella	that
 alianza	alliance
 viento	wind
-ordenado	tidy
+ordenado	commanded
 propio	own
 resto	rest
 Elías	Elias
@@ -1469,7 +1469,7 @@ pared	wall
 Elí	Eli
 véanse	see
 Jonás	Jonah
-sana	fury
+sana	heal
 peligro	danger
 espera	wait
 escapar	escape
@@ -7698,7 +7698,7 @@ padecido	suffered
 muriere	die
 muriera	died
 mentir	lie
-lunar	mole
+lunar	lunar
 lucharon	they fought
 limpias	clean
 jarra	jug
@@ -166555,3 +166555,14 @@ qué	that
 esté	this
 fácil	easy
 regresará	will return
+comenzó	began
+qué	that
+enviará	will send
+restauración	restoration
+lámparas	lamps
+altar	altar
+quedará	will remain
+armazón	frame
+dirección	direction
+lámparas	lamps
+último	last
