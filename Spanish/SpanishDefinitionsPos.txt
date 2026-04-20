@@ -517,7 +517,7 @@ promesa	promise
 riquezas	riches
 segundo	second
 enviado	sent
-cierto	TRUE
+cierto	true
 acuerdo	agreement
 vuestras	your
 texto	text
@@ -812,7 +812,7 @@ hago	do
 cargo	post
 cárcel	jail
 parientes	relatives
-piel	fur
+piel	skin
 preguntaron	They asked
 ſi	Yes
 punto	spot
@@ -955,7 +955,7 @@ ido	gone
 dejaron	They left
 carneros	rams
 pedazos	pieces
-verdadero	TRUE
+verdadero	true
 Sedequías	Zedekiah
 manto	mantle
 eterno	eternal
@@ -70701,14 +70701,14 @@ vergonçosos	shameful
 veredictos	verdicts
 vere	I will see
 verdàdera	true
-verdàd	TRUE
+verdàd	true
 verduzco	greenish
 verduzcas	greens
 verduscas	greens
 verdugo’	executioner'
 verdeguear	to green
 verdara	true
-verdad’	TRUE'
+verdad’	true'
 verdadeias	truths
 verd	green
 verazmente	truthfully
@@ -158351,7 +158351,7 @@ Falafels	Falafels
 FAlgunos	FSome
 fallback	fallback
 fallidos	failed
-FALSE	FALSE
+false	false
 Faltaba	It was missing
 faltan BúsquedasnAlgunos	Missing SearchesnSome
 faltantes	missing
@@ -164822,7 +164822,7 @@ sumas	sums
 Sumergibles	Submersibles
 summary	summary
 SummaryView	SummaryView
-sumo	sumo
+sumo	top
 Sun	Sun
 sundanés	Sundanese
 sUno	s‰One
@@ -165498,7 +165498,7 @@ troubleshooter	troubleshooter
 troubleshooting	troubleshooting
 trovadora	troubadour
 trubleshoot	trubleshoot
-TRUE	TRUE
+true	true
 trueda	trueda
 TrueSpeech	TrueSpeech
 truetype	truetype
@@ -166566,3 +166566,2984 @@ armazón	frame
 dirección	direction
 lámparas	lamps
 último	last
+número	number
+quién	who
+preparación	preparation
+señales	signs
+Hazerot	Hazeroth
+través	through
+bebé	baby
+contaminación	contamination
+Abadón	Abadon 
+Abagta	Abagta 
+Abarca	Abarca 
+Abba	Abba 
+Abda	Abda 
+Abdeel	Abdeel 
+Abdi	Abdi 
+Abdiel	Abdiel 
+Abed	Abed 
+Abel	Abel 
+Abez	Abez 
+Abi	Abi 
+Abida	Abida 
+Abiel	Abiel 
+Abiezer	Abiezer 
+Abigail	Abigail 
+Abihail	Abihail 
+Abilinia	Abilinia 
+Abimael	Abimael 
+Abinoam	Abinoam 
+Abiram	Abiram 
+Abisur	Abisur 
+Abital	Abital 
+Abitob	Abitob 
+Abiud	Abiud 
+Abiú	Abiú 
+Ablandas	Ablandas 
+Abner	Abner 
+Abofetea	Slap 
+Aborrezcan	Hate 
+Abraham	Abraham 
+Abram	Abram 
+Abro	Abro 
+Abrona	Abrona 
+Abrázala	Embrace her 
+Abundará	Will abound 
+Abundarán	Acad 
+Acad	Acar 
+Acar	Acbor 
+Acbor	Let 
+Aclamemos	's Acclaim 
+Aclamen	Acclaim 
+Aclara	Clarify 
+Aco	Aco 
+Acompáñame	Come with me 
+Acor	Acor 
+Acostumbraba	Acostumbaba 
+Acrabim	Acrabim 
+Acsa	Acsa 
+Acsaf	Acsaf 
+Acub	Acub 
+Acércalos	Bring them closer 
+Adada	Adada 
+Adama	Adama 
+Adami	Adami 
+Adbeel	Adbeel 
+Ader	Ader 
+Adiel	Adiel 
+Adina	Adina 
+Adino	Adino 
+Aditaim	Aditaim 
+Adiós	Goodbye 
+Adma	Adma 
+Admata	Admata 
+Adna	Adna 
+Adnas	Adnas 
+Adoni	Adoni 
+Adonicam	Adonicam 
+Adoniram	Adoniram 
+Adonisedec	Adonisedec 
+Adonías	Adonías 
+Adoraim	Adoraim 
+Adoram	Adoram 
+Adorna	Adorna 
+Adriel	Adriel 
+Adriático	Adriatic 
+Adumín	Adumín 
+Adviertan	Warn 
+Adóralo	Adore him 
+Afeca	Afeca 
+Afilan	Afilan 
+Afilen	Afilen 
+Afina	Afina 
+Agag	Agag 
+Agar	Agar 
+Agranda	Enlarge 
+Agrandan	Enlarge 
+Agrégale	Add 
+Ah	Ah 
+Aharhel	Aharhel 
+Ahasbai	Ahasbai 
+Ahastari	Ahastari 
+Ahava	Ahava 
+Ahiezer	Ahiezer 
+Ahilud	Ahilud 
+Ahimot	Ahimot 
+Ahinadab	Ahinadab 
+Ahinoam	Ahinoam 
+Ahira	Ahira 
+Ahiram	Ahiram 
+Ahisahar	Ahisahar 
+Ahisamac	Ahisamac 
+Ahisar	Ahisar 
+Ahitob	Ahitob 
+Ahiud	Ahiud 
+Ahlab	Ahlab 
+Ahlai	Ahlai 
+Ahoh	Ahoh 
+Aholiab	Aholiab 
+Ahumai	Ahumai 
+Ahuzam	Ahuzam 
+Ahuzat	Ahuzat 
+Ahíam	Ahinoam Save yourself 
+Ahórrate	Aja 
+Aja	Ajat 
+Ajat	Wormwood 
+Ajenjo	Aha 
+Ajá	Alamet 
+Alamet	Alcen 
+Alcen	Let us 
+Alegrémonos	rejoice 
+Aleluya	Hallelujah 
+Alfa	Alpha 
+Alienten	Enliven 
+Almacene	Store 
+Almodad	Happiness 
+Alot	Alot 
+Altísimo	Almighty 
+Alya	Alya 
+Alían	Allian 
+Alón	Alon 
+Alús	Alus 
+Amad	Amad 
+Amal	Amal 
+Amam	Amam 
+Amana	Amana 
+Amasa	Amasa 
+Amasai	Amasai 
+Ami	Ami 
+Amiel	Amiel 
+Aminadab	Aminadab 
+Amisabad	Amisabad 
+Amisadai	Amisadai 
+Amitai	Amitai 
+Amiud	Amiud 
+Amma	Amma 
+Amoc	Amoc 
+Amoz	Amoz 
+Amplias	Broad 
+Amrafel	Amram 
+Amram	Amrafel
+Amsi	Amsi 
+Amán	Amman 
+Ana	Ana 
+Anab	Anab 
+Anac	Anac 
+Anaharat	Anaharat 
+Anamelec	Anamelech 
+Anani	Anani 
+Anem	Anem 
+Aner	Aner 
+Anhelaban	Longed 
+Aniam	Aniam 
+Anim	Anim 
+Animado	Animated 
+Antipas	Antipas 
+Anub	Anub 
+Anularé	Anularé Anularé 
+Anímalo	Encourage 
+Anímate	Encourage 
+Aod	Ood 
+Ap	Ap 
+Apaim	Apaim 
+Aparecerán	They will 
+Apelo	appear 
+Apia	Apelo 
+Apio	Apia 
+Aplastas	Celery 
+Aplasten	Crush 
+Apresan	Crush 
+Apártalos	Grab move 
+Apártese	away 
+Apúrate	Get away 
+Apúrense	Hurry Hurry 
+Aquila	Aquila 
+Ar	Ar 
+Arab	Arab 
+Arad	Arad 
+Ararat	Ararat 
+Arauna	Arauna 
+Ard	Ard 
+Areli	Areli 
+Aren	Aren 
+Areópago	Areopagus 
+Argob	Argob 
+Aridai	Aridai 
+Aridata	Aridata 
+Arie	Arie 
+Ariel	Ariel 
+Arisai	Arisai 
+Aristarco	Aristarchus 
+Arod	Arod 
+Arodi	Arodi 
+Aroer	Aroer 
+Arrasas	Arrasas 
+Arreglarte	Fix yourself 
+Arrodillémonos	Kneel Let's kneel 
+Arrodíllense	Kneel Ruined 
+Arruiné	Arrest 
+Arréstenlo	him 
+Arsa	Arsa 
+Artemas	Artemas 
+Artemisa	Artemis 
+Arubot	Arubot 
+Aruma	Aruma 
+Arvad	Arvad 
+Aró	Aró 
+Asa	Asa 
+Asael	Asael 
+Asareel	Asareel 
+Asarela	Asarela 
+Asbel	Asbel 
+Asdod	Ashdod 
+Asena	Asena 
+Asenat	Asenat 
+Ashshur	Ashshur 
+Asia	Asia 
+Asiel	Asiel 
+Asima	Asima 
+Asir	Asir 
+Asnapar	Asnapar 
+Aspata	Aspata 
+Aspenaz	Aspenaz 
+Asriel	Asriel 
+Astoret	Astoret 
+Asur	Ashur 
+Asvat	Asvat 
+Asó	Aso 
+Asón	Ason We 
+Atacamos	will attack 
+Atacaremos	We will attack 
+Atad	Atad 
+Atai	Atai 
+Atalia	Atalia 
+Atara	Atara 
+Atarim	Atarim 
+Atarot	Atarot 
+Ater	Ater 
+Atiendan	Attend 
+Atlai	Atlai 
+Atrot	Atrot 
+Atáquenlo	Attack him 
+Augusto	Augusto 
+Aullaré	Howl 
+Avim	Avim 
+Avisen	Alert 
+Avit	Avit 
+Ay	Ay 
+Aya	Aya 
+Ayin	Ayin 
+Ayúdale	Help him Help 
+Ayúdalos	them 
+Ayúdenla	Help her Help us 
+Ayúdenos	Help 
+Ayúdense	each other 
+Azal	Azal 
+Azareel	Azareel 
+Azaryahu	Azaryahu 
+Azaz	Azaz 
+Azazel	Azazel 
+Azbuc	Azbuc 
+Azeca	Azeca 
+Azel	Azel 
+Azgad	Azgad 
+Aziel	Aziel 
+Aziza	Aziza 
+Aznot	Aznot 
+Azor	Azor 
+Azricam	Azricam 
+Azriel	Azriel 
+Azuba	Azuba 
+Azur	Azur 
+Añoro	Añoro 
+Baala	Baala 
+Baalat	Baalat 
+Baale	Baale 
+Baalis	Baalis 
+Baana	Baana 
+Baara	Baara 
+Babel	Babel 
+Babilonia	Babylon 
+Baca	Baca 
+Bacbacar	Bacbacar 
+Bacbuc	Bacbuc 
+Baharum	Baharum 
+Bahurim	Bahurim 
+Bajaré	I'll go down 
+Bajaste	You went down 
+Bajemos	Let's go down 
+Bala	Bala 
+Balaam	Bama 
+Bama	Bamot 
+Bamot	Balaam
+Bani	Bani 
+Baraquel	Baraquel 
+Barrabás	Barabás 
+Barrio	Barrio 
+Barzilai	Barzilai 
+Basemat	Basemat 
+Bat	Bat 
+Bautista	Bautista 
+Bavai	Bavai 
+Bazlit	Bazlit 
+Bazlut	Bazlut 
+Bealot	Bealot 
+Bebai	Bebai 
+Beberé	Beberé 
+Becorat	Becorat 
+Bedad	Bedad 
+Beeliada	Beeliada 
+Beera	Beera 
+Beeri	Beeri 
+Beerot	Beerot 
+Beestera	Beestera 
+Beezeboul	Beezeboul 
+Behemot	Behemot 
+Bel	Bel 
+Bela	Bela 
+Beliab	Beliab 
+Belial	Belial 
+Belian	Belian 
+Beliar	Beliar 
+Belén	Bethlehem 
+Benjamín	Benjamin 
+Beno	Beno 
+Benoni	Benoni 
+Benzohet	Benzohet 
+Beor	Beor 
+Bequer	Bequer 
+Bera	Bera 
+Beraca	Beraca 
+Berea	Berea 
+Bered	Bered 
+Berenice	Berenice 
+Beri	Beri 
+Berodac	Berodac 
+Berota	Berota 
+Berotai	Berotai 
+Besai	Besai 
+Beta	Beta 
+Beter	Beter 
+Betonim	Betonim 
+Betuel	Betuel 
+Betul	Betul 
+Beula	Beula 
+Bezai	Bezai 
+Bezalel	Bezalel 
+Bicri	Bicri 
+Bidcar	Bidcar 
+Bigta	Bigta 
+Bigtana	Bigtana 
+Bigvai	Bigvai 
+Bildad	Bildad 
+Bileam	Bileam 
+Bilga	Bilga 
+Bilha	Bilha 
+Bimhal	Bimhal 
+Bina	Bina 
+Birsa	Birsa 
+Birzavit	Birzavit 
+Bislam	Bislam 
+Bitia	Bitia 
+Bizotia	Bizotia 
+Bizta	Bizta 
+Blasto	Blasto 
+Bloqueó	Blocked 
+Boanerges	Boanerges 
+Boaz	Boaz 
+Bocru	Bocru 
+Boquim	Boquim 
+Boscat	Boscat 
+Bosor	Bosor 
+Bosra	Bosra 
+Bubastis	Bubastis 
+Buna	Buna 
+Buni	Buni 
+Buqui	Buqui 
+Buz	Buz 
+Buzi	Buzi 
+Báñate	Bathe Kiss me 
+Bésame	Find 
+Búscalos	them 
+Caballeros	Gentlemen 
+Cabseel	Cabseel 
+Cabul	Cabul 
+Cademot	Cademot 
+Cadmiel	Cadmiel 
+Caf	Caf 
+Cafira	Cafira 
+Cala	Cala 
+Calai	Calai 
+Calcol	Calcol 
+Caldea	Caldea 
+Caleb	Caleb 
+Calmaste	Calmaste 
+Calne	Calne 
+Calno	Calno 
+Calvario	Calvario 
+Cam	Cam 
+Camada	Litter 
+Candace	Candace 
+Cane	Cane 
+Cantares	Cantares 
+Cantémosle	Cantémosle 
+Capadocia	Cappadocia 
+Capturamos	We Capture 
+Carca	Carca 
+Carcas	Carcas 
+Carcor	Carcor 
+Carea	Carea 
+Cargarás	Cargas 
+Carmelo	Carmelo 
+Carmi	Carmi 
+Carpo	Carpo 
+Carsena	Carsena 
+Castígalos	Punish 
+Castíganos	them Punish us 
+Catat	Catat 
+Cauda	Cauda 
+Causas	Causes 
+Cavan	Cavan 
+Cedar	Cedar 
+Cedema	Cedema 
+Cedes	Cedes 
+Cedrón	Cedrón 
+Ceelata	Ceelata 
+Cenaz	Cenaz 
+Cesia	Cesia 
+Chuparán	Chuparán 
+Chuza	Chuza 
+Cilicia	Cilicia 
+Cineret	Cineret 
+Circula	Circula 
+Circuncídense	Circumcise 
+Cis	Cis 
+Clamaste	Clamaste 
+Claudia	Claudia 
+Claudio	Claudio 
+Clemente	Clemente 
+Co	Co 
+Coa	Coa 
+Coat	Colma 
+Col	Coat
+Colma	Place 
+Colócalas	them 
+Colócale	Place it 
+Comerciaban	They traded 
+Compadécete	Pity them 
+Comparadas	Compared 
+Compórtense	Behave 
+Concebirás	They 
+Concéntrense	will 
+Conduje	conceive Concentrate 
+Confección	I 
+Confiarle	drove Making Entrust to 
+Confiésense	him 
+Confusa	Confess Confused I will 
+Conservaré	keep 
+Conservé	I kept 
+Consideré	I 
+Consigan	considered 
+Consolador	Get 
+Constará	comforter 
+Constrúyeme	It will consist 
+Conságralos	Build me 
+Consíganmela	Consecrate them 
+Consígueme	Get it 
+Contemplan	for me 
+Contiguo	Get me They contemplate 
+Continuaremos	Next to me We 
+Contraté	will 
+Contuviste	continue 
+Convenía	I hired You 
+Convocaré	contained It was convenient I 
+Convocaste	will summon You summoned 
+Corinto	Corinth 
+Corneará	Will horn 
+Coronación	Coronation 
+Cos	Cos 
+Cosam	Cosam 
+Cosechará	Will harvest 
+Cozbi	Cozbi 
+Cozeba	Cozeba 
+Cr	Cr 
+Creciste	You grew 
+Creta	Crete 
+Cristo	Christ 
+Crucifícalo	Crucify him 
+Cruzaremos	We will cross Believe 
+Créanme	me 
+Créeme	Believe me 
+Crónicas	Chronicles 
+Cub	Cub 
+Cuelan	Strain 
+Cultivarás	You will cultivate 
+Cun	Cun 
+Cusi	Cusi 
+Cuta	Cuta 
+Cuélgala	Hang it Tell 
+Cuéntame	me Tell 
+Cuéntenlo	it 
+Cuídame	Take care of me Take care 
+Cuídate	of 
+Cállate	yourself 
+Cállense	Be 
+Cálmense	quiet Be quiet 
+Cásense	Calm down 
+Cédele	Marry Give it 
+César	to Caesar Buy 
+Cómprenos	us Cover 
+Cúbrelos	them 
+Cúbrete	Cover yourself 
+Daberat	Daberat 
+Dabeset	Dabeset 
+Dalila	Dalila 
+Dalmanuta	Dalmanuta 
+Daluia	Daluia 
+Damasco	Damascus 
+Dana	Dana 
+Dara	Dara 
+Darda	Darda 
+Deambulan	They wander 
+Deberé	I should 
+Debieras	You should 
+Decaen	Decay 
+Declararé	I will declare 
+Declárame	Declare me 
+Dedíquense	Dedicate 
+Definitivamente	yourselves 
+Defiéndeme	Definitely 
+Deléitate	Defend 
+Demas	me 
+Demuestras	Delight 
+Demuéstralo	yourself 
+Denme	You 
+Dense	demonstrate 
+Derbe	Prove it Give me Give yourselves You will spill You knocked down I will 
+Derramarás	knock 
+Derribaste	down 
+Derrumbaré	He 
+Desafiará	will 
+Desahoguen	challenge 
+Desalojaron	Let 
+Desatas	them 
+Descansaremos	vent 
+Descenderás	They 
+Descríbeles	evicted 
+Descúbrete	You 
+Desechas	untie 
+Despedazarás	We will 
+Despellejan	rest You will descend Describe them Discover 
+Despiértate	yourself You 
+Desplegaré	discard 
+Destitución	You will tear to pieces 
+Destrúyelo	They skin Wake up I will unfold Dismissal Destroy it Disadvantage Untie it Stop Return 
+Desventaja	We 
+Desátenlo	will 
+Detén	return 
+Deuel	He 
+Devolveremos	devoured 
+Devoraba	Return 
+Devuélvela	it 
+Devuélvele	Return 
+Devuélvenos	it 
+Diana	to 
+Diblaim	him 
+Diblat	Return it to us 
+Dibri	Diana 
+Dichas	Diblaim Diblat 
+Dichoso	Dibri 
+Dicla	Bliss Blissful 
+Difat	Dicla 
+Dimna	Difat Dimna 
+Dimona	Dimona 
+Dina	Dina 
+Dinaba	Dinaba 
+Dionisio	Dionysus 
+Dirígete	Go
+Disfrázate	Disguise  
+Disparan	They shoot
+Disán	yourself Disan I 
+Dividiré	will divide 
+Divorciarte	Divorce you 
+Dizahab	Dizahab 
+Dn	Dn 
+Dobla	Dobla 
+Dodai	Dodai 
+Dodanim	Dodanim 
+Dodava	Dodava 
+Dodo	Dodo 
+Dofca	Dofca 
+Dono	Dono 
+Dorcas	Dorcas 
+Dt	Dt 
+Duma	Duma 
+Dáselo	Give it 
+Déjala	to her Leave her Leave 
+Déjalas	them 
+Déjalo	Leave it Leave 
+Déjalos	them 
+Déjenlos	Leave 
+Déjenos	them 
+Dídimo	Leave us 
+Díganmelo	Didymo Tell me 
+Ebal	Ebal 
+Ebed	Ebed 
+Ebenezer	Ebenezer 
+Eber	Eber 
+Ebiasaf	Ebiasaf 
+Ecbatana	Ecbatana 
+Echarme	Lay down 
+Echémonos	Let's 
+Edificaron	lay down 
+Edificas	Edified 
+Edifiqué	Edified Edified 
+Edrei	Edrei 
+Efai	Efai 
+Efer	Efer 
+Efes	Efes 
+Eflal	Eflal 
+Efrat	Efrat 
+Egla	Egla 
+Eglat	Eglat 
+Eh	Eh 
+Ejecutaré	I will execute 
+Ela	Ela 
+Elad	Elad 
+Elada	Elada 
+Elam	Elam 
+Elasa	Elasa 
+Elasar	Elasar 
+Elat	Elat 
+Elcos	Elcos 
+Elda	Elda 
+Eldad	Eldad 
+Eleale	Eleale 
+Eleazar	Eleazar 
+Elef	Elef 
+Elevé	Elevé 
+Eliab	Eliab 
+Eliaba	Eliaba 
+Eliacim	Eliacim 
+Eliada	Eliada 
+Eliam	Eliam 
+Eliasaf	Eliasaf 
+Eliasib	Eliasib 
+Eliata	Eliata 
+Elica	Elica 
+Eliel	Eliel 
+Elienai	Elienai 
+Eliezer	Eliezer 
+Elifal	Elifal 
+Elifelet	Elifelet 
+Elihoref	Elihoref 
+Elijan	Elijan 
+Elioenai	Elioenai 
+Elisama	Elisama 
+Eliseba	Eliseba 
+Elisur	Elisur 
+Eliud	Eliud 
+Elmodam	Elmodam 
+Elnaam	Elnaam 
+Elohe	Elohe 
+Eloi	Eloi 
+Elteque	Elteque 
+Eltolad	Eltolad 
+Eluzai	Eluzai 
+Elzabad	Elzabad 
+Emanuel	Emanuel 
+Emborrachémonos	Let's get drunk Get 
+Emborráchense	drunk 
+Empaparé	I 
+Emparejen	'll 
+Enaim	soak Pair 
+Enam	Enaim 
+Enciendes	Enam 
+Endor	You 
+Endurece	light 
+Endurecí	Endor Hardens I hardened Aeneas They hooked Hook them Hook 
+Eneas	them 
+Engancharon	Teach 
+Enganchen	them 
+Engánchenlas	Saddle me 
+Enséñalas	Bury 
+Ensíllenme	them 
+Entiérralos	Bury 
+Entiérrennos	us 
+Entraste	You entered Give 
+Entrégale	him 
+Entónenle	Tune him 
+Enviabas	You were 
+Envidian	sending They envy Send them Send 
+Envíalos	me Send 
+Envíame	them 
+Envíenlos	Epilogue 
+Epílogo	Equer 
+Equer	Er 
+Er	Erec 
+Erec	Eri 
+Eri	Esar 
+Esar	I 
+Escalaré	will climb Let's 
+Escapamos	escape 
+Escojamos	Let's choose 
+Escol	Escol 
+Escondámonos	Let's hide You 
+Escribes	write 
+Escríbelos	Write them 
+Escudriñen	Scrutinize Listen to 
+Escúchenlo	him 
+Escúchenos	Listen to us 
+Esd	Esd 
+Esec	Esec 
+Esek	Esek 
+Esforcémonos	Let's strive 
+Esli	Esli 
+España	Spain 
+Especificó	He specified 
+Esperarían	They would wait 
+Esperemos	Let's wait 
+Estableciste	You established 
+Estallará	It will burst 
+Estaol	Estaol
+Estemoa	Estemoa  
+Ester	Ester
+Estudia	Study 
+Et	Et 
+Eter	Eter 
+Eunice	Eunice 
+Eva	Eva 
+Evi	Evi 
+Evil	Evil 
+Evodia	Evodia 
+Ex	Ex 
+Examíname	Examine Me 
+Examínense	Examine 
+Exclama	Yourselves 
+Exhiben	Exclaim Exhibit 
+Exploración	Exploration 
+Explotan	Explode Would 
+Expondría	Expose 
+Expongan	Expose 
+Expongo	Expongo 
+Expreso	Express 
+Extendimos	We 
+Exterminaron	Exterminate 
+Exterminaré	Exterminate Exterminate 
+Extiendes	I Will Extend 
+Ez	Ez 
+Ezbai	Ezbai 
+Ezel	Ezel 
+Ezem	Ezem 
+Falú	Falú 
+Fanuel	Fanuel 
+Farfar	Farfar 
+Fenicia	Phoenicia 
+Ficol	Ficol 
+Figelo	Figelo 
+Fileto	Fileto 
+Filólogo	Philologist 
+Firmo	Firmo 
+Firmé	Firmé 
+Footnotes	Footnotes 
+Forjen	Forjen 
+Foro	Forum 
+Fortificaron	Fortified 
+Fortunato	Fortunato 
+Forzaré	Forzaré 
+Fuerzan	Fuerzan 
+Fura	Fura 
+Fut	Fut 
+Futiel	Futiel 
+Fíjense	Notice 
+Ga	Ga 
+Gaal	Gaal 
+Gabai	Gabai 
+Gabata	Gabata 
+Gabriel	Gabriel 
+Gadiel	Gadiel 
+Gahar	Gahar 
+Galaad	Galaad 
+Galilea	Galilea 
+Galim	Galim 
+Gamad	Gamad 
+Gamaliel	Gamaliel 
+Gareb	Gareb 
+Gasmu	Gasmu 
+Gatam	Gatam 
+Gayo	Gayo 
+Gaza	Gaza 
+Gazam	Gazam 
+Gazez	Gazez 
+Geba	Geba 
+Gebal	Gebal 
+Gebim	Gebim 
+Gedeoni	Gedeoni 
+Geder	Geder 
+Gedera	Gedera 
+Gederot	Gederot 
+Gederotaim	Gederotaim 
+Gedolim	Gedolim 
+Gedor	Gedor 
+Gehena	Gehenna 
+Gelilot	Gelilot 
+Gemali	Gemali 
+Gemelo	Gemelo 
+Genubat	Genubat 
+Gera	Gera 
+Gerizim	Gerizim 
+Gersom	Gersom 
+Gerut	Gerut 
+Gesam	Gesam 
+Gesem	Gesem 
+Gesur	Gesur 
+Geter	Geter 
+Geuel	Geuel 
+Gezer	Gezer 
+Gibar	Gibar 
+Gibea	Gibea 
+Gidalti	Gidalti 
+Gidel	Gidel 
+Gidom	Gidom 
+Gilalai	Gilalai 
+Gilboa	Gilboa 
+Gilo	Gilo 
+Gimzo	Gimzo 
+Ginat	Ginat 
+Gineto	Gineto 
+Gispa	Gispa 
+Gn	Gn 
+Gnido	Gnido 
+Goa	Goa 
+Gog	Gog 
+Golpéense	Hit yourselves 
+Gomer	Gomer 
+Goyim	Goyim 
+Gozarás	Enjoy 
+Grabaré	You Record 
+Gruñe	I Growl 
+Gruñimos	Growl We Shout 
+Grítaselo	It 
+Guardamos	We 
+Guardaremos	Keep We Keep 
+Guardaré	We Will Keep 
+Gudgoda	Gudgoda 
+Gue	Gue 
+Guni	Guni 
+Gur	Gur 
+Guíalos	Guide 
+Guímel	them 
+Gócense	Gimel 
+Hacufa	Enjoy 
+Hadad	Hacufa 
+Hadar	Hadad 
+Hadasa	Hadar 
+Hades	Hadasa 
+Hadid	Hades 
+Hadlai	Hadid 
+Hadrac	Hadlai 
+Hafaraim	Hadrac 
+Hag	Hafaraim 
+Hagab	Hag 
+Hagaba	Hagab 
+Hagrai	Hagaba Hagrai 
+Hagui	Hagui 
+Haguit	Haguit 
+Halac	Halac 
+Halah	Halah 
+Halaul	Halaul 
+Halohes	Haloes 
+Ham	Ham 
+Hamedata	Hamedata 
+Hamolequet	Hamolequet 
+Hamona	Hamona
+Hamor	Hamor  
+Hamot	Hamot
+Hamuel	Hamuel 
+Hamul	Hamul 
+Hamutal	Hamutal 
+Hanameel	Hanameel 
+Hananeel	Hananeel 
+Hanes	Hanes 
+Haniel	Haniel 
+Haquila	Haquila 
+Hara	Hara 
+Harada	Harada 
+Haraganes	Haraganes 
+Harbona	Harbona 
+Haref	Haref 
+Haret	Haret 
+Harhas	Harhas 
+Harhur	Harhur 
+Harif	Harif 
+Harim	Harim 
+Harnefer	Harnefer 
+Harod	Harod 
+Haroe	Haroe 
+Haror	Haror 
+Haroset	Haroset 
+Haruf	Haruf 
+Harum	Harum 
+Harumaf	Harumaf 
+Haruz	Haruz 
+Hasabna	Hasabna 
+Hasbadana	Hasbadana 
+Hasem	Hasem 
+Hasmona	Hasmona 
+Hasoferet	Hasoferet 
+Hasrah	Hasrah 
+Hasub	Hasub 
+Hasuba	Hasuba 
+Hasufa	Hasufa 
+Hasum	Hasum 
+Hatac	Hatac 
+Hatat	Hatat 
+Hatifa	Hatifa 
+Hatil	Hatil 
+Hatita	Hatita 
+Havila	Havila 
+Havot	Havot 
+Hazael	Hazael 
+Hazar	Hazar 
+Haze	Haze 
+Hazezon	Hazezon 
+Haziel	Haziel 
+Hazla	Hazla 
+Hazles	Hazles 
+Hazme	Hazme 
+Hb	Hb 
+Hch	Hch 
+Heber	Heber 
+Hegai	Hegai 
+Heglam	Heglam 
+Hela	Hela 
+Helam	Helam 
+Helba	Helba 
+Helcai	Helcai 
+Helcat	Helcat 
+Heldai	Heldai 
+Heleb	Heleb 
+Helec	Helec 
+Heled	Heled 
+Helem	Helem 
+Heles	Heles 
+Hemam	Hemam 
+Hen	Hen 
+Hena	Hena 
+Henadad	Henadad 
+Hepsiba	Hepsiba 
+Hermas	Hermas 
+Hermes	Hermes 
+Herodión	Herodion 
+Het	Het 
+Hezir	Hezir 
+Hezro	Hezro 
+Hidai	Hidai 
+Higaion	Higaion 
+Hilez	Hilez 
+Himeneo	Hymeneo 
+Hir	Hir 
+Hira	Hira 
+Hiram	Hiram 
+Hizqui	Hizqui 
+Hoba	Hoba 
+Hobab	Hobab 
+Hod	Hod 
+Hodes	Hodes 
+Hodeva	Hodeva 
+Hofra	Hofra 
+Hoham	Hoham 
+Homam	Homam 
+Honramos	We Honor 
+Horam	Horam 
+Horeb	Horeb 
+Horem	Horem 
+Hori	Hori 
+Horma	Horma 
+Horonaim	Horonaim 
+Hosa	Hosa 
+Hosama	Hosama 
+Hosanna	Hosanna 
+Hotam	Hotam 
+Hotir	Hotir 
+Hozai	Hozai 
+Hucoc	Hucoc 
+Hufam	Hufam 
+Hul	Hul 
+Hulda	Hulda 
+Humanamente	Humanly 
+Humta	Humta 
+Humíllalos	Humble them 
+Hupa	Hupa 
+Hupim	Hupim 
+Hurai	Hurai 
+Huram	Huram 
+Huri	Huri 
+Husa	Husa 
+Husai	Husai 
+Husam	Husam 
+Husim	Husim 
+Huyamos	Let us 
+Háblales	flee Talk to them 
+Háganle	Do to them Do to them 
+Háganlos	Honor him 
+Hónrenlo	II 
+II	Ibdas 
+Ibdas	Ibhar 
+Ibhar	Ibleam 
+Ibleam	Ibnías 
+Ibnías	Ibri 
+Ibri	Idala 
+Idala	Iddo 
+Iddo	Idumea 
+Idumea	Igal 
+Igal	Iim 
+Iim	Ije 
+Ije	Ilai 
+Ilai	I 
+Iluminaré	will enlighten 
+Imagínate	Imagine 
+Imer	Imer 
+Imita	Imitate 
+Imla	Imla 
+Imna	Imna 
+Imra	Imra 
+Imri	Imri I 
+Incluiré	will include 
+Incuban	Incuban 
+India	India 
+Insistiré	I will insist
+Inspeccionan	Inspect 
+Interludio	Interlude 
+Introducción	Introduction I 
+Invoco	Invoke 
+Invítenlo	Invite 
+Iques	Iques 
+Irad	Irad 
+Iram	Iram 
+Iri	Iri 
+Irpeel	Irpeel 
+Iru	Iru 
+Is	Is 
+Isaac	Isaac 
+Isba	Isba 
+Isbac	Isbac 
+Isbi	Isbi 
+Isca	Isca 
+Isi	Isi 
+Isma	Isma 
+Ismerai	Ismerai 
+Isod	Isod 
+Ispa	Ispa 
+Ispán	Ispán 
+Israel	Israel 
+Isúi	Isúi 
+Itai	Itai 
+Itamar	Itamar 
+Itiel	Itiel 
+Itma	Itma 
+Itra	Itra 
+Iturea	Iturea 
+Iva	Iva 
+Iyim	Iyim 
+Izhar	Izhar 
+Izri	Izri 
+Jaala	Jaala 
+Jaalam	Jaalam 
+Jaanai	Jaanai 
+Jaare	Jaare 
+Jaasai	Jaasai 
+Jaasiel	Jaasiel 
+Jaaziel	Jaaziel 
+Jabneel	Jabneel 
+Jabnia	Jabnia 
+Jacob	Jacob 
+Jada	Jada 
+Jadau	Jadau 
+Jael	Jael 
+Jaflet	Jaflet 
+Jahat	Jahat 
+Jahaza	Jahaza 
+Jahaziel	Jahaziel 
+Jahdai	Jahdai 
+Jahdiel	Jahdiel 
+Jahdo	Jahdo 
+Jahleel	Jahleel 
+Jahmai	Jahmai 
+Jahzeel	Jahzeel 
+Jahziel	Jahziel 
+Jairo	Jairo 
+Jala	Jala 
+Jalón	Jalón 
+Jambres	Jambres 
+Jamlec	Jamlec 
+Jana	Jana 
+Janes	Janes 
+Janoa	Janoa 
+Janum	Janum 
+Jaquim	Jaquim 
+Jaqué	Jaqué 
+Jara	Jara 
+Jared	Jared 
+Jarha	Jarha 
+Jarib	Jarib 
+Jarmut	Jarmut 
+Jaroa	Jaroa 
+Jasobeam	Jasobeam 
+Jasubi	Jasubi 
+Jatir	Jatir 
+Jatniel	Jatniel 
+Jaza	Jaza 
+Jazer	Jazer 
+Jazera	Jazera 
+Jb	Jb 
+Jc	Jc 
+Jeatrai	Jeatrai 
+Jecabseel	Jecabseel 
+Jecutiel	Jecutiel 
+Jediael	Jediael 
+Jediaiel	Jediaiel 
+Jedida	Jedida 
+Jehalelel	Jehalelel 
+Jehiel	Jehiel 
+Jehieli	Jehieli 
+Jehucal	Jehucal 
+Jeiel	Jeiel 
+Jemima	Jemima 
+Jemuel	Jemuel 
+Jera	Jera 
+Jerameel	Jerameel 
+Jerebai	Jerebai 
+Jered	Jered 
+Jeremai	Jeremai 
+Jeremot	Jeremot 
+Jeremías	Jeremiah 
+Jeriel	Jeriel 
+Jerimot	Jerimot 
+Jeriot	Jeriot 
+Jeroboam	Jeroboam 
+Jeroham	Jeroham 
+Jeruel	Jeruel 
+Jesana	Jesana 
+Jesarela	Jesarela 
+Jesebeab	Jesebeab 
+Jeser	Jeser 
+Jesimiel	Jesimiel 
+Jesús	Jesus 
+Jet	Jet 
+Jeter	Jeter 
+Jetet	Jetet 
+Jetla	Jetla 
+Jetur	Jetur 
+Jezer	Jezer 
+Jeziel	Jeziel 
+Jezreel	Jezreel 
+Jibsam	Jibsam 
+Jidlaf	Jidlaf 
+Jifta	Jifta 
+Jl	Jl 
+Jn	Jn 
+Joa	Joa 
+Joada	Joada 
+Job	Job 
+Jobab	Jobab 
+Jocdeam	Jocdeam 
+Jocmeam	Jocmeam 
+Jocteel	Jocteel 
+Joed	Joed 
+Joel	Joel 
+Joela	Joela 
+Joezer	Joezer 
+Jogbeha	Jogbeha 
+Joha	Joha 
+Joiarib	Joiarib 
+Jonadab	Jonadab 
+Jope	Joppa 
+Jora	Jora 
+Jorai	Jorai 
+Joram	Joram 
+Jorcoam	Jorcoam 
+Jorim	Jorim 
+Jos	Josabad 
+Josaba	Jos
+Josabad	Josaba 
+Josabet	Josabet 
+Josacar	Josacar 
+Josbecasa	Josbecasa 
+Joseb	Joseb 
+Josec	Josec 
+Joses	Joses 
+Jotba	Jotba 
+Jotbata	Jotbata 
+Jozabad	Jozabad 
+Jozabed	Jozabed 
+Juan	Juan 
+Juana	Juana 
+Jubal	Jubal 
+Jucal	Jucal 
+Judas	Judas 
+Judea	Judea 
+Julia	Julia 
+Junias	Junias 
+Junté	Junté 
+Jusab	Jusab 
+Juta	Juta 
+Júrame	Swear to me 
+Keila	Keila 
+Kelita	Kelita 
+Kemuel	Kemuel 
+Kenat	Kenat 
+Keren	Keren 
+Kibrot	Kibrot 
+Kibsaim	Kibsaim 
+Kippur	Kippur 
+Kir	Kir 
+Koré	Koré 
+Laada	Laada 
+Lacum	Lacum 
+Lael	Lael 
+Lahad	Lahad 
+Lahmam	Lahmam 
+Lahmi	Lahmi 
+Lais	Lais 
+Laméntense	Lament 
+Lancen	Laun 
+Laodicea	Laodicea 
+Lapidot	Lapidot 
+Lasa	Lasa 
+Lasea	Lasea 
+Lavaré	I will wash 
+Lea	Lea 
+Leb	Leb 
+Lebeo	Lebeo 
+Lebo	Lebo 
+Lebona	Lebona 
+Leca	Leca 
+Lector	Reader 
+Lemuel	Lemuel 
+Lesem	Lesem Let 
+Levantémonos	's Get Up 
+Leviatán	Leviathan 
+Levántense	Get 
+Leían	Up They Read 
+Li	Li 
+Liberaron	Freed 
+Libia	Libya 
+Libni	Libni 
+Lida	Lida 
+Lidia	Lidia 
+Likhi	Likhi 
+Liliz	Liliz 
+Limpiaste	Clean You 
+Limpieza	Clean 
+Llenaremos	We'll 
+Llénate	Fill Fill Take 
+Llévale	It 
+Llévatelo	Take It Take 
+Llévenlas	It Take It 
+Llévenle	Take It 
+Lod	Lod 
+Loida	Loida 
+Lot	Lot 
+Lub	Lub 
+Lucen	Shine 
+Luchemos	Let's Fight 
+Lucio	Lucio 
+Lud	Lud 
+Luhit	Luhit 
+Lv	Lv 
+Lárgate	Get Away 
+Lávense	Wash 
+Lázaro	Lazarus 
+Límpiame	Clean Me 
+Maai	Maai 
+Maala	Maala 
+Maarat	Maarat 
+Maat	Maat 
+Maaz	Maaz 
+Macaz	Macaz 
+Macbanai	Macbanai 
+Macbena	Macbena 
+Maceda	Maceda 
+Macedonia	Macedonia 
+Macelot	Macelot 
+Macnadebai	Macnadebai 
+Mactes	Mactes 
+Madai	Madai 
+Madmana	Madmana 
+Madmena	Madmena 
+Magbis	Magbis 
+Magdiel	Magdiel 
+Magedon	Magedon 
+Magníficat	Magnificat 
+Magog	Magog 
+Magor	Magor 
+Mahala	Mahala 
+Mahalaleel	Mahalaleel 
+Mahanaim	Mahanaim 
+Maharai	Maharai 
+Mahat	Mahat 
+Mahava	Mahava 
+Mahaziot	Mahaziot 
+Maher	Maher 
+Mahli	Mahli 
+Mahne	Mahne 
+Mahol	Mahol 
+Majaleb	Majaleb 
+Maloti	Maloti 
+Malquiel	Malquiel 
+Malquiram	Malquiram 
+Malta	Malta 
+Maluc	Maluc 
+Mamre	Mamre 
+Manahat	Manahat 
+Manahem	Manahem 
+Manoa	Manoa Let's 
+Mantengámonos	stay 
+Maoc	Maoc 
+Maqui	Maqui 
+Maquir	Maquir 
+Mara	Mara 
+Marala	Mara Mara 
+Maran	Maran 
+Marana	Marana 
+Marcharé	Marcharé 
+Maresa	Maresa 
+Marot	Marot 
+Marsena	Marsena 
+Marta	Marta 
+Marte	Marte 
+María	María 
+Mas	Mas 
+Masai	Masai
+Masal	Masal  
+Masreca	Masreca
+Massa	Massa 
+Matat	Matat 
+Matata	Matata 
+Matatías	Matatías 
+Matenai	Matenai 
+Mateo	Mateo 
+Matred	Matred 
+Matri	Matri 
+Matusalén	Methuselah 
+Maón	Maon 
+Mc	Mc 
+Mebunai	Mebunai 
+Mecona	Mecona 
+Medad	Medad 
+Medeba	Medeba 
+Medita	Medita 
+Mediterráneo	Mediterranean 
+Mefaat	Mefaat 
+Mehara	Mehara 
+Mehetabel	Mehetabel 
+Mehir	Mehir 
+Mehujael	Mehujael 
+Mehunim	Mehunim 
+Melea	Melea 
+Melicú	Melicú 
+Melqui	Melqui 
+Mem	Mem 
+Memorando	Memorandum 
+Menciono	I mention 
+Mene	Mene 
+Meonotai	Meonotai 
+Mequer	Mequer 
+Merab	Merab 
+Meraiot	Meraiot 
+Merari	Merari 
+Merataim	Merataim 
+Mered	Mered 
+Meremot	Meremot 
+Meres	Meres 
+Merib	Merib 
+Merom	Merom 
+Meronot	Meronot 
+Meroz	Meroz 
+Mesilemot	Mesilemot 
+Mesobab	Mesobab 
+Mesopotamia	Mesopotamia 
+Mesulemet	Mesulemet 
+Meteg	Meteg 
+Mezaab	Mezaab 
+Mibhar	Mibhar 
+Mibsam	Mibsam 
+Mibzar	Mibzar 
+Mica	Mica 
+Miclot	Miclot 
+Micmas	Micmas 
+Micmetat	Micmetat 
+Micri	Micri 
+Migdal	Migdal 
+Migdol	Migdol 
+Milalai	Milalai 
+Milca	Milca 
+Milcom	Milcom 
+Mini	Mini 
+Minit	Minit 
+Miriam	Miriam 
+Mirma	Mirma 
+Misael	Misael 
+Misam	Misam 
+Misia	Misia 
+Mismana	Mismana 
+Mispar	Mispar 
+Misperet	Misperet 
+Misrefot	Misrefot 
+Mitca	Mitca 
+Miza	Miza 
+Mizar	Mizar 
+Moisés	Moisés 
+Molada	Molada 
+Moldea	Moldea 
+Moloc	Moloch 
+More	More 
+Moreset	Moreset 
+Moriah	Moriah 
+Mosera	Mosera 
+Moserot	Moserot 
+Mostrarán	Show 
+Movido	Moved 
+Moviliza	Mobilize 
+Mozah	Mozah 
+Mupim	Mupim 
+Musri	Musri 
+Muéstrenle	Show him 
+Muévete	Move 
+Mándame	Send me 
+Mátanos	Kill 
+Métete	us 
+Mírala	Get in Look at 
+Mírame	her Look at 
+Mírenlos	me 
+Mírenme	Look at them Look at them 
+Naalal	Naalal 
+Naam	Naam 
+Naama	Naama 
+Naara	Naara 
+Naarai	Naarai 
+Naarat	Naarat 
+Nabal	Nabal 
+Nabat	Nabat 
+Nacor	Nacor 
+Nadab	Nadab 
+Nafat	Nafat 
+Nafis	Nafis 
+Nafot	Nafot 
+Nagai	Nagai 
+Nahale	Nahale 
+Nahaliel	Nahaliel 
+Naham	Naham 
+Naharai	Naharai 
+Nahat	Nahat 
+Nahbi	Nahbi 
+Naiot	Naiot 
+Narciso	Narciso 
+Nazaret	Nazareth 
+Ne	Ne 
+Nea	Nea 
+Nebai	Nebai 
+Nebalat	Nebalat 
+Necoda	Necoda 
+Nefeg	Nefeg 
+Nehum	Nehum 
+Nehusta	Nehusta 
+Nemuel	Nemuel 
+Ner	Ner 
+Nergal	Nergal 
+Neri	Neri 
+Netaim	Netaim 
+Netofa	Netofa 
+Nezib	Nezib 
+Nibhaz	Nibhaz 
+Nicanor	Nicanor 
+Niger	Niger 
+Nimrim	Nimrim 
+Nimrod	Nimrod 
+Nimsi	Nimsi 
+Nisroc	Nisroc 
+Noa	Noa 
+Nob	Nob 
+Noba	Noba 
+Nod	Nod 
+Nof	Nof 
+Nofa	Nofa 
+Noga	Noga 
+Noha	Noha 
+Nombren	Name 
+Noto	Noto 
+Nun	Nun 
+Obal	Obal 
+Obed	Obed 
+Obedézcanme	Obey me 
+Obot	Obot 
+Observaré	I will observe 
+Obviamente	Obviously 
+Ocúpate	Take care 
+Ofir	Ofir 
+Ofra	Ofra 
+Og	Og 
+Ohad	Ohad 
+Ohel	Ohel 
+Olam	Olam 
+Olvídense	Forget 
+Omar	Omar 
+Omega	Omega 
+Omitieron	They omitted 
+Omri	Omri 
+On	On 
+Onam	Onam 
+Ono	Ono 
+Orarás	Orarás 
+Ordénale	Ordénale 
+Oreb	Oreb 
+Organización	Organization 
+Organizaron	Organized 
+Os	Os 
+Otni	Otni 
+Ozem	Ozem 
+Ozni	Ozni 
+Paarai	Paarai 
+Pablo	Paul 
+Padrenuestro	Our Father 
+Pagiel	Pagiel 
+Pahat	Pahat 
+Pai	Pai 
+Palal	Palal 
+Palestina	Palestine 
+Palti	Palti 
+Paltiel	Paltiel 
+Paras	Paras 
+Parecías	Seems 
+Paremos	Stop 
+Parsandata	Parsandata 
+Parsin	Parsin 
+Partan	Partan 
+Partiste	Partiste 
+Parvaim	Parvaim 
+Pará	Pará 
+Paráclito	Paraclete 
+Pasac	Pasac 
+Pascua	Pascual 
+Pascual	Pasdamim 
+Pasdamim	Pasur 
+Pasur	Patea 
+Patea	Patmos 
+Patmos	Patrobas 
+Patrobas	Patros 
+Patros	Pau 
+Pau	Guidelines 
+Pautas	Pe 
+Pe	Pecod 
+Pecod	Pedasur 
+Pedasur	Pedro 
+Pedro	Peka 
+Peka	Peleg 
+Peleg	Pelón 
+Pelón	Peniel 
+Peniel	Penina 
+Penina	Let's think about it 
+Pensémoslo	Pentecost 
+Pentecostés	Penuel 
+Penuel	Perat 
+Perat	Forgive 
+Perdóname	me 
+Peres	Peres 
+Perge	Perge 
+Permanecerás	You will 
+Perseguirías	remain 
+Persia	Persiarías 
+Peruda	Peruda 
+Pesan	Pesan 
+Petor	Petor 
+Petuel	Petuel 
+Peultai	Peultai 
+Pi	Pi 
+Pibeset	Pibeset 
+Pildás	Pildás 
+Piltai	Piltai 
+Piream	Piream 
+Pisarás	Pisarás 
+Pisga	Pisga 
+Pisidia	Pisidia 
+Pispa	Pispa 
+Pisón	Pisón 
+Pitón	Piton 
+Piénsalo	Think about it 
+Piénsenlo	Think about it 
+Ponles	Put them 
+Ponto	Ponto 
+Poqueret	Poqueret 
+Porata	Porata 
+Poteoli	Poteoli 
+Pr	Pr 
+Practicó	Practiced 
+Precipitarse	Hasten 
+Predicas	Predicas Predicas 
+Preferí	Predicate He/She/It 
+Prefirió	Preferred 
+Preguntemos	Let's ask Ask 
+Pregúntenles	them 
+Pregúntenselo	Ask them 
+Prensarás	You will 
+Presionada	press Pressed 
+Preséntala	Present it 
+Prisca	Prisca 
+Procurará	Will try 
+Profetizamos	We prophesy 
+Prohibición	Prohibition 
+Prorrumpe	Bursts Protect 
+Protéjannos	us 
+Proveen	Provide 
+Prueben	Try Try 
+Pruébense	yourselves Lend to him 
+Préstale	/her Lend to 
+Préstenme	me 
+Prólogo	Prologue 
+Publiquen	Publish Publish 
+Publíquenlo	it 
+Pul	Pul 
+Págales	Pay them 
+Páguenles	Pay them 
+Pídeles	Ask them 
+Pónganlos	Put them 
+Pónganme	Put 
+Póstrense	me Prostrate yourselves 
+Púa	Púa 
+QSama	QSama 
+QpHab	QpHab
+Quebar	Quebar 
+Quebrantaré	Salaf 
+Quefar	I will break
+Quelal	Quefar 
+Quelub	Quelal 
+Quelubai	Quelub 
+Quelúhi	Quelubai 
+Quemos	Quelúhi 
+Quemé	Quemos 
+Quenaana	Quemé 
+Queriot	Quenaana 
+Querit	Queriot 
+Queros	Querit 
+Quesil	Queros 
+Quesulot	Quesil 
+Quezib	Quesulot 
+Quienquiera	Quezib 
+Quileab	Quienquiera 
+Quilmad	Quileab 
+Quislot	Quilmad 
+Quitim	Quislot 
+Quitlis	Quitim 
+Quítenle	Quitlis 
+Quítenles	Quítenle 
+Quítense	Quítenles 
+Raama	Quítense 
+Rabit	Raama 
+Rabí	Rabit 
+Raca	Rabí 
+Racal	Raca 
+Racat	Racal 
+Radai	Racat 
+Rafael	Radai 
+Rafú	Rafael 
+Rahab	Rafú 
+Raham	Rahab 
+Ram	Raham 
+Ramat	Ram 
+Ramataim	Ramat 
+Ramot	Ramataim 
+Re	Ramot 
+Reafirmaré	Re 
+Realizaste	Reafirmaré 
+Reba	Realizado 
+Rebeca	Reba 
+Reca	Rebeca 
+Rechinarán	Reca 
+Recojo	Reca 
+Recolección	Requinto 
+Recomiendo	Recomento 
+Reconocemos	Recomento 
+Reconózcanlo	Recocemos 
+Recuérdales	Recoçán 
+Recíbanla	Recoçánlo 
+Recíbanlo	Recuérles 
+Redujeron	Receivela 
+Reemplazaremos	Receivelo 
+Refa	Reducida 
+Reflexiones	Reemremos 
+Refrenaré	Recontrarenes 
+Refuercen	Refa 
+Refuerza	Reflexiones 
+Refutaba	Refuerba 
+Regem	Regem 
+Regio	Regio 
+Registrarán	Registran 
+Registren	Registren 
+Regresábamos	Regresamos 
+Rehum	Rehum 
+Rei	Rei 
+Reinaré	Reinaré 
+Reinen	Reinan 
+Relatan	Relatan 
+Relájate	Relajate 
+Remet	Remet 
+Repararé	Repararé 
+Reprendiste	Reprerendiste 
+Reprocha	Reprocha 
+Requem	Requem 
+Resa	Resa 
+Rescatadores	Rescatores 
+Resef	Resef 
+Resh	Resh 
+Resistan	Resisten 
+Resistirán	Resistiren 
+Resopla	Hespiro 
+Respondemos	Reresponden 
+Restauraron	Restauran 
+Restauren	Restauran 
+Restauro	Restituto 
+Resén	Rescan 
+Retozan	Retroérzane 
+Retuérzanse	Reu
+Reu	​
+Reuel	​ 
+Reunificación	Reuel 
+Reunámonos	Reunification 
+Rezia	Let's Gather 
+Reúnenos	Rezia 
+Ribai	Gather Us 
+Ribla	Ribai 
+Rifat	Ribla 
+Rimono	Rifat 
+Rissa	Rimono 
+Rizpa	Rissa 
+Rm	Rizpa 
+Rodanim	Rm 
+Rode	Rodanim 
+Rodéame	Rode 
+Rogelim	Surround Me 
+Rohga	Rogelim 
+Rollos	Rohga 
+Roma	Rolls 
+Rompamos	Rome 
+Ros	Let's Break 
+Rosh	Ros 
+Rubén	Rosh 
+Rufo	Reuben 
+Ruma	Rufo 
+Rápate	Ruma 
+Rápense	Rapate Quickly 
+Ríndanse	Surrender 
+Saaf	Saaf 
+Saalabín	Saalabín 
+Saalbim	Saalbim 
+Saalim	Saalim 
+Saananim	Saananim 
+Saaraim	Saaraim 
+Saasgaz	Saasgaz 
+Saba	Saba Sabetai 
+Sabetai	Sabteca 
+Sabteca	Sacará 
+Sacarás	Sacrifice 
+Sacrifícalo	Sacrifice 
+Sacudiste	You 
+Sacudí	Sacrifice 
+Sacut	I shook 
+Saf	Sacut 
+Safat	Saf 
+Safir	Safat 
+Sage	Safir 
+Saharaim	Sage 
+Sahazima	Saharaim 
+Sais	Sahazima 
+Salaf	Sais 
+Salai	Salatiel
+Salatiel	Salai 
+Salca	Salca 
+Salem	Salem 
+Salequet	Salequet 
+Salim	Salim 
+Salma	Salma 
+Salmai	Salmai 
+Salmón	Salmon 
+Salomón	Solomon 
+Salum	Salum 
+Salúdense	Greetings 
+Samai	Samai 
+Samaria	Samaria 
+Samhut	Samhut 
+Samir	Samir 
+Samla	Samla 
+Samlai	Samlai 
+Samos	Samos 
+Samot	Samot 
+Samserai	Samserai 
+Samuel	Samuel 
+Sanedrín	Sanhedrin 
+Sanen	Sanen 
+Sansana	Sansana 
+Sansón	Samson 
+Santísimo	Most Holy 
+Saraf	Saraf 
+Sarai	Sarai 
+Sarar	Sarar 
+Sardis	Sardis 
+Sarepta	Sarepta 
+Sarid	Sarid 
+Saruhén	Saruhen 
+Sarvia	Sarvia 
+Sasac	Sasac 
+Sasai	Sasai 
+Save	Save 
+Savsa	Savsa 
+Seal	Seal 
+Sear	Sear 
+Seba	Seba 
+Sebam	Sebam 
+Sebarim	Sebarim 
+Seber	Seber 
+Sebna	Sebna 
+Seboim	Seboim 
+Sebuel	Sebuel 
+Sefam	Sefam 
+Sefar	Sefar 
+Sefarad	Sefarad 
+Sefat	Sefat 
+Sefata	Sefata 
+Sefi	Sefi 
+Sefo	Sefo 
+Segub	Segub 
+Seguidamente	Next 
+Seir	Seir 
+Seirat	Seirat 
+Sela	Sela 
+Selec	Selec 
+Seled	Seled 
+Seles	Seles 
+Seleucia	Seleucia 
+Selomit	Selomit 
+Selomot	Selomot 
+Selsa	Selsa 
+Selumiel	Selumiel 
+Sem	Sem 
+Sema	Sema 
+Semamá	Semama 
+Sembrarás	You will sow 
+Semeber	Semeber 
+Semed	Semed 
+Semei	Semei 
+Semer	Semer 
+Semida	Semida 
+Semuel	Semuel 
+Sen	Sen 
+Senaa	Senaa 
+Senazar	Senazar 
+Senir	Senir 
+Seol	Seol 
+Sered	Sered 
+Sereda	Sereda 
+Sergio	Sergius 
+Sermón	Sermon 
+Serug	Serug 
+Sesac	Sesac 
+Sesai	Sesai 
+Sesbasar	Sesbasar 
+Set	Set 
+Setar	Setar 
+Setur	Setur 
+Seva	Seva 
+Sevene	Sevene 
+Shaddai	Shaddai 
+Shavuot	Shavuot 
+Shin	Shin 
+Shur	Shur 
+Sia	Sia 
+Siaha	Siaha 
+Siba	Siba 
+Sibia	Sibia 
+Sibma	Sibma 
+Sibraim	Sibraim 
+Sicar	Sicar 
+Sifi	Sifi 
+Sifmot	Sifmot 
+Sifra	Sifra 
+Sihor	Sihor 
+Sila	Sila 
+Silas	Silas 
+Silenciarás	You will silence 
+Silhi	Silhi 
+Silhim	Silhim 
+Silsa	Silsa 
+Silvano	Silvano 
+Simea	Simea 
+Simeam	Simeam 
+Simeat	Simeat 
+Simrat	Simrat 
+Simri	Simri 
+Simrit	Simrit 
+Simron	Simron 
+Simsai	Simsai 
+Simón	Simón 
+Sinab	Sinab 
+Sinar	Sinar 
+Sinim	Sinim 
+Sion	Sion 
+Sior	Sior 
+Sipai	Sipai 
+Siquem	Shechem 
+Sira	Sira 
+Siria	Syria 
+Sirte	Sirte 
+Sis	Sis 
+Sisa	Sisa 
+Sismai	Sismai 
+Sitna	Sitna 
+Sitri	Sitri 
+Siza	Siza 
+Sm	Sm 
+So	So 
+Soa	Soa 
+Sobab	Sobab 
+Sobac	Sobac 
+Sobai	Sobai 
+Sobal	Sobal 
+Sobec	Sobec 
+Sobi	Sobi 
+Sobornaron	They bribed 
+Soco	Soco 
+Sodi	Sodi 
+Sofac	Sofac 
+Soferet	Soferet
+Soham	Soham 
+Somer	Somer 
+Soporta	Support 
+Sorec	Sorec 
+Sotai	Sotai 
+St	St 
+Subael	Subael 
+Suenan	Suenan 
+Suenas	Suenas 
+Suf	Suf 
+Sufa	Sufa 
+Sufam	Sufam 
+Sujetaban	They held 
+Sulam	Sulam 
+Sunem	Sunem 
+Suni	Suni 
+Supervisaban	Supervised 
+Supim	Supim 
+Supongan	Suppose 
+Susana	Susana 
+Susi	Susi 
+Sutela	Sutela 
+Sácalos	Take them out Satiate 
+Sácianos	ourselves 
+Sáciense	Save 
+Sálvenos	us Save 
+Sálvese	us 
+Sáquenme	Take me out 
+Sícigo	Sicigo 
+Sírvanlos	Serve them 
+Taanat	Taanat 
+Tabaot	Tabaot 
+Tabat	Tabat 
+Tabeel	Tabeel 
+Tadmor	Tadmor 
+Tafat	Tafat 
+Tafnes	Tafnes 
+Tahat	Tahat 
+Tahpenes	Tahpenes 
+Tahtim	Tahtim 
+Tahás	Tahás 
+Talen	Talen 
+Talita	Talita 
+Talmai	Talmai 
+Tanhumet	Tanhumet 
+Tara	Tara 
+Tarala	Tarala 
+Tardaron	Tardaron 
+Tarpel	Tarpel 
+Tarsis	Tarshish 
+Tarso	Tarsus 
+Tatnai	Tatnai 
+Tau	Tau 
+Teba	Teba 
+Tecoa	Tekoa 
+Tehina	Tehina 
+Tekel	Tekel 
+Tel	Tel 
+Telah	Telah 
+Telaim	Telaim 
+Telasar	Telasar 
+Telem	Telem 
+Temeni	Temeni 
+Tensa	Tensa 
+Teres	Teres 
+Testificaba	Testified 
+Tet	Tet 
+Tiberias	Tiberias 
+Tiberio	Tiberius 
+Tibhat	Tibhat 
+Tibni	Tibni 
+Ticio	Ticio 
+Ticva	Ticva 
+Tidal	Tidal 
+Tifsa	Tifsa 
+Tigris	Tigris 
+Tilgat	Tilgat 
+Timna	Timna 
+Tiraré	Tiraré 
+Tiren	Tiren 
+Tirhaca	Tirhaca 
+Tirhana	Tirhana 
+Tito	Titus 
+Tiz	Tiz 
+Tiéndeme	Lay me down 
+Tm	Tm 
+Toa	Toa 
+Tob	Tob 
+Tocat	Tocat 
+Tofel	Tofel 
+Tohu	Tohu 
+Tola	Tola 
+Tolad	Tolad 
+Torma	Torma 
+Tou	Tou 
+Trabajaré	I will work 
+Trabajábamos	We worked 
+Traicionan	They betray 
+Traigamos	Let's bring I will 
+Transformaré	transform 
+Transmitan	Transmit 
+Trastornaré	I will upset 
+Tratamiento	Treatment 
+Treparé	I will climb 
+Troas	Troas 
+Trogilio	Trogilio 
+Tráiganmelo	Bring it to me 
+Trátalos	Treat them 
+Trátenla	Treat her 
+Tsade	Tsade 
+Tsidkenu	Tsidkenu 
+Tubal	Tubal 
+Tumbado	Lying 
+Tumim	Tumim 
+Tumin	Tumin 
+Turquía	Turkey 
+Ténganles	Have them 
+Ténganlo	Have it 
+Tómanos	Take it 
+Tómelo	Take it 
+Tómenlo	Take it Touch 
+Tóquenme	me 
+Ucal	Ucal 
+Uel	Uel 
+Ufaz	Ufaz 
+Ula	Ula 
+Ulai	Ulai 
+Ulam	Ulam 
+Uma	Uma 
+Uni	Uni 
+Ur	Ur 
+Urbano	Urban 
+Uri	Uri 
+Uriel	Uriel 
+Urim	Urim 
+Usaría	I would use 
+Utai	Utai 
+Utilicen	Use 
+Uz	Uz 
+Uzai	Uzai 
+Uzal	Uzal 
+Uzen	Uzen 
+Uzi	Uzi 
+Uziel	Uziel 
+Vagaron	Vagaron 
+Vaheb	Vaheb 
+Vaizata	Vaizata 
+Vapsi	Vapsi 
+Vav	Vav You 
+Vendaré	I traveled 
+Vendiste	Vendaré
+Viajé	You sold 
+Volaría	I would 
+Volcaré	fly I would capsize 
+Volcó	They 
+Vomitarán	will vomit 
+Vomitarás	You will vomit 
+Váyanse	Go away 
+YHWH	YHWH 
+Yaudi	Yaudi 
+Yehudah	Yehudah 
+Yod	Yod 
+Yom	Yom 
+Yoram	Yoram 
+Za	Za 
+Zabad	Zabad 
+Zabai	Zabai 
+Zabdi	Zabdi 
+Zabdiel	Zabdiel 
+Zabud	Zabud 
+Zacai	Zacai 
+Zacur	Zacur 
+Zafnat	Zafnat 
+Zaham	Zaham 
+Zahar	Zahar 
+Zain	Zain 
+Zair	Zair 
+Zalmona	Zalmona 
+Zalmuna	Zalmuna 
+Zanoa	Zanoa 
+Zaret	Zaret 
+Zatu	Zatu 
+Zaza	Zaza 
+Zeba	Zeba 
+Zebina	Zebina 
+Zeboim	Zeboim 
+Zebuda	Zebuda 
+Zebul	Zebul 
+Zedad	Zedad 
+Zeeb	Zeeb 
+Zefi	Zefi 
+Zela	Zela 
+Zemaraim	Zemaraim 
+Zemira	Zemira 
+Zenas	Zenas 
+Zequer	Zequer 
+Zer	Zer 
+Zera	Zera 
+Zered	Zered 
+Zerera	Zerera 
+Zeres	Zeres 
+Zeret	Zeret 
+Zeri	Zeri 
+Zeror	Zeror 
+Zetam	Zetam 
+Zetar	Zetar 
+Zeus	Zeus 
+Zicri	Zicri 
+Zifa	Zifa 
+Ziha	Ziha 
+Zila	Zila 
+Ziletai	Ziletai 
+Zilpa	Zilpa 
+Zima	Zima 
+Zimram	Zimram 
+Zimri	Zimri 
+Zin	Zin 
+Zina	Zina 
+Ziza	Ziza 
+Zoar	Zoar 
+Zobeba	Zobeba 
+Zofa	Zofa 
+Zohar	Zohar 
+Zohet	Zohet 
+Zora	Zora 
+Zuar	Zuar 
+Zuf	Zuf 
+Zur	Zur 
+Zuriel	Zuriel 
+Zurisadai	Zurisadai 
+abarim	abarim 
+abdomen	abdomen 
+abdominal	abdominal 
+abib	abib 
+abinadab	abinadab 
+abominable	abominable 
+abrirá	will 
+absoluto	open 
+acacia	absolute 
+acacias	acacia 
+acción	acacias 
+acompaña	action 
+acompañan	accompanies 
+actúan	act 
+acumulación	accumulation 
+adar	adar 
+adelantaré	advance 
+además	further 
+administración	administration 
+admirable	admirable 
+admire	admire 
+adore	adore 
+adularia	adularia 
+afectará	it will affect 
+afra	afra 
+aguardarán	they will wait 
+alamot	alamot 
+alejarlo	to keep it away 
+algodón	cotton 
+algún	some 
+almendro	almond tree 
+almug	almug 
+altiplanos	highlands 
+amavitas	amavitas 
+amen	amen 
+ammi	ammi 
+anat	anat 
+ande	ande 
+anime	anime 
+anticipa	anticipates 
+anulará	will cancel 
+apagará	will turn off 
+apagarán	will turn off will 
+aparecerá	appear 
+aparición	appearance 
+apartáramos	we would separate 
+aprobación	approval 
+aproximará	will approach 
+aram	aram 
+arba	arba 
+arbel	arbel 
+arelita	arelita 
+ares	ares 
+arim	arim 
+armen	armen 
+arnés	harness 
+aromas	aromatic 
+aromáticos	aromas 
+arsenal	arsenal 
+articulación	joint 
+artículos	articles 
+arvadeos	arvadeos 
+asarion	asarion 
+asbea	asbea 
+asignación	assignment 
+aspiración	aspiration 
+asrielitas	asrielitas 
+atención	terrified 
+aterrorizada	attention 
+ates	ates 
+aumentará	will increase 
+autorización	authorization 
+avitas	avitas 
+azmavet	azmavet 
+añada	add 
+añaden	add 
+añadido	added 
+añadir	add 
+año	year 
+baal	baal 
+bacut	bacut 
+barnea	barnea 
+basebet	basebet 
+bato	bato 
+batos	batos 
+bautices	baptisms 
+baz	baz 
+baña	bathe 
+baño	bath 
+bebés	babies 
+beer	beer 
+ben	ben 
+benob	benob 
+benot	benot 
+berac	berac 
+berit	berit 
+betel	betel 
+bezec	bezec 
+birai	birai 
+boset	boset 
+boznai	boznai 
+brutal	brutal 
+bul	bul 
+burles	burles 
+buscará	will search 
+básicas	basic 
+básicos	basics 
+búsqueda	search 
+cab	cab 
+cades	cades 
+cambiarán	will change 
+cambiaré	will change 
+car	car 
+carbón	coal 
+cariteos	cariteos 
+carreteras	roads 
+cases	cases 
+caslujitas	caslujitas 
+causará	will cause 
+causaría	would cause 
+cause	cause 
+cautiverio	captivity 
+cave	cave 
+caven	caven 
+caída	fall 
+caído	fallen will 
+cegaré	blind 
+cenezeo	cenezeo 
+cenezeos	cenezeos 
+centímetros	centimeters 
+cerebral	cerebral 
+ceremonial	ceremonial 
+cereteos	cereteos 
+cernidor	sieve 
+choinix	choinix 
+citarlo	cite it 
+civil	civil 
+clamor	clamor 
+clan	clan 
+codicie	covet 
+colaboración	collaboration 
+colmas	colmas 
+combinación	combination 
+comenzará	will begin 
+comparación	comparison 
+compañía	company 
+completo	complete 
+común	common 
+condición	condition 
+confines	confines 
+confirmación	confirmation 
+confirmará	will confirm 
+conocen	know 
+conservarán	will conserve 
+considerarán	will consider 
+consigamos	let's get 
+construcción	construction 
+consume	consumes 
+consumes	consumes 
+contamina	contaminates 
+contará	will count 
+contempla	contemplates 
+continuación	next 
+continúa	continues 
+continúan	continue 
+contrates	contract 
+conversión	conversion 
+coral	coral 
+cordón	cord 
+cornea	cornea 
+correrá	will run 
+corrígeme	correct me 
+costal	costal 
+creación	creation 
+criminal	criminal 
+crisis	crisis 
+cruel	cruel 
+cubriéndolo	covering it 
+culmina	culminates 
+cum	cum 
+cure	cure 
+cutánea	cutaneous 
+cuántas	how 
+cuánto	many how much 
+cámara	camera 
+círculo	circle 
+círculos	circles 
+cómanselos	eat them 
+cómoda	comfortable 
+cómodamente	comfortably 
+cómodo	comfortable 
+damim	damim 
+daricos	daricos 
+dañada	damaged 
+dañado	damaged 
+dañados	damaged 
+dañar	damage 
+dañe	damage 
+daño	damage 
+daños	damages 
+debar	debar 
+debate	debate 
+deberá	must 
+deberán	must 
+debería	should 
+decar	decar 
+declare	declare 
+decoloración	discoloration 
+dedica	dedicates, 
+defino	define, 
+dejará	will leave, will 
+dejarán	leave, 
+dejándola	leaving her 
+demolieran	demolish 
+demoré	delayed 
+den	give
+dependerá	will depend 
+depósito	deposit 
+derribémoslo	let's tear it down 
+derrumbarlos	tear them down 
+desaparecerá	will disappear 
+descripción	description 
+desempeño	performance 
+desheredaran	will disinherit 
+desprecio	contempt 
+destapará	will uncover 
+desvíe	divert 
+detendrá	will stop 
+detestable	detestable 
+devasta	devastates 
+devuélvanme	return me 
+diblataim	diblataim 
+disciplines	disciplines 
+diseñada	designed 
+diseñadas	designed 
+diseñado	designed 
+diseño	design 
+disminuirá	will decrease 
+disperse	disperse 
+distribución	distribution 
+división	division 
+diámetro	diameter 
+domina	dominates 
+doméstico	domestic 
+domésticos	domestics 
+dor	dor 
+duración	duration 
+durarán	will 
+dé	last 
+díganselo	give tell them 
+edar	edar 
+eder	eder 
+edom	edom 
+efrata	efrata 
+eglaim	eglaim 
+ejecución	execution 
+ejecutará	will execute 
+eked	eked 
+elección	choice 
+eleven	eleven 
+ellas	they 
+elul	elul 
+eléctricas	electric 
+emec	emec 
+emisión	emission 
+empezará	will begin 
+encenderá	will turn on 
+encenderán	will turn on 
+energía	energy 
+enfrentarás	you will face 
+enfriará	will cool 
+enigma	enigma 
+enterarían	would find out 
+enterrarlos	bury them 
+envía	sends 
+envíe	send 
+envío	shipment 
+erita	erita 
+escapes	escapes 
+escuchará	will hear 
+esel	esel 
+específicamente	specifically 
+específicas	specific 
+específico	specific 
+estará	will be will 
+estarán	be 
+estrés	stress 
+estándar	standard 
+estén	be 
+estéril	sterile 
+etanim	etanim 
+evapora	evaporates 
+excepción	exception 
+excuses	excuses 
+exhibas	exhibit 
+expulsará	will expel 
+extensión	extension 
+extraño	strange 
+ezer	ezer 
+fabricación	manufacturing 
+faluita	faluita 
+fares	fares 
+faresita	faresita 
+faresitas	faresitas 
+fatal	fatal 
+favorable	favorable 
+fervor	fervor 
+formación	formation 
+fraternal	fraternal 
+frustra	frustrates 
+frío	cold 
+fundamental	fundamental 
+fácilmente	easily 
+físicamente	physically 
+físico	physical 
+gaas	gaas 
+gad	gad 
+gader	gader 
+gadi	gadi 
+gaditas	gaditas 
+galal	galal 
+galopa	gallops 
+gamul	gamul 
+ganim	ganim 
+garantizará	will guarantee 
+garantía	guarantee 
+garmita	garmita 
+geber	geber 
+generación	generation 
+gergeseos	gergeseos 
+germina	germinates 
+gesureos	gesureos 
+gesuritas	gesuritas 
+giblitas	giblitas 
+gilgal	gilgal 
+girará	will turn 
+gitit	gitit 
+goim	goim 
+gomed	gomed 
+gorjeaba	chirped 
+gradual	gradually 
+guardarán	will keep 
+guiarán	will 
+guisos	guide 
+guiñar	stews 
+guía	wink 
+guían	guide guide 
+guíe	guide 
+haamoni	haamoni 
+haaralot	haaralot 
+habitación	room 
+hacore	hacore 
+hagedola	hagedola 
+haggidgad	hahirot 
+hahirot	hail 
+hail	hamalecot 
+hamalecot	hagdiggad
+hamat	hamat 
+hamateos	hamateos 
+hamulitas	hamulitas 
+hanoquita	hanoquita 
+hapuc	hapuc 
+hareset	hareset 
+harsa	harsa 
+hará	hara 
+hataava	hataava 
+hazebaim	hazebaim 
+hazor	hazor 
+hefer	hefer 
+hesed	hesed 
+hijo	hijo 
+hin	hin 
+hinchazón	dilatación 
+hodsi	hodsi 
+hogla	hogla 
+homer	homer 
+honorable	honorable 
+horeo	horeo 
+horeos	horeos 
+horror	horror 
+horrorizados	horrizados 
+hoze	hoze 
+hur	hur 
+huzot	huzot 
+húmeda	humedad 
+ideal	ideal 
+identificación	identidad identidad 
+idénticos	identidades 
+ignores	ignores 
+iluminación	Iluminación 
+iluminará	illuminá illuminá 
+impenetrable	impenetrable 
+importará	importará 
+impregna	impregna 
+impresionamos	impresionamos 
+imágenes	imágenes 
+incalculable	incalculable 
+incircunciso	incircunciso 
+inclinación	inclinación 
+incline	incline 
+inclines	inclines 
+incomparable	íntimo 
+incorruptible	incorruptible 
+incurable	incurable 
+indicará	indicará 
+inevitable	inevitable 
+inflexible	inflexible 
+información	información 
+informándole	informelegado 
+infringes	infringees 
+iniciará	Iniciará 
+insignia	insignia 
+inspección	inspection 
+inspirabas	inspirabas 
+instrucción	instrucción 
+interpuse	interpuse 
+interroga	interroga 
+interrumpirá	interruptá 
+intervención	intervención 
+intestinal	intestinal 
+intolerable	intolerable 
+invade	invade 
+investigación	investigación 
+irrevocable	irrevocable 
+irrita	irrita 
+irrumpieras	irrumpieras 
+irá	irá 
+ish	ish 
+itritas	itritas 
+jabón	jabón 
+jafletitas	jafletitas 
+jair	jair 
+jaminita	jaminita 
+jasub	jasub 
+jearim	jearim 
+jesimot	jesimot 
+jireh	jireh 
+joab	joab 
+juveniles	juvenils 
+karnaim	karnaim 
+kesitas	kesitas 
+kilo	kilo 
+koros	koros 
+labia	labia 
+lajai	lajai 
+lava	lava 
+lebaot	lebaot 
+lehem	lehem 
+lehi	lehi 
+lejía	lejía 
+lelponi	lelponi 
+lepta	lepta 
+lepton	lepton 
+lesión	herida 
+leumeos	leumeos 
+leído	leído 
+liberación	libertad 
+libnat	libnat 
+libnitas	libnitas 
+lira	lira 
+liras	liras 
+llenará	llenará 
+lloraría	lloraría 
+ludeos	ludeos 
+luto	luto 
+lámina	hoja 
+láminas	sheets 
+lámpara	lamp 
+límites	limits 
+línea	line 
+líneas	lines 
+líquido	liquid 
+líquidos	liquids 
+maaca	maaca 
+madre	mother 
+mahalat	mahalat 
+mahavita	mahavita 
+mahlitas	mahlitas 
+malcam	malcam 
+maligna	maligna 
+malquielitas	malquielitas 
+mango	mango 
+mantendrá	will keep 
+mantillas	blankets 
+maquiritas	maquiritas 
+marcabot	marcabot 
+marcaré	I will mark 
+martillándola	by hammering it 
+masquil	masquil 
+matrices	matrices 
+matrimonial	matrimonial 
+mavet	mavet 
+mayoría	majority 
+medición	measurement 
+melec	melec  
+melodía	melody
+menstrual	menstrual
+merodac	merodac 
+mictam	mictam 
+milo	milo 
+misabib	misabib 
+mispat	mispat 
+mizpa	mizpa 
+mizraim	mizraim 
+modificación	modification 
+mofaron	mofaron 
+mojo	mojo 
+momentáneamente	momentarily 
+montaña	mountain 
+moral	moral 
+mortal	mortal 
+mosquito	mosquito 
+mostrará	will show 
+mugen	mugen 
+máxima	maximum 
+máximo	maximum 
+médico	doctor 
+médicos	doctors 
+métodos	methods 
+mínima	minimum 
+mínimo	minimum 
+múltiples	multiple 
+nación	nation 
+naftujitas	naftujitas 
+naharaim	naharaim 
+nahas	nahas 
+naval	naval 
+nebo	nebo 
+neceb	neceb 
+nego	nego 
+neguev	negev 
+nimra	nimra 
+nisi	nisi 
+noble	noble 
+nobles	nobles 
+nombre	name 
+nostalgia	nostalgia 
+novena	ninth 
+náuseas	nausea 
+números	numbers 
+obligación	obligation 
+obstáculo	obstacle 
+obtendrá	will obtain 
+oirá	will 
+olfateando	hear sniffing 
+onaimen	onaimen 
+opción	option 
+optan	optan 
+oregim	oregim 
+ores	ores 
+orientación	orientation 
+oznita	oznita 
+palpa	palpa 
+panea	panea 
+parta	parta 
+parámetros	parameters 
+pasará	will pass 
+pasarán	will pass 
+patruseos	patruseos 
+patrón	pattern 
+país	country 
+países	countries 
+pañales	diapers 
+paño	cloth 
+pectoral	pectoral 
+pedestal	pedestal 
+pedirá	will ask 
+pentagonal	pentagonal 
+pequeña	small 
+pequeño	small 
+pequeños	small 
+perazim	perazim 
+perfección	perfection 
+perfume	perfume 
+perfumes	perfumes 
+permanecerá	will remain 
+permitirá	will allow 
+persuadirte	persuade you 
+perverso	perverse 
+período	period 
+pidiéndole	asking 
+pileser	pileser 
+pilneser	pilneser 
+pim	pim 
+pisotees	trample 
+placenta	placenta 
+plantar	plantar 
+plural	plural 
+población	population 
+podría	could 
+pondrá	put 
+portal	portal 
+pos	pos 
+posición	position 
+postergues	postpone 
+precisión	precision 
+preguntará	will ask 
+prensaron	pressed 
+preocupación	concern 
+prepare	prepare 
+prepares	prepare 
+presentación	presentation 
+presentará	will present 
+preside	presides 
+presión	pressure 
+producción	production 
+produces	produces 
+producirá	will 
+profane	profane 
+prometerles	promise them 
+protección	protection 
+protuberancias	protuberances 
+proverbial	proverbial 
+provocaría	would cause them to 
+pruébenles	try 
+próxima	next 
+puanita	puanita 
+pulidas	polished 
+pulirnos	polish us 
+punzón	awl 
+purim	purim 
+pus	pus 
+página	page 
+pérdida	loss 
+pérdidas	losses 
+póngase	put on will 
+quedarán	remain 
+quedarían	would remain 
+quimam	quimam 
+quisleu	quisleu 
+quizás	perhaps 
+rabim	rabim 
+rapa	rapa 
+rapan	rapan 
+razón	reason 
+reacción	reaction  
+realizará	will perform
+realizó	made 
+reavivo	revive
+rebosó	overflowed 
+rebuznan	braying 
+recibirá	will receive 
+recién	newly 
+recomendación	recommendation 
+reconocerme	recognize me 
+reconstructores	reconstructors 
+recordará	will remember 
+reducirá	will reduce 
+refaim	refaim 
+región	region 
+rehob	rehob 
+relación	relationship 
+reparación	repair 
+repares	repairs 
+resolución	resolution 
+restauradores	restorers 
+resultarán	will result 
+rigor	rigor 
+ritual	ritual 
+rival	rival 
+robe	robe 
+robes	robes 
+rodeos	detours 
+rogel	rogel 
+ruhama	ruhama 
+rumor	rumor 
+ráfaga	gust 
+rápidamente	quickly 
+rápido	fast 
+sabactani	sabactani 
+sacará	will take out 
+sacrificial	sacrificial 
+sacrifícala	sacrifice 
+sahaduta	it sahadula 
+salal	salal 
+salisa	salisa 
+saliva	saliva 
+sama	sama 
+santo	holy let 
+saqueemos	's plunder 
+sarsequim	sarsequim 
+seah	seah 
+sebat	sebat 
+secará	will dry 
+sección	secular 
+secular	section 
+seduce	seduces 
+seera	seera 
+sefer	sefer 
+según	according to 
+selah	selah 
+seleccionó	selected 
+selisiya	selisiya 
+semen	semen 
+semes	semes 
+seminit	seminit 
+sentirá	will feel 
+separación	separation 
+sería	would 
+serían	be would be 
+sesión	session 
+señalado	pointed out 
+shibolet	shibolet 
+sibolet	sibolet 
+sigionot	sigionot 
+silenciará	will silence 
+silo	silo 
+sineos	sineos 
+singular	singular 
+siniestros	sinister 
+sitim	sitim 
+situación	situation 
+solución	solution 
+sonarán	will sound 
+soprano	soprano 
+subclan	subclan 
+sucateos	sucateos 
+sueño	dream 
+sumergí	I submerged 
+supervisión	supervision 
+suquienos	suquienos 
+susa	susa 
+susim	susim 
+sábanas	sheets 
+símbolo	symbol 
+símbolos	symbols 
+tabor	tabor 
+tamar	tamar 
+tamaño	size 
+tannin	tannin 
+tapizados	upholstered 
+tebet	tebet 
+temanita	temanita 
+temería	would fear 
+tendrá	will have 
+terrible	terrible you 
+tires	still 
+todavía	tire 
+torcaza	turtledove 
+tortures	tortures 
+transformaste	you transformed 
+técnica	technique 
+técnicas	techniques 
+técnico	technical 
+términos	terms 
+título	title 
+ubicación	location 
+umbilical	umbilical 
+uniera	uniera 
+unión	union 
+unja	unja 
+ustedes	you 
+usual	usual 
+utilizó	used 
+uza	uza 
+vacía	empty 
+vacío	empty 
+vacíos	empty 
+valoración	valuation 
+variación	variation 
+varía	varies 
+vengándose	avenging 
+veterana	veteran 
+vigilando	watching 
+vigor	vigor 
+visión	vital 
+vital	vision 
+volverá	will return 
+vulgar	vulgar 
+vulnerable	vulnerable 
+vía	via 
+vínculo	link 
+vómito	vomit 
+zata	zata 
+zebub	zebub 
+zemareos	zemareos 
+zif	zif 
+zofim	zofim 
+zomzomeos	zomzomeos 
+zuzitas	zuzitas 
+Ábranle	Open up Tie 
+Ábranse	them up 
+Átalos	Open him up
+Échenme	Throw me 
+Úsenlos	Use them 
+ámbar	amber 
+ángulo	angle 
+área	area 
+áreas	areas 
+óxido	rust 
+última	last 
+últimas	last 
+últimos	last 
+única	unique 
+únicamente	only 
+únicas	unique 
+único	unique 
+únicos	unique 
+úntenlo	apply it 
+útil	useful 
+útiles	useful
