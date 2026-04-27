@@ -2266,7 +2266,7 @@ asirios	Assyrians
 Mispá	Mispa
 señores	sirs
 llenas	full
-Cesarea	Caesarean section
+Cesarea	Caesarea
 tranquilo	don't worry
 permitido	permitted
 atacaron	attacked
@@ -167364,7 +167364,7 @@ Gabata	Gabata
 Gabriel	Gabriel 
 Gadiel	Gadiel 
 Gahar	Gahar 
-Galaad	Galaad 
+Galaad	Gilead 
 Galilea	Galilea 
 Galim	Galim 
 Gamad	Gamad 
@@ -167995,7 +167995,7 @@ Misrefot	Misrefot
 Mitca	Mitca 
 Miza	Miza 
 Mizar	Mizar 
-Moisés	Moisés 
+Moisés	Moses 
 Molada	Molada 
 Moldea	Moldea 
 Moloc	Moloch 
@@ -168126,30 +168126,30 @@ Parvaim	Parvaim
 Pará	Pará 
 Paráclito	Paraclete 
 Pasac	Pasac 
-Pascua	Pascual 
-Pascual	Pasdamim 
-Pasdamim	Pasur 
-Pasur	Patea 
-Patea	Patmos 
-Patmos	Patrobas 
-Patrobas	Patros 
-Patros	Pau 
-Pau	Guidelines 
-Pautas	Pe 
-Pe	Pecod 
-Pecod	Pedasur 
-Pedasur	Pedro 
-Pedro	Peka 
-Peka	Peleg 
-Peleg	Pelón 
-Pelón	Peniel 
-Peniel	Penina 
-Penina	Let's think about it 
-Pensémoslo	Pentecost 
-Pentecostés	Penuel 
-Penuel	Perat 
-Perat	Forgive 
-Perdóname	me 
+Pascua	Passover
+Pascual	Pascual 
+Pasdamim	Pasdamim 
+Pasur	Pasur 
+Patea	Patea 
+Patmos	Patmos 
+Patrobas	Patrobas 
+Patros	Patros 
+Pau	Pau 
+Pautas	Guidelines 
+Pe	Pe 
+Pecod	Pecod 
+Pedasur	Pedasur 
+Pedro	Peter 
+Peka	Peka 
+Peleg	Peleg 
+Pelón	Pelón 
+Peniel	Peniel 
+Penina	Penina 
+Pensémoslo	Let's think about it 
+Pentecostés	Pentecost 
+Penuel	Penuel 
+Perat	Perat 
+Perdóname	Forgive 
 Peres	Peres 
 Perge	Perge 
 Permanecerás	You will 
@@ -168305,37 +168305,33 @@ Restauraron	Restauran
 Restauren	Restauran 
 Restauro	Restituto 
 Resén	Rescan 
-Retozan	Retroérzane 
-Retuérzanse	Reu
-Reu	​
-Reuel	​ 
-Reunificación	Reuel 
-Reunámonos	Reunification 
-Rezia	Let's Gather 
-Reúnenos	Rezia 
-Ribai	Gather Us 
-Ribla	Ribai 
-Rifat	Ribla 
-Rimono	Rifat 
-Rissa	Rimono 
-Rizpa	Rissa 
-Rm	Rizpa 
-Rodanim	Rm 
-Rode	Rodanim 
-Rodéame	Rode 
-Rogelim	Surround Me 
-Rohga	Rogelim 
-Rollos	Rohga 
-Roma	Rolls 
-Rompamos	Rome 
-Ros	Let's Break 
-Rosh	Ros 
-Rubén	Rosh 
-Rufo	Reuben 
-Ruma	Rufo 
-Rápate	Ruma 
-Rápense	Rapate Quickly 
-Ríndanse	Surrender 
+Reu	​Reu
+Reunificación	Reunification 
+Reunámonos	Let's Gather 
+Rezia	Rezia 
+Reúnenos	Gather Us 
+Ribai	Ribai 
+Ribla	Ribla 
+Rifat	Rifat 
+Rimono	Rimono 
+Rissa	Rissa 
+Rizpa	Rizpa 
+Rm	Rm 
+Rodanim	Rodanim 
+Rode	Rhoda
+Rodéame	Surround Me 
+Rogelim	Rogelim 
+Rohga	Rohga 
+Rollos	Rolls 
+Roma	Rome 
+Rompamos	Let's Break 
+Ros	Ros 
+Rosh	Rosh 
+Rubén	Reuben 
+Rufo	Rufo 
+Ruma	Ruma 
+Rápate	Rapate Quickly 
+Rápense	Surrender 
 Saaf	Saaf 
 Saalabín	Saalabín 
 Saalbim	Saalbim 
@@ -168343,10 +168339,9 @@ Saalim	Saalim
 Saananim	Saananim 
 Saaraim	Saaraim 
 Saasgaz	Saasgaz 
-Saba	Saba Sabetai 
-Sabetai	Sabteca 
-Sabteca	Sacará 
-Sacarás	Sacrifice 
+Saba	Saba 
+Sabteca	Sabteca 
+Sacarás	Sacará 
 Sacrifícalo	Sacrifice 
 Sacudiste	You 
 Sacudí	Sacrifice 
