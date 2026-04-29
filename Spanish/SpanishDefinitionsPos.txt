@@ -167120,7 +167120,7 @@ Demuestras	Delight
 Demuéstralo	yourself 
 Denme	You 
 Dense	demonstrate 
-Derbe	Prove it Give me Give yourselves You will spill You knocked down I will 
+Derbe	Derbe
 Derramarás	knock 
 Derribaste	down 
 Derrumbaré	He 
@@ -167134,11 +167134,11 @@ Descríbeles	evicted
 Descúbrete	You 
 Desechas	untie 
 Despedazarás	We will 
-Despellejan	rest You will descend Describe them Discover 
+Despellejan	they skin
 Despiértate	yourself You 
 Desplegaré	discard 
 Destitución	You will tear to pieces 
-Destrúyelo	They skin Wake up I will unfold Dismissal Destroy it Disadvantage Untie it Stop Return 
+Destrúyelo	Destroy it
 Desventaja	We 
 Desátenlo	will 
 Detén	return 
