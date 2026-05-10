@@ -45,7 +45,7 @@ ustedes	you
 cuando	when
 contra	against
 hasta	until
-si	Yeah
+si	if
 pues	well
 tus	your
 fue	was
@@ -254,7 +254,7 @@ cinco	five
 fin	end
 haré	I will do
 hicieron	They did
-envió	shipment
+envió	sent
 cuatro	four
 durante	during
 santuario	sanctuary
@@ -577,7 +577,7 @@ Nabucodonosor	Nebuchadnezzar
 compasión	compassion
 tiempos	time
 autoridad	authority
-hechos	facts
+hechos	made up
 llegado	arrived
 Sión	Zion
 culpa	blame
@@ -1596,7 +1596,7 @@ ataque	stroke
 salía	I was leaving
 diestra	right-handed
 comerá	will eat
-conciencia	awareness
+conciencia	conscience
 siglos	ages
 pariente	relative
 ministerio	ministry
@@ -1832,7 +1832,7 @@ muestra	sample
 anochecer	dusk
 setecientos	seven hundred
 pido	I ask
-oró	gold
+oró	prayed
 noſotros	us
 viñedos	vineyards
 toro	bull
@@ -2226,7 +2226,7 @@ entregaron	They delivered
 caña	cane
 injusticia	injustice
 fortalezas	strengths
-voto	vote
+voto	vow
 estableció	established
 piensa	think
 cubierto	covered
@@ -2317,7 +2317,7 @@ profetiza	prophesies
 alabaré	I will praise
 papá	dad
 hubiere	there would be
-judía	bean
+judía	Jew
 continuamente	continuously
 Senaquerib	Sennacherib
 ſer	to be
@@ -2493,7 +2493,7 @@ enviados	sent
 empezó	started
 verlos	see them
 verano	summer
-oigan	Hey
+oigan	hear
 lleven	take away
 diferentes	different
 concedido	granted
@@ -3894,7 +3894,7 @@ castigarlos	punish them
 astros	stars
 andando	walking
 advirtió	warned
-Acaya	Achaea
+Acaya	Achaia
 honran	honor
 conseguir	get
 alegró	rejoiced
@@ -4302,7 +4302,7 @@ odres	wineskins
 estima	esteem
 divisiones	divisions
 dejas	you leave
-comas	commas
+comas	eat
 cercana	close
 ayer	yesterday
 abierta	open
@@ -4555,7 +4555,7 @@ tendidos	lying down
 sugiere	suggests
 solos	alone
 mora	blackberry
-judías	beans
+judías	Jews
 honrados	honest
 honda	sling
 engrandecido	enlarged
@@ -6617,7 +6617,7 @@ distinta	different
 descenderá	will descend
 dejarlos	leave them
 defraudado	disappointed
-defenderse	fend
+defenderse	defend
 confesión	confession
 balde	bucket
 atónitos	stunned
@@ -11801,7 +11801,7 @@ literario	literary
 levantarlo	lift it up
 lavan	wash
 irreprochables	irreproachable
-indignó	worthless
+indignó	troubled
 incontable	countless
 implorar	implore
 hundirse	sink
@@ -12751,7 +12751,7 @@ admirada	admired
 acércate	come closer
 acosan	harass
 acobardes	cowards
-Sóstenes	Braces
+Sóstenes	Sosthenes
 Publio	Publius
 Nabusardán	Nabusardan
 Mitrídates	Mithridates
@@ -41041,7 +41041,7 @@ razonaría	would reason
 razonaban	They reasoned
 ratificada	ratified
 rasurado	shaved
-raras	rare
+raras	strange
 rapéis	snuff
 raptó	rapture
 raptando	kidnapping
@@ -56234,7 +56234,7 @@ hallâron	they found
 halláron	They found
 hallazgo	find
 hallarſe	to be found
-hai	haha
+hai	Ai
 hagase	be done
 hadad I	hadad I
 haciéndo	doing
@@ -167092,7 +167092,7 @@ Cállense	Be
 Cálmense	quiet Be quiet 
 Cásense	Calm down 
 Cédele	Marry Give it 
-César	to Caesar Buy 
+César	Caesar
 Cómprenos	us Cover 
 Cúbrelos	them 
 Cúbrete	Cover yourself 
@@ -167899,7 +167899,7 @@ Maluc	Maluc
 Mamre	Mamre 
 Manahat	Manahat 
 Manahem	Manahem 
-Manoa	Manoa Let's 
+Manoa	Manoa
 Mantengámonos	stay 
 Maoc	Maoc 
 Maqui	Maqui 
@@ -168097,7 +168097,6 @@ On	On
 Onam	Onam 
 Ono	Ono 
 Orarás	Orarás 
-Ordénale	Ordénale 
 Oreb	Oreb 
 Organización	Organization 
 Organizaron	Organized 
