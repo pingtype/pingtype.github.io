@@ -2268,6 +2268,11 @@ input[type='range']::-ms-thumb {
 										</div>
 									</td>
 									<td>
+										<div id="handwritingButton" class="ButtonInner advanced" onclick="window.open('https://www.yellowbridge.com/chinese/dictionary.php');" style="visibility:hidden;">
+										Handwriting
+										</div>
+									</td>
+									<td>
 										<div id="hexButton" class="ButtonInner regional" onclick="searchHexButtonClicked();" style="visibility:hidden">
 											Hex
 										</div>
@@ -3336,7 +3341,7 @@ input[type='range']::-ms-thumb {
 		var englishText = "";
 		var literalText = "";
 		
-		var compositionData;
+		var compositionData = "";
 		var genealogiesData;
 		var dictionaryData;
 		var pinyinDefinitionData;
@@ -4801,7 +4806,7 @@ input[type='range']::-ms-thumb {
 				   if (xmlhttp.status == 200) 
 				   {
 						
-						compositionData = xmlhttp.responseText;
+						compositionData = compositionData + xmlhttp.responseText;
 					    
 				   } // end if it loaded the KML
 				   else if (xmlhttp.status == 400) {
@@ -21345,6 +21350,7 @@ input[type='range']::-ms-thumb {
 			
 			loadBopomofo("zhuyin.txt");
 			loadIds("ids.txt");
+			loadComposition("cjkvi-ids.txt");
 			
 			document.getElementById("translateButton").innerText = "Deradicalize, Space, and Translate";
 			document.getElementById("translateButton").style.width = "193px";
