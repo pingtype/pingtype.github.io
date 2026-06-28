@@ -5435,6 +5435,12 @@ input[type='range']::-ms-thumb {
 			{
 				return true;
 			}
+
+			// 2023
+			if (thisCharacter == "〇")
+			{
+				return true;
+			}
 			
 			var charCode = thisCharacter.charCodeAt(0);
 		
@@ -15014,12 +15020,12 @@ input[type='range']::-ms-thumb {
 			} else {
 				// Edit the word
 				
-				var newDefintion = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordToneless + "	" + thisWordTones + "	" ;
+				var newDefinition = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordToneless + "	" + thisWordTones + "	" ;
 				
 				// Get the existing word
 				var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
 
-				combinedDictionaryData = replaceChars(combinedDictionaryData, "\n" + thisWordChinese + "	" + oldDefinition, "\n" + thisWordChinese + "	" + newDefintion);
+				combinedDictionaryData = replaceChars(combinedDictionaryData, "\n" + thisWordChinese + "	" + oldDefinition, "\n" + thisWordChinese + "	" + newDefinition);
 				
 			} // end if the dictionary contains the word already
 				
@@ -15085,7 +15091,7 @@ input[type='range']::-ms-thumb {
 			} else {
 				// Edit the word
 				
-				var newDefintion = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" ;
+				var newDefinition = thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" ;
 				
 				// Get the existing word
 				var oldDefinition = textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
@@ -15105,32 +15111,32 @@ input[type='range']::-ms-thumb {
 						//if (oldWordEnglish.length > thisWordEnglish.length)
 						//{
 							// Replace the definition in the dictionary
-							combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefintion);
+							combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
 
 							var wordLength = stringLength(thisWordChinese);
 							if (wordLength == 5)
 							{
-								fiveWordsArray[thisWordChinese] = newDefintion;
+								fiveWordsArray[thisWordChinese] = newDefinition;
 							}
 			
 							if (wordLength == 4)
 							{
-								fourWordsArray[thisWordChinese] = newDefintion;
+								fourWordsArray[thisWordChinese] = newDefinition;
 							}
 			
 							if (wordLength == 3)
 							{
-								threeWordsArray[thisWordChinese] = newDefintion;
+								threeWordsArray[thisWordChinese] = newDefinition;
 							}
 			
 							if (wordLength == 2)
 							{
-								twoWordsArray[thisWordChinese] = newDefintion;
+								twoWordsArray[thisWordChinese] = newDefinition;
 							}
 			
 							if (wordLength == 1)
 							{
-								oneWordsArray[thisWordChinese] = newDefintion;
+								oneWordsArray[thisWordChinese] = newDefinition;
 							}
 							
 						//}
@@ -15261,10 +15267,10 @@ input[type='range']::-ms-thumb {
 				var oldDefinition = thisWordChinese + "	" + textBetween(combinedDictionaryData, "\n" + thisWordChinese + "	", "\n");
 						
 				//var newDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "	" + thisWordPinyinToneless + "	" + thisWordTones + "	" + "\n";
-				var newDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin + "\n";
+				var newDefinition = thisWordChinese + "	" + thisWordEnglish + "	" + thisWordPinyin;
 				
 				// Replace the definition in the dictionary
-				//combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition);
+				combinedDictionaryData = replaceChars(combinedDictionaryData,oldDefinition,newDefinition + "\n");
 				
 				var wordLength = stringLength(thisWordChinese);
 				if (wordLength == 5)
@@ -15292,7 +15298,7 @@ input[type='range']::-ms-thumb {
 					oneWordsArray[thisWordChinese] = newDefinition;
 				}
 				
-				editInFile("PinyinDefinitionsSorted.txt", oldDefinition, newDefinition);
+				editInFile("PinyinDefinitionsSorted.txt", oldDefinition, newDefinition + "\n");
 
 				//var editText = thisDefinition + "	" + getDateString();
 				
