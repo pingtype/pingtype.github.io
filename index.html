@@ -5473,6 +5473,7 @@ input[type='range']::-ms-thumb {
 			
 		} // end function isChinese
 		
+				
 		function isChineseString(thisString)
 		{
 			//debugLog("isChineseString(" + thisString + ")");
@@ -5517,7 +5518,37 @@ input[type='range']::-ms-thumb {
 			return stringIsChinese;
 		} // end function containsChineseString
 
+		function isDigit(thisCharacter)
+		{
+			// 8點
+			if (contains("1234567890", thisCharacter))
+			{
+				return true;
+			} else {
+				return false;
+			}		
+		} // end function isDigit
 		
+		function isDigitsString(thisString)
+		{
+			var numberCharacters = stringLength(thisString);
+			
+			var stringIsDigits = true;
+			
+			for (var currentCharacter = 0; currentCharacter < numberCharacters; currentCharacter++)
+			{
+				var thisCharacter = thisString[currentCharacter];
+				
+				if (isDigit(thisCharacter) == false)
+				{
+					stringIsDigits = false;
+					break;
+				}
+			} // end for every character
+			
+			return stringIsDigits;
+		} // end function isDigitsString
+
 		function isEnglish(thisCharacter)
 		{
 			//debugLog("isEnglish(" + thisCharacter + ")");
@@ -10774,7 +10805,7 @@ input[type='range']::-ms-thumb {
 							 //var thisCharacter = thisChineseLine[currentCharacter];
 							 var thisCharacter = thisChineseLineArray[currentCharacter];
 							 							 
-							 if (isChinese(thisCharacter) == false)
+							 if ((isChinese(thisCharacter) == false) && (isDigit(thisCharacter) == false))
 							 {
 							 
 							 	 //console.log(thisCharacter + " is not chinese");
@@ -10841,6 +10872,12 @@ input[type='range']::-ms-thumb {
 								 	}
 								 //}
 
+								if (isDigitsString(thisWord) == true)
+								{
+									inDictionary = true;
+								}
+
+								 								 
 								 //if (contains(longWords, " " + thisWord) == true)
 								 if (inDictionary == true)
 								 {
