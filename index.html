@@ -1561,6 +1561,7 @@ input[type='range']::-ms-thumb {
 					<input type="checkbox" id="syllablesCheckbox" ><span onclick="toggleCheckbox('syllablesCheckbox');">Radicals 部首</span>
 					<input type="checkbox" id="wadeGilesCheckbox" ><span onclick="toggleCheckbox('wadeGilesCheckbox');">Wade-Giles</span>
 					<input type="checkbox" id="bopomofoCheckbox" ><span onclick="toggleCheckbox('bopomofoCheckbox');">ㄅㄆㄇㄈ</span>
+					<input type="checkbox" id="verticalCheckbox" ><span onclick="toggleCheckbox('verticalCheckbox');">Vertical</span>
 					<span id="simplifiedCheckboxSpan" style="visibility:hidden;" onclick="toggleCheckbox('simplifiedSpacedCheckbox');"><input type="checkbox" id="simplifiedSpacedCheckbox" >Simplified 简化字</span>
 				</td>
 			</tr>
@@ -5324,7 +5325,8 @@ input[type='range']::-ms-thumb {
 				start_pos = start_pos + startString.length;
 			}
 
-			var end_pos = stringLength(thisText);
+//			var end_pos = stringLength(thisText);
+			var end_pos = thisText.length;
 			if (endString != 'end')
 			{
 				end_pos = thisText.indexOf(endString,start_pos);
@@ -8704,7 +8706,8 @@ input[type='range']::-ms-thumb {
 			var addTang = document.getElementById('tangCheckbox').checked;
 			var addPageBreaks = document.getElementById('pageBreaksCheckbox').checked;
 			var hashOut = document.getElementById('hashOutCheckbox').checked;
-			
+			var useVertical = document.getElementById('verticalCheckbox').checked;
+
 			var addCommon = false;
 			
 			if (commonWords != "")
@@ -8786,6 +8789,7 @@ input[type='range']::-ms-thumb {
 				var pinyinHtml = "";			
 				var syllablesHtml = "";
 				var translatedHtml = "";
+				var verticalHtml = "";
 
 				var chineseText = "";
 				var pinyinText = "";			
@@ -8842,6 +8846,11 @@ input[type='range']::-ms-thumb {
 					}
 				} // end if addSimplified
 				
+				if (useVertical == true)
+				{
+					verticalHtml = verticalHtml + "<table>";
+				}
+				
 				var currentLineChineseWord = 0;
 				var currentLineTaiwaneseWord = 0;
 				var currentLineHakkaWord = 0;
@@ -8864,6 +8873,11 @@ input[type='range']::-ms-thumb {
 					if (addBopomofo == true)
 					{
 						chineseHtmlWord = "<table><tr>";
+					}
+
+					if (useVertical == true)
+					{
+						verticalHtml = verticalHtml + "<tr>";
 					}
 					
 					if (addSimplified == true)
@@ -9381,6 +9395,11 @@ input[type='range']::-ms-thumb {
 							} // end if the word is not blank
 						} // end if addCommon
 						
+						if (useVertical == true)
+						{
+							verticalHtml = verticalHtml + "<td style=\"width:150px\">" + chineseHtmlWord + "</td>" + "<td style=\"width:150px\">" + pinyinHtmlWord + "</td>" + "<td style=\"width:150px\">" + translatedTextWord + "</td>" + "</tr>";
+						}
+						
 						currentLineChineseWord = currentLineChineseWord + 1;
 						
 					} else {
@@ -9878,6 +9897,11 @@ input[type='range']::-ms-thumb {
 					outputHtml = outputHtml + "<tr class=\"literalLine\"><td>" + translatedHtml + "</td></tr>";
 				} // end if addLiteral
 
+				if (useVertical == true)
+				{
+					outputHtml = verticalHtml;
+				}
+
 				outputHtml = outputHtml + "</table>\n";
 
 				if (addEnglish == true)
@@ -10064,6 +10088,7 @@ input[type='range']::-ms-thumb {
 			var lastEnglishLine = "";
 			
 			var lastWasEnglish = false;
+			var useVertical = document.getElementById('verticalCheckbox').checked;
 			
 			var currentChineseLine = 0;
 
@@ -10102,9 +10127,14 @@ input[type='range']::-ms-thumb {
 						outputText = outputText + "\n" + translationOutput[1];			
 
 					} else {
-					
+						
 						var thisEnglishHtml = "<div class=\"english\">" + thisLine + "</div></p>";
-											
+						
+						if (useVertical == true)
+						{
+							thisEnglishHtml = "<div id=\"englishLine\" style=\"white-space:normal;text-wrap:wrap;width:400px\">" + thisLine + "</div></p>";
+						}
+						
 						outputHtml = outputHtml + "\n" + thisEnglishHtml;
 						outputText = outputText + "\n" + thisLine;
 					
@@ -20212,6 +20242,13 @@ input[type='range']::-ms-thumb {
 			
 			outputHtml = replaceChars(outputHtml, "<table>", "<table style=\"margin-left: 400px;\">");
 			outputHtml = replaceChars(outputHtml, "<div id=\"englishLine\" class=\"english\"", "<div id=\"englishLine\" class=\"english\" style=\"margin-left: 400px;\"");
+			
+			var useVertical = document.getElementById('verticalCheckbox').checked;
+			if (useVertical == true)
+			{
+				outputHtml = replaceChars(outputHtml, "<div id=\"englishLine\"", "<div id=\"englishLine\" style=\"margin-left: 400px;white-space:normal;text-wrap:wrap;width:400px\"");
+			}
+			
 			outputHtml = replaceChars(outputHtml, "<br>", newPageHtml);
 			
 			// Start with enough space to cover the control buttons
