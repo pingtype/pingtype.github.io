@@ -9397,7 +9397,7 @@ input[type='range']::-ms-thumb {
 						
 						if (useVertical == true)
 						{
-							verticalHtml = verticalHtml + "<td style=\"width:150px\">" + chineseHtmlWord + "</td>" + "<td style=\"width:150px\">" + pinyinHtmlWord + "</td>" + "<td style=\"width:150px\">" + translatedTextWord + "</td>" + "</tr>";
+							verticalHtml = verticalHtml + "<td style=\"width:150px\">" + chineseHtmlWord + "</td>" + "<td style=\"width:150px\">" + pinyinHtmlWord + "</td>" + "<td style=\"width:150px;white-space:normal;text-wrap:wrap;\">" + translatedTextWord + "</td>" + "</tr>";
 						}
 						
 						currentLineChineseWord = currentLineChineseWord + 1;
@@ -9424,6 +9424,11 @@ input[type='range']::-ms-thumb {
 							
 							chineseLength = stringLength(thisWord);
 							
+							if (useVertical == true)
+							{
+								verticalHtml = verticalHtml + "<td style=\"width:150px\">" + thisWord + "</td>" + "<td style=\"width:150px\">" + thisWord + "</td>" + "<td style=\"width:150px\">" + thisWord + "</td>" + "</tr>";
+							}
+
 							if (addSimplified == true)
 							{
 								simplifiedHtmlWord = thisSimplifiedWord;
@@ -9899,6 +9904,10 @@ input[type='range']::-ms-thumb {
 
 				if (useVertical == true)
 				{
+					if (addChinesePlain == true)
+					{
+						verticalHtml = "<div class=\"chinesePlain\">" + chinesePlainLine + "</div>" + verticalHtml;
+					}
 					outputHtml = verticalHtml;
 				}
 
@@ -20246,7 +20255,9 @@ input[type='range']::-ms-thumb {
 			var useVertical = document.getElementById('verticalCheckbox').checked;
 			if (useVertical == true)
 			{
+				outputHtml = replaceChars(outputHtml, "<div class=\"chinesePlain\">", "<div class=\"chinesePlain\" style=\"margin-left: 400px;width:400px\">");
 				outputHtml = replaceChars(outputHtml, "<div id=\"englishLine\"", "<div id=\"englishLine\" style=\"margin-left: 400px;white-space:normal;text-wrap:wrap;width:400px\"");
+				outputHtml = outputHtml + newPageHtml + newPageHtml + newPageHtml + newPageHtml + newPageHtml;
 			}
 			
 			outputHtml = replaceChars(outputHtml, "<br>", newPageHtml);
