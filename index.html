@@ -8856,6 +8856,7 @@ input[type='range']::-ms-thumb {
 				var currentLineHakkaWord = 0;
 				
 				var numberLineWords = thisLineWords.length;
+
 				for (var currentLineWord = 0; currentLineWord < numberLineWords; currentLineWord++)
 				{
 			
@@ -9407,7 +9408,7 @@ input[type='range']::-ms-thumb {
 						// If the word is not blank
 						if (thisWord != "")
 						{
-					
+
 							if (isChineseString(thisWord) == true)
 							{
 								appendToFile("missingWords.txt", thisWord);
@@ -9919,8 +9920,8 @@ input[type='range']::-ms-thumb {
 					var englishLineArray = englishLine.split(" ");
 					var numberEnglishWords = englishLineArray.length;
 					
-					outputHtml = outputHtml + "<div id=\"englishLine\" class=\"english\" >";
-
+					outputHtml = outputHtml + "<div id=\"englishLine\" class=\"english\">";
+										
 					for (var currentEnglishWord = 0; currentEnglishWord < numberEnglishWords; currentEnglishWord++)
 					{
 						var thisEnglishWord = englishLineArray[currentEnglishWord];
@@ -9934,7 +9935,7 @@ input[type='range']::-ms-thumb {
 							var englishId = "englishLine" + currentLine + "Word" + currentEnglishWord + "Character" + currentEnglishWordCharacter;
 							outputHtml = outputHtml + "<div id=\"" + englishId + "\"class=\"english\" style=\"margin-left: 0px;\">" + thisEnglishWordCharacter + "</div>";
 						}
-												
+						
 						outputHtml = outputHtml + " ";
 					} // end for every english word in the literal translation
 				
@@ -9954,7 +9955,7 @@ input[type='range']::-ms-thumb {
 				} // end if addPageBreaks
 				
 			} // end for every line
-						
+
 			showMissingWords(missingWords);
 			//console.timeEnd("translateText");
 			return [outputHtml, outputText];
@@ -9974,9 +9975,9 @@ input[type='range']::-ms-thumb {
 			}
 			
 			var englishText = document.getElementById("englishTextArea").value;
-						
+
 			var translationOutput = translateText(inputText, englishText);
-			
+
 			outputHtml = translationOutput[0];
 			outputText = translationOutput[1];			
 			
@@ -10104,7 +10105,6 @@ input[type='range']::-ms-thumb {
 			for (var currentLine = 0; currentLine < numberLines; currentLine = currentLine + 1)
 			{
 				var thisLine = inputLines[currentLine];
-				
 				if (thisLine == "")
 				{
 					if (lastWasEnglish == false)
@@ -10116,6 +10116,7 @@ input[type='range']::-ms-thumb {
 					outputText = outputText + "\n";
 					
 				} else {
+
 					if (containsChineseString(thisLine) == true)
 					{
 						lastWasEnglish = false;
@@ -10223,7 +10224,6 @@ input[type='range']::-ms-thumb {
 			
 			var outputHtml=translations[0];
 			var outputText=translations[1];
-			
 			
 			document.getElementById("outputHtml").innerHTML = outputHtml;
 			outputText = replaceChars(outputText, "	", "  ");
@@ -10915,7 +10915,7 @@ input[type='range']::-ms-thumb {
 								{
 									inDictionary = true;
 								}
-
+								
 								 								 
 								 //if (contains(longWords, " " + thisWord) == true)
 								 if (inDictionary == true)
@@ -10979,6 +10979,7 @@ input[type='range']::-ms-thumb {
 					 } // end for every character
 				
 					 spacedChinese = spacedChinese + spacedChineseLine + "\n";
+					 //spacedChinese = spacedChinese + spacedChineseLine;
 				} // end if the line is English
 				
 			} // end for every line
@@ -10993,9 +10994,7 @@ input[type='range']::-ms-thumb {
 			
 			for (var currentLine = 0; currentLine < numberLines; currentLine++)
 			{
-			
 				var spacedChineseLine = spacedChineseLines[currentLine];
-
 
 				if (containsChineseString(spacedChineseLine) == true)
 				{
@@ -11006,7 +11005,7 @@ input[type='range']::-ms-thumb {
 					//var numberLineCharacters = stringLength(spacedChineseLine);
 					var spacedLineCharactersArray = Array.from(spacedChineseLine);
 					var numberLineCharacters = spacedLineCharactersArray.length;
-
+	
 		   			// Add spaces for punctuation
 					for (var currentLineCharacter = 0; currentLineCharacter < numberLineCharacters; currentLineCharacter++)
 					{
@@ -11023,7 +11022,7 @@ input[type='range']::-ms-thumb {
 							} else {
 								spacedLine = spacedLine + thisLineCharacter + " ";
 							}
-						}			   			
+						}
 					} // end add spaces after every non-Chinese character
 					
 					spacedLines = spacedLines + spacedLine + "\n";
@@ -11033,9 +11032,14 @@ input[type='range']::-ms-thumb {
 					spacedLines = spacedLines + spacedChineseLine + "\n";
 				
 				} // end if the line is english
-				
 			} // end for every line
 			
+			var useVertical = document.getElementById('verticalCheckbox').checked;
+			if (useVertical == true)
+			{
+				spacedLines = replaceChars(spacedLines, "\n\n", "");
+			}
+
 			//console.timeEnd("wordSpace");
 			return spacedLines;
 			
