@@ -9016,6 +9016,7 @@ input[type='range']::-ms-thumb {
 						
 						if ((addSyllables == true) || (addWadeGiles == true))
 						{
+							thisToneless = removeTones(thisPinyin);
 							var thisTonelessArray = thisToneless.split(" ");
 							var thisTonelessLength = thisTonelessArray.length;
 						} // only use toneless when showing syllables
