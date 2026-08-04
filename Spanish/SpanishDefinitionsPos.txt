@@ -1604,7 +1604,7 @@ iré	I will go
 escudos	shields
 dias	days
 destruirá	will destroy
-anciano	old man
+anciano	elder
 sucedido	happened
 Urías	Uriah
 quitado	taken
@@ -2532,7 +2532,7 @@ Amós	Amos
 hacerte	make you
 amantes	lovers
 Isaí	Jesse
-rasgó	feature
+rasgó	tore
 nuevamente	again
 horas	hours
 destruyeron	destroyed
@@ -2731,7 +2731,7 @@ nombró	named
 fuimos	went
 siente	feel
 perdonado	forgiven
-novio	boyfriend
+novio	bridegroom
 lluvias	rains
 inteligente	intelligent
 habitaciones	rooms
@@ -3102,7 +3102,7 @@ nuera	daughter-in-law
 contribución	contribution
 glorificado	glorified
 error	mistake
-votos	votes
+votos	vows
 magos	magicians
 desolada	desolate
 tabla	board
@@ -18126,7 +18126,7 @@ hizieſſe	made
 hirviendo	boiling
 hincha	fan
 higo	fig
-hermandad	sisterhood
+hermandad	brotherhood
 heres	here
 heredan	inherit
 habilidades	skills
@@ -154780,17 +154780,17 @@ archiveTimeStamp	archiveTimeStamp
 archivó	archive
 Archivo 	Archive 
 archivo Continuar	file Continue
-archivoEl	file™The
-archivokNecesita	filekNeeds
-archivoMAsegúrate	fileMMake sure
-archivoMuestra	Sample file
+archiv El	file™The
+archivo Necesita	filekNeeds
+archivo Asegúrate	fileMMake sure
+archiv Muestra	Sample file
 archivos Continuar	files Continue
-archivosąLa	filesąThe
-archivosCAplicar	filesCApplication
-archivosĊLa	filesĊThe
-archivosEWindows	Windows files
-archivosRAplicar	filesRApplied
-archivosWLa	WLa files
+archivos La	filesąThe
+archivos Aplicar	filesCApplication
+archivos La	filesĊThe
+archivos Windows	Windows files
+archivos Aplicar	filesRApplied
+archivos La	La files
 arcoiris	rainbow
 Ardeida	Ardeida
 Ardeidas	Ardeidae
@@ -158639,7 +158639,7 @@ fotográficas	photographic
 fotogramas	frames
 fotométrica	photometric
 Fotopolímero	Photopolymer
-fotos	photos
+fotos	photos
 fotos de iCloud	iCloud Photos
 fotostáticamente	photostatically
 Foundation	Foundation
@@ -165660,12 +165660,12 @@ unicordio	unichordium
 unid	unit
 unidadfWindows	Windows drive
 unidadhWindows	windows drive
-unidadmNo	unitmNo
-unidadoWindows	Windows drive
-unidadUWindows	UWindowsUnit
-unidadWindows	Windows drive
-unidadWSe	unitWSe
-unidadyYa	unityNow
+unidadm No	unitmNo
+unidado Windows	Windows drive
+unidad Windows	UWindowsUnit
+unidad Windows	Windows drive
+unidad Se	unitWSe
+unidad Ya	unityNow
 unidimensional	one-dimensional
 unif	unif
 unificada	unified
@@ -166884,7 +166884,7 @@ Barrio	Barrio
 Barzilai	Barzilai 
 Basemat	Basemat 
 Bat	Bat 
-Bautista	Bautista 
+Bautista	Baptist 
 Bavai	Bavai 
 Bazlit	Bazlit 
 Bazlut	Bazlut 
@@ -166963,7 +166963,7 @@ Buni	Buni
 Buqui	Buqui 
 Buz	Buz 
 Buzi	Buzi 
-Báñate	Bathe Kiss me 
+Báñate	Bathe
 Bésame	Find 
 Búscalos	them 
 Caballeros	Gentlemen 
@@ -167152,7 +167152,6 @@ Diana	to
 Diblaim	him 
 Diblat	Return it to us 
 Dibri	Diana 
-Dichas	Diblaim Diblat 
 Dichoso	Dibri 
 Dicla	Bliss Blissful 
 Difat	Dicla 
@@ -167275,7 +167274,7 @@ Entraste	You entered Give
 Entrégale	him 
 Entónenle	Tune him 
 Enviabas	You were 
-Envidian	sending They envy Send them Send 
+Envidian	sending
 Envíalos	me Send 
 Envíame	them 
 Envíenlos	Epilogue 
@@ -167778,7 +167777,7 @@ Jotba	Jotba
 Jotbata	Jotbata 
 Jozabad	Jozabad 
 Jozabed	Jozabed 
-Juan	Juan 
+Juan	John 
 Juana	Juana 
 Jubal	Jubal 
 Jucal	Jucal 
@@ -168240,7 +168239,7 @@ Quítenles	Quítenle
 Quítense	Quítenles 
 Raama	Quítense 
 Rabit	Raama 
-Rabí	Rabit 
+Rabí	Rabbi 
 Raca	Rabí 
 Racal	Raca 
 Racat	Racal 
@@ -168249,7 +168248,7 @@ Rafael	Radai
 Rafú	Rafael 
 Rahab	Rafú 
 Raham	Rahab 
-Ram	Raham 
+Ram	Ram 
 Ramat	Ram 
 Ramataim	Ramat 
 Ramot	Ramataim 
@@ -168747,7 +168746,7 @@ abib	abib
 abinadab	abinadab 
 abominable	abominable 
 abrirá	will 
-absoluto	open 
+absoluto	open 
 acacia	absolute 
 acacias	acacia 
 acción	acacias 
@@ -169013,7 +169012,7 @@ enfrentarás	you will face
 enfriará	will cool 
 enigma	enigma 
 enterarían	would find out 
-enterrarlos	bury them 
+enterrarlos	bury them 
 envía	sends 
 envíe	send 
 envío	shipment 
@@ -169041,7 +169040,7 @@ extraño	strange
 ezer	ezer 
 fabricación	manufacturing 
 faluita	faluita 
-fares	fares 
+fares	Perez 
 faresita	faresita 
 faresitas	faresitas 
 fatal	fatal 
@@ -169204,7 +169203,7 @@ liras	liras
 llenará	llenará 
 lloraría	lloraría 
 ludeos	ludeos 
-luto	luto 
+luto	luto 
 lámina	hoja 
 láminas	sheets 
 lámpara	lamp 
@@ -169219,7 +169218,7 @@ mahalat	mahalat
 mahavita	mahavita 
 mahlitas	mahlitas 
 malcam	malcam 
-maligna	maligna 
+maligna	evil
 malquielitas	malquielitas 
 mango	mango 
 mantendrá	will keep 
@@ -169262,7 +169261,7 @@ métodos	methods
 mínima	minimum 
 mínimo	minimum 
 múltiples	multiple 
-nación	nation 
+nación	nation 
 naftujitas	naftujitas 
 naharaim	naharaim 
 nahas	nahas 
@@ -169318,7 +169317,7 @@ perfumes	perfumes
 permanecerá	will remain 
 permitirá	will allow 
 persuadirte	persuade you 
-perverso	perverse 
+perverso	perverse 
 período	period 
 pidiéndole	asking 
 pileser	pileser 
@@ -169475,9 +169474,8 @@ tebet	tebet
 temanita	temanita 
 temería	would fear 
 tendrá	will have 
-terrible	terrible you 
-tires	still 
-todavía	tire 
+terrible	terrible
+todavía	still 
 torcaza	turtledove 
 tortures	tortures 
 transformaste	you transformed 
@@ -169541,3 +169539,4 @@ zuzitas	zuzitas
 úntenlo	apply it 
 útil	useful 
 útiles	useful
+de	of
