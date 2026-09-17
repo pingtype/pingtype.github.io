@@ -844,6 +844,10 @@ shi1	shī
 shi2	shí
 shi3	shǐ
 shi4	shì
+shou1	shōu
+shou2	shóu
+shou3	shǒu
+shou4	shòu
 shu1	shū
 shu2	shú
 shu3	shǔ
@@ -1439,7 +1443,7 @@ bie3	biě
 ca3	cǎ
 cha3	chǎ
 cui3	cuǐ
-dei3	deǐ
+dei3	děi
 e3	ě
 en3	ěn
 ga3	gǎ
@@ -1492,3 +1496,6 @@ Zeng2	zéng
 zui1	zui
 zun4	zùn
 nü3	nǚ
+shuo2	shuó
+lü2	lǘ
+lü4	lǜ
