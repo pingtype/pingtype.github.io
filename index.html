@@ -20261,6 +20261,7 @@ input[type='range']::-ms-thumb {
 			
 			outputHtml = replaceChars(outputHtml, "<table>", "<table style=\"margin-left: 400px;\">");
 			outputHtml = replaceChars(outputHtml, "<div id=\"englishLine\" class=\"english\"", "<div id=\"englishLine\" class=\"english\" style=\"margin-left: 400px;\"");
+			outputHtml = replaceChars(outputHtml, "<div class=\"english\"", "<div id=\"englishLine\" class=\"english\" style=\"margin-left: 400px;\"");
 			
 			var useVertical = document.getElementById('verticalCheckbox').checked;
 			if (useVertical == true)
