@@ -5528,7 +5528,7 @@ input[type='range']::-ms-thumb {
 		function isDigit(thisCharacter)
 		{
 			// 8點
-			if (contains("1234567890", thisCharacter))
+			if (contains("1234567890-", thisCharacter))
 			{
 				return true;
 			} else {
@@ -5560,7 +5560,7 @@ input[type='range']::-ms-thumb {
 		{
 			//debugLog("isEnglish(" + thisCharacter + ")");
 
-			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-āáǎàăĀÁǍÀēéěèĒÉĚÈīíǐìĪÍǏÌōóǒòŌÓǑÒŏūúǔùŪÚǓÙŭ";
+			var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890-āáǎàăĀÁǍÀēéěèĒÉĚÈīíǐìĪÍǏÌōóǒòŌÓǑÒŏūúǔùŪÚǓÙŭ[]";
 			
 			if (contains(alphabet, thisCharacter) == true)
 			{
@@ -9990,6 +9990,13 @@ input[type='range']::-ms-thumb {
 			document.getElementById("outputHtml").innerHTML = outputHtml;
 			
 			outputText = replaceChars(outputText, "	", "  ");
+			
+			// If we want plain alternating lines
+			if ((QueryString.textPlain != "") && (QueryString.textPlain != undefined))
+			{
+				outputText = alternateTwo(document.getElementById("chineseTextArea").value, englishText);
+			}
+			
 			document.getElementById("outputTextArea").value = outputText;
 			
 			if (commonWords != "")
@@ -10029,6 +10036,28 @@ input[type='range']::-ms-thumb {
 			}
 
 		} // end function translateInterface
+
+		function alternateTwo(firstText, secondText)
+		{		
+			var outputText = "";			
+			
+			var firstArray = firstText.split("\n");
+			var secondArray = secondText.split("\n");
+			
+			var numberLines = firstArray.length;
+			
+			for (var currentLine = 0; currentLine < numberLines; currentLine++)
+			{
+				var firstLine = firstArray[currentLine];
+				var secondLine = secondArray[currentLine];
+				
+				outputText = outputText + firstLine + "\n" + secondLine + "\n" + "\n";
+							
+			} // end for every line
+			
+			return outputText;
+			
+		} // end function alternateTwo
 
 		function translateHtml()
 		{
@@ -10793,7 +10822,7 @@ input[type='range']::-ms-thumb {
 				//var numberCharacters = thisChineseLine.length;
 				var lastWasNotChinese = false;
 				var spacedChineseLine = "";
-				
+								
 				var lineIsEnglish = true;
 				
 				// Skip non-Chinese character
@@ -10849,8 +10878,10 @@ input[type='range']::-ms-thumb {
 
 							 //var thisCharacter = thisChineseLine[currentCharacter];
 							 var thisCharacter = thisChineseLineArray[currentCharacter];
-							 							 
-							 if ((isChinese(thisCharacter) == false) && (isDigit(thisCharacter) == false))
+							 
+							 
+							 //if ((isChinese(thisCharacter) == false) && (isDigit(thisCharacter) == false))
+							 if ((isChinese(thisCharacter) == false) && (isDigit(thisCharacter) == false) && (thisCharacter != "-") && (thisCharacter != "["))
 							 {
 							 
 							 	 //console.log(thisCharacter + " is not chinese");
@@ -10884,6 +10915,7 @@ input[type='range']::-ms-thumb {
 								 //lastWasNotChinese = false;
 							
 								 var inDictionary = false;
+
 								 //console.log("breakMissingWords = " + breakMissingWords);
 								 if (breakMissingWords == false)
 								 {
@@ -10907,7 +10939,8 @@ input[type='range']::-ms-thumb {
 								 //if (inDictionary == false)
 								 //{
 								 	if (stringLength(thisWord) == 1)
-								 	{
+								 	{								 		
+ 								 		
  								 		if (isEmoji(thisCharacter) == true)
 								 		{
 							 				//console.log(thisCharacter + " is emoji");
@@ -10919,10 +10952,15 @@ input[type='range']::-ms-thumb {
 
 								if (isDigitsString(thisWord) == true)
 								{
-									inDictionary = true;
+									inDictionary = false;
 								}
-								
-								 								 
+
+								if (isEnglishString(thisWord) == true)
+								{
+									inDictionary = false;
+								}
+
+																 								 
 								 //if (contains(longWords, " " + thisWord) == true)
 								 if (inDictionary == true)
 								 {
@@ -10940,14 +10978,15 @@ input[type='range']::-ms-thumb {
 					
 						 } // end for every word length
 						 
+						 //console.log("thisWord = " + thisWord);
 						 //console.log("wordFound = " + wordFound);
-				
+								
 						 // If the word is not found, just use the character
 						 if (wordFound == false)
 						 {
 							 //var thisCharacter = thisChineseLine[currentCharacter];
 							 var thisCharacter = thisChineseLineArray[currentCharacter];
-					
+							
 							 if (isChinese(thisCharacter) == false)
 							 {
 								 // Don't add spaces between non-Chinese characters
@@ -10956,7 +10995,7 @@ input[type='range']::-ms-thumb {
 								 lastWasNotChinese = true;
 						
 							 } else {
-						
+								
 								 // Add a space if we're back to parsing Chinese
 								 if (lastWasNotChinese == true)
 								 {
@@ -10969,6 +11008,8 @@ input[type='range']::-ms-thumb {
 							 } // end if this character is not Chinese
 					
 						 } else {
+						 
+						 	//console.log("thisWord = " + thisWord);
 
 							 // Add a space if we're back to parsing Chinese
 							 if (lastWasNotChinese == true)
@@ -10978,7 +11019,7 @@ input[type='range']::-ms-thumb {
 							 }
 
 							 spacedChineseLine = spacedChineseLine + thisWord + " ";
-
+							
 						 } // end if the word was not found
 								
 						
@@ -10989,9 +11030,7 @@ input[type='range']::-ms-thumb {
 				} // end if the line is English
 				
 			} // end for every line
-			
-			//console.log(spacedChinese);
-			
+						
 			var spacedLines = "";
 		   
 			var spacedChineseLines = spacedChinese.split("\n");
